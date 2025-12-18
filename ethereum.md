@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-18T07:56:54.065845+00:00'
+updated: '2025-12-18T08:36:49.737186+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 07:56 UTC  
+**Last Updated:** December 18, 2025 at 08:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,37 +36,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,828.00
+### $2,844.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** -7.9%  
-**30d:** -6.2%  
-**90d:** -36.7%  
-**1y:** -17.1%  
+**24h:** -2.8%  
+**7d:** -7.6%  
+**30d:** -5.8%  
+**90d:** -36.4%  
+**1y:** -16.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $342.21B
+**Market Cap:** $343.39B
 Rank #2
 
 **Circulating Supply:** 120,695,059 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.7%
+-42.5%
 
 **All-Time Low:** $0.43
-+654961.8%
++657035.8%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion December 18, 2025](https://www.reddit.com/r/ethereum/comments/1ppjfwn/daily_general_discussion_december_18_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2h ago
+
+---
 
 **[Is Tornado Cash still the best mixer?](https://www.reddit.com/r/ethereum/comments/1ppejqa/is_tornado_cash_still_the_best_mixer/)**
 
@@ -76,17 +84,17 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ---
 
-**[Daily General Discussion December 18, 2025](https://www.reddit.com/r/ethereum/comments/1ppjfwn/daily_general_discussion_december_18_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1h ago
-
----
-
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
 🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 8h ago
+
+---
+
+**[how come im receiving small amounts of eth back after robinhood deposits](https://www.reddit.com/r/ethereum/comments/1ppkedu/how_come_im_receiving_small_amounts_of_eth_back/)**
+
+so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
+
+1h ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
 
-16h ago
+17h ago
 
 ---
 
@@ -106,17 +114,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[how come im receiving small amounts of eth back after robinhood deposits](https://www.reddit.com/r/ethereum/comments/1ppkedu/how_come_im_receiving_small_amounts_of_eth_back/)**
-
-so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
-
-58m ago
-
----
-
 **[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
 
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 16h ago
+🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 17h ago
 
 ---
 
@@ -148,11 +148,11 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfXSMAPxfp_n8nTSnqkQPg-22s99DLBuuERIO-1tX07cLXhNS1z6GmE&gaa_ts=6943b108&gaa_sig=l9a3UWdMT_ii28ULnBk61KYZ1KCdP433Lw6g2AvT5U9pKEphLPuCLCdLRyQKQjETEog29xycszrXlPH0X5xXUQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdhH5yGrp6wZMay_84jFCZawqtElHNdO7XGY7JIEuosmvaTkQGcsDHi&gaa_ts=6943c08f&gaa_sig=ZxdsO9J-JPyBoj-JPwNbvNWwVeDowhAd1PO1lVrOv9ey5eiQFGeVH3bAE9PHLfS-Pz0JKp_oXgBi-cJ3zHQF1Q%3D%3D)**
 
 Barron's • 1d ago
 
@@ -182,19 +182,19 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Ethereum Price Nears Possible Breakdown — Yet A Bounce Hope Emerges](https://finance.yahoo.com/news/ethereum-price-nears-possible-breakdown-080000304.html)**
+
+Ethereum price shows early rebound signs, but key on-chain levels warn downside risk remains close, just 1% away from.
+
+Yahoo Finance • 36m ago
+
+---
+
 **[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
 
 Is Ethereum really on the path to a price of $62,000 next year?
 
 The Motley Fool • 20h ago
-
----
-
-**[Bitcoin Vs. Ethereum Performance Divergence and What It Signals for Investors](https://www.investing.com/analysis/bitcoin-vs-ethereum-performance-divergence-and-what-it-signals-for-investors-200671953)**
-
-Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
-
-Investing.com • 22h ago
 
 ---
 
@@ -204,9 +204,9 @@ CCN.com • 1d ago
 
 ---
 
-**[Tom Lee buys $300m Ethereum as JP Morgan debuts tokenised fund on the network](https://finance.yahoo.com/news/tom-lee-buys-300m-ethereum-112958803.html)**
+**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
 
-Bitmine now owns 3.2% of Ethereum’s circulating supply. JP Morgan debuts its first-ever tokenised money market fund on Ethereum.
+Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
 Yahoo Finance • 1d ago
 
@@ -230,7 +230,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 8K • 👍 447 • 💬 195 • ⏱️ 33:33 • 15h ago
+👁️ 9K • 👍 471 • 💬 200 • ⏱️ 33:33 • 16h ago
 
 ---
 
@@ -240,7 +240,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 352 • 💬 65 • ⏱️ 11:01 • 1d ago
+👁️ 7K • 👍 356 • 💬 65 • ⏱️ 11:01 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 302 • 💬 68 • ⏱️ 20:34 • 16h ago
+👁️ 11K • 👍 317 • 💬 68 • ⏱️ 20:34 • 17h ago
 
 ---
 
@@ -260,17 +260,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 628 • 👍 31 • 💬 72 • ⏱️ 11:07 • 13h ago
-
----
-
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
-
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
-
-📺 Thomas Kralow
-
-👁️ 21K • 👍 3K • 💬 47 • ⏱️ 7:49 • 1d ago
+👁️ 676 • 👍 32 • 💬 71 • ⏱️ 11:07 • 14h ago
 
 ---
 
@@ -280,7 +270,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 186 • 💬 45 • ⏱️ 8:42 • 1d ago
+👁️ 4K • 👍 186 • 💬 48 • ⏱️ 8:42 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
+
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
+
+📺 Thomas Kralow
+
+👁️ 22K • 👍 3K • 💬 46 • ⏱️ 7:49 • 1d ago
 
 ---
 
@@ -294,23 +294,13 @@ THINGS HAVE CHANGED FOR CRYPTO HODLERS (Bitcoin, Eth, Solana) Start Trading on P
 
 ---
 
-**[CRYPTO LIVE TRADING || 18 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=VvuLQd0bfYo)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 735 • 3h ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=f7OwaX9MfAQ)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 124 • 💬 6 • ⏱️ 4:45 • 16h ago
+👁️ 3K • 👍 127 • 💬 2 • ⏱️ 4:45 • 16h ago
 
 ---
 
@@ -321,6 +311,16 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 📺 Crypto With James
 
 👁️ 4K • 👍 255 • 💬 68 • ⏱️ 10:03 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. SO gehts weiter für Bitcoin!! WO ist DAS bullisch?](https://www.youtube.com/watch?v=yFK6ILKNzKU)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 581 • 💬 132 • ⏱️ 12:21 • 2h ago
 
 ---
 

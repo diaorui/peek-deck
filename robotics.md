@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T07:56:54.069121+00:00'
+updated: '2025-12-18T08:36:49.740373+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 07:56 UTC  
+**Last Updated:** December 18, 2025 at 08:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
-14h ago
+15h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 A massive leap for microrobotics just dropped. Researchers at the University of Pennsylvania and University of Michigan have officially unveiled the world's smallest fully programmable, autonomous robot. The Scale: Dimensions: ~200 x 300 x 50 micrometers (Smaller than a grain of salt). Comparison: It is roughly the size of a Paramecium. The image shows it floating next to the year on a standard US Penny. The Tech Stack (Why this is a big deal): Unlike previous "nanobots" that were just magnetic particles pushed around by external magnets, these are true robots: Onboard Brain: It carries a microscopic computer (processor + memory) to receive/store instructions. Sensors: It can independently sense environment variables (like temperature) and adjust its path. Power: It runs on 75 nanowatts, powered by tiny on-board solar cells (light-powered). How it Moves (No Moving Parts): At this scale, water feels like thick syrup (low Reynolds number). Propellers don't work well. Mechanism: It uses Electrokinetic Propulsion. It generates an onboard electric field that pushes ions in the surrounding water, creating a flow that drives the robot forward. Speed: Up to 1 body length per second. Manufacturability: Because they are built using standard semiconductor (CMOS) processes, they can be mass-produced on wafers. The estimated cost is roughly 1 penny per robot. Source: Robotics & Automation/ Penn Engineering Images-sources: 1,2 : A microrobot, fully integrated with sensors and a computer, small enough to balance on the ridge of a fingerprint.(Credits: Penn) 3: A projected timelapse of tracer particle trajectories near a robot consisting of three motors tied together.. (Credit: University of Pennsylvania) 4: The robot has a complete onboard computer, which allows it to receive and follow instructions autonomously. (Miskin Lab and Blaauw Lab) 5: The final stages of microrobot fabrication deploy hundreds of robots all at once. The tiny machines can then be programmed individually or en masse to carry out experiments. (Credit: University of Pennsylvania)
 
-23h ago
+1d ago
 
 ---
 
 **[Too many](https://www.reddit.com/r/robotics/comments/1ppkoel/too_many/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-10h ago
+11h ago
 
 ---
 
@@ -132,7 +132,7 @@ NASA (.gov) • 1d ago
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Atlantic • 14h ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -180,15 +180,15 @@ Seeking Alpha • 1d ago
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
-navalnews.com • 22h ago
+navalnews.com • 23h ago
 
 ---
 
-**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+**[This Robotics ETF Is Poised for 400% Growth in the Next 10 Years](https://www.fool.com/investing/2025/12/14/this-robotics-etf-is-poised-for-x-growth-in-the-ne/)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+The robotics business is at a turning point, finally integrating artificial intelligence's full potential into moving machinery.
 
-Fortune • 1d ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -202,7 +202,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 66K • 👍 940 • 💬 140 • ⏱️ 11:23 • 2d ago
+👁️ 67K • 👍 942 • 💬 139 • ⏱️ 11:23 • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 722 • 💬 115 • ⏱️ 6:41 • 3d ago
+👁️ 30K • 👍 724 • 💬 115 • ⏱️ 6:41 • 3d ago
 
 ---
 
@@ -232,7 +232,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 20K • 👍 2K • 💬 48 • ⏱️ 1:38 • 1d ago
+👁️ 21K • 👍 2K • 💬 50 • ⏱️ 1:38 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 378K • 👍 13K • 💬 415 • ⏱️ 0:34 • 3d ago
+👁️ 380K • 👍 13K • 💬 420 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -262,13 +262,23 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 ---
 
+**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
+
+GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
+
+📺 Gen Women AI
+
+👁️ 94K • 👍 929 • 💬 20 • ⏱️ 0:09 • 5d ago
+
+---
+
 **[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
 
 Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
 
 📺 RICHLEV
 
-👁️ 184K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
+👁️ 185K • 👍 4K • 💬 1K • ⏱️ 17:05 • 3d ago
 
 ---
 
@@ -278,17 +288,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 312 • 💬 30 • ⏱️ 1:05 • 2d ago
-
----
-
-**[Maintenance Surprise: Humanoid Robot Dances After Exam! #CyborgTech](https://www.youtube.com/watch?v=F3HnmXXxbSo)**
-
-Witness an unexpected moment in robotics! A skilled technician completes a routine exam on a stunning female humanoid robot, ...
-
-📺 Ai Gen Leap
-
-👁️ 17K • 👍 87 • 💬 1 • ⏱️ 0:12 • 21h ago
+👁️ 33K • 👍 312 • 💬 30 • ⏱️ 1:05 • 2d ago
 
 ---
 
