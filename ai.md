@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T09:54:08.422566+00:00'
+updated: '2025-12-18T10:21:45.031952+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 09:54 UTC  
+**Last Updated:** December 18, 2025 at 10:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 18h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 10h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 11h ago
 
 ---
 
@@ -85,11 +85,25 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 ---
 
+**[Writing prompts made me a better explainer](https://www.reddit.com/r/artificial/comments/1ppn7fz/writing_prompts_made_me_a_better_explainer/)**
+
+I think I noticed that, relying on llms might have reduced certain aspects of my intelligence. But forcing myself to explain to the jagged intelligence of LLM what I truly means seems to have also translated to better communicating my thoughts to other humans. Do you have a similar or perhaps opposite experience ?
+
+16m ago
+
+---
+
+**[I just met Qwen AI. ChatGPT, DeepSeek, Claude, Gemini, Perplexity, and Grok weigh in.](https://www.reddit.com/r/artificial/comments/1ppn2wt/i_just_met_qwen_ai_chatgpt_deepseek_claude_gemini/)**
+
+24m ago
+
+---
+
 **[Exclusive: Palantir alums using AI to streamline patent filing secure $20 million in Series A venture funding](https://www.reddit.com/r/artificial/comments/1ppmb11/exclusive_palantir_alums_using_ai_to_streamline/)**
 
 Founded by Palantir alums Tamar Gomez and Wiem Gharbi, the company counts L’Oréal and Vorys among its early customers.
 
-🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 49m ago
+🔗 [Fortune](https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/) • 1h ago
 
 ---
 
@@ -97,29 +111,21 @@ Founded by Palantir alums Tamar Gomez and Wiem Gharbi, the company counts L’Or
 
 HY-World 1.5 has open-sourced a comprehensive training framework for real-time world models, covering the entire pipeline and all stages, including data, training, and inference deployment. Tl;DR: HY-World 1.5 is an AI system that generates interactive 3D video environments in real-time, allowing users to explore virtual worlds at 24 frames per second. The model shows strong generalization across diverse scenes, supporting first-person and third-person perspectives in both real-world and stylized environments, enabling versatile applications such as 3D reconstruction, promptable events, and infinite world extension. Abstract: While HunyuanWorld 1.0 is capable of generating immersive and traversable 3D worlds, it relies on a lengthy offline generation process and lacks real-time interaction. HY-World 1.5 bridges this gap with WorldPlay, a streaming video diffusion model that enables real-time, interactive world modeling with long-term geometric consistency, resolving the trade-off between speed and memory that limits current methods. Our model draws power from four key designs: - (1) We use a Dual Action Representation to enable robust action control in response to the user's keyboard and mouse inputs. - (2) To enforce long-term consistency, our Reconstituted Context Memory dynamically rebuilds context from past frames and uses temporal reframing to keep geometrically important but long-past frames accessible, effectively alleviating memory attenuation. - (3) We design WorldCompass, a novel Reinforcement Learning (RL) post-training framework designed to directly improve the action-following and visual quality of the long-horizon, autoregressive video model. - (4) We also propose Context Forcing, a novel distillation method designed for memory-aware models. Aligning memory context between the teacher and student preserves the student's capacity to use long-range information, enabling real-time speeds while preventing error drift. Taken together, HY-World 1.5 generates long-horizon streaming video at 24 FPS with superior consistency, comparing favorably with existing techniques. Layman's Explanation: The main breakthrough is solving a common issue where fast AI models tend to "forget" details, causing scenery to glitch or shift when a user returns to a previously visited location. To fix this, the system uses a dual control scheme that translates simple keyboard inputs into precise camera coordinates, ensuring the model tracks exactly where the user is located. It relies on a "Reconstituted Context Memory" that actively retrieves important images from the past and processes them as if they were recent, preventing the environment from fading or distorting over time. The system is further refined through a reward-based learning process called WorldCompass that corrects errors in visual quality or movement, effectively teaching the AI to follow user commands more strictly. Finally, a technique called Context Forcing trains a faster, efficient version of the model to mimic a slower, highly accurate "teacher" model, allowing the system to run smoothly without losing track of the environment's history. Link To Try Out HY-World 1.5: https://3d.hunyuan.tencent.com/sceneTo3D Link to the Huggingface: https://huggingface.co/tencent/HY-WorldPlay Link to the GitHub: https://github.com/Tencent-Hunyuan/HY-WorldPlay Link to the Technical Report: https://3d-models.hunyuan.tencent.com/world/world1_5/HYWorld_1.5_Tech_Report.pdf
 
-4h ago
-
----
-
-**[Intel Video Processing Library adding AI assisted video encoder features](https://www.reddit.com/r/artificial/comments/1pplz7e/intel_video_processing_library_adding_ai_assisted/)**
-
-Intel's Video Processing Library 'libvpl' is out with a new version ahead of the holidays
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-libvpi-AI-Assisted-Encode) • 1h ago
-
----
-
-**[Is it okay that AI data centers are mostly being built in predominately poor communities?](https://www.reddit.com/r/artificial/comments/1ppljt8/is_it_okay_that_ai_data_centers_are_mostly_being/)**
-
-The people of Memphis already suffer health problems due to pollution. Is it okay that there is now a new gigantic source of smog in their home?
-
-🔗 [tiktok.com](https://www.tiktok.com/t/ZTrsmVoRA/) • 1h ago
+5h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Third of UK citizens have used AI for emotional support, research reveals](https://www.theguardian.com/technology/2025/dec/18/artificial-intelligence-uk-emotional-support-research)**
+
+AI Security Institute report finds most common type of AI tech used was general purpose assistants such as ChatGPT and Amazon Alexa
+
+The Guardian • 1h ago
+
+---
 
 **[AI fuels blue-collar productivity boom across manufacturing, Palantir technology chief tells Fox Business](https://www.foxbusiness.com/technology/ai-fuels-blue-collar-productivity-boom-across-manufacturing-palantir-technology-chief-tells-fox-business)**
 
@@ -129,47 +135,47 @@ Fox Business • 8h ago
 
 ---
 
-**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
-
-NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
-
-National Oceanic and Atmospheric Administration (NOAA) (.gov) • 18h ago
-
----
-
-**[Fake Minns, altered images and psyop theories: Bondi attack misinformation shows AI’s power to confuse](https://www.theguardian.com/australia-news/2025/dec/18/fake-minns-altered-images-and-psyop-theories-bondi-attack-misinformation-shows-ais-power-to-confuse-ntwnfb)**
-
-For now many fakes are easy to spot. But audiences could find it increasingly difficult to tell fact from fiction as tech improves
-
-The Guardian • 2h ago
-
----
-
 **[Meet the Politician the AI Industry Is Trying to Stop](https://www.bloomberg.com/news/articles/2025-12-18/why-the-ai-industry-is-trying-to-stop-the-alex-bores-campaign)**
 
 All eyes are on the race for New York's 12th congressional district.
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Questions swirl around Trump’s AI efforts | Letter](https://www.pressherald.com/2025/12/18/questions-swirl-around-trumps-ai-efforts-letter/)**
+**[Will Arm (ARM) China’s New AI Hub Clarify or Complicate Its Long-Term Monetization Story?](https://finance.yahoo.com/news/arm-arm-china-ai-hub-091808505.html)**
 
-Policy makers have a lot to consider on the president's artificial intelligence project.
+In recent days, Arm Holdings has faced sharply diverging analyst opinions on its long-term AI opportunity while its China unit announced a Hong Kong R&D centre focused on artificial intelligence and robotics from 2026. This mix of caution over Arm’s business model transition and fresh investment in AI-focused intellectual property is sharpening investor attention on how effectively the company can convert its architecture leadership into broader computing revenue. We’ll now look at how Arm...
 
-The Portland Press Herald • 54m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bosses Expect You to Know AI, Even If It's Not in Your Job Description](https://www.businessinsider.com/fewer-job-listings-mention-ai-still-important-2025-12)**
+
+Even as AI roles increase, mentions of the technology in job listings are down. It's a sign that bosses already expect you to use the technology.
+
+Business Insider • 12m ago
 
 ---
 
 **[Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
+
+---
+
+**[MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia](https://www.cnbc.com/2025/12/17/metax-moore-threads-chinese-rivals-nvidia-ai-chips.html)**
+
+New entrants like MetaX and Moore Threads join tech giants Huawei, Baidu and Alibaba in rushing to produce Nvidia alternatives.
+
+CNBC • 9h ago
 
 ---
 
 **[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -183,15 +189,7 @@ CNBC • 16h ago
 
 **[Amazon shakes up AI team as veteran Prasad leaves, DeSantis promoted](https://www.reuters.com/technology/amazon-taps-veteran-peter-desantis-lead-ai-chip-quantum-push-2025-12-17/)**
 
-Reuters • 13h ago
-
----
-
-**[Amazon Names New AI Chief Amid Battle to Take on Tech Rivals](https://finance.yahoo.com/news/amazon-names-ai-chief-amid-183011392.html)**
-
-Peter DeSantis will lead the new group, Amazon Chief Executive Officer Andy Jassy said Wednesday in a message to employees, which was also posted on the company’s corporate blog.  The new organization will combine Amazon’s Artificial General Intelligence team — which oversees the company’s Nova-branded AI models and the digital brains of the Alexa voice assistant — with Amazon’s chipmaking unit and quantum computing research.
-
-Yahoo Finance • 15h ago
+Reuters • 14h ago
 
 ---
 
@@ -203,7 +201,7 @@ Yahoo Finance • 15h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 916 • 💬 469 • 16h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 920 • 💬 475 • 17h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -215,7 +213,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 804 • 💬 408 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 806 • 💬 408 • 1d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -223,7 +221,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.
 
-⬆️ 539 • 💬 304 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 539 • 💬 306 • 1d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -237,7 +235,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 253 • 💬 143 • 15h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 258 • 💬 145 • 16h ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -245,7 +243,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 229 • 💬 168 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 230 • 💬 168 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -269,7 +267,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 126 • 💬 142 • 16h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 128 • 💬 142 • 17h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -323,7 +321,7 @@ Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where y
 
 📺 Wes Roth
 
-👁️ 52K • 👍 1K • 💬 516 • ⏱️ 23:58 • 23h ago
+👁️ 52K • 👍 1K • 💬 516 • ⏱️ 23:58 • 1d ago
 
 ---
 
@@ -333,7 +331,7 @@ Asmongold plays an AI Survivors-like game for the first time. ▻ Asmongold's Tw
 
 📺 Asmongold TV  
 
-👁️ 328K • 👍 9K • 💬 2K • ⏱️ 57:02 • 20h ago
+👁️ 328K • 👍 9K • 💬 2K • ⏱️ 57:02 • 21h ago
 
 ---
 
@@ -363,7 +361,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 11K • 👍 476 • 💬 53 • ⏱️ 27:34 • 18h ago
+👁️ 11K • 👍 476 • 💬 53 • ⏱️ 27:34 • 19h ago
 
 ---
 
@@ -373,7 +371,7 @@ This video invites you into a dreamlike ocean—a world that doesn't exist in re
 
 📺 Impossible AIs
 
-👁️ 27K • 👍 146 • 💬 22 • ⏱️ 8:01 • 19h ago
+👁️ 27K • 👍 146 • 💬 22 • ⏱️ 8:01 • 20h ago
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is a highly efficient text-to-image diffusion transformer model wi
 
 `text-to-image`
 
-⬇️ 296,552 • ❤️ 2,921 • 9d ago
+⬇️ 307,244 • ❤️ 2,922 • 9d ago
 
 ---
 
@@ -401,31 +399,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 323 • 12h ago
-
----
-
-**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
-
-*Microsoft*
-
-VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~300ms latency, supporting streaming input for robust long-form generation, ideal for live narration and LLM integration.
-
-`text-to-speech` `1.0B`
-
-⬇️ 158,614 • ❤️ 932 • 5d ago
-
----
-
-**[AutoGLM-Phone-9B](https://huggingface.co/zai-org/AutoGLM-Phone-9B)**
-
-*Z.ai*
-
-AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, enabling automated smartphone operations via ADB by understanding UI elements and executing natural language commands for task completion.
-
-`image-text-to-text` `934,400`
-
-⬇️ 51,591 • ❤️ 351 • 9d ago
+⬇️ 30,015 • ❤️ 324 • 13h ago
 
 ---
 
@@ -437,7 +411,19 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 0 • ❤️ 254 • 6h ago
+⬇️ 1,454 • ❤️ 255 • 7h ago
+
+---
+
+**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
+
+*Microsoft*
+
+VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model with ~300ms latency, supporting streaming input for robust long-form generation, ideal for live narration and LLM integration.
+
+`text-to-speech` `1.0B`
+
+⬇️ 171,608 • ❤️ 934 • 5d ago
 
 ---
 
@@ -453,27 +439,39 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 ---
 
-**[GLM-TTS](https://huggingface.co/zai-org/GLM-TTS)**
+**[Fun-CosyVoice3-0.5B-2512](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512)**
 
-*Z.ai*
+*FunAudioLLM*
 
-GLM-TTS is a controllable, zero-shot text-to-speech system that uses a two-stage LLM and Flow Matching architecture, enhanced by multi-reward reinforcement learning for expressive emotion control and high-quality synthesis. It supports voice cloning from short prompts and streaming inference for interactive applications.
+Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech (TTS) model supporting 9 languages and 18+ Chinese dialects, featuring zero-shot voice cloning, pronunciation inpainting, and bi-streaming for low-latency, high-quality audio generation.
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 230 • 1d ago
+⬇️ 113 • ❤️ 194 • 1d ago
 
 ---
 
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
+**[AutoGLM-Phone-9B](https://huggingface.co/zai-org/AutoGLM-Phone-9B)**
 
-*Mistral AI_*
+*Z.ai*
 
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM for software engineering tasks, excelling at codebase exploration and multi-file editing with a 256k context window and FP8 precision. It is ideal for AI code assistants and agentic coding use cases, capable of running locally on consumer hardware.
+AutoGLM-Phone-9B is a vision-language model for mobile intelligent assistance, enabling automated smartphone operations via ADB by understanding UI elements and executing natural language commands for task completion.
 
-`24.0B`
+`image-text-to-text` `934,400`
 
-⬇️ 28,106 • ❤️ 397 • 1d ago
+⬇️ 55,117 • ❤️ 351 • 9d ago
+
+---
+
+**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
+
+*Microsoft*
+
+TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation, supporting high-resolution generation up to 1536³.
+
+`image-to-3d`
+
+⬇️ 0 • ❤️ 182 • 1d ago
 
 ---
 
@@ -487,15 +485,15 @@ Qwen-Image-i2L models generate LoRA weights from input images for style transfer
 
 ---
 
-**[GLM-4.6V-Flash](https://huggingface.co/zai-org/GLM-4.6V-Flash)**
+**[circuit-sparsity](https://huggingface.co/openai/circuit-sparsity)**
 
-*Z.ai*
+*OpenAI*
 
-GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved content generation. It excels at multimodal document understanding, frontend replication, and low-latency applications.
+This model, 'circuit-sparsity', is a sparse language model implementation from Gao et al. 2025, specifically designed for tasks like bracket counting and variable binding, offering qualitative results from the paper.
 
-`image-text-to-text` `10.3B`
+`text-generation` `419.1M`
 
-⬇️ 102,395 • ❤️ 477 • 8d ago
+⬇️ 965 • ❤️ 160 • 6d ago
 
 ---
 
@@ -644,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.5k • 🔱 2.7k • 1h ago
+⭐ 17.5k • 🔱 2.7k • 2h ago
 
 ---
 
@@ -674,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.6k • 🔱 120 • 55m ago
+⭐ 1.6k • 🔱 120 • 1h ago
 
 ---
 
@@ -694,7 +692,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 139 • 11h ago
+⭐ 1.1k • 🔱 139 • 12h ago
 
 ---
 
@@ -734,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 777 • 🔱 115 • 18h ago
+⭐ 777 • 🔱 115 • 19h ago
 
 ---
 
