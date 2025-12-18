@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T04:50:46.246445+00:00'
+updated: '2025-12-18T05:13:36.208655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 04:50 UTC  
+**Last Updated:** December 18, 2025 at 05:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We spend a lot of time debating AGI and the "Left Shift" in software. But as this video proves, the "Physical Shift" is a much harder engineering problem. This is a perfect example of Moravec’s Paradox: High-level reasoning (coding, writing, math) requires surprisingly little computation. Low-level motor skills (walking, balance, not face-planting) require massive computational power. The Economic Reality Check: While our digital agents are getting smarter by the week, the "Core Economy"—construction, logistics, and elder care—is still bound by physics. We aren't just waiting for better software; we are waiting for better actuators, batteries, and sensor fusion. The Verdict: The "Terminator" future is on hold... at least until the next firmware update. For now, enjoy the bloopers. Robotics #AI #MoravecsParadox #FutureOfWork #Engineering Post link
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ A massive leap for microrobotics just dropped. Researchers at the University of 
 
 On scaling humanoid generalists from https://www.youtube.com/watch?v=SRZ9E48B6aM Just watched the Boston Dynamics tech talk on The Humanoid Mission in Manufacturing. One slide frames the roadmap as a gradual compression of layers, where classical perception, planning, manipulation, and control are absorbed into more unified end to end models. What stood out to me is that this suggests classical and optimization based control may be progressively replaced rather than simply augmented. Given that direction, is it still worth investing heavily in classical or optimization based control research for handling physics, contact, and stability underneath, or do people expect those responsibilities to eventually be fully learned by VLM or VLA style models? Curious how others here think about this tradeoff, especially in the context of balance and contact heavy manufacturing tasks.
 
-7h ago
+8h ago
 
 ---
 
@@ -118,7 +118,7 @@ From Ilir Aliu - eu/acc on 𝕏: https://x.com/IlirAliu_/status/2000642669392048
 
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -158,7 +158,7 @@ The Atlantic • 11h ago
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
@@ -288,7 +288,7 @@ Witness an unexpected moment in robotics! A skilled technician completes a routi
 
 📺 Ai Gen Leap
 
-👁️ 15K • 👍 78 • 💬 1 • ⏱️ 0:12 • 18h ago
+👁️ 15K • 👍 78 • 💬 1 • ⏱️ 0:12 • 19h ago
 
 ---
 

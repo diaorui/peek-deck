@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-18T04:50:46.237101+00:00'
+updated: '2025-12-18T05:13:36.199267+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 18, 2025 at 04:50 UTC  
+**Last Updated:** December 18, 2025 at 05:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -3.8%  
-**30d:** -4.8%  
-**90d:** -25.0%  
-**1y:** -10.9%  
+**24h:** +0.0%  
+**7d:** -4.0%  
+**30d:** -5.0%  
+**90d:** -25.2%  
+**1y:** -11.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Come on..](https://www.reddit.com/r/Bitcoin/comments/1pp6jkf/come_on/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Dca time!! Dont buy at 130k!
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin is king for a reason.](https://www.reddit.com/r/Bitcoin/comments/1pp1ysb/bitcoin_is_king_for_a_reason/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ Dca time!! Dont buy at 130k!
 
 Which will you choose? 100 $BTC now or go back to 2010 with $100 in your wallet?
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 **[its coming...](https://www.reddit.com/r/Bitcoin/comments/1pp0ie3/its_coming/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -135,7 +135,7 @@ Timeframe is the last 24 hours (up to ~7:12 pm EST / 00:12 GMT). The chart inclu
 
 Medium term holder 5+ years. I'm seeing so many posts with folks showing technical analysis and memes. Lots of panicky posts by new folks seeing price drops for the first time. Next, other posts of people worshipping QE and other monetary instruments that end up driving up asset prices and make cost of living brutal. This is my second bear market and here are my tips: 1) Treat Bitcoin like a long term, high volatility asset. If you DCA, give yourself 8-10 years. If you lump sum invest, your best bet is during bear cycles anytime between May to October. We are in a bear cycle now. 2) Is the 4 year cycle broken? It's irrelevant because your timeline should be long enough to see sustained gains unless there is a major recession. 3) Selling is normal and fiat does not suckkkkk. Yes, you heard that. You need money to eat, live, and buy things like homes, cars, tuition, and weddings. Bitcoin is an investment that helps. 4) Gold and diversified stocks matter as well. Bitcoin ideally should be 10% of a portfolio and that's also assuming you are comfortable with risk. 5) No leverage and no life savings. Don't do either. Nobody other than gamblers or insiders. 6) Stop worrying about what whales or insiders do. They have existed and will exist and will outleverage and outfinesse you in all scenarios as well.
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ Medium term holder 5+ years. I'm seeing so many posts with folks showing technic
 
 Everyone needs to chill and stack sats
 
-7h ago
+8h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Will Plummet to $10,000, Bloomberg Analyst Predicts — Is It Likely?](https://www.ccn.com/news/crypto/bitcoin-will-plummet-bloomberg-analyst-predicts-likely/)**
 
-CCN.com • 14h ago
+CCN.com • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ CCN.com • 14h ago
 
 Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’
 
-Financial Times • 2d ago
+Financial Times • 3d ago
 
 ---
 
@@ -209,7 +209,7 @@ The Information • 8h ago
 
 **[Hut 8 Surges As Ex-Bitcoin Miner Gets Anthropic Deal, Google Backstop](https://www.investors.com/news/hut-8-stock-bitcoin-miner-anthropic-deal-google-backstop/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -261,7 +261,7 @@ Back in 2014, I gave a talk at UCLA about the future of money that’s funny to 
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 7h ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 8h ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 2K • 💬 135 • ⏱️ 19:03 • 4h ago
+👁️ 15K • 👍 2K • 💬 135 • ⏱️ 19:03 • 5h ago
 
 ---
 
@@ -299,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 782 • 💬 202 • ⏱️ 8:31 • 3h ago
+👁️ 10K • 👍 782 • 💬 202 • ⏱️ 8:31 • 4h ago
 
 ---
 
@@ -319,7 +319,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 313 • 💬 95 • ⏱️ 9:12 • 9h ago
+👁️ 5K • 👍 313 • 💬 95 • ⏱️ 9:12 • 10h ago
 
 ---
 
@@ -359,7 +359,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 11K • 👍 794 • 💬 115 • ⏱️ 8:45 • 11h ago
+👁️ 11K • 👍 794 • 💬 115 • ⏱️ 8:45 • 12h ago
 
 ---
 

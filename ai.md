@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T04:50:46.228545+00:00'
+updated: '2025-12-18T05:13:36.190648+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 04:50 UTC  
+**Last Updated:** December 18, 2025 at 05:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 13h ago
+🔗 [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ It's a seductive distraction from the advances in AI that are most likely to imp
 
 Google’s Gemini 3 family is now complete with release of Gemini 3 Flash.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ School districts from Utah to Ohio to Alabama are spending thousands of dollars 
 
 I am relatively new to this group and based on my limited interaction, feeling quite bit of AI sceptism and fatigue here. I expected to meet industry insiders and members who are excited about hearing new developments or ideas about AI, but its not even close. I understand LLMs have many inherent flaws and limitations and there have been many snakes oil salesmen (I was accused being one:) but why such an overall negative view. On my part I always shared my methodology, results of my work, prompts & answers and even links for members to test for themselves, I did not ask money, but was hoping to find like minded people who might be interested in joining as co-founders, I know better now:) This is not to whine, I am just trying to understand this negative AI sentiment here, maybe I am wrong, help me to understand
 
-16h ago
+17h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am relatively new to this group and based on my limited interaction, feeling q
 
 What happens when AI stops being a screen and starts interacting like a real person? In this video, we deployed Aexa's HoloConnect AI inside a crepe restaurant, where it interacted naturally with a real customer in real time. No scripts. No gimmicks. Just human-like conversation, vision, and voice, running in a real-world environment. This is not a chatbot. This is AI with presence. Aexa's HoloConnect AI can: • See and hear like a human • Respond in real time • Interact naturally with customers • Operate without goggles or headsets • Run online or offline This is the future of hospitality, healthcare, retail, and enterprise AI, and it’s happening now. If you’ve ever wondered what AI in the real world actually looks like, this is it. Step into the future as we explore an interactive `3d hologram` display. This `futuristic screen` presents information through a responsive `hologram`, allowing users to quickly access `nutrition` details and learn to `read food labels` with ease. Experience a new way to engage with essential dietary information.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ What happens when AI stops being a screen and starts interacting like a real per
 
 Now you don't need to know any programming to launch a company. We've been approaching this moment for years.
 
-🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/new-startup-no-code-no-problem/) • 4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Now you don't need to know any programming to launch a company. We've been appro
 
 In our multi-step workflow where each step depended on the previous one’s output, problems we observed were silent errors: malformed JSON, missing fields, incorrect assumptions, etc. We added verification nodes between steps: check structure check schema check grounding retry or escalate if needed It turned the system from unpredictable to stable. It reminded me of how traditional systems use validation layers, but here the cost of skipping them compounds faster because each output becomes the next input. Anyone else tried adding checkpoints between AI-driven steps? What verification patterns worked for you?
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ In our multi-step workflow where each step depended on the previous one’s outp
 
 "An open-source 4B-parameter image-to-3D model producing up to 1536³ PBR textured assets, built on native 3D VAEs with 16× spatial compression, delivering efficient, scalable, high-fidelity asset generation."
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ Fox Business • 3h ago
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-National Oceanic and Atmospheric Administration (NOAA) (.gov) • 16h ago
+National Oceanic and Atmospheric Administration (NOAA) (.gov) • 17h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Motley Fool • 7h ago
 
 Each of these companies plays a critical role in the AI pipeline.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 1h ago
 
 **[Opinion | Trump Is Helping China Realize Its Dream of A.I. Dominance](https://www.nytimes.com/2025/12/17/opinion/trump-ai-chips-nvidia-china.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 2h ago
 
 Silicon Valley is racing to build a god — without understanding what makes a good one.
 
-Vox • 16h ago
+Vox • 17h ago
 
 ---
 
@@ -203,7 +203,7 @@ Vox • 16h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 826 • 💬 443 • 11h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 826 • 💬 443 • 12h ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -269,7 +269,7 @@ Engineering graduates face shrinking opportunities and rising pressure to upskil
 
 That's one way to get some publicity with Reddit.
 
-⬆️ 125 • 💬 137 • 11h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
+⬆️ 125 • 💬 137 • 12h ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
 
 ---
 
@@ -283,7 +283,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 22K • 👍 759 • 💬 38 • ⏱️ 11:44 • 22h ago
+👁️ 22K • 👍 759 • 💬 38 • ⏱️ 11:44 • 23h ago
 
 ---
 
@@ -323,7 +323,7 @@ Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where y
 
 📺 Wes Roth
 
-👁️ 49K • 👍 1K • 💬 505 • ⏱️ 23:58 • 18h ago
+👁️ 49K • 👍 1K • 💬 505 • ⏱️ 23:58 • 19h ago
 
 ---
 
@@ -401,7 +401,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 10,487 • ❤️ 314 • 7h ago
+⬇️ 10,487 • ❤️ 314 • 8h ago
 
 ---
 
@@ -694,7 +694,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 138 • 6h ago
+⭐ 1.1k • 🔱 138 • 7h ago
 
 ---
 
@@ -734,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 776 • 🔱 115 • 13h ago
+⭐ 776 • 🔱 115 • 14h ago
 
 ---
 
