@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T05:50:08.250019+00:00'
+updated: '2025-12-19T06:15:34.703363+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 05:50 UTC  
+**Last Updated:** December 19, 2025 at 06:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,15 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-14h ago
+15h ago
+
+---
+
+**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
+
+Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
+
+6h ago
 
 ---
 
@@ -74,7 +82,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-16h ago
+17h ago
 
 ---
 
@@ -94,19 +102,11 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 ---
 
-**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
-
-Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
-
-5h ago
-
----
-
 **[Been working on this spherical robot for the last few months and finally got the Sim2Real transfer working](https://www.reddit.com/r/robotics/comments/1pq4w97/been_working_on_this_spherical_robot_for_the_last/)**
 
 Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
 
-6h ago
+7h ago
 
 ---
 
@@ -130,14 +130,6 @@ Sourcing Journal • 2d ago
 
 ---
 
-**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
-
-Tech historians may look back on 2025 as a kind of trough in consumer robotics.
-
-CNN • 1d ago
-
----
-
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
 The New York Times • 2d ago
@@ -152,11 +144,19 @@ Los Angeles Times • 1d ago
 
 ---
 
+**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+
+Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+
+CNN • 1d ago
+
+---
+
 **[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 73K • 👍 979 • 💬 147 • ⏱️ 11:23 • 3d ago
+👁️ 73K • 👍 980 • 💬 147 • ⏱️ 11:23 • 3d ago
 
 ---
 
@@ -212,7 +212,17 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 16K • 👍 1K • 💬 164 • ⏱️ 13:43 • 14h ago
+👁️ 19K • 👍 2K • 💬 172 • ⏱️ 13:43 • 15h ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 294K • 👍 5K • 💬 496 • ⏱️ 26:54 • 4d ago
 
 ---
 
@@ -232,17 +242,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 24K • 👍 2K • 💬 54 • ⏱️ 1:38 • 2d ago
-
----
-
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 32K • 👍 313 • 💬 30 • ⏱️ 1:05 • 3d ago
+👁️ 24K • 👍 2K • 💬 55 • ⏱️ 1:38 • 2d ago
 
 ---
 
@@ -252,47 +252,47 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 416K • 👍 14K • 💬 454 • ⏱️ 0:34 • 4d ago
+👁️ 421K • 👍 14K • 💬 461 • ⏱️ 0:34 • 4d ago
 
 ---
 
-**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
-This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
 
-📺 DLLS Sports
+📺 CNET
 
-👁️ 23K • 👍 232 • 💬 25 • ⏱️ 0:14 • 1d ago
-
----
-
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 289K • 👍 5K • 💬 494 • ⏱️ 26:54 • 4d ago
+👁️ 32K • 👍 313 • 💬 31 • ⏱️ 1:05 • 3d ago
 
 ---
 
-**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
 
-Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
+Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
 
-📺 Catanimation
+📺 Associated Press
 
-👁️ 177K • 👍 2K • 💬 20 • ⏱️ 0:25 • 4d ago
+👁️ 27K • 👍 106 • 💬 44 • ⏱️ 1:26 • 6d ago
 
 ---
 
-**[This Robot will decide if I Graduate](https://www.youtube.com/watch?v=L8qSAampsHU)**
+**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
 
-Learn for free on Brilliant: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
 
-📺 Tazer
+📺 LIGHTS ARE OFF
 
-👁️ 67K • 👍 3K • 💬 148 • ⏱️ 23:20 • 3d ago
+👁️ 2.4M • 👍 90K • 💬 9K • ⏱️ 8:45 • 5d ago
+
+---
+
+**[Can my robot actually tidy my workbench?](https://www.youtube.com/watch?v=-fCMFoM0Bxk)**
+
+Shop Cleaning Robot - Part 4 ••• Building a robot to clean my workbench for me! The full video is already live, check the link in my ...
+
+📺 Engineezy
+
+👁️ 143K • 👍 3K • 💬 39 • ⏱️ 0:40 • 2d ago
 
 ---
 

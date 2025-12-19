@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T05:50:08.246748+00:00'
+updated: '2025-12-19T06:15:34.699990+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 05:50 UTC  
+**Last Updated:** December 19, 2025 at 06:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,927.25
+### $2,919.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
+**24h:** +3.0%  
 **7d:** -6.0%  
 **30d:** +3.0%  
 **90d:** -34.2%  
@@ -52,27 +52,35 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $351.70B
+**Market Cap:** $352.35B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.1%
+-41.0%
 
 **All-Time Low:** $0.43
-+672946.5%
++674013.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 19, 2025](https://www.reddit.com/r/ethereum/comments/1pqdmmk/daily_general_discussion_december_19_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+14m ago
+
+---
+
 **[Daily General Discussion December 18, 2025](https://www.reddit.com/r/ethereum/comments/1ppjfwn/daily_general_discussion_december_18_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +110,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-22h ago
+23h ago
 
 ---
 
@@ -116,7 +124,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -132,13 +140,7 @@ What is the current situation with using crypto mixers in the the US, UK and EU?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
-
----
-
-**[Real bottleneck to stablecoin adoption is the cost & quality of on/off ramps. Here is our 60-page report on stablecoin ramps, published under a grant from the Ethereum Foundation.](https://www.reddit.com/r/ethereum/comments/1poyvw4/real_bottleneck_to_stablecoin_adoption_is_the/)**
-
-🔗 [cms.bluechip.org](https://cms.bluechip.org/assets/817ea1df-4129-4dfc-9fd6-ee614e42493e) • 1d ago
+2d ago
 
 ---
 
@@ -146,9 +148,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqco236ifLiqlKtWvROHv-fDqEJiz8agisz9g1bDGhmpU4CWvegNBafM&gaa_ts=6944e729&gaa_sig=e-GIFcbnDWUP7evJhAbhzNjc6ekk8_7t2mpkB-J9WBWxMVn3ZHP71IR_nJsWIdLhGKv3zJFzEZekcNGOnNgTrA%3D%3D)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
 
-Barron's • 2d ago
+Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -158,27 +162,11 @@ The Block • 1d ago
 
 ---
 
-**[BTC Price News: Bitcoin, Ethereum, ADA Pop Higher as Japan Hikes Lift Asia Markets](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
-
-Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
-
-CoinDesk • 1h ago
-
----
-
 **[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://finance.yahoo.com/news/sofi-unveils-ethereum-stablecoin-trading-130103326.html)**
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Yahoo Finance • 16h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
-
-Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
-
-Yahoo Finance • 2d ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -200,7 +188,7 @@ CCN.com • 2d ago
 
 v
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -212,7 +200,21 @@ AMBCrypto • 7h ago
 
 **[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[Ethereum price loses $3,000 psychological support, raising capitulation risk](https://crypto.news/ethereum-price-loses-3k-support-capitulation-risk/)**
+
+Ethereum price breaks below the $3,000 psychological level and the point of control, increasing the risk of capitulation as bearish structure and downside liquidity.
+
+crypto.news • 15h ago
+
+---
+
+**[Large cryptocurrencies climb on Ethereum, Solana increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-solana-increases-042f94f1-f32f016f84c5?gaa_at=eafs&gaa_n=AWEtsqcsOSL0KltCeagXSaj1SBiZKaNDX1Pb9kfsxpeVbFhwgJ1Nz63ejEDB&gaa_ts=6944f0f0&gaa_sig=qNujp4uD_MT9jA3Eni7EaXSjTb4FB-uhRCxgMwBSu--jKRsQuWF-hehQ_L0lE01N6YmXavEU5iJoihrZRtH0aw%3D%3D)**
+
+MarketWatch • 15h ago
 
 ---
 
@@ -226,7 +228,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 312 • 💬 52 • ⏱️ 16:54 • 14h ago
+👁️ 8K • 👍 334 • 💬 47 • ⏱️ 16:54 • 15h ago
 
 ---
 
@@ -236,7 +238,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 39 • 💬 3 • ⏱️ 14:11 • 14h ago
+👁️ 1K • 👍 41 • 💬 3 • ⏱️ 14:11 • 15h ago
 
 ---
 
@@ -250,23 +252,13 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 ---
 
-**[BITCOIN &amp; ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=kpOqtrngqHY)**
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
-BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
 
-📺 Crypto World
+📺 Thomas Kralow
 
-👁️ 6K • 👍 297 • 💬 76 • ⏱️ 26:48 • 7h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jrOax5tgxdE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:17 • 16h ago
+👁️ 23K • 👍 3K • 💬 48 • ⏱️ 7:49 • 2d ago
 
 ---
 
@@ -276,17 +268,27 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 392 • 💬 74 • ⏱️ 20:34 • 1d ago
+👁️ 14K • 👍 394 • 💬 74 • ⏱️ 20:34 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jrOax5tgxdE)**
 
-These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Thomas Kralow
+📺 More Crypto Online
 
-👁️ 23K • 👍 3K • 💬 48 • ⏱️ 7:49 • 2d ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:17 • 17h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=meGMmlX91gs)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 134 • 💬 5 • ⏱️ 9:10 • 7h ago
 
 ---
 
@@ -300,6 +302,16 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
+**[BITCOIN &amp; ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=kpOqtrngqHY)**
+
+BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 319 • 💬 83 • ⏱️ 26:48 • 7h ago
+
+---
+
 **[ETH READY TO RALLY AGAIN?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=eL3F9PJCHyk)**
 
 ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
@@ -307,16 +319,6 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 📺 Cilinix Crypto
 
 👁️ 541 • 👍 22 • 💬 1 • ⏱️ 4:50 • 19h ago
-
----
-
-**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
-
-Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
-
-📺 Taiki Maeda
-
-👁️ 13K • 👍 582 • 💬 283 • ⏱️ 33:33 • 1d ago
 
 ---
 

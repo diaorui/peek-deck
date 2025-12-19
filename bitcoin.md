@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T05:50:08.240586+00:00'
+updated: '2025-12-19T06:15:34.693844+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 05:50 UTC  
+**Last Updated:** December 19, 2025 at 06:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,954.17
+### $87,083.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -3.6%  
-**30d:** -0.0%  
-**90d:** -24.6%  
-**1y:** -10.9%  
+**24h:** +0.4%  
+**7d:** -3.4%  
+**30d:** +0.2%  
+**90d:** -24.5%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1731.40B
+**Market Cap:** $1737.55B
 Rank #1
 
 **Circulating Supply:** 19,964,053 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.2%
+-31.0%
 
 **All-Time Low:** $67.81
-+127797.1%
++128251.3%
 
 ---
 
@@ -117,13 +117,21 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
 16h ago
+
+---
+
+**[So all this time....RE: Japan Interest Rates](https://www.reddit.com/r/Bitcoin/comments/1pq0fve/so_all_this_timere_japan_interest_rates/)**
+
+People would borrow money from Japan at a dirt low interest rate, then change that money to USD, Euro or whatever and then invest it, and hope the currency exchange stays close enough.... So now they are raising the rates to .75, which is TERRIBLE in Japan, but pretty much everywhere else in the world that would be a god-send. (I think Switzerland is only lower, but who knows how that works) Why am I just learning this now this is like the infinite money hack lol. Hopefully it was already priced in to the BTC price....
+
+10h ago
 
 ---
 
@@ -135,14 +143,6 @@ Bart Simpson incoming?
 
 ---
 
-**[Still too early for most people to take in.](https://www.reddit.com/r/Bitcoin/comments/1pq56yu/still_too_early_for_most_people_to_take_in/)**
-
-2008: Banks collapse, get $700 billion bailout, executives get bonuses 2009: Some anonymous cryptographer creates peer-to-peer money that can't be bailed out 2025: Those same banks call Bitcoin "dangerous to the financial system" Yeah..
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,7 @@ Bart Simpson incoming?
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -159,29 +159,37 @@ Bloomberg.com • 5h ago
 
 A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin Price Crashes to $84,000 – Is $70,000 Next?](https://bitcoinmagazine.com/markets/bitcoin-price-crashes-is-70000-next)**
+**[Prediction: Bitcoin Will Be Worth $250,000 in 5 Years](https://www.fool.com/investing/2025/12/19/prediction-bitcoin-will-be-worth-250000-in-5-years/)**
 
-The bitcoin price experienced two more aggressive dumps today, now trading near $84,500.
+Bitcoin's rate of growth may be slowing, but it's still on track to hit $250,000 by 2030.
 
-Bitcoin Magazine • 9h ago
+The Motley Fool • 38m ago
 
 ---
 
-**[BTC Price News: Bitcoin, Ethereum, ADA Pop Higher as Japan Hikes Lift Asia Markets](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
+**[What Happens to Bitcoin When Japan Raises Interest Rates](https://www.bitcoinsensus.com/news/bitcoin/what-happens-to-bitcoin-when-japan-raises-interest-rates)**
 
-Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
+Bitcoin dips below $85K as Japan prepares its biggest rate hike in 30 years, shaking global liquidity.
 
-CoinDesk • 1h ago
+Bitcoinsensus • 3h ago
 
 ---
 
 **[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
 
 The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
+
+CoinDesk • 2h ago
+
+---
+
+**[BTC Price News: Bitcoin, Ethereum, ADA Pop Higher as Japan Hikes Lift Asia Markets](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
+
+Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
 
 CoinDesk • 1h ago
 
@@ -195,29 +203,23 @@ Yahoo Finance • 20h ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqeLzGfX_qZvUA1cqZx62LHay5MvB4Ldp0mvCyCU71Hi-zfdN1KVuo5T&gaa_ts=6944e727&gaa_sig=ZFFkEklzalYjHfxJRJNQ3CBaEenK-pnjr0iyvEogm2BFsegXz8aGO2OSeW5Y79Zltvon1Kqemtkf6gbBd9Gl4Q%3D%3D)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqfDcCQRQSmcUCjMZZPfZrk8_yC3iE2Mq49oXBwYNjsfFbm1HAvf3gYn&gaa_ts=6944f0ef&gaa_sig=MWf79lCUtuYh0WXvUcDtBs4kms2jDzqVmhEgNgHSY2xlUrLPNRUhpKr_WXcOplhM0pYer8VN9ezcQvGYeLM3Aw%3D%3D)**
 
-Barron's • 19h ago
-
----
-
-**[Should You Forget Bitcoin and Buy MARA Holdings Instead?](https://www.fool.com/investing/2025/12/18/should-you-forget-bitcoin-and-buy-mara-holdings/)**
-
-Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
-
-The Motley Fool • 22h ago
+Barron's • 20h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqdSnWKrtImcm4W68NvwHx0-o-kHRkulptLD0bS82ZteUPnd4ISQ8DKB&gaa_ts=6944e727&gaa_sig=pe5LdXMiXu8MTu6C-dLPDslbSI6dNrA7sRUQqwqShMAMeKVxoAkC1PyqoU945WrXGk_6zGuaUy31cRWNBcvECA%3D%3D)**
+**[SEC Charges Bitcoin Miner for Duping Investors Out of $48.5 Million](https://bitcoinmagazine.com/news/sec-charges-bitcoin-miner-for-duping-investors-out-of-48-5-million)**
 
-The Wall Street Journal • 2d ago
+A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
+
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-thestreet.com • 1d ago
+The Block • 15h ago
 
 ---
 
@@ -245,7 +247,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 13h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 14h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -254,14 +256,6 @@ How much of a resource hog is AI?
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
 ⬆️ 2 • 💬 3 • 5d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
-
----
-
-**[How Newspapers Talked About Bitcoin in the Early 2010s](https://news.ycombinator.com/item?id=46241263)**
-
-Back in 2014, I gave a talk at UCLA about the future of money that’s funny to think about now. Well, technically it was about the  paleo -future of money. But the topic was particularly relevant in the early 2010s, given the fact that bitcoin was starting to enter the public consciousness after bein
-
-⬆️ 1 • 💬 1 • 6d ago • [Paleofuture](https://paleofuture.com/blog/2025/1/13/how-newspapers-talked-about-bitcoin-in-the-early-2010s)
 
 ---
 
@@ -299,7 +293,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 19h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -313,7 +307,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 94 • ⏱️ 16:50 • 7h ago
+👁️ 25K • 👍 1K • 💬 100 • ⏱️ 16:50 • 8h ago
 
 ---
 
@@ -323,7 +317,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 312 • 💬 12 • ⏱️ 9:21 • 13h ago
+👁️ 9K • 👍 334 • 💬 13 • ⏱️ 9:21 • 14h ago
 
 ---
 
@@ -333,17 +327,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 98 • ⏱️ 9:16 • 5h ago
-
----
-
-**[Bitcoin&#39;s Crash Isn&#39;t About The Fed It&#39;s Much Worse](https://www.youtube.com/watch?v=POJ00W6MzKI)**
-
-Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
-
-📺 Tim Talks Finance
-
-👁️ 6K • 👍 246 • 💬 84 • ⏱️ 14:32 • 12h ago
+👁️ 28K • 👍 2K • 💬 117 • ⏱️ 9:16 • 6h ago
 
 ---
 
@@ -353,27 +337,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 9K • 👍 701 • 💬 113 • ⏱️ 15:27 • 11h ago
-
----
-
-**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 1K • 💬 362 • ⏱️ 8:31 • 1d ago
-
----
-
-**[Tom Lee Calls for All-Time-Highs by January 2026](https://www.youtube.com/watch?v=y4mjJXZabCI)**
-
-After a rocky December, many investors are asking the same question: Did Bitcoin already top — or is the real move still ahead?
-
-📺 The Bitcoin Revolution
-
-👁️ 8K • 👍 141 • 💬 117 • ⏱️ 9:46 • 14h ago
+👁️ 10K • 👍 732 • 💬 117 • ⏱️ 15:27 • 12h ago
 
 ---
 
@@ -383,7 +347,47 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 215 • ⏱️ 19:03 • 1d ago
+👁️ 42K • 👍 3K • 💬 218 • ⏱️ 19:03 • 1d ago
+
+---
+
+**[Tom Lee Calls for All-Time-Highs by January 2026](https://www.youtube.com/watch?v=y4mjJXZabCI)**
+
+After a rocky December, many investors are asking the same question: Did Bitcoin already top — or is the real move still ahead?
+
+📺 The Bitcoin Revolution
+
+👁️ 9K • 👍 153 • 💬 121 • ⏱️ 9:46 • 15h ago
+
+---
+
+**[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 72K • 👍 4K • 💬 318 • ⏱️ 9:01 • 2d ago
+
+---
+
+**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 29K • 👍 1K • 💬 364 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Crash Isn&#39;t About The Fed It&#39;s Much Worse](https://www.youtube.com/watch?v=POJ00W6MzKI)**
+
+Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+
+📺 Tim Talks Finance
+
+👁️ 6K • 👍 260 • 💬 84 • ⏱️ 14:32 • 13h ago
 
 ---
 
@@ -393,17 +397,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 776 • 💬 25 • ⏱️ 21:23 • 1d ago
-
----
-
-**[What Michael Saylor Really Wants to Do With Bitcoin](https://www.youtube.com/watch?v=lEr_8unFln0)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 41K • 👍 2K • 💬 228 • ⏱️ 48:48 • 1d ago
+👁️ 19K • 👍 787 • 💬 25 • ⏱️ 21:23 • 1d ago
 
 ---
 
