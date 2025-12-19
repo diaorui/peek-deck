@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T19:37:54.505507+00:00'
+updated: '2025-12-19T19:49:16.722174+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 19:37 UTC  
+**Last Updated:** December 19, 2025 at 19:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
 
-🔗 [Business Insider](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 47m ago
+🔗 [Business Insider](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 59m ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 2h ago
 
 AI has sparked big questions around safety and ethics. OpenAI CEO Sam Altman shares his vision for AI's future and why he thinks the rewards outweigh the risks, live onstage with TED's Chris Anderson.
 
-NPR • 2h ago
+NPR • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ INVESTINGPRO - 55% Off + An EXTRA 15% Off WITH MY CODE ☑️ Use code NEWMONEY 
 
 📺 New Money
 
-👁️ 19K • 👍 1K • 💬 168 • ⏱️ 14:28 • 6h ago
+👁️ 19K • 👍 1K • 💬 168 • ⏱️ 14:28 • 7h ago
 
 ---
 
@@ -545,7 +545,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 58 • 💬 1 • ⭐ 544 • 3d ago
+▲ 58 • 💬 1 • ⭐ 565 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.8k • 🔱 508 • 1d ago
+⭐ 4.8k • 🔱 509 • 1d ago
 
 ---
 
@@ -675,7 +675,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 145 • 4h ago
+⭐ 2.1k • 🔱 146 • 4h ago
 
 ---
 

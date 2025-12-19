@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T19:37:54.520175+00:00'
+updated: '2025-12-19T19:49:16.736931+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 19:37 UTC  
+**Last Updated:** December 19, 2025 at 19:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.1%  
-**7d:** -3.8%  
-**30d:** +5.4%  
-**90d:** -32.6%  
-**1y:** -13.7%  
+**24h:** +6.7%  
+**7d:** -4.1%  
+**30d:** +5.1%  
+**90d:** -32.8%  
+**1y:** -13.9%  
 
 ---
 
@@ -164,7 +164,7 @@ Barron's • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -270,7 +270,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 287 • 👍 42 • ⏱️ 58:37 • 1h ago
+👁️ 287 • 👍 42 • ⏱️ 58:37 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T19:37:54.514072+00:00'
+updated: '2025-12-19T19:49:16.730558+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 19:37 UTC  
+**Last Updated:** December 19, 2025 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.9%  
-**7d:** -2.5%  
-**30d:** +1.1%  
-**90d:** -23.8%  
-**1y:** -10.0%  
+**24h:** +3.6%  
+**7d:** -2.8%  
+**30d:** +0.8%  
+**90d:** -24.0%  
+**1y:** -10.2%  
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-4h ago
+5h ago
 
 ---
 
 **[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 8h ago
 
 Hyundai Group evacuated staff from two Seoul offices after receiving a bomb threat email demanding bitcoin.
 
-Bitcoin Magazine • 31m ago
+Bitcoin Magazine • 43m ago
 
 ---
 
@@ -171,7 +171,7 @@ Bitcoin Magazine • 31m ago
 
 A new price model suggests that Bitcoin could rise as high as $1.4 million per coin by 2035, as a base case. The bull case is even higher.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 2h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin Magazine • 22h ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
@@ -295,7 +295,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46329328)**
 
-⬆️ 3 • 💬 1 • 54m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 3 • 💬 1 • 1h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin #Crypto #Finance Bitcoin dominates Wall Street as institutions flood in 
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 793 • 💬 155 • ⏱️ 28:38 • 4h ago
+👁️ 10K • 👍 793 • 💬 155 • ⏱️ 28:38 • 5h ago
 
 ---
 
