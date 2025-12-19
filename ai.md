@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-18T23:54:25.003559+00:00'
+updated: '2025-12-19T01:28:39.997327+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 18, 2025 at 23:54 UTC  
+**Last Updated:** December 19, 2025 at 01:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,41 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**["Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino"](https://www.reddit.com/r/artificial/comments/1ppvwx3/trucker_wrongly_detained_through_casinos_ai/)**
-
-My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
-
-6h ago
-
----
-
 **[LG Will Let TV Owners Delete Microsoft Copilot After Customer Outcry](https://www.reddit.com/r/artificial/comments/1pq0ycl/lg_will_let_tv_owners_delete_microsoft_copilot/)**
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 3h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 5h ago
+
+---
+
+**["Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino"](https://www.reddit.com/r/artificial/comments/1ppvwx3/trucker_wrongly_detained_through_casinos_ai/)**
+
+My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
+
+8h ago
 
 ---
 
 **[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
+
+7h ago
+
+---
+
+**[How To Browse The Pre-ChatGPT Internet](https://www.reddit.com/r/artificial/comments/1pq60u4/how_to_browse_the_prechatgpt_internet/)**
+
+I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
+
+1h ago
+
+---
+
+**[There are today >175,000 AI-generated podcast episodes on Spotify/Apple, a # which is growing by >3,000 every week, largely due to a single 8-person company (Inception Point AI, which bills itself as the "audio version of Reddit"). The AI podcasting market is worth 4 bil today, up from 3 bil in 2024](https://www.reddit.com/r/artificial/comments/1ppyguw/there_are_today_175000_aigenerated_podcast/)**
+
+Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
 6h ago
 
@@ -69,19 +85,11 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 ---
 
-**[There are today >175,000 AI-generated podcast episodes on Spotify/Apple, a # which is growing by >3,000 every week, largely due to a single 8-person company (Inception Point AI, which bills itself as the "audio version of Reddit"). The AI podcasting market is worth 4 bil today, up from 3 bil in 2024](https://www.reddit.com/r/artificial/comments/1ppyguw/there_are_today_175000_aigenerated_podcast/)**
-
-Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
-
-5h ago
-
----
-
 **[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +97,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 This week's article examines the claim that AI feels safer than human conversation and what that safety costs us. Regardless of reason, both emotional and intellectual use of AI reduces risk by preserving control. I explore what is lost when that control is intentionally removed and the conversation no longer involves risk. Control replaces reciprocity in human-AI interaction. The claim that Ai feels intimate is often a misnomer. AI doesn’t feel intimate because it understands us. It feels intimate because there are no social consequences or reciprocity. The piece explores why that feels comforting and why it quietly erodes our capacity for real interaction. In part II of the article, I build a customGPT model named Ava. It's designed to mimic asymmetrical human-like conversation. I remove the ChatGPT adaptive response and reintroduce asymmetric friction. The result isn’t intimacy but loss of control. The full article link is below for anyone interested. https://mydinnerwithmonday.substack.com/p/control-without-consequence
 
-5h ago
+7h ago
 
 ---
 
@@ -97,7 +105,7 @@ This week's article examines the claim that AI feels safer than human conversati
 
 We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
 
-9h ago
+10h ago
 
 ---
 
@@ -109,29 +117,13 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 ---
 
-**[What I learned building and debugging a RAG + agent workflow stack](https://www.reddit.com/r/artificial/comments/1pq08jz/what_i_learned_building_and_debugging_a_rag_agent/)**
-
-After building RAG + multi-step agent systems, three lessons stood out: Good ingestion determines everything downstream. If extraction isn’t deterministic, nothing else is. Verification is non-negotiable. Without schema/citation checking, errors spread quickly. You need clear tool contracts. The agent can’t compensate for unknown input/output formats. If you’ve built retrieval or agent pipelines, what stability issues did you run into?
-
-4h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdahKAEIBpBaAcR8j0m7hUTqP43U8FSM2gBgmSQHqRzLzjdJiBQmtSg&gaa_ts=69449162&gaa_sig=InayYc23NI2AfpkAwHuYPhNDP5HKODUITfabCWy3KNvWi5EG9IlGai0wtRgoaLn9Pj6hVSXkap4I_xLpZDR2BA%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeJPUjzIx5G78pBIW-nNwEUx_7rW1HJLSL2PGM5h-XzMT01RFTeipaH&gaa_ts=6944adb1&gaa_sig=uWwoiSqEeS8s-3r08ireti0ryL2vV6N4FTSeAFPmA4YFzWrlyl-_8vEXbz48APveu94SPjZlAUHC6_wywK5MAg%3D%3D)**
 
-The Wall Street Journal • 13h ago
-
----
-
-**[This AI Vending Machine Was Tricked Into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)**
-
-Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
-
-Kottke.org • 4h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -139,7 +131,15 @@ Kottke.org • 4h ago
 
 How Claude turned around its failing vending machine business
 
-Anthropic • 10h ago
+Anthropic • 11h ago
+
+---
+
+**[This AI Vending Machine Was Tricked Into Giving Away Everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)**
+
+Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
+
+Kottke.org • 6h ago
 
 ---
 
@@ -147,21 +147,7 @@ Anthropic • 10h ago
 
 YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-Deadline • 6h ago
-
----
-
-**[Fox News Poll: Voters say go slow on AI development — but don’t know who should steer](https://www.foxnews.com/politics/fox-news-poll-voters-say-go-slow-ai-dont-know-who-should-steer)**
-
-Fox News poll reveals 80% of voters want careful artificial intelligence development, but Americans remain split on who should regulate AI technology.
-
-Fox News • 54m ago
-
----
-
-**[‘Scientist-as-a-Service’: Seattle startup Pauling.AI aims to shrink drug discovery timelines by months](https://www.geekwire.com/2025/scientist-as-a-service-seattle-startup-pauling-ai-aims-to-shrink-drug-discovery-timelines-by-months/)**
-
-GeekWire • 54m ago
+Deadline • 7h ago
 
 ---
 
@@ -169,31 +155,45 @@ GeekWire • 54m ago
 
 Google loves AI content, except when it doesn’t.
 
-Ars Technica • 1h ago
+Ars Technica • 2h ago
 
 ---
 
-**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
+**[YouTube Terminates 2 Channels Over Fake AI Movie Trailers](https://www.thewrap.com/industry-news/tech/youtube-terminates-screen-culture-kh-studio-over-ai-fake-movie-trailers/)**
 
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
+YouTube has put an end to two channels known for utilizing artificial intelligence to create and circulate fake movie trailers.
 
-CNN • 13h ago
-
----
-
-**[House passes bill to ease permits for building out AI infrastructure](https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html)**
-
-The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
-
-CNBC • 3h ago
+TheWrap • 55m ago
 
 ---
 
-**[Hollywood was built on movie stardom. AI is changing the rules](https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow)**
+**[Micron stock pops 10% as AI memory demand soars: 'We are more than sold out'](https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html)**
 
-Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
+Micron said it expects the total addressable market for high-bandwidth memory to hit $100 billion by 2028.
 
-Los Angeles Times • 12h ago
+CNBC • 11h ago
+
+---
+
+**[Wall Street rises after an encouraging inflation update, as Micron helps AI stocks stop their slide](https://www.detroitnews.com/story/business/2025/12/18/u-s-stocks-jump-after-an-encouraging-inflation-update-as-micron-helps-ai-stocks-stop-their-slide/87826291007/)**
+
+The Detroit News • 4h ago
+
+---
+
+**[Micron Earnings And Quant Deep Dive: Why MU Remains A Top AI Stock](https://seekingalpha.com/article/4854547-micron-earnings-and-quant-deep-dive-why-mu-remains-a-top-ai-stock)**
+
+Micron is one of the best AI stocks to hold as the artificial intelligence revolution continues its data buildout. Click here to see our MU earnings deep dive.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Are Intel's (INTC) Leadership Shifts And AI Rumors Quietly Rewriting Its Washington Strategy?](https://finance.yahoo.com/news/intels-intc-leadership-shifts-ai-001214556.html)**
+
+In recent days, Intel announced senior leadership changes across government affairs, marketing, and advanced technology strategy, while also facing fresh scrutiny from U.S. lawmakers over its evaluation of China-linked chipmaking equipment and sitting at the center of growing AI acquisition rumors involving SambaNova. Together, these developments highlight how Intel is trying to deepen its influence in Washington and accelerate its AI ambitions even as regulatory and geopolitical risks...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ Los Angeles Times • 12h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1030 • 💬 522 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1032 • 💬 522 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -219,7 +219,7 @@ Privacy browser extensions misled users and sold 8 million AI chat logs, exposin
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 816 • 💬 420 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 817 • 💬 420 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -227,7 +227,7 @@ Privacy browser extensions misled users and sold 8 million AI chat logs, exposin
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be.
 
-⬆️ 551 • 💬 321 • 2d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 552 • 💬 323 • 2d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -235,15 +235,7 @@ Mozilla's pivot to AI first browsing raises fundamental questions about what a b
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 281 • 💬 164 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
-
----
-
-**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
-
-Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
-
-⬆️ 243 • 💬 176 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 284 • 💬 166 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -255,7 +247,23 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 203 • 💬 184 • 5h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 267 • 💬 232 • 7h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+
+---
+
+**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
+
+Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
+
+⬆️ 246 • 💬 176 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+
+---
+
+**[How China built its ‘Manhattan Project’ to rival the West in AI chips](https://news.ycombinator.com/item?id=46316907)**
+
+Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
+
+⬆️ 199 • 💬 200 • 6h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -263,7 +271,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 192 • 💬 150 • 10h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 193 • 💬 150 • 12h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -275,27 +283,9 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ---
 
-**[How China built its ‘Manhattan Project’ to rival the West in AI chips](https://news.ycombinator.com/item?id=46316907)**
-
-Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
-
-⬆️ 143 • 💬 132 • 4h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
-
-AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
-
-📺 The Diary Of A CEO
-
-👁️ 357K • 👍 10K • 💬 2K • ⏱️ 1:39:47 • 15h ago
-
----
 
 **[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
 
@@ -303,37 +293,17 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 36K • 👍 3K • 💬 477 • ⏱️ 5:52 • 8h ago
+👁️ 53K • 👍 5K • 💬 560 • ⏱️ 5:52 • 10h ago
 
 ---
 
-**[Gemini Super Gems: Google&#39;s NEW AI Super Agent! Goodbye N8N! (FULLY FREE AI App Generator)](https://www.youtube.com/watch?v=1choivCbZDg)**
+**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
 
-Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=901177 Google just dropped Super Gems in ...
+AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
 
-📺 WorldofAI
+📺 The Diary Of A CEO
 
-👁️ 35K • 👍 1K • 💬 46 • ⏱️ 11:44 • 1d ago
-
----
-
-**[Introducing NVP: The Propaganda Eliminating AI Machine](https://www.youtube.com/watch?v=enq7W_ou3fY)**
-
-Subscribe to NVP Link: www.newsvpro.com.
-
-📺 Mahmood OD | محمود عودة
-
-👁️ 6K • 👍 933 • 💬 77 • ⏱️ 13:36 • 8h ago
-
----
-
-**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
-
-U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
-
-📺 Fox Business
-
-👁️ 235K • 👍 4K • 💬 1K • ⏱️ 14:37 • 2d ago
+👁️ 415K • 👍 11K • 💬 2K • ⏱️ 1:39:47 • 17h ago
 
 ---
 
@@ -343,7 +313,27 @@ A landowner turned down $8M from an AI company.
 
 📺 NowThis Impact
 
-👁️ 648K • 👍 21K • 💬 2K • ⏱️ 0:55 • 2d ago
+👁️ 652K • 👍 21K • 💬 2K • ⏱️ 0:55 • 2d ago
+
+---
+
+**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
+
+U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
+
+📺 Fox Business
+
+👁️ 239K • 👍 5K • 💬 1K • ⏱️ 14:37 • 2d ago
+
+---
+
+**[Introducing NVP: The Propaganda Eliminating AI Machine](https://www.youtube.com/watch?v=enq7W_ou3fY)**
+
+Subscribe to NVP Link: www.newsvpro.com.
+
+📺 Mahmood OD | محمود عودة
+
+👁️ 8K • 👍 1K • 💬 84 • ⏱️ 13:36 • 10h ago
 
 ---
 
@@ -353,17 +343,17 @@ A bride, a wedding dress… and a groom who lives on a smartphone This is the re
 
 📺 Bridebook
 
-👁️ 159K • 👍 6K • 💬 229 • ⏱️ 0:52 • 1d ago
+👁️ 179K • 👍 7K • 💬 239 • ⏱️ 0:52 • 1d ago
 
 ---
 
-**[Which Ocean Would You Swim In? | Oddly Satisfying AI ASMR☺️🎧](https://www.youtube.com/watch?v=2yhnAHGiT70)**
+**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
 
-This video invites you into a dreamlike ocean—a world that doesn't exist in reality, yet feels beautifully alive. Each sea has its ...
+CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
-📺 Impossible AIs
+📺 CNBC Television
 
-👁️ 43K • 👍 204 • 💬 27 • ⏱️ 8:01 • 1d ago
+👁️ 38K • 👍 261 • 💬 166 • ⏱️ 3:16 • 1d ago
 
 ---
 
@@ -373,17 +363,27 @@ The jackson_huhniverse account, a very quickly growing account on Instagram and 
 
 📺 Jeremy Carrasco
 
-👁️ 214K • 👍 24K • 💬 417 • ⏱️ 1:21 • 22h ago
+👁️ 298K • 👍 29K • 💬 479 • ⏱️ 1:21 • 23h ago
 
 ---
 
-**[Bring back bullying to stop AI overconsumption 🤖😪🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=PXwV2Quzhg0)**
+**[OpenAI is &quot;Is Hiding the Truth&quot;](https://www.youtube.com/watch?v=NhMq52kqjC4)**
 
-Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+Check out Glue: https://bit.ly/4pOsxI2 Free 30 day trial. Work gets done where you talk… with Glue. OpenAI Researcher Quits.
 
-📺 Gianmarco Soresi
+📺 Wes Roth
 
-👁️ 378K • 👍 19K • 💬 614 • ⏱️ 0:58 • 1d ago
+👁️ 59K • 👍 2K • 💬 570 • ⏱️ 23:58 • 1d ago
+
+---
+
+**[OpenAI Just Dropped a New AI Beast: GPT Image 1.5](https://www.youtube.com/watch?v=kU7CVjcz7Hk)**
+
+OpenAI just dropped GPT Image 1.5, and this release goes far beyond better looking images. The new model finally locks visual ...
+
+📺 AI Revolution
+
+👁️ 12K • 👍 437 • 💬 42 • ⏱️ 10:46 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 322,827 • ❤️ 2,978 • 10d ago
+⬇️ 322,827 • ❤️ 2,992 • 10d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 356 • 1h ago
+⬇️ 51,262 • ❤️ 359 • 3h ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 305 • 7h ago
+⬇️ 0 • ❤️ 313 • 8h ago
 
 ---
 
@@ -435,7 +435,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 278 • 20h ago
+⬇️ 3,118 • ❤️ 281 • 22h ago
 
 ---
 
@@ -459,7 +459,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 193,691 • ❤️ 944 • 6d ago
+⬇️ 193,691 • ❤️ 945 • 6d ago
 
 ---
 
@@ -471,7 +471,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 248 • ❤️ 206 • 1d ago
+⬇️ 248 • ❤️ 209 • 1d ago
 
 ---
 
@@ -483,7 +483,19 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 202 • 1d ago
+⬇️ 0 • ❤️ 208 • 1d ago
+
+---
+
+**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
+
+*Shakker Labs*
+
+AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
+
+`text-to-image`
+
+⬇️ 2,006 • ❤️ 207 • 4d ago
 
 ---
 
@@ -499,18 +511,6 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 ---
 
-**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
-
-*Shakker Labs*
-
-AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
-
-`text-to-image`
-
-⬇️ 2,006 • ❤️ 191 • 4d ago
-
----
-
 ---
 
 ## HuggingFace Papers: 🔥 Trending
@@ -523,7 +523,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 5 • 💬 2 • ⭐ 2,870 • 7d ago
+▲ 5 • 💬 2 • ⭐ 3,022 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -547,7 +547,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 54 • 💬 1 • ⭐ 501 • 2d ago
+▲ 55 • 💬 1 • ⭐ 501 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -561,23 +561,9 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 133 • 💬 6 • ⭐ 18,594 • 3mo ago
+▲ 133 • 💬 6 • ⭐ 18,618 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
-
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
-
-🏢 GVC Lab at Great Bay University
-
-PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
-
-▲ 26 • 💬 2 • ⭐ 562 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -621,6 +607,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+
+🏢 GVC Lab at Great Bay University
+
+PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
+
+▲ 26 • 💬 2 • ⭐ 571 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+
+---
+
 **[FunAudioLLM: Voice Understanding and Generation Foundation Models for
   Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.7k • 🔱 2.8k • 15h ago
+⭐ 17.7k • 🔱 2.8k • 17h ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.4k • 🔱 467 • 6h ago
+⭐ 4.5k • 🔱 470 • 8h ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.9k • 🔱 132 • 4h ago
+⭐ 1.9k • 🔱 134 • 5h ago
 
 ---
 
@@ -727,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 877 • 🔱 50 • 3d ago
+⭐ 878 • 🔱 50 • 3d ago
 
 ---
 
@@ -747,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 780 • 🔱 115 • 1d ago
+⭐ 781 • 🔱 115 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-18T23:54:25.022559+00:00'
+updated: '2025-12-19T01:28:40.016386+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 18, 2025 at 23:54 UTC  
+**Last Updated:** December 19, 2025 at 01:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,15 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-8h ago
+10h ago
+
+---
+
+**[Selection Motor](https://www.reddit.com/r/robotics/comments/1pq4l38/selection_motor/)**
+
+Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
+
+2h ago
 
 ---
 
@@ -66,7 +74,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-10h ago
+12h ago
 
 ---
 
@@ -74,7 +82,15 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 10h ago
+
+---
+
+**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
+
+Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
+
+1h ago
 
 ---
 
@@ -90,23 +106,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
 
-59m ago
-
----
-
-**[Selection Motor](https://www.reddit.com/r/robotics/comments/1pq4l38/selection_motor/)**
-
-Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
-
-1h ago
-
----
-
-**[How automation is changing medical device manufacturing](https://www.reddit.com/r/robotics/comments/1pq0xu6/how_automation_is_changing_medical_device/)**
-
-Medical device manufacturing has always moved more cautiously than other industries. Strict validation, heavy documentation, and long requalification cycles mean many processes stay manual and unchanged for years. What’s starting to change is the technology. High-precision robots, adaptive gripping, and modern machine vision are making it possible to automate delicate, high-mix work while improving traceability and compliance instead of complicating it.
-
-🔗 [automate.org](https://www.automate.org/industry-insights/medical-device-manufacturing-automation) • 3h ago
+2h ago
 
 ---
 
@@ -127,6 +127,14 @@ TechCrunch • 1d ago
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
 NASA (.gov) • 2d ago
+
+---
+
+**[UPS Leans Into $9 Billion Automation Strategy with Robotics Rollout](https://sourcingjournal.com/topics/logistics/ups-pickle-robot-120-million-investment-robotics-warehouse-automation-pick-and-place-rollout-logistics-1234794119/)**
+
+UPS is paying up $120 million to use 400 truck-unloading robots from Pickle Robot, adding to its broader $9 billion warehouse automation strategy.
+
+Sourcing Journal • 2d ago
 
 ---
 
@@ -160,6 +168,14 @@ The New York Times • 1d ago
 
 ---
 
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 16h ago
+
+---
+
 **[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
@@ -174,20 +190,6 @@ University of Michigan • 1d ago
 
 ---
 
-**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
-
-NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
-
-Yahoo Finance • 1d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
-
-The Seattle Times • 7h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +200,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 72K • 👍 970 • 💬 145 • ⏱️ 11:23 • 2d ago
+👁️ 72K • 👍 975 • 💬 145 • ⏱️ 11:23 • 3d ago
 
 ---
 
@@ -208,7 +210,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 738 • 💬 116 • ⏱️ 6:41 • 4d ago
+👁️ 30K • 👍 741 • 💬 116 • ⏱️ 6:41 • 4d ago
 
 ---
 
@@ -222,26 +224,6 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 ---
 
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 275K • 👍 5K • 💬 482 • ⏱️ 26:54 • 4d ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 406K • 👍 14K • 💬 439 • ⏱️ 0:34 • 4d ago
-
----
-
 **[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
 We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
@@ -252,23 +234,23 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
 
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
 
-📺 Gen Women AI
+📺 PRO ROBOTS
 
-👁️ 94K • 👍 929 • 💬 20 • ⏱️ 0:09 • 6d ago
+👁️ 283K • 👍 5K • 💬 489 • ⏱️ 26:54 • 4d ago
 
 ---
 
-**[ROBOT got KNOCKED OUT](https://www.youtube.com/watch?v=eX-TS4JEuEw)**
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
 
-this short clip, a walking robot encounters an unexpected moment of impact when it gets pushed by an NBA player and ends up ...
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
 
-📺 Unique Mechanics
+📺 vt.physics
 
-👁️ 2K • 👍 305 • 💬 24 • ⏱️ 0:28 • 10h ago
+👁️ 412K • 👍 14K • 💬 448 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -278,7 +260,7 @@ This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it g
 
 📺 DLLS Sports
 
-👁️ 22K • 👍 228 • 💬 25 • ⏱️ 0:14 • 23h ago
+👁️ 23K • 👍 229 • 💬 25 • ⏱️ 0:14 • 1d ago
 
 ---
 
@@ -288,7 +270,27 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 175K • 👍 1K • 💬 20 • ⏱️ 0:25 • 4d ago
+👁️ 175K • 👍 2K • 💬 20 • ⏱️ 0:25 • 4d ago
+
+---
+
+**[FTC Top 25 | DECODE | December - Presented by Studica Robotics](https://www.youtube.com/watch?v=QBFtU3RVTHs)**
+
+Congrats to all who were voted for in the FTC Top 25 by the community! In FTC Top 25 we'll count down the list, provide some Top ...
+
+📺 FUN Robotics Network
+
+👁️ 3K • 👍 41 • 💬 1 • ⏱️ 57:28 • 23h ago
+
+---
+
+**[This Robot will decide if I Graduate](https://www.youtube.com/watch?v=L8qSAampsHU)**
+
+Learn for free on Brilliant: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+
+📺 Tazer
+
+👁️ 65K • 👍 3K • 💬 147 • ⏱️ 23:20 • 3d ago
 
 ---
 
