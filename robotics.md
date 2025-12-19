@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T15:58:34.750311+00:00'
+updated: '2025-12-19T16:37:22.546936+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 15:58 UTC  
+**Last Updated:** December 19, 2025 at 16:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,12 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
+
+1h ago
+
+---
+
 **[UPS plans to invest $120M in around 400 truck-unloading robots from Pickle Robot Company to tackle one of logistics Holy Grails: unloading trailers. These mobile robots drive into containers, lift boxes up to 50 lbs (22.5 kg) with suction, and place them onto conveyors.](https://www.reddit.com/r/robotics/comments/1pqi5cd/ups_plans_to_invest_120m_in_around_400/)**
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
@@ -40,15 +46,9 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 ---
 
-**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
-
-26m ago
-
----
-
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -62,7 +62,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 Ouster is positioned to provide essential perception interfaces that allow AI to act within the physical world, as digital LiDAR might become a primary sensory layer for autonomous systems.
 
-🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 4h ago
+🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 5h ago
 
 ---
 
@@ -108,14 +108,6 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 ## Google News: "robotics"
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 1d ago
-
----
-
 **[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
@@ -124,29 +116,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-Los Angeles Times • 2d ago
-
----
-
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
-
-The Seattle Times • 23h ago
-
----
-
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 2d ago
+Fortune • 1d ago
 
 ---
 
@@ -174,11 +148,39 @@ NASA (.gov) • 2d ago
 
 ---
 
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
+
+Bloomberg.com • 5h ago
+
+---
+
 **[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
 
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
+
+Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+
+NVIDIA Developer • 1d ago
+
+---
+
+**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
+
+SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
+
+navalnews.com • 2d ago
 
 ---
 
@@ -192,7 +194,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 5K • 👍 20 • ⏱️ 0:09 • 4h ago
+👁️ 5K • 👍 20 • ⏱️ 0:09 • 5h ago
 
 ---
 
@@ -232,7 +234,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 25K • 👍 2K • 💬 56 • ⏱️ 1:38 • 2d ago
+👁️ 25K • 👍 2K • 💬 56 • ⏱️ 1:38 • 3d ago
 
 ---
 

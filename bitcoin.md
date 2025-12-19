@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T15:58:34.740683+00:00'
+updated: '2025-12-19T16:37:22.537783+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 15:58 UTC  
+**Last Updated:** December 19, 2025 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,828.19
+### $88,730.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -2.5%  
-**30d:** +1.1%  
-**90d:** -23.8%  
-**1y:** -9.9%  
+**24h:** +3.1%  
+**7d:** -1.6%  
+**30d:** +2.0%  
+**90d:** -23.1%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.95B
+**Market Cap:** $1770.59B
 Rank #1
 
-**Circulating Supply:** 19,964,243 BTC
+**Circulating Supply:** 19,964,250 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-29.7%
 
 **All-Time Low:** $67.81
-+129411.9%
++130693.4%
 
 ---
 
@@ -91,51 +91,51 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
+**[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
+
+1h ago
+
+---
+
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
 3h ago
 
 ---
 
-**[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
+**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-17h ago
+1h ago
 
 ---
 
 **[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-6h ago
+7h ago
 
 ---
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-12h ago
+13h ago
 
 ---
 
-**[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
+**[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-42m ago
+18h ago
 
 ---
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-13h ago
+14h ago
 
 ---
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-22h ago
-
----
-
-**[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
-
-10h ago
+23h ago
 
 ---
 
@@ -143,41 +143,53 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ## Google News: "bitcoin"
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfGEgVZdm1lF0RrUWte1DuZ0KRueBPdfipa5PZ4tyQzs-WT9xC0Ah9w&gaa_ts=69457288&gaa_sig=HsQ32HfaxE_TEjzZqyPuTLhqIZGVcczTy_J21Bnl6_XGTXWeCLnMXM8e6wNGPhdfuHuYJ7DNV-kppSKs2_9VfQ%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqd5TwEzTk-kgtUCrapkT7N07GLrjMeV9SVHIi7Iqs3ZdYYxFhBwXq7z&gaa_ts=69458294&gaa_sig=rBVpHqe1CUxL7gm1cihXnrldez-nI-86bzLC6fQyfxTKRU4PrG2Xrs_tgpFrdPJquRSRamkjbr_3aBBqGCk2uQ%3D%3D)**
 
-MarketWatch • 2h ago
-
----
-
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
-
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 5h ago
+MarketWatch • 3h ago
 
 ---
 
-**[Bought Some Bitcoin Last Week? Here’s How Much It’s Worth Today](https://finance.yahoo.com/news/bought-bitcoin-last-week-much-141633328.html)**
+**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
 
-Bitcoin’s price swings are intense, but long‑term trends may tell a different story. Discover what a bitcoin investment made last week is worth today.
+A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Price Will Jump to $143,000 Next Year, Says Citi Bank](https://bitcoinmagazine.com/markets/bitcoin-price-will-hit-143000-says-citi)**
-
-Citi forecast that the bitcoin price could reach $143,000 over the next year, with a bullish case above $189,000 and a bearish scenario near $78,500.
-
-Bitcoin Magazine • 1h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Is Bitcoin Primed for a 2026 Breakout? Analysts Weigh History vs. Fundamentals](https://finance.yahoo.com/news/bitcoin-primed-2026-breakout-analysts-142816214.html)**
+**[Bitcoin underperformed gold, but ETF holders remained resilient](https://www.coindesk.com/markets/2025/12/19/gold-wins-the-debasement-trade-in-2025-but-it-is-not-the-full-story)**
 
-Bitcoin's oversold RSI signals a potential rally to $170K, analysts argue, as record ETF inflows and fading headwinds build a bullish case.
+Bitcoin (BTC) corrected 36% from its October all-time high, while U.S. spot bitcoin ETF holdings declined by only about 3.6%
 
-Yahoo Finance • 1h ago
+CoinDesk • 1h ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
+
+Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
+
+Yahoo Finance • 37m ago
+
+---
+
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
+
+Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin price today: steady near $87k after soft US CPI data, set for weekly loss](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
+
+Investing.com • 9h ago
+
+---
+
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqcYufHP7WhSPZyXJH8QfX5Vonq3qeWUb1TdDAsIZubVkbRaNnyxWzN1&gaa_ts=69458294&gaa_sig=3FnwoGKvcyq1v3bPs8WNcML0ttKYWl2vc-2JoNZsFa5LHa6BQtDPfyb1b-7TYzrOd-ek44c9XUyAhwcTgcQT6g%3D%3D)**
+
+Barron's • 7h ago
 
 ---
 
@@ -187,35 +199,19 @@ Investor's Business Daily • 5h ago
 
 ---
 
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
 NPR • 6h ago
-
----
-
-**[BTC Price News: Crypto breaks higher as BOJ decision clears a macro overhang](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
-
-Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
-
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
-
-The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
-
-CoinDesk • 10h ago
-
----
-
-**[Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://www.tradingview.com/news/cointelegraph:bbb041a0a094b:0-bitcoin-rebounds-on-japan-rate-hike-as-arthur-hayes-sees-dollar-at-200-yen/)**
-
-Bitcoin BINANCE:BTCUSD aimed for $88,000 on Friday after Japan’s central bank raised interest rates to 30-year highs.Key points:Arthur Hayes eyes BTC price, yen surgeData from Cointelegraph Markets and TradingView showed 2.5% BTC price gains versus the daily open. In line with expectations, the Ban…
-
-TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -251,13 +247,13 @@ How much of a resource hog is AI?
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
-⬆️ 2 • 💬 3 • 5d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
+⬆️ 2 • 💬 3 • 6d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 36m ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 1h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -281,7 +277,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 18h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 19h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -309,7 +305,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 224 • ⏱️ 16:50 • 17h ago
+👁️ 38K • 👍 2K • 💬 224 • ⏱️ 16:50 • 18h ago
 
 ---
 
@@ -319,7 +315,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 378 • 💬 14 • ⏱️ 9:21 • 23h ago
+👁️ 11K • 👍 378 • 💬 14 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -339,7 +335,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 4h ago
+👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 5h ago
 
 ---
 
@@ -359,7 +355,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 585 • 💬 240 • ⏱️ 12:05 • 19h ago
+👁️ 11K • 👍 585 • 💬 240 • ⏱️ 12:05 • 20h ago
 
 ---
 
@@ -387,7 +383,7 @@ Nick Valdez looks at the latest US market-open manipulation that has hit Bitcoin
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 124 • 💬 11 • ⏱️ 5:37 • 15h ago
+👁️ 3K • 👍 124 • 💬 11 • ⏱️ 5:37 • 16h ago
 
 ---
 

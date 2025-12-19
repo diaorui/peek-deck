@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T15:58:34.746901+00:00'
+updated: '2025-12-19T16:37:22.543746+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 15:58 UTC  
+**Last Updated:** December 19, 2025 at 16:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -4.9%  
-**30d:** +4.2%  
-**90d:** -33.4%  
-**1y:** -14.6%  
+**24h:** +5.2%  
+**7d:** -3.9%  
+**30d:** +5.3%  
+**90d:** -32.7%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.43B
+**Market Cap:** $361.69B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-39.4%
 
 **All-Time Low:** $0.43
-+683896.2%
++691984.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 5h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 6h ago
 
 ---
 
@@ -96,13 +96,13 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 4h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 5h ago
 
 ---
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 23m ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 1h ago
 
 ---
 
@@ -156,33 +156,39 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
 
-Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-Yahoo Finance • 23h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
-
-FXStreet • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfNm82muZsa_-lIu59VyekJlSwpgR3tTbroAphYXElUZ8JkG7y_6DvC&gaa_ts=6945728b&gaa_sig=VEszutes0bXabnwmJfHlQa9nWFbo6h-PhJfE0hf0Qz-Yh0SiPv8JgmFpwiM1S4le-2Viz-AFKNwHKoLr53A7zQ%3D%3D)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
+
+Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
+
+Decrypt • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdMqxRRE1bLFQAOS5ekOJg-Vhd5l_1PHyLKVLqpNCje24VISYMPet7y&gaa_ts=69458296&gaa_sig=cuQCPBDe80bJbc8m_28sAJ5GHrdPB6KVY7fd2DI_uokhWdGO5r-bl-KyxG3RZqzl418axK15kC0g9atmoJy0IQ%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[ETHGas Debuts Ethereum's Blockspace Futures Market with $800m of Commitments and $12m Seed Round Led by Polychain Capital](https://www.prnewswire.com/news-releases/ethgas-debuts-ethereums-blockspace-futures-market-with-800m-of-commitments-and-12m-seed-round-led-by-polychain-capital-302646868.html)**
+**[Curve Finance Strengthens Its Position as a Leading Ethereum DEX With 44% Fee Share](https://www.prnewswire.com/news-releases/curve-finance-strengthens-its-position-as-a-leading-ethereum-dex-with-44-fee-share-302647071.html)**
 
-/PRNewswire/ -- ETHGas, a settlement infrastructure for Ethereum, announces the debut of Ethereum's blockspace futures market, with US$800m of commitments from...
+/PRNewswire/ -- Ethereum's market is one of the most competitive corners of DeFi, and it has virtually no "meme"-driven trading activity. This makes it easier...
 
-PR Newswire • 2h ago
+PR Newswire • 19m ago
+
+---
+
+**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
+
+The Block • 2d ago
 
 ---
 
@@ -190,21 +196,7 @@ PR Newswire • 2h ago
 
 Just a few weeks after the Fusaka update, Ethereum BINANCE:ETHUSD developers have revealed the name for the next major upgrade in 2026. According to insights shared by Wu Blockchain, developers in the ecosystem have voted to name this next update "Hegota." What Hegota upgrade's name representsNotab…
 
-TradingView — Track All Markets • 1h ago
-
----
-
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
-
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
-
-ts2.tech • 1d ago
-
----
-
-**[Ethereum Foundation researchers warn of storage burden from 'state bloat,' propose paths to ease node bottleneck](https://www.theblock.co/post/383156/ethereum-foundation-researchers-warn-of-storage-burden-from-state-bloat)**
-
-The Block • 1d ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -212,7 +204,15 @@ The Block • 1d ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
+
+v
+
+AMBCrypto • 18h ago
 
 ---
 
@@ -232,7 +232,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 4h ago
+👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 788 • 👍 98 • 💬 4 • ⏱️ 9:41 • 2h ago
+👁️ 788 • 👍 98 • 💬 4 • ⏱️ 9:41 • 3h ago
 
 ---
 
@@ -272,7 +272,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 4K • 👍 802 • 💬 2 • ⏱️ 27:59 • 2h ago
+👁️ 4K • 👍 802 • 💬 2 • ⏱️ 27:59 • 3h ago
 
 ---
 
@@ -312,7 +312,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 14K • 👍 608 • 💬 302 • ⏱️ 33:33 • 1d ago
+👁️ 14K • 👍 608 • 💬 302 • ⏱️ 33:33 • 2d ago
 
 ---
 
@@ -322,7 +322,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 168 • 💬 5 • ⏱️ 9:10 • 16h ago
+👁️ 2K • 👍 168 • 💬 5 • ⏱️ 9:10 • 17h ago
 
 ---
 
