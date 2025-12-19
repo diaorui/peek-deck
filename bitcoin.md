@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T14:20:55.384037+00:00'
+updated: '2025-12-19T14:43:19.433132+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 14:20 UTC  
+**Last Updated:** December 19, 2025 at 14:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,286.89
+### $87,857.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -2.6%  
-**30d:** +1.0%  
-**90d:** -23.8%  
-**1y:** -10.0%  
+**24h:** -0.8%  
+**7d:** -2.7%  
+**30d:** +0.9%  
+**90d:** -23.9%  
+**1y:** -10.1%  
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-10h ago
+11h ago
 
 ---
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-11h ago
+12h ago
 
 ---
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,13 +115,13 @@ Rank #1
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -181,13 +181,13 @@ CoinDesk • 9h ago
 
 The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfuyXUaNemTtExaQrgGoO3hcOi0ZaPja-XdK4o5AH-cdXL32XIO8qUE&gaa_ts=694562b2&gaa_sig=BLK0UE8XJPUU5rOSto_INg1rIZMZ-lQJMOdPzYbUdZnZGgs-ikRceuHKCJ_KMA4GWBbBj5UmQYTVGeca-ikZUQ%3D%3D)**
 
-MarketWatch • 48m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 2h ago
 
 **[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -277,7 +277,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 16h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 17h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -375,7 +375,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 7K • 👍 323 • 💬 9 • ⏱️ 41:11 • 9h ago
+👁️ 7K • 👍 323 • 💬 9 • ⏱️ 41:11 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T14:20:55.376504+00:00'
+updated: '2025-12-19T14:43:19.424684+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - videos
 - repositories
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 14:20 UTC  
+**Last Updated:** December 19, 2025 at 14:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ My question is about reliance on facial recognition software, and more generally
 
 Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Here are some links from this issue: I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me -> HN link. Vibe coding creates fatigue? -> HN link. AI's real superpower: consuming, not creating -> HN link. AI Isn't Just Spying on You. It's Tricking You into Spending More -> HN link. If AI replaces workers, should it also pay taxes? -> HN link. If you like this type of content, you might consider subscribing here: https://hackernewsai.com/
 
-7m ago
+30m ago
 
 ---
 
@@ -89,7 +89,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-19h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-19h ago
+20h ago
 
 ---
 
@@ -113,7 +113,7 @@ I have a backlog of 6-hour seminar recordings I need to turn into text. I tried 
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-20h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 1d ago
 
 This is a structural shift in how digital presence is valued. Companies that understand this will treat AI visibility as a new form of brand capital.
 
-Fortune • 15m ago
+Fortune • 38m ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 15m ago
 
 Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
 
-businessinsider.com • 30m ago
+businessinsider.com • 53m ago
 
 ---
 
@@ -155,7 +155,7 @@ businessinsider.com • 30m ago
 
 Many leaders are excited about the promise of AI coding tools that can make it easier for novices to write code and, seemingly, make experienced coders less essential. Yet these tools make experience more—not less—important, as AI is not a replacement for real engineers. Companies that want to use these tools should follow common rules. Make sure every change it makes is double-checked—with automatic checks, simple tests that confirm things still work, and at least one human review. Keep access limited: Let AI work only in a safe “practice” environment, never give it the keys to live customer data, and routinely check for basic security mistakes like files or storage left open to the public. Overall, keep experienced engineers in charge of the design, the rules, and the safety checks so AI’s speed doesn’t turn into costly failures.
 
-Harvard Business Review • 35m ago
+Harvard Business Review • 58m ago
 
 ---
 
@@ -177,7 +177,7 @@ Los Angeles Times • 2h ago
 
 YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-Deadline • 20h ago
+Deadline • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 8K • 👍 183 • 💬 24 • ⏱️ 8:13 • 12h ago
+👁️ 8K • 👍 183 • 💬 24 • ⏱️ 8:13 • 13h ago
 
 ---
 
@@ -363,7 +363,7 @@ The pace of AI development isn't slowing down. Today, we're diving into a massiv
 
 📺 Theoretically Media
 
-👁️ 15K • 👍 720 • 💬 115 • ⏱️ 14:37 • 14h ago
+👁️ 15K • 👍 720 • 💬 115 • ⏱️ 14:37 • 15h ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 335 • 21h ago
+⬇️ 0 • ❤️ 335 • 22h ago
 
 ---
 
@@ -507,7 +507,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 183 • 17h ago
+⬇️ 2,154 • ❤️ 183 • 18h ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 142 • 3h ago
+⭐ 2.0k • 🔱 142 • 4h ago
 
 ---
 

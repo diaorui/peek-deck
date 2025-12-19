@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T14:20:55.392177+00:00'
+updated: '2025-12-19T14:43:19.442287+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 14:20 UTC  
+**Last Updated:** December 19, 2025 at 14:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Ouster is positioned to provide essential perception interfaces that allow AI to
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
 
-15h ago
+16h ago
 
 ---
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-2m ago
+24m ago
 
 ---
 
@@ -210,7 +210,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 1K • 👍 7 • ⏱️ 0:09 • 2h ago
+👁️ 1K • 👍 7 • ⏱️ 0:09 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 315 • 💬 31 • ⏱️ 1:05 • 3d ago
+👁️ 32K • 👍 315 • 💬 31 • ⏱️ 1:05 • 4d ago
 
 ---
 
