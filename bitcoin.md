@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T13:39:33.224540+00:00'
+updated: '2025-12-19T13:54:34.816006+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 13:39 UTC  
+**Last Updated:** December 19, 2025 at 13:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -2.4%  
-**30d:** +1.2%  
-**90d:** -23.7%  
+**24h:** -0.3%  
+**7d:** -2.3%  
+**30d:** +1.3%  
+**90d:** -23.6%  
 **1y:** -9.8%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-41m ago
+56m ago
 
 ---
 
@@ -129,7 +129,7 @@ Rank #1
 
 Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
 
-4h ago
+5h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqe1vUQZfDlMxVTeBsc4Zq9XZ1-DiBibqN1gAliVazQ6rmC5aoU5k_u6&gaa_ts=694558fc&gaa_sig=R4NgtTPxpYy0xiXhCsm2-2OcCo64yqLbj_FwMrh6SbVR889i7PBfK09lhMvI_xuFtNN2VD6mAqPOeuZGQ1mDCw%3D%3D)**
 
-MarketWatch • 7m ago
+MarketWatch • 22m ago
 
 ---
 
@@ -193,7 +193,7 @@ Investing.com • 1d ago
 
 Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -209,13 +209,13 @@ CoinDesk • 8h ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 3h ago
+NPR • 4h ago
 
 ---
 
 **[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
