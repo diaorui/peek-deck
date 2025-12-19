@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T05:33:51.468255+00:00'
+updated: '2025-12-19T05:50:08.240586+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 05:33 UTC  
+**Last Updated:** December 19, 2025 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.9%  
-**30d:** -0.4%  
-**90d:** -24.9%  
-**1y:** -11.2%  
+**24h:** +0.8%  
+**7d:** -3.6%  
+**30d:** -0.0%  
+**90d:** -24.6%  
+**1y:** -10.9%  
 
 ---
 
@@ -111,7 +111,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Bart Simpson incoming?
 
-13h ago
+14h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 11h ago
 
 The bitcoin price experienced two more aggressive dumps today, now trading near $84,500.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bitcoin Magazine • 8h ago
 
 Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
 
-CoinDesk • 48m ago
+CoinDesk • 1h ago
 
 ---
 
