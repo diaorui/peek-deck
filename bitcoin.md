@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T11:36:01.049639+00:00'
+updated: '2025-12-19T11:48:04.645024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 11:36 UTC  
+**Last Updated:** December 19, 2025 at 11:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -123,7 +123,7 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 **[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative for risk assets - yet the market moved higher. The reason is simple: the hike was fully priced in, with markets assigning a ~98% probability to this outcome. What really mattered wasn’t the decision itself, but the tone. The BOJ Governor signaled that further tightening will continue - but very slowly and cautiously. This eased fears of an abrupt unwinding of the yen carry trade, where cheap yen funding is deployed into higher-yielding assets, including crypto. Earlier in December, many expected a BOJ hike to push $BTCbelow $70k due to liquidity tightening. Instead, the market did the opposite - the negative was absorbed in advance. The takeaway remains unchanged: liquidity and expectations matter far more than the headline decisions of central banks.
 
-30m ago
+42m ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 17h ago
 
 Bitcoin investors have had a rough year; 2026 could be much better.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin Price Will Hit All-Time High in 2026, Bitwise Predicts, Will Be ‘Less Volatile’ Than Nvidia](https://www.ccn.com/news/crypto/bitcoin-price-will-hit-all-time-high-in-2026-bitwise-predicts-will-be-less-volatile-than-nvidia/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ CCN.com • 1h ago
 
 Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -219,7 +219,7 @@ The Block • 20h ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 

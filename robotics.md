@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T11:36:01.058881+00:00'
+updated: '2025-12-19T11:48:04.654429+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 11:36 UTC  
+**Last Updated:** December 19, 2025 at 11:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
-47m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 Ouster is positioned to provide essential perception interfaces that allow AI to act within the physical world, as digital LiDAR might become a primary sensory layer for autonomous systems.
 
-🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 20m ago
+🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 32m ago
 
 ---
 
@@ -132,7 +132,7 @@ NASA (.gov) • 2d ago
 
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
-Bloomberg.com • 41m ago
+Bloomberg.com • 53m ago
 
 ---
 
@@ -146,7 +146,7 @@ Los Angeles Times • 2d ago
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 35m ago
+Bloomberg.com • 47m ago
 
 ---
 
