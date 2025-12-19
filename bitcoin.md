@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T10:55:21.804731+00:00'
+updated: '2025-12-19T11:19:43.295464+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 10:55 UTC  
+**Last Updated:** December 19, 2025 at 11:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.2%  
-**7d:** -2.2%  
-**30d:** +1.4%  
-**90d:** -23.5%  
-**1y:** -9.6%  
+**7d:** -2.1%  
+**30d:** +1.5%  
+**90d:** -23.4%  
+**1y:** -9.5%  
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -149,7 +149,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -243,7 +243,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 19h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -303,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 364 • 💬 14 • ⏱️ 9:21 • 18h ago
+👁️ 10K • 👍 364 • 💬 14 • ⏱️ 9:21 • 19h ago
 
 ---
 
@@ -313,7 +313,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 32K • 👍 2K • 💬 232 • ⏱️ 16:50 • 12h ago
+👁️ 32K • 👍 2K • 💬 232 • ⏱️ 16:50 • 13h ago
 
 ---
 
@@ -323,7 +323,7 @@ After a rocky December, many investors are asking the same question: Did Bitcoin
 
 📺 The Bitcoin Revolution
 
-👁️ 10K • 👍 163 • 💬 177 • ⏱️ 9:46 • 19h ago
+👁️ 10K • 👍 163 • 💬 177 • ⏱️ 9:46 • 20h ago
 
 ---
 
@@ -333,7 +333,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 579 • 💬 248 • ⏱️ 12:05 • 14h ago
+👁️ 11K • 👍 579 • 💬 248 • ⏱️ 12:05 • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 11K • 👍 810 • 💬 159 • ⏱️ 15:27 • 16h ago
+👁️ 11K • 👍 810 • 💬 159 • ⏱️ 15:27 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 7K • 👍 266 • 💬 103 • ⏱️ 14:32 • 17h ago
+👁️ 7K • 👍 266 • 💬 103 • ⏱️ 14:32 • 18h ago
 
 ---
 
