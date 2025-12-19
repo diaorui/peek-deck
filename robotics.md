@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T14:56:56.050239+00:00'
+updated: '2025-12-19T15:28:36.025592+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 14:56 UTC  
+**Last Updated:** December 19, 2025 at 15:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,15 +40,15 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 ---
 
-**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
+**[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-1d ago
+1h ago
 
 ---
 
-**[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
+**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-38m ago
+1d ago
 
 ---
 
@@ -56,7 +56,13 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 Ouster is positioned to provide essential perception interfaces that allow AI to act within the physical world, as digital LiDAR might become a primary sensory layer for autonomous systems.
 
-🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 3h ago
+🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 4h ago
+
+---
+
+**[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
+
+32m ago
 
 ---
 
@@ -88,21 +94,13 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-23h ago
+1d ago
 
 ---
 
 **[Digital Twin - Doubt](https://www.reddit.com/r/robotics/comments/1ppqbnl/digital_twin_doubt/)**
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
-
-1d ago
-
----
-
-**[I Spent 3 Months Building This Robot: It Can Do More Than I Thought](https://www.reddit.com/r/robotics/comments/1pp28v0/i_spent_3_months_building_this_robot_it_can_do/)**
-
-Hi! I built this robot this year (actually, a rebuilt or my first version with slight facial change, same mechanical parts). I call it Nix Robot. What amazes me is that I never thought it can sit on the ground and get up on its legs. Or turn and slide. I did not design those gaits and moves. I just discovered that a machine can do more than it was initially designed for. Now I'm thinking to make it stand from completely laying on the ground, crawling, and doing other things? Maybe jumping (that is too much, I think...) The electronics in the robot include: LX-16A servos, Arduino OR Raspberry Pi: my code for the same moves runs perfectly on both platforms, a voltage converter, a USB powerbank, and some sensors. What are your thoughts on this? What move or moves of this robot do you like more, what less?
 
 1d ago
 
@@ -138,7 +136,19 @@ Los Angeles Times • 2d ago
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
+
+The Seattle Times • 22h ago
+
+---
+
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -166,27 +176,11 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
+**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
 
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
-NVIDIA Developer • 1d ago
-
----
-
-**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
-
-SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
-
-navalnews.com • 2d ago
-
----
-
-**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
-
-From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
-
-The Robot Report • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -194,33 +188,13 @@ The Robot Report • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 74K • 👍 986 • 💬 147 • ⏱️ 11:23 • 3d ago
-
----
-
 **[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
 
 Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
 
 📺 Digital Farming 
 
-👁️ 1K • 👍 7 • ⏱️ 0:09 • 3h ago
-
----
-
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 301K • 👍 6K • 💬 510 • ⏱️ 26:54 • 4d ago
+👁️ 5K • 👍 20 • ⏱️ 0:09 • 3h ago
 
 ---
 
@@ -230,17 +204,7 @@ this short clip, a walking robot encounters an unexpected moment of impact when 
 
 📺 Unique Mechanics
 
-👁️ 18K • 👍 300 • 💬 26 • ⏱️ 0:28 • 1d ago
-
----
-
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 25K • 👍 2K • 💬 56 • ⏱️ 1:38 • 2d ago
+👁️ 19K • 👍 305 • 💬 27 • ⏱️ 0:28 • 1d ago
 
 ---
 
@@ -254,23 +218,43 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
+**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
+
+Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
+
+📺 RICHLEV
+
+👁️ 196K • 👍 5K • 💬 1K • ⏱️ 17:05 • 4d ago
+
+---
+
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
+
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
+
+📺 Dr Ben Miles
+
+👁️ 25K • 👍 2K • 💬 56 • ⏱️ 1:38 • 2d ago
+
+---
+
 **[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
 
 Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
 
 📺 CNET
 
-👁️ 31K • 👍 747 • 💬 116 • ⏱️ 6:41 • 5d ago
+👁️ 31K • 👍 750 • 💬 116 • ⏱️ 6:41 • 5d ago
 
 ---
 
-**[Testing the Latest Girlfriend Robot: A Surprising Expo Experience! 🤖✨ #innovation #expo2025 #robot](https://www.youtube.com/watch?v=IYr2h6t9i6s)**
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
 
-GirlfriendRobot #Innovation #Expo2025 Join me as I dive into the fascinating world of robotics at Expo 2025! In this video, I put the ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
 
-📺 Gen Women AI
+📺 PRO ROBOTS
 
-👁️ 94K • 👍 929 • 💬 20 • ⏱️ 0:09 • 6d ago
+👁️ 303K • 👍 6K • 💬 511 • ⏱️ 26:54 • 4d ago
 
 ---
 
@@ -280,7 +264,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 430K • 👍 14K • 💬 476 • ⏱️ 0:34 • 5d ago
+👁️ 434K • 👍 15K • 💬 478 • ⏱️ 0:34 • 5d ago
 
 ---
 
@@ -290,7 +274,17 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 182K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
+👁️ 183K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
+
+---
+
+**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+
+This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+
+📺 DLLS Sports
+
+👁️ 24K • 👍 244 • 💬 26 • ⏱️ 0:14 • 1d ago
 
 ---
 

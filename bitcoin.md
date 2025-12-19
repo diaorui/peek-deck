@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T14:56:56.040849+00:00'
+updated: '2025-12-19T15:28:36.015985+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 14:56 UTC  
+**Last Updated:** December 19, 2025 at 15:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,857.04
+### $88,281.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -2.4%  
-**30d:** +1.3%  
+**24h:** +0.1%  
+**7d:** -2.2%  
+**30d:** +1.5%  
 **90d:** -23.5%  
-**1y:** -9.7%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.90B
+**Market Cap:** $1764.13B
 Rank #1
 
 **Circulating Supply:** 19,964,243 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.0%
 
 **All-Time Low:** $67.81
-+129605.1%
++130037.1%
 
 ---
 
@@ -85,7 +85,21 @@ Rank #1
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-11h ago
+12h ago
+
+---
+
+**[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
+
+HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
+
+45m ago
+
+---
+
+**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+
+2h ago
 
 ---
 
@@ -97,13 +111,7 @@ Rank #1
 
 **[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-5h ago
-
----
-
-**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
-
-1h ago
+6h ago
 
 ---
 
@@ -115,21 +123,13 @@ Rank #1
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
 9h ago
-
----
-
-**[Bank of Japan Raises Rates - $BTC Market Reacts Higher](https://www.reddit.com/r/Bitcoin/comments/1pqifpw/bank_of_japan_raises_rates_btc_market_reacts/)**
-
-The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative for risk assets - yet the market moved higher. The reason is simple: the hike was fully priced in, with markets assigning a ~98% probability to this outcome. What really mattered wasn’t the decision itself, but the tone. The BOJ Governor signaled that further tightening will continue - but very slowly and cautiously. This eased fears of an abrupt unwinding of the yen carry trade, where cheap yen funding is deployed into higher-yielding assets, including crypto. Earlier in December, many expected a BOJ hike to push $BTCbelow $70k due to liquidity tightening. Instead, the market did the opposite - the negative was absorbed in advance. The takeaway remains unchanged: liquidity and expectations matter far more than the headline decisions of central banks.
-
-3h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 ## Google News: "bitcoin"
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeNjFcoBwbn6AJXwPjerOyT4N35mMD8fBt-6apSeLTwDqAQLijllNSV&gaa_ts=69456b23&gaa_sig=cvVzeqpHPIg6Zal414sE3DC4mvtdBvq_yUfeLC7XBi89B0yRpeMlhx7G-A-rYJQKJYu-nOM3X9LHeAbkAnJTCA%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfGEgVZdm1lF0RrUWte1DuZ0KRueBPdfipa5PZ4tyQzs-WT9xC0Ah9w&gaa_ts=69457288&gaa_sig=HsQ32HfaxE_TEjzZqyPuTLhqIZGVcczTy_J21Bnl6_XGTXWeCLnMXM8e6wNGPhdfuHuYJ7DNV-kppSKs2_9VfQ%3D%3D)**
 
 MarketWatch • 1h ago
 
@@ -163,31 +163,7 @@ Bloomberg.com • 4h ago
 
 Bitcoin’s price swings are intense, but long‑term trends may tell a different story. Discover what a bitcoin investment made last week is worth today.
 
-Yahoo Finance • 40m ago
-
----
-
-**[BTC Price News: Crypto breaks higher as BOJ decision clears a macro overhang](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
-
-Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
-
-CoinDesk • 10h ago
-
----
-
-**[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
-
-The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
-
-CoinDesk • 9h ago
-
----
-
-**[: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/12/19/bitcoin-gains-as-yen-surprises-after-japan-raises-rates-crypto-daybook-americas)**
-
-The day ahead in crypto: Dec. 19, 2025
-
-CoinDesk • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,7 +171,15 @@ CoinDesk • 2h ago
 
 Citi forecast that the bitcoin price could reach $143,000 over the next year, with a bullish case above $189,000 and a bearish scenario near $78,500.
 
-Bitcoin Magazine • 21m ago
+Bitcoin Magazine • 52m ago
+
+---
+
+**[Is Bitcoin Primed for a 2026 Breakout? Analysts Weigh History vs. Fundamentals](https://finance.yahoo.com/news/bitcoin-primed-2026-breakout-analysts-142816214.html)**
+
+Bitcoin's oversold RSI signals a potential rally to $170K, analysts argue, as record ETF inflows and fading headwinds build a bullish case.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -213,9 +197,27 @@ NPR • 5h ago
 
 ---
 
-**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
+**[BTC Price News: Crypto breaks higher as BOJ decision clears a macro overhang](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
 
-The Block • 1d ago
+Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
+
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
+
+The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
+
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://www.tradingview.com/news/cointelegraph:bbb041a0a094b:0-bitcoin-rebounds-on-japan-rate-hike-as-arthur-hayes-sees-dollar-at-200-yen/)**
+
+Bitcoin BINANCE:BTCUSD aimed for $88,000 on Friday after Japan’s central bank raised interest rates to 30-year highs.Key points:Arthur Hayes eyes BTC price, yen surgeData from Cointelegraph Markets and TradingView showed 2.5% BTC price gains versus the daily open. In line with expectations, the Ban…
+
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -255,6 +257,12 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 ---
 
+**[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
+
+⬆️ 1 • 💬 0 • 7m ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+
+---
+
 **[Show HN: ZetaCrush: LLM Bitcoin Mining Competition](https://news.ycombinator.com/item?id=46305491)**
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
@@ -275,13 +283,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 17h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 18h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
 **[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 11 • 💬 3 • 2d ago
+⬆️ 11 • 💬 3 • 3d ago
 
 ---
 
@@ -303,7 +311,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 236 • ⏱️ 16:50 • 16h ago
+👁️ 38K • 👍 2K • 💬 224 • ⏱️ 16:50 • 17h ago
 
 ---
 
@@ -313,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 372 • 💬 14 • ⏱️ 9:21 • 22h ago
+👁️ 11K • 👍 378 • 💬 14 • ⏱️ 9:21 • 23h ago
 
 ---
 
@@ -323,7 +331,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 223 • ⏱️ 9:16 • 14h ago
+👁️ 49K • 👍 2K • 💬 226 • ⏱️ 9:16 • 15h ago
+
+---
+
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+
+📺 Thomas Kralow
+
+👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 4h ago
 
 ---
 
@@ -333,17 +351,17 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 3K • 💬 221 • ⏱️ 19:03 • 1d ago
+👁️ 43K • 👍 3K • 💬 226 • ⏱️ 19:03 • 1d ago
 
 ---
 
-**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
+**[BITCOIN CRASH](https://www.youtube.com/watch?v=CvoesenJMv4)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Savvy Finance
+📺 My Financial Friend
 
-👁️ 20K • 👍 805 • 💬 25 • ⏱️ 21:23 • 1d ago
+👁️ 11K • 👍 585 • 💬 240 • ⏱️ 12:05 • 19h ago
 
 ---
 
@@ -353,37 +371,25 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 11K • 👍 851 • 💬 173 • ⏱️ 15:27 • 20h ago
+👁️ 12K • 👍 886 • 💬 169 • ⏱️ 15:27 • 21h ago
 
 ---
 
-**[CRYPTO TRAP! They Are Lying To You About This Bitcoin Crash](https://www.youtube.com/watch?v=y1Qrr3lVMGo)**
+**[BITCOIN WHALES KNOW SOMETHING!](https://www.youtube.com/watch?v=7TYqt7nxx9s)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+📺 Discover Crypto
 
-📺 Altcoin Daily
-
-👁️ 73K • 👍 4K • 💬 318 • ⏱️ 9:01 • 2d ago
+👁️ 13K • 👍 181 • 💬 12 • ⏱️ 0:47 • 1d ago
 
 ---
 
-**[JAPAN INTEREST RATE LIVE: BIG BITCOIN MOVE AHEAD!](https://www.youtube.com/watch?v=uoHUITE3LKU)**
+**[BITCOIN MANIPULATION! Why Wall Street is PINNING the Price (Price Target REVEALED)](https://www.youtube.com/watch?v=oLf6GXbM0qM)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100 FREE COUPON BLOFIN: ...
+Nick Valdez looks at the latest US market-open manipulation that has hit Bitcoin's recent price action. Are they hunting liquidity ...
 
-📺 The Moon Show
+📺 Discover Crypto
 
-👁️ 7K • 👍 323 • 💬 9 • ⏱️ 41:11 • 10h ago
-
----
-
-**[LOST FAITH IN THE CRYPTO CYCLE? WATCH THIS | Raoul Pal at Solana Breakpoint | The Everything Code](https://www.youtube.com/watch?v=W_BD_FGaE2Y)**
-
-Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF Unlock the potential to showcase your brand to ...
-
-📺 Raoul Pal The Journey Man
-
-👁️ 35K • 👍 1K • 💬 57 • ⏱️ 1:52 • 2d ago
+👁️ 3K • 👍 124 • 💬 11 • ⏱️ 5:37 • 15h ago
 
 ---
 
@@ -393,7 +399,7 @@ THE TRUTH ABOUT CRYPTO 2026 SUPERCYCLE.
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 748 • 💬 38 • ⏱️ 2:22 • 1d ago
+👁️ 13K • 👍 754 • 💬 41 • ⏱️ 2:22 • 1d ago
 
 ---
 
