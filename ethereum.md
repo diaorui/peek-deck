@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T17:48:51.240855+00:00'
+updated: '2025-12-19T17:59:45.627516+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 17:48 UTC  
+**Last Updated:** December 19, 2025 at 17:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,984.25
+### $2,957.86
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** -4.9%  
-**30d:** +4.3%  
-**90d:** -33.4%  
-**1y:** -14.6%  
+**24h:** +4.1%  
+**7d:** -5.3%  
+**30d:** +3.8%  
+**90d:** -33.7%  
+**1y:** -15.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.21B
+**Market Cap:** $357.82B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-40.1%
 
 **All-Time Low:** $0.43
-+688804.1%
++684706.9%
 
 ---
 
@@ -88,7 +88,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 7h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 8h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfeZERSWeGnIvcQpe17AUzx_diFrEd7jD5SqnFZu02Tqu8voYaFy5kL&gaa_ts=69458d42&gaa_sig=DBS7AFZH9m701UotugjqWZdrIjV5q816QGymYsV5vhz65_xiMCjptIjbe8Iiz44PWIbtOlfDLskJJRdVvm8OuQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcQOFGjb4Kt7VS_gji60KjGMG4qgVhki7EIkq3kF99KIvwb7ZGN56dQ&gaa_ts=694595f9&gaa_sig=kFFHAvfKbxLWXyPWD_Evei-moFrN8EXiH6Edz8yX3i1PgaZnJWnTp6E4AjrNvc-vVjwuhUeQCTnYYxLlOdeAkw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -186,6 +186,12 @@ PR Newswire • 1h ago
 
 ---
 
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 6h ago
+
+---
+
 **[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
 
 Next year could be good but won't be driven by blockchain tech upgrades.
@@ -194,25 +200,19 @@ The Motley Fool • 6h ago
 
 ---
 
-**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
-
-The Block • 2d ago
-
----
-
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
-
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
-
-ts2.tech • 1d ago
-
----
-
 **[Next Major Ethereum Upgrade Revealed by Developers](https://www.tradingview.com/news/u_today:8c70a861f094b:0-next-major-ethereum-upgrade-revealed-by-developers/)**
 
 Just a few weeks after the Fusaka update, Ethereum BINANCE:ETHUSD developers have revealed the name for the next major upgrade in 2026. According to insights shared by Wu Blockchain, developers in the ecosystem have voted to name this next update "Hegota." What Hegota upgrade's name representsNotab…
 
 TradingView — Track All Markets • 3h ago
+
+---
+
+**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
+
+v
+
+AMBCrypto • 19h ago
 
 ---
 

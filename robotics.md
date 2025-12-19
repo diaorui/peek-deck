@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T17:48:51.244182+00:00'
+updated: '2025-12-19T17:59:45.630784+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 17:48 UTC  
+**Last Updated:** December 19, 2025 at 17:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,6 +52,14 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 ---
 
+**[My Old Line follower robot :))](https://www.reddit.com/r/robotics/comments/1pqrazl/my_old_line_follower_robot/)**
+
+It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
+
+18m ago
+
+---
+
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
 1d ago
@@ -60,7 +68,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 **[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -96,14 +104,6 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 ---
 
-**[From a single image to a 3D OctoMap — no LiDAR, no ROS, pure Python](https://www.reddit.com/r/robotics/comments/1ppt7iv/from_a_single_image_to_a_3d_octomap_no_lidar_no/)**
-
-Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -124,11 +124,33 @@ TechCrunch • 2d ago
 
 ---
 
+**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
+
+Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
+
+KSBY News • 11h ago
+
+---
+
 **[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
 CNN • 2d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 2d ago
+
+---
+
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -148,26 +170,6 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
-
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
-
-NVIDIA Developer • 2d ago
-
----
-
-**[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
-
-Bloomberg.com • 6h ago
-
----
-
 **[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
 
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
@@ -176,11 +178,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
+**[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
-SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
-
-navalnews.com • 2d ago
+Bloomberg.com • 7h ago
 
 ---
 

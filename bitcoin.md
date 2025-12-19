@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T17:48:51.234558+00:00'
+updated: '2025-12-19T17:59:45.621416+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 17:48 UTC  
+**Last Updated:** December 19, 2025 at 17:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,166.95
+### $87,320.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
+**24h:** +1.6%  
 **7d:** -3.5%  
 **30d:** +0.1%  
 **90d:** -24.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.87B
+**Market Cap:** $1741.53B
 Rank #1
 
-**Circulating Supply:** 19,964,250 BTC
+**Circulating Supply:** 19,964,268 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.8%
 
 **All-Time Low:** $67.81
-+129922.1%
++128631.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -88,6 +88,12 @@ Rank #1
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
 3h ago
+
+---
+
+**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
+
+34m ago
 
 ---
 
@@ -105,7 +111,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,12 +133,6 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
-
-15h ago
-
----
-
 **[Capitulation Theater: How Wall Street Is Engineering Fake Bitcoin Panic](https://www.reddit.com/r/Bitcoin/comments/1pqmmcd/capitulation_theater_how_wall_street_is/)**
 
 The squeeze is producing less and less for the traders who churn. Overnight, coins younger than 7 days generated almost all of the “profit” being taken, which is a clear tell. Coins held a year or more from much lower prices aren’t moving; the bulk of gains is coming from short-term swaping back and forth on a 2–3% move, not from long-term holders unloading. There’s a loud narrative right now that “long-term Bitcoin holders are finally selling” and that big players have moved entirely into the paper/ETF market. On-chain data is showing something very different. In the most recent window shown here: The vast majority of BTC spent comes from coins held < 1.5 years. Coins held 1.5+ years are barely moving. Their UTXOs just sit there. You can see in the data they are no longer selling the rises (like we've seen over night) Short-term ETF churn and algo trading are doing a great job of looking like capitulation, but you can’t claim that long-term holders are dumping when: Their coins aren’t actually moving on-chain, and The spend is overwhelmingly concentrated in the recent-buyer cohorts. In other words: ETFs and short-term tourists are getting shaken out. Real HODLers are doing the opposite at these levels... they’re not selling. You can play all the games you want in paper BTC, but on-chain is where the truth lives. As always: knowledge is power.
@@ -145,11 +145,25 @@ The squeeze is producing less and less for the traders who churn. Overnight, coi
 
 ## Google News: "bitcoin"
 
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqd_ATFwdWRGlrYiTyyK8lbKP8kPXB3a187zm43_FTongYPsGNOmW-3g&gaa_ts=694595f7&gaa_sig=Wcz6WjVXlKeVPkMsDw7QnVvUxYqfYTp8AkzbyeoTiVzgSrxIJy7GTB070R5_WaTnpZBY7iDqkfUluyg1VKGNMA%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
+
+Yahoo Finance • 15h ago
+
+---
+
 **[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -161,47 +175,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price news: Can BTC bulls break the curse of U.S. selling?](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
-
-Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
-
-CoinDesk • 55m ago
-
----
-
-**[Bitcoin, ether set for 2026 comeback on crypto regulation, Citi says (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4533546-bitcoin-ether-set-for-2026-comeback-on-crypto-regulation-citi-says)**
-
-Bitcoin (BTC-USD) and ether (ETH-USD) are on track to finish the year in the red, with macro and risk-asset headwinds outweighing the boost from increased crypto regulatory clarity. But Citi Research believes that underperformance might reverse in 2026.
-
-Seeking Alpha • 1h ago
-
----
-
 **[Bitcoin could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeEsWobSJq5RycoXGyrkGOFLYES_6iTMo5v53yyj6DdiCcAG86rIGpn&gaa_ts=694595f7&gaa_sig=uexhmFJEinRLyl-wYIuoFqPNn_zSjgkrZNOz2CpH2FMRqcRmIrY50qrveCgAq8lDd2_vSYIcd8AAmV_iYrcD2A%3D%3D)**
 
-Investing.com • 4h ago
-
----
-
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
-
-Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
-
-Yahoo Finance • 1d ago
+Barron's • 30m ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqeYtOyVupk5rLnlaXNA8uO6Dyx84kWxLoyVvnNPKHmPiC81EJJ0q1cq&gaa_ts=69458d41&gaa_sig=B3Ugw_0F6RN5u-6amgzCkj7a5aCzDbT9KNNdV0AanmlEHkeWQBBG84GdXFWhqOvEnQ9VFimmQwwLllMDTUhUZA%3D%3D)**
+**[Bitcoin price news: Can BTC bulls break the curse of U.S. selling?](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
 
-Barron's • 8h ago
+Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -209,13 +201,21 @@ Barron's • 8h ago
 
 Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
 Investor's Business Daily • 7h ago
+
+---
+
+**[Strategy Inc Stock (MSTR) Today: Bitcoin Rebound, MSCI Index Risk, Fresh BTC Buys, and Wall Street Price Targets (Dec. 19, 2025)](https://ts2.tech/en/strategy-inc-stock-mstr-today-bitcoin-rebound-msci-index-risk-fresh-btc-buys-and-wall-street-price-targets-dec-19-2025/)**
+
+Strategy Inc Stock (MSTR) Today: Bitcoin Rebound, MSCI Index Risk, Fresh BTC Buys, and Wall Street Price Targets (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 2h ago
 
 ---
 
@@ -329,7 +329,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 238 • ⏱️ 9:16 • 17h ago
+👁️ 52K • 👍 2K • 💬 238 • ⏱️ 9:16 • 18h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.c
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 69 • 💬 8 • ⏱️ 0:08 • 10h ago
+👁️ 7K • 👍 69 • 💬 8 • ⏱️ 0:08 • 11h ago
 
 ---
 
@@ -369,7 +369,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 12K • 👍 900 • 💬 171 • ⏱️ 15:27 • 23h ago
+👁️ 12K • 👍 900 • 💬 171 • ⏱️ 15:27 • 1d ago
 
 ---
 

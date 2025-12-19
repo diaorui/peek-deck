@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T17:48:51.224670+00:00'
+updated: '2025-12-19T17:59:45.612743+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 17:48 UTC  
+**Last Updated:** December 19, 2025 at 17:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 13h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 14h ago
 
 ---
 
@@ -81,7 +81,7 @@ My question is about reliance on facial recognition software, and more generally
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 37m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 48m ago
 
 ---
 
@@ -89,7 +89,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I frequently get errors when working with Anthropic's Opus 4.5, especially when the context starts to fill up. Frustratingly, the model will generate a ton of tokens before abruptly failing ("An unknown error has occurred"). The response vanishes and I'm back to my original prompt. Normally this wouldn't bug me that much. However, I recently ran out of usage and had to buy credits to make a deadline. As soon as I did this, I got the error message over and over again. The model DID sometimes complete a response, so I suspect their app is at fault; things get awfully buggy when working with long markdown artifacts. In any case, I was billed for each and every failed response. I burned through all my credits and never managed to get the task done. I reached out to Anthropic for help. A full week later they told me to kick rocks. Something about this feels wrong. You shouldn't bill customers if you fail to provide a service. I'm sure their TOS absolves them of responsibility, but it's still a hostile, BS policy. Curious whether this is a widespread issue or I just got especially unlucky. Edit: to clarify, the issue isn't that the response is low quality; it's that the response is completely dropped due to an error in the Claude app or website.
 
-45m ago
+56m ago
 
 ---
 
@@ -97,7 +97,7 @@ I frequently get errors when working with Anthropic's Opus 4.5, especially when 
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-12h ago
+13h ago
 
 ---
 
@@ -129,27 +129,25 @@ Los Angeles Times • 5h ago
 
 ---
 
-**[6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfxgmLJAwHigC64h5OgcY9GzPl4ijq9ExUUlnGgj5JjeiIDqe0OqC_a&gaa_ts=694595f6&gaa_sig=XeBqyUv_yrpBWngFe4MIgLwQoMj9fYVSF0mFOY0w_hOYxKlv8-HaIP9AdNMnl_Ij41itvHYtciKjUVMVO6oX1w%3D%3D)**
 
-Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
-
-WIRED • 1h ago
+The Wall Street Journal • 1d ago
 
 ---
 
-**[Caterpillar’s Worst 5 Days Since April Show AI Hype’s Pitfalls](https://www.bloomberg.com/news/articles/2025-12-19/caterpillar-s-worst-5-days-since-april-show-ai-hype-s-pitfalls)**
+**[Who is really shaping the future of AI? : TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/g-s1-102901/who-is-really-shaping-the-future-of-ai)**
 
-Caterpillar Inc.’s AI-powered rally stumbled as investors questioned the sustainability of the trade across US equities, sending the stock tumbling from a record high in its worst five-day stretch since April.
+What will AI look like in 2026? Is the hype a bubble or a tech revolution that will transform everything? This episode, the global politics shaping the future of AI and what it means for you.
 
-Bloomberg.com • 1h ago
+NPR • 26m ago
 
 ---
 
-**[Broadcom vs. AMD: Which AI Chip Stock Will Outperform in 2026?](https://finance.yahoo.com/news/broadcom-vs-amd-ai-chip-154500617.html)**
+**[Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees](https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-ai-software-devs-hired-2025-ex-employees.html)**
 
-Both Broadcom and AMD were big winners in 2025.
+As competition heats up for AI talent, Google turned to hiring more so-called boomerang employees in 2025.
 
-Yahoo Finance • 2h ago
+CNBC • 1h ago
 
 ---
 
@@ -161,21 +159,9 @@ Fortune • 1h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfVMxpEc_CDfxpdfx4V7L1a7-xv4uIAcpb47ZcmG66vpKvrNaZqGdqO&gaa_ts=69458d3f&gaa_sig=hco1OlnYAmNOtEY8kksAcjOCX27kVX5MduunxONdsrtLgtyLl6o-2V-ajAfqO02HCeVyVhpw7zAaAgtkjd60KQ%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
 The New York Times • 1h ago
-
----
-
-**[Tech moguls close to Trump see the midterms as a path to long-term power](https://www.washingtonpost.com/technology/2025/12/19/tech-super-pacs-midterms-ai/)**
-
-The Washington Post • 1h ago
 
 ---
 
@@ -187,11 +173,25 @@ The Guardian • 2h ago
 
 ---
 
+**[Wall Street Isn’t Asking Many Questions About AI’s Broader Reach](https://www.bloomberg.com/graphics/2025-wall-street-ai-questions-beyond-tech/)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
 CNN • 1d ago
+
+---
+
+**[NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)**
+
+NVIDIA will join the U.S. Department of Energy’s Genesis Mission as a private industry partner to keep U.S. AI both the leader and the standard in technology around the world.
+
+NVIDIA Blog • 22h ago
 
 ---
 
@@ -229,7 +229,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 514 • 💬 484 • 23h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 518 • 💬 486 • 23h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -237,7 +237,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 420 • 💬 508 • 22h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 426 • 💬 521 • 23h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -245,7 +245,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 325 • 💬 246 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 328 • 💬 247 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -269,7 +269,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 202 • 💬 164 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 202 • 💬 165 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -277,7 +277,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 145 • 💬 13 • 19h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 145 • 💬 13 • 20h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -371,7 +371,7 @@ In this video, Igor breaks down the update that brings visuals to Gemini Deep Re
 
 📺 The AI Advantage
 
-👁️ 10K • 👍 368 • 💬 39 • ⏱️ 10:43 • 22h ago
+👁️ 10K • 👍 368 • 💬 39 • ⏱️ 10:43 • 23h ago
 
 ---
 
@@ -381,7 +381,7 @@ Check out how we use AI Automation to Power Forward Future! https://clickhubspot
 
 📺 Matthew Berman
 
-👁️ 19K • 👍 807 • 💬 131 • ⏱️ 12:31 • 20h ago
+👁️ 19K • 👍 807 • 💬 131 • ⏱️ 12:31 • 21h ago
 
 ---
 
@@ -421,7 +421,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 337 • 1d ago
+⬇️ 0 • ❤️ 339 • 1d ago
 
 ---
 
@@ -433,7 +433,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 300 • 1d ago
+⬇️ 3,633 • ❤️ 301 • 1d ago
 
 ---
 
@@ -481,7 +481,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 226 • 2d ago
+⬇️ 397 • ❤️ 227 • 2d ago
 
 ---
 
@@ -493,7 +493,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 206 • 21h ago
+⬇️ 2,154 • ❤️ 212 • 21h ago
 
 ---
 
@@ -505,7 +505,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 949 • 7d ago
+⬇️ 201,479 • ❤️ 950 • 7d ago
 
 ---
 
