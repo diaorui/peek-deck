@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T13:54:34.816006+00:00'
+updated: '2025-12-19T14:20:55.384037+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 13:54 UTC  
+**Last Updated:** December 19, 2025 at 14:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,922.99
+### $88,286.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -2.3%  
-**30d:** +1.3%  
-**90d:** -23.6%  
-**1y:** -9.8%  
+**24h:** -0.7%  
+**7d:** -2.6%  
+**30d:** +1.0%  
+**90d:** -23.8%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.53B
+**Market Cap:** $1759.23B
 Rank #1
 
-**Circulating Supply:** 19,964,153 BTC
+**Circulating Supply:** 19,964,218 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.1%
 
 **All-Time Low:** $67.81
-+129574.1%
++129888.2%
 
 ---
 
@@ -103,7 +103,13 @@ Rank #1
 
 **[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-4h ago
+5h ago
+
+---
+
+**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+
+1h ago
 
 ---
 
@@ -113,15 +119,17 @@ Rank #1
 
 ---
 
-**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
-
-56m ago
-
----
-
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
 8h ago
+
+---
+
+**[Bank of Japan Raises Rates - $BTC Market Reacts Higher](https://www.reddit.com/r/Bitcoin/comments/1pqifpw/bank_of_japan_raises_rates_btc_market_reacts/)**
+
+The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative for risk assets - yet the market moved higher. The reason is simple: the hike was fully priced in, with markets assigning a ~98% probability to this outcome. What really mattered wasn’t the decision itself, but the tone. The BOJ Governor signaled that further tightening will continue - but very slowly and cautiously. This eased fears of an abrupt unwinding of the yen carry trade, where cheap yen funding is deployed into higher-yielding assets, including crypto. Earlier in December, many expected a BOJ hike to push $BTCbelow $70k due to liquidity tightening. Instead, the market did the opposite - the negative was absorbed in advance. The takeaway remains unchanged: liquidity and expectations matter far more than the headline decisions of central banks.
+
+3h ago
 
 ---
 
@@ -133,14 +141,6 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 ---
 
-**[Bank of Japan Raises Rates - $BTC Market Reacts Higher](https://www.reddit.com/r/Bitcoin/comments/1pqifpw/bank_of_japan_raises_rates_btc_market_reacts/)**
-
-The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative for risk assets - yet the market moved higher. The reason is simple: the hike was fully priced in, with markets assigning a ~98% probability to this outcome. What really mattered wasn’t the decision itself, but the tone. The BOJ Governor signaled that further tightening will continue - but very slowly and cautiously. This eased fears of an abrupt unwinding of the yen carry trade, where cheap yen funding is deployed into higher-yielding assets, including crypto. Earlier in December, many expected a BOJ hike to push $BTCbelow $70k due to liquidity tightening. Instead, the market did the opposite - the negative was absorbed in advance. The takeaway remains unchanged: liquidity and expectations matter far more than the headline decisions of central banks.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -149,21 +149,7 @@ The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative fo
 
 A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
 
-CoinDesk • 19h ago
-
----
-
-**[BTC price update: Bitcoin, crypto market could plummet again on 'Witching Friday.' Here's why](https://www.fastcompany.com/91463106/bitcoin-btc-price-update-crypto-market-could-plummet-again-on-witching-friday-heres-why)**
-
-Fast Company • 16h ago
-
----
-
-**[Michael Saylor Admits His ‘Big Mistake’ on Bitcoin, Says Price Falling After Strategy's $2B Purchase Is 'Good Thing'](https://finance.yahoo.com/news/michael-saylor-admits-big-mistake-110216353.html)**
-
-Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
-
-Yahoo Finance • 2h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,12 +158,6 @@ Yahoo Finance • 2h ago
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqe1vUQZfDlMxVTeBsc4Zq9XZ1-DiBibqN1gAliVazQ6rmC5aoU5k_u6&gaa_ts=694558fc&gaa_sig=R4NgtTPxpYy0xiXhCsm2-2OcCo64yqLbj_FwMrh6SbVR889i7PBfK09lhMvI_xuFtNN2VD6mAqPOeuZGQ1mDCw%3D%3D)**
-
-MarketWatch • 22m ago
 
 ---
 
@@ -205,6 +185,26 @@ CoinDesk • 8h ago
 
 ---
 
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfuyXUaNemTtExaQrgGoO3hcOi0ZaPja-XdK4o5AH-cdXL32XIO8qUE&gaa_ts=694562b2&gaa_sig=BLK0UE8XJPUU5rOSto_INg1rIZMZ-lQJMOdPzYbUdZnZGgs-ikRceuHKCJ_KMA4GWBbBj5UmQYTVGeca-ikZUQ%3D%3D)**
+
+MarketWatch • 48m ago
+
+---
+
+**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://finance.yahoo.com/news/bitcoin-headed-150-000-claims-120216586.html)**
+
+Mike Alfred remains firmly bullish on Bitcoin. Prominent bulls including Michael Saylor, Tom Lee, Bitwise, and Grayscale continue to project higher prices over the coming ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 20h ago
+
+---
+
 **[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
@@ -213,9 +213,11 @@ NPR • 4h ago
 
 ---
 
-**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
 
-The Block • 23h ago
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -227,7 +229,7 @@ The Block • 23h ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 23 • 💬 8 • 4d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 24 • 💬 8 • 4d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -243,7 +245,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 21h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 22h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -303,7 +305,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 236 • ⏱️ 16:50 • 15h ago
+👁️ 34K • 👍 2K • 💬 236 • ⏱️ 16:50 • 16h ago
 
 ---
 
@@ -313,7 +315,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 372 • 💬 14 • ⏱️ 9:21 • 21h ago
+👁️ 11K • 👍 372 • 💬 14 • ⏱️ 9:21 • 22h ago
 
 ---
 
@@ -323,7 +325,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 223 • ⏱️ 9:16 • 13h ago
+👁️ 45K • 👍 2K • 💬 223 • ⏱️ 9:16 • 14h ago
 
 ---
 
@@ -353,7 +355,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 11K • 👍 851 • 💬 173 • ⏱️ 15:27 • 19h ago
+👁️ 11K • 👍 851 • 💬 173 • ⏱️ 15:27 • 20h ago
 
 ---
 
