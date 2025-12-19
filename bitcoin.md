@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T21:42:59.724392+00:00'
+updated: '2025-12-19T21:54:19.877561+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 21:42 UTC  
+**Last Updated:** December 19, 2025 at 21:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
+**24h:** +2.8%  
 **7d:** -2.4%  
 **30d:** +1.2%  
 **90d:** -23.7%  
@@ -85,13 +85,13 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-9h ago
+10h ago
 
 ---
 
 **[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ PhillyVoice • 23h ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -173,7 +173,7 @@ Futurism • 6h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfehoVAI3A8voFg-kwPz_KIK17lhN9T0UOfzJ27ND4PKAduwMCkBB1q&gaa_ts=6945c6b4&gaa_sig=gxgzLKXvEHWMTlRW8o0lkazAAFBDPTwxUcjU4CGdHVO-adXn0Xvbu5oF-vA52FVpXlD8MfZ4Mzyn0iSHHkz54g%3D%3D)**
 
-Barron's • 12h ago
+Barron's • 13h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -293,7 +293,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46329328)**
 
-⬆️ 3 • 💬 1 • 2h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 3 • 💬 1 • 3h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
