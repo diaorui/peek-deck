@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T18:41:19.314269+00:00'
+updated: '2025-12-19T18:59:03.734716+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 18:41 UTC  
+**Last Updated:** December 19, 2025 at 18:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 14h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 15h ago
 
 ---
 
@@ -89,7 +89,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 An AI that is not afraid to tell you when you are wrong.
 
-🔗 [Tofu](https://withtofu.com) • 41m ago
+🔗 [Tofu](https://withtofu.com) • 58m ago
 
 ---
 
@@ -145,7 +145,7 @@ WIRED • 2h ago
 
 **[AI Is Changing Last-Minute Gift Buying. Here's Exactly How to Get Your Product Included in AI Results](https://www.inc.com/maria-jose-gutierrez-chavez/ai-is-changing-last-minute-gift-buying-heres-exactly-how-to-get-your-product-included-in-ai-results/91267313)**
 
-Inc.com • 8m ago
+Inc.com • 26m ago
 
 ---
 
@@ -161,7 +161,7 @@ NPR • 1h ago
 
 As competition heats up for AI talent, Google turned to hiring more so-called boomerang employees in 2025.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 1h ago
 
 As the holidays approach, many parents are excited to give their children the latest AI-powered toys. But a new report from the U.S. PIRG Education Fund sounds a cautionary note.
 
-News4JAX • 17m ago
+News4JAX • 35m ago
 
 ---
 
@@ -235,7 +235,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 436 • 💬 527 • 23h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 436 • 💬 527 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -275,7 +275,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 145 • 💬 13 • 20h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 145 • 💬 13 • 21h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -329,7 +329,7 @@ ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The n
 
 📺 FreedomToons
 
-👁️ 91K • 👍 11K • 💬 810 • ⏱️ 3:47 • 20h ago
+👁️ 91K • 👍 11K • 💬 810 • ⏱️ 3:47 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ In this video, Igor breaks down the update that brings visuals to Gemini Deep Re
 
 📺 The AI Advantage
 
-👁️ 10K • 👍 368 • 💬 39 • ⏱️ 10:43 • 23h ago
+👁️ 10K • 👍 368 • 💬 39 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ Check out how we use AI Automation to Power Forward Future! https://clickhubspot
 
 📺 Matthew Berman
 
-👁️ 19K • 👍 807 • 💬 131 • ⏱️ 12:31 • 21h ago
+👁️ 19K • 👍 807 • 💬 131 • ⏱️ 12:31 • 22h ago
 
 ---
 
@@ -713,7 +713,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 909 • 🔱 24 • 11d ago
+⭐ 909 • 🔱 24 • 12d ago
 
 ---
 

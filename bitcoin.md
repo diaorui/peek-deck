@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T18:41:19.322714+00:00'
+updated: '2025-12-19T18:59:03.743119+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 18:41 UTC  
+**Last Updated:** December 19, 2025 at 18:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,403.70
+### $87,229.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.4%  
-**7d:** -3.1%  
-**30d:** +0.5%  
-**90d:** -24.2%  
-**1y:** -10.5%  
+**24h:** +3.2%  
+**7d:** -3.3%  
+**30d:** +0.3%  
+**90d:** -24.4%  
+**1y:** -10.6%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-3h ago
+4h ago
 
 ---
 
@@ -111,13 +111,13 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
 
-53m ago
+1h ago
 
 ---
 
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 1h ago
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Decrypt • 1d ago
 
 Strategy Inc Stock (MSTR) Today: Bitcoin Rebound, MSCI Index Risk, Fresh BTC Buys, and Wall Street Price Targets (Dec. 19, 2025) - TechStock²
 
-ts2.tech • 2h ago
+ts2.tech • 3h ago
 
 ---
 
@@ -329,7 +329,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 238 • ⏱️ 9:16 • 18h ago
+👁️ 52K • 👍 2K • 💬 238 • ⏱️ 9:16 • 19h ago
 
 ---
 
