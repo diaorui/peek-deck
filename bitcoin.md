@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T11:19:43.295464+00:00'
+updated: '2025-12-19T11:36:01.049639+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 11:19 UTC  
+**Last Updated:** December 19, 2025 at 11:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.81B
+**Market Cap:** $1762.04B
 Rank #1
 
-**Circulating Supply:** 19,964,081 BTC
+**Circulating Supply:** 19,964,153 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129922.1%
++130034.2%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-7h ago
+8h ago
 
 ---
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-8h ago
+9h ago
 
 ---
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-12h ago
+13h ago
 
 ---
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -127,17 +127,19 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 ---
 
+**[Bank of Japan Raises Rates - $BTC Market Reacts Higher](https://www.reddit.com/r/Bitcoin/comments/1pqifpw/bank_of_japan_raises_rates_btc_market_reacts/)**
+
+The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative for risk assets - yet the market moved higher. The reason is simple: the hike was fully priced in, with markets assigning a ~98% probability to this outcome. What really mattered wasn’t the decision itself, but the tone. The BOJ Governor signaled that further tightening will continue - but very slowly and cautiously. This eased fears of an abrupt unwinding of the yen carry trade, where cheap yen funding is deployed into higher-yielding assets, including crypto. Earlier in December, many expected a BOJ hike to push $BTCbelow $70k due to liquidity tightening. Instead, the market did the opposite - the negative was absorbed in advance. The takeaway remains unchanged: liquidity and expectations matter far more than the headline decisions of central banks.
+
+30m ago
+
+---
+
 **[RECORD WHALE ACCUMULATION 🐳](https://www.reddit.com/r/Bitcoin/comments/1ppzl08/record_whale_accumulation/)**
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-15h ago
-
----
-
-**[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
-
-21h ago
+16h ago
 
 ---
 
@@ -145,7 +147,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
@@ -161,11 +163,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
 
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
 
-The Motley Fool • 1d ago
+CoinDesk • 17h ago
 
 ---
 
@@ -177,31 +179,25 @@ The Motley Fool • 1h ago
 
 ---
 
+**[4 Predictions for Bitcoin in 2026](https://finance.yahoo.com/news/4-predictions-bitcoin-2026-100500483.html)**
+
+Bitcoin investors have had a rough year; 2026 could be much better.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin Price Will Hit All-Time High in 2026, Bitwise Predicts, Will Be ‘Less Volatile’ Than Nvidia](https://www.ccn.com/news/crypto/bitcoin-price-will-hit-all-time-high-in-2026-bitwise-predicts-will-be-less-volatile-than-nvidia/)**
 
 CCN.com • 1h ago
 
 ---
 
-**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+**[Michael Saylor Admits His ‘Big Mistake’ on Bitcoin, Says Price Falling After Strategy's $2B Purchase Is 'Good Thing'](https://finance.yahoo.com/news/michael-saylor-admits-big-mistake-110216353.html)**
 
-Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
+Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
 
-CoinDesk • 17h ago
-
----
-
-**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
-
-Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
-
-NPR • 1h ago
-
----
-
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqeWm5psXy-ufvg-FZetJroXJLM3cHUFgkHUIxfXs7uaxvzYpA4zyfxl&gaa_ts=69453237&gaa_sig=KbBNJXnH3k0NcFQ3yX-q90wYudlu1TnuXUUr2wH-A-oxMZcA4OnIpBawr4l0x8VwiC2ykEKgpS9WzCVGJclA_Q%3D%3D)**
-
-Barron's • 1d ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -213,9 +209,17 @@ Bitcoin Magazine • 14h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqcRHqmIy2pb3LL_pDQF6HyL64kVqCqlcB8GFD0MHOp5tefTWUKAjwjJ&gaa_ts=69453237&gaa_sig=D01CsitZYTltONh5J_EhiqVPtzlOoHL5HKkt4EXjJ-NfH0CTdMSDGRKhiIkQYpE0sqP16PaPXiGDzH3ER18rKQ%3D%3D)**
+**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-The Wall Street Journal • 2d ago
+The Block • 20h ago
+
+---
+
+**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
+
+Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
+
+NPR • 1h ago
 
 ---
 
@@ -227,7 +231,7 @@ The Wall Street Journal • 2d ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 22 • 💬 8 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 23 • 💬 8 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -275,7 +279,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 13h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 14h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -383,7 +387,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 3K • 👍 629 • 💬 148 • ⏱️ 11:35 • 2h ago
+👁️ 3K • 👍 629 • 💬 148 • ⏱️ 11:35 • 3h ago
 
 ---
 

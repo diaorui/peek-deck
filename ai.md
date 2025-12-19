@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T11:19:43.287027+00:00'
+updated: '2025-12-19T11:36:01.041002+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 11:19 UTC  
+**Last Updated:** December 19, 2025 at 11:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 ---
 
+**[Gemini Flash hallucinates 91% times, if it does not know answer](https://www.reddit.com/r/artificial/comments/1pqgofe/gemini_flash_hallucinates_91_times_if_it_does_not/)**
+
+Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
+
+2h ago
+
+---
+
 **[Researchers show a robot learning 1,000 tasks in 24 hours](https://www.reddit.com/r/artificial/comments/1pqb8tk/researchers_show_a_robot_learning_1000_tasks_in/)**
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
@@ -58,14 +66,6 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
 18h ago
-
----
-
-**[Gemini Flash hallucinates 91% times, if it does not know answer](https://www.reddit.com/r/artificial/comments/1pqgofe/gemini_flash_hallucinates_91_times_if_it_does_not/)**
-
-Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
-
-2h ago
 
 ---
 
@@ -85,11 +85,19 @@ I have a backlog of 6-hour seminar recordings I need to turn into text. I tried 
 
 ---
 
+**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
+
+Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
+
+16h ago
+
+---
+
 **[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-17h ago
+18h ago
 
 ---
 
@@ -101,19 +109,11 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ---
 
-**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
+**[How To Browse The Pre-ChatGPT Internet](https://www.reddit.com/r/artificial/comments/1pq60u4/how_to_browse_the_prechatgpt_internet/)**
 
-Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
+I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
 
-16h ago
-
----
-
-**[Is Ai truly that bad/Evil? Just a discussion](https://www.reddit.com/r/artificial/comments/1pqf8s4/is_ai_truly_that_badevil_just_a_discussion/)**
-
-Been on Tiktok and other social media platforms. I live in kenya. I use claude and Grok to speed up some work things. Simple stuff like making word docs into pdf etc Then i see all these negative opinions and i just wanted to get some knowledge dropped on me? AI is ruining the enviroment? I thought AI servers are like any other, kept in a cold room in a building? How is it hurting the enviroment? AI is taking acting careers? Last i checked, despite the videos being cool looking or funny, they do have many flaws and you can tell the voices are copied or see amatomy flaws the longer it goes on AI is taking artist jobs? Forgive me for not knowing how arts is sold but even before AI, being an artist was hit or miss when being paid for your work right? It depended on who was looking at your art and if they liked it enough to buy it or commission something from you. AI is killing critical thinking/writing. Last i checked it still needeed a prompt to generate exactly what you want. If someone cant even write in the prompt what the idea they have is then critical thinking wasnt there to begin with right? I guess i just want to know what the ACTUAL cons of it are cause in africa, it doesnt seem to have hit us yet if any
-
-3h ago
+11h ago
 
 ---
 
@@ -129,23 +129,9 @@ The Guardian • 4h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfdB08LFa_cje8fsGr_PX7OGoophX7IhgSPKnMEGqbxlKhPN0YqiY5l&gaa_ts=69453282&gaa_sig=IvdoL3bjY2uVsdd_aBhzbL37Ea4RHcQ-4awHVBLqqxOGNlmLyHOIT-yEmRmocR7Z-N_rTfFGsOQ5K14PVlz2hg%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfLNMcRVCQKNYgLphBzatepp4uWFCp5wh3KfXEf56EbeNCffleeK0jC&gaa_ts=69453c08&gaa_sig=8VQy4QzYvGUt_jJF8BkqTEWCepXAVw-rFUfjOn6XquaV0kahYTXb94VqQGShx-9Chs4SYrBcW4ZP2sKc8pgWUw%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Data center deals hit record $61 billion in 2025 as AI valuation risks and funding concerns grip investors](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html)**
-
-Hyperscalers are increasingly turning to outside capital in the form of debt to fund the energy-intensive infrastructure.
-
-CNBC • 2h ago
-
----
-
-**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
-
-The New York Times • 1h ago
 
 ---
 
@@ -157,19 +143,25 @@ CNN • 1h ago
 
 ---
 
+**[Texas lawmakers from both parties oppose Trump’s order targeting state AI laws](https://www.texastribune.org/2025/12/19/texas-ai-law-trump-executive-order/)**
+
+Texas’ new law regulating AI is set to take effect Jan. 1, two months after Trump’s executive order threatening to cut off some federal money if states pass “onerous” AI laws.
+
+The Texas Tribune • 36m ago
+
+---
+
+**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
+
+The New York Times • 1h ago
+
+---
+
 **[One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o)**
 
 The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily.
 
 BBC • 22h ago
-
----
-
-**[China boosts AI chip output by upgrading older ASML machines](https://www.ft.com/content/d10398db-b8b4-40f3-8c6d-b340470f5f3c)**
-
-Restricted chipmaking tools are being retrofitted to make advanced AI chips, exposing cracks in US-led export controls
-
-Financial Times • 10h ago
 
 ---
 
@@ -181,19 +173,27 @@ blog.google • 19h ago
 
 ---
 
+**[YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions](https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/)**
+
+YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
+
+Deadline • 18h ago
+
+---
+
+**[Data center deals hit record $61 billion in 2025 as AI valuation risks and funding concerns grip investors](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html)**
+
+Hyperscalers are increasingly turning to outside capital in the form of debt to fund the energy-intensive infrastructure.
+
+CNBC • 2h ago
+
+---
+
 **[DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)**
 
 Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery.
 
-Google DeepMind • 15h ago
-
----
-
-**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
-
-Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
-
-NPR • 1h ago
+Google DeepMind • 16h ago
 
 ---
 
@@ -231,7 +231,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 436 • 💬 396 • 17h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 444 • 💬 402 • 17h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -239,7 +239,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 350 • 💬 383 • 16h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 355 • 💬 401 • 16h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -251,19 +251,19 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 ---
 
+**[Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://news.ycombinator.com/item?id=46294144)**
+
+Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
+
+⬆️ 258 • 💬 180 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+
+---
+
 **[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
 ⬆️ 249 • 💬 178 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
-
----
-
-**[Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://news.ycombinator.com/item?id=46294144)**
-
-Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
-
-⬆️ 248 • 💬 177 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -279,7 +279,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 144 • 💬 12 • 13h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 144 • 💬 13 • 13h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -323,7 +323,7 @@ The pace of AI development isn't slowing down. Today, we're diving into a massiv
 
 📺 Theoretically Media
 
-👁️ 13K • 👍 642 • 💬 98 • ⏱️ 14:37 • 11h ago
+👁️ 13K • 👍 642 • 💬 98 • ⏱️ 14:37 • 12h ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,023 • 10d ago
+⬇️ 329,981 • ❤️ 3,038 • 10d ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 330 • 18h ago
+⬇️ 0 • ❤️ 331 • 18h ago
 
 ---
 
@@ -451,6 +451,18 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 ---
 
+**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
+
+*Shakker Labs*
+
+AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
+
+`text-to-image`
+
+⬇️ 2,490 • ❤️ 237 • 5d ago
+
+---
+
 **[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
 
 *Microsoft*
@@ -460,18 +472,6 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 `image-to-3d`
 
 ⬇️ 0 • ❤️ 236 • 2d ago
-
----
-
-**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
-
-*Shakker Labs*
-
-AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
-
-`text-to-image`
-
-⬇️ 2,490 • ❤️ 226 • 5d ago
 
 ---
 
@@ -507,7 +507,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 169 • 14h ago
+⬇️ 2,154 • ❤️ 171 • 15h ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 141 • 41m ago
+⭐ 2.0k • 🔱 141 • 57m ago
 
 ---
 

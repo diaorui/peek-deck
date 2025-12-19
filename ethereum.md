@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T11:19:43.301403+00:00'
+updated: '2025-12-19T11:36:01.055635+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 11:19 UTC  
+**Last Updated:** December 19, 2025 at 11:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
-**7d:** -4.9%  
-**30d:** +4.2%  
-**90d:** -33.4%  
-**1y:** -14.7%  
+**24h:** +3.4%  
+**7d:** -4.6%  
+**30d:** +4.5%  
+**90d:** -33.2%  
+**1y:** -14.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.27B
+**Market Cap:** $357.84B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.1%
 
 **All-Time Low:** $0.43
-+681727.5%
++684591.4%
 
 ---
 
@@ -89,6 +89,14 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
 🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 1h ago
+
+---
+
+**[Ethereal news weekly #3 | J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy](https://www.reddit.com/r/ethereum/comments/1pqikyu/ethereal_news_weekly_3_jp_morgan_tokenized_fund/)**
+
+J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 21m ago
 
 ---
 
@@ -138,19 +146,23 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ---
 
-**[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcOsdRWjQYg3oCdehnUptNwUByRDpYmkJGnnvwr0u0Oonv6RH5O7s-J&gaa_ts=69453285&gaa_sig=vKt0jhp45ihPCOTRt48tAxmJakoDq4a8sx2u3LmVSpAh8GcZAI0rreu80C_MCzPalB-sWFrtA6qjdmwI0G4YfQ%3D%3D)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
 
-Barron's • 2d ago
+Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 36m ago
 
 ---
 
@@ -168,17 +180,15 @@ ts2.tech • 1d ago
 
 ---
 
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
-
-Is Ethereum really on the path to a price of $62,000 next year?
-
-The Motley Fool • 1d ago
-
----
-
 **[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
 
 Bloomberg.com • 22h ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
 
 ---
 
@@ -187,12 +197,6 @@ Bloomberg.com • 22h ago
 v
 
 AMBCrypto • 13h ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 2d ago
 
 ---
 
@@ -214,7 +218,7 @@ CoinDesk • 1d ago
 
 Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -288,7 +292,7 @@ or $4000? The spread in Ethereum predictions for 2026 is the widest we have ever
 
 📺 Wall Street Stockcast
 
-👁️ 599 • 👍 17 • 💬 2 • ⏱️ 31:33 • 14h ago
+👁️ 599 • 👍 17 • 💬 2 • ⏱️ 31:33 • 15h ago
 
 ---
 

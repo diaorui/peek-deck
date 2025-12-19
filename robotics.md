@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T11:19:43.304581+00:00'
+updated: '2025-12-19T11:36:01.058881+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 11:19 UTC  
+**Last Updated:** December 19, 2025 at 11:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,6 +38,14 @@ Robotics research and industry news
 
 ---
 
+**[UPS plans to invest $120M in around 400 truck-unloading robots from Pickle Robot Company to tackle one of logistics Holy Grails: unloading trailers. These mobile robots drive into containers, lift boxes up to 50 lbs (22.5 kg) with suction, and place them onto conveyors.](https://www.reddit.com/r/robotics/comments/1pqi5cd/ups_plans_to_invest_120m_in_around_400/)**
+
+Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
+
+47m ago
+
+---
+
 **[Selection Motor](https://www.reddit.com/r/robotics/comments/1pq4l38/selection_motor/)**
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
@@ -50,15 +58,15 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-23h ago
+1d ago
 
 ---
 
-**[UPS plans to invest $120M in around 400 truck-unloading robots from Pickle Robot Company to tackle one of logistics Holy Grails: unloading trailers. These mobile robots drive into containers, lift boxes up to 50 lbs (22.5 kg) with suction, and place them onto conveyors.](https://www.reddit.com/r/robotics/comments/1pqi5cd/ups_plans_to_invest_120m_in_around_400/)**
+**[Ouster: Building The Interfaces Between AI And The Physical World](https://www.reddit.com/r/robotics/comments/1pqilq8/ouster_building_the_interfaces_between_ai_and_the/)**
 
-Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
+Ouster is positioned to provide essential perception interfaces that allow AI to act within the physical world, as digital LiDAR might become a primary sensory layer for autonomous systems.
 
-31m ago
+🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 20m ago
 
 ---
 
@@ -98,29 +106,13 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 19h ago
-
----
-
-**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
-
-Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
-
-11h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 20h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 1d ago
-
----
 
 **[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
 
@@ -130,11 +122,17 @@ TechCrunch • 1d ago
 
 ---
 
-**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
-Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-CNN • 1d ago
+NASA (.gov) • 2d ago
+
+---
+
+**[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
+
+Bloomberg.com • 41m ago
 
 ---
 
@@ -146,11 +144,17 @@ Los Angeles Times • 2d ago
 
 ---
 
-**[CATL marks trailblazing deployment of humanoid robots at scale in China plant](https://www.scmp.com/tech/big-tech/article/3336939/chinas-catl-marks-trailblazing-deployment-humanoid-robots-scale-factory-floor)**
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-The initiative underscores the growing use of intelligent Chinese-made robots in the country’s manufacturing industry.
+Bloomberg.com • 35m ago
 
-South China Morning Post • 22h ago
+---
+
+**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+
+Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+
+CNN • 2d ago
 
 ---
 
@@ -168,27 +172,19 @@ The New York Times • 2d ago
 
 ---
 
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 1d ago
+
+---
+
 **[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
 navalnews.com • 2d ago
-
----
-
-**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
-
-From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
-
-The Robot Report • 2d ago
-
----
-
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
-
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 2d ago
 
 ---
 
