@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T22:40:02.170356+00:00'
+updated: '2025-12-19T22:52:12.205476+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 22:40 UTC  
+**Last Updated:** December 19, 2025 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.8%  
-**7d:** -4.0%  
-**30d:** +5.2%  
-**90d:** -32.8%  
-**1y:** -13.9%  
+**24h:** +6.1%  
+**7d:** -3.8%  
+**30d:** +5.4%  
+**90d:** -32.6%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.40B
+**Market Cap:** $360.44B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.6%
 
 **All-Time Low:** $0.43
-+689427.7%
++689619.4%
 
 ---
 
@@ -148,17 +148,11 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
-Decrypt • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdy0wRlVdaB35NBZ48TNi1cIaNEVGQTt8ZYUIp1i0YEvP3_Fyc9PQ7U&gaa_ts=6945d2ea&gaa_sig=PbU3Gzugrld5KlcDm-C0EX1hTopyb58EK8v7elWqI25YOd1D8wfgsmQIO79FvfB3UAfK3sjjiJ0Aq1YodJDXzg%3D%3D)**
-
-Barron's • 2d ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -178,17 +172,25 @@ Yahoo Finance • 20h ago
 
 ---
 
+**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+Yahoo Finance • 11h ago
+
+---
+
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
 The Block • 11h ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
 
-Next year could be good but won't be driven by blockchain tech upgrades.
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-The Motley Fool • 11h ago
+Decrypt • 1d ago
 
 ---
 
@@ -200,25 +202,23 @@ ts2.tech • 2d ago
 
 ---
 
-**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
+**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
 
-v
+Is Ethereum really on the path to a price of $62,000 next year?
 
-AMBCrypto • 1d ago
+The Motley Fool • 2d ago
+
+---
+
+**[Synthetix Unveils Perpetual DEX on Ethereum Mainnet](https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet)**
+
+The Defiant • 23h ago
 
 ---
 
 **[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
 
 CCN.com • 3d ago
-
----
-
-**[Curve Finance Strengthens Its Position as a Leading Ethereum DEX With 44% Fee Share](https://markets.businessinsider.com/news/currencies/curve-finance-strengthens-its-position-as-a-leading-ethereum-dex-with-44-fee-share-1035661157)**
-
-Zug, Switzerland, December 19th, 2025, FinanceWireEthereum&rsquo;s market is one of the most competitive corners of DeFi, and...
-
-markets.businessinsider.com • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 487 • 👍 52 • ⏱️ 58:50 • 2h ago
+👁️ 487 • 👍 52 • ⏱️ 58:50 • 3h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T22:40:02.173587+00:00'
+updated: '2025-12-19T22:52:12.208300+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 22:40 UTC  
+**Last Updated:** December 19, 2025 at 22:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
-
-7h ago
-
----
-
 **[World's first ever universal humanoid navigation stack](https://www.reddit.com/r/robotics/comments/1pqudhi/worlds_first_ever_universal_humanoid_navigation/)**
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-2h ago
+3h ago
+
+---
+
+**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
+
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,15 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-4h ago
+5h ago
+
+---
+
+**[Plume, a small biped robot](https://www.reddit.com/r/robotics/comments/1pqykl4/plume_a_small_biped_robot/)**
+
+Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
+
+11m ago
 
 ---
 
@@ -96,14 +104,6 @@ ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our 
 
 ---
 
-**[Is surface pro 11, 12inch, a good 2n1 laptop for robotics hobby.](https://www.reddit.com/r/robotics/comments/1pqusfj/is_surface_pro_11_12inch_a_good_2n1_laptop_for/)**
-
-I’m looking at getting a small 2n1 compact laptop. Something that isn’t too expensive. The one I was looking was the surface pro 11 12” Surface pro 11, 12inch Ram: 16gb Ssd: 512 (not- upgradable) Cpu: Snapdragon X Plus (8-Core) Price: $599 They have the 13” Ram:16gb SSD: 526gb (upgradable) CPU: Snapdragon X Elite (12-Core) Price: $999 ($1449 for 32gb ram, 1TB SSD, same CPU) I currently have a desktop for heavier task, but this mainly so i can take it on the go to local places, etc. This is for small robotics projects (building some robotic arms), but will probably take it a step further later
-
-2h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -128,13 +128,7 @@ TechCrunch • 2d ago
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
-KSBY News • 15h ago
-
----
-
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 2d ago
+KSBY News • 16h ago
 
 ---
 
@@ -143,6 +137,12 @@ The New York Times • 2d ago
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
 CNN • 2d ago
+
+---
+
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 2d ago
 
 ---
 

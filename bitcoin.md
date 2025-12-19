@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T22:40:02.164357+00:00'
+updated: '2025-12-19T22:52:12.200179+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 22:40 UTC  
+**Last Updated:** December 19, 2025 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,235.50
+### $88,282.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** -2.2%  
-**30d:** +1.4%  
-**90d:** -23.5%  
-**1y:** -9.6%  
+**24h:** +3.3%  
+**7d:** -2.4%  
+**30d:** +1.2%  
+**90d:** -23.7%  
+**1y:** -9.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.96B
+**Market Cap:** $1763.19B
 Rank #1
 
 **Circulating Supply:** 19,964,350 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.0%
 
 **All-Time Low:** $67.81
-+129767.3%
++130031.2%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,11 +95,17 @@ Rank #1
 
 ---
 
+**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
+
+7h ago
+
+---
+
 **[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-7h ago
+8h ago
 
 ---
 
@@ -115,27 +121,23 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
-
-7h ago
-
----
-
 **[unbothered. moisturized. happy. in my lane. focused. flourishing.](https://www.reddit.com/r/Bitcoin/comments/1pqsmtl/unbothered_moisturized_happy_in_my_lane_focused/)**
 
 4h ago
 
 ---
 
-**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+**[The 5th Golden Cross](https://www.reddit.com/r/Bitcoin/comments/1pqtygj/the_5th_golden_cross/)**
 
-9h ago
+Do you think this will play out like before? Or do you think with big institutions in play the market manipulation continues?
+
+3h ago
 
 ---
 
-**[Victory](https://www.reddit.com/r/Bitcoin/comments/1pqutyf/victory/)**
+**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-2h ago
+9h ago
 
 ---
 
@@ -157,11 +159,11 @@ PhillyVoice • 1d ago
 
 ---
 
-**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
+**[Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease](https://finance.yahoo.com/news/hut-8-shares-jump-ex-123347104.html)**
 
-Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
+Hut 8 has signed a deal valued at about $7 billion to lease a data center in ​Louisiana, it said on Wednesday, as former cryptocurrency miners pivot ‌to meet surging demand for artificial intelligence infrastructure.  The company will sign a 15-year lease agreement to develop a 245-megawatt data center in the River Bend campus.  The new deal involves partnerships with AI model developer Anthropic and infrastructure provider Fluidstack.
 
-NPR • 12h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -173,23 +175,9 @@ Futurism • 7h ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqcQGUpGtye8F8Z98Bcqw1uuf6AKlw9FpC-z-JP2C4K8G6ZdirsGmkiv&gaa_ts=6945d2e8&gaa_sig=LtCFMGbZgg6YFPo4LB4gX2JQHlZ2jWlWgVwkVvTMf1ybhKzjJYVjzjNWePVA_x4zeZVAH_qXhSnZmgbNeQ5NkA%3D%3D)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqeQ46i2RF72Ss4aOwefyY16XQ1kleGpVtUu1VcoYhBa735LbIUeJLO5&gaa_ts=6945da3c&gaa_sig=1rd6BBDvc1RG7n4l08JEDuW4xMToawJ-XeFudECO-RKg3DMkEBrdxBlfuAm0tE7kQyR1-r-ycnSgQnxJeY3ntQ%3D%3D)**
 
-Barron's • 13h ago
-
----
-
-**[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
-
-Investing.com • 9h ago
-
----
-
-**[Bitcoin’s Post-CPI Whipsaw Liquidates Over $500M Again](https://decrypt.co/352978/bitcoins-post-cpi-whipsaw-liquidates-over-500m-again)**
-
-Liquidations surged amid volatility from derivatives profit-taking and a shifting macro backdrop from the Bank of Japan’s rate hike.
-
-Decrypt • 12h ago
+Barron's • 14h ago
 
 ---
 
@@ -201,19 +189,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqd5lrdLbwBRhAMJqs5lYBdXW58ABY3-vtiycescoQFvjI_AZDojedpM&gaa_ts=6945da3c&gaa_sig=zqVGghmNK-WKCaCelX5wCzaK8Xed0uDVdMVLTlybkkpg0FGIWZWqrqE18UcN4l5M_ZeMylvfo7gUB3fZCPUN6A%3D%3D)**
 
-Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
-
-CoinDesk • 1d ago
+MarketWatch • 9h ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
 
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-Bloomberg.com • 11h ago
+CoinDesk • 5h ago
+
+---
+
+**[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
+
+Investing.com • 9h ago
+
+---
+
+**[Michael Saylor Admits His ‘Big Mistake’ on Bitcoin, Says Price Falling After Strategy's $2B Purchase Is 'Good Thing'](https://finance.yahoo.com/news/michael-saylor-admits-big-mistake-110216353.html)**
+
+Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -291,7 +291,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46329328)**
 
-⬆️ 3 • 💬 1 • 3h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 3 • 💬 1 • 4h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
