@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T10:11:36.685041+00:00'
+updated: '2025-12-19T10:40:58.836347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 10:11 UTC  
+**Last Updated:** December 19, 2025 at 10:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 13h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ My question is about reliance on facial recognition software, and more generally
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-59m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-15h ago
+16h ago
 
 ---
 
@@ -81,7 +81,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 I have a backlog of 6-hour seminar recordings I need to turn into text. I tried running them through the usual suspects (whispr and some online tools), and they all choke. Either they hallucinate after 45 minutes, or they hit a file size limit that’s laughably small (like 500mb). It feels like these trillion-dollar companies are intentionally nerfing their tools to force enterprise sales. I eventually had to find a smaller wrapper tool just to handle a 10-hour audio file without crashing. It’s wild that the "cutting edge" can't handle a simple long-form wav file in 2025. Is this a context window issue or just lazy product design?
 
-7m ago
+36m ago
 
 ---
 
@@ -89,7 +89,7 @@ I have a backlog of 6-hour seminar recordings I need to turn into text. I tried 
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 Been on Tiktok and other social media platforms. I live in kenya. I use claude and Grok to speed up some work things. Simple stuff like making word docs into pdf etc Then i see all these negative opinions and i just wanted to get some knowledge dropped on me? AI is ruining the enviroment? I thought AI servers are like any other, kept in a cold room in a building? How is it hurting the enviroment? AI is taking acting careers? Last i checked, despite the videos being cool looking or funny, they do have many flaws and you can tell the voices are copied or see amatomy flaws the longer it goes on AI is taking artist jobs? Forgive me for not knowing how arts is sold but even before AI, being an artist was hit or miss when being paid for your work right? It depended on who was looking at your art and if they liked it enough to buy it or commission something from you. AI is killing critical thinking/writing. Last i checked it still needeed a prompt to generate exactly what you want. If someone cant even write in the prompt what the idea they have is then critical thinking wasnt there to begin with right? I guess i just want to know what the ACTUAL cons of it are cause in africa, it doesnt seem to have hit us yet if any
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 11h ago
 
 Hyperscalers are increasingly turning to outside capital in the form of debt to fund the energy-intensive infrastructure.
 
-CNBC • 56m ago
+CNBC • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ CNBC • 56m ago
 
 Several AWS customers have complained about rising cloud costs in the AI era. Capital One is the latest, and one of the biggest.
 
-Business Insider • 11m ago
+Business Insider • 40m ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 10m ago
+The New York Times • 39m ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 1d ago
 
 The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -185,7 +185,7 @@ blog.google • 18h ago
 
 Restricted chipmaking tools are being retrofitted to make advanced AI chips, exposing cracks in US-led export controls
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -231,7 +231,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 427 • 💬 379 • 15h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 427 • 💬 379 • 16h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -287,13 +287,13 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 ## YouTube Videos: "ai"
 
-**[Kling Motion is a Gamechanger for AI Video!](https://www.youtube.com/watch?v=IjDD64t9Plg)**
+**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
 
-The pace of AI development isn't slowing down. Today, we're diving into a massive upgrade for Kling Video, a “vibe check” for the ...
+In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
 
-📺 Theoretically Media
+📺 Sinead Bovell
 
-👁️ 11K • 👍 582 • 💬 91 • ⏱️ 14:37 • 10h ago
+👁️ 19K • 👍 1K • 💬 199 • ⏱️ 17:48 • 21h ago
 
 ---
 
@@ -303,17 +303,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 96K • 👍 6K • 💬 708 • ⏱️ 5:52 • 19h ago
-
----
-
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 5K • 👍 157 • 💬 32 • ⏱️ 8:13 • 8h ago
+👁️ 102K • 👍 6K • 💬 744 • ⏱️ 5:52 • 19h ago
 
 ---
 
@@ -323,7 +313,17 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 502K • 👍 13K • 💬 2K • ⏱️ 1:39:47 • 1d ago
+👁️ 520K • 👍 13K • 💬 2K • ⏱️ 1:39:47 • 1d ago
+
+---
+
+**[Kling Motion is a Gamechanger for AI Video!](https://www.youtube.com/watch?v=IjDD64t9Plg)**
+
+The pace of AI development isn't slowing down. Today, we're diving into a massive upgrade for Kling Video, a “vibe check” for the ...
+
+📺 Theoretically Media
+
+👁️ 13K • 👍 642 • 💬 98 • ⏱️ 14:37 • 11h ago
 
 ---
 
@@ -333,57 +333,57 @@ This video invites you into a dreamlike ocean—a world that doesn't exist in re
 
 📺 Impossible AIs
 
-👁️ 56K • 👍 267 • 💬 30 • ⏱️ 8:01 • 1d ago
+👁️ 59K • 👍 273 • 💬 30 • ⏱️ 8:01 • 1d ago
 
 ---
 
-**[What AI and Hollywood are going to do to entertainment](https://www.youtube.com/watch?v=5FlRB1KKg-k)**
+**[I was using Google AI Studio wrong. It’s actually incredible](https://www.youtube.com/watch?v=EW5FidKUvkE)**
 
-ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The number 1 Christian prayer app in the US and ...
+Google AI Studio is SICK. Here's my workflow for getting WAY better at building apps. Join the Vibe Coding Academy waitlist: ...
 
-📺 FreedomToons
+📺 Alex Finn
 
-👁️ 73K • 👍 9K • 💬 664 • ⏱️ 3:47 • 12h ago
-
----
-
-**[Introducing NVP: The Propaganda Eliminating AI Machine](https://www.youtube.com/watch?v=enq7W_ou3fY)**
-
-Subscribe to NVP Link: www.newsvpro.com.
-
-📺 Mahmood OD | محمود عودة
-
-👁️ 9K • 👍 1K • 💬 91 • ⏱️ 13:36 • 18h ago
+👁️ 9K • 👍 402 • 💬 52 • ⏱️ 10:33 • 1d ago
 
 ---
 
-**[‘PROPAGANDA’: AI executive FIRES BACK at AI naysayers](https://www.youtube.com/watch?v=AUQ4ey6o464)**
+**[Larian Face Mass Revolt Over Gen AI, CEO Responds](https://www.youtube.com/watch?v=qzubsWEM3Eo)**
 
-Palantir CTO Shyam Sankar corrects critics who say artificial intelligence will create massive unemployment, lauding his company ...
+Get 10% off at Bellroy using my link: https://bit.ly/48B6ltZ AI has become a hotly debated topic as many perceive the technology to ...
 
-📺 Fox Business
+📺 YongYea
 
-👁️ 5K • 👍 142 • 💬 92 • ⏱️ 7:56 • 1d ago
-
----
-
-**[It’s a matter of time before… 🤯  #ai #artificialintelligence #work #thediaryofaceo](https://www.youtube.com/watch?v=F3L-MajJtXQ)**
-
-It's a matter of time before…” - Watch the full podcast with Yoshua Bengio in The Diary Of A CEO - #ai #artificialintelligence ...
-
-📺 Goated Quotes
-
-👁️ 5K • 👍 177 • 💬 4 • ⏱️ 0:57 • 8h ago
+👁️ 120K • 👍 5K • 💬 4K • ⏱️ 35:42 • 1d ago
 
 ---
 
-**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
+**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
 
-CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
+A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
 
-📺 CNBC Television
+📺 Bridebook
 
-👁️ 41K • 👍 269 • 💬 165 • ⏱️ 3:16 • 1d ago
+👁️ 220K • 👍 8K • 💬 276 • ⏱️ 0:52 • 1d ago
+
+---
+
+**[Which cockatoo is AI? #cockatoo #parrot #animalhumor #cute #Heartwarming](https://www.youtube.com/watch?v=TJPeeQ-Wu4w)**
+
+The jackson_huhniverse account, a very quickly growing account on Instagram and Facebook, is an AI video account really trying ...
+
+📺 Jeremy Carrasco
+
+👁️ 386K • 👍 35K • 💬 547 • ⏱️ 1:21 • 1d ago
+
+---
+
+**[AI baby Dave Chappelle is disrupting ecosystems 👶🏼🤖🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=1Oo8nzGungI)**
+
+Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+
+📺 Gianmarco Soresi
+
+👁️ 408K • 👍 14K • 💬 405 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 368 • 11h ago
+⬇️ 62,493 • ❤️ 368 • 12h ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 330 • 17h ago
+⬇️ 0 • ❤️ 330 • 18h ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 141 • 6h ago
+⭐ 2.0k • 🔱 141 • 7h ago
 
 ---
 
@@ -707,7 +707,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.2k • 🔱 140 • 10h ago
+⭐ 1.2k • 🔱 140 • 11h ago
 
 ---
 

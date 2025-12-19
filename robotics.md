@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T10:11:36.702964+00:00'
+updated: '2025-12-19T10:40:58.854401+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 10:11 UTC  
+**Last Updated:** December 19, 2025 at 10:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-18h ago
+19h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 18h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 73K • 👍 983 • 💬 147 • ⏱️ 11:23 • 3d ago
+👁️ 73K • 👍 984 • 💬 148 • ⏱️ 11:23 • 3d ago
 
 ---
 
@@ -212,17 +212,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 PRO ROBOTS
 
-👁️ 298K • 👍 5K • 💬 502 • ⏱️ 26:54 • 4d ago
-
----
-
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 24K • 👍 2K • 💬 56 • ⏱️ 1:38 • 2d ago
+👁️ 300K • 👍 5K • 💬 506 • ⏱️ 26:54 • 4d ago
 
 ---
 
@@ -236,13 +226,13 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
 
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
 
-📺 CNET
+📺 Dr Ben Miles
 
-👁️ 31K • 👍 743 • 💬 116 • ⏱️ 6:41 • 4d ago
+👁️ 24K • 👍 2K • 💬 56 • ⏱️ 1:38 • 2d ago
 
 ---
 
@@ -252,7 +242,17 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 21K • 👍 2K • 💬 182 • ⏱️ 13:43 • 19h ago
+👁️ 23K • 👍 2K • 💬 187 • ⏱️ 13:43 • 19h ago
+
+---
+
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+
+Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+
+📺 CNET
+
+👁️ 31K • 👍 746 • 💬 116 • ⏱️ 6:41 • 4d ago
 
 ---
 
@@ -262,7 +262,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 424K • 👍 14K • 💬 466 • ⏱️ 0:34 • 5d ago
+👁️ 426K • 👍 14K • 💬 474 • ⏱️ 0:34 • 5d ago
 
 ---
 
@@ -272,7 +272,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 179K • 👍 2K • 💬 21 • ⏱️ 0:25 • 4d ago
+👁️ 180K • 👍 2K • 💬 21 • ⏱️ 0:25 • 4d ago
 
 ---
 
@@ -282,7 +282,7 @@ This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it g
 
 📺 DLLS Sports
 
-👁️ 23K • 👍 236 • 💬 25 • ⏱️ 0:14 • 1d ago
+👁️ 23K • 👍 238 • 💬 26 • ⏱️ 0:14 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ Learn for free on Brilliant: https://brilliant.org/Tazer/ and get 20% off an ann
 
 📺 Tazer
 
-👁️ 69K • 👍 4K • 💬 149 • ⏱️ 23:20 • 3d ago
+👁️ 70K • 👍 4K • 💬 150 • ⏱️ 23:20 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T10:11:36.693637+00:00'
+updated: '2025-12-19T10:40:58.845018+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 10:11 UTC  
+**Last Updated:** December 19, 2025 at 10:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -2.2%  
-**30d:** +1.4%  
-**90d:** -23.5%  
-**1y:** -9.7%  
+**24h:** +1.0%  
+**7d:** -2.4%  
+**30d:** +1.2%  
+**90d:** -23.7%  
+**1y:** -9.8%  
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-7h ago
+8h ago
 
 ---
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-11h ago
+12h ago
 
 ---
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-6h ago
+7h ago
 
 ---
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-14h ago
+15h ago
 
 ---
 
@@ -165,13 +165,13 @@ Yahoo Finance • 1d ago
 
 Bitcoin investors have had a rough year; 2026 could be much better.
 
-The Motley Fool • 26m ago
+The Motley Fool • 55m ago
 
 ---
 
 **[Bitcoin Price Will Hit All-Time High in 2026, Bitwise Predicts, Will Be ‘Less Volatile’ Than Nvidia](https://www.ccn.com/news/crypto/bitcoin-price-will-hit-all-time-high-in-2026-bitwise-predicts-will-be-less-volatile-than-nvidia/)**
 
-CCN.com • 24m ago
+CCN.com • 53m ago
 
 ---
 
@@ -187,19 +187,19 @@ CoinDesk • 2d ago
 
 Fidelity’s global macro director, Jurien Timmer, has called the end of the latest bitcoin bull run, while highlighting gold’s continued bull market strength.
 
-CoinDesk • 4m ago
+CoinDesk • 33m ago
 
 ---
 
 **[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
 **[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqftSG9XLV1InhDovX1VlluUAF4Zwdnz1KbENdHqhuUeoZyjuuE91hCH&gaa_ts=69452841&gaa_sig=PA2xgjvnugi2rxj-jwL9oEuNQHYSoyBeaFPM5OpMpYl48XsnrneSLhHkH8K5afLh5Tb222DnkS1yfy96Dln41g%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -275,7 +275,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 12h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 13h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -303,17 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 355 • 💬 13 • ⏱️ 9:21 • 17h ago
-
----
-
-**[They Are The Ones Responsible for the Crypto Dump](https://www.youtube.com/watch?v=Vok-QQnBl3Q)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 119 • ⏱️ 9:16 • 10h ago
+👁️ 10K • 👍 364 • 💬 14 • ⏱️ 9:21 • 18h ago
 
 ---
 
@@ -323,17 +313,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 29K • 👍 2K • 💬 138 • ⏱️ 16:50 • 11h ago
-
----
-
-**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
-
-Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
-
-📺 Simply Bitcoin
-
-👁️ 42K • 👍 3K • 💬 218 • ⏱️ 19:03 • 1d ago
+👁️ 32K • 👍 2K • 💬 232 • ⏱️ 16:50 • 12h ago
 
 ---
 
@@ -343,7 +323,17 @@ After a rocky December, many investors are asking the same question: Did Bitcoin
 
 📺 The Bitcoin Revolution
 
-👁️ 10K • 👍 161 • 💬 198 • ⏱️ 9:46 • 19h ago
+👁️ 10K • 👍 163 • 💬 177 • ⏱️ 9:46 • 19h ago
+
+---
+
+**[BITCOIN CRASH](https://www.youtube.com/watch?v=CvoesenJMv4)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 11K • 👍 579 • 💬 248 • ⏱️ 12:05 • 14h ago
 
 ---
 
@@ -353,7 +343,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 10K • 👍 767 • 💬 161 • ⏱️ 15:27 • 16h ago
+👁️ 11K • 👍 810 • 💬 159 • ⏱️ 15:27 • 16h ago
 
 ---
 
@@ -363,17 +353,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 7K • 👍 263 • 💬 118 • ⏱️ 14:32 • 17h ago
-
----
-
-**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 29K • 👍 1K • 💬 366 • ⏱️ 8:31 • 1d ago
+👁️ 7K • 👍 266 • 💬 103 • ⏱️ 14:32 • 17h ago
 
 ---
 
@@ -383,7 +363,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 794 • 💬 25 • ⏱️ 21:23 • 1d ago
+👁️ 19K • 👍 798 • 💬 25 • ⏱️ 21:23 • 1d ago
 
 ---
 
@@ -394,6 +374,26 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 📺 Altcoin Daily
 
 👁️ 72K • 👍 4K • 💬 318 • ⏱️ 9:01 • 2d ago
+
+---
+
+**[URGENT: BITCOIN BOTTOM IS IN, IF THIS PLAYS OUT…](https://www.youtube.com/watch?v=wZt7sGAS5kE)**
+
+Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
+
+📺 100XClub
+
+👁️ 3K • 👍 629 • 💬 148 • ⏱️ 11:35 • 2h ago
+
+---
+
+**[LOST FAITH IN THE CRYPTO CYCLE? WATCH THIS | Raoul Pal at Solana Breakpoint | The Everything Code](https://www.youtube.com/watch?v=W_BD_FGaE2Y)**
+
+Download Raoul Pal's 5-year investing roadmap for free:* https://rvtv.io/41fVHWF Unlock the potential to showcase your brand to ...
+
+📺 Raoul Pal The Journey Man
+
+👁️ 35K • 👍 1K • 💬 57 • ⏱️ 1:52 • 2d ago
 
 ---
 
