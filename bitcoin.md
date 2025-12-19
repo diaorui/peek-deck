@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T15:47:16.012031+00:00'
+updated: '2025-12-19T15:58:34.740683+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 15:47 UTC  
+**Last Updated:** December 19, 2025 at 15:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,000.00
+### $87,828.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -2.6%  
-**30d:** +1.0%  
-**90d:** -23.9%  
-**1y:** -9.7%  
+**24h:** -0.2%  
+**7d:** -2.5%  
+**30d:** +1.1%  
+**90d:** -23.8%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1764.13B
+**Market Cap:** $1753.95B
 Rank #1
 
 **Circulating Supply:** 19,964,243 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.3%
 
 **All-Time Low:** $67.81
-+130037.1%
++129411.9%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-3h ago
-
----
-
-**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
-
-12h ago
+4h ago
 
 ---
 
@@ -99,7 +93,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -112,6 +106,18 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 **[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
 6h ago
+
+---
+
+**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
+
+12h ago
+
+---
+
+**[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
+
+42m ago
 
 ---
 
@@ -133,14 +139,6 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Don't panic!](https://www.reddit.com/r/Bitcoin/comments/1pqgdkv/dont_panic/)**
-
-Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,7 +153,7 @@ MarketWatch • 2h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -217,7 +215,7 @@ CoinDesk • 10h ago
 
 Bitcoin BINANCE:BTCUSD aimed for $88,000 on Friday after Japan’s central bank raised interest rates to 30-year highs.Key points:Arthur Hayes eyes BTC price, yen surgeData from Cointelegraph Markets and TradingView showed 2.5% BTC price gains versus the daily open. In line with expectations, the Ban…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -245,7 +243,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 23h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -259,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 0 • 25m ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 36m ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -331,7 +329,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 226 • ⏱️ 9:16 • 15h ago
+👁️ 49K • 👍 2K • 💬 226 • ⏱️ 9:16 • 16h ago
 
 ---
 
@@ -371,7 +369,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 12K • 👍 886 • 💬 169 • ⏱️ 15:27 • 21h ago
+👁️ 12K • 👍 886 • 💬 169 • ⏱️ 15:27 • 22h ago
 
 ---
 

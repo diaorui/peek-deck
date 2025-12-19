@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T15:47:16.018146+00:00'
+updated: '2025-12-19T15:58:34.746901+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 15:47 UTC  
+**Last Updated:** December 19, 2025 at 15:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,975.10
+### $2,970.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -4.6%  
-**30d:** +4.5%  
-**90d:** -33.2%  
-**1y:** -14.4%  
+**24h:** +0.3%  
+**7d:** -4.9%  
+**30d:** +4.2%  
+**90d:** -33.4%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.45B
+**Market Cap:** $357.43B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.1%
 
 **All-Time Low:** $0.43
-+684619.1%
++683896.2%
 
 ---
 
@@ -76,14 +76,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Getting Ethereum Ready for GigaGas](https://www.reddit.com/r/ethereum/comments/1pqhdeq/getting_ethereum_ready_for_gigagas/)**
-
-Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
-
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 5h ago
-
----
-
 **[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
@@ -92,11 +84,25 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 ---
 
+**[Getting Ethereum Ready for GigaGas](https://www.reddit.com/r/ethereum/comments/1pqhdeq/getting_ethereum_ready_for_gigagas/)**
+
+Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
+
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 5h ago
+
+---
+
 **[Ethereal news weekly #3 | J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy](https://www.reddit.com/r/ethereum/comments/1pqikyu/ethereal_news_weekly_3_jp_morgan_tokenized_fund/)**
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
 🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 4h ago
+
+---
+
+**[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
+
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 23m ago
 
 ---
 
@@ -133,14 +139,6 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 **[how come im receiving small amounts of eth back after robinhood deposits](https://www.reddit.com/r/ethereum/comments/1ppkedu/how_come_im_receiving_small_amounts_of_eth_back/)**
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
-
-1d ago
-
----
-
-**[Eth staking provider. Revolut vs Zengo wallet](https://www.reddit.com/r/ethereum/comments/1ppdfc5/eth_staking_provider_revolut_vs_zengo_wallet/)**
-
-I am staking ETH for a long time using Zengo wallet. I always thought they have one of the highest staking rewards when you don't want to stake directly on chain or any other more complicated solution. But recently I tested Revolut ETH staking and results suprised me. I left the amounts staked on both platforms untouched for 28 days. Then I look at how much did I make by staking on both platforms, devided by 28, multiplied by 365 devided by the amount staked and I got Zengo: 2.46% ROI Revolut: 4.92% ROI That is a huge difference! I wasn't able to find a good source of information on the comparation of different staking providers. All the information and data just provide vague values that cannot be compared. Was my statistic samle just too small and doesn't actually show correct numbers or does Revolut staking really make 2 times bigger returns? What is the word on the street? Just to save some time. I know that Zengo and Revolut staking is different. I don't care about that right now, only focusing on pure invest > stake > earn. PS: I find it ridiculous (borderline illegal) that basically a financial institution (Zengo) offeres a service that makes it almost impossible to check what are the returns. The on chain data are completely obfuscated through their staking provider so there is no way how to see the periodic earnings. Only the overall sum of all your ernings is visible. Apart from making screenshots and calculating it yourself, you have no way to check how much you are actually earning over time.
 
 1d ago
 
