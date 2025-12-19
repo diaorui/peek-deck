@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T23:13:31.257418+00:00'
+updated: '2025-12-19T23:33:11.936117+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 23:13 UTC  
+**Last Updated:** December 19, 2025 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.19B
+**Market Cap:** $1761.06B
 Rank #1
 
-**Circulating Supply:** 19,964,350 BTC
+**Circulating Supply:** 19,964,387 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.0%
 
 **All-Time Low:** $67.81
-+130031.2%
++129984.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -127,9 +127,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[The 5th Golden Cross](https://www.reddit.com/r/Bitcoin/comments/1pqtygj/the_5th_golden_cross/)**
-
-Do you think this will play out like before? Or do you think with big institutions in play the market manipulation continues?
+**[Victory](https://www.reddit.com/r/Bitcoin/comments/1pqutyf/victory/)**
 
 3h ago
 
@@ -151,19 +149,15 @@ Reuters • 7h ago
 
 ---
 
-**[Philly man's bitcoin mining scheme allegedly defrauded investors of $48.5 million, SEC says](https://www.phillyvoice.com/bitcoin-mining-scam-vbit-sec-danh-vo-philadelphia/)**
+**[Strategy Keeps Nasdaq 100 Listing; What It Means For Bitcoin](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-nasdaq-100-msci-index-exclusion/)**
 
-Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
-
-PhillyVoice • 1d ago
+Investor's Business Daily • 6d ago
 
 ---
 
-**[Hut 8 shares jump as ex-bitcoin miner signs $7 billion AI data center lease](https://finance.yahoo.com/news/hut-8-shares-jump-ex-123347104.html)**
+**[MSCI delisting could trigger crypto sell-off worth billions](https://www.thestreet.com/crypto/markets/msci-delisting-of-crypto-stocks-could-trigger-15b-sell-off)**
 
-Hut 8 has signed a deal valued at about $7 billion to lease a data center in ​Louisiana, it said on Wednesday, as former cryptocurrency miners pivot ‌to meet surging demand for artificial intelligence infrastructure.  The company will sign a 15-year lease agreement to develop a 245-megawatt data center in the River Bend campus.  The new deal involves partnerships with AI model developer Anthropic and infrastructure provider Fluidstack.
-
-Yahoo Finance • 2d ago
+thestreet.com • 5h ago
 
 ---
 
@@ -175,45 +169,47 @@ Futurism • 8h ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqeQ46i2RF72Ss4aOwefyY16XQ1kleGpVtUu1VcoYhBa735LbIUeJLO5&gaa_ts=6945da3c&gaa_sig=1rd6BBDvc1RG7n4l08JEDuW4xMToawJ-XeFudECO-RKg3DMkEBrdxBlfuAm0tE7kQyR1-r-ycnSgQnxJeY3ntQ%3D%3D)**
+**['Bitcoin Senator' Cynthia Lummis Will Not Run for Reelection](https://finance.yahoo.com/news/bitcoin-senator-cynthia-lummis-not-224110368.html)**
+
+Senator Lummis, one of crypto’s most powerful allies in Washington, has been instrumental in fights to pass industry-favored legislation.
+
+Yahoo Finance • 52m ago
+
+---
+
+**[Why is Google Quietly Funneling Billions Into Bitcoin Miners?](https://finance.yahoo.com/news/why-google-quietly-funneling-billions-223229158.html)**
+
+The market showed mixed price action on December 18, with heightened volatility, especially during the late session. .cwp-coin-chart svg path { stroke-width: 0.65 !important; } .cwp-coin-widget-container .cwp-graph-container.positive svg path:nth-of-type(2) { stroke: #008868 !important; } .cwp-coin-widget-container .cwp-coin-trend.positive { color: #008868 !important; background-color: transparent !important; } .cwp-coin-widget-container .cwp-coin-popup-holder .cwp-coin-trend.positive { border:
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Why Bitcoin Rally Is Hitting a ‘Brick Wall’ at $93,000](https://finance.yahoo.com/news/why-bitcoin-rally-hitting-brick-215726904.html)**
+
+Bitcoin’s recent momentum has hit a formidable barrier, with the price struggling to push past the $93,000 mark. After a rapid $3,000 surge on December 17, the rally was just as quickly erased, highlighting a frustrating pattern for investors. This isn’t just random market noise; according to on-chain data firm ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqck3YzJdJkP2EWSNeYcp2BmAMHUdHaibwiSCO-yjYvKLaNW8IbR6EDK&gaa_ts=6945e3bc&gaa_sig=xtDGHB0JKvMc_ik5RANL46vlHPBif2P9EXunNtGL7UwR0uN3Zz1W13G9n3aae8azvLz3dSx3dI29rs5wYUB3CQ%3D%3D)**
 
 Barron's • 14h ago
 
 ---
 
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
-
-More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqd5lrdLbwBRhAMJqs5lYBdXW58ABY3-vtiycescoQFvjI_AZDojedpM&gaa_ts=6945da3c&gaa_sig=zqVGghmNK-WKCaCelX5wCzaK8Xed0uDVdMVLTlybkkpg0FGIWZWqrqE18UcN4l5M_ZeMylvfo7gUB3fZCPUN6A%3D%3D)**
-
-MarketWatch • 9h ago
-
----
-
-**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
-
-Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
-
-CoinDesk • 6h ago
-
----
-
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
-**[Michael Saylor Admits His ‘Big Mistake’ on Bitcoin, Says Price Falling After Strategy's $2B Purchase Is 'Good Thing'](https://finance.yahoo.com/news/michael-saylor-admits-big-mistake-110216353.html)**
+**[Bitcoin’s Post-CPI Whipsaw Liquidates Over $500M Again](https://decrypt.co/352978/bitcoins-post-cpi-whipsaw-liquidates-over-500m-again)**
 
-Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
+Liquidations surged amid volatility from derivatives profit-taking and a shifting macro backdrop from the Bank of Japan’s rate hike.
 
-Yahoo Finance • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -255,7 +251,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 7h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 8h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -283,15 +279,17 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ---
 
-**[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
+**[Show HN: Context Engine – open-source primitives for agent context management](https://news.ycombinator.com/item?id=46331925)**
 
-⬆️ 11 • 💬 3 • 3d ago
+Open source primitives for agent context management - Michaelliv/context-engine
+
+⬆️ 1 • 💬 0 • 38m ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 
-**[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46329328)**
+**[Show HN: See the carbon impact of your cloud as you code](https://news.ycombinator.com/item?id=46289638)**
 
-⬆️ 3 • 💬 1 • 4h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 11 • 💬 3 • 3d ago
 
 ---
 
@@ -305,7 +303,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 150 • ⏱️ 44:14 • 7h ago
+👁️ 26K • 👍 1K • 💬 150 • ⏱️ 44:14 • 8h ago
 
 ---
 
@@ -345,7 +343,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 11h ago
+👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 12h ago
 
 ---
 
@@ -395,7 +393,7 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 28K • 👍 1K • 💬 199 • ⏱️ 2:15 • 22h ago
+👁️ 28K • 👍 1K • 💬 199 • ⏱️ 2:15 • 23h ago
 
 ---
 

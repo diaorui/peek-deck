@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T23:13:31.263508+00:00'
+updated: '2025-12-19T23:33:11.942583+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 23:13 UTC  
+**Last Updated:** December 19, 2025 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,24 +45,24 @@ Live Ethereum monitoring dashboard
 **24h:** +5.5%  
 **7d:** -4.0%  
 **30d:** +5.2%  
-**90d:** -32.7%  
+**90d:** -32.8%  
 **1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.44B
+**Market Cap:** $360.23B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.6%
+-39.7%
 
 **All-Time Low:** $0.43
-+689619.4%
++688783.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 11h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 12h ago
 
 ---
 
@@ -148,11 +148,11 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
 
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-TradingView — Track All Markets • 11h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -164,25 +164,31 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqev5RVHvcO1FbWa2-u2MBQKQ_42u3CPaflQNRavhOy96f92CNAi3o2Q&gaa_ts=6945e416&gaa_sig=kNThUOytyd7qRGMlPBjsz14UZ3kIx3RzrayailuqgZo2XiWFp_BRy-w2Sz5oFGo5Y2GglC4z1EeUBYDbpx4K6A%3D%3D)**
 
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
-
-Yahoo Finance • 20h ago
+Barron's • 3d ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
+**[Synthetix Ditches Layer-2s, Returns to Ethereum’s Mainnet](https://finance.yahoo.com/news/synthetix-ditches-layer-2s-returns-221649947.html)**
 
-Next year could be good but won't be driven by blockchain tech upgrades.
+DeFi derivatives protocol Synthetix is returning to the Ethereum Mainnet after a three-year stint on various Layer-2 networks. The move comes as a response to fragmented liquidity that saw its native token, SNX, fall approximately 83% since late 2024. This strategic shift signals renewed confidence in Ethereum’s ability to handle ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
 The Block • 11h ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -199,14 +205,6 @@ Decrypt • 1d ago
 Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
 ts2.tech • 2d ago
-
----
-
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
-
-Is Ethereum really on the path to a price of $62,000 next year?
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -232,7 +230,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 11h ago
+👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 12h ago
 
 ---
 
@@ -242,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 11 • ⏱️ 9:41 • 9h ago
+👁️ 2K • 👍 148 • 💬 11 • ⏱️ 9:41 • 10h ago
 
 ---
 

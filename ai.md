@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T23:13:31.248732+00:00'
+updated: '2025-12-19T23:33:11.927367+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 23:13 UTC  
+**Last Updated:** December 19, 2025 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 3h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 4h ago
 
 ---
 
@@ -137,19 +137,17 @@ The Guardian • 8h ago
 
 ---
 
-**[The cream of the slop: this year's AI highlights](https://www.npr.org/2025/12/19/nx-s1-5649698/the-cream-of-the-slop-this-years-ai-highlights)**
+**[NY Gov. Kathy Hochul signs sweeping AI safety bill, RAISE Act](https://www.axios.com/2025/12/19/new-york-ai-safety-bill-hochul)**
 
-2025 has proved that artificial intelligence is rapidly reshaping online reality and that the “slop” is here to stay. NPR’s Geoff Brumfiel and Shannon Bond have spent much of the year rolling around in that slop and join host Scott Detrow to break down some of the highlights and how to sort the real from the fake.For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org.
+Axios • 35m ago
 
-Email us at considerthis@npr.org.
+---
 
-This episode was produced by Elena Burnett and Daniel Ofman.
+**[Want to work in AI? Here are the skills to master, economist says](https://www.cbsnews.com/news/ai-artificial-intelligence-ai-jobs-labor-market/)**
 
-It was edited by Brett Neely, John Ketchum and Courtney Dorning.
+Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-Our executive producer is Sami Yenigun.
-
-NPR • 2h ago
+CBS News • 44m ago
 
 ---
 
@@ -161,23 +159,23 @@ TechCrunch • 1h ago
 
 ---
 
-**[AI predictions 2026: 5 things this AI expert expects to see](https://finance.yahoo.com/video/ai-predictions-2026-5-things-223000868.html)**
-
-The artificial intelligence (AI) trade has been a key focus for investors this year and is expected to continue into 2026. Appian CEO and founder Matt Calkins joins Market Domination Overtime to outline five predictions he has for the AI space in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
-
-Yahoo Finance • 43m ago
-
----
-
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 3h ago
+The New York Times • 13h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqf18cKWjGVOmr1jksAsm4EEUDqMSE0kBcO_f6w0Cm6wqZBxiUsi6As7&gaa_ts=6945da86&gaa_sig=4gckDriZqZfg6ozmt6XuwbMYMYb7BElHdnnornBQcVHjj5VYsufBegDs_22iNXiI6lP3l4SKvcAHTiL4ZBgl6g%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeju8_lvpx3PnlaDmG8dv2pj9-4kKvhLgqKzExJ9HImZJ_CTNDX57f3&gaa_ts=6945e417&gaa_sig=A51Wd_g3ZHdB6TRl1iNdjSYL4itSI2Z3u1S-MO1uTRcso3NFgUDpbxKVSoQOYECkXuKd7_K33b8--ONTn0CdbQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
+
+---
+
+**[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
+
+There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
+
+CNN • 13h ago
 
 ---
 
@@ -185,21 +183,15 @@ The Wall Street Journal • 1d ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
 
 Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
-Fortune • 8h ago
-
----
-
-**[Wall Street Isn’t Asking Many Questions About AI’s Broader Reach](https://www.bloomberg.com/graphics/2025-wall-street-ai-questions-beyond-tech/)**
-
-Bloomberg.com • 12h ago
+Fortune • 9h ago
 
 ---
 
@@ -211,7 +203,7 @@ Bloomberg.com • 12h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1050 • 💬 527 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1051 • 💬 527 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -223,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 529 • 💬 505 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 530 • 💬 507 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -231,7 +223,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 445 • 💬 564 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 446 • 💬 567 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -321,7 +313,7 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 3K • 👍 105 • 💬 48 • ⏱️ 3:29 • 6h ago
+👁️ 3K • 👍 105 • 💬 48 • ⏱️ 3:29 • 7h ago
 
 ---
 
@@ -351,7 +343,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 10K • 👍 572 • 💬 25 • ⏱️ 1:01 • 6h ago
+👁️ 10K • 👍 572 • 💬 25 • ⏱️ 1:01 • 7h ago
 
 ---
 
@@ -407,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,081 • 11d ago
+⬇️ 329,981 • ❤️ 3,089 • 11d ago
 
 ---
 
@@ -419,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 380 • 2h ago
+⬇️ 62,493 • ❤️ 381 • 3h ago
 
 ---
 
@@ -455,7 +447,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 282 • 4d ago
+⬇️ 0 • ❤️ 283 • 4d ago
 
 ---
 
@@ -467,7 +459,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 272 • 5d ago
+⬇️ 2,490 • ❤️ 280 • 5d ago
 
 ---
 
@@ -479,7 +471,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 249 • 2d ago
+⬇️ 0 • ❤️ 250 • 2d ago
 
 ---
 
@@ -491,7 +483,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 242 • 1d ago
+⬇️ 2,154 • ❤️ 246 • 1d ago
 
 ---
 
@@ -503,7 +495,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 229 • 2d ago
+⬇️ 397 • ❤️ 230 • 2d ago
 
 ---
 
@@ -674,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.8k • 🔱 511 • 1d ago
+⭐ 4.8k • 🔱 513 • 1d ago
 
 ---
 
@@ -754,7 +746,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 793 • 🔱 116 • 2d ago
+⭐ 794 • 🔱 116 • 2d ago
 
 ---
 

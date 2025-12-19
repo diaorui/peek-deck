@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T23:13:31.266810+00:00'
+updated: '2025-12-19T23:33:11.945971+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 23:13 UTC  
+**Last Updated:** December 19, 2025 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,17 +40,25 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 ---
 
-**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
-
-7h ago
-
----
-
 **[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
 5h ago
+
+---
+
+**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
+
+8h ago
+
+---
+
+**[Plume, a small biped robot](https://www.reddit.com/r/robotics/comments/1pqykl4/plume_a_small_biped_robot/)**
+
+Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
+
+52m ago
 
 ---
 
@@ -70,17 +78,9 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ---
 
-**[Plume, a small biped robot](https://www.reddit.com/r/robotics/comments/1pqykl4/plume_a_small_biped_robot/)**
-
-Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
-
-32m ago
-
----
-
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our colleagues at ROSCon India, which is happening right now in Pune!      This week community member @_bernardo posted a teaser video for an incredible Manta-ray biomimetic robot that uses ROS 2!           Two new Depth Anything 3 tools came out this week. First PyOctomapAnything turns any image into a PyOctoMap 3D voxel scene There’s also a new a new foundation model for panoramic depth estimation. I’ve said it before, ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 3h ago
 
 ---
 
@@ -108,19 +108,41 @@ ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our 
 
 ## Google News: "robotics"
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 1d ago
-
----
-
 **[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
 TechCrunch • 2d ago
+
+---
+
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 2d ago
+
+---
+
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
+
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Welcome to home robotics limbo](https://edition.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+
+Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+
+CNN • 2d ago
 
 ---
 
@@ -132,39 +154,9 @@ KSBY News • 16h ago
 
 ---
 
-**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
-
-Tech historians may look back on 2025 as a kind of trough in consumer robotics.
-
-CNN • 2d ago
-
----
-
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 2d ago
-
----
-
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
 Bloomberg.com • 12h ago
-
----
-
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
-
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 3d ago
-
----
-
-**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
-
-NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -176,11 +168,19 @@ Sourcing Journal • 3d ago
 
 ---
 
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-NVIDIA Developer • 2d ago
+Fortune • 1d ago
+
+---
+
+**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
+
+NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 9K • 👍 23 • ⏱️ 0:09 • 11h ago
+👁️ 9K • 👍 23 • ⏱️ 0:09 • 12h ago
 
 ---
 
