@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T07:58:49.107468+00:00'
+updated: '2025-12-19T08:40:05.002001+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 07:58 UTC  
+**Last Updated:** December 19, 2025 at 08:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,177.76
+### $87,950.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -2.6%  
-**30d:** +1.1%  
-**90d:** -23.8%  
-**1y:** -10.0%  
+**24h:** +0.6%  
+**7d:** -2.7%  
+**30d:** +0.9%  
+**90d:** -23.9%  
+**1y:** -10.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.02B
+**Market Cap:** $1757.04B
 Rank #1
 
 **Circulating Supply:** 19,964,081 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.2%
 
 **All-Time Low:** $67.81
-+129330.8%
++129709.8%
 
 ---
 
@@ -77,33 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
+
+6h ago
+
+---
+
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-9h ago
+10h ago
 
 ---
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-14h ago
-
----
-
-**[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
-
-5h ago
+15h ago
 
 ---
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,13 @@ Rank #1
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-12h ago
+13h ago
+
+---
+
+**[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
+
+5h ago
 
 ---
 
@@ -123,13 +129,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-17h ago
-
----
-
-**[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
-
-5h ago
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -155,29 +155,45 @@ Bloomberg.com • 7h ago
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Prediction: Bitcoin Will Be Worth $250,000 in 5 Years](https://www.fool.com/investing/2025/12/19/prediction-bitcoin-will-be-worth-250000-in-5-years/)**
+**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
 
-Bitcoin's rate of growth may be slowing, but it's still on track to hit $250,000 by 2030.
-
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
-
-A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
+Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
 
 CoinDesk • 14h ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqdf6BouYt_BA1Er0hvk8_p28GRrBzxhWe0Q0dykMnPy8BEnGWTneN0w&gaa_ts=69450326&gaa_sig=eWTy1tkXD4vLVceDkuiyx3JczKxSMEJRBO792Bd-9fSlm3UT70UQD0mn9MZfhm0b5ba-5Z8pdSaYWWdyD4xisw%3D%3D)**
+**[What Happens to Bitcoin When Japan Raises Interest Rates](https://www.bitcoinsensus.com/news/bitcoin/what-happens-to-bitcoin-when-japan-raises-interest-rates)**
 
-Barron's • 21h ago
+Bitcoin dips below $85K as Japan prepares its biggest rate hike in 30 years, shaking global liquidity.
+
+Bitcoinsensus • 6h ago
+
+---
+
+**[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
+
+The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://www.tradingview.com/news/cointelegraph:bbb041a0a094b:0-bitcoin-rebounds-on-japan-rate-hike-as-arthur-hayes-sees-dollar-at-200-yen/)**
+
+Bitcoin BINANCE:BTCUSD aimed for $88,000 on Friday after Japan’s central bank raised interest rates to 30-year highs.Key points:Arthur Hayes eyes BTC price, yen surgeData from Cointelegraph Markets and TradingView showed 2.5% BTC price gains versus the daily open. In line with expectations, the Ban…
+
+TradingView — Track All Markets • 50m ago
+
+---
+
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqf5KOeuM-UXbtbgQJ1IlTJzzVzrbd5U25Gdvrru6r-qPC5HmyJBBwy-&gaa_ts=694512cc&gaa_sig=NXc3as7xEHT5iNNUTBZYpHV0cC2YM59WF66wbBqggRzFr-8phHUHcm6QKU03s8CvDJpyLhztAMByy3TSqwQa9w%3D%3D)**
+
+Barron's • 22h ago
 
 ---
 
@@ -189,29 +205,17 @@ Bitcoin Magazine • 11h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfEK2MQTUzy234siIgjOp0mn6wu-j2tQQEPz0WJhIkg-PH2X7XOykWg&gaa_ts=69450326&gaa_sig=ipjH3-za8dLWK_POzyIRenU3q_sCx_pJ6RnPXd8S-Cv_VfMCFA1FMr9Bou1MuzLhhOC1L5YT-CXBQlyr0_QZ2Q%3D%3D)**
+**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-The Wall Street Journal • 2d ago
-
----
-
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
-
-thestreet.com • 1d ago
+The Block • 17h ago
 
 ---
 
-**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
+**[How cheap power turned Libya into a Bitcoin mining hotspot](https://www.tradingview.com/news/cointelegraph:1b7f68192094b:0-how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot/)**
 
-The Block • 1d ago
+Key takeawaysIn November 2025, Libyan prosecutors quietly handed down three-year prison sentences to nine people caught running Bitcoin miners inside a steel factory in the coastal city of Zliten.The court ordered their machines seized and the illegally generated profits returned to the state, the…
 
----
-
-**[Bitcoin Holds 87K as CPI and BoJ Decisions Loom Large](https://www.investing.com/analysis/bitcoin-holds-87k-as-cpi-and-boj-decisions-loom-large-200672045)**
-
-Market Analysis by  covering: Bitcoin US Dollar. Read 's Market Analysis on Investing.com
-
-Investing.com • 18h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -271,7 +275,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 10h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 11h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -293,23 +297,13 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
-
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
-
-📺 Swan Bitcoin
-
-👁️ 25K • 👍 1K • 💬 100 • ⏱️ 16:50 • 9h ago
-
----
-
 **[&quot;$5,000,000,000 BTC in 1 Week?! OG Bitcoin Whales Are Going CRAZY&quot; - PlanB &amp; Michael Saylor](https://www.youtube.com/watch?v=vViqZ3gj8O4)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 334 • 💬 13 • ⏱️ 9:21 • 15h ago
+👁️ 10K • 👍 355 • 💬 13 • ⏱️ 9:21 • 16h ago
 
 ---
 
@@ -319,17 +313,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 117 • ⏱️ 9:16 • 8h ago
+👁️ 36K • 👍 2K • 💬 119 • ⏱️ 9:16 • 8h ago
 
 ---
 
-**[Proof Bitcoin Is Setting Up For A Giant Reversal](https://www.youtube.com/watch?v=HlPLngxdijY)**
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
 
-Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini Credit Card: $50 Bonus in crypto!
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
 
-📺 Krown
+📺 Swan Bitcoin
 
-👁️ 10K • 👍 732 • 💬 117 • ⏱️ 15:27 • 14h ago
+👁️ 29K • 👍 2K • 💬 138 • ⏱️ 16:50 • 10h ago
 
 ---
 
@@ -349,7 +343,47 @@ After a rocky December, many investors are asking the same question: Did Bitcoin
 
 📺 The Bitcoin Revolution
 
-👁️ 9K • 👍 153 • 💬 121 • ⏱️ 9:46 • 16h ago
+👁️ 10K • 👍 161 • 💬 198 • ⏱️ 9:46 • 17h ago
+
+---
+
+**[Proof Bitcoin Is Setting Up For A Giant Reversal](https://www.youtube.com/watch?v=HlPLngxdijY)**
+
+Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini Credit Card: $50 Bonus in crypto!
+
+📺 Krown
+
+👁️ 10K • 👍 767 • 💬 161 • ⏱️ 15:27 • 14h ago
+
+---
+
+**[Bitcoin&#39;s Crash Isn&#39;t About The Fed It&#39;s Much Worse](https://www.youtube.com/watch?v=POJ00W6MzKI)**
+
+Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+
+📺 Tim Talks Finance
+
+👁️ 7K • 👍 263 • 💬 118 • ⏱️ 14:32 • 15h ago
+
+---
+
+**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 29K • 👍 1K • 💬 366 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 19K • 👍 794 • 💬 25 • ⏱️ 21:23 • 1d ago
 
 ---
 
@@ -360,36 +394,6 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 📺 Altcoin Daily
 
 👁️ 72K • 👍 4K • 💬 318 • ⏱️ 9:01 • 2d ago
-
----
-
-**[Bitcoin Had Another Giant Fake Out](https://www.youtube.com/watch?v=B5qi8WX2SrE)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 29K • 👍 1K • 💬 364 • ⏱️ 8:31 • 1d ago
-
----
-
-**[Bitcoin&#39;s Crash Isn&#39;t About The Fed It&#39;s Much Worse](https://www.youtube.com/watch?v=POJ00W6MzKI)**
-
-Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
-
-📺 Tim Talks Finance
-
-👁️ 6K • 👍 260 • 💬 84 • ⏱️ 14:32 • 14h ago
-
----
-
-**[Jack Mallers - &quot;This Is the Bitcoin Drop I Tried to Prepare You For&quot;](https://www.youtube.com/watch?v=NR_XAKD4e58)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 19K • 👍 787 • 💬 25 • ⏱️ 21:23 • 1d ago
 
 ---
 

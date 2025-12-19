@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T07:58:49.116696+00:00'
+updated: '2025-12-19T08:40:05.011530+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 07:58 UTC  
+**Last Updated:** December 19, 2025 at 08:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-16h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-18h ago
+19h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi all, is it realistic to build an autonomous drone using Python/Micropython on
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 16h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 17h ago
 
 ---
 
@@ -122,11 +122,27 @@ TechCrunch • 1d ago
 
 ---
 
-**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
 
-Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
 
-CNN • 1d ago
+The Robot Report • 2d ago
+
+---
+
+**[Thanks to antitrust officials, iRobot will be acquired by a Chinese robotics firm instead of Amazon](https://reason.com/2025/12/17/thanks-to-antitrust-officials-irobot-will-be-acquired-by-a-chinese-robotics-firm-instead-of-amazon/)**
+
+Regulators warned Amazon’s iRobot deal would hurt consumers. Instead, the Roomba maker collapsed and sold to China.
+
+Reason Magazine • 1d ago
+
+---
+
+**[Robotics industry reacts to iRobot’s bankruptcy](https://www.therobotreport.com/robotics-industry-reacts-to-irobot-bankruptcy/)**
+
+iRobot’s Chapter 11 bankruptcy has sparked intense reactions, with opinions on regulation, innovation, manufacturing, and global competition.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -148,15 +164,7 @@ The New York Times • 2d ago
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-Fortune • 22h ago
-
----
-
-**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
-
-From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
-
-The Robot Report • 2d ago
+Fortune • 23h ago
 
 ---
 
@@ -178,15 +186,7 @@ navalnews.com • 1d ago
 
 **[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
 
-The Seattle Times • 15h ago
-
----
-
-**[The world’s smallest programmable, autonomous robots](https://penntoday.upenn.edu/news/penn-engineering-worlds-smallest-programmable-autonomous-robots)**
-
-Engineers at Penn Engineering have created robots barely visible to the naked eye that operate without tethers, magnetic fields or joystick-like controls.
-
-Penn Today • 1d ago
+The Seattle Times • 16h ago
 
 ---
 
@@ -200,17 +200,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 73K • 👍 980 • 💬 147 • ⏱️ 11:23 • 3d ago
-
----
-
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 19K • 👍 2K • 💬 172 • ⏱️ 13:43 • 16h ago
+👁️ 73K • 👍 983 • 💬 147 • ⏱️ 11:23 • 3d ago
 
 ---
 
@@ -220,17 +210,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 PRO ROBOTS
 
-👁️ 294K • 👍 5K • 💬 496 • ⏱️ 26:54 • 4d ago
-
----
-
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
-
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
-
-📺 CNET
-
-👁️ 31K • 👍 742 • 💬 116 • ⏱️ 6:41 • 4d ago
+👁️ 298K • 👍 5K • 💬 502 • ⏱️ 26:54 • 4d ago
 
 ---
 
@@ -240,17 +220,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 24K • 👍 2K • 💬 55 • ⏱️ 1:38 • 2d ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 421K • 👍 14K • 💬 461 • ⏱️ 0:34 • 4d ago
+👁️ 24K • 👍 2K • 💬 56 • ⏱️ 1:38 • 2d ago
 
 ---
 
@@ -264,33 +234,63 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[Humanoid robots showcased at Silicon Valley summit](https://www.youtube.com/watch?v=sZ44HQ6FSlk)**
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
 
-Hundreds of robotics firms and investors gathered at the Humanoids Summit in Silicon Valley as generative AI breathes new life ...
+Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
 
-📺 Associated Press
+📺 CNET
 
-👁️ 27K • 👍 106 • 💬 44 • ⏱️ 1:26 • 6d ago
-
----
-
-**[My Self-Aware Robot Escaped!](https://www.youtube.com/watch?v=6nEfAb5q84o)**
-
-PART 2: I pushed E.L.B.E.R.R the robot too far during testing and he escaped! *No AI was used at all in the making of this video.
-
-📺 LIGHTS ARE OFF
-
-👁️ 2.4M • 👍 90K • 💬 9K • ⏱️ 8:45 • 5d ago
+👁️ 31K • 👍 743 • 💬 116 • ⏱️ 6:41 • 4d ago
 
 ---
 
-**[Can my robot actually tidy my workbench?](https://www.youtube.com/watch?v=-fCMFoM0Bxk)**
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
 
-Shop Cleaning Robot - Part 4 ••• Building a robot to clean my workbench for me! The full video is already live, check the link in my ...
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
 
-📺 Engineezy
+📺 AZFK
 
-👁️ 143K • 👍 3K • 💬 39 • ⏱️ 0:40 • 2d ago
+👁️ 21K • 👍 2K • 💬 182 • ⏱️ 13:43 • 17h ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 424K • 👍 14K • 💬 466 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+
+Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
+
+📺 Catanimation
+
+👁️ 179K • 👍 2K • 💬 21 • ⏱️ 0:25 • 4d ago
+
+---
+
+**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+
+This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+
+📺 DLLS Sports
+
+👁️ 23K • 👍 236 • 💬 25 • ⏱️ 0:14 • 1d ago
+
+---
+
+**[This Robot will decide if I Graduate](https://www.youtube.com/watch?v=L8qSAampsHU)**
+
+Learn for free on Brilliant: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+
+📺 Tazer
+
+👁️ 69K • 👍 4K • 💬 149 • ⏱️ 23:20 • 3d ago
 
 ---
 

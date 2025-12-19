@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T07:58:49.099025+00:00'
+updated: '2025-12-19T08:40:04.993347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 07:58 UTC  
+**Last Updated:** December 19, 2025 at 08:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 11h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 12h ago
 
 ---
 
@@ -57,7 +57,15 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
-14h ago
+15h ago
+
+---
+
+**[Is Ai truly that bad/Evil? Just a discussion](https://www.reddit.com/r/artificial/comments/1pqf8s4/is_ai_truly_that_badevil_just_a_discussion/)**
+
+Been on Tiktok and other social media platforms. I live in kenya. I use claude and Grok to speed up some work things. Simple stuff like making word docs into pdf etc Then i see all these negative opinions and i just wanted to get some knowledge dropped on me? AI is ruining the enviroment? I thought AI servers are like any other, kept in a cold room in a building? How is it hurting the enviroment? AI is taking acting careers? Last i checked, despite the videos being cool looking or funny, they do have many flaws and you can tell the voices are copied or see amatomy flaws the longer it goes on AI is taking artist jobs? Forgive me for not knowing how arts is sold but even before AI, being an artist was hit or miss when being paid for your work right? It depended on who was looking at your art and if they liked it enough to buy it or commission something from you. AI is killing critical thinking/writing. Last i checked it still needeed a prompt to generate exactly what you want. If someone cant even write in the prompt what the idea they have is then critical thinking wasnt there to begin with right? I guess i just want to know what the ACTUAL cons of it are cause in africa, it doesnt seem to have hit us yet if any
+
+1h ago
 
 ---
 
@@ -65,15 +73,7 @@ My question is about reliance on facial recognition software, and more generally
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-13h ago
-
----
-
-**[One-Minute Daily AI News 12/18/2025](https://www.reddit.com/r/artificial/comments/1pqci2w/oneminute_daily_ai_news_12182025/)**
-
-NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
-
-2h ago
+14h ago
 
 ---
 
@@ -81,15 +81,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-14h ago
-
----
-
-**[How To Browse The Pre-ChatGPT Internet](https://www.reddit.com/r/artificial/comments/1pq60u4/how_to_browse_the_prechatgpt_internet/)**
-
-I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
-
-8h ago
+15h ago
 
 ---
 
@@ -101,6 +93,22 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ---
 
+**[How To Browse The Pre-ChatGPT Internet](https://www.reddit.com/r/artificial/comments/1pq60u4/how_to_browse_the_prechatgpt_internet/)**
+
+I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
+
+8h ago
+
+---
+
+**[One-Minute Daily AI News 12/18/2025](https://www.reddit.com/r/artificial/comments/1pqci2w/oneminute_daily_ai_news_12182025/)**
+
+NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
+
+3h ago
+
+---
+
 **[Nadella's message to Microsoft execs: Get on board with the AI grind or get out](https://www.reddit.com/r/artificial/comments/1pp90g0/nadellas_message_to_microsoft_execs_get_on_board/)**
 
 Internal documents and executive interviews reveal sweeping organizational shifts to radically reshape how the company builds and funds its products.
@@ -109,43 +117,29 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 ---
 
-**[The surprising truth about AI’s impact on jobs](https://www.reddit.com/r/artificial/comments/1ppqfkn/the_surprising_truth_about_ais_impact_on_jobs/)**
-
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
-
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 18h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeS4rRy0yGiJf0raHeOs2LWbVhTKTG4QDGpoOuwWsnO8R7sjjqcDL0U&gaa_ts=6945038d&gaa_sig=U5n1Kkytsc3zZnW5hz--incNY8VdmgnKn06ntpq1WPylcvzeSKPUIxWvIppYVRWDNHpdeBxwPDKfSmHMCrdAmQ%3D%3D)**
-
-The Wall Street Journal • 11h ago
-
----
 
 **[AI likely to displace jobs, says Bank of England governor](https://www.bbc.com/news/articles/c0r9280gvelo)**
 
 Andrew Bailey says workers need to be trained to move into jobs that use AI, but adds it might not lead to mass unemployment.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
-**[These AI Stocks Could Surge in December as Momentum Builds](https://finance.yahoo.com/news/ai-stocks-could-surge-december-065000998.html)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqc1dU0H_CUW87_sBvQjcXnwxJMbXYwbal9ZqFmssz7Wx92B0iSWlnrh&gaa_ts=694512cb&gaa_sig=_exECEkrW61rg1o3FZ5gf6qcseYi1X29YsDNfSLYZofY8nCAWEaCuh33wy-N2wP-FE-CMKQip5lb3GqMpIV-_A%3D%3D)**
 
-Continued spending on artificial intelligence hardware should keep lifting these chip stocks.
-
-Yahoo Finance • 1h ago
+The Wall Street Journal • 10h ago
 
 ---
 
-**[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval?srnd=indus)**
+**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
-Bloomberg.com • 58m ago
+When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
+
+The Guardian • 1h ago
 
 ---
 
@@ -153,7 +147,15 @@ Bloomberg.com • 58m ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 21h ago
+CNN • 22h ago
+
+---
+
+**[Who is really shaping the future of AI? : TED Radio Hour](https://www.npr.org/2025/12/19/nx-s1-5648239/who-is-really-shaping-the-future-of-ai)**
+
+What will AI look like in 2026? Is the hype a bubble or a tech revolution that will transform everything? This episode, the global politics shaping the future of AI and what it means for you. Guests include tech entrepreneur Alvin Wang Graylin, NPR tech reporter John Ruwitch, and OpenAI CEO Sam Altman in conversation with TED's Chris Anderson.TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted
+
+NPR • 40m ago
 
 ---
 
@@ -161,39 +163,39 @@ CNN • 21h ago
 
 Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
 
-blog.google • 15h ago
+blog.google • 16h ago
 
 ---
 
-**[House passes bill to ease permits for building out AI infrastructure](https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html)**
+**[YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions](https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/)**
 
-The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
+YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-CNBC • 12h ago
-
----
-
-**[Hollywood was built on movie stardom. AI is changing the rules](https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow)**
-
-Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
-
-Los Angeles Times • 20h ago
+Deadline • 15h ago
 
 ---
 
-**[NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)**
+**[YouTube bans two popular channels that created fake AI movie trailers](https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/)**
 
-NVIDIA will join the U.S. Department of Energy’s Genesis Mission as a private industry partner to keep U.S. AI both the leader and the standard in technology around the world.
+Google loves AI content, except when it doesn’t.
 
-NVIDIA Blog • 12h ago
+Ars Technica • 10h ago
 
 ---
 
-**[DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)**
+**[YouTube Shuts Down AI Movie Trailers](https://www.darkhorizons.com/youtube-shuts-down-ai-movie-trailers/)**
 
-Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery.
+YouTube has reportedly terminated two prominent channels using AI to create fake movie trailers. According to The Wrap, both the India-based Screen Culture and Georgia-based KH Studio have amassed over a billion views and boast over two million subscribers. Some of their creations outranked the official trailer in YouTube search results and have duped YouTube […]
 
-Google DeepMind • 12h ago
+Dark Horizons • 3h ago
+
+---
+
+**[U.S. launches review of advanced Nvidia AI chip sales to China: Reuters](https://www.cnbc.com/2025/12/19/us-launches-review-of-advanced-nvidia-ai-chip-sales-to-china-reuters.html)**
+
+Trump this month said he would allow sales of Nvidia's H200 chips to China, with the U.S. government collecting a 25% fee.
+
+CNBC • 6h ago
 
 ---
 
@@ -211,7 +213,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 819 • 💬 423 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 820 • 💬 423 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -231,7 +233,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 384 • 💬 325 • 13h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 395 • 💬 343 • 14h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -239,7 +241,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 316 • 💬 327 • 13h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 323 • 💬 357 • 13h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -255,7 +257,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 248 • 💬 176 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 249 • 💬 177 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -263,7 +265,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 209 • 💬 144 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 221 • 💬 147 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -271,7 +273,7 @@ Poor-man's solution to stopping AI companies from scraping your blog - vivienhen
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 200 • 💬 160 • 18h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 200 • 💬 161 • 19h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -279,7 +281,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
-⬆️ 163 • 💬 56 • 2d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
+⬆️ 164 • 💬 56 • 2d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
 
 ---
 
@@ -287,13 +289,13 @@ Local-first AI-powered document intelligence platform for investigative journali
 
 ## YouTube Videos: "ai"
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
+**[Kling Motion is a Gamechanger for AI Video!](https://www.youtube.com/watch?v=IjDD64t9Plg)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+The pace of AI development isn't slowing down. Today, we're diving into a massive upgrade for Kling Video, a “vibe check” for the ...
 
-📺 Julian Goldie SEO
+📺 Theoretically Media
 
-👁️ 3K • 👍 136 • 💬 11 • ⏱️ 8:13 • 6h ago
+👁️ 11K • 👍 582 • 💬 91 • ⏱️ 14:37 • 9h ago
 
 ---
 
@@ -303,17 +305,17 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 89K • 👍 6K • 💬 667 • ⏱️ 5:52 • 16h ago
+👁️ 96K • 👍 6K • 💬 708 • ⏱️ 5:52 • 17h ago
 
 ---
 
-**[What AI and Hollywood are going to do to entertainment](https://www.youtube.com/watch?v=5FlRB1KKg-k)**
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
 
-ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The number 1 Christian prayer app in the US and ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 FreedomToons
+📺 Julian Goldie SEO
 
-👁️ 64K • 👍 9K • 💬 623 • ⏱️ 3:47 • 10h ago
+👁️ 5K • 👍 157 • 💬 32 • ⏱️ 8:13 • 7h ago
 
 ---
 
@@ -323,17 +325,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 479K • 👍 12K • 💬 2K • ⏱️ 1:39:47 • 23h ago
-
----
-
-**[Bessent delivers urgent message to American workers: ‘Become an AI native’](https://www.youtube.com/watch?v=ni6hJXyJA0M)**
-
-U.S. Treasury Secretary Scott Bessent joins 'Mornings with Maria' to outline the record tax refunds coming to Americans, detail the ...
-
-📺 Fox Business
-
-👁️ 243K • 👍 5K • 💬 1K • ⏱️ 14:37 • 2d ago
+👁️ 502K • 👍 13K • 💬 2K • ⏱️ 1:39:47 • 1d ago
 
 ---
 
@@ -343,17 +335,17 @@ This video invites you into a dreamlike ocean—a world that doesn't exist in re
 
 📺 Impossible AIs
 
-👁️ 53K • 👍 252 • 💬 29 • ⏱️ 8:01 • 1d ago
+👁️ 56K • 👍 267 • 💬 30 • ⏱️ 8:01 • 1d ago
 
 ---
 
-**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
+**[What AI and Hollywood are going to do to entertainment](https://www.youtube.com/watch?v=5FlRB1KKg-k)**
 
-A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
+ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The number 1 Christian prayer app in the US and ...
 
-📺 Bridebook
+📺 FreedomToons
 
-👁️ 204K • 👍 7K • 💬 259 • ⏱️ 0:52 • 1d ago
+👁️ 73K • 👍 9K • 💬 664 • ⏱️ 3:47 • 10h ago
 
 ---
 
@@ -363,27 +355,37 @@ Subscribe to NVP Link: www.newsvpro.com.
 
 📺 Mahmood OD | محمود عودة
 
-👁️ 9K • 👍 1K • 💬 91 • ⏱️ 13:36 • 16h ago
+👁️ 9K • 👍 1K • 💬 91 • ⏱️ 13:36 • 17h ago
 
 ---
 
-**[AI is Taking Over Gaming (Call of Duty)](https://www.youtube.com/watch?v=1Shz_2DLRv4)**
+**[‘PROPAGANDA’: AI executive FIRES BACK at AI naysayers](https://www.youtube.com/watch?v=AUQ4ey6o464)**
 
-Another case of AI replacing human workers and failing miserably (and getting heinously dunked on ...
+Palantir CTO Shyam Sankar corrects critics who say artificial intelligence will create massive unemployment, lauding his company ...
 
-📺 The Game Theorists
+📺 Fox Business
 
-👁️ 337K • 👍 10K • 💬 200 • ⏱️ 0:54 • 13h ago
+👁️ 5K • 👍 142 • 💬 92 • ⏱️ 7:56 • 1d ago
 
 ---
 
-**[I Tested Ai-Generated Christmas Products](https://www.youtube.com/watch?v=T9PrFEfKEIs)**
+**[It’s a matter of time before… 🤯  #ai #artificialintelligence #work #thediaryofaceo](https://www.youtube.com/watch?v=F3L-MajJtXQ)**
 
-shorts #christmas #ai I bought viral Ai-Generated christmas ads to see what you actually get..
+It's a matter of time before…” - Watch the full podcast with Yoshua Bengio in The Diary Of A CEO - #ai #artificialintelligence ...
 
-📺 WifiEli
+📺 Goated Quotes
 
-👁️ 771K • 👍 11K • 💬 43 • ⏱️ 0:35 • 10h ago
+👁️ 5K • 👍 177 • 💬 4 • ⏱️ 0:57 • 6h ago
+
+---
+
+**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
+
+CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
+
+📺 CNBC Television
+
+👁️ 41K • 👍 269 • 💬 165 • ⏱️ 3:16 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 322,827 • ❤️ 3,011 • 10d ago
+⬇️ 329,981 • ❤️ 3,014 • 10d ago
 
 ---
 
@@ -411,7 +413,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 365 • 9h ago
+⬇️ 62,493 • ❤️ 367 • 10h ago
 
 ---
 
@@ -423,7 +425,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 324 • 15h ago
+⬇️ 0 • ❤️ 326 • 16h ago
 
 ---
 
@@ -435,7 +437,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 287 • 1d ago
+⬇️ 3,633 • ❤️ 290 • 1d ago
 
 ---
 
@@ -447,7 +449,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 267 • 3d ago
+⬇️ 0 • ❤️ 269 • 3d ago
 
 ---
 
@@ -459,7 +461,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 193,691 • ❤️ 945 • 6d ago
+⬇️ 201,479 • ❤️ 945 • 6d ago
 
 ---
 
@@ -471,7 +473,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 225 • 2d ago
+⬇️ 0 • ❤️ 230 • 2d ago
 
 ---
 
@@ -483,7 +485,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,006 • ❤️ 222 • 5d ago
+⬇️ 2,490 • ❤️ 225 • 5d ago
 
 ---
 
@@ -495,7 +497,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 248 • ❤️ 220 • 2d ago
+⬇️ 397 • ❤️ 222 • 2d ago
 
 ---
 
@@ -507,7 +509,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 64,404 • ❤️ 357 • 9d ago
+⬇️ 66,717 • ❤️ 358 • 9d ago
 
 ---
 
@@ -535,7 +537,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 9 • 💬 2 • ⭐ 12,489 • 1mo ago
+▲ 9 • 💬 2 • ⭐ 12,559 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -567,32 +569,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 30 • 💬 2 • ⭐ 12,752 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,350 • 21d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
 *Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
@@ -607,16 +583,29 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 ---
 
-**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
-  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
-*Tongyi SpeechTeam*
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
 
-FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+🏢 Tongyi-MAI
 
-▲ 39 • 💬 1 • ⭐ 18,036 • 17mo ago
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+▲ 27 • 💬 2 • ⭐ 7,384 • 21d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 30 • 💬 2 • ⭐ 12,782 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -634,6 +623,19 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
+**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+
+*Tongyi SpeechTeam*
+
+FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+
+▲ 39 • 💬 1 • ⭐ 18,065 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -641,7 +643,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 118 • 💬 18 • ⭐ 47,154 • 9mo ago
+▲ 118 • 💬 18 • ⭐ 47,190 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.8k • 🔱 2.8k • 1d ago
+⭐ 17.9k • 🔱 2.8k • 1d ago
 
 ---
 
@@ -667,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.6k • 🔱 486 • 15h ago
+⭐ 4.6k • 🔱 491 • 15h ago
 
 ---
 
@@ -677,7 +679,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 141 • 4h ago
+⭐ 2.0k • 🔱 141 • 5h ago
 
 ---
 
@@ -707,7 +709,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.2k • 🔱 139 • 8h ago
+⭐ 1.2k • 🔱 139 • 9h ago
 
 ---
 
@@ -737,7 +739,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 810 • 🔱 132 • 3d ago
+⭐ 812 • 🔱 132 • 3d ago
 
 ---
 
@@ -747,7 +749,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 786 • 🔱 115 • 1d ago
+⭐ 787 • 🔱 116 • 1d ago
 
 ---
 
