@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T17:59:45.621416+00:00'
+updated: '2025-12-19T18:41:19.322714+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 17:59 UTC  
+**Last Updated:** December 19, 2025 at 18:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,320.29
+### $87,403.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -3.5%  
-**30d:** +0.1%  
-**90d:** -24.5%  
-**1y:** -10.8%  
+**24h:** +3.4%  
+**7d:** -3.1%  
+**30d:** +0.5%  
+**90d:** -24.2%  
+**1y:** -10.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.53B
+**Market Cap:** $1738.13B
 Rank #1
 
-**Circulating Supply:** 19,964,268 BTC
+**Circulating Supply:** 19,964,296 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-31.0%
 
 **All-Time Low:** $67.81
-+128631.8%
++128252.8%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
+
+1h ago
+
+---
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
@@ -91,21 +97,21 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
-
-34m ago
-
----
-
 **[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-2h ago
+3h ago
+
+---
+
+**[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
+
+53m ago
 
 ---
 
@@ -115,49 +121,27 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
+**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-8h ago
+15h ago
 
 ---
 
-**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
+**[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-14h ago
+9h ago
 
 ---
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-19h ago
-
----
-
-**[Capitulation Theater: How Wall Street Is Engineering Fake Bitcoin Panic](https://www.reddit.com/r/Bitcoin/comments/1pqmmcd/capitulation_theater_how_wall_street_is/)**
-
-The squeeze is producing less and less for the traders who churn. Overnight, coins younger than 7 days generated almost all of the “profit” being taken, which is a clear tell. Coins held a year or more from much lower prices aren’t moving; the bulk of gains is coming from short-term swaping back and forth on a 2–3% move, not from long-term holders unloading. There’s a loud narrative right now that “long-term Bitcoin holders are finally selling” and that big players have moved entirely into the paper/ETF market. On-chain data is showing something very different. In the most recent window shown here: The vast majority of BTC spent comes from coins held < 1.5 years. Coins held 1.5+ years are barely moving. Their UTXOs just sit there. You can see in the data they are no longer selling the rises (like we've seen over night) Short-term ETF churn and algo trading are doing a great job of looking like capitulation, but you can’t claim that long-term holders are dumping when: Their coins aren’t actually moving on-chain, and The spend is overwhelmingly concentrated in the recent-buyer cohorts. In other words: ETFs and short-term tourists are getting shaken out. Real HODLers are doing the opposite at these levels... they’re not selling. You can play all the games you want in paper BTC, but on-chain is where the truth lives. As always: knowledge is power.
-
-3h ago
+20h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqd_ATFwdWRGlrYiTyyK8lbKP8kPXB3a187zm43_FTongYPsGNOmW-3g&gaa_ts=694595f7&gaa_sig=Wcz6WjVXlKeVPkMsDw7QnVvUxYqfYTp8AkzbyeoTiVzgSrxIJy7GTB070R5_WaTnpZBY7iDqkfUluyg1VKGNMA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
-
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
-
-Yahoo Finance • 15h ago
-
----
 
 **[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
@@ -175,17 +159,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdYYT4nCbeVrQflRgtwyVnDWz1ao7gbIDq-LeHKtweUqvhvL0iktU_7&gaa_ts=69459fb7&gaa_sig=EHD3_7NTrEx43ohqn9uyB77nbZxDPJR6_b0gqsRMgT1g_ak1vnbFaPBd53tM00AoC4_qpprAqI6xv30hLNgWUw%3D%3D)**
 
-Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeEsWobSJq5RycoXGyrkGOFLYES_6iTMo5v53yyj6DdiCcAG86rIGpn&gaa_ts=694595f7&gaa_sig=uexhmFJEinRLyl-wYIuoFqPNn_zSjgkrZNOz2CpH2FMRqcRmIrY50qrveCgAq8lDd2_vSYIcd8AAmV_iYrcD2A%3D%3D)**
-
-Barron's • 30m ago
+Barron's • 1h ago
 
 ---
 
@@ -197,17 +173,27 @@ CoinDesk • 1h ago
 
 ---
 
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
+**[Riot Platforms (RIOT) Is Down 12.5% After Pivoting Bitcoin Operations Toward AI Data Center Build-Out](https://finance.yahoo.com/news/riot-platforms-riot-down-12-171152519.html)**
 
-Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
+Riot Platforms recently announced it is shifting away from pure Bitcoin mining to build large-scale AI and high-performance computing data centers, kicking off core-and-shell development of the first two buildings at its Corsicana, Texas campus after completing land purchases and overall site design. This move aims to repurpose Riot’s low-cost power and land into an AI-focused data center platform, but it also introduces heavy funding needs and execution risk that are now front of mind for...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Bitcoin could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
 
-Investor's Business Daily • 7h ago
+Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
+
+CoinDesk • 1h ago
+
+---
+
+**[SEC Says Third-Party Bitcoin Mining Services Are Securities Offerings in New Lawsuit](https://decrypt.co/352899/sec-says-third-party-bitcoin-mining-services-securities-offering-lawsuit)**
+
+The SEC charged a Philadelphia-based Bitcoin mining entrepreneur with running an illegal securities scheme and misappropriating over $48 million of customer funds.
+
+Decrypt • 1d ago
 
 ---
 
@@ -216,6 +202,20 @@ Investor's Business Daily • 7h ago
 Strategy Inc Stock (MSTR) Today: Bitcoin Rebound, MSCI Index Risk, Fresh BTC Buys, and Wall Street Price Targets (Dec. 19, 2025) - TechStock²
 
 ts2.tech • 2h ago
+
+---
+
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqdqhUWU88iVGfjRTaJCSeHqTXl7cPjBVaAa_Wkbzs6yJiF3VuWFSDAT&gaa_ts=69459fb7&gaa_sig=rIV7GCrLiiclD3i5duoqnkije770QlcoOgtkT7YAh7nSyhaVMkFheR7qBX21nsUbaDbFEULJuspbrM0bzOQ_7w%3D%3D)**
+
+The Wall Street Journal • 3d ago
+
+---
+
+**[Bitcoin, ether set for 2026 comeback on crypto regulation, Citi says (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4533546-bitcoin-ether-set-for-2026-comeback-on-crypto-regulation-citi-says)**
+
+Bitcoin (BTC-USD) and ether (ETH-USD) are on track to finish the year in the red, with macro and risk-asset headwinds outweighing the boost from increased crypto regulatory clarity. But Citi Research believes that underperformance might reverse in 2026.
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -257,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 2h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 3h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -281,7 +281,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 20h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 21h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -309,7 +309,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 41K • 👍 2K • 💬 239 • ⏱️ 16:50 • 19h ago
+👁️ 41K • 👍 2K • 💬 239 • ⏱️ 16:50 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 87 • ⏱️ 44:14 • 2h ago
+👁️ 15K • 👍 1K • 💬 87 • ⏱️ 44:14 • 3h ago
 
 ---
 
@@ -379,7 +379,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 6h ago
+👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 7h ago
 
 ---
 
@@ -389,7 +389,7 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 23K • 👍 1K • 💬 169 • ⏱️ 2:15 • 17h ago
+👁️ 23K • 👍 1K • 💬 169 • ⏱️ 2:15 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ Nick Valdez looks at the latest US market-open manipulation that has hit Bitcoin
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 126 • 💬 13 • ⏱️ 5:37 • 17h ago
+👁️ 4K • 👍 126 • 💬 13 • ⏱️ 5:37 • 18h ago
 
 ---
 

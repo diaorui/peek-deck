@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T17:59:45.612743+00:00'
+updated: '2025-12-19T18:41:19.314269+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 17:59 UTC  
+**Last Updated:** December 19, 2025 at 18:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-8h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Here are some links from this issue: I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me -> HN link. Vibe coding creates fatigue? -> HN link. AI's real superpower: consuming, not creating -> HN link. AI Isn't Just Spying on You. It's Tricking You into Spending More -> HN link. If AI replaces workers, should it also pay taxes? -> HN link. If you like this type of content, you might consider subscribing here: https://hackernewsai.com/
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Her
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 21h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 22h ago
 
 ---
 
@@ -81,7 +81,15 @@ My question is about reliance on facial recognition software, and more generally
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 48m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 1h ago
+
+---
+
+**[Your AI is lying to you.](https://www.reddit.com/r/artificial/comments/1pqrs9i/your_ai_is_lying_to_you/)**
+
+An AI that is not afraid to tell you when you are wrong.
+
+🔗 [Tofu](https://withtofu.com) • 41m ago
 
 ---
 
@@ -89,7 +97,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I frequently get errors when working with Anthropic's Opus 4.5, especially when the context starts to fill up. Frustratingly, the model will generate a ton of tokens before abruptly failing ("An unknown error has occurred"). The response vanishes and I'm back to my original prompt. Normally this wouldn't bug me that much. However, I recently ran out of usage and had to buy credits to make a deadline. As soon as I did this, I got the error message over and over again. The model DID sometimes complete a response, so I suspect their app is at fault; things get awfully buggy when working with long markdown artifacts. In any case, I was billed for each and every failed response. I burned through all my credits and never managed to get the task done. I reached out to Anthropic for help. A full week later they told me to kick rocks. Something about this feels wrong. You shouldn't bill customers if you fail to provide a service. I'm sure their TOS absolves them of responsibility, but it's still a hostile, BS policy. Curious whether this is a widespread issue or I just got especially unlucky. Edit: to clarify, the issue isn't that the response is low quality; it's that the response is completely dropped due to an error in the Claude app or website.
 
-56m ago
+1h ago
 
 ---
 
@@ -105,15 +113,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-23h ago
-
----
-
-**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
-
-Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
-
-23h ago
+1d ago
 
 ---
 
@@ -125,13 +125,27 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 5h ago
+Los Angeles Times • 6h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfxgmLJAwHigC64h5OgcY9GzPl4ijq9ExUUlnGgj5JjeiIDqe0OqC_a&gaa_ts=694595f6&gaa_sig=XeBqyUv_yrpBWngFe4MIgLwQoMj9fYVSF0mFOY0w_hOYxKlv8-HaIP9AdNMnl_Ij41itvHYtciKjUVMVO6oX1w%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqc5xnc7bZ-alf4bM8jvg7DUJQEx7UveWgTxd9LsVv2ZifDDkNp04bDI&gaa_ts=69459fb6&gaa_sig=hEeLDaJ41QmHylVICSCTlA9aIZJdOhl3y0NNdqEfe4daUZCGKBX63MQ2Yl5EbSBDndoxT_Ikxv9TwaxZNQCoTQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
+
+---
+
+**[6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)**
+
+Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
+
+WIRED • 2h ago
+
+---
+
+**[AI Is Changing Last-Minute Gift Buying. Here's Exactly How to Get Your Product Included in AI Results](https://www.inc.com/maria-jose-gutierrez-chavez/ai-is-changing-last-minute-gift-buying-heres-exactly-how-to-get-your-product-included-in-ai-results/91267313)**
+
+Inc.com • 8m ago
 
 ---
 
@@ -139,7 +153,7 @@ The Wall Street Journal • 1d ago
 
 What will AI look like in 2026? Is the hype a bubble or a tech revolution that will transform everything? This episode, the global politics shaping the future of AI and what it means for you.
 
-NPR • 26m ago
+NPR • 1h ago
 
 ---
 
@@ -151,17 +165,17 @@ CNBC • 1h ago
 
 ---
 
-**[AI hyperscalers have room for 'elevated debt issuance'—even after their recent bond binge, BofA says](https://fortune.com/2025/12/19/ai-hyperscalers-debt-issuance-bond-binge-cash-flow-capital-expenditures/)**
+**[Parents, beware: AI toys may talk about adult topics and encourage addictive play this holiday season](https://www.news4jax.com/news/local/2025/12/19/parents-beware-ai-toys-may-talk-about-adult-topics-and-encourage-addictive-play-this-holiday-season/)**
 
-Hyperscalers' overall debt burden is actually getting lighter as the debt-to-cash ratio should dip to 0.75 in 2025 from 0.94 in 2023.
+As the holidays approach, many parents are excited to give their children the latest AI-powered toys. But a new report from the U.S. PIRG Education Fund sounds a cautionary note.
 
-Fortune • 1h ago
+News4JAX • 17m ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -169,29 +183,13 @@ The New York Times • 1h ago
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[Wall Street Isn’t Asking Many Questions About AI’s Broader Reach](https://www.bloomberg.com/graphics/2025-wall-street-ai-questions-beyond-tech/)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
-
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
-
-CNN • 1d ago
-
----
-
-**[NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)**
-
-NVIDIA will join the U.S. Department of Energy’s Genesis Mission as a private industry partner to keep U.S. AI both the leader and the standard in technology around the world.
-
-NVIDIA Blog • 22h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -209,7 +207,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 822 • 💬 424 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 822 • 💬 425 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -229,7 +227,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 518 • 💬 486 • 23h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 518 • 💬 494 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -237,7 +235,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 426 • 💬 521 • 23h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 436 • 💬 527 • 23h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -245,7 +243,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 328 • 💬 247 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 333 • 💬 248 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -253,7 +251,7 @@ Poor-man's solution to stopping AI companies from scraping your blog - vivienhen
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 287 • 💬 167 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 287 • 💬 167 • 2d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -269,7 +267,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 202 • 💬 165 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 202 • 💬 166 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -351,7 +349,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 4K • 👍 159 • 💬 16 • ⏱️ 1:01 • 1h ago
+👁️ 4K • 👍 159 • 💬 16 • ⏱️ 1:01 • 2h ago
 
 ---
 
@@ -397,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,067 • 11d ago
+⬇️ 329,981 • ❤️ 3,069 • 11d ago
 
 ---
 
@@ -409,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 373 • 19h ago
+⬇️ 62,493 • ❤️ 373 • 20h ago
 
 ---
 
@@ -421,7 +419,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 339 • 1d ago
+⬇️ 0 • ❤️ 340 • 1d ago
 
 ---
 
@@ -493,7 +491,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 212 • 21h ago
+⬇️ 2,154 • ❤️ 214 • 22h ago
 
 ---
 
@@ -559,21 +557,9 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 133 • 💬 6 • ⭐ 18,655 • 3mo ago
+▲ 134 • 💬 6 • ⭐ 18,655 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 30 • 💬 2 • ⭐ 12,782 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -602,6 +588,18 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 204 • 💬 5 • ⭐ 7,411 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 30 • 💬 2 • ⭐ 12,811 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -655,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 6h ago
+⭐ 18.0k • 🔱 2.8k • 7h ago
 
 ---
 
@@ -665,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.8k • 🔱 506 • 1d ago
+⭐ 4.8k • 🔱 508 • 1d ago
 
 ---
 
@@ -675,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 143 • 2h ago
+⭐ 2.1k • 🔱 145 • 3h ago
 
 ---
 
@@ -705,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.2k • 🔱 140 • 6h ago
+⭐ 1.2k • 🔱 141 • 7h ago
 
 ---
 
@@ -745,7 +743,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 792 • 🔱 116 • 2d ago
+⭐ 793 • 🔱 116 • 2d ago
 
 ---
 

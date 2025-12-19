@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T17:59:45.630784+00:00'
+updated: '2025-12-19T18:41:19.331962+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 17:59 UTC  
+**Last Updated:** December 19, 2025 at 18:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -46,9 +46,11 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 ---
 
-**[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
+**[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
 
-3h ago
+Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
+
+32m ago
 
 ---
 
@@ -56,7 +58,13 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-18m ago
+59m ago
+
+---
+
+**[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
+
+4h ago
 
 ---
 
@@ -76,7 +84,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 Ouster is positioned to provide essential perception interfaces that allow AI to act within the physical world, as digital LiDAR might become a primary sensory layer for autonomous systems.
 
-🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 6h ago
+🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 7h ago
 
 ---
 
@@ -91,14 +99,6 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 **[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
-
-1d ago
-
----
-
-**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
-
-It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
 1d ago
 
@@ -140,20 +140,6 @@ CNN • 2d ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 2d ago
-
----
-
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 2d ago
-
----
-
 **[UPS Leans Into $9 Billion Automation Strategy with Robotics Rollout](https://sourcingjournal.com/topics/logistics/ups-pickle-robot-120-million-investment-robotics-warehouse-automation-pick-and-place-rollout-logistics-1234794119/)**
 
 UPS is paying up $120 million to use 400 truck-unloading robots from Pickle Robot, adding to its broader $9 billion warehouse automation strategy.
@@ -170,17 +156,29 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
-
-Yahoo Finance • 2d ago
+The New York Times • 2d ago
 
 ---
 
-**[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 2d ago
+
+---
+
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
 Bloomberg.com • 7h ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
+
+The Seattle Times • 1d ago
 
 ---
 
@@ -194,7 +192,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 8K • 👍 23 • ⏱️ 0:09 • 6h ago
+👁️ 8K • 👍 23 • ⏱️ 0:09 • 7h ago
 
 ---
 
@@ -272,7 +270,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 QCT
 
-👁️ 40K • 👍 533 • 💬 13 • ⏱️ 0:25 • 20h ago
+👁️ 40K • 👍 533 • 💬 13 • ⏱️ 0:25 • 21h ago
 
 ---
 

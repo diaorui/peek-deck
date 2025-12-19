@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T17:59:45.627516+00:00'
+updated: '2025-12-19T18:41:19.328764+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 17:59 UTC  
+**Last Updated:** December 19, 2025 at 18:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,957.86
+### $2,973.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.1%  
-**7d:** -5.3%  
-**30d:** +3.8%  
-**90d:** -33.7%  
-**1y:** -15.0%  
+**24h:** +6.5%  
+**7d:** -4.9%  
+**30d:** +4.2%  
+**90d:** -33.4%  
+**1y:** -14.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.82B
+**Market Cap:** $357.07B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.2%
 
 **All-Time Low:** $0.43
-+684706.9%
++682967.8%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
-
----
-
-**[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
-
-Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
-
-9h ago
+12h ago
 
 ---
 
@@ -92,17 +84,25 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 ---
 
+**[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
+
+Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
+
+10h ago
+
+---
+
 **[Ethereal news weekly #3 | J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy](https://www.reddit.com/r/ethereum/comments/1pqikyu/ethereal_news_weekly_3_jp_morgan_tokenized_fund/)**
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 7h ago
 
 ---
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 3h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 1d ago
 
 Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -172,23 +172,15 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcQOFGjb4Kt7VS_gji60KjGMG4qgVhki7EIkq3kF99KIvwb7ZGN56dQ&gaa_ts=694595f9&gaa_sig=kFFHAvfKbxLWXyPWD_Evei-moFrN8EXiH6Edz8yX3i1PgaZnJWnTp6E4AjrNvc-vVjwuhUeQCTnYYxLlOdeAkw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfT_qB7l07fn2-Ed7xAtZO5nsNCMwQqWVijS3ho8Zx22nUNaAv7Rxoa&gaa_ts=69459fb9&gaa_sig=lRAag8xfZp2EdgoVak2r4wutCz1VJ3zu-vBhs1IDwqGKARKMf3GO6blA2isEajd_wIJUlqfjOKzzCKmPH3XFXw%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Curve Finance Strengthens Its Position as a Leading Ethereum DEX With 44% Fee Share](https://www.prnewswire.com/news-releases/curve-finance-strengthens-its-position-as-a-leading-ethereum-dex-with-44-fee-share-302647071.html)**
-
-/PRNewswire/ -- Ethereum's market is one of the most competitive corners of DeFi, and it has virtually no "meme"-driven trading activity. This makes it easier...
-
-PR Newswire • 1h ago
-
----
-
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -196,15 +188,29 @@ The Block • 6h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Next Major Ethereum Upgrade Revealed by Developers](https://www.tradingview.com/news/u_today:8c70a861f094b:0-next-major-ethereum-upgrade-revealed-by-developers/)**
+**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
 
-Just a few weeks after the Fusaka update, Ethereum BINANCE:ETHUSD developers have revealed the name for the next major upgrade in 2026. According to insights shared by Wu Blockchain, developers in the ecosystem have voted to name this next update "Hegota." What Hegota upgrade's name representsNotab…
+Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
-TradingView — Track All Markets • 3h ago
+ts2.tech • 1d ago
+
+---
+
+**[Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://www.tradingview.com/news/cointelegraph:0e978e0fd094b:0-synthetix-returns-to-ethereum-mainnet-after-3-years-we-can-run-it-back/)**
+
+Perpetuals trading platform Synthetix is returning to Ethereum’s mainnet, with its founder arguing the network is now more than capable of supporting high-frequency financial applications after years of network congestion drove derivatives activity elsewhere.“By the time perp DEXs became a thing, t…
+
+TradingView — Track All Markets • 19h ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 3d ago
 
 ---
 
@@ -212,13 +218,7 @@ TradingView — Track All Markets • 3h ago
 
 v
 
-AMBCrypto • 19h ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 3d ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 6h ago
+👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 127 • 💬 6 • ⏱️ 9:41 • 4h ago
+👁️ 1K • 👍 127 • 💬 6 • ⏱️ 9:41 • 5h ago
 
 ---
 
@@ -262,7 +262,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 8K • 👍 1K • 💬 2 • ⏱️ 27:59 • 4h ago
+👁️ 8K • 👍 1K • 💬 2 • ⏱️ 27:59 • 5h ago
 
 ---
 
@@ -292,7 +292,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Томас Кралов | Crypto & Trade
 
-👁️ 5K • 👍 416 • 💬 30 • ⏱️ 9:00 • 5h ago
+👁️ 5K • 👍 416 • 💬 30 • ⏱️ 9:00 • 6h ago
 
 ---
 
@@ -322,7 +322,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 170 • 💬 5 • ⏱️ 9:10 • 18h ago
+👁️ 3K • 👍 170 • 💬 5 • ⏱️ 9:10 • 19h ago
 
 ---
 
