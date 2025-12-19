@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T08:40:05.008151+00:00'
+updated: '2025-12-19T08:58:59.280155+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 08:40 UTC  
+**Last Updated:** December 19, 2025 at 08:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -5.3%  
-**30d:** +3.8%  
-**90d:** -33.7%  
-**1y:** -15.0%  
+**24h:** +3.6%  
+**7d:** -5.0%  
+**30d:** +4.1%  
+**90d:** -33.4%  
+**1y:** -14.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-34m ago
+53m ago
 
 ---
 

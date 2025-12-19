@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T08:40:04.993347+00:00'
+updated: '2025-12-19T08:58:59.265664+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 08:40 UTC  
+**Last Updated:** December 19, 2025 at 08:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 4h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ This year, AI has improved a lot, but it still feels limited in some situations.
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-13h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
 
-8h ago
+9h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNN • 22h ago
 
 What will AI look like in 2026? Is the hype a bubble or a tech revolution that will transform everything? This episode, the global politics shaping the future of AI and what it means for you. Guests include tech entrepreneur Alvin Wang Graylin, NPR tech reporter John Ruwitch, and OpenAI CEO Sam Altman in conversation with TED's Chris Anderson.TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted
 
-NPR • 40m ago
+NPR • 58m ago
 
 ---
 
@@ -187,7 +187,7 @@ Ars Technica • 10h ago
 
 YouTube has reportedly terminated two prominent channels using AI to create fake movie trailers. According to The Wrap, both the India-based Screen Culture and Georgia-based KH Studio have amassed over a billion views and boast over two million subscribers. Some of their creations outranked the official trailer in YouTube search results and have duped YouTube […]
 
-Dark Horizons • 3h ago
+Dark Horizons • 4h ago
 
 ---
 
@@ -241,7 +241,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 323 • 💬 357 • 13h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 323 • 💬 357 • 14h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -345,7 +345,7 @@ ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The n
 
 📺 FreedomToons
 
-👁️ 73K • 👍 9K • 💬 664 • ⏱️ 3:47 • 10h ago
+👁️ 73K • 👍 9K • 💬 664 • ⏱️ 3:47 • 11h ago
 
 ---
 
@@ -375,7 +375,7 @@ It's a matter of time before…” - Watch the full podcast with Yoshua Bengio i
 
 📺 Goated Quotes
 
-👁️ 5K • 👍 177 • 💬 4 • ⏱️ 0:57 • 6h ago
+👁️ 5K • 👍 177 • 💬 4 • ⏱️ 0:57 • 7h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.6k • 🔱 491 • 15h ago
+⭐ 4.6k • 🔱 491 • 16h ago
 
 ---
 

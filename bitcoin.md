@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T08:40:05.002001+00:00'
+updated: '2025-12-19T08:58:59.274147+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 08:40 UTC  
+**Last Updated:** December 19, 2025 at 08:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -2.7%  
-**30d:** +0.9%  
-**90d:** -23.9%  
-**1y:** -10.1%  
+**24h:** +0.9%  
+**7d:** -2.4%  
+**30d:** +1.2%  
+**90d:** -23.7%  
+**1y:** -9.8%  
 
 ---
 
@@ -117,7 +117,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 23h ago
 
 Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 3h ago
 
 Bitcoin BINANCE:BTCUSD aimed for $88,000 on Friday after Japan’s central bank raised interest rates to 30-year highs.Key points:Arthur Hayes eyes BTC price, yen surgeData from Cointelegraph Markets and TradingView showed 2.5% BTC price gains versus the daily open. In line with expectations, the Ban…
 
-TradingView — Track All Markets • 50m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -201,13 +201,13 @@ Barron's • 22h ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
 **[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 17h ago
 
 Key takeawaysIn November 2025, Libyan prosecutors quietly handed down three-year prison sentences to nine people caught running Bitcoin miners inside a steel factory in the coastal city of Zliten.The court ordered their machines seized and the illegally generated profits returned to the state, the…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -243,7 +243,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 16h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 17h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -289,7 +289,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 22h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 23h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -313,7 +313,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 119 • ⏱️ 9:16 • 8h ago
+👁️ 36K • 👍 2K • 💬 119 • ⏱️ 9:16 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 10K • 👍 767 • 💬 161 • ⏱️ 15:27 • 14h ago
+👁️ 10K • 👍 767 • 💬 161 • ⏱️ 15:27 • 15h ago
 
 ---
 
