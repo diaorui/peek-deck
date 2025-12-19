@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T20:33:12.182993+00:00'
+updated: '2025-12-19T20:48:48.832858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 20:33 UTC  
+**Last Updated:** December 19, 2025 at 20:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** -2.6%  
-**30d:** +1.0%  
-**90d:** -23.8%  
-**1y:** -10.0%  
+**24h:** +2.9%  
+**7d:** -2.2%  
+**30d:** +1.4%  
+**90d:** -23.5%  
+**1y:** -9.7%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-5h ago
+6h ago
 
 ---
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[unbothered. moisturized. happy. in my lane. focused. flourishing.](https://www.reddit.com/r/Bitcoin/comments/1pqsmtl/unbothered_moisturized_happy_in_my_lane_focused/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -293,7 +293,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46329328)**
 
-⬆️ 3 • 💬 1 • 1h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 3 • 💬 1 • 2h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #Finance Bitcoin dominates Wall Street as institutions flood in 
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 793 • 💬 155 • ⏱️ 28:38 • 5h ago
+👁️ 10K • 👍 793 • 💬 155 • ⏱️ 28:38 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin miners are “selling everything”… or are they? In this video, Ryan 
 
 📺 Ryan’s Money Lab
 
-👁️ 437 • 👍 46 • 💬 2 • ⏱️ 10:18 • 1h ago
+👁️ 437 • 👍 46 • 💬 2 • ⏱️ 10:18 • 2h ago
 
 ---
 

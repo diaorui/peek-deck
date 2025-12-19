@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T20:33:12.189129+00:00'
+updated: '2025-12-19T20:48:48.838082+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 20:33 UTC  
+**Last Updated:** December 19, 2025 at 20:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.4%  
-**7d:** -4.1%  
-**30d:** +5.1%  
-**90d:** -32.8%  
-**1y:** -13.9%  
+**24h:** +5.9%  
+**7d:** -3.7%  
+**30d:** +5.5%  
+**90d:** -32.5%  
+**1y:** -13.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-17m ago
+33m ago
 
 ---
 
@@ -110,7 +110,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 5h ago
 
 ---
 
@@ -180,7 +180,7 @@ BeInCrypto • 15h ago
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -272,7 +272,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 287 • 👍 42 • ⏱️ 58:37 • 2h ago
+👁️ 287 • 👍 42 • ⏱️ 58:37 • 3h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 88 • 💬 30 • ⏱️ 22:39 • 1h ago
+👁️ 1K • 👍 88 • 💬 30 • ⏱️ 22:39 • 2h ago
 
 ---
 

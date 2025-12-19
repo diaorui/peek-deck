@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T20:33:12.174161+00:00'
+updated: '2025-12-19T20:48:48.825444+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 20:33 UTC  
+**Last Updated:** December 19, 2025 at 20:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 I used to think building an AI feature was mostly model choice + prompts. Then we shipped one. What went wrong: The assistant started giving different answers to the same questions. We didn’t change the model. We didn’t change the UI. It looked like the AI got worse. Turns out the cause was boring: the system that feeds information into the AI changed slightly (a document extraction update). The text the AI searched over was subtly different, so it pulled different passages and answered differently. What was observed: documents ingested live with whatever parser happened to run no record of what text was actually used no simple test to detect changes early debugging was basically guesswork Changes applied: we saved the cleaned/extracted text as a build artifact we made the - how we slice documents rules explicit and versioned we added a tiny regression test: a few questions that must still cite the same sources (or at least show what changed) Impact: Failures became explainable. The AI changed turned into this document’s extracted text changed; here’s the diff. If you’ve built AI apps: what’s the most annoying reliability issue you didn’t expect until you shipped?
 
-2m ago
+18m ago
 
 ---
 
@@ -153,7 +153,7 @@ Ars Technica • 3h ago
 
 **[How Do You Do AI?](https://www.aacu.org/liberaleducation/articles/how-do-you-do-ai)**
 
-AAC&U • 24m ago
+AAC&U • 40m ago
 
 ---
 
@@ -241,7 +241,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 335 • 💬 253 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 335 • 💬 253 • 3d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -327,7 +327,7 @@ INVESTINGPRO - 55% Off + An EXTRA 15% Off WITH MY CODE ☑️ Use code NEWMONEY 
 
 📺 New Money
 
-👁️ 19K • 👍 1K • 💬 168 • ⏱️ 14:28 • 7h ago
+👁️ 19K • 👍 1K • 💬 168 • ⏱️ 14:28 • 8h ago
 
 ---
 
@@ -405,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 377 • 9m ago
+⬇️ 62,493 • ❤️ 377 • 24m ago
 
 ---
 
@@ -477,7 +477,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 229 • 23h ago
+⬇️ 2,154 • ❤️ 229 • 1d ago
 
 ---
 

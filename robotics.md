@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T20:33:12.192399+00:00'
+updated: '2025-12-19T20:48:48.840819+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 20:33 UTC  
+**Last Updated:** December 19, 2025 at 20:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-49m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our colleagues at ROSCon India, which is happening right now in Pune!      This week community member @_bernardo posted a teaser video for an incredible Manta-ray biomimetic robot that uses ROS 2!           Two new Depth Anything 3 tools came out this week. First PyOctomapAnything turns any image into a PyOctoMap 3D voxel scene There’s also a new a new foundation model for panoramic depth estimation. I’ve said it before, ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 8m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 24m ago
 
 ---
 
@@ -100,7 +100,7 @@ ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our 
 
 I’m looking at getting a small 2n1 compact laptop. Something that isn’t too expensive. The one I was looking was the surface pro 11 12” Surface pro 11, 12inch Ram: 16gb Ssd: 512 (not- upgradable) Cpu: Snapdragon X Plus (8-Core) Price: $599 They have the 13” Ram:16gb SSD: 526gb (upgradable) CPU: Snapdragon X Elite (12-Core) Price: $999 ($1449 for 32gb ram, 1TB SSD, same CPU) I currently have a desktop for heavier task, but this mainly so i can take it on the go to local places, etc. This is for small robotics projects (building some robotic arms), but will probably take it a step further later
 
-32m ago
+48m ago
 
 ---
 
@@ -144,7 +144,7 @@ Yahoo News Singapore • 2h ago
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
-KSBY News • 13h ago
+KSBY News • 14h ago
 
 ---
 
