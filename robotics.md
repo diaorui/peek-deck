@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T01:28:40.016386+00:00'
+updated: '2025-12-19T03:13:30.371148+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 01:28 UTC  
+**Last Updated:** December 19, 2025 at 03:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-13h ago
-
----
-
-**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
-
-It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
-
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +50,15 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-10h ago
+12h ago
+
+---
+
+**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
+
+It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
+
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
 
-2h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-12h ago
+14h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 10h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 11h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
 
-1h ago
+3h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
 
-2h ago
+4h ago
 
 ---
 
@@ -138,11 +138,23 @@ Sourcing Journal • 2d ago
 
 ---
 
-**[Welcome to home robotics limbo](https://edition.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
 CNN • 1d ago
+
+---
+
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
+
+The Seattle Times • 10h ago
 
 ---
 
@@ -154,25 +166,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)**
-
-They make robot vacuums, lots of them
-
-The Verge • 3d ago
-
----
-
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 1d ago
-
----
-
 **[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-Fortune • 16h ago
+Fortune • 18h ago
 
 ---
 
@@ -280,7 +278,7 @@ Congrats to all who were voted for in the FTC Top 25 by the community! In FTC To
 
 📺 FUN Robotics Network
 
-👁️ 3K • 👍 41 • 💬 1 • ⏱️ 57:28 • 23h ago
+👁️ 3K • 👍 41 • 💬 1 • ⏱️ 57:28 • 1d ago
 
 ---
 

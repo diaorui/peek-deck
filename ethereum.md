@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T01:28:40.012978+00:00'
+updated: '2025-12-19T03:13:30.367841+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 01:28 UTC  
+**Last Updated:** December 19, 2025 at 03:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -9.1%  
-**30d:** -0.4%  
-**90d:** -36.4%  
-**1y:** -18.5%  
+**24h:** +1.1%  
+**7d:** -7.8%  
+**30d:** +1.0%  
+**90d:** -35.5%  
+**1y:** -17.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $340.90B
+**Market Cap:** $344.66B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.9%
+-42.3%
 
 **All-Time Low:** $0.43
-+652453.6%
++658694.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-8h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-18h ago
+20h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -146,11 +146,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
 
-Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Yahoo Finance • 9h ago
+Decrypt • 14h ago
 
 ---
 
@@ -160,11 +160,25 @@ The Block • 1d ago
 
 ---
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://finance.yahoo.com/news/sofi-unveils-ethereum-stablecoin-trading-130103326.html)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeynutHwxsj34N0e_-JOAWfHwvnFIJ8Nga28ev8HGkjMfvJkcra13pB&gaa_ts=6944c63d&gaa_sig=saVV9ugTqFXfOJgtshsy45G9WTnMoQTAAUoSIRYPnqfmjPyK40U-Kre1EaDNHYbZzEyeGDeDgCPDcjA3RwZmzw%3D%3D)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+Barron's • 2d ago
 
-Yahoo Finance • 12h ago
+---
+
+**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
+
+Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
+
+Is Ethereum really on the path to a price of $62,000 next year?
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -174,33 +188,11 @@ CCN.com • 2d ago
 
 ---
 
-**[Tom Lee Predicts 10-15% Downside For Stocks In Early 2026: Here Is Why The Ethereum Bull Sees Crypto's 'Best Years' Ahead](https://finance.yahoo.com/news/tom-lee-predicts-10-15-193238141.html)**
+**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
 
-Wall Street analyst Tom Lee predicted on Monday a bearish first half for financial markets in 2026, but expects it to “come back in force” eventually. Lee Expects Market To ‘Come Back In Force’ In 2026 Lee, who chairs BitMine Immersion Technologies ...
+v
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
-
-Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
-
-Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
-
-Seeking Alpha • 5h ago
-
----
-
-**[JPMorgan Debuts First Money Market Fund Tokenized on Ethereum](https://www.bloomberg.com/news/articles/2025-12-15/jpmorgan-debuts-first-money-market-fund-tokenized-on-ethereum)**
-
-Bloomberg.com • 3d ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -212,11 +204,17 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum (ETH) Treasury News: BMNR Builds Holdings to Nearly 4M Tokens](https://www.coindesk.com/business/2025/12/15/crypto-s-best-days-are-ahead-tom-lee-s-bitmine-immersion-adds-usd320m-of-ether)**
+**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
 
-The company is likely sitting on about $3 billion in unrealized losses on its holdings of nearly 4 million ether tokens.
+Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
-CoinDesk • 3d ago
+Seeking Alpha • 6h ago
+
+---
+
+**[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
+
+Bloomberg.com • 14h ago
 
 ---
 
@@ -230,7 +228,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 286 • 💬 44 • ⏱️ 16:54 • 10h ago
+👁️ 6K • 👍 286 • 💬 44 • ⏱️ 16:54 • 11h ago
 
 ---
 
@@ -240,7 +238,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 36 • 💬 3 • ⏱️ 14:11 • 10h ago
+👁️ 1K • 👍 36 • 💬 3 • ⏱️ 14:11 • 11h ago
 
 ---
 
@@ -270,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 5 • ⏱️ 7:17 • 12h ago
+👁️ 2K • 👍 127 • 💬 5 • ⏱️ 7:17 • 14h ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 3K • 👍 234 • 💬 51 • ⏱️ 26:48 • 3h ago
+👁️ 3K • 👍 234 • 💬 51 • ⏱️ 26:48 • 4h ago
 
 ---
 
@@ -300,7 +298,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 376 • 💬 33 • ⏱️ 12:11 • 14h ago
+👁️ 7K • 👍 376 • 💬 33 • ⏱️ 12:11 • 15h ago
 
 ---
 
@@ -320,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 512 • 👍 21 • 💬 1 • ⏱️ 4:50 • 14h ago
+👁️ 512 • 👍 21 • 💬 1 • ⏱️ 4:50 • 16h ago
 
 ---
 
