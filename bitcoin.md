@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T20:00:16.755081+00:00'
+updated: '2025-12-19T20:33:12.182993+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 20:00 UTC  
+**Last Updated:** December 19, 2025 at 20:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,745.56
+### $87,920.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.0%  
-**7d:** -2.5%  
-**30d:** +0.8%  
-**90d:** -24.0%  
-**1y:** -10.2%  
+**24h:** +2.5%  
+**7d:** -2.6%  
+**30d:** +1.0%  
+**90d:** -23.8%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.36B
+**Market Cap:** $1755.42B
 Rank #1
 
 **Circulating Supply:** 19,964,328 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.3%
 
 **All-Time Low:** $67.81
-+129397.1%
++129560.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -103,15 +103,15 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
+**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
 4h ago
 
 ---
 
-**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
+**[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -147,37 +147,43 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-Futurism • 4h ago
+Futurism • 5h ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 9h ago
+Reuters • 4h ago
 
 ---
 
-**[Bitcoin Poised to Rise to $1.4 Million by 2035, Analysts Say—Or Much Higher](https://finance.yahoo.com/news/bitcoin-poised-rise-1-4-190554265.html)**
+**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
 
-A new price model suggests that Bitcoin could rise as high as $1.4 million per coin by 2035, as a base case. The bull case is even higher.
+More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 54m ago
-
----
-
-**[‘Pay 13 Bitcoin or We Blow It Up’: Hyundai Bomb Threat Shakes South Korean Offices](https://bitcoinmagazine.com/news/hyundai-bitcoin-bomb-threat-in-south-korea)**
-
-Hyundai Group evacuated staff from two Seoul offices after receiving a bomb threat email demanding bitcoin.
-
-Bitcoin Magazine • 54m ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqewMjSlGGL7EeHxy_Cg-YY-bSPvqCM4Ms2QYw_RYOfDTF9EfeMW6A64&gaa_ts=6945b237&gaa_sig=qDcvr5Ih3GHS-ga7j75OOULTEfWEqRNFpdxyjEKue8AcvQj9wnfvtPboqxkMkZgPP7KWkNds0sUlTmvbyDiYmQ%3D%3D)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
+
+Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfYIADijJTe1P9ZdTUpAOOE6NKDdsY982bQA1q-sWaBJjioQevL9hUw&gaa_ts=6945b9ed&gaa_sig=EkxRmyxiw7QerDqhwiIi3DuH_f_aOzS9nVNTQrUYkc9tuPLL84UXm7iyby9O-8cKfM60eEocGmADvaUic6SwyA%3D%3D)**
 
 Barron's • 11h ago
+
+---
+
+**[Bitcoin’s Post-CPI Whipsaw Liquidates Over $500M Again](https://decrypt.co/352978/bitcoins-post-cpi-whipsaw-liquidates-over-500m-again)**
+
+Liquidations surged amid volatility from derivatives profit-taking and a shifting macro backdrop from the Bank of Japan’s rate hike.
+
+Decrypt • 10h ago
 
 ---
 
@@ -189,7 +195,7 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
+**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
@@ -197,23 +203,19 @@ CoinDesk • 3h ago
 
 ---
 
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+
+Bloomberg.com • 9h ago
+
+---
+
 **[Philly man's bitcoin mining scheme allegedly defrauded investors of $48.5 million, SEC says](https://www.phillyvoice.com/bitcoin-mining-scam-vbit-sec-danh-vo-philadelphia/)**
 
 Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
 
-PhillyVoice • 21h ago
-
----
-
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
-
-Reuters • 4h ago
-
----
-
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfTxRLLwHqc1XRodDf2Btap6enFn-3k4rTRSZllLaxLyQuLFG3F2Oqm&gaa_ts=6945b237&gaa_sig=JsvgKeiEdosV7xzb_GfUZdmQnyibO4zStnwdpkJv0MlHMKZ5VpETzS_YOVFEagadLaY52cYO-rDaWPPJEnK9ZQ%3D%3D)**
-
-The Wall Street Journal • 3d ago
+PhillyVoice • 22h ago
 
 ---
 
@@ -225,7 +227,7 @@ The Wall Street Journal • 3d ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 25 • 💬 8 • 4d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 26 • 💬 8 • 4d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -255,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 4h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 5h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -279,7 +281,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 22h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 23h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -305,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 118 • ⏱️ 44:14 • 4h ago
+👁️ 21K • 👍 1K • 💬 118 • ⏱️ 44:14 • 5h ago
 
 ---
 
@@ -315,7 +317,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 43K • 👍 2K • 💬 243 • ⏱️ 16:50 • 21h ago
+👁️ 43K • 👍 2K • 💬 243 • ⏱️ 16:50 • 22h ago
 
 ---
 
@@ -365,7 +367,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 8h ago
+👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 9h ago
 
 ---
 
@@ -385,7 +387,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 20K • 👍 2K • 💬 154 • ⏱️ 18:06 • 3h ago
+👁️ 20K • 👍 2K • 💬 154 • ⏱️ 18:06 • 4h ago
 
 ---
 
@@ -395,7 +397,7 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 26K • 👍 1K • 💬 183 • ⏱️ 2:15 • 19h ago
+👁️ 26K • 👍 1K • 💬 183 • ⏱️ 2:15 • 20h ago
 
 ---
 

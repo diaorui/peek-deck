@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T20:00:16.746537+00:00'
+updated: '2025-12-19T20:33:12.174161+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 20:00 UTC  
+**Last Updated:** December 19, 2025 at 20:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Uber CEO says AI is turning his engineers into 'superhumans'](https://www.reddit.com/r/artificial/comments/1pqt1nj/uber_ceo_says_ai_is_turning_his_engineers_into/)**
-
-Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
-
-🔗 [Business Insider](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
-
----
-
-**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas', AI agents are starting to eat SaaS, and many other AI link from Hacker News](https://www.reddit.com/r/artificial/comments/1pqm3qy/aws_ceo_says_replacing_junior_devs_with_ai_is_one/)**
-
-Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Here are some links from this issue: I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me -> HN link. Vibe coding creates fatigue? -> HN link. AI's real superpower: consuming, not creating -> HN link. AI Isn't Just Spying on You. It's Tricking You into Spending More -> HN link. If AI replaces workers, should it also pay taxes? -> HN link. If you like this type of content, you might consider subscribing here: https://hackernewsai.com/
-
-5h ago
-
----
-
 **[Gemini Flash hallucinates 91% times, if it does not know answer](https://www.reddit.com/r/artificial/comments/1pqgofe/gemini_flash_hallucinates_91_times_if_it_does_not/)**
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +49,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 23h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 1d ago
 
 ---
 
@@ -77,11 +61,11 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 ---
 
-**[Scammers in China Are Using AI-Generated Images to Get Refunds](https://www.reddit.com/r/artificial/comments/1pqu6xh/scammers_in_china_are_using_aigenerated_images_to/)**
+**[The unsexy part of AI apps: glue work that breaks everything (and how we stopped it)](https://www.reddit.com/r/artificial/comments/1pqviqh/the_unsexy_part_of_ai_apps_glue_work_that_breaks/)**
 
-From dead crabs to shredded bed sheets, fraudsters are using fake photos and videos to get their money back from ecommerce sites.
+I used to think building an AI feature was mostly model choice + prompts. Then we shipped one. What went wrong: The assistant started giving different answers to the same questions. We didn’t change the model. We didn’t change the UI. It looked like the AI got worse. Turns out the cause was boring: the system that feeds information into the AI changed slightly (a document extraction update). The text the AI searched over was subtly different, so it pulled different passages and answered differently. What was observed: documents ingested live with whatever parser happened to run no record of what text was actually used no simple test to detect changes early debugging was basically guesswork Changes applied: we saved the cleaned/extracted text as a build artifact we made the - how we slice documents rules explicit and versioned we added a tiny regression test: a few questions that must still cite the same sources (or at least show what changed) Impact: Failures became explainable. The AI changed turned into this document’s extracted text changed; here’s the diff. If you’ve built AI apps: what’s the most annoying reliability issue you didn’t expect until you shipped?
 
-🔗 [WIRED](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/) • 24m ago
+2m ago
 
 ---
 
@@ -89,7 +73,7 @@ From dead crabs to shredded bed sheets, fraudsters are using fake photos and vid
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 32m ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 1h ago
 
 ---
 
@@ -117,13 +101,31 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 ---
 
+**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
+
+Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
+
+1d ago
+
+---
+
+**[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
+
+This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdu_UHyUFZdERwr9s-9MGrSQRxKXm9ic_dwDeS1Hucvniz6bqSdglD0&gaa_ts=6945b236&gaa_sig=PhKuOCkGkayDU0MsBP4UWo29YPY2BQlamAya8X496HcWd8iwN09BcdWc1WQ2ygRH-wi1Urr34sNqkTspJ9I3Kw%3D%3D)**
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
 
-The Wall Street Journal • 1d ago
+A Stanford software engineering degree used to be a golden ticket.
+
+Los Angeles Times • 8h ago
 
 ---
 
@@ -135,45 +137,35 @@ WIRED • 4h ago
 
 ---
 
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+**[Exclusive: AI chip firm Cerebras set to file for US IPO after delay, sources say](https://www.reuters.com/business/ai-chip-firm-cerebras-set-file-us-ipo-after-delay-sources-say-2025-12-19/)**
 
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 8h ago
+Reuters • 1h ago
 
 ---
 
-**[Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees](https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-ai-software-devs-hired-2025-ex-employees.html)**
+**[We asked four AI coding agents to rebuild Minesweeper —the results were explosive](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/)**
 
-As competition heats up for AI talent, Google turned to hiring more so-called boomerang employees in 2025.
+How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-CNBC • 3h ago
-
----
-
-**[Mast introduces bill allowing Congress to block AI chip exports to adversaries](https://thehill.com/policy/technology/5657356-ai-chips-russia-china-venezuela/)**
-
-thehill.com • 39m ago
+Ars Technica • 3h ago
 
 ---
 
-**[Known uses voice AI to help you go on more in-person dates](https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/)**
+**[How Do You Do AI?](https://www.aacu.org/liberaleducation/articles/how-do-you-do-ai)**
 
-In its test phase in San Francisco, Known said it observed 80% of its introductions led to physical dates, which is much higher than swipe-based dating apps.
-
-TechCrunch • 2h ago
+AAC&U • 24m ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[Tech moguls close to Trump see the midterms as a path to long-term power](https://www.washingtonpost.com/technology/2025/12/19/tech-super-pacs-midterms-ai/)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqf_C6JjCwOCgOxDbxo6PDn5R2WpHuWM-URow9CBjjMYWsGX6F-QGnaQ&gaa_ts=6945b9ec&gaa_sig=Ao5AMcjOOpvIU5auDqHDNXCRKM8jtb05Ky1dj04FBzvCoVfkv2d-BdBhA39FnsOUOnnSUf4VCNWUIzgZubudig%3D%3D)**
 
-The Washington Post • 2h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -181,13 +173,21 @@ The Washington Post • 2h ago
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
 **[Wall Street Isn’t Asking Many Questions About AI’s Broader Reach](https://www.bloomberg.com/graphics/2025-wall-street-ai-questions-beyond-tech/)**
 
 Bloomberg.com • 9h ago
+
+---
+
+**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 6h ago
 
 ---
 
@@ -225,7 +225,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 520 • 💬 500 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 523 • 💬 501 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -233,7 +233,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 442 • 💬 546 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 444 • 💬 554 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -241,7 +241,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 335 • 💬 252 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 335 • 💬 253 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -347,7 +347,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 6K • 👍 265 • 💬 21 • ⏱️ 1:01 • 3h ago
+👁️ 6K • 👍 265 • 💬 21 • ⏱️ 1:01 • 4h ago
 
 ---
 
@@ -367,7 +367,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 10K • 👍 214 • 💬 25 • ⏱️ 8:13 • 18h ago
+👁️ 10K • 👍 214 • 💬 25 • ⏱️ 8:13 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,070 • 11d ago
+⬇️ 329,981 • ❤️ 3,071 • 11d ago
 
 ---
 
@@ -405,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 376 • 21h ago
+⬇️ 62,493 • ❤️ 377 • 9m ago
 
 ---
 
@@ -417,7 +417,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 343 • 1d ago
+⬇️ 0 • ❤️ 344 • 1d ago
 
 ---
 
@@ -441,7 +441,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 276 • 4d ago
+⬇️ 0 • ❤️ 278 • 4d ago
 
 ---
 
@@ -465,7 +465,19 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 246 • 2d ago
+⬇️ 0 • ❤️ 247 • 2d ago
+
+---
+
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 2,154 • ❤️ 229 • 23h ago
 
 ---
 
@@ -481,18 +493,6 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 ---
 
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 2,154 • ❤️ 224 • 23h ago
-
----
-
 **[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
 
 *Microsoft*
@@ -501,7 +501,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 950 • 7d ago
+⬇️ 201,479 • ❤️ 951 • 7d ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 8h ago
+⭐ 18.0k • 🔱 2.8k • 9h ago
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 146 • 4h ago
+⭐ 2.1k • 🔱 146 • 5h ago
 
 ---
 
@@ -701,7 +701,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.2k • 🔱 141 • 8h ago
+⭐ 1.2k • 🔱 141 • 9h ago
 
 ---
 

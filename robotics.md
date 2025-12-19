@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T20:00:16.764445+00:00'
+updated: '2025-12-19T20:33:12.192399+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 20:00 UTC  
+**Last Updated:** December 19, 2025 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-4h ago
-
----
-
-**[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
-
-Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
-
-1h ago
+5h ago
 
 ---
 
@@ -50,7 +42,15 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-16m ago
+49m ago
+
+---
+
+**[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
+
+Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
+
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -88,19 +88,19 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ---
 
-**[Selection Motor](https://www.reddit.com/r/robotics/comments/1pq4l38/selection_motor/)**
+**[ROS News for the Week of December 15th, 2025 - Community News](https://www.reddit.com/r/robotics/comments/1pqvdou/ros_news_for_the_week_of_december_15th_2025/)**
 
-Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
+ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our colleagues at ROSCon India, which is happening right now in Pune!      This week community member @_bernardo posted a teaser video for an incredible Manta-ray biomimetic robot that uses ROS 2!           Two new Depth Anything 3 tools came out this week. First PyOctomapAnything turns any image into a PyOctoMap 3D voxel scene There’s also a new a new foundation model for panoramic depth estimation. I’ve said it before, ...
 
-21h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 8m ago
 
 ---
 
-**[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
+**[Is surface pro 11, 12inch, a good 2n1 laptop for robotics hobby.](https://www.reddit.com/r/robotics/comments/1pqusfj/is_surface_pro_11_12inch_a_good_2n1_laptop_for/)**
 
-The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
+I’m looking at getting a small 2n1 compact laptop. Something that isn’t too expensive. The one I was looking was the surface pro 11 12” Surface pro 11, 12inch Ram: 16gb Ssd: 512 (not- upgradable) Cpu: Snapdragon X Plus (8-Core) Price: $599 They have the 13” Ram:16gb SSD: 526gb (upgradable) CPU: Snapdragon X Elite (12-Core) Price: $999 ($1449 for 32gb ram, 1TB SSD, same CPU) I currently have a desktop for heavier task, but this mainly so i can take it on the go to local places, etc. This is for small robotics projects (building some robotic arms), but will probably take it a step further later
 
-1d ago
+32m ago
 
 ---
 
@@ -121,6 +121,22 @@ Fortune • 1d ago
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
 TechCrunch • 2d ago
+
+---
+
+**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://sg.finance.yahoo.com/news/investors-warn-humanoid-robots-next-190655164.html)**
+
+People will have to wait longer for their personal robot servant.
+
+Yahoo Finance Singapore • 1h ago
+
+---
+
+**[Robots Tear Up Stage as Backup Dancers](https://sg.news.yahoo.com/robots-tear-stage-backup-dancers-182028549.html)**
+
+This is seriously impressive.
+
+Yahoo News Singapore • 2h ago
 
 ---
 
@@ -168,20 +184,6 @@ Bloomberg.com • 9h ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 2d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
-
-The Seattle Times • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -202,7 +204,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 8K • 👍 22 • ⏱️ 0:09 • 8h ago
+👁️ 8K • 👍 22 • ⏱️ 0:09 • 9h ago
 
 ---
 
@@ -260,7 +262,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 QCT
 
-👁️ 43K • 👍 555 • 💬 14 • ⏱️ 0:25 • 22h ago
+👁️ 43K • 👍 555 • 💬 14 • ⏱️ 0:25 • 23h ago
 
 ---
 
