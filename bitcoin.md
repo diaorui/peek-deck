@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T07:35:01.040252+00:00'
+updated: '2025-12-19T07:47:48.751866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 07:35 UTC  
+**Last Updated:** December 19, 2025 at 07:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
+**24h:** +0.7%  
 **7d:** -2.8%  
 **30d:** +0.8%  
 **90d:** -24.0%  
@@ -117,7 +117,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -129,13 +129,13 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin's rate of growth may be slowing, but it's still on track to hit $250,000 by 2030.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
