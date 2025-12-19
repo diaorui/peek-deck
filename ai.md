@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T19:49:16.722174+00:00'
+updated: '2025-12-19T20:00:16.746537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 19:49 UTC  
+**Last Updated:** December 19, 2025 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Uber CEO says AI is turning his engineers into 'superhumans'](https://www.reddit.com/r/artificial/comments/1pqt1nj/uber_ceo_says_ai_is_turning_his_engineers_into/)**
+
+Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
+
+🔗 [Business Insider](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
+
+---
+
 **[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas', AI agents are starting to eat SaaS, and many other AI link from Hacker News](https://www.reddit.com/r/artificial/comments/1pqm3qy/aws_ceo_says_replacing_junior_devs_with_ai_is_one/)**
 
 Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Here are some links from this issue: I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me -> HN link. Vibe coding creates fatigue? -> HN link. AI's real superpower: consuming, not creating -> HN link. AI Isn't Just Spying on You. It's Tricking You into Spending More -> HN link. If AI replaces workers, should it also pay taxes? -> HN link. If you like this type of content, you might consider subscribing here: https://hackernewsai.com/
@@ -53,14 +61,6 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 ---
 
-**[Uber CEO says AI is turning his engineers into 'superhumans'](https://www.reddit.com/r/artificial/comments/1pqt1nj/uber_ceo_says_ai_is_turning_his_engineers_into/)**
-
-Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
-
-🔗 [Business Insider](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 59m ago
-
----
-
 **[LG Will Let TV Owners Delete Microsoft Copilot After Customer Outcry](https://www.reddit.com/r/artificial/comments/1pq0ycl/lg_will_let_tv_owners_delete_microsoft_copilot/)**
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
@@ -73,7 +73,23 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 15h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 16h ago
+
+---
+
+**[Scammers in China Are Using AI-Generated Images to Get Refunds](https://www.reddit.com/r/artificial/comments/1pqu6xh/scammers_in_china_are_using_aigenerated_images_to/)**
+
+From dead crabs to shredded bed sheets, fraudsters are using fake photos and videos to get their money back from ecommerce sites.
+
+🔗 [WIRED](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/) • 24m ago
+
+---
+
+**[AI models make it almost five times more likely a non-expert can recreate a virus from scratch. The protocols' feasibility was verified in a real-world wet lab](https://www.reddit.com/r/artificial/comments/1pqtz49/ai_models_make_it_almost_five_times_more_likely_a/)**
+
+UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
+
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 32m ago
 
 ---
 
@@ -85,35 +101,19 @@ My question is about reliance on facial recognition software, and more generally
 
 ---
 
-**[Sam Altman is a Fraud Throughout All His Deals](https://www.reddit.com/r/artificial/comments/1pqqjgl/sam_altman_is_a_fraud_throughout_all_his_deals/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 2h ago
-
----
-
-**[Your AI is lying to you.](https://www.reddit.com/r/artificial/comments/1pqrs9i/your_ai_is_lying_to_you/)**
-
-An AI that is not afraid to tell you when you are wrong.
-
-🔗 [Tofu](https://withtofu.com) • 1h ago
-
----
-
-**[Anyone else hate being charged when the model fails?](https://www.reddit.com/r/artificial/comments/1pqqcuk/anyone_else_hate_being_charged_when_the_model/)**
-
-I frequently get errors when working with Anthropic's Opus 4.5, especially when the context starts to fill up. Frustratingly, the model will generate a ton of tokens before abruptly failing ("An unknown error has occurred"). The response vanishes and I'm back to my original prompt. Normally this wouldn't bug me that much. However, I recently ran out of usage and had to buy credits to make a deadline. As soon as I did this, I got the error message over and over again. The model DID sometimes complete a response, so I suspect their app is at fault; things get awfully buggy when working with long markdown artifacts. In any case, I was billed for each and every failed response. I burned through all my credits and never managed to get the task done. I reached out to Anthropic for help. A full week later they told me to kick rocks. Something about this feels wrong. You shouldn't bill customers if you fail to provide a service. I'm sure their TOS absolves them of responsibility, but it's still a hostile, BS policy. Curious whether this is a widespread issue or I just got especially unlucky. Edit: to clarify, the issue isn't that the response is low quality; it's that the response is completely dropped due to an error in the Claude app or website.
-
-2h ago
-
----
-
 **[One-Minute Daily AI News 12/18/2025](https://www.reddit.com/r/artificial/comments/1pqci2w/oneminute_daily_ai_news_12182025/)**
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-14h ago
+15h ago
+
+---
+
+**[There are today >175,000 AI-generated podcast episodes on Spotify/Apple, a # which is growing by >3,000 every week, largely due to a single 8-person company (Inception Point AI, which bills itself as the "audio version of Reddit"). The AI podcasting market is worth 4 bil today, up from 3 bil in 2024](https://www.reddit.com/r/artificial/comments/1ppyguw/there_are_today_175000_aigenerated_podcast/)**
+
+Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
+
+1d ago
 
 ---
 
@@ -121,17 +121,9 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcbKIJXOTkraWDme1yYU-rjl39L12GFdnsscGqTALo0n7n2gf_TTr88&gaa_ts=6945a9df&gaa_sig=WbI6xThDzY6TxyxidDYnUlDgJR3twxRydWZ1BqVOOyUeyghSbC7Rhur2ZM_2Q8l6aT74uUctyNT-Ei-U6tfG6Q%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdu_UHyUFZdERwr9s-9MGrSQRxKXm9ic_dwDeS1Hucvniz6bqSdglD0&gaa_ts=6945b236&gaa_sig=PhKuOCkGkayDU0MsBP4UWo29YPY2BQlamAya8X496HcWd8iwN09BcdWc1WQ2ygRH-wi1Urr34sNqkTspJ9I3Kw%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
-
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 7h ago
 
 ---
 
@@ -139,7 +131,15 @@ Los Angeles Times • 7h ago
 
 Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
 
-WIRED • 3h ago
+WIRED • 4h ago
+
+---
+
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+
+A Stanford software engineering degree used to be a golden ticket.
+
+Los Angeles Times • 8h ago
 
 ---
 
@@ -147,15 +147,13 @@ WIRED • 3h ago
 
 As competition heats up for AI talent, Google turned to hiring more so-called boomerang employees in 2025.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[What OpenAI's Sam Altman thinks of AI disaster scenarios](https://www.npr.org/2025/12/19/nx-s1-5640766/what-openais-sam-altman-thinks-of-ai-disaster-scenarios)**
+**[Mast introduces bill allowing Congress to block AI chip exports to adversaries](https://thehill.com/policy/technology/5657356-ai-chips-russia-china-venezuela/)**
 
-AI has sparked big questions around safety and ethics. OpenAI CEO Sam Altman shares his vision for AI's future and why he thinks the rewards outweigh the risks, live onstage with TED's Chris Anderson.
-
-NPR • 3h ago
+thehill.com • 39m ago
 
 ---
 
@@ -169,7 +167,13 @@ TechCrunch • 2h ago
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 3h ago
+The New York Times • 9h ago
+
+---
+
+**[Tech moguls close to Trump see the midterms as a path to long-term power](https://www.washingtonpost.com/technology/2025/12/19/tech-super-pacs-midterms-ai/)**
+
+The Washington Post • 2h ago
 
 ---
 
@@ -181,17 +185,9 @@ The Guardian • 4h ago
 
 ---
 
-**[Tech moguls close to Trump see the midterms as a path to long-term power](https://www.washingtonpost.com/technology/2025/12/19/tech-super-pacs-midterms-ai/)**
+**[Wall Street Isn’t Asking Many Questions About AI’s Broader Reach](https://www.bloomberg.com/graphics/2025-wall-street-ai-questions-beyond-tech/)**
 
-The Washington Post • 1h ago
-
----
-
-**[Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up](https://fortune.com/2025/12/19/cursor-ai-coding-startup-graphite-competition-heats-up/)**
-
-The $29 billion AI code editor is betting that controlling the entire development process will help it fend off competition.
-
-Fortune • 4h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -229,7 +225,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 518 • 💬 497 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 520 • 💬 500 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -237,7 +233,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 441 • 💬 536 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 442 • 💬 546 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -245,7 +241,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 334 • 💬 252 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 335 • 💬 252 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -269,7 +265,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 203 • 💬 166 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 204 • 💬 166 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -277,7 +273,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 145 • 💬 13 • 21h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 145 • 💬 13 • 22h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -381,7 +377,7 @@ Google quietly set a new baseline with Gemini 3 Flash, a fast, low-cost reasonin
 
 📺 AI Revolution
 
-👁️ 13K • 👍 467 • 💬 23 • ⏱️ 14:15 • 19h ago
+👁️ 13K • 👍 467 • 💬 23 • ⏱️ 14:15 • 20h ago
 
 ---
 
@@ -409,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 374 • 21h ago
+⬇️ 62,493 • ❤️ 376 • 21h ago
 
 ---
 
@@ -421,7 +417,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 341 • 1d ago
+⬇️ 0 • ❤️ 343 • 1d ago
 
 ---
 
@@ -433,7 +429,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 302 • 1d ago
+⬇️ 3,633 • ❤️ 303 • 1d ago
 
 ---
 
@@ -493,7 +489,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 218 • 23h ago
+⬇️ 2,154 • ❤️ 224 • 23h ago
 
 ---
 

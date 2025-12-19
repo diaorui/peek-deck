@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T19:49:16.736931+00:00'
+updated: '2025-12-19T20:00:16.761185+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 19:49 UTC  
+**Last Updated:** December 19, 2025 at 20:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.61B
+**Market Cap:** $360.36B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+688383.7%
++689118.2%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 9h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 10h ago
 
 ---
 
@@ -146,39 +146,11 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
 
-Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
 Decrypt • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqe-Dep_VPSwSnFl7AWUujZwxOce71uFBQlDBId8NTqLzVZFxTmCmkyo&gaa_ts=6945a9e1&gaa_sig=dkigtyZExCLi4v2AqOCYe8jqZX_F9j27mBlq_Lv4_dWigahsl7gvvAYjW9TpmVfk1k4bcCN1JTzsMD7hvhmOxQ%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
-
-FXStreet • 16h ago
-
----
-
-**[Why Bitcoin, Ethereum and XRP Are Falling Today Even As Inflation Cools and Rates Are Cut](https://www.tradingview.com/news/coinpedia:2c393df90094b:0-why-bitcoin-ethereum-and-xrp-are-falling-today-even-as-inflation-cools-and-rates-are-cut/)**
-
-The crypto market has turned red today, with tokens like Bitcoin, Ethereum, and XRP trading lower. The total crypto market value has dropped to about $2.97 trillion, down more than 2% in the last 24 hours, as investors remain cautious.Even though some positive economic news has come out, traders ar…
-
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 8h ago
 
 ---
 
@@ -190,11 +162,9 @@ Yahoo Finance • 17h ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeN--vb1Z6iyoe32cV-f5rfA13qnwZiyy-aFAg1jVtZjy0-HwtBDHCX&gaa_ts=6945b239&gaa_sig=VQ2liDyn5pPeExWj6sKK6z-HR8cwl-g3NzE87kiItwAjsvNcACM7b22azMX1SLQIri1Qq1AHE91PFvESYX-Jhg%3D%3D)**
 
-Next year could be good but won't be driven by blockchain tech upgrades.
-
-The Motley Fool • 8h ago
+Barron's • 2d ago
 
 ---
 
@@ -206,9 +176,17 @@ BeInCrypto • 14h ago
 
 ---
 
-**[MSTR, BMNR Rise After BOJ Rate Decision Results In BItcoin, Ethereum Rebound](https://stocktwits.com/news-articles/markets/cryptocurrency/mstr-bmnr-rise-after-boj-rate-decision-results-in-bitcoin-ethereum-rebound/cLeik8qRErF)**
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-Stocktwits • 20h ago
+The Block • 8h ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 9h ago
 
 ---
 
@@ -217,6 +195,28 @@ Stocktwits • 20h ago
 Just a few weeks after the Fusaka update, Ethereum BINANCE:ETHUSD developers have revealed the name for the next major upgrade in 2026. According to insights shared by Wu Blockchain, developers in the ecosystem have voted to name this next update "Hegota." What Hegota upgrade's name representsNotab…
 
 TradingView — Track All Markets • 5h ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 3d ago
+
+---
+
+**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
+
+v
+
+AMBCrypto • 21h ago
+
+---
+
+**[Curve Finance Strengthens Its Position as a Leading Ethereum DEX With 44% Fee Share](https://markets.businessinsider.com/news/currencies/curve-finance-strengthens-its-position-as-a-leading-ethereum-dex-with-44-fee-share-1035661157)**
+
+Zug, Switzerland, December 19th, 2025, FinanceWireEthereum&rsquo;s market is one of the most competitive corners of DeFi, and...
+
+markets.businessinsider.com • 4h ago
 
 ---
 

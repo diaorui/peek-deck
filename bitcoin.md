@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T19:49:16.730558+00:00'
+updated: '2025-12-19T20:00:16.755081+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 19:49 UTC  
+**Last Updated:** December 19, 2025 at 20:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.6%  
-**7d:** -2.8%  
+**24h:** +4.0%  
+**7d:** -2.5%  
 **30d:** +0.8%  
 **90d:** -24.0%  
 **1y:** -10.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.65B
+**Market Cap:** $1753.36B
 Rank #1
 
-**Circulating Supply:** 19,964,296 BTC
+**Circulating Supply:** 19,964,328 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129041.7%
++129397.1%
 
 ---
 
@@ -85,7 +85,13 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-7h ago
+8h ago
+
+---
+
+**[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
+
+2h ago
 
 ---
 
@@ -94,12 +100,6 @@ Rank #1
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
 5h ago
-
----
-
-**[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
-
-2h ago
 
 ---
 
@@ -115,13 +115,19 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-6h ago
+2h ago
 
 ---
 
-**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
+**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+
+7h ago
+
+---
+
+**[unbothered. moisturized. happy. in my lane. focused. flourishing.](https://www.reddit.com/r/Bitcoin/comments/1pqsmtl/unbothered_moisturized_happy_in_my_lane_focused/)**
 
 1h ago
 
@@ -130,12 +136,6 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 **[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
 10h ago
-
----
-
-**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
-
-16h ago
 
 ---
 
@@ -155,15 +155,7 @@ Futurism • 4h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 8h ago
-
----
-
-**[‘Pay 13 Bitcoin or We Blow It Up’: Hyundai Bomb Threat Shakes South Korean Offices](https://bitcoinmagazine.com/news/hyundai-bitcoin-bomb-threat-in-south-korea)**
-
-Hyundai Group evacuated staff from two Seoul offices after receiving a bomb threat email demanding bitcoin.
-
-Bitcoin Magazine • 43m ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -171,21 +163,29 @@ Bitcoin Magazine • 43m ago
 
 A new price model suggests that Bitcoin could rise as high as $1.4 million per coin by 2035, as a base case. The bull case is even higher.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 54m ago
 
 ---
 
-**[Bitcoin price news: Can BTC bulls break the curse of U.S. selling?](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
+**[‘Pay 13 Bitcoin or We Blow It Up’: Hyundai Bomb Threat Shakes South Korean Offices](https://bitcoinmagazine.com/news/hyundai-bitcoin-bomb-threat-in-south-korea)**
 
-Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
+Hyundai Group evacuated staff from two Seoul offices after receiving a bomb threat email demanding bitcoin.
 
-CoinDesk • 2h ago
+Bitcoin Magazine • 54m ago
 
 ---
 
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqewMjSlGGL7EeHxy_Cg-YY-bSPvqCM4Ms2QYw_RYOfDTF9EfeMW6A64&gaa_ts=6945b237&gaa_sig=qDcvr5Ih3GHS-ga7j75OOULTEfWEqRNFpdxyjEKue8AcvQj9wnfvtPboqxkMkZgPP7KWkNds0sUlTmvbyDiYmQ%3D%3D)**
 
-Investor's Business Daily • 9h ago
+Barron's • 11h ago
+
+---
+
+**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
+
+A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ Investor's Business Daily • 9h ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -205,19 +205,15 @@ PhillyVoice • 21h ago
 
 ---
 
-**[SEC Charges Bitcoin Miner for Duping Investors Out of $48.5 Million](https://bitcoinmagazine.com/news/sec-charges-bitcoin-miner-for-duping-investors-out-of-48-5-million)**
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
-
-Bitcoin Magazine • 22h ago
+Reuters • 4h ago
 
 ---
 
-**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfTxRLLwHqc1XRodDf2Btap6enFn-3k4rTRSZllLaxLyQuLFG3F2Oqm&gaa_ts=6945b237&gaa_sig=JsvgKeiEdosV7xzb_GfUZdmQnyibO4zStnwdpkJv0MlHMKZ5VpETzS_YOVFEagadLaY52cYO-rDaWPPJEnK9ZQ%3D%3D)**
 
-Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
-
-NPR • 10h ago
+The Wall Street Journal • 3d ago
 
 ---
 
@@ -339,7 +335,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 236 • ⏱️ 9:16 • 19h ago
+👁️ 54K • 👍 2K • 💬 236 • ⏱️ 9:16 • 20h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T19:49:16.740182+00:00'
+updated: '2025-12-19T20:00:16.764445+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 19:49 UTC  
+**Last Updated:** December 19, 2025 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -43,6 +43,14 @@ Robotics research and industry news
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
 1h ago
+
+---
+
+**[World's first ever universal humanoid navigation stack](https://www.reddit.com/r/robotics/comments/1pqudhi/worlds_first_ever_universal_humanoid_navigation/)**
+
+Source: https://x.com/stash_pomichter/status/1983294144341807614
+
+16m ago
 
 ---
 
@@ -76,7 +84,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,14 +99,6 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 **[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
-
-1d ago
-
----
-
-**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
-
-It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
 1d ago
 
@@ -162,27 +162,23 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
-
-Yahoo Finance • 2d ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
 
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
 
-NVIDIA Developer • 2d ago
+Los Angeles Times • 2d ago
 
 ---
 
-**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
+**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
 
-SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
-
-navalnews.com • 2d ago
+The Seattle Times • 1d ago
 
 ---
 
@@ -284,7 +280,7 @@ War Robots Gameplay: SNIPER SHOTGUNS Dagon - funny build #warrobots #warrobotsga
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 316 • 💬 74 • ⏱️ 21:06 • 6h ago
+👁️ 4K • 👍 316 • 💬 74 • ⏱️ 21:06 • 7h ago
 
 ---
 
