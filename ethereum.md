@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T16:37:22.543746+00:00'
+updated: '2025-12-19T16:56:44.866196+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 16:37 UTC  
+**Last Updated:** December 19, 2025 at 16:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,970.56
+### $2,984.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.2%  
-**7d:** -3.9%  
-**30d:** +5.3%  
-**90d:** -32.7%  
-**1y:** -13.7%  
+**24h:** +4.5%  
+**7d:** -4.5%  
+**30d:** +4.7%  
+**90d:** -33.1%  
+**1y:** -14.3%  
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-23h ago
+1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Barron's • 2d ago
 
 /PRNewswire/ -- Ethereum's market is one of the most competitive corners of DeFi, and it has virtually no "meme"-driven trading activity. This makes it easier...
 
-PR Newswire • 19m ago
+PR Newswire • 38m ago
 
 ---
 
@@ -262,7 +262,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 569 • 1h ago
+👁️ 4K • 👍 569 • 2h ago
 
 ---
 

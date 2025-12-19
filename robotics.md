@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T16:37:22.546936+00:00'
+updated: '2025-12-19T16:56:44.869402+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 16:37 UTC  
+**Last Updated:** December 19, 2025 at 16:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ Ouster is positioned to provide essential perception interfaces that allow AI to
 
 **[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -76,7 +76,7 @@ Ouster is positioned to provide essential perception interfaces that allow AI to
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
 
-17h ago
+18h ago
 
 ---
 
@@ -156,7 +156,7 @@ The New York Times • 2d ago
 
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 

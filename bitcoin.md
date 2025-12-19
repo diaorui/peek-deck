@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T16:37:22.537783+00:00'
+updated: '2025-12-19T16:56:44.860221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 16:37 UTC  
+**Last Updated:** December 19, 2025 at 16:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,730.40
+### $88,485.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** -1.6%  
-**30d:** +2.0%  
-**90d:** -23.1%  
-**1y:** -9.1%  
+**24h:** +2.1%  
+**7d:** -2.5%  
+**30d:** +1.1%  
+**90d:** -23.8%  
+**1y:** -10.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ MarketWatch • 3h ago
 
 A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 1h ago
 
 Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -189,13 +189,13 @@ Investing.com • 9h ago
 
 **[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqcYufHP7WhSPZyXJH8QfX5Vonq3qeWUb1TdDAsIZubVkbRaNnyxWzN1&gaa_ts=69458294&gaa_sig=3FnwoGKvcyq1v3bPs8WNcML0ttKYWl2vc-2JoNZsFa5LHa6BQtDPfyb1b-7TYzrOd-ek44c9XUyAhwcTgcQT6g%3D%3D)**
 
-Barron's • 7h ago
+Barron's • 8h ago
 
 ---
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Motley Fool • 1d ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 

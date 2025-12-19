@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T16:37:22.529383+00:00'
+updated: '2025-12-19T16:56:44.851693+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 16:37 UTC  
+**Last Updated:** December 19, 2025 at 16:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 12h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ My question is about reliance on facial recognition software, and more generally
 
 Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
 
-🔗 [WIRED](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/) • 14m ago
+🔗 [WIRED](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/) • 34m ago
 
 ---
 
@@ -97,7 +97,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-21h ago
+22h ago
 
 ---
 
@@ -155,25 +155,25 @@ Fortune • 1h ago
 
 Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
 
-WIRED • 37m ago
+WIRED • 56m ago
 
 ---
 
 **[Meta Joins the AI Video Race: Report. It Needs to Catch Google and OpenAI.](https://www.barrons.com/articles/meta-stock-price-ai-video-nano-banana-mango-e1b8d25b?gaa_at=eafs&gaa_n=AWEtsqfaprvtriq8hZN44S7rGfZMPW4s2oK3Gm6sTtqzh_CVLRdvAl7x4Ga7&gaa_ts=69458293&gaa_sig=Uz6OlafD4Y1vVz8l7zXwZ0FXdgDuOeOXZBB_OSMAYVQg7TcrLuRGSa8pwhjDCEEibOW1e1Ya7SFS-yTCOy-3Tg%3D%3D)**
 
-Barron's • 55m ago
+Barron's • 1h ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 32m ago
+The New York Times • 52m ago
 
 ---
 
 **[Tech moguls close to Trump see the midterms as a path to long-term power](https://www.washingtonpost.com/technology/2025/12/19/tech-super-pacs-midterms-ai/)**
 
-The Washington Post • 35m ago
+The Washington Post • 54m ago
 
 ---
 
@@ -233,7 +233,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 412 • 💬 494 • 21h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 412 • 💬 494 • 22h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -273,7 +273,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 144 • 💬 13 • 18h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 144 • 💬 13 • 19h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -357,7 +357,7 @@ CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
 
 📺 CNBC Television
 
-👁️ 44K • 👍 274 • 💬 165 • ⏱️ 3:16 • 1d ago
+👁️ 44K • 👍 274 • 💬 165 • ⏱️ 3:16 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,067 • 10d ago
+⬇️ 329,981 • ❤️ 3,067 • 11d ago
 
 ---
 
