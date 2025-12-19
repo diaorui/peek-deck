@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T06:50:20.100678+00:00'
+updated: '2025-12-19T07:12:23.121006+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 06:50 UTC  
+**Last Updated:** December 19, 2025 at 07:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,919.62
+### $2,980.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** -6.0%  
-**30d:** +3.1%  
-**90d:** -34.1%  
-**1y:** -15.6%  
+**24h:** +4.9%  
+**7d:** -4.3%  
+**30d:** +4.9%  
+**90d:** -32.9%  
+**1y:** -14.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-49m ago
+1h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-23h ago
+1d ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 1d ago
 
 v
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -198,7 +198,7 @@ CCN.com • 2d ago
 
 **[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -212,7 +212,7 @@ crypto.news • 16h ago
 
 **[Large cryptocurrencies climb on Ethereum, Solana increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-solana-increases-042f94f1-f32f016f84c5?gaa_at=eafs&gaa_n=AWEtsqekzmAzGxOC7ObwQBCrByJa58SSE0ccR5ucxnaXg3iTQpXtozFSviJ-&gaa_ts=6944f912&gaa_sig=MNQVJtN2KPKaronpCYhbeY_l3RvaO78AFW53m57BuTyGWyY9QEB1k124OHk5tDDR8ooawnz4OMXvfypqeXnd1A%3D%3D)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:17 • 17h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:17 • 18h ago
 
 ---
 

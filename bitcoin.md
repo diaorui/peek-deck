@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T06:50:20.095408+00:00'
+updated: '2025-12-19T07:12:23.115058+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 06:50 UTC  
+**Last Updated:** December 19, 2025 at 07:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,083.31
+### $88,177.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.5%  
-**30d:** +0.1%  
-**90d:** -24.5%  
-**1y:** -10.8%  
+**24h:** +1.6%  
+**7d:** -2.0%  
+**30d:** +1.6%  
+**90d:** -23.4%  
+**1y:** -9.5%  
 
 ---
 
@@ -117,7 +117,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 People would borrow money from Japan at a dirt low interest rate, then change that money to USD, Euro or whatever and then invest it, and hope the currency exchange stays close enough.... So now they are raising the rates to .75, which is TERRIBLE in Japan, but pretty much everywhere else in the world that would be a god-send. (I think Switzerland is only lower, but who knows how that works) Why am I just learning this now this is like the infinite money hack lol. Hopefully it was already priced in to the BTC price....
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ People would borrow money from Japan at a dirt low interest rate, then change th
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bitcoinsensus • 4h ago
 
 The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Motley Fool • 1h ago
 
 A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -211,13 +211,13 @@ Barron's • 20h ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
 **[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -245,7 +245,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 14h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 15h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -291,7 +291,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 20h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 2 • 21h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -305,7 +305,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 25K • 👍 1K • 💬 100 • ⏱️ 16:50 • 8h ago
+👁️ 25K • 👍 1K • 💬 100 • ⏱️ 16:50 • 9h ago
 
 ---
 
@@ -315,7 +315,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 334 • 💬 13 • ⏱️ 9:21 • 14h ago
+👁️ 9K • 👍 334 • 💬 13 • ⏱️ 9:21 • 15h ago
 
 ---
 
@@ -325,7 +325,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 117 • ⏱️ 9:16 • 6h ago
+👁️ 28K • 👍 2K • 💬 117 • ⏱️ 9:16 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 10K • 👍 732 • 💬 117 • ⏱️ 15:27 • 12h ago
+👁️ 10K • 👍 732 • 💬 117 • ⏱️ 15:27 • 13h ago
 
 ---
 
@@ -355,7 +355,7 @@ After a rocky December, many investors are asking the same question: Did Bitcoin
 
 📺 The Bitcoin Revolution
 
-👁️ 9K • 👍 153 • 💬 121 • ⏱️ 9:46 • 15h ago
+👁️ 9K • 👍 153 • 💬 121 • ⏱️ 9:46 • 16h ago
 
 ---
 
@@ -385,7 +385,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 6K • 👍 260 • 💬 84 • ⏱️ 14:32 • 13h ago
+👁️ 6K • 👍 260 • 💬 84 • ⏱️ 14:32 • 14h ago
 
 ---
 

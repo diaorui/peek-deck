@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T06:50:20.087781+00:00'
+updated: '2025-12-19T07:12:23.106620+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 06:50 UTC  
+**Last Updated:** December 19, 2025 at 07:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 2h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 17h ago
+🔗 [CNN](https://www.cnn.com/2025/12/18/business/ai-jobs-economy) • 18h ago
 
 ---
 
@@ -123,7 +123,7 @@ Many workers fear artificial intelligence is coming for their jobs, an idea bols
 
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqewxzze9WPs4DSVSCT6bCUopykbcCpEn1Ock3lTQ6G0NaYy2qc7bxlR&gaa_ts=6944f90f&gaa_sig=16pwc15eI74_DUB7IXUZDwedXUU39BWDwIJU0HOcoDmPdAi1xUAmJRe5wiC8St038kYn8sJV89cpuJ1OubfGnw%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 10h ago
 
 Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNN • 20h ago
 
 Andrew Bailey says workers need to be trained to move into jobs that use AI, but adds it might not lead to mass unemployment.
 
-BBC • 50m ago
+BBC • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Motley Fool • 5h ago
 
 Continued spending on artificial intelligence hardware should keep lifting these chip stocks.
 
-The Motley Fool • 20m ago
+The Motley Fool • 42m ago
 
 ---
 
@@ -163,7 +163,7 @@ The Motley Fool • 20m ago
 
 Key PointsNvidia continues to grow rapidly, thanks to its leadership in artificial intelligence (AI) data center chips.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -171,7 +171,7 @@ Nasdaq • 8h ago
 
 The real risk of generative AI for marketers isn’t bad creative. It’s the rise of the “just good” economy.
 
-Digiday • 1h ago
+Digiday • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Digiday • 1h ago
 
 Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
 
-blog.google • 14h ago
+blog.google • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ blog.google • 14h ago
 
 The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 10h ago
 
 Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
 
-Los Angeles Times • 19h ago
+Los Angeles Times • 20h ago
 
 ---
 
@@ -241,7 +241,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 301 • 💬 316 • 11h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 301 • 💬 316 • 12h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -265,7 +265,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 199 • 💬 159 • 17h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 199 • 💬 159 • 18h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -305,7 +305,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 89K • 👍 6K • 💬 667 • ⏱️ 5:52 • 15h ago
+👁️ 89K • 👍 6K • 💬 667 • ⏱️ 5:52 • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 479K • 👍 12K • 💬 2K • ⏱️ 1:39:47 • 22h ago
+👁️ 479K • 👍 12K • 💬 2K • ⏱️ 1:39:47 • 23h ago
 
 ---
 
@@ -365,7 +365,7 @@ Subscribe to NVP Link: www.newsvpro.com.
 
 📺 Mahmood OD | محمود عودة
 
-👁️ 9K • 👍 1K • 💬 91 • ⏱️ 13:36 • 15h ago
+👁️ 9K • 👍 1K • 💬 91 • ⏱️ 13:36 • 16h ago
 
 ---
 
@@ -375,7 +375,7 @@ Another case of AI replacing human workers and failing miserably (and getting he
 
 📺 The Game Theorists
 
-👁️ 337K • 👍 10K • 💬 200 • ⏱️ 0:54 • 12h ago
+👁️ 337K • 👍 10K • 💬 200 • ⏱️ 0:54 • 13h ago
 
 ---
 
@@ -525,7 +525,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 5 • 💬 2 • ⭐ 3,022 • 7d ago
+▲ 6 • 💬 2 • ⭐ 3,022 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -575,7 +575,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 29 • 💬 2 • ⭐ 12,752 • 10d ago
+▲ 30 • 💬 2 • ⭐ 12,752 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -630,7 +630,7 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 203 • 💬 5 • ⭐ 7,369 • 21d ago
+▲ 204 • 💬 5 • ⭐ 7,369 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -643,7 +643,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 117 • 💬 18 • ⭐ 47,154 • 9mo ago
+▲ 118 • 💬 18 • ⭐ 47,154 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.8k • 🔱 2.8k • 22h ago
+⭐ 17.8k • 🔱 2.8k • 23h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.6k • 🔱 482 • 13h ago
+⭐ 4.6k • 🔱 486 • 14h ago
 
 ---
 
@@ -679,7 +679,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 140 • 3h ago
+⭐ 2.0k • 🔱 141 • 3h ago
 
 ---
 
@@ -699,7 +699,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 324 • 12d ago
+⭐ 1.3k • 🔱 325 • 13d ago
 
 ---
 
@@ -729,7 +729,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 878 • 🔱 50 • 3d ago
+⭐ 879 • 🔱 50 • 3d ago
 
 ---
 
@@ -739,7 +739,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 806 • 🔱 132 • 3d ago
+⭐ 810 • 🔱 132 • 3d ago
 
 ---
 

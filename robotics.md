@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T06:50:20.103468+00:00'
+updated: '2025-12-19T07:12:23.124205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 06:50 UTC  
+**Last Updated:** December 19, 2025 at 07:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi all, is it realistic to build an autonomous drone using Python/Micropython on
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-17h ago
+18h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
 
-7h ago
+8h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Seattle Times • 14h ago
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -210,7 +210,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 19K • 👍 2K • 💬 172 • ⏱️ 13:43 • 15h ago
+👁️ 19K • 👍 2K • 💬 172 • ⏱️ 13:43 • 16h ago
 
 ---
 
