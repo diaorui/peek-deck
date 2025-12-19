@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T12:59:50.107577+00:00'
+updated: '2025-12-19T13:39:33.230587+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 12:59 UTC  
+**Last Updated:** December 19, 2025 at 13:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -5.0%  
-**30d:** +4.1%  
-**90d:** -33.4%  
-**1y:** -14.7%  
+**24h:** +0.5%  
+**7d:** -4.8%  
+**30d:** +4.4%  
+**90d:** -33.3%  
+**1y:** -14.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.74B
+**Market Cap:** $356.86B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.2%
 
 **All-Time Low:** $0.43
-+682325.7%
++683295.7%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
+
+---
+
+**[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
+
+Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
+
+5h ago
 
 ---
 
@@ -84,19 +92,11 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 ---
 
-**[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
-
-Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
-
-4h ago
-
----
-
 **[Ethereal news weekly #3 | J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy](https://www.reddit.com/r/ethereum/comments/1pqikyu/ethereal_news_weekly_3_jp_morgan_tokenized_fund/)**
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 1h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 2h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-20h ago
+21h ago
 
 ---
 
@@ -150,17 +150,39 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
-Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
+Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
-Yahoo Finance • 20h ago
+Decrypt • 21h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqe7aw6mvw3W41faQsNwMBUQz6AJke0Li_mspeLo4T8cvxejtH1P_epg&gaa_ts=69454fb3&gaa_sig=HB_FXwXByRsZ9-xANII5B61uowYuGgEcbhaTZhuOgIxIUHU3w0qZEDVtsOg6NC1wdhjggTwDdm809470MWW7dA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdRMS6GEuBYMA7rZSMq0ZBrp6zJpgBmiaDML0U2s7X5Xx30zqibQxuN&gaa_ts=694558fe&gaa_sig=Rpy08d2ymeLpg8TfYatebQ2O08BheY1sv1Lun9BEs7eX0DHd6z88rnI2ZPQ7TE9Sc6Iw3OHRuyw4l71InCJoyw%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
+
+Yahoo Finance • 11h ago
+
+---
+
+**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
+
+The Block • 2d ago
 
 ---
 
@@ -168,55 +190,37 @@ Barron's • 2d ago
 
 Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
 
-BeInCrypto • 7h ago
+BeInCrypto • 8h ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
 
-Next year could be good but won't be driven by blockchain tech upgrades.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
 
-Yahoo Finance • 1h ago
-
----
-
-**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
-
-The Block • 1d ago
+FXStreet • 10h ago
 
 ---
 
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
+**[Bitcoin & Ethereum Diverge: Longs Dominate BTC, While ETH Shorts Rise](https://www.tradingview.com/news/newsbtc:0581cd3ef094b:0-bitcoin-ethereum-diverge-longs-dominate-btc-while-eth-shorts-rise/)**
 
-Is Ethereum really on the path to a price of $62,000 next year?
+Data shows Bitcoin and Ethereum have formed a divergence in the Funding Rate indicator, with traders going long on BTC, short on ETH.Bitcoin & Ethereum Funding Rates Are Showing Opposite ValuesIn a new post on X, on-chain analytics firm Santiment has talked about how the Funding Rate has developed…
 
-The Motley Fool • 2d ago
+TradingView — Track All Markets • 9h ago
+
+---
+
+**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+
+Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+
+Finance Magnates • 1d ago
 
 ---
 
 **[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
 
-Bloomberg.com • 23h ago
-
----
-
-**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
-
-v
-
-AMBCrypto • 14h ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 2d ago
-
----
-
-**[JPMorgan’s New Ethereum Fund Tests Tom Lee’s $20K ETH Dream](https://99bitcoins.com/news/altcoins/jpmorgans-new-ethereum-fund-tests-tom-lees-20k-eth-dream/)**
-
-99Bitcoins • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -230,7 +234,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 2K • 👍 159 • 💬 11 • ⏱️ 8:37 • 1h ago
+👁️ 2K • 👍 159 • 💬 11 • ⏱️ 8:37 • 2h ago
 
 ---
 
@@ -240,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 380 • 💬 75 • ⏱️ 16:54 • 21h ago
+👁️ 10K • 👍 380 • 💬 75 • ⏱️ 16:54 • 22h ago
 
 ---
 
@@ -260,7 +264,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 48 • 💬 34 • ⏱️ 14:11 • 21h ago
+👁️ 2K • 👍 48 • 💬 34 • ⏱️ 14:11 • 22h ago
 
 ---
 
@@ -270,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 6 • ⏱️ 9:10 • 13h ago
+👁️ 2K • 👍 167 • 💬 6 • ⏱️ 9:10 • 14h ago
 
 ---
 
@@ -290,7 +294,7 @@ or $4000? The spread in Ethereum predictions for 2026 is the widest we have ever
 
 📺 Wall Street Stockcast
 
-👁️ 607 • 👍 17 • 💬 2 • ⏱️ 31:33 • 16h ago
+👁️ 607 • 👍 17 • 💬 2 • ⏱️ 31:33 • 17h ago
 
 ---
 
@@ -310,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 5 • ⏱️ 7:17 • 23h ago
+👁️ 2K • 👍 130 • 💬 5 • ⏱️ 7:17 • 1d ago
 
 ---
 

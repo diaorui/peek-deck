@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T12:59:50.093121+00:00'
+updated: '2025-12-19T13:39:33.216131+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 12:59 UTC  
+**Last Updated:** December 19, 2025 at 13:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[LG Will Let TV Owners Delete Microsoft Copilot After Customer Outcry](https://www.reddit.com/r/artificial/comments/1pq0ycl/lg_will_let_tv_owners_delete_microsoft_copilot/)**
-
-This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
-
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 16h ago
-
----
-
 **[Gemini Flash hallucinates 91% times, if it does not know answer](https://www.reddit.com/r/artificial/comments/1pqgofe/gemini_flash_hallucinates_91_times_if_it_does_not/)**
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-3h ago
+4h ago
+
+---
+
+**[LG Will Let TV Owners Delete Microsoft Copilot After Customer Outcry](https://www.reddit.com/r/artificial/comments/1pq0ycl/lg_will_let_tv_owners_delete_microsoft_copilot/)**
+
+This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
+
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 17h ago
 
 ---
 
@@ -69,14 +69,6 @@ My question is about reliance on facial recognition software, and more generally
 
 ---
 
-**[There are today >175,000 AI-generated podcast episodes on Spotify/Apple, a # which is growing by >3,000 every week, largely due to a single 8-person company (Inception Point AI, which bills itself as the "audio version of Reddit"). The AI podcasting market is worth 4 bil today, up from 3 bil in 2024](https://www.reddit.com/r/artificial/comments/1ppyguw/there_are_today_175000_aigenerated_podcast/)**
-
-Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
-
-18h ago
-
----
-
 **[One-Minute Daily AI News 12/18/2025](https://www.reddit.com/r/artificial/comments/1pqci2w/oneminute_daily_ai_news_12182025/)**
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
@@ -85,11 +77,19 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ---
 
+**[There are today >175,000 AI-generated podcast episodes on Spotify/Apple, a # which is growing by >3,000 every week, largely due to a single 8-person company (Inception Point AI, which bills itself as the "audio version of Reddit"). The AI podcasting market is worth 4 bil today, up from 3 bil in 2024](https://www.reddit.com/r/artificial/comments/1ppyguw/there_are_today_175000_aigenerated_podcast/)**
+
+Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
+
+19h ago
+
+---
+
 **[Why is "Big AI" transcription completely useless for long files?](https://www.reddit.com/r/artificial/comments/1pqhgoz/why_is_big_ai_transcription_completely_useless/)**
 
 I have a backlog of 6-hour seminar recordings I need to turn into text. I tried running them through the usual suspects (whispr and some online tools), and they all choke. Either they hallucinate after 45 minutes, or they hit a file size limit that’s laughably small (like 500mb). It feels like these trillion-dollar companies are intentionally nerfing their tools to force enterprise sales. I eventually had to find a smaller wrapper tool just to handle a 10-hour audio file without crashing. It’s wild that the "cutting edge" can't handle a simple long-form wav file in 2025. Is this a context window issue or just lazy product design?
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-19h ago
+20h ago
 
 ---
 
@@ -121,25 +121,9 @@ I'm sure this has already been shared, but this is now one my default google sea
 
 ## Google News: "ai"
 
-**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqf1AmzYBuVuVTn7QFqfMRc39Yg5WEU21F0RzdtetV0omBzujSNSg1WA&gaa_ts=694558fb&gaa_sig=Gq8UA_SPReICNDgjUons6Yhxb9OXHJLFzw62Mz2r8BojD2a7pjVX4EXqMk0gZVSTCDi4kj6gnS9GCFW73Z87Jg%3D%3D)**
 
-When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
-
-The Guardian • 5h ago
-
----
-
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcCZN-aLiJXkl_YeuPlALla3wnCwITq9-VaTwRQpudsOh3p86FIsGBK&gaa_ts=69454fb0&gaa_sig=3S-PdtcqoJXR_JeZ6M96dvNyfdJEFCiHkJku47IcrwHZAsPaqqEPX69gDpiLtUvJxrMgZbBETWf7iDf3EkfhcQ%3D%3D)**
-
-The Wall Street Journal • 10h ago
-
----
-
-**[Detroit is using AI to assist city with answering residents' phone calls](https://www.freep.com/story/news/local/michigan/detroit/2025/12/19/detroit-government-uses-ai-to-answer-residents-phone-calls/87831788007/)**
-
-The city is using AI to answer phone calls to the Department of Neighborhoods to help respond to residents faster.
-
-Detroit Free Press • 1h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -147,31 +131,45 @@ Detroit Free Press • 1h ago
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 59m ago
+Los Angeles Times • 1h ago
 
 ---
 
-**[Micron stock pops 10% as AI memory demand soars: 'We are more than sold out'](https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html)**
+**[From McKinsey to PwC, here's how elite consulting firms are racing to hire engineers — and train everyone else in AI](https://www.businessinsider.com/how-ai-is-changing-consulting-talent-at-mckinsey-pwc-deloitte-2025-12)**
 
-Micron said it expects the total addressable market for high-bandwidth memory to hit $100 billion by 2028.
+Business Insider spoke to nine executives and industry insiders about how consulting's talent recruitment is changing.
 
-CNBC • 22h ago
-
----
-
-**[The AI Revenue Leader Nobody Is Talking About—Second Only to Nvidia Stock](https://io-fund.com/ai-stocks/ai-revenue-leader-second-to-nvidia-stock)**
-
-Meta’s stock sits at the center of the AI spending debate, as Big Tech continues to shock markets with outsized AI-driven capital expenditures. What is being overlooked is that Meta’s stock is already reporting a long-awaited return on investment from the AI data center buildout. Below, I highlight several key metrics from Meta’s latest earnings report that illustrate the company is beginning to offer measurable returns on its AI investments. When viewed alongside our prior analysis on Nvidia and Broadcom, this discussion broadens the perspective to include one of the most closely scrutinized AI stocks in terms of capital expenditure. Although AI remains in a nascent stage, the data presented below provides early evidence that elevated AI capex is starting to translate into a clearer path toward monetization.
-
-IO Fund • 2d ago
+businessinsider.com • 53m ago
 
 ---
 
-**[Why This AI Stock Could Outperform Nvidia Over the Next 5 Years](https://www.fool.com/investing/2025/12/19/why-this-ai-stock-could-outperform-nvidia-over-the/)**
+**[Dark Speculation: A New Way To Assess AI’s Most Dangerous Risks](https://www.forbes.com/sites/paulocarvao/2025/12/19/dark-speculation-a-new-way-to-assess-ais-most-dangerous-risks/)**
+
+Forbes • 1h ago
+
+---
+
+**[These AI Stocks Could Surge in December as Momentum Builds](https://www.fool.com/investing/2025/12/19/these-ai-stocks-could-surge-in-december-as-momentu/)**
+
+Continued spending on artificial intelligence hardware should keep lifting these chip stocks.
+
+The Motley Fool • 7h ago
+
+---
+
+**[AI Stocks Got Some Good News—And Surged. Will This Micron-Powered Momentum Last?](https://www.investopedia.com/ai-stocks-got-some-good-news-and-surged-will-this-micron-powered-momentum-last-mu-11872216)**
+
+AI stocks soared Thursday after memory chip maker Micron reported far stronger-than-expected quarterly results, offering tech investors a glimmer of hope after weeks of disappointing performance for AI stocks.
+
+Investopedia • 16h ago
+
+---
+
+**[Why This AI Stock Could Outperform Nvidia Over the Next 5 Years](https://finance.yahoo.com/news/why-ai-stock-could-outperform-122000503.html)**
 
 Nvidia's dominance in the AI accelerator space could slip simply because it can't keep up with demand.
 
-The Motley Fool • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,21 +177,21 @@ The Motley Fool • 59m ago
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 2h ago
+CNN • 3h ago
+
+---
+
+**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
+
+When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
+
+The Guardian • 6h ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 2h ago
-
----
-
-**[One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o)**
-
-The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily.
-
-BBC • 1d ago
+The New York Times • 3h ago
 
 ---
 
@@ -205,7 +203,7 @@ BBC • 1d ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1044 • 💬 526 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1046 • 💬 526 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -231,7 +229,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 464 • 💬 428 • 18h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 473 • 💬 436 • 19h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -239,7 +237,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 367 • 💬 416 • 18h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 374 • 💬 428 • 18h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -255,7 +253,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 273 • 💬 193 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 282 • 💬 200 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -271,7 +269,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 202 • 💬 162 • 23h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 202 • 💬 162 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -293,7 +291,7 @@ In this episode, I share my eight AI predictions for 2026, not just where the te
 
 📺 Sinead Bovell
 
-👁️ 20K • 👍 1K • 💬 211 • ⏱️ 17:48 • 23h ago
+👁️ 20K • 👍 1K • 💬 211 • ⏱️ 17:48 • 1d ago
 
 ---
 
@@ -303,7 +301,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 110K • 👍 7K • 💬 805 • ⏱️ 5:52 • 21h ago
+👁️ 110K • 👍 7K • 💬 805 • ⏱️ 5:52 • 22h ago
 
 ---
 
@@ -323,7 +321,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 8K • 👍 183 • 💬 24 • ⏱️ 8:13 • 11h ago
+👁️ 8K • 👍 183 • 💬 24 • ⏱️ 8:13 • 12h ago
 
 ---
 
@@ -363,7 +361,7 @@ The pace of AI development isn't slowing down. Today, we're diving into a massiv
 
 📺 Theoretically Media
 
-👁️ 15K • 👍 720 • 💬 115 • ⏱️ 14:37 • 13h ago
+👁️ 15K • 👍 720 • 💬 115 • ⏱️ 14:37 • 14h ago
 
 ---
 
@@ -399,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,049 • 10d ago
+⬇️ 329,981 • ❤️ 3,054 • 10d ago
 
 ---
 
@@ -411,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 369 • 14h ago
+⬇️ 62,493 • ❤️ 369 • 15h ago
 
 ---
 
@@ -423,7 +421,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 332 • 20h ago
+⬇️ 0 • ❤️ 333 • 21h ago
 
 ---
 
@@ -447,7 +445,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 272 • 3d ago
+⬇️ 0 • ❤️ 273 • 3d ago
 
 ---
 
@@ -459,7 +457,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 248 • 5d ago
+⬇️ 2,490 • ❤️ 253 • 5d ago
 
 ---
 
@@ -483,7 +481,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 222 • 2d ago
+⬇️ 397 • ❤️ 223 • 2d ago
 
 ---
 
@@ -507,7 +505,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 178 • 16h ago
+⬇️ 2,154 • ❤️ 181 • 17h ago
 
 ---
 
@@ -575,7 +573,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,384 • 21d ago
+▲ 27 • 💬 2 • ⭐ 7,384 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -657,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.9k • 🔱 2.8k • 1h ago
+⭐ 17.9k • 🔱 2.8k • 2h ago
 
 ---
 
@@ -677,7 +675,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 142 • 2h ago
+⭐ 2.0k • 🔱 142 • 3h ago
 
 ---
 
@@ -707,7 +705,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.2k • 🔱 140 • 1h ago
+⭐ 1.2k • 🔱 140 • 2h ago
 
 ---
 
@@ -727,7 +725,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 879 • 🔱 50 • 3d ago
+⭐ 879 • 🔱 50 • 4d ago
 
 ---
 
