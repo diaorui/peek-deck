@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T10:40:58.836347+00:00'
+updated: '2025-12-19T10:55:21.796457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 10:40 UTC  
+**Last Updated:** December 19, 2025 at 10:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 6h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 I have a backlog of 6-hour seminar recordings I need to turn into text. I tried running them through the usual suspects (whispr and some online tools), and they all choke. Either they hallucinate after 45 minutes, or they hit a file size limit that’s laughably small (like 500mb). It feels like these trillion-dollar companies are intentionally nerfing their tools to force enterprise sales. I eventually had to find a smaller wrapper tool just to handle a 10-hour audio file without crashing. It’s wild that the "cutting edge" can't handle a simple long-form wav file in 2025. Is this a context window issue or just lazy product design?
 
-36m ago
+51m ago
 
 ---
 
@@ -105,7 +105,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-15h ago
+16h ago
 
 ---
 
@@ -129,9 +129,9 @@ The Guardian • 3h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfDh_XebNVeAilqpITX6wuZZWxACvW_Fcv2whe7esnti4lm6FkCocUx&gaa_ts=69452840&gaa_sig=DBOpE7VAgoxjE5NSnXrCWIJGJNnTLVcXlX8UWIYD9SFsxMh4zoUoxbmnWfHpdKKiwUdqDXCSbh8oXpsYXeO09Q%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfdB08LFa_cje8fsGr_PX7OGoophX7IhgSPKnMEGqbxlKhPN0YqiY5l&gaa_ts=69453282&gaa_sig=IvdoL3bjY2uVsdd_aBhzbL37Ea4RHcQ-4awHVBLqqxOGNlmLyHOIT-yEmRmocR7Z-N_rTfFGsOQ5K14PVlz2hg%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -143,25 +143,17 @@ CNBC • 1h ago
 
 ---
 
-**[Nvidia memo says Capital One discussed alternatives to AWS as AI costs could 'get out of hand'](https://www.businessinsider.com/nvidia-memo-capital-one-explores-aws-alternatives-ai-control-costs-2025-12)**
-
-Several AWS customers have complained about rising cloud costs in the AI era. Capital One is the latest, and one of the biggest.
-
-Business Insider • 40m ago
-
----
-
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 39m ago
+The New York Times • 54m ago
 
 ---
 
-**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
+**[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
 
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
+There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 1d ago
+CNN • 55m ago
 
 ---
 
@@ -173,14 +165,6 @@ BBC • 22h ago
 
 ---
 
-**[Inside Kaggle’s AI Agents Intensive Course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)**
-
-Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
-
-blog.google • 18h ago
-
----
-
 **[China boosts AI chip output by upgrading older ASML machines](https://www.ft.com/content/d10398db-b8b4-40f3-8c6d-b340470f5f3c)**
 
 Restricted chipmaking tools are being retrofitted to make advanced AI chips, exposing cracks in US-led export controls
@@ -189,11 +173,27 @@ Financial Times • 9h ago
 
 ---
 
-**[Who is really shaping the future of AI? : TED Radio Hour](https://www.npr.org/2025/12/19/nx-s1-5648239/who-is-really-shaping-the-future-of-ai)**
+**[Inside Kaggle’s AI Agents Intensive Course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)**
 
-What will AI look like in 2026? Is the hype a bubble or a tech revolution that will transform everything? This episode, the global politics shaping the future of AI and what it means for you. Guests include tech entrepreneur Alvin Wang Graylin, NPR tech reporter John Ruwitch, and OpenAI CEO Sam Altman in conversation with TED's Chris Anderson.TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted
+Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
 
-NPR • 2h ago
+blog.google • 18h ago
+
+---
+
+**[DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)**
+
+Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery.
+
+Google DeepMind • 15h ago
+
+---
+
+**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
+
+Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
+
+NPR • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ NPR • 2h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1042 • 💬 525 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1043 • 💬 526 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -231,7 +231,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 427 • 💬 379 • 16h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 436 • 💬 396 • 16h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -239,7 +239,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 343 • 💬 377 • 15h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 350 • 💬 383 • 15h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -247,7 +247,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 286 • 💬 167 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 287 • 💬 167 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -255,7 +255,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 249 • 💬 177 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 249 • 💬 178 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -263,7 +263,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 240 • 💬 164 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 248 • 💬 177 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -279,7 +279,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 144 • 💬 12 • 12h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 144 • 💬 12 • 13h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,019 • 10d ago
+⬇️ 329,981 • ❤️ 3,023 • 10d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 368 • 12h ago
+⬇️ 62,493 • ❤️ 369 • 12h ago
 
 ---
 
@@ -435,7 +435,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 292 • 1d ago
+⬇️ 3,633 • ❤️ 294 • 1d ago
 
 ---
 
@@ -448,18 +448,6 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 `text-to-speech`
 
 ⬇️ 0 • ❤️ 271 • 3d ago
-
----
-
-**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
-
-*Microsoft*
-
-VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optimized for real-time streaming input and long-form speech generation, achieving first audible speech in ~300ms. It's suitable for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with generation.
-
-`text-to-speech` `1.0B`
-
-⬇️ 201,479 • ❤️ 945 • 6d ago
 
 ---
 
@@ -499,15 +487,27 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 ---
 
-**[AutoGLM-Phone-9B](https://huggingface.co/zai-org/AutoGLM-Phone-9B)**
+**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
 
-*Z.ai*
+*Microsoft*
 
-AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent assistance, capable of understanding smartphone screens via ADB and executing automated operations based on natural language commands for task completion.
+VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optimized for real-time streaming input and long-form speech generation, achieving first audible speech in ~300ms. It's suitable for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with generation.
 
-`image-text-to-text` `934,400`
+`text-to-speech` `1.0B`
 
-⬇️ 66,717 • ❤️ 358 • 10d ago
+⬇️ 201,479 • ❤️ 946 • 6d ago
+
+---
+
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 2,154 • ❤️ 169 • 14h ago
 
 ---
 
@@ -547,7 +547,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 56 • 💬 1 • ⭐ 544 • 2d ago
+▲ 57 • 💬 1 • ⭐ 544 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -564,20 +564,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 133 • 💬 6 • ⭐ 18,618 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
-
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
-
-🏢 GVC Lab at Great Bay University
-
-PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
-
-▲ 26 • 💬 2 • ⭐ 571 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -647,6 +633,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+
+🏢 GVC Lab at Great Bay University
+
+PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
+
+▲ 26 • 💬 2 • ⭐ 588 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.9k • 🔱 2.8k • 1d ago
+⭐ 17.9k • 🔱 2.8k • 39m ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 141 • 7h ago
+⭐ 2.0k • 🔱 141 • 17m ago
 
 ---
 
@@ -737,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 816 • 🔱 133 • 3d ago
+⭐ 817 • 🔱 133 • 3d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T10:40:58.854401+00:00'
+updated: '2025-12-19T10:55:21.813884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 10:40 UTC  
+**Last Updated:** December 19, 2025 at 10:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
 
-11h ago
+12h ago
 
 ---
 
@@ -51,6 +51,14 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
 23h ago
+
+---
+
+**[UPS plans to invest $120M in around 400 truck-unloading robots from Pickle Robot Company to tackle one of logistics Holy Grails: unloading trailers. These mobile robots drive into containers, lift boxes up to 50 lbs (22.5 kg) with suction, and place them onto conveyors.](https://www.reddit.com/r/robotics/comments/1pqi5cd/ups_plans_to_invest_120m_in_around_400/)**
+
+Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
+
+7m ago
 
 ---
 
@@ -98,14 +106,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
 
-10h ago
-
----
-
-**[Been working on this spherical robot for the last few months and finally got the Sim2Real transfer working](https://www.reddit.com/r/robotics/comments/1pq4w97/been_working_on_this_spherical_robot_for_the_last/)**
-
-Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
-
 11h ago
 
 ---
@@ -135,6 +135,22 @@ TechCrunch • 1d ago
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
 CNN • 1d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 1d ago
+
+---
+
+**[CATL marks trailblazing deployment of humanoid robots at scale in China plant](https://www.scmp.com/tech/big-tech/article/3336939/chinas-catl-marks-trailblazing-deployment-humanoid-robots-scale-factory-floor)**
+
+The initiative underscores the growing use of intelligent Chinese-made robots in the country’s manufacturing industry.
+
+South China Morning Post • 21h ago
 
 ---
 
@@ -173,22 +189,6 @@ The Robot Report • 2d ago
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
 NASA (.gov) • 2d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 1d ago
-
----
-
-**[The world’s smallest programmable, autonomous robots](https://penntoday.upenn.edu/news/penn-engineering-worlds-smallest-programmable-autonomous-robots)**
-
-Engineers at Penn Engineering have created robots barely visible to the naked eye that operate without tethers, magnetic fields or joystick-like controls.
-
-Penn Today • 1d ago
 
 ---
 

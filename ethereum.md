@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T10:40:58.851153+00:00'
+updated: '2025-12-19T10:55:21.810681+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 10:40 UTC  
+**Last Updated:** December 19, 2025 at 10:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.2%  
-**7d:** -5.2%  
-**30d:** +3.9%  
-**90d:** -33.6%  
-**1y:** -14.9%  
+**24h:** +3.5%  
+**7d:** -4.9%  
+**30d:** +4.2%  
+**90d:** -33.4%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.90B
+**Market Cap:** $356.27B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.3%
 
 **All-Time Low:** $0.43
-+681401.9%
++681727.5%
 
 ---
 
@@ -88,7 +88,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 42m ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 56m ago
 
 ---
 
@@ -148,7 +148,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqft3iLVOEnDq9dNrMbQWRmW0zM7448SeLxLRZLKNMWeCchrqHtu1q8V&gaa_ts=69452843&gaa_sig=v5rfe-t5MzM1R3fusHAi4VZVujhkdJdBP6UtgQhJMPcrUzZoesQkSSr6kMuHYpJYuWY7s-Lw0jeLveZv3liA_A%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcOsdRWjQYg3oCdehnUptNwUByRDpYmkJGnnvwr0u0Oonv6RH5O7s-J&gaa_ts=69453285&gaa_sig=vKt0jhp45ihPCOTRt48tAxmJakoDq4a8sx2u3LmVSpAh8GcZAI0rreu80C_MCzPalB-sWFrtA6qjdmwI0G4YfQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -160,11 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
+**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
 
-Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
+Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
 
-Yahoo Finance • 2d ago
+ts2.tech • 1d ago
 
 ---
 
@@ -173,14 +173,6 @@ Yahoo Finance • 2d ago
 Is Ethereum really on the path to a price of $62,000 next year?
 
 The Motley Fool • 1d ago
-
----
-
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
-
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
-
-ts2.tech • 1d ago
 
 ---
 
@@ -215,6 +207,14 @@ CCN.com • 2d ago
 The decline in ether contributed to the selling pressure on meme coins, as traders often use ETH as a risk gauge for altcoins.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
+
+Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
+
+Seeking Alpha • 14h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 576 • 👍 22 • 💬 1 • ⏱️ 4:50 • 23h ago
+👁️ 576 • 👍 22 • 💬 1 • ⏱️ 4:50 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T10:40:58.845018+00:00'
+updated: '2025-12-19T10:55:21.804731+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 10:40 UTC  
+**Last Updated:** December 19, 2025 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -2.4%  
-**30d:** +1.2%  
-**90d:** -23.7%  
-**1y:** -9.8%  
+**24h:** +1.2%  
+**7d:** -2.2%  
+**30d:** +1.4%  
+**90d:** -23.5%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.72B
+**Market Cap:** $1759.81B
 Rank #1
 
 **Circulating Supply:** 19,964,081 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.1%
 
 **All-Time Low:** $67.81
-+129734.8%
++129922.1%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
+
+7h ago
+
+---
+
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
 8h ago
@@ -86,12 +92,6 @@ Rank #1
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
 12h ago
-
----
-
-**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
-
-7h ago
 
 ---
 
@@ -117,13 +117,13 @@ Rank #1
 
 Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
 
-1h ago
+2h ago
 
 ---
 
 **[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -161,43 +161,45 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+The Motley Fool • 1d ago
+
+---
+
 **[4 Predictions for Bitcoin in 2026](https://www.fool.com/investing/2025/12/19/4-predictions-for-bitcoin-in-2026/)**
 
 Bitcoin investors have had a rough year; 2026 could be much better.
 
-The Motley Fool • 55m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitcoin Price Will Hit All-Time High in 2026, Bitwise Predicts, Will Be ‘Less Volatile’ Than Nvidia](https://www.ccn.com/news/crypto/bitcoin-price-will-hit-all-time-high-in-2026-bitwise-predicts-will-be-less-volatile-than-nvidia/)**
 
-CCN.com • 53m ago
+CCN.com • 1h ago
 
 ---
 
-**[Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026](https://www.coindesk.com/markets/2025/12/16/crypto-asset-manager-bitwise-says-bitcoin-will-break-its-four-year-cycle-in-2026)**
+**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
 
-Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
+Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
 
-CoinDesk • 2d ago
-
----
-
-**[Latest BTC bull turns bear, Jurien Timmer warns of year-long crypto winter](https://www.coindesk.com/markets/2025/12/19/latest-bitcoin-bull-turns-bear-fidelity-director-warns-of-year-long-crypto-winter)**
-
-Fidelity’s global macro director, Jurien Timmer, has called the end of the latest bitcoin bull run, while highlighting gold’s continued bull market strength.
-
-CoinDesk • 33m ago
+CoinDesk • 17h ago
 
 ---
 
-**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
 
-Investor's Business Daily • 17h ago
+Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
+
+NPR • 1h ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqftSG9XLV1InhDovX1VlluUAF4Zwdnz1KbENdHqhuUeoZyjuuE91hCH&gaa_ts=69452841&gaa_sig=PA2xgjvnugi2rxj-jwL9oEuNQHYSoyBeaFPM5OpMpYl48XsnrneSLhHkH8K5afLh5Tb222DnkS1yfy96Dln41g%3D%3D)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqeWm5psXy-ufvg-FZetJroXJLM3cHUFgkHUIxfXs7uaxvzYpA4zyfxl&gaa_ts=69453237&gaa_sig=KbBNJXnH3k0NcFQ3yX-q90wYudlu1TnuXUUr2wH-A-oxMZcA4OnIpBawr4l0x8VwiC2ykEKgpS9WzCVGJclA_Q%3D%3D)**
 
 Barron's • 1d ago
 
@@ -207,15 +209,13 @@ Barron's • 1d ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
-**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqcRHqmIy2pb3LL_pDQF6HyL64kVqCqlcB8GFD0MHOp5tefTWUKAjwjJ&gaa_ts=69453237&gaa_sig=D01CsitZYTltONh5J_EhiqVPtzlOoHL5HKkt4EXjJ-NfH0CTdMSDGRKhiIkQYpE0sqP16PaPXiGDzH3ER18rKQ%3D%3D)**
 
-Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
-
-CoinDesk • 16h ago
+The Wall Street Journal • 2d ago
 
 ---
 
