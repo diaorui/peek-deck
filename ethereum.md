@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T05:01:57.978493+00:00'
+updated: '2025-12-19T05:33:51.474131+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 05:01 UTC  
+**Last Updated:** December 19, 2025 at 05:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.4%  
-**7d:** -6.1%  
-**30d:** +2.9%  
-**90d:** -34.2%  
-**1y:** -15.7%  
+**24h:** +3.3%  
+**7d:** -6.2%  
+**30d:** +2.8%  
+**90d:** -34.3%  
+**1y:** -15.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.21B
+**Market Cap:** $351.70B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.0%
+-41.1%
 
 **All-Time Low:** $0.43
-+673835.7%
++672946.5%
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -146,7 +146,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqc0JXWZMbW19I30Al54r-cQJHGCTXhOYJ77Gdv2qkdAjbZyCEz-NPo9&gaa_ts=6944dbf9&gaa_sig=t1Jk0cZZ5uURydv8NahdhYfrvt1m58XTns8ePo79BgnS22Ub7qwatNfU0SxQyUPoNurSSGWsaw85uFPP8C6uAA%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqco236ifLiqlKtWvROHv-fDqEJiz8agisz9g1bDGhmpU4CWvegNBafM&gaa_ts=6944e729&gaa_sig=e-GIFcbnDWUP7evJhAbhzNjc6ekk8_7t2mpkB-J9WBWxMVn3ZHP71IR_nJsWIdLhGKv3zJFzEZekcNGOnNgTrA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -155,6 +155,14 @@ Barron's • 2d ago
 **[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
 The Block • 1d ago
+
+---
+
+**[BTC Price News: Bitcoin, Ethereum, ADA Pop Higher as Japan Hikes Lift Asia Markets](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
+
+Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
+
+CoinDesk • 48m ago
 
 ---
 
@@ -196,25 +204,15 @@ AMBCrypto • 7h ago
 
 ---
 
-**[Ethereum Price Forecast: ETH shorts decrease amid rising liquidations](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-shorts-decrease-amid-rising-liquidations-202512172048)**
-
-Ethereum (ETH) shorts have been steadily decreasing over the past few weeks following the October 10 leverage flush.
-
-FXStreet • 1d ago
-
----
-
 **[JPMorgan’s New Ethereum Fund Tests Tom Lee’s $20K ETH Dream](https://99bitcoins.com/news/altcoins/jpmorgans-new-ethereum-fund-tests-tom-lees-20k-eth-dream/)**
 
 99Bitcoins • 1d ago
 
 ---
 
-**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
+**[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
 
-Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
-
-Seeking Alpha • 8h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -228,7 +226,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 312 • 💬 52 • ⏱️ 16:54 • 13h ago
+👁️ 7K • 👍 312 • 💬 52 • ⏱️ 16:54 • 14h ago
 
 ---
 
@@ -238,7 +236,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 39 • 💬 3 • ⏱️ 14:11 • 13h ago
+👁️ 1K • 👍 39 • 💬 3 • ⏱️ 14:11 • 14h ago
 
 ---
 
@@ -258,7 +256,7 @@ BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 297 • 💬 76 • ⏱️ 26:48 • 6h ago
+👁️ 6K • 👍 297 • 💬 76 • ⏱️ 26:48 • 7h ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:17 • 15h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:17 • 16h ago
 
 ---
 

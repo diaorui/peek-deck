@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T05:01:57.963951+00:00'
+updated: '2025-12-19T05:33:51.460073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 05:01 UTC  
+**Last Updated:** December 19, 2025 at 05:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 8h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 9h ago
 
 ---
 
@@ -85,6 +85,14 @@ I'm sure this has already been shared, but this is now one my default google sea
 
 ---
 
+**[One-Minute Daily AI News 12/18/2025](https://www.reddit.com/r/artificial/comments/1pqci2w/oneminute_daily_ai_news_12182025/)**
+
+NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
+
+34m ago
+
+---
+
 **[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
@@ -105,15 +113,7 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 This week's article examines the claim that AI feels safer than human conversation and what that safety costs us. Regardless of reason, both emotional and intellectual use of AI reduces risk by preserving control. I explore what is lost when that control is intentionally removed and the conversation no longer involves risk. Control replaces reciprocity in human-AI interaction. The claim that Ai feels intimate is often a misnomer. AI doesn’t feel intimate because it understands us. It feels intimate because there are no social consequences or reciprocity. The piece explores why that feels comforting and why it quietly erodes our capacity for real interaction. In part II of the article, I build a customGPT model named Ava. It's designed to mimic asymmetrical human-like conversation. I remove the ChatGPT adaptive response and reintroduce asymmetric friction. The result isn’t intimacy but loss of control. The full article link is below for anyone interested. https://mydinnerwithmonday.substack.com/p/control-without-consequence
 
-10h ago
-
----
-
-**[Using 3 different LLMs to build/code games for a smart ball](https://www.reddit.com/r/artificial/comments/1ppsnm1/using_3_different_llms_to_buildcode_games_for_a/)**
-
-We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game requirements via conversation. This piece has a huge dynamic prompt that flows with the conversation. It has about 20 different tools that the agent can use to access sample requirements, ball data, user profiles, api documentation, etc. Then we use Gemini 3 Pro to process the conversation and generate a markdown specification/requirements of how the game should be designed. We found that Anthropic Opus 4.5 and Gemni 3 Pro both performed similarly at this task, but Gemini 3 Pro is much cheaper and faster. This has a static/cacheable prompt that is primarily api documentation and details on previously seen issues. Then we use Anthropic Opus 4.5 to code the app. We have tested this step on Gemini 3 Pro as well and possibly could switch to it in the future to save money. But right now we want the best code and Opus is providing that. Very similar prompt to the specification/requirements just different purpose. The end result are custom coded fun games for a foam ball (stream of IMU data). Youtube video showing the final product: https://www.youtube.com/watch?v=Edy9zew1XN4
-
-14h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game re
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdWPYc-5d1VMujxVcvoZPuJ_UmkyQtTAR7cLA8Ny6FYfSwQXydxG2a-&gaa_ts=6944dbf6&gaa_sig=hEmnflHQgLxOqPTGKLfFF4yF064upPrmcBn9D2tuL95VbivhQpODl46Y8NyDXKnlnGkaxaz28-pmN0E_Q0dZfg%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdsk8v5ZaIrIFRv6NunIw_wRNKHEoOicSSl1cJRSIUSmSXfDWiIsw5B&gaa_ts=6944e726&gaa_sig=0CuXfOJvetwixBt6aDoI3848RMQvDJo1cLsfYo0XxarXtstBYE0RJiXYSLGZeFuK90tDHpM-fXLWEEylxg1MfA%3D%3D)**
 
 The Wall Street Journal • 10h ago
 
@@ -131,7 +131,37 @@ The Wall Street Journal • 10h ago
 
 We’re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d…
 
-blog.google • 11h ago
+blog.google • 12h ago
+
+---
+
+**[Inside Kaggle’s AI Agents Intensive Course with Google](https://blog.google/technology/developers/ai-agents-intensive-recap/)**
+
+Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
+
+blog.google • 13h ago
+
+---
+
+**[Why Google’s AI Weakness Turned Out to Be a Strength](https://www.theinformation.com/articles/googles-ai-weakness-turned-strength)**
+
+The Information • 4h ago
+
+---
+
+**[Does Cloudflare’s JD Cloud AI Push Reveal a Durable Cross-Border Moat for NET?](https://finance.yahoo.com/news/does-cloudflare-jd-cloud-ai-051015465.html)**
+
+Earlier this month, JD Cloud and Cloudflare announced an expanded partnership to build a global platform that lets developers deploy, manage, and scale AI inference workloads with up to 80% lower latency, while seamlessly connecting users in China and the rest of the world through integrated security and networking services. This move underscores how Cloudflare is using its existing China network integration and post-quantum security capabilities to position itself as critical infrastructure...
+
+Yahoo Finance • 23m ago
+
+---
+
+**[Future of Marketing Briefing: Why 'just good enough' is generative AI's real threat to marketers](https://digiday.com/marketing/future-of-marketing-briefing-why-just-good-enough-is-generative-ais-real-threat-to-marketers/)**
+
+The real risk of generative AI for marketers isn’t bad creative. It’s the rise of the “just good” economy.
+
+Digiday • 28m ago
 
 ---
 
@@ -143,36 +173,6 @@ CNN • 19h ago
 
 ---
 
-**[NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)**
-
-NVIDIA will join the U.S. Department of Energy’s Genesis Mission as a private industry partner to keep U.S. AI both the leader and the standard in technology around the world.
-
-NVIDIA Blog • 9h ago
-
----
-
-**[DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)**
-
-Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery.
-
-Google DeepMind • 9h ago
-
----
-
-**[US Energy Department signs AI collaboration deals with Big Tech for Genesis Mission](https://www.reuters.com/business/retail-consumer/us-energy-department-taps-big-tech-ai-powered-research-push-2025-12-18/)**
-
-Reuters • 5h ago
-
----
-
-**[House passes bill to ease permits for building out AI infrastructure](https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html)**
-
-The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
-
-CNBC • 9h ago
-
----
-
 **[Hollywood was built on movie stardom. AI is changing the rules](https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow)**
 
 Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
@@ -181,19 +181,19 @@ Los Angeles Times • 18h ago
 
 ---
 
-**[YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions](https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/)**
+**[NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)**
 
-YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
+NVIDIA will join the U.S. Department of Energy’s Genesis Mission as a private industry partner to keep U.S. AI both the leader and the standard in technology around the world.
 
-Deadline • 11h ago
+NVIDIA Blog • 10h ago
 
 ---
 
-**[YouTube bans two popular channels that created fake AI movie trailers](https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/)**
+**[DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)**
 
-Google loves AI content, except when it doesn’t.
+Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery.
 
-Ars Technica • 6h ago
+Google DeepMind • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ Ars Technica • 6h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1038 • 💬 524 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1040 • 💬 525 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -219,7 +219,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be.
 
-⬆️ 555 • 💬 324 • 2d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
+⬆️ 556 • 💬 324 • 2d ago • [Waterfox](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/)
 
 ---
 
@@ -231,7 +231,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 322 • 💬 283 • 10h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 340 • 💬 292 • 11h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -239,7 +239,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 285 • 💬 167 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 286 • 💬 167 • 1d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -247,7 +247,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 267 • 💬 274 • 10h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 282 • 💬 288 • 10h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -263,7 +263,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 195 • 💬 158 • 15h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 195 • 💬 158 • 16h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -271,7 +271,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 167 • 💬 125 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 181 • 💬 127 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -313,7 +313,7 @@ Subscribe to NVP Link: www.newsvpro.com.
 
 📺 Mahmood OD | محمود عودة
 
-👁️ 8K • 👍 1K • 💬 89 • ⏱️ 13:36 • 13h ago
+👁️ 8K • 👍 1K • 💬 89 • ⏱️ 13:36 • 14h ago
 
 ---
 
@@ -363,7 +363,7 @@ Learn how to create free ai music videos! Tools I used ▫️Music Generator: ht
 
 📺 Tim Explains AI
 
-👁️ 3K • 💬 8 • ⏱️ 9:22 • 14h ago
+👁️ 3K • 💬 8 • ⏱️ 9:22 • 15h ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 322,827 • ❤️ 3,007 • 10d ago
+⬇️ 322,827 • ❤️ 3,008 • 10d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 364 • 6h ago
+⬇️ 51,262 • ❤️ 364 • 7h ago
 
 ---
 
@@ -463,6 +463,18 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 ---
 
+**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
+
+*Microsoft*
+
+TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
+
+`image-to-3d`
+
+⬇️ 0 • ❤️ 221 • 2d ago
+
+---
+
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -472,18 +484,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 `text-to-image`
 
 ⬇️ 2,006 • ❤️ 220 • 4d ago
-
----
-
-**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
-
-*Microsoft*
-
-TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
-
-`image-to-3d`
-
-⬇️ 0 • ❤️ 219 • 2d ago
 
 ---
 
@@ -507,7 +507,7 @@ AutoGLM-Phone-9B is a multimodal vision-language model for mobile intelligent as
 
 `image-text-to-text` `934,400`
 
-⬇️ 64,404 • ❤️ 356 • 9d ago
+⬇️ 64,404 • ❤️ 357 • 9d ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 139 • 1h ago
+⭐ 2.0k • 🔱 139 • 2h ago
 
 ---
 
