@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T17:22:30.793920+00:00'
+updated: '2025-12-19T17:37:39.197402+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 17:22 UTC  
+**Last Updated:** December 19, 2025 at 17:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ My question is about reliance on facial recognition software, and more generally
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 11m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 26m ago
 
 ---
 
@@ -89,7 +89,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I frequently get errors when working with Anthropic's Opus 4.5, especially when the context starts to fill up. Frustratingly, the model will generate a ton of tokens before abruptly failing ("An unknown error has occurred"). The response vanishes and I'm back to my original prompt. Normally this wouldn't bug me that much. However, I recently ran out of usage and had to buy credits to make a deadline. As soon as I did this, I got the error message over and over again. The model DID sometimes complete a response, so I suspect their app is at fault; things get awfully buggy when working with long markdown artifacts. In any case, I was billed for each and every failed response. I burned through all my credits and never managed to get the task done. I reached out to Anthropic for help. A full week later they told me to kick rocks. Something about this feels wrong. You shouldn't bill customers if you fail to provide a service. I'm sure their TOS absolves them of responsibility, but it's still a hostile, BS policy. Curious whether this is a widespread issue or I just got especially unlucky. Edit: to clarify, the issue isn't that the response is low quality; it's that the response is completely dropped due to an error in the Claude app or website.
 
-18m ago
+33m ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo Finance • 1h ago
 
 Hyperscalers' overall debt burden is actually getting lighter as the debt-to-cash ratio should dip to 0.75 in 2025 from 0.94 in 2023.
 
-Fortune • 38m ago
+Fortune • 53m ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 1h ago
 
 **[Tech moguls close to Trump see the midterms as a path to long-term power](https://www.washingtonpost.com/technology/2025/12/19/tech-super-pacs-midterms-ai/)**
 
-The Washington Post • 42m ago
+The Washington Post • 57m ago
 
 ---
 
@@ -291,7 +291,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 121K • 👍 7K • 💬 895 • ⏱️ 5:52 • 1d ago
+👁️ 133K • 👍 8K • 💬 988 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -301,7 +301,17 @@ In this episode, I share my eight AI predictions for 2026, not just where the te
 
 📺 Sinead Bovell
 
-👁️ 21K • 👍 1K • 💬 216 • ⏱️ 17:48 • 1d ago
+👁️ 22K • 👍 1K • 💬 230 • ⏱️ 17:48 • 1d ago
+
+---
+
+**[Make Unlimited AI Videos for Free with Claude](https://www.youtube.com/watch?v=ogn0FiDnAM4)**
+
+after 3 months of testing and research, I finally cracked it, and now I can generate unlimited videos with Claude AI, the idea in ...
+
+📺 Hasan Aboul Hasan
+
+👁️ 12K • 👍 749 • 💬 57 • ⏱️ 4:43 • 1d ago
 
 ---
 
@@ -311,77 +321,67 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 557K • 👍 14K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+👁️ 575K • 👍 14K • 💬 3K • ⏱️ 1:39:47 • 1d ago
 
 ---
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
+**[What AI and Hollywood are going to do to entertainment](https://www.youtube.com/watch?v=5FlRB1KKg-k)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The number 1 Christian prayer app in the US and ...
 
-📺 Julian Goldie SEO
+📺 FreedomToons
 
-👁️ 8K • 👍 197 • 💬 24 • ⏱️ 8:13 • 15h ago
-
----
-
-**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
-
-A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
-
-📺 Bridebook
-
-👁️ 242K • 👍 9K • 💬 297 • ⏱️ 0:52 • 1d ago
+👁️ 91K • 👍 11K • 💬 810 • ⏱️ 3:47 • 19h ago
 
 ---
 
-**[‘PROPAGANDA’: AI executive FIRES BACK at AI naysayers](https://www.youtube.com/watch?v=AUQ4ey6o464)**
+**[Gemini Super Gems: Google&#39;s NEW AI Super Agent! Goodbye N8N! (FULLY FREE AI App Generator)](https://www.youtube.com/watch?v=1choivCbZDg)**
 
-Palantir CTO Shyam Sankar corrects critics who say artificial intelligence will create massive unemployment, lauding his company ...
+Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=901177 Google just dropped Super Gems in ...
 
-📺 Fox Business
+📺 WorldofAI
 
-👁️ 5K • 👍 152 • 💬 103 • ⏱️ 7:56 • 1d ago
-
----
-
-**[AI is Taking Over Gaming (Call of Duty)](https://www.youtube.com/watch?v=1Shz_2DLRv4)**
-
-Another case of AI replacing human workers and failing miserably (and getting heinously dunked on ...
-
-📺 The Game Theorists
-
-👁️ 413K • 👍 13K • 💬 244 • ⏱️ 0:54 • 23h ago
+👁️ 46K • 👍 1K • 💬 50 • ⏱️ 11:44 • 2d ago
 
 ---
 
-**[Google unveils &#39;Gemini 3 Flash&#39; AI model focused on speed and cost](https://www.youtube.com/watch?v=vs-9qWK0D1Y)**
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
 
-CNBC's Deirdre Bosa reports on Google's latest AI model Gemini 3 Flash.
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
 
-📺 CNBC Television
+📺 gptars
 
-👁️ 44K • 👍 274 • 💬 165 • ⏱️ 3:16 • 2d ago
-
----
-
-**[OpenAI Just Dropped a New AI Beast: GPT Image 1.5](https://www.youtube.com/watch?v=kU7CVjcz7Hk)**
-
-OpenAI just dropped GPT Image 1.5, and this release goes far beyond better looking images. The new model finally locks visual ...
-
-📺 AI Revolution
-
-👁️ 14K • 👍 461 • 💬 42 • ⏱️ 10:46 • 1d ago
+👁️ 4K • 👍 159 • 💬 16 • ⏱️ 1:01 • 1h ago
 
 ---
 
-**[&quot;NOBODY Knows What&#39;s In This Bill!&quot; - DeSantis SHREDS Trump In AI States’ Rights WAR](https://www.youtube.com/watch?v=lHMhf5MZ-8k)**
+**[Man Rejects AI Millions](https://www.youtube.com/watch?v=lUoxU0Y2WKs)**
 
-Trump's new AI executive order sparks a fight with MAGA allies as DeSantis pushes back, insisting states must protect citizens ...
+A landowner turned down $8M from an AI company.
 
-📺 Valuetainment
+📺 NowThis Impact
 
-👁️ 56K • 👍 842 • 💬 179 • ⏱️ 14:07 • 1d ago
+👁️ 666K • 👍 21K • 💬 2K • ⏱️ 0:55 • 2d ago
+
+---
+
+**[Gemini Just Got a HUGE Update! (Deep Research Visuals)](https://www.youtube.com/watch?v=-qll_Sn7gmY)**
+
+In this video, Igor breaks down the update that brings visuals to Gemini Deep Research. Now along with the cited text report, you ...
+
+📺 The AI Advantage
+
+👁️ 10K • 👍 368 • 💬 39 • ⏱️ 10:43 • 22h ago
+
+---
+
+**[AI News: Gemini 3 Flash, GPT Image 1.5, NVIDIA Nemotron 3, Bernie Sanders DOOMER, and more!](https://www.youtube.com/watch?v=YzpHiVNE7Bw)**
+
+Check out how we use AI Automation to Power Forward Future! https://clickhubspot.com/b0c781 Download The Subtle Art of Not ...
+
+📺 Matthew Berman
+
+👁️ 19K • 👍 807 • 💬 131 • ⏱️ 12:31 • 20h ago
 
 ---
 
@@ -493,7 +493,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 206 • 20h ago
+⬇️ 2,154 • ❤️ 206 • 21h ago
 
 ---
 
@@ -565,20 +565,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,384 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -588,6 +574,20 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 ▲ 30 • 💬 2 • ⭐ 12,782 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 27 • 💬 2 • ⭐ 7,423 • 22d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.8k • 🔱 504 • 1d ago
+⭐ 4.8k • 🔱 506 • 1d ago
 
 ---
 
@@ -675,7 +675,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 143 • 2h ago
+⭐ 2.1k • 🔱 143 • 2h ago
 
 ---
 

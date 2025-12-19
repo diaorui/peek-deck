@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T17:22:30.802343+00:00'
+updated: '2025-12-19T17:37:39.206108+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 17:22 UTC  
+**Last Updated:** December 19, 2025 at 17:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,485.36
+### $87,166.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** -2.2%  
-**30d:** +1.5%  
-**90d:** -23.5%  
-**1y:** -9.6%  
+**24h:** +2.0%  
+**7d:** -3.1%  
+**30d:** +0.5%  
+**90d:** -24.2%  
+**1y:** -10.5%  
 
 ---
 
@@ -99,7 +99,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -117,19 +117,19 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-13h ago
+14h ago
 
 ---
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-18h ago
+19h ago
 
 ---
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 The squeeze is producing less and less for the traders who churn. Overnight, coins younger than 7 days generated almost all of the “profit” being taken, which is a clear tell. Coins held a year or more from much lower prices aren’t moving; the bulk of gains is coming from short-term swaping back and forth on a 2–3% move, not from long-term holders unloading. There’s a loud narrative right now that “long-term Bitcoin holders are finally selling” and that big players have moved entirely into the paper/ETF market. On-chain data is showing something very different. In the most recent window shown here: The vast majority of BTC spent comes from coins held < 1.5 years. Coins held 1.5+ years are barely moving. Their UTXOs just sit there. You can see in the data they are no longer selling the rises (like we've seen over night) Short-term ETF churn and algo trading are doing a great job of looking like capitulation, but you can’t claim that long-term holders are dumping when: Their coins aren’t actually moving on-chain, and The spend is overwhelmingly concentrated in the recent-buyer cohorts. In other words: ETFs and short-term tourists are getting shaken out. Real HODLers are doing the opposite at these levels... they’re not selling. You can play all the games you want in paper BTC, but on-chain is where the truth lives. As always: knowledge is power.
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-CoinDesk • 29m ago
+CoinDesk • 44m ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 29m ago
 
 Bitcoin (BTC-USD) and ether (ETH-USD) are on track to finish the year in the red, with macro and risk-asset headwinds outweighing the boost from increased crypto regulatory clarity. But Citi Research believes that underperformance might reverse in 2026.
 
-Seeking Alpha • 46m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -181,13 +181,13 @@ Seeking Alpha • 46m ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 27m ago
+CoinDesk • 42m ago
 
 ---
 
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
-Investing.com • 3h ago
+Investing.com • 4h ago
 
 ---
 
@@ -281,7 +281,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 19h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 20h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -309,7 +309,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 224 • ⏱️ 16:50 • 19h ago
+👁️ 41K • 👍 2K • 💬 239 • ⏱️ 16:50 • 19h ago
 
 ---
 
@@ -319,7 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 378 • 💬 14 • ⏱️ 9:21 • 1d ago
+👁️ 12K • 👍 386 • 💬 14 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -329,17 +329,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 226 • ⏱️ 9:16 • 17h ago
+👁️ 52K • 👍 2K • 💬 238 • ⏱️ 9:16 • 17h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
 
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Thomas Kralow
+📺 CryptosRUs
 
-👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 6h ago
+👁️ 15K • 👍 1K • 💬 87 • ⏱️ 44:14 • 2h ago
 
 ---
 
@@ -349,17 +349,17 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 3K • 💬 226 • ⏱️ 19:03 • 1d ago
+👁️ 44K • 👍 3K • 💬 226 • ⏱️ 19:03 • 1d ago
 
 ---
 
-**[BITCOIN CRASH](https://www.youtube.com/watch?v=CvoesenJMv4)**
+**[🚨 Major Threat!! #Bitcoin](https://www.youtube.com/watch?v=n62wi7y4ZaA)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start Trading on Polymarket (#1 ...
 
-📺 My Financial Friend
+📺 Altcoin Daily
 
-👁️ 11K • 👍 585 • 💬 240 • ⏱️ 12:05 • 21h ago
+👁️ 7K • 👍 69 • 💬 8 • ⏱️ 0:08 • 10h ago
 
 ---
 
@@ -369,15 +369,27 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 12K • 👍 886 • 💬 169 • ⏱️ 15:27 • 23h ago
+👁️ 12K • 👍 900 • 💬 171 • ⏱️ 15:27 • 23h ago
 
 ---
 
-**[BITCOIN WHALES KNOW SOMETHING!](https://www.youtube.com/watch?v=7TYqt7nxx9s)**
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
 
-📺 Discover Crypto
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
 
-👁️ 13K • 👍 181 • 💬 12 • ⏱️ 0:47 • 1d ago
+📺 Thomas Kralow
+
+👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 6h ago
+
+---
+
+**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
+
+CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
+
+📺 Craigslist Hunter
+
+👁️ 23K • 👍 1K • 💬 169 • ⏱️ 2:15 • 17h ago
 
 ---
 
@@ -387,17 +399,7 @@ Nick Valdez looks at the latest US market-open manipulation that has hit Bitcoin
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 124 • 💬 11 • ⏱️ 5:37 • 17h ago
-
----
-
-**[XRP AND SOL WIN AS BITCOIN DOMINANCE HEADS TO 60%! #crypto #cryptocurrency #xrp #solana](https://www.youtube.com/watch?v=kuF6IVVANjg)**
-
-THE TRUTH ABOUT CRYPTO 2026 SUPERCYCLE.
-
-📺 CryptoWendyO
-
-👁️ 13K • 👍 754 • 💬 41 • ⏱️ 2:22 • 1d ago
+👁️ 4K • 👍 126 • 💬 13 • ⏱️ 5:37 • 17h ago
 
 ---
 

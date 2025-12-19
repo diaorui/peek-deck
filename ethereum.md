@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T17:22:30.808355+00:00'
+updated: '2025-12-19T17:37:39.212317+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 17:22 UTC  
+**Last Updated:** December 19, 2025 at 17:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.7%  
-**7d:** -3.8%  
-**30d:** +5.1%  
-**90d:** -32.8%  
-**1y:** -13.9%  
+**24h:** +4.9%  
+**7d:** -4.5%  
+**30d:** +4.6%  
+**90d:** -33.1%  
+**1y:** -14.3%  
 
 ---
 
@@ -102,7 +102,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 2h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 1d ago
 
 Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -232,7 +232,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 6h ago
+👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 788 • 👍 98 • 💬 4 • ⏱️ 9:41 • 4h ago
+👁️ 1K • 👍 127 • 💬 6 • ⏱️ 9:41 • 4h ago
 
 ---
 
@@ -252,17 +252,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 401 • 💬 70 • ⏱️ 16:54 • 1d ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=QE7OgiVxIao)**
-
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
-
-📺 Trade with Burner
-
-👁️ 4K • 👍 569 • 2h ago
+👁️ 11K • 👍 409 • 💬 71 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -272,7 +262,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 4K • 👍 802 • 💬 2 • ⏱️ 27:59 • 3h ago
+👁️ 8K • 👍 1K • 💬 2 • ⏱️ 27:59 • 4h ago
 
 ---
 
@@ -282,7 +272,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 9K • 👍 387 • 💬 80 • ⏱️ 11:01 • 2d ago
+👁️ 9K • 👍 389 • 💬 80 • ⏱️ 11:01 • 2d ago
 
 ---
 
@@ -292,7 +282,17 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 407 • 💬 74 • ⏱️ 20:34 • 2d ago
+👁️ 15K • 👍 408 • 💬 76 • ⏱️ 20:34 • 2d ago
+
+---
+
+**[🚨 BTC &amp; ETH: ПОЯВИЛАСЬ НАДЕЖДА!!!!!!!!](https://www.youtube.com/watch?v=RmLb-XfhtJI)**
+
+Эти данные могут изменить всё прямо сейчас для биткоина, эфириума и всего крипторынка! БУДЬТЕ ОСТОРОЖНЫ!
+
+📺 Томас Кралов | Crypto & Trade
+
+👁️ 5K • 👍 416 • 💬 30 • ⏱️ 9:00 • 5h ago
 
 ---
 
@@ -302,7 +302,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 51 • 💬 25 • ⏱️ 14:11 • 1d ago
+👁️ 2K • 👍 56 • 💬 24 • ⏱️ 14:11 • 1d ago
 
 ---
 
@@ -312,7 +312,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 14K • 👍 608 • 💬 302 • ⏱️ 33:33 • 2d ago
+👁️ 14K • 👍 611 • 💬 303 • ⏱️ 33:33 • 2d ago
 
 ---
 
@@ -322,7 +322,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 168 • 💬 5 • ⏱️ 9:10 • 18h ago
+👁️ 3K • 👍 170 • 💬 5 • ⏱️ 9:10 • 18h ago
 
 ---
 

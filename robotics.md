@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T17:22:30.811608+00:00'
+updated: '2025-12-19T17:37:39.215660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 17:22 UTC  
+**Last Updated:** December 19, 2025 at 17:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -194,27 +194,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 5K • 👍 20 • ⏱️ 0:09 • 5h ago
-
----
-
-**[ROBOT got KNOCKED OUT](https://www.youtube.com/watch?v=eX-TS4JEuEw)**
-
-this short clip, a walking robot encounters an unexpected moment of impact when it gets pushed by an NBA player and ends up ...
-
-📺 Unique Mechanics
-
-👁️ 19K • 👍 305 • 💬 27 • ⏱️ 0:28 • 1d ago
-
----
-
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 32K • 👍 315 • 💬 31 • ⏱️ 1:05 • 4d ago
+👁️ 8K • 👍 23 • ⏱️ 0:09 • 6h ago
 
 ---
 
@@ -224,47 +204,7 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 
 📺 RICHLEV
 
-👁️ 196K • 👍 5K • 💬 1K • ⏱️ 17:05 • 4d ago
-
----
-
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 25K • 👍 2K • 💬 56 • ⏱️ 1:38 • 3d ago
-
----
-
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
-
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
-
-📺 CNET
-
-👁️ 31K • 👍 750 • 💬 116 • ⏱️ 6:41 • 5d ago
-
----
-
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 303K • 👍 6K • 💬 511 • ⏱️ 26:54 • 5d ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 434K • 👍 15K • 💬 478 • ⏱️ 0:34 • 5d ago
+👁️ 197K • 👍 5K • 💬 1K • ⏱️ 17:05 • 4d ago
 
 ---
 
@@ -274,17 +214,75 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 183K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
+👁️ 185K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
 
 ---
 
-**[✅ “This Is REAL: Kyrie Irving FIGHTS a Robot 😱](https://www.youtube.com/watch?v=LKEBOOKg_Mc)**
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
 
-This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it gets physical The robot throws a kick — Kyrie ...
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
 
-📺 DLLS Sports
+📺 Dr Ben Miles
 
-👁️ 24K • 👍 244 • 💬 26 • ⏱️ 0:14 • 1d ago
+👁️ 25K • 👍 2K • 💬 57 • ⏱️ 1:38 • 3d ago
+
+---
+
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+
+📺 CNET
+
+👁️ 32K • 👍 315 • 💬 32 • ⏱️ 1:05 • 4d ago
+
+---
+
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+
+Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+
+📺 CNET
+
+👁️ 31K • 👍 751 • 💬 119 • ⏱️ 6:41 • 5d ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 437K • 👍 15K • 💬 478 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 305K • 👍 6K • 💬 515 • ⏱️ 26:54 • 5d ago
+
+---
+
+**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
+
+📺 QCT
+
+👁️ 40K • 👍 533 • 💬 13 • ⏱️ 0:25 • 20h ago
+
+---
+
+**[Indian lady Army Soldier Save Indian Army manfrom a robotic Kangaroo #ai #shorts #army](https://www.youtube.com/watch?v=E8VWBE7eoTQ)**
+
+Indian lady Army Soldier Save Indian Army manfrom a robotic Kangaroo #ai #shorts #army #shortsfeed #save.
+
+📺 June Stories Ai
+
+👁️ 122K • 👍 967 • 💬 3 • ⏱️ 0:39 • 3d ago
 
 ---
 
