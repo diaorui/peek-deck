@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T09:33:32.824808+00:00'
+updated: '2025-12-19T09:50:29.784896+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 09:33 UTC  
+**Last Updated:** December 19, 2025 at 09:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
+**24h:** +1.1%  
 **7d:** -2.4%  
-**30d:** +1.2%  
-**90d:** -23.7%  
+**30d:** +1.3%  
+**90d:** -23.6%  
 **1y:** -9.8%  
 
 ---
@@ -109,7 +109,7 @@ Rank #1
 
 **[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
 
-40m ago
+57m ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1d ago
 
 Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -267,7 +267,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
-⬆️ 1 • 💬 0 • 2d ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 3d ago • [flip.gold](https://flip.gold/)
 
 ---
 
