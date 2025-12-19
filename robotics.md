@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T22:19:41.119746+00:00'
+updated: '2025-12-19T22:40:02.173587+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 22:19 UTC  
+**Last Updated:** December 19, 2025 at 22:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -92,7 +92,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our colleagues at ROSCon India, which is happening right now in Pune!      This week community member @_bernardo posted a teaser video for an incredible Manta-ray biomimetic robot that uses ROS 2!           Two new Depth Anything 3 tools came out this week. First PyOctomapAnything turns any image into a PyOctoMap 3D voxel scene There’s also a new a new foundation model for panoramic depth estimation. I’ve said it before, ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 2h ago
 
 ---
 
@@ -214,7 +214,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 9K • 👍 23 • ⏱️ 0:09 • 10h ago
+👁️ 9K • 👍 23 • ⏱️ 0:09 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T22:19:41.105860+00:00'
+updated: '2025-12-19T22:40:02.164357+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 22:19 UTC  
+**Last Updated:** December 19, 2025 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,920.57
+### $88,235.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** -2.6%  
-**30d:** +1.0%  
-**90d:** -23.8%  
-**1y:** -10.0%  
+**24h:** +3.5%  
+**7d:** -2.2%  
+**30d:** +1.4%  
+**90d:** -23.5%  
+**1y:** -9.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -117,13 +117,13 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-6h ago
+7h ago
 
 ---
 
 **[unbothered. moisturized. happy. in my lane. focused. flourishing.](https://www.reddit.com/r/Bitcoin/comments/1pqsmtl/unbothered_moisturized_happy_in_my_lane_focused/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Barron's • 13h ago
 
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -255,7 +255,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 6h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 7h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -305,7 +305,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 150 • ⏱️ 44:14 • 6h ago
+👁️ 26K • 👍 1K • 💬 150 • ⏱️ 44:14 • 7h ago
 
 ---
 
@@ -395,7 +395,7 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 28K • 👍 1K • 💬 199 • ⏱️ 2:15 • 21h ago
+👁️ 28K • 👍 1K • 💬 199 • ⏱️ 2:15 • 22h ago
 
 ---
 

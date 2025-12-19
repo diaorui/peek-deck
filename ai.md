@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T22:19:41.097473+00:00'
+updated: '2025-12-19T22:40:02.155809+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 22:19 UTC  
+**Last Updated:** December 19, 2025 at 22:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Source (The Guardian): "TikTok [...] said there are now 1.3bn videos on its platform labelled as AI-generated. [...] TikTok’s guidelines require creators to label “realistic” AI-made content, and it bans harmful deepfakes of public figures or crisis events. Any realistic AI video that is not labelled can be taken down under its community policies. In addition, the app will now attach an 'AI-made' watermark to content made with its own AI tools, or flagged by an industry-wide initiative for identifying AI-generated material called C2PA. TikTok said the move will help prevent users from trying to evade the labelling process." Source (Grand View Research): "In the age of artificial intelligence (AI), companies have developed AI-enabled tools that enable users to create videos from various sources via software, including text, PowerPoint, or spreadsheets. These easy-to-use tools are widely accepted by users owing to their time-consuming features and less human effort. For instance, in February 2024, Open AI announced the development of its text-to-video generator called Sora. Sora is an AI model developed to create realistic and imaginative video scenes based on text descriptions. It can generate videos that are up to a minute long, keeping visual quality high and adhering to given instructions. Similarly, Syntheisa is an AI video generation platform provider company that allows users to create videos with Avatars in less time."
 
-4m ago
+25m ago
 
 ---
 
@@ -73,7 +73,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 2h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 3h ago
 
 ---
 
@@ -157,7 +157,7 @@ NPR • 1h ago
 
 Investors at TechCrunch Disrupt explained their focus on artificial intelligence and offered advice to founders on how to stand out in a crowded AI field.
 
-TechCrunch • 19m ago
+TechCrunch • 40m ago
 
 ---
 
@@ -165,13 +165,13 @@ TechCrunch • 19m ago
 
 A new RFI from the U.S. Department of Health and Human Services is seeking stakeholder input on how to realize artificial intelligence goals and usher in nationwide, clinical-scale adoption of the technology.
 
-Healthcare IT News • 1h ago
+Healthcare IT News • 2h ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Wall Street Journal • 1d ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -323,7 +323,7 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 3K • 👍 105 • 💬 48 • ⏱️ 3:29 • 5h ago
+👁️ 3K • 👍 105 • 💬 48 • ⏱️ 3:29 • 6h ago
 
 ---
 
@@ -421,7 +421,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 379 • 1h ago
+⬇️ 62,493 • ❤️ 379 • 2h ago
 
 ---
 
