@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T14:43:19.424684+00:00'
+updated: '2025-12-19T14:56:56.032541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 14:43 UTC  
+**Last Updated:** December 19, 2025 at 14:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 10h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ My question is about reliance on facial recognition software, and more generally
 
 Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Here are some links from this issue: I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me -> HN link. Vibe coding creates fatigue? -> HN link. AI's real superpower: consuming, not creating -> HN link. AI Isn't Just Spying on You. It's Tricking You into Spending More -> HN link. If AI replaces workers, should it also pay taxes? -> HN link. If you like this type of content, you might consider subscribing here: https://hackernewsai.com/
 
-30m ago
+43m ago
 
 ---
 
@@ -121,47 +121,9 @@ This year, AI has improved a lot, but it still feels limited in some situations.
 
 ## Google News: "ai"
 
-**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
-
-When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
-
-The Guardian • 7h ago
-
----
-
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeF9RahiUVsctWdj1qdBU2aRicYzvK8ETm6cLm-UtkHrrz8PhzGmNmW&gaa_ts=694562b1&gaa_sig=Ro5dGQ1nsqmOojTnMF_rflhr9202F4_rxER3_grFwtGgV6BfTFPHuZA6fWQqKua7dZ036X8MF9NZREHB95Fsvg%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqf2kmkmNXFLUdvg184Cyz76ymtTitBYsZYdIrUstAktOEgRfds10s5c&gaa_ts=69456b21&gaa_sig=_o3sWmj__LX6X5W_VkfXrP8r9vsqlwM0nP6abUC0AlPtCMlbQwMp9zfSuxrvnxDb4BbfzVXXsd5_Zzb7JpxqXQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[From search to discovery: how AI Is redrawing the competitive map for every brand](https://fortune.com/2025/12/19/semrush-presiden-eugene-levin-ai-from-google-web-search-to-discovery/)**
-
-This is a structural shift in how digital presence is valued. Companies that understand this will treat AI visibility as a new form of brand capital.
-
-Fortune • 38m ago
-
----
-
-**[Uber's CEO says AI spending is paying off, turning engineers into 'superhumans'](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12)**
-
-Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
-
-businessinsider.com • 53m ago
-
----
-
-**[AI Tools Make Coders More Important, Not Less](https://hbr.org/2025/12/ai-tools-make-coders-more-important-not-less)**
-
-Many leaders are excited about the promise of AI coding tools that can make it easier for novices to write code and, seemingly, make experienced coders less essential. Yet these tools make experience more—not less—important, as AI is not a replacement for real engineers. Companies that want to use these tools should follow common rules. Make sure every change it makes is double-checked—with automatic checks, simple tests that confirm things still work, and at least one human review. Keep access limited: Let AI work only in a safe “practice” environment, never give it the keys to live customer data, and routinely check for basic security mistakes like files or storage left open to the public. Overall, keep experienced engineers in charge of the design, the rules, and the safety checks so AI’s speed doesn’t turn into costly failures.
-
-Harvard Business Review • 58m ago
-
----
-
-**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
-
-The New York Times • 4h ago
 
 ---
 
@@ -173,27 +135,65 @@ Los Angeles Times • 2h ago
 
 ---
 
+**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
+
+When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
+
+The Guardian • 53m ago
+
+---
+
+**[From search to discovery: how AI Is redrawing the competitive map for every brand](https://fortune.com/2025/12/19/semrush-presiden-eugene-levin-ai-from-google-web-search-to-discovery/)**
+
+This is a structural shift in how digital presence is valued. Companies that understand this will treat AI visibility as a new form of brand capital.
+
+Fortune • 51m ago
+
+---
+
+**[Uber's CEO says AI spending is paying off, turning engineers into 'superhumans'](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12)**
+
+Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
+
+businessinsider.com • 1h ago
+
+---
+
+**[These AI Stocks Could Surge in December as Momentum Builds](https://www.fool.com/investing/2025/12/19/these-ai-stocks-could-surge-in-december-as-momentu/)**
+
+Continued spending on artificial intelligence hardware should keep lifting these chip stocks.
+
+The Motley Fool • 8h ago
+
+---
+
+**[Micron stock pops 10% as AI memory demand soars: 'We are more than sold out'](https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html)**
+
+Micron said it expects the total addressable market for high-bandwidth memory to hit $100 billion by 2028.
+
+CNBC • 1d ago
+
+---
+
+**[The AI Bubble Is Popping: Why These Stocks Are Crashing](https://www.fool.com/investing/2025/12/19/the-ai-bubble-is-popping-why-these-stocks-are-cras/)**
+
+It's been another volatile week for AI stocks.
+
+The Motley Fool • 56m ago
+
+---
+
+**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
+
+The New York Times • 4h ago
+
+---
+
 **[YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions](https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/)**
 
 YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
 Deadline • 21h ago
-
----
-
-**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
-
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
-
-CNN • 1d ago
-
----
-
-**[China boosts AI chip output by upgrading older ASML machines](https://www.ft.com/content/d10398db-b8b4-40f3-8c6d-b340470f5f3c)**
-
-Restricted chipmaking tools are being retrofitted to make advanced AI chips, exposing cracks in US-led export controls
-
-Financial Times • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 821 • 💬 424 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 822 • 💬 424 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -231,7 +231,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 489 • 💬 455 • 20h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 495 • 💬 461 • 20h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -239,7 +239,15 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 381 • 💬 448 • 19h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 391 • 💬 466 • 20h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+
+---
+
+**[Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://news.ycombinator.com/item?id=46294144)**
+
+Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
+
+⬆️ 297 • 💬 214 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -251,19 +259,11 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 ---
 
-**[Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://news.ycombinator.com/item?id=46294144)**
-
-Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
-
-⬆️ 286 • 💬 207 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
-
----
-
 **[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 250 • 💬 178 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 250 • 💬 176 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -271,7 +271,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 202 • 💬 162 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 202 • 💬 163 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -279,7 +279,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 144 • 💬 13 • 16h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 144 • 💬 13 • 17h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,054 • 10d ago
+⬇️ 329,981 • ❤️ 3,063 • 10d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 370 • 16h ago
+⬇️ 62,493 • ❤️ 371 • 16h ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 335 • 22h ago
+⬇️ 0 • ❤️ 336 • 22h ago
 
 ---
 
@@ -435,7 +435,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 296 • 1d ago
+⬇️ 3,633 • ❤️ 297 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 274 • 3d ago
+⬇️ 0 • ❤️ 275 • 3d ago
 
 ---
 
@@ -459,7 +459,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 254 • 5d ago
+⬇️ 2,490 • ❤️ 261 • 5d ago
 
 ---
 
@@ -483,7 +483,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 223 • 2d ago
+⬇️ 397 • ❤️ 224 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 946 • 6d ago
+⬇️ 201,479 • ❤️ 947 • 6d ago
 
 ---
 
@@ -507,7 +507,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 183 • 18h ago
+⬇️ 2,154 • ❤️ 186 • 18h ago
 
 ---
 

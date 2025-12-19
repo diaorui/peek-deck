@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T14:43:19.439078+00:00'
+updated: '2025-12-19T14:56:56.047005+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 14:43 UTC  
+**Last Updated:** December 19, 2025 at 14:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -5.1%  
-**30d:** +4.0%  
-**90d:** -33.5%  
-**1y:** -14.8%  
+**24h:** +0.3%  
+**7d:** -4.6%  
+**30d:** +4.8%  
+**90d:** -33.0%  
+**1y:** -14.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.85B
+**Market Cap:** $358.18B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-40.0%
 
 **All-Time Low:** $0.43
-+686466.8%
++684794.6%
 
 ---
 
@@ -150,47 +150,11 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
 
-Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
+Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
 
-Decrypt • 22h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfaORZ2IH77uow64RYYPpiw-kFVVEOIvfpxnB2oKfHG_2gYM1soNg2a&gaa_ts=694562b4&gaa_sig=jFWTH3CcJskXdqmGq7uQHRpqJffXEVXTCRFWxNVTxjBEddeTN4NoXhzOzZy20mBTj0v6eTAnERJnrRneJyA0Eg%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
-
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
-
-Yahoo Finance • 12h ago
-
----
-
-**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
-
-The Block • 2d ago
-
----
-
-**[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
-
-Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
-
-BeInCrypto • 9h ago
-
----
-
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
-
-Next year could be good but won't be driven by blockchain tech upgrades.
-
-The Motley Fool • 3h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -202,25 +166,57 @@ FXStreet • 11h ago
 
 ---
 
-**[Bitcoin & Ethereum Diverge: Longs Dominate BTC, While ETH Shorts Rise](https://www.tradingview.com/news/newsbtc:0581cd3ef094b:0-bitcoin-ethereum-diverge-longs-dominate-btc-while-eth-shorts-rise/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqf-yrSceECNr5DhNSA2bd4ER225yKeX94K-eD20zEjbqpqw-Fm2S1yV&gaa_ts=69456b24&gaa_sig=5QE8d1udBb-7CQ7bw2ixGAHJz12TA4J9yDdYhogBULNjN4Y0UvGbRgkZ9w9f3gVW5pnjyQ8-Qw6OsPAsZ9MO1Q%3D%3D)**
 
-Data shows Bitcoin and Ethereum have formed a divergence in the Funding Rate indicator, with traders going long on BTC, short on ETH.Bitcoin & Ethereum Funding Rates Are Showing Opposite ValuesIn a new post on X, on-chain analytics firm Santiment has talked about how the Funding Rate has developed…
-
-TradingView — Track All Markets • 10h ago
+Barron's • 2d ago
 
 ---
 
-**[Why Crypto Is Going Down Today? Bitcoin, XRP Price, Ethereum and Dogecoin Moves Under Death Cross](https://www.financemagnates.com/trending/why-crypto-is-going-down-today-bitcoin-xrp-price-ethereum-and-dogecoin-moves-under-death-cross/)**
+**[ETHGas raises $12 million in token round as it launches Ethereum blockspace futures market with $800 million in liquidity commitments](https://www.theblock.co/post/382960/ethgas-raises-12-million-in-token-round-as-it-launches-ethereum-blockspace-futures-market-with-800-million-in-liquidity-commitments)**
 
-Cryptocurrency markets are trading under pressure Wednesday as Bitcoin holds near $87,700, down a marginal 0.2%, while Ethereum, XRP and Dogecoin face modest losses amid regulatory uncertainty and ...
+The Block • 2d ago
 
-Finance Magnates • 1d ago
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 3h ago
 
 ---
 
 **[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
+
+v
+
+AMBCrypto • 16h ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
+
+---
+
+**[JPMorgan’s New Ethereum Fund Tests Tom Lee’s $20K ETH Dream](https://99bitcoins.com/news/altcoins/jpmorgans-new-ethereum-fund-tests-tom-lees-20k-eth-dream/)**
+
+99Bitcoins • 2d ago
+
+---
+
+**[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
+
+Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
+
+Seeking Alpha • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T14:43:19.433132+00:00'
+updated: '2025-12-19T14:56:56.040849+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 14:43 UTC  
+**Last Updated:** December 19, 2025 at 14:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -2.7%  
-**30d:** +0.9%  
-**90d:** -23.9%  
-**1y:** -10.1%  
+**24h:** -0.5%  
+**7d:** -2.4%  
+**30d:** +1.3%  
+**90d:** -23.5%  
+**1y:** -9.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.23B
+**Market Cap:** $1756.90B
 Rank #1
 
-**Circulating Supply:** 19,964,218 BTC
+**Circulating Supply:** 19,964,243 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.2%
 
 **All-Time Low:** $67.81
-+129888.2%
++129605.1%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-2h ago
+3h ago
 
 ---
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
 11h ago
-
----
-
-**[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
-
-12h ago
 
 ---
 
@@ -110,6 +104,12 @@ Rank #1
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
 1h ago
+
+---
+
+**[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
+
+12h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative fo
 
 Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
 
-5h ago
+6h ago
 
 ---
 
@@ -145,27 +145,25 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeNjFcoBwbn6AJXwPjerOyT4N35mMD8fBt-6apSeLTwDqAQLijllNSV&gaa_ts=69456b23&gaa_sig=cvVzeqpHPIg6Zal414sE3DC4mvtdBvq_yUfeLC7XBi89B0yRpeMlhx7G-A-rYJQKJYu-nOM3X9LHeAbkAnJTCA%3D%3D)**
 
-A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
-
-CoinDesk • 20h ago
+MarketWatch • 1h ago
 
 ---
 
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
-More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Yahoo Finance • 1d ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Bitcoin Holds 87K as CPI and BoJ Decisions Loom Large](https://www.investing.com/analysis/bitcoin-holds-87k-as-cpi-and-boj-decisions-loom-large-200672045)**
+**[Bought Some Bitcoin Last Week? Here’s How Much It’s Worth Today](https://finance.yahoo.com/news/bought-bitcoin-last-week-much-141633328.html)**
 
-Market Analysis by  covering: Bitcoin US Dollar. Read 's Market Analysis on Investing.com
+Bitcoin’s price swings are intense, but long‑term trends may tell a different story. Discover what a bitcoin investment made last week is worth today.
 
-Investing.com • 1d ago
+Yahoo Finance • 40m ago
 
 ---
 
@@ -173,7 +171,7 @@ Investing.com • 1d ago
 
 Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -185,23 +183,25 @@ CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfuyXUaNemTtExaQrgGoO3hcOi0ZaPja-XdK4o5AH-cdXL32XIO8qUE&gaa_ts=694562b2&gaa_sig=BLK0UE8XJPUU5rOSto_INg1rIZMZ-lQJMOdPzYbUdZnZGgs-ikRceuHKCJ_KMA4GWBbBj5UmQYTVGeca-ikZUQ%3D%3D)**
+**[: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/12/19/bitcoin-gains-as-yen-surprises-after-japan-raises-rates-crypto-daybook-americas)**
 
-MarketWatch • 1h ago
+The day ahead in crypto: Dec. 19, 2025
 
----
-
-**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://finance.yahoo.com/news/bitcoin-headed-150-000-claims-120216586.html)**
-
-Mike Alfred remains firmly bullish on Bitcoin. Prominent bulls including Michael Saylor, Tom Lee, Bitwise, and Grayscale continue to project higher prices over the coming ...
-
-Yahoo Finance • 2h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Bitcoin Price Will Jump to $143,000 Next Year, Says Citi Bank](https://bitcoinmagazine.com/markets/bitcoin-price-will-hit-143000-says-citi)**
 
-Investor's Business Daily • 21h ago
+Citi forecast that the bitcoin price could reach $143,000 over the next year, with a bullish case above $189,000 and a bearish scenario near $78,500.
+
+Bitcoin Magazine • 21m ago
+
+---
+
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -209,15 +209,13 @@ Investor's Business Daily • 21h ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
+**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
-
-The Motley Fool • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -229,7 +227,7 @@ The Motley Fool • 1d ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 24 • 💬 8 • 4d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 25 • 💬 8 • 4d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -245,7 +243,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 22h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 23h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
