@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T07:47:48.743384+00:00'
+updated: '2025-12-19T07:58:49.099025+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 07:47 UTC  
+**Last Updated:** December 19, 2025 at 07:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 3h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 4h ago
 
 ---
 
@@ -139,13 +139,13 @@ BBC • 1h ago
 
 Continued spending on artificial intelligence hardware should keep lifting these chip stocks.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval?srnd=indus)**
 
-Bloomberg.com • 47m ago
+Bloomberg.com • 58m ago
 
 ---
 
@@ -169,7 +169,7 @@ blog.google • 15h ago
 
 The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -239,7 +239,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 316 • 💬 327 • 12h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 316 • 💬 327 • 13h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.8k • 🔱 2.8k • 23h ago
+⭐ 17.8k • 🔱 2.8k • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.6k • 🔱 486 • 14h ago
+⭐ 4.6k • 🔱 486 • 15h ago
 
 ---
 
