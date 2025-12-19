@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T16:56:44.851693+00:00'
+updated: '2025-12-19T17:22:30.793920+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 16:56 UTC  
+**Last Updated:** December 19, 2025 at 17:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-7h ago
+8h ago
+
+---
+
+**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas', AI agents are starting to eat SaaS, and many other AI link from Hacker News](https://www.reddit.com/r/artificial/comments/1pqm3qy/aws_ceo_says_replacing_junior_devs_with_ai_is_one/)**
+
+Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Here are some links from this issue: I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me -> HN link. Vibe coding creates fatigue? -> HN link. AI's real superpower: consuming, not creating -> HN link. AI Isn't Just Spying on You. It's Tricking You into Spending More -> HN link. If AI replaces workers, should it also pay taxes? -> HN link. If you like this type of content, you might consider subscribing here: https://hackernewsai.com/
+
+3h ago
 
 ---
 
@@ -49,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 20h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 21h ago
 
 ---
 
@@ -61,27 +69,27 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 ---
 
-**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas', AI agents are starting to eat SaaS, and many other AI link from Hacker News](https://www.reddit.com/r/artificial/comments/1pqm3qy/aws_ceo_says_replacing_junior_devs_with_ai_is_one/)**
-
-Hey everyone, I just sent the 12th issue of the Hacker News x AI newsletter. Here are some links from this issue: I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me -> HN link. Vibe coding creates fatigue? -> HN link. AI's real superpower: consuming, not creating -> HN link. AI Isn't Just Spying on You. It's Tricking You into Spending More -> HN link. If AI replaces workers, should it also pay taxes? -> HN link. If you like this type of content, you might consider subscribing here: https://hackernewsai.com/
-
-2h ago
-
----
-
 **["Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino"](https://www.reddit.com/r/artificial/comments/1ppvwx3/trucker_wrongly_detained_through_casinos_ai/)**
 
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
-23h ago
+1d ago
 
 ---
 
-**[6 Scary Predictions for AI in 2026](https://www.reddit.com/r/artificial/comments/1pqpafn/6_scary_predictions_for_ai_in_2026/)**
+**[Sam Altman is a Fraud Throughout All His Deals](https://www.reddit.com/r/artificial/comments/1pqqjgl/sam_altman_is_a_fraud_throughout_all_his_deals/)**
 
-Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [WIRED](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/) • 34m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=l0K4XPu3Qhg) • 11m ago
+
+---
+
+**[Anyone else hate being charged when the model fails?](https://www.reddit.com/r/artificial/comments/1pqqcuk/anyone_else_hate_being_charged_when_the_model/)**
+
+I frequently get errors when working with Anthropic's Opus 4.5, especially when the context starts to fill up. Frustratingly, the model will generate a ton of tokens before abruptly failing ("An unknown error has occurred"). The response vanishes and I'm back to my original prompt. Normally this wouldn't bug me that much. However, I recently ran out of usage and had to buy credits to make a deadline. As soon as I did this, I got the error message over and over again. The model DID sometimes complete a response, so I suspect their app is at fault; things get awfully buggy when working with long markdown artifacts. In any case, I was billed for each and every failed response. I burned through all my credits and never managed to get the task done. I reached out to Anthropic for help. A full week later they told me to kick rocks. Something about this feels wrong. You shouldn't bill customers if you fail to provide a service. I'm sure their TOS absolves them of responsibility, but it's still a hostile, BS policy. Curious whether this is a widespread issue or I just got especially unlucky. Edit: to clarify, the issue isn't that the response is low quality; it's that the response is completely dropped due to an error in the Claude app or website.
+
+18m ago
 
 ---
 
@@ -89,7 +97,7 @@ Could the AI industry be on the verge of its first major layoffs? Will China spr
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-11h ago
+12h ago
 
 ---
 
@@ -109,45 +117,15 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ---
 
-**[Why is "Big AI" transcription completely useless for long files?](https://www.reddit.com/r/artificial/comments/1pqhgoz/why_is_big_ai_transcription_completely_useless/)**
-
-I have a backlog of 6-hour seminar recordings I need to turn into text. I tried running them through the usual suspects (whispr and some online tools), and they all choke. Either they hallucinate after 45 minutes, or they hit a file size limit that’s laughably small (like 500mb). It feels like these trillion-dollar companies are intentionally nerfing their tools to force enterprise sales. I eventually had to find a smaller wrapper tool just to handle a 10-hour audio file without crashing. It’s wild that the "cutting edge" can't handle a simple long-form wav file in 2025. Is this a context window issue or just lazy product design?
-
-6h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfjJniZT7NoCSccBxfs2uTfUWRmcoOF9wgMpNhp0MPEa9tpQtq8FKcc&gaa_ts=69458293&gaa_sig=9rtxHX1CxZrHW5HxV9FsX2ub89LN9OLg8SvqI0XN0zQJex8ni54CteWsvk6xe3VhqauParEs420zBKKRvyv_6Q%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
 
 **[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 4h ago
-
----
-
-**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
-
-When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
-
-The Guardian • 1h ago
-
----
-
-**[Exclusive: Cursor acquires code review startup Graphite as AI coding competition heats up](https://fortune.com/2025/12/19/cursor-ai-coding-startup-graphite-competition-heats-up/)**
-
-The $29 billion AI code editor is betting that controlling the entire development process will help it fend off competition.
-
-Fortune • 1h ago
+Los Angeles Times • 5h ago
 
 ---
 
@@ -155,31 +133,57 @@ Fortune • 1h ago
 
 Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
 
-WIRED • 56m ago
+WIRED • 1h ago
 
 ---
 
-**[Meta Joins the AI Video Race: Report. It Needs to Catch Google and OpenAI.](https://www.barrons.com/articles/meta-stock-price-ai-video-nano-banana-mango-e1b8d25b?gaa_at=eafs&gaa_n=AWEtsqfaprvtriq8hZN44S7rGfZMPW4s2oK3Gm6sTtqzh_CVLRdvAl7x4Ga7&gaa_ts=69458293&gaa_sig=Uz6OlafD4Y1vVz8l7zXwZ0FXdgDuOeOXZBB_OSMAYVQg7TcrLuRGSa8pwhjDCEEibOW1e1Ya7SFS-yTCOy-3Tg%3D%3D)**
+**[Caterpillar’s Worst 5 Days Since April Show AI Hype’s Pitfalls](https://www.bloomberg.com/news/articles/2025-12-19/caterpillar-s-worst-5-days-since-april-show-ai-hype-s-pitfalls)**
 
-Barron's • 1h ago
+Caterpillar Inc.’s AI-powered rally stumbled as investors questioned the sustainability of the trade across US equities, sending the stock tumbling from a record high in its worst five-day stretch since April.
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Broadcom vs. AMD: Which AI Chip Stock Will Outperform in 2026?](https://finance.yahoo.com/news/broadcom-vs-amd-ai-chip-154500617.html)**
+
+Both Broadcom and AMD were big winners in 2025.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[AI hyperscalers have room for 'elevated debt issuance'—even after their recent bond binge, BofA says](https://fortune.com/2025/12/19/ai-hyperscalers-debt-issuance-bond-binge-cash-flow-capital-expenditures/)**
+
+Hyperscalers' overall debt burden is actually getting lighter as the debt-to-cash ratio should dip to 0.75 in 2025 from 0.94 in 2023.
+
+Fortune • 38m ago
+
+---
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfVMxpEc_CDfxpdfx4V7L1a7-xv4uIAcpb47ZcmG66vpKvrNaZqGdqO&gaa_ts=69458d3f&gaa_sig=hco1OlnYAmNOtEY8kksAcjOCX27kVX5MduunxONdsrtLgtyLl6o-2V-ajAfqO02HCeVyVhpw7zAaAgtkjd60KQ%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 52m ago
+The New York Times • 1h ago
 
 ---
 
 **[Tech moguls close to Trump see the midterms as a path to long-term power](https://www.washingtonpost.com/technology/2025/12/19/tech-super-pacs-midterms-ai/)**
 
-The Washington Post • 54m ago
+The Washington Post • 42m ago
 
 ---
 
-**[Wall Street Isn’t Asking Many Questions About AI’s Broader Reach](https://www.bloomberg.com/graphics/2025-wall-street-ai-questions-beyond-tech/)**
+**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
-Bloomberg.com • 5h ago
+When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
+
+The Guardian • 2h ago
 
 ---
 
@@ -199,7 +203,7 @@ CNN • 1d ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1049 • 💬 526 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1049 • 💬 527 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -225,7 +229,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 510 • 💬 480 • 22h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 514 • 💬 484 • 23h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -233,7 +237,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 412 • 💬 494 • 22h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 420 • 💬 508 • 22h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -241,7 +245,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 315 • 💬 239 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 325 • 💬 246 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -273,7 +277,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 144 • 💬 13 • 19h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 145 • 💬 13 • 19h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -347,7 +351,7 @@ Another case of AI replacing human workers and failing miserably (and getting he
 
 📺 The Game Theorists
 
-👁️ 413K • 👍 13K • 💬 244 • ⏱️ 0:54 • 22h ago
+👁️ 413K • 👍 13K • 💬 244 • ⏱️ 0:54 • 23h ago
 
 ---
 
@@ -405,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 373 • 18h ago
+⬇️ 62,493 • ❤️ 373 • 19h ago
 
 ---
 
@@ -489,7 +493,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 199 • 20h ago
+⬇️ 2,154 • ❤️ 206 • 20h ago
 
 ---
 
@@ -501,7 +505,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 948 • 7d ago
+⬇️ 201,479 • ❤️ 949 • 7d ago
 
 ---
 
@@ -651,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 5h ago
+⭐ 18.0k • 🔱 2.8k • 6h ago
 
 ---
 
@@ -661,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.8k • 🔱 504 • 23h ago
+⭐ 4.8k • 🔱 504 • 1d ago
 
 ---
 
@@ -671,7 +675,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 143 • 1h ago
+⭐ 2.0k • 🔱 143 • 2h ago
 
 ---
 
@@ -701,7 +705,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.2k • 🔱 140 • 5h ago
+⭐ 1.2k • 🔱 140 • 6h ago
 
 ---
 

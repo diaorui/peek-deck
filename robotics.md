@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T16:56:44.869402+00:00'
+updated: '2025-12-19T17:22:30.811608+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 16:56 UTC  
+**Last Updated:** December 19, 2025 at 17:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -58,17 +58,17 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 ---
 
+**[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
+
+2h ago
+
+---
+
 **[Ouster: Building The Interfaces Between AI And The Physical World](https://www.reddit.com/r/robotics/comments/1pqilq8/ouster_building_the_interfaces_between_ai_and_the/)**
 
 Ouster is positioned to provide essential perception interfaces that allow AI to act within the physical world, as digital LiDAR might become a primary sensory layer for autonomous systems.
 
-🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 5h ago
-
----
-
-**[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
-
-2h ago
+🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 6h ago
 
 ---
 
@@ -108,19 +108,19 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 ## Google News: "robotics"
 
-**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
-
-Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
-
-TechCrunch • 2d ago
-
----
-
 **[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
 Fortune • 1d ago
+
+---
+
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+
+TechCrunch • 2d ago
 
 ---
 
@@ -154,6 +154,14 @@ The New York Times • 2d ago
 
 ---
 
+**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
+
+Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+
+NVIDIA Developer • 2d ago
+
+---
+
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
 Bloomberg.com • 6h ago
@@ -165,14 +173,6 @@ Bloomberg.com • 6h ago
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
 Yahoo Finance • 2d ago
-
----
-
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
-
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
-
-NVIDIA Developer • 1d ago
 
 ---
 

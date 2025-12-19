@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T16:56:44.866196+00:00'
+updated: '2025-12-19T17:22:30.808355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 16:56 UTC  
+**Last Updated:** December 19, 2025 at 17:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
-**7d:** -4.5%  
-**30d:** +4.7%  
-**90d:** -33.1%  
-**1y:** -14.3%  
+**24h:** +5.7%  
+**7d:** -3.8%  
+**30d:** +5.1%  
+**90d:** -32.8%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.69B
+**Market Cap:** $360.21B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-39.7%
 
 **All-Time Low:** $0.43
-+691984.4%
++688804.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 6h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqdMqxRRE1bLFQAOS5ekOJg-Vhd5l_1PHyLKVLqpNCje24VISYMPet7y&gaa_ts=69458296&gaa_sig=cuQCPBDe80bJbc8m_28sAJ5GHrdPB6KVY7fd2DI_uokhWdGO5r-bl-KyxG3RZqzl418axK15kC0g9atmoJy0IQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfeZERSWeGnIvcQpe17AUzx_diFrEd7jD5SqnFZu02Tqu8voYaFy5kL&gaa_ts=69458d42&gaa_sig=DBS7AFZH9m701UotugjqWZdrIjV5q816QGymYsV5vhz65_xiMCjptIjbe8Iiz44PWIbtOlfDLskJJRdVvm8OuQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -182,7 +182,15 @@ Barron's • 2d ago
 
 /PRNewswire/ -- Ethereum's market is one of the most competitive corners of DeFi, and it has virtually no "meme"-driven trading activity. This makes it easier...
 
-PR Newswire • 38m ago
+PR Newswire • 1h ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -192,27 +200,19 @@ The Block • 2d ago
 
 ---
 
+**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
+
+Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
 **[Next Major Ethereum Upgrade Revealed by Developers](https://www.tradingview.com/news/u_today:8c70a861f094b:0-next-major-ethereum-upgrade-revealed-by-developers/)**
 
 Just a few weeks after the Fusaka update, Ethereum BINANCE:ETHUSD developers have revealed the name for the next major upgrade in 2026. According to insights shared by Wu Blockchain, developers in the ecosystem have voted to name this next update "Hegota." What Hegota upgrade's name representsNotab…
 
-TradingView — Track All Markets • 2h ago
-
----
-
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
-
-Next year could be good but won't be driven by blockchain tech upgrades.
-
-The Motley Fool • 5h ago
-
----
-
-**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
-
-v
-
-AMBCrypto • 18h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -232,7 +232,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 5h ago
+👁️ 6K • 👍 312 • 💬 22 • ⏱️ 8:37 • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 788 • 👍 98 • 💬 4 • ⏱️ 9:41 • 3h ago
+👁️ 788 • 👍 98 • 💬 4 • ⏱️ 9:41 • 4h ago
 
 ---
 
@@ -322,7 +322,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 168 • 💬 5 • ⏱️ 9:10 • 17h ago
+👁️ 2K • 👍 168 • 💬 5 • ⏱️ 9:10 • 18h ago
 
 ---
 
