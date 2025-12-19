@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T20:48:48.825444+00:00'
+updated: '2025-12-19T20:59:43.129356+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 20:48 UTC  
+**Last Updated:** December 19, 2025 at 20:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 16h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 I used to think building an AI feature was mostly model choice + prompts. Then we shipped one. What went wrong: The assistant started giving different answers to the same questions. We didn’t change the model. We didn’t change the UI. It looked like the AI got worse. Turns out the cause was boring: the system that feeds information into the AI changed slightly (a document extraction update). The text the AI searched over was subtly different, so it pulled different passages and answered differently. What was observed: documents ingested live with whatever parser happened to run no record of what text was actually used no simple test to detect changes early debugging was basically guesswork Changes applied: we saved the cleaned/extracted text as a build artifact we made the - how we slice documents rules explicit and versioned we added a tiny regression test: a few questions that must still cite the same sources (or at least show what changed) Impact: Failures became explainable. The AI changed turned into this document’s extracted text changed; here’s the diff. If you’ve built AI apps: what’s the most annoying reliability issue you didn’t expect until you shipped?
 
-18m ago
+29m ago
 
 ---
 
@@ -89,7 +89,7 @@ My question is about reliance on facial recognition software, and more generally
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-15h ago
+16h ago
 
 ---
 
@@ -153,7 +153,7 @@ Ars Technica • 3h ago
 
 **[How Do You Do AI?](https://www.aacu.org/liberaleducation/articles/how-do-you-do-ai)**
 
-AAC&U • 40m ago
+AAC&U • 51m ago
 
 ---
 
@@ -273,7 +273,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 145 • 💬 13 • 22h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 145 • 💬 13 • 23h ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -405,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 377 • 24m ago
+⬇️ 62,493 • ❤️ 377 • 35m ago
 
 ---
 
@@ -517,7 +517,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 7 • 💬 2 • ⭐ 3,231 • 8d ago
+▲ 7 • 💬 2 • ⭐ 3,618 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -555,7 +555,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 134 • 💬 6 • ⭐ 18,655 • 3mo ago
+▲ 134 • 💬 6 • ⭐ 18,682 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -601,20 +601,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
-
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
-
-🏢 GVC Lab at Great Bay University
-
-PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
-
-▲ 26 • 💬 2 • ⭐ 588 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -638,6 +624,19 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 ▲ 39 • 💬 1 • ⭐ 18,091 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 26 • 💬 1 • ⭐ 65,778 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -671,7 +670,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 146 • 5h ago
+⭐ 2.1k • 🔱 147 • 5h ago
 
 ---
 
@@ -731,7 +730,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 819 • 🔱 134 • 3d ago
+⭐ 820 • 🔱 134 • 3d ago
 
 ---
 

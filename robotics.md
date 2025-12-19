@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T20:48:48.840819+00:00'
+updated: '2025-12-19T20:59:43.157503+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 20:48 UTC  
+**Last Updated:** December 19, 2025 at 20:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -84,7 +84,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -92,7 +92,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our colleagues at ROSCon India, which is happening right now in Pune!      This week community member @_bernardo posted a teaser video for an incredible Manta-ray biomimetic robot that uses ROS 2!           Two new Depth Anything 3 tools came out this week. First PyOctomapAnything turns any image into a PyOctoMap 3D voxel scene There’s also a new a new foundation model for panoramic depth estimation. I’ve said it before, ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 24m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 35m ago
 
 ---
 
@@ -100,7 +100,7 @@ ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our 
 
 I’m looking at getting a small 2n1 compact laptop. Something that isn’t too expensive. The one I was looking was the surface pro 11 12” Surface pro 11, 12inch Ram: 16gb Ssd: 512 (not- upgradable) Cpu: Snapdragon X Plus (8-Core) Price: $599 They have the 13” Ram:16gb SSD: 526gb (upgradable) CPU: Snapdragon X Elite (12-Core) Price: $999 ($1449 for 32gb ram, 1TB SSD, same CPU) I currently have a desktop for heavier task, but this mainly so i can take it on the go to local places, etc. This is for small robotics projects (building some robotic arms), but will probably take it a step further later
 
-48m ago
+59m ago
 
 ---
 
@@ -282,7 +282,7 @@ War Robots Gameplay: SNIPER SHOTGUNS Dagon - funny build #warrobots #warrobotsga
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 316 • 💬 74 • ⏱️ 21:06 • 7h ago
+👁️ 4K • 👍 316 • 💬 74 • ⏱️ 21:06 • 8h ago
 
 ---
 

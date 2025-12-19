@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T20:48:48.832858+00:00'
+updated: '2025-12-19T20:59:43.143085+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 20:48 UTC  
+**Last Updated:** December 19, 2025 at 20:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** -2.2%  
-**30d:** +1.4%  
-**90d:** -23.5%  
+**24h:** +2.8%  
+**7d:** -2.3%  
+**30d:** +1.3%  
+**90d:** -23.6%  
 **1y:** -9.7%  
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -117,13 +117,13 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfYIADijJTe1P9ZdTUpAOOE6NKDdsY982bQA1q-sWaBJjioQevL9hUw&gaa_ts=6945b9ed&gaa_sig=EkxRmyxiw7QerDqhwiIi3DuH_f_aOzS9nVNTQrUYkc9tuPLL84UXm7iyby9O-8cKfM60eEocGmADvaUic6SwyA%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 1d ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 3h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -337,7 +337,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 236 • ⏱️ 9:16 • 20h ago
+👁️ 54K • 👍 2K • 💬 236 • ⏱️ 9:16 • 21h ago
 
 ---
 
