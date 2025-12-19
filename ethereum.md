@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T18:59:03.749043+00:00'
+updated: '2025-12-19T19:24:38.322008+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 18:59 UTC  
+**Last Updated:** December 19, 2025 at 19:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,958.58
+### $2,991.85
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +6.8%  
-**7d:** -4.6%  
-**30d:** +4.5%  
-**90d:** -33.2%  
-**1y:** -14.4%  
+**7d:** -4.1%  
+**30d:** +5.1%  
+**90d:** -32.8%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.07B
+**Market Cap:** $358.61B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.2%
+-39.7%
 
 **All-Time Low:** $0.43
-+682967.8%
++688383.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 8h ago
 
 ---
 
@@ -136,9 +136,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ---
 
-**[how come im receiving small amounts of eth back after robinhood deposits](https://www.reddit.com/r/ethereum/comments/1ppkedu/how_come_im_receiving_small_amounts_of_eth_back/)**
-
-so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
+**[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
 1d ago
 
@@ -148,11 +146,39 @@ so i sent robinhood some coins and ever since then im receiving small amounts of
 
 ## Google News: "ethereum"
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
 Decrypt • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqe-Dep_VPSwSnFl7AWUujZwxOce71uFBQlDBId8NTqLzVZFxTmCmkyo&gaa_ts=6945a9e1&gaa_sig=dkigtyZExCLi4v2AqOCYe8jqZX_F9j27mBlq_Lv4_dWigahsl7gvvAYjW9TpmVfk1k4bcCN1JTzsMD7hvhmOxQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
+
+FXStreet • 15h ago
+
+---
+
+**[Why Bitcoin, Ethereum and XRP Are Falling Today Even As Inflation Cools and Rates Are Cut](https://www.tradingview.com/news/coinpedia:2c393df90094b:0-why-bitcoin-ethereum-and-xrp-are-falling-today-even-as-inflation-cools-and-rates-are-cut/)**
+
+The crypto market has turned red today, with tokens like Bitcoin, Ethereum, and XRP trading lower. The total crypto market value has dropped to about $2.97 trillion, down more than 2% in the last 24 hours, as investors remain cautious.Even though some positive economic news has come out, traders ar…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 7h ago
 
 ---
 
@@ -164,61 +190,33 @@ Yahoo Finance • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
-
-Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
-
-Decrypt • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfT_qB7l07fn2-Ed7xAtZO5nsNCMwQqWVijS3ho8Zx22nUNaAv7Rxoa&gaa_ts=69459fb9&gaa_sig=lRAag8xfZp2EdgoVak2r4wutCz1VJ3zu-vBhs1IDwqGKARKMf3GO6blA2isEajd_wIJUlqfjOKzzCKmPH3XFXw%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 7h ago
-
----
-
 **[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
+**[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
 
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
+Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
 
-ts2.tech • 1d ago
-
----
-
-**[Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://www.tradingview.com/news/cointelegraph:0e978e0fd094b:0-synthetix-returns-to-ethereum-mainnet-after-3-years-we-can-run-it-back/)**
-
-Perpetuals trading platform Synthetix is returning to Ethereum’s mainnet, with its founder arguing the network is now more than capable of supporting high-frequency financial applications after years of network congestion drove derivatives activity elsewhere.“By the time perp DEXs became a thing, t…
-
-TradingView — Track All Markets • 19h ago
+BeInCrypto • 13h ago
 
 ---
 
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+**[MSTR, BMNR Rise After BOJ Rate Decision Results In BItcoin, Ethereum Rebound](https://stocktwits.com/news-articles/markets/cryptocurrency/mstr-bmnr-rise-after-boj-rate-decision-results-in-bitcoin-ethereum-rebound/cLeik8qRErF)**
 
-CCN.com • 3d ago
+Stocktwits • 20h ago
 
 ---
 
-**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
+**[Next Major Ethereum Upgrade Revealed by Developers](https://www.tradingview.com/news/u_today:8c70a861f094b:0-next-major-ethereum-upgrade-revealed-by-developers/)**
 
-v
+Just a few weeks after the Fusaka update, Ethereum BINANCE:ETHUSD developers have revealed the name for the next major upgrade in 2026. According to insights shared by Wu Blockchain, developers in the ecosystem have voted to name this next update "Hegota." What Hegota upgrade's name representsNotab…
 
-AMBCrypto • 20h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -232,7 +230,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 7h ago
+👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 8h ago
 
 ---
 
@@ -242,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 127 • 💬 6 • ⏱️ 9:41 • 5h ago
+👁️ 1K • 👍 127 • 💬 6 • ⏱️ 9:41 • 6h ago
 
 ---
 
@@ -292,7 +290,7 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Томас Кралов | Crypto & Trade
 
-👁️ 5K • 👍 416 • 💬 30 • ⏱️ 9:00 • 6h ago
+👁️ 5K • 👍 416 • 💬 30 • ⏱️ 9:00 • 7h ago
 
 ---
 
@@ -322,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 170 • 💬 5 • ⏱️ 9:10 • 19h ago
+👁️ 3K • 👍 170 • 💬 5 • ⏱️ 9:10 • 20h ago
 
 ---
 

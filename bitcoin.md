@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T18:59:03.743119+00:00'
+updated: '2025-12-19T19:24:38.316068+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 18:59 UTC  
+**Last Updated:** December 19, 2025 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,229.31
+### $87,625.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.2%  
-**7d:** -3.3%  
-**30d:** +0.3%  
-**90d:** -24.4%  
-**1y:** -10.6%  
+**24h:** +3.4%  
+**7d:** -3.0%  
+**30d:** +0.6%  
+**90d:** -24.2%  
+**1y:** -10.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1738.13B
+**Market Cap:** $1742.65B
 Rank #1
 
 **Circulating Supply:** 19,964,296 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.5%
 
 **All-Time Low:** $67.81
-+128252.8%
++129041.7%
 
 ---
 
@@ -97,9 +97,15 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
+**[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
+
+1h ago
+
+---
+
 **[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,15 +115,21 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
+**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+
+6h ago
+
+---
+
+**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
 1h ago
 
 ---
 
-**[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+**[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-6h ago
+10h ago
 
 ---
 
@@ -127,21 +139,17 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
-
-9h ago
-
----
-
-**[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
-
-20h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
+
+In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
+
+Futurism • 4h ago
+
+---
 
 **[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
@@ -151,17 +159,19 @@ Bloomberg.com • 8h ago
 
 ---
 
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
+**[‘Pay 13 Bitcoin or We Blow It Up’: Hyundai Bomb Threat Shakes South Korean Offices](https://bitcoinmagazine.com/news/hyundai-bitcoin-bomb-threat-in-south-korea)**
 
-More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
+Hyundai Group evacuated staff from two Seoul offices after receiving a bomb threat email demanding bitcoin.
 
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 18m ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdYYT4nCbeVrQflRgtwyVnDWz1ao7gbIDq-LeHKtweUqvhvL0iktU_7&gaa_ts=69459fb7&gaa_sig=EHD3_7NTrEx43ohqn9uyB77nbZxDPJR6_b0gqsRMgT1g_ak1vnbFaPBd53tM00AoC4_qpprAqI6xv30hLNgWUw%3D%3D)**
+**[Bitcoin Poised to Rise to $1.4 Million by 2035, Analysts Say—Or Much Higher](https://finance.yahoo.com/news/bitcoin-poised-rise-1-4-190554265.html)**
 
-Barron's • 1h ago
+A new price model suggests that Bitcoin could rise as high as $1.4 million per coin by 2035, as a base case. The bull case is even higher.
+
+Yahoo Finance • 18m ago
 
 ---
 
@@ -173,11 +183,9 @@ CoinDesk • 2h ago
 
 ---
 
-**[Riot Platforms (RIOT) Is Down 12.5% After Pivoting Bitcoin Operations Toward AI Data Center Build-Out](https://finance.yahoo.com/news/riot-platforms-riot-down-12-171152519.html)**
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Riot Platforms recently announced it is shifting away from pure Bitcoin mining to build large-scale AI and high-performance computing data centers, kicking off core-and-shell development of the first two buildings at its Corsicana, Texas campus after completing land purchases and overall site design. This move aims to repurpose Riot’s low-cost power and land into an AI-focused data center platform, but it also introduces heavy funding needs and execution risk that are now front of mind for...
-
-Yahoo Finance • 1h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -189,33 +197,27 @@ CoinDesk • 2h ago
 
 ---
 
-**[SEC Says Third-Party Bitcoin Mining Services Are Securities Offerings in New Lawsuit](https://decrypt.co/352899/sec-says-third-party-bitcoin-mining-services-securities-offering-lawsuit)**
+**[Philly man's bitcoin mining scheme allegedly defrauded investors of $48.5 million, SEC says](https://www.phillyvoice.com/bitcoin-mining-scam-vbit-sec-danh-vo-philadelphia/)**
 
-The SEC charged a Philadelphia-based Bitcoin mining entrepreneur with running an illegal securities scheme and misappropriating over $48 million of customer funds.
+Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
 
-Decrypt • 1d ago
-
----
-
-**[Strategy Inc Stock (MSTR) Today: Bitcoin Rebound, MSCI Index Risk, Fresh BTC Buys, and Wall Street Price Targets (Dec. 19, 2025)](https://ts2.tech/en/strategy-inc-stock-mstr-today-bitcoin-rebound-msci-index-risk-fresh-btc-buys-and-wall-street-price-targets-dec-19-2025/)**
-
-Strategy Inc Stock (MSTR) Today: Bitcoin Rebound, MSCI Index Risk, Fresh BTC Buys, and Wall Street Price Targets (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 3h ago
+PhillyVoice • 21h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqdqhUWU88iVGfjRTaJCSeHqTXl7cPjBVaAa_Wkbzs6yJiF3VuWFSDAT&gaa_ts=69459fb7&gaa_sig=rIV7GCrLiiclD3i5duoqnkije770QlcoOgtkT7YAh7nSyhaVMkFheR7qBX21nsUbaDbFEULJuspbrM0bzOQ_7w%3D%3D)**
+**[SEC Charges Bitcoin Miner for Duping Investors Out of $48.5 Million](https://bitcoinmagazine.com/news/sec-charges-bitcoin-miner-for-duping-investors-out-of-48-5-million)**
 
-The Wall Street Journal • 3d ago
+A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
+
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[Bitcoin, ether set for 2026 comeback on crypto regulation, Citi says (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4533546-bitcoin-ether-set-for-2026-comeback-on-crypto-regulation-citi-says)**
+**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
 
-Bitcoin (BTC-USD) and ether (ETH-USD) are on track to finish the year in the red, with macro and risk-asset headwinds outweighing the boost from increased crypto regulatory clarity. But Citi Research believes that underperformance might reverse in 2026.
+Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-Seeking Alpha • 2h ago
+NPR • 9h ago
 
 ---
 
@@ -257,7 +259,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 3h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 4h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -281,7 +283,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 21h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 22h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -291,11 +293,9 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ---
 
-**[Aaron Van Wirdum predicts the future of crypto](https://news.ycombinator.com/item?id=46310765)**
+**[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46329328)**
 
-Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
-
-⬆️ 2 • 💬 3 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 3 • 💬 1 • 41m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -309,7 +309,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 41K • 👍 2K • 💬 239 • ⏱️ 16:50 • 20h ago
+👁️ 41K • 👍 2K • 💬 239 • ⏱️ 16:50 • 21h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.c
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 69 • 💬 8 • ⏱️ 0:08 • 11h ago
+👁️ 7K • 👍 69 • 💬 8 • ⏱️ 0:08 • 12h ago
 
 ---
 
@@ -379,7 +379,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 7h ago
+👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 8h ago
 
 ---
 
@@ -399,7 +399,7 @@ Nick Valdez looks at the latest US market-open manipulation that has hit Bitcoin
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 126 • 💬 13 • ⏱️ 5:37 • 18h ago
+👁️ 4K • 👍 126 • 💬 13 • ⏱️ 5:37 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T18:59:03.752187+00:00'
+updated: '2025-12-19T19:24:38.325190+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 18:59 UTC  
+**Last Updated:** December 19, 2025 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,19 +38,19 @@ Robotics research and industry news
 
 ---
 
+**[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
+
+Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
+
+1h ago
+
+---
+
 **[UPS plans to invest $120M in around 400 truck-unloading robots from Pickle Robot Company to tackle one of logistics Holy Grails: unloading trailers. These mobile robots drive into containers, lift boxes up to 50 lbs (22.5 kg) with suction, and place them onto conveyors.](https://www.reddit.com/r/robotics/comments/1pqi5cd/ups_plans_to_invest_120m_in_around_400/)**
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
 8h ago
-
----
-
-**[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
-
-Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
-
-50m ago
 
 ---
 
@@ -64,7 +64,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -80,14 +80,6 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ---
 
-**[Ouster: Building The Interfaces Between AI And The Physical World](https://www.reddit.com/r/robotics/comments/1pqilq8/ouster_building_the_interfaces_between_ai_and_the/)**
-
-Ouster is positioned to provide essential perception interfaces that allow AI to act within the physical world, as digital LiDAR might become a primary sensory layer for autonomous systems.
-
-🔗 [Chaotropy](https://www.chaotropy.com/ouster-building-the-interfaces-between-ai-and-the-physical-world/) • 7h ago
-
----
-
 **[Selection Motor](https://www.reddit.com/r/robotics/comments/1pq4l38/selection_motor/)**
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
@@ -99,6 +91,14 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 **[Demo of a robotic arm in simulation generating randomized grasp trajectories](https://www.reddit.com/r/robotics/comments/1ppom5w/demo_of_a_robotic_arm_in_simulation_generating/)**
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
+
+1d ago
+
+---
+
+**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
+
+It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
 1d ago
 
@@ -132,6 +132,12 @@ KSBY News • 12h ago
 
 ---
 
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+
+The New York Times • 2d ago
+
+---
+
 **[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
 
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
@@ -156,29 +162,27 @@ NASA (.gov) • 2d ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
+**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
 
-The New York Times • 2d ago
+NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
----
-
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
+**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
 
-Bloomberg.com • 7h ago
+Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+
+NVIDIA Developer • 2d ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
+**[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
 
-The Seattle Times • 1d ago
+SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
+
+navalnews.com • 2d ago
 
 ---
 
@@ -270,7 +274,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 QCT
 
-👁️ 40K • 👍 533 • 💬 13 • ⏱️ 0:25 • 21h ago
+👁️ 40K • 👍 533 • 💬 13 • ⏱️ 0:25 • 22h ago
 
 ---
 
