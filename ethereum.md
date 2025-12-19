@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T06:15:34.699990+00:00'
+updated: '2025-12-19T06:50:20.100678+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 06:15 UTC  
+**Last Updated:** December 19, 2025 at 06:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
+**24h:** +3.1%  
 **7d:** -6.0%  
-**30d:** +3.0%  
-**90d:** -34.2%  
+**30d:** +3.1%  
+**90d:** -34.1%  
 **1y:** -15.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.35B
+**Market Cap:** $352.98B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.0%
+-40.9%
 
 **All-Time Low:** $0.43
-+674013.5%
++675484.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14m ago
+49m ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-13h ago
+14h ago
 
 ---
 
@@ -148,11 +148,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfNyslDWFhwOutFA2C3AwHBnfAHeD5GMpNbPMJnrSUHTt3xLxknsmX8&gaa_ts=6944f912&gaa_sig=HRCUrsFu3xm3u115-p2YaiWt5FhxY8aPeq45gVZa4_K7YUAq3eIzOjugIjWJQNWUuuJ1b3sk5AEHf1pc3XEwEQ%3D%3D)**
 
-Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
-
-Yahoo Finance • 14h ago
+Barron's • 2d ago
 
 ---
 
@@ -178,17 +176,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 2d ago
-
----
-
 **[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
 
 v
 
 AMBCrypto • 8h ago
+
+---
+
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
 
 ---
 
@@ -208,11 +206,11 @@ Bloomberg.com • 17h ago
 
 Ethereum price breaks below the $3,000 psychological level and the point of control, increasing the risk of capitulation as bearish structure and downside liquidity.
 
-crypto.news • 15h ago
+crypto.news • 16h ago
 
 ---
 
-**[Large cryptocurrencies climb on Ethereum, Solana increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-solana-increases-042f94f1-f32f016f84c5?gaa_at=eafs&gaa_n=AWEtsqcsOSL0KltCeagXSaj1SBiZKaNDX1Pb9kfsxpeVbFhwgJ1Nz63ejEDB&gaa_ts=6944f0f0&gaa_sig=qNujp4uD_MT9jA3Eni7EaXSjTb4FB-uhRCxgMwBSu--jKRsQuWF-hehQ_L0lE01N6YmXavEU5iJoihrZRtH0aw%3D%3D)**
+**[Large cryptocurrencies climb on Ethereum, Solana increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-solana-increases-042f94f1-f32f016f84c5?gaa_at=eafs&gaa_n=AWEtsqekzmAzGxOC7ObwQBCrByJa58SSE0ccR5ucxnaXg3iTQpXtozFSviJ-&gaa_ts=6944f912&gaa_sig=MNQVJtN2KPKaronpCYhbeY_l3RvaO78AFW53m57BuTyGWyY9QEB1k124OHk5tDDR8ooawnz4OMXvfypqeXnd1A%3D%3D)**
 
 MarketWatch • 15h ago
 
@@ -308,7 +306,7 @@ BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 319 • 💬 83 • ⏱️ 26:48 • 7h ago
+👁️ 7K • 👍 319 • 💬 83 • ⏱️ 26:48 • 8h ago
 
 ---
 
@@ -318,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 541 • 👍 22 • 💬 1 • ⏱️ 4:50 • 19h ago
+👁️ 541 • 👍 22 • 💬 1 • ⏱️ 4:50 • 20h ago
 
 ---
 
