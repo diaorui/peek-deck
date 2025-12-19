@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T19:24:38.316068+00:00'
+updated: '2025-12-19T19:37:54.514072+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 19:24 UTC  
+**Last Updated:** December 19, 2025 at 19:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,625.94
+### $87,745.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.4%  
-**7d:** -3.0%  
-**30d:** +0.6%  
-**90d:** -24.2%  
-**1y:** -10.4%  
+**24h:** +3.9%  
+**7d:** -2.5%  
+**30d:** +1.1%  
+**90d:** -23.8%  
+**1y:** -10.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 8h ago
 
 Hyundai Group evacuated staff from two Seoul offices after receiving a bomb threat email demanding bitcoin.
 
-Bitcoin Magazine • 18m ago
+Bitcoin Magazine • 31m ago
 
 ---
 
@@ -171,7 +171,7 @@ Bitcoin Magazine • 18m ago
 
 A new price model suggests that Bitcoin could rise as high as $1.4 million per coin by 2035, as a base case. The bull case is even higher.
 
-Yahoo Finance • 18m ago
+Yahoo Finance • 32m ago
 
 ---
 
@@ -295,7 +295,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46329328)**
 
-⬆️ 3 • 💬 1 • 41m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 3 • 💬 1 • 54m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -303,13 +303,23 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 118 • ⏱️ 44:14 • 4h ago
+
+---
+
 **[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
 
 This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
 
 📺 Swan Bitcoin
 
-👁️ 41K • 👍 2K • 💬 239 • ⏱️ 16:50 • 21h ago
+👁️ 43K • 👍 2K • 💬 243 • ⏱️ 16:50 • 21h ago
 
 ---
 
@@ -319,7 +329,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 386 • 💬 14 • ⏱️ 9:21 • 1d ago
+👁️ 12K • 👍 393 • 💬 15 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -329,17 +339,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 238 • ⏱️ 9:16 • 19h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 1K • 💬 87 • ⏱️ 44:14 • 3h ago
+👁️ 54K • 👍 2K • 💬 236 • ⏱️ 9:16 • 19h ago
 
 ---
 
@@ -349,27 +349,17 @@ Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 3K • 💬 226 • ⏱️ 19:03 • 1d ago
+👁️ 44K • 👍 3K • 💬 228 • ⏱️ 19:03 • 1d ago
 
 ---
 
-**[🚨 Major Threat!! #Bitcoin](https://www.youtube.com/watch?v=n62wi7y4ZaA)**
+**[Bitcoin DOMINATES Wall Street As Jamie Dimon Capitulates! Did We Win?](https://www.youtube.com/watch?v=Qhn-7qk_ixo)**
 
-Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start Trading on Polymarket (#1 ...
+Bitcoin #Crypto #Finance Bitcoin dominates Wall Street as institutions flood in for their slice of the pie. DTCC Meanwhile ...
 
-📺 Altcoin Daily
+📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 69 • 💬 8 • ⏱️ 0:08 • 12h ago
-
----
-
-**[Proof Bitcoin Is Setting Up For A Giant Reversal](https://www.youtube.com/watch?v=HlPLngxdijY)**
-
-Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini Credit Card: $50 Bonus in crypto!
-
-📺 Krown
-
-👁️ 12K • 👍 900 • 💬 171 • ⏱️ 15:27 • 1d ago
+👁️ 10K • 👍 793 • 💬 155 • ⏱️ 28:38 • 4h ago
 
 ---
 
@@ -379,7 +369,27 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 8h ago
+👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 8h ago
+
+---
+
+**[Why Bitcoin Miners Are Selling Everything](https://www.youtube.com/watch?v=XQ6w0QSphkg)**
+
+Bitcoin miners are “selling everything”… or are they? In this video, Ryan breaks down why the headlines are getting it wrong ...
+
+📺 Ryan’s Money Lab
+
+👁️ 437 • 👍 46 • 💬 2 • ⏱️ 10:18 • 1h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
+
+It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
+
+📺 Benjamin Cowen
+
+👁️ 20K • 👍 2K • 💬 154 • ⏱️ 18:06 • 3h ago
 
 ---
 
@@ -389,17 +399,7 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 23K • 👍 1K • 💬 169 • ⏱️ 2:15 • 18h ago
-
----
-
-**[BITCOIN MANIPULATION! Why Wall Street is PINNING the Price (Price Target REVEALED)](https://www.youtube.com/watch?v=oLf6GXbM0qM)**
-
-Nick Valdez looks at the latest US market-open manipulation that has hit Bitcoin's recent price action. Are they hunting liquidity ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 126 • 💬 13 • ⏱️ 5:37 • 19h ago
+👁️ 26K • 👍 1K • 💬 183 • ⏱️ 2:15 • 19h ago
 
 ---
 

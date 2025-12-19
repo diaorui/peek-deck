@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T19:24:38.322008+00:00'
+updated: '2025-12-19T19:37:54.520175+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 19:24 UTC  
+**Last Updated:** December 19, 2025 at 19:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.8%  
-**7d:** -4.1%  
-**30d:** +5.1%  
-**90d:** -32.8%  
-**1y:** -13.9%  
+**24h:** +7.1%  
+**7d:** -3.8%  
+**30d:** +5.4%  
+**90d:** -32.6%  
+**1y:** -13.7%  
 
 ---
 
@@ -102,7 +102,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView — Track All Markets • 1d ago
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 7h ago
 
 Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 8h ago
 
 Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
 
-BeInCrypto • 13h ago
+BeInCrypto • 14h ago
 
 ---
 
@@ -230,7 +230,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 382 • 💬 27 • ⏱️ 8:37 • 8h ago
+👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 127 • 💬 6 • ⏱️ 9:41 • 6h ago
+👁️ 2K • 👍 140 • 💬 7 • ⏱️ 9:41 • 6h ago
 
 ---
 
@@ -250,17 +250,47 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 409 • 💬 71 • ⏱️ 16:54 • 1d ago
+👁️ 11K • 👍 418 • 💬 72 • ⏱️ 16:54 • 1d ago
 
 ---
 
-**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
+**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
 
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Blockchain Backer
+📺 Savvy Finance
 
-👁️ 8K • 👍 1K • 💬 2 • ⏱️ 27:59 • 5h ago
+👁️ 1K • 👍 134 • 💬 1 • ⏱️ 21:53 • 4h ago
+
+---
+
+**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
+
+Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
+
+📺 Sin City Crypto
+
+👁️ 287 • 👍 42 • ⏱️ 58:37 • 1h ago
+
+---
+
+**[BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hFt8o9AUfQM)**
+
+BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 88 • 💬 30 • ⏱️ 22:39 • 1h ago
+
+---
+
+**[Hegota Upgrade Revealed: Why BlackRock &amp; BitMine Are Betting Big on Ethereum&quot;](https://www.youtube.com/watch?v=_9z2hB4blbY)**
+
+In this video, we uncover the massive implications of Ethereum's newly announced Hegota Upgrade scheduled for 2026. This isn't ...
+
+📺 CryptoStock Lab
+
+👁️ 353 • 👍 17 • ⏱️ 15:52 • 4h ago
 
 ---
 
@@ -270,7 +300,7 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 9K • 👍 389 • 💬 80 • ⏱️ 11:01 • 2d ago
+👁️ 9K • 👍 389 • 💬 81 • ⏱️ 11:01 • 2d ago
 
 ---
 
@@ -280,47 +310,17 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 408 • 💬 76 • ⏱️ 20:34 • 2d ago
+👁️ 15K • 👍 408 • 💬 33 • ⏱️ 20:34 • 2d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: ПОЯВИЛАСЬ НАДЕЖДА!!!!!!!!](https://www.youtube.com/watch?v=RmLb-XfhtJI)**
+**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
 
-Эти данные могут изменить всё прямо сейчас для биткоина, эфириума и всего крипторынка! БУДЬТЕ ОСТОРОЖНЫ!
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
 
-📺 Томас Кралов | Crypto & Trade
+📺 Blockchain Backer
 
-👁️ 5K • 👍 416 • 💬 30 • ⏱️ 9:00 • 7h ago
-
----
-
-**[First US Bank Officially Enters Ethereum! (Why $BMNR Wins)](https://www.youtube.com/watch?v=TtXHzJRyR3I)**
-
-It finally happened: A major US Bank has chosen Ethereum. In this video, we break down the historic launch of SoFiUSD, the first ...
-
-📺 CryptoStock Lab
-
-👁️ 2K • 👍 56 • 💬 24 • ⏱️ 14:11 • 1d ago
-
----
-
-**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
-
-Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
-
-📺 Taiki Maeda
-
-👁️ 14K • 👍 611 • 💬 303 • ⏱️ 33:33 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=meGMmlX91gs)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 170 • 💬 5 • ⏱️ 9:10 • 20h ago
+👁️ 11K • 👍 1K • 💬 2 • ⏱️ 27:59 • 6h ago
 
 ---
 

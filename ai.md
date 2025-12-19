@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T19:24:38.307686+00:00'
+updated: '2025-12-19T19:37:54.505507+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 19:24 UTC  
+**Last Updated:** December 19, 2025 at 19:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 Uber CEO Dara Khosrowshahi said investing in AI has been "well worth it and then some" as it's yielded "hundreds of millions of dollars of benefit."
 
-🔗 [Business Insider](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 34m ago
+🔗 [Business Insider](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 47m ago
 
 ---
 
@@ -191,7 +191,7 @@ The Washington Post • 1h ago
 
 The $29 billion AI code editor is betting that controlling the entire development process will help it fend off competition.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -291,7 +291,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 133K • 👍 8K • 💬 988 • ⏱️ 5:52 • 1d ago
+👁️ 145K • 👍 9K • 💬 1K • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -301,17 +301,17 @@ In this episode, I share my eight AI predictions for 2026, not just where the te
 
 📺 Sinead Bovell
 
-👁️ 22K • 👍 1K • 💬 230 • ⏱️ 17:48 • 1d ago
+👁️ 23K • 👍 1K • 💬 247 • ⏱️ 17:48 • 1d ago
 
 ---
 
-**[Make Unlimited AI Videos for Free with Claude](https://www.youtube.com/watch?v=ogn0FiDnAM4)**
+**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
 
-after 3 months of testing and research, I finally cracked it, and now I can generate unlimited videos with Claude AI, the idea in ...
+Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
 
-📺 Hasan Aboul Hasan
+📺 Future of Life Institute
 
-👁️ 12K • 👍 749 • 💬 57 • ⏱️ 4:43 • 1d ago
+👁️ 17K • 👍 650 • 💬 296 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -321,17 +321,17 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 575K • 👍 14K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+👁️ 593K • 👍 14K • 💬 3K • ⏱️ 1:39:47 • 1d ago
 
 ---
 
-**[What AI and Hollywood are going to do to entertainment](https://www.youtube.com/watch?v=5FlRB1KKg-k)**
+**[Michael Burry: The AI Bubble is Fraudulent.](https://www.youtube.com/watch?v=oUDs7Oe8jyI)**
 
-ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The number 1 Christian prayer app in the US and ...
+INVESTINGPRO - 55% Off + An EXTRA 15% Off WITH MY CODE ☑️ Use code NEWMONEY at the ...
 
-📺 FreedomToons
+📺 New Money
 
-👁️ 91K • 👍 11K • 💬 810 • ⏱️ 3:47 • 21h ago
+👁️ 19K • 👍 1K • 💬 168 • ⏱️ 14:28 • 6h ago
 
 ---
 
@@ -341,7 +341,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 46K • 👍 1K • 💬 50 • ⏱️ 11:44 • 2d ago
+👁️ 48K • 👍 1K • 💬 48 • ⏱️ 11:44 • 2d ago
 
 ---
 
@@ -351,37 +351,37 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 4K • 👍 159 • 💬 16 • ⏱️ 1:01 • 3h ago
+👁️ 6K • 👍 265 • 💬 21 • ⏱️ 1:01 • 3h ago
 
 ---
 
-**[Man Rejects AI Millions](https://www.youtube.com/watch?v=lUoxU0Y2WKs)**
+**[Make Unlimited AI Videos for Free with Claude](https://www.youtube.com/watch?v=ogn0FiDnAM4)**
 
-A landowner turned down $8M from an AI company.
+after 3 months of testing and research, I finally cracked it, and now I can generate unlimited videos with Claude AI, the idea in ...
 
-📺 NowThis Impact
+📺 Hasan Aboul Hasan
 
-👁️ 666K • 👍 21K • 💬 2K • ⏱️ 0:55 • 2d ago
-
----
-
-**[Gemini Just Got a HUGE Update! (Deep Research Visuals)](https://www.youtube.com/watch?v=-qll_Sn7gmY)**
-
-In this video, Igor breaks down the update that brings visuals to Gemini Deep Research. Now along with the cited text report, you ...
-
-📺 The AI Advantage
-
-👁️ 10K • 👍 368 • 💬 39 • ⏱️ 10:43 • 1d ago
+👁️ 13K • 👍 830 • 💬 62 • ⏱️ 4:43 • 1d ago
 
 ---
 
-**[AI News: Gemini 3 Flash, GPT Image 1.5, NVIDIA Nemotron 3, Bernie Sanders DOOMER, and more!](https://www.youtube.com/watch?v=YzpHiVNE7Bw)**
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
 
-Check out how we use AI Automation to Power Forward Future! https://clickhubspot.com/b0c781 Download The Subtle Art of Not ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Matthew Berman
+📺 Julian Goldie SEO
 
-👁️ 19K • 👍 807 • 💬 131 • ⏱️ 12:31 • 22h ago
+👁️ 10K • 👍 214 • 💬 25 • ⏱️ 8:13 • 18h ago
+
+---
+
+**[Google’s New Gemini 3 Flash, OpenAI Apps, Grok Agents, Wan 2.6 and More Intense AI News](https://www.youtube.com/watch?v=BsVPKoohoEQ)**
+
+Google quietly set a new baseline with Gemini 3 Flash, a fast, low-cost reasoning model already running across real production ...
+
+📺 AI Revolution
+
+👁️ 13K • 👍 467 • 💬 23 • ⏱️ 14:15 • 19h ago
 
 ---
 
@@ -493,7 +493,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 218 • 22h ago
+⬇️ 2,154 • ❤️ 218 • 23h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T19:24:38.325190+00:00'
+updated: '2025-12-19T19:37:54.523659+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 19:24 UTC  
+**Last Updated:** December 19, 2025 at 19:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -150,7 +150,7 @@ CNN • 2d ago
 
 UPS is paying up $120 million to use 400 truck-unloading robots from Pickle Robot, adding to its broader $9 billion warehouse automation strategy.
 
-Sourcing Journal • 2d ago
+Sourcing Journal • 3d ago
 
 ---
 
@@ -190,23 +190,33 @@ navalnews.com • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+
+Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+
+📺 CNET
+
+👁️ 31K • 👍 754 • 💬 120 • ⏱️ 6:41 • 5d ago
+
+---
+
 **[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
 
 Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
 
 📺 Digital Farming 
 
-👁️ 8K • 👍 23 • ⏱️ 0:09 • 7h ago
+👁️ 8K • 👍 22 • ⏱️ 0:09 • 8h ago
 
 ---
 
-**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
 
-Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
 
-📺 RICHLEV
+📺 AZFK
 
-👁️ 197K • 👍 5K • 💬 1K • ⏱️ 17:05 • 4d ago
+👁️ 28K • 👍 2K • 💬 212 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -216,17 +226,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 185K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
-
----
-
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 25K • 👍 2K • 💬 57 • ⏱️ 1:38 • 3d ago
+👁️ 186K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
 
 ---
 
@@ -236,17 +236,17 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 315 • 💬 32 • ⏱️ 1:05 • 4d ago
+👁️ 32K • 👍 316 • 💬 32 • ⏱️ 1:05 • 4d ago
 
 ---
 
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
 
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
 
-📺 CNET
+📺 Dr Ben Miles
 
-👁️ 31K • 👍 751 • 💬 119 • ⏱️ 6:41 • 5d ago
+👁️ 26K • 👍 2K • 💬 57 • ⏱️ 1:38 • 3d ago
 
 ---
 
@@ -256,7 +256,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 437K • 👍 15K • 💬 478 • ⏱️ 0:34 • 5d ago
+👁️ 442K • 👍 15K • 💬 481 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
+
+📺 QCT
+
+👁️ 43K • 👍 555 • 💬 14 • ⏱️ 0:25 • 22h ago
 
 ---
 
@@ -266,25 +274,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 PRO ROBOTS
 
-👁️ 305K • 👍 6K • 💬 515 • ⏱️ 26:54 • 5d ago
+👁️ 306K • 👍 6K • 💬 524 • ⏱️ 26:54 • 5d ago
 
 ---
 
-**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
+**[SNIPER SHOTGUNS actually work…? War Robots funny build](https://www.youtube.com/watch?v=d6qVXgvBNcQ)**
 
-📺 QCT
+War Robots Gameplay: SNIPER SHOTGUNS Dagon - funny build #warrobots #warrobotsgameplay #wr My Best-Of-War Robots ...
 
-👁️ 40K • 👍 533 • 💬 13 • ⏱️ 0:25 • 22h ago
+📺 Manni-Gaming
 
----
-
-**[Indian lady Army Soldier Save Indian Army manfrom a robotic Kangaroo #ai #shorts #army](https://www.youtube.com/watch?v=E8VWBE7eoTQ)**
-
-Indian lady Army Soldier Save Indian Army manfrom a robotic Kangaroo #ai #shorts #army #shortsfeed #save.
-
-📺 June Stories Ai
-
-👁️ 122K • 👍 967 • 💬 3 • ⏱️ 0:39 • 3d ago
+👁️ 4K • 👍 316 • 💬 74 • ⏱️ 21:06 • 6h ago
 
 ---
 
