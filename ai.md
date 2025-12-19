@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T07:12:23.106620+00:00'
+updated: '2025-12-19T07:35:01.031849+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 07:12 UTC  
+**Last Updated:** December 19, 2025 at 07:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 10h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 11h ago
 
 ---
 
@@ -121,17 +121,9 @@ Many workers fear artificial intelligence is coming for their jobs, an idea bols
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqewxzze9WPs4DSVSCT6bCUopykbcCpEn1Ock3lTQ6G0NaYy2qc7bxlR&gaa_ts=6944f90f&gaa_sig=16pwc15eI74_DUB7IXUZDwedXUU39BWDwIJU0HOcoDmPdAi1xUAmJRe5wiC8St038kYn8sJV89cpuJ1OubfGnw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeS4rRy0yGiJf0raHeOs2LWbVhTKTG4QDGpoOuwWsnO8R7sjjqcDL0U&gaa_ts=6945038d&gaa_sig=U5n1Kkytsc3zZnW5hz--incNY8VdmgnKn06ntpq1WPylcvzeSKPUIxWvIppYVRWDNHpdeBxwPDKfSmHMCrdAmQ%3D%3D)**
 
 The Wall Street Journal • 11h ago
-
----
-
-**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
-
-Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
-
-CNN • 21h ago
 
 ---
 
@@ -143,35 +135,25 @@ BBC • 1h ago
 
 ---
 
-**[A Top Small-Cap AI Stock to Buy Now and Into 2026](https://www.fool.com/investing/2025/12/18/best-small-cap-ai-stocks-to-buy-now-2026/)**
-
-Stocks with smaller market capitalizations tend to be riskier than those with larger market caps, but carefully selected ones can have enormous growth potential.
-
-The Motley Fool • 5h ago
-
----
-
-**[These AI Stocks Could Surge in December as Momentum Builds](https://www.fool.com/investing/2025/12/19/these-ai-stocks-could-surge-in-december-as-momentu/)**
+**[These AI Stocks Could Surge in December as Momentum Builds](https://finance.yahoo.com/news/ai-stocks-could-surge-december-065000998.html)**
 
 Continued spending on artificial intelligence hardware should keep lifting these chip stocks.
 
-The Motley Fool • 42m ago
+Yahoo Finance • 45m ago
 
 ---
 
-**[Which AI Chip Stock Is the Better Buy for 2026: Nvidia or Alphabet?](https://www.nasdaq.com/articles/which-ai-chip-stock-better-buy-2026-nvidia-or-alphabet)**
+**[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval?srnd=indus)**
 
-Key PointsNvidia continues to grow rapidly, thanks to its leadership in artificial intelligence (AI) data center chips.
-
-Nasdaq • 9h ago
+Bloomberg.com • 35m ago
 
 ---
 
-**[Future of Marketing Briefing: Why 'just good enough' is generative AI's real threat to marketers](https://digiday.com/marketing/future-of-marketing-briefing-why-just-good-enough-is-generative-ais-real-threat-to-marketers/)**
+**[The surprising truth about AI’s impact on jobs](https://www.cnn.com/2025/12/18/business/ai-jobs-economy)**
 
-The real risk of generative AI for marketers isn’t bad creative. It’s the rise of the “just good” economy.
+Many workers fear artificial intelligence is coming for their jobs, an idea bolstered by warnings from AI leaders and anecdotes from a recent Federal Reserve report.
 
-Digiday • 2h ago
+CNN • 21h ago
 
 ---
 
@@ -199,6 +181,22 @@ Los Angeles Times • 20h ago
 
 ---
 
+**[NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)**
+
+NVIDIA will join the U.S. Department of Energy’s Genesis Mission as a private industry partner to keep U.S. AI both the leader and the standard in technology around the world.
+
+NVIDIA Blog • 12h ago
+
+---
+
+**[DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)**
+
+Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery.
+
+Google DeepMind • 12h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -213,7 +211,7 @@ AWS CEO Matt Garman pushes back on AI replacing junior developers and explains h
 
 **[AI will make formal verification go mainstream](https://news.ycombinator.com/item?id=46294574)**
 
-⬆️ 818 • 💬 423 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+⬆️ 819 • 💬 423 • 2d ago • [martin.kleppmann.com](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 
 ---
 
@@ -233,7 +231,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 369 • 💬 314 • 12h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 384 • 💬 325 • 13h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -241,7 +239,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 301 • 💬 316 • 12h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 316 • 💬 327 • 12h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -261,19 +259,19 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 ---
 
-**[AI helps ship faster but it produces 1.7× more bugs](https://news.ycombinator.com/item?id=46312159)**
-
-We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
-
-⬆️ 199 • 💬 159 • 18h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
-
----
-
 **[Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://news.ycombinator.com/item?id=46294144)**
 
 Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
 
-⬆️ 199 • 💬 137 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+⬆️ 209 • 💬 144 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
+
+---
+
+**[AI helps ship faster but it produces 1.7× more bugs](https://news.ycombinator.com/item?id=46312159)**
+
+We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
+
+⬆️ 200 • 💬 160 • 18h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -295,7 +293,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 136 • 💬 11 • ⏱️ 8:13 • 5h ago
+👁️ 3K • 👍 136 • 💬 11 • ⏱️ 8:13 • 6h ago
 
 ---
 
@@ -385,7 +383,7 @@ shorts #christmas #ai I bought viral Ai-Generated christmas ads to see what you 
 
 📺 WifiEli
 
-👁️ 771K • 👍 11K • 💬 43 • ⏱️ 0:35 • 9h ago
+👁️ 771K • 👍 11K • 💬 43 • ⏱️ 0:35 • 10h ago
 
 ---
 
@@ -413,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 364 • 8h ago
+⬇️ 51,262 • ❤️ 365 • 9h ago
 
 ---
 
@@ -425,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 322 • 14h ago
+⬇️ 0 • ❤️ 324 • 14h ago
 
 ---
 
@@ -437,7 +435,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,118 • ❤️ 285 • 1d ago
+⬇️ 3,118 • ❤️ 287 • 1d ago
 
 ---
 
@@ -449,7 +447,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 265 • 3d ago
+⬇️ 0 • ❤️ 267 • 3d ago
 
 ---
 
@@ -473,7 +471,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 224 • 2d ago
+⬇️ 0 • ❤️ 225 • 2d ago
 
 ---
 
@@ -485,7 +483,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,006 • ❤️ 220 • 5d ago
+⬇️ 2,006 • ❤️ 222 • 5d ago
 
 ---
 
@@ -497,7 +495,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 248 • ❤️ 218 • 2d ago
+⬇️ 248 • ❤️ 220 • 2d ago
 
 ---
 
@@ -679,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 141 • 3h ago
+⭐ 2.0k • 🔱 141 • 4h ago
 
 ---
 

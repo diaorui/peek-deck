@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T07:12:23.121006+00:00'
+updated: '2025-12-19T07:35:01.046167+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 07:12 UTC  
+**Last Updated:** December 19, 2025 at 07:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.9%  
-**7d:** -4.3%  
-**30d:** +4.9%  
-**90d:** -32.9%  
-**1y:** -14.1%  
+**24h:** +3.9%  
+**7d:** -5.1%  
+**30d:** +4.0%  
+**90d:** -33.5%  
+**1y:** -14.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.98B
+**Market Cap:** $356.00B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.4%
 
 **All-Time Low:** $0.43
-+675484.7%
++681030.0%
 
 ---
 
@@ -124,7 +124,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfNyslDWFhwOutFA2C3AwHBnfAHeD5GMpNbPMJnrSUHTt3xLxknsmX8&gaa_ts=6944f912&gaa_sig=HRCUrsFu3xm3u115-p2YaiWt5FhxY8aPeq45gVZa4_K7YUAq3eIzOjugIjWJQNWUuuJ1b3sk5AEHf1pc3XEwEQ%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqfuMp6oDdrLBlVMNdbmLY5OvzQsnW8prpQYIf3puLe5KFngFT2llW4d&gaa_ts=69450328&gaa_sig=DNiIVk9CUaKn3yVy1eWgUC7cCvYgNFKp6WA2HWuAAPXYo29sQvgIDspQZGRrvlAQDpU0OgbFY05XXfA1M4q8_w%3D%3D)**
 
 Barron's • 2d ago
 
@@ -168,6 +168,22 @@ Yahoo Finance • 18h ago
 
 ---
 
+**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
+
+Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
+
+Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
 
 Is Ethereum really on the path to a price of $62,000 next year?
@@ -176,17 +192,17 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+
+CCN.com • 2d ago
+
+---
+
 **[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
 
 v
 
 AMBCrypto • 9h ago
-
----
-
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
-
-CCN.com • 2d ago
 
 ---
 
@@ -202,20 +218,6 @@ Bloomberg.com • 18h ago
 
 ---
 
-**[Ethereum price loses $3,000 psychological support, raising capitulation risk](https://crypto.news/ethereum-price-loses-3k-support-capitulation-risk/)**
-
-Ethereum price breaks below the $3,000 psychological level and the point of control, increasing the risk of capitulation as bearish structure and downside liquidity.
-
-crypto.news • 16h ago
-
----
-
-**[Large cryptocurrencies climb on Ethereum, Solana increases](https://www.marketwatch.com/data-news/large-cryptocurrencies-climb-on-ethereum-solana-increases-042f94f1-f32f016f84c5?gaa_at=eafs&gaa_n=AWEtsqekzmAzGxOC7ObwQBCrByJa58SSE0ccR5ucxnaXg3iTQpXtozFSviJ-&gaa_ts=6944f912&gaa_sig=MNQVJtN2KPKaronpCYhbeY_l3RvaO78AFW53m57BuTyGWyY9QEB1k124OHk5tDDR8ooawnz4OMXvfypqeXnd1A%3D%3D)**
-
-MarketWatch • 16h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -226,7 +228,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 334 • 💬 47 • ⏱️ 16:54 • 15h ago
+👁️ 8K • 👍 334 • 💬 47 • ⏱️ 16:54 • 16h ago
 
 ---
 
@@ -236,7 +238,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 41 • 💬 3 • ⏱️ 14:11 • 15h ago
+👁️ 1K • 👍 41 • 💬 3 • ⏱️ 14:11 • 16h ago
 
 ---
 
@@ -286,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 5 • ⏱️ 9:10 • 7h ago
+👁️ 2K • 👍 134 • 💬 5 • ⏱️ 9:10 • 8h ago
 
 ---
 
@@ -306,7 +308,7 @@ BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 7K • 👍 319 • 💬 83 • ⏱️ 26:48 • 8h ago
+👁️ 7K • 👍 319 • 💬 83 • ⏱️ 26:48 • 9h ago
 
 ---
 

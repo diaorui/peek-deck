@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T07:12:23.124205+00:00'
+updated: '2025-12-19T07:35:01.049389+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 07:12 UTC  
+**Last Updated:** December 19, 2025 at 07:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-20h ago
+21h ago
 
 ---
 
@@ -70,14 +70,6 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 ---
 
-**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
-
-Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
-
-7h ago
-
----
-
 **[Digital Twin - Doubt](https://www.reddit.com/r/robotics/comments/1ppqbnl/digital_twin_doubt/)**
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
@@ -86,11 +78,19 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 ---
 
+**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
+
+Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
+
+7h ago
+
+---
+
 **[spring reducer](https://www.reddit.com/r/robotics/comments/1pptjq9/spring_reducer/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 15h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 16h ago
 
 ---
 
@@ -122,11 +122,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
 
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
-NASA (.gov) • 2d ago
+CNN • 1d ago
 
 ---
 
@@ -138,23 +138,9 @@ Sourcing Journal • 2d ago
 
 ---
 
-**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
-
-Tech historians may look back on 2025 as a kind of trough in consumer robotics.
-
-CNN • 1d ago
-
----
-
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
 The New York Times • 2d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
-
-The Seattle Times • 14h ago
 
 ---
 
@@ -174,11 +160,25 @@ The Robot Report • 2d ago
 
 ---
 
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+
+NASA (.gov) • 2d ago
+
+---
+
 **[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
 navalnews.com • 1d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
+
+The Seattle Times • 15h ago
 
 ---
 

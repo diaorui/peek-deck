@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T07:12:23.115058+00:00'
+updated: '2025-12-19T07:35:01.040252+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 07:12 UTC  
+**Last Updated:** December 19, 2025 at 07:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -2.0%  
-**30d:** +1.6%  
-**90d:** -23.4%  
-**1y:** -9.5%  
+**24h:** +0.8%  
+**7d:** -2.8%  
+**30d:** +0.8%  
+**90d:** -24.0%  
+**1y:** -10.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1738.00B
+**Market Cap:** $1754.02B
 Rank #1
 
-**Circulating Supply:** 19,964,053 BTC
+**Circulating Supply:** 19,964,081 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.9%
+-30.4%
 
 **All-Time Low:** $67.81
-+128302.9%
++129330.8%
 
 ---
 
@@ -79,25 +79,31 @@ Rank #1
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-8h ago
+9h ago
 
 ---
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-13h ago
+14h ago
 
 ---
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-4h ago
+5h ago
 
 ---
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
+
+2h ago
 
 ---
 
@@ -105,7 +111,7 @@ Rank #1
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-11h ago
+12h ago
 
 ---
 
@@ -121,23 +127,15 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 ---
 
-**[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
+**[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
 
-1h ago
+4h ago
 
 ---
 
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
 17h ago
-
----
-
-**[So all this time....RE: Japan Interest Rates](https://www.reddit.com/r/Bitcoin/comments/1pq0fve/so_all_this_timere_japan_interest_rates/)**
-
-People would borrow money from Japan at a dirt low interest rate, then change that money to USD, Euro or whatever and then invest it, and hope the currency exchange stays close enough.... So now they are raising the rates to .75, which is TERRIBLE in Japan, but pretty much everywhere else in the world that would be a god-send. (I think Switzerland is only lower, but who knows how that works) Why am I just learning this now this is like the infinite money hack lol. Hopefully it was already priced in to the BTC price....
-
-11h ago
 
 ---
 
@@ -157,31 +155,7 @@ Bloomberg.com • 7h ago
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 21h ago
-
----
-
-**[What Happens to Bitcoin When Japan Raises Interest Rates](https://www.bitcoinsensus.com/news/bitcoin/what-happens-to-bitcoin-when-japan-raises-interest-rates)**
-
-Bitcoin dips below $85K as Japan prepares its biggest rate hike in 30 years, shaking global liquidity.
-
-Bitcoinsensus • 4h ago
-
----
-
-**[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
-
-The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
-
-CoinDesk • 3h ago
-
----
-
-**[BTC Price News: Bitcoin, Ethereum, ADA Pop Higher as Japan Hikes Lift Asia Markets](https://www.coindesk.com/markets/2025/12/19/bitcoin-ether-pop-higher-as-japan-rate-hike-lifts-asian-risk-appetite)**
-
-Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
-
-CoinDesk • 2h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -201,9 +175,9 @@ CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqc8gnamrXigmAvsaNCB0xs52maqn4GckCaZR8l3sTnEamyii__6LeDT&gaa_ts=6944f910&gaa_sig=4D-Fh-4n6kPWGP-NGTcGla1Xi0RzgjXqV1aUnIcXad9t-uCDPOAQdzgvgkexUmXvaAWKV8QvXTG5rhiBJFq9Sw%3D%3D)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqdf6BouYt_BA1Er0hvk8_p28GRrBzxhWe0Q0dykMnPy8BEnGWTneN0w&gaa_ts=69450326&gaa_sig=eWTy1tkXD4vLVceDkuiyx3JczKxSMEJRBO792Bd-9fSlm3UT70UQD0mn9MZfhm0b5ba-5Z8pdSaYWWdyD4xisw%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -215,9 +189,29 @@ Bitcoin Magazine • 10h ago
 
 ---
 
-**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfEK2MQTUzy234siIgjOp0mn6wu-j2tQQEPz0WJhIkg-PH2X7XOykWg&gaa_ts=69450326&gaa_sig=ipjH3-za8dLWK_POzyIRenU3q_sCx_pJ6RnPXd8S-Cv_VfMCFA1FMr9Bou1MuzLhhOC1L5YT-CXBQlyr0_QZ2Q%3D%3D)**
 
-The Block • 16h ago
+The Wall Street Journal • 2d ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 1d ago
+
+---
+
+**[Bitcoin steady at $86,650; Trump says new Fed Chair will cut rates by 'a lot'](https://www.theblock.co/post/383114/bitcoin-steady-trump-new-fed-chair)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Holds 87K as CPI and BoJ Decisions Loom Large](https://www.investing.com/analysis/bitcoin-holds-87k-as-cpi-and-boj-decisions-loom-large-200672045)**
+
+Market Analysis by  covering: Bitcoin US Dollar. Read 's Market Analysis on Investing.com
+
+Investing.com • 18h ago
 
 ---
 
@@ -229,7 +223,7 @@ The Block • 16h ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 20 • 💬 8 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 21 • 💬 8 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -277,7 +271,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 9h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 10h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
