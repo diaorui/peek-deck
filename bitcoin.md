@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T08:58:59.274147+00:00'
+updated: '2025-12-19T09:33:32.824808+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 08:58 UTC  
+**Last Updated:** December 19, 2025 at 09:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,950.05
+### $88,056.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
+**24h:** +1.0%  
 **7d:** -2.4%  
 **30d:** +1.2%  
 **90d:** -23.7%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1757.04B
+**Market Cap:** $1756.38B
 Rank #1
 
 **Circulating Supply:** 19,964,081 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.2%
 
 **All-Time Low:** $67.81
-+129709.8%
++129641.9%
 
 ---
 
@@ -79,39 +79,31 @@ Rank #1
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-6h ago
+7h ago
 
 ---
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-10h ago
+11h ago
 
 ---
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-15h ago
+16h ago
 
 ---
 
 **[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
-3h ago
-
----
-
-**[RECORD WHALE ACCUMULATION 🐳](https://www.reddit.com/r/Bitcoin/comments/1ppzl08/record_whale_accumulation/)**
-
-Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
-
-13h ago
+4h ago
 
 ---
 
@@ -121,21 +113,31 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 ---
 
-**[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
+**[Don't panic!](https://www.reddit.com/r/Bitcoin/comments/1pqgdkv/dont_panic/)**
 
-1d ago
+Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
+
+40m ago
+
+---
+
+**[RECORD WHALE ACCUMULATION 🐳](https://www.reddit.com/r/Bitcoin/comments/1ppzl08/record_whale_accumulation/)**
+
+Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
+
+14h ago
 
 ---
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-18h ago
+19h ago
 
 ---
 
-**[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
+**[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-19h ago
+1d ago
 
 ---
 
@@ -147,7 +149,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -155,7 +157,7 @@ Bloomberg.com • 8h ago
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -167,33 +169,9 @@ CoinDesk • 15h ago
 
 ---
 
-**[What Happens to Bitcoin When Japan Raises Interest Rates](https://www.bitcoinsensus.com/news/bitcoin/what-happens-to-bitcoin-when-japan-raises-interest-rates)**
+**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Bitcoin dips below $85K as Japan prepares its biggest rate hike in 30 years, shaking global liquidity.
-
-Bitcoinsensus • 6h ago
-
----
-
-**[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
-
-The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://www.tradingview.com/news/cointelegraph:bbb041a0a094b:0-bitcoin-rebounds-on-japan-rate-hike-as-arthur-hayes-sees-dollar-at-200-yen/)**
-
-Bitcoin BINANCE:BTCUSD aimed for $88,000 on Friday after Japan’s central bank raised interest rates to 30-year highs.Key points:Arthur Hayes eyes BTC price, yen surgeData from Cointelegraph Markets and TradingView showed 2.5% BTC price gains versus the daily open. In line with expectations, the Ban…
-
-TradingView — Track All Markets • 1h ago
-
----
-
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqf5KOeuM-UXbtbgQJ1IlTJzzVzrbd5U25Gdvrru6r-qPC5HmyJBBwy-&gaa_ts=694512cc&gaa_sig=NXc3as7xEHT5iNNUTBZYpHV0cC2YM59WF66wbBqggRzFr-8phHUHcm6QKU03s8CvDJpyLhztAMByy3TSqwQa9w%3D%3D)**
-
-Barron's • 22h ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -205,17 +183,39 @@ Bitcoin Magazine • 12h ago
 
 ---
 
-**[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
 
-The Block • 18h ago
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+The Motley Fool • 1d ago
 
 ---
 
-**[How cheap power turned Libya into a Bitcoin mining hotspot](https://www.tradingview.com/news/cointelegraph:1b7f68192094b:0-how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot/)**
+**[Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026](https://www.coindesk.com/markets/2025/12/16/crypto-asset-manager-bitwise-says-bitcoin-will-break-its-four-year-cycle-in-2026)**
 
-Key takeawaysIn November 2025, Libyan prosecutors quietly handed down three-year prison sentences to nine people caught running Bitcoin miners inside a steel factory in the coastal city of Zliten.The court ordered their machines seized and the illegally generated profits returned to the state, the…
+Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.
 
-TradingView — Track All Markets • 4h ago
+CoinDesk • 2d ago
+
+---
+
+**[Bitwise’s 2026 Crypto Forecast: Bitcoin, Ethereum, And Solana Poised For New Record Highs](https://www.tradingview.com/news/newsbtc:7bbd20fb5094b:0-bitwise-s-2026-crypto-forecast-bitcoin-ethereum-and-solana-poised-for-new-record-highs/)**
+
+In its latest report, asset manager and exchange-traded fund (ETF) issuer, Bitwise, has shared an optimistic 2026 outlook for the crypto market, anticipating significant growth, while predicting new all-time highs for Bitcoin (BTC), Ethereum (ETH), and Solana (SOL).Megatrends In Crypto? Bitwise beg…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfdKse1SsTmMB7BJakW9H6aTE616mW74s6k8lD0nOu-Pu__RIqa3VAL&gaa_ts=69451f51&gaa_sig=ght0oMhngIRU4QnEFPTqiQnyNueAOmAkj3i20nSFZkckFFvLLfjaTKtx95pysU40herDHh6wpNcF7ugkj5Jy6g%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -275,7 +275,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 11h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 12h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -303,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 355 • 💬 13 • ⏱️ 9:21 • 16h ago
+👁️ 10K • 👍 355 • 💬 13 • ⏱️ 9:21 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 29K • 👍 2K • 💬 138 • ⏱️ 16:50 • 10h ago
+👁️ 29K • 👍 2K • 💬 138 • ⏱️ 16:50 • 11h ago
 
 ---
 
@@ -343,7 +343,7 @@ After a rocky December, many investors are asking the same question: Did Bitcoin
 
 📺 The Bitcoin Revolution
 
-👁️ 10K • 👍 161 • 💬 198 • ⏱️ 9:46 • 17h ago
+👁️ 10K • 👍 161 • 💬 198 • ⏱️ 9:46 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 7K • 👍 263 • 💬 118 • ⏱️ 14:32 • 15h ago
+👁️ 7K • 👍 263 • 💬 118 • ⏱️ 14:32 • 16h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T08:58:59.283371+00:00'
+updated: '2025-12-19T09:33:32.834112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 08:58 UTC  
+**Last Updated:** December 19, 2025 at 09:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ The arm explores different approach paths, grasps, and lifts to produce diverse,
 
 It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ It’s a kids’ robot, but it’s way more accurate than I expected. My child a
 
 Hi all 👋 I wanted to share an open-source project I’ve been working on: PyOcto-Map-Anything. The goal is to generate a navigable OctoMap from a single RGB image, without relying on dedicated sensors or ROS. It’s an experiment in combining modern AI-based perception with classical robotics mapping structures. Pipeline overview: • Monocular depth estimation via Depth Anything v3 • Depth → point cloud • OctoMap construction using PyOctoMap • End-to-end pure Python Why this might be useful: • Rapid prototyping of mapping ideas • Educational demos of occupancy mapping • Exploring hardware-light perception pipelines Limitations are very real (monocular depth uncertainty, scale ambiguity), but it’s been a fun way to explore what’s possible with recent vision models. Repo: 👉 https://github.com/Spinkoo/pyocto-map-anything Would love feedback from folks working on mapping, planning, or perception. Merry christmas everybody! https://preview.redd.it/x2eh0mdmaz7g1.jpg?width=612&format=pjpg&auto=webp&s=b2d7691cf1c271581afe1109604b2c52d10023f7 https://i.redd.it/7hxm8zonaz7g1.gif
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-19h ago
+20h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi all, is it realistic to build an autonomous drone using Python/Micropython on
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 17h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 18h ago
 
 ---
 
@@ -122,27 +122,33 @@ TechCrunch • 1d ago
 
 ---
 
-**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
-From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
 
-The Robot Report • 2d ago
-
----
-
-**[Thanks to antitrust officials, iRobot will be acquired by a Chinese robotics firm instead of Amazon](https://reason.com/2025/12/17/thanks-to-antitrust-officials-irobot-will-be-acquired-by-a-chinese-robotics-firm-instead-of-amazon/)**
-
-Regulators warned Amazon’s iRobot deal would hurt consumers. Instead, the Roomba maker collapsed and sold to China.
-
-Reason Magazine • 1d ago
+NASA (.gov) • 2d ago
 
 ---
 
-**[Robotics industry reacts to iRobot’s bankruptcy](https://www.therobotreport.com/robotics-industry-reacts-to-irobot-bankruptcy/)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-iRobot’s Chapter 11 bankruptcy has sparked intense reactions, with opinions on regulation, innovation, manufacturing, and global competition.
+The New York Times • 2d ago
 
-The Robot Report • 2d ago
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 1d ago
+
+---
+
+**[Welcome to home robotics limbo](https://www.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+
+Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+
+CNN • 1d ago
 
 ---
 
@@ -154,25 +160,11 @@ Sourcing Journal • 2d ago
 
 ---
 
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 2d ago
-
----
-
 **[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-Fortune • 23h ago
-
----
-
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
-
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 2d ago
+Fortune • 1d ago
 
 ---
 
@@ -180,13 +172,23 @@ NASA (.gov) • 2d ago
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
 
-navalnews.com • 1d ago
+navalnews.com • 2d ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
+**[A look at iRobot’s 35-year robotics journey](https://www.therobotreport.com/a-look-at-irobot-35-year-robotics-journey/)**
 
-The Seattle Times • 16h ago
+From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
+
+The Robot Report • 2d ago
+
+---
+
+**[The world’s smallest programmable, autonomous robots](https://penntoday.upenn.edu/news/penn-engineering-worlds-smallest-programmable-autonomous-robots)**
+
+Engineers at Penn Engineering have created robots barely visible to the naked eye that operate without tethers, magnetic fields or joystick-like controls.
+
+Penn Today • 1d ago
 
 ---
 
@@ -250,7 +252,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 21K • 👍 2K • 💬 182 • ⏱️ 13:43 • 17h ago
+👁️ 21K • 👍 2K • 💬 182 • ⏱️ 13:43 • 18h ago
 
 ---
 
