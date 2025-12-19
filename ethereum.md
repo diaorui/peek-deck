@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T04:06:19.158152+00:00'
+updated: '2025-12-19T04:46:05.023739+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 04:06 UTC  
+**Last Updated:** December 19, 2025 at 04:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,913.07
+### $2,927.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** -6.3%  
-**30d:** +2.7%  
-**90d:** -34.4%  
-**1y:** -15.9%  
+**24h:** +3.2%  
+**7d:** -6.2%  
+**30d:** +2.8%  
+**90d:** -34.3%  
+**1y:** -15.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $351.41B
+**Market Cap:** $352.21B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.1%
+-41.0%
 
 **All-Time Low:** $0.43
-+672419.9%
++673835.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-11h ago
+12h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -146,11 +146,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqc0JXWZMbW19I30Al54r-cQJHGCTXhOYJ77Gdv2qkdAjbZyCEz-NPo9&gaa_ts=6944dbf9&gaa_sig=t1Jk0cZZ5uURydv8NahdhYfrvt1m58XTns8ePo79BgnS22Ub7qwatNfU0SxQyUPoNurSSGWsaw85uFPP8C6uAA%3D%3D)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
-
-Decrypt • 15h ago
+Barron's • 2d ago
 
 ---
 
@@ -160,9 +158,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcDVjbBRbNs1pFv6MrxxWGzRLOBDbENaMo4IiCYqhYZ74d-EPxNt4C5&gaa_ts=6944d29c&gaa_sig=71YwznqG0rHRN2ug8Rd7aq-ohi6BLy3XLNJ2jiM14txEeTsbBcVfRYju_fHeJz9B_7bUeJcNG4R8TXmE8qD6yw%3D%3D)**
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://finance.yahoo.com/news/sofi-unveils-ethereum-stablecoin-trading-130103326.html)**
 
-Barron's • 2d ago
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+
+Yahoo Finance • 15h ago
 
 ---
 
@@ -214,7 +214,7 @@ FXStreet • 1d ago
 
 Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -228,7 +228,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 312 • 💬 52 • ⏱️ 16:54 • 12h ago
+👁️ 7K • 👍 312 • 💬 52 • ⏱️ 16:54 • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 39 • 💬 3 • ⏱️ 14:11 • 12h ago
+👁️ 1K • 👍 39 • 💬 3 • ⏱️ 14:11 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 6K • 👍 297 • 💬 76 • ⏱️ 26:48 • 5h ago
+👁️ 6K • 👍 297 • 💬 76 • ⏱️ 26:48 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 541 • 👍 22 • 💬 1 • ⏱️ 4:50 • 17h ago
+👁️ 541 • 👍 22 • 💬 1 • ⏱️ 4:50 • 18h ago
 
 ---
 

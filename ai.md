@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T04:06:19.143718+00:00'
+updated: '2025-12-19T04:46:05.009160+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 04:06 UTC  
+**Last Updated:** December 19, 2025 at 04:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
 
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 7h ago
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 8h ago
 
 ---
 
@@ -53,11 +53,11 @@ My question is about reliance on facial recognition software, and more generally
 
 ---
 
-**[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
+**[Researchers show a robot learning 1,000 tasks in 24 hours](https://www.reddit.com/r/artificial/comments/1pqb8tk/researchers_show_a_robot_learning_1000_tasks_in/)**
 
-This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
+Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-10h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 52m ago
 
 ---
 
@@ -65,7 +65,15 @@ This year, AI has improved a lot, but it still feels limited in some situations.
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-9h ago
+10h ago
+
+---
+
+**[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
+
+This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
+
+11h ago
 
 ---
 
@@ -73,15 +81,15 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
 
-4h ago
+5h ago
 
 ---
 
-**[Researchers show a robot learning 1,000 tasks in 24 hours](https://www.reddit.com/r/artificial/comments/1pqb8tk/researchers_show_a_robot_learning_1000_tasks_in/)**
+**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
 
-Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
+Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 12m ago
+10h ago
 
 ---
 
@@ -93,19 +101,11 @@ Internal documents and executive interviews reveal sweeping organizational shift
 
 ---
 
-**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
-
-Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
-
-9h ago
-
----
-
 **[Control Without Consequences – When dialogue has no stakes.](https://www.reddit.com/r/artificial/comments/1ppxnw6/control_without_consequences_when_dialogue_has_no/)**
 
 This week's article examines the claim that AI feels safer than human conversation and what that safety costs us. Regardless of reason, both emotional and intellectual use of AI reduces risk by preserving control. I explore what is lost when that control is intentionally removed and the conversation no longer involves risk. Control replaces reciprocity in human-AI interaction. The claim that Ai feels intimate is often a misnomer. AI doesn’t feel intimate because it understands us. It feels intimate because there are no social consequences or reciprocity. The piece explores why that feels comforting and why it quietly erodes our capacity for real interaction. In part II of the article, I build a customGPT model named Ava. It's designed to mimic asymmetrical human-like conversation. I remove the ChatGPT adaptive response and reintroduce asymmetric friction. The result isn’t intimacy but loss of control. The full article link is below for anyone interested. https://mydinnerwithmonday.substack.com/p/control-without-consequence
 
-9h ago
+10h ago
 
 ---
 
@@ -121,15 +121,9 @@ We are using OpenAI Realtime API (gpt-realtime-2025-08-28) to gather the game re
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcCK2SugF1-X-XrBSgqYD7hl8xdwO3OQZWZ3JzmW4rIhSpAyCyyQRZl&gaa_ts=6944d299&gaa_sig=8HYcyUzYmWQC4s0rjCyACBuEEm4W6V8ABVqcFZKOiP1OfeJbgyPI7h9K4h3-puJhWgA6ga4dRasj5cTMIRrfrQ%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdWPYc-5d1VMujxVcvoZPuJ_UmkyQtTAR7cLA8Ny6FYfSwQXydxG2a-&gaa_ts=6944dbf6&gaa_sig=hEmnflHQgLxOqPTGKLfFF4yF064upPrmcBn9D2tuL95VbivhQpODl46Y8NyDXKnlnGkaxaz28-pmN0E_Q0dZfg%3D%3D)**
 
-The Wall Street Journal • 17h ago
-
----
-
-**[Exclusive | Meta Is Developing a New AI Image and Video Model Code-Named ‘Mango’](https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7?gaa_at=eafs&gaa_n=AWEtsqd6kBaHSGgi9jW4ztPqC8eEGakyd1-fxmErpyeJU_qirdAXDZVcR-dW&gaa_ts=6944d299&gaa_sig=lWwy4ICLA4gzibLV71fDYmmVE77u9BG7dO_3MQ94f6NzXlurhQGCawDgXLiKY9j35TQvY3j-y8IuGX6MP-cydQ%3D%3D)**
-
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -137,43 +131,7 @@ The Wall Street Journal • 6h ago
 
 We’re expanding our content transparency tools to help you more easily identify AI-generated content. You can now check if a video was edited or created with Google AI d…
 
-blog.google • 10h ago
-
----
-
-**[Gemini 3 Flash is rolling out globally in Google Search](https://blog.google/products/search/google-ai-mode-update-gemini-3-flash/)**
-
-Gemini 3 Flash brings the incredible reasoning of our Gemini 3 model at the speed you expect of Search.
-
-blog.google • 1d ago
-
----
-
-**[Introducing Gemini 3 Flash: Intelligence and speed for enterprises](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-flash-for-enterprises/)**
-
-Gemini 3 Flash is optimized for speed without sacrificing quality, and is available now in Gemini Enterprise, Vertex AI, and Gemini CLI.
-
-Google Cloud • 1d ago
-
----
-
-**[Ditch textbooks and learn how to use a wrench to AI-proof your job?](https://www.economist.com/international/2025/12/18/ditch-textbooks-and-learn-how-to-use-a-wrench-to-ai-proof-your-job)**
-
-The Economist • 14h ago
-
----
-
-**[Alpha School: AI-powered private school expanding Bay Area footprint due to growing demand](https://abc7news.com/post/alpha-school-ai-powered-private-expanding-bay-area-footprint-due-growing-demand/18299187/)**
-
-Would you send your child to an AI-powered school? At Alpha School, there are no grades, no teachers and the students complete their focused learning in just two hours a day.
-
-ABC7 San Francisco • 54m ago
-
----
-
-**[Some predictions about AI in education in 2026](https://fordhaminstitute.org/national/commentary/some-predictions-about-ai-education-2026)**
-
-The Thomas B. Fordham Institute • 19h ago
+blog.google • 11h ago
 
 ---
 
@@ -185,11 +143,57 @@ CNN • 18h ago
 
 ---
 
+**[NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/)**
+
+NVIDIA will join the U.S. Department of Energy’s Genesis Mission as a private industry partner to keep U.S. AI both the leader and the standard in technology around the world.
+
+NVIDIA Blog • 9h ago
+
+---
+
+**[DOE Partner on Genesis: AI for Science](https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/)**
+
+Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery.
+
+Google DeepMind • 9h ago
+
+---
+
+**[US Energy Department signs AI collaboration deals with Big Tech for Genesis Mission](https://www.reuters.com/business/retail-consumer/us-energy-department-taps-big-tech-ai-powered-research-push-2025-12-18/)**
+
+Reuters • 5h ago
+
+---
+
+**[House passes bill to ease permits for building out AI infrastructure](https://www.cnbc.com/2025/12/18/house-passes-permit-reform-bill-ai.html)**
+
+The SPEED Act now heads to the Senate, which is in the early stages of its own permitting reform talks.
+
+CNBC • 8h ago
+
+---
+
 **[Hollywood was built on movie stardom. AI is changing the rules](https://www.latimes.com/entertainment-arts/movies/story/2025-12-18/can-movie-stardom-survive-age-of-ai-hollywood-tomorrow)**
 
 Synthetic performers are forcing Hollywood to rethink how fame works and who gets to claim it. Even as the technology races ahead, legal concerns are mounting.
 
 Los Angeles Times • 17h ago
+
+---
+
+**[YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions](https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/)**
+
+YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
+
+Deadline • 11h ago
+
+---
+
+**[YouTube bans two popular channels that created fake AI movie trailers](https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/)**
+
+Google loves AI content, except when it doesn’t.
+
+Ars Technica • 6h ago
 
 ---
 
@@ -201,7 +205,7 @@ Los Angeles Times • 17h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1037 • 💬 523 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1038 • 💬 524 • 1d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -227,7 +231,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 313 • 💬 273 • 9h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 322 • 💬 283 • 10h ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -243,7 +247,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 254 • 💬 258 • 9h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 267 • 💬 274 • 9h ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -251,7 +255,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 246 • 💬 176 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 247 • 💬 176 • 1d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -259,7 +263,15 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 195 • 💬 158 • 14h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 195 • 💬 158 • 15h ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+
+---
+
+**[Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://news.ycombinator.com/item?id=46294144)**
+
+Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
+
+⬆️ 167 • 💬 125 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -268,14 +280,6 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
 
 ⬆️ 163 • 💬 56 • 2d ago • [GitHub](https://github.com/mantisfury/ArkhamMirror)
-
----
-
-**[Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)](https://news.ycombinator.com/item?id=46294144)**
-
-Poor-man's solution to stopping AI companies from scraping your blog - vivienhenz24/fuzzy-canary
-
-⬆️ 160 • 💬 119 • 2d ago • [GitHub](https://github.com/vivienhenz24/fuzzy-canary)
 
 ---
 
@@ -309,7 +313,7 @@ Subscribe to NVP Link: www.newsvpro.com.
 
 📺 Mahmood OD | محمود عودة
 
-👁️ 8K • 👍 1K • 💬 89 • ⏱️ 13:36 • 12h ago
+👁️ 8K • 👍 1K • 💬 89 • ⏱️ 13:36 • 13h ago
 
 ---
 
@@ -359,7 +363,7 @@ Learn how to create free ai music videos! Tools I used ▫️Music Generator: ht
 
 📺 Tim Explains AI
 
-👁️ 3K • 💬 8 • ⏱️ 9:22 • 13h ago
+👁️ 3K • 💬 8 • ⏱️ 9:22 • 14h ago
 
 ---
 
@@ -395,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 322,827 • ❤️ 3,006 • 10d ago
+⬇️ 322,827 • ❤️ 3,007 • 10d ago
 
 ---
 
@@ -407,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 51,262 • ❤️ 364 • 5h ago
+⬇️ 51,262 • ❤️ 364 • 6h ago
 
 ---
 
@@ -419,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 319 • 11h ago
+⬇️ 0 • ❤️ 319 • 12h ago
 
 ---
 
@@ -479,7 +483,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 218 • 2d ago
+⬇️ 0 • ❤️ 219 • 2d ago
 
 ---
 
@@ -653,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 17.7k • 🔱 2.8k • 20h ago
+⭐ 17.8k • 🔱 2.8k • 20h ago
 
 ---
 
@@ -663,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.5k • 🔱 475 • 11h ago
+⭐ 4.5k • 🔱 480 • 11h ago
 
 ---
 
@@ -673,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 1.9k • 🔱 136 • 56m ago
+⭐ 2.0k • 🔱 139 • 1h ago
 
 ---
 
@@ -693,7 +697,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 323 • 12d ago
+⭐ 1.3k • 🔱 324 • 12d ago
 
 ---
 
@@ -703,7 +707,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.1k • 🔱 139 • 4h ago
+⭐ 1.2k • 🔱 139 • 5h ago
 
 ---
 
@@ -713,7 +717,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 908 • 🔱 24 • 11d ago
+⭐ 909 • 🔱 24 • 11d ago
 
 ---
 
@@ -733,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 803 • 🔱 132 • 2d ago
+⭐ 806 • 🔱 132 • 2d ago
 
 ---
 
@@ -743,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 784 • 🔱 115 • 1d ago
+⭐ 786 • 🔱 115 • 1d ago
 
 ---
 

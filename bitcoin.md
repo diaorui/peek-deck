@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T04:06:19.152170+00:00'
+updated: '2025-12-19T04:46:05.017729+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 04:06 UTC  
+**Last Updated:** December 19, 2025 at 04:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.8%  
-**7d:** -3.5%  
-**30d:** +0.1%  
+**7d:** -3.4%  
+**30d:** +0.2%  
 **90d:** -24.5%  
 **1y:** -10.8%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1734.53B
+**Market Cap:** $1735.75B
 Rank #1
 
 **Circulating Supply:** 19,963,990 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.1%
+-31.0%
 
 **All-Time Low:** $67.81
-+127985.8%
++128108.2%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-5h ago
+6h ago
 
 ---
 
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
-10h ago
+11h ago
 
 ---
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, the largest accumulation in 13 years. "Smart money" is aggressively positioning itself in anticipation of the drop. Everyone thinks this situation might be good, but what do you think? Is increasing institutional exposure in the crypto market good or bad? 👇 Let me know in the comments…
 
-8h ago
+9h ago
 
 ---
 
 **[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -115,9 +115,15 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 ---
 
+**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
+
+1h ago
+
+---
+
 **[Christmas Tree Candle](https://www.reddit.com/r/Bitcoin/comments/1ppr6w8/christmas_tree_candle/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +131,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Bart Simpson incoming?
 
-12h ago
+13h ago
 
 ---
 
@@ -133,27 +139,13 @@ Bart Simpson incoming?
 
 Anyone who’s been following my posts this week can see this shifting in real time as we approach an inflection point. Put simply: once lower prices start attracting more buyers than sellers (shaken coins dry up), fabricating these dips stops working. That day is getting close. For context: 90 days ago, volume from coins aged 1.5+ years was ~1,227% higher than it is now. Those older coins are going increasingly silent. They can’t hide this in on-chain data (the only real supply), but they’d rather you didn’t look… which is why the narrative is, “all the big players are just in the short-term paper markets now.” That’s false. You can’t pretend large holders (cold storage) are dumping when their coins aren’t moving. Volume is increasingly concentrated in the <1.5 year cohort (ETFs / recent buyers). ETFs themselves hold only ~6–7% of total supply, yet they account for most of the visible volume... algos pushing the same coins back and forth to make it look like capitulation. Low liquidity allows this kind of manipulation up to a point. Beyond that, it coils the spring. The reflexive move when it unwinds will be extreme. Long-term holders are barely moving. This isn’t “OGs dumping,” it’s short-term tourists getting shaken out while Wall Street plays games with paper BTC. Knowledge is power.
 
-7h ago
-
----
-
-**[i'll just leave it here guys](https://www.reddit.com/r/Bitcoin/comments/1ppluzk/ill_just_leave_it_here_guys/)**
-
-19h ago
+8h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
-
-A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
-
-CoinDesk • 10h ago
-
----
 
 **[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
@@ -163,11 +155,19 @@ Bloomberg.com • 4h ago
 
 ---
 
+**[Bitcoin Price Crashes to $84,000 – Is $70,000 Next?](https://bitcoinmagazine.com/markets/bitcoin-price-crashes-is-70000-next)**
+
+The bitcoin price experienced two more aggressive dumps today, now trading near $84,500.
+
+Bitcoin Magazine • 8h ago
+
+---
+
 **[Bitcoin (BTC) jumps above $87,000, yen slides as Bank of Japan hikes rates by 25 basis points](https://www.coindesk.com/markets/2025/12/19/btc-jumps-above-usd87-000-yen-slides-after-bank-of-japan-rate-hike)**
 
 The Bank of Japan raised its short-term policy rate by 25 basis points to 0.75%, the highest in nearly 30 years.
 
-CoinDesk • 12m ago
+CoinDesk • 52m ago
 
 ---
 
@@ -175,13 +175,13 @@ CoinDesk • 12m ago
 
 More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqeAeCfj6rfqLiiEZD_0v_azsPQCg71c_i4frUHwy33SbMRnrft-iuUk&gaa_ts=6944d29a&gaa_sig=0FVPg2bPZCvfpyJoUXTznQH0SNJryjWnawx1IQoQHTbgptesSavOXw2LijpW81N3F2nTiCi0A31TrbN6D6HHdg%3D%3D)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqe7EOo4xMljw3Rq9BdNNIq1btmyc9qm8ywUCkjAYnwKVyKEAu-YOEp8&gaa_ts=6944dbf7&gaa_sig=hNciMkJLUmXt9vhyQQApIbfBF7Z9D1yZ6g52YNwKMgmeQnqf0DfNq7H8NgMAT9Qp_ZCEMCscgeLSFKjPN0RTqw%3D%3D)**
 
-Barron's • 17h ago
+Barron's • 18h ago
 
 ---
 
@@ -189,11 +189,11 @@ Barron's • 17h ago
 
 Thinking about swapping Bitcoin for MARA Holdings after the recent sell-off? Here's what changed for miners and what matters most for investors now.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfzqTRugZSkQgjF4tnQazHREIgZ3AnqJfRpsBCrN1UW6qxg1Q2TROq9&gaa_ts=6944d29a&gaa_sig=Q9GmlN-6C0vBM3VFi8JSdDChmoSBcW58ozs_ijP3vT0PayiDRWc3MX2M0TLmtOPU-F3ZUc4_GiXFFDKf_-0bxA%3D%3D)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqdd8pFIp8uVty8ddk9uUi-XeMgEvnWrE6IFWF7uPFkgdAn1UQ5jwk41&gaa_ts=6944dbf7&gaa_sig=RSJbSnDxYRvLgaQJSLVgpgd5HLd7aZvTLuLRI1Vz9EKXNzEDVgmFPa1PUHeNyS9hKrRv6tYjzafnfAOL-7bTUg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -227,7 +227,7 @@ CryptoSlate • 1d ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 18 • 💬 3 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 20 • 💬 6 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -283,7 +283,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 6h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 7h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -311,7 +311,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 94 • ⏱️ 16:50 • 5h ago
+👁️ 20K • 👍 1K • 💬 94 • ⏱️ 16:50 • 6h ago
 
 ---
 
@@ -321,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 312 • 💬 12 • ⏱️ 9:21 • 11h ago
+👁️ 8K • 👍 312 • 💬 12 • ⏱️ 9:21 • 12h ago
 
 ---
 
