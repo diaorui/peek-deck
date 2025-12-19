@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T22:52:12.200179+00:00'
+updated: '2025-12-19T23:13:31.257418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 22:52 UTC  
+**Last Updated:** December 19, 2025 at 23:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.3%  
-**7d:** -2.4%  
-**30d:** +1.2%  
-**90d:** -23.7%  
-**1y:** -9.8%  
+**24h:** +3.5%  
+**7d:** -2.1%  
+**30d:** +1.5%  
+**90d:** -23.5%  
+**1y:** -9.6%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Do you think this will play out like before? Or do you think with big institutio
 
 **[Daily bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1pqkfvp/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Do you think this will play out like before? Or do you think with big institutio
 
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 2d ago
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-Futurism • 7h ago
+Futurism • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ MarketWatch • 9h ago
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -213,7 +213,7 @@ Investing.com • 9h ago
 
 Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -335,7 +335,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 3K • 💬 183 • ⏱️ 18:06 • 6h ago
+👁️ 36K • 👍 3K • 💬 183 • ⏱️ 18:06 • 7h ago
 
 ---
 
@@ -365,7 +365,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 237 • ⏱️ 9:16 • 22h ago
+👁️ 56K • 👍 2K • 💬 237 • ⏱️ 9:16 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 456 • 💬 64 • ⏱️ 5:29 • 5h ago
+👁️ 4K • 👍 456 • 💬 64 • ⏱️ 5:29 • 6h ago
 
 ---
 

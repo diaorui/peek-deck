@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T22:52:12.192502+00:00'
+updated: '2025-12-19T23:13:31.248732+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 22:52 UTC  
+**Last Updated:** December 19, 2025 at 23:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-13h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 18h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 19h ago
 
 ---
 
@@ -81,7 +81,7 @@ My question is about reliance on facial recognition software, and more generally
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ I'm sure this has already been shared, but this is now one my default google sea
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 10h ago
+Los Angeles Times • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ Los Angeles Times • 10h ago
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -149,7 +149,7 @@ It was edited by Brett Neely, John Ketchum and Courtney Dorning.
 
 Our executive producer is Sami Yenigun.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ NPR • 1h ago
 
 Investors at TechCrunch Disrupt explained their focus on artificial intelligence and offered advice to founders on how to stand out in a crowded AI field.
 
-TechCrunch • 52m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ TechCrunch • 52m ago
 
 The artificial intelligence (AI) trade has been a key focus for investors this year and is expected to continue into 2026. Appian CEO and founder Matt Calkins joins Market Domination Overtime to outline five predictions he has for the AI space in 2026. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 8h ago
 
 **[Wall Street Isn’t Asking Many Questions About AI’s Broader Reach](https://www.bloomberg.com/graphics/2025-wall-street-ai-questions-beyond-tech/)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -391,7 +391,7 @@ Google quietly set a new baseline with Gemini 3 Flash, a fast, low-cost reasonin
 
 📺 AI Revolution
 
-👁️ 13K • 👍 480 • 💬 23 • ⏱️ 14:15 • 22h ago
+👁️ 13K • 👍 480 • 💬 23 • ⏱️ 14:15 • 23h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 11h ago
+⭐ 18.0k • 🔱 2.8k • 12h ago
 
 ---
 
@@ -684,7 +684,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 147 • 7h ago
+⭐ 2.1k • 🔱 147 • 8h ago
 
 ---
 
@@ -714,7 +714,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.2k • 🔱 141 • 11h ago
+⭐ 1.2k • 🔱 141 • 12h ago
 
 ---
 
