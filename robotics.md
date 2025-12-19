@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T20:59:43.157503+00:00'
+updated: '2025-12-19T21:27:38.053635+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 20:59 UTC  
+**Last Updated:** December 19, 2025 at 21:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -92,7 +92,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our colleagues at ROSCon India, which is happening right now in Pune!      This week community member @_bernardo posted a teaser video for an incredible Manta-ray biomimetic robot that uses ROS 2!           Two new Depth Anything 3 tools came out this week. First PyOctomapAnything turns any image into a PyOctoMap 3D voxel scene There’s also a new a new foundation model for panoramic depth estimation. I’ve said it before, ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 35m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-15th-2025/51465) • 1h ago
 
 ---
 
@@ -100,7 +100,7 @@ ROS News for the Week of December 15th, 2025          🇮🇳 Shout out to our 
 
 I’m looking at getting a small 2n1 compact laptop. Something that isn’t too expensive. The one I was looking was the surface pro 11 12” Surface pro 11, 12inch Ram: 16gb Ssd: 512 (not- upgradable) Cpu: Snapdragon X Plus (8-Core) Price: $599 They have the 13” Ram:16gb SSD: 526gb (upgradable) CPU: Snapdragon X Elite (12-Core) Price: $999 ($1449 for 32gb ram, 1TB SSD, same CPU) I currently have a desktop for heavier task, but this mainly so i can take it on the go to local places, etc. This is for small robotics projects (building some robotic arms), but will probably take it a step further later
 
-59m ago
+1h ago
 
 ---
 
@@ -124,19 +124,9 @@ TechCrunch • 2d ago
 
 ---
 
-**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://sg.finance.yahoo.com/news/investors-warn-humanoid-robots-next-190655164.html)**
+**[Watch Amazon Turns to Robotics, Automation to Streamline Busy Holiday Season](https://www.bloomberg.com/news/videos/2025-12-19/amazon-turns-to-automation-to-streamline-holiday-season-video)**
 
-People will have to wait longer for their personal robot servant.
-
-Yahoo Finance Singapore • 1h ago
-
----
-
-**[Robots Tear Up Stage as Backup Dancers](https://sg.news.yahoo.com/robots-tear-stage-backup-dancers-182028549.html)**
-
-This is seriously impressive.
-
-Yahoo News Singapore • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -162,14 +152,6 @@ CNN • 2d ago
 
 ---
 
-**[UPS Leans Into $9 Billion Automation Strategy with Robotics Rollout](https://sourcingjournal.com/topics/logistics/ups-pickle-robot-120-million-investment-robotics-warehouse-automation-pick-and-place-rollout-logistics-1234794119/)**
-
-UPS is paying up $120 million to use 400 truck-unloading robots from Pickle Robot, adding to its broader $9 billion warehouse automation strategy.
-
-Sourcing Journal • 3d ago
-
----
-
 **[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
 
 Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
@@ -178,9 +160,25 @@ NASA (.gov) • 2d ago
 
 ---
 
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 2d ago
+
+---
+
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
+
+---
+
+**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://futurism.com/future-society/humanoid-robot-financial-bubble)**
+
+A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
+
+Futurism • 2h ago
 
 ---
 
@@ -262,7 +260,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 QCT
 
-👁️ 43K • 👍 555 • 💬 14 • ⏱️ 0:25 • 23h ago
+👁️ 43K • 👍 555 • 💬 14 • ⏱️ 0:25 • 1d ago
 
 ---
 

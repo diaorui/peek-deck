@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T20:59:43.143085+00:00'
+updated: '2025-12-19T21:27:38.044378+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 20:59 UTC  
+**Last Updated:** December 19, 2025 at 21:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** -2.3%  
-**30d:** +1.3%  
-**90d:** -23.6%  
-**1y:** -9.7%  
+**24h:** +2.5%  
+**7d:** -2.7%  
+**30d:** +0.9%  
+**90d:** -23.9%  
+**1y:** -10.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.42B
+**Market Cap:** $1755.44B
 Rank #1
 
-**Circulating Supply:** 19,964,328 BTC
+**Circulating Supply:** 19,964,337 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.2%
 
 **All-Time Low:** $67.81
-+129560.8%
++129615.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,6 +95,14 @@ Rank #1
 
 ---
 
+**[Do you think he’s dead or alive?](https://www.reddit.com/r/Bitcoin/comments/1pqur71/do_you_think_hes_dead_or_alive/)**
+
+Not a single dollar has moved in 16 years.
+
+1h ago
+
+---
+
 **[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
@@ -103,21 +111,21 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
+**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-5h ago
+3h ago
 
 ---
 
 **[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
 
-5h ago
+6h ago
 
 ---
 
-**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
+**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -133,73 +141,31 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
-
-11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Philly man's bitcoin mining scheme allegedly defrauded investors of $48.5 million, SEC says](https://www.phillyvoice.com/bitcoin-mining-scam-vbit-sec-danh-vo-philadelphia/)**
+
+Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
+
+PhillyVoice • 23h ago
+
+---
+
+**[Why some Bitcoin mining companies are ditching cryptocurrency for AI](https://www.npr.org/2025/12/19/nx-s1-5648785/why-some-bitcoin-mining-companies-are-ditching-cryptocurrency-for-ai)**
+
+Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
+
+NPR • 11h ago
+
+---
 
 **[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-Futurism • 5h ago
-
----
-
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
-
-Reuters • 4h ago
-
----
-
-**[Bitcoin’s Silent Exodus Hits Crypto as Long-Time Buyers Cash Out](https://finance.yahoo.com/news/bitcoin-silent-exodus-hits-crypto-204351695.html)**
-
-More than two months after the token hit a record high above $126,000, Bitcoin has fallen nearly 30% and is struggling to find support.  One reason: long-time holders haven’t stopped selling.  According to a report from K33 Research, the amount of Bitcoin that had remained unmoved for at least two years has declined by 1.6 million coins since early 2023, roughly $140 billion worth.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
-
-Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfYIADijJTe1P9ZdTUpAOOE6NKDdsY982bQA1q-sWaBJjioQevL9hUw&gaa_ts=6945b9ed&gaa_sig=EkxRmyxiw7QerDqhwiIi3DuH_f_aOzS9nVNTQrUYkc9tuPLL84UXm7iyby9O-8cKfM60eEocGmADvaUic6SwyA%3D%3D)**
-
-Barron's • 12h ago
-
----
-
-**[Bitcoin’s Post-CPI Whipsaw Liquidates Over $500M Again](https://decrypt.co/352978/bitcoins-post-cpi-whipsaw-liquidates-over-500m-again)**
-
-Liquidations surged amid volatility from derivatives profit-taking and a shifting macro backdrop from the Bank of Japan’s rate hike.
-
-Decrypt • 10h ago
-
----
-
-**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
-
-A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
-
-Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
-
-CoinDesk • 4h ago
+Futurism • 6h ago
 
 ---
 
@@ -211,11 +177,45 @@ Bloomberg.com • 10h ago
 
 ---
 
-**[Philly man's bitcoin mining scheme allegedly defrauded investors of $48.5 million, SEC says](https://www.phillyvoice.com/bitcoin-mining-scam-vbit-sec-danh-vo-philadelphia/)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
 
-Danh C. Vo, 37, is accused of scamming thousands of people who bought into his crypto company and then fleeing to Vietnam.
+Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
 
-PhillyVoice • 22h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfehoVAI3A8voFg-kwPz_KIK17lhN9T0UOfzJ27ND4PKAduwMCkBB1q&gaa_ts=6945c6b4&gaa_sig=gxgzLKXvEHWMTlRW8o0lkazAAFBDPTwxUcjU4CGdHVO-adXn0Xvbu5oF-vA52FVpXlD8MfZ4Mzyn0iSHHkz54g%3D%3D)**
+
+Barron's • 12h ago
+
+---
+
+**[Bitcoin’s Post-CPI Whipsaw Liquidates Over $500M Again](https://decrypt.co/352978/bitcoins-post-cpi-whipsaw-liquidates-over-500m-again)**
+
+Liquidations surged amid volatility from derivatives profit-taking and a shifting macro backdrop from the Bank of Japan’s rate hike.
+
+Decrypt • 11h ago
+
+---
+
+**[Bitcoin Price (BTC) analysis: At least one metric remains at a record high](https://www.coindesk.com/markets/2025/12/18/bitcoin-s-realized-cap-holds-at-record-high-over-usd1-trillion-casting-doubt-on-four-year-cycle)**
+
+A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 10h ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+
+Reuters • 5h ago
 
 ---
 
@@ -257,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 5h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 6h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -265,7 +265,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 1d ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 2d ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -281,7 +281,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 23h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 1d ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -307,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 118 • ⏱️ 44:14 • 5h ago
+👁️ 21K • 👍 1K • 💬 118 • ⏱️ 44:14 • 6h ago
 
 ---
 
@@ -317,7 +317,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 43K • 👍 2K • 💬 243 • ⏱️ 16:50 • 22h ago
+👁️ 43K • 👍 2K • 💬 243 • ⏱️ 16:50 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 9h ago
+👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 10h ago
 
 ---
 
@@ -387,7 +387,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 20K • 👍 2K • 💬 154 • ⏱️ 18:06 • 4h ago
+👁️ 20K • 👍 2K • 💬 154 • ⏱️ 18:06 • 5h ago
 
 ---
 

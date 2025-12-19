@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T20:59:43.153875+00:00'
+updated: '2025-12-19T21:27:38.050379+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 20:59 UTC  
+**Last Updated:** December 19, 2025 at 21:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.8%  
-**7d:** -3.8%  
-**30d:** +5.4%  
-**90d:** -32.6%  
-**1y:** -13.6%  
+**24h:** +5.9%  
+**7d:** -3.9%  
+**30d:** +5.3%  
+**90d:** -32.7%  
+**1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.48B
+**Market Cap:** $360.40B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.6%
 
 **All-Time Low:** $0.43
-+689804.1%
++689545.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-44m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 9h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 10h ago
 
 ---
 
@@ -164,17 +164,17 @@ Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe5f7PMu3-sbFCs4zBZEAAk84lEbnU0FwFOxCPTFKFYE3IS2BO5ULmU&gaa_ts=6945b9ef&gaa_sig=wGjX8gPVn7n57hBg9fMdooC9vIhwh5mFjdP7PE26DbO2T02uew1B2WU2vTJIn_aDmyTxSmcHXh2mAc-Don8WXA%3D%3D)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
-Barron's • 2d ago
+Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
+
+Decrypt • 1d ago
 
 ---
 
-**[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2lW5mVV9SE3IaCtYln22s0dUaYyMltwemuVzNZVh93RfMguEDNnh_&gaa_ts=6945c6b6&gaa_sig=UDFJuUYQJUmNNXnES7D5FRx8l6-zmpC3tf1wySU7LPsKiegrRBwKPfwoplabWcOFVCpRAMdy6AchNhEzsbcjGg%3D%3D)**
 
-Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
-
-BeInCrypto • 15h ago
+Barron's • 2d ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 9h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -200,11 +200,11 @@ ts2.tech • 2d ago
 
 ---
 
-**[Next Major Ethereum Upgrade Revealed by Developers](https://www.tradingview.com/news/u_today:8c70a861f094b:0-next-major-ethereum-upgrade-revealed-by-developers/)**
+**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
 
-Just a few weeks after the Fusaka update, Ethereum BINANCE:ETHUSD developers have revealed the name for the next major upgrade in 2026. According to insights shared by Wu Blockchain, developers in the ecosystem have voted to name this next update "Hegota." What Hegota upgrade's name representsNotab…
+v
 
-TradingView — Track All Markets • 6h ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -214,11 +214,11 @@ CCN.com • 3d ago
 
 ---
 
-**[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
+**[Curve Finance Strengthens Its Position as a Leading Ethereum DEX With 44% Fee Share](https://markets.businessinsider.com/news/currencies/curve-finance-strengthens-its-position-as-a-leading-ethereum-dex-with-44-fee-share-1035661157)**
 
-v
+Zug, Switzerland, December 19th, 2025, FinanceWireEthereum&rsquo;s market is one of the most competitive corners of DeFi, and...
 
-AMBCrypto • 22h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -232,7 +232,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 9h ago
+👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 7 • ⏱️ 9:41 • 7h ago
+👁️ 2K • 👍 140 • 💬 7 • ⏱️ 9:41 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 1K • 👍 134 • 💬 1 • ⏱️ 21:53 • 5h ago
+👁️ 1K • 👍 134 • 💬 1 • ⏱️ 21:53 • 6h ago
 
 ---
 
@@ -292,7 +292,7 @@ In this video, we uncover the massive implications of Ethereum's newly announced
 
 📺 CryptoStock Lab
 
-👁️ 353 • 👍 17 • ⏱️ 15:52 • 5h ago
+👁️ 353 • 👍 17 • ⏱️ 15:52 • 6h ago
 
 ---
 
@@ -322,7 +322,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 11K • 👍 1K • 💬 2 • ⏱️ 27:59 • 7h ago
+👁️ 11K • 👍 1K • 💬 2 • ⏱️ 27:59 • 8h ago
 
 ---
 
