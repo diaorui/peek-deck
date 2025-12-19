@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T23:33:11.927367+00:00'
+updated: '2025-12-19T23:45:37.825519+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 23:33 UTC  
+**Last Updated:** December 19, 2025 at 23:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -113,7 +113,7 @@ This year, AI has improved a lot, but it still feels limited in some situations.
 
 I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
 
-23h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 8h ago
 
 **[NY Gov. Kathy Hochul signs sweeping AI safety bill, RAISE Act](https://www.axios.com/2025/12/19/new-york-ai-safety-bill-hochul)**
 
-Axios • 35m ago
+Axios • 47m ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 35m ago
 
 Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-CBS News • 44m ago
+CBS News • 56m ago
 
 ---
 
@@ -287,43 +287,23 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ## YouTube Videos: "ai"
 
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 159K • 👍 9K • 💬 1K • ⏱️ 5:52 • 1d ago
-
----
-
-**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
-
-In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
-
-📺 Sinead Bovell
-
-👁️ 24K • 👍 2K • 💬 257 • ⏱️ 17:48 • 1d ago
-
----
-
-**[How WSJ’s AI vending machine experiment turned to &#39;chaos&#39;](https://www.youtube.com/watch?v=UgrOjaFyzPc)**
-
-Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Squawk on the Street' to share more details ...
-
-📺 CNBC Television
-
-👁️ 3K • 👍 105 • 💬 48 • ⏱️ 3:29 • 7h ago
-
----
-
 **[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
 
 Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
 
 📺 Future of Life Institute
 
-👁️ 17K • 👍 668 • 💬 303 • ⏱️ 16:15 • 1d ago
+👁️ 18K • 👍 695 • 💬 307 • ⏱️ 16:15 • 1d ago
+
+---
+
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+
+Are we watching an AI revolution, or a slow-motion economic disaster?
+
+📺 Robert Reich
+
+👁️ 172K • 👍 10K • 💬 1K • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -333,27 +313,27 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 609K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+👁️ 623K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
 
 ---
 
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
 
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
 
-📺 gptars
+📺 Sinead Bovell
 
-👁️ 10K • 👍 572 • 💬 25 • ⏱️ 1:01 • 7h ago
+👁️ 25K • 👍 2K • 💬 265 • ⏱️ 17:48 • 1d ago
 
 ---
 
-**[Michael Burry: The AI Bubble is Fraudulent.](https://www.youtube.com/watch?v=oUDs7Oe8jyI)**
+**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
 
-INVESTINGPRO - 55% Off + An EXTRA 15% Off WITH MY CODE ☑️ Use code NEWMONEY at the ...
+Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
 
-📺 New Money
+📺 Bigfoot Feed
 
-👁️ 25K • 👍 1K • 💬 187 • ⏱️ 14:28 • 10h ago
+👁️ 2K • 👍 73 • 💬 8 • ⏱️ 1:00 • 1h ago
 
 ---
 
@@ -363,7 +343,7 @@ Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=
 
 📺 WorldofAI
 
-👁️ 49K • 👍 1K • 💬 49 • ⏱️ 11:44 • 2d ago
+👁️ 50K • 👍 1K • 💬 45 • ⏱️ 11:44 • 2d ago
 
 ---
 
@@ -373,17 +353,37 @@ after 3 months of testing and research, I finally cracked it, and now I can gene
 
 📺 Hasan Aboul Hasan
 
-👁️ 15K • 👍 932 • 💬 69 • ⏱️ 4:43 • 1d ago
+👁️ 17K • 👍 995 • 💬 73 • ⏱️ 4:43 • 1d ago
 
 ---
 
-**[Google’s New Gemini 3 Flash, OpenAI Apps, Grok Agents, Wan 2.6 and More Intense AI News](https://www.youtube.com/watch?v=BsVPKoohoEQ)**
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
 
-Google quietly set a new baseline with Gemini 3 Flash, a fast, low-cost reasoning model already running across real production ...
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
 
-📺 AI Revolution
+📺 gptars
 
-👁️ 13K • 👍 480 • 💬 23 • ⏱️ 14:15 • 23h ago
+👁️ 16K • 👍 683 • 💬 30 • ⏱️ 1:01 • 7h ago
+
+---
+
+**[Cluster Agents Are Great... 90% of AI Coding Workflows Are Done Now](https://www.youtube.com/watch?v=V-xBaFveTvA)**
+
+AI Coding workflows are quietly changing with Claude Code's new async background agents. This video breaks down how they ...
+
+📺 AI LABS
+
+👁️ 6K • 👍 195 • 💬 14 • ⏱️ 7:15 • 10h ago
+
+---
+
+**[Sam Altman: How OpenAI Wins, AI Buildout Logic, IPO in 2026?](https://www.youtube.com/watch?v=2P27Ef-LLuQ)**
+
+Sam Altman is the CEO of OpenAI. Altman joins Big Technology Podcast to discuss OpenAI's plan to win in a tightening AI race.
+
+📺 Alex Kantrowitz
+
+👁️ 60K • 👍 2K • 💬 485 • ⏱️ 58:23 • 1d ago
 
 ---
 

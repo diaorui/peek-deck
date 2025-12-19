@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T23:33:11.942583+00:00'
+updated: '2025-12-19T23:45:37.840252+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 23:33 UTC  
+**Last Updated:** December 19, 2025 at 23:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.5%  
-**7d:** -4.0%  
-**30d:** +5.2%  
+**24h:** +5.3%  
+**7d:** -4.1%  
+**30d:** +5.1%  
 **90d:** -32.8%  
-**1y:** -13.8%  
+**1y:** -14.0%  
 
 ---
 
@@ -110,7 +110,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 8h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -230,47 +230,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 12h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XDMJuuBKCtA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 148 • 💬 11 • ⏱️ 9:41 • 10h ago
-
----
-
-**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
-
-Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
-
-📺 Sin City Crypto
-
-👁️ 487 • 👍 52 • ⏱️ 58:50 • 3h ago
-
----
-
-**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 429 • 💬 72 • ⏱️ 16:54 • 1d ago
-
----
-
-**[BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hFt8o9AUfQM)**
-
-BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 180 • 💬 71 • ⏱️ 22:39 • 4h ago
+👁️ 14K • 👍 472 • 💬 66 • ⏱️ 8:37 • 12h ago
 
 ---
 
@@ -280,7 +240,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 162 • 💬 4 • ⏱️ 21:53 • 8h ago
+👁️ 3K • 👍 183 • 💬 44 • ⏱️ 21:53 • 8h ago
+
+---
+
+**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
+
+Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
+
+📺 Sin City Crypto
+
+👁️ 589 • 👍 58 • ⏱️ 58:50 • 4h ago
+
+---
+
+**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 441 • 💬 50 • ⏱️ 16:54 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XDMJuuBKCtA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 153 • 💬 11 • ⏱️ 9:41 • 10h ago
+
+---
+
+**[BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hFt8o9AUfQM)**
+
+BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 222 • 💬 135 • ⏱️ 22:39 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video, we uncover the massive implications of Ethereum's newly announced
 
 📺 CryptoStock Lab
 
-👁️ 528 • 👍 20 • ⏱️ 15:52 • 8h ago
+👁️ 648 • 👍 21 • 💬 21 • ⏱️ 15:52 • 8h ago
 
 ---
 
@@ -300,27 +300,27 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 9K • 👍 390 • 💬 81 • ⏱️ 11:01 • 2d ago
+👁️ 9K • 👍 392 • 💬 81 • ⏱️ 11:01 • 2d ago
 
 ---
 
-**[WILL ETH DUMP LOWER?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=GqNy42fzzqc)**
+**[XRP ETFs CRUSHING Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=9vySY0ML4Ik)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
 
-📺 Cilinix Crypto
+📺 Paul Barron Podcast
 
-👁️ 327 • 👍 13 • 💬 2 • ⏱️ 4:42 • 13h ago
+👁️ 15K • 👍 1K • 💬 209 • ⏱️ 35:52 • 9h ago
 
 ---
 
-**[Tom Lee Warning: “Here&#39;s Why We’re Set Up for a Strong Crypto Rally Into Year-End” [Prediction]](https://www.youtube.com/watch?v=MGJzxRGNalw)**
+**[Ethereum Sees Small Recovery Before A MUCH Bigger Drop](https://www.youtube.com/watch?v=NWg1n9p9wZc)**
 
-Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bitcoin really break its own four year cycle? And if it ...
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
 
-📺 Crypto Nutshell
+📺 Trade Confident
 
-👁️ 15K • 👍 408 • 💬 33 • ⏱️ 20:34 • 2d ago
+👁️ 162 • 👍 14 • 💬 38 • ⏱️ 5:53 • 2h ago
 
 ---
 

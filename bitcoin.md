@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T23:33:11.936117+00:00'
+updated: '2025-12-19T23:45:37.834164+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 23:33 UTC  
+**Last Updated:** December 19, 2025 at 23:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** -2.1%  
-**30d:** +1.5%  
-**90d:** -23.5%  
-**1y:** -9.6%  
+**24h:** +3.4%  
+**7d:** -2.3%  
+**30d:** +1.3%  
+**90d:** -23.6%  
+**1y:** -9.7%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[unbothered. moisturized. happy. in my lane. focused. flourishing.](https://www.reddit.com/r/Bitcoin/comments/1pqsmtl/unbothered_moisturized_happy_in_my_lane_focused/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Futurism • 8h ago
 
 Senator Lummis, one of crypto’s most powerful allies in Washington, has been instrumental in fights to pass industry-favored legislation.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -283,7 +283,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Open source primitives for agent context management - Michaelliv/context-engine
 
-⬆️ 1 • 💬 0 • 38m ago • [GitHub](https://github.com/Michaelliv/context-engine)
+⬆️ 1 • 💬 0 • 50m ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 
@@ -303,27 +303,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 150 • ⏱️ 44:14 • 8h ago
+👁️ 30K • 👍 1K • 💬 234 • ⏱️ 44:14 • 8h ago
 
 ---
 
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
+**[Bitcoin Ready For a Move Up? Key Levels To Watch!](https://www.youtube.com/watch?v=r3xdW0Hw6iE)**
 
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
+Premium Discord   https://Frankiecandlestrading.com Try my FREE Indicator   ...
 
-📺 Swan Bitcoin
+📺 Frankie Candles 
 
-👁️ 45K • 👍 2K • 💬 242 • ⏱️ 16:50 • 1d ago
+👁️ 2K • 👍 222 • 1h ago
 
 ---
 
-**[&quot;$5,000,000,000 BTC in 1 Week?! OG Bitcoin Whales Are Going CRAZY&quot; - PlanB &amp; Michael Saylor](https://www.youtube.com/watch?v=vViqZ3gj8O4)**
+**[BITCOIN MANIPULATION](https://www.youtube.com/watch?v=i1TR-gUQ2LQ)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Savvy Finance
+📺 My Financial Friend
 
-👁️ 12K • 👍 399 • 💬 16 • ⏱️ 9:21 • 1d ago
+👁️ 6K • 👍 329 • 💬 221 • ⏱️ 9:31 • 7h ago
 
 ---
 
@@ -333,37 +333,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 3K • 💬 183 • ⏱️ 18:06 • 7h ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 12h ago
-
----
-
-**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
-
-Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
-
-📺 Simply Bitcoin
-
-👁️ 44K • 👍 3K • 💬 229 • ⏱️ 19:03 • 1d ago
-
----
-
-**[They Are The Ones Responsible for the Crypto Dump](https://www.youtube.com/watch?v=Vok-QQnBl3Q)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 2K • 💬 237 • ⏱️ 9:16 • 23h ago
+👁️ 45K • 👍 3K • 💬 204 • ⏱️ 18:06 • 7h ago
 
 ---
 
@@ -373,27 +343,57 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 456 • 💬 64 • ⏱️ 5:29 • 6h ago
+👁️ 6K • 👍 561 • 💬 120 • ⏱️ 5:29 • 6h ago
 
 ---
 
-**[Bitcoin&#39;s Biggest Threat Isn&#39;t The Fed](https://www.youtube.com/watch?v=POJ00W6MzKI)**
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
 
-Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
 
-📺 Tim Talks Finance
+📺 Thomas Kralow
 
-👁️ 7K • 👍 283 • 💬 89 • ⏱️ 14:32 • 1d ago
+👁️ 14K • 👍 472 • 💬 66 • ⏱️ 8:37 • 12h ago
 
 ---
 
-**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
+**[&quot;$5,000,000,000 BTC in 1 Week?! OG Bitcoin Whales Are Going CRAZY&quot; - PlanB &amp; Michael Saylor](https://www.youtube.com/watch?v=vViqZ3gj8O4)**
 
-CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Craigslist Hunter
+📺 Savvy Finance
 
-👁️ 28K • 👍 1K • 💬 199 • ⏱️ 2:15 • 23h ago
+👁️ 13K • 👍 402 • 💬 16 • ⏱️ 9:21 • 1d ago
+
+---
+
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
+
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
+
+📺 Swan Bitcoin
+
+👁️ 46K • 👍 2K • 💬 193 • ⏱️ 16:50 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Extreme Mispricing in 2026 [Macro &amp; Onchain]](https://www.youtube.com/watch?v=0Mc23kmy_hA)**
+
+Macro and onchain data says Bitcoin looks undervalued heading into 2026. BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 766 • 👍 79 • 💬 31 • ⏱️ 9:09 • 45m ago
+
+---
+
+**[Michael Saylor Breaks Silence on Bitcoin Crash — Is the BTC Dump a Setup?](https://www.youtube.com/watch?v=GD5kfdt9CzI)**
+
+Bitcoin #BTC #CryptoCrash BITCOIN MARKET ALERT — DON'T LOOK AWAY. Michael Saylor returns with a critical ...
+
+📺 REYSUB SPEARFISHING
+
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T23:33:11.945971+00:00'
+updated: '2025-12-19T23:45:37.843490+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 23:33 UTC  
+**Last Updated:** December 19, 2025 at 23:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-52m ago
+1h ago
 
 ---
 
@@ -74,7 +74,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-5h ago
+6h ago
 
 ---
 
@@ -150,7 +150,7 @@ CNN • 2d ago
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
-KSBY News • 16h ago
+KSBY News • 17h ago
 
 ---
 
@@ -204,7 +204,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 30K • 👍 2K • 💬 223 • ⏱️ 13:43 • 1d ago
+👁️ 33K • 👍 2K • 💬 237 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 9K • 👍 23 • ⏱️ 0:09 • 12h ago
+👁️ 9K • 👍 26 • ⏱️ 0:09 • 12h ago
 
 ---
 
@@ -238,23 +238,13 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 26K • 👍 3K • 💬 57 • ⏱️ 1:38 • 3d ago
-
----
-
 **[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
 
 Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
 
 📺 vt.physics
 
-👁️ 447K • 👍 15K • 💬 485 • ⏱️ 0:34 • 5d ago
+👁️ 452K • 👍 15K • 💬 487 • ⏱️ 0:34 • 5d ago
 
 ---
 
@@ -262,7 +252,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 QCT
 
-👁️ 46K • 👍 666 • 💬 15 • ⏱️ 0:25 • 1d ago
+👁️ 53K • 👍 735 • 💬 15 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
+
+Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
+
+📺 RICHLEV
+
+👁️ 201K • 👍 5K • 💬 1K • ⏱️ 17:05 • 4d ago
 
 ---
 
@@ -272,7 +272,7 @@ PERFECT SELF-CONCEPT COURSE https://ritakaminski.thrivecart.com/the-perfect-self
 
 📺 Rita Kaminski
 
-👁️ 7K • 👍 650 • 💬 94 • ⏱️ 16:17 • 1d ago
+👁️ 7K • 👍 661 • 💬 95 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 PRO ROBOTS
 
-👁️ 309K • 👍 6K • 💬 532 • ⏱️ 26:54 • 5d ago
+👁️ 312K • 👍 6K • 💬 534 • ⏱️ 26:54 • 5d ago
 
 ---
 
