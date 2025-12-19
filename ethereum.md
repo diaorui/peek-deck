@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T21:54:19.883580+00:00'
+updated: '2025-12-19T22:19:41.113838+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 21:54 UTC  
+**Last Updated:** December 19, 2025 at 22:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.7%  
-**7d:** -4.1%  
-**30d:** +5.1%  
-**90d:** -32.8%  
-**1y:** -14.0%  
+**24h:** +5.9%  
+**7d:** -4.0%  
+**30d:** +5.2%  
+**90d:** -32.7%  
+**1y:** -13.8%  
 
 ---
 
@@ -62,7 +62,7 @@ No max supply
 -39.6%
 
 **All-Time Low:** $0.43
-+689545.5%
++689427.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I live in Indonesia. Trust funds basically don’t exist here, and investing in 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 11h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 10h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 11h ago
 
 ---
 
@@ -156,11 +156,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdy0wRlVdaB35NBZ48TNi1cIaNEVGQTt8ZYUIp1i0YEvP3_Fyc9PQ7U&gaa_ts=6945d2ea&gaa_sig=PbU3Gzugrld5KlcDm-C0EX1hTopyb58EK8v7elWqI25YOd1D8wfgsmQIO79FvfB3UAfK3sjjiJ0Aq1YodJDXzg%3D%3D)**
 
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
-
-Yahoo Finance • 19h ago
+Barron's • 2d ago
 
 ---
 
@@ -172,9 +170,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2lW5mVV9SE3IaCtYln22s0dUaYyMltwemuVzNZVh93RfMguEDNnh_&gaa_ts=6945c6b6&gaa_sig=UDFJuUYQJUmNNXnES7D5FRx8l6-zmpC3tf1wySU7LPsKiegrRBwKPfwoplabWcOFVCpRAMdy6AchNhEzsbcjGg%3D%3D)**
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
 
-Barron's • 3d ago
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
+
+Yahoo Finance • 19h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 10h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ ts2.tech • 2d ago
 
 v
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ CCN.com • 3d ago
 
 Zug, Switzerland, December 19th, 2025, FinanceWireEthereum&rsquo;s market is one of the most competitive corners of DeFi, and...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -232,7 +232,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 10h ago
+👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 11 • ⏱️ 9:41 • 8h ago
+👁️ 2K • 👍 148 • 💬 11 • ⏱️ 9:41 • 9h ago
 
 ---
 
@@ -282,7 +282,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 162 • 💬 4 • ⏱️ 21:53 • 6h ago
+👁️ 2K • 👍 162 • 💬 4 • ⏱️ 21:53 • 7h ago
 
 ---
 
@@ -292,7 +292,7 @@ In this video, we uncover the massive implications of Ethereum's newly announced
 
 📺 CryptoStock Lab
 
-👁️ 528 • 👍 20 • ⏱️ 15:52 • 6h ago
+👁️ 528 • 👍 20 • ⏱️ 15:52 • 7h ago
 
 ---
 
@@ -312,7 +312,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 327 • 👍 13 • 💬 2 • ⏱️ 4:42 • 11h ago
+👁️ 327 • 👍 13 • 💬 2 • ⏱️ 4:42 • 12h ago
 
 ---
 
