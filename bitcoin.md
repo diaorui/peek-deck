@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T11:48:04.645024+00:00'
+updated: '2025-12-19T11:59:07.113821+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 11:48 UTC  
+**Last Updated:** December 19, 2025 at 11:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -2.1%  
+**24h:** +1.1%  
+**7d:** -2.2%  
 **30d:** +1.5%  
-**90d:** -23.4%  
-**1y:** -9.5%  
+**90d:** -23.5%  
+**1y:** -9.6%  
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
 
-2h ago
+3h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 The Bank of Japan raised its policy rate to 0.75%. Formally, this is negative for risk assets - yet the market moved higher. The reason is simple: the hike was fully priced in, with markets assigning a ~98% probability to this outcome. What really mattered wasn’t the decision itself, but the tone. The BOJ Governor signaled that further tightening will continue - but very slowly and cautiously. This eased fears of an abrupt unwinding of the yen carry trade, where cheap yen funding is deployed into higher-yielding assets, including crypto. Earlier in December, many expected a BOJ hike to push $BTCbelow $70k due to liquidity tightening. Instead, the market did the opposite - the negative was absorbed in advance. The takeaway remains unchanged: liquidity and expectations matter far more than the headline decisions of central banks.
 
-42m ago
+53m ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1d ago
 
 Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -197,7 +197,7 @@ CCN.com • 2h ago
 
 Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -205,13 +205,13 @@ Yahoo Finance • 45m ago
 
 A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
 **[SEC charges bitcoin mining firm VBit CEO involving $48.5 million misappropriated in bogus investment deals](https://www.theblock.co/post/383176/sec-charges-bitcoin-mining-firm-vbit-ceo-involving-48-5-million-misappropriated-in-bogus-investment-deals)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -247,7 +247,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 19h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 20h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -347,7 +347,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 11K • 👍 810 • 💬 159 • ⏱️ 15:27 • 17h ago
+👁️ 11K • 👍 810 • 💬 159 • ⏱️ 15:27 • 18h ago
 
 ---
 

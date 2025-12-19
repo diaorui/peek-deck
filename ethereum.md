@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T11:48:04.651187+00:00'
+updated: '2025-12-19T11:59:07.119888+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 11:48 UTC  
+**Last Updated:** December 19, 2025 at 11:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -4.7%  
-**30d:** +4.5%  
-**90d:** -33.2%  
-**1y:** -14.4%  
+**24h:** +3.2%  
+**7d:** -4.8%  
+**30d:** +4.3%  
+**90d:** -33.3%  
+**1y:** -14.5%  
 
 ---
 
@@ -88,7 +88,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 1h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 33m ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 44m ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 19h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 48m ago
+The Motley Fool • 59m ago
 
 ---
 
@@ -272,7 +272,7 @@ These news have direct impact on bitcoin, ethereum and the rest of crypto. Here 
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 48 • ⏱️ 7:49 • 2d ago
+👁️ 23K • 👍 3K • 💬 48 • ⏱️ 7:49 • 3d ago
 
 ---
 
