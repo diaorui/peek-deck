@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T23:45:37.840252+00:00'
+updated: '2025-12-19T23:56:13.986671+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 23:45 UTC  
+**Last Updated:** December 19, 2025 at 23:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -46,7 +46,7 @@ Live Ethereum monitoring dashboard
 **7d:** -4.1%  
 **30d:** +5.1%  
 **90d:** -32.8%  
-**1y:** -14.0%  
+**1y:** -13.9%  
 
 ---
 
@@ -140,7 +140,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 **[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
 
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 1d ago
+🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 2d ago
 
 ---
 

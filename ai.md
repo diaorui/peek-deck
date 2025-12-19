@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T23:45:37.825519+00:00'
+updated: '2025-12-19T23:56:13.972326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 23:45 UTC  
+**Last Updated:** December 19, 2025 at 23:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 19h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 20h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 8h ago
 
 **[NY Gov. Kathy Hochul signs sweeping AI safety bill, RAISE Act](https://www.axios.com/2025/12/19/new-york-ai-safety-bill-hochul)**
 
-Axios • 47m ago
+Axios • 58m ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 47m ago
 
 Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-CBS News • 56m ago
+CBS News • 1h ago
 
 ---
 

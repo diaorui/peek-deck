@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T23:45:37.834164+00:00'
+updated: '2025-12-19T23:56:13.980726+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 23:45 UTC  
+**Last Updated:** December 19, 2025 at 23:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,282.57
+### $88,193.06
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[What's the biggest fumble you've ever made? Any regrets or lessons learned?](https://www.reddit.com/r/Bitcoin/comments/1pqrh52/whats_the_biggest_fumble_youve_ever_made_any/)**
 
-5h ago
+6h ago
 
 ---
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -157,7 +157,7 @@ Investor's Business Daily • 6d ago
 
 **[MSCI delisting could trigger crypto sell-off worth billions](https://www.thestreet.com/crypto/markets/msci-delisting-of-crypto-stocks-could-trigger-15b-sell-off)**
 
-thestreet.com • 5h ago
+thestreet.com • 6h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqck3YzJdJkP2EWSNeYcp2BmAMHUdHaibwiSCO-yjYvKLaNW8IbR6EDK&gaa_ts=6945e3bc&gaa_sig=xtDGHB0JKvMc_ik5RANL46vlHPBif2P9EXunNtGL7UwR0uN3Zz1W13G9n3aae8azvLz3dSx3dI29rs5wYUB3CQ%3D%3D)**
 
-Barron's • 14h ago
+Barron's • 15h ago
 
 ---
 
@@ -283,7 +283,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Open source primitives for agent context management - Michaelliv/context-engine
 
-⬆️ 1 • 💬 0 • 50m ago • [GitHub](https://github.com/Michaelliv/context-engine)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 
@@ -383,7 +383,7 @@ Macro and onchain data says Bitcoin looks undervalued heading into 2026. BITUNIX
 
 📺 Lark Davis
 
-👁️ 766 • 👍 79 • 💬 31 • ⏱️ 9:09 • 45m ago
+👁️ 766 • 👍 79 • 💬 31 • ⏱️ 9:09 • 56m ago
 
 ---
 
