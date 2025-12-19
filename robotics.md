@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T03:13:30.371148+00:00'
+updated: '2025-12-19T04:06:19.161350+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 03:13 UTC  
+**Last Updated:** December 19, 2025 at 04:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
 
-12h ago
+13h ago
+
+---
+
+**[Selection Motor](https://www.reddit.com/r/robotics/comments/1pq4l38/selection_motor/)**
+
+Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
+
+5h ago
 
 ---
 
@@ -42,7 +50,15 @@ Robotics research and industry news
 
 The arm explores different approach paths, grasps, and lifts to produce diverse, physically consistent motion data for synthetic data pipelines. My personal favorite BGM 《Trajectory》
 
-15h ago
+16h ago
+
+---
+
+**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
+
+It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
+
+17h ago
 
 ---
 
@@ -54,27 +70,11 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 ---
 
-**[Drew a bunch of stuff with VinciBot, from simple to complex](https://www.reddit.com/r/robotics/comments/1ppnm0l/drew_a_bunch_of_stuff_with_vincibot_from_simple/)**
-
-It’s a kids’ robot, but it’s way more accurate than I expected. My child and I picked a few patterns, entered the right code on their coding platform, and I honestly think VinciBot can draw pretty much anything.
-
-16h ago
-
----
-
-**[Selection Motor](https://www.reddit.com/r/robotics/comments/1pq4l38/selection_motor/)**
-
-Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
-
-4h ago
-
----
-
 **[Digital Twin - Doubt](https://www.reddit.com/r/robotics/comments/1ppqbnl/digital_twin_doubt/)**
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-14h ago
+15h ago
 
 ---
 
@@ -82,15 +82,7 @@ Hello, I have a doubt about digital twins. I need to develop a complete digital 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 11h ago
-
----
-
-**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
-
-Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
-
-3h ago
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 12h ago
 
 ---
 
@@ -102,11 +94,19 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 ---
 
+**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
+
+Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
+
+4h ago
+
+---
+
 **[Been working on this spherical robot for the last few months and finally got the Sim2Real transfer working](https://www.reddit.com/r/robotics/comments/1pq4w97/been_working_on_this_spherical_robot_for_the_last/)**
 
 Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,15 @@ The New York Times • 1d ago
 
 **[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
 
-The Seattle Times • 10h ago
+The Seattle Times • 11h ago
+
+---
+
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 19h ago
 
 ---
 
@@ -166,14 +174,6 @@ The Robot Report • 2d ago
 
 ---
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 18h ago
-
----
-
 **[SEA to deliver KraitArray sonar for Liquid Robotics Wave Glider](https://www.navalnews.com/naval-news/2025/12/sea-to-deliver-kraitarray-sonar-for-liquid-robotics-wave-glider/)**
 
 SEA has been awarded a multi-million-pound contract to supply its advanced KraitArray undersea sensing technology to Liquid Robotics, a Boeing Company, for integration into the company's Wave Glider USV.
@@ -182,9 +182,11 @@ navalnews.com • 1d ago
 
 ---
 
-**[World’s smallest programmable robots perform tasks](https://ece.engin.umich.edu/stories/worlds-smallest-programmable-robots-perform-tasks)**
+**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
 
-University of Michigan • 1d ago
+NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,7 +200,17 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 72K • 👍 975 • 💬 145 • ⏱️ 11:23 • 3d ago
+👁️ 73K • 👍 979 • 💬 147 • ⏱️ 11:23 • 3d ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 16K • 👍 1K • 💬 164 • ⏱️ 13:43 • 13h ago
 
 ---
 
@@ -208,7 +220,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 30K • 👍 741 • 💬 116 • ⏱️ 6:41 • 4d ago
+👁️ 31K • 👍 742 • 💬 116 • ⏱️ 6:41 • 4d ago
 
 ---
 
@@ -218,7 +230,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 23K • 👍 2K • 💬 54 • ⏱️ 1:38 • 2d ago
+👁️ 24K • 👍 2K • 💬 54 • ⏱️ 1:38 • 2d ago
 
 ---
 
@@ -228,17 +240,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 33K • 👍 314 • 💬 30 • ⏱️ 1:05 • 3d ago
-
----
-
-**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
-
-📺 PRO ROBOTS
-
-👁️ 283K • 👍 5K • 💬 489 • ⏱️ 26:54 • 4d ago
+👁️ 32K • 👍 313 • 💬 30 • ⏱️ 1:05 • 3d ago
 
 ---
 
@@ -248,7 +250,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 412K • 👍 14K • 💬 448 • ⏱️ 0:34 • 4d ago
+👁️ 416K • 👍 14K • 💬 454 • ⏱️ 0:34 • 4d ago
 
 ---
 
@@ -258,7 +260,17 @@ This is NOT AI. Kyrie Irving actually goes face-to-face with a robot… and it g
 
 📺 DLLS Sports
 
-👁️ 23K • 👍 229 • 💬 25 • ⏱️ 0:14 • 1d ago
+👁️ 23K • 👍 232 • 💬 25 • ⏱️ 0:14 • 1d ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 289K • 👍 5K • 💬 494 • ⏱️ 26:54 • 4d ago
 
 ---
 
@@ -268,17 +280,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 175K • 👍 2K • 💬 20 • ⏱️ 0:25 • 4d ago
-
----
-
-**[FTC Top 25 | DECODE | December - Presented by Studica Robotics](https://www.youtube.com/watch?v=QBFtU3RVTHs)**
-
-Congrats to all who were voted for in the FTC Top 25 by the community! In FTC Top 25 we'll count down the list, provide some Top ...
-
-📺 FUN Robotics Network
-
-👁️ 3K • 👍 41 • 💬 1 • ⏱️ 57:28 • 1d ago
+👁️ 177K • 👍 2K • 💬 20 • ⏱️ 0:25 • 4d ago
 
 ---
 
@@ -288,7 +290,7 @@ Learn for free on Brilliant: https://brilliant.org/Tazer/ and get 20% off an ann
 
 📺 Tazer
 
-👁️ 65K • 👍 3K • 💬 147 • ⏱️ 23:20 • 3d ago
+👁️ 67K • 👍 3K • 💬 148 • ⏱️ 23:20 • 3d ago
 
 ---
 

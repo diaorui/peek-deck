@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T03:13:30.367841+00:00'
+updated: '2025-12-19T04:06:19.158152+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 03:13 UTC  
+**Last Updated:** December 19, 2025 at 04:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,816.28
+### $2,913.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -7.8%  
-**30d:** +1.0%  
-**90d:** -35.5%  
-**1y:** -17.3%  
+**24h:** +3.1%  
+**7d:** -6.3%  
+**30d:** +2.7%  
+**90d:** -34.4%  
+**1y:** -15.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $344.66B
+**Market Cap:** $351.41B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--42.3%
+-41.1%
 
 **All-Time Low:** $0.43
-+658694.1%
++672419.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 so i sent robinhood some coins and ever since then im receiving small amounts of eth back from the original sender account. its like .0000001 eth. not sure why they keep sending it. does anyone know whats happening here?
 
-20h ago
+21h ago
 
 ---
 
@@ -116,7 +116,7 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 **[New DeFi project Brix is launching on MegaETH, bringing real-world high yields from emerging markets (like ~40% from Turkish sovereign rates) onchain via tokenized assets and stablecoins](https://www.reddit.com/r/ethereum/comments/1ppoazu/new_defi_project_brix_is_launching_on_megaeth/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqeynutHwxsj34N0e_-JOAWfHwvnFIJ8Nga28ev8HGkjMfvJkcra13pB&gaa_ts=6944c63d&gaa_sig=saVV9ugTqFXfOJgtshsy45G9WTnMoQTAAUoSIRYPnqfmjPyK40U-Kre1EaDNHYbZzEyeGDeDgCPDcjA3RwZmzw%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqcDVjbBRbNs1pFv6MrxxWGzRLOBDbENaMo4IiCYqhYZ74d-EPxNt4C5&gaa_ts=6944d29c&gaa_sig=71YwznqG0rHRN2ug8Rd7aq-ohi6BLy3XLNJ2jiM14txEeTsbBcVfRYju_fHeJz9B_7bUeJcNG4R8TXmE8qD6yw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -192,7 +192,7 @@ CCN.com • 2d ago
 
 v
 
-AMBCrypto • 5h ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -204,17 +204,17 @@ FXStreet • 1d ago
 
 ---
 
+**[JPMorgan’s New Ethereum Fund Tests Tom Lee’s $20K ETH Dream](https://99bitcoins.com/news/altcoins/jpmorgans-new-ethereum-fund-tests-tom-lees-20k-eth-dream/)**
+
+99Bitcoins • 1d ago
+
+---
+
 **[Ethereum Stabilizes Near $2,820 After Losing Trend Support (undefined:ETH-USD)](https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis)**
 
 Ethereum (ETH-USD) is trading in a weakened but orderly corrective structure on Thursday as the market continues to unwind from its...
 
-Seeking Alpha • 6h ago
-
----
-
-**[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
-
-Bloomberg.com • 14h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 286 • 💬 44 • ⏱️ 16:54 • 11h ago
+👁️ 7K • 👍 312 • 💬 52 • ⏱️ 16:54 • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ It finally happened: A major US Bank has chosen Ethereum. In this video, we brea
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 36 • 💬 3 • ⏱️ 14:11 • 11h ago
+👁️ 1K • 👍 39 • 💬 3 • ⏱️ 14:11 • 12h ago
 
 ---
 
@@ -252,13 +252,13 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 ---
 
-**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
+**[BITCOIN &amp; ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=kpOqtrngqHY)**
 
-Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
+BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Taiki Maeda
+📺 Crypto World
 
-👁️ 12K • 👍 571 • 💬 272 • ⏱️ 33:33 • 1d ago
+👁️ 6K • 👍 297 • 💬 76 • ⏱️ 26:48 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 5 • ⏱️ 7:17 • 14h ago
+👁️ 2K • 👍 129 • 💬 5 • ⏱️ 7:17 • 15h ago
 
 ---
 
@@ -278,27 +278,17 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 389 • 💬 73 • ⏱️ 20:34 • 1d ago
+👁️ 14K • 👍 392 • 💬 74 • ⏱️ 20:34 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=kpOqtrngqHY)**
+**[🚨 BTC &amp; ETH: MY LAST WARNING!!!!](https://www.youtube.com/watch?v=H5kHbjUkdA4)**
 
-BITCOIN & ALTCOIN CRASH: My Trading Strategy Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+These news have direct impact on bitcoin, ethereum and the rest of crypto. Here is what I am doing now! Private livestream for ...
 
-📺 Crypto World
+📺 Thomas Kralow
 
-👁️ 3K • 👍 234 • 💬 51 • ⏱️ 26:48 • 4h ago
-
----
-
-**[BITCOIN: It Was All a TRAP! (manipulation) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=a1SeKI9YDjA)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 7K • 👍 376 • 💬 33 • ⏱️ 12:11 • 15h ago
+👁️ 23K • 👍 3K • 💬 48 • ⏱️ 7:49 • 2d ago
 
 ---
 
@@ -308,7 +298,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Bearhard - Bitcoin Strategy
 
-👁️ 4K • 👍 190 • 💬 57 • ⏱️ 8:42 • 2d ago
+👁️ 4K • 👍 191 • 💬 57 • ⏱️ 8:42 • 2d ago
 
 ---
 
@@ -318,7 +308,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 512 • 👍 21 • 💬 1 • ⏱️ 4:50 • 16h ago
+👁️ 541 • 👍 22 • 💬 1 • ⏱️ 4:50 • 17h ago
+
+---
+
+**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
+
+Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
+
+📺 Taiki Maeda
+
+👁️ 13K • 👍 582 • 💬 283 • ⏱️ 33:33 • 1d ago
 
 ---
 
