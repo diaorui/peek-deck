@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T15:28:36.025592+00:00'
+updated: '2025-12-19T15:47:16.021382+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 15:28 UTC  
+**Last Updated:** December 19, 2025 at 15:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ Ouster is positioned to provide essential perception interfaces that allow AI to
 
 **[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
 
-32m ago
+50m ago
 
 ---
 
@@ -70,7 +70,7 @@ Ouster is positioned to provide essential perception interfaces that allow AI to
 
 Hi everyone, I'm working on my graduation project that is 6-axis robot arm . I'm trying to know how to make selection motor for each joint . I need your help please.
 
-16h ago
+17h ago
 
 ---
 
@@ -142,7 +142,7 @@ Bloomberg.com • 4h ago
 
 **[At a Silicon Valley summit, robots fold laundry — and investors open their wallets](https://www.seattletimes.com/business/at-a-silicon-valley-summit-robots-fold-laundry-and-investors-open-their-wallets/)**
 
-The Seattle Times • 22h ago
+The Seattle Times • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 5K • 👍 20 • ⏱️ 0:09 • 3h ago
+👁️ 5K • 👍 20 • ⏱️ 0:09 • 4h ago
 
 ---
 

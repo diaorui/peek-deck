@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T15:28:36.007081+00:00'
+updated: '2025-12-19T15:47:16.003392+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 15:28 UTC  
+**Last Updated:** December 19, 2025 at 15:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
 
-20h ago
+21h ago
 
 ---
 
@@ -97,7 +97,7 @@ Source (November 2025): "Inception Point AI [is] a startup with just eight emplo
 
 Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
 
-20h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ I have a backlog of 6-hour seminar recordings I need to turn into text. I tried 
 
 This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
 
-21h ago
+22h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 1h ago
 
 The Fox News AI Newsletter brings you the latest news on AI technology advancements and the challenges and opportunities AI presents now and for the future.
 
-Fox News • 39m ago
+Fox News • 58m ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox News • 39m ago
 
 The Generative AI Innovation Center has worked with well over 1,000 customers, including Formula 1, Nasdaq, and GoDaddy. More than 65% of the projects have made it into production.
 
-Fortune • 28m ago
+Fortune • 47m ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 28m ago
 
 STAMFORD, Conn., December 19, 2025--Analytics software is being transformed into an AI-powered asset that is essential to business strategies in all industries, ISG says.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 47m ago
 
 ---
 
@@ -193,7 +193,7 @@ The Texas Tribune • 4h ago
 
 YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
 
-Deadline • 21h ago
+Deadline • 22h ago
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 8K • 👍 197 • 💬 24 • ⏱️ 8:13 • 13h ago
+👁️ 8K • 👍 197 • 💬 24 • ⏱️ 8:13 • 14h ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 337 • 22h ago
+⬇️ 0 • ❤️ 337 • 23h ago
 
 ---
 
@@ -495,7 +495,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 948 • 6d ago
+⬇️ 201,479 • ❤️ 948 • 7d ago
 
 ---
 
@@ -507,7 +507,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 190 • 18h ago
+⬇️ 2,154 • ❤️ 190 • 19h ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.0k • 🔱 142 • 22m ago
+⭐ 2.0k • 🔱 142 • 41m ago
 
 ---
 

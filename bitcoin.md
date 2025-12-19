@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T15:28:36.015985+00:00'
+updated: '2025-12-19T15:47:16.012031+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 15:28 UTC  
+**Last Updated:** December 19, 2025 at 15:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,281.10
+### $88,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -2.2%  
-**30d:** +1.5%  
-**90d:** -23.5%  
-**1y:** -9.6%  
+**24h:** -0.3%  
+**7d:** -2.6%  
+**30d:** +1.0%  
+**90d:** -23.9%  
+**1y:** -9.7%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-45m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[FEAR & GREED INDEX 🚨](https://www.reddit.com/r/Bitcoin/comments/1pq4a94/fear_greed_index/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -117,7 +117,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[How low can we go?](https://www.reddit.com/r/Bitcoin/comments/1pq9itv/how_low_can_we_go/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Bitcoin does not care up, down, chop.](https://www.reddit.com/r/Bitcoin/comments/1pqd3my/bitcoin_does_not_care_up_down_chop/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bitcoin and crypto have survived every bear market in history and emerged strong
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfGEgVZdm1lF0RrUWte1DuZ0KRueBPdfipa5PZ4tyQzs-WT9xC0Ah9w&gaa_ts=69457288&gaa_sig=HsQ32HfaxE_TEjzZqyPuTLhqIZGVcczTy_J21Bnl6_XGTXWeCLnMXM8e6wNGPhdfuHuYJ7DNV-kppSKs2_9VfQ%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Citi forecast that the bitcoin price could reach $143,000 over the next year, with a bullish case above $189,000 and a bearish scenario near $78,500.
 
-Bitcoin Magazine • 52m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investor's Business Daily • 4h ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 5h ago
+NPR • 6h ago
 
 ---
 
@@ -201,7 +201,7 @@ NPR • 5h ago
 
 Japan’s 10-year government bond yield briefly touched 2% for the first time since 2006 after the central bank lifted its benchmark rate.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -259,7 +259,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 0 • 7m ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 0 • 25m ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
