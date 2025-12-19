@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T21:27:38.044378+00:00'
+updated: '2025-12-19T21:42:59.724392+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 21:27 UTC  
+**Last Updated:** December 19, 2025 at 21:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** -2.7%  
-**30d:** +0.9%  
-**90d:** -23.9%  
-**1y:** -10.1%  
+**24h:** +2.9%  
+**7d:** -2.4%  
+**30d:** +1.2%  
+**90d:** -23.7%  
+**1y:** -9.8%  
 
 ---
 
@@ -107,7 +107,7 @@ Not a single dollar has moved in 16 years.
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -137,7 +137,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[unbothered. moisturized. happy. in my lane. focused. flourishing.](https://www.reddit.com/r/Bitcoin/comments/1pqsmtl/unbothered_moisturized_happy_in_my_lane_focused/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -307,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 118 • ⏱️ 44:14 • 6h ago
+👁️ 26K • 👍 1K • 💬 150 • ⏱️ 44:14 • 6h ago
 
 ---
 
@@ -317,7 +317,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 43K • 👍 2K • 💬 243 • ⏱️ 16:50 • 23h ago
+👁️ 45K • 👍 2K • 💬 242 • ⏱️ 16:50 • 23h ago
 
 ---
 
@@ -327,57 +327,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 393 • 💬 15 • ⏱️ 9:21 • 1d ago
-
----
-
-**[They Are The Ones Responsible for the Crypto Dump](https://www.youtube.com/watch?v=Vok-QQnBl3Q)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 54K • 👍 2K • 💬 236 • ⏱️ 9:16 • 21h ago
-
----
-
-**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
-
-Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
-
-📺 Simply Bitcoin
-
-👁️ 44K • 👍 3K • 💬 228 • ⏱️ 19:03 • 1d ago
-
----
-
-**[Bitcoin DOMINATES Wall Street As Jamie Dimon Capitulates! Did We Win?](https://www.youtube.com/watch?v=Qhn-7qk_ixo)**
-
-Bitcoin #Crypto #Finance Bitcoin dominates Wall Street as institutions flood in for their slice of the pie. DTCC Meanwhile ...
-
-📺 The Wolf Of All Streets
-
-👁️ 10K • 👍 793 • 💬 155 • ⏱️ 28:38 • 6h ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 10h ago
-
----
-
-**[Why Bitcoin Miners Are Selling Everything](https://www.youtube.com/watch?v=XQ6w0QSphkg)**
-
-Bitcoin miners are “selling everything”… or are they? In this video, Ryan breaks down why the headlines are getting it wrong ...
-
-📺 Ryan’s Money Lab
-
-👁️ 437 • 👍 46 • 💬 2 • ⏱️ 10:18 • 2h ago
+👁️ 12K • 👍 399 • 💬 16 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -387,7 +337,57 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 20K • 👍 2K • 💬 154 • ⏱️ 18:06 • 5h ago
+👁️ 36K • 👍 3K • 💬 183 • ⏱️ 18:06 • 5h ago
+
+---
+
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+
+📺 Thomas Kralow
+
+👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 10h ago
+
+---
+
+**[Did $1M BITCOIN Just Become INEVITABLE?](https://www.youtube.com/watch?v=_koljqxMAdk)**
+
+Bitcoin just hit $86K and the bears are crying foul but behind the sideways chop is a storm building. Whale buys, institutional ...
+
+📺 Simply Bitcoin
+
+👁️ 44K • 👍 3K • 💬 229 • ⏱️ 19:03 • 1d ago
+
+---
+
+**[They Are The Ones Responsible for the Crypto Dump](https://www.youtube.com/watch?v=Vok-QQnBl3Q)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 56K • 👍 2K • 💬 237 • ⏱️ 9:16 • 21h ago
+
+---
+
+**[Bitcoin Is NOT In A Bear Market](https://www.youtube.com/watch?v=6qCwwSE_kgI)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 4K • 👍 456 • 💬 64 • ⏱️ 5:29 • 4h ago
+
+---
+
+**[Bitcoin&#39;s Biggest Threat Isn&#39;t The Fed](https://www.youtube.com/watch?v=POJ00W6MzKI)**
+
+Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The Ultimate Silver and Gold Investing Guide for 2025: ...
+
+📺 Tim Talks Finance
+
+👁️ 7K • 👍 283 • 💬 89 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 26K • 👍 1K • 💬 183 • ⏱️ 2:15 • 20h ago
+👁️ 28K • 👍 1K • 💬 199 • ⏱️ 2:15 • 21h ago
 
 ---
 

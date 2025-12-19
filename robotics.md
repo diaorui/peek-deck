@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T21:27:38.053635+00:00'
+updated: '2025-12-19T21:42:59.733828+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 21:27 UTC  
+**Last Updated:** December 19, 2025 at 21:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-3h ago
+4h ago
 
 ---
 
@@ -192,17 +192,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 31K • 👍 754 • 💬 120 • ⏱️ 6:41 • 5d ago
-
----
-
-**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
-
-Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
-
-📺 Digital Farming 
-
-👁️ 8K • 👍 22 • ⏱️ 0:09 • 9h ago
+👁️ 31K • 👍 755 • 💬 121 • ⏱️ 6:41 • 5d ago
 
 ---
 
@@ -212,7 +202,17 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 28K • 👍 2K • 💬 212 • ⏱️ 13:43 • 1d ago
+👁️ 30K • 👍 2K • 💬 223 • ⏱️ 13:43 • 1d ago
+
+---
+
+**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
+
+Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
+
+📺 Digital Farming 
+
+👁️ 9K • 👍 23 • ⏱️ 0:09 • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 26K • 👍 2K • 💬 57 • ⏱️ 1:38 • 3d ago
+👁️ 26K • 👍 3K • 💬 57 • ⏱️ 1:38 • 3d ago
 
 ---
 
@@ -252,7 +252,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 442K • 👍 15K • 💬 481 • ⏱️ 0:34 • 5d ago
+👁️ 447K • 👍 15K • 💬 485 • ⏱️ 0:34 • 5d ago
 
 ---
 
@@ -260,7 +260,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 QCT
 
-👁️ 43K • 👍 555 • 💬 14 • ⏱️ 0:25 • 1d ago
+👁️ 46K • 👍 666 • 💬 15 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[how to robotic affirm the RIGHT way | law of assumption](https://www.youtube.com/watch?v=0p-l1i2MSCc)**
+
+PERFECT SELF-CONCEPT COURSE https://ritakaminski.thrivecart.com/the-perfect-self-concept/ ₊˚ ‿︵‿︵‿︵୨୧ ...
+
+📺 Rita Kaminski
+
+👁️ 7K • 👍 650 • 💬 94 • ⏱️ 16:17 • 1d ago
 
 ---
 
@@ -270,17 +280,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 PRO ROBOTS
 
-👁️ 306K • 👍 6K • 💬 524 • ⏱️ 26:54 • 5d ago
-
----
-
-**[SNIPER SHOTGUNS actually work…? War Robots funny build](https://www.youtube.com/watch?v=d6qVXgvBNcQ)**
-
-War Robots Gameplay: SNIPER SHOTGUNS Dagon - funny build #warrobots #warrobotsgameplay #wr My Best-Of-War Robots ...
-
-📺 Manni-Gaming
-
-👁️ 4K • 👍 316 • 💬 74 • ⏱️ 21:06 • 8h ago
+👁️ 309K • 👍 6K • 💬 532 • ⏱️ 26:54 • 5d ago
 
 ---
 

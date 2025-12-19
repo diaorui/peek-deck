@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T21:27:38.050379+00:00'
+updated: '2025-12-19T21:42:59.730519+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 21:27 UTC  
+**Last Updated:** December 19, 2025 at 21:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.9%  
-**7d:** -3.9%  
-**30d:** +5.3%  
-**90d:** -32.7%  
-**1y:** -13.8%  
+**24h:** +5.6%  
+**7d:** -4.2%  
+**30d:** +4.9%  
+**90d:** -32.9%  
+**1y:** -14.0%  
 
 ---
 
@@ -110,7 +110,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 6h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 1d ago
 
 Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -174,13 +174,13 @@ Decrypt • 1d ago
 
 **[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqe2lW5mVV9SE3IaCtYln22s0dUaYyMltwemuVzNZVh93RfMguEDNnh_&gaa_ts=6945c6b6&gaa_sig=UDFJuUYQJUmNNXnES7D5FRx8l6-zmpC3tf1wySU7LPsKiegrRBwKPfwoplabWcOFVCpRAMdy6AchNhEzsbcjGg%3D%3D)**
 
-Barron's • 2d ago
+Barron's • 3d ago
 
 ---
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -232,7 +232,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 434 • 💬 28 • ⏱️ 8:37 • 10h ago
+👁️ 13K • 👍 454 • 💬 28 • ⏱️ 8:37 • 10h ago
 
 ---
 
@@ -242,27 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 7 • ⏱️ 9:41 • 8h ago
-
----
-
-**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 11K • 👍 418 • 💬 72 • ⏱️ 16:54 • 1d ago
-
----
-
-**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 1K • 👍 134 • 💬 1 • ⏱️ 21:53 • 6h ago
+👁️ 2K • 👍 148 • 💬 11 • ⏱️ 9:41 • 8h ago
 
 ---
 
@@ -272,7 +252,17 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 287 • 👍 42 • ⏱️ 58:37 • 3h ago
+👁️ 487 • 👍 52 • ⏱️ 58:50 • 2h ago
+
+---
+
+**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 429 • 💬 72 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -282,7 +272,17 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 88 • 💬 30 • ⏱️ 22:39 • 2h ago
+👁️ 3K • 👍 180 • 💬 71 • ⏱️ 22:39 • 3h ago
+
+---
+
+**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 162 • 💬 4 • ⏱️ 21:53 • 6h ago
 
 ---
 
@@ -292,7 +292,7 @@ In this video, we uncover the massive implications of Ethereum's newly announced
 
 📺 CryptoStock Lab
 
-👁️ 353 • 👍 17 • ⏱️ 15:52 • 6h ago
+👁️ 528 • 👍 20 • ⏱️ 15:52 • 6h ago
 
 ---
 
@@ -302,7 +302,17 @@ As we head into what I'm expecting to be a "Bottom Year" (or bear market year), 
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 9K • 👍 389 • 💬 81 • ⏱️ 11:01 • 2d ago
+👁️ 9K • 👍 390 • 💬 81 • ⏱️ 11:01 • 2d ago
+
+---
+
+**[WILL ETH DUMP LOWER?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=GqNy42fzzqc)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 327 • 👍 13 • 💬 2 • ⏱️ 4:42 • 11h ago
 
 ---
 
@@ -313,16 +323,6 @@ Join Crypto.com today: https://cryptocom.sjv.io/c/4732368/3269896/25666 Will Bit
 📺 Crypto Nutshell
 
 👁️ 15K • 👍 408 • 💬 33 • ⏱️ 20:34 • 2d ago
-
----
-
-**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 11K • 👍 1K • 💬 2 • ⏱️ 27:59 • 8h ago
 
 ---
 
