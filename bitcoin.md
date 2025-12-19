@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-19T09:50:29.784896+00:00'
+updated: '2025-12-19T10:11:36.693637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 09:50 UTC  
+**Last Updated:** December 19, 2025 at 10:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -2.4%  
-**30d:** +1.3%  
-**90d:** -23.6%  
-**1y:** -9.8%  
+**24h:** +1.2%  
+**7d:** -2.2%  
+**30d:** +1.4%  
+**90d:** -23.5%  
+**1y:** -9.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.38B
+**Market Cap:** $1759.72B
 Rank #1
 
 **Circulating Supply:** 19,964,081 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.2%
 
 **All-Time Low:** $67.81
-+129641.9%
++129734.8%
 
 ---
 
@@ -89,15 +89,21 @@ Rank #1
 
 ---
 
+**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
+
+6h ago
+
+---
+
 **[How it feels right now](https://www.reddit.com/r/Bitcoin/comments/1ppwl6s/how_it_feels_right_now/)**
 
 16h ago
 
 ---
 
-**[HODL and Stack !](https://www.reddit.com/r/Bitcoin/comments/1pqaqsv/hodl_and_stack/)**
+**[Life is full of ups and downs ahh chart](https://www.reddit.com/r/Bitcoin/comments/1pqgn3d/life_is_full_of_ups_and_downs_ahh_chart/)**
 
-6h ago
+1h ago
 
 ---
 
@@ -107,17 +113,17 @@ Rank #1
 
 ---
 
-**[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
-
-7h ago
-
----
-
 **[Don't panic!](https://www.reddit.com/r/Bitcoin/comments/1pqgdkv/dont_panic/)**
 
 Bitcoin and crypto have survived every bear market in history and emerged stronger each time. This one will be no different.
 
-57m ago
+1h ago
+
+---
+
+**[Could be chocolate bar yaknow](https://www.reddit.com/r/Bitcoin/comments/1pq9uhp/could_be_chocolate_bar_yaknow/)**
+
+7h ago
 
 ---
 
@@ -131,13 +137,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 **[“If you don't believe me or don't get it, I don't have time to try to convince you, sorry.” ― Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1pprjyf/if_you_dont_believe_me_or_dont_get_it_i_dont_have/)**
 
-19h ago
-
----
-
-**[Can't be unseen](https://www.reddit.com/r/Bitcoin/comments/1ppl4nv/cant_be_unseen/)**
-
-1d ago
+20h ago
 
 ---
 
@@ -149,7 +149,7 @@ Whales continue to accumulate Bitcoin, having bought $23.3 billion in 30 days, t
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -161,33 +161,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+**[4 Predictions for Bitcoin in 2026](https://www.fool.com/investing/2025/12/19/4-predictions-for-bitcoin-in-2026/)**
 
-Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
+Bitcoin investors have had a rough year; 2026 could be much better.
 
-CoinDesk • 16h ago
-
----
-
-**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 16h ago
+The Motley Fool • 26m ago
 
 ---
 
-**[SEC Charges Bitcoin Miner for Duping Investors Out of $48.5 Million](https://bitcoinmagazine.com/news/sec-charges-bitcoin-miner-for-duping-investors-out-of-48-5-million)**
+**[Bitcoin Price Will Hit All-Time High in 2026, Bitwise Predicts, Will Be ‘Less Volatile’ Than Nvidia](https://www.ccn.com/news/crypto/bitcoin-price-will-hit-all-time-high-in-2026-bitwise-predicts-will-be-less-volatile-than-nvidia/)**
 
-A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
-
-Bitcoin Magazine • 12h ago
-
----
-
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://www.fool.com/investing/2025/12/18/bitcoin-last-seen-2014-wall-st-this-happen-in-2026/)**
-
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
-
-The Motley Fool • 1d ago
+CCN.com • 24m ago
 
 ---
 
@@ -199,23 +183,39 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitwise’s 2026 Crypto Forecast: Bitcoin, Ethereum, And Solana Poised For New Record Highs](https://www.tradingview.com/news/newsbtc:7bbd20fb5094b:0-bitwise-s-2026-crypto-forecast-bitcoin-ethereum-and-solana-poised-for-new-record-highs/)**
+**[Latest BTC bull turns bear, Jurien Timmer warns of year-long crypto winter](https://www.coindesk.com/markets/2025/12/19/latest-bitcoin-bull-turns-bear-fidelity-director-warns-of-year-long-crypto-winter)**
 
-In its latest report, asset manager and exchange-traded fund (ETF) issuer, Bitwise, has shared an optimistic 2026 outlook for the crypto market, anticipating significant growth, while predicting new all-time highs for Bitcoin (BTC), Ethereum (ETH), and Solana (SOL).Megatrends In Crypto? Bitwise beg…
+Fidelity’s global macro director, Jurien Timmer, has called the end of the latest bitcoin bull run, while highlighting gold’s continued bull market strength.
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqfdKse1SsTmMB7BJakW9H6aTE616mW74s6k8lD0nOu-Pu__RIqa3VAL&gaa_ts=69451f51&gaa_sig=ght0oMhngIRU4QnEFPTqiQnyNueAOmAkj3i20nSFZkckFFvLLfjaTKtx95pysU40herDHh6wpNcF7ugkj5Jy6g%3D%3D)**
-
-The Wall Street Journal • 2d ago
+CoinDesk • 4m ago
 
 ---
 
-**[Legendary hedge fund analyst warns Bitcoin is heading towards 1929-style crash](https://www.thestreet.com/crypto/markets/legendary-hedge-fund-analyst-warns-bitcoin-wall-street-crash-1929)**
+**[Bitcoin Falters As Strategy's Buying Power Runs Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-thestreet.com • 1d ago
+Investor's Business Daily • 16h ago
+
+---
+
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqftSG9XLV1InhDovX1VlluUAF4Zwdnz1KbENdHqhuUeoZyjuuE91hCH&gaa_ts=69452841&gaa_sig=PA2xgjvnugi2rxj-jwL9oEuNQHYSoyBeaFPM5OpMpYl48XsnrneSLhHkH8K5afLh5Tb222DnkS1yfy96Dln41g%3D%3D)**
+
+Barron's • 23h ago
+
+---
+
+**[SEC Charges Bitcoin Miner for Duping Investors Out of $48.5 Million](https://bitcoinmagazine.com/news/sec-charges-bitcoin-miner-for-duping-investors-out-of-48-5-million)**
+
+A solo bitcoin miner was charged by the SEC for misappropriating $48.5 million from investors by selling bogus mining hosting agreements that promised passive income.
+
+Bitcoin Magazine • 13h ago
+
+---
+
+**[Bitcoin (BTC) price news: BTC quickly gives up advance above $89,000](https://www.coindesk.com/markets/2025/12/18/bitcoin-bulls-foiled-again-as-price-tumbles-back-to-usd86-000-giving-up-cpi-gains-and-more)**
+
+Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.
+
+CoinDesk • 16h ago
 
 ---
 
@@ -227,7 +227,7 @@ thestreet.com • 1d ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 21 • 💬 8 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 22 • 💬 8 • 3d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -243,7 +243,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 17h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -289,7 +289,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 2 • 💬 2 • 23h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 3 • 1d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -313,7 +313,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 119 • ⏱️ 9:16 • 9h ago
+👁️ 36K • 👍 2K • 💬 119 • ⏱️ 9:16 • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ After a rocky December, many investors are asking the same question: Did Bitcoin
 
 📺 The Bitcoin Revolution
 
-👁️ 10K • 👍 161 • 💬 198 • ⏱️ 9:46 • 18h ago
+👁️ 10K • 👍 161 • 💬 198 • ⏱️ 9:46 • 19h ago
 
 ---
 
@@ -353,7 +353,7 @@ Learn To Trade & Indicators  https://krown-trading.teachable.com/p/main Gemini C
 
 📺 Krown
 
-👁️ 10K • 👍 767 • 💬 161 • ⏱️ 15:27 • 15h ago
+👁️ 10K • 👍 767 • 💬 161 • ⏱️ 15:27 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ Free Class, The Macro Investor Mindset - Full Module: https://bit.ly/4rKKitN The
 
 📺 Tim Talks Finance
 
-👁️ 7K • 👍 263 • 💬 118 • ⏱️ 14:32 • 16h ago
+👁️ 7K • 👍 263 • 💬 118 • ⏱️ 14:32 • 17h ago
 
 ---
 

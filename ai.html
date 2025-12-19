@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-19T09:50:29.296107+00:00"
+          "dateModified": "2025-12-19T10:11:36.190596+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -815,6 +815,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pqhgoz/why_is_big_ai_transcription_completely_useless/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1pqhgoz/why_is_big_ai_transcription_completely_useless/" target="_blank" onclick="event.stopPropagation();">Why is "Big AI" transcription completely useless for long files?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I have a backlog of 6-hour seminar recordings I need to turn into text. I tried running them through the usual suspects (whispr and some online tools), and they all choke. Either they hallucinate after 45 minutes, or they hit a file size limit that’s laughably small (like 500mb). It feels like these trillion-dollar companies are intentionally nerfing their tools to force enterprise sales. I eventually had to find a smaller wrapper tool just to handle a 10-hour audio file without crashing. It’s wild that the "cutting edge" can't handle a simple long-form wav file in 2025. Is this a context window issue or just lazy product design?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766138654.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -949,39 +982,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pq60u4/how_to_browse_the_prechatgpt_internet/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1pq60u4/how_to_browse_the_prechatgpt_internet/" target="_blank" onclick="event.stopPropagation();">How To Browse The Pre-ChatGPT Internet</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766101449.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1005,7 +1005,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-19T09:33:01.124370+00:00">Updated 2025-12-19T09:33:01.124370+00:00</small>
+        <small data-timestamp="2025-12-19T10:11:09.291247+00:00">Updated 2025-12-19T10:11:09.291247+00:00</small>
     </div>
 </div>
 
@@ -1191,14 +1191,55 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdTymEUq9xxvDWTe_G2062P_-wFhsnHrctowVjD7DZtgWSm2S83Ik1_&gaa_ts=69451f50&gaa_sig=3zT1SmQgVdV1UhHL8dvkRc42sC1StTdlWjiVpn6-Zu_o6ZPrPVwfvG6HrWlhUJVZnwq38TeA_kBEQyV8Hwa-bg%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/65ca6c99dfcbcec7fd711a3441cd8ea3205ce383/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1993c8dd50833058d7b3a8538c657c70');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035" target="_blank" onclick="event.stopPropagation();">What will your life look like in 2035?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766127840.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfDh_XebNVeAilqpITX6wuZZWxACvW_Fcv2whe7esnti4lm6FkCocUx&gaa_ts=69452840&gaa_sig=DBOpE7VAgoxjE5NSnXrCWIJGJNnTLVcXlX8UWIYD9SFsxMh4zoUoxbmnWfHpdKKiwUdqDXCSbh8oXpsYXeO09Q%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdTymEUq9xxvDWTe_G2062P_-wFhsnHrctowVjD7DZtgWSm2S83Ik1_&gaa_ts=69451f50&gaa_sig=3zT1SmQgVdV1UhHL8dvkRc42sC1StTdlWjiVpn6-Zu_o6ZPrPVwfvG6HrWlhUJVZnwq38TeA_kBEQyV8Hwa-bg%3D%3D" target="_blank" onclick="event.stopPropagation();">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>
+                            <a href="https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfDh_XebNVeAilqpITX6wuZZWxACvW_Fcv2whe7esnti4lm6FkCocUx&gaa_ts=69452840&gaa_sig=DBOpE7VAgoxjE5NSnXrCWIJGJNnTLVcXlX8UWIYD9SFsxMh4zoUoxbmnWfHpdKKiwUdqDXCSbh8oXpsYXeO09Q%3D%3D" target="_blank" onclick="event.stopPropagation();">We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1228,20 +1269,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://deadline.com/wp-content/uploads/2025/12/1XGSfnfEwhk-HD.webp?w=1024');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108218278-1761690885230-aws-ss3.png?v=1761691961&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/" target="_blank" onclick="event.stopPropagation();">YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions</a>
+                            <a href="https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html" target="_blank" onclick="event.stopPropagation();">Data center deals hit record $61 billion in 2025 as AI valuation risks and funding concerns grip investors</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            YouTube has terminated two prominent channels, Screen Culture and KH Studio, using artificial intelligence to create fake movie trailers.
+                            Hyperscalers are increasingly turning to outside capital in the form of debt to fund the energy-intensive infrastructure.
                         </div>
                         
 
@@ -1251,9 +1292,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://deadline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Deadline" class="news-favicon">
-                                    <a href="https://deadline.com" target="_blank" onclick="event.stopPropagation();">Deadline</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1261,7 +1302,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766079180.0"></span>
+                                    <span data-timestamp="1766135730.0"></span>
                                 </div>
                                 
                             </div>
@@ -1269,20 +1310,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/nvidia-memo-capital-one-explores-aws-alternatives-ai-control-costs-2025-12', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-1152x648-1740156964.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69430a6604eda4732f2db81a?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/" target="_blank" onclick="event.stopPropagation();">YouTube bans two popular channels that created fake AI movie trailers</a>
+                            <a href="https://www.businessinsider.com/nvidia-memo-capital-one-explores-aws-alternatives-ai-control-costs-2025-12" target="_blank" onclick="event.stopPropagation();">Nvidia memo says Capital One discussed alternatives to AWS as AI costs could 'get out of hand'</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Google loves AI content, except when it doesn’t.
+                            Several AWS customers have complained about rising cloud costs in the AI era. Capital One is the latest, and one of the biggest.
                         </div>
                         
 
@@ -1292,9 +1333,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Ars Technica" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
                                     
                                 </div>
                                 
@@ -1302,7 +1343,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766097594.0"></span>
+                                    <span data-timestamp="1766138400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1310,55 +1351,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.worldofreel.com/blog/2025/12/18/youtube-shuts-down-ai-fake-movie-trailer-channels-watched-by-millions', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('http://static1.squarespace.com/static/5bbcad0f2727be3646b9fee1/t/694449d46e58e21f7febb17c/1766083028073/IMG_1345.jpeg?format=1500w');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.worldofreel.com/blog/2025/12/18/youtube-shuts-down-ai-fake-movie-trailer-channels-watched-by-millions" target="_blank" onclick="event.stopPropagation();">YouTube Shuts Down AI Fake Movie Trailer Channels Watched by Millions</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Screen Culture and KH Studio are gonzo. Both channels—based in India and Georgia—had well over 2 million subscribers and more than a billion views tallied.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.worldofreel.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="World of Reel" class="news-favicon">
-                                    <a href="https://www.worldofreel.com" target="_blank" onclick="event.stopPropagation();">World of Reel</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766082397.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.fastcompany.com/91459838/ai-butterfly-effect-danger-cascade-failures', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.fastcompany.com/91459838/ai-butterfly-effect-danger-cascade-failures" target="_blank" onclick="event.stopPropagation();">AI’s butterfly effect: The danger of cascade failures</a>
+                            <a href="https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html" target="_blank" onclick="event.stopPropagation();">Why Do A.I. Chatbots Use ‘I’?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1370,9 +1370,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fast Company" class="news-favicon">
-                                    <a href="https://www.fastcompany.com" target="_blank" onclick="event.stopPropagation();">Fast Company</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1380,89 +1380,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766135156.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.sctimes.com/story/news/local/2025/12/19/coborns-introducing-ai-pricing-tool-from-software-company-revionics/87793167007/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.sctimes.com/gcdn/authoring/authoring-images/2024/11/18/PSTC/76409467007-coborns-sauk-rapids.jpg?crop=4829,2716,x0,y483&width=3200&height=1800&format=pjpg&auto=webp');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.sctimes.com/story/news/local/2025/12/19/coborns-introducing-ai-pricing-tool-from-software-company-revionics/87793167007/" target="_blank" onclick="event.stopPropagation();">Coborn's to implement AI price optimization tool in its grocery stores</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Other stores are adopting similar AI tools, which may charge shoppers varying prices at different locations.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sctimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="St. Cloud Times" class="news-favicon">
-                                    <a href="https://www.sctimes.com" target="_blank" onclick="event.stopPropagation();">St. Cloud Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766134860.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2025-12-19/ai-threatens-to-displace-workers-bank-of-england-s-bailey-warns', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij0XPWhqpVnc/v0/1200x800.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2025-12-19/ai-threatens-to-displace-workers-bank-of-england-s-bailey-warns" target="_blank" onclick="event.stopPropagation();">AI Threatens to Displace Workers, Bank of England’s Bailey Warns</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Artificial intelligence is likely to displace British workers even as it makes the country more productive, Bank of England Governor Andrew Bailey said in his most stark warning yet on the technology’s impact.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766134860.0"></span>
+                                    <span data-timestamp="1766138460.0"></span>
                                 </div>
                                 
                             </div>
@@ -1511,47 +1429,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://blog.google/technology/developers/ai-agents-intensive-recap/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kaggle_AI_intensive_hero.width-1300.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://blog.google/technology/developers/ai-agents-intensive-recap/" target="_blank" onclick="event.stopPropagation();">Inside Kaggle’s AI Agents Intensive Course with Google</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="blog.google" class="news-favicon">
-                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766074171.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cd6xl3ql3v0o', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/a78c/live/410e01b0-db7c-11f0-b5d0-e9a8f87cff6a.jpg');"></div>
@@ -1593,6 +1470,129 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://blog.google/technology/developers/ai-agents-intensive-recap/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/kaggle_AI_intensive_hero.width-1300.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://blog.google/technology/developers/ai-agents-intensive-recap/" target="_blank" onclick="event.stopPropagation();">Inside Kaggle’s AI Agents Intensive Course with Google</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="blog.google" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766074171.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/d10398db-b8b4-40f3-8c6d-b340470f5f3c', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27fe3c6e-f782-47ea-a4ca-a6c5a9ea3758.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/d10398db-b8b4-40f3-8c6d-b340470f5f3c" target="_blank" onclick="event.stopPropagation();">China boosts AI chip output by upgrading older ASML machines</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Restricted chipmaking tools are being retrofitted to make advanced AI chips, exposing cracks in US-led export controls
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766106920.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.npr.org/2025/12/19/nx-s1-5648239/who-is-really-shaping-the-future-of-ai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2F90%2F7a135d7047d2940584afa6ae7b4e%2F30d892b5-a267-434c-bccf-b8a7657e995d.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.npr.org/2025/12/19/nx-s1-5648239/who-is-really-shaping-the-future-of-ai" target="_blank" onclick="event.stopPropagation();">Who is really shaping the future of AI? : TED Radio Hour</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            What will AI look like in 2026? Is the hype a bubble or a tech revolution that will transform everything? This episode, the global politics shaping the future of AI and what it means for you. Guests include tech entrepreneur Alvin Wang Graylin, NPR tech reporter John Ruwitch, and OpenAI CEO Sam Altman in conversation with TED's Chris Anderson.TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NPR" class="news-favicon">
+                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766131200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1613,7 +1613,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-19T09:33:30.753424+00:00">Updated 2025-12-19T09:33:30.753424+00:00</small>
+        <small data-timestamp="2025-12-19T10:11:34.564388+00:00">Updated 2025-12-19T10:11:34.564388+00:00</small>
     </div>
 </div>
 
@@ -1985,10 +1985,10 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 416</span>
+                                    <span class="post-points">▲ 427</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 360</span>
+                                    <span style="color: #9ca3af;">💬 379</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2034,10 +2034,10 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 336</span>
+                                    <span class="post-points">▲ 343</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 367</span>
+                                    <span style="color: #9ca3af;">💬 377</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2181,10 +2181,10 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 232</span>
+                                    <span class="post-points">▲ 240</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 154</span>
+                                    <span style="color: #9ca3af;">💬 164</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2233,7 +2233,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                                     <span class="post-points">▲ 201</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 161</span>
+                                    <span style="color: #9ca3af;">💬 162</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2258,20 +2258,20 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46286666', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46319324', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://opengraph.githubassets.com/565df2461e319a95e60cee5674f79650824f51b309ad2fc94fed356cc9bb16ee/mantisfury/ArkhamMirror');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://i.ytimg.com/vi/SpPhm7S9vsQ/sddefault.jpg');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46286666" target="_blank" onclick="event.stopPropagation();">ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing</a>
+                            <a href="https://news.ycombinator.com/item?id=46319324" target="_blank" onclick="event.stopPropagation();">AI vending machine was tricked into giving away everything</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Local-first AI-powered document intelligence platform for investigative journalism - mantisfury/ArkhamMirror
+                            Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
                         </div>
                         
 
@@ -2279,26 +2279,26 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 164</span>
+                                    <span class="post-points">▲ 144</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 56</span>
+                                    <span style="color: #9ca3af;">💬 12</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2025-12-16T09:51:31Z"></span>
+                                    <span class="post-age" data-timestamp="2025-12-18T21:52:39Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://github.com/mantisfury/ArkhamMirror" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon">
+                                            <img src="https://kottke.org/images/2024/icons/57x57.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>GitHub</span>
+                                        <span>kottke.org</span>
                                     </a>
                                 </div>
                                 
@@ -2327,7 +2327,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-19T09:33:00.888202+00:00">Updated 2025-12-19T09:33:00.888202+00:00</small>
+        <small data-timestamp="2025-12-19T10:11:08.985919+00:00">Updated 2025-12-19T10:11:08.985919+00:00</small>
     </div>
 </div>
 
@@ -3465,7 +3465,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                                     <span class="model-stats">⬇️ 329,981</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,017</span>
+                                    <span class="model-stats">❤️ 3,019</span>
                                 </div>
                             </div>
                             
@@ -3579,7 +3579,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 329</span>
+                                    <span class="model-stats">❤️ 330</span>
                                 </div>
                             </div>
                             
@@ -3637,7 +3637,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                                     <span class="model-stats">⬇️ 3,633</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 291</span>
+                                    <span class="model-stats">❤️ 292</span>
                                 </div>
                             </div>
                             
@@ -3807,7 +3807,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 234</span>
+                                    <span class="model-stats">❤️ 236</span>
                                 </div>
                             </div>
                             
@@ -3863,7 +3863,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
                                     <span class="model-stats">⬇️ 2,490</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 225</span>
+                                    <span class="model-stats">❤️ 226</span>
                                 </div>
                             </div>
                             
@@ -4011,7 +4011,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-19T09:33:12.323630+00:00">Updated 2025-12-19T09:33:12.323630+00:00</small>
+        <small data-timestamp="2025-12-19T10:11:20.482290+00:00">Updated 2025-12-19T10:11:20.482290+00:00</small>
     </div>
 </div>
 

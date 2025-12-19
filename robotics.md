@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-19T09:50:29.794160+00:00'
+updated: '2025-12-19T10:11:36.702964+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 19, 2025 at 09:50 UTC  
+**Last Updated:** December 19, 2025 at 10:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,23 +74,7 @@ Hi all 👋 I wanted to share an open-source project I’ve been working on: PyO
 
 Hello, I have a doubt about digital twins. I need to develop a complete digital twin for a robotic manipulator with a vacuum gripper, but I have no idea how to start. Could you please assist me with resources or videos regarding the development of digital twins?
 
-20h ago
-
----
-
-**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
-
-Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
-
-9h ago
-
----
-
-**[spring reducer](https://www.reddit.com/r/robotics/comments/1pptjq9/spring_reducer/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 18h ago
+21h ago
 
 ---
 
@@ -102,11 +86,27 @@ Hi! I built this robot this year (actually, a rebuilt or my first version with s
 
 ---
 
+**[spring reducer](https://www.reddit.com/r/robotics/comments/1pptjq9/spring_reducer/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/PsuY7PtWgEA) • 18h ago
+
+---
+
+**[How to build a drone on a super low budget?](https://www.reddit.com/r/robotics/comments/1pq67hh/how_to_build_a_drone_on_a_super_low_budget/)**
+
+Hi all, is it realistic to build an autonomous drone using Python/Micropython on a low budget? The idea is not a high-speed or acrobatic drone, but a slow, autonomous system for experimentation, preferably a naval drone. Has anyone here used Python/MicroPython in real robotics projects? Thanks! appreciate any real-world experience or pointers.
+
+10h ago
+
+---
+
 **[Been working on this spherical robot for the last few months and finally got the Sim2Real transfer working](https://www.reddit.com/r/robotics/comments/1pq4w97/been_working_on_this_spherical_robot_for_the_last/)**
 
 Hey r/robotics, just wanted to share a project I have been working on. It is a self-balancing spherical robot driven by an internal pendulum system. I initially tried using standard PID controllers for stability, but the system was too unstable on uneven surfaces so I had to change my approach. I ended up switching to a reinforcement learning policy using Isaac Sim. The hardest part was the sim-to-real gap since modeling the rolling friction took a long time to get right. It is finally at a point where it can handle carpet transitions without losing balance. It is running on a Jetson Nano for the vision processing. I am currently working on the SLAM implementation, but stabilizing the video feed while the shell spins is proving to be difficult. I would appreciate any feedback on the movement. I am also debating switching to MPC if anyone has experience with that on similar platforms. I also set up a discord if anyone wants to discuss the project or has suggestions, feel free to join. https://discord.gg/zXVanWP76 Thanks.
 
-10h ago
+11h ago
 
 ---
 
@@ -114,33 +114,19 @@ Hey r/robotics, just wanted to share a project I have been working on. It is a s
 
 ## Google News: "robotics"
 
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 1d ago
+
+---
+
 **[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
 
 TechCrunch • 1d ago
-
----
-
-**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
-
-Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
-
-NASA (.gov) • 2d ago
-
----
-
-**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
-
-The New York Times • 2d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 1d ago
 
 ---
 
@@ -160,11 +146,9 @@ Sourcing Journal • 2d ago
 
 ---
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+**[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -181,6 +165,22 @@ navalnews.com • 2d ago
 From disaster zones, to oil spills, to the Great Pyramids of Giza, iRobot has taken its robot everywhere in its 35 years.
 
 The Robot Report • 2d ago
+
+---
+
+**[Stem Cells, Robotics, and Spacesuits Top Station Crew Day](https://www.nasa.gov/blogs/spacestation/2025/12/16/stem-cells-robotics-and-spacesuits-top-station-crew-day/)**
+
+Stem cell research, a student robotics challenge, and spacesuit maintenance dominated the schedule aboard the International Space Station on Tuesday. The Expedition 74 crew also rounded out its shift with Earth observations and cargo transfers throughout the day.
+
+NASA (.gov) • 2d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 21K • 👍 2K • 💬 182 • ⏱️ 13:43 • 18h ago
+👁️ 21K • 👍 2K • 💬 182 • ⏱️ 13:43 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T09:50:29.790903+00:00'
+updated: '2025-12-19T10:11:36.699734+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 09:50 UTC  
+**Last Updated:** December 19, 2025 at 10:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** -5.3%  
-**30d:** +3.8%  
-**90d:** -33.6%  
-**1y:** -15.0%  
+**24h:** +3.6%  
+**7d:** -4.8%  
+**30d:** +4.3%  
+**90d:** -33.3%  
+**1y:** -14.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.30B
+**Market Cap:** $356.90B
 Rank #2
 
 **Circulating Supply:** 120,695,044 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.3%
 
 **All-Time Low:** $0.43
-+681997.7%
++681401.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-1h ago
+2h ago
+
+---
+
+**[Getting Ethereum Ready for GigaGas](https://www.reddit.com/r/ethereum/comments/1pqhdeq/getting_ethereum_ready_for_gigagas/)**
+
+Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
+
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 13m ago
 
 ---
 
@@ -136,19 +144,11 @@ I am staking ETH for a long time using Zengo wallet. I always thought they have 
 
 ---
 
-**[Ethereum mixers - current situation?](https://www.reddit.com/r/ethereum/comments/1poyrzj/ethereum_mixers_current_situation/)**
-
-What is the current situation with using crypto mixers in the the US, UK and EU? Could using them actually lead to jail time like what happened to the guy behind Tornado Cash? Are exchanges rejecting funds that have passed through mixers? If not yet how likely is that to happen in the future? Is there any automated tool that can check whether some of the crypto I already hold has gone through mixers? Thanks in advance for any useful replies.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqePBilk_V34uOTmhrjozuYqVCe1TN_REu8ZJ7l7_BL0ejgdbdX4me-O&gaa_ts=69451f53&gaa_sig=sngNdD5xl2jbbE6bL8WfQQBL6MCnhjKqY4fY2UdQyL8apOw0ypzMHKMIaEdgtURMLJmyedLud2zporiqx2xgfg%3D%3D)**
+**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqft3iLVOEnDq9dNrMbQWRmW0zM7448SeLxLRZLKNMWeCchrqHtu1q8V&gaa_ts=69452843&gaa_sig=v5rfe-t5MzM1R3fusHAi4VZVujhkdJdBP6UtgQhJMPcrUzZoesQkSSr6kMuHYpJYuWY7s-Lw0jeLveZv3liA_A%3D%3D)**
 
 Barron's • 2d ago
 
@@ -160,11 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://finance.yahoo.com/news/sofi-unveils-ethereum-stablecoin-trading-130103326.html)**
+**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -184,11 +184,17 @@ ts2.tech • 1d ago
 
 ---
 
+**[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
+
+Bloomberg.com • 21h ago
+
+---
+
 **[Ethereum sinks as major groups sell $51mln – Yet ONE signal hints at relief](https://ambcrypto.com/ethereum-sinks-as-major-groups-sell-51mln-yet-one-signal-hints-at-relief/)**
 
 v
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -209,12 +215,6 @@ CCN.com • 2d ago
 The decline in ether contributed to the selling pressure on meme coins, as traders often use ETH as a risk gauge for altcoins.
 
 CoinDesk • 1d ago
-
----
-
-**[Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum](https://www.bloomberg.com/news/articles/2025-12-18/digital-bank-sofi-joins-stablecoin-race-with-own-dollar-backed-token-on-ethereum)**
-
-Bloomberg.com • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 5 • ⏱️ 7:17 • 20h ago
+👁️ 2K • 👍 130 • 💬 5 • ⏱️ 7:17 • 21h ago
 
 ---
 
