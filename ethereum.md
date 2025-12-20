@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T08:53:35.081687+00:00'
+updated: '2025-12-20T09:17:44.232937+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 08:53 UTC  
+**Last Updated:** December 20, 2025 at 09:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -2.5%  
-**30d:** +8.0%  
-**90d:** -28.8%  
-**1y:** -10.5%  
+**24h:** +0.9%  
+**7d:** -2.6%  
+**30d:** +7.9%  
+**90d:** -28.9%  
+**1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.50B
+**Market Cap:** $360.02B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.6%
+-39.7%
 
 **All-Time Low:** $0.43
-+689506.2%
++688785.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 22h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 23h ago
 
 ---
 
@@ -112,7 +112,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 21h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 22h ago
 
 ---
 
@@ -158,17 +158,11 @@ AMBCrypto • 12h ago
 
 ---
 
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
+**[BlackRock sends $382M in Bitcoin and $220M in Ethereum to Coinbase](https://cryptobriefing.com/blackrock-crypto-deposits-coinbase/)**
 
-Is Ethereum really on the path to a price of $62,000 next year?
+BlackRock crypto deposits total $220M in Ethereum and $382M in Bitcoin to Coinbase Prime, highlighting major institutional activity.
 
-The Motley Fool • 2d ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 21h ago
+Crypto Briefing • 2d ago
 
 ---
 
@@ -180,27 +174,17 @@ Yahoo Finance • 21h ago
 
 ---
 
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 21h ago
+
+---
+
 **[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
 
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
 Decrypt • 1d ago
-
----
-
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
-
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
-
-TradingView — Track All Markets • 20h ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 13h ago
 
 ---
 
@@ -212,19 +196,33 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Ethereum Revolution with Tom Lee](https://www.cantor.com/ethereum-revolution-with-tom-lee/)**
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
 
-BitMine Chairman Tom Lee is bullish on the blockchain regardless of market conditions. In this Cantor Connects interview, he discusses proof of work vs staking, the value of Ethereum, why BitMine came to Cantor to advise on their pivot to an ETH DAT company, and more. Disclaimer: The views and opinions expressed in this video […]
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
 
-Cantor Fitzgerald • 3d ago
+ts2.tech • 14h ago
 
 ---
 
-**[Ethereum Up or Down - December 19, 11:30AM-11:45AM ET Betting Odds & Predictions (Dec. 19, 2025)](https://polymarket.com/event/eth-updown-15m-1766161800)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
 
-Real-time odds on "Ethereum Up or Down - December 19, 11:30AM-11:45AM ET" as of December 20, 2025.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
 
-Polymarket • 1d ago
+FXStreet • 1d ago
+
+---
+
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+
+TradingView — Track All Markets • 21h ago
+
+---
+
+**[MSTR, BMNR Rise After BOJ Rate Decision Results In BItcoin, Ethereum Rebound](https://stocktwits.com/news-articles/markets/cryptocurrency/mstr-bmnr-rise-after-boj-rate-decision-results-in-bitcoin-ethereum-rebound/cLeik8qRErF)**
+
+Stocktwits • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 21h ago
+👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 22h ago
 
 ---
 
@@ -248,7 +246,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 269 • 💬 7 • ⏱️ 21:53 • 17h ago
+👁️ 6K • 👍 269 • 💬 7 • ⏱️ 21:53 • 18h ago
 
 ---
 
@@ -298,7 +296,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 17K • 👍 1K • 💬 178 • ⏱️ 35:52 • 18h ago
+👁️ 17K • 👍 1K • 💬 178 • ⏱️ 35:52 • 19h ago
 
 ---
 
@@ -328,7 +326,7 @@ In this video, we uncover the massive implications of Ethereum's newly announced
 
 📺 CryptoStock Lab
 
-👁️ 919 • 👍 23 • 💬 2 • ⏱️ 15:52 • 17h ago
+👁️ 919 • 👍 23 • 💬 2 • ⏱️ 15:52 • 18h ago
 
 ---
 

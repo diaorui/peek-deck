@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T08:53:35.076494+00:00'
+updated: '2025-12-20T09:17:44.226910+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 08:53 UTC  
+**Last Updated:** December 20, 2025 at 09:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,384.70
+### $88,256.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +0.1%  
-**30d:** +4.0%  
-**90d:** -21.6%  
-**1y:** -9.1%  
+**24h:** -0.1%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1763.09B
+**Market Cap:** $1761.50B
 Rank #1
 
-**Circulating Supply:** 19,964,578 BTC
+**Circulating Supply:** 19,964,596 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.0%
 
 **All-Time Low:** $67.81
-+130128.6%
++130047.5%
 
 ---
 
@@ -77,35 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
-
-15h ago
-
----
-
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
 4h ago
 
 ---
 
-**[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
-
-20h ago
-
----
-
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
 10h ago
-
----
-
-**[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
-
-HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
-
-18h ago
 
 ---
 
@@ -117,27 +97,47 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ---
 
-**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
+**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-14h ago
+15h ago
+
+---
+
+**[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
+
+21h ago
 
 ---
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-50m ago
+1h ago
+
+---
+
+**[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
+
+HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
+
+18h ago
+
+---
+
+**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
+
+1h ago
+
+---
+
+**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
+
+15h ago
 
 ---
 
 **[Victory](https://www.reddit.com/r/Bitcoin/comments/1pqutyf/victory/)**
 
-12h ago
-
----
-
-**[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
-
-17h ago
+13h ago
 
 ---
 
@@ -145,7 +145,55 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfK0kp_H4ccTaXUei2nYCjLv8aTBUO1_QqFh1X0lIwCosbYK1D2-5hV&gaa_ts=6946636d&gaa_sig=fVlMvteeMIPnsy2eCSR_z5gYHrvUTvcO-i9LQCUN9uMaeAL6mCFad-GyHAEMymwI3fXQ0d_SoV5CKNFeAZFiCA%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc-U21xvMoBDi7W1hfq-gRaX8hDnHISxocm-hoFDjV6__7gCW4bBu8k&gaa_ts=69466d1a&gaa_sig=DzF330BNFzKS-pvKcM7kF0RcnyHyhTpfwhbunzMN1IOQnAgnwHOr86ya6y3aknyt6PcOS44cUfkuYRbcb59OPg%3D%3D)**
+
+MarketWatch • 19h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfbSt97oZMqYEN6f3aCIypabLcIGI5UTgqbtRV19EUZu6M4hBoOByye&gaa_ts=69466d1a&gaa_sig=MDiaF5dV7FaqYCTQihvf9RBIxXTZ3RDytHbAaMRgagw-lcAtjGI_jSKSlQWRsXcym5a2Z25zM9aOHK74-6atQQ%3D%3D)**
+
+Barron's • 15h ago
+
+---
+
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
+
+In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
+
+Futurism • 18h ago
+
+---
+
+**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’ About Shareholder Value](https://finance.yahoo.com/news/peter-schiff-says-bitcoin-drop-094721576.html)**
+
+Peter Schiff warned that Bitcoin is unlikely to find a durable bottom at $50,000. Schiff argued that Strategy’s valuation is vulnerable to further declines. Michael ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+
+Reuters • 17h ago
+
+---
+
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 22h ago
+
+---
+
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqcJ8aPPXxUjn5HWsgTeO0f0tUJU52BH_RDKEdS3CtYkDOYPMTJC63hy&gaa_ts=69466d1a&gaa_sig=urNiT6XcT8YYXwIVwHwY8rb10gxrj-AzmXB_4ZcgcrzYGLcaz6Pxc51M5GmXfZYl3pcRzws1h_FbZ-lLFupaFg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -162,54 +210,6 @@ Yahoo Finance • 1d ago
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
 Investing.com • 19h ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqePni3b5hRCQfaa7neVRoP9ufBLKWkPclexBMapWxW1KRoJ-uVj__ee&gaa_ts=6946636d&gaa_sig=n64itEsxnopicdA8htSm_b9HkIEGUB357E37Jk7lhkrEAKYQPw72BjViaYOMYgJWq5cqNMWQp21dssh3Gv1EAA%3D%3D)**
-
-MarketWatch • 19h ago
-
----
-
-**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
-
-Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
-
-CoinDesk • 15h ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcst_shM-1Efp3YzoB2uJbV1vYDRoOa1s53-805iQbYL5CIgOJBrkvO&gaa_ts=6946636d&gaa_sig=IiLqbq2Gvqc-G1aX0bjt4pUCVG2JcL4Scy2msUutDT0j7MVLp8MFFR_qS9YZPDtLv2jIM2VoJKAe2o2RKuRc-w%3D%3D)**
-
-Barron's • 15h ago
-
----
-
-**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’ About Shareholder Value](https://finance.yahoo.com/news/peter-schiff-says-bitcoin-drop-094721576.html)**
-
-Peter Schiff warned that Bitcoin is unlikely to find a durable bottom at $50,000. Schiff argued that Strategy’s valuation is vulnerable to further declines. Michael ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
-
-Reuters • 16h ago
-
----
-
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 22h ago
-
----
-
-**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
-
-In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
-
-Futurism • 17h ago
 
 ---
 
@@ -241,17 +241,17 @@ How much of a resource hog is AI?
 
 ---
 
+**[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
+
+⬆️ 2 • 💬 3 • 3h ago
+
+---
+
 **[Silk Road-linked Bitcoin wallets move $3M to new address](https://news.ycombinator.com/item?id=46255488)**
 
 Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
 
 ⬆️ 2 • 💬 3 • 6d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
-
----
-
-**[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
-
-⬆️ 2 • 💬 1 • 3h ago
 
 ---
 
@@ -274,22 +274,6 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ⬆️ 1 • 💬 0 • 3d ago • [flip.gold](https://flip.gold/)
-
----
-
-**[Token-Count-Based Batching: Faster, Cheaper Embedding Inference for Queries](https://news.ycombinator.com/item?id=46318968)**
-
-Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
-
-⬆️ 1 • 💬 0 • 1d ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
-
----
-
-**[Show HN: Context Engine – open-source primitives for agent context management](https://news.ycombinator.com/item?id=46331925)**
-
-Open source primitives for agent context management - Michaelliv/context-engine
-
-⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 
@@ -333,7 +317,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 167 • 💬 42 • ⏱️ 4:42 • 8h ago
+👁️ 3K • 👍 167 • 💬 42 • ⏱️ 4:42 • 9h ago
 
 ---
 
@@ -353,7 +337,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 63K • 👍 4K • 💬 241 • ⏱️ 18:06 • 16h ago
+👁️ 63K • 👍 4K • 💬 241 • ⏱️ 18:06 • 17h ago
 
 ---
 
@@ -363,7 +347,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 230 • 💬 6 • ⏱️ 7:49 • 3h ago
+👁️ 2K • 👍 230 • 💬 6 • ⏱️ 7:49 • 4h ago
 
 ---
 
@@ -393,7 +377,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 21h ago
+👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 22h ago
 
 ---
 
