@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-19T23:56:13.972326+00:00'
+updated: '2025-12-20T01:50:49.888123+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 19, 2025 at 23:56 UTC  
+**Last Updated:** December 20, 2025 at 01:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-14h ago
+16h ago
 
 ---
 
@@ -53,11 +53,19 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 ---
 
+**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
+
+$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
+
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1m ago
+
+---
+
 **[Researchers show a robot learning 1,000 tasks in 24 hours](https://www.reddit.com/r/artificial/comments/1pqb8tk/researchers_show_a_robot_learning_1000_tasks_in/)**
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 20h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 21h ago
 
 ---
 
@@ -65,7 +73,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 4h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 6h ago
 
 ---
 
@@ -81,7 +89,7 @@ My question is about reliance on facial recognition software, and more generally
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-18h ago
+20h ago
 
 ---
 
@@ -109,65 +117,51 @@ This year, AI has improved a lot, but it still feels limited in some situations.
 
 ---
 
-**[How To Browse The Pre-ChatGPT Internet](https://www.reddit.com/r/artificial/comments/1pq60u4/how_to_browse_the_prechatgpt_internet/)**
-
-I'm sure this has already been shared, but this is now one my default google search strings: https://www.google.com/search?q=your+keywords+here&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Breaking down the URL parameters: q=your+keywords+here - the search query, separate words with + udm=14 - this forces Google to bypass AI overview and use the old web search layout tbs=cdr:1,cd_min:01/01/2000,cd_max:11/29/2022 "tbs" is the "to be searched" parameter and CDR means "custom date range". This forces Google to use the date range you're specifying. "cd_min" and "cd_max" are the date ranges in MM/DD/YYYY. I set cd_max to the day before ChatGPT was released. Making This The Default Address Bar Search I'm using Librewolf (Firefox Fork) but there are similar options for most browsers IIRC. For Firefox/Librewolf: Type about:preferences#search in your address bar and hit Enter. This gives you Firefox's Address Bar Search settings. Scroll to the bottom of the settings page and click "Add" in the "Search Shortcuts" section. Give the custom search a name (eg: GoogleClassic) and add the following string in the "URL with %s" section: https://www.google.com/search?q=%s&udm=14&tbs=cdr:1,cd_min:01/01/2000,cd_max:11/30/2022 Hit "Save". Scroll up to the top of the about:preferences#search page and set your "Default Search Engine" to "GoogleClassic". Now, whenever you use the browser's address bar to search using GoogleClassic, you'll get Google Web results (sans AI overview) and only within the specified date range.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
-
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 11h ago
-
----
-
-**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
-
-When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
-
-The Guardian • 8h ago
-
----
-
-**[NY Gov. Kathy Hochul signs sweeping AI safety bill, RAISE Act](https://www.axios.com/2025/12/19/new-york-ai-safety-bill-hochul)**
-
-Axios • 58m ago
-
----
-
-**[Want to work in AI? Here are the skills to master, economist says](https://www.cbsnews.com/news/ai-artificial-intelligence-ai-jobs-labor-market/)**
-
-Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
-
-CBS News • 1h ago
-
----
-
-**[Where are investors placing their bets next year? AI, AI, AI.](https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/)**
-
-Investors at TechCrunch Disrupt explained their focus on artificial intelligence and offered advice to founders on how to stand out in a crowded AI field.
-
-TechCrunch • 1h ago
-
----
-
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 13h ago
+The New York Times • 6h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeju8_lvpx3PnlaDmG8dv2pj9-4kKvhLgqKzExJ9HImZJ_CTNDX57f3&gaa_ts=6945e417&gaa_sig=A51Wd_g3ZHdB6TRl1iNdjSYL4itSI2Z3u1S-MO1uTRcso3NFgUDpbxKVSoQOYECkXuKd7_K33b8--ONTn0CdbQ%3D%3D)**
+**[Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees](https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-ai-software-devs-hired-2025-ex-employees.html)**
 
-The Wall Street Journal • 1d ago
+As competition heats up for AI talent, Google turned to hiring more so-called boomerang employees in 2025.
+
+CNBC • 8h ago
+
+---
+
+**[Data center deals hit record $61 billion in 2025 amid construction frenzy](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html)**
+
+Hyperscalers are increasingly turning to outside capital in the form of debt to fund the energy-intensive infrastructure.
+
+CNBC • 16h ago
+
+---
+
+**[What AI data centers are doing to your electric bill : Planet Money](https://www.npr.org/2025/12/19/nx-s1-5649814/ai-data-center-electricity-bill)**
+
+As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
+
+NPR • 1h ago
+
+---
+
+**[AI boom drives data-center dealmaking to record high, says report](https://www.reuters.com/business/ai-boom-drives-data-center-dealmaking-record-high-says-report-2025-12-19/)**
+
+Reuters • 7h ago
+
+---
+
+**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 11h ago
 
 ---
 
@@ -175,23 +169,29 @@ The Wall Street Journal • 1d ago
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 13h ago
+CNN • 15h ago
 
 ---
 
-**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
 
-Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
+A Stanford software engineering degree used to be a golden ticket.
 
-CNBC • 7h ago
+Los Angeles Times • 13h ago
 
 ---
 
-**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-Fortune • 9h ago
+The Guardian • 10h ago
+
+---
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfFBg3thl5axM3pJdP23qv3oR7LmpyQqJ6ctW-wV9pbqXG6cJG5MzA-&gaa_ts=6946045c&gaa_sig=inIktNRyYmwliXJuHOgxvnBqZV7cUfeMN5J_OkmnIyUXDpT9g5bDCkw0Fvst0EQKSOVdJzZb6ppZXxZyHDciFQ%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -203,7 +203,7 @@ Fortune • 9h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1051 • 💬 527 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1052 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -215,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 530 • 💬 507 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 532 • 💬 513 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -223,7 +223,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 446 • 💬 567 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 447 • 💬 570 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -293,37 +293,7 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 18K • 👍 695 • 💬 307 • ⏱️ 16:15 • 1d ago
-
----
-
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 172K • 👍 10K • 💬 1K • ⏱️ 5:52 • 1d ago
-
----
-
-**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
-
-AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
-
-📺 The Diary Of A CEO
-
-👁️ 623K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
-
----
-
-**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
-
-In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
-
-📺 Sinead Bovell
-
-👁️ 25K • 👍 2K • 💬 265 • ⏱️ 17:48 • 1d ago
+👁️ 18K • 👍 709 • 💬 310 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -333,17 +303,37 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 2K • 👍 73 • 💬 8 • ⏱️ 1:00 • 1h ago
+👁️ 5K • 👍 145 • 💬 11 • ⏱️ 1:00 • 3h ago
 
 ---
 
-**[Gemini Super Gems: Google&#39;s NEW AI Super Agent! Goodbye N8N! (FULLY FREE AI App Generator)](https://www.youtube.com/watch?v=1choivCbZDg)**
+**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
 
-Level up your creative workflow with Lovart → https://www.lovart.ai/?sourceId=901177 Google just dropped Super Gems in ...
+In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
 
-📺 WorldofAI
+📺 Sinead Bovell
 
-👁️ 50K • 👍 1K • 💬 45 • ⏱️ 11:44 • 2d ago
+👁️ 26K • 👍 2K • 💬 276 • ⏱️ 17:48 • 1d ago
+
+---
+
+**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
+
+AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
+
+📺 The Diary Of A CEO
+
+👁️ 635K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+
+---
+
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+
+Are we watching an AI revolution, or a slow-motion economic disaster?
+
+📺 Robert Reich
+
+👁️ 181K • 👍 10K • 💬 1K • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -353,7 +343,17 @@ after 3 months of testing and research, I finally cracked it, and now I can gene
 
 📺 Hasan Aboul Hasan
 
-👁️ 17K • 👍 995 • 💬 73 • ⏱️ 4:43 • 1d ago
+👁️ 18K • 👍 1K • 💬 74 • ⏱️ 4:43 • 1d ago
+
+---
+
+**[Gemini Exponential, Demis Hassabis&#39; ‘Proto-AGI’ coming, but …](https://www.youtube.com/watch?v=WHqaF4jbUYU)**
+
+The condensed highlights of hours of AI lab leader interviews, last-48-hour model releases, Gemini 3 Flash insights (plus it's ...
+
+📺 AI Explained
+
+👁️ 37K • 👍 2K • 💬 246 • ⏱️ 20:00 • 9h ago
 
 ---
 
@@ -363,27 +363,27 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 16K • 👍 683 • 💬 30 • ⏱️ 1:01 • 7h ago
+👁️ 18K • 👍 741 • 💬 30 • ⏱️ 1:01 • 9h ago
 
 ---
 
-**[Cluster Agents Are Great... 90% of AI Coding Workflows Are Done Now](https://www.youtube.com/watch?v=V-xBaFveTvA)**
+**[One Punch – Lion Down Forever! #hulk #aihulk #desihulk #hulkvJungaliSher #ai #JungaliSher](https://www.youtube.com/watch?v=CQHyFVijCrQ)**
 
-AI Coding workflows are quietly changing with Claude Code's new async background agents. This video breaks down how they ...
+Hashtags - #desihulk #hulkvsJungaliSher #JungaliSher #tungtungtungsahur #hulkvsbluehulk #hulkKipaskawasaki #kawasaki ...
 
-📺 AI LABS
+📺 Fharuk ai shorts
 
-👁️ 6K • 👍 195 • 💬 14 • ⏱️ 7:15 • 10h ago
+👁️ 5K • 💬 58 • ⏱️ 0:56 • 1d ago
 
 ---
 
-**[Sam Altman: How OpenAI Wins, AI Buildout Logic, IPO in 2026?](https://www.youtube.com/watch?v=2P27Ef-LLuQ)**
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
 
-Sam Altman is the CEO of OpenAI. Altman joins Big Technology Podcast to discuss OpenAI's plan to win in a tightening AI race.
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Alex Kantrowitz
+📺 Julian Goldie SEO
 
-👁️ 60K • 👍 2K • 💬 485 • ⏱️ 58:23 • 1d ago
+👁️ 10K • 👍 222 • 💬 13 • ⏱️ 8:13 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,089 • 11d ago
+⬇️ 329,981 • ❤️ 3,101 • 11d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 381 • 3h ago
+⬇️ 62,493 • ❤️ 385 • 5h ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 347 • 1d ago
+⬇️ 0 • ❤️ 349 • 1d ago
 
 ---
 
@@ -435,19 +435,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 305 • 1d ago
-
----
-
-**[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
-
-*Resemble AI*
-
-Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M parameters) optimized for low-latency voice agents and narration. It features single-step mel-decoder generation and supports paralinguistic tags like [cough] and [laugh] for enhanced realism.
-
-`text-to-speech`
-
-⬇️ 0 • ❤️ 283 • 4d ago
+⬇️ 3,633 • ❤️ 309 • 1d ago
 
 ---
 
@@ -459,19 +447,19 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 280 • 5d ago
+⬇️ 2,490 • ❤️ 293 • 5d ago
 
 ---
 
-**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
+**[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
 
-*Microsoft*
+*Resemble AI*
 
-TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
+Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M parameters) optimized for low-latency voice agents and narration. It features single-step mel-decoder generation and supports paralinguistic tags like [cough] and [laugh] for enhanced realism.
 
-`image-to-3d`
+`text-to-speech`
 
-⬇️ 0 • ❤️ 250 • 2d ago
+⬇️ 0 • ❤️ 287 • 4d ago
 
 ---
 
@@ -483,7 +471,19 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 246 • 1d ago
+⬇️ 2,154 • ❤️ 259 • 1d ago
+
+---
+
+**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
+
+*Microsoft*
+
+TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
+
+`image-to-3d`
+
+⬇️ 0 • ❤️ 252 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 230 • 2d ago
+⬇️ 397 • ❤️ 234 • 2d ago
 
 ---
 
@@ -507,7 +507,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 951 • 7d ago
+⬇️ 201,479 • ❤️ 953 • 7d ago
 
 ---
 
@@ -581,20 +581,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 204 • 💬 5 • ⭐ 7,411 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -620,6 +606,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 204 • 💬 5 • ⭐ 7,436 • 22d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[FunAudioLLM: Voice Understanding and Generation Foundation Models for
   Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
 
@@ -633,16 +633,17 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 GVC Lab at Great Bay University
 
-▲ 26 • 💬 1 • ⭐ 65,778 • 27mo ago
+PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 26 • 💬 2 • ⭐ 601 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -656,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 12h ago
+⭐ 18.0k • 🔱 2.8k • 14h ago
 
 ---
 
@@ -666,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.8k • 🔱 513 • 1d ago
+⭐ 4.9k • 🔱 516 • 1d ago
 
 ---
 
@@ -676,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 147 • 8h ago
+⭐ 2.1k • 🔱 149 • 10h ago
 
 ---
 
@@ -697,16 +698,6 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
 ⭐ 1.3k • 🔱 326 • 13d ago
-
----
-
-**[repplus/rep](https://github.com/repplus/rep)**
-
-rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
-
-`JavaScript` `css` `html` `javascript` `markdown`
-
-⭐ 1.2k • 🔱 141 • 12h ago
 
 ---
 
@@ -736,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 820 • 🔱 134 • 3d ago
+⭐ 821 • 🔱 134 • 3d ago
 
 ---
 
@@ -747,6 +738,16 @@ Open Source Semantic Search for your AI Agent
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
 ⭐ 794 • 🔱 116 • 2d ago
+
+---
+
+**[wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher)**
+
+Google Antigravity AI模型配额监控插件
+
+`TypeScript`
+
+⭐ 793 • 🔱 37 • 2d ago
 
 ---
 

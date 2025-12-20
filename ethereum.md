@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-19T23:56:13.986671+00:00'
+updated: '2025-12-20T01:50:49.902546+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 19, 2025 at 23:56 UTC  
+**Last Updated:** December 20, 2025 at 01:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,989.23
+### $2,977.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.3%  
-**7d:** -4.1%  
-**30d:** +5.1%  
-**90d:** -32.8%  
-**1y:** -13.9%  
+**24h:** +4.9%  
+**7d:** -2.8%  
+**30d:** +7.7%  
+**90d:** -29.1%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.23B
+**Market Cap:** $359.23B
 Rank #2
 
-**Circulating Supply:** 120,695,044 ETH
+**Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.8%
 
 **All-Time Low:** $0.43
-+688783.3%
++687178.1%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion December 19, 2025](https://www.reddit.com/r/ethereum/comments/1pqdmmk/daily_general_discussion_december_19_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-17h ago
-
----
-
 **[Trust funds don’t exist where I live, can I substitute it with crypto?](https://www.reddit.com/r/ethereum/comments/1pqv5m1/trust_funds_dont_exist_where_i_live_can_i/)**
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-3h ago
+5h ago
+
+---
+
+**[Daily General Discussion December 19, 2025](https://www.reddit.com/r/ethereum/comments/1pqdmmk/daily_general_discussion_december_19_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ I live in Indonesia. Trust funds basically don’t exist here, and investing in 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 13h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-15h ago
+17h ago
 
 ---
 
@@ -104,13 +104,13 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 12h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 14h ago
 
 ---
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 10h ago
 
 ---
 
@@ -134,7 +134,7 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
 
-1d ago
+2d ago
 
 ---
 
@@ -148,47 +148,33 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+**[BlackRock sends $382M in Bitcoin and $220M in Ethereum to Coinbase](https://cryptobriefing.com/blackrock-crypto-deposits-coinbase/)**
 
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
+BlackRock crypto deposits total $220M in Ethereum and $382M in Bitcoin to Coinbase Prime, highlighting major institutional activity.
 
-Yahoo Finance • 21h ago
-
----
-
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
-
-Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
-
-Decrypt • 1d ago
+Crypto Briefing • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall Again. Why Jobs Data Hit Hopes of a Crypto Rebound.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-jobs-data-fed-d51316bd?gaa_at=eafs&gaa_n=AWEtsqev5RVHvcO1FbWa2-u2MBQKQ_42u3CPaflQNRavhOy96f92CNAi3o2Q&gaa_ts=6945e416&gaa_sig=kNThUOytyd7qRGMlPBjsz14UZ3kIx3RzrayailuqgZo2XiWFp_BRy-w2Sz5oFGo5Y2GglC4z1EeUBYDbpx4K6A%3D%3D)**
+**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
 
-Barron's • 3d ago
+Next year could be good but won't be driven by blockchain tech upgrades.
 
----
-
-**[Synthetix Ditches Layer-2s, Returns to Ethereum’s Mainnet](https://finance.yahoo.com/news/synthetix-ditches-layer-2s-returns-221649947.html)**
-
-DeFi derivatives protocol Synthetix is returning to the Ethereum Mainnet after a three-year stint on various Layer-2 networks. The move comes as a response to fragmented liquidity that saw its native token, SNX, fall approximately 83% since late 2024. This strategic shift signals renewed confidence in Ethereum’s ability to handle ...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 12h ago
+The Block • 14h ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+**[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
 
-Next year could be good but won't be driven by blockchain tech upgrades.
+Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
 
-The Motley Fool • 12h ago
+BeInCrypto • 20h ago
 
 ---
 
@@ -200,23 +186,41 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025](https://ts2.tech/en/ethereum-price-today-eth-usd-slides-to-the-2800s-as-etf-outflows-mount-forecast-and-key-levels-for-dec-17-2025/)**
+**[Bitmine Immersion Technologies (BMNR): Evaluating Valuation After Aggressive Ethereum Accumulation and Strategic Shift to Staking Platform](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-evaluating-020658733.html)**
 
-Ethereum Price Today (ETH-USD) Slides to the $2,800s as ETF Outflows Mount — Forecast and Key Levels for Dec. 17, 2025 - TechStock²
+Bitmine Immersion Technologies (BMNR) has been aggressively leaning into its Ethereum bet, steadily buying tokens until it now controls more than 3.2% of the total ETH supply, with leadership openly targeting 5% and beyond. See our latest analysis for Bitmine Immersion Technologies. Those aggressive ETH buys and ARK’s contrarian dip-buying are landing against a choppy tape, with Bitmine’s 90 day share price return down about 45%, even after a 348% year to date share price surge and 12 month...
 
-ts2.tech • 2d ago
-
----
-
-**[Synthetix Unveils Perpetual DEX on Ethereum Mainnet](https://thedefiant.io/news/defi/synthetix-unveils-perpetual-dex-on-ethereum-mainnet)**
-
-The Defiant • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Cathie Wood Makes $17M Bet on Tom Lee’s Ethereum Treasury, Ranks Bitcoin 'Leader' Amid $1.5M Prediction](https://www.ccn.com/news/crypto/cathie-wood-bet-tom-lees-ethereum-treasury-bitcoin-crypto-leader/)**
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
 
-CCN.com • 3d ago
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 6h ago
+
+---
+
+**[Tom Lee's BitMine Keeps Buying Ethereum, Adding $320 Million to ETH Treasury](https://decrypt.co/352365/tom-lees-bitmine-keeps-buying-ethereum-adding-320-million-eth-treasury)**
+
+Ethereum treasury firm BitMine Immersion Technologies added to its balance sheet last week, acquiring around $320 million in ETH.
+
+Decrypt • 4d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqfvN842S__izI9vwm8bdDpWysNO-Y_z3T-fdIScsCVwypO_sWbQ4p9u&gaa_ts=69460460&gaa_sig=9BJupko0wjzto423-4qIuEn1YB7dROQO1oTaj96BK_W0QGbY3hac6Ujpay2LahWW3LdYC9aceETYpmJq-aksJQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -230,7 +234,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 472 • 💬 66 • ⏱️ 8:37 • 12h ago
+👁️ 15K • 👍 471 • 💬 76 • ⏱️ 8:37 • 14h ago
 
 ---
 
@@ -240,17 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 183 • 💬 44 • ⏱️ 21:53 • 8h ago
-
----
-
-**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
-
-Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
-
-📺 Sin City Crypto
-
-👁️ 589 • 👍 58 • ⏱️ 58:50 • 4h ago
+👁️ 4K • 👍 203 • 💬 47 • ⏱️ 21:53 • 10h ago
 
 ---
 
@@ -260,17 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 441 • 💬 50 • ⏱️ 16:54 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XDMJuuBKCtA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 153 • 💬 11 • ⏱️ 9:41 • 10h ago
+👁️ 13K • 👍 450 • 💬 53 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -280,7 +264,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 4K • 👍 222 • 💬 135 • ⏱️ 22:39 • 5h ago
+👁️ 5K • 👍 245 • 💬 144 • ⏱️ 22:39 • 7h ago
 
 ---
 
@@ -290,37 +274,57 @@ In this video, we uncover the massive implications of Ethereum's newly announced
 
 📺 CryptoStock Lab
 
-👁️ 648 • 👍 21 • 💬 21 • ⏱️ 15:52 • 8h ago
+👁️ 735 • 👍 21 • 💬 57 • ⏱️ 15:52 • 10h ago
 
 ---
 
-**[REALISTIC ETH Price Prediction for 2026](https://www.youtube.com/watch?v=M2T6_rjIvpA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XDMJuuBKCtA)**
 
-As we head into what I'm expecting to be a "Bottom Year" (or bear market year), it's time to look at realistic and reasonable targets ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 More Crypto Online
 
-👁️ 9K • 👍 392 • 💬 81 • ⏱️ 11:01 • 2d ago
-
----
-
-**[XRP ETFs CRUSHING Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=9vySY0ML4Ik)**
-
-FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
-
-📺 Paul Barron Podcast
-
-👁️ 15K • 👍 1K • 💬 209 • ⏱️ 35:52 • 9h ago
+👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 12h ago
 
 ---
 
-**[Ethereum Sees Small Recovery Before A MUCH Bigger Drop](https://www.youtube.com/watch?v=NWg1n9p9wZc)**
+**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
 
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
 
-📺 Trade Confident
+📺 Sin City Crypto
 
-👁️ 162 • 👍 14 • 💬 38 • ⏱️ 5:53 • 2h ago
+👁️ 658 • 👍 60 • ⏱️ 58:50 • 6h ago
+
+---
+
+**[WILL ETH DUMP LOWER?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=GqNy42fzzqc)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 341 • 👍 14 • 💬 39 • ⏱️ 4:42 • 15h ago
+
+---
+
+**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 17K • 👍 2K • 💬 2 • ⏱️ 27:59 • 12h ago
+
+---
+
+**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
+
+Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
+
+📺 Taiki Maeda
+
+👁️ 15K • 👍 628 • 💬 266 • ⏱️ 33:33 • 2d ago
 
 ---
 
