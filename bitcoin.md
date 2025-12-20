@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T22:43:36.265576+00:00'
+updated: '2025-12-20T22:54:33.711098+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 22:43 UTC  
+**Last Updated:** December 20, 2025 at 22:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,9 +45,9 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** -0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
 **1y:** -9.3%  
 
 ---
@@ -133,7 +133,7 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-21m ago
+32m ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1h ago
 
 This dip is an opportunity to think about what matters most with this asset.
 
-The Motley Fool • 16m ago
+The Motley Fool • 27m ago
 
 ---
 

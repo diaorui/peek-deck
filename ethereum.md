@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T22:43:36.271579+00:00'
+updated: '2025-12-20T22:54:33.717389+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 22:43 UTC  
+**Last Updated:** December 20, 2025 at 22:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -2.9%  
-**30d:** +7.6%  
+**24h:** -0.2%  
+**7d:** -2.8%  
+**30d:** +7.7%  
 **90d:** -29.1%  
-**1y:** -10.9%  
+**1y:** -10.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-1h ago
+2h ago
 
 ---
 
@@ -160,7 +160,7 @@ AMBCrypto • 21h ago
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 9h ago
+livemint.com • 10h ago
 
 ---
 

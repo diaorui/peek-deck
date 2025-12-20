@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T22:43:36.257149+00:00'
+updated: '2025-12-20T22:54:33.696978+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 22:43 UTC  
+**Last Updated:** December 20, 2025 at 22:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 3h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 20h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 21h ago
 
 ---
 
@@ -125,13 +125,13 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 7h ago
+Politico • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ Start with AI on OpenArt: https://www.openart.ai/home/?ref=Robert (I use this) Y
 
 📺 Robert Reynolds
 
-👁️ 4K • 👍 3K • 💬 3 • ⏱️ 8:58 • 8h ago
+👁️ 4K • 👍 3K • 💬 3 • ⏱️ 8:58 • 9h ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 569 • 7h ago
+⭐ 5.2k • 🔱 569 • 8h ago
 
 ---
 
@@ -737,7 +737,7 @@ Open Source Semantic Search for your AI Agent
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 806 • 🔱 76 • 4h ago
+⭐ 806 • 🔱 76 • 5h ago
 
 ---
 
