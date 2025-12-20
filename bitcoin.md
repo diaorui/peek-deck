@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T11:53:51.003639+00:00'
+updated: '2025-12-20T12:33:56.476913+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 11:53 UTC  
+**Last Updated:** December 20, 2025 at 12:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,263.80
+### $88,280.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.3%  
 **7d:** +0.1%  
 **30d:** +4.0%  
-**90d:** -21.6%  
+**90d:** -21.7%  
 **1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.48B
+**Market Cap:** $1760.38B
 Rank #1
 
-**Circulating Supply:** 19,964,640 BTC
+**Circulating Supply:** 19,964,662 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.1%
 
 **All-Time Low:** $67.81
-+130044.5%
++129931.0%
 
 ---
 
@@ -93,7 +93,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -105,19 +105,19 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-3h ago
+4h ago
 
 ---
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-3h ago
+4h ago
 
 ---
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -137,7 +137,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -147,7 +147,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Block • 13h ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -163,17 +163,17 @@ CoinDesk • 18h ago
 
 Circle remains the bank's top pick in the sector, with Bullish and Coinbase following.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdBA3kR02-EZn3so3l7Wr0dRAo9WWZ5U0b_lvSyUqRKCrUOY2jOvySB&gaa_ts=694691bb&gaa_sig=MoVLogHmCxJw_ygw8TSe8uXIL0NEOKdWckpIHGXna6__siy89QPkGbz1gkHDY5kcNcg0s_9xZj0SdGigdKk5yA%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqd35xUNR0zagtRKmdFwnMge9-p08zOkTBLzKiPxe8J7k1kETFmXqNW_&gaa_ts=69469b20&gaa_sig=lOPPaeBm9J6N1Td4Wc2ZqZ_xAlmoP3SaQAhRwQ1bV1SKhs1jNSJVDLXIg-_Y-tJ_80Jra0D9U51i3G-ntm3xzw%3D%3D)**
 
-Barron's • 18h ago
+Barron's • 19h ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
@@ -199,15 +199,7 @@ Forbes • 1d ago
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-Futurism • 20h ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
-
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
-
-The Motley Fool • 1h ago
+Futurism • 21h ago
 
 ---
 
@@ -216,6 +208,14 @@ The Motley Fool • 1h ago
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
 CoinDesk • 19h ago
+
+---
+
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
+
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -257,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 20h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 21h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -281,33 +281,23 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ## YouTube Videos: "bitcoin"
 
-**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
-
-Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
-
-📺 CryptosRus Extra
-
-👁️ 9K • 👍 464 • 💬 194 • ⏱️ 10:58 • 11h ago
-
----
-
 **[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
 
 My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 65 • ⏱️ 13:47 • 12h ago
+👁️ 27K • 👍 2K • 💬 91 • ⏱️ 13:47 • 13h ago
 
 ---
 
-**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
 
-Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
 
-📺 BTC Isla
+📺 CryptosRus Extra
 
-👁️ 14K • 👍 1K • 💬 223 • ⏱️ 8:31 • 18h ago
+👁️ 10K • 👍 503 • 💬 228 • ⏱️ 10:58 • 12h ago
 
 ---
 
@@ -317,27 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 37K • 👍 2K • 💬 174 • ⏱️ 44:14 • 20h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
-
-It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
-
-📺 Benjamin Cowen
-
-👁️ 66K • 👍 4K • 💬 248 • ⏱️ 18:06 • 19h ago
-
----
-
-**[BITCOIN MANIPULATION](https://www.youtube.com/watch?v=i1TR-gUQ2LQ)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 7K • 👍 371 • 💬 31 • ⏱️ 9:31 • 19h ago
+👁️ 38K • 👍 2K • 💬 175 • ⏱️ 44:14 • 21h ago
 
 ---
 
@@ -347,7 +317,27 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 49K • 👍 2K • 💬 155 • ⏱️ 16:50 • 1d ago
+👁️ 50K • 👍 2K • 💬 157 • ⏱️ 16:50 • 1d ago
+
+---
+
+**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+
+Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+
+📺 BTC Isla
+
+👁️ 15K • 👍 1K • 💬 234 • ⏱️ 8:31 • 19h ago
+
+---
+
+**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
+
+CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
+
+📺 Craigslist Hunter
+
+👁️ 40K • 👍 1K • 💬 214 • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -357,17 +347,27 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 189 • 💬 44 • ⏱️ 4:42 • 11h ago
+👁️ 3K • 👍 209 • 💬 48 • ⏱️ 4:42 • 12h ago
 
 ---
 
-**[BITCOIN: 96% OF TRADERS WILL MISS THIS!!!](https://www.youtube.com/watch?v=QBrPwCpiLHw)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=HzxkdNoefQY)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 Coinflare: ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Crypto Kid
+📺 ET Transport
 
-👁️ 3K • 👍 216 • 💬 26 • ⏱️ 6:37 • 13h ago
+👁️ 2K • 👍 1K • 21m ago
+
+---
+
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+
+📺 Thomas Kralow
+
+👁️ 16K • 👍 496 • 💬 29 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -377,7 +377,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 349 • 💬 13 • ⏱️ 7:49 • 6h ago
+👁️ 6K • 👍 415 • 💬 16 • ⏱️ 7:49 • 7h ago
 
 ---
 

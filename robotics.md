@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T11:53:51.012975+00:00'
+updated: '2025-12-20T12:33:56.485201+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 11:53 UTC  
+**Last Updated:** December 20, 2025 at 12:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.nio-robotics.com/
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-7h ago
+8h ago
 
 ---
 
@@ -112,19 +112,33 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 ## Google News: "robotics"
 
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 3d ago
+
+---
+
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Humanoid robots are coming, but can they win our hearts and minds?](https://www.abc.net.au/news/science/2025-12-19/how-to-design-a-humanoid-robot-a-human-will-trust/106033272)**
+
+Humanoid robots may be part of our future, but human psychology and the uncanny valley may stand between them and world domination.
+
+Australian Broadcasting Corporation • 1d ago
+
+---
+
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 17h ago
-
----
-
-**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
-
-Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
-
-Interesting Engineering • 2d ago
+Futurism • 18h ago
 
 ---
 
@@ -156,7 +170,7 @@ TechCrunch • 2d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 12h ago
+South China Morning Post • 13h ago
 
 ---
 
@@ -174,22 +188,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
-
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
-
-NVIDIA Developer • 2d ago
-
----
-
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 9K • 👍 280 • 💬 25 • ⏱️ 2:08:46 • 11h ago
+👁️ 10K • 👍 304 • 💬 28 • ⏱️ 2:08:46 • 12h ago
 
 ---
 
@@ -210,7 +208,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 17K • 👍 316 • 💬 98 • ⏱️ 3:55 • 1d ago
+👁️ 18K • 👍 329 • 💬 100 • ⏱️ 3:55 • 1d ago
 
 ---
 
@@ -230,7 +228,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 31K • 👍 758 • 💬 121 • ⏱️ 6:41 • 5d ago
+👁️ 32K • 👍 759 • 💬 121 • ⏱️ 6:41 • 5d ago
 
 ---
 
@@ -260,17 +258,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 47K • 👍 3K • 💬 314 • ⏱️ 13:43 • 1d ago
-
----
-
-**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
-
-Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
-
-📺 Digital Farming 
-
-👁️ 16K • 👍 38 • ⏱️ 0:09 • 1d ago
+👁️ 51K • 👍 3K • 💬 327 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -280,15 +268,27 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 465K • 👍 16K • 💬 498 • ⏱️ 0:34 • 6d ago
+👁️ 468K • 👍 16K • 💬 504 • ⏱️ 0:34 • 6d ago
 
 ---
 
-**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
+**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
 
-📺 QCT
+Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
 
-👁️ 285K • 👍 4K • 💬 63 • ⏱️ 0:25 • 1d ago
+📺 Digital Farming 
+
+👁️ 17K • 👍 37 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[They Crushed The Indra With NERFS... Indra Overhaul Has Arrived | War Robots](https://www.youtube.com/watch?v=3pO2EaxafpU)**
+
+The Indra got big nerfs by pixonic. I was afraid of this, and it's arrived. The Indra, which is alot of f2p players go to titan has got big ...
+
+📺 PREDATOR WR
+
+👁️ 7K • 👍 300 • 💬 49 • ⏱️ 16:44 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T11:53:50.995078+00:00'
+updated: '2025-12-20T12:33:56.469233+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 11:53 UTC  
+**Last Updated:** December 20, 2025 at 12:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
-**[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
-
-Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
-
-5h ago
-
----
-
 **[Facing this issue with Gemini Pro for two days now.](https://www.reddit.com/r/artificial/comments/1pr3pam/facing_this_issue_with_gemini_pro_for_two_days_now/)**
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-8h ago
+9h ago
+
+---
+
+**[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
+
+Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
+
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ You built the models. You wrote the papers. You understand transformers, attenti
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 16h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 17h ago
 
 ---
 
@@ -121,7 +121,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfjIE4JU1bIjzCpliO-0C-fvAvRQIV6H-qlv6-tMnhpLvY7Wy74CTJC&gaa_ts=694691bd&gaa_sig=i7XS9sT8uda5s17vNsFfUJfncuam4lwug1eSm4xagZ4a-LHtvJgt02SgAh6scR8cf3Slt7VxY3NpYY9JYT0qRg%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeVHW8au9sGJOd7jYh_fmYscBQOlAWnQaxOENhoYks7ZdnvrVy0hINZ&gaa_ts=69469b1f&gaa_sig=8Yv_G4Asr1WQQ5TtCAZyLGI3NXiV8RRIw9ZY60Ezs_eSN2J-wt8RbI0x3LhP8OfcowdJRSyXG1RZTbly03qbgg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 2d ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -143,11 +143,17 @@ BBC • 10h ago
 
 ---
 
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 33m ago
+
+---
+
 **[Trump's AI policy is dividing his party. Here's what key GOP critics are saying about it.](https://www.businessinsider.com/gop-critics-trump-ai-preemption-policy-2025-12)**
 
 Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
 
-Business Insider • 54m ago
+Business Insider • 1h ago
 
 ---
 
@@ -155,15 +161,7 @@ Business Insider • 54m ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 53m ago
-
----
-
-**[AI Factory Driving Enterprise Innovation at Scale | NVIDIA Customer Stories](https://www.nvidia.com/en-us/customer-stories/ai-factory-drives-enterprise-innovation-at-scale/)**
-
-Driving enterprise innovation with NVIDIA AI.
-
-NVIDIA • 14m ago
+The New Yorker • 1h ago
 
 ---
 
@@ -171,7 +169,7 @@ NVIDIA • 14m ago
 
 Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -187,15 +185,13 @@ CNN • 1d ago
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 23h ago
+Los Angeles Times • 1d ago
 
 ---
 
-**[Want to work in AI? Here are the skills to master, economist says](https://www.cbsnews.com/news/ai-artificial-intelligence-ai-jobs-labor-market/)**
+**[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
 
-Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
-
-CBS News • 13h ago
+Politico • 12h ago
 
 ---
 
@@ -251,7 +247,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 155 • 💬 68 • 3h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 195 • 💬 93 • 3h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -297,37 +293,17 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 20K • 👍 762 • 💬 320 • ⏱️ 16:15 • 1d ago
+👁️ 20K • 👍 765 • 💬 315 • ⏱️ 16:15 • 1d ago
 
 ---
 
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
 
-Are we watching an AI revolution, or a slow-motion economic disaster?
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
 
-📺 Robert Reich
+📺 gptars
 
-👁️ 202K • 👍 11K • 💬 1K • ⏱️ 5:52 • 1d ago
-
----
-
-**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
-
-AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
-
-📺 The Diary Of A CEO
-
-👁️ 669K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
-
----
-
-**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
-
-In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
-
-📺 Sinead Bovell
-
-👁️ 30K • 👍 2K • 💬 300 • ⏱️ 17:48 • 1d ago
+👁️ 25K • 👍 1K • 💬 34 • ⏱️ 1:01 • 20h ago
 
 ---
 
@@ -337,17 +313,47 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 153K • 👍 10K • 💬 2K • ⏱️ 17:08 • 18h ago
+👁️ 160K • 👍 10K • 💬 2K • ⏱️ 17:08 • 19h ago
 
 ---
 
-**[Make Unlimited AI Videos for Free with Claude](https://www.youtube.com/watch?v=ogn0FiDnAM4)**
+**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
 
-after 3 months of testing and research, I finally cracked it, and now I can generate unlimited videos with Claude AI, the idea in ...
+Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
 
-📺 Hasan Aboul Hasan
+📺 SSSniperWolf
 
-👁️ 23K • 👍 1K • 💬 84 • ⏱️ 4:43 • 1d ago
+👁️ 213K • 👍 7K • 💬 1K • ⏱️ 15:39 • 15h ago
+
+---
+
+**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
+
+In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
+
+📺 Sinead Bovell
+
+👁️ 31K • 👍 2K • 💬 302 • ⏱️ 17:48 • 1d ago
+
+---
+
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+
+Are we watching an AI revolution, or a slow-motion economic disaster?
+
+📺 Robert Reich
+
+👁️ 208K • 👍 12K • 💬 1K • ⏱️ 5:52 • 1d ago
+
+---
+
+**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
+
+AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
+
+📺 The Diary Of A CEO
+
+👁️ 677K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
 
 ---
 
@@ -357,37 +363,27 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 13K • 👍 330 • 💬 13 • ⏱️ 1:00 • 13h ago
+👁️ 14K • 👍 348 • 💬 13 • ⏱️ 1:00 • 14h ago
 
 ---
 
-**[How WSJ’s AI vending machine experiment turned to &#39;chaos&#39;](https://www.youtube.com/watch?v=UgrOjaFyzPc)**
+**[AI TEAM ANNUAL AWARD &amp; DINNER 2025 !!! ](https://www.youtube.com/watch?v=bwhm6g67-g8)**
 
-Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Squawk on the Street' to share more details ...
+Why So Serious ??? Wahh grand betul ya kalini siap ada fashion show.
 
-📺 CNBC Television
+📺 Alieff Irfan
 
-👁️ 11K • 👍 164 • 💬 65 • ⏱️ 3:29 • 19h ago
-
----
-
-**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
-
-A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
-
-📺 Bridebook
-
-👁️ 316K • 👍 12K • 💬 353 • ⏱️ 0:52 • 2d ago
+👁️ 725K • 👍 46K • 💬 5K • ⏱️ 3:30:58 • 7h ago
 
 ---
 
-**[AI baby Dave Chappelle is disrupting ecosystems 👶🏼🤖🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=1Oo8nzGungI)**
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=bB94kfyjO3w)**
 
-Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/bB94kfyjO3w Step into a world ...
 
-📺 Gianmarco Soresi
+📺 Satisfy Hub ASMR
 
-👁️ 450K • 👍 16K • 💬 435 • ⏱️ 0:35 • 2d ago
+👁️ 1.7M • 👍 5K • 💬 110 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -403,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,139 • 11d ago
+⬇️ 341,530 • ❤️ 3,145 • 11d ago
 
 ---
 
@@ -415,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 390 • 15h ago
+⬇️ 71,413 • ❤️ 391 • 16h ago
 
 ---
 
@@ -451,7 +447,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 306 • 6d ago
+⬇️ 4,050 • ❤️ 312 • 6d ago
 
 ---
 
@@ -463,7 +459,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 295 • 1d ago
+⬇️ 6,881 • ❤️ 299 • 1d ago
 
 ---
 
@@ -475,7 +471,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 291 • 4d ago
+⬇️ 0 • ❤️ 292 • 4d ago
 
 ---
 
@@ -491,6 +487,18 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 ---
 
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 1,067 • ❤️ 245 • 1d ago
+
+---
+
 **[Fun-CosyVoice3-0.5B-2512](https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512)**
 
 *FunAudioLLM*
@@ -500,18 +508,6 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 `text-to-speech`
 
 ⬇️ 533 • ❤️ 241 • 3d ago
-
----
-
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 1,067 • ❤️ 239 • 1d ago
 
 ---
 
@@ -539,7 +535,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,644 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,694 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -551,7 +547,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 59 • 💬 3 • ⭐ 571 • 3d ago
+▲ 59 • 💬 3 • ⭐ 571 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -568,33 +564,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 134 • 💬 6 • ⭐ 18,698 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,440 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 118 • 💬 18 • ⭐ 47,254 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -624,16 +593,30 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
-  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
-*Tongyi SpeechTeam*
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
 
-FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+🏢 Tongyi-MAI
 
-▲ 39 • 💬 1 • ⭐ 18,095 • 17mo ago
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+▲ 27 • 💬 2 • ⭐ 7,471 • 22d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 118 • 💬 18 • ⭐ 47,287 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -648,6 +631,19 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 ▲ 26 • 💬 2 • ⭐ 607 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 26 • 💬 1 • ⭐ 65,816 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -671,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 542 • 54m ago
+⭐ 5.0k • 🔱 546 • 15m ago
 
 ---
 
@@ -681,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 154 • 3h ago
+⭐ 2.1k • 🔱 155 • 4h ago
 
 ---
 
@@ -731,7 +727,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 871 • 🔱 41 • 2d ago
+⭐ 878 • 🔱 41 • 2d ago
 
 ---
 
@@ -751,7 +747,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 796 • 🔱 116 • 2d ago
+⭐ 797 • 🔱 116 • 2d ago
 
 ---
 
