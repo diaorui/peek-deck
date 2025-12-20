@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T20:14:17.802631+00:00'
+updated: '2025-12-20T20:34:31.943568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:14 UTC  
+**Last Updated:** December 20, 2025 at 20:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
-**1y:** -9.2%  
+**24h:** +0.3%  
+**7d:** -0.2%  
+**30d:** +3.7%  
+**90d:** -21.9%  
+**1y:** -9.4%  
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 1d ago
 
 The move signals a shift toward scale, contracted revenue, and balance sheet strength as crypto infrastructure begins to look a little more like energy and data center investing.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 29m ago
 
 As crypto-linked equities heat up again, this concentrated bet shows how some funds are diving into digital infrastructure plays with contracted cash flows.
 
-The Motley Fool • 59m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 59m ago
 
 One fund's move highlights a willingness to concentrate capital where optionality looks largest, even when the stock’s recovery is far from complete.
 
-The Motley Fool • 42m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 2d ago
 
 Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
-Nasdaq • 1h ago
+Nasdaq • 2h ago
 
 ---
 
@@ -281,7 +281,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 572 • 💬 328 • ⏱️ 10:58 • 19h ago
+👁️ 12K • 👍 572 • 💬 328 • ⏱️ 10:58 • 20h ago
 
 ---
 
@@ -291,7 +291,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 117 • ⏱️ 13:47 • 20h ago
+👁️ 34K • 👍 2K • 💬 117 • ⏱️ 13:47 • 21h ago
 
 ---
 
@@ -311,7 +311,7 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 383 • 💬 51 • ⏱️ 11:40 • 8h ago
+👁️ 5K • 👍 383 • 💬 51 • ⏱️ 11:40 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T20:14:17.808768+00:00'
+updated: '2025-12-20T20:34:31.949941+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:14 UTC  
+**Last Updated:** December 20, 2025 at 20:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.1%  
-**7d:** -2.8%  
+**7d:** -2.7%  
 **30d:** +7.7%  
 **90d:** -29.0%  
-**1y:** -10.8%  
+**1y:** -10.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 11m ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 31m ago
 
 ---
 
@@ -88,7 +88,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-23h ago
+1d ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 53 • 👍 3 • ⏱️ 14:00 • 1h ago
+👁️ 53 • 👍 3 • ⏱️ 14:00 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ Nick Valdez and TJ sit down for an interview with the co-founder of Ethereum and
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 416 • 💬 49 • ⏱️ 48:50 • 4h ago
+👁️ 4K • 👍 416 • 💬 49 • ⏱️ 48:50 • 5h ago
 
 ---
 

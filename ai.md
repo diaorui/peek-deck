@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T20:14:17.794003+00:00'
+updated: '2025-12-20T20:34:31.934791+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 20:14 UTC  
+**Last Updated:** December 20, 2025 at 20:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ My week partying with the young founders at the heart of the AI boom
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-55m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Improved AI for reading, interpreting, and summarizing large files (documents)
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ Politico • 5h ago
 
 Rejoice, two of the biggest contributors to the AI movie trailer problem on YouTube have been taken down.
 
-Gizmodo • 23m ago
+Gizmodo • 43m ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 8h ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fortune • 6h ago
 
 As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -309,7 +309,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 257K • 👍 8K • 💬 1K • ⏱️ 15:39 • 22h ago
+👁️ 257K • 👍 8K • 💬 1K • ⏱️ 15:39 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #n
 
 📺 FootyToons AI
 
-👁️ 7K • 💬 4 • ⏱️ 0:51 • 4h ago
+👁️ 7K • 💬 4 • ⏱️ 0:51 • 5h ago
 
 ---
 
@@ -407,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 397 • 23h ago
+⬇️ 71,413 • ❤️ 397 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 333 • 1d ago
+⬇️ 6,881 • ❤️ 333 • 2d ago
 
 ---
 
@@ -732,7 +732,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 3h ago
+⭐ 829 • 🔱 135 • 4h ago
 
 ---
 
