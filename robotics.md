@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T05:48:39.171141+00:00'
+updated: '2025-12-20T05:59:26.387188+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 05:48 UTC  
+**Last Updated:** December 20, 2025 at 05:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 2K • 👍 139 • 💬 11 • ⏱️ 2:08:46 • 5h ago
+👁️ 5K • 👍 202 • 💬 18 • ⏱️ 2:08:46 • 5h ago
 
 ---
 
@@ -208,17 +208,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 13K • 👍 278 • 💬 86 • ⏱️ 3:55 • 18h ago
-
----
-
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
-
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
-
-📺 CNET
-
-👁️ 31K • 👍 757 • 💬 121 • ⏱️ 6:41 • 5d ago
+👁️ 14K • 👍 290 • 💬 91 • ⏱️ 3:55 • 18h ago
 
 ---
 
@@ -232,36 +222,6 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 39K • 👍 3K • 💬 283 • ⏱️ 13:43 • 1d ago
-
----
-
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 32K • 👍 317 • 💬 32 • ⏱️ 1:05 • 4d ago
-
----
-
-**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
-
-Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
-
-📺 Digital Farming 
-
-👁️ 11K • 👍 34 • ⏱️ 0:09 • 18h ago
-
----
-
 **[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
 
 Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
@@ -272,23 +232,61 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 ---
 
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 41K • 👍 3K • 💬 286 • ⏱️ 13:43 • 1d ago
+
+---
+
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+
+Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+
+📺 CNET
+
+👁️ 31K • 👍 757 • 💬 121 • ⏱️ 6:41 • 5d ago
+
+---
+
+**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
+
+Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
+
+📺 Digital Farming 
+
+👁️ 12K • 👍 35 • ⏱️ 0:09 • 18h ago
+
+---
+
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+
+📺 CNET
+
+👁️ 32K • 👍 318 • 💬 32 • ⏱️ 1:05 • 4d ago
+
+---
+
+**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
+
+📺 QCT
+
+👁️ 169K • 👍 2K • 💬 37 • ⏱️ 0:25 • 1d ago
+
+---
+
 **[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
 
 Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
 
 📺 vt.physics
 
-👁️ 457K • 👍 15K • 💬 490 • ⏱️ 0:34 • 5d ago
-
----
-
-**[how to robotic affirm the RIGHT way | law of assumption](https://www.youtube.com/watch?v=0p-l1i2MSCc)**
-
-PERFECT SELF-CONCEPT COURSE https://ritakaminski.thrivecart.com/the-perfect-self-concept/ ₊˚ ‿︵‿︵‿︵୨୧ ...
-
-📺 Rita Kaminski
-
-👁️ 7K • 👍 679 • 💬 99 • ⏱️ 16:17 • 1d ago
+👁️ 460K • 👍 15K • 💬 493 • ⏱️ 0:34 • 5d ago
 
 ---
 

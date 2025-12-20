@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T05:48:39.153670+00:00'
+updated: '2025-12-20T05:59:26.368657+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 05:48 UTC  
+**Last Updated:** December 20, 2025 at 05:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 3h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-2h ago
+3h ago
 
 ---
 
@@ -287,33 +287,33 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ## YouTube Videos: "ai"
 
+**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
+
+Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
+
+📺 Adam Conover
+
+👁️ 135K • 👍 9K • 💬 1K • ⏱️ 17:08 • 12h ago
+
+---
+
 **[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
 
 Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
 
 📺 Future of Life Institute
 
-👁️ 19K • 👍 728 • 💬 315 • ⏱️ 16:15 • 1d ago
+👁️ 19K • 👍 734 • 💬 316 • ⏱️ 16:15 • 1d ago
 
 ---
 
-**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
+**[2026 Predictions: AI Automates Knowledge Work, Autonomous Robots &amp; AI CEO Billionaires | EP #217](https://www.youtube.com/watch?v=NHAzpG95ptI)**
 
-In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
+Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
 
-📺 Sinead Bovell
+📺 Peter H. Diamandis
 
-👁️ 27K • 👍 2K • 💬 284 • ⏱️ 17:48 • 1d ago
-
----
-
-**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
-
-AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
-
-📺 The Diary Of A CEO
-
-👁️ 644K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+👁️ 44K • 👍 2K • 💬 378 • ⏱️ 1:09:11 • 12h ago
 
 ---
 
@@ -323,7 +323,27 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 187K • 👍 10K • 💬 1K • ⏱️ 5:52 • 1d ago
+👁️ 191K • 👍 11K • 💬 1K • ⏱️ 5:52 • 1d ago
+
+---
+
+**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
+
+In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
+
+📺 Sinead Bovell
+
+👁️ 29K • 👍 2K • 💬 296 • ⏱️ 17:48 • 1d ago
+
+---
+
+**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
+
+AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
+
+📺 The Diary Of A CEO
+
+👁️ 653K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
 
 ---
 
@@ -333,17 +353,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 7K • 👍 215 • 💬 13 • ⏱️ 1:00 • 7h ago
-
----
-
-**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
-
-Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
-
-📺 Adam Conover
-
-👁️ 124K • 👍 9K • 💬 1K • ⏱️ 17:08 • 12h ago
+👁️ 9K • 👍 253 • 💬 13 • ⏱️ 1:00 • 7h ago
 
 ---
 
@@ -353,37 +363,27 @@ after 3 months of testing and research, I finally cracked it, and now I can gene
 
 📺 Hasan Aboul Hasan
 
-👁️ 20K • 👍 1K • 💬 74 • ⏱️ 4:43 • 1d ago
+👁️ 21K • 👍 1K • 💬 74 • ⏱️ 4:43 • 1d ago
 
 ---
 
-**[Gemini Exponential, Demis Hassabis&#39; ‘Proto-AGI’ coming, but …](https://www.youtube.com/watch?v=WHqaF4jbUYU)**
+**[What AI and Hollywood are going to do to entertainment](https://www.youtube.com/watch?v=5FlRB1KKg-k)**
 
-The condensed highlights of hours of AI lab leader interviews, last-48-hour model releases, Gemini 3 Flash insights (plus it's ...
+ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The number 1 Christian prayer app in the US and ...
 
-📺 AI Explained
+📺 FreedomToons
 
-👁️ 41K • 👍 2K • 💬 255 • ⏱️ 20:00 • 13h ago
-
----
-
-**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
-
-A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
-
-📺 Bridebook
-
-👁️ 299K • 👍 11K • 💬 345 • ⏱️ 0:52 • 2d ago
+👁️ 106K • 👍 12K • 💬 891 • ⏱️ 3:47 • 1d ago
 
 ---
 
-**[A Rabbit’s Kindness, A Man’s Cruel Choice #ai #plants #trending #growth](https://www.youtube.com/watch?v=2m-9JO1BD6Q)**
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
 
-A Rabbit's Kindness, A Man's Cruel Choice #ai #plants #trending #growth.
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
 
-📺 Ai creator
+📺 gptars
 
-👁️ 267 • ⏱️ 0:21 • 2h ago
+👁️ 20K • 👍 814 • 💬 33 • ⏱️ 1:01 • 13h ago
 
 ---
 
@@ -447,7 +447,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 297 • 5d ago
+⬇️ 2,490 • ❤️ 297 • 6d ago
 
 ---
 
@@ -676,7 +676,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 43m ago
+⭐ 2.1k • 🔱 150 • 54m ago
 
 ---
 
@@ -736,7 +736,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 822 • 🔱 134 • 3d ago
+⭐ 822 • 🔱 134 • 4d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T05:48:39.162019+00:00'
+updated: '2025-12-20T05:59:26.377135+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 05:48 UTC  
+**Last Updated:** December 20, 2025 at 05:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -91,19 +91,19 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqdra7Wb3bRUakfb7f73YcERSSvSBOMVHhJmxU_Y2gvFRfo4uqDPKp7m&gaa_ts=694637e5&gaa_sig=jnDmF85L7ycuqjoYtrmm5vhcTUHjuZTwqfNI6Dvsf7NNK3z-z0qSwcyoIfBhw_kr1YroP2bvIRtoepqXvi0MWw%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -197,7 +197,7 @@ Investor's Business Daily • 19h ago
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -259,7 +259,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
 
-⬆️ 1 • 💬 0 • 22m ago
+⬆️ 1 • 💬 0 • 33m ago
 
 ---
 
@@ -291,7 +291,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Open source primitives for agent context management - Michaelliv/context-engine
 
-⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/Michaelliv/context-engine)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 
@@ -305,7 +305,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 273 • 💬 120 • ⏱️ 10:58 • 5h ago
+👁️ 5K • 👍 365 • 💬 144 • ⏱️ 10:58 • 5h ago
 
 ---
 
@@ -315,17 +315,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 908 • 💬 52 • ⏱️ 13:47 • 6h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 34K • 👍 2K • 💬 182 • ⏱️ 44:14 • 14h ago
+👁️ 17K • 👍 1K • 💬 61 • ⏱️ 13:47 • 6h ago
 
 ---
 
@@ -335,27 +325,17 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 121 • 💬 37 • ⏱️ 4:42 • 5h ago
+👁️ 2K • 👍 148 • 💬 42 • ⏱️ 4:42 • 5h ago
 
 ---
 
-**[Bitcoin&#39;s Extreme Mispricing in 2026 [Macro &amp; Onchain]](https://www.youtube.com/watch?v=0Mc23kmy_hA)**
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
 
-Macro and onchain data says Bitcoin looks undervalued heading into 2026. BITUNIX TRADE THE TOP COINS (available ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Lark Davis
+📺 CryptosRUs
 
-👁️ 3K • 👍 261 • 💬 33 • ⏱️ 9:09 • 6h ago
-
----
-
-**[Bitcoin Is NOT In A Bear Market](https://www.youtube.com/watch?v=6qCwwSE_kgI)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 8K • 👍 667 • 💬 104 • ⏱️ 5:29 • 12h ago
+👁️ 35K • 👍 2K • 💬 170 • ⏱️ 44:14 • 14h ago
 
 ---
 
@@ -365,7 +345,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 356 • 💬 61 • ⏱️ 9:31 • 13h ago
+👁️ 7K • 👍 361 • 💬 31 • ⏱️ 9:31 • 13h ago
+
+---
+
+**[Bitcoin&#39;s Extreme Mispricing in 2026 [Macro &amp; Onchain]](https://www.youtube.com/watch?v=0Mc23kmy_hA)**
+
+Macro and onchain data says Bitcoin looks undervalued heading into 2026. BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 4K • 👍 296 • 💬 23 • ⏱️ 9:09 • 6h ago
+
+---
+
+**[Bitcoin Is NOT In A Bear Market](https://www.youtube.com/watch?v=6qCwwSE_kgI)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 9K • 👍 689 • 💬 90 • ⏱️ 5:29 • 12h ago
 
 ---
 
@@ -375,7 +375,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 219 • ⏱️ 18:06 • 13h ago
+👁️ 59K • 👍 4K • 💬 227 • ⏱️ 18:06 • 13h ago
 
 ---
 
@@ -385,17 +385,17 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 479 • 💬 45 • ⏱️ 8:37 • 18h ago
+👁️ 15K • 👍 481 • 💬 28 • ⏱️ 8:37 • 18h ago
 
 ---
 
-**[URGENT THE CRYPTO MARKETS ARE FXCKED ](https://www.youtube.com/watch?v=N-dCX9jIl14)**
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
 
-URGENT THE CRYPTO MARKETS ARE FXCKED Hey babes, so it's no surprise that the Crypto markets look absolutely terrible.
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
 
-📺 CryptoWendyO
+📺 Swan Bitcoin
 
-👁️ 9K • 👍 452 • 💬 103 • ⏱️ 4:37 • 1d ago
+👁️ 48K • 👍 2K • 💬 155 • ⏱️ 16:50 • 1d ago
 
 ---
 

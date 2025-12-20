@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T05:48:39.167981+00:00'
+updated: '2025-12-20T05:59:26.383856+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 05:48 UTC  
+**Last Updated:** December 20, 2025 at 05:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -2.5%  
-**30d:** +8.0%  
-**90d:** -28.8%  
-**1y:** -10.5%  
+**24h:** +1.3%  
+**7d:** -2.6%  
+**30d:** +7.9%  
+**90d:** -28.9%  
+**1y:** -10.6%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 19h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 20h ago
 
 ---
 
@@ -204,7 +204,7 @@ ts2.tech • 10h ago
 
 Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -234,7 +234,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 479 • 💬 45 • ⏱️ 8:37 • 18h ago
+👁️ 15K • 👍 481 • 💬 28 • ⏱️ 8:37 • 18h ago
 
 ---
 
@@ -244,7 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 228 • 💬 14 • ⏱️ 21:53 • 14h ago
+👁️ 5K • 👍 250 • 💬 6 • ⏱️ 21:53 • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 455 • 💬 54 • ⏱️ 16:54 • 1d ago
+👁️ 13K • 👍 462 • 💬 54 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -264,7 +264,17 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 269 • 💬 100 • ⏱️ 22:39 • 11h ago
+👁️ 7K • 👍 283 • 💬 86 • ⏱️ 22:39 • 11h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 20 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=VKgqz2eFmOc)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 601 • 1h ago
 
 ---
 
@@ -278,53 +288,43 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
-
-Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
-
-📺 Sin City Crypto
-
-👁️ 703 • 👍 63 • ⏱️ 58:50 • 10h ago
-
----
-
-**[WILL ETH DUMP LOWER?🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=GqNy42fzzqc)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 346 • 👍 14 • 💬 8 • ⏱️ 4:42 • 19h ago
-
----
-
 **[Hegota Upgrade Revealed: Why BlackRock &amp; BitMine Are Betting Big on Ethereum&quot;](https://www.youtube.com/watch?v=_9z2hB4blbY)**
 
 In this video, we uncover the massive implications of Ethereum's newly announced Hegota Upgrade scheduled for 2026. This isn't ...
 
 📺 CryptoStock Lab
 
-👁️ 831 • 👍 21 • 💬 18 • ⏱️ 15:52 • 14h ago
+👁️ 875 • 👍 22 • 💬 2 • ⏱️ 15:52 • 14h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Prediction Now | Crypto Analysis &amp; Market Forecast](https://www.youtube.com/watch?v=GzeWsXK3fs4)**
+**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
 
-Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.patreon.com/ThomasBoleto/membership ...
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
 
-📺 Thomas Boleto – Bitcoin Insights
+📺 Blockchain Backer
 
-👁️ 68 • 👍 22 • 💬 3 • ⏱️ 15:15 • 3h ago
+👁️ 18K • 👍 2K • 💬 2 • ⏱️ 27:59 • 16h ago
 
 ---
 
-**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
+**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
 
-Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
+Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
 
-📺 Taiki Maeda
+📺 Sin City Crypto
 
-👁️ 15K • 👍 630 • 💬 259 • ⏱️ 33:33 • 2d ago
+👁️ 724 • 👍 66 • ⏱️ 58:50 • 10h ago
+
+---
+
+**[Ethereum Sees Small Recovery Before A MUCH Bigger Drop](https://www.youtube.com/watch?v=NWg1n9p9wZc)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 453 • 👍 20 • 💬 20 • ⏱️ 5:53 • 8h ago
 
 ---
 
