@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T18:42:47.427927+00:00'
+updated: '2025-12-20T18:56:03.743366+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 18:42 UTC  
+**Last Updated:** December 20, 2025 at 18:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** -0.2%  
 **7d:** -2.9%  
 **30d:** +7.6%  
 **90d:** -29.1%  
-**1y:** -10.9%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.47B
+**Market Cap:** $358.94B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.9%
 
 **All-Time Low:** $0.43
-+686961.0%
++686790.1%
 
 ---
 
@@ -162,7 +162,7 @@ AMBCrypto • 17h ago
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 5h ago
+livemint.com • 6h ago
 
 ---
 
@@ -198,7 +198,7 @@ CCN.com • 6h ago
 
 Ethereum remains under pressure as sentiment stays deeply bearish, but historical weekly trends suggest a major reversal could be forming.
 
-FXEmpire • 22h ago
+FXEmpire • 23h ago
 
 ---
 
@@ -210,15 +210,15 @@ FXStreet • 1d ago
 
 ---
 
-**[What Is Arthur Hayes Buying After ‘Rotating Out’ of Ethereum?](https://www.tradingview.com/news/coinpedia:461b7b0da094b:0-what-is-arthur-hayes-buying-after-rotating-out-of-ethereum/)**
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
 
-Arthur Hayes is back in focus because of where his money is moving.As Ethereum trades sideways near the key $3,000 level, the BitMEX co-founder has begun trimming his ETH exposure and rotating into decentralized finance tokens, a shift that’s catching attention across the crypto market. Hayes was o…
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdpsCIfEQrsECBk32ZOw0WaYkgC_M-MbgttzNKZCZ9uf3p0hY2Gp7mS&gaa_ts=6946eaeb&gaa_sig=qVJbxztIf1sb8wSgFtJ9_Ir_D6MNqG3Kh7lml5IZaYtjTwrXf5q-ASXkmyfk8175nOxUai_6YsAfQcoSAzBuOQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdhvRsnp_ZiPikO4fM2NUasEWwTCgLzNrQCcYGdnuFFYl4Ma7yyDEN9&gaa_ts=6946f4ad&gaa_sig=oPs3hRiVaeanG-OW2yGROMhgq7yKQMAw-va00TrvdaW-p3v23pFHt20DDkvug18VqEnhDiZuuHZ-xFTJyikrrg%3D%3D)**
 
 Barron's • 3d ago
 
@@ -234,7 +234,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 474 • 👍 35 • 💬 43 • ⏱️ 11:26 • 4h ago
+👁️ 887 • 👍 45 • 💬 9 • ⏱️ 11:26 • 4h ago
 
 ---
 
@@ -244,17 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 738 • 👍 88 • 💬 4 • ⏱️ 6:04 • 4h ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 505 • 💬 29 • ⏱️ 8:37 • 1d ago
+👁️ 1K • 👍 124 • 💬 5 • ⏱️ 6:04 • 4h ago
 
 ---
 
@@ -264,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 500 • 💬 58 • ⏱️ 16:54 • 2d ago
+👁️ 16K • 👍 508 • 💬 58 • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -274,7 +264,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 356 • 💬 22 • ⏱️ 21:53 • 1d ago
+👁️ 10K • 👍 374 • 💬 10 • ⏱️ 21:53 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+
+📺 Thomas Kralow
+
+👁️ 17K • 👍 514 • 💬 29 • ⏱️ 8:37 • 1d ago
+
+---
+
+**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
+
+Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
+
+📺 Ryan’s Money Lab
+
+👁️ 53 • 👍 3 • ⏱️ 14:00 • 25m ago
 
 ---
 
@@ -284,17 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 14 • 💬 31 • ⏱️ 4:17 • 7h ago
-
----
-
-**[Sell ADA NOW? ⚠️ Cardano &amp; Ethereum Founder’s Honest Verdict](https://www.youtube.com/watch?v=FM_SGFR-axA)**
-
-Nick Valdez and TJ sit down for an interview with the co-founder of Ethereum and founder of Cardano, Charles Hoskinson!
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 190 • 💬 17 • ⏱️ 48:50 • 3h ago
+👁️ 156 • 👍 15 • 💬 2 • ⏱️ 4:17 • 7h ago
 
 ---
 
@@ -304,7 +304,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 333 • 💬 34 • ⏱️ 20:31 • 22h ago
+👁️ 8K • 👍 337 • 💬 4 • ⏱️ 20:31 • 22h ago
+
+---
+
+**[Sell ADA NOW? ⚠️ Cardano &amp; Ethereum Founder’s Honest Verdict](https://www.youtube.com/watch?v=FM_SGFR-axA)**
+
+Nick Valdez and TJ sit down for an interview with the co-founder of Ethereum and founder of Cardano, Charles Hoskinson!
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 416 • 💬 49 • ⏱️ 48:50 • 3h ago
 
 ---
 
@@ -314,17 +324,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 320 • 💬 143 • ⏱️ 22:39 • 1d ago
-
----
-
-**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 20K • 👍 2K • 💬 2 • ⏱️ 27:59 • 1d ago
+👁️ 9K • 👍 324 • 💬 87 • ⏱️ 22:39 • 1d ago
 
 ---
 

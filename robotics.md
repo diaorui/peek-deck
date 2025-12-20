@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T18:42:47.430716+00:00'
+updated: '2025-12-20T18:56:03.746591+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 18:42 UTC  
+**Last Updated:** December 20, 2025 at 18:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-22h ago
+23h ago
 
 ---
 
@@ -150,25 +150,17 @@ TechCrunch • 3d ago
 
 ---
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 2d ago
-
----
-
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://futurism.com/future-society/humanoid-robot-financial-bubble)**
+**[Humanoid robots are coming, but can they win our hearts and minds?](https://www.abc.net.au/news/science/2025-12-19/how-to-design-a-humanoid-robot-a-human-will-trust/106033272)**
 
-A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
+Humanoid robots may be part of our future, but human psychology and the uncanny valley may stand between them and world domination.
 
-Futurism • 23h ago
+Australian Broadcasting Corporation • 2d ago
 
 ---
 
@@ -186,6 +178,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
+
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
+
+Interesting Engineering • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,17 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 12K • 👍 380 • 💬 34 • ⏱️ 2:08:46 • 18h ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 22K • 👍 396 • 💬 104 • ⏱️ 3:55 • 1d ago
+👁️ 14K • 👍 419 • 💬 36 • ⏱️ 2:08:46 • 18h ago
 
 ---
 
@@ -216,25 +206,17 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 193K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
+👁️ 194K • 👍 2K • 💬 17 • ⏱️ 0:25 • 6d ago
 
 ---
 
-**[Polish startup just built a 1,000-muscle robot that moves exactly like a human and it&#39;s terrifying](https://www.youtube.com/watch?v=_HtcRmUXiSU)**
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
 
-A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitching its limbs like it just woke up from a nightmare ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
 
-📺 Nic Conley
+📺 South China Morning Post
 
-👁️ 23K • 👍 1K • 💬 40 • ⏱️ 1:32 • 1d ago
-
----
-
-**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
-
-📺 Romi Pal
-
-👁️ 11.7M • 👍 80K • 💬 540 • ⏱️ 0:24 • 4d ago
+👁️ 25K • 👍 412 • 💬 106 • ⏱️ 3:55 • 1d ago
 
 ---
 
@@ -244,7 +226,35 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 32K • 👍 760 • 💬 121 • ⏱️ 6:41 • 6d ago
+👁️ 32K • 👍 784 • 💬 121 • ⏱️ 6:41 • 6d ago
+
+---
+
+**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
+
+📺 Romi Pal
+
+👁️ 12.2M • 👍 83K • 💬 564 • ⏱️ 0:24 • 4d ago
+
+---
+
+**[Polish startup just built a 1,000-muscle robot that moves exactly like a human and it&#39;s terrifying](https://www.youtube.com/watch?v=_HtcRmUXiSU)**
+
+A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitching its limbs like it just woke up from a nightmare ...
+
+📺 Nic Conley
+
+👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:32 • 1d ago
+
+---
+
+**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
+
+Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
+
+📺 Aimin
+
+👁️ 250K • 👍 11K • 💬 3K • ⏱️ 14:27 • 4h ago
 
 ---
 
@@ -254,7 +264,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 319 • 💬 33 • ⏱️ 1:05 • 5d ago
+👁️ 32K • 👍 320 • 💬 33 • ⏱️ 1:05 • 5d ago
 
 ---
 
@@ -274,17 +284,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 473K • 👍 16K • 💬 507 • ⏱️ 0:34 • 6d ago
-
----
-
-**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
-
-Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
-
-📺 Digital Farming 
-
-👁️ 20K • 👍 44 • ⏱️ 0:09 • 1d ago
+👁️ 475K • 👍 16K • 💬 507 • ⏱️ 0:34 • 6d ago
 
 ---
 

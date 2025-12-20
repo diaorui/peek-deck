@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T18:42:47.415290+00:00'
+updated: '2025-12-20T18:56:03.728902+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 18:42 UTC  
+**Last Updated:** December 20, 2025 at 18:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,27 @@ My week partying with the young founders at the heart of the AI boom
 
 ---
 
-**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
-
-$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
-
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 16h ago
-
----
-
 **[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
 1h ago
+
+---
+
+**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
+
+$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
+
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 17h ago
+
+---
+
+**[Sam Altman says he’s ‘0%’ excited to be CEO of a public company as OpenAI drops hints about an IPO: ‘In some ways I think it’d be really annoying’](https://www.reddit.com/r/artificial/comments/1prllyb/sam_altman_says_hes_0_excited_to_be_ceo_of_a/)**
+
+Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 7m ago
 
 ---
 
@@ -73,7 +81,7 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-15h ago
+16h ago
 
 ---
 
@@ -81,7 +89,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-12h ago
+13h ago
 
 ---
 
@@ -109,14 +117,6 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 ---
 
-**[AI models make it almost five times more likely a non-expert can recreate a virus from scratch. The protocols' feasibility was verified in a real-world wet lab](https://www.reddit.com/r/artificial/comments/1pqtz49/ai_models_make_it_almost_five_times_more_likely_a/)**
-
-UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
-
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 23h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,13 +125,33 @@ UK AISI’s first Frontier AI Trends Report finds that AI models are getting bet
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 3h ago
+Politico • 4h ago
+
+---
+
+**[From A.I. to Tariffs, 14 Charts That Explain 2025](https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[Trump's AI policy is dividing his party. Here's what key GOP critics are saying about it.](https://www.businessinsider.com/gop-critics-trump-ai-preemption-policy-2025-12)**
+
+Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
+
+Business Insider • 7h ago
+
+---
+
+**[Six (or seven) predictions for AI 2026 from a Generative AI realist](https://garymarcus.substack.com/p/six-or-seven-predictions-for-ai-2026)**
+
+Marcus on AI • 2h ago
 
 ---
 
@@ -143,17 +163,11 @@ Gizmodo • 1h ago
 
 ---
 
-**[Tesla or CoreWeave: Cathie Wood Slashes One Top AI Stock While Boosting Another](https://www.tipranks.com/news/tesla-or-coreweave-cathie-wood-slashes-one-top-ai-stock-while-boosting-another)**
+**[OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle](https://fortune.com/2025/12/20/openai-vs-apple-sam-altman-ai-battle-devices-jony-ive-iphone/)**
 
-TipRanks • 1h ago
+Altman recruited iPhone designer Jony Ive to OpenAI this May, and Ive has said the company’s secret device could be ready in the next two years.
 
----
-
-**[What Nova (NVMI)'s New Analyst Attention Amid AI-Driven Demand Means For Shareholders](https://finance.yahoo.com/news/nova-nvmi-analyst-attention-amid-170831487.html)**
-
-In recent days, Nova attracted increased attention after Jefferies raised its price target and Morgan Stanley initiated coverage, both citing growing demand for its semiconductor process control systems amid rising chip complexity. An interesting angle is how investor commentary has linked Nova's metrology and analytics tools directly to the expanding role of artificial intelligence in driving semiconductor manufacturing needs. We’ll now explore how this fresh analyst interest, tied to...
-
-Yahoo Finance • 1h ago
+Fortune • 31m ago
 
 ---
 
@@ -171,25 +185,9 @@ The New York Times • 6h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqeSspMiR15OgpRja7zcIeZya3uE-ghKjTst9UEt-QNEDw3Ug5JMaO8n&gaa_ts=6946eae7&gaa_sig=L6lzi9lrSCkn5L9vgIor_oD_jWZAYiifkLWwG-hnM5JfufE6uImndXZy_mbzpQj__7kJpECST9ZGBB0lkrFXwg%3D%3D)**
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqd3oa3ate0SF-PnSkIYdSjP2gtqztR-SEa_oPUyC_9smPMVs6gNj53T&gaa_ts=6946f4a9&gaa_sig=6DlAb5ZTDQSgmkuhtHh2GeKHY2SJJIMZQIyPTb6FUJlzdqJg90LKMVWP0F2IaxlAwUkvcjCjZhvS0BS8faBS1g%3D%3D)**
 
-The Wall Street Journal • 14h ago
-
----
-
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
-
-My week partying with the young founders at the heart of the AI boom
-
-The Atlantic • 5h ago
-
----
-
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 4h ago
+wsj.com • 14h ago
 
 ---
 
@@ -205,7 +203,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 558 • 💬 527 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 559 • 💬 529 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -213,7 +211,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 459 • 💬 589 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 459 • 💬 589 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -221,15 +219,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 355 • 💬 300 • 10h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
-
----
-
-**[A16z-backed Doublespeed hacked, revealing what its AI-generated accounts promote](https://news.ycombinator.com/item?id=46303291)**
-
-A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
-
-⬆️ 289 • 💬 167 • 3d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 374 • 💬 306 • 10h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -249,17 +239,17 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 ---
 
+**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
+
+⬆️ 144 • 💬 219 • 9h ago • [antirez.com](https://antirez.com/news/157)
+
+---
+
 **[NOAA deploys new generation of AI-driven global weather models](https://news.ycombinator.com/item?id=46306497)**
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 133 • 💬 86 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
-
----
-
-**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
-
-⬆️ 132 • 💬 202 • 9h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 139 • 💬 88 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 
 ---
 
@@ -277,6 +267,14 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ---
 
+**[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
+
+Timeline & Responsible Disclosure
+
+⬆️ 116 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -287,7 +285,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 7K • 👍 548 • 💬 56 • ⏱️ 37:38 • 4h ago
+👁️ 13K • 👍 835 • 💬 81 • ⏱️ 37:38 • 4h ago
 
 ---
 
@@ -297,57 +295,7 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 21K • 👍 779 • 💬 319 • ⏱️ 16:15 • 2d ago
-
----
-
-**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
-
-Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
-
-📺 Adam Conover
-
-👁️ 175K • 👍 11K • 💬 2K • ⏱️ 17:08 • 1d ago
-
----
-
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 226K • 👍 13K • 💬 2K • ⏱️ 5:52 • 2d ago
-
----
-
-**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
-
-AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
-
-📺 The Diary Of A CEO
-
-👁️ 693K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
-
----
-
-**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
-
-In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
-
-📺 Sinead Bovell
-
-👁️ 32K • 👍 2K • 💬 336 • ⏱️ 17:48 • 2d ago
-
----
-
-**[NEW Google AI Super Gems Update is INSANE!](https://www.youtube.com/watch?v=2M2pOwi5nDk)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 1K • 👍 85 • 💬 5 • ⏱️ 8:46 • 6h ago
+👁️ 21K • 👍 784 • 💬 320 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -357,7 +305,37 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 242K • 👍 8K • 💬 1K • ⏱️ 15:39 • 21h ago
+👁️ 257K • 👍 8K • 💬 1K • ⏱️ 15:39 • 21h ago
+
+---
+
+**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
+
+Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
+
+📺 Adam Conover
+
+👁️ 186K • 👍 12K • 💬 2K • ⏱️ 17:08 • 1d ago
+
+---
+
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+
+Are we watching an AI revolution, or a slow-motion economic disaster?
+
+📺 Robert Reich
+
+👁️ 239K • 👍 14K • 💬 2K • ⏱️ 5:52 • 2d ago
+
+---
+
+**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
+
+AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
+
+📺 The Diary Of A CEO
+
+👁️ 701K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
 
 ---
 
@@ -367,7 +345,27 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 1.8M • 👍 6K • 💬 114 • ⏱️ 8:07 • 2d ago
+👁️ 1.9M • 👍 6K • 💬 115 • ⏱️ 8:07 • 2d ago
+
+---
+
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+
+📺 gptars
+
+👁️ 39K • 👍 2K • 💬 44 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[AI baby Dave Chappelle is disrupting ecosystems 👶🏼🤖🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=1Oo8nzGungI)**
+
+Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+
+📺 Gianmarco Soresi
+
+👁️ 454K • 👍 16K • 💬 436 • ⏱️ 0:35 • 2d ago
 
 ---
 
@@ -377,7 +375,7 @@ The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #n
 
 📺 FootyToons AI
 
-👁️ 3K • 💬 4 • ⏱️ 0:51 • 3h ago
+👁️ 7K • 💬 4 • ⏱️ 0:51 • 3h ago
 
 ---
 
@@ -417,7 +415,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 357 • 2d ago
+⬇️ 2,937 • ❤️ 358 • 2d ago
 
 ---
 
@@ -429,7 +427,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 336 • 6d ago
+⬇️ 4,050 • ❤️ 337 • 6d ago
 
 ---
 
@@ -441,7 +439,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 330 • 2d ago
+⬇️ 6,103 • ❤️ 331 • 2d ago
 
 ---
 
@@ -477,7 +475,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 283 • 1d ago
+⬇️ 1,067 • ❤️ 287 • 1d ago
 
 ---
 
@@ -489,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 276 • 3d ago
+⬇️ 0 • ❤️ 278 • 3d ago
 
 ---
 
@@ -541,7 +539,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 61 • 💬 3 • ⭐ 581 • 4d ago
+▲ 60 • 💬 3 • ⭐ 581 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -660,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 566 • 3h ago
+⭐ 5.2k • 🔱 568 • 4h ago
 
 ---
 
@@ -670,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 159 • 10h ago
+⭐ 2.2k • 🔱 160 • 53m ago
 
 ---
 
@@ -690,17 +688,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 326 • 14d ago
-
----
-
-**[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
-
-A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
-
-`Rust` `game-development` `gamedev` `image-processing` `pixel-art`
-
-⭐ 912 • 🔱 24 • 12d ago
+⭐ 1.3k • 🔱 327 • 14d ago
 
 ---
 
@@ -710,7 +698,17 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 911 • 🔱 42 • 2d ago
+⭐ 916 • 🔱 43 • 2d ago
+
+---
+
+**[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
+
+A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
+
+`Rust` `game-development` `gamedev` `image-processing` `pixel-art`
+
+⭐ 913 • 🔱 24 • 13d ago
 
 ---
 
@@ -734,13 +732,13 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
-**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
+**[datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)**
 
-  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
+首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
 
-`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
+`agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 799 • 🔱 116 • 3d ago
+⭐ 802 • 🔱 75 • 1h ago
 
 ---
 

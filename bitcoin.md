@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T18:42:47.422731+00:00'
+updated: '2025-12-20T18:56:03.737352+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 18:42 UTC  
+**Last Updated:** December 20, 2025 at 18:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.6%  
 **7d:** -0.0%  
 **30d:** +3.9%  
 **90d:** -21.7%  
-**1y:** -9.2%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.15B
+**Market Cap:** $1759.96B
 Rank #1
 
-**Circulating Supply:** 19,964,762 BTC
+**Circulating Supply:** 19,964,784 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129858.7%
++129964.9%
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Made it to O.1 BTC finally!](https://www.reddit.com/r/Bitcoin/comments/1prk1of/made_it_to_o1_btc_finally/)**
+
+The mods will probably delete this....again.... But I finally hit 0.1 BTC!
+
+1h ago
+
+---
+
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -92,14 +100,6 @@ Rank #1
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
 10h ago
-
----
-
-**[Made it to O.1 BTC finally!](https://www.reddit.com/r/Bitcoin/comments/1prk1of/made_it_to_o1_btc_finally/)**
-
-The mods will probably delete this....again.... But I finally hit 0.1 BTC!
-
-1h ago
 
 ---
 
@@ -117,9 +117,23 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
+**[Jackie Chan with the mind boggling prediction](https://www.reddit.com/r/Bitcoin/comments/1prkpxr/jackie_chan_with_the_mind_boggling_prediction/)**
+
+I thought he was working on Rush Hour 4... Turns put he's hodling BTC with the rest of us
+
+45m ago
+
+---
+
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
 10h ago
+
+---
+
+**[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
+
+1h ago
 
 ---
 
@@ -131,25 +145,11 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 ---
 
-**[Honest question: what finally made you understand Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1prgj52/honest_question_what_finally_made_you_understand/)**
-
-Not talking about price or hype. I mean the moment it actually clicked for you scarcity, self-custody, trust, etc. Curious what changed people’s mindset.
-
-3h ago
-
----
-
-**[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
-
-19h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
+**[Bitcoin's (BTC) four-year cycle playing out as expected](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
 
 The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
@@ -163,19 +163,19 @@ Reuters • 1d ago
 
 ---
 
-**[HBAR Price Looks Closely Tried to Bitcoin, What’s Next?](https://finance.yahoo.com/news/hbar-price-looks-closely-tried-160000481.html)**
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.fool.com/investing/2025/12/20/bitcoin-vs-dogecoin-better-long-term-play/)**
 
-HBAR price downtrend is tied to Bitcoin as BTC weakness is capping breakouts and pressures support near $0.110.
+These two digital assets have performed very well for investors, but one is the clear winner.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 45m ago
 
 ---
 
-**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
 
-"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
-CoinDesk • 4h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -183,19 +183,27 @@ CoinDesk • 4h ago
 
 Bitcoin experienced a lot of volatility in 2025 without much in the way of total return. How is 2026 shaping up for Bitcoin ETFs?
 
-The Motley Fool • 42m ago
+The Motley Fool • 56m ago
 
 ---
 
-**[Bitcoin, gold, AI were key drivers of 2025's record ETF inflows](https://finance.yahoo.com/video/bitcoin-gold-ai-were-key-200000651.html)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
-Net inflows into exchange-traded funds (ETFs) totaled a record $1.03 trillion last year, and they're already set to break that record this year, currently sitting at $1.28 trillion year to date. Amplify ETFs CEO, Christian Magoon, joins Market Catalysts host Julie Hyman to explain where money was going in 2025 and what ETF trends he anticipates next year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Yahoo Finance • 2d ago
+Nasdaq • 8h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqclfa57jh4N3bnm6UK7Qj1JaqEWlEXctuM1JT1TiHnUERvXAMgU_Kn6&gaa_ts=6946eae9&gaa_sig=sCx2toFSLyNoxPdiRVziqZusDuhmc217S571pAtPks5SUYFfg73xsUJl09-Vz1D2umXdoP8JYJv0i31nkC_amw%3D%3D)**
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://finance.yahoo.com/news/bitcoin-vs-dogecoin-whats-better-183100727.html)**
+
+These two digital assets have performed very well for investors, but one is the clear winner.
+
+Yahoo Finance • 25m ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeft_djLM3wH489y6GdFPfVSCmp9pV-P_nKY_PbIw4SULcFoMWCzIIX&gaa_ts=6946f4ab&gaa_sig=Ti-DkuAXmLbgEjkp2aCaZFsFzq-nQ5qSvTaazNFzofSEkbIDEUWPZC40HX1-TcFeItAb39nm0_du7bM44s9D0g%3D%3D)**
 
 Barron's • 1d ago
 
@@ -212,14 +220,6 @@ Bloomberg.com • 1d ago
 **[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
 Forbes • 1d ago
-
----
-
-**[Is Bitcoin Primed for a 2026 Breakout? Analysts Weigh History vs. Fundamentals](https://finance.yahoo.com/news/bitcoin-primed-2026-breakout-analysts-142816214.html)**
-
-Bitcoin's oversold RSI signals a potential rally to $170K, analysts argue, as record ETF inflows and fading headwinds build a bullish case.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -275,7 +275,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 546 • 💬 354 • ⏱️ 10:58 • 18h ago
+👁️ 12K • 👍 572 • 💬 328 • ⏱️ 10:58 • 18h ago
 
 ---
 
@@ -285,7 +285,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 159 • ⏱️ 13:47 • 19h ago
+👁️ 34K • 👍 2K • 💬 117 • ⏱️ 13:47 • 19h ago
 
 ---
 
@@ -295,7 +295,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 39K • 👍 2K • 💬 197 • ⏱️ 44:14 • 1d ago
+👁️ 40K • 👍 2K • 💬 190 • ⏱️ 44:14 • 1d ago
 
 ---
 
@@ -305,57 +305,17 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 329 • 💬 70 • ⏱️ 11:40 • 7h ago
+👁️ 5K • 👍 383 • 💬 51 • ⏱️ 11:40 • 7h ago
 
 ---
 
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
+**[Bitcoin, AI &amp; the Next Macro Shift Investors Aren’t Ready For](https://www.youtube.com/watch?v=OJPZS2yaHvs)**
 
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
-📺 Swan Bitcoin
+📺 Anthony Pompliano
 
-👁️ 52K • 👍 2K • 💬 162 • ⏱️ 16:50 • 1d ago
-
----
-
-**[Tom Lee Calls for All-Time-Highs by January 2026](https://www.youtube.com/watch?v=y4mjJXZabCI)**
-
-After a rocky December, many investors are asking the same question: Did Bitcoin already top — or is the real move still ahead?
-
-📺 The Bitcoin Revolution
-
-👁️ 14K • 👍 224 • 💬 160 • ⏱️ 9:46 • 2d ago
-
----
-
-**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
-
-Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
-
-📺 BTC Isla
-
-👁️ 18K • 👍 2K • 💬 290 • ⏱️ 8:31 • 1d ago
-
----
-
-**[Short-Term Signal for Bitcoin [Follow the Patterns]](https://www.youtube.com/watch?v=b1x9E9XB1gQ)**
-
-Bitcoin's current chart pattern is ambiguous—is it a rising wedge already breaking down toward $75-76K, or a larger bear flag ...
-
-📺 Lark Davis
-
-👁️ 6K • 👍 403 • 💬 33 • ⏱️ 12:19 • 7h ago
-
----
-
-**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
-
-CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
-
-📺 Craigslist Hunter
-
-👁️ 42K • 👍 2K • 💬 228 • ⏱️ 2:15 • 1d ago
+👁️ 16K • 👍 1K • ⏱️ 46:11 • 4h ago
 
 ---
 
@@ -365,7 +325,47 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 75K • 👍 5K • 💬 274 • ⏱️ 18:06 • 1d ago
+👁️ 78K • 👍 5K • 💬 278 • ⏱️ 18:06 • 1d ago
+
+---
+
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
+
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
+
+📺 Swan Bitcoin
+
+👁️ 52K • 👍 2K • 💬 165 • ⏱️ 16:50 • 1d ago
+
+---
+
+**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+
+Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+
+📺 BTC Isla
+
+👁️ 19K • 👍 2K • 💬 250 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[🚨 Major Threat!! #Bitcoin](https://www.youtube.com/watch?v=n62wi7y4ZaA)**
+
+Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start Trading on Polymarket (#1 ...
+
+📺 Altcoin Daily
+
+👁️ 13K • 👍 104 • 💬 8 • ⏱️ 0:08 • 1d ago
+
+---
+
+**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
+
+CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
+
+📺 Craigslist Hunter
+
+👁️ 43K • 👍 2K • 💬 232 • ⏱️ 2:15 • 1d ago
 
 ---
 
