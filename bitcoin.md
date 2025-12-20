@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T08:00:44.301559+00:00'
+updated: '2025-12-20T08:36:22.202923+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 08:00 UTC  
+**Last Updated:** December 20, 2025 at 08:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,280.66
+### $88,384.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.1%  
-**30d:** +4.0%  
-**90d:** -21.6%  
-**1y:** -9.2%  
+**24h:** +0.1%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.71B
+**Market Cap:** $1763.09B
 Rank #1
 
 **Circulating Supply:** 19,964,578 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.0%
 
 **All-Time Low:** $67.81
-+129978.2%
++130128.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-7h ago
+8h ago
 
 ---
 
@@ -123,21 +123,21 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ---
 
+**[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
+
+33m ago
+
+---
+
 **[Victory](https://www.reddit.com/r/Bitcoin/comments/1pqutyf/victory/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
 
-16h ago
-
----
-
-**[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
-
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqc9XrmpycQXNqD6jhF0cMje75JHAzcpr2oFS5_qR4nS0z3N_5kbQddS&gaa_ts=69465b13&gaa_sig=IHsQutjYeZZFzO3LpARrEM6p5hhxffduaHvHrpuNics57RmT2w4ZLxa776ZpYj_AS_xsnwoN7io87se9TGtZRQ%3D%3D)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfK0kp_H4ccTaXUei2nYCjLv8aTBUO1_QqFh1X0lIwCosbYK1D2-5hV&gaa_ts=6946636d&gaa_sig=fVlMvteeMIPnsy2eCSR_z5gYHrvUTvcO-i9LQCUN9uMaeAL6mCFad-GyHAEMymwI3fXQ0d_SoV5CKNFeAZFiCA%3D%3D)**
 
 Barron's • 23h ago
 
@@ -161,13 +161,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
-Investing.com • 18h ago
+Investing.com • 19h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeEg9lretIZGHPjlIOedausj6lvMoES7Rh4FN5NQqTy22MQKRoJxngC&gaa_ts=69465b13&gaa_sig=DMoclpdTpNz4PzMHEAITps2jXU7E4peqd8ztrK5iJFQiNzChQk43RrIvqwo5_bEtujqqK-EZAS3J-6mhzdJpvQ%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqePni3b5hRCQfaa7neVRoP9ufBLKWkPclexBMapWxW1KRoJ-uVj__ee&gaa_ts=6946636d&gaa_sig=n64itEsxnopicdA8htSm_b9HkIEGUB357E37Jk7lhkrEAKYQPw72BjViaYOMYgJWq5cqNMWQp21dssh3Gv1EAA%3D%3D)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -179,9 +179,29 @@ CoinDesk • 15h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdk0ydfRo5a4nN8wHLIxFiVcsz_UjSNglU5JuMt0Rtdaubrvy8g1ri2&gaa_ts=69465b13&gaa_sig=bkH02LqFkasYyvDRZ_qmUlWdhAa_7zrstaLgMkOQpwRI-rAsPLsFbonp0acWJUCfiqtMd9JTfL3EVwLDnZORmA%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcst_shM-1Efp3YzoB2uJbV1vYDRoOa1s53-805iQbYL5CIgOJBrkvO&gaa_ts=6946636d&gaa_sig=IiLqbq2Gvqc-G1aX0bjt4pUCVG2JcL4Scy2msUutDT0j7MVLp8MFFR_qS9YZPDtLv2jIM2VoJKAe2o2RKuRc-w%3D%3D)**
 
-Barron's • 14h ago
+Barron's • 15h ago
+
+---
+
+**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’ About Shareholder Value](https://finance.yahoo.com/news/peter-schiff-says-bitcoin-drop-094721576.html)**
+
+Peter Schiff warned that Bitcoin is unlikely to find a durable bottom at $50,000. Schiff argued that Strategy’s valuation is vulnerable to further declines. Michael ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+
+Reuters • 16h ago
+
+---
+
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -189,29 +209,7 @@ Barron's • 14h ago
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-Futurism • 16h ago
-
----
-
-**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
-
-Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
-
-CoinDesk • 15h ago
-
----
-
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
-
-Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
-
-Yahoo Finance • 16h ago
-
----
-
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 21h ago
+Futurism • 17h ago
 
 ---
 
@@ -253,13 +251,13 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
 
-⬆️ 2 • 💬 1 • 2h ago
+⬆️ 2 • 💬 1 • 3h ago
 
 ---
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 16h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 17h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -305,7 +303,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 420 • 💬 156 • ⏱️ 10:58 • 7h ago
+👁️ 8K • 👍 420 • 💬 156 • ⏱️ 10:58 • 8h ago
 
 ---
 
@@ -315,7 +313,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 62 • ⏱️ 13:47 • 8h ago
+👁️ 20K • 👍 1K • 💬 62 • ⏱️ 13:47 • 9h ago
 
 ---
 
@@ -335,7 +333,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 167 • 💬 42 • ⏱️ 4:42 • 7h ago
+👁️ 3K • 👍 167 • 💬 42 • ⏱️ 4:42 • 8h ago
 
 ---
 
@@ -345,7 +343,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 13K • 👍 1K • 💬 164 • ⏱️ 8:31 • 14h ago
+👁️ 13K • 👍 1K • 💬 164 • ⏱️ 8:31 • 15h ago
 
 ---
 
@@ -355,7 +353,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 63K • 👍 4K • 💬 241 • ⏱️ 18:06 • 15h ago
+👁️ 63K • 👍 4K • 💬 241 • ⏱️ 18:06 • 16h ago
 
 ---
 
@@ -365,7 +363,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 230 • 💬 6 • ⏱️ 7:49 • 2h ago
+👁️ 2K • 👍 230 • 💬 6 • ⏱️ 7:49 • 3h ago
 
 ---
 
@@ -375,7 +373,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 363 • 💬 31 • ⏱️ 9:31 • 15h ago
+👁️ 7K • 👍 363 • 💬 31 • ⏱️ 9:31 • 16h ago
 
 ---
 
@@ -385,7 +383,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 36K • 👍 2K • 💬 172 • ⏱️ 44:14 • 16h ago
+👁️ 36K • 👍 2K • 💬 172 • ⏱️ 44:14 • 17h ago
 
 ---
 
@@ -395,7 +393,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 20h ago
+👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 21h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T08:00:44.310854+00:00'
+updated: '2025-12-20T08:36:22.212054+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 08:00 UTC  
+**Last Updated:** December 20, 2025 at 08:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 Anyone have any experience with Linmot Actuators? We implemented these in food grade wash down environment using a scara robot making rate of about 40 picks a minute , however we have had 4 , yes FOUR , cables fail in the last month and half since we commissioned this job . Just wondering if anyone has had experience with any linmot grippers ( EOAT). Would love to chat Thanks .
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Anyone have any experience with Linmot Actuators? We implemented these in food g
 
 Hey everyone, I’m currently building a 2-wheel skid steer robot using an ESP32. The goal is to have it transport a payload between two points with high precision and speed, controlled by a human operator. It needs to be super reliable, so I’m finally moving away from the breadboard and designing my first custom PCB for it. Since this is my first board, I’m a bit worried about signal integrity and keeping the ESP32 from resetting due to electrical noise from the DC motors. I’m trying to figure out the best way to isolate the logic side from the power side to prevent inductive spikes. Would using separate voltage regulators with a common star ground be enough here, or is there a better approach? Also, regarding the motors themselves, I know I need to solder ceramic capacitors to suppress high-frequency noise, but I’m looking for confirmation on the best arrangement. Is the standard setup of one cap across the terminals and two to the motor case the way to go? And are 0.1µF (100nF) capacitors usually the right value for this? Any other tips on trace widths or general layout advice for a first-timer would be really appreciated. Thanks in advance!
 
-3h ago
+4h ago
 
 ---
 
@@ -124,7 +124,7 @@ Interesting Engineering • 2d ago
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 13h ago
+Futurism • 14h ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 7K • 👍 244 • 💬 20 • ⏱️ 2:08:46 • 7h ago
+👁️ 7K • 👍 244 • 💬 20 • ⏱️ 2:08:46 • 8h ago
 
 ---
 
@@ -208,7 +208,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 15K • 👍 300 • 💬 93 • ⏱️ 3:55 • 20h ago
+👁️ 15K • 👍 300 • 💬 93 • ⏱️ 3:55 • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 14K • 👍 36 • ⏱️ 0:09 • 20h ago
+👁️ 14K • 👍 36 • ⏱️ 0:09 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 463K • 👍 16K • 💬 494 • ⏱️ 0:34 • 5d ago
+👁️ 463K • 👍 16K • 💬 494 • ⏱️ 0:34 • 6d ago
 
 ---
 

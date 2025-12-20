@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T08:00:44.293000+00:00'
+updated: '2025-12-20T08:36:22.194120+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 08:00 UTC  
+**Last Updated:** December 20, 2025 at 08:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,11 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
-**[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
-
-Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
-
-2h ago
-
----
-
 **[Gemini Flash hallucinates 91% times, if it does not know answer](https://www.reddit.com/r/artificial/comments/1pqgofe/gemini_flash_hallucinates_91_times_if_it_does_not/)**
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-22h ago
+23h ago
 
 ---
 
@@ -66,6 +58,14 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
 5h ago
+
+---
+
+**[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
+
+Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
+
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 12h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeLz0u9yHKaBeBxXhQvFMI6H8VWpEGhOpdQDdnsP307YEYOWQalbkGV&gaa_ts=69465b12&gaa_sig=01t_r3q_xQQBfTPKzt38xs4pgY8jkQRQPGpBvoxanHuw7P0BI4QhHZMmhmOXADyXS6ob_HJDYi6rPy_b7KaolA%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfJ_Z3ko2PBK-spzPwi5sUXC2F7Px_bLo740CZnE-VpuqFOMflw3Yv_&gaa_ts=6946636b&gaa_sig=NIE720PAjE30LABjHq0VEmniMnwk93XCLI-PkZqOjq6Du1FpYMq977qy8_DvLC2gtCz6fAIU5nXKf1jVf9_gzA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -139,13 +139,7 @@ BBC • 6h ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 15h ago
-
----
-
-**[Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut](https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut)**
-
-Bloomberg.com • 2h ago
+CNBC • 16h ago
 
 ---
 
@@ -167,7 +161,15 @@ Los Angeles Times • 20h ago
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
+
+---
+
+**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 18h ago
 
 ---
 
@@ -175,7 +177,7 @@ The New York Times • 21h ago
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -221,7 +223,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 450 • 💬 579 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 452 • 💬 581 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -230,14 +232,6 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
 ⬆️ 288 • 💬 167 • 2d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
-
----
-
-**[AI's real superpower: consuming, not creating](https://news.ycombinator.com/item?id=46299552)**
-
-Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
-
-⬆️ 250 • 💬 176 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -281,6 +275,12 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ---
 
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
+
+⬆️ 116 • 💬 86 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -301,7 +301,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 17:08 • 14h ago
+👁️ 143K • 👍 10K • 💬 2K • ⏱️ 17:08 • 15h ago
 
 ---
 
@@ -331,7 +331,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 661K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+👁️ 661K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
 
 ---
 
@@ -341,7 +341,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 48K • 👍 2K • 💬 403 • ⏱️ 1:09:11 • 14h ago
+👁️ 48K • 👍 2K • 💬 403 • ⏱️ 1:09:11 • 15h ago
 
 ---
 
@@ -351,7 +351,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 175K • 👍 6K • 💬 938 • ⏱️ 15:39 • 10h ago
+👁️ 175K • 👍 6K • 💬 938 • ⏱️ 15:39 • 11h ago
 
 ---
 
@@ -371,7 +371,7 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 10K • 👍 161 • 💬 64 • ⏱️ 3:29 • 15h ago
+👁️ 10K • 👍 161 • 💬 64 • ⏱️ 3:29 • 16h ago
 
 ---
 
@@ -381,7 +381,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 22K • 👍 855 • 💬 33 • ⏱️ 1:01 • 15h ago
+👁️ 22K • 👍 855 • 💬 33 • ⏱️ 1:01 • 16h ago
 
 ---
 
@@ -409,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 390 • 11h ago
+⬇️ 71,413 • ❤️ 390 • 12h ago
 
 ---
 
@@ -469,7 +469,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 280 • 1d ago
+⬇️ 6,881 • ❤️ 282 • 1d ago
 
 ---
 
@@ -481,7 +481,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 257 • 3d ago
+⬇️ 0 • ❤️ 258 • 3d ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 535 • 47m ago
+⭐ 5.0k • 🔱 535 • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 13m ago
+⭐ 2.1k • 🔱 150 • 49m ago
 
 ---
 
