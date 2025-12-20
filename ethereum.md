@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T09:46:44.725472+00:00'
+updated: '2025-12-20T09:57:46.580337+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 09:46 UTC  
+**Last Updated:** December 20, 2025 at 09:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.02B
+**Market Cap:** $360.10B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+688785.6%
++688912.6%
 
 ---
 
@@ -166,17 +166,17 @@ Crypto Briefing • 2d ago
 
 ---
 
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 22h ago
+
+---
+
 **[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
 Yahoo Finance • 22h ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 22h ago
 
 ---
 
@@ -204,25 +204,25 @@ ts2.tech • 14h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
+**[Bitmine Immersion Technologies: Time To Start Paying Attention (NYSE:BMNR)](https://seekingalpha.com/article/4854737-bitmine-immersion-technologies-time-to-start-paying-attention)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
+Discover how Bitmine Immersion Technologies (BMNR) offers unique Ethereum exposure.
 
-FXStreet • 1d ago
-
----
-
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
-
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
-
-TradingView — Track All Markets • 21h ago
+Seeking Alpha • 16h ago
 
 ---
 
-**[MSTR, BMNR Rise After BOJ Rate Decision Results In BItcoin, Ethereum Rebound](https://stocktwits.com/news-articles/markets/cryptocurrency/mstr-bmnr-rise-after-boj-rate-decision-results-in-bitcoin-ethereum-rebound/cLeik8qRErF)**
+**[Ethereum is Down, But Tom Lee and Ark Invest Makes New Moves](https://beincrypto.com/bitmine-ethereum-tom-lee-us-crypto-news/)**
 
-Stocktwits • 1d ago
+What is the biggest crypto news today? BitMine faces Ethereum losses as Tom Lee and Ark Invest continue buying, defying market pressure.
+
+BeInCrypto • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqeD1r2DB181RvCUoQ-4XHz5hAURM3ym81Ym3oT6mTgdldaCPQbsJzKQ&gaa_ts=69467683&gaa_sig=QIIKgab3w0_KBMFkD3o2U2eHnr4KbjdLxWBaMqee4sWhferaRs46C9d3OsS6tvll-PRwuGn44Cz5sC_znXcusQ%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 

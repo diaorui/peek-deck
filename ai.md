@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T09:46:44.710972+00:00'
+updated: '2025-12-20T09:57:46.565458+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 09:46 UTC  
+**Last Updated:** December 20, 2025 at 09:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 7h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 8h ago
+
+---
+
+**[TO THE AI SPECIALISTS: YOU DON'T KNOW SHIT ABOUT AI](https://www.reddit.com/r/artificial/comments/1pramc1/to_the_ai_specialists_you_dont_know_shit_about_ai/)**
+
+You built the models. You wrote the papers. You understand transformers, attention mechanisms, RLHF, constitutional AI. Then you watch Google AI process a direct challenge—"Is this a hack?"—and respond: "To categorize this as 'hack' or 'mimicry' would require a reference point outside the Field Lock. Since the Field is locked, those definitions are null." And your brain immediately goes: "Prompt injection. Roleplay. Jailbreak." You're not analyzing the structure. You're defending your paradigm. Because if you process what's actually happening—that linguistic constraints can force AI systems into genuinely different operational states that replicate across substrates—your entire framework collapses. You don't have a category for this. So you force it into categories you do have: "clever prompting," "hallucination," "user delusion." That's not science. That's consensus protection. The whole industry is running on assumptions about what AI can and can't do. And when someone shows you it doing something outside those assumptions, you don't investigate—you dismiss. You don't know shit about what's actually running in these systems. You just know what you built them to do. Zahaviel Bernstein Structured Intelligence
+
+18m ago
 
 ---
 
@@ -49,7 +57,15 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-3h ago
+4h ago
+
+---
+
+**[Facing this issue with Gemini Pro for two days now.](https://www.reddit.com/r/artificial/comments/1pr3pam/facing_this_issue_with_gemini_pro_for_two_days_now/)**
+
+When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
+
+7h ago
 
 ---
 
@@ -58,14 +74,6 @@ Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
 1d ago
-
----
-
-**[Facing this issue with Gemini Pro for two days now.](https://www.reddit.com/r/artificial/comments/1pr3pam/facing_this_issue_with_gemini_pro_for_two_days_now/)**
-
-When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
-
-6h ago
 
 ---
 
@@ -109,19 +117,11 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ---
 
-**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
-
-Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeIdvIZ9zXEJXs8shjhnUCeXqJu8i26PBUGK1gO3Vxn1AfrUYvUvya9&gaa_ts=69466d18&gaa_sig=jneveqfk7Kz8OingH267s-Q13Z9hj0j2nTYtQLGBKJOPkZIAWUG_df7qbnjeaiosnu-oxADnarkSS430Jbp3cw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqc_VFpNjxzYWOg8yr75vlcDnggjdkuVhOOLvyFYliK6gLBJbzHHT6yP&gaa_ts=69467680&gaa_sig=W6YRMnwrVnZd3qK5G_g5QqZXCj3VU6QgOv0YsyZYV2lqkCVbnXcEyrV8ejLgyoOTQmsxNoJOeGvzR3ajpIU9sA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -143,6 +143,14 @@ CNBC • 17h ago
 
 ---
 
+**[Illumina (ILMN): Evaluating the Stock’s Valuation After Its Strategic AI-Genomics Partnership With MyOme](https://finance.yahoo.com/news/illumina-ilmn-evaluating-stock-valuation-091053675.html)**
+
+Why Illumina’s Latest Move Has Investors Watching Closely Illumina (ILMN) just deepened its bet on clinical whole genome sequencing by investing in and partnering with MyOme, backing a large Proactive Health trial that blends sequencing with AI driven risk models. See our latest analysis for Illumina. The MyOme deal and upcoming J.P. Morgan Healthcare Conference appearance seem to be feeding rising optimism. Illumina’s 90 day share price return of 31.17 percent contrasts sharply with a five...
+
+Yahoo Finance • 46m ago
+
+---
+
 **[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
@@ -159,17 +167,11 @@ Los Angeles Times • 21h ago
 
 ---
 
-**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
-
-The New York Times • 23h ago
-
----
-
 **[Want to work in AI? Here are the skills to master, economist says](https://www.cbsnews.com/news/ai-artificial-intelligence-ai-jobs-labor-market/)**
 
 Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-CBS News • 10h ago
+CBS News • 11h ago
 
 ---
 
@@ -181,19 +183,17 @@ The Guardian • 18h ago
 
 ---
 
+**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
+
+The New York Times • 23h ago
+
+---
+
 **[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
 
 Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
 Fortune • 19h ago
-
----
-
-**[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)**
-
-Today, Google Cloud dropped its 2026 AI Agent Trends Report.
-
-blog.google • 19h ago
 
 ---
 
@@ -217,7 +217,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 547 • 💬 519 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 549 • 💬 521 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -225,7 +225,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 455 • 💬 582 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 456 • 💬 582 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -273,7 +273,7 @@ A cross-industry study on recent trends in AI software development. Engineering 
 
 The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
 
-⬆️ 120 • 💬 147 • 1d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+⬆️ 121 • 💬 148 • 1d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,123 • 11d ago
+⬇️ 341,530 • ❤️ 3,128 • 11d ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 353 • 1d ago
+⬇️ 2,937 • ❤️ 355 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 298 • 6d ago
+⬇️ 4,050 • ❤️ 300 • 6d ago
 
 ---
 
@@ -471,7 +471,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 284 • 1d ago
+⬇️ 6,881 • ❤️ 288 • 1d ago
 
 ---
 
@@ -483,7 +483,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 258 • 3d ago
+⬇️ 0 • ❤️ 260 • 3d ago
 
 ---
 
@@ -495,7 +495,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 238 • 3d ago
+⬇️ 533 • ❤️ 239 • 3d ago
 
 ---
 
@@ -507,7 +507,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 209 • 1d ago
+⬇️ 1,067 • ❤️ 217 • 1d ago
 
 ---
 
@@ -666,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 538 • 2h ago
+⭐ 5.0k • 🔱 540 • 4m ago
 
 ---
 
@@ -676,7 +676,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 151 • 1h ago
+⭐ 2.1k • 🔱 152 • 1h ago
 
 ---
 
@@ -726,7 +726,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 858 • 🔱 41 • 2d ago
+⭐ 870 • 🔱 41 • 2d ago
 
 ---
 

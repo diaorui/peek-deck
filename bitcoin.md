@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T09:46:44.719396+00:00'
+updated: '2025-12-20T09:57:46.574076+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 09:46 UTC  
+**Last Updated:** December 20, 2025 at 09:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.50B
+**Market Cap:** $1761.36B
 Rank #1
 
-**Circulating Supply:** 19,964,596 BTC
+**Circulating Supply:** 19,964,606 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.0%
 
 **All-Time Low:** $67.81
-+130047.5%
++130000.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,9 +103,15 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ---
 
+**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
+
+1h ago
+
+---
+
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -120,12 +126,6 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
 19h ago
-
----
-
-**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
-
-1h ago
 
 ---
 
@@ -145,23 +145,23 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ## Google News: "bitcoin"
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc-U21xvMoBDi7W1hfq-gRaX8hDnHISxocm-hoFDjV6__7gCW4bBu8k&gaa_ts=69466d1a&gaa_sig=DzF330BNFzKS-pvKcM7kF0RcnyHyhTpfwhbunzMN1IOQnAgnwHOr86ya6y3aknyt6PcOS44cUfkuYRbcb59OPg%3D%3D)**
-
-MarketWatch • 20h ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfbSt97oZMqYEN6f3aCIypabLcIGI5UTgqbtRV19EUZu6M4hBoOByye&gaa_ts=69466d1a&gaa_sig=MDiaF5dV7FaqYCTQihvf9RBIxXTZ3RDytHbAaMRgagw-lcAtjGI_jSKSlQWRsXcym5a2Z25zM9aOHK74-6atQQ%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeJRZ1Z67o-oSD5g0pymZrIKTPGttfbcXqyPDQBSQWhrN9wYaXjs2Mv&gaa_ts=6946765c&gaa_sig=cMlgQi3w0zF5yYOYW9TIbHoI6zv3toQs3AqDXzSHyqZrIG_fFN0uT97x-wn8LnUp_6ZZvXF3r-wOLynyGXFgLg%3D%3D)**
 
 Barron's • 16h ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
+**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
 
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-Yahoo Finance • 2d ago
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfL_Ce3mCtKyCZxAkAd23R2RgritoXeeXHzAkbbWZF6rTyez2eXW4M2&gaa_ts=6946765c&gaa_sig=mWBSFxim1GlxIU95IdCXWJRSTBGLZ2l9B79n_YSOctZDlo4m4rQNiVBR-_COQj8dZJQaHUVlYR3jcSsPmfCpKw%3D%3D)**
+
+MarketWatch • 19h ago
 
 ---
 
@@ -173,11 +173,19 @@ Futurism • 18h ago
 
 ---
 
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+
+Bloomberg.com • 23h ago
+
+---
+
 **[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’ About Shareholder Value](https://finance.yahoo.com/news/peter-schiff-says-bitcoin-drop-094721576.html)**
 
 Peter Schiff warned that Bitcoin is unlikely to find a durable bottom at $50,000. Schiff argued that Strategy’s valuation is vulnerable to further declines. Michael ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -189,27 +197,21 @@ Reuters • 17h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqcJ8aPPXxUjn5HWsgTeO0f0tUJU52BH_RDKEdS3CtYkDOYPMTJC63hy&gaa_ts=69466d1a&gaa_sig=urNiT6XcT8YYXwIVwHwY8rb10gxrj-AzmXB_4ZcgcrzYGLcaz6Pxc51M5GmXfZYl3pcRzws1h_FbZ-lLFupaFg%3D%3D)**
+**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
 
-Barron's • 1d ago
+Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
----
-
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://finance.yahoo.com/news/bitcoin-ethereum-rise-following-soft-161302497.html)**
-
-Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.
-
-Yahoo Finance • 1d ago
+CoinDesk • 17h ago
 
 ---
 
-**[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
-Investing.com • 20h ago
+Forbes • 1d ago
 
 ---
 
@@ -238,12 +240,6 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 How much of a resource hog is AI?
 
 ⬆️ 5 • 💬 1 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
-
----
-
-**[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
-
-⬆️ 2 • 💬 3 • 4h ago
 
 ---
 
@@ -307,7 +303,7 @@ The Bitcoin price is being manipulated, here's how I'm positioning. ➡ Follow m
 
 📺 EllioTrades
 
-👁️ 11K • 👍 899 • 💬 141 • ⏱️ 19:52 • 12h ago
+👁️ 11K • 👍 899 • 💬 141 • ⏱️ 19:52 • 13h ago
 
 ---
 
