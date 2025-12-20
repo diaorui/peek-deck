@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T22:54:33.720716+00:00'
+updated: '2025-12-20T23:18:02.907883+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 22:54 UTC  
+**Last Updated:** December 20, 2025 at 23:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-12h ago
+13h ago
 
 ---
 
@@ -62,17 +62,17 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 ---
 
-**[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
-
-14h ago
-
----
-
 **[Path to Robotics Technician?](https://www.reddit.com/r/robotics/comments/1prnxvd/path_to_robotics_technician/)**
 
 Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
 
 2h ago
+
+---
+
+**[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
+
+14h ago
 
 ---
 
@@ -120,46 +120,6 @@ Futurism • 1d ago
 
 ---
 
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
-
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
-
-NVIDIA Developer • 3d ago
-
----
-
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 23h ago
-
----
-
-**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
-
-Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
-
-KSBY News • 1d ago
-
----
-
-**[Welcome to home robotics limbo](https://edition.cnn.com/2025/12/17/business/robotics-ai-limbo)**
-
-Tech historians may look back on 2025 as a kind of trough in consumer robotics.
-
-CNN • 3d ago
-
----
-
-**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
-
-Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
-
-TechCrunch • 3d ago
-
----
-
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
 Bloomberg.com • 1d ago
@@ -174,17 +134,59 @@ TechNode • 10h ago
 
 ---
 
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
 
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
 
-South China Morning Post • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
+**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
 
-Bloomberg.com • 1d ago
+Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
+
+KSBY News • 1d ago
+
+---
+
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 23h ago
+
+---
+
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+
+TechCrunch • 3d ago
+
+---
+
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 2d ago
+
+---
+
+**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
+
+NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
+
+Yahoo Finance • 3d ago
+
+---
+
+**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
+
+Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+
+NVIDIA Developer • 3d ago
 
 ---
 
@@ -198,45 +200,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 15K • 👍 444 • 💬 41 • ⏱️ 2:08:46 • 22h ago
-
----
-
-**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
-
-Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
-
-📺 Catanimation
-
-👁️ 194K • 👍 2K • 💬 17 • ⏱️ 0:25 • 6d ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 27K • 👍 426 • 💬 106 • ⏱️ 3:55 • 1d ago
-
----
-
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
-
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
-
-📺 CNET
-
-👁️ 32K • 👍 798 • 💬 121 • ⏱️ 6:41 • 6d ago
-
----
-
-**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
-
-📺 Romi Pal
-
-👁️ 12.7M • 👍 85K • 💬 578 • ⏱️ 0:24 • 5d ago
+👁️ 17K • 👍 472 • 💬 45 • ⏱️ 2:08:46 • 22h ago
 
 ---
 
@@ -246,17 +210,63 @@ A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitch
 
 📺 Nic Conley
 
-👁️ 27K • 👍 2K • 💬 43 • ⏱️ 1:32 • 1d ago
+👁️ 29K • 👍 2K • 💬 43 • ⏱️ 1:32 • 1d ago
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
 
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
 
-📺 AZFK
+📺 Dr Ben Miles
 
-👁️ 62K • 👍 4K • 💬 350 • ⏱️ 13:43 • 2d ago
+👁️ 27K • 👍 3K • 💬 64 • ⏱️ 1:38 • 4d ago
+
+---
+
+**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
+
+📺 Romi Pal
+
+👁️ 13.1M • 👍 89K • 💬 593 • ⏱️ 0:24 • 5d ago
+
+---
+
+**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+
+Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
+
+📺 Catanimation
+
+👁️ 195K • 👍 2K • 💬 17 • ⏱️ 0:25 • 6d ago
+
+---
+
+**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
+
+Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
+
+📺 Digital Farming 
+
+👁️ 23K • 👍 45 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 477K • 👍 16K • 💬 508 • ⏱️ 0:34 • 6d ago
+
+---
+
+**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
+
+📺 QCT
+
+👁️ 577K • 👍 7K • 💬 127 • ⏱️ 0:25 • 2d ago
 
 ---
 
@@ -266,27 +276,15 @@ Are you stuck at the last minute for a Christmas gift? Wondering how to “wow�
 
 📺 FRANCE 24 English
 
-👁️ 5K • 👍 70 • 💬 21 • ⏱️ 2:09 • 1d ago
+👁️ 6K • 👍 73 • 💬 21 • ⏱️ 2:09 • 1d ago
 
 ---
 
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+**[Retire Army Soldier Build Robotic Goat for a Indian Girl! #ai #army #save #robot](https://www.youtube.com/watch?v=LKic4vWVfiI)**
 
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+📺 Meow World
 
-📺 CNET
-
-👁️ 32K • 👍 320 • 💬 33 • ⏱️ 1:05 • 5d ago
-
----
-
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 4d ago
+👁️ 25.3M • 👍 372K • 💬 525 • ⏱️ 0:41 • 4d ago
 
 ---
 

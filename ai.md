@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T22:54:33.696978+00:00'
+updated: '2025-12-20T23:18:02.890347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 22:54 UTC  
+**Last Updated:** December 20, 2025 at 23:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 2h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 3h ago
 
 ---
 
@@ -85,19 +85,19 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 ---
 
-**[Facing this issue with Gemini Pro for two days now.](https://www.reddit.com/r/artificial/comments/1pr3pam/facing_this_issue_with_gemini_pro_for_two_days_now/)**
-
-When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
-
-19h ago
-
----
-
 **[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-16h ago
+17h ago
+
+---
+
+**[Facing this issue with Gemini Pro for two days now.](https://www.reddit.com/r/artificial/comments/1pr3pam/facing_this_issue_with_gemini_pro_for_two_days_now/)**
+
+When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
+
+20h ago
 
 ---
 
@@ -121,6 +121,14 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 ## Google News: "ai"
 
+**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
+
+Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
+
+CNBC • 11h ago
+
+---
+
 **[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
@@ -135,19 +143,11 @@ Politico • 8h ago
 
 ---
 
-**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
-
-Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
-
-CNBC • 1d ago
-
----
-
 **[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 11h ago
+The New Yorker • 12h ago
 
 ---
 
@@ -155,39 +155,39 @@ The New Yorker • 11h ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqfrNjxyFtOhYI88RrGfKWchkO47ix9zSzUE4KNb5excRrSE249pvQS2&gaa_ts=69472a02&gaa_sig=Xi6WNrmophkm8bEKtA-I8ur1PK1DVsOxmxSjV9TuSi-XLAWKoXmroxIPzXqDgtQ5pG37wfV8zXiGiJQkb52FIA%3D%3D)**
+**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 1d ago
+
+---
+
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqfOI8ipZVQou8rOMhLLTsJQ35KGw-HaQNmNB-i0L3NLnq2XnN-_HXTD&gaa_ts=69473213&gaa_sig=l6_CxH0B0i5pCBxNtx1WynDr6y_G2dHMvnrVZl9oeGVL1m6nsPIlf30WhrC0THcYrrSrLJyov-00pEIwPeSbuQ%3D%3D)**
 
 wsj.com • 18h ago
 
 ---
 
+**[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
+
+Politico • 23h ago
+
+---
+
+**[Hochul Reaches Deal on A.I. Regulation in New York](https://www.nytimes.com/2025/12/19/nyregion/ai-bill-regulations-ny.html)**
+
+The New York Times • 20h ago
+
+---
+
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 10h ago
-
----
-
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 8h ago
-
----
-
-**[Synthetic soul: AI-generated gospel singer tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
-
-Axios • 1h ago
-
----
-
-**[How AI tools are easing the load at home for India’s women](https://www.reuters.com/technology/ai-and-us/how-ai-tools-are-easing-load-home-indias-women-2025-12-20/)**
-
-Reuters • 12h ago
+The New York Times • 11h ago
 
 ---
 
@@ -219,7 +219,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 423 • 💬 364 • 14h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 426 • 💬 377 • 14h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -233,7 +233,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 184 • 💬 281 • 13h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 186 • 💬 287 • 13h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -277,13 +277,23 @@ Timeline & Responsible Disclosure
 
 ## YouTube Videos: "ai"
 
+**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
+
+Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
+
+📺 Future of Life Institute
+
+👁️ 21K • 👍 794 • 💬 322 • ⏱️ 16:15 • 2d ago
+
+---
+
 **[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
 
 Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 109 • ⏱️ 37:38 • 8h ago
+👁️ 26K • 👍 1K • 💬 149 • ⏱️ 37:38 • 9h ago
 
 ---
 
@@ -293,27 +303,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 271K • 👍 8K • 💬 1K • ⏱️ 15:39 • 1d ago
-
----
-
-**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
-
-Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
-
-📺 Future of Life Institute
-
-👁️ 21K • 👍 789 • 💬 322 • ⏱️ 16:15 • 2d ago
-
----
-
-**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
-
-Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
-
-📺 Adam Conover
-
-👁️ 196K • 👍 12K • 💬 2K • ⏱️ 17:08 • 1d ago
+👁️ 284K • 👍 8K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
@@ -323,7 +313,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 710K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
+👁️ 720K • 👍 17K • 💬 3K • ⏱️ 1:39:47 • 2d ago
 
 ---
 
@@ -333,7 +323,17 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 251K • 👍 15K • 💬 2K • ⏱️ 5:52 • 2d ago
+👁️ 263K • 👍 16K • 💬 2K • ⏱️ 5:52 • 2d ago
+
+---
+
+**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
+
+Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
+
+📺 Adam Conover
+
+👁️ 208K • 👍 13K • 💬 2K • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -343,27 +343,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 1.9M • 👍 6K • 💬 115 • ⏱️ 8:07 • 2d ago
-
----
-
-**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
-
-Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
-
-📺 Bigfoot Feed
-
-👁️ 20K • 👍 494 • 💬 14 • ⏱️ 1:00 • 1d ago
-
----
-
-**[How I&#39;d Start Using AI Video Generators as a 40+ Year Old](https://www.youtube.com/watch?v=J01giuELimg)**
-
-Start with AI on OpenArt: https://www.openart.ai/home/?ref=Robert (I use this) You're NOT too old to start with AI! In this video, I ...
-
-📺 Robert Reynolds
-
-👁️ 4K • 👍 3K • 💬 3 • ⏱️ 8:58 • 9h ago
+👁️ 2.0M • 👍 6K • 💬 117 • ⏱️ 8:07 • 2d ago
 
 ---
 
@@ -373,7 +353,27 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 54K • 👍 2K • 💬 62 • ⏱️ 1:01 • 1d ago
+👁️ 102K • 👍 8K • 💬 160 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[Amazon Fired Their AI Chief. Here&#39;s Why It Took So Long (Plus 5 Newsworthy Moments in AI This Week)](https://www.youtube.com/watch?v=EaMz3g1OYPA)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 5K • 👍 296 • 💬 32 • ⏱️ 10:32 • 7h ago
+
+---
+
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 12K • 👍 238 • 💬 15 • ⏱️ 8:13 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,180 • 12d ago
+⬇️ 341,530 • ❤️ 3,184 • 12d ago
 
 ---
 
@@ -417,6 +417,18 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
+**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
+
+*Shakker Labs*
+
+AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
+
+`text-to-image`
+
+⬇️ 4,050 • ❤️ 343 • 6d ago
+
+---
+
 **[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
 *Google*
@@ -429,18 +441,6 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 ---
 
-**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
-
-*Shakker Labs*
-
-AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
-
-`text-to-image`
-
-⬇️ 4,050 • ❤️ 339 • 6d ago
-
----
-
 **[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
 
 *Xiaomi MiMo*
@@ -449,7 +449,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 337 • 2d ago
+⬇️ 6,103 • ❤️ 339 • 2d ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 301 • 1d ago
+⬇️ 1,067 • ❤️ 305 • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 160 • 4h ago
+⭐ 2.2k • 🔱 160 • 5h ago
 
 ---
 
@@ -727,7 +727,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 830 • 🔱 135 • 6h ago
+⭐ 830 • 🔱 135 • 7h ago
 
 ---
 

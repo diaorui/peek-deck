@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T22:54:33.717389+00:00'
+updated: '2025-12-20T23:18:02.904685+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 22:54 UTC  
+**Last Updated:** December 20, 2025 at 23:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
+**24h:** +0.1%  
 **7d:** -2.8%  
-**30d:** +7.7%  
+**30d:** +7.6%  
 **90d:** -29.1%  
 **1y:** -10.8%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.04B
+**Market Cap:** $359.08B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686924.1%
++687039.6%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
+
+---
+
+**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
+
+2h ago
 
 ---
 
@@ -84,17 +90,11 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 ---
 
-**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
-
-2h ago
-
----
-
 **[DTCC processed $3.7 quadrillion in 2024?? and they’re tokenizing U.S. treasuries now?? ON F*CKING CANTON???](https://www.reddit.com/r/ethereum/comments/1prnc2q/dtcc_processed_37_quadrillion_in_2024_and_theyre/)**
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 2h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 3h ago
 
 ---
 
@@ -152,7 +152,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -218,11 +218,9 @@ FXEmpire • 1d ago
 
 ---
 
-**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdPu_ncxbI4VNRx_446NhP4b551uIuj7-BTRhW8mGsh7eSZKPtSXdG9&gaa_ts=69473216&gaa_sig=O8yWpxyhjwv5TXTJiS8GFTkbHI2W166YF2rbkkS3HEFqOg8hL6FaA0aVtjhS2pTxI9KiUIFhnFOSUtDOFEbS2g%3D%3D)**
 
-Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
-
-ZyCrypto • 2h ago
+Barron's • 3d ago
 
 ---
 
@@ -230,83 +228,31 @@ ZyCrypto • 2h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
-
-In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 55 • 💬 30 • ⏱️ 11:26 • 8h ago
-
----
-
 **[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
 
 Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
 📺 C-Zar Gets Crypto 
 
-👁️ 152 • 👍 17 • 💬 21 • ⏱️ 8:36 • 3h ago
+👁️ 287 • 👍 21 • 💬 63 • ⏱️ 8:36 • 4h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YnQLkYMv6FE)**
+**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
 
-📺 More Crypto Online
+📺 Milk Road
 
-👁️ 2K • 👍 139 • 💬 5 • ⏱️ 6:04 • 8h ago
-
----
-
-**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 198 • 👍 16 • 💬 22 • ⏱️ 4:17 • 11h ago
+👁️ 2K • 👍 62 • 💬 61 • ⏱️ 11:26 • 9h ago
 
 ---
 
-**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
+**[INSANE SOLANA AND ETHEREUM RUMORS EXPLAINED #crypto #cryptocurrency #solana #ethereum](https://www.youtube.com/watch?v=j32Z1lf-Je4)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+📺 CryptoWendyO
 
-📺 Savvy Finance
-
-👁️ 10K • 👍 391 • 💬 30 • ⏱️ 21:53 • 1d ago
-
----
-
-**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 512 • 💬 58 • ⏱️ 16:54 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 522 • 💬 29 • ⏱️ 8:37 • 1d ago
-
----
-
-**[BITCOIN: 90% Are About to Get Trapped! (warning) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=jZF1GMvdrds)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 9K • 👍 484 • 💬 30 • ⏱️ 14:36 • 10h ago
+👁️ 1K • 👍 124 • 💬 5 • ⏱️ 1:58 • 1h ago
 
 ---
 
@@ -316,17 +262,67 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 405 • 👍 35 • 💬 4 • ⏱️ 14:00 • 4h ago
+👁️ 953 • 👍 61 • 💬 8 • ⏱️ 14:00 • 4h ago
 
 ---
 
-**[The Floodgates Are Open! Trillions Will Pour into BTC &amp; Crypto - Mike Novogratz](https://www.youtube.com/watch?v=zTrNPIqIhFg)**
+**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 221 • 👍 17 • 💬 62 • ⏱️ 4:17 • 12h ago
+
+---
+
+**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 345 • 💬 24 • ⏱️ 20:31 • 1d ago
+👁️ 11K • 👍 402 • 💬 32 • ⏱️ 21:53 • 1d ago
+
+---
+
+**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 514 • 💬 58 • ⏱️ 16:54 • 2d ago
+
+---
+
+**[BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HtusFKeaU5s)**
+
+BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 140 • 💬 141 • ⏱️ 21:12 • 1h ago
+
+---
+
+**[IT STARTED:SWIFT &amp; 30 Banks Officially Choose Ethereum (BMNR Targets $XXX)](https://www.youtube.com/watch?v=M5mvQO8X5eI)**
+
+BREAKING: It has officially started. SWIFT and over 30 global financial giants—including JPMorgan, Bank of America, BNP ...
+
+📺 CryptoStock Lab
+
+👁️ 609 • 👍 38 • 💬 53 • ⏱️ 14:59 • 4h ago
+
+---
+
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+
+📺 Thomas Kralow
+
+👁️ 17K • 👍 523 • 💬 29 • ⏱️ 8:37 • 1d ago
 
 ---
 
