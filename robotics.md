@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T16:49:11.751979+00:00'
+updated: '2025-12-20T17:00:09.176042+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 16:49 UTC  
+**Last Updated:** December 20, 2025 at 17:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-6h ago
+7h ago
 
 ---
 

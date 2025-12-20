@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T16:49:11.742752+00:00'
+updated: '2025-12-20T17:00:09.166972+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 16:49 UTC  
+**Last Updated:** December 20, 2025 at 17:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.3%  
-**30d:** +3.6%  
-**90d:** -21.9%  
-**1y:** -9.5%  
+**24h:** +1.2%  
+**7d:** -0.4%  
+**30d:** +3.5%  
+**90d:** -22.0%  
+**1y:** -9.6%  
 
 ---
 
@@ -131,7 +131,7 @@ Not talking about price or hype. I mean the moment it actually clicked for you s
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 23h ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 

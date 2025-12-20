@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T16:49:11.734332+00:00'
+updated: '2025-12-20T17:00:09.158656+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 16:49 UTC  
+**Last Updated:** December 20, 2025 at 17:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ My week partying with the young founders at the heart of the AI boom
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 14h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ UK AISI’s first Frontier AI Trends Report finds that AI models are getting bet
 
 My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
 
-1d ago
+2d ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 15h ago
 
 Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Euronews.com • 1d ago
 
 Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 2h ago
 
 The AI infrastructure giant has pulled back significantly of late, but it could make a big comeback in the new year.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 55m ago
 
 ---
 
@@ -355,7 +355,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 85 • 💬 5 • ⏱️ 8:46 • 4h ago
+👁️ 1K • 👍 85 • 💬 5 • ⏱️ 8:46 • 5h ago
 
 ---
 
@@ -668,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 565 • 1h ago
+⭐ 5.2k • 🔱 565 • 2h ago
 
 ---
 
@@ -738,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 34m ago
+⭐ 829 • 🔱 135 • 45m ago
 
 ---
 
