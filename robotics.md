@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T15:18:25.358885+00:00'
+updated: '2025-12-20T15:35:00.021952+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 15:18 UTC  
+**Last Updated:** December 20, 2025 at 15:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.nio-robotics.com/
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -88,13 +88,13 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-10h ago
+11h ago
 
 ---
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -196,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 11K • 👍 341 • 💬 33 • ⏱️ 2:08:46 • 14h ago
+👁️ 11K • 👍 341 • 💬 33 • ⏱️ 2:08:46 • 15h ago
 
 ---
 

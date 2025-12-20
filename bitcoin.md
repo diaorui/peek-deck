@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T15:18:25.349633+00:00'
+updated: '2025-12-20T15:35:00.012659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 15:18 UTC  
+**Last Updated:** December 20, 2025 at 15:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
-**1y:** -9.2%  
+**24h:** +0.1%  
+**7d:** -0.3%  
+**30d:** +3.6%  
+**90d:** -21.9%  
+**1y:** -9.5%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 Yeah, you try hodling it back in my day.
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Reuters • 23h ago
 
 **[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfx60xYYWS9yp_RJfWlVhS3z2-QklCRm_A2y0SUfuLBbUYj0aU1XHBa&gaa_ts=6946c1a3&gaa_sig=9wCnE65uHHVZQb_En3X0c9zzRRCPmMDJH_7tSJBBH-yFQiq625miDfQ-5T2qY4GMDwXHfmA5s2ZW7Vor5aUJXg%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Block • 17h ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -253,7 +253,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 23h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 1d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -283,7 +283,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 146 • ⏱️ 13:47 • 15h ago
+👁️ 30K • 👍 2K • 💬 146 • ⏱️ 13:47 • 16h ago
 
 ---
 
@@ -293,7 +293,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 525 • 💬 307 • ⏱️ 10:58 • 14h ago
+👁️ 11K • 👍 525 • 💬 307 • ⏱️ 10:58 • 15h ago
 
 ---
 
@@ -303,7 +303,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 180 • ⏱️ 44:14 • 23h ago
+👁️ 38K • 👍 2K • 💬 180 • ⏱️ 44:14 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 16K • 👍 2K • 💬 238 • ⏱️ 8:31 • 21h ago
+👁️ 16K • 👍 2K • 💬 238 • ⏱️ 8:31 • 22h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T15:18:25.341326+00:00'
+updated: '2025-12-20T15:35:00.004316+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 15:18 UTC  
+**Last Updated:** December 20, 2025 at 15:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ You built the models. You wrote the papers. You understand transformers, attenti
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 19h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 20h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 13h ago
 
 **[Big Tech gets worried about Trump’s AI czar](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 33m ago
+Politico • 50m ago
 
 ---
 
@@ -153,7 +153,7 @@ Politico • 33m ago
 
 The video rapidly racked up more than 12 million views after it was shared on Facebook.
 
-Euronews.com • 23h ago
+Euronews.com • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ Investor's Business Daily • 21h ago
 
 The booming demand for high-speed networking in data centers has supercharged this tech stock.
 
-The Motley Fool • 33m ago
+The Motley Fool • 50m ago
 
 ---
 
@@ -303,7 +303,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 167K • 👍 11K • 💬 2K • ⏱️ 17:08 • 21h ago
+👁️ 167K • 👍 11K • 💬 2K • ⏱️ 17:08 • 22h ago
 
 ---
 
@@ -353,7 +353,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 226K • 👍 7K • 💬 1K • ⏱️ 15:39 • 17h ago
+👁️ 226K • 👍 7K • 💬 1K • ⏱️ 15:39 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 12K • 👍 171 • 💬 75 • ⏱️ 3:29 • 22h ago
+👁️ 12K • 👍 171 • 💬 75 • ⏱️ 3:29 • 23h ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 395 • 18h ago
+⬇️ 71,413 • ❤️ 395 • 19h ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 556 • 37m ago
+⭐ 5.1k • 🔱 556 • 53m ago
 
 ---
 
