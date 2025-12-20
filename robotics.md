@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T21:24:00.673006+00:00'
+updated: '2025-12-20T21:37:23.918030+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 21:24 UTC  
+**Last Updated:** December 20, 2025 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Website: https://www.nio-robotics.com/
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
 
-53m ago
+1h ago
 
 ---
 
@@ -200,7 +200,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 15K • 👍 444 • 💬 41 • ⏱️ 2:08:46 • 20h ago
+👁️ 15K • 👍 444 • 💬 41 • ⏱️ 2:08:46 • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 Romi Pal
 
-👁️ 12.7M • 👍 85K • 💬 578 • ⏱️ 0:24 • 4d ago
+👁️ 12.7M • 👍 85K • 💬 578 • ⏱️ 0:24 • 5d ago
 
 ---
 

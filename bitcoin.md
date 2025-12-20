@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T21:24:00.664982+00:00'
+updated: '2025-12-20T21:37:23.910136+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - videos
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 21:24 UTC  
+**Last Updated:** December 20, 2025 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -133,7 +133,7 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
 
-7h ago
+8h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Motley Fool • 11h ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 10h ago
+Nasdaq • 11h ago
 
 ---
 
@@ -205,7 +205,7 @@ Nasdaq • 10h ago
 
 Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -285,7 +285,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 13K • 👍 580 • 💬 351 • ⏱️ 10:58 • 20h ago
+👁️ 13K • 👍 580 • 💬 351 • ⏱️ 10:58 • 21h ago
 
 ---
 
@@ -295,7 +295,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 137 • ⏱️ 13:47 • 21h ago
+👁️ 36K • 👍 2K • 💬 137 • ⏱️ 13:47 • 22h ago
 
 ---
 
