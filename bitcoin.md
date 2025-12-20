@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T04:48:46.070825+00:00'
+updated: '2025-12-20T04:59:59.228743+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 04:48 UTC  
+**Last Updated:** December 20, 2025 at 04:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.0%  
+**24h:** +1.3%  
+**7d:** +0.0%  
 **30d:** +3.9%  
 **90d:** -21.7%  
-**1y:** -9.3%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.63B
+**Market Cap:** $1761.35B
 Rank #1
 
-**Circulating Supply:** 19,964,481 BTC
+**Circulating Supply:** 19,964,509 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129873.5%
++130001.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -145,9 +145,9 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqf4LnFY5HH-pm3ZOaeH8xOEqJfKpt9XTv_obu9X-RcP1ky2WvvSXR-K&gaa_ts=69462939&gaa_sig=W2uAIUYowJEdSGyJcd_TMMY7vrw_P1uLXpvtQ08h4ktVSxMW0jsCPtPInUF6hc-CFd2QVu3yI9PRxpX_FCbXrA%3D%3D)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqekEjVcNcoZBt9GME4ETcfPAQualXEHs-NaSCj_8wKGXJYiL4oVDkSM&gaa_ts=694630b5&gaa_sig=AtLneLopoqtOn_itc_39UAsJdsHs0aTB5Qezxme467NUG2hUQTAGHs4CiA57BC0dHT8FOMSYgw1mzVNC5UfqlA%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -165,7 +165,7 @@ Investing.com • 15h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqclViZhDGkfEghZedif2MRJxe2ne7GKtEbX39PzCJbh2-4Ql4XIyx22&gaa_ts=69462939&gaa_sig=gSwwoh0o-kOKLsHdGUYZg0X4LlYv1Ohq38Z9TzYIdxmiYzbJNYxVWrKYAyKZXpUcc-f19ahRUfubMPClrpVl_Q%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqex3C6Yv6QPhPf8RMPDBQPvqy8vlV3lMpm4wfEIDL_SmcXeYNQcilEq&gaa_ts=694630b5&gaa_sig=QUZUGfnynmZ94y-MNJRjiSLUhz-6e-NXawG5sAb0AHsHAQovmUthNRwZ8lqV1ZxuMoCUpx2Lmpwq4LQPluhnxw%3D%3D)**
 
 MarketWatch • 15h ago
 
@@ -197,11 +197,11 @@ Investor's Business Daily • 18h ago
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqd0lZZPMAja_qteYKAFk7ey7PrF2V-YRDihKh9eoOJ6u1YyizS-lPV2&gaa_ts=69462939&gaa_sig=5dqyAGsWNiojL3Qz_rwuAO1DbdEJJ568rVIWsboRi7-ubi88L30dxm2c78GzA3VBvZdjyKxq9NA87K0rIltIaA%3D%3D)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqef4QRnN4B0YyrpcNiLBWYf-Xj4TiZV4ItDNUqDAbScfKuRRFvYeii2&gaa_ts=694630b5&gaa_sig=DAZcfOd4bxUPvofEK324-o0fQvYMUsXUtisCZQMkI8O8GjZKdxhXlOVkHdsbS3ZNylPMAYYkIf-H9jFp-u5Q7A%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -285,7 +285,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Open source primitives for agent context management - Michaelliv/context-engine
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/Michaelliv/context-engine)
+⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 

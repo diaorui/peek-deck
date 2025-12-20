@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T04:48:46.076731+00:00'
+updated: '2025-12-20T04:59:59.236019+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 04:48 UTC  
+**Last Updated:** December 20, 2025 at 04:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** -2.5%  
-**30d:** +8.0%  
-**90d:** -28.8%  
-**1y:** -10.5%  
+**24h:** +2.0%  
+**7d:** -2.6%  
+**30d:** +7.9%  
+**90d:** -28.9%  
+**1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.00B
+**Market Cap:** $359.92B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+688790.2%
++688704.8%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 18h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 19h ago
 
 ---
 
@@ -178,11 +178,25 @@ The Block • 17h ago
 
 ---
 
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+
+Decrypt • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqesWe8Vfyl1VvfP5LPBcpahCXOBd7w3CXu1rdlTpU2iZepHp4JImXDI&gaa_ts=694630b7&gaa_sig=dY149b3UaeuNmvJEz7kaRA0T5wWrxrUKs3OHllFv0i8ffD1wYHN1PQn6aPGj_2JZ9k3uQFpzvOmDd60YwtpYQw%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
 
 Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -194,25 +208,11 @@ ts2.tech • 9h ago
 
 ---
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
-
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
-
-Decrypt • 1d ago
-
----
-
 **[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
 
 Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
 
 BeInCrypto • 23h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqe9EASVBHD8txt0eou7wCULmS4U6PugA4ODXlA_dRVFZFgOcJxwsRZC&gaa_ts=6946293b&gaa_sig=Mg4Pkc-QdksbLT4TThC6snz-Jn4Z7oOhmoSqduYHMMrn-IaV6Iz84iNXDnKr0czfufomPlFnVDDjn4uyz1nb4g%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -294,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 346 • 👍 14 • 💬 8 • ⏱️ 4:42 • 18h ago
+👁️ 346 • 👍 14 • 💬 8 • ⏱️ 4:42 • 19h ago
 
 ---
 

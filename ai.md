@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T04:48:46.062465+00:00'
+updated: '2025-12-20T04:59:59.218804+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 04:48 UTC  
+**Last Updated:** December 20, 2025 at 04:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 2h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ My question is about reliance on facial recognition software, and more generally
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-23h ago
+1d ago
 
 ---
 
@@ -121,17 +121,15 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ## Google News: "ai"
 
-**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqflxEOjdhN2DIJVLOcBbIAqlJ4pf5CtcJPOz9GKcKj1WG1caHE0LzDe&gaa_ts=694630b4&gaa_sig=Lkj8x6Qi9dHE1x5-2sZMpaUrXvwBWH4iZp-12Ic1R5dSRatiXAfdbcdvZVtDHE9mrxfUd1e3s-VTk4hI3sunZQ%3D%3D)**
 
-The New York Times • 9h ago
+The Wall Street Journal • 1d ago
 
 ---
 
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 16h ago
+The New York Times • 9h ago
 
 ---
 
@@ -140,6 +138,12 @@ Los Angeles Times • 16h ago
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
 CNBC • 12h ago
+
+---
+
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqdQhC_X26RbvJjeoJMOv_en2bPG8xu0HMGObhMhuRuU0-9-wqWTOKt-&gaa_ts=694630b4&gaa_sig=4W1FUG1Vz59tTX-0qBFIF3NDHpxZbhGOrDvioq7box2BQjgdi8PemK561Dae6hWfVS0ysAvLjQrvpfE7u9FPiw%3D%3D)**
+
+The Wall Street Journal • 35m ago
 
 ---
 
@@ -167,12 +171,6 @@ Fortune • 14h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqf7pHxjpen16VEYV5hCwR-MJBVxuC7kovytz2giGwP0DyOEF0JMZHEH&gaa_ts=69462938&gaa_sig=mhwM15F3tBpzd09uDaWDFWK5I7P7DTEQWyoKyhvRdTHehumCrftWXwCGr_W135ViGEW_uF-nE3J8SxbhwnxaDw%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
 **[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
@@ -181,19 +179,19 @@ The Guardian • 13h ago
 
 ---
 
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+
+A Stanford software engineering degree used to be a golden ticket.
+
+Los Angeles Times • 16h ago
+
+---
+
 **[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
 National Oceanic and Atmospheric Administration (NOAA) (.gov) • 2d ago
-
----
-
-**[6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)**
-
-Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
-
-WIRED • 12h ago
 
 ---
 
@@ -217,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 534 • 💬 518 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 535 • 💬 518 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -225,7 +223,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 449 • 💬 572 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 449 • 💬 576 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -425,7 +423,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 349 • 1d ago
+⬇️ 0 • ❤️ 350 • 1d ago
 
 ---
 
@@ -679,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 38m ago
+⭐ 2.1k • 🔱 150 • 49m ago
 
 ---
 

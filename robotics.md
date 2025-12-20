@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T04:48:46.079916+00:00'
+updated: '2025-12-20T04:59:59.240039+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 04:48 UTC  
+**Last Updated:** December 20, 2025 at 04:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ Anyone have any experience with Linmot Actuators? We implemented these in food g
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-24m ago
+36m ago
 
 ---
 
@@ -104,7 +104,7 @@ Humanoid robots from Unitree perform flips and synchronized choreography live on
 
 Hey everyone, I’m currently building a 2-wheel skid steer robot using an ESP32. The goal is to have it transport a payload between two points with high precision and speed, controlled by a human operator. It needs to be super reliable, so I’m finally moving away from the breadboard and designing my first custom PCB for it. Since this is my first board, I’m a bit worried about signal integrity and keeping the ESP32 from resetting due to electrical noise from the DC motors. I’m trying to figure out the best way to isolate the logic side from the power side to prevent inductive spikes. Would using separate voltage regulators with a common star ground be enough here, or is there a better approach? Also, regarding the motors themselves, I know I need to solder ceramic capacitors to suppress high-frequency noise, but I’m looking for confirmation on the best arrangement. Is the standard setup of one cap across the terminals and two to the motor case the way to go? And are 0.1µF (100nF) capacitors usually the right value for this? Any other tips on trace widths or general layout advice for a first-timer would be really appreciated. Thanks in advance!
 
-31m ago
+42m ago
 
 ---
 
@@ -112,19 +112,33 @@ Hey everyone, I’m currently building a 2-wheel skid steer robot using an ESP32
 
 ## Google News: "robotics"
 
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 2d ago
+
+---
+
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
+
+Bloomberg.com • 17h ago
+
+---
+
+**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://futurism.com/future-society/humanoid-robot-financial-bubble)**
+
+A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
+
+Futurism • 9h ago
+
+---
+
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
 Futurism • 10h ago
-
----
-
-**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
-
-Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
-
-Interesting Engineering • 2d ago
 
 ---
 
@@ -168,23 +182,7 @@ South China Morning Post • 5h ago
 
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
-Bloomberg.com • 17h ago
-
----
-
-**[UPS Leans Into $9 Billion Automation Strategy with Robotics Rollout](https://sourcingjournal.com/topics/logistics/ups-pickle-robot-120-million-investment-robotics-warehouse-automation-pick-and-place-rollout-logistics-1234794119/)**
-
-UPS is paying up $120 million to use 400 truck-unloading robots from Pickle Robot, adding to its broader $9 billion warehouse automation strategy.
-
-Sourcing Journal • 3d ago
-
----
-
-**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
-
-NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
-
-Yahoo Finance • 2d ago
+Bloomberg.com • 18h ago
 
 ---
 
