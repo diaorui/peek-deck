@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T13:07:54.568747+00:00'
+updated: '2025-12-20T13:36:33.545211+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 13:07 UTC  
+**Last Updated:** December 20, 2025 at 13:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ You built the models. You wrote the papers. You understand transformers, attenti
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 17h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 18h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 2d ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -169,7 +169,7 @@ The New Yorker • 2h ago
 
 Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -191,7 +191,7 @@ Los Angeles Times • 1d ago
 
 **[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqd162s-gz-atojdWHD-Mn3A7bfx28c4OkbCFTYgDQL7fhXc1e787uHZ&gaa_ts=6946a311&gaa_sig=vJnDKKH9_rHm1pcWy-asvM_lzl8ihkP4tH58ajTma5l2-Dsbzpw4UKYOu5AaGPtFOWeIX-9SXITywvtDdWWbCA%3D%3D)**
 
-The Wall Street Journal • 8h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -303,7 +303,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 25K • 👍 1K • 💬 34 • ⏱️ 1:01 • 20h ago
+👁️ 25K • 👍 1K • 💬 34 • ⏱️ 1:01 • 21h ago
 
 ---
 
@@ -313,7 +313,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 160K • 👍 10K • 💬 2K • ⏱️ 17:08 • 19h ago
+👁️ 160K • 👍 10K • 💬 2K • ⏱️ 17:08 • 20h ago
 
 ---
 
@@ -323,7 +323,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 213K • 👍 7K • 💬 1K • ⏱️ 15:39 • 15h ago
+👁️ 213K • 👍 7K • 💬 1K • ⏱️ 15:39 • 16h ago
 
 ---
 
@@ -383,7 +383,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 1.7M • 👍 5K • 💬 110 • ⏱️ 8:07 • 1d ago
+👁️ 1.7M • 👍 5K • 💬 110 • ⏱️ 8:07 • 2d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 391 • 16h ago
+⬇️ 71,413 • ❤️ 391 • 17h ago
 
 ---
 
@@ -581,18 +581,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 30 • 💬 2 • ⭐ 12,831 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -601,7 +589,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,471 • 22d ago
+▲ 27 • 💬 2 • ⭐ 7,471 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -617,6 +605,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 118 • 💬 18 • ⭐ 47,287 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 30 • 💬 2 • ⭐ 12,851 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.1k • 🔱 2.8k • 1d ago
+⭐ 18.2k • 🔱 2.8k • 1d ago
 
 ---
 
@@ -665,9 +665,9 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
+`TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 546 • 49m ago
+⭐ 5.1k • 🔱 550 • 35m ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 155 • 4h ago
+⭐ 2.2k • 🔱 155 • 5h ago
 
 ---
 
@@ -707,17 +707,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 911 • 🔱 24 • 12d ago
-
----
-
-**[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)**
-
-Open Source Semantic Search for your AI Agent
-
-`TypeScript` `colbert` `embeddings` `grep` `grep-search`
-
-⭐ 881 • 🔱 50 • 4d ago
+⭐ 912 • 🔱 24 • 12d ago
 
 ---
 
@@ -727,7 +717,17 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 878 • 🔱 41 • 2d ago
+⭐ 884 • 🔱 41 • 2d ago
+
+---
+
+**[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)**
+
+Open Source Semantic Search for your AI Agent
+
+`TypeScript` `colbert` `embeddings` `grep` `grep-search`
+
+⭐ 881 • 🔱 50 • 5d ago
 
 ---
 
@@ -737,7 +737,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 828 • 🔱 134 • 4d ago
+⭐ 829 • 🔱 134 • 4d ago
 
 ---
 
@@ -747,7 +747,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 797 • 🔱 116 • 2d ago
+⭐ 798 • 🔱 116 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T13:07:54.577437+00:00'
+updated: '2025-12-20T13:36:33.553755+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 13:07 UTC  
+**Last Updated:** December 20, 2025 at 13:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,332.84
+### $88,171.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.1%  
-**30d:** +4.0%  
-**90d:** -21.6%  
-**1y:** -9.2%  
+**24h:** -0.2%  
+**7d:** -0.5%  
+**30d:** +3.4%  
+**90d:** -22.1%  
+**1y:** -9.7%  
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 Honestly, I’m exhausted from watching charts all day. I’ve been in this market since 2017. I lived through the phase when everyone—from taxi drivers to random strangers—was hyping crypto. I also lived through the crashes, watching my portfolio drop 75% in a single week. I thought I’d seen it all. But this time feels different. Prices keep moving up, institutions are fully involved, ETFs are live. And yet, there’s this strange tension in the background. It’s not the loud, careless euphoria of the previous bull run. It feels more like the silence before something huge—either a move that changes everything… or the opposite. Last night, I shut down the terminal and went for a walk without my phone. Sometimes you need to remind yourself that life is bigger than green and red candles. I came back and added a bit more $BTC. Because despite the uncertainty, I still believe in the long-term vision. How are you dealing with the pressure these days? Feeling anxious, or completely zen? BTC #PriceAnalysis #MacroInsights
 
-53m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Honestly, I’m exhausted from watching charts all day. I’ve been in this mark
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -165,13 +165,13 @@ CoinDesk • 20h ago
 
 Circle remains the bank's top pick in the sector, with Bullish and Coinbase following.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
 **[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfbPqvWMyopHQ3UIOepG2MOCAcGVgyehA2cW8unnjh6Lm61Ghxa_DQK&gaa_ts=6946a2e6&gaa_sig=78jnmn_FjheOUIaIttKqM_mooKQgaOAFvITcKZZVkImxLncD4X7TA4jT4TYc7JngN4nC9Qg3k3XDSXtNH-9-zw%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -201,7 +201,7 @@ Forbes • 1d ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -257,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 21h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 22h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -287,7 +287,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 91 • ⏱️ 13:47 • 13h ago
+👁️ 27K • 👍 2K • 💬 91 • ⏱️ 13:47 • 14h ago
 
 ---
 
@@ -297,7 +297,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 503 • 💬 228 • ⏱️ 10:58 • 12h ago
+👁️ 10K • 👍 503 • 💬 228 • ⏱️ 10:58 • 13h ago
 
 ---
 
@@ -307,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 175 • ⏱️ 44:14 • 21h ago
+👁️ 38K • 👍 2K • 💬 175 • ⏱️ 44:14 • 22h ago
 
 ---
 
@@ -327,7 +327,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 15K • 👍 1K • 💬 234 • ⏱️ 8:31 • 19h ago
+👁️ 15K • 👍 1K • 💬 234 • ⏱️ 8:31 • 20h ago
 
 ---
 
@@ -347,7 +347,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 209 • 💬 48 • ⏱️ 4:42 • 12h ago
+👁️ 3K • 👍 209 • 💬 48 • ⏱️ 4:42 • 13h ago
 
 ---
 
@@ -357,7 +357,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 ET Transport
 
-👁️ 2K • 👍 1K • 55m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -377,7 +377,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 415 • 💬 16 • ⏱️ 7:49 • 7h ago
+👁️ 6K • 👍 415 • 💬 16 • ⏱️ 7:49 • 8h ago
 
 ---
 

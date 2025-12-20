@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T13:07:54.583567+00:00'
+updated: '2025-12-20T13:36:33.559803+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 13:07 UTC  
+**Last Updated:** December 20, 2025 at 13:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.3%  
-**30d:** +8.2%  
-**90d:** -28.7%  
-**1y:** -10.4%  
+**24h:** -0.0%  
+**7d:** -2.9%  
+**30d:** +7.6%  
+**90d:** -29.1%  
+**1y:** -10.9%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 22h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 311 • 💬 113 • ⏱️ 22:39 • 18h ago
+👁️ 8K • 👍 311 • 💬 113 • ⏱️ 22:39 • 19h ago
 
 ---
 
@@ -298,7 +298,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 19K • 👍 2K • 💬 2 • ⏱️ 27:59 • 23h ago
+👁️ 19K • 👍 2K • 💬 2 • ⏱️ 27:59 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 153 • 💬 11 • ⏱️ 9:41 • 23h ago
+👁️ 3K • 👍 153 • 💬 11 • ⏱️ 9:41 • 1d ago
 
 ---
 

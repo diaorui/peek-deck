@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T13:07:54.586857+00:00'
+updated: '2025-12-20T13:36:33.563001+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 13:07 UTC  
+**Last Updated:** December 20, 2025 at 13:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.nio-robotics.com/
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-18h ago
+19h ago
 
 ---
 
@@ -80,13 +80,13 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-37m ago
+1h ago
 
 ---
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-8h ago
+9h ago
 
 ---
 
@@ -136,7 +136,7 @@ Bloomberg.com • 1d ago
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 18h ago
+Futurism • 19h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 10K • 👍 304 • 💬 28 • ⏱️ 2:08:46 • 12h ago
+👁️ 10K • 👍 304 • 💬 28 • ⏱️ 2:08:46 • 13h ago
 
 ---
 
@@ -216,7 +216,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 189K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
+👁️ 189K • 👍 2K • 💬 21 • ⏱️ 0:25 • 6d ago
 
 ---
 
