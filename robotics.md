@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T09:17:44.236142+00:00'
+updated: '2025-12-20T09:35:23.414526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 09:17 UTC  
+**Last Updated:** December 20, 2025 at 09:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -66,13 +66,13 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-4h ago
+5h ago
 
 ---
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-32m ago
+50m ago
 
 ---
 
@@ -94,7 +94,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -102,7 +102,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 Anyone have any experience with Linmot Actuators? We implemented these in food grade wash down environment using a scara robot making rate of about 40 picks a minute , however we have had 4 , yes FOUR , cables fail in the last month and half since we commissioned this job . Just wondering if anyone has had experience with any linmot grippers ( EOAT). Would love to chat Thanks .
 
-6h ago
+7h ago
 
 ---
 
@@ -136,7 +136,7 @@ Futurism • 14h ago
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 7K • 👍 244 • 💬 20 • ⏱️ 2:08:46 • 8h ago
+👁️ 7K • 👍 244 • 💬 20 • ⏱️ 2:08:46 • 9h ago
 
 ---
 
@@ -206,7 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 15K • 👍 300 • 💬 93 • ⏱️ 3:55 • 21h ago
+👁️ 15K • 👍 300 • 💬 93 • ⏱️ 3:55 • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 14K • 👍 36 • ⏱️ 0:09 • 21h ago
+👁️ 14K • 👍 36 • ⏱️ 0:09 • 22h ago
 
 ---
 

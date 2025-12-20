@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T09:17:44.226910+00:00'
+updated: '2025-12-20T09:35:23.406469+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 09:17 UTC  
+**Last Updated:** December 20, 2025 at 09:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +0.1%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.6%  
+**1y:** -9.2%  
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-8h ago
+9h ago
 
 ---
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -147,13 +147,13 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc-U21xvMoBDi7W1hfq-gRaX8hDnHISxocm-hoFDjV6__7gCW4bBu8k&gaa_ts=69466d1a&gaa_sig=DzF330BNFzKS-pvKcM7kF0RcnyHyhTpfwhbunzMN1IOQnAgnwHOr86ya6y3aknyt6PcOS44cUfkuYRbcb59OPg%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
 **[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfbSt97oZMqYEN6f3aCIypabLcIGI5UTgqbtRV19EUZu6M4hBoOByye&gaa_ts=69466d1a&gaa_sig=MDiaF5dV7FaqYCTQihvf9RBIxXTZ3RDytHbAaMRgagw-lcAtjGI_jSKSlQWRsXcym5a2Z25zM9aOHK74-6atQQ%3D%3D)**
 
-Barron's • 15h ago
+Barron's • 16h ago
 
 ---
 
@@ -209,7 +209,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
-Investing.com • 19h ago
+Investing.com • 20h ago
 
 ---
 
@@ -243,7 +243,7 @@ How much of a resource hog is AI?
 
 **[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
 
-⬆️ 2 • 💬 3 • 3h ago
+⬆️ 2 • 💬 3 • 4h ago
 
 ---
 
@@ -257,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 17h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 18h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -287,7 +287,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 420 • 💬 156 • ⏱️ 10:58 • 8h ago
+👁️ 8K • 👍 420 • 💬 156 • ⏱️ 10:58 • 9h ago
 
 ---
 
@@ -297,7 +297,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 62 • ⏱️ 13:47 • 9h ago
+👁️ 20K • 👍 1K • 💬 62 • ⏱️ 13:47 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 13K • 👍 1K • 💬 164 • ⏱️ 8:31 • 15h ago
+👁️ 13K • 👍 1K • 💬 164 • ⏱️ 8:31 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 363 • 💬 31 • ⏱️ 9:31 • 16h ago
+👁️ 7K • 👍 363 • 💬 31 • ⏱️ 9:31 • 17h ago
 
 ---
 
@@ -367,7 +367,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 36K • 👍 2K • 💬 172 • ⏱️ 44:14 • 17h ago
+👁️ 36K • 👍 2K • 💬 172 • ⏱️ 44:14 • 18h ago
 
 ---
 

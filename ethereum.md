@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T09:17:44.232937+00:00'
+updated: '2025-12-20T09:35:23.411778+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 09:17 UTC  
+**Last Updated:** December 20, 2025 at 09:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -118,7 +118,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 18h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 Ethereum is adding new wallets at its fastest pace in months, signaling rising on-chain activity and renewed user interest.
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -170,7 +170,7 @@ Crypto Briefing • 2d ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 297 • 💬 106 • ⏱️ 22:39 • 14h ago
+👁️ 7K • 👍 297 • 💬 106 • ⏱️ 22:39 • 15h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 19h ago
+👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 20h ago
 
 ---
 
@@ -306,7 +306,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 18K • 👍 2K • 💬 2 • ⏱️ 27:59 • 19h ago
+👁️ 18K • 👍 2K • 💬 2 • ⏱️ 27:59 • 20h ago
 
 ---
 

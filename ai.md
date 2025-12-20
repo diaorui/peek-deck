@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T09:17:44.218493+00:00'
+updated: '2025-12-20T09:35:23.398978+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 09:17 UTC  
+**Last Updated:** December 20, 2025 at 09:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 13h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 14h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 7h ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 19h ago
 
 Today, Google Cloud dropped its 2026 AI Agent Trends Report.
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
@@ -303,7 +303,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 17:08 • 15h ago
+👁️ 143K • 👍 10K • 💬 2K • ⏱️ 17:08 • 16h ago
 
 ---
 
@@ -343,7 +343,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 48K • 👍 2K • 💬 403 • ⏱️ 1:09:11 • 15h ago
+👁️ 48K • 👍 2K • 💬 403 • ⏱️ 1:09:11 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 175K • 👍 6K • 💬 938 • ⏱️ 15:39 • 11h ago
+👁️ 175K • 👍 6K • 💬 938 • ⏱️ 15:39 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 10K • 👍 161 • 💬 64 • ⏱️ 3:29 • 16h ago
+👁️ 10K • 👍 161 • 💬 64 • ⏱️ 3:29 • 17h ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 390 • 12h ago
+⬇️ 71,413 • ❤️ 390 • 13h ago
 
 ---
 
@@ -523,7 +523,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 7 • 💬 2 • ⭐ 3,909 • 8d ago
+▲ 7 • 💬 2 • ⭐ 3,909 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
