@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T17:25:21.735816+00:00'
+updated: '2025-12-20T17:39:53.298358+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 17:25 UTC  
+**Last Updated:** December 20, 2025 at 17:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,227.08
+### $88,221.50
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
 
-3h ago
+4h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdv7SBTgT33pzVQZJ1yh8YVCMTgUOoQcPLmTu7qmwBBOPA4O0LTL12F&gaa_ts=6946df67&gaa_sig=NX4pgpbeDYEbJCR4SXlOIN1AIPP8XtRjM5OhnLnEfzYIYXDGn2Zs_abJwD5wnC3R3FlIsC5fUmNGPFrnzRRg3Q%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ MarketWatch • 1d ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -213,7 +213,7 @@ Forbes • 1d ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -269,7 +269,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 546 • 💬 354 • ⏱️ 10:58 • 16h ago
+👁️ 12K • 👍 546 • 💬 354 • ⏱️ 10:58 • 17h ago
 
 ---
 
@@ -279,7 +279,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 159 • ⏱️ 13:47 • 17h ago
+👁️ 32K • 👍 2K • 💬 159 • ⏱️ 13:47 • 18h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T17:25:21.727555+00:00'
+updated: '2025-12-20T17:39:53.289978+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
+- news
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 17:25 UTC  
+**Last Updated:** December 20, 2025 at 17:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 My week partying with the young founders at the heart of the AI boom
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-5m ago
+19m ago
 
 ---
 
@@ -113,7 +113,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 21h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 22h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Atlantic • 4h ago
 
 It depends on which ones and what you believe about the future of the sector.
 
-The Motley Fool • 40m ago
+The Motley Fool • 54m ago
 
 ---
 
@@ -223,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 340 • 💬 276 • 8h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 340 • 💬 276 • 9h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -361,7 +361,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 242K • 👍 8K • 💬 1K • ⏱️ 15:39 • 19h ago
+👁️ 242K • 👍 8K • 💬 1K • ⏱️ 15:39 • 20h ago
 
 ---
 
@@ -381,7 +381,7 @@ The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #n
 
 📺 FootyToons AI
 
-👁️ 3K • 💬 4 • ⏱️ 0:51 • 1h ago
+👁️ 3K • 💬 4 • ⏱️ 0:51 • 2h ago
 
 ---
 
