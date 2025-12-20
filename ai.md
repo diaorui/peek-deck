@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T14:00:18.204340+00:00'
+updated: '2025-12-20T14:27:33.775859+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 14:00 UTC  
+**Last Updated:** December 20, 2025 at 14:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ You built the models. You wrote the papers. You understand transformers, attenti
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 18h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 19h ago
 
 ---
 
@@ -121,9 +121,11 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcqFTq7-L5Zmqmhd5BMlGRTe_gQkEDbaS1guksrPABos2205dOyLKKP&gaa_ts=6946acc8&gaa_sig=Ir_LvPjGChcK6kdpmOM3lbqdgvyjQpSSTZnBTy_SKQiWCQhhrncjJ8L4DTPlvgfXwHIJCdZ_dUdPOaBmv_1VwA%3D%3D)**
+**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
-The Wall Street Journal • 2d ago
+Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
+
+BBC • 12h ago
 
 ---
 
@@ -135,25 +137,17 @@ CNBC • 21h ago
 
 ---
 
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
-
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-BBC • 12h ago
-
----
-
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
 The New York Times • 2h ago
 
 ---
 
-**[Weary homebuyers have a new headache: Misleading AI listing photos](https://finance.yahoo.com/news/weary-homebuyers-have-a-new-headache-misleading-ai-listing-photos-130020137.html)**
+**[The AI Billionaires Who Are Barely Old Enough to Drink](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
-Done right, AI edits can save sellers time and money. But misleading, undisclosed edits can spark buyer complaints of "housefishing."
+My week partying with the young founders at the heart of the AI boom
 
-Yahoo Finance • 59m ago
+The Atlantic • 1h ago
 
 ---
 
@@ -165,29 +159,41 @@ Gizmodo • 1h ago
 
 ---
 
-**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqee8oIkD7dVeztJ2DN8ajFe7fG9Hy2cDqltmey1hg9EenuIHvuVV2H9&gaa_ts=6946b5bb&gaa_sig=sx5uwiIQVO2tsfOT-VN56BQMarLZnTx1wDkZRd-yNnoHQ-VaCsoOW_fHt3iRF5ru39Aefy7-ISw6KCOyuKnIZg%3D%3D)**
 
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 23h ago
+The Wall Street Journal • 10h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqf1LfDKUrSQhOynenmzWzDz95xQSpcv_2dAR_66GKCe-NeGYd7EoG0I&gaa_ts=6946acc8&gaa_sig=Gp0nNkR1jO3pMiEsB6veGnIxxj8kW3tpHYFyOh-AiJB19ByyJS9n1aMdRcHR-UP4eFr4_kA-JGthMfbJT0Eoug%3D%3D)**
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
 
-The Wall Street Journal • 9h ago
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
----
-
-**[Hochul Reaches Deal on A.I. Regulation in New York](https://www.nytimes.com/2025/12/19/nyregion/ai-bill-regulations-ny.html)**
-
-The New York Times • 14h ago
+The New Yorker • 3h ago
 
 ---
 
-**[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
 
-Politico • 14h ago
+A Stanford software engineering degree used to be a golden ticket.
+
+Los Angeles Times • 1d ago
+
+---
+
+**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
+
+When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
+
+The Guardian • 23h ago
+
+---
+
+**[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)**
+
+Today, Google Cloud dropped its 2026 AI Agent Trends Report.
+
+blog.google • 1d ago
 
 ---
 
@@ -211,7 +217,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 553 • 💬 525 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 555 • 💬 525 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -235,7 +241,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 248 • 💬 169 • 5h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 270 • 💬 197 • 5h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -299,7 +305,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 25K • 👍 1K • 💬 34 • ⏱️ 1:01 • 21h ago
+👁️ 25K • 👍 1K • 💬 34 • ⏱️ 1:01 • 22h ago
 
 ---
 
@@ -309,7 +315,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 160K • 👍 10K • 💬 2K • ⏱️ 17:08 • 20h ago
+👁️ 160K • 👍 10K • 💬 2K • ⏱️ 17:08 • 21h ago
 
 ---
 
@@ -359,7 +365,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 14K • 👍 348 • 💬 13 • ⏱️ 1:00 • 15h ago
+👁️ 14K • 👍 348 • 💬 13 • ⏱️ 1:00 • 16h ago
 
 ---
 
@@ -395,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,157 • 11d ago
+⬇️ 341,530 • ❤️ 3,159 • 11d ago
 
 ---
 
@@ -407,7 +413,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 392 • 17h ago
+⬇️ 71,413 • ❤️ 392 • 18h ago
 
 ---
 
@@ -455,7 +461,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 303 • 1d ago
+⬇️ 6,881 • ❤️ 305 • 1d ago
 
 ---
 
@@ -479,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 266 • 3d ago
+⬇️ 0 • ❤️ 267 • 3d ago
 
 ---
 
@@ -491,7 +497,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 257 • 1d ago
+⬇️ 1,067 • ❤️ 261 • 1d ago
 
 ---
 
@@ -663,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 550 • 59m ago
+⭐ 5.1k • 🔱 550 • 1h ago
 
 ---
 
@@ -673,7 +679,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 155 • 5h ago
+⭐ 2.2k • 🔱 155 • 6h ago
 
 ---
 

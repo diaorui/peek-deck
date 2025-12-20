@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T14:00:18.212852+00:00'
+updated: '2025-12-20T14:27:33.784428+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 14:00 UTC  
+**Last Updated:** December 20, 2025 at 14:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,277.07
+### $88,094.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
+**24h:** +0.5%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
 **1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.33B
+**Market Cap:** $1757.74B
 Rank #1
 
-**Circulating Supply:** 19,964,681 BTC
+**Circulating Supply:** 19,964,696 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.2%
 
 **All-Time Low:** $67.81
-+129959.0%
++129768.8%
 
 ---
 
@@ -91,19 +91,27 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-5h ago
+6h ago
 
 ---
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-5h ago
+6h ago
+
+---
+
+**[Anyone else feeling the strange tension in the market right now?](https://www.reddit.com/r/Bitcoin/comments/1preeap/anyone_else_feeling_the_strange_tension_in_the/)**
+
+Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
+
+57m ago
 
 ---
 
@@ -123,7 +131,7 @@ Rank #1
 
 Honestly, I’m exhausted from watching charts all day. I’ve been in this market since 2017. I lived through the phase when everyone—from taxi drivers to random strangers—was hyping crypto. I also lived through the crashes, watching my portfolio drop 75% in a single week. I thought I’d seen it all. But this time feels different. Prices keep moving up, institutions are fully involved, ETFs are live. And yet, there’s this strange tension in the background. It’s not the loud, careless euphoria of the previous bull run. It feels more like the silence before something huge—either a move that changes everything… or the opposite. Last night, I shut down the terminal and went for a walk without my phone. Sometimes you need to remind yourself that life is bigger than green and red candles. I came back and added a bit more $BTC. Because despite the uncertainty, I still believe in the long-term vision. How are you dealing with the pressure these days? Feeling anxious, or completely zen? BTC #PriceAnalysis #MacroInsights
 
-1h ago
+2h ago
 
 ---
 
@@ -135,43 +143,29 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ---
 
-**[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
-
-HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
-
-23h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
-**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
-Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-CoinDesk • 21h ago
-
----
-
-**[Citi defends crypto stocks despite market downturn, with CRCL, BLSH and COIN as top picks](https://www.coindesk.com/markets/2025/12/19/citi-trims-crypto-stock-price-targets-after-bitcoin-s-disappointing-q4)**
-
-Circle remains the bank's top pick in the sector, with Bullish and Coinbase following.
-
-CoinDesk • 21h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdVMdhbkJvPxDAzWyGDFlpO_QJ0ECq3Q2ExZ-oftY_TAJr4bjlbcRa8&gaa_ts=6946acc9&gaa_sig=yz4kq00RfJ35xtbpZGm5ZgBJJ5HWN8PpyYNtUgaRSNgx6ye6rJbI5pdqtCz913umGbMW5Cx6JSdh8H_feWyf7w%3D%3D)**
+**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
 
-Barron's • 20h ago
+Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
+
+CoinDesk • 26m ago
 
 ---
 
@@ -183,11 +177,31 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
 
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
 
-Bloomberg.com • 1d ago
+CoinDesk • 26m ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfvj2D970dmfYvcxMUAs9jcOMIUVyDg2bAMVqi74aARR_cwfz4LAWJs&gaa_ts=6946b5bd&gaa_sig=x0DUEPFuJOXmum89scJy884WAEAIEwAyVxibtkusaKxSCl4VGU0CdjTGm1IPsBqUYUSUqkU1ACQM6EevYo_JMA%3D%3D)**
+
+Barron's • 20h ago
+
+---
+
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdmzuTBDtIw8ZWdqNzQXnxANmHMylFLtnDWzGijdcEjHEWtOC_EBa-U&gaa_ts=6946b5bd&gaa_sig=mUaJNjVfs5uV2Ls78A1cbuXzYbihbdKEvK36I1CLykI3zt-3vlxvc32QPiBjvu7WKLkPPTFa63Tqt6Kj_WXXaA%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -199,25 +213,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
-
-Nasdaq • 3h ago
-
----
-
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqevlakPNvLJ7NTiXhXw4eT_s9yCzU3bzf_yDur5Ti4Qit44sAtrBDR0&gaa_ts=6946acc9&gaa_sig=cBIFdUHTlyQwdM-7qVfeqST-_LCExk7fhvPQqYQuIdQC12scFKR-Bm9UlFHXCtM0UAXkj9hV2lkiBMJLUNuN1w%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[BTC, XRP, ETH, ADA Price News: Bitcoin to $10,000 in 2026? It's Possible](https://www.coindesk.com/markets/2025/12/18/bitcoin-could-drop-to-usd10-000-one-analyst-says-spelling-doom-for-eth-ada-xrp)**
-
-Traders are positioning for downside risks, with a significant build-up of put options indicating expectations of a dip below $85,000.
-
-CoinDesk • 2d ago
+Forbes • 1d ago
 
 ---
 
@@ -259,7 +257,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 22h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 23h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -309,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 175 • ⏱️ 44:14 • 22h ago
+👁️ 38K • 👍 2K • 💬 175 • ⏱️ 44:14 • 23h ago
 
 ---
 
@@ -329,7 +327,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 15K • 👍 1K • 💬 234 • ⏱️ 8:31 • 20h ago
+👁️ 15K • 👍 1K • 💬 234 • ⏱️ 8:31 • 21h ago
 
 ---
 
@@ -349,7 +347,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 209 • 💬 48 • ⏱️ 4:42 • 13h ago
+👁️ 3K • 👍 209 • 💬 48 • ⏱️ 4:42 • 14h ago
 
 ---
 
@@ -359,7 +357,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 ET Transport
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 
@@ -379,7 +377,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 415 • 💬 16 • ⏱️ 7:49 • 8h ago
+👁️ 6K • 👍 415 • 💬 16 • ⏱️ 7:49 • 9h ago
 
 ---
 
