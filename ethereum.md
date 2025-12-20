@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T20:58:07.401815+00:00'
+updated: '2025-12-20T21:24:00.670251+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:58 UTC  
+**Last Updated:** December 20, 2025 at 21:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
+**24h:** -0.0%  
 **7d:** -2.6%  
 **30d:** +7.9%  
 **90d:** -28.9%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.82B
+**Market Cap:** $360.07B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.7%
 
 **All-Time Low:** $0.43
-+688441.5%
++688545.4%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
+
+---
+
+**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
+
+1h ago
 
 ---
 
@@ -80,13 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-11m ago
-
----
-
-**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
-
-38m ago
+37m ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 54m ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 1h ago
 
 ---
 
@@ -152,7 +152,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -218,7 +218,7 @@ FXEmpire • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqfKoVleCFMIcYUWQg7NmK45gxSz6wpvh-ciU2V6fBrJeXgODWzLJPP6&gaa_ts=69470ecc&gaa_sig=ePFxZibUwQrWKzVJSf_aPkmxl6W8DVovSRQ_yzxAshoIm4M_yq3yQhsDiBLFYwNzunoR0ox6cuuRyuvVZflgnA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqfNcdeNqPXuJZwbbHRvUvwXmkz7_DuBgn-M0Zd9RsKtsSHQioBrQO35&gaa_ts=6947175d&gaa_sig=LflQWdkTl7E_oyVkdfPHK8FQ_T_sXaekeBxE1GFBJoZtiLdGxhcZuSly8bq6oRFf1bVC6yYTNF8F_91N7jovNA%3D%3D)**
 
 Barron's • 3d ago
 
@@ -234,7 +234,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 1K • 👍 55 • 💬 30 • ⏱️ 11:26 • 6h ago
+👁️ 1K • 👍 55 • 💬 30 • ⏱️ 11:26 • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 152 • 👍 17 • 💬 21 • ⏱️ 8:36 • 1h ago
+👁️ 152 • 👍 17 • 💬 21 • ⏱️ 8:36 • 2h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 5 • ⏱️ 6:04 • 6h ago
+👁️ 2K • 👍 139 • 💬 5 • ⏱️ 6:04 • 7h ago
 
 ---
 
@@ -264,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 198 • 👍 16 • 💬 22 • ⏱️ 4:17 • 9h ago
+👁️ 198 • 👍 16 • 💬 22 • ⏱️ 4:17 • 10h ago
 
 ---
 
@@ -304,7 +304,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 484 • 💬 30 • ⏱️ 14:36 • 8h ago
+👁️ 9K • 👍 484 • 💬 30 • ⏱️ 14:36 • 9h ago
 
 ---
 

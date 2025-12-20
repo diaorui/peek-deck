@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T20:58:07.395761+00:00'
+updated: '2025-12-20T21:24:00.664982+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:58 UTC  
+**Last Updated:** December 20, 2025 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,250.00
+### $88,350.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
-**1y:** -9.3%  
+**24h:** +0.1%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.6%  
+**1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.91B
+**Market Cap:** $1762.01B
 Rank #1
 
-**Circulating Supply:** 19,964,803 BTC
+**Circulating Supply:** 19,964,815 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.0%
 
 **All-Time Low:** $67.81
-+129960.5%
++130107.9%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+
+2h ago
+
+---
+
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
 11h ago
@@ -85,13 +91,7 @@ Rank #1
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-6h ago
-
----
-
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
-
-1h ago
+7h ago
 
 ---
 
@@ -103,7 +103,9 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
-**[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
+**[People only love bitcoin when it is going up](https://www.reddit.com/r/Bitcoin/comments/1prk2gx/people_only_love_bitcoin_when_it_is_going_up/)**
+
+I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
 
 3h ago
 
@@ -111,13 +113,7 @@ The crypto market is down" Degens with their last $200:
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-12h ago
-
----
-
-**[CRYPTO is disappointed us](https://www.reddit.com/r/Bitcoin/comments/1prk1w0/crypto_is_disappointed_us/)**
-
-3h ago
+13h ago
 
 ---
 
@@ -127,17 +123,25 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
-**[People only love bitcoin when it is going up](https://www.reddit.com/r/Bitcoin/comments/1prk2gx/people_only_love_bitcoin_when_it_is_going_up/)**
+**[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
-
-3h ago
+13h ago
 
 ---
 
-**[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
+**[Anyone else feeling the strange tension in the market right now?](https://www.reddit.com/r/Bitcoin/comments/1preeap/anyone_else_feeling_the_strange_tension_in_the/)**
 
-12h ago
+Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
+
+7h ago
+
+---
+
+**[Honest question: what finally made you understand Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1prgj52/honest_question_what_finally_made_you_understand/)**
+
+Not talking about price or hype. I mean the moment it actually clicked for you scarcity, self-custody, trust, etc. Curious what changed people’s mindset.
+
+6h ago
 
 ---
 
@@ -149,7 +153,7 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -159,31 +163,7 @@ Reuters • 1d ago
 
 ---
 
-**[This Bitcoin Infrastructure Stock Is Up 182% and Now Commands 11% of One Portfolio](https://finance.yahoo.com/news/bitcoin-infrastructure-stock-182-now-194512437.html)**
-
-The move signals a shift toward scale, contracted revenue, and balance sheet strength as crypto infrastructure begins to look a little more like energy and data center investing.
-
-Yahoo Finance • 1h ago
-
----
-
-**[One Fund Just Bet $5 Million on This Bitcoin Infrastructure Play Beating the S&P 500 by 75 Points This Past Year](https://www.fool.com/coverage/filings/2025/12/20/one-fund-just-bet-usd5-million-on-this-bitcoin-infrastructure-play-beating-the-s-and-p-500-by-75-points-this-past-year/)**
-
-As crypto-linked equities heat up again, this concentrated bet shows how some funds are diving into digital infrastructure plays with contracted cash flows.
-
-The Motley Fool • 1h ago
-
----
-
-**[This Bitcoin Mining Stock Is Still 70% Below Its Peak but Now Makes Up 34% of a Portfolio](https://www.nasdaq.com/articles/bitcoin-mining-stock-still-70-below-its-peak-now-makes-34-portfolio)**
-
-Key PointsNew York City-based Aurelius Capital Management added 6.7 million shares of Bitfarms in the third quarter.
-
-Nasdaq • 1h ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfLxGL_aKnYqju-b8NCwvrISFNzS-VUn2VQLY-ytuVytm8p7-ZFYMaK&gaa_ts=69470ecb&gaa_sig=29aj1CKTtLXt7hD_TC-NTAMgcRbCk9TTPq_Ef6hJlKvGP8ZhjCQKar_XT7xhIJCuoV08f-tiMdFIbsVB_3Pj8A%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdOHclqmmJjjAxQQ0yN_j29cq6U2JvXf9trqy44icMC7O1a6FUuC9TU&gaa_ts=6947175b&gaa_sig=sgKNToaSfAeuuQHhxU-im5xVieV2Fg3Jf5gDiVbj2ZagnKnUoIWNAPU-eTDEP9-Mbuo6QeCRclEiAUx_ArQ73Q%3D%3D)**
 
 Barron's • 1d ago
 
@@ -197,21 +177,51 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[‘Nothing Stops This Train’—2026 Fed U.S. Dollar ‘Destruction’ Warning, Predicted To Trigger $4 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/20/nothing-stops-this-train-2026-fed-us-dollar-destruction-warning-predicted-to-trigger-4-trillion-bitcoin-price-boom/)**
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
 
-Forbes • 7h ago
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
 
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 22h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfy4uoBfgI8EepSSqZW_YneMTUJcerM2FoOMUXk67yXXkibB-AReUyj&gaa_ts=69470ecb&gaa_sig=6pqORwPZGsVH9RI61D39HEu6LsP48JoTcBVsYArrY6TisiQDm_K9UAYpcTvEVTYhtpAxyrwyur9RWOcvi7uG4g%3D%3D)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
-MarketWatch • 1d ago
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+
+The Motley Fool • 11h ago
+
+---
+
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+
+Nasdaq • 10h ago
+
+---
+
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+
+Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
+
+Nasdaq • 2h ago
+
+---
+
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.fool.com/investing/2025/12/20/bitcoin-vs-dogecoin-better-long-term-play/)**
+
+These two digital assets have performed very well for investors, but one is the clear winner.
+
+The Motley Fool • 3h ago
+
+---
+
+**[DOGE, SHIB Price News: Bitcoin continues to impact dogecoin, shiba inu demand](https://www.coindesk.com/markets/2025/12/18/dogecoin-and-shiba-inu-lag-market-as-memecoins-continue-to-lose-ground-to-bitcoin)**
+
+Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -245,7 +255,7 @@ How much of a resource hog is AI?
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 2d ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 3d ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -295,7 +305,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 2K • ⏱️ 46:11 • 6h ago
+👁️ 24K • 👍 2K • ⏱️ 46:11 • 7h ago
 
 ---
 
@@ -305,7 +315,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 750 • 💬 56 • ⏱️ 14:31 • 3h ago
+👁️ 7K • 👍 750 • 💬 56 • ⏱️ 14:31 • 4h ago
 
 ---
 

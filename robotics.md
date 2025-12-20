@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T20:58:07.405056+00:00'
+updated: '2025-12-20T21:24:00.673006+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 20:58 UTC  
+**Last Updated:** December 20, 2025 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,19 +40,19 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 ---
 
-**[Aru Robot, manufactured by the French company Nio Robotics to do industrial inspection and maintenance](https://www.reddit.com/r/robotics/comments/1prabw8/aru_robot_manufactured_by_the_french_company_nio/)**
-
-Website: https://www.nio-robotics.com/
-
-11h ago
-
----
-
 **[Demo by Kyber Labs shows their system autonomously assembling a part](https://www.reddit.com/r/robotics/comments/1prau9k/demo_by_kyber_labs_shows_their_system/)**
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
 11h ago
+
+---
+
+**[Aru Robot, manufactured by the French company Nio Robotics to do industrial inspection and maintenance](https://www.reddit.com/r/robotics/comments/1prabw8/aru_robot_manufactured_by_the_french_company_nio/)**
+
+Website: https://www.nio-robotics.com/
+
+12h ago
 
 ---
 
@@ -76,6 +76,14 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 ---
 
+**[Path to Robotics Technician?](https://www.reddit.com/r/robotics/comments/1prnxvd/path_to_robotics_technician/)**
+
+Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
+
+53m ago
+
+---
+
 **[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
@@ -96,15 +104,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-16h ago
-
----
-
-**[Path to Robotics Technician?](https://www.reddit.com/r/robotics/comments/1prnxvd/path_to_robotics_technician/)**
-
-Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
-
-27m ago
+17h ago
 
 ---
 
@@ -128,6 +128,14 @@ Los Angeles Times • 3d ago
 
 ---
 
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 21h ago
+
+---
+
 **[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
@@ -144,22 +152,6 @@ CNN • 3d ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 21h ago
-
----
-
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
-
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
-
-South China Morning Post • 21h ago
-
----
-
 **[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
 
 Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
@@ -168,11 +160,11 @@ TechCrunch • 3d ago
 
 ---
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
 
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-Fortune • 2d ago
+South China Morning Post • 22h ago
 
 ---
 
@@ -182,11 +174,19 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
 
-NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
 
-Yahoo Finance • 3d ago
+Interesting Engineering • 3d ago
+
+---
+
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ Are you stuck at the last minute for a Christmas gift? Wondering how to “wow�
 
 📺 FRANCE 24 English
 
-👁️ 5K • 👍 70 • 💬 21 • ⏱️ 2:09 • 22h ago
+👁️ 5K • 👍 70 • 💬 21 • ⏱️ 2:09 • 23h ago
 
 ---
 

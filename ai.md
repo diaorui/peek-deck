@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T20:58:07.387153+00:00'
+updated: '2025-12-20T21:24:00.657532+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 20:58 UTC  
+**Last Updated:** December 20, 2025 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
-
-A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
-
-3h ago
-
----
-
 **[Sam Altman says he’s ‘0%’ excited to be CEO of a public company as OpenAI drops hints about an IPO: ‘In some ways I think it’d be really annoying’](https://www.reddit.com/r/artificial/comments/1prllyb/sam_altman_says_hes_0_excited_to_be_ceo_of_a/)**
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
 🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 2h ago
+
+---
+
+**[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
+
+A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
+
+4h ago
+
+---
+
+**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
+
+Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
+
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1h ago
 
 ---
 
@@ -61,19 +69,11 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
-**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
-
-Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
-
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 41m ago
-
----
-
 **[America and China Are Racing to Different AI Futures](https://www.reddit.com/r/artificial/comments/1prmbsj/america_and_china_are_racing_to_different_ai/)**
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +121,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdhFeiAp2X7CrWGfj3xBwIhXNKuIt6F_C0KZ32cfn2ghcYmkof6zPEf&gaa_ts=69470ec9&gaa_sig=5MVqgQxRbQQfl4SFJBX4-R0sUZu__p_9BCkeBR_smUmDl0slb3Sfco3GeR65R5RWtOSreG0ShAo8PaKOxbUvsw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdOH8Q4R9X4tMjHtxXPLnw9dvkfM_1fgOstdyA4bfc_Wm2B4SFasIcW&gaa_ts=6947175a&gaa_sig=AAC-kPGU81CDLOl4eMz-i56NGHmcW62EJ3emUxy3nqKtXt2BZJVrQoSvvxP07tAUCB8aROJ3koxE6xprfe1sdA%3D%3D)**
 
 wsj.com • 2d ago
 
@@ -131,7 +131,7 @@ wsj.com • 2d ago
 
 Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -143,27 +143,11 @@ BBC • 19h ago
 
 ---
 
-**[YouTube Kills Channels Creating Fake AI Movie Trailers](https://gizmodo.com/rest-in-hell-fake-ai-made-youtube-trailers-2000701825)**
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
 
-Rejoice, two of the biggest contributors to the AI movie trailer problem on YouTube have been taken down.
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-Gizmodo • 1h ago
-
----
-
-**[AI Boom Brings Flood of Debt to Ultrasafe Market: Credit Weekly](https://www.bloomberg.com/news/articles/2025-12-20/ai-boom-brings-flood-of-debt-to-ultrasafe-market-credit-weekly)**
-
-The great artificial intelligence boom that’s fueling US economic growth now depends heavily on credit markets to finance the investments, and utilities are among the key borrowers.
-
-Bloomberg.com • 58m ago
-
----
-
-**[Has Ambarella’s AI Chip Story Run Ahead of Itself After Recent Share Price Volatility?](https://finance.yahoo.com/news/ambarella-ai-chip-story-run-200609412.html)**
-
-If you are wondering whether Ambarella is a quietly mispriced chip play or a value trap in the making, you are in the right place to unpack what the market might be missing. The stock has been choppy lately, with the share price down around 3.7% over the last week and roughly 17.1% over the past month, even though it is still up about 2.2% over the last year. Recent headlines have focused on Ambarella's positioning in computer vision and edge AI chips, along with ongoing design wins in...
-
-Yahoo Finance • 51m ago
+The New Yorker • 10h ago
 
 ---
 
@@ -177,21 +161,35 @@ Politico • 6h ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 7h ago
-
----
-
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
-
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
-
-The New Yorker • 9h ago
+The Atlantic • 8h ago
 
 ---
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
+
+---
+
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 7h ago
+
+---
+
+**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+
+Axios • 23m ago
+
+---
+
+**[What AI data centers are doing to your electric bill : Planet Money](https://www.npr.org/2025/12/19/nx-s1-5649814/ai-data-center-electricity-bill)**
+
+As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
+
+NPR • 21h ago
 
 ---
 
@@ -223,7 +221,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 409 • 💬 349 • 12h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 415 • 💬 354 • 12h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -237,7 +235,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 165 • 💬 246 • 11h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 174 • 💬 251 • 11h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -289,7 +287,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 109 • ⏱️ 37:38 • 6h ago
+👁️ 20K • 👍 1K • 💬 109 • ⏱️ 37:38 • 7h ago
 
 ---
 
@@ -359,7 +357,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 20K • 👍 494 • 💬 14 • ⏱️ 1:00 • 22h ago
+👁️ 20K • 👍 494 • 💬 14 • ⏱️ 1:00 • 23h ago
 
 ---
 
@@ -395,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,178 • 12d ago
+⬇️ 341,530 • ❤️ 3,179 • 12d ago
 
 ---
 
@@ -423,6 +421,18 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 6,881 • ❤️ 337 • 2d ago
+
+---
+
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -443,19 +453,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 335 • 2d ago
-
----
-
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 6,881 • ❤️ 334 • 2d ago
+⬇️ 6,103 • ❤️ 336 • 2d ago
 
 ---
 
@@ -479,7 +477,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 295 • 1d ago
+⬇️ 1,067 • ❤️ 298 • 1d ago
 
 ---
 
@@ -531,7 +529,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,694 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,737 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -563,20 +561,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 204 • 💬 5 • ⭐ 7,468 • 23d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -598,9 +582,23 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 118 • 💬 18 • ⭐ 47,287 • 9mo ago
+▲ 118 • 💬 18 • ⭐ 47,315 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 204 • 💬 5 • ⭐ 7,489 • 23d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -616,6 +614,20 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
+**[Step-GUI Technical Report](https://huggingface.co/papers/2512.15431)**
+
+*Haolong Yan, Jia Wang, Xin Huang et al. (97 authors)*
+
+🏢 StepFun
+
+A self-evolving training pipeline with the Calibrated Step Reward System and GUI-MCP protocol improve GUI automation efficiency, accuracy, and privacy in real-world scenarios.
+
+▲ 117 • 💬 3 • ⭐ 1,601 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.15431) • [💻 code](https://github.com/stepfun-ai/gelab-zero) • [🔗 project](https://opengelab.github.io/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -623,22 +635,9 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 65,816 • 27mo ago
+▲ 26 • 💬 1 • ⭐ 65,829 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
-  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
-
-*Tongyi SpeechTeam*
-
-FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
-
-▲ 39 • 💬 1 • ⭐ 18,108 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
 
 ---
 
@@ -652,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.2k • 🔱 2.8k • 1d ago
+⭐ 18.2k • 🔱 2.9k • 1d ago
 
 ---
 
@@ -662,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 568 • 6h ago
+⭐ 5.2k • 🔱 569 • 6h ago
 
 ---
 
@@ -672,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 160 • 2h ago
+⭐ 2.2k • 🔱 160 • 3h ago
 
 ---
 
@@ -702,7 +701,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 918 • 🔱 43 • 2d ago
+⭐ 921 • 🔱 43 • 2d ago
 
 ---
 
@@ -732,7 +731,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 4h ago
+⭐ 830 • 🔱 135 • 5h ago
 
 ---
 
