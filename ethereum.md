@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T10:55:52.272354+00:00'
+updated: '2025-12-20T11:18:42.294149+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 10:55 UTC  
+**Last Updated:** December 20, 2025 at 11:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.6%  
-**7d:** -2.7%  
-**30d:** +7.7%  
-**90d:** -29.0%  
-**1y:** -10.7%  
+**7d:** -2.9%  
+**30d:** +7.6%  
+**90d:** -29.1%  
+**1y:** -10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.97B
+**Market Cap:** $359.17B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687095.0%
++687208.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-14h ago
+15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 23h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 1d ago
 
 ---
 
@@ -150,27 +150,11 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
 
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
+ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
-
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
-
-TradingView — Track All Markets • 23h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
-
-FXStreet • 1d ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -216,15 +200,31 @@ BeInCrypto • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
 
-ts2.tech • 15h ago
+ts2.tech • 16h ago
 
 ---
 
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
+**[Ethereum Dip Pressures BitMine, but Tom Lee and Ark Keep Buying | US Crypto News](https://www.tradingview.com/news/beincrypto:96a5a4bd7094b:0-ethereum-dip-pressures-bitmine-but-tom-lee-and-ark-keep-buying-us-crypto-news/)**
 
-Is Ethereum really on the path to a price of $62,000 next year?
+Welcome to the US Crypto News Morning Briefing—your essential rundown of the most important developments in crypto for the day ahead.Grab a coffee as BitMine’s bold Ethereum strategy is back in focus with market pressure building and investor nerves fraying. Losses are mounting, the stock is slidin…
 
-The Motley Fool • 2d ago
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies: Time To Start Paying Attention (NYSE:BMNR)](https://seekingalpha.com/article/4854737-bitmine-immersion-technologies-time-to-start-paying-attention)**
+
+Discover how Bitmine Immersion Technologies (BMNR) offers unique Ethereum exposure.
+
+Seeking Alpha • 17h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
+
+FXStreet • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 491 • 💬 28 • ⏱️ 8:37 • 23h ago
+👁️ 16K • 👍 491 • 💬 28 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 283 • 💬 8 • ⏱️ 21:53 • 19h ago
+👁️ 7K • 👍 283 • 💬 8 • ⏱️ 21:53 • 20h ago
 
 ---
 
@@ -298,7 +298,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 288 • 💬 4 • ⏱️ 20:31 • 14h ago
+👁️ 7K • 👍 288 • 💬 4 • ⏱️ 20:31 • 15h ago
 
 ---
 
@@ -318,7 +318,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 18K • 👍 1K • 💬 177 • ⏱️ 35:52 • 20h ago
+👁️ 18K • 👍 1K • 💬 177 • ⏱️ 35:52 • 21h ago
 
 ---
 

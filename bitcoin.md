@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T10:55:52.266260+00:00'
+updated: '2025-12-20T11:18:42.288183+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 10:55 UTC  
+**Last Updated:** December 20, 2025 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
+**24h:** +0.4%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
 **1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.29B
+**Market Cap:** $1758.96B
 Rank #1
 
-**Circulating Supply:** 19,964,606 BTC
+**Circulating Supply:** 19,964,640 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129869.0%
++129814.5%
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
-
-12h ago
-
----
-
 **[Most people haven’t woken up yet.](https://www.reddit.com/r/Bitcoin/comments/1pr0v0y/most_people_havent_woken_up_yet/)**
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
@@ -103,27 +97,33 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ---
 
-**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
-
-2h ago
-
----
-
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
 1h ago
 
 ---
 
+**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
+
+3h ago
+
+---
+
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-2h ago
+3h ago
 
 ---
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
 23h ago
+
+---
+
+**[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
+
+12h ago
 
 ---
 
@@ -137,7 +137,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,13 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqe5vzkMiyunEknx1KyZmy983RXIGK9rtVW4PL7obpE2wz_ywa09E0XV&gaa_ts=69468192&gaa_sig=8YHPJ4gbPM0JLDGF8vbuNe1Ar3htg2aXgw8hPBSLCDLbZeuDW_ev7AgnuzlW6xCkGZ6qoc1S2SfT-hHZsAGTSg%3D%3D)**
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 13h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeJxqpa_uiGUgUdO-XLJ3FGRhW29KdceonH2Y0P7Q5p7Vxv4uzJm_WN&gaa_ts=69468976&gaa_sig=FSImkU3oAFx7295OyPQKGcLfdsrjnHKr7NJ0OxEEYC62pN1sKvuOIKCjBb29AtL0ZXstZJhWR94EQWGyBjWNNA%3D%3D)**
 
 Barron's • 17h ago
 
@@ -159,17 +165,9 @@ CoinDesk • 18h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeuepPi_JwH4vZzfcT6YUZvRs1QZIDeTLRBEG0OAvhl-Y3SEO9xBg5Q&gaa_ts=69468192&gaa_sig=Y1vWgeIwtNJD1lnekcYoj7WBY49dWqfIwOEqMy1FGLczhePz6M12QEF8Dk4sXoJ8iKY9edTwFxc0ujU80vnwFQ%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdyxzVRU0f01NLJCn1EaVU75UqahgnHkn7SRIf6tDhIgcvfswYlVgs4&gaa_ts=69468976&gaa_sig=oqkY-ne2ZchzwTNWLksWJgLhjMq88DORCtPYomNnlxEHNstLrmmeYLvuM9TBS06EmMgybY_1t83zG5duAZPumQ%3D%3D)**
 
-MarketWatch • 20h ago
-
----
-
-**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
-
-In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
-
-Futurism • 19h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -189,15 +187,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
 
-Reuters • 18h ago
+In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
----
-
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
-
-Investor's Business Daily • 1d ago
+Futurism • 20h ago
 
 ---
 
@@ -209,11 +203,17 @@ CoinDesk • 18h ago
 
 ---
 
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+
+Forbes • 1d ago
+
+---
+
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-The Motley Fool • 45m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -325,7 +325,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 4K • 💬 248 • ⏱️ 18:06 • 18h ago
+👁️ 66K • 👍 4K • 💬 248 • ⏱️ 18:06 • 19h ago
 
 ---
 
@@ -355,7 +355,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 189 • 💬 44 • ⏱️ 4:42 • 10h ago
+👁️ 3K • 👍 189 • 💬 44 • ⏱️ 4:42 • 11h ago
 
 ---
 
@@ -365,7 +365,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 216 • 💬 26 • ⏱️ 6:37 • 12h ago
+👁️ 3K • 👍 216 • 💬 26 • ⏱️ 6:37 • 13h ago
 
 ---
 
@@ -375,7 +375,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 349 • 💬 13 • ⏱️ 7:49 • 5h ago
+👁️ 4K • 👍 349 • 💬 13 • ⏱️ 7:49 • 6h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T10:55:52.257840+00:00'
+updated: '2025-12-20T11:18:42.279747+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 10:55 UTC  
+**Last Updated:** December 20, 2025 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -121,7 +121,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdez67hYNQW3NdOww2oi48dDZXclIuyKqf1ipJoLUjmBMTNAT7jmxhZ&gaa_ts=69468191&gaa_sig=eG-SHXbeZPXRtFnspMC3LRE44K-UqCpavgmPYj72WFjYZP3sg8QAkqXJPUiPwLP_05nEFISPWz0R7EL74tpkHg%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqe86DDOcGq77IW38Bw409eu8mYLFNLOo1svHn0VJk64uNDn2PH3GQt7&gaa_ts=69468974&gaa_sig=MXXKzmIPKXoD0907nH5P7Knqz2ULb_YJNJxVHqwyvLziV5KzmrB-M9stvBiQXHzix-q0kzeXfhcjJrXpNgbKNw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -143,55 +143,57 @@ CNBC • 18h ago
 
 ---
 
-**[Can AI shopping tools like ChatGPT pick meaningful Christmas gifts?](https://qz.com/ai-christmas-shopping-gift-guide)**
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqd3uNQIBgXnyDS5uGJPkbph65s4W9RKKQLXfU9a3t98aFOcZzqoW1fk&gaa_ts=69468974&gaa_sig=AklpU_-wfTxHfP8buG8h_3wRzkpm3cH5Z4nIuuNr0CVtEBLDepWUJX_vUDjKiNL8h57ZuSkeTgvCdKbCziJUqA%3D%3D)**
 
-qz.com • 55m ago
-
----
-
-**[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
-
-There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
-
-CNN • 1d ago
+The Wall Street Journal • 6h ago
 
 ---
 
-**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+**[Trump's $6 Billion Fusion Deal Sends DJT Soaring 42% on AI Power Play](https://finance.yahoo.com/news/trumps-6-billion-fusion-deal-162648948.html)**
 
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+Trump Media strikes high-voltage merger with TAE to fuel AI's energy future--investors ignite on fusion frenzy.
 
-Fortune • 20h ago
-
----
-
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
-
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 22h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Want to work in AI? Here are the skills to master, economist says](https://www.cbsnews.com/news/ai-artificial-intelligence-ai-jobs-labor-market/)**
+**[Trump's AI policy is dividing his party. Here's what key GOP critics are saying about it.](https://www.businessinsider.com/gop-critics-trump-ai-preemption-policy-2025-12)**
 
-Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
+Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
 
-CBS News • 12h ago
-
----
-
-**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
-
-When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
-
-The Guardian • 19h ago
+Business Insider • 19m ago
 
 ---
 
-**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
+**[Why This AI Stock Could Outperform Nvidia Over the Next 5 Years](https://www.fool.com/investing/2025/12/19/why-this-ai-stock-could-outperform-nvidia-over-the/)**
 
-The New York Times • 1d ago
+Nvidia's dominance in the AI accelerator space could slip simply because it can't keep up with demand.
+
+The Motley Fool • 23h ago
+
+---
+
+**[Prediction: This AI Stock Could Be the Best Performer of 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-best-102000069.html)**
+
+Taiwan Semiconductor Manufacturing is positioned to grow rapidly in 2026.
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Tech Stocks Are Surging Friday. Is the AI Trade Making a Comeback?](https://www.investopedia.com/tech-stocks-surge-friday-is-the-ai-trade-making-a-comeback-orcl-nvda-googl-panw-11873111)**
+
+Tech stocks led the major indexes higher Friday, with several AI investor favorites among the biggest gainers after a string of positive news.
+
+Investopedia • 16h ago
+
+---
+
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
+
+The New Yorker • 18m ago
 
 ---
 
@@ -223,7 +225,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 456 • 💬 582 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 456 • 💬 584 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -267,17 +269,19 @@ A cross-industry study on recent trends in AI software development. Engineering 
 
 ---
 
+**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
+
+Exclusive: Tech exec admits not dead cert it'll find the right solution
+
+⬆️ 126 • 💬 53 • 2h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+
+---
+
 **[Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://news.ycombinator.com/item?id=46313266)**
 
 The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
 
 ⬆️ 121 • 💬 149 • 1d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
-
----
-
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
-
-⬆️ 117 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
 
 ---
 
@@ -351,7 +355,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 13K • 👍 330 • 💬 13 • ⏱️ 1:00 • 12h ago
+👁️ 13K • 👍 330 • 💬 13 • ⏱️ 1:00 • 13h ago
 
 ---
 
@@ -421,7 +425,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 355 • 1d ago
+⬇️ 2,937 • ❤️ 356 • 1d ago
 
 ---
 
@@ -433,7 +437,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 320 • 2d ago
+⬇️ 6,103 • ❤️ 321 • 2d ago
 
 ---
 
@@ -445,7 +449,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 303 • 6d ago
+⬇️ 4,050 • ❤️ 304 • 6d ago
 
 ---
 
@@ -457,7 +461,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 293 • 1d ago
+⬇️ 6,881 • ❤️ 295 • 1d ago
 
 ---
 
@@ -493,7 +497,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 239 • 3d ago
+⬇️ 533 • ❤️ 240 • 3d ago
 
 ---
 
@@ -505,7 +509,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 230 • 1d ago
+⬇️ 1,067 • ❤️ 236 • 1d ago
 
 ---
 
@@ -533,7 +537,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 9 • 💬 2 • ⭐ 12,644 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,644 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -565,20 +569,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 204 • 💬 5 • ⭐ 7,436 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -606,13 +596,27 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 204 • 💬 5 • ⭐ 7,468 • 22d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 30 • 💬 2 • ⭐ 12,831 • 11d ago
+▲ 30 • 💬 2 • ⭐ 12,831 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -631,16 +635,17 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 GVC Lab at Great Bay University
 
-▲ 26 • 💬 1 • ⭐ 65,795 • 27mo ago
+PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 26 • 💬 2 • ⭐ 607 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -654,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.1k • 🔱 2.8k • 23h ago
+⭐ 18.1k • 🔱 2.8k • 1d ago
 
 ---
 
@@ -664,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 540 • 1h ago
+⭐ 5.0k • 🔱 542 • 18m ago
 
 ---
 
@@ -674,7 +679,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 152 • 2h ago
+⭐ 2.1k • 🔱 154 • 3h ago
 
 ---
 
@@ -714,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 880 • 🔱 50 • 4d ago
+⭐ 881 • 🔱 50 • 4d ago
 
 ---
 
@@ -724,7 +729,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 870 • 🔱 41 • 2d ago
+⭐ 871 • 🔱 41 • 2d ago
 
 ---
 
@@ -734,7 +739,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 827 • 🔱 134 • 4d ago
+⭐ 828 • 🔱 134 • 4d ago
 
 ---
 

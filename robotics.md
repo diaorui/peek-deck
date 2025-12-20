@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T10:55:52.275594+00:00'
+updated: '2025-12-20T11:18:42.297345+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 10:55 UTC  
+**Last Updated:** December 20, 2025 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-16h ago
+17h ago
 
 ---
 
@@ -116,13 +116,13 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
 
-Los Angeles Times • 2d ago
+Los Angeles Times • 3d ago
 
 ---
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ Bloomberg.com • 23h ago
 
 A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
 
-Futurism • 15h ago
+Futurism • 16h ago
 
 ---
 
@@ -142,19 +142,19 @@ Futurism • 16h ago
 
 ---
 
-**[Welcome to home robotics limbo](https://edition.cnn.com/2025/12/17/business/robotics-ai-limbo)**
-
-Tech historians may look back on 2025 as a kind of trough in consumer robotics.
-
-CNN • 2d ago
-
----
-
 **[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
 KSBY News • 1d ago
+
+---
+
+**[Welcome to home robotics limbo](https://edition.cnn.com/2025/12/17/business/robotics-ai-limbo)**
+
+Tech historians may look back on 2025 as a kind of trough in consumer robotics.
+
+CNN • 2d ago
 
 ---
 
@@ -170,21 +170,21 @@ TechCrunch • 2d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 11h ago
+South China Morning Post • 12h ago
+
+---
+
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 2d ago
 
 ---
 
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Elementary robotics students travel for state competition](https://www.dailypress.net/news/local-news/2025/12/elementary-robotics-students-travel-for-state-competition/)**
-
-ESCANABA — A couple of local teams of fourth- and fifth-graders are among the 48 that have traveled to Mason, Mich. this weekend for the state championship of FIRST robotics’ LEGO League Challenge — the youngest competing level for robotics. The Retro Rockets from Rapid River, the Brave Diamond Diggers from James T. Jones Elementary […]
-
-dailypress.net • 4h ago
 
 ---
 
