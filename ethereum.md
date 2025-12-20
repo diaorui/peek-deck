@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T19:29:42.711683+00:00'
+updated: '2025-12-20T19:40:45.054680+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:29 UTC  
+**Last Updated:** December 20, 2025 at 19:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
+**24h:** -0.5%  
 **7d:** -2.8%  
-**30d:** +7.6%  
-**90d:** -29.1%  
+**30d:** +7.7%  
+**90d:** -29.0%  
 **1y:** -10.8%  
 
 ---
@@ -200,7 +200,7 @@ Yahoo Finance • 1d ago
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 29m ago
+CoinDesk • 40m ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 53 • 👍 3 • ⏱️ 14:00 • 59m ago
+👁️ 53 • 👍 3 • ⏱️ 14:00 • 1h ago
 
 ---
 
@@ -318,7 +318,7 @@ Nick Valdez and TJ sit down for an interview with the co-founder of Ethereum and
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 416 • 💬 49 • ⏱️ 48:50 • 3h ago
+👁️ 4K • 👍 416 • 💬 49 • ⏱️ 48:50 • 4h ago
 
 ---
 

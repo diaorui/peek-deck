@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T19:29:42.705624+00:00'
+updated: '2025-12-20T19:40:45.048568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:29 UTC  
+**Last Updated:** December 20, 2025 at 19:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
-**1y:** -9.2%  
+**24h:** +0.0%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
+**1y:** -9.3%  
 
 ---
 
@@ -107,13 +107,13 @@ The mods will probably delete this....again.... But I finally hit 0.1 BTC!
 
 The crypto market is down" Degens with their last $200:
 
-1h ago
+2h ago
 
 ---
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-26m ago
+37m ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 1h ago
 
 Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
-Nasdaq • 58m ago
+Nasdaq • 1h ago
 
 ---
 
@@ -271,7 +271,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 572 • 💬 328 • ⏱️ 10:58 • 18h ago
+👁️ 12K • 👍 572 • 💬 328 • ⏱️ 10:58 • 19h ago
 
 ---
 
@@ -281,7 +281,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 117 • ⏱️ 13:47 • 19h ago
+👁️ 34K • 👍 2K • 💬 117 • ⏱️ 13:47 • 20h ago
 
 ---
 
