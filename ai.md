@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T13:49:24.265465+00:00'
+updated: '2025-12-20T14:00:18.204340+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 13:49 UTC  
+**Last Updated:** December 20, 2025 at 14:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 12h ago
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 1h ago
 
 Done right, AI edits can save sellers time and money. But misleading, undisclosed edits can spark buyer complaints of "housefishing."
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 49m ago
 
 Anything your imagination desires, as long as it's one of just a few options.
 
-Gizmodo • 49m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Wall Street Journal • 9h ago
 
 **[Hochul Reaches Deal on A.I. Regulation in New York](https://www.nytimes.com/2025/12/19/nyregion/ai-bill-regulations-ny.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -369,7 +369,7 @@ Why So Serious ??? Wahh grand betul ya kalini siap ada fashion show.
 
 📺 Alieff Irfan
 
-👁️ 725K • 👍 46K • 💬 5K • ⏱️ 3:30:58 • 8h ago
+👁️ 725K • 👍 46K • 💬 5K • ⏱️ 3:30:58 • 9h ago
 
 ---
 
@@ -571,7 +571,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 204 • 💬 5 • ⭐ 7,468 • 22d ago
+▲ 204 • 💬 5 • ⭐ 7,468 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -663,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 550 • 48m ago
+⭐ 5.1k • 🔱 550 • 59m ago
 
 ---
 

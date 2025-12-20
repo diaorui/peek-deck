@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T13:49:24.280248+00:00'
+updated: '2025-12-20T14:00:18.218916+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 13:49 UTC  
+**Last Updated:** December 20, 2025 at 14:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -2.8%  
-**30d:** +7.7%  
+**24h:** +0.7%  
+**7d:** -2.7%  
+**30d:** +7.8%  
 **90d:** -29.0%  
-**1y:** -10.8%  
+**1y:** -10.7%  
 
 ---
 
@@ -318,7 +318,7 @@ FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchas
 
 📺 Paul Barron Podcast
 
-👁️ 18K • 👍 1K • 💬 179 • ⏱️ 35:52 • 23h ago
+👁️ 18K • 👍 1K • 💬 179 • ⏱️ 35:52 • 1d ago
 
 ---
 
