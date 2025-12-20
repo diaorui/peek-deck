@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T17:50:42.013640+00:00'
+updated: '2025-12-20T18:14:27.234541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 17:50 UTC  
+**Last Updated:** December 20, 2025 at 18:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-30m ago
+54m ago
 
 ---
 
@@ -73,7 +73,7 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-14h ago
+15h ago
 
 ---
 
@@ -81,7 +81,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-11h ago
+12h ago
 
 ---
 
@@ -121,12 +121,6 @@ UK AISI’s first Frontier AI Trends Report finds that AI models are getting bet
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfBV_YvS3VJD80ayGgG8yYFZmsdzoEkrTbmjMGR1N6iwOqkbKbZPdQ8&gaa_ts=6946df65&gaa_sig=E-CxKACmUC9cBPiEbKgI-Di4kvod0lTZQmLoMTaKLx7I58qs5zaPDAvPEsRl8mQEVYp4IofUEMDDI1vc_YAOcQ%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
 **[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
@@ -135,25 +129,29 @@ BBC • 16h ago
 
 ---
 
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-My week partying with the young founders at the heart of the AI boom
-
-The Atlantic • 4h ago
+Politico • 3h ago
 
 ---
 
-**[Should You Buy Artificial Intelligence (AI) Stocks In 2026?](https://www.fool.com/investing/2025/12/20/should-you-buy-artificial-intelligence-ai-stocks-i/)**
+**[New Nebula Awards Rules Forbid Nominees That Used GenAI](https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137)**
 
-It depends on which ones and what you believe about the future of the sector.
+GenAI and LLMs almost got a soft pass to enter the Nebula Awards, but the sci-fi/fantasy writing community shut that down.
 
-The Motley Fool • 1h ago
+Gizmodo • 34m ago
 
 ---
 
-**[Prediction: This AI Stock Will Be the Most Surprising Winner of 2026](https://finance.yahoo.com/news/prediction-ai-stock-most-surprising-160500867.html)**
+**[Tesla or CoreWeave: Cathie Wood Slashes One Top AI Stock While Boosting Another](https://www.tipranks.com/news/tesla-or-coreweave-cathie-wood-slashes-one-top-ai-stock-while-boosting-another)**
 
-The AI infrastructure giant has pulled back significantly of late, but it could make a big comeback in the new year.
+TipRanks • 52m ago
+
+---
+
+**[What Nova (NVMI)'s New Analyst Attention Amid AI-Driven Demand Means For Shareholders](https://finance.yahoo.com/news/nova-nvmi-analyst-attention-amid-170831487.html)**
+
+In recent days, Nova attracted increased attention after Jefferies raised its price target and Morgan Stanley initiated coverage, both citing growing demand for its semiconductor process control systems amid rising chip complexity. An interesting angle is how investor commentary has linked Nova's metrology and analytics tools directly to the expanding role of artificial intelligence in driving semiconductor manufacturing needs. We’ll now explore how this fresh analyst interest, tied to...
 
 Yahoo Finance • 1h ago
 
@@ -169,29 +167,29 @@ CNBC • 1d ago
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
-**[Big Tech gets worried about Trump’s AI czar](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqeSspMiR15OgpRja7zcIeZya3uE-ghKjTst9UEt-QNEDw3Ug5JMaO8n&gaa_ts=6946eae7&gaa_sig=L6lzi9lrSCkn5L9vgIor_oD_jWZAYiifkLWwG-hnM5JfufE6uImndXZy_mbzpQj__7kJpECST9ZGBB0lkrFXwg%3D%3D)**
 
-Politico • 3h ago
-
----
-
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
-
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
-
-The New Yorker • 6h ago
+The Wall Street Journal • 13h ago
 
 ---
 
-**[40 of our most helpful AI tips from 2025](https://blog.google/technology/ai/ai-tips-2025/)**
+**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
-Learn more about the AI tips and tools Google shared in 2025.
+My week partying with the young founders at the heart of the AI boom
 
-blog.google • 1d ago
+The Atlantic • 4h ago
+
+---
+
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 4h ago
 
 ---
 
@@ -207,7 +205,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 557 • 💬 526 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 558 • 💬 527 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -215,7 +213,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 459 • 💬 588 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 459 • 💬 589 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -223,7 +221,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 340 • 💬 276 • 9h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 355 • 💬 300 • 9h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -255,7 +253,13 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 127 • 💬 85 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+⬆️ 133 • 💬 86 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+
+---
+
+**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
+
+⬆️ 132 • 💬 202 • 8h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -273,14 +277,6 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ---
 
-**[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
-
-Timeline & Responsible Disclosure
-
-⬆️ 116 • 💬 59 • 23h ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -291,7 +287,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 7K • 👍 548 • 💬 56 • ⏱️ 37:38 • 3h ago
+👁️ 7K • 👍 548 • 💬 56 • ⏱️ 37:38 • 4h ago
 
 ---
 
@@ -351,7 +347,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 85 • 💬 5 • ⏱️ 8:46 • 5h ago
+👁️ 1K • 👍 85 • 💬 5 • ⏱️ 8:46 • 6h ago
 
 ---
 
@@ -397,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,174 • 12d ago
+⬇️ 341,530 • ❤️ 3,175 • 12d ago
 
 ---
 
@@ -409,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 395 • 21h ago
+⬇️ 71,413 • ❤️ 396 • 21h ago
 
 ---
 
@@ -433,7 +429,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 335 • 6d ago
+⬇️ 4,050 • ❤️ 336 • 6d ago
 
 ---
 
@@ -445,7 +441,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 327 • 2d ago
+⬇️ 6,103 • ❤️ 330 • 2d ago
 
 ---
 
@@ -457,7 +453,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 324 • 1d ago
+⬇️ 6,881 • ❤️ 327 • 1d ago
 
 ---
 
@@ -469,7 +465,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 295 • 5d ago
+⬇️ 0 • ❤️ 297 • 5d ago
 
 ---
 
@@ -481,7 +477,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 277 • 1d ago
+⬇️ 1,067 • ❤️ 283 • 1d ago
 
 ---
 
@@ -493,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 275 • 3d ago
+⬇️ 0 • ❤️ 276 • 3d ago
 
 ---
 
@@ -674,7 +670,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 159 • 9h ago
+⭐ 2.2k • 🔱 159 • 10h ago
 
 ---
 

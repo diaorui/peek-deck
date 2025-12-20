@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T17:50:42.028174+00:00'
+updated: '2025-12-20T18:14:27.249053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 17:50 UTC  
+**Last Updated:** December 20, 2025 at 18:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
+**24h:** -0.3%  
 **7d:** -2.9%  
 **30d:** +7.5%  
-**90d:** -29.2%  
+**90d:** -29.1%  
 **1y:** -10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.48B
+**Market Cap:** $359.47B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.9%
 
 **All-Time Low:** $0.43
-+687970.3%
++686961.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -180,17 +180,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://www.ccn.com/news/technology/ethereum-wall-street-tokenization-adoption/)**
-
-CCN.com • 5h ago
-
----
-
 **[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
 Decrypt • 2d ago
+
+---
+
+**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://www.ccn.com/news/technology/ethereum-wall-street-tokenization-adoption/)**
+
+CCN.com • 6h ago
 
 ---
 
@@ -210,15 +210,15 @@ FXStreet • 1d ago
 
 ---
 
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+**[What Is Arthur Hayes Buying After ‘Rotating Out’ of Ethereum?](https://www.tradingview.com/news/coinpedia:461b7b0da094b:0-what-is-arthur-hayes-buying-after-rotating-out-of-ethereum/)**
 
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+Arthur Hayes is back in focus because of where his money is moving.As Ethereum trades sideways near the key $3,000 level, the BitMEX co-founder has begun trimming his ETH exposure and rotating into decentralized finance tokens, a shift that’s catching attention across the crypto market. Hayes was o…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcJGk8RTHLUb9LCkrh7uFKFkraYJDRcxeezDBUC5281cI54pasElgK6&gaa_ts=6946df68&gaa_sig=nhcUW3yRWJyMUn7qZbmmd9U-0mbNRU2un_Duf904wBALQbaXP3CKzsVojsgFI2veRxtFmXLjC2N_NzEu2ar4_Q%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdpsCIfEQrsECBk32ZOw0WaYkgC_M-MbgttzNKZCZ9uf3p0hY2Gp7mS&gaa_ts=6946eaeb&gaa_sig=qVJbxztIf1sb8wSgFtJ9_Ir_D6MNqG3Kh7lml5IZaYtjTwrXf5q-ASXkmyfk8175nOxUai_6YsAfQcoSAzBuOQ%3D%3D)**
 
 Barron's • 3d ago
 
@@ -234,7 +234,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 474 • 👍 35 • 💬 43 • ⏱️ 11:26 • 3h ago
+👁️ 474 • 👍 35 • 💬 43 • ⏱️ 11:26 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 738 • 👍 88 • 💬 4 • ⏱️ 6:04 • 3h ago
+👁️ 738 • 👍 88 • 💬 4 • ⏱️ 6:04 • 4h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 14 • 💬 31 • ⏱️ 4:17 • 6h ago
+👁️ 116 • 👍 14 • 💬 31 • ⏱️ 4:17 • 7h ago
 
 ---
 
@@ -304,7 +304,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 333 • 💬 34 • ⏱️ 20:31 • 21h ago
+👁️ 7K • 👍 333 • 💬 34 • ⏱️ 20:31 • 22h ago
 
 ---
 

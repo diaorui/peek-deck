@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T17:50:42.021947+00:00'
+updated: '2025-12-20T18:14:27.243035+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 17:50 UTC  
+**Last Updated:** December 20, 2025 at 18:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.1%  
-**30d:** +3.8%  
+**24h:** +0.4%  
+**7d:** -0.3%  
+**30d:** +3.6%  
 **90d:** -21.8%  
 **1y:** -9.3%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.16B
+**Market Cap:** $1760.15B
 Rank #1
 
-**Circulating Supply:** 19,964,740 BTC
+**Circulating Supply:** 19,964,762 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129939.8%
++129858.7%
 
 ---
 
@@ -85,19 +85,29 @@ Rank #1
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-9h ago
+10h ago
 
 ---
 
-**[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
+**[Made it to O.1 BTC finally!](https://www.reddit.com/r/Bitcoin/comments/1prk1of/made_it_to_o1_btc_finally/)**
 
-13h ago
+The mods will probably delete this....again.... But I finally hit 0.1 BTC!
+
+32m ago
+
+---
+
+**[Bitcoin 👀](https://www.reddit.com/r/Bitcoin/comments/1prjz40/bitcoin/)**
+
+The crypto market is down" Degens with their last $200:
+
+35m ago
 
 ---
 
@@ -109,7 +119,7 @@ Rank #1
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,19 +135,13 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 Not talking about price or hype. I mean the moment it actually clicked for you scarcity, self-custody, trust, etc. Curious what changed people’s mindset.
 
-2h ago
+3h ago
 
 ---
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
 19h ago
-
----
-
-**[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
-
-1d ago
 
 ---
 
@@ -149,7 +153,7 @@ Not talking about price or hype. I mean the moment it actually clicked for you s
 
 The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -159,39 +163,41 @@ Reuters • 1d ago
 
 ---
 
-**[Bitcoin Has Entered a Bear Market, Say Analysts—Here's Why](https://finance.yahoo.com/news/bitcoin-entered-bear-market-analysts-151318570.html)**
+**[HBAR Price Looks Closely Tried to Bitcoin, What’s Next?](https://finance.yahoo.com/news/hbar-price-looks-closely-tried-160000481.html)**
 
-As Bitcoin continues to languish below the $90,000 mark, CryptoQuant analysts are ready to call it: BTC has entered a bear market.
+HBAR price downtrend is tied to Bitcoin as BTC weakness is capping breakouts and pressures support near $0.110.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[HBAR Price Looks Closely Tried to Bitcoin, What’s Next?](https://finance.yahoo.com/news/hbar-price-looks-closely-tried-160000481.html)**
+**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
 
-HBAR price downtrend is tied to Bitcoin as BTC weakness is capping breakouts and pressures support near $0.110.
+"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
 
-Yahoo Finance • 1h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdv7SBTgT33pzVQZJ1yh8YVCMTgUOoQcPLmTu7qmwBBOPA4O0LTL12F&gaa_ts=6946df67&gaa_sig=NX4pgpbeDYEbJCR4SXlOIN1AIPP8XtRjM5OhnLnEfzYIYXDGn2Zs_abJwD5wnC3R3FlIsC5fUmNGPFrnzRRg3Q%3D%3D)**
+**[3 Best Bitcoin ETF Picks for 2026](https://www.fool.com/investing/2025/12/20/3-best-bitcoin-etf-picks-for-2026/)**
+
+Bitcoin experienced a lot of volatility in 2025 without much in the way of total return. How is 2026 shaping up for Bitcoin ETFs?
+
+The Motley Fool • 14m ago
+
+---
+
+**[Bitcoin, gold, AI were key drivers of 2025's record ETF inflows](https://finance.yahoo.com/video/bitcoin-gold-ai-were-key-200000651.html)**
+
+Net inflows into exchange-traded funds (ETFs) totaled a record $1.03 trillion last year, and they're already set to break that record this year, currently sitting at $1.28 trillion year to date. Amplify ETFs CEO, Christian Magoon, joins Market Catalysts host Julie Hyman to explain where money was going in 2025 and what ETF trends he anticipates next year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqclfa57jh4N3bnm6UK7Qj1JaqEWlEXctuM1JT1TiHnUERvXAMgU_Kn6&gaa_ts=6946eae9&gaa_sig=sCx2toFSLyNoxPdiRVziqZusDuhmc217S571pAtPks5SUYFfg73xsUJl09-Vz1D2umXdoP8JYJv0i31nkC_amw%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
-
-Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfCk9ifjsuN8i30WK5EBfIDPztw18JW5FZBVA3zFGNF35XnqtJcGrWH&gaa_ts=6946df67&gaa_sig=yFbP2jEe-0rWR81P3CwQJQPkERqnK0IiSOKBAX9u6F_E2xFvCkaCYcbjvWHxz-sYAnysvjDBIC4flvBnuVi3Lw%3D%3D)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -199,7 +205,7 @@ MarketWatch • 1d ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -209,11 +215,11 @@ Forbes • 1d ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+**[Is Bitcoin Primed for a 2026 Breakout? Analysts Weigh History vs. Fundamentals](https://finance.yahoo.com/news/bitcoin-primed-2026-breakout-analysts-142816214.html)**
 
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+Bitcoin's oversold RSI signals a potential rally to $170K, analysts argue, as record ETF inflows and fading headwinds build a bullish case.
 
-Nasdaq • 7h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -225,7 +231,7 @@ Nasdaq • 7h ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 26 • 💬 8 • 5d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 27 • 💬 8 • 5d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -339,7 +345,7 @@ Bitcoin's current chart pattern is ambiguous—is it a rising wedge already brea
 
 📺 Lark Davis
 
-👁️ 6K • 👍 403 • 💬 33 • ⏱️ 12:19 • 6h ago
+👁️ 6K • 👍 403 • 💬 33 • ⏱️ 12:19 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T17:50:42.031398+00:00'
+updated: '2025-12-20T18:14:27.252254+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 17:50 UTC  
+**Last Updated:** December 20, 2025 at 18:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
+
+I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
+
+1h ago
+
+---
+
 **[Aru Robot, manufactured by the French company Nio Robotics to do industrial inspection and maintenance](https://www.reddit.com/r/robotics/comments/1prabw8/aru_robot_manufactured_by_the_french_company_nio/)**
 
 Website: https://www.nio-robotics.com/
@@ -44,15 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-7h ago
-
----
-
-**[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
-
-I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
-
-56m ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-23h ago
+1d ago
 
 ---
 
@@ -118,11 +118,11 @@ Futurism • 23h ago
 
 ---
 
-**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
 
-Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
 
-Interesting Engineering • 3d ago
+Los Angeles Times • 3d ago
 
 ---
 
@@ -164,11 +164,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Humanoid robots are coming, but can they win our hearts and minds?](https://www.abc.net.au/news/science/2025-12-19/how-to-design-a-humanoid-robot-a-human-will-trust/106033272)**
+**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://futurism.com/future-society/humanoid-robot-financial-bubble)**
 
-Humanoid robots may be part of our future, but human psychology and the uncanny valley may stand between them and world domination.
+A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
 
-Australian Broadcasting Corporation • 1d ago
+Futurism • 23h ago
 
 ---
 
@@ -176,7 +176,7 @@ Australian Broadcasting Corporation • 1d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 18h ago
+South China Morning Post • 19h ago
 
 ---
 
