@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T23:18:02.904685+00:00'
+updated: '2025-12-20T23:33:37.322525+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 23:18 UTC  
+**Last Updated:** December 20, 2025 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -262,7 +262,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 953 • 👍 61 • 💬 8 • ⏱️ 14:00 • 4h ago
+👁️ 953 • 👍 61 • 💬 8 • ⏱️ 14:00 • 5h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 140 • 💬 141 • ⏱️ 21:12 • 1h ago
+👁️ 2K • 👍 140 • 💬 141 • ⏱️ 21:12 • 2h ago
 
 ---
 
@@ -312,7 +312,7 @@ BREAKING: It has officially started. SWIFT and over 30 global financial giants�
 
 📺 CryptoStock Lab
 
-👁️ 609 • 👍 38 • 💬 53 • ⏱️ 14:59 • 4h ago
+👁️ 609 • 👍 38 • 💬 53 • ⏱️ 14:59 • 5h ago
 
 ---
 

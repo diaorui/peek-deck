@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T23:18:02.898665+00:00'
+updated: '2025-12-20T23:33:37.317097+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 23:18 UTC  
+**Last Updated:** December 20, 2025 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,350.00
+### $88,277.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
+**24h:** +0.5%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.6%  
 **1y:** -9.2%  
 
 ---
@@ -99,7 +99,7 @@ The crypto market is down" Degens with their last $200:
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-56m ago
+1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1d ago
 
 This dip is an opportunity to think about what matters most with this asset.
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 46m ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 2d ago
 
 Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 10h ago
 
 Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -291,7 +291,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 13K • 👍 594 • 💬 394 • ⏱️ 10:58 • 22h ago
+👁️ 13K • 👍 594 • 💬 394 • ⏱️ 10:58 • 23h ago
 
 ---
 
@@ -301,7 +301,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 157 • ⏱️ 13:47 • 23h ago
+👁️ 38K • 👍 2K • 💬 157 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutor
 
 📺 VoskCoin
 
-👁️ 2K • 👍 101 • 💬 17 • ⏱️ 15:00 • 7h ago
+👁️ 2K • 👍 101 • 💬 17 • ⏱️ 15:00 • 8h ago
 
 ---
 
