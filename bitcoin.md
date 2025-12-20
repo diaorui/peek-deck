@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T08:36:22.202923+00:00'
+updated: '2025-12-20T08:53:35.076494+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 08:36 UTC  
+**Last Updated:** December 20, 2025 at 08:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +0.3%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.6%  
+**1y:** -9.1%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-33m ago
+50m ago
 
 ---
 
@@ -147,7 +147,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfK0kp_H4ccTaXUei2nYCjLv8aTBUO1_QqFh1X0lIwCosbYK1D2-5hV&gaa_ts=6946636d&gaa_sig=fVlMvteeMIPnsy2eCSR_z5gYHrvUTvcO-i9LQCUN9uMaeAL6mCFad-GyHAEMymwI3fXQ0d_SoV5CKNFeAZFiCA%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ Reuters • 16h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -323,7 +323,7 @@ The Bitcoin price is being manipulated, here's how I'm positioning. ➡ Follow m
 
 📺 EllioTrades
 
-👁️ 11K • 👍 899 • 💬 141 • ⏱️ 19:52 • 11h ago
+👁️ 11K • 👍 899 • 💬 141 • ⏱️ 19:52 • 12h ago
 
 ---
 

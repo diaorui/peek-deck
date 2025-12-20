@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T08:36:22.194120+00:00'
+updated: '2025-12-20T08:53:35.068940+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 08:36 UTC  
+**Last Updated:** December 20, 2025 at 08:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 6h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -185,13 +185,13 @@ The Guardian • 17h ago
 
 Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-CBS News • 9h ago
+CBS News • 10h ago
 
 ---
 
 **[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 535 • 1h ago
+⭐ 5.0k • 🔱 538 • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 49m ago
+⭐ 2.1k • 🔱 151 • 41m ago
 
 ---
 
@@ -724,7 +724,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 844 • 🔱 41 • 2d ago
+⭐ 858 • 🔱 41 • 2d ago
 
 ---
 
@@ -734,7 +734,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 825 • 🔱 134 • 4d ago
+⭐ 827 • 🔱 134 • 4d ago
 
 ---
 
