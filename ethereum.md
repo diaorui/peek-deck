@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T06:41:36.034259+00:00'
+updated: '2025-12-20T06:57:35.931762+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 06:41 UTC  
+**Last Updated:** December 20, 2025 at 06:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -2.6%  
-**30d:** +7.9%  
-**90d:** -28.9%  
-**1y:** -10.6%  
+**24h:** +0.9%  
+**7d:** -2.9%  
+**30d:** +7.6%  
+**90d:** -29.1%  
+**1y:** -10.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-40m ago
+56m ago
 
 ---
 
@@ -204,7 +204,7 @@ Barron's • 2d ago
 
 Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
@@ -274,7 +274,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 601 • 1h ago
+👁️ 4K • 👍 601 • 2h ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 724 • 👍 66 • ⏱️ 58:50 • 10h ago
+👁️ 724 • 👍 66 • ⏱️ 58:50 • 11h ago
 
 ---
 
@@ -324,7 +324,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 453 • 👍 20 • 💬 20 • ⏱️ 5:53 • 8h ago
+👁️ 453 • 👍 20 • 💬 20 • ⏱️ 5:53 • 9h ago
 
 ---
 

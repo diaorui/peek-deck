@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T06:41:36.028184+00:00'
+updated: '2025-12-20T06:57:35.925482+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 06:41 UTC  
+**Last Updated:** December 20, 2025 at 06:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,19 +85,19 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-1h ago
+2h ago
 
 ---
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-15h ago
+16h ago
 
 ---
 
@@ -147,7 +147,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqczXQIKGIGfP25GxRoSUet4tVdxV8jqoSWl0F6CCF_vQR39isgRqg31&gaa_ts=69464888&gaa_sig=b2EPGi70UI3lvDOhGKPiMVxZxO-eBuWUZ3WTV7xLu5q6QW5LdnnL0rC9D48bZ5klwSr6aLIoqehocaCqlE8vzg%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -175,7 +175,7 @@ MarketWatch • 17h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ Futurism • 15h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -291,7 +291,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Open source primitives for agent context management - Michaelliv/context-engine
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/Michaelliv/context-engine)
+⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 

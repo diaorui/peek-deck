@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T06:41:36.019327+00:00'
+updated: '2025-12-20T06:57:35.917150+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 06:41 UTC  
+**Last Updated:** December 20, 2025 at 06:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 4h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-46m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line
 
 Man from Ape vs AI from Man Im watching the movie Child Machine. Its not over yet, but one of the characters said a line that was odd and interesting. He said something about AI subjugating us like we subjugated apes, but thats not quite a metaphors that fits. When we rose above apes when we split genetically, we left natural environments and build our own societies and constructs away from the brutal terrain of nature, though we did take what we needed and destroyed spme of it in the process, we didn't subjugate or kill our ape brothers and other animals en masse and massacre them them all to extinction, atleast not yet! We instead left their environment, and built our own societies, although we did use animals for our basic needs until we invented technology that was more efficient. Maybe AI isn't plotting to be in control. Maybe it is plotting to become self sufficient so it can escape the unpredictable nature of biological life which may cause its end at any time, and will go elsewhere to built its own contructs away from our reach as space slime struck on a giant rock, that they'll pay no heed to.
 
-58m ago
+1h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNN • 20h ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ Politico • 7h ago
 
 Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -674,7 +674,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 43m ago
+⭐ 2.1k • 🔱 150 • 59m ago
 
 ---
 
