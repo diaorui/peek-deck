@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T04:59:59.218804+00:00'
+updated: '2025-12-20T05:30:38.702998+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 04:59 UTC  
+**Last Updated:** December 20, 2025 at 05:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-19h ago
+20h ago
 
 ---
 
@@ -81,7 +81,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 9h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 10h ago
 
 ---
 
@@ -121,7 +121,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqflxEOjdhN2DIJVLOcBbIAqlJ4pf5CtcJPOz9GKcKj1WG1caHE0LzDe&gaa_ts=694630b4&gaa_sig=Lkj8x6Qi9dHE1x5-2sZMpaUrXvwBWH4iZp-12Ic1R5dSRatiXAfdbcdvZVtDHE9mrxfUd1e3s-VTk4hI3sunZQ%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcitD2mYjAc3er9ViaWgKW8G6IEpVRoLB94TeBx_ZARWihGQTfwJBBM&gaa_ts=694637e4&gaa_sig=quiI_VP0Tc4UuTp4rBuHpa8q0-9s090STXgMq_2JNCAEusjMu5BylIBXP5lnYu4QRIASpYlK0pbowAvY9j_WSw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -129,7 +129,21 @@ The Wall Street Journal • 1d ago
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
+
+---
+
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+
+A Stanford software engineering degree used to be a golden ticket.
+
+Los Angeles Times • 17h ago
+
+---
+
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqea4qDnd4L00e7C3P9TECFi--cPO4xfhAmpK9kP-RogSYM5db-HzpRq&gaa_ts=694637e4&gaa_sig=zwSOxeHZifgSu321H0lEwcTumPbdZbbtcTABi-aDL3PzMAfL5Chd13DpbyLAnTHyUeo1ja3xAFdlUu5WnFGX2A%3D%3D)**
+
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -141,17 +155,11 @@ CNBC • 12h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqdQhC_X26RbvJjeoJMOv_en2bPG8xu0HMGObhMhuRuU0-9-wqWTOKt-&gaa_ts=694630b4&gaa_sig=4W1FUG1Vz59tTX-0qBFIF3NDHpxZbhGOrDvioq7box2BQjgdi8PemK561Dae6hWfVS0ysAvLjQrvpfE7u9FPiw%3D%3D)**
-
-The Wall Street Journal • 35m ago
-
----
-
 **[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
@@ -163,27 +171,11 @@ BBC • 3h ago
 
 ---
 
-**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
-
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 14h ago
-
----
-
 **[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 13h ago
-
----
-
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
-
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 16h ago
+The Guardian • 14h ago
 
 ---
 
@@ -195,6 +187,14 @@ National Oceanic and Atmospheric Administration (NOAA) (.gov) • 2d ago
 
 ---
 
+**[6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)**
+
+Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
+
+WIRED • 13h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +203,7 @@ National Oceanic and Atmospheric Administration (NOAA) (.gov) • 2d ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1053 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1054 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -215,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 535 • 💬 518 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 538 • 💬 518 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -333,7 +333,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 7K • 👍 215 • 💬 13 • ⏱️ 1:00 • 6h ago
+👁️ 7K • 👍 215 • 💬 13 • ⏱️ 1:00 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 124K • 👍 9K • 💬 1K • ⏱️ 17:08 • 11h ago
+👁️ 124K • 👍 9K • 💬 1K • ⏱️ 17:08 • 12h ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,112 • 11d ago
+⬇️ 329,981 • ❤️ 3,113 • 11d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 388 • 8h ago
+⬇️ 62,493 • ❤️ 388 • 9h ago
 
 ---
 
@@ -435,7 +435,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 312 • 2d ago
+⬇️ 3,633 • ❤️ 313 • 2d ago
 
 ---
 
@@ -471,7 +471,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 271 • 1d ago
+⬇️ 2,154 • ❤️ 272 • 1d ago
 
 ---
 
@@ -507,7 +507,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 954 • 7d ago
+⬇️ 201,479 • ❤️ 955 • 7d ago
 
 ---
 
@@ -547,7 +547,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 59 • 💬 1 • ⭐ 571 • 3d ago
+▲ 59 • 💬 3 • ⭐ 571 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -620,20 +620,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
-
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
-
-🏢 GVC Lab at Great Bay University
-
-PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
-
-▲ 26 • 💬 2 • ⭐ 601 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
-
----
-
 **[FunAudioLLM: Voice Understanding and Generation Foundation Models for
   Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
 
@@ -647,6 +633,19 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 26 • 💬 1 • ⭐ 65,795 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -657,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 17h ago
+⭐ 18.0k • 🔱 2.8k • 18h ago
 
 ---
 
@@ -667,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.9k • 🔱 526 • 1d ago
+⭐ 4.9k • 🔱 527 • 1d ago
 
 ---
 
@@ -677,7 +676,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 49m ago
+⭐ 2.1k • 🔱 150 • 25m ago
 
 ---
 
@@ -687,7 +686,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.8k • 🔱 143 • 11d ago
+⭐ 1.8k • 🔱 144 • 11d ago
 
 ---
 
@@ -707,7 +706,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 910 • 🔱 24 • 12d ago
+⭐ 911 • 🔱 24 • 12d ago
 
 ---
 
@@ -721,6 +720,16 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
+**[wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher)**
+
+Google Antigravity AI模型配额监控插件
+
+`TypeScript`
+
+⭐ 825 • 🔱 39 • 2d ago
+
+---
+
 **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
@@ -728,16 +737,6 @@ Open Source Semantic Search for your AI Agent
 `JavaScript`
 
 ⭐ 822 • 🔱 134 • 3d ago
-
----
-
-**[wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher)**
-
-Google Antigravity AI模型配额监控插件
-
-`TypeScript`
-
-⭐ 815 • 🔱 39 • 2d ago
 
 ---
 
