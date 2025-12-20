@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T20:34:31.934791+00:00'
+updated: '2025-12-20T20:47:35.833794+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 20:34 UTC  
+**Last Updated:** December 20, 2025 at 20:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,14 +36,6 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
-
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.reddit.com/r/artificial/comments/1prh4pv/would_you_trust_a_22yearold_ai_billionaire_with/)**
-
-My week partying with the young founders at the heart of the AI boom
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 4h ago
-
----
 
 **[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
 
@@ -69,17 +61,17 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
-**[America and China Are Racing to Different AI Futures](https://www.reddit.com/r/artificial/comments/1prmbsj/america_and_china_are_racing_to_different_ai/)**
+**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
 
-America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
+Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 30m ago
 
 ---
 
-**[Improved AI for reading, interpreting, and summarizing large files (documents)](https://www.reddit.com/r/artificial/comments/1prm6r0/improved_ai_for_reading_interpreting_and/)**
+**[America and China Are Racing to Different AI Futures](https://www.reddit.com/r/artificial/comments/1prmbsj/america_and_china_are_racing_to_different_ai/)**
 
-Improved AI for reading, interpreting, and summarizing large files (documents)
+America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
 1h ago
 
@@ -117,13 +109,29 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 ---
 
+**[LG Will Let TV Owners Delete Microsoft Copilot After Customer Outcry](https://www.reddit.com/r/artificial/comments/1pq0ycl/lg_will_let_tv_owners_delete_microsoft_copilot/)**
+
+This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
+
+🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcFEhUGsyBgu6Mqz9pZdI_JkT0G1gB7Omvhs2dReNYr80rFDxtCzTtJ&gaa_ts=69470701&gaa_sig=Zkq2qaCStQUedkUkVggFAYc8dyP8XXWan75rUjKff69O0JqUQU_RbPqVtu-xif1NUNY5OScbbId9DwlZPyReRQ%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdhFeiAp2X7CrWGfj3xBwIhXNKuIt6F_C0KZ32cfn2ghcYmkof6zPEf&gaa_ts=69470ec9&gaa_sig=5MVqgQxRbQQfl4SFJBX4-R0sUZu__p_9BCkeBR_smUmDl0slb3Sfco3GeR65R5RWtOSreG0ShAo8PaKOxbUvsw%3D%3D)**
 
 wsj.com • 2d ago
+
+---
+
+**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
+
+Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
+
+CNBC • 8h ago
 
 ---
 
@@ -131,13 +139,7 @@ wsj.com • 2d ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 18h ago
-
----
-
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 5h ago
+BBC • 19h ago
 
 ---
 
@@ -145,21 +147,29 @@ Politico • 5h ago
 
 Rejoice, two of the biggest contributors to the AI movie trailer problem on YouTube have been taken down.
 
-Gizmodo • 43m ago
+Gizmodo • 56m ago
 
 ---
 
-**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+**[AI Boom Brings Flood of Debt to Ultrasafe Market: Credit Weekly](https://www.bloomberg.com/news/articles/2025-12-20/ai-boom-brings-flood-of-debt-to-ultrasafe-market-credit-weekly)**
 
-Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
+The great artificial intelligence boom that’s fueling US economic growth now depends heavily on credit markets to finance the investments, and utilities are among the key borrowers.
 
-CNBC • 1d ago
+Bloomberg.com • 47m ago
 
 ---
 
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+**[Has Ambarella’s AI Chip Story Run Ahead of Itself After Recent Share Price Volatility?](https://finance.yahoo.com/news/ambarella-ai-chip-story-run-200609412.html)**
 
-The New York Times • 8h ago
+If you are wondering whether Ambarella is a quietly mispriced chip play or a value trap in the making, you are in the right place to unpack what the market might be missing. The stock has been choppy lately, with the share price down around 3.7% over the last week and roughly 17.1% over the past month, even though it is still up about 2.2% over the last year. Recent headlines have focused on Ambarella's positioning in computer vision and edge AI chips, along with ongoing design wins in...
+
+Yahoo Finance • 41m ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 6h ago
 
 ---
 
@@ -179,19 +189,9 @@ The New Yorker • 9h ago
 
 ---
 
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 6h ago
-
----
-
-**[What AI data centers are doing to your electric bill : Planet Money](https://www.npr.org/2025/12/19/nx-s1-5649814/ai-data-center-electricity-bill)**
-
-As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
-
-NPR • 20h ago
+The New York Times • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 397 • 💬 336 • 11h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 409 • 💬 349 • 12h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -237,7 +237,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 161 • 💬 237 • 10h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 165 • 💬 246 • 11h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -253,7 +253,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 141 • 💬 94 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+⬆️ 143 • 💬 95 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,176 • 12d ago
+⬇️ 341,530 • ❤️ 3,178 • 12d ago
 
 ---
 
@@ -407,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 397 • 1d ago
+⬇️ 71,413 • ❤️ 398 • 1d ago
 
 ---
 
@@ -435,18 +435,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 6,881 • ❤️ 333 • 2d ago
-
----
-
 **[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
 
 *Xiaomi MiMo*
@@ -455,7 +443,19 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 333 • 2d ago
+⬇️ 6,103 • ❤️ 335 • 2d ago
+
+---
+
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 6,881 • ❤️ 334 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 298 • 5d ago
+⬇️ 0 • ❤️ 299 • 5d ago
 
 ---
 
@@ -479,7 +479,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 292 • 1d ago
+⬇️ 1,067 • ❤️ 295 • 1d ago
 
 ---
 
@@ -491,7 +491,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 279 • 3d ago
+⬇️ 0 • ❤️ 281 • 3d ago
 
 ---
 
@@ -503,7 +503,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 245 • 3d ago
+⬇️ 533 • ❤️ 246 • 3d ago
 
 ---
 

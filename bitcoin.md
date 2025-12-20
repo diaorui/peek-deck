@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T20:34:31.943568+00:00'
+updated: '2025-12-20T20:47:35.841439+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:34 UTC  
+**Last Updated:** December 20, 2025 at 20:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.2%  
-**30d:** +3.7%  
-**90d:** -21.9%  
-**1y:** -9.4%  
+**24h:** +0.5%  
+**7d:** -0.0%  
+**30d:** +3.9%  
+**90d:** -21.7%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.62B
+**Market Cap:** $1760.91B
 Rank #1
 
 **Circulating Supply:** 19,964,803 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.0%
 
 **All-Time Low:** $67.81
-+129964.9%
++129960.5%
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Made it to O.1 BTC finally!](https://www.reddit.com/r/Bitcoin/comments/1prk1of/made_it_to_o1_btc_finally/)**
-
-The mods will probably delete this....again.... But I finally hit 0.1 BTC!
-
-2h ago
-
----
-
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -107,7 +99,7 @@ The mods will probably delete this....again.... But I finally hit 0.1 BTC!
 
 The crypto market is down" Degens with their last $200:
 
-2h ago
+3h ago
 
 ---
 
@@ -123,15 +115,23 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
+**[CRYPTO is disappointed us](https://www.reddit.com/r/Bitcoin/comments/1prk1w0/crypto_is_disappointed_us/)**
+
+3h ago
+
+---
+
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
 1d ago
 
 ---
 
-**[CRYPTO is disappointed us](https://www.reddit.com/r/Bitcoin/comments/1prk1w0/crypto_is_disappointed_us/)**
+**[People only love bitcoin when it is going up](https://www.reddit.com/r/Bitcoin/comments/1prk2gx/people_only_love_bitcoin_when_it_is_going_up/)**
 
-2h ago
+I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
+
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 1d ago
 
 The move signals a shift toward scale, contracted revenue, and balance sheet strength as crypto infrastructure begins to look a little more like energy and data center investing.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,15 +175,15 @@ The Motley Fool • 1h ago
 
 ---
 
-**[This Bitcoin Mining Stock Is Still 70% Below Its Peak but Now Makes Up 34% of a Portfolio](https://www.fool.com/coverage/filings/2025/12/20/this-bitcoin-mining-stock-is-still-70-below-its-peak-but-now-makes-up-34-of-a-portfolio/)**
+**[This Bitcoin Mining Stock Is Still 70% Below Its Peak but Now Makes Up 34% of a Portfolio](https://www.nasdaq.com/articles/bitcoin-mining-stock-still-70-below-its-peak-now-makes-34-portfolio)**
 
-One fund's move highlights a willingness to concentrate capital where optionality looks largest, even when the stock’s recovery is far from complete.
+Key PointsNew York City-based Aurelius Capital Management added 6.7 million shares of Bitfarms in the third quarter.
 
-The Motley Fool • 1h ago
+Nasdaq • 55m ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcxDxzHnZksIyGGXjblu7RXUjeunPONFuau6l3MCVwV9N9hI4M9-A77&gaa_ts=694706fd&gaa_sig=aUDLzYnZUIDKfrY1tlz4QOEMdsSrjopWalQ8omcQgqMIcOZqoPgGGpNCjRmYlrXf7CDKHL3cZriluODgMt1Wqg%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfLxGL_aKnYqju-b8NCwvrISFNzS-VUn2VQLY-ytuVytm8p7-ZFYMaK&gaa_ts=69470ecb&gaa_sig=29aj1CKTtLXt7hD_TC-NTAMgcRbCk9TTPq_Ef6hJlKvGP8ZhjCQKar_XT7xhIJCuoV08f-tiMdFIbsVB_3Pj8A%3D%3D)**
 
 Barron's • 1d ago
 
@@ -197,27 +197,21 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+**[‘Nothing Stops This Train’—2026 Fed U.S. Dollar ‘Destruction’ Warning, Predicted To Trigger $4 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/20/nothing-stops-this-train-2026-fed-us-dollar-destruction-warning-predicted-to-trigger-4-trillion-bitcoin-price-boom/)**
 
-Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
-
-Nasdaq • 2h ago
+Forbes • 7h ago
 
 ---
 
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.fool.com/investing/2025/12/20/bitcoin-vs-dogecoin-better-long-term-play/)**
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-These two digital assets have performed very well for investors, but one is the clear winner.
-
-The Motley Fool • 2h ago
+The Block • 22h ago
 
 ---
 
-**[DOGE, SHIB Price News: Bitcoin continues to impact dogecoin, shiba inu demand](https://www.coindesk.com/markets/2025/12/18/dogecoin-and-shiba-inu-lag-market-as-memecoins-continue-to-lose-ground-to-bitcoin)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfy4uoBfgI8EepSSqZW_YneMTUJcerM2FoOMUXk67yXXkibB-AReUyj&gaa_ts=69470ecb&gaa_sig=6pqORwPZGsVH9RI61D39HEu6LsP48JoTcBVsYArrY6TisiQDm_K9UAYpcTvEVTYhtpAxyrwyur9RWOcvi7uG4g%3D%3D)**
 
-Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.
-
-CoinDesk • 2d ago
+MarketWatch • 1d ago
 
 ---
 

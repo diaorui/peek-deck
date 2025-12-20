@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T20:34:31.953228+00:00'
+updated: '2025-12-20T20:47:35.849640+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 20:34 UTC  
+**Last Updated:** December 20, 2025 at 20:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-21h ago
+22h ago
 
 ---
 
@@ -100,9 +100,11 @@ Humanoid robots from Unitree perform flips and synchronized choreography live on
 
 ---
 
-**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
+**[Path to Robotics Technician?](https://www.reddit.com/r/robotics/comments/1prnxvd/path_to_robotics_technician/)**
 
-1d ago
+Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
+
+17m ago
 
 ---
 
@@ -142,25 +144,11 @@ CNN • 3d ago
 
 ---
 
-**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
 
-Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-TechCrunch • 3d ago
-
----
-
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Humanoid robots are coming, but can they win our hearts and minds?](https://www.abc.net.au/news/science/2025-12-19/how-to-design-a-humanoid-robot-a-human-will-trust/106033272)**
-
-Humanoid robots may be part of our future, but human psychology and the uncanny valley may stand between them and world domination.
-
-Australian Broadcasting Corporation • 2d ago
+KEYC News Now • 20h ago
 
 ---
 
@@ -172,17 +160,33 @@ South China Morning Post • 21h ago
 
 ---
 
+**[Skana Robotics helps fleets of underwater robots communicate with each other](https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/)**
+
+Skana Robotics built a decision-making algorithm that helps unmanned vessels react and adapt to data from other vessels.
+
+TechCrunch • 3d ago
+
+---
+
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 2d ago
+
+---
+
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
+**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
 
-Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
+NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
-Interesting Engineering • 3d ago
+Yahoo Finance • 3d ago
 
 ---
 

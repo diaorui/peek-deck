@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T20:34:31.949941+00:00'
+updated: '2025-12-20T20:47:35.846777+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:34 UTC  
+**Last Updated:** December 20, 2025 at 20:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -2.7%  
-**30d:** +7.7%  
-**90d:** -29.0%  
-**1y:** -10.7%  
+**24h:** +0.0%  
+**7d:** -2.6%  
+**30d:** +7.8%  
+**90d:** -28.9%  
+**1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.37B
+**Market Cap:** $359.82B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.7%
 
 **All-Time Low:** $0.43
-+687725.5%
++688441.5%
 
 ---
 
@@ -76,11 +76,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Recovering old, mined ETH](https://www.reddit.com/r/ethereum/comments/1prob1d/recovering_old_mined_eth/)**
+
+Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
+
+just now
+
+---
+
+**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
+
+27m ago
+
+---
+
 **[DTCC processed $3.7 quadrillion in 2024?? and they’re tokenizing U.S. treasuries now?? ON F*CKING CANTON???](https://www.reddit.com/r/ethereum/comments/1prnc2q/dtcc_processed_37_quadrillion_in_2024_and_theyre/)**
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 31m ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 44m ago
 
 ---
 
@@ -130,22 +144,6 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 ---
 
-**[Daily General Discussion December 18, 2025](https://www.reddit.com/r/ethereum/comments/1ppjfwn/daily_general_discussion_december_18_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
-**[I spent a month digging into how Ethereum products actually got their first users](https://www.reddit.com/r/ethereum/comments/1ppvd0y/i_spent_a_month_digging_into_how_ethereum/)**
-
-I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +160,7 @@ AMBCrypto • 19h ago
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 7h ago
+livemint.com • 8h ago
 
 ---
 
@@ -196,6 +194,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Ethereum Traders Chase Upside With Historic Leverage – Breakout Fuel Or Fragile Setup?](https://www.tradingview.com/news/newsbtc:1c54f2933094b:0-ethereum-traders-chase-upside-with-historic-leverage-breakout-fuel-or-fragile-setup/)**
+
+Ethereum has been struggling to regain traction below the $3,000 level since Monday, with repeated rejection attempts reinforcing a fragile market structure. Bulls continue to lose ground as upside momentum fades, while sentiment across the market remains dominated by apathy and underlying fear.Tra…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
@@ -212,17 +218,9 @@ FXEmpire • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqebFJ66jHdopeWKIpFpdem6WI6LjGPGKf8B_8Fr5b1aks62xHssFgJ4&gaa_ts=694706ff&gaa_sig=MLCLk_F8cPMimBbbfwCDfiwgu7kcxY5SuYataSLCweENuy1XkV3Xy-dNfDkqHNSC6R3E3MkfIE3sB-tieaW-CQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqfKoVleCFMIcYUWQg7NmK45gxSz6wpvh-ciU2V6fBrJeXgODWzLJPP6&gaa_ts=69470ecc&gaa_sig=ePFxZibUwQrWKzVJSf_aPkmxl6W8DVovSRQ_yzxAshoIm4M_yq3yQhsDiBLFYwNzunoR0ox6cuuRyuvVZflgnA%3D%3D)**
 
 Barron's • 3d ago
-
----
-
-**[Ethereum Traders Chase Upside With Historic Leverage – Breakout Fuel Or Fragile Setup?](https://www.tradingview.com/news/newsbtc:1c54f2933094b:0-ethereum-traders-chase-upside-with-historic-leverage-breakout-fuel-or-fragile-setup/)**
-
-Ethereum has been struggling to regain traction below the $3,000 level since Monday, with repeated rejection attempts reinforcing a fragile market structure. Bulls continue to lose ground as upside momentum fades, while sentiment across the market remains dominated by apathy and underlying fear.Tra…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
