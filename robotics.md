@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T14:43:23.523570+00:00'
+updated: '2025-12-20T14:54:24.542726+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 14:43 UTC  
+**Last Updated:** December 20, 2025 at 14:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-5h ago
+6h ago
 
 ---
 

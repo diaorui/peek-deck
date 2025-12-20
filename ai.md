@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T14:43:23.507461+00:00'
+updated: '2025-12-20T14:54:24.525160+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 14:43 UTC  
+**Last Updated:** December 20, 2025 at 14:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 12h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 13h ago
 
 ---
 
@@ -125,7 +125,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -281,7 +281,7 @@ A cross-industry study on recent trends in AI software development. Engineering 
 
 The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
 
-⬆️ 121 • 💬 149 • 1d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+⬆️ 121 • 💬 149 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 556 • 2m ago
+⭐ 5.1k • 🔱 556 • 13m ago
 
 ---
 

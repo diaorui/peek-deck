@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T14:43:23.515286+00:00'
+updated: '2025-12-20T14:54:24.533548+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 14:43 UTC  
+**Last Updated:** December 20, 2025 at 14:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +0.6%  
+**7d:** +0.0%  
+**30d:** +3.9%  
+**90d:** -21.7%  
+**1y:** -9.2%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 1d ago
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 42m ago
+CoinDesk • 53m ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 42m ago
 
 Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 1h ago
 
 "If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
 
-CoinDesk • 42m ago
+CoinDesk • 53m ago
 
 ---
 
