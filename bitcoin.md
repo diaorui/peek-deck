@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T11:18:42.288183+00:00'
+updated: '2025-12-20T11:30:44.626678+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 11:18 UTC  
+**Last Updated:** December 20, 2025 at 11:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +0.6%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.6%  
+**1y:** -9.1%  
 
 ---
 
@@ -93,7 +93,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Block • 13h ago
 
 **[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeJxqpa_uiGUgUdO-XLJ3FGRhW29KdceonH2Y0P7Q5p7Vxv4uzJm_WN&gaa_ts=69468976&gaa_sig=FSImkU3oAFx7295OyPQKGcLfdsrjnHKr7NJ0OxEEYC62pN1sKvuOIKCjBb29AtL0ZXstZJhWR94EQWGyBjWNNA%3D%3D)**
 
-Barron's • 17h ago
+Barron's • 18h ago
 
 ---
 
@@ -255,7 +255,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 19h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 20h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -305,7 +305,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 14K • 👍 1K • 💬 223 • ⏱️ 8:31 • 17h ago
+👁️ 14K • 👍 1K • 💬 223 • ⏱️ 8:31 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 37K • 👍 2K • 💬 174 • ⏱️ 44:14 • 19h ago
+👁️ 37K • 👍 2K • 💬 174 • ⏱️ 44:14 • 20h ago
 
 ---
 
@@ -335,7 +335,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 371 • 💬 31 • ⏱️ 9:31 • 18h ago
+👁️ 7K • 👍 371 • 💬 31 • ⏱️ 9:31 • 19h ago
 
 ---
 

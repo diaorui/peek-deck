@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T11:18:42.294149+00:00'
+updated: '2025-12-20T11:30:44.632651+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 11:18 UTC  
+**Last Updated:** December 20, 2025 at 11:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.9%  
-**30d:** +7.6%  
-**90d:** -29.1%  
-**1y:** -10.9%  
+**24h:** +1.0%  
+**7d:** -2.5%  
+**30d:** +8.0%  
+**90d:** -28.8%  
+**1y:** -10.5%  
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 23h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 21h ago
+👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 22h ago
 
 ---
 
@@ -328,7 +328,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 19K • 👍 2K • 💬 2 • ⏱️ 27:59 • 21h ago
+👁️ 19K • 👍 2K • 💬 2 • ⏱️ 27:59 • 22h ago
 
 ---
 

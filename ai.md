@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T11:18:42.279747+00:00'
+updated: '2025-12-20T11:30:44.618243+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 11:18 UTC  
+**Last Updated:** December 20, 2025 at 11:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ You built the models. You wrote the papers. You understand transformers, attenti
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 15h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 16h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 18h ago
 
 **[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqd3uNQIBgXnyDS5uGJPkbph65s4W9RKKQLXfU9a3t98aFOcZzqoW1fk&gaa_ts=69468974&gaa_sig=AklpU_-wfTxHfP8buG8h_3wRzkpm3cH5Z4nIuuNr0CVtEBLDepWUJX_vUDjKiNL8h57ZuSkeTgvCdKbCziJUqA%3D%3D)**
 
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Wall Street Journal • 6h ago
 
 Trump Media strikes high-voltage merger with TAE to fuel AI's energy future--investors ignite on fusion frenzy.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 18h ago
 
 Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
 
-Business Insider • 19m ago
+Business Insider • 31m ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 23h ago
 
 Taiwan Semiconductor Manufacturing is positioned to grow rapidly in 2026.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investopedia • 16h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 18m ago
+The New Yorker • 30m ago
 
 ---
 
@@ -335,7 +335,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 153K • 👍 10K • 💬 2K • ⏱️ 17:08 • 17h ago
+👁️ 153K • 👍 10K • 💬 2K • ⏱️ 17:08 • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 11K • 👍 164 • 💬 65 • ⏱️ 3:29 • 18h ago
+👁️ 11K • 👍 164 • 💬 65 • ⏱️ 3:29 • 19h ago
 
 ---
 
@@ -413,7 +413,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 390 • 14h ago
+⬇️ 71,413 • ❤️ 390 • 15h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 542 • 18m ago
+⭐ 5.0k • 🔱 542 • 30m ago
 
 ---
 
