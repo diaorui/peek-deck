@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T09:35:23.398978+00:00'
+updated: '2025-12-20T09:46:44.710972+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 09:35 UTC  
+**Last Updated:** December 20, 2025 at 09:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 

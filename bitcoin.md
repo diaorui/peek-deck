@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T09:35:23.406469+00:00'
+updated: '2025-12-20T09:46:44.719396+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 09:35 UTC  
+**Last Updated:** December 20, 2025 at 09:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -119,7 +119,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-18h ago
+19h ago
 
 ---
 
@@ -273,7 +273,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
-⬆️ 1 • 💬 0 • 3d ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 4d ago • [flip.gold](https://flip.gold/)
 
 ---
 
