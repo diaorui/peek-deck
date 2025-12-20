@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T20:47:35.846777+00:00'
+updated: '2025-12-20T20:58:07.401815+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:47 UTC  
+**Last Updated:** December 20, 2025 at 20:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,984.17
+### $2,984.02
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
+**24h:** +0.1%  
 **7d:** -2.6%  
-**30d:** +7.8%  
+**30d:** +7.9%  
 **90d:** -28.9%  
 **1y:** -10.6%  
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-just now
+11m ago
 
 ---
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-27m ago
+38m ago
 
 ---
 
@@ -94,7 +94,7 @@ just now
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 44m ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 54m ago
 
 ---
 
@@ -234,7 +234,17 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 887 • 👍 45 • 💬 9 • ⏱️ 11:26 • 6h ago
+👁️ 1K • 👍 55 • 💬 30 • ⏱️ 11:26 • 6h ago
+
+---
+
+**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 152 • 👍 17 • 💬 21 • ⏱️ 8:36 • 1h ago
 
 ---
 
@@ -244,47 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 124 • 💬 5 • ⏱️ 6:04 • 6h ago
-
----
-
-**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 508 • 💬 58 • ⏱️ 16:54 • 2d ago
-
----
-
-**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 374 • 💬 10 • ⏱️ 21:53 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 514 • 💬 29 • ⏱️ 8:37 • 1d ago
-
----
-
-**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
-
-Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
-
-📺 Ryan’s Money Lab
-
-👁️ 53 • 👍 3 • ⏱️ 14:00 • 2h ago
+👁️ 2K • 👍 139 • 💬 5 • ⏱️ 6:04 • 6h ago
 
 ---
 
@@ -294,7 +264,57 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 156 • 👍 15 • 💬 2 • ⏱️ 4:17 • 9h ago
+👁️ 198 • 👍 16 • 💬 22 • ⏱️ 4:17 • 9h ago
+
+---
+
+**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 10K • 👍 391 • 💬 30 • ⏱️ 21:53 • 1d ago
+
+---
+
+**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 512 • 💬 58 • ⏱️ 16:54 • 2d ago
+
+---
+
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+
+📺 Thomas Kralow
+
+👁️ 17K • 👍 522 • 💬 29 • ⏱️ 8:37 • 1d ago
+
+---
+
+**[BITCOIN: 90% Are About to Get Trapped! (warning) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=jZF1GMvdrds)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 9K • 👍 484 • 💬 30 • ⏱️ 14:36 • 8h ago
+
+---
+
+**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
+
+Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
+
+📺 Ryan’s Money Lab
+
+👁️ 405 • 👍 35 • 💬 4 • ⏱️ 14:00 • 2h ago
 
 ---
 
@@ -304,27 +324,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 337 • 💬 4 • ⏱️ 20:31 • 1d ago
-
----
-
-**[Sell ADA NOW? ⚠️ Cardano &amp; Ethereum Founder’s Honest Verdict](https://www.youtube.com/watch?v=FM_SGFR-axA)**
-
-Nick Valdez and TJ sit down for an interview with the co-founder of Ethereum and founder of Cardano, Charles Hoskinson!
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 416 • 💬 49 • ⏱️ 48:50 • 5h ago
-
----
-
-**[BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hFt8o9AUfQM)**
-
-BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 324 • 💬 87 • ⏱️ 22:39 • 1d ago
+👁️ 8K • 👍 345 • 💬 24 • ⏱️ 20:31 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T20:47:35.849640+00:00'
+updated: '2025-12-20T20:58:07.405056+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 20:47 UTC  
+**Last Updated:** December 20, 2025 at 20:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Humanoid robots from Unitree perform flips and synchronized choreography live on
 
 Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
 
-17m ago
+27m ago
 
 ---
 
@@ -148,7 +148,7 @@ CNN • 3d ago
 
 Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-KEYC News Now • 20h ago
+KEYC News Now • 21h ago
 
 ---
 
@@ -200,7 +200,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 14K • 👍 419 • 💬 36 • ⏱️ 2:08:46 • 20h ago
+👁️ 15K • 👍 444 • 💬 41 • ⏱️ 2:08:46 • 20h ago
 
 ---
 
@@ -220,7 +220,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 25K • 👍 412 • 💬 106 • ⏱️ 3:55 • 1d ago
+👁️ 27K • 👍 426 • 💬 106 • ⏱️ 3:55 • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 32K • 👍 784 • 💬 121 • ⏱️ 6:41 • 6d ago
+👁️ 32K • 👍 798 • 💬 121 • ⏱️ 6:41 • 6d ago
 
 ---
 
@@ -238,7 +238,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 Romi Pal
 
-👁️ 12.2M • 👍 83K • 💬 564 • ⏱️ 0:24 • 4d ago
+👁️ 12.7M • 👍 85K • 💬 578 • ⏱️ 0:24 • 4d ago
 
 ---
 
@@ -248,17 +248,27 @@ A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitch
 
 📺 Nic Conley
 
-👁️ 25K • 👍 1K • 💬 42 • ⏱️ 1:32 • 1d ago
+👁️ 27K • 👍 2K • 💬 43 • ⏱️ 1:32 • 1d ago
 
 ---
 
-**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
 
-Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
 
-📺 Aimin
+📺 AZFK
 
-👁️ 250K • 👍 11K • 💬 3K • ⏱️ 14:27 • 6h ago
+👁️ 62K • 👍 4K • 💬 350 • ⏱️ 13:43 • 2d ago
+
+---
+
+**[Customers fill in to Beijing&#39;s new consumer robot shopping centre • FRANCE 24 English](https://www.youtube.com/watch?v=66MjAQLUjEg)**
+
+Are you stuck at the last minute for a Christmas gift? Wondering how to “wow” your child when they open their presents? Well ...
+
+📺 FRANCE 24 English
+
+👁️ 5K • 👍 70 • 💬 21 • ⏱️ 2:09 • 22h ago
 
 ---
 
@@ -279,16 +289,6 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 📺 AI Revolution
 
 👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 4d ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 475K • 👍 16K • 💬 507 • ⏱️ 0:34 • 6d ago
 
 ---
 

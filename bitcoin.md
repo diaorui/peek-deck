@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T20:47:35.841439+00:00'
+updated: '2025-12-20T20:58:07.395761+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 20:47 UTC  
+**Last Updated:** December 20, 2025 at 20:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,235.80
+### $88,250.00
 
 ---
 
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** -0.0%  
 **30d:** +3.9%  
 **90d:** -21.7%  
-**1y:** -9.2%  
+**1y:** -9.3%  
 
 ---
 
@@ -105,7 +105,7 @@ The crypto market is down" Degens with their last $200:
 
 **[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 1h ago
 
 Key PointsNew York City-based Aurelius Capital Management added 6.7 million shares of Bitfarms in the third quarter.
 
-Nasdaq • 55m ago
+Nasdaq • 1h ago
 
 ---
 
@@ -275,7 +275,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 572 • 💬 328 • ⏱️ 10:58 • 20h ago
+👁️ 13K • 👍 580 • 💬 351 • ⏱️ 10:58 • 20h ago
 
 ---
 
@@ -285,27 +285,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 117 • ⏱️ 13:47 • 21h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 40K • 👍 2K • 💬 190 • ⏱️ 44:14 • 1d ago
-
----
-
-**[Bitcoiners, What The Heck Is GOING ON](https://www.youtube.com/watch?v=pDqkkYs-qJY)**
-
-Ton Wallet: ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 383 • 💬 51 • ⏱️ 11:40 • 9h ago
+👁️ 36K • 👍 2K • 💬 137 • ⏱️ 13:47 • 21h ago
 
 ---
 
@@ -315,7 +295,27 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 1K • ⏱️ 46:11 • 6h ago
+👁️ 24K • 👍 2K • ⏱️ 46:11 • 6h ago
+
+---
+
+**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
+
+Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 750 • 💬 56 • ⏱️ 14:31 • 3h ago
+
+---
+
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 40K • 👍 2K • 💬 212 • ⏱️ 44:14 • 1d ago
 
 ---
 
@@ -325,7 +325,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 78K • 👍 5K • 💬 278 • ⏱️ 18:06 • 1d ago
+👁️ 80K • 👍 5K • 💬 280 • ⏱️ 18:06 • 1d ago
 
 ---
 
@@ -335,27 +335,17 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 52K • 👍 2K • 💬 165 • ⏱️ 16:50 • 1d ago
+👁️ 53K • 👍 2K • 💬 168 • ⏱️ 16:50 • 1d ago
 
 ---
 
-**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+**[Major Bitcoin Cycle Reveal: Pure Charts And Technical Analysis From Legendary Pro Trader](https://www.youtube.com/watch?v=C9TaSaaf5po)**
 
-Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+Chief Market Strategist Gareth Soloway reveals a new discovery about the Bitcoin cycle. Based on this technical analysis, Gareth ...
 
-📺 BTC Isla
+📺 Gareth Soloway
 
-👁️ 19K • 👍 2K • 💬 250 • ⏱️ 8:31 • 1d ago
-
----
-
-**[🚨 Major Threat!! #Bitcoin](https://www.youtube.com/watch?v=n62wi7y4ZaA)**
-
-Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start Trading on Polymarket (#1 ...
-
-📺 Altcoin Daily
-
-👁️ 13K • 👍 104 • 💬 8 • ⏱️ 0:08 • 1d ago
+👁️ 35K • 👍 3K • 💬 229 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -365,7 +355,17 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 43K • 👍 2K • 💬 232 • ⏱️ 2:15 • 1d ago
+👁️ 44K • 👍 2K • 💬 236 • ⏱️ 2:15 • 1d ago
+
+---
+
+**[🚨 Major Threat!! #Bitcoin](https://www.youtube.com/watch?v=n62wi7y4ZaA)**
+
+Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start Trading on Polymarket (#1 ...
+
+📺 Altcoin Daily
+
+👁️ 13K • 👍 105 • 💬 8 • ⏱️ 0:08 • 1d ago
 
 ---
 

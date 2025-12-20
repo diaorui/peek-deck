@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T20:47:35.833794+00:00'
+updated: '2025-12-20T20:58:07.387153+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 20:47 UTC  
+**Last Updated:** December 20, 2025 at 20:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 1h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 18h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 30m ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 41m ago
 
 ---
 
@@ -89,7 +89,7 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-14h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ BBC • 19h ago
 
 Rejoice, two of the biggest contributors to the AI movie trailer problem on YouTube have been taken down.
 
-Gizmodo • 56m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Gizmodo • 56m ago
 
 The great artificial intelligence boom that’s fueling US economic growth now depends heavily on credit markets to finance the investments, and utilities are among the key borrowers.
 
-Bloomberg.com • 47m ago
+Bloomberg.com • 58m ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 47m ago
 
 If you are wondering whether Ambarella is a quietly mispriced chip play or a value trap in the making, you are in the right place to unpack what the market might be missing. The stock has been choppy lately, with the share price down around 3.7% over the last week and roughly 17.1% over the past month, even though it is still up about 2.2% over the last year. Recent headlines have focused on Ambarella's positioning in computer vision and edge AI chips, along with ongoing design wins in...
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -289,17 +289,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 13K • 👍 835 • 💬 81 • ⏱️ 37:38 • 6h ago
-
----
-
-**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
-
-Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
-
-📺 Future of Life Institute
-
-👁️ 21K • 👍 784 • 💬 320 • ⏱️ 16:15 • 2d ago
+👁️ 20K • 👍 1K • 💬 109 • ⏱️ 37:38 • 6h ago
 
 ---
 
@@ -309,7 +299,17 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 257K • 👍 8K • 💬 1K • ⏱️ 15:39 • 23h ago
+👁️ 271K • 👍 8K • 💬 1K • ⏱️ 15:39 • 23h ago
+
+---
+
+**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
+
+Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
+
+📺 Future of Life Institute
+
+👁️ 21K • 👍 789 • 💬 322 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -319,17 +319,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 186K • 👍 12K • 💬 2K • ⏱️ 17:08 • 1d ago
-
----
-
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 239K • 👍 14K • 💬 2K • ⏱️ 5:52 • 2d ago
+👁️ 196K • 👍 12K • 💬 2K • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -339,7 +329,17 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 701K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
+👁️ 710K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
+
+---
+
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+
+Are we watching an AI revolution, or a slow-motion economic disaster?
+
+📺 Robert Reich
+
+👁️ 251K • 👍 15K • 💬 2K • ⏱️ 5:52 • 2d ago
 
 ---
 
@@ -353,33 +353,33 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 ---
 
+**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
+
+Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
+
+📺 Bigfoot Feed
+
+👁️ 20K • 👍 494 • 💬 14 • ⏱️ 1:00 • 22h ago
+
+---
+
+**[How I&#39;d Start Using AI Video Generators as a 40+ Year Old](https://www.youtube.com/watch?v=J01giuELimg)**
+
+Start with AI on OpenArt: https://www.openart.ai/home/?ref=Robert (I use this) You're NOT too old to start with AI! In this video, I ...
+
+📺 Robert Reynolds
+
+👁️ 4K • 👍 3K • 💬 3 • ⏱️ 8:58 • 7h ago
+
+---
+
 **[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
 
 Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
 
 📺 gptars
 
-👁️ 39K • 👍 2K • 💬 44 • ⏱️ 1:01 • 1d ago
-
----
-
-**[AI baby Dave Chappelle is disrupting ecosystems 👶🏼🤖🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=1Oo8nzGungI)**
-
-Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
-
-📺 Gianmarco Soresi
-
-👁️ 454K • 👍 16K • 💬 436 • ⏱️ 0:35 • 2d ago
-
----
-
-**[The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai](https://www.youtube.com/watch?v=2FHcEsGAaFg)**
-
-The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai#shorts #ronaldo #messi ...
-
-📺 FootyToons AI
-
-👁️ 7K • 💬 4 • ⏱️ 0:51 • 5h ago
+👁️ 54K • 👍 2K • 💬 62 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 568 • 5h ago
+⭐ 5.2k • 🔱 568 • 6h ago
 
 ---
 
@@ -742,7 +742,7 @@ Open Source Semantic Search for your AI Agent
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 805 • 🔱 75 • 2h ago
+⭐ 805 • 🔱 75 • 3h ago
 
 ---
 
