@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T18:14:27.243035+00:00'
+updated: '2025-12-20T18:42:47.422731+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 18:14 UTC  
+**Last Updated:** December 20, 2025 at 18:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.4%  
-**7d:** -0.3%  
-**30d:** +3.6%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**7d:** -0.0%  
+**30d:** +3.9%  
+**90d:** -21.7%  
+**1y:** -9.2%  
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 The mods will probably delete this....again.... But I finally hit 0.1 BTC!
 
-32m ago
+1h ago
 
 ---
 
@@ -107,7 +107,7 @@ The mods will probably delete this....again.... But I finally hit 0.1 BTC!
 
 The crypto market is down" Degens with their last $200:
 
-35m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ The crypto market is down" Degens with their last $200:
 
 Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
 
-4h ago
+5h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 4h ago
 
 Bitcoin experienced a lot of volatility in 2025 without much in the way of total return. How is 2026 shaping up for Bitcoin ETFs?
 
-The Motley Fool • 14m ago
+The Motley Fool • 42m ago
 
 ---
 
@@ -275,7 +275,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 546 • 💬 354 • ⏱️ 10:58 • 17h ago
+👁️ 12K • 👍 546 • 💬 354 • ⏱️ 10:58 • 18h ago
 
 ---
 
@@ -285,7 +285,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 159 • ⏱️ 13:47 • 18h ago
+👁️ 32K • 👍 2K • 💬 159 • ⏱️ 13:47 • 19h ago
 
 ---
 
@@ -305,7 +305,7 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 329 • 💬 70 • ⏱️ 11:40 • 6h ago
+👁️ 4K • 👍 329 • 💬 70 • ⏱️ 11:40 • 7h ago
 
 ---
 

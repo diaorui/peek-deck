@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T18:14:27.234541+00:00'
+updated: '2025-12-20T18:42:47.415290+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 18:14 UTC  
+**Last Updated:** December 20, 2025 at 18:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 My week partying with the young founders at the heart of the AI boom
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 2h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-54m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 22h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 23h ago
 
 ---
 
@@ -139,13 +139,13 @@ Politico • 3h ago
 
 GenAI and LLMs almost got a soft pass to enter the Nebula Awards, but the sci-fi/fantasy writing community shut that down.
 
-Gizmodo • 34m ago
+Gizmodo • 1h ago
 
 ---
 
 **[Tesla or CoreWeave: Cathie Wood Slashes One Top AI Stock While Boosting Another](https://www.tipranks.com/news/tesla-or-coreweave-cathie-wood-slashes-one-top-ai-stock-while-boosting-another)**
 
-TipRanks • 52m ago
+TipRanks • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 6h ago
 
 **[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqeSspMiR15OgpRja7zcIeZya3uE-ghKjTst9UEt-QNEDw3Ug5JMaO8n&gaa_ts=6946eae7&gaa_sig=L6lzi9lrSCkn5L9vgIor_oD_jWZAYiifkLWwG-hnM5JfufE6uImndXZy_mbzpQj__7kJpECST9ZGBB0lkrFXwg%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Wall Street Journal • 13h ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
@@ -205,7 +205,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 558 • 💬 527 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 558 • 💬 527 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -221,7 +221,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 355 • 💬 300 • 9h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 355 • 💬 300 • 10h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -229,7 +229,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 289 • 💬 167 • 2d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 289 • 💬 167 • 3d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -259,7 +259,7 @@ NOAA has launched a groundbreaking new suite of operational, artificial intellig
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 132 • 💬 202 • 8h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 132 • 💬 202 • 9h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -357,7 +357,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 242K • 👍 8K • 💬 1K • ⏱️ 15:39 • 20h ago
+👁️ 242K • 👍 8K • 💬 1K • ⏱️ 15:39 • 21h ago
 
 ---
 
@@ -377,7 +377,7 @@ The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #n
 
 📺 FootyToons AI
 
-👁️ 3K • 💬 4 • ⏱️ 0:51 • 2h ago
+👁️ 3K • 💬 4 • ⏱️ 0:51 • 3h ago
 
 ---
 
@@ -405,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 396 • 21h ago
+⬇️ 71,413 • ❤️ 396 • 22h ago
 
 ---
 
@@ -730,7 +730,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 1h ago
+⭐ 829 • 🔱 135 • 2h ago
 
 ---
 
