@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T23:33:37.309384+00:00'
+updated: '2025-12-20T23:45:26.267533+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 23:33 UTC  
+**Last Updated:** December 20, 2025 at 23:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -133,13 +133,13 @@ CNBC • 11h ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
@@ -175,13 +175,13 @@ wsj.com • 19h ago
 
 **[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
 
-Politico • 23h ago
+Politico • 1d ago
 
 ---
 
 **[Hochul Reaches Deal on A.I. Regulation in New York](https://www.nytimes.com/2025/12/19/nyregion/ai-bill-regulations-ny.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 426 • 💬 377 • 14h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 426 • 💬 377 • 15h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -233,7 +233,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 186 • 💬 287 • 13h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 186 • 💬 287 • 14h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 

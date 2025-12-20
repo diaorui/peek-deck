@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T23:33:37.317097+00:00'
+updated: '2025-12-20T23:45:26.276085+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 23:33 UTC  
+**Last Updated:** December 20, 2025 at 23:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,277.09
+### $88,280.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +0.1%  
-**30d:** +4.0%  
-**90d:** -21.6%  
-**1y:** -9.2%  
+**24h:** +0.3%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
+**1y:** -9.3%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ The crypto market is down" Degens with their last $200:
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
 
-5h ago
+6h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 1d ago
 
 This dip is an opportunity to think about what matters most with this asset.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 58m ago
 
 ---
 
