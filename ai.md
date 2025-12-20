@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T19:52:04.890522+00:00'
+updated: '2025-12-20T20:14:17.794003+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 19:52 UTC  
+**Last Updated:** December 20, 2025 at 20:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,14 +53,6 @@ A company is not just a collection of people. It is a collection of people doing
 
 ---
 
-**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
-
-$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
-
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 18h ago
-
----
-
 **[Sam Altman says he’s ‘0%’ excited to be CEO of a public company as OpenAI drops hints about an IPO: ‘In some ways I think it’d be really annoying’](https://www.reddit.com/r/artificial/comments/1prllyb/sam_altman_says_hes_0_excited_to_be_ceo_of_a/)**
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
@@ -69,11 +61,19 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
+**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
+
+$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
+
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 18h ago
+
+---
+
 **[America and China Are Racing to Different AI Futures](https://www.reddit.com/r/artificial/comments/1prmbsj/america_and_china_are_racing_to_different_ai/)**
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-32m ago
+55m ago
 
 ---
 
@@ -81,7 +81,7 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 Improved AI for reading, interpreting, and summarizing large files (documents)
 
-38m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-16h ago
+17h ago
 
 ---
 
@@ -105,7 +105,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfb56gsajDarivoR8jHUUEn7W3LW-JtR3z7h97Z_VFdwFt_dxnpsje1&gaa_ts=6946fc8f&gaa_sig=Lz8a7fTfGy2wBSjtsm2N0of3AIkMesrxE6eLQIM_qb_s2pJFz854IEjpI9cVH2dcImhkrEAhswVh9ng5DMwJSw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcFEhUGsyBgu6Mqz9pZdI_JkT0G1gB7Omvhs2dReNYr80rFDxtCzTtJ&gaa_ts=69470701&gaa_sig=Zkq2qaCStQUedkUkVggFAYc8dyP8XXWan75rUjKff69O0JqUQU_RbPqVtu-xif1NUNY5OScbbId9DwlZPyReRQ%3D%3D)**
 
 wsj.com • 2d ago
 
@@ -141,25 +141,11 @@ Politico • 5h ago
 
 ---
 
-**[From A.I. to Tariffs, 14 Charts That Explain 2025](https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html)**
+**[YouTube Kills Channels Creating Fake AI Movie Trailers](https://gizmodo.com/rest-in-hell-fake-ai-made-youtube-trailers-2000701825)**
 
-The New York Times • 6h ago
+Rejoice, two of the biggest contributors to the AI movie trailer problem on YouTube have been taken down.
 
----
-
-**[Everyone should benefit from AI](https://www.slowboring.com/p/everyone-should-benefit-from-ai)**
-
-Plus “Thunderball,” price controls, and liberalism & the limits of politics
-
-Slow Boring • 1d ago
-
----
-
-**[OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle](https://fortune.com/2025/12/20/openai-vs-apple-sam-altman-ai-battle-devices-jony-ive-iphone/)**
-
-Altman recruited iPhone designer Jony Ive to OpenAI this May, and Ive has said the company’s secret device could be ready in the next two years.
-
-Fortune • 1h ago
+Gizmodo • 23m ago
 
 ---
 
@@ -173,7 +159,7 @@ CNBC • 1d ago
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -189,7 +175,23 @@ The Atlantic • 6h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 8h ago
+The New Yorker • 9h ago
+
+---
+
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 6h ago
+
+---
+
+**[What AI data centers are doing to your electric bill : Planet Money](https://www.npr.org/2025/12/19/nx-s1-5649814/ai-data-center-electricity-bill)**
+
+As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
+
+NPR • 19h ago
 
 ---
 
@@ -205,7 +207,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 559 • 💬 529 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 563 • 💬 529 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -213,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 459 • 💬 589 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 461 • 💬 589 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -221,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 383 • 💬 325 • 11h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 397 • 💬 336 • 11h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -235,7 +237,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 148 • 💬 225 • 10h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 161 • 💬 237 • 10h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -251,7 +253,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 141 • 💬 90 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+⬆️ 141 • 💬 94 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 
 ---
 
@@ -265,7 +267,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
 
-⬆️ 119 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+⬆️ 120 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
 
 ---
 
@@ -273,7 +275,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 Timeline & Responsible Disclosure
 
-⬆️ 116 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 118 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -287,7 +289,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 13K • 👍 835 • 💬 81 • ⏱️ 37:38 • 5h ago
+👁️ 13K • 👍 835 • 💬 81 • ⏱️ 37:38 • 6h ago
 
 ---
 
@@ -405,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 396 • 23h ago
+⬇️ 71,413 • ❤️ 397 • 23h ago
 
 ---
 
@@ -417,7 +419,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 359 • 2d ago
+⬇️ 2,937 • ❤️ 360 • 2d ago
 
 ---
 
@@ -433,18 +435,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
-
-*Xiaomi MiMo*
-
-MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
-
-`text-generation` `309.8B`
-
-⬇️ 6,103 • ❤️ 332 • 2d ago
-
----
-
 **[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
 *Google*
@@ -453,7 +443,19 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 329 • 1d ago
+⬇️ 6,881 • ❤️ 333 • 1d ago
+
+---
+
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
+
+`text-generation` `309.8B`
+
+⬇️ 6,103 • ❤️ 333 • 2d ago
 
 ---
 
@@ -465,7 +467,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 297 • 5d ago
+⬇️ 0 • ❤️ 298 • 5d ago
 
 ---
 
@@ -477,7 +479,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 290 • 1d ago
+⬇️ 1,067 • ❤️ 292 • 1d ago
 
 ---
 
@@ -501,7 +503,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 244 • 3d ago
+⬇️ 533 • ❤️ 245 • 3d ago
 
 ---
 
@@ -670,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 160 • 1h ago
+⭐ 2.2k • 🔱 160 • 2h ago
 
 ---
 
@@ -700,7 +702,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 916 • 🔱 43 • 2d ago
+⭐ 918 • 🔱 43 • 2d ago
 
 ---
 
@@ -740,7 +742,7 @@ Open Source Semantic Search for your AI Agent
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 802 • 🔱 75 • 2h ago
+⭐ 805 • 🔱 75 • 2h ago
 
 ---
 

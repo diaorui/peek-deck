@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T19:52:04.905147+00:00'
+updated: '2025-12-20T20:14:17.808768+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:52 UTC  
+**Last Updated:** December 20, 2025 at 20:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
+**24h:** -0.1%  
 **7d:** -2.8%  
 **30d:** +7.7%  
-**90d:** -29.1%  
+**90d:** -29.0%  
 **1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.19B
+**Market Cap:** $359.37B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687159.7%
++687725.5%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[DTCC processed $3.7 quadrillion in 2024?? and they’re tokenizing U.S. treasuries now?? ON F*CKING CANTON???](https://www.reddit.com/r/ethereum/comments/1prnc2q/dtcc_processed_37_quadrillion_in_2024_and_theyre/)**
+
+why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
+
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 11m ago
 
 ---
 
@@ -138,14 +146,6 @@ I know many good crypto founders who are not good at marketing. And they think t
 
 ---
 
-**[Is Tornado Cash still the best mixer?](https://www.reddit.com/r/ethereum/comments/1ppejqa/is_tornado_cash_still_the_best_mixer/)**
-
-Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to use it due to sanctions towards it, i've also tried railgun but their mobile app just doesn't work at all, their app on computer has shield error that support couldn't help me about and by searching i see that many exchanges reject/hold funds due to provenance (mixer), is there anything good now?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,15 +154,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 18h ago
-
----
-
-**[Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://www.tradingview.com/news/cointelegraph:0e978e0fd094b:0-synthetix-returns-to-ethereum-mainnet-after-3-years-we-can-run-it-back/)**
-
-Perpetuals trading platform Synthetix is returning to Ethereum’s mainnet, with its founder arguing the network is now more than capable of supporting high-frequency financial applications after years of network congestion drove derivatives activity elsewhere.“By the time perp DEXs became a thing, t…
-
-TradingView — Track All Markets • 1d ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -171,14 +163,6 @@ TradingView — Track All Markets • 1d ago
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
 livemint.com • 7h ago
-
----
-
-**[NFT Sales Rise 12% Even as Bitcoin, Ethereum Prices Fall](https://crypto.news/nft-sales-rise-12-to-67-7m-ethereum-sales-spike-45/)**
-
-NFT sales climbed 12% to $67.76M as buyers surged, even while Bitcoin fell to $88K and Ethereum slipped below $3K.
-
-crypto.news • 12h ago
 
 ---
 
@@ -200,7 +184,7 @@ Yahoo Finance • 1d ago
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 51m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -228,6 +212,20 @@ FXEmpire • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqebFJ66jHdopeWKIpFpdem6WI6LjGPGKf8B_8Fr5b1aks62xHssFgJ4&gaa_ts=694706ff&gaa_sig=MLCLk_F8cPMimBbbfwCDfiwgu7kcxY5SuYataSLCweENuy1XkV3Xy-dNfDkqHNSC6R3E3MkfIE3sB-tieaW-CQ%3D%3D)**
+
+Barron's • 3d ago
+
+---
+
+**[Ethereum Traders Chase Upside With Historic Leverage – Breakout Fuel Or Fragile Setup?](https://www.tradingview.com/news/newsbtc:1c54f2933094b:0-ethereum-traders-chase-upside-with-historic-leverage-breakout-fuel-or-fragile-setup/)**
+
+Ethereum has been struggling to regain traction below the $3,000 level since Monday, with repeated rejection attempts reinforcing a fragile market structure. Bulls continue to lose ground as upside momentum fades, while sentiment across the market remains dominated by apathy and underlying fear.Tra…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +236,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 887 • 👍 45 • 💬 9 • ⏱️ 11:26 • 5h ago
+👁️ 887 • 👍 45 • 💬 9 • ⏱️ 11:26 • 6h ago
 
 ---
 
@@ -248,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 124 • 💬 5 • ⏱️ 6:04 • 5h ago
+👁️ 1K • 👍 124 • 💬 5 • ⏱️ 6:04 • 6h ago
 
 ---
 
@@ -298,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 156 • 👍 15 • 💬 2 • ⏱️ 4:17 • 8h ago
+👁️ 156 • 👍 15 • 💬 2 • ⏱️ 4:17 • 9h ago
 
 ---
 
@@ -308,7 +306,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 337 • 💬 4 • ⏱️ 20:31 • 23h ago
+👁️ 8K • 👍 337 • 💬 4 • ⏱️ 20:31 • 1d ago
 
 ---
 

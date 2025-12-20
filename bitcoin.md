@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T19:52:04.899046+00:00'
+updated: '2025-12-20T20:14:17.802631+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:52 UTC  
+**Last Updated:** December 20, 2025 at 20:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.3%  
-**30d:** +3.6%  
-**90d:** -21.9%  
-**1y:** -9.5%  
+**24h:** +0.5%  
+**7d:** +0.0%  
+**30d:** +3.9%  
+**90d:** -21.7%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.21B
+**Market Cap:** $1760.62B
 Rank #1
 
-**Circulating Supply:** 19,964,784 BTC
+**Circulating Supply:** 19,964,803 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.0%
 
 **All-Time Low:** $67.81
-+129990.0%
++129964.9%
 
 ---
 
@@ -93,13 +93,13 @@ The mods will probably delete this....again.... But I finally hit 0.1 BTC!
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-5h ago
+6h ago
 
 ---
 
-**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-11h ago
+1h ago
 
 ---
 
@@ -111,9 +111,15 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+**[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
 
-48m ago
+2h ago
+
+---
+
+**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
+
+12h ago
 
 ---
 
@@ -123,7 +129,7 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
-**[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
+**[CRYPTO is disappointed us](https://www.reddit.com/r/Bitcoin/comments/1prk1w0/crypto_is_disappointed_us/)**
 
 2h ago
 
@@ -131,15 +137,7 @@ The crypto market is down" Degens with their last $200:
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-11h ago
-
----
-
-**[Bitcoin has flipped this resistance into support.](https://www.reddit.com/r/Bitcoin/comments/1prkvpu/bitcoin_has_flipped_this_resistance_into_support/)**
-
-Expecting a bounce & relief rally shortly!
-
-1h ago
+12h ago
 
 ---
 
@@ -151,7 +149,7 @@ Expecting a bounce & relief rally shortly!
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 11h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -161,31 +159,31 @@ Reuters • 1d ago
 
 ---
 
-**[3 Best Bitcoin ETF Picks for 2026](https://finance.yahoo.com/news/3-best-bitcoin-etf-picks-182000293.html)**
+**[This Bitcoin Infrastructure Stock Is Up 182% and Now Commands 11% of One Portfolio](https://finance.yahoo.com/news/bitcoin-infrastructure-stock-182-now-194512437.html)**
 
-Bitcoin experienced a lot of volatility in 2025 without much in the way of total return. How is 2026 shaping up for Bitcoin ETFs?
+The move signals a shift toward scale, contracted revenue, and balance sheet strength as crypto infrastructure begins to look a little more like energy and data center investing.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.fool.com/investing/2025/12/20/bitcoin-vs-dogecoin-better-long-term-play/)**
-
-These two digital assets have performed very well for investors, but one is the clear winner.
-
-The Motley Fool • 1h ago
+Yahoo Finance • 29m ago
 
 ---
 
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+**[One Fund Just Bet $5 Million on This Bitcoin Infrastructure Play Beating the S&P 500 by 75 Points This Past Year](https://www.fool.com/coverage/filings/2025/12/20/one-fund-just-bet-usd5-million-on-this-bitcoin-infrastructure-play-beating-the-s-and-p-500-by-75-points-this-past-year/)**
 
-Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
+As crypto-linked equities heat up again, this concentrated bet shows how some funds are diving into digital infrastructure plays with contracted cash flows.
 
-Nasdaq • 1h ago
+The Motley Fool • 59m ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqek_5oMnxaM5xnQ0I0Oj4syYti_DkmcOphH2i-_2IuYgMBxDWGOpr6Z&gaa_ts=6946fc90&gaa_sig=ZsFDsMph1tAsJmW360s7W2DkF-FEo2k9OW5ctGoV-FXS1s3G-W0H8KMWvFo6LWxeZ2uTQqI21tKoYD-Dkw7KaQ%3D%3D)**
+**[This Bitcoin Mining Stock Is Still 70% Below Its Peak but Now Makes Up 34% of a Portfolio](https://www.fool.com/coverage/filings/2025/12/20/this-bitcoin-mining-stock-is-still-70-below-its-peak-but-now-makes-up-34-of-a-portfolio/)**
+
+One fund's move highlights a willingness to concentrate capital where optionality looks largest, even when the stock’s recovery is far from complete.
+
+The Motley Fool • 42m ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcxDxzHnZksIyGGXjblu7RXUjeunPONFuau6l3MCVwV9N9hI4M9-A77&gaa_ts=694706fd&gaa_sig=aUDLzYnZUIDKfrY1tlz4QOEMdsSrjopWalQ8omcQgqMIcOZqoPgGGpNCjRmYlrXf7CDKHL3cZriluODgMt1Wqg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -199,23 +197,27 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
 
-Forbes • 1d ago
+Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
----
-
-**[Bitcoin price to hit $200,000 by March as Fed ‘thinly disguises’ new money printing tool, says Arthur Hayes](https://www.dlnews.com/articles/markets/arthur-hayes-bitcoin-price-to-200000-by-march-thanks-to-fed/)**
-
-Arthur Hayes predicts Bitcoin will hit $200,000 by March 2026 when markets recognise that the Fed is printing money. The Fed’s new programme creates cash the same way quantitative easing did, Hayes argues.  Bitcoin will stay stuck between $80,000 and $100,000 until investors figure this out.
-
-dlnews.com • 1d ago
+Nasdaq • 1h ago
 
 ---
 
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.fool.com/investing/2025/12/20/bitcoin-vs-dogecoin-better-long-term-play/)**
 
-The Block • 21h ago
+These two digital assets have performed very well for investors, but one is the clear winner.
+
+The Motley Fool • 2h ago
+
+---
+
+**[DOGE, SHIB Price News: Bitcoin continues to impact dogecoin, shiba inu demand](https://www.coindesk.com/markets/2025/12/18/dogecoin-and-shiba-inu-lag-market-as-memecoins-continue-to-lose-ground-to-bitcoin)**
+
+Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -258,6 +260,14 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ⬆️ 1 • 💬 0 • 4d ago • [flip.gold](https://flip.gold/)
+
+---
+
+**[Aaron Van Wirdum predicts the future of crypto](https://news.ycombinator.com/item?id=46310765)**
+
+Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
+
+⬆️ 3 • 💬 3 • 2d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -311,7 +321,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 1K • ⏱️ 46:11 • 5h ago
+👁️ 16K • 👍 1K • ⏱️ 46:11 • 6h ago
 
 ---
 

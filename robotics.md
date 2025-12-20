@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T19:52:04.908409+00:00'
+updated: '2025-12-20T20:14:17.812102+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 19:52 UTC  
+**Last Updated:** December 20, 2025 at 20:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-9h ago
+10h ago
 
 ---
 
@@ -110,20 +110,6 @@ Humanoid robots from Unitree perform flips and synchronized choreography live on
 
 ## Google News: "robotics"
 
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Humanoid robots are coming, but can they win our hearts and minds?](https://www.abc.net.au/news/science/2025-12-19/how-to-design-a-humanoid-robot-a-human-will-trust/106033272)**
-
-Humanoid robots may be part of our future, but human psychology and the uncanny valley may stand between them and world domination.
-
-Australian Broadcasting Corporation • 2d ago
-
----
-
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
@@ -164,11 +150,25 @@ TechCrunch • 3d ago
 
 ---
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+Bloomberg.com • 1d ago
 
-Fortune • 2d ago
+---
+
+**[Humanoid robots are coming, but can they win our hearts and minds?](https://www.abc.net.au/news/science/2025-12-19/how-to-design-a-humanoid-robot-a-human-will-trust/106033272)**
+
+Humanoid robots may be part of our future, but human psychology and the uncanny valley may stand between them and world domination.
+
+Australian Broadcasting Corporation • 2d ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 21h ago
 
 ---
 
@@ -178,11 +178,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
 
-NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
 
-Yahoo Finance • 3d ago
+Interesting Engineering • 3d ago
 
 ---
 
@@ -254,7 +254,7 @@ Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consi
 
 📺 Aimin
 
-👁️ 250K • 👍 11K • 💬 3K • ⏱️ 14:27 • 5h ago
+👁️ 250K • 👍 11K • 💬 3K • ⏱️ 14:27 • 6h ago
 
 ---
 
