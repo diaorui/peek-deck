@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T17:00:09.166972+00:00'
+updated: '2025-12-20T17:25:21.735816+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 17:00 UTC  
+**Last Updated:** December 20, 2025 at 17:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.4%  
-**30d:** +3.5%  
-**90d:** -22.0%  
-**1y:** -9.6%  
+**24h:** +1.0%  
+**7d:** -0.1%  
+**30d:** +3.8%  
+**90d:** -21.8%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.66B
+**Market Cap:** $1760.16B
 Rank #1
 
-**Circulating Supply:** 19,964,721 BTC
+**Circulating Supply:** 19,964,740 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129874.9%
++129939.8%
 
 ---
 
@@ -85,7 +85,13 @@ Rank #1
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-2h ago
+3h ago
+
+---
+
+**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
+
+9h ago
 
 ---
 
@@ -101,15 +107,9 @@ Rank #1
 
 ---
 
-**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
-
-8h ago
-
----
-
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 Not talking about price or hype. I mean the moment it actually clicked for you scarcity, self-custody, trust, etc. Curious what changed people’s mindset.
 
-1h ago
+2h ago
 
 ---
 
@@ -145,25 +145,17 @@ Not talking about price or hype. I mean the moment it actually clicked for you s
 
 ## Google News: "bitcoin"
 
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
-
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin's (BTC) four-year cycle playing out as expected](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
+**[Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
 
 The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -171,19 +163,19 @@ CoinDesk • 1h ago
 
 As Bitcoin continues to languish below the $90,000 mark, CryptoQuant analysts are ready to call it: BTC has entered a bear market.
 
+Yahoo Finance • 2h ago
+
+---
+
+**[HBAR Price Looks Closely Tried to Bitcoin, What’s Next?](https://finance.yahoo.com/news/hbar-price-looks-closely-tried-160000481.html)**
+
+HBAR price downtrend is tied to Bitcoin as BTC weakness is capping breakouts and pressures support near $0.110.
+
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
-
-"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfY2jxhYOIUkpqzUCJkIp4Goja9pUizRQe7ym2NUvnkrFzx63wsFve9&gaa_ts=6946d2f4&gaa_sig=fYXKefUaEHF3HtM1Iph7lrOsh_L9AxmVJXvlDib7Y8PQo1sTIDX3o-sglt6_Mc0LNbJ9DN4v4WH7CTZxi9hqlw%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdv7SBTgT33pzVQZJ1yh8YVCMTgUOoQcPLmTu7qmwBBOPA4O0LTL12F&gaa_ts=6946df67&gaa_sig=NX4pgpbeDYEbJCR4SXlOIN1AIPP8XtRjM5OhnLnEfzYIYXDGn2Zs_abJwD5wnC3R3FlIsC5fUmNGPFrnzRRg3Q%3D%3D)**
 
 Barron's • 23h ago
 
@@ -197,9 +189,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeijM7NzRoiTyG9Fn1uI3ALsSkT9gAnQ5tLF1vYCXscyk6xkqwB6sbE&gaa_ts=6946d2f4&gaa_sig=1SiW9xUdWY8S0_tFrgE4I6rIrwCbwU8yVUU7KCwkkrWoPOsW8MkLNVFbXQacNhKihpneuxHwqkSRx1q_kcwczg%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfCk9ifjsuN8i30WK5EBfIDPztw18JW5FZBVA3zFGNF35XnqtJcGrWH&gaa_ts=6946df67&gaa_sig=yFbP2jEe-0rWR81P3CwQJQPkERqnK0IiSOKBAX9u6F_E2xFvCkaCYcbjvWHxz-sYAnysvjDBIC4flvBnuVi3Lw%3D%3D)**
 
 MarketWatch • 1d ago
+
+---
+
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -208,12 +214,6 @@ MarketWatch • 1d ago
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
 Nasdaq • 6h ago
-
----
-
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
-
-Forbes • 1d ago
 
 ---
 
@@ -226,14 +226,6 @@ Forbes • 1d ago
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
 ⬆️ 26 • 💬 8 • 5d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
-
----
-
-**[Bitcoin creator Satoshi disappeared on this day 15 years ago](https://news.ycombinator.com/item?id=46256097)**
-
-Nakamoto is suspected of leaving public life to preserve privacy, evade legal risks, and/or ensure Bitcoin’s decentralization.
-
-⬆️ 7 • 💬 3 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-creator-satoshi-disappeared-on-this-day-15-years-ago-leaving-a-final-public-message-ive-moved-on-to-other-things-true-identity-of-satoshi-nakamoto-entity-remains-unknown)
 
 ---
 
@@ -307,7 +299,7 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 329 • 💬 70 • ⏱️ 11:40 • 5h ago
+👁️ 4K • 👍 329 • 💬 70 • ⏱️ 11:40 • 6h ago
 
 ---
 
@@ -337,7 +329,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 18K • 👍 2K • 💬 290 • ⏱️ 8:31 • 23h ago
+👁️ 18K • 👍 2K • 💬 290 • ⏱️ 8:31 • 1d ago
 
 ---
 
@@ -347,7 +339,7 @@ Bitcoin's current chart pattern is ambiguous—is it a rising wedge already brea
 
 📺 Lark Davis
 
-👁️ 6K • 👍 403 • 💬 33 • ⏱️ 12:19 • 5h ago
+👁️ 6K • 👍 403 • 💬 33 • ⏱️ 12:19 • 6h ago
 
 ---
 

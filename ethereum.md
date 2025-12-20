@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T17:00:09.172892+00:00'
+updated: '2025-12-20T17:25:21.741699+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 17:00 UTC  
+**Last Updated:** December 20, 2025 at 17:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -2.8%  
+**24h:** +0.3%  
+**7d:** -2.9%  
 **30d:** +7.6%  
 **90d:** -29.1%  
-**1y:** -10.8%  
+**1y:** -10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.12B
+**Market Cap:** $359.48B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686780.9%
++687970.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-20h ago
+21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -180,33 +180,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
-
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
-
-Decrypt • 2d ago
-
----
-
 **[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://www.ccn.com/news/technology/ethereum-wall-street-tokenization-adoption/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
-**[Ethereum Price Analysis: Is ETH Ready for Sustained Recovery or Another Rejection Looms?](https://www.tradingview.com/news/cryptopotato:5bbb5a6cd094b:0-ethereum-price-analysis-is-eth-ready-for-sustained-recovery-or-another-rejection-looms/)**
+**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
-Ethereum remains in a corrective phase, with recent price action showing compression rather than expansion. Volatility has contracted, and the market is currently rotating within clearly defined technical boundaries.Technical AnalysisBy ShayanThe Daily ChartOn the daily timeframe, ETH is trading in…
+Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
-TradingView — Track All Markets • 2h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
-
-FXStreet • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -218,7 +202,23 @@ FXEmpire • 21h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdmpTFb2yz74TtWb2ZW2_wEu4cTLGAGqtquWLc8k0s_Su7NdIOvrt54&gaa_ts=6946d2f5&gaa_sig=y6n3J9kYty9lAbmQvKdYU34ffJMEskiN5XljSTLiW5_OcRISCmDkZinXiz0JdSL9SHS-Yi2oMOuucPaEiZq7WA%3D%3D)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
+
+FXStreet • 1d ago
+
+---
+
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcJGk8RTHLUb9LCkrh7uFKFkraYJDRcxeezDBUC5281cI54pasElgK6&gaa_ts=6946df68&gaa_sig=nhcUW3yRWJyMUn7qZbmmd9U-0mbNRU2un_Duf904wBALQbaXP3CKzsVojsgFI2veRxtFmXLjC2N_NzEu2ar4_Q%3D%3D)**
 
 Barron's • 3d ago
 
@@ -234,7 +234,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 474 • 👍 35 • 💬 43 • ⏱️ 11:26 • 2h ago
+👁️ 474 • 👍 35 • 💬 43 • ⏱️ 11:26 • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 738 • 👍 88 • 💬 4 • ⏱️ 6:04 • 2h ago
+👁️ 738 • 👍 88 • 💬 4 • ⏱️ 6:04 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 14 • 💬 31 • ⏱️ 4:17 • 5h ago
+👁️ 116 • 👍 14 • 💬 31 • ⏱️ 4:17 • 6h ago
 
 ---
 
@@ -304,7 +304,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 333 • 💬 34 • ⏱️ 20:31 • 20h ago
+👁️ 7K • 👍 333 • 💬 34 • ⏱️ 20:31 • 21h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T17:00:09.158656+00:00'
+updated: '2025-12-20T17:25:21.727555+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 17:00 UTC  
+**Last Updated:** December 20, 2025 at 17:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,11 +53,19 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
+**[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
+
+A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
+
+5m ago
+
+---
+
 **[What are the working tasks AI will be able to do by 2026?](https://www.reddit.com/r/artificial/comments/1prgrnh/what_are_the_working_tasks_ai_will_be_able_to_do/)**
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-1h ago
+2h ago
 
 ---
 
@@ -109,19 +117,11 @@ UK AISI’s first Frontier AI Trends Report finds that AI models are getting bet
 
 ---
 
-**["Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino"](https://www.reddit.com/r/artificial/comments/1ppvwx3/trucker_wrongly_detained_through_casinos_ai/)**
-
-My question is about reliance on facial recognition software, and more generally about reliance on AI. Here are two links to stories about a recent incident. A website covering truckers: "Trucker wrongly detained through casino’s AI identification software now suing officer after settling suit with casino", and second, the bodycam footage (on YouTube) which captures the arresting officer talking about his (in my opinion) extreme reliance on AI. Here are the important details: A man was detained and then arrested based on a facial recognition system. There was a large amount of evidence available to the arresting officer that the man was falsely identified. For example, he had multiple pieces of documentation indicating his correct identity, and multiple pieces of evidence that would point to him NOT being the person identified by the AI facial recognition. The officer, several times, says that he is going to rely on the AI classification despite have evidence to the contrary. The officer invents a convoluted theory to explain away the every bit of evidence that contradicts the AI. For example, he confirms that the identification is legitimate with the state DMV, and the says that the suspect must have someone working inside the DMV to help him fake IDs. In other words, he grants the AI classification more weight than all of the contradictory evidence which is right in front of him. I'm most interested in the implications of 3. The officer seems to subvert his own judgment to that to what he calls the "fancy" casino AI. Is this going to become more common in the future, where the output of chat bots, classification bots, etc, are trusted more than contradictory evidence? Just to finish, I pulled some quotes from the body came footage of the officer: "And this is one of those things you guys have this fancy software that does all this stuff." [2:24 in the video] "Uh they're fancy AI technology that reads faces. No, it says it's a 100% match. But at this point, our hands are tied because, you know, a reasonable and prudent person would based off the software, based off the pictures, based off of even your driver's license picture, make the uh reasonable conclusion that all three are the same person, just two different IDs with two different names." [10:54 in the video] "So much so that the fancy computer that does all the face scanning of everybody who walks in this casino makes the same determination that my feeble human brain does." [11:41 in the video] "I just have a feeling somehow maybe he's got a hookup at the DMV where he's got two different driver's licenses that are registered with the Department of Motor Vehicles" [9:10 minutes into the video] And the last exchange between the falsely accused man the police officer: The man says, "And then people aren't smart enough to think for themselves. They're just not." To which the officer, who has has abandoned his judgment in favor of AI, relipes, "Yep. Unfortunately, it's the world we live in." [See 14:30 in the video.]
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqc4CyL-ACYBrRnaA1IazNlTBIpbaKYjLt9I8SIgoCkD0phv5MpOIb7v&gaa_ts=6946d2f2&gaa_sig=OLl-trRTDBd4bYEfcHuP4Z2QfXkSpn6Xxr7TKb1BsWGuL9qT2oudqzKiDYGhh_QXwObRVzoprBip19Rd7dtrzw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfBV_YvS3VJD80ayGgG8yYFZmsdzoEkrTbmjMGR1N6iwOqkbKbZPdQ8&gaa_ts=6946df65&gaa_sig=E-CxKACmUC9cBPiEbKgI-Di4kvod0lTZQmLoMTaKLx7I58qs5zaPDAvPEsRl8mQEVYp4IofUEMDDI1vc_YAOcQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -135,11 +135,41 @@ BBC • 15h ago
 
 ---
 
-**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
+**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
-Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
+My week partying with the young founders at the heart of the AI boom
 
-CNBC • 5h ago
+The Atlantic • 4h ago
+
+---
+
+**[Should You Buy Artificial Intelligence (AI) Stocks In 2026?](https://www.fool.com/investing/2025/12/20/should-you-buy-artificial-intelligence-ai-stocks-i/)**
+
+It depends on which ones and what you believe about the future of the sector.
+
+The Motley Fool • 40m ago
+
+---
+
+**[Prediction: This AI Stock Will Be the Most Surprising Winner of 2026](https://finance.yahoo.com/news/prediction-ai-stock-most-surprising-160500867.html)**
+
+The AI infrastructure giant has pulled back significantly of late, but it could make a big comeback in the new year.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+
+Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
+
+CNBC • 1d ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 5h ago
 
 ---
 
@@ -149,65 +179,25 @@ Politico • 2h ago
 
 ---
 
-**[Paris taken by a coup: How an AI video caused Macron a major headache](https://www.euronews.com/my-europe/2025/12/19/video-of-coup-in-paris-how-an-ai-generated-video-caused-macron-a-major-headache)**
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
 
-The video rapidly racked up more than 12 million views after it was shared on Facebook.
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-Euronews.com • 1d ago
-
----
-
-**[Trump's AI policy is dividing his party. Here's what key GOP critics are saying about it.](https://www.businessinsider.com/gop-critics-trump-ai-preemption-policy-2025-12)**
-
-Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
-
-Business Insider • 6h ago
+The New Yorker • 6h ago
 
 ---
 
-**[Doctors Catch Cancer-Diagnosing AI Extracting Patients' Race Data and Being Racist With It](https://futurism.com/health-medicine/ai-cancer-diagnostic-bias)**
+**[40 of our most helpful AI tips from 2025](https://blog.google/technology/ai/ai-tips-2025/)**
 
-A new study reveals an alarming bias present in four leading AI cancer screening tools, related to race, gender, and age.
+Learn more about the AI tips and tools Google shared in 2025.
 
-Futurism • 2h ago
-
----
-
-**[This Glorious Artificial Intelligence (AI) Stock Has Crushed Nvidia and Broadcom With 147% Returns in 2025. It Can Jump by 111% in 2026](https://www.fool.com/investing/2025/12/20/this-glorious-artificial-intelligence-ai-stock-has/)**
-
-The booming demand for high-speed networking in data centers has supercharged this tech stock.
-
-The Motley Fool • 2h ago
-
----
-
-**[Prediction: This AI Stock Will Be the Most Surprising Winner of 2026](https://finance.yahoo.com/news/prediction-ai-stock-most-surprising-160500867.html)**
-
-The AI infrastructure giant has pulled back significantly of late, but it could make a big comeback in the new year.
-
-Yahoo Finance • 55m ago
-
----
-
-**[Caterpillar’s Worst 5 Days Since April Show AI Hype’s Pitfalls](https://www.bloomberg.com/news/articles/2025-12-19/caterpillar-s-worst-5-days-since-april-show-ai-hype-s-pitfalls)**
-
-Caterpillar Inc.’s AI-powered rally stumbled as investors questioned the sustainability of the trade across US equities, sending the stock tumbling from a record high in its worst five-day stretch since April.
-
-Bloomberg.com • 1d ago
+blog.google • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://news.ycombinator.com/item?id=46302267)**
-
-AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
-
-⬆️ 1058 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
-
----
 
 **[Firefox will have an option to disable all AI features](https://news.ycombinator.com/item?id=46316409)**
 
@@ -225,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 459 • 💬 587 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 459 • 💬 588 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -233,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 319 • 💬 244 • 8h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 340 • 💬 276 • 8h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -261,27 +251,33 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 ---
 
-**[Firefox is becoming an AI browser and the internet is not at all happy about it](https://news.ycombinator.com/item?id=46302114)**
-
-That's one way to get some publicity with Reddit.
-
-⬆️ 132 • 💬 147 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/firefox-is-becoming-an-ai-browser-and-the-internet-is-not-at-all-happy-about-it/)
-
----
-
-**[The State of AI Coding Report 2025](https://news.ycombinator.com/item?id=46301886)**
-
-A cross-industry study on recent trends in AI software development. Engineering velocity, tool adoption, and model benchmarks.
-
-⬆️ 131 • 💬 111 • 3d ago • [Greptile](https://www.greptile.com/state-of-ai-coding-2025)
-
----
-
 **[NOAA deploys new generation of AI-driven global weather models](https://news.ycombinator.com/item?id=46306497)**
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 123 • 💬 80 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+⬆️ 127 • 💬 85 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+
+---
+
+**[Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://news.ycombinator.com/item?id=46313266)**
+
+The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
+
+⬆️ 121 • 💬 149 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+
+---
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
+
+⬆️ 119 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+
+---
+
+**[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
+
+Timeline & Responsible Disclosure
+
+⬆️ 116 • 💬 59 • 23h ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -295,7 +291,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 7K • 👍 548 • 💬 56 • ⏱️ 37:38 • 2h ago
+👁️ 7K • 👍 548 • 💬 56 • ⏱️ 37:38 • 3h ago
 
 ---
 
@@ -315,7 +311,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 175K • 👍 11K • 💬 2K • ⏱️ 17:08 • 23h ago
+👁️ 175K • 👍 11K • 💬 2K • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -401,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,161 • 12d ago
+⬇️ 341,530 • ❤️ 3,174 • 12d ago
 
 ---
 
@@ -413,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 395 • 20h ago
+⬇️ 71,413 • ❤️ 395 • 21h ago
 
 ---
 
@@ -429,18 +425,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
-**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
-
-*Xiaomi MiMo*
-
-MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
-
-`text-generation` `309.8B`
-
-⬇️ 6,103 • ❤️ 326 • 2d ago
-
----
-
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -449,7 +433,19 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 323 • 6d ago
+⬇️ 4,050 • ❤️ 335 • 6d ago
+
+---
+
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
+
+`text-generation` `309.8B`
+
+⬇️ 6,103 • ❤️ 327 • 2d ago
 
 ---
 
@@ -461,7 +457,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 317 • 1d ago
+⬇️ 6,881 • ❤️ 324 • 1d ago
 
 ---
 
@@ -473,19 +469,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 294 • 5d ago
-
----
-
-**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
-
-*Microsoft*
-
-TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
-
-`image-to-3d`
-
-⬇️ 0 • ❤️ 272 • 3d ago
+⬇️ 0 • ❤️ 295 • 5d ago
 
 ---
 
@@ -497,7 +481,19 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 271 • 1d ago
+⬇️ 1,067 • ❤️ 277 • 1d ago
+
+---
+
+**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
+
+*Microsoft*
+
+TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
+
+`image-to-3d`
+
+⬇️ 0 • ❤️ 275 • 3d ago
 
 ---
 
@@ -509,7 +505,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 242 • 3d ago
+⬇️ 533 • ❤️ 243 • 3d ago
 
 ---
 
@@ -678,7 +674,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 159 • 8h ago
+⭐ 2.2k • 🔱 159 • 9h ago
 
 ---
 
@@ -738,7 +734,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 45m ago
+⭐ 829 • 🔱 135 • 1h ago
 
 ---
 

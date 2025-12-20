@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T17:00:09.176042+00:00'
+updated: '2025-12-20T17:25:21.744889+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 17:00 UTC  
+**Last Updated:** December 20, 2025 at 17:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.nio-robotics.com/
 
-7h ago
+8h ago
 
 ---
 
@@ -48,9 +48,23 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 ---
 
+**[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
+
+I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
+
+31m ago
+
+---
+
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
 4h ago
+
+---
+
+**[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
+
+8h ago
 
 ---
 
@@ -62,17 +76,11 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 ---
 
-**[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
-
-8h ago
-
----
-
 **[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-22h ago
+23h ago
 
 ---
 
@@ -88,19 +96,11 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-12h ago
+13h ago
 
 ---
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
-
-1d ago
-
----
-
-**[UPS plans to invest $120M in around 400 truck-unloading robots from Pickle Robot Company to tackle one of logistics Holy Grails: unloading trailers. These mobile robots drive into containers, lift boxes up to 50 lbs (22.5 kg) with suction, and place them onto conveyors.](https://www.reddit.com/r/robotics/comments/1pqi5cd/ups_plans_to_invest_120m_in_around_400/)**
-
-Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
 1d ago
 
@@ -114,15 +114,15 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
 
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
 
-Los Angeles Times • 3d ago
+Interesting Engineering • 3d ago
 
 ---
 
@@ -150,6 +150,14 @@ TechCrunch • 3d ago
 
 ---
 
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 2d ago
+
+---
+
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
 Bloomberg.com • 1d ago
@@ -168,15 +176,7 @@ Australian Broadcasting Corporation • 1d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 17h ago
-
----
-
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 2d ago
+South China Morning Post • 18h ago
 
 ---
 
