@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T22:26:50.773549+00:00'
+updated: '2025-12-20T22:43:36.265576+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 22:26 UTC  
+**Last Updated:** December 20, 2025 at 22:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** +0.0%  
+**7d:** -0.0%  
 **30d:** +3.9%  
 **90d:** -21.7%  
-**1y:** -9.2%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.73B
+**Market Cap:** $1761.21B
 Rank #1
 
 **Circulating Supply:** 19,964,837 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129938.3%
++130019.5%
 
 ---
 
@@ -93,27 +93,13 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-4h ago
+5h ago
 
 ---
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-12h ago
-
----
-
-**[People only love bitcoin when it is going up](https://www.reddit.com/r/Bitcoin/comments/1prk2gx/people_only_love_bitcoin_when_it_is_going_up/)**
-
-I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
-
-4h ago
-
----
-
-**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
-
-14h ago
+13h ago
 
 ---
 
@@ -123,9 +109,31 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 ---
 
+**[People only love bitcoin when it is going up](https://www.reddit.com/r/Bitcoin/comments/1prk2gx/people_only_love_bitcoin_when_it_is_going_up/)**
+
+I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
+
+5h ago
+
+---
+
+**[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
+
+14h ago
+
+---
+
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
 1d ago
+
+---
+
+**[What if Bitcoin doesn’t need mass adoption to succeed?](https://www.reddit.com/r/Bitcoin/comments/1prqeen/what_if_bitcoin_doesnt_need_mass_adoption_to/)**
+
+Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
+
+21m ago
 
 ---
 
@@ -135,53 +143,9 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 ---
 
-**[Anyone else feeling the strange tension in the market right now?](https://www.reddit.com/r/Bitcoin/comments/1preeap/anyone_else_feeling_the_strange_tension_in_the/)**
-
-Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
-
-8h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
-
-Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
-
-CoinDesk • 8h ago
-
----
-
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
-
-Reuters • 1d ago
-
----
-
-**[Tom Lee addresses Fundstrat’s bitcoin outlook controversy on X](https://www.coindesk.com/markets/2025/12/20/tom-lee-responds-as-x-debates-fundstrat-s-differing-bitcoin-outlooks)**
-
-Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
-
-CoinDesk • 55m ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfWn_VvDLrN5dWltVGuG2iJ9fw3zLjb3KGVy-xvjFuw6NPC8wsTlWX1&gaa_ts=69471f9f&gaa_sig=YfGcowVwz7kT9XOQFvY5meaTdgLl58bVbvBvm1xYKLPstBabiaXwX3d65GW7X6tuQzEq4QUKRUOK574sAuLycg%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
-
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 2d ago
-
----
 
 **[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
 
@@ -203,7 +167,45 @@ The Motley Fool • 12h ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
+
+Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee responds to controversy surrounding Fundstrat’s differing bitcoin outlooks](https://www.coindesk.com/markets/2025/12/20/tom-lee-responds-as-x-debates-fundstrat-s-differing-bitcoin-outlooks)**
+
+Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
+
+CoinDesk • 1h ago
+
+---
+
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
+
+This dip is an opportunity to think about what matters most with this asset.
+
+The Motley Fool • 16m ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfFvyzirx5HXXvf10r8qx2NZZ9cnFoDigPds62uncqwwI2KB5Ru00-7&gaa_ts=69472a03&gaa_sig=y8zwS1SmjY2nkG6uZCgQn_juDjBOo4ulTISan78822UhnHtJNkpk1X6L0cE8u3n32aZzu5abDEGNLAw-zk31tA%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -213,9 +215,11 @@ Forbes • 9h ago
 
 ---
 
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+**[‘Pay 13 Bitcoin or We Blow It Up’: Hyundai Bomb Threat Shakes South Korean Offices](https://bitcoinmagazine.com/news/hyundai-bitcoin-bomb-threat-in-south-korea)**
 
-The Block • 1d ago
+Hyundai Group evacuated staff from two Seoul offices after receiving a bomb threat email demanding bitcoin.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -279,7 +283,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 13K • 👍 580 • 💬 351 • ⏱️ 10:58 • 21h ago
+👁️ 13K • 👍 580 • 💬 351 • ⏱️ 10:58 • 22h ago
 
 ---
 
@@ -289,7 +293,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 137 • ⏱️ 13:47 • 22h ago
+👁️ 36K • 👍 2K • 💬 137 • ⏱️ 13:47 • 23h ago
 
 ---
 

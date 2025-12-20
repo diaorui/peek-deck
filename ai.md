@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T22:26:50.765172+00:00'
+updated: '2025-12-20T22:43:36.257149+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 22:26 UTC  
+**Last Updated:** December 20, 2025 at 22:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -121,12 +121,6 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdpmOiER2aU964Vkc4bR6GEGK9Qjd6vwRsm2k_Hql5Rk22C_ZriRYET&gaa_ts=69471f9d&gaa_sig=uUmf4_D5L9aOSn5jBq9ECIz4G4T9oaWacTaGtG8XOoXmMxsaDRtrSg4uFbPhXRgnCjXuusCFDKuvVbHSjQNHyw%3D%3D)**
-
-wsj.com • 2d ago
-
----
-
 **[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
@@ -135,11 +129,9 @@ BBC • 20h ago
 
 ---
 
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
-
-The New Yorker • 11h ago
+Politico • 7h ago
 
 ---
 
@@ -151,17 +143,11 @@ CNBC • 1d ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
 
-Politico • 7h ago
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
----
-
-**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
-
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 1d ago
+The New Yorker • 11h ago
 
 ---
 
@@ -173,23 +159,35 @@ The Atlantic • 9h ago
 
 ---
 
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqfrNjxyFtOhYI88RrGfKWchkO47ix9zSzUE4KNb5excRrSE249pvQS2&gaa_ts=69472a02&gaa_sig=Xi6WNrmophkm8bEKtA-I8ur1PK1DVsOxmxSjV9TuSi-XLAWKoXmroxIPzXqDgtQ5pG37wfV8zXiGiJQkb52FIA%3D%3D)**
+
+wsj.com • 18h ago
+
+---
+
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
 The New York Times • 10h ago
 
 ---
 
-**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 8h ago
+
+---
+
+**[Synthetic soul: AI-generated gospel singer tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
 Axios • 1h ago
 
 ---
 
-**[What AI data centers are doing to your electric bill : Planet Money](https://www.npr.org/2025/12/19/nx-s1-5649814/ai-data-center-electricity-bill)**
+**[How AI tools are easing the load at home for India’s women](https://www.reuters.com/technology/ai-and-us/how-ai-tools-are-easing-load-home-indias-women-2025-12-20/)**
 
-As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
-
-NPR • 22h ago
+Reuters • 12h ago
 
 ---
 
@@ -221,7 +219,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 420 • 💬 362 • 13h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 423 • 💬 364 • 14h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -235,7 +233,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 179 • 💬 267 • 12h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 184 • 💬 281 • 13h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -244,14 +242,6 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
 ⬆️ 145 • 💬 13 • 2d ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
-
----
-
-**[NOAA deploys new generation of AI-driven global weather models](https://news.ycombinator.com/item?id=46306497)**
-
-NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
-
-⬆️ 143 • 💬 95 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 
 ---
 
@@ -274,6 +264,12 @@ The fine is equal to six times the profits Airbnb made while the properties were
 Timeline & Responsible Disclosure
 
 ⬆️ 119 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+
+---
+
+**[A school locked down after AI flagged a gun. It was a clarinet](https://news.ycombinator.com/item?id=46311558)**
+
+⬆️ 102 • 💬 130 • 2d ago • [washingtonpost.com](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
 
 ---
 
@@ -393,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,179 • 12d ago
+⬇️ 341,530 • ❤️ 3,180 • 12d ago
 
 ---
 
@@ -405,7 +401,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 398 • 1d ago
+⬇️ 71,413 • ❤️ 399 • 1d ago
 
 ---
 
@@ -417,7 +413,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 360 • 2d ago
+⬇️ 2,937 • ❤️ 363 • 2d ago
 
 ---
 
@@ -429,7 +425,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 337 • 2d ago
+⬇️ 6,881 • ❤️ 341 • 2d ago
 
 ---
 
@@ -441,7 +437,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 337 • 6d ago
+⬇️ 4,050 • ❤️ 339 • 6d ago
 
 ---
 
@@ -453,7 +449,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 336 • 2d ago
+⬇️ 6,103 • ❤️ 337 • 2d ago
 
 ---
 
@@ -465,7 +461,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 300 • 1d ago
+⬇️ 1,067 • ❤️ 301 • 1d ago
 
 ---
 
@@ -477,7 +473,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 299 • 5d ago
+⬇️ 0 • ❤️ 300 • 5d ago
 
 ---
 
@@ -489,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 282 • 3d ago
+⬇️ 0 • ❤️ 283 • 3d ago
 
 ---
 
@@ -501,7 +497,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 247 • 3d ago
+⬇️ 533 • ❤️ 248 • 3d ago
 
 ---
 
