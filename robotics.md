@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T21:48:08.202410+00:00'
+updated: '2025-12-20T21:59:19.577022+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 21:48 UTC  
+**Last Updated:** December 20, 2025 at 21:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,21 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-4h ago
-
----
-
-**[Demo by Kyber Labs shows their system autonomously assembling a part](https://www.reddit.com/r/robotics/comments/1prau9k/demo_by_kyber_labs_shows_their_system/)**
-
-From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
-
-11h ago
+5h ago
 
 ---
 
 **[Aru Robot, manufactured by the French company Nio Robotics to do industrial inspection and maintenance](https://www.reddit.com/r/robotics/comments/1prabw8/aru_robot_manufactured_by_the_french_company_nio/)**
 
 Website: https://www.nio-robotics.com/
+
+12h ago
+
+---
+
+**[Demo by Kyber Labs shows their system autonomously assembling a part](https://www.reddit.com/r/robotics/comments/1prau9k/demo_by_kyber_labs_shows_their_system/)**
+
+From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
 12h ago
 
@@ -128,14 +128,6 @@ Los Angeles Times • 3d ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 21h ago
-
----
-
 **[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
@@ -149,6 +141,14 @@ KSBY News • 1d ago
 Tech historians may look back on 2025 as a kind of trough in consumer robotics.
 
 CNN • 3d ago
+
+---
+
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 22h ago
 
 ---
 

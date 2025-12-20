@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T21:48:08.193263+00:00'
+updated: '2025-12-20T21:59:19.567787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 21:48 UTC  
+**Last Updated:** December 20, 2025 at 21:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +0.0%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.7%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.01B
+**Market Cap:** $1760.73B
 Rank #1
 
-**Circulating Supply:** 19,964,815 BTC
+**Circulating Supply:** 19,964,837 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.1%
 
 **All-Time Low:** $67.81
-+130107.9%
++129938.3%
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
-
-12h ago
-
----
-
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
 7h ago
@@ -103,6 +97,12 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
+**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
+
+12h ago
+
+---
+
 **[People only love bitcoin when it is going up](https://www.reddit.com/r/Bitcoin/comments/1prk2gx/people_only_love_bitcoin_when_it_is_going_up/)**
 
 I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
@@ -114,6 +114,12 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
 13h ago
+
+---
+
+**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
+
+41m ago
 
 ---
 
@@ -137,14 +143,6 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 ---
 
-**[Honest question: what finally made you understand Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1prgj52/honest_question_what_finally_made_you_understand/)**
-
-Not talking about price or hype. I mean the moment it actually clicked for you scarcity, self-custody, trust, etc. Curious what changed people’s mindset.
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,7 +161,15 @@ Reuters • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdOHclqmmJjjAxQQ0yN_j29cq6U2JvXf9trqy44icMC7O1a6FUuC9TU&gaa_ts=6947175b&gaa_sig=sgKNToaSfAeuuQHhxU-im5xVieV2Fg3Jf5gDiVbj2ZagnKnUoIWNAPU-eTDEP9-Mbuo6QeCRclEiAUx_ArQ73Q%3D%3D)**
+**[Tom Lee addresses Fundstrat’s bitcoin outlook controversy on X](https://www.coindesk.com/markets/2025/12/20/tom-lee-responds-as-x-debates-fundstrat-s-differing-bitcoin-outlooks)**
+
+Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
+
+CoinDesk • 28m ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfWn_VvDLrN5dWltVGuG2iJ9fw3zLjb3KGVy-xvjFuw6NPC8wsTlWX1&gaa_ts=69471f9f&gaa_sig=YfGcowVwz7kT9XOQFvY5meaTdgLl58bVbvBvm1xYKLPstBabiaXwX3d65GW7X6tuQzEq4QUKRUOK574sAuLycg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -201,27 +207,15 @@ Nasdaq • 11h ago
 
 ---
 
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+**[‘Nothing Stops This Train’—2026 Fed U.S. Dollar ‘Destruction’ Warning, Predicted To Trigger $4 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/20/nothing-stops-this-train-2026-fed-us-dollar-destruction-warning-predicted-to-trigger-4-trillion-bitcoin-price-boom/)**
 
-Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
-
-Nasdaq • 3h ago
+Forbes • 9h ago
 
 ---
 
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.fool.com/investing/2025/12/20/bitcoin-vs-dogecoin-better-long-term-play/)**
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-These two digital assets have performed very well for investors, but one is the clear winner.
-
-The Motley Fool • 3h ago
-
----
-
-**[DOGE, SHIB Price News: Bitcoin continues to impact dogecoin, shiba inu demand](https://www.coindesk.com/markets/2025/12/18/dogecoin-and-shiba-inu-lag-market-as-memecoins-continue-to-lose-ground-to-bitcoin)**
-
-Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.
-
-CoinDesk • 2d ago
+The Block • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T21:48:08.184922+00:00'
+updated: '2025-12-20T21:59:19.558853+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 21:48 UTC  
+**Last Updated:** December 20, 2025 at 21:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
+
+Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
+
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1h ago
+
+---
+
 **[Sam Altman says he’s ‘0%’ excited to be CEO of a public company as OpenAI drops hints about an IPO: ‘In some ways I think it’d be really annoying’](https://www.reddit.com/r/artificial/comments/1prllyb/sam_altman_says_hes_0_excited_to_be_ceo_of_a/)**
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 3h ago
 
 ---
 
@@ -53,19 +61,11 @@ A company is not just a collection of people. It is a collection of people doing
 
 ---
 
-**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
-
-Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
-
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1h ago
-
----
-
 **[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 19h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 20h ago
 
 ---
 
@@ -89,7 +89,7 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-18h ago
+19h ago
 
 ---
 
@@ -97,7 +97,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-15h ago
+16h ago
 
 ---
 
@@ -121,17 +121,9 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdOH8Q4R9X4tMjHtxXPLnw9dvkfM_1fgOstdyA4bfc_Wm2B4SFasIcW&gaa_ts=6947175a&gaa_sig=AAC-kPGU81CDLOl4eMz-i56NGHmcW62EJ3emUxy3nqKtXt2BZJVrQoSvvxP07tAUCB8aROJ3koxE6xprfe1sdA%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdpmOiER2aU964Vkc4bR6GEGK9Qjd6vwRsm2k_Hql5Rk22C_ZriRYET&gaa_ts=69471f9d&gaa_sig=uUmf4_D5L9aOSn5jBq9ECIz4G4T9oaWacTaGtG8XOoXmMxsaDRtrSg4uFbPhXRgnCjXuusCFDKuvVbHSjQNHyw%3D%3D)**
 
 wsj.com • 2d ago
-
----
-
-**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
-
-Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
-
-CNBC • 9h ago
 
 ---
 
@@ -151,9 +143,25 @@ The New Yorker • 10h ago
 
 ---
 
+**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+
+Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
+
+CNBC • 1d ago
+
+---
+
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
 Politico • 7h ago
+
+---
+
+**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 1d ago
 
 ---
 
@@ -171,17 +179,9 @@ The New York Times • 9h ago
 
 ---
 
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 7h ago
-
----
-
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 47m ago
+Axios • 58m ago
 
 ---
 
@@ -221,7 +221,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 415 • 💬 354 • 13h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 420 • 💬 362 • 13h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -235,7 +235,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 174 • 💬 251 • 12h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 179 • 💬 267 • 12h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -243,7 +243,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 145 • 💬 13 • 1d ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 145 • 💬 13 • 2d ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -273,7 +273,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 Timeline & Responsible Disclosure
 
-⬆️ 118 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 119 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -367,7 +367,7 @@ Start with AI on OpenArt: https://www.openart.ai/home/?ref=Robert (I use this) Y
 
 📺 Robert Reynolds
 
-👁️ 4K • 👍 3K • 💬 3 • ⏱️ 8:58 • 7h ago
+👁️ 4K • 👍 3K • 💬 3 • ⏱️ 8:58 • 8h ago
 
 ---
 
@@ -457,6 +457,18 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 ---
 
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 1,067 • ❤️ 300 • 1d ago
+
+---
+
 **[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
 
 *Resemble AI*
@@ -469,18 +481,6 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 ---
 
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 1,067 • ❤️ 298 • 1d ago
-
----
-
 **[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
 
 *Microsoft*
@@ -489,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 281 • 3d ago
+⬇️ 0 • ❤️ 282 • 3d ago
 
 ---
 
@@ -501,7 +501,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 246 • 3d ago
+⬇️ 533 • ❤️ 247 • 3d ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 569 • 6h ago
+⭐ 5.2k • 🔱 569 • 7h ago
 
 ---
 
@@ -741,7 +741,7 @@ Open Source Semantic Search for your AI Agent
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 805 • 🔱 75 • 3h ago
+⭐ 805 • 🔱 75 • 4h ago
 
 ---
 

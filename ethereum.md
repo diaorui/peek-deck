@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T21:48:08.199184+00:00'
+updated: '2025-12-20T21:59:19.573960+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 21:48 UTC  
+**Last Updated:** December 20, 2025 at 21:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -2.7%  
-**30d:** +7.8%  
+**24h:** -0.2%  
+**7d:** -2.8%  
+**30d:** +7.7%  
 **90d:** -29.0%  
-**1y:** -10.7%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.07B
+**Market Cap:** $359.60B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.8%
 
 **All-Time Low:** $0.43
-+688545.4%
++687750.9%
 
 ---
 
@@ -218,7 +218,7 @@ FXEmpire • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqfNcdeNqPXuJZwbbHRvUvwXmkz7_DuBgn-M0Zd9RsKtsSHQioBrQO35&gaa_ts=6947175d&gaa_sig=LflQWdkTl7E_oyVkdfPHK8FQ_T_sXaekeBxE1GFBJoZtiLdGxhcZuSly8bq6oRFf1bVC6yYTNF8F_91N7jovNA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqedAHFsrJXAN6sDMDSoV-nzO93IENgbciDNbsNDdI1RKVVSIC7pkf7N&gaa_ts=69471fa0&gaa_sig=YO8M3codB4GV5fXdRvNxDMasfgdl8KExeSd61WHr9UdF83kGt8qlS29Ee_i2nTX8-AeJA5dyybsQAw9Z0t1DlQ%3D%3D)**
 
 Barron's • 3d ago
 
