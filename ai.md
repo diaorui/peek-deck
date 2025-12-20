@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T21:37:23.902749+00:00'
+updated: '2025-12-20T21:48:08.184922+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 21:37 UTC  
+**Last Updated:** December 20, 2025 at 21:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -139,7 +139,7 @@ CNBC • 9h ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New Yorker • 10h ago
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 6h ago
+Politico • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 7h ago
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 36m ago
+Axios • 47m ago
 
 ---
 
@@ -235,7 +235,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 174 • 💬 251 • 11h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 174 • 💬 251 • 12h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
