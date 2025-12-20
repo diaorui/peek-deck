@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T11:42:22.035983+00:00'
+updated: '2025-12-20T11:53:50.995078+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 11:42 UTC  
+**Last Updated:** December 20, 2025 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 9h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 10h ago
 
 ---
 
@@ -121,17 +121,9 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqe86DDOcGq77IW38Bw409eu8mYLFNLOo1svHn0VJk64uNDn2PH3GQt7&gaa_ts=69468974&gaa_sig=MXXKzmIPKXoD0907nH5P7Knqz2ULb_YJNJxVHqwyvLziV5KzmrB-M9stvBiQXHzix-q0kzeXfhcjJrXpNgbKNw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfjIE4JU1bIjzCpliO-0C-fvAvRQIV6H-qlv6-tMnhpLvY7Wy74CTJC&gaa_ts=694691bd&gaa_sig=i7XS9sT8uda5s17vNsFfUJfncuam4lwug1eSm4xagZ4a-LHtvJgt02SgAh6scR8cf3Slt7VxY3NpYY9JYT0qRg%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
-
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-BBC • 9h ago
 
 ---
 
@@ -143,17 +135,11 @@ CNBC • 19h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqd3uNQIBgXnyDS5uGJPkbph65s4W9RKKQLXfU9a3t98aFOcZzqoW1fk&gaa_ts=69468974&gaa_sig=AklpU_-wfTxHfP8buG8h_3wRzkpm3cH5Z4nIuuNr0CVtEBLDepWUJX_vUDjKiNL8h57ZuSkeTgvCdKbCziJUqA%3D%3D)**
+**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
-The Wall Street Journal • 7h ago
+Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
----
-
-**[Trump's $6 Billion Fusion Deal Sends DJT Soaring 42% on AI Power Play](https://finance.yahoo.com/news/trumps-6-billion-fusion-deal-162648948.html)**
-
-Trump Media strikes high-voltage merger with TAE to fuel AI's energy future--investors ignite on fusion frenzy.
-
-Yahoo Finance • 19h ago
+BBC • 10h ago
 
 ---
 
@@ -161,31 +147,7 @@ Yahoo Finance • 19h ago
 
 Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
 
-Business Insider • 43m ago
-
----
-
-**[Why This AI Stock Could Outperform Nvidia Over the Next 5 Years](https://www.fool.com/investing/2025/12/19/why-this-ai-stock-could-outperform-nvidia-over-the/)**
-
-Nvidia's dominance in the AI accelerator space could slip simply because it can't keep up with demand.
-
-The Motley Fool • 23h ago
-
----
-
-**[Prediction: This AI Stock Could Be the Best Performer of 2026](https://finance.yahoo.com/news/prediction-ai-stock-could-best-102000069.html)**
-
-Taiwan Semiconductor Manufacturing is positioned to grow rapidly in 2026.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Tech Stocks Are Surging Friday. Is the AI Trade Making a Comeback?](https://www.investopedia.com/tech-stocks-surge-friday-is-the-ai-trade-making-a-comeback-orcl-nvda-googl-panw-11873111)**
-
-Tech stocks led the major indexes higher Friday, with several AI investor favorites among the biggest gainers after a string of positive news.
-
-Investopedia • 16h ago
+Business Insider • 54m ago
 
 ---
 
@@ -193,7 +155,47 @@ Investopedia • 16h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 42m ago
+The New Yorker • 53m ago
+
+---
+
+**[AI Factory Driving Enterprise Innovation at Scale | NVIDIA Customer Stories](https://www.nvidia.com/en-us/customer-stories/ai-factory-drives-enterprise-innovation-at-scale/)**
+
+Driving enterprise innovation with NVIDIA AI.
+
+NVIDIA • 14m ago
+
+---
+
+**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 21h ago
+
+---
+
+**[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
+
+There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
+
+CNN • 1d ago
+
+---
+
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+
+A Stanford software engineering degree used to be a golden ticket.
+
+Los Angeles Times • 23h ago
+
+---
+
+**[Want to work in AI? Here are the skills to master, economist says](https://www.cbsnews.com/news/ai-artificial-intelligence-ai-jobs-labor-market/)**
+
+Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
+
+CBS News • 13h ago
 
 ---
 
@@ -217,7 +219,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 551 • 💬 523 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 552 • 💬 524 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -225,7 +227,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 456 • 💬 584 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 457 • 💬 585 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -242,6 +244,14 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
 ⬆️ 206 • 💬 166 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+
+---
+
+**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
+
+Exclusive: Tech exec admits not dead cert it'll find the right solution
+
+⬆️ 155 • 💬 68 • 3h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -266,14 +276,6 @@ That's one way to get some publicity with Reddit.
 A cross-industry study on recent trends in AI software development. Engineering velocity, tool adoption, and model benchmarks.
 
 ⬆️ 131 • 💬 111 • 2d ago • [Greptile](https://www.greptile.com/state-of-ai-coding-2025)
-
----
-
-**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
-
-Exclusive: Tech exec admits not dead cert it'll find the right solution
-
-⬆️ 126 • 💬 53 • 3h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -401,7 +403,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,134 • 11d ago
+⬇️ 341,530 • ❤️ 3,139 • 11d ago
 
 ---
 
@@ -449,7 +451,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 304 • 6d ago
+⬇️ 4,050 • ❤️ 306 • 6d ago
 
 ---
 
@@ -485,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 263 • 3d ago
+⬇️ 0 • ❤️ 265 • 3d ago
 
 ---
 
@@ -497,7 +499,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 240 • 3d ago
+⬇️ 533 • ❤️ 241 • 3d ago
 
 ---
 
@@ -509,7 +511,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 236 • 1d ago
+⬇️ 1,067 • ❤️ 239 • 1d ago
 
 ---
 
@@ -669,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 542 • 42m ago
+⭐ 5.0k • 🔱 542 • 54m ago
 
 ---
 

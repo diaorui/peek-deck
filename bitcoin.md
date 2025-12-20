@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T11:42:22.044653+00:00'
+updated: '2025-12-20T11:53:51.003639+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 11:42 UTC  
+**Last Updated:** December 20, 2025 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,186.28
+### $88,263.80
 
 ---
 
@@ -48,23 +48,23 @@ Live Bitcoin monitoring dashboard
 **7d:** +0.1%  
 **30d:** +4.0%  
 **90d:** -21.6%  
-**1y:** -9.1%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.96B
+**Market Cap:** $1761.48B
 Rank #1
 
 **Circulating Supply:** 19,964,640 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129814.5%
++130044.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-20h ago
+21h ago
 
 ---
 
@@ -151,12 +151,6 @@ The Block • 13h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeJxqpa_uiGUgUdO-XLJ3FGRhW29KdceonH2Y0P7Q5p7Vxv4uzJm_WN&gaa_ts=69468976&gaa_sig=FSImkU3oAFx7295OyPQKGcLfdsrjnHKr7NJ0OxEEYC62pN1sKvuOIKCjBb29AtL0ZXstZJhWR94EQWGyBjWNNA%3D%3D)**
-
-Barron's • 18h ago
-
----
-
 **[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
@@ -165,9 +159,17 @@ CoinDesk • 18h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdyxzVRU0f01NLJCn1EaVU75UqahgnHkn7SRIf6tDhIgcvfswYlVgs4&gaa_ts=69468976&gaa_sig=oqkY-ne2ZchzwTNWLksWJgLhjMq88DORCtPYomNnlxEHNstLrmmeYLvuM9TBS06EmMgybY_1t83zG5duAZPumQ%3D%3D)**
+**[Citi defends crypto stocks despite market downturn, with CRCL, BLSH and COIN as top picks](https://www.coindesk.com/markets/2025/12/19/citi-trims-crypto-stock-price-targets-after-bitcoin-s-disappointing-q4)**
 
-MarketWatch • 21h ago
+Circle remains the bank's top pick in the sector, with Bullish and Coinbase following.
+
+CoinDesk • 19h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdBA3kR02-EZn3so3l7Wr0dRAo9WWZ5U0b_lvSyUqRKCrUOY2jOvySB&gaa_ts=694691bb&gaa_sig=MoVLogHmCxJw_ygw8TSe8uXIL0NEOKdWckpIHGXna6__siy89QPkGbz1gkHDY5kcNcg0s_9xZj0SdGigdKk5yA%3D%3D)**
+
+Barron's • 18h ago
 
 ---
 
@@ -187,6 +189,12 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+
+Forbes • 1d ago
+
+---
+
 **[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
@@ -195,25 +203,19 @@ Futurism • 20h ago
 
 ---
 
-**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
-
-Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
-
-CoinDesk • 18h ago
-
----
-
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
-
-Forbes • 1d ago
-
----
-
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
 The Motley Fool • 1h ago
+
+---
+
+**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
+
+Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
+
+CoinDesk • 19h ago
 
 ---
 
