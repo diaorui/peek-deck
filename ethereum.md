@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T10:44:56.804177+00:00'
+updated: '2025-12-20T10:55:52.272354+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 10:44 UTC  
+**Last Updated:** December 20, 2025 at 10:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -2.8%  
-**30d:** +7.6%  
-**90d:** -29.1%  
-**1y:** -10.8%  
+**24h:** +0.6%  
+**7d:** -2.7%  
+**30d:** +7.7%  
+**90d:** -29.0%  
+**1y:** -10.7%  
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
-TradingView — Track All Markets • 22h ago
+TradingView — Track All Markets • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T10:44:56.798089+00:00'
+updated: '2025-12-20T10:55:52.266260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 10:44 UTC  
+**Last Updated:** December 20, 2025 at 10:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,173.62
+### $88,186.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.2%  
-**30d:** +3.7%  
-**90d:** -21.9%  
-**1y:** -9.4%  
+**24h:** -0.1%  
+**7d:** -0.0%  
+**30d:** +3.9%  
+**90d:** -21.7%  
+**1y:** -9.3%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -155,7 +155,7 @@ Barron's • 17h ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ Futurism • 19h ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ Reuters • 18h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 23h ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ Investor's Business Daily • 23h ago
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 17h ago
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-The Motley Fool • 34m ago
+The Motley Fool • 45m ago
 
 ---
 

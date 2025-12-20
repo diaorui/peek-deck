@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T10:44:56.789658+00:00'
+updated: '2025-12-20T10:55:52.257840+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 10:44 UTC  
+**Last Updated:** December 20, 2025 at 10:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 8h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-7h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 2d ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 18h ago
 
 **[Can AI shopping tools like ChatGPT pick meaningful Christmas gifts?](https://qz.com/ai-christmas-shopping-gift-guide)**
 
-qz.com • 44m ago
+qz.com • 55m ago
 
 ---
 
@@ -177,7 +177,7 @@ Los Angeles Times • 22h ago
 
 Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-CBS News • 11h ago
+CBS News • 12h ago
 
 ---
 
@@ -277,7 +277,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
 
-⬆️ 117 • 💬 86 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+⬆️ 117 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 540 • 51m ago
+⭐ 5.0k • 🔱 540 • 1h ago
 
 ---
 
