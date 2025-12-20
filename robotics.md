@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T03:08:07.831058+00:00'
+updated: '2025-12-20T03:55:33.189538+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 03:08 UTC  
+**Last Updated:** December 20, 2025 at 03:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-7h ago
+8h ago
 
 ---
 
@@ -44,13 +44,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-8h ago
-
----
-
-**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
-
-11h ago
+9h ago
 
 ---
 
@@ -58,7 +52,13 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-4h ago
+5h ago
+
+---
+
+**[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
+
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
-16h ago
+17h ago
 
 ---
 
@@ -74,19 +74,13 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-9h ago
+10h ago
 
 ---
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-12h ago
-
----
-
-**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
-
-1d ago
+13h ago
 
 ---
 
@@ -94,7 +88,13 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 Anyone have any experience with Linmot Actuators? We implemented these in food grade wash down environment using a scara robot making rate of about 40 picks a minute , however we have had 4 , yes FOUR , cables fail in the last month and half since we commissioned this job . Just wondering if anyone has had experience with any linmot grippers ( EOAT). Would love to chat Thanks .
 
-46m ago
+1h ago
+
+---
+
+**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
+
+1d ago
 
 ---
 
@@ -108,41 +108,19 @@ Anyone have any experience with Linmot Actuators? We implemented these in food g
 
 ## Google News: "robotics"
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
-
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
-
-Los Angeles Times • 2d ago
-
----
-
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
-
-Bloomberg.com • 16h ago
-
----
-
-**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://futurism.com/future-society/humanoid-robot-financial-bubble)**
-
-A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
-
-Futurism • 8h ago
-
----
-
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 8h ago
+Futurism • 9h ago
 
 ---
 
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
 
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
 
-South China Morning Post • 4h ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -158,7 +136,7 @@ CNN • 2d ago
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
-KSBY News • 20h ago
+KSBY News • 21h ago
 
 ---
 
@@ -176,9 +154,33 @@ The New York Times • 2d ago
 
 ---
 
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 1d ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 4h ago
+
+---
+
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[UPS Leans Into $9 Billion Automation Strategy with Robotics Rollout](https://sourcingjournal.com/topics/logistics/ups-pickle-robot-120-million-investment-robotics-warehouse-automation-pick-and-place-rollout-logistics-1234794119/)**
+
+UPS is paying up $120 million to use 400 truck-unloading robots from Pickle Robot, adding to its broader $9 billion warehouse automation strategy.
+
+Sourcing Journal • 3d ago
 
 ---
 
@@ -192,7 +194,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 821 • 👍 61 • 💬 5 • ⏱️ 2:08:46 • 2h ago
+👁️ 2K • 👍 139 • 💬 11 • ⏱️ 2:08:46 • 3h ago
 
 ---
 
@@ -202,7 +204,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 12K • 👍 264 • 💬 81 • ⏱️ 3:55 • 15h ago
+👁️ 13K • 👍 278 • 💬 86 • ⏱️ 3:55 • 16h ago
 
 ---
 
@@ -222,7 +224,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 75K • 👍 999 • 💬 144 • ⏱️ 11:23 • 4d ago
+👁️ 75K • 👍 1K • 💬 144 • ⏱️ 11:23 • 4d ago
 
 ---
 
@@ -232,37 +234,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 36K • 👍 2K • 💬 260 • ⏱️ 13:43 • 1d ago
-
----
-
-**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
-
-Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
-
-📺 Digital Farming 
-
-👁️ 10K • 👍 30 • ⏱️ 0:09 • 15h ago
-
----
-
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
-
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
-
-📺 vt.physics
-
-👁️ 455K • 👍 15K • 💬 488 • ⏱️ 0:34 • 5d ago
-
----
-
-**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
-
-Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
-
-📺 Catanimation
-
-👁️ 186K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
+👁️ 39K • 👍 3K • 💬 283 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -276,13 +248,43 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[THIS ROBOT GOES ON A KILLING SPREE!](https://www.youtube.com/watch?v=XvJj-lYw-Tw)**
+**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
 
-In this video we react to My Self-Aware Robot Escaped! by LIGHTS ARE OFF. ---------------------------------- Thank you for you're ...
+Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
 
-📺 GrislyDeshaun
+📺 Digital Farming 
 
-👁️ 109K • 👍 3K • 💬 51 • ⏱️ 1:15 • 5d ago
+👁️ 11K • 👍 34 • ⏱️ 0:09 • 16h ago
+
+---
+
+**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+
+Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
+
+📺 Catanimation
+
+👁️ 187K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 457K • 👍 15K • 💬 490 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[how to robotic affirm the RIGHT way | law of assumption](https://www.youtube.com/watch?v=0p-l1i2MSCc)**
+
+PERFECT SELF-CONCEPT COURSE https://ritakaminski.thrivecart.com/the-perfect-self-concept/ ₊˚ ‿︵‿︵‿︵୨୧ ...
+
+📺 Rita Kaminski
+
+👁️ 7K • 👍 679 • 💬 99 • ⏱️ 16:17 • 1d ago
 
 ---
 

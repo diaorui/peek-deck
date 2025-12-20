@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T03:08:07.827879+00:00'
+updated: '2025-12-20T03:55:33.186302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 03:08 UTC  
+**Last Updated:** December 20, 2025 at 03:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,977.94
+### $2,988.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -2.6%  
-**30d:** +7.9%  
-**90d:** -28.9%  
-**1y:** -10.6%  
+**24h:** +2.3%  
+**7d:** -2.4%  
+**30d:** +8.2%  
+**90d:** -28.7%  
+**1y:** -10.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.92B
+**Market Cap:** $360.71B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.6%
 
 **All-Time Low:** $0.43
-+688854.9%
++690058.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 15h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 16h ago
 
 ---
 
@@ -110,7 +110,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 11h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 12h ago
 
 ---
 
@@ -148,6 +148,14 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
+**[Ethereum’s network growth explodes in December — but price still lags](https://ambcrypto.com/ethereums-network-growth-explodes-in-december-but-price-still-lags/)**
+
+Ethereum is adding new wallets at its fastest pace in months, signaling rising on-chain activity and renewed user interest.
+
+AMBCrypto • 7h ago
+
+---
+
 **[BlackRock sends $382M in Bitcoin and $220M in Ethereum to Coinbase](https://cryptobriefing.com/blackrock-crypto-deposits-coinbase/)**
 
 BlackRock crypto deposits total $220M in Ethereum and $382M in Bitcoin to Coinbase Prime, highlighting major institutional activity.
@@ -156,33 +164,47 @@ Crypto Briefing • 2d ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 16h ago
+
+---
+
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-Yahoo Finance • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
 
-The Block • 15h ago
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
----
-
-**[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
-
-Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
-
-BeInCrypto • 21h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
-**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
 
-SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
 
-Decrypt • 1d ago
+FXStreet • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqfwqBsnTMuNDrKw-9tiYtrj0itq2Pp2Ld-9ov0Xum7pqMKix5Q0J9sF&gaa_ts=6946219b&gaa_sig=0eizw7za32SMC6W1_IMa4_3IzoMMhUIGtv70zYZbxSNf56K23smfkU_jxqgAnHILX9CI2gmhbtP0JJnwoNccIw%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -194,31 +216,11 @@ ts2.tech • 8h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdGZb5AR7sHDZ4uF9KPJjs69rafjpNsTcKe7zwjwKKk7NuvnWQFodTi&gaa_ts=69461682&gaa_sig=gu6NpTTNlllKOq6926tm9Qhs1EQicpLTsNYu2u6fUGKj1YbN5n0SBRPJeV6iOPtEUJQTiPFBAefHjWY-koanXQ%3D%3D)**
+**[Ethereum is Down, But Tom Lee and Ark Invest Makes New Moves](https://beincrypto.com/bitmine-ethereum-tom-lee-us-crypto-news/)**
 
-Barron's • 2d ago
+What is the biggest crypto news today? BitMine faces Ethereum losses as Tom Lee and Ark Invest continue buying, defying market pressure.
 
----
-
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
-
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
-
-TradingView — Track All Markets • 15h ago
-
----
-
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
-
-Is Ethereum really on the path to a price of $62,000 next year?
-
-The Motley Fool • 2d ago
-
----
-
-**[MSTR, BMNR Rise After BOJ Rate Decision Results In BItcoin, Ethereum Rebound](https://stocktwits.com/news-articles/markets/cryptocurrency/mstr-bmnr-rise-after-boj-rate-decision-results-in-bitcoin-ethereum-rebound/cLeik8qRErF)**
-
-Stocktwits • 1d ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -232,7 +234,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 471 • 💬 76 • ⏱️ 8:37 • 15h ago
+👁️ 15K • 👍 479 • 💬 45 • ⏱️ 8:37 • 16h ago
 
 ---
 
@@ -242,7 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 203 • 💬 47 • ⏱️ 21:53 • 12h ago
+👁️ 4K • 👍 228 • 💬 14 • ⏱️ 21:53 • 12h ago
 
 ---
 
@@ -252,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 450 • 💬 53 • ⏱️ 16:54 • 1d ago
+👁️ 13K • 👍 455 • 💬 54 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -262,17 +264,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 245 • 💬 144 • ⏱️ 22:39 • 8h ago
-
----
-
-**[Hegota Upgrade Revealed: Why BlackRock &amp; BitMine Are Betting Big on Ethereum&quot;](https://www.youtube.com/watch?v=_9z2hB4blbY)**
-
-In this video, we uncover the massive implications of Ethereum's newly announced Hegota Upgrade scheduled for 2026. This isn't ...
-
-📺 CryptoStock Lab
-
-👁️ 735 • 👍 21 • 💬 57 • ⏱️ 15:52 • 12h ago
+👁️ 6K • 👍 269 • 💬 100 • ⏱️ 22:39 • 9h ago
 
 ---
 
@@ -282,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 13h ago
+👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 14h ago
 
 ---
 
@@ -292,7 +284,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 658 • 👍 60 • ⏱️ 58:50 • 7h ago
+👁️ 703 • 👍 63 • ⏱️ 58:50 • 8h ago
 
 ---
 
@@ -302,17 +294,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 341 • 👍 14 • 💬 39 • ⏱️ 4:42 • 17h ago
+👁️ 346 • 👍 14 • 💬 8 • ⏱️ 4:42 • 17h ago
 
 ---
 
-**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
+**[Hegota Upgrade Revealed: Why BlackRock &amp; BitMine Are Betting Big on Ethereum&quot;](https://www.youtube.com/watch?v=_9z2hB4blbY)**
 
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+In this video, we uncover the massive implications of Ethereum's newly announced Hegota Upgrade scheduled for 2026. This isn't ...
 
-📺 Blockchain Backer
+📺 CryptoStock Lab
 
-👁️ 17K • 👍 2K • 💬 2 • ⏱️ 27:59 • 13h ago
+👁️ 831 • 👍 21 • 💬 18 • ⏱️ 15:52 • 12h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Prediction Now | Crypto Analysis &amp; Market Forecast](https://www.youtube.com/watch?v=GzeWsXK3fs4)**
+
+Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.patreon.com/ThomasBoleto/membership ...
+
+📺 Thomas Boleto – Bitcoin Insights
+
+👁️ 68 • 👍 22 • 💬 3 • ⏱️ 15:15 • 1h ago
 
 ---
 
@@ -322,7 +324,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 15K • 👍 628 • 💬 266 • ⏱️ 33:33 • 2d ago
+👁️ 15K • 👍 630 • 💬 259 • ⏱️ 33:33 • 2d ago
 
 ---
 

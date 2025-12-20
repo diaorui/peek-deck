@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T03:08:07.813599+00:00'
+updated: '2025-12-20T03:55:33.171883+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 03:08 UTC  
+**Last Updated:** December 20, 2025 at 03:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +57,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-13m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 23h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 7h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 8h ago
 
 ---
 
@@ -123,37 +123,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 7h ago
-
----
-
-**[Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees](https://www.cnbc.com/2025/12/19/google-boomerang-year-20percent-ai-software-devs-hired-2025-ex-employees.html)**
-
-As competition heats up for AI talent, Google turned to hiring more so-called boomerang employees in 2025.
-
-CNBC • 10h ago
-
----
-
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
-
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-BBC • 1h ago
-
----
-
-**[The Year in AI Was Crazy. So Was This Meeting of AI’s Brightest Minds.](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqf8hzTkgQrDGdAqSeFiB00HPag21L1UTlhTCYSXEOGA9FpWCIxiyR8t&gaa_ts=6946167f&gaa_sig=MXLH6rnbhPh1h045dSEksinpiQlk7krgnj3MiRxJYZwVSBxWUXlZaCGoIatQ49YWrICWMhOuhWxOGUEYycyEcw%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
-
-There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
-
-CNN • 17h ago
+The New York Times • 8h ago
 
 ---
 
@@ -165,6 +135,44 @@ Los Angeles Times • 15h ago
 
 ---
 
+**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+
+Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
+
+CNBC • 11h ago
+
+---
+
+**[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
+
+There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
+
+CNN • 17h ago
+
+---
+
+**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 13h ago
+
+---
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdCu1tu5CotIkRxgqV0FElYeWc1UXJ7agc7Ir3xSECpP2DstszrW29K&gaa_ts=69462199&gaa_sig=B4_STK5WTkY0H-EYQ5F9pkFgJf82a4PVa4UirKisZbjUwXWWS0PtzxE1Lihemslx4r8S1vddumpVwlANOdtkhA%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
+
+Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
+
+BBC • 2h ago
+
+---
+
 **[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
@@ -173,23 +181,17 @@ The Guardian • 12h ago
 
 ---
 
+**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
+
+NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
+
+National Oceanic and Atmospheric Administration (NOAA) (.gov) • 2d ago
+
+---
+
 **[HHS Announces Request for Information to Harness Artificial Intelligence to Deflate Health Care Costs and Make America Healthy Again](https://www.hhs.gov/press-room/hhs-ai-rfi.html)**
 
 Department of Health and Human Services (HHS) (.gov) • 13h ago
-
----
-
-**[40 of our most helpful AI tips from 2025](https://blog.google/technology/ai/ai-tips-2025/)**
-
-Learn more about the AI tips and tools Google shared in 2025.
-
-blog.google • 10h ago
-
----
-
-**[NY Gov. Kathy Hochul signs sweeping AI safety bill, RAISE Act](https://www.axios.com/2025/12/19/new-york-ai-safety-bill-hochul)**
-
-Axios • 4h ago
 
 ---
 
@@ -201,7 +203,7 @@ Axios • 4h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1052 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1053 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -213,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 534 • 💬 517 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 534 • 💬 518 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -221,7 +223,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 448 • 💬 572 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 449 • 💬 572 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -237,7 +239,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Everyone's using AI wrong. Its superpower isn't writing for you. It's reading everything you've ever written and finding patterns you missed.
 
-⬆️ 250 • 💬 177 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
+⬆️ 250 • 💬 176 • 2d ago • [msanroman.io](https://msanroman.io/blog/ai-consumption-paradigm)
 
 ---
 
@@ -245,7 +247,7 @@ Everyone's using AI wrong. Its superpower isn't writing for you. It's reading ev
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 205 • 💬 166 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 206 • 💬 166 • 1d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
@@ -291,17 +293,7 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 18K • 👍 709 • 💬 310 • ⏱️ 16:15 • 1d ago
-
----
-
-**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
-
-Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
-
-📺 Bigfoot Feed
-
-👁️ 5K • 👍 145 • 💬 11 • ⏱️ 1:00 • 5h ago
+👁️ 19K • 👍 728 • 💬 315 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -311,7 +303,7 @@ In this episode, I share my eight AI predictions for 2026, not just where the te
 
 📺 Sinead Bovell
 
-👁️ 26K • 👍 2K • 💬 276 • ⏱️ 17:48 • 1d ago
+👁️ 27K • 👍 2K • 💬 284 • ⏱️ 17:48 • 1d ago
 
 ---
 
@@ -321,7 +313,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 635K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+👁️ 644K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
 
 ---
 
@@ -331,7 +323,27 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 181K • 👍 10K • 💬 1K • ⏱️ 5:52 • 1d ago
+👁️ 187K • 👍 10K • 💬 1K • ⏱️ 5:52 • 1d ago
+
+---
+
+**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
+
+Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
+
+📺 Bigfoot Feed
+
+👁️ 7K • 👍 215 • 💬 13 • ⏱️ 1:00 • 5h ago
+
+---
+
+**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
+
+Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
+
+📺 Adam Conover
+
+👁️ 124K • 👍 9K • 💬 1K • ⏱️ 17:08 • 10h ago
 
 ---
 
@@ -341,7 +353,7 @@ after 3 months of testing and research, I finally cracked it, and now I can gene
 
 📺 Hasan Aboul Hasan
 
-👁️ 18K • 👍 1K • 💬 74 • ⏱️ 4:43 • 1d ago
+👁️ 20K • 👍 1K • 💬 74 • ⏱️ 4:43 • 1d ago
 
 ---
 
@@ -351,37 +363,27 @@ The condensed highlights of hours of AI lab leader interviews, last-48-hour mode
 
 📺 AI Explained
 
-👁️ 37K • 👍 2K • 💬 246 • ⏱️ 20:00 • 10h ago
+👁️ 41K • 👍 2K • 💬 255 • ⏱️ 20:00 • 11h ago
 
 ---
 
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
 
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
 
-📺 gptars
+📺 Bridebook
 
-👁️ 18K • 👍 741 • 💬 30 • ⏱️ 1:01 • 10h ago
-
----
-
-**[One Punch – Lion Down Forever! #hulk #aihulk #desihulk #hulkvJungaliSher #ai #JungaliSher](https://www.youtube.com/watch?v=CQHyFVijCrQ)**
-
-Hashtags - #desihulk #hulkvsJungaliSher #JungaliSher #tungtungtungsahur #hulkvsbluehulk #hulkKipaskawasaki #kawasaki ...
-
-📺 Fharuk ai shorts
-
-👁️ 5K • 💬 58 • ⏱️ 0:56 • 1d ago
+👁️ 299K • 👍 11K • 💬 345 • ⏱️ 0:52 • 2d ago
 
 ---
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
+**[A Rabbit’s Kindness, A Man’s Cruel Choice #ai #plants #trending #growth](https://www.youtube.com/watch?v=2m-9JO1BD6Q)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+A Rabbit's Kindness, A Man's Cruel Choice #ai #plants #trending #growth.
 
-📺 Julian Goldie SEO
+📺 Ai creator
 
-👁️ 10K • 👍 222 • 💬 13 • ⏱️ 8:13 • 1d ago
+👁️ 267 • ⏱️ 0:21 • 14m ago
 
 ---
 
@@ -397,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,108 • 11d ago
+⬇️ 329,981 • ❤️ 3,112 • 11d ago
 
 ---
 
@@ -409,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 387 • 6h ago
+⬇️ 62,493 • ❤️ 387 • 7h ago
 
 ---
 
@@ -433,7 +435,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 311 • 1d ago
+⬇️ 3,633 • ❤️ 312 • 2d ago
 
 ---
 
@@ -445,7 +447,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 293 • 5d ago
+⬇️ 2,490 • ❤️ 296 • 5d ago
 
 ---
 
@@ -469,7 +471,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 266 • 1d ago
+⬇️ 2,154 • ❤️ 268 • 1d ago
 
 ---
 
@@ -493,7 +495,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 235 • 2d ago
+⬇️ 397 • ❤️ 236 • 2d ago
 
 ---
 
@@ -675,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 149 • 7m ago
+⭐ 2.1k • 🔱 149 • 55m ago
 
 ---
 
