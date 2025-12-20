@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T19:17:45.179573+00:00'
+updated: '2025-12-20T19:29:42.711683+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:17 UTC  
+**Last Updated:** December 20, 2025 at 19:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
+**24h:** -0.6%  
 **7d:** -2.8%  
-**30d:** +7.7%  
+**30d:** +7.6%  
 **90d:** -29.1%  
 **1y:** -10.8%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.94B
+**Market Cap:** $359.19B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686790.1%
++687159.7%
 
 ---
 
@@ -158,11 +158,27 @@ AMBCrypto • 18h ago
 
 ---
 
+**[Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://www.tradingview.com/news/cointelegraph:0e978e0fd094b:0-synthetix-returns-to-ethereum-mainnet-after-3-years-we-can-run-it-back/)**
+
+Perpetuals trading platform Synthetix is returning to Ethereum’s mainnet, with its founder arguing the network is now more than capable of supporting high-frequency financial applications after years of network congestion drove derivatives activity elsewhere.“By the time perp DEXs became a thing, t…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 **[Not Bitcoin or Ethereum - These 5 are the top best performing cryptos in 2025](https://www.livemint.com/market/cryptocurrency/not-bitcoin-or-ethereum-these-5-are-the-top-best-performing-cryptos-in-2025-11766216526786.html)**
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
 livemint.com • 6h ago
+
+---
+
+**[NFT Sales Rise 12% Even as Bitcoin, Ethereum Prices Fall](https://crypto.news/nft-sales-rise-12-to-67-7m-ethereum-sales-spike-45/)**
+
+NFT sales climbed 12% to $67.76M as buyers surged, even while Bitcoin fell to $88K and Ethereum slipped below $3K.
+
+crypto.news • 12h ago
 
 ---
 
@@ -180,25 +196,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
+
+The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
+
+CoinDesk • 29m ago
+
+---
+
 **[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
 Decrypt • 2d ago
-
----
-
-**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://www.ccn.com/news/technology/ethereum-wall-street-tokenization-adoption/)**
-
-CCN.com • 7h ago
-
----
-
-**[Ethereum Price Prediction: Historical Trend Favors $9,000 Target for ETH](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-historical-trend-favors-9000-target-for-eth-1568730)**
-
-Ethereum remains under pressure as sentiment stays deeply bearish, but historical weekly trends suggest a major reversal could be forming.
-
-FXEmpire • 23h ago
 
 ---
 
@@ -210,17 +220,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+**[Ethereum Price Prediction: Historical Trend Favors $9,000 Target for ETH](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-historical-trend-favors-9000-target-for-eth-1568730)**
 
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+Ethereum remains under pressure as sentiment stays deeply bearish, but historical weekly trends suggest a major reversal could be forming.
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdhvRsnp_ZiPikO4fM2NUasEWwTCgLzNrQCcYGdnuFFYl4Ma7yyDEN9&gaa_ts=6946f4ad&gaa_sig=oPs3hRiVaeanG-OW2yGROMhgq7yKQMAw-va00TrvdaW-p3v23pFHt20DDkvug18VqEnhDiZuuHZ-xFTJyikrrg%3D%3D)**
-
-Barron's • 3d ago
+FXEmpire • 23h ago
 
 ---
 
@@ -284,7 +288,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 53 • 👍 3 • ⏱️ 14:00 • 47m ago
+👁️ 53 • 👍 3 • ⏱️ 14:00 • 59m ago
 
 ---
 

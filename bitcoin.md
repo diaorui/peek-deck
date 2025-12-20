@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T19:17:45.174292+00:00'
+updated: '2025-12-20T19:29:42.705624+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:17 UTC  
+**Last Updated:** December 20, 2025 at 19:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.1%  
-**30d:** +4.0%  
+**24h:** +0.1%  
+**7d:** +0.0%  
+**30d:** +3.9%  
 **90d:** -21.7%  
 **1y:** -9.2%  
 
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.96B
+**Market Cap:** $1761.21B
 Rank #1
 
 **Circulating Supply:** 19,964,784 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.0%
 
 **All-Time Low:** $67.81
-+129964.9%
++129990.0%
 
 ---
 
@@ -111,15 +111,19 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+
+26m ago
+
+---
+
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
 1d ago
 
 ---
 
-**[Jackie Chan with the mind boggling prediction](https://www.reddit.com/r/Bitcoin/comments/1prkpxr/jackie_chan_with_the_mind_boggling_prediction/)**
-
-I thought he was working on Rush Hour 4... Turns put he's hodling BTC with the rest of us
+**[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
 
 1h ago
 
@@ -131,17 +135,11 @@ I thought he was working on Rush Hour 4... Turns put he's hodling BTC with the r
 
 ---
 
-**[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
+**[Bitcoin has flipped this resistance into support.](https://www.reddit.com/r/Bitcoin/comments/1prkvpu/bitcoin_has_flipped_this_resistance_into_support/)**
+
+Expecting a bounce & relief rally shortly!
 
 1h ago
-
----
-
-**[Anyone else feeling the strange tension in the market right now?](https://www.reddit.com/r/Bitcoin/comments/1preeap/anyone_else_feeling_the_strange_tension_in_the/)**
-
-Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
-
-5h ago
 
 ---
 
@@ -149,17 +147,25 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's (BTC) four-year cycle playing out as expected](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
+**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
 
-The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
+Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 4h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
 Reuters • 1d ago
+
+---
+
+**[3 Best Bitcoin ETF Picks for 2026](https://finance.yahoo.com/news/3-best-bitcoin-etf-picks-182000293.html)**
+
+Bitcoin experienced a lot of volatility in 2025 without much in the way of total return. How is 2026 shaping up for Bitcoin ETFs?
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -171,39 +177,15 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
 
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
-Yahoo Finance • 2d ago
-
----
-
-**[3 Best Bitcoin ETF Picks for 2026](https://www.fool.com/investing/2025/12/20/3-best-bitcoin-etf-picks-for-2026/)**
-
-Bitcoin experienced a lot of volatility in 2025 without much in the way of total return. How is 2026 shaping up for Bitcoin ETFs?
-
-The Motley Fool • 1h ago
+Nasdaq • 58m ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
-
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
-
-Nasdaq • 8h ago
-
----
-
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://finance.yahoo.com/news/bitcoin-vs-dogecoin-whats-better-183100727.html)**
-
-These two digital assets have performed very well for investors, but one is the clear winner.
-
-Yahoo Finance • 46m ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeft_djLM3wH489y6GdFPfVSCmp9pV-P_nKY_PbIw4SULcFoMWCzIIX&gaa_ts=6946f4ab&gaa_sig=Ti-DkuAXmLbgEjkp2aCaZFsFzq-nQ5qSvTaazNFzofSEkbIDEUWPZC40HX1-TcFeItAb39nm0_du7bM44s9D0g%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqek_5oMnxaM5xnQ0I0Oj4syYti_DkmcOphH2i-_2IuYgMBxDWGOpr6Z&gaa_ts=6946fc90&gaa_sig=ZsFDsMph1tAsJmW360s7W2DkF-FEo2k9OW5ctGoV-FXS1s3G-W0H8KMWvFo6LWxeZ2uTQqI21tKoYD-Dkw7KaQ%3D%3D)**
 
 Barron's • 1d ago
 
@@ -213,13 +195,27 @@ Barron's • 1d ago
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
 **[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
 Forbes • 1d ago
+
+---
+
+**[Bitcoin price to hit $200,000 by March as Fed ‘thinly disguises’ new money printing tool, says Arthur Hayes](https://www.dlnews.com/articles/markets/arthur-hayes-bitcoin-price-to-200000-by-march-thanks-to-fed/)**
+
+Arthur Hayes predicts Bitcoin will hit $200,000 by March 2026 when markets recognise that the Fed is printing money. The Fed’s new programme creates cash the same way quantitative easing did, Hayes argues.  Bitcoin will stay stuck between $80,000 and $100,000 until investors figure this out.
+
+dlnews.com • 1d ago
+
+---
+
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 21h ago
 
 ---
 
@@ -305,7 +301,7 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 383 • 💬 51 • ⏱️ 11:40 • 7h ago
+👁️ 5K • 👍 383 • 💬 51 • ⏱️ 11:40 • 8h ago
 
 ---
 

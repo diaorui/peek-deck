@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T19:17:45.166866+00:00'
+updated: '2025-12-20T19:29:42.696936+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 19:17 UTC  
+**Last Updated:** December 20, 2025 at 19:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ My week partying with the young founders at the heart of the AI boom
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,23 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 29m ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 41m ago
+
+---
+
+**[America and China Are Racing to Different AI Futures](https://www.reddit.com/r/artificial/comments/1prmbsj/america_and_china_are_racing_to_different_ai/)**
+
+America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
+
+10m ago
+
+---
+
+**[Improved AI for reading, interpreting, and summarizing large files (documents)](https://www.reddit.com/r/artificial/comments/1prm6r0/improved_ai_for_reading_interpreting_and/)**
+
+Improved AI for reading, interpreting, and summarizing large files (documents)
+
+16m ago
 
 ---
 
@@ -73,7 +89,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,25 +117,15 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 ---
 
-**[LG Will Let TV Owners Delete Microsoft Copilot After Customer Outcry](https://www.reddit.com/r/artificial/comments/1pq0ycl/lg_will_let_tv_owners_delete_microsoft_copilot/)**
-
-This must sting for Microsoft. LG says customers can delete Copilot from their TV after seeing people complain about it on Reddit. People are saying tech is being forced on them, which is accurate. Just take a product we like and slap on AI, with total disregard for the user experience, right? Because that’s what we’re seeing rn. And when your product doesn’t even solve a user *need*, then yea, you’re going to see stuff like this. Hopefully we see more of this “opt in” by default.
-
-🔗 [Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/lg-will-let-tv-owners-delete-microsoft-copilot-after-customer-complaints) • 1d ago
-
----
-
-**[Researchers show a robot learning 1,000 tasks in 24 hours](https://www.reddit.com/r/artificial/comments/1pqb8tk/researchers_show_a_robot_learning_1000_tasks_in/)**
-
-Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
-
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfb56gsajDarivoR8jHUUEn7W3LW-JtR3z7h97Z_VFdwFt_dxnpsje1&gaa_ts=6946fc8f&gaa_sig=Lz8a7fTfGy2wBSjtsm2N0of3AIkMesrxE6eLQIM_qb_s2pJFz854IEjpI9cVH2dcImhkrEAhswVh9ng5DMwJSw%3D%3D)**
+
+wsj.com • 2d ago
+
+---
 
 **[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
@@ -141,25 +147,11 @@ The New York Times • 6h ago
 
 ---
 
-**[Trump's AI policy is dividing his party. Here's what key GOP critics are saying about it.](https://www.businessinsider.com/gop-critics-trump-ai-preemption-policy-2025-12)**
+**[Everyone should benefit from AI](https://www.slowboring.com/p/everyone-should-benefit-from-ai)**
 
-Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
+Plus “Thunderball,” price controls, and liberalism & the limits of politics
 
-Business Insider • 8h ago
-
----
-
-**[Six (or seven) predictions for AI 2026 from a Generative AI realist](https://garymarcus.substack.com/p/six-or-seven-predictions-for-ai-2026)**
-
-Marcus on AI • 2h ago
-
----
-
-**[New Nebula Awards Rules Forbid Nominees That Used GenAI](https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137)**
-
-GenAI and LLMs almost got a soft pass to enter the Nebula Awards, but the sci-fi/fantasy writing community shut that down.
-
-Gizmodo • 1h ago
+Slow Boring • 1d ago
 
 ---
 
@@ -167,7 +159,7 @@ Gizmodo • 1h ago
 
 Altman recruited iPhone designer Jony Ive to OpenAI this May, and Ive has said the company’s secret device could be ready in the next two years.
 
-Fortune • 52m ago
+Fortune • 1h ago
 
 ---
 
@@ -185,9 +177,19 @@ The New York Times • 7h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqd3oa3ate0SF-PnSkIYdSjP2gtqztR-SEa_oPUyC_9smPMVs6gNj53T&gaa_ts=6946f4a9&gaa_sig=6DlAb5ZTDQSgmkuhtHh2GeKHY2SJJIMZQIyPTb6FUJlzdqJg90LKMVWP0F2IaxlAwUkvcjCjZhvS0BS8faBS1g%3D%3D)**
+**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
-wsj.com • 14h ago
+My week partying with the young founders at the heart of the AI boom
+
+The Atlantic • 6h ago
+
+---
+
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
+
+The New Yorker • 8h ago
 
 ---
 
@@ -219,7 +221,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 374 • 💬 306 • 10h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 383 • 💬 325 • 10h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -231,6 +233,12 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 ---
 
+**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
+
+⬆️ 148 • 💬 225 • 9h ago • [antirez.com](https://antirez.com/news/157)
+
+---
+
 **[AI vending machine was tricked into giving away everything](https://news.ycombinator.com/item?id=46319324)**
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
@@ -239,17 +247,11 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 ---
 
-**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
-
-⬆️ 144 • 💬 219 • 9h ago • [antirez.com](https://antirez.com/news/157)
-
----
-
 **[NOAA deploys new generation of AI-driven global weather models](https://news.ycombinator.com/item?id=46306497)**
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 139 • 💬 88 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+⬆️ 141 • 💬 90 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 
 ---
 
@@ -305,7 +307,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 257K • 👍 8K • 💬 1K • ⏱️ 15:39 • 21h ago
+👁️ 257K • 👍 8K • 💬 1K • ⏱️ 15:39 • 22h ago
 
 ---
 
@@ -391,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,175 • 12d ago
+⬇️ 341,530 • ❤️ 3,176 • 12d ago
 
 ---
 
@@ -403,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 396 • 22h ago
+⬇️ 71,413 • ❤️ 396 • 23h ago
 
 ---
 
@@ -415,7 +417,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 358 • 2d ago
+⬇️ 2,937 • ❤️ 359 • 2d ago
 
 ---
 
@@ -439,7 +441,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 331 • 2d ago
+⬇️ 6,103 • ❤️ 332 • 2d ago
 
 ---
 
@@ -451,7 +453,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 327 • 1d ago
+⬇️ 6,881 • ❤️ 329 • 1d ago
 
 ---
 
@@ -475,7 +477,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 287 • 1d ago
+⬇️ 1,067 • ❤️ 290 • 1d ago
 
 ---
 
@@ -487,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 278 • 3d ago
+⬇️ 0 • ❤️ 279 • 3d ago
 
 ---
 
@@ -499,7 +501,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 243 • 3d ago
+⬇️ 533 • ❤️ 244 • 3d ago
 
 ---
 
