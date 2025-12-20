@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T04:28:02.703796+00:00'
+updated: '2025-12-20T04:48:46.070825+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 04:28 UTC  
+**Last Updated:** December 20, 2025 at 04:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 16
+### 20
 **EXTREME FEAR**
 
 ---
@@ -105,7 +105,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-3h ago
+4h ago
 
 ---
 
@@ -131,13 +131,13 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-12h ago
+13h ago
 
 ---
 
 **[unbothered. moisturized. happy. in my lane. focused. flourishing.](https://www.reddit.com/r/Bitcoin/comments/1pqsmtl/unbothered_moisturized_happy_in_my_lane_focused/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -161,13 +161,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
-Investing.com • 14h ago
+Investing.com • 15h ago
 
 ---
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqclViZhDGkfEghZedif2MRJxe2ne7GKtEbX39PzCJbh2-4Ql4XIyx22&gaa_ts=69462939&gaa_sig=gSwwoh0o-kOKLsHdGUYZg0X4LlYv1Ohq38Z9TzYIdxmiYzbJNYxVWrKYAyKZXpUcc-f19ahRUfubMPClrpVl_Q%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ Futurism • 13h ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Wall Street Journal • 3d ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 18h ago
+NPR • 19h ago
 
 ---
 
@@ -305,7 +305,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 273 • 💬 120 • ⏱️ 10:58 • 3h ago
+👁️ 3K • 👍 273 • 💬 120 • ⏱️ 10:58 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 908 • 💬 52 • ⏱️ 13:47 • 4h ago
+👁️ 12K • 👍 908 • 💬 52 • ⏱️ 13:47 • 5h ago
 
 ---
 

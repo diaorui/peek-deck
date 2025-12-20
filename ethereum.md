@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T04:28:02.709696+00:00'
+updated: '2025-12-20T04:48:46.076731+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 04:28 UTC  
+**Last Updated:** December 20, 2025 at 04:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -2.6%  
-**30d:** +7.9%  
-**90d:** -28.9%  
-**1y:** -10.6%  
+**24h:** +2.1%  
+**7d:** -2.5%  
+**30d:** +8.0%  
+**90d:** -28.8%  
+**1y:** -10.5%  
 
 ---
 
@@ -110,7 +110,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 12h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 13h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 Ethereum is adding new wallets at its fastest pace in months, signaling rising on-chain activity and renewed user interest.
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 17h ago
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -206,7 +206,7 @@ Decrypt • 1d ago
 
 Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
 
-BeInCrypto • 22h ago
+BeInCrypto • 23h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 269 • 💬 100 • ⏱️ 22:39 • 9h ago
+👁️ 6K • 👍 269 • 💬 100 • ⏱️ 22:39 • 10h ago
 
 ---
 
@@ -284,7 +284,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 703 • 👍 63 • ⏱️ 58:50 • 8h ago
+👁️ 703 • 👍 63 • ⏱️ 58:50 • 9h ago
 
 ---
 

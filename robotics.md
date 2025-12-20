@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T04:28:02.712848+00:00'
+updated: '2025-12-20T04:48:46.079916+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 04:28 UTC  
+**Last Updated:** December 20, 2025 at 04:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-8h ago
+9h ago
 
 ---
 
@@ -52,13 +52,13 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-5h ago
+6h ago
 
 ---
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Delivery Bottlenecks: https://finance.yahoo.com/news/ups-bets-120-million-robot-120336013.html TechCrunch: Pickle Robot adds Tesla veteran as first CFO: https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/ Website: https://www.picklerobot.com/
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Anyone have any experience with Linmot Actuators? We implemented these in food g
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-4m ago
+24m ago
 
 ---
 
@@ -104,7 +104,7 @@ Humanoid robots from Unitree perform flips and synchronized choreography live on
 
 Hey everyone, I’m currently building a 2-wheel skid steer robot using an ESP32. The goal is to have it transport a payload between two points with high precision and speed, controlled by a human operator. It needs to be super reliable, so I’m finally moving away from the breadboard and designing my first custom PCB for it. Since this is my first board, I’m a bit worried about signal integrity and keeping the ESP32 from resetting due to electrical noise from the DC motors. I’m trying to figure out the best way to isolate the logic side from the power side to prevent inductive spikes. Would using separate voltage regulators with a common star ground be enough here, or is there a better approach? Also, regarding the motors themselves, I know I need to solder ceramic capacitors to suppress high-frequency noise, but I’m looking for confirmation on the best arrangement. Is the standard setup of one cap across the terminals and two to the motor case the way to go? And are 0.1µF (100nF) capacitors usually the right value for this? Any other tips on trace widths or general layout advice for a first-timer would be really appreciated. Thanks in advance!
 
-10m ago
+31m ago
 
 ---
 
@@ -140,7 +140,7 @@ CNN • 2d ago
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
-KSBY News • 21h ago
+KSBY News • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 2K • 👍 139 • 💬 11 • ⏱️ 2:08:46 • 3h ago
+👁️ 2K • 👍 139 • 💬 11 • ⏱️ 2:08:46 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 11K • 👍 34 • ⏱️ 0:09 • 16h ago
+👁️ 11K • 👍 34 • ⏱️ 0:09 • 17h ago
 
 ---
 
