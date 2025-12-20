@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T14:54:24.533548+00:00'
+updated: '2025-12-20T15:18:25.349633+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 14:54 UTC  
+**Last Updated:** December 20, 2025 at 15:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.4%  
 **7d:** +0.0%  
 **30d:** +3.9%  
 **90d:** -21.7%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1757.74B
+**Market Cap:** $1759.92B
 Rank #1
 
-**Circulating Supply:** 19,964,696 BTC
+**Circulating Supply:** 19,964,709 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.1%
 
 **All-Time Low:** $67.81
-+129768.8%
++129917.7%
 
 ---
 
@@ -89,6 +89,12 @@ Rank #1
 
 ---
 
+**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
+
+1h ago
+
+---
+
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
 21h ago
@@ -97,13 +103,13 @@ Rank #1
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-6h ago
+7h ago
 
 ---
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -127,19 +133,11 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 ---
 
-**[When the Market Is Quiet, but the Mind Is Loud](https://www.reddit.com/r/Bitcoin/comments/1prd034/when_the_market_is_quiet_but_the_mind_is_loud/)**
+**[When future generations say you got lucky](https://www.reddit.com/r/Bitcoin/comments/1prd93r/when_future_generations_say_you_got_lucky/)**
 
-Honestly, I’m exhausted from watching charts all day. I’ve been in this market since 2017. I lived through the phase when everyone—from taxi drivers to random strangers—was hyping crypto. I also lived through the crashes, watching my portfolio drop 75% in a single week. I thought I’d seen it all. But this time feels different. Prices keep moving up, institutions are fully involved, ETFs are live. And yet, there’s this strange tension in the background. It’s not the loud, careless euphoria of the previous bull run. It feels more like the silence before something huge—either a move that changes everything… or the opposite. Last night, I shut down the terminal and went for a walk without my phone. Sometimes you need to remind yourself that life is bigger than green and red candles. I came back and added a bit more $BTC. Because despite the uncertainty, I still believe in the long-term vision. How are you dealing with the pressure these days? Feeling anxious, or completely zen? BTC #PriceAnalysis #MacroInsights
+Yeah, you try hodling it back in my day.
 
 2h ago
-
----
-
-**[Most people haven’t woken up yet.](https://www.reddit.com/r/Bitcoin/comments/1pr0v0y/most_people_havent_woken_up_yet/)**
-
-Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
-
-14h ago
 
 ---
 
@@ -147,17 +145,29 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ## Google News: "bitcoin"
 
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-The Block • 16h ago
+Reuters • 23h ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfx60xYYWS9yp_RJfWlVhS3z2-QklCRm_A2y0SUfuLBbUYj0aU1XHBa&gaa_ts=6946c1a3&gaa_sig=9wCnE65uHHVZQb_En3X0c9zzRRCPmMDJH_7tSJBBH-yFQiq625miDfQ-5T2qY4GMDwXHfmA5s2ZW7Vor5aUJXg%3D%3D)**
 
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+Barron's • 21h ago
 
-Bloomberg.com • 1d ago
+---
+
+**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
+
+Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
+
+CoinDesk • 22h ago
+
+---
+
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdutnTdjveTjnPkx3Aiuo7exhzbp1fdvask1xKFxnk1Yan8Uk4lD71R&gaa_ts=6946c1a3&gaa_sig=0RzreRK9q6_FdRE0zkJuakdCwOZ3m-4DHnm4ZeG_omTf6mGVp0t8MMwnrS6_eXfYLTl4Nl0mfsvevBVCg1Xoqw%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -165,7 +175,7 @@ Bloomberg.com • 1d ago
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,45 +187,31 @@ The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
-"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
-CoinDesk • 53m ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfvj2D970dmfYvcxMUAs9jcOMIUVyDg2bAMVqi74aARR_cwfz4LAWJs&gaa_ts=6946b5bd&gaa_sig=x0DUEPFuJOXmum89scJy884WAEAIEwAyVxibtkusaKxSCl4VGU0CdjTGm1IPsBqUYUSUqkU1ACQM6EevYo_JMA%3D%3D)**
-
-Barron's • 21h ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdmzuTBDtIw8ZWdqNzQXnxANmHMylFLtnDWzGijdcEjHEWtOC_EBa-U&gaa_ts=6946b5bd&gaa_sig=mUaJNjVfs5uV2Ls78A1cbuXzYbihbdKEvK36I1CLykI3zt-3vlxvc32QPiBjvu7WKLkPPTFa63Tqt6Kj_WXXaA%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
-
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’ About Shareholder Value](https://finance.yahoo.com/news/peter-schiff-says-bitcoin-drop-094721576.html)**
-
-Peter Schiff warned that Bitcoin is unlikely to find a durable bottom at $50,000. Schiff argued that Strategy’s valuation is vulnerable to further declines. Michael ...
-
-Yahoo Finance • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
 **[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
 Forbes • 1d ago
+
+---
+
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 17h ago
+
+---
+
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+
+Nasdaq • 4h ago
 
 ---
 
@@ -327,7 +323,7 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 205 • 💬 35 • ⏱️ 11:40 • 3h ago
+👁️ 2K • 👍 205 • 💬 35 • ⏱️ 11:40 • 4h ago
 
 ---
 
@@ -357,7 +353,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 230 • 💬 90 • ⏱️ 4:42 • 14h ago
+👁️ 4K • 👍 230 • 💬 90 • ⏱️ 4:42 • 15h ago
 
 ---
 
@@ -367,7 +363,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 260 • ⏱️ 18:06 • 22h ago
+👁️ 72K • 👍 5K • 💬 260 • ⏱️ 18:06 • 23h ago
 
 ---
 
@@ -377,7 +373,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 453 • 💬 49 • ⏱️ 7:49 • 9h ago
+👁️ 7K • 👍 453 • 💬 49 • ⏱️ 7:49 • 10h ago
 
 ---
 

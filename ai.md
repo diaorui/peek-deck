@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T14:54:24.525160+00:00'
+updated: '2025-12-20T15:18:25.341326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 14:54 UTC  
+**Last Updated:** December 20, 2025 at 15:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-11h ago
+12h ago
 
 ---
 
@@ -57,7 +57,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-8h ago
+9h ago
 
 ---
 
@@ -121,6 +121,20 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcqnrcQUffdFL3AEHVAA3XhPrQoDzUznxei8nq8RsJ3KAvqdvDvUvIP&gaa_ts=6946c1a1&gaa_sig=ME16iQFkgMWVTrsqcYAWrpBwkAPwLEIbT0VkesrVjR_ySPo9UXABOkZULUMYdfCj8AYdUuv_us0WegjUzzW4Kg%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
+
+Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
+
+CNBC • 3h ago
+
+---
+
 **[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
@@ -129,71 +143,55 @@ BBC • 13h ago
 
 ---
 
-**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+**[Big Tech gets worried about Trump’s AI czar](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
-
-CNBC • 22h ago
+Politico • 33m ago
 
 ---
 
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+**[Paris taken by a coup: How an AI video caused Macron a major headache](https://www.euronews.com/my-europe/2025/12/19/video-of-coup-in-paris-how-an-ai-generated-video-caused-macron-a-major-headache)**
 
-The New York Times • 2h ago
+The video rapidly racked up more than 12 million views after it was shared on Facebook.
+
+Euronews.com • 23h ago
 
 ---
 
-**[The AI Billionaires Who Are Barely Old Enough to Drink](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
+**[Trump's AI policy is dividing his party. Here's what key GOP critics are saying about it.](https://www.businessinsider.com/gop-critics-trump-ai-preemption-policy-2025-12)**
+
+Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
+
+Business Insider • 4h ago
+
+---
+
+**[Would You Trust a 22-Year-Old With the Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 1h ago
+The Atlantic • 2h ago
 
 ---
 
-**[AI Image Generators Default to the Same 12 Photo Styles, Study Finds](https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012)**
+**[Prediction: SoundHound AI Stock Could Hit $20 by 2030](https://www.fool.com/investing/2025/12/19/prediction-soundhound-ai-stock-could-hit-20-by-203/)**
 
-Anything your imagination desires, as long as it's one of just a few options.
+The voice AI solutions provider has a bright future despite a turbulent 2024.
 
-Gizmodo • 1h ago
-
----
-
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqee8oIkD7dVeztJ2DN8ajFe7fG9Hy2cDqltmey1hg9EenuIHvuVV2H9&gaa_ts=6946b5bb&gaa_sig=sx5uwiIQVO2tsfOT-VN56BQMarLZnTx1wDkZRd-yNnoHQ-VaCsoOW_fHt3iRF5ru39Aefy7-ISw6KCOyuKnIZg%3D%3D)**
-
-The Wall Street Journal • 10h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+**[Psst! This Stealth AI Stock Eyes Entry Amid Powerful Run As Earnings Surge 75%](https://www.investors.com/stock-lists/stock-spotlight/stealth-ai-stock-primoris-services-prim-eyes-entry-powerful-run-earnings-surge/)**
 
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
-
-The New Yorker • 3h ago
+Investor's Business Daily • 21h ago
 
 ---
 
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+**[This Glorious Artificial Intelligence (AI) Stock Has Crushed Nvidia and Broadcom With 147% Returns in 2025. It Can Jump by 111% in 2026](https://www.fool.com/investing/2025/12/20/this-glorious-artificial-intelligence-ai-stock-has/)**
 
-A Stanford software engineering degree used to be a golden ticket.
+The booming demand for high-speed networking in data centers has supercharged this tech stock.
 
-Los Angeles Times • 1d ago
-
----
-
-**[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
-
-When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
-
-The Guardian • 23h ago
-
----
-
-**[5 ways AI agents will transform the way we work in 2026](https://blog.google/products/google-cloud/ai-business-trends-report-2026/)**
-
-Today, Google Cloud dropped its 2026 AI Agent Trends Report.
-
-blog.google • 1d ago
+The Motley Fool • 33m ago
 
 ---
 
@@ -205,7 +203,7 @@ blog.google • 1d ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1057 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1058 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -217,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 555 • 💬 525 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 556 • 💬 525 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -229,19 +227,19 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 ---
 
+**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
+
+Exclusive: Tech exec admits not dead cert it'll find the right solution
+
+⬆️ 292 • 💬 213 • 6h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+
+---
+
 **[A16z-backed Doublespeed hacked, revealing what its AI-generated accounts promote](https://news.ycombinator.com/item?id=46303291)**
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
 ⬆️ 289 • 💬 167 • 2d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
-
----
-
-**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
-
-Exclusive: Tech exec admits not dead cert it'll find the right solution
-
-⬆️ 270 • 💬 197 • 6h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -315,7 +313,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 215K • 👍 13K • 💬 2K • ⏱️ 5:52 • 1d ago
+👁️ 215K • 👍 13K • 💬 2K • ⏱️ 5:52 • 2d ago
 
 ---
 
@@ -335,7 +333,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 27K • 👍 1K • 💬 35 • ⏱️ 1:01 • 22h ago
+👁️ 27K • 👍 1K • 💬 35 • ⏱️ 1:01 • 23h ago
 
 ---
 
@@ -345,7 +343,7 @@ after 3 months of testing and research, I finally cracked it, and now I can gene
 
 📺 Hasan Aboul Hasan
 
-👁️ 25K • 👍 1K • 💬 95 • ⏱️ 4:43 • 1d ago
+👁️ 25K • 👍 1K • 💬 95 • ⏱️ 4:43 • 2d ago
 
 ---
 
@@ -401,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,159 • 11d ago
+⬇️ 341,530 • ❤️ 3,160 • 11d ago
 
 ---
 
@@ -413,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 392 • 18h ago
+⬇️ 71,413 • ❤️ 395 • 18h ago
 
 ---
 
@@ -429,6 +427,18 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
+
+`text-generation` `309.8B`
+
+⬇️ 6,103 • ❤️ 325 • 2d ago
+
+---
+
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -441,18 +451,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
-
-*Xiaomi MiMo*
-
-MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
-
-`text-generation` `309.8B`
-
-⬇️ 6,103 • ❤️ 323 • 2d ago
-
----
-
 **[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
 *Google*
@@ -461,7 +459,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 305 • 1d ago
+⬇️ 6,881 • ❤️ 307 • 1d ago
 
 ---
 
@@ -473,7 +471,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 293 • 4d ago
+⬇️ 0 • ❤️ 294 • 4d ago
 
 ---
 
@@ -485,7 +483,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 267 • 3d ago
+⬇️ 0 • ❤️ 269 • 3d ago
 
 ---
 
@@ -497,7 +495,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 261 • 1d ago
+⬇️ 1,067 • ❤️ 266 • 1d ago
 
 ---
 
@@ -669,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 556 • 13m ago
+⭐ 5.1k • 🔱 556 • 37m ago
 
 ---
 
@@ -679,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 156 • 6h ago
+⭐ 2.2k • 🔱 156 • 7h ago
 
 ---
 
@@ -749,7 +747,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 798 • 🔱 116 • 2d ago
+⭐ 798 • 🔱 116 • 3d ago
 
 ---
 

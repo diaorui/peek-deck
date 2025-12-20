@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T14:54:24.539534+00:00'
+updated: '2025-12-20T15:18:25.355596+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 14:54 UTC  
+**Last Updated:** December 20, 2025 at 15:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.4%  
 **7d:** -2.8%  
 **30d:** +7.7%  
 **90d:** -29.0%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.95B
+**Market Cap:** $359.07B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686840.9%
++687496.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-18h ago
+19h ago
 
 ---
 
@@ -170,23 +170,15 @@ FXStreet • 1d ago
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
-**[BlackRock sends $382M in Bitcoin and $220M in Ethereum to Coinbase](https://cryptobriefing.com/blackrock-crypto-deposits-coinbase/)**
+**[Not Bitcoin or Ethereum - These 5 are the top best performing cryptos in 2025](https://www.livemint.com/market/cryptocurrency/not-bitcoin-or-ethereum-these-5-are-the-top-best-performing-cryptos-in-2025-11766216526786.html)**
 
-BlackRock crypto deposits total $220M in Ethereum and $382M in Bitcoin to Coinbase Prime, highlighting major institutional activity.
+Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-Crypto Briefing • 2d ago
-
----
-
-**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
-
-As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
-
-Yahoo Finance • 2h ago
+livemint.com • 2h ago
 
 ---
 
@@ -196,11 +188,11 @@ The Block • 1d ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -209,6 +201,12 @@ The Motley Fool • 1d ago
 SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
 
 Decrypt • 2d ago
+
+---
+
+**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://www.ccn.com/news/technology/ethereum-wall-street-tokenization-adoption/)**
+
+CCN.com • 3h ago
 
 ---
 
@@ -224,7 +222,7 @@ BeInCrypto • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
 
-ts2.tech • 19h ago
+ts2.tech • 20h ago
 
 ---
 
@@ -238,7 +236,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 102 • 👍 11 • 💬 1 • ⏱️ 11:26 • 53m ago
+👁️ 102 • 👍 11 • 💬 1 • ⏱️ 11:26 • 1h ago
 
 ---
 
@@ -248,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 267 • 👍 35 • 💬 2 • ⏱️ 6:04 • 45m ago
+👁️ 267 • 👍 35 • 💬 2 • ⏱️ 6:04 • 1h ago
 
 ---
 
@@ -258,7 +256,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 334 • 💬 9 • ⏱️ 21:53 • 23h ago
+👁️ 8K • 👍 334 • 💬 9 • ⏱️ 21:53 • 1d ago
 
 ---
 
@@ -278,7 +276,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 492 • 💬 58 • ⏱️ 16:54 • 1d ago
+👁️ 15K • 👍 492 • 💬 58 • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -288,7 +286,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 319 • 💬 4 • ⏱️ 20:31 • 18h ago
+👁️ 7K • 👍 319 • 💬 4 • ⏱️ 20:31 • 19h ago
 
 ---
 
