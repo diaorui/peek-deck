@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T16:32:09.010101+00:00'
+updated: '2025-12-20T16:49:11.751979+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 16:32 UTC  
+**Last Updated:** December 20, 2025 at 16:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-20h ago
+21h ago
 
 ---
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-17h ago
+18h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 11K • 👍 341 • 💬 33 • ⏱️ 2:08:46 • 15h ago
+👁️ 12K • 👍 380 • 💬 34 • ⏱️ 2:08:46 • 16h ago
 
 ---
 
@@ -206,17 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 20K • 👍 357 • 💬 101 • ⏱️ 3:55 • 1d ago
-
----
-
-**[Polish startup just built a 1,000-muscle robot that moves exactly like a human and it&#39;s terrifying](https://www.youtube.com/watch?v=_HtcRmUXiSU)**
-
-A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitching its limbs like it just woke up from a nightmare ...
-
-📺 Nic Conley
-
-👁️ 19K • 👍 1K • 💬 37 • ⏱️ 1:32 • 1d ago
+👁️ 22K • 👍 396 • 💬 104 • ⏱️ 3:55 • 1d ago
 
 ---
 
@@ -226,17 +216,17 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 190K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
+👁️ 193K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+**[Polish startup just built a 1,000-muscle robot that moves exactly like a human and it&#39;s terrifying](https://www.youtube.com/watch?v=_HtcRmUXiSU)**
 
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitching its limbs like it just woke up from a nightmare ...
 
-📺 AZFK
+📺 Nic Conley
 
-👁️ 53K • 👍 3K • 💬 332 • ⏱️ 13:43 • 2d ago
+👁️ 23K • 👍 1K • 💬 40 • ⏱️ 1:32 • 1d ago
 
 ---
 
@@ -244,7 +234,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 Romi Pal
 
-👁️ 11.3M • 👍 76K • 💬 518 • ⏱️ 0:24 • 4d ago
+👁️ 11.7M • 👍 80K • 💬 540 • ⏱️ 0:24 • 4d ago
 
 ---
 
@@ -258,16 +248,6 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 ---
 
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 4d ago
-
----
-
 **[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
 
 We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
@@ -278,13 +258,33 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+
+📺 AI Revolution
+
+👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 4d ago
+
+---
+
+**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+
+Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+
+📺 vt.physics
+
+👁️ 473K • 👍 16K • 💬 507 • ⏱️ 0:34 • 6d ago
+
+---
+
 **[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
 
 Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
 
 📺 Digital Farming 
 
-👁️ 18K • 👍 40 • ⏱️ 0:09 • 1d ago
+👁️ 20K • 👍 44 • ⏱️ 0:09 • 1d ago
 
 ---
 

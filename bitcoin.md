@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T16:32:09.000871+00:00'
+updated: '2025-12-20T16:49:11.742752+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 16:32 UTC  
+**Last Updated:** December 20, 2025 at 16:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +1.3%  
+**7d:** -0.3%  
+**30d:** +3.6%  
+**90d:** -21.9%  
+**1y:** -9.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -271,23 +271,23 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ## YouTube Videos: "bitcoin"
 
-**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
-
-My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 30K • 👍 2K • 💬 146 • ⏱️ 13:47 • 17h ago
-
----
-
 **[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
 
 Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 525 • 💬 307 • ⏱️ 10:58 • 16h ago
+👁️ 12K • 👍 546 • 💬 354 • ⏱️ 10:58 • 16h ago
+
+---
+
+**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
+
+My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 2K • 💬 159 • ⏱️ 13:47 • 17h ago
 
 ---
 
@@ -297,17 +297,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 180 • ⏱️ 44:14 • 1d ago
-
----
-
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
-
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
-
-📺 Swan Bitcoin
-
-👁️ 51K • 👍 2K • 💬 160 • ⏱️ 16:50 • 1d ago
+👁️ 39K • 👍 2K • 💬 197 • ⏱️ 44:14 • 1d ago
 
 ---
 
@@ -317,17 +307,27 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 205 • 💬 35 • ⏱️ 11:40 • 5h ago
+👁️ 4K • 👍 329 • 💬 70 • ⏱️ 11:40 • 5h ago
 
 ---
 
-**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
 
-CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
 
-📺 Craigslist Hunter
+📺 Swan Bitcoin
 
-👁️ 41K • 👍 2K • 💬 220 • ⏱️ 2:15 • 1d ago
+👁️ 52K • 👍 2K • 💬 162 • ⏱️ 16:50 • 1d ago
+
+---
+
+**[Tom Lee Calls for All-Time-Highs by January 2026](https://www.youtube.com/watch?v=y4mjJXZabCI)**
+
+After a rocky December, many investors are asking the same question: Did Bitcoin already top — or is the real move still ahead?
+
+📺 The Bitcoin Revolution
+
+👁️ 14K • 👍 224 • 💬 160 • ⏱️ 9:46 • 2d ago
 
 ---
 
@@ -337,17 +337,27 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 16K • 👍 2K • 💬 238 • ⏱️ 8:31 • 23h ago
+👁️ 18K • 👍 2K • 💬 290 • ⏱️ 8:31 • 23h ago
 
 ---
 
-**[Is Bitcoin Heading A LOT LOWER?! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=AnUGiccvefE)**
+**[Short-Term Signal for Bitcoin [Follow the Patterns]](https://www.youtube.com/watch?v=b1x9E9XB1gQ)**
 
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+Bitcoin's current chart pattern is ambiguous—is it a rising wedge already breaking down toward $75-76K, or a larger bear flag ...
 
-📺 Crypto Jebb
+📺 Lark Davis
 
-👁️ 4K • 👍 230 • 💬 90 • ⏱️ 4:42 • 16h ago
+👁️ 6K • 👍 403 • 💬 33 • ⏱️ 12:19 • 5h ago
+
+---
+
+**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
+
+CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
+
+📺 Craigslist Hunter
+
+👁️ 42K • 👍 2K • 💬 228 • ⏱️ 2:15 • 1d ago
 
 ---
 
@@ -357,17 +367,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 260 • ⏱️ 18:06 • 1d ago
-
----
-
-**[BITCOIN EXTREME FEAR... (This is Important)](https://www.youtube.com/watch?v=la9LAprLd0o)**
-
-WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 7K • 👍 453 • 💬 49 • ⏱️ 7:49 • 11h ago
+👁️ 75K • 👍 5K • 💬 274 • ⏱️ 18:06 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T16:32:09.006896+00:00'
+updated: '2025-12-20T16:49:11.748769+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 16:32 UTC  
+**Last Updated:** December 20, 2025 at 16:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +1.4%  
 **7d:** -2.8%  
-**30d:** +7.6%  
-**90d:** -29.1%  
+**30d:** +7.7%  
+**90d:** -29.0%  
 **1y:** -10.8%  
 
 ---
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I know many good crypto founders who are not good at marketing. And they think that "posting more on Twitter", "going to conferences" or "doing BD" is the only way to grow their product. Unfortunately they loose the attention battle with worse products that have better marketing. To change that, for the last month I’ve been working on a non-BS guide to crypto GTM. To anchor this in reality, I spoke with founders and early team members from Aave, ZORA, POAP, Snapshot, L2Beat, Zerion, SushiSwap and a few others. I wanted to understand what really got them growing early on. A couple things that might surprise those who are not growth nerds like me: Uniswap didn't just 'launch and win'. Hayden was talking about Uniswap at conferences, in DMs and in offices for almost a year before Devcon Prague. Tether got their biggest adoption spike (1,000X in 2 years) thanks to BD deals with CEXs. Aave took off when they added LINK as collateral and Chainlink as their oracle provider. They tapped into an existing, very vocal LINK Marines community that helped spread the word about Aave. Aside from these (and many other) examples, I share a longer playbook explaining how to do GTM for your crypto product, step by step. If you’re building on Ethereum and wondering why a solid product isn’t moving, this might give you a clearer mental model how to move forward. Link is here if you want to read it: https://kanfa.macbudkowski.com/crypto-gtm
 
-1d ago
+2d ago
 
 ---
 
@@ -162,7 +162,7 @@ AMBCrypto • 15h ago
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 3h ago
+livemint.com • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 102 • 👍 11 • 💬 1 • ⏱️ 11:26 • 2h ago
+👁️ 474 • 👍 35 • 💬 43 • ⏱️ 11:26 • 2h ago
 
 ---
 
@@ -244,17 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 267 • 👍 35 • 💬 2 • ⏱️ 6:04 • 2h ago
-
----
-
-**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 334 • 💬 9 • ⏱️ 21:53 • 1d ago
+👁️ 738 • 👍 88 • 💬 4 • ⏱️ 6:04 • 2h ago
 
 ---
 
@@ -264,7 +254,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 501 • 💬 29 • ⏱️ 8:37 • 1d ago
+👁️ 17K • 👍 505 • 💬 29 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -274,7 +264,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 492 • 💬 58 • ⏱️ 16:54 • 2d ago
+👁️ 15K • 👍 500 • 💬 58 • ⏱️ 16:54 • 2d ago
+
+---
+
+**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 9K • 👍 356 • 💬 22 • ⏱️ 21:53 • 1d ago
+
+---
+
+**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 116 • 👍 14 • 💬 31 • ⏱️ 4:17 • 5h ago
+
+---
+
+**[Sell ADA NOW? ⚠️ Cardano &amp; Ethereum Founder’s Honest Verdict](https://www.youtube.com/watch?v=FM_SGFR-axA)**
+
+Nick Valdez and TJ sit down for an interview with the co-founder of Ethereum and founder of Cardano, Charles Hoskinson!
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 190 • 💬 17 • ⏱️ 48:50 • 1h ago
 
 ---
 
@@ -284,7 +304,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 319 • 💬 4 • ⏱️ 20:31 • 20h ago
+👁️ 7K • 👍 333 • 💬 34 • ⏱️ 20:31 • 20h ago
 
 ---
 
@@ -294,17 +314,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 312 • 💬 82 • ⏱️ 22:39 • 21h ago
-
----
-
-**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
-
-Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
-
-📺 Taiki Maeda
-
-👁️ 15K • 👍 641 • 💬 262 • ⏱️ 33:33 • 2d ago
+👁️ 8K • 👍 320 • 💬 143 • ⏱️ 22:39 • 22h ago
 
 ---
 
@@ -315,16 +325,6 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 📺 Blockchain Backer
 
 👁️ 20K • 👍 2K • 💬 2 • ⏱️ 27:59 • 1d ago
-
----
-
-**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
-
-Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
-
-📺 Sin City Crypto
-
-👁️ 790 • 👍 69 • ⏱️ 58:50 • 20h ago
 
 ---
 

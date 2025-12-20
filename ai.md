@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T16:32:08.992449+00:00'
+updated: '2025-12-20T16:49:11.734332+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - social
 - videos
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 16:32 UTC  
+**Last Updated:** December 20, 2025 at 16:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 My week partying with the young founders at the heart of the AI boom
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 54m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 2d ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 4h ago
 
 **[Big Tech gets worried about Trump’s AI czar](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 1h ago
+Politico • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Business Insider • 5h ago
 
 A new study reveals an alarming bias present in four leading AI cancer screening tools, related to race, gender, and age.
 
-Futurism • 1h ago
+Futurism • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Futurism • 1h ago
 
 The booming demand for high-speed networking in data centers has supercharged this tech stock.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 1h ago
 
 The AI infrastructure giant has pulled back significantly of late, but it could make a big comeback in the new year.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -233,7 +233,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 319 • 💬 244 • 7h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 319 • 💬 244 • 8h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -273,7 +273,7 @@ That's one way to get some publicity with Reddit.
 
 A cross-industry study on recent trends in AI software development. Engineering velocity, tool adoption, and model benchmarks.
 
-⬆️ 131 • 💬 111 • 2d ago • [Greptile](https://www.greptile.com/state-of-ai-coding-2025)
+⬆️ 131 • 💬 111 • 3d ago • [Greptile](https://www.greptile.com/state-of-ai-coding-2025)
 
 ---
 
@@ -289,13 +289,23 @@ NOAA has launched a groundbreaking new suite of operational, artificial intellig
 
 ## YouTube Videos: "ai"
 
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 7K • 👍 548 • 💬 56 • ⏱️ 37:38 • 2h ago
+
+---
+
 **[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
 
 Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
 
 📺 Future of Life Institute
 
-👁️ 20K • 👍 771 • 💬 315 • ⏱️ 16:15 • 2d ago
+👁️ 21K • 👍 779 • 💬 319 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -305,7 +315,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 167K • 👍 11K • 💬 2K • ⏱️ 17:08 • 23h ago
+👁️ 175K • 👍 11K • 💬 2K • ⏱️ 17:08 • 23h ago
 
 ---
 
@@ -315,7 +325,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 215K • 👍 13K • 💬 2K • ⏱️ 5:52 • 2d ago
+👁️ 226K • 👍 13K • 💬 2K • ⏱️ 5:52 • 2d ago
 
 ---
 
@@ -325,27 +335,27 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 684K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
+👁️ 693K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
 
 ---
 
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
 
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
 
-📺 gptars
+📺 Sinead Bovell
 
-👁️ 27K • 👍 1K • 💬 35 • ⏱️ 1:01 • 1d ago
+👁️ 32K • 👍 2K • 💬 336 • ⏱️ 17:48 • 2d ago
 
 ---
 
-**[Make Unlimited AI Videos for Free with Claude](https://www.youtube.com/watch?v=ogn0FiDnAM4)**
+**[NEW Google AI Super Gems Update is INSANE!](https://www.youtube.com/watch?v=2M2pOwi5nDk)**
 
-after 3 months of testing and research, I finally cracked it, and now I can generate unlimited videos with Claude AI, the idea in ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Hasan Aboul Hasan
+📺 Julian Goldie SEO
 
-👁️ 25K • 👍 1K • 💬 95 • ⏱️ 4:43 • 2d ago
+👁️ 1K • 👍 85 • 💬 5 • ⏱️ 8:46 • 4h ago
 
 ---
 
@@ -355,37 +365,27 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 226K • 👍 7K • 💬 1K • ⏱️ 15:39 • 19h ago
+👁️ 242K • 👍 8K • 💬 1K • ⏱️ 15:39 • 19h ago
 
 ---
 
-**[How WSJ’s AI vending machine experiment turned to &#39;chaos&#39;](https://www.youtube.com/watch?v=UgrOjaFyzPc)**
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=bB94kfyjO3w)**
 
-Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Squawk on the Street' to share more details ...
+Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/bB94kfyjO3w Step into a world ...
 
-📺 CNBC Television
+📺 Satisfy Hub ASMR
 
-👁️ 12K • 👍 171 • 💬 75 • ⏱️ 3:29 • 1d ago
-
----
-
-**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
-
-A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
-
-📺 Bridebook
-
-👁️ 323K • 👍 12K • 💬 359 • ⏱️ 0:52 • 2d ago
+👁️ 1.8M • 👍 6K • 💬 114 • ⏱️ 8:07 • 2d ago
 
 ---
 
-**[AI baby Dave Chappelle is disrupting ecosystems 👶🏼🤖🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=1Oo8nzGungI)**
+**[The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai](https://www.youtube.com/watch?v=2FHcEsGAaFg)**
 
-Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai#shorts #ronaldo #messi ...
 
-📺 Gianmarco Soresi
+📺 FootyToons AI
 
-👁️ 452K • 👍 16K • 💬 435 • ⏱️ 0:35 • 2d ago
+👁️ 3K • 💬 4 • ⏱️ 0:51 • 1h ago
 
 ---
 
@@ -401,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,161 • 11d ago
+⬇️ 341,530 • ❤️ 3,161 • 12d ago
 
 ---
 
@@ -425,7 +425,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 357 • 1d ago
+⬇️ 2,937 • ❤️ 357 • 2d ago
 
 ---
 
@@ -525,7 +525,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 7 • 💬 2 • ⭐ 3,909 • 9d ago
+▲ 7 • 💬 2 • ⭐ 4,177 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -543,20 +543,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 134 • 💬 6 • ⭐ 18,698 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
 **[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614)**
 
 *Wenqiang Sun, Haiyu Zhang, Haoyuan Wang et al. (10 authors)*
@@ -566,6 +552,20 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 ▲ 61 • 💬 3 • ⭐ 581 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 134 • 💬 6 • ⭐ 18,711 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -668,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 560 • 1h ago
+⭐ 5.2k • 🔱 565 • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 158 • 8h ago
+⭐ 2.2k • 🔱 159 • 8h ago
 
 ---
 
@@ -718,7 +718,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 901 • 🔱 42 • 2d ago
+⭐ 907 • 🔱 42 • 2d ago
 
 ---
 
@@ -738,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 1h ago
+⭐ 829 • 🔱 135 • 34m ago
 
 ---
 
@@ -748,7 +748,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 798 • 🔱 116 • 3d ago
+⭐ 799 • 🔱 116 • 3d ago
 
 ---
 
