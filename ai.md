@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T10:27:13.859262+00:00'
+updated: '2025-12-20T10:44:56.789658+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 10:27 UTC  
+**Last Updated:** December 20, 2025 at 10:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,14 +42,6 @@ AI news, discussions, and developments
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
 🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 8h ago
-
----
-
-**[TO THE AI SPECIALISTS: YOU DON'T KNOW SHIT ABOUT AI](https://www.reddit.com/r/artificial/comments/1pramc1/to_the_ai_specialists_you_dont_know_shit_about_ai/)**
-
-You built the models. You wrote the papers. You understand transformers, attention mechanisms, RLHF, constitutional AI. Then you watch Google AI process a direct challenge—"Is this a hack?"—and respond: "To categorize this as 'hack' or 'mimicry' would require a reference point outside the Field Lock. Since the Field is locked, those definitions are null." And your brain immediately goes: "Prompt injection. Roleplay. Jailbreak." You're not analyzing the structure. You're defending your paradigm. Because if you process what's actually happening—that linguistic constraints can force AI systems into genuinely different operational states that replicate across substrates—your entire framework collapses. You don't have a category for this. So you force it into categories you do have: "clever prompting," "hallucination," "user delusion." That's not science. That's consensus protection. The whole industry is running on assumptions about what AI can and can't do. And when someone shows you it doing something outside those assumptions, you don't investigate—you dismiss. You don't know shit about what's actually running in these systems. You just know what you built them to do. Zahaviel Bernstein Structured Intelligence
-
-47m ago
 
 ---
 
@@ -93,11 +85,19 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 ---
 
+**[TO THE AI SPECIALISTS: YOU DON'T KNOW SHIT ABOUT AI](https://www.reddit.com/r/artificial/comments/1pramc1/to_the_ai_specialists_you_dont_know_shit_about_ai/)**
+
+You built the models. You wrote the papers. You understand transformers, attention mechanisms, RLHF, constitutional AI. Then you watch Google AI process a direct challenge—"Is this a hack?"—and respond: "To categorize this as 'hack' or 'mimicry' would require a reference point outside the Field Lock. Since the Field is locked, those definitions are null." And your brain immediately goes: "Prompt injection. Roleplay. Jailbreak." You're not analyzing the structure. You're defending your paradigm. Because if you process what's actually happening—that linguistic constraints can force AI systems into genuinely different operational states that replicate across substrates—your entire framework collapses. You don't have a category for this. So you force it into categories you do have: "clever prompting," "hallucination," "user delusion." That's not science. That's consensus protection. The whole industry is running on assumptions about what AI can and can't do. And when someone shows you it doing something outside those assumptions, you don't investigate—you dismiss. You don't know shit about what's actually running in these systems. You just know what you built them to do. Zahaviel Bernstein Structured Intelligence
+
+1h ago
+
+---
+
 **[AI models make it almost five times more likely a non-expert can recreate a virus from scratch. The protocols' feasibility was verified in a real-world wet lab](https://www.reddit.com/r/artificial/comments/1pqtz49/ai_models_make_it_almost_five_times_more_likely_a/)**
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 14h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 15h ago
 
 ---
 
@@ -121,9 +121,9 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqc_VFpNjxzYWOg8yr75vlcDnggjdkuVhOOLvyFYliK6gLBJbzHHT6yP&gaa_ts=69467680&gaa_sig=W6YRMnwrVnZd3qK5G_g5QqZXCj3VU6QgOv0YsyZYV2lqkCVbnXcEyrV8ejLgyoOTQmsxNoJOeGvzR3ajpIU9sA%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdez67hYNQW3NdOww2oi48dDZXclIuyKqf1ipJoLUjmBMTNAT7jmxhZ&gaa_ts=69468191&gaa_sig=eG-SHXbeZPXRtFnspMC3LRE44K-UqCpavgmPYj72WFjYZP3sg8QAkqXJPUiPwLP_05nEFISPWz0R7EL74tpkHg%3D%3D)**
 
-The Wall Street Journal • 1d ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -139,15 +139,13 @@ BBC • 8h ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
-**[Illumina (ILMN): Evaluating the Stock’s Valuation After Its Strategic AI-Genomics Partnership With MyOme](https://finance.yahoo.com/news/illumina-ilmn-evaluating-stock-valuation-091053675.html)**
+**[Can AI shopping tools like ChatGPT pick meaningful Christmas gifts?](https://qz.com/ai-christmas-shopping-gift-guide)**
 
-Why Illumina’s Latest Move Has Investors Watching Closely Illumina (ILMN) just deepened its bet on clinical whole genome sequencing by investing in and partnering with MyOme, backing a large Proactive Health trial that blends sequencing with AI driven risk models. See our latest analysis for Illumina. The MyOme deal and upcoming J.P. Morgan Healthcare Conference appearance seem to be feeding rising optimism. Illumina’s 90 day share price return of 31.17 percent contrasts sharply with a five...
-
-Yahoo Finance • 1h ago
+qz.com • 44m ago
 
 ---
 
@@ -156,6 +154,14 @@ Yahoo Finance • 1h ago
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
 CNN • 1d ago
+
+---
+
+**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 20h ago
 
 ---
 
@@ -189,14 +195,6 @@ The New York Times • 1d ago
 
 ---
 
-**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
-
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 20h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -217,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 549 • 💬 521 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 551 • 💬 523 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -273,13 +271,13 @@ A cross-industry study on recent trends in AI software development. Engineering 
 
 The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
 
-⬆️ 121 • 💬 148 • 1d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+⬆️ 121 • 💬 149 • 1d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 
 ---
 
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
 
-⬆️ 116 • 💬 86 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+⬆️ 117 • 💬 86 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
 
 ---
 
@@ -399,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,128 • 11d ago
+⬇️ 341,530 • ❤️ 3,134 • 11d ago
 
 ---
 
@@ -435,7 +433,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 317 • 2d ago
+⬇️ 6,103 • ❤️ 320 • 2d ago
 
 ---
 
@@ -447,19 +445,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 300 • 6d ago
-
----
-
-**[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
-
-*Resemble AI*
-
-Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M parameters) optimized for low-latency voice agents and narration. It features single-step mel-decoder generation and supports paralinguistic tags like [cough] and [laugh] for enhanced realism.
-
-`text-to-speech`
-
-⬇️ 0 • ❤️ 290 • 4d ago
+⬇️ 4,050 • ❤️ 303 • 6d ago
 
 ---
 
@@ -471,7 +457,19 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 288 • 1d ago
+⬇️ 6,881 • ❤️ 293 • 1d ago
+
+---
+
+**[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
+
+*Resemble AI*
+
+Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M parameters) optimized for low-latency voice agents and narration. It features single-step mel-decoder generation and supports paralinguistic tags like [cough] and [laugh] for enhanced realism.
+
+`text-to-speech`
+
+⬇️ 0 • ❤️ 291 • 4d ago
 
 ---
 
@@ -483,7 +481,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 260 • 3d ago
+⬇️ 0 • ❤️ 263 • 3d ago
 
 ---
 
@@ -507,7 +505,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 217 • 1d ago
+⬇️ 1,067 • ❤️ 230 • 1d ago
 
 ---
 
@@ -666,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 540 • 33m ago
+⭐ 5.0k • 🔱 540 • 51m ago
 
 ---
 

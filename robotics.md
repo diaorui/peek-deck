@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T10:27:13.879154+00:00'
+updated: '2025-12-20T10:44:56.807420+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 10:27 UTC  
+**Last Updated:** December 20, 2025 at 10:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Aru Robot, manufactured by the French company Nio Robotics to do industrial inspection and maintenance](https://www.reddit.com/r/robotics/comments/1prabw8/aru_robot_manufactured_by_the_french_company_nio/)**
+
+Website: https://www.nio-robotics.com/
+
+1h ago
+
+---
+
+**[Demo by Kyber Labs shows their system autonomously assembling a part](https://www.reddit.com/r/robotics/comments/1prau9k/demo_by_kyber_labs_shows_their_system/)**
+
+From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
+
+50m ago
+
+---
+
 **[World's first ever universal humanoid navigation stack](https://www.reddit.com/r/robotics/comments/1pqudhi/worlds_first_ever_universal_humanoid_navigation/)**
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
 
-14h ago
+15h ago
 
 ---
 
@@ -48,31 +64,23 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 ---
 
-**[Aru Robot, manufactured by the French company Nio Robotics to do industrial inspection and maintenance](https://www.reddit.com/r/robotics/comments/1prabw8/aru_robot_manufactured_by_the_french_company_nio/)**
-
-Website: https://www.nio-robotics.com/
-
-1h ago
-
----
-
 **[Plume, a small biped robot](https://www.reddit.com/r/robotics/comments/1pqykl4/plume_a_small_biped_robot/)**
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-11h ago
+12h ago
 
 ---
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -96,13 +104,7 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-16h ago
-
----
-
-**[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
-
-20h ago
+17h ago
 
 ---
 
@@ -196,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 9K • 👍 280 • 💬 25 • ⏱️ 2:08:46 • 9h ago
+👁️ 9K • 👍 280 • 💬 25 • ⏱️ 2:08:46 • 10h ago
 
 ---
 
@@ -266,7 +268,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 16K • 👍 38 • ⏱️ 0:09 • 22h ago
+👁️ 16K • 👍 38 • ⏱️ 0:09 • 23h ago
 
 ---
 

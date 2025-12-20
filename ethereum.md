@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T10:27:13.875655+00:00'
+updated: '2025-12-20T10:44:56.804177+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 10:27 UTC  
+**Last Updated:** December 20, 2025 at 10:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** -2.9%  
+**7d:** -2.8%  
 **30d:** +7.6%  
 **90d:** -29.1%  
 **1y:** -10.8%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.10B
+**Market Cap:** $358.97B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.8%
 
 **All-Time Low:** $0.43
-+688912.6%
++687095.0%
 
 ---
 
@@ -118,7 +118,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 19h ago
 
 ---
 
@@ -150,11 +150,27 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
-**[Ethereum’s network growth explodes in December — but price still lags](https://ambcrypto.com/ethereums-network-growth-explodes-in-december-but-price-still-lags/)**
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
 
-Ethereum is adding new wallets at its fastest pace in months, signaling rising on-chain activity and renewed user interest.
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-AMBCrypto • 13h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+
+TradingView — Track All Markets • 22h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
+
+FXStreet • 1d ago
 
 ---
 
@@ -168,7 +184,7 @@ Crypto Briefing • 2d ago
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -204,25 +220,11 @@ ts2.tech • 15h ago
 
 ---
 
-**[Bitmine Immersion Technologies: Time To Start Paying Attention (NYSE:BMNR)](https://seekingalpha.com/article/4854737-bitmine-immersion-technologies-time-to-start-paying-attention)**
+**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
 
-Discover how Bitmine Immersion Technologies (BMNR) offers unique Ethereum exposure.
+Is Ethereum really on the path to a price of $62,000 next year?
 
-Seeking Alpha • 16h ago
-
----
-
-**[Ethereum is Down, But Tom Lee and Ark Invest Makes New Moves](https://beincrypto.com/bitmine-ethereum-tom-lee-us-crypto-news/)**
-
-What is the biggest crypto news today? BitMine faces Ethereum losses as Tom Lee and Ark Invest continue buying, defying market pressure.
-
-BeInCrypto • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqeD1r2DB181RvCUoQ-4XHz5hAURM3ym81Ym3oT6mTgdldaCPQbsJzKQ&gaa_ts=69467683&gaa_sig=QIIKgab3w0_KBMFkD3o2U2eHnr4KbjdLxWBaMqee4sWhferaRs46C9d3OsS6tvll-PRwuGn44Cz5sC_znXcusQ%3D%3D)**
-
-Barron's • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -266,7 +268,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 307 • 💬 111 • ⏱️ 22:39 • 15h ago
+👁️ 8K • 👍 307 • 💬 111 • ⏱️ 22:39 • 16h ago
 
 ---
 
@@ -306,7 +308,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 764 • 👍 68 • ⏱️ 58:50 • 14h ago
+👁️ 764 • 👍 68 • ⏱️ 58:50 • 15h ago
 
 ---
 

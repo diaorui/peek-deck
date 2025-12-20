@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T10:27:13.869116+00:00'
+updated: '2025-12-20T10:44:56.798089+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 10:27 UTC  
+**Last Updated:** December 20, 2025 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.0%  
-**30d:** +3.9%  
-**90d:** -21.7%  
-**1y:** -9.2%  
+**24h:** -0.2%  
+**7d:** -0.2%  
+**30d:** +3.7%  
+**90d:** -21.9%  
+**1y:** -9.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.36B
+**Market Cap:** $1759.29B
 Rank #1
 
 **Circulating Supply:** 19,964,606 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.1%
 
 **All-Time Low:** $67.81
-+130000.3%
++129869.0%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-9h ago
+10h ago
 
 ---
 
@@ -109,9 +109,9 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ---
 
-**[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
+**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-22h ago
+1h ago
 
 ---
 
@@ -121,11 +121,17 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ---
 
+**[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
+
+22h ago
+
+---
+
 **[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-19h ago
+20h ago
 
 ---
 
@@ -135,19 +141,13 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 ---
 
-**[Victory](https://www.reddit.com/r/Bitcoin/comments/1pqutyf/victory/)**
-
-14h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeJRZ1Z67o-oSD5g0pymZrIKTPGttfbcXqyPDQBSQWhrN9wYaXjs2Mv&gaa_ts=6946765c&gaa_sig=cMlgQi3w0zF5yYOYW9TIbHoI6zv3toQs3AqDXzSHyqZrIG_fFN0uT97x-wn8LnUp_6ZZvXF3r-wOLynyGXFgLg%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqe5vzkMiyunEknx1KyZmy983RXIGK9rtVW4PL7obpE2wz_ywa09E0XV&gaa_ts=69468192&gaa_sig=8YHPJ4gbPM0JLDGF8vbuNe1Ar3htg2aXgw8hPBSLCDLbZeuDW_ev7AgnuzlW6xCkGZ6qoc1S2SfT-hHZsAGTSg%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 17h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfL_Ce3mCtKyCZxAkAd23R2RgritoXeeXHzAkbbWZF6rTyez2eXW4M2&gaa_ts=6946765c&gaa_sig=mWBSFxim1GlxIU95IdCXWJRSTBGLZ2l9B79n_YSOctZDlo4m4rQNiVBR-_COQj8dZJQaHUVlYR3jcSsPmfCpKw%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeuepPi_JwH4vZzfcT6YUZvRs1QZIDeTLRBEG0OAvhl-Y3SEO9xBg5Q&gaa_ts=69468192&gaa_sig=Y1vWgeIwtNJD1lnekcYoj7WBY49dWqfIwOEqMy1FGLczhePz6M12QEF8Dk4sXoJ8iKY9edTwFxc0ujU80vnwFQ%3D%3D)**
 
 MarketWatch • 20h ago
 
@@ -209,9 +209,11 @@ CoinDesk • 17h ago
 
 ---
 
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
-Forbes • 1d ago
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+
+The Motley Fool • 34m ago
 
 ---
 
@@ -283,7 +285,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 464 • 💬 194 • ⏱️ 10:58 • 9h ago
+👁️ 9K • 👍 464 • 💬 194 • ⏱️ 10:58 • 10h ago
 
 ---
 
@@ -293,7 +295,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 65 • ⏱️ 13:47 • 10h ago
+👁️ 24K • 👍 1K • 💬 65 • ⏱️ 13:47 • 11h ago
 
 ---
 
