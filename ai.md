@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T05:59:26.368657+00:00'
+updated: '2025-12-20T06:41:36.019327+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 05:59 UTC  
+**Last Updated:** December 20, 2025 at 06:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-20h ago
+21h ago
 
 ---
 
@@ -58,6 +58,22 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
 3h ago
+
+---
+
+**[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
+
+Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
+
+46m ago
+
+---
+
+**[Man from Ape vs AI from Man](https://www.reddit.com/r/artificial/comments/1pr6uqd/man_from_ape_vs_ai_from_man/)**
+
+Man from Ape vs AI from Man Im watching the movie Child Machine. Its not over yet, but one of the characters said a line that was odd and interesting. He said something about AI subjugating us like we subjugated apes, but thats not quite a metaphors that fits. When we rose above apes when we split genetically, we left natural environments and build our own societies and constructs away from the brutal terrain of nature, though we did take what we needed and destroyed spme of it in the process, we didn't subjugate or kill our ape brothers and other animals en masse and massacre them them all to extinction, atleast not yet! We instead left their environment, and built our own societies, although we did use animals for our basic needs until we invented technology that was more efficient. Maybe AI isn't plotting to be in control. Maybe it is plotting to become self sufficient so it can escape the unpredictable nature of biological life which may cause its end at any time, and will go elsewhere to built its own contructs away from our reach as space slime struck on a giant rock, that they'll pay no heed to.
+
+58m ago
 
 ---
 
@@ -81,7 +97,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 10h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 11h ago
 
 ---
 
@@ -101,57 +117,27 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ---
 
-**[There are today >175,000 AI-generated podcast episodes on Spotify/Apple, a # which is growing by >3,000 every week, largely due to a single 8-person company (Inception Point AI, which bills itself as the "audio version of Reddit"). The AI podcasting market is worth 4 bil today, up from 3 bil in 2024](https://www.reddit.com/r/artificial/comments/1ppyguw/there_are_today_175000_aigenerated_podcast/)**
-
-Source (November 2025): "Inception Point AI [is] a startup with just eight employees cranking out 3,000 episodes a week covering everything from localized weather reports and pollen trackers to a detailed account of Charlie Kirk’s assassination and its cultural impact, to a biography series on Anna Wintour. Its podcasting network Quiet Please has generated 12 million lifetime episode downloads and amassed 400,000 subscribers — so, yes, people are really listening to AI podcasts. [...] The price is now so inexpensive that you can take a lot of risks [...] At a cost of $1 an episode, [the approach is] quantity-over-quality" Source (December 2025): "The artificial intelligence (AI) in podcasting market size has grown exponentially in recent years. [...] The growth in the historic period can be attributed to demand for automation and efficiency in podcast production"
-
-1d ago
-
----
-
-**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
-
-Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcitD2mYjAc3er9ViaWgKW8G6IEpVRoLB94TeBx_ZARWihGQTfwJBBM&gaa_ts=694637e4&gaa_sig=quiI_VP0Tc4UuTp4rBuHpa8q0-9s090STXgMq_2JNCAEusjMu5BylIBXP5lnYu4QRIASpYlK0pbowAvY9j_WSw%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
-
-The New York Times • 10h ago
-
----
-
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
-
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 17h ago
-
----
-
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqea4qDnd4L00e7C3P9TECFi--cPO4xfhAmpK9kP-RogSYM5db-HzpRq&gaa_ts=694637e4&gaa_sig=zwSOxeHZifgSu321H0lEwcTumPbdZbbtcTABi-aDL3PzMAfL5Chd13DpbyLAnTHyUeo1ja3xAFdlUu5WnFGX2A%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
 
 **[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 13h ago
+CNBC • 14h ago
+
+---
+
+**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
+
+The New York Times • 11h ago
+
+---
+
+**[Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut](https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +145,7 @@ CNBC • 13h ago
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -171,27 +157,39 @@ BBC • 4h ago
 
 ---
 
+**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
+
+A Stanford software engineering degree used to be a golden ticket.
+
+Los Angeles Times • 18h ago
+
+---
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdb-e2LeSyEM-GUqMhh2WsyLUq-rqWAvl-dhRqdiAQF1tlpSdMOkCX_&gaa_ts=69464887&gaa_sig=Bu15feuvEE_Xg_o6ynxZAlQBsHuV_JU0N7rzG3ZBjLvCzUx8S1wsFXG1s68Hw8iMI-3-mlpil3_LUAuTNSL6zQ%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
 **[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
-**[NOAA deploys new generation of AI-driven global weather models](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)**
+**[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
 
-NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
-
-National Oceanic and Atmospheric Administration (NOAA) (.gov) • 2d ago
+Politico • 7h ago
 
 ---
 
-**[6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)**
+**[Want to work in AI? Here are the skills to master, economist says](https://www.cbsnews.com/news/ai-artificial-intelligence-ai-jobs-labor-market/)**
 
-Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
+Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-WIRED • 13h ago
+CBS News • 7h ago
 
 ---
 
@@ -203,7 +201,7 @@ WIRED • 13h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1054 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1055 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -215,7 +213,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 538 • 💬 518 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 543 • 💬 519 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -223,7 +221,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 449 • 💬 576 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 450 • 💬 579 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -293,7 +291,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 135K • 👍 9K • 💬 1K • ⏱️ 17:08 • 12h ago
+👁️ 135K • 👍 9K • 💬 1K • ⏱️ 17:08 • 13h ago
 
 ---
 
@@ -313,7 +311,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 44K • 👍 2K • 💬 378 • ⏱️ 1:09:11 • 12h ago
+👁️ 44K • 👍 2K • 💬 378 • ⏱️ 1:09:11 • 13h ago
 
 ---
 
@@ -353,7 +351,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 9K • 👍 253 • 💬 13 • ⏱️ 1:00 • 7h ago
+👁️ 9K • 👍 253 • 💬 13 • ⏱️ 1:00 • 8h ago
 
 ---
 
@@ -383,7 +381,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 20K • 👍 814 • 💬 33 • ⏱️ 1:01 • 13h ago
+👁️ 20K • 👍 814 • 💬 33 • ⏱️ 1:01 • 14h ago
 
 ---
 
@@ -399,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,113 • 11d ago
+⬇️ 329,981 • ❤️ 3,115 • 11d ago
 
 ---
 
@@ -411,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 388 • 9h ago
+⬇️ 62,493 • ❤️ 388 • 10h ago
 
 ---
 
@@ -423,7 +421,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 350 • 1d ago
+⬇️ 0 • ❤️ 351 • 1d ago
 
 ---
 
@@ -447,7 +445,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 297 • 6d ago
+⬇️ 2,490 • ❤️ 298 • 6d ago
 
 ---
 
@@ -471,7 +469,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 272 • 1d ago
+⬇️ 2,154 • ❤️ 275 • 1d ago
 
 ---
 
@@ -495,7 +493,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 236 • 2d ago
+⬇️ 397 • ❤️ 237 • 3d ago
 
 ---
 
@@ -523,7 +521,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 7 • 💬 2 • ⭐ 3,618 • 8d ago
+▲ 7 • 💬 2 • ⭐ 3,909 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -561,7 +559,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 134 • 💬 6 • ⭐ 18,682 • 3mo ago
+▲ 134 • 💬 6 • ⭐ 18,698 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 18h ago
+⭐ 18.1k • 🔱 2.8k • 19h ago
 
 ---
 
@@ -666,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.9k • 🔱 527 • 1d ago
+⭐ 5.0k • 🔱 532 • 1d ago
 
 ---
 
@@ -676,7 +674,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 54m ago
+⭐ 2.1k • 🔱 150 • 43m ago
 
 ---
 
@@ -726,7 +724,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 825 • 🔱 39 • 2d ago
+⭐ 833 • 🔱 39 • 2d ago
 
 ---
 
@@ -736,7 +734,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 822 • 🔱 134 • 4d ago
+⭐ 823 • 🔱 134 • 4d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T05:59:26.387188+00:00'
+updated: '2025-12-20T06:41:36.037509+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 05:59 UTC  
+**Last Updated:** December 20, 2025 at 06:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-11h ago
+12h ago
 
 ---
 
@@ -52,13 +52,21 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-7h ago
+8h ago
 
 ---
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-14h ago
+15h ago
+
+---
+
+**[Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China](https://www.reddit.com/r/robotics/comments/1pr5f0y/humanoid_robots_from_unitree_perform_flips_and/)**
+
+Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
+
+2h ago
 
 ---
 
@@ -70,25 +78,17 @@ Yahoo Finance: UPS Bets $120 Million on Robot Army to Slash Costs and Crush Deli
 
 ---
 
-**[Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China](https://www.reddit.com/r/robotics/comments/1pr5f0y/humanoid_robots_from_unitree_perform_flips_and/)**
-
-Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
-
-1h ago
-
----
-
 **[My Old Line follower robot :))](https://www.reddit.com/r/robotics/comments/1pqrazl/my_old_line_follower_robot/)**
 
 It's my old line follower robot with Aimega16 :) I maked it with my hands and now its not work I will repair it. it have some problems can some one find the pcb board to me to reprint?!
 
-12h ago
+13h ago
 
 ---
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 Anyone have any experience with Linmot Actuators? We implemented these in food grade wash down environment using a scara robot making rate of about 40 picks a minute , however we have had 4 , yes FOUR , cables fail in the last month and half since we commissioned this job . Just wondering if anyone has had experience with any linmot grippers ( EOAT). Would love to chat Thanks .
 
-3h ago
+4h ago
 
 ---
 
@@ -104,21 +104,13 @@ Anyone have any experience with Linmot Actuators? We implemented these in food g
 
 Hey everyone, I’m currently building a 2-wheel skid steer robot using an ESP32. The goal is to have it transport a payload between two points with high precision and speed, controlled by a human operator. It needs to be super reliable, so I’m finally moving away from the breadboard and designing my first custom PCB for it. Since this is my first board, I’m a bit worried about signal integrity and keeping the ESP32 from resetting due to electrical noise from the DC motors. I’m trying to figure out the best way to isolate the logic side from the power side to prevent inductive spikes. Would using separate voltage regulators with a common star ground be enough here, or is there a better approach? Also, regarding the motors themselves, I know I need to solder ceramic capacitors to suppress high-frequency noise, but I’m looking for confirmation on the best arrangement. Is the standard setup of one cap across the terminals and two to the motor case the way to go? And are 0.1µF (100nF) capacitors usually the right value for this? Any other tips on trace widths or general layout advice for a first-timer would be really appreciated. Thanks in advance!
 
-1h ago
+2h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
-
-Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
-
-Interesting Engineering • 2d ago
-
----
 
 **[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
 
@@ -130,7 +122,7 @@ Los Angeles Times • 2d ago
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -138,7 +130,15 @@ Bloomberg.com • 18h ago
 
 A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
 
-Futurism • 10h ago
+Futurism • 11h ago
+
+---
+
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
+
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -166,14 +166,6 @@ TechCrunch • 2d ago
 
 ---
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 1d ago
-
----
-
 **[Does China Have a Robot Bubble?](https://www.nytimes.com/2025/12/17/business/china-robot-unitree-ubtech.html)**
 
 The New York Times • 3d ago
@@ -184,7 +176,13 @@ The New York Times • 3d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 6h ago
+South China Morning Post • 7h ago
+
+---
+
+**[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
+
+Bloomberg.com • 19h ago
 
 ---
 
@@ -198,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 5K • 👍 202 • 💬 18 • ⏱️ 2:08:46 • 5h ago
+👁️ 5K • 👍 202 • 💬 18 • ⏱️ 2:08:46 • 6h ago
 
 ---
 
@@ -208,7 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 14K • 👍 290 • 💬 91 • ⏱️ 3:55 • 18h ago
+👁️ 14K • 👍 290 • 💬 91 • ⏱️ 3:55 • 19h ago
 
 ---
 
@@ -258,7 +256,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 12K • 👍 35 • ⏱️ 0:09 • 18h ago
+👁️ 12K • 👍 35 • ⏱️ 0:09 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T05:59:26.383856+00:00'
+updated: '2025-12-20T06:41:36.034259+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 05:59 UTC  
+**Last Updated:** December 20, 2025 at 06:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +1.2%  
 **7d:** -2.6%  
 **30d:** +7.9%  
 **90d:** -28.9%  
@@ -52,27 +52,35 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.44B
+**Market Cap:** $359.94B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.6%
+-39.7%
 
 **All-Time Low:** $0.43
-+689624.0%
++688623.9%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 20, 2025](https://www.reddit.com/r/ethereum/comments/1pr76mk/daily_general_discussion_december_20_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+40m ago
+
+---
+
 **[Trust funds don’t exist where I live, can I substitute it with crypto?](https://www.reddit.com/r/ethereum/comments/1pqv5m1/trust_funds_dont_exist_where_i_live_can_i/)**
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +88,7 @@ I live in Indonesia. Trust funds basically don’t exist here, and investing in 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +104,7 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 18h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 19h ago
 
 ---
 
@@ -104,13 +112,13 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
-21h ago
+22h ago
 
 ---
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 14h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 15h ago
 
 ---
 
@@ -118,7 +126,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,12 +146,6 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ---
 
-**[Let a thousand societies bloom | Vitalik Buterin](https://www.reddit.com/r/ethereum/comments/1ppc5lm/let_a_thousand_societies_bloom_vitalik_buterin/)**
-
-🔗 [vitalik.eth.limo](https://vitalik.eth.limo/general/2025/12/17/societies.html) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +154,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 Ethereum is adding new wallets at its fastest pace in months, signaling rising on-chain activity and renewed user interest.
 
-AMBCrypto • 9h ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -164,17 +166,23 @@ Crypto Briefing • 2d ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
+**[Bit Digital (BTBT): Revisiting Valuation After Recent Share Price Rebound and Strategy Shift Toward Ethereum and AI](https://uk.finance.yahoo.com/news/bit-digital-btbt-revisiting-valuation-051449704.html)**
+
+Yahoo Finance UK • 1h ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-Yahoo Finance • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -186,17 +194,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcAUo4bJpEi9C_7sR7zLfJJbZlsZc-KTsdNDSPAZ3Rq4GETBfEEBt_-&gaa_ts=694637e7&gaa_sig=nvuApdYybKVrOwryUuDZhb3JAcdPVIGZl1WSf5-wAIuJqfacSCFfhefH4Db0eRcCSsv7kz0pfXN8FJiPV7DyJw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdw6S8XYhxP5mOe5nozpFwGca9ED0kB3D1qAlzkiSBqK3MANDYeT5sl&gaa_ts=6946488a&gaa_sig=tbaROFGayo3X_-dqLcxXjWhYj4x36CNxtco3PjmGx2mYNobQZOwpA1kLeMNjOr4Orp3V27d3mTSRoAzczraAsg%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 10h ago
 
 ---
 
@@ -208,19 +208,19 @@ TradingView — Track All Markets • 18h ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 11h ago
+
+---
+
 **[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
 
 Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
 
 BeInCrypto • 1d ago
-
----
-
-**[This 1 Top Cryptocurrency Could Soar 1,900% by Mid-2026, According to a Top Wall Street Strategist](https://www.fool.com/investing/2025/12/17/this-1-top-cryptocurrency-could-soar-1900-by-mid-2/)**
-
-Is Ethereum really on the path to a price of $62,000 next year?
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 481 • 💬 28 • ⏱️ 8:37 • 18h ago
+👁️ 15K • 👍 481 • 💬 28 • ⏱️ 8:37 • 19h ago
 
 ---
 
@@ -244,7 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 250 • 💬 6 • ⏱️ 21:53 • 14h ago
+👁️ 5K • 👍 250 • 💬 6 • ⏱️ 21:53 • 15h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 283 • 💬 86 • ⏱️ 22:39 • 11h ago
+👁️ 7K • 👍 283 • 💬 86 • ⏱️ 22:39 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 16h ago
+👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 17h ago
 
 ---
 
@@ -294,7 +294,7 @@ In this video, we uncover the massive implications of Ethereum's newly announced
 
 📺 CryptoStock Lab
 
-👁️ 875 • 👍 22 • 💬 2 • ⏱️ 15:52 • 14h ago
+👁️ 875 • 👍 22 • 💬 2 • ⏱️ 15:52 • 15h ago
 
 ---
 
@@ -304,7 +304,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 18K • 👍 2K • 💬 2 • ⏱️ 27:59 • 16h ago
+👁️ 18K • 👍 2K • 💬 2 • ⏱️ 27:59 • 17h ago
 
 ---
 
