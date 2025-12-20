@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T05:30:38.702998+00:00'
+updated: '2025-12-20T05:48:39.153670+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 05:30 UTC  
+**Last Updated:** December 20, 2025 at 05:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -151,7 +151,7 @@ The Wall Street Journal • 1h ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNN • 19h ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -363,7 +363,7 @@ The condensed highlights of hours of AI lab leader interviews, last-48-hour mode
 
 📺 AI Explained
 
-👁️ 41K • 👍 2K • 💬 255 • ⏱️ 20:00 • 12h ago
+👁️ 41K • 👍 2K • 💬 255 • ⏱️ 20:00 • 13h ago
 
 ---
 
@@ -383,7 +383,7 @@ A Rabbit's Kindness, A Man's Cruel Choice #ai #plants #trending #growth.
 
 📺 Ai creator
 
-👁️ 267 • ⏱️ 0:21 • 1h ago
+👁️ 267 • ⏱️ 0:21 • 2h ago
 
 ---
 
@@ -676,7 +676,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 25m ago
+⭐ 2.1k • 🔱 150 • 43m ago
 
 ---
 

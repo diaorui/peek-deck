@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T05:30:38.711588+00:00'
+updated: '2025-12-20T05:48:39.162019+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 05:30 UTC  
+**Last Updated:** December 20, 2025 at 05:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +1.3%  
+**7d:** +0.3%  
+**30d:** +4.2%  
+**90d:** -21.5%  
+**1y:** -9.0%  
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-41m ago
+59m ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -183,13 +183,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfZisIWe1509WnhUBNs2KWrqed_okpDb0AlTcxS3QjlQ6heUgDxcs2p&gaa_ts=694637e5&gaa_sig=jaGbWvcXwtAq7JfK90M5GqRFDlO6Z_N6wA26vAz5dPjmqiltvIDj8T97nBmigP95ie5uSoTI5cPCFw5potsfxw%3D%3D)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Wall Street Journal • 3d ago
 
 Some Bitcoin mining companies are turning away from cryptocurrency and embracing artificial intelligence. NPR's "The Indicator" podcast explains why.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -259,7 +259,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
 
-⬆️ 1 • 💬 0 • 4m ago
+⬆️ 1 • 💬 0 • 22m ago
 
 ---
 
@@ -305,7 +305,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 273 • 💬 120 • ⏱️ 10:58 • 4h ago
+👁️ 3K • 👍 273 • 💬 120 • ⏱️ 10:58 • 5h ago
 
 ---
 
@@ -315,7 +315,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 908 • 💬 52 • ⏱️ 13:47 • 5h ago
+👁️ 12K • 👍 908 • 💬 52 • ⏱️ 13:47 • 6h ago
 
 ---
 
