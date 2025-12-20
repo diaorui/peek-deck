@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T21:59:19.558853+00:00'
+updated: '2025-12-20T22:26:50.765172+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 21:59 UTC  
+**Last Updated:** December 20, 2025 at 22:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 20h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 10h ago
+The New Yorker • 11h ago
 
 ---
 
@@ -169,19 +169,19 @@ Fortune • 1d ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 58m ago
+Axios • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 58m ago
 
 As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
 
-NPR • 21h ago
+NPR • 22h ago
 
 ---
 
@@ -287,7 +287,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 109 • ⏱️ 37:38 • 7h ago
+👁️ 20K • 👍 1K • 💬 109 • ⏱️ 37:38 • 8h ago
 
 ---
 
@@ -357,7 +357,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 20K • 👍 494 • 💬 14 • ⏱️ 1:00 • 23h ago
+👁️ 20K • 👍 494 • 💬 14 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -561,20 +561,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,471 • 23d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -611,6 +597,20 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 ▲ 30 • 💬 2 • ⭐ 12,851 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 27 • 💬 2 • ⭐ 7,491 • 23d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 160 • 3h ago
+⭐ 2.2k • 🔱 160 • 4h ago
 
 ---
 
@@ -701,7 +701,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 921 • 🔱 43 • 2d ago
+⭐ 922 • 🔱 43 • 2d ago
 
 ---
 
@@ -711,7 +711,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 913 • 🔱 24 • 13d ago
+⭐ 914 • 🔱 24 • 13d ago
 
 ---
 
@@ -721,7 +721,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 882 • 🔱 50 • 5d ago
+⭐ 883 • 🔱 50 • 5d ago
 
 ---
 
@@ -731,7 +731,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 830 • 🔱 135 • 5h ago
+⭐ 830 • 🔱 135 • 6h ago
 
 ---
 
@@ -741,7 +741,7 @@ Open Source Semantic Search for your AI Agent
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 805 • 🔱 75 • 4h ago
+⭐ 806 • 🔱 76 • 4h ago
 
 ---
 

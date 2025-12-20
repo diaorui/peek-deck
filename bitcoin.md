@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T21:59:19.567787+00:00'
+updated: '2025-12-20T22:26:50.773549+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 21:59 UTC  
+**Last Updated:** December 20, 2025 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +0.1%  
-**30d:** +4.0%  
+**24h:** +0.1%  
+**7d:** +0.0%  
+**30d:** +3.9%  
 **90d:** -21.7%  
 **1y:** -9.2%  
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-2h ago
+3h ago
 
 ---
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -113,13 +113,13 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-13h ago
+14h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -151,7 +151,7 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 1d ago
 
 Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
 
-CoinDesk • 28m ago
+CoinDesk • 55m ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 2d ago
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -215,7 +215,7 @@ Forbes • 9h ago
 
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -299,7 +299,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 2K • ⏱️ 46:11 • 7h ago
+👁️ 24K • 👍 2K • ⏱️ 46:11 • 8h ago
 
 ---
 
@@ -309,7 +309,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 750 • 💬 56 • ⏱️ 14:31 • 4h ago
+👁️ 7K • 👍 750 • 💬 56 • ⏱️ 14:31 • 5h ago
 
 ---
 
@@ -339,7 +339,7 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 53K • 👍 2K • 💬 168 • ⏱️ 16:50 • 1d ago
+👁️ 53K • 👍 2K • 💬 168 • ⏱️ 16:50 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T21:59:19.577022+00:00'
+updated: '2025-12-20T22:26:50.783046+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 21:59 UTC  
+**Last Updated:** December 20, 2025 at 22:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Website: https://www.nio-robotics.com/
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-17h ago
+18h ago
 
 ---
 
@@ -164,7 +164,7 @@ TechCrunch • 3d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 22h ago
+South China Morning Post • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ Are you stuck at the last minute for a Christmas gift? Wondering how to “wow�
 
 📺 FRANCE 24 English
 
-👁️ 5K • 👍 70 • 💬 21 • ⏱️ 2:09 • 23h ago
+👁️ 5K • 👍 70 • 💬 21 • ⏱️ 2:09 • 1d ago
 
 ---
 

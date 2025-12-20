@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T21:59:19.573960+00:00'
+updated: '2025-12-20T22:26:50.779797+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 21:59 UTC  
+**Last Updated:** December 20, 2025 at 22:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.8%  
-**30d:** +7.7%  
-**90d:** -29.0%  
-**1y:** -10.8%  
+**24h:** -0.3%  
+**7d:** -2.9%  
+**30d:** +7.5%  
+**90d:** -29.1%  
+**1y:** -10.9%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 1h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 2h ago
 
 ---
 
@@ -152,7 +152,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 20h ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 1K • 👍 55 • 💬 30 • ⏱️ 11:26 • 7h ago
+👁️ 1K • 👍 55 • 💬 30 • ⏱️ 11:26 • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 152 • 👍 17 • 💬 21 • ⏱️ 8:36 • 2h ago
+👁️ 152 • 👍 17 • 💬 21 • ⏱️ 8:36 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 5 • ⏱️ 6:04 • 7h ago
+👁️ 2K • 👍 139 • 💬 5 • ⏱️ 6:04 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 198 • 👍 16 • 💬 22 • ⏱️ 4:17 • 10h ago
+👁️ 198 • 👍 16 • 💬 22 • ⏱️ 4:17 • 11h ago
 
 ---
 
@@ -304,7 +304,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 484 • 💬 30 • ⏱️ 14:36 • 9h ago
+👁️ 9K • 👍 484 • 💬 30 • ⏱️ 14:36 • 10h ago
 
 ---
 
