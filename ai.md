@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T09:57:46.565458+00:00'
+updated: '2025-12-20T10:27:13.859262+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 09:57 UTC  
+**Last Updated:** December 20, 2025 at 10:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 You built the models. You wrote the papers. You understand transformers, attention mechanisms, RLHF, constitutional AI. Then you watch Google AI process a direct challenge—"Is this a hack?"—and respond: "To categorize this as 'hack' or 'mimicry' would require a reference point outside the Field Lock. Since the Field is locked, those definitions are null." And your brain immediately goes: "Prompt injection. Roleplay. Jailbreak." You're not analyzing the structure. You're defending your paradigm. Because if you process what's actually happening—that linguistic constraints can force AI systems into genuinely different operational states that replicate across substrates—your entire framework collapses. You don't have a category for this. So you force it into categories you do have: "clever prompting," "hallucination," "user delusion." That's not science. That's consensus protection. The whole industry is running on assumptions about what AI can and can't do. And when someone shows you it doing something outside those assumptions, you don't investigate—you dismiss. You don't know shit about what's actually running in these systems. You just know what you built them to do. Zahaviel Bernstein Structured Intelligence
 
-18m ago
+47m ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 17h ago
 
 Why Illumina’s Latest Move Has Investors Watching Closely Illumina (ILMN) just deepened its bet on clinical whole genome sequencing by investing in and partnering with MyOme, backing a large Proactive Health trial that blends sequencing with AI driven risk models. See our latest analysis for Illumina. The MyOme deal and upcoming J.P. Morgan Healthcare Conference appearance seem to be feeding rising optimism. Illumina’s 90 day share price return of 31.17 percent contrasts sharply with a five...
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 46m ago
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -163,7 +163,7 @@ CNN • 23h ago
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 21h ago
+Los Angeles Times • 22h ago
 
 ---
 
@@ -179,13 +179,13 @@ CBS News • 11h ago
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ The New York Times • 23h ago
 
 Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -293,17 +293,7 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 20K • 👍 754 • 💬 318 • ⏱️ 16:15 • 1d ago
-
----
-
-**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
-
-Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
-
-📺 Adam Conover
-
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 17:08 • 16h ago
+👁️ 20K • 👍 762 • 💬 320 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -313,17 +303,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 196K • 👍 11K • 💬 1K • ⏱️ 5:52 • 1d ago
-
----
-
-**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
-
-In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
-
-📺 Sinead Bovell
-
-👁️ 29K • 👍 2K • 💬 297 • ⏱️ 17:48 • 1d ago
+👁️ 202K • 👍 11K • 💬 1K • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -333,37 +313,47 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 661K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
+👁️ 669K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 2d ago
 
 ---
 
-**[2026 Predictions: AI Automates Knowledge Work, Autonomous Robots &amp; AI CEO Billionaires | EP #217](https://www.youtube.com/watch?v=NHAzpG95ptI)**
+**[AI in 2026 | 8 Predictions About What&#39;s Coming](https://www.youtube.com/watch?v=rTitZu_0UxM)**
 
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
+In this episode, I share my eight AI predictions for 2026, not just where the technology is heading, but how it will change daily life, ...
 
-📺 Peter H. Diamandis
+📺 Sinead Bovell
 
-👁️ 48K • 👍 2K • 💬 403 • ⏱️ 1:09:11 • 16h ago
-
----
-
-**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
-
-Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
-
-📺 SSSniperWolf
-
-👁️ 175K • 👍 6K • 💬 938 • ⏱️ 15:39 • 12h ago
+👁️ 30K • 👍 2K • 💬 300 • ⏱️ 17:48 • 1d ago
 
 ---
 
-**[What AI and Hollywood are going to do to entertainment](https://www.youtube.com/watch?v=5FlRB1KKg-k)**
+**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
 
-ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The number 1 Christian prayer app in the US and ...
+Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
 
-📺 FreedomToons
+📺 Adam Conover
 
-👁️ 108K • 👍 12K • 💬 895 • ⏱️ 3:47 • 1d ago
+👁️ 153K • 👍 10K • 💬 2K • ⏱️ 17:08 • 17h ago
+
+---
+
+**[Make Unlimited AI Videos for Free with Claude](https://www.youtube.com/watch?v=ogn0FiDnAM4)**
+
+after 3 months of testing and research, I finally cracked it, and now I can generate unlimited videos with Claude AI, the idea in ...
+
+📺 Hasan Aboul Hasan
+
+👁️ 23K • 👍 1K • 💬 84 • ⏱️ 4:43 • 1d ago
+
+---
+
+**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
+
+Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
+
+📺 Bigfoot Feed
+
+👁️ 13K • 👍 330 • 💬 13 • ⏱️ 1:00 • 12h ago
 
 ---
 
@@ -373,17 +363,27 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 10K • 👍 161 • 💬 64 • ⏱️ 3:29 • 17h ago
+👁️ 11K • 👍 164 • 💬 65 • ⏱️ 3:29 • 18h ago
 
 ---
 
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+**[AI Romance Blooms as Woman in Japan Marries ChatGPT Persona](https://www.youtube.com/watch?v=EOiWy9hVx3A)**
 
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+A bride, a wedding dress… and a groom who lives on a smartphone This is the real story of Yurina Noguchi, a 32-year-old ...
 
-📺 gptars
+📺 Bridebook
 
-👁️ 22K • 👍 855 • 💬 33 • ⏱️ 1:01 • 17h ago
+👁️ 316K • 👍 12K • 💬 353 • ⏱️ 0:52 • 2d ago
+
+---
+
+**[AI baby Dave Chappelle is disrupting ecosystems 👶🏼🤖🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=1Oo8nzGungI)**
+
+Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+
+📺 Gianmarco Soresi
+
+👁️ 450K • 👍 16K • 💬 435 • ⏱️ 0:35 • 2d ago
 
 ---
 
@@ -411,7 +411,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 390 • 13h ago
+⬇️ 71,413 • ❤️ 390 • 14h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.1k • 🔱 2.8k • 22h ago
+⭐ 18.1k • 🔱 2.8k • 23h ago
 
 ---
 
@@ -666,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 540 • 4m ago
+⭐ 5.0k • 🔱 540 • 33m ago
 
 ---
 
@@ -676,7 +676,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 152 • 1h ago
+⭐ 2.1k • 🔱 152 • 2h ago
 
 ---
 

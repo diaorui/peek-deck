@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T09:57:46.580337+00:00'
+updated: '2025-12-20T10:27:13.875655+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 09:57 UTC  
+**Last Updated:** December 20, 2025 at 10:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -2.6%  
-**30d:** +7.9%  
-**90d:** -28.9%  
-**1y:** -10.6%  
+**24h:** +0.5%  
+**7d:** -2.9%  
+**30d:** +7.6%  
+**90d:** -29.1%  
+**1y:** -10.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 23h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 1d ago
 
 ---
 
@@ -112,7 +112,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 22h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 23h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 22h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -200,7 +200,7 @@ BeInCrypto • 1d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
 
-ts2.tech • 14h ago
+ts2.tech • 15h ago
 
 ---
 
@@ -236,7 +236,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 22h ago
+👁️ 16K • 👍 491 • 💬 28 • ⏱️ 8:37 • 23h ago
 
 ---
 
@@ -246,7 +246,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 269 • 💬 7 • ⏱️ 21:53 • 18h ago
+👁️ 7K • 👍 283 • 💬 8 • ⏱️ 21:53 • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 470 • 💬 55 • ⏱️ 16:54 • 1d ago
+👁️ 14K • 👍 476 • 💬 58 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 297 • 💬 106 • ⏱️ 22:39 • 15h ago
+👁️ 8K • 👍 307 • 💬 111 • ⏱️ 22:39 • 15h ago
 
 ---
 
@@ -276,37 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 20h ago
-
----
-
-**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
-
-Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
-
-📺 Sin City Crypto
-
-👁️ 744 • 👍 67 • ⏱️ 58:50 • 14h ago
-
----
-
-**[XRP ETFs CRUSHING Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=9vySY0ML4Ik)**
-
-FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
-
-📺 Paul Barron Podcast
-
-👁️ 17K • 👍 1K • 💬 178 • ⏱️ 35:52 • 19h ago
-
----
-
-**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 18K • 👍 2K • 💬 2 • ⏱️ 27:59 • 20h ago
+👁️ 3K • 👍 152 • 💬 11 • ⏱️ 9:41 • 21h ago
 
 ---
 
@@ -316,17 +286,47 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 15K • 👍 636 • 💬 261 • ⏱️ 33:33 • 2d ago
+👁️ 15K • 👍 639 • 💬 261 • ⏱️ 33:33 • 2d ago
 
 ---
 
-**[Hegota Upgrade Revealed: Why BlackRock &amp; BitMine Are Betting Big on Ethereum&quot;](https://www.youtube.com/watch?v=_9z2hB4blbY)**
+**[The Floodgates Are Open! Trillions Will Pour into BTC &amp; Crypto - Mike Novogratz](https://www.youtube.com/watch?v=zTrNPIqIhFg)**
 
-In this video, we uncover the massive implications of Ethereum's newly announced Hegota Upgrade scheduled for 2026. This isn't ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 CryptoStock Lab
+📺 Savvy Finance
 
-👁️ 919 • 👍 23 • 💬 2 • ⏱️ 15:52 • 18h ago
+👁️ 7K • 👍 288 • 💬 4 • ⏱️ 20:31 • 14h ago
+
+---
+
+**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
+
+Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
+
+📺 Sin City Crypto
+
+👁️ 764 • 👍 68 • ⏱️ 58:50 • 14h ago
+
+---
+
+**[XRP ETFs CRUSHING Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=9vySY0ML4Ik)**
+
+FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
+
+📺 Paul Barron Podcast
+
+👁️ 18K • 👍 1K • 💬 177 • ⏱️ 35:52 • 20h ago
+
+---
+
+**[Stability Remains for Bitcoin, XRP and Ethereum as Remainder of Altcoin Market Struggles to Hold](https://www.youtube.com/watch?v=9zgnpjM3J1I)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 19K • 👍 2K • 💬 2 • ⏱️ 27:59 • 21h ago
 
 ---
 

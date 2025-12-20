@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T09:57:46.583624+00:00'
+updated: '2025-12-20T10:27:13.879154+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 09:57 UTC  
+**Last Updated:** December 20, 2025 at 10:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Website: https://www.nio-robotics.com/
 
-38m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
 
-5h ago
+6h ago
 
 ---
 
@@ -102,7 +102,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -120,7 +120,7 @@ Los Angeles Times • 2d ago
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Bloomberg.com • 22h ago
 
 A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
@@ -136,7 +136,7 @@ Futurism • 14h ago
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 15h ago
+Futurism • 16h ago
 
 ---
 
@@ -168,7 +168,7 @@ TechCrunch • 2d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 10h ago
+South China Morning Post • 11h ago
 
 ---
 
@@ -182,7 +182,7 @@ Bloomberg.com • 23h ago
 
 ESCANABA — A couple of local teams of fourth- and fifth-graders are among the 48 that have traveled to Mason, Mich. this weekend for the state championship of FIRST robotics’ LEGO League Challenge — the youngest competing level for robotics. The Retro Rockets from Rapid River, the Brave Diamond Diggers from James T. Jones Elementary […]
 
-dailypress.net • 3h ago
+dailypress.net • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 7K • 👍 244 • 💬 20 • ⏱️ 2:08:46 • 9h ago
+👁️ 9K • 👍 280 • 💬 25 • ⏱️ 2:08:46 • 9h ago
 
 ---
 
@@ -206,7 +206,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 15K • 👍 300 • 💬 93 • ⏱️ 3:55 • 22h ago
+👁️ 17K • 👍 316 • 💬 98 • ⏱️ 3:55 • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 188K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
+👁️ 189K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
 
 ---
 
@@ -226,7 +226,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 31K • 👍 757 • 💬 121 • ⏱️ 6:41 • 5d ago
+👁️ 31K • 👍 758 • 💬 121 • ⏱️ 6:41 • 5d ago
 
 ---
 
@@ -246,7 +246,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 318 • 💬 33 • ⏱️ 1:05 • 4d ago
+👁️ 32K • 👍 319 • 💬 33 • ⏱️ 1:05 • 4d ago
 
 ---
 
@@ -256,7 +256,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 44K • 👍 3K • 💬 296 • ⏱️ 13:43 • 1d ago
+👁️ 47K • 👍 3K • 💬 314 • ⏱️ 13:43 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 14K • 👍 36 • ⏱️ 0:09 • 22h ago
+👁️ 16K • 👍 38 • ⏱️ 0:09 • 22h ago
 
 ---
 
@@ -276,17 +276,15 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 463K • 👍 16K • 💬 494 • ⏱️ 0:34 • 6d ago
+👁️ 465K • 👍 16K • 💬 498 • ⏱️ 0:34 • 6d ago
 
 ---
 
-**[Pacman vs Monsters Compilation | Pacman Universe – Creative Robot Pacman Project](https://www.youtube.com/watch?v=xctPEic9iA8)**
+**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
 
-Pacman vs Monsters Compilation | Pacman Universe – Creative Robot Pacman Project Thanks for watching! Please Subscribe for ...
+📺 QCT
 
-📺 StrEat
-
-👁️ 98K • 👍 204 • 1d ago
+👁️ 285K • 👍 4K • 💬 63 • ⏱️ 0:25 • 1d ago
 
 ---
 

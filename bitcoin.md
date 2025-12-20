@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T09:57:46.574076+00:00'
+updated: '2025-12-20T10:27:13.869116+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 09:57 UTC  
+**Last Updated:** December 20, 2025 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,256.49
+### $88,173.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.1%  
-**30d:** +4.0%  
-**90d:** -21.6%  
+**24h:** -0.0%  
+**7d:** +0.0%  
+**30d:** +3.9%  
+**90d:** -21.7%  
 **1y:** -9.2%  
 
 ---
@@ -99,13 +99,13 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -131,13 +131,13 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Victory](https://www.reddit.com/r/Bitcoin/comments/1pqutyf/victory/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 17h ago
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqfL_Ce3mCtKyCZxAkAd23R2RgritoXeeXHzAkbbWZF6rTyez2eXW4M2&gaa_ts=6946765c&gaa_sig=mWBSFxim1GlxIU95IdCXWJRSTBGLZ2l9B79n_YSOctZDlo4m4rQNiVBR-_COQj8dZJQaHUVlYR3jcSsPmfCpKw%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ MarketWatch • 19h ago
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-Futurism • 18h ago
+Futurism • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2d ago
 
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -253,7 +253,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 18h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 19h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -283,7 +283,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 420 • 💬 156 • ⏱️ 10:58 • 9h ago
+👁️ 9K • 👍 464 • 💬 194 • ⏱️ 10:58 • 9h ago
 
 ---
 
@@ -293,27 +293,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 62 • ⏱️ 13:47 • 10h ago
-
----
-
-**[WARNING: The Bitcoin Price is Being Manipulated](https://www.youtube.com/watch?v=YVfS7WxV2wM)**
-
-The Bitcoin price is being manipulated, here's how I'm positioning. ➡ Follow me on X for time sensitive calls: ...
-
-📺 EllioTrades
-
-👁️ 11K • 👍 899 • 💬 141 • ⏱️ 19:52 • 13h ago
-
----
-
-**[Is Bitcoin Heading A LOT LOWER?! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=AnUGiccvefE)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 3K • 👍 167 • 💬 42 • ⏱️ 4:42 • 9h ago
+👁️ 24K • 👍 1K • 💬 65 • ⏱️ 13:47 • 10h ago
 
 ---
 
@@ -323,37 +303,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 13K • 👍 1K • 💬 164 • ⏱️ 8:31 • 16h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
-
-It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
-
-📺 Benjamin Cowen
-
-👁️ 63K • 👍 4K • 💬 241 • ⏱️ 18:06 • 17h ago
-
----
-
-**[BITCOIN EXTREME FEAR... (This is Important)](https://www.youtube.com/watch?v=la9LAprLd0o)**
-
-WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 2K • 👍 230 • 💬 6 • ⏱️ 7:49 • 4h ago
-
----
-
-**[BITCOIN MANIPULATION](https://www.youtube.com/watch?v=i1TR-gUQ2LQ)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 7K • 👍 363 • 💬 31 • ⏱️ 9:31 • 17h ago
+👁️ 14K • 👍 1K • 💬 223 • ⏱️ 8:31 • 17h ago
 
 ---
 
@@ -363,17 +313,67 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 36K • 👍 2K • 💬 172 • ⏱️ 44:14 • 18h ago
+👁️ 37K • 👍 2K • 💬 174 • ⏱️ 44:14 • 19h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
 
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
 
-📺 Thomas Kralow
+📺 Benjamin Cowen
 
-👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 22h ago
+👁️ 66K • 👍 4K • 💬 248 • ⏱️ 18:06 • 18h ago
+
+---
+
+**[BITCOIN MANIPULATION](https://www.youtube.com/watch?v=i1TR-gUQ2LQ)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 371 • 💬 31 • ⏱️ 9:31 • 18h ago
+
+---
+
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
+
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
+
+📺 Swan Bitcoin
+
+👁️ 49K • 👍 2K • 💬 155 • ⏱️ 16:50 • 1d ago
+
+---
+
+**[Is Bitcoin Heading A LOT LOWER?! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=AnUGiccvefE)**
+
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+
+📺 Crypto Jebb
+
+👁️ 3K • 👍 189 • 💬 44 • ⏱️ 4:42 • 10h ago
+
+---
+
+**[BITCOIN: 96% OF TRADERS WILL MISS THIS!!!](https://www.youtube.com/watch?v=QBrPwCpiLHw)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 Coinflare: ...
+
+📺 Crypto Kid
+
+👁️ 3K • 👍 216 • 💬 26 • ⏱️ 6:37 • 12h ago
+
+---
+
+**[BITCOIN EXTREME FEAR... (This is Important)](https://www.youtube.com/watch?v=la9LAprLd0o)**
+
+WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 4K • 👍 349 • 💬 13 • ⏱️ 7:49 • 5h ago
 
 ---
 
