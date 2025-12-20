@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T12:33:56.476913+00:00'
+updated: '2025-12-20T13:07:54.577437+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 12:33 UTC  
+**Last Updated:** December 20, 2025 at 13:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,280.81
+### $88,332.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.4%  
 **7d:** +0.1%  
 **30d:** +4.0%  
-**90d:** -21.7%  
+**90d:** -21.6%  
 **1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.38B
+**Market Cap:** $1761.08B
 Rank #1
 
-**Circulating Supply:** 19,964,662 BTC
+**Circulating Supply:** 19,964,681 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129931.0%
++130079.9%
 
 ---
 
@@ -79,27 +79,19 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-7h ago
+8h ago
 
 ---
 
-**[Most people haven’t woken up yet.](https://www.reddit.com/r/Bitcoin/comments/1pr0v0y/most_people_havent_woken_up_yet/)**
+**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
-
-11h ago
+3h ago
 
 ---
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
 19h ago
-
----
-
-**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
-
-2h ago
 
 ---
 
@@ -111,7 +103,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +115,23 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-13h ago
+14h ago
+
+---
+
+**[When the Market Is Quiet, but the Mind Is Loud](https://www.reddit.com/r/Bitcoin/comments/1prd034/when_the_market_is_quiet_but_the_mind_is_loud/)**
+
+Honestly, I’m exhausted from watching charts all day. I’ve been in this market since 2017. I lived through the phase when everyone—from taxi drivers to random strangers—was hyping crypto. I also lived through the crashes, watching my portfolio drop 75% in a single week. I thought I’d seen it all. But this time feels different. Prices keep moving up, institutions are fully involved, ETFs are live. And yet, there’s this strange tension in the background. It’s not the loud, careless euphoria of the previous bull run. It feels more like the silence before something huge—either a move that changes everything… or the opposite. Last night, I shut down the terminal and went for a walk without my phone. Sometimes you need to remind yourself that life is bigger than green and red candles. I came back and added a bit more $BTC. Because despite the uncertainty, I still believe in the long-term vision. How are you dealing with the pressure these days? Feeling anxious, or completely zen? BTC #PriceAnalysis #MacroInsights
+
+53m ago
+
+---
+
+**[Most people haven’t woken up yet.](https://www.reddit.com/r/Bitcoin/comments/1pr0v0y/most_people_havent_woken_up_yet/)**
+
+Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
+
+12h ago
 
 ---
 
@@ -131,13 +139,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-21h ago
-
----
-
-**[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
-
-18h ago
+22h ago
 
 ---
 
@@ -155,7 +157,7 @@ The Block • 14h ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -167,13 +169,13 @@ CoinDesk • 20h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqd35xUNR0zagtRKmdFwnMge9-p08zOkTBLzKiPxe8J7k1kETFmXqNW_&gaa_ts=69469b20&gaa_sig=lOPPaeBm9J6N1Td4Wc2ZqZ_xAlmoP3SaQAhRwQ1bV1SKhs1jNSJVDLXIg-_Y-tJ_80Jra0D9U51i3G-ntm3xzw%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfbPqvWMyopHQ3UIOepG2MOCAcGVgyehA2cW8unnjh6Lm61Ghxa_DQK&gaa_ts=6946a2e6&gaa_sig=78jnmn_FjheOUIaIttKqM_mooKQgaOAFvITcKZZVkImxLncD4X7TA4jT4TYc7JngN4nC9Qg3k3XDSXtNH-9-zw%3D%3D)**
 
 Barron's • 19h ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
@@ -195,27 +197,25 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
-In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Futurism • 21h ago
-
----
-
-**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
-
-Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
-
-CoinDesk • 19h ago
+Nasdaq • 2h ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqdHCcK1ixqqkpe37HxQBs7iQ3HPLknMpES1OBY5sV-4Kyp2OO9mFnMA&gaa_ts=6946a2e6&gaa_sig=KvpqDUtOQW5pAiSlnQYsrJXQyDqH9JEK3BiDs6bjOdL6M9KoC7WjMun6s2vtvWSvbrORatP7Pz3_4b_leWSjLA%3D%3D)**
 
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+Barron's • 2d ago
 
-The Motley Fool • 2h ago
+---
+
+**[BTC, XRP, ETH, ADA Price News: Bitcoin to $10,000 in 2026? It's Possible](https://www.coindesk.com/markets/2025/12/18/bitcoin-could-drop-to-usd10-000-one-analyst-says-spelling-doom-for-eth-ada-xrp)**
+
+Traders are positioning for downside risks, with a significant build-up of put options indicating expectations of a dip below $85,000.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -227,7 +227,7 @@ The Motley Fool • 2h ago
 
 Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
 
-⬆️ 26 • 💬 8 • 4d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
+⬆️ 26 • 💬 8 • 5d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
 
 ---
 
@@ -357,7 +357,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 ET Transport
 
-👁️ 2K • 👍 1K • 21m ago
+👁️ 2K • 👍 1K • 55m ago
 
 ---
 
