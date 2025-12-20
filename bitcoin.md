@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T15:57:52.466701+00:00'
+updated: '2025-12-20T16:32:09.000871+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 15:57 UTC  
+**Last Updated:** December 20, 2025 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,208.50
+### $88,227.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +1.5%  
 **7d:** -0.1%  
 **30d:** +3.8%  
 **90d:** -21.8%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.55B
+**Market Cap:** $1759.66B
 Rank #1
 
 **Circulating Supply:** 19,964,721 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.1%
 
 **All-Time Low:** $67.81
-+129888.2%
++129874.9%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
-
-1h ago
-
----
-
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
 6h ago
+
+---
+
+**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
+
+2h ago
 
 ---
 
@@ -97,19 +97,19 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-7h ago
+8h ago
 
 ---
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -117,13 +117,15 @@ Rank #1
 
 Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
 
-2h ago
+3h ago
 
 ---
 
-**[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
+**[Honest question: what finally made you understand Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1prgj52/honest_question_what_finally_made_you_understand/)**
 
-1d ago
+Not talking about price or hype. I mean the moment it actually clicked for you scarcity, self-custody, trust, etc. Curious what changed people’s mindset.
+
+1h ago
 
 ---
 
@@ -133,11 +135,9 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 ---
 
-**[When future generations say you got lucky](https://www.reddit.com/r/Bitcoin/comments/1prd93r/when_future_generations_say_you_got_lucky/)**
+**[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-Yeah, you try hodling it back in my day.
-
-3h ago
+1d ago
 
 ---
 
@@ -147,7 +147,7 @@ Yeah, you try hodling it back in my day.
 
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -159,27 +159,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
+**[Bitcoin's (BTC) four-year cycle playing out as expected](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
 
-"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
+The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
 CoinDesk • 1h ago
-
----
-
-**[Bitcoin is behaving like a no-fundamentals tech stock](https://sherwood.news/markets/bitcoin-is-behaving-like-a-no-fundamentals-tech-stock/)**
-
-The three-month correlation between the daily changes in the iShares Bitcoin ETF and a Goldman Sachs basket of nonprofitable tech stocks is at...
-
-Sherwood News • 3d ago
-
----
-
-**[Bitcoin ETFs Notch $457M Haul, Third-Largest Since October](https://finance.yahoo.com/news/bitcoin-etfs-notch-457m-haul-140115738.html)**
-
-Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -187,21 +171,21 @@ Yahoo Finance • 2d ago
 
 As Bitcoin continues to languish below the $90,000 mark, CryptoQuant analysts are ready to call it: BTC has entered a bear market.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin's (BTC) four-year cycle playing out as expected](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
+**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
 
-The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
+"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
 
-CoinDesk • 57m ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeZ5OaCk0kNjs5zCfqdbIx_FXtlYYHADSyj8UNXQe_X7TkE1rnO-3Tn&gaa_ts=6946cae1&gaa_sig=l132dpJeWcpRwKoNKSOAryaxQPGz7uw0da3WENXqX_kawPoPvE10CXiVb9iJ7XGzgK4HirjxgE-my6_4gMu-mQ%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfY2jxhYOIUkpqzUCJkIp4Goja9pUizRQe7ym2NUvnkrFzx63wsFve9&gaa_ts=6946d2f4&gaa_sig=fYXKefUaEHF3HtM1Iph7lrOsh_L9AxmVJXvlDib7Y8PQo1sTIDX3o-sglt6_Mc0LNbJ9DN4v4WH7CTZxi9hqlw%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -213,9 +197,23 @@ CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc-GKDBkhZribysR0556h4u6aEd5-d9ytGA_0n3CUYkAUMvifM8Qkxv&gaa_ts=6946cae1&gaa_sig=EvIBgUdbZkjzl57l6MtAXyLwIuM7alue-9koMZgeME6wSBarO0Ttk9aMUr7aUNVzncRL38QPBtdm8CrtdTSPYA%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeijM7NzRoiTyG9Fn1uI3ALsSkT9gAnQ5tLF1vYCXscyk6xkqwB6sbE&gaa_ts=6946d2f4&gaa_sig=1SiW9xUdWY8S0_tFrgE4I6rIrwCbwU8yVUU7KCwkkrWoPOsW8MkLNVFbXQacNhKihpneuxHwqkSRx1q_kcwczg%3D%3D)**
 
 MarketWatch • 1d ago
+
+---
+
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+
+Nasdaq • 6h ago
+
+---
+
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -244,14 +242,6 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 How much of a resource hog is AI?
 
 ⬆️ 5 • 💬 1 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
-
----
-
-**[Silk Road-linked Bitcoin wallets move $3M to new address](https://news.ycombinator.com/item?id=46255488)**
-
-Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking their most significant activity in five years, as millions remain in other unseized crypto wallets.
-
-⬆️ 2 • 💬 3 • 6d ago • [Cointelegraph](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address)
 
 ---
 
@@ -287,7 +277,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 146 • ⏱️ 13:47 • 16h ago
+👁️ 30K • 👍 2K • 💬 146 • ⏱️ 13:47 • 17h ago
 
 ---
 
@@ -297,7 +287,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 525 • 💬 307 • ⏱️ 10:58 • 15h ago
+👁️ 11K • 👍 525 • 💬 307 • ⏱️ 10:58 • 16h ago
 
 ---
 
@@ -327,7 +317,7 @@ Ton Wallet: ...
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 205 • 💬 35 • ⏱️ 11:40 • 4h ago
+👁️ 2K • 👍 205 • 💬 35 • ⏱️ 11:40 • 5h ago
 
 ---
 
@@ -347,7 +337,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 16K • 👍 2K • 💬 238 • ⏱️ 8:31 • 22h ago
+👁️ 16K • 👍 2K • 💬 238 • ⏱️ 8:31 • 23h ago
 
 ---
 
@@ -357,7 +347,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 230 • 💬 90 • ⏱️ 4:42 • 15h ago
+👁️ 4K • 👍 230 • 💬 90 • ⏱️ 4:42 • 16h ago
 
 ---
 
@@ -367,7 +357,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 260 • ⏱️ 18:06 • 23h ago
+👁️ 72K • 👍 5K • 💬 260 • ⏱️ 18:06 • 1d ago
 
 ---
 
@@ -377,7 +367,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 453 • 💬 49 • ⏱️ 7:49 • 10h ago
+👁️ 7K • 👍 453 • 💬 49 • ⏱️ 7:49 • 11h ago
 
 ---
 

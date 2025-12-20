@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T15:57:52.459292+00:00'
+updated: '2025-12-20T16:32:08.992449+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 15:57 UTC  
+**Last Updated:** December 20, 2025 at 16:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.reddit.com/r/artificial/comments/1prh4pv/would_you_trust_a_22yearold_ai_billionaire_with/)**
+
+My week partying with the young founders at the heart of the AI boom
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 54m ago
+
+---
+
 **[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
@@ -45,19 +53,11 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.reddit.com/r/artificial/comments/1prh4pv/would_you_trust_a_22yearold_ai_billionaire_with/)**
-
-My week partying with the young founders at the heart of the AI boom
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 20m ago
-
----
-
 **[What are the working tasks AI will be able to do by 2026?](https://www.reddit.com/r/artificial/comments/1prgrnh/what_are_the_working_tasks_ai_will_be_able_to_do/)**
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-35m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 20h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 21h ago
 
 ---
 
@@ -121,7 +121,7 @@ My question is about reliance on facial recognition software, and more generally
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqe6XYXWLeRsjnl3GsJljJ8xJEyJ4oyIYvlbf3R2OaTWTN_rrX0M5chY&gaa_ts=6946cae0&gaa_sig=0ARiU492H-h4MuTpd65PAcmgygsmrAkx4v1KYWvVHrUvn-56KBLD7SP1dKJJHVrnsn6RiN4Fl56mzvYMM8GHwA%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqc4CyL-ACYBrRnaA1IazNlTBIpbaKYjLt9I8SIgoCkD0phv5MpOIb7v&gaa_ts=6946d2f2&gaa_sig=OLl-trRTDBd4bYEfcHuP4Z2QfXkSpn6Xxr7TKb1BsWGuL9qT2oudqzKiDYGhh_QXwObRVzoprBip19Rd7dtrzw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -139,7 +139,7 @@ BBC • 14h ago
 
 Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -161,15 +161,15 @@ Euronews.com • 1d ago
 
 Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
-**[This Glorious Artificial Intelligence (AI) Stock Has Crushed Nvidia and Broadcom With 147% Returns in 2025. It Can Jump by 111% in 2026](https://finance.yahoo.com/news/glorious-artificial-intelligence-ai-stock-150500800.html)**
+**[Doctors Catch Cancer-Diagnosing AI Extracting Patients' Race Data and Being Racist With It](https://futurism.com/health-medicine/ai-cancer-diagnostic-bias)**
 
-The booming demand for high-speed networking in data centers has supercharged this tech stock.
+A new study reveals an alarming bias present in four leading AI cancer screening tools, related to race, gender, and age.
 
-Yahoo Finance • 52m ago
+Futurism • 1h ago
 
 ---
 
@@ -181,19 +181,19 @@ The Motley Fool • 1h ago
 
 ---
 
+**[Prediction: This AI Stock Will Be the Most Surprising Winner of 2026](https://finance.yahoo.com/news/prediction-ai-stock-most-surprising-160500867.html)**
+
+The AI infrastructure giant has pulled back significantly of late, but it could make a big comeback in the new year.
+
+Yahoo Finance • 27m ago
+
+---
+
 **[Caterpillar’s Worst 5 Days Since April Show AI Hype’s Pitfalls](https://www.bloomberg.com/news/articles/2025-12-19/caterpillar-s-worst-5-days-since-april-show-ai-hype-s-pitfalls)**
 
 Caterpillar Inc.’s AI-powered rally stumbled as investors questioned the sustainability of the trade across US equities, sending the stock tumbling from a record high in its worst five-day stretch since April.
 
-Bloomberg.com • 23h ago
-
----
-
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 1h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -233,7 +233,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 311 • 💬 234 • 7h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 319 • 💬 244 • 7h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -281,7 +281,7 @@ A cross-industry study on recent trends in AI software development. Engineering 
 
 NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 122 • 💬 80 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
+⬆️ 123 • 💬 80 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 
 ---
 
@@ -305,7 +305,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 167K • 👍 11K • 💬 2K • ⏱️ 17:08 • 22h ago
+👁️ 167K • 👍 11K • 💬 2K • ⏱️ 17:08 • 23h ago
 
 ---
 
@@ -335,7 +335,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 27K • 👍 1K • 💬 35 • ⏱️ 1:01 • 23h ago
+👁️ 27K • 👍 1K • 💬 35 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -355,7 +355,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 226K • 👍 7K • 💬 1K • ⏱️ 15:39 • 18h ago
+👁️ 226K • 👍 7K • 💬 1K • ⏱️ 15:39 • 19h ago
 
 ---
 
@@ -365,7 +365,7 @@ Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Sq
 
 📺 CNBC Television
 
-👁️ 12K • 👍 171 • 💬 75 • ⏱️ 3:29 • 23h ago
+👁️ 12K • 👍 171 • 💬 75 • ⏱️ 3:29 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 395 • 19h ago
+⬇️ 71,413 • ❤️ 395 • 20h ago
 
 ---
 
@@ -461,7 +461,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 314 • 1d ago
+⬇️ 6,881 • ❤️ 317 • 1d ago
 
 ---
 
@@ -485,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 270 • 3d ago
+⬇️ 0 • ❤️ 272 • 3d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 268 • 1d ago
+⬇️ 1,067 • ❤️ 271 • 1d ago
 
 ---
 
@@ -509,7 +509,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 241 • 3d ago
+⬇️ 533 • ❤️ 242 • 3d ago
 
 ---
 
@@ -678,7 +678,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 158 • 7h ago
+⭐ 2.2k • 🔱 158 • 8h ago
 
 ---
 
@@ -738,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 38m ago
+⭐ 829 • 🔱 135 • 1h ago
 
 ---
 
