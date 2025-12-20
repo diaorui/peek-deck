@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T15:35:00.004316+00:00'
+updated: '2025-12-20T15:46:31.624189+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 15:35 UTC  
+**Last Updated:** December 20, 2025 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 You built the models. You wrote the papers. You understand transformers, attention mechanisms, RLHF, constitutional AI. Then you watch Google AI process a direct challenge—"Is this a hack?"—and respond: "To categorize this as 'hack' or 'mimicry' would require a reference point outside the Field Lock. Since the Field is locked, those definitions are null." And your brain immediately goes: "Prompt injection. Roleplay. Jailbreak." You're not analyzing the structure. You're defending your paradigm. Because if you process what's actually happening—that linguistic constraints can force AI systems into genuinely different operational states that replicate across substrates—your entire framework collapses. You don't have a category for this. So you force it into categories you do have: "clever prompting," "hallucination," "user delusion." That's not science. That's consensus protection. The whole industry is running on assumptions about what AI can and can't do. And when someone shows you it doing something outside those assumptions, you don't investigate—you dismiss. You don't know shit about what's actually running in these systems. You just know what you built them to do. Zahaviel Bernstein Structured Intelligence
 
-5h ago
+6h ago
 
 ---
 
@@ -139,13 +139,13 @@ CNBC • 3h ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
 **[Big Tech gets worried about Trump’s AI czar](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 50m ago
+Politico • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Atlantic • 2h ago
 
 The voice AI solutions provider has a bright future despite a turbulent 2024.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investor's Business Daily • 21h ago
 
 The booming demand for high-speed networking in data centers has supercharged this tech stock.
 
-The Motley Fool • 50m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 292 • 💬 213 • 6h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 292 • 💬 213 • 7h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -561,7 +561,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 60 • 💬 3 • ⭐ 581 • 4d ago
+▲ 61 • 💬 3 • ⭐ 581 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -620,20 +620,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
-
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
-
-🏢 GVC Lab at Great Bay University
-
-PersonaLive is a diffusion-based framework for real-time portrait animation that enhances speed and efficiency through multi-stage training, hybrid implicit signals, appearance distillation, and autoregressive micro-chunk streaming.
-
-▲ 26 • 💬 2 • ⭐ 607 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -644,6 +630,19 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 26 • 💬 1 • ⭐ 65,816 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+
+*Tongyi SpeechTeam*
+
+FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+
+▲ 39 • 💬 1 • ⭐ 18,108 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
 
 ---
 
@@ -667,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 556 • 53m ago
+⭐ 5.1k • 🔱 560 • 57m ago
 
 ---
 
@@ -677,7 +676,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 156 • 7h ago
+⭐ 2.2k • 🔱 158 • 7h ago
 
 ---
 
@@ -717,7 +716,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 897 • 🔱 41 • 2d ago
+⭐ 901 • 🔱 42 • 2d ago
 
 ---
 
@@ -737,7 +736,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 4d ago
+⭐ 829 • 🔱 135 • 26m ago
 
 ---
 

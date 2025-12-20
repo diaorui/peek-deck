@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T15:35:00.012659+00:00'
+updated: '2025-12-20T15:46:31.632566+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 15:35 UTC  
+**Last Updated:** December 20, 2025 at 15:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.3%  
-**30d:** +3.6%  
-**90d:** -21.9%  
-**1y:** -9.5%  
+**24h:** +0.4%  
+**7d:** -0.0%  
+**30d:** +3.8%  
+**90d:** -21.7%  
+**1y:** -9.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 1h ago
 
 Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
