@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T15:46:31.632566+00:00'
+updated: '2025-12-20T15:57:52.466701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 15:46 UTC  
+**Last Updated:** December 20, 2025 at 15:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,116.95
+### $88,208.50
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.4%  
-**7d:** -0.0%  
+**7d:** -0.1%  
 **30d:** +3.8%  
-**90d:** -21.7%  
+**90d:** -21.8%  
 **1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.92B
+**Market Cap:** $1759.55B
 Rank #1
 
-**Circulating Supply:** 19,964,709 BTC
+**Circulating Supply:** 19,964,721 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129917.7%
++129888.2%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
+
+1h ago
+
+---
+
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
 6h ago
@@ -85,13 +91,7 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-10h ago
-
----
-
-**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
-
-1h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -151,7 +151,55 @@ Reuters • 23h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfx60xYYWS9yp_RJfWlVhS3z2-QklCRm_A2y0SUfuLBbUYj0aU1XHBa&gaa_ts=6946c1a3&gaa_sig=9wCnE65uHHVZQb_En3X0c9zzRRCPmMDJH_7tSJBBH-yFQiq625miDfQ-5T2qY4GMDwXHfmA5s2ZW7Vor5aUJXg%3D%3D)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin ETF (BTC) news: IBIT posted $25 billion of inflows in 2025 even as returns went negative](https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance)**
+
+"If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin is behaving like a no-fundamentals tech stock](https://sherwood.news/markets/bitcoin-is-behaving-like-a-no-fundamentals-tech-stock/)**
+
+The three-month correlation between the daily changes in the iShares Bitcoin ETF and a Goldman Sachs basket of nonprofitable tech stocks is at...
+
+Sherwood News • 3d ago
+
+---
+
+**[Bitcoin ETFs Notch $457M Haul, Third-Largest Since October](https://finance.yahoo.com/news/bitcoin-etfs-notch-457m-haul-140115738.html)**
+
+Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Has Entered a Bear Market, Say Analysts—Here's Why](https://finance.yahoo.com/news/bitcoin-entered-bear-market-analysts-151318570.html)**
+
+As Bitcoin continues to languish below the $90,000 mark, CryptoQuant analysts are ready to call it: BTC has entered a bear market.
+
+Yahoo Finance • 44m ago
+
+---
+
+**[Bitcoin's (BTC) four-year cycle playing out as expected](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
+
+The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
+
+CoinDesk • 57m ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeZ5OaCk0kNjs5zCfqdbIx_FXtlYYHADSyj8UNXQe_X7TkE1rnO-3Tn&gaa_ts=6946cae1&gaa_sig=l132dpJeWcpRwKoNKSOAryaxQPGz7uw0da3WENXqX_kawPoPvE10CXiVb9iJ7XGzgK4HirjxgE-my6_4gMu-mQ%3D%3D)**
 
 Barron's • 22h ago
 
@@ -161,57 +209,13 @@ Barron's • 22h ago
 
 Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdutnTdjveTjnPkx3Aiuo7exhzbp1fdvask1xKFxnk1Yan8Uk4lD71R&gaa_ts=6946c1a3&gaa_sig=0RzreRK9q6_FdRE0zkJuakdCwOZ3m-4DHnm4ZeG_omTf6mGVp0t8MMwnrS6_eXfYLTl4Nl0mfsvevBVCg1Xoqw%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc-GKDBkhZribysR0556h4u6aEd5-d9ytGA_0n3CUYkAUMvifM8Qkxv&gaa_ts=6946cae1&gaa_sig=EvIBgUdbZkjzl57l6MtAXyLwIuM7alue-9koMZgeME6wSBarO0Ttk9aMUr7aUNVzncRL38QPBtdm8CrtdTSPYA%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
-
-Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
-
-CoinDesk • 1h ago
-
----
-
-**[Michael Burry Compares Bitcoin to One of the Biggest Bubbles in History](https://www.fool.com/investing/2025/12/20/michael-burry-compares-bitcoin-to-one-of-the-bigge/)**
-
-Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
-
-The Motley Fool • 3h ago
-
----
-
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
-
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 1d ago
-
----
-
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
-
-Forbes • 1d ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 17h ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
-
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
-
-Nasdaq • 5h ago
 
 ---
 
@@ -239,7 +243,7 @@ Nakamoto is suspected of leaving public life to preserve privacy, evade legal ri
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T15:46:31.638537+00:00'
+updated: '2025-12-20T15:57:52.471918+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 15:46 UTC  
+**Last Updated:** December 20, 2025 at 15:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -2.8%  
-**30d:** +7.7%  
-**90d:** -29.0%  
-**1y:** -10.8%  
+**24h:** +0.3%  
+**7d:** -2.9%  
+**30d:** +7.6%  
+**90d:** -29.1%  
+**1y:** -10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.07B
+**Market Cap:** $359.15B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687496.9%
++687125.0%
 
 ---
 
@@ -150,14 +150,6 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ## Google News: "ethereum"
 
-**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
-
-Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
-
-TradingView — Track All Markets • 1d ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
@@ -174,11 +166,19 @@ AMBCrypto • 14h ago
 
 ---
 
+**[Will Bitcoin, Ethereum and XRP See Volatility as $7.1 Trillion Options Expire Today?](https://www.tradingview.com/news/coinpedia:4338e6af2094b:0-will-bitcoin-ethereum-and-xrp-see-volatility-as-7-1-trillion-options-expire-today/)**
+
+Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 **[Not Bitcoin or Ethereum - These 5 are the top best performing cryptos in 2025](https://www.livemint.com/market/cryptocurrency/not-bitcoin-or-ethereum-these-5-are-the-top-best-performing-cryptos-in-2025-11766216526786.html)**
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 2h ago
+livemint.com • 3h ago
 
 ---
 

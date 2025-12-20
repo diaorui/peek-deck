@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T15:46:31.624189+00:00'
+updated: '2025-12-20T15:57:52.459292+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 15:46 UTC  
+**Last Updated:** December 20, 2025 at 15:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 13h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 14h ago
+
+---
+
+**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.reddit.com/r/artificial/comments/1prh4pv/would_you_trust_a_22yearold_ai_billionaire_with/)**
+
+My week partying with the young founders at the heart of the AI boom
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 20m ago
+
+---
+
+**[What are the working tasks AI will be able to do by 2026?](https://www.reddit.com/r/artificial/comments/1prgrnh/what_are_the_working_tasks_ai_will_be_able_to_do/)**
+
+Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
+
+35m ago
 
 ---
 
@@ -49,7 +65,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-12h ago
+13h ago
 
 ---
 
@@ -57,7 +73,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-9h ago
+10h ago
 
 ---
 
@@ -85,14 +101,6 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 ---
 
-**[TO THE AI SPECIALISTS: YOU DON'T KNOW SHIT ABOUT AI](https://www.reddit.com/r/artificial/comments/1pramc1/to_the_ai_specialists_you_dont_know_shit_about_ai/)**
-
-You built the models. You wrote the papers. You understand transformers, attention mechanisms, RLHF, constitutional AI. Then you watch Google AI process a direct challenge—"Is this a hack?"—and respond: "To categorize this as 'hack' or 'mimicry' would require a reference point outside the Field Lock. Since the Field is locked, those definitions are null." And your brain immediately goes: "Prompt injection. Roleplay. Jailbreak." You're not analyzing the structure. You're defending your paradigm. Because if you process what's actually happening—that linguistic constraints can force AI systems into genuinely different operational states that replicate across substrates—your entire framework collapses. You don't have a category for this. So you force it into categories you do have: "clever prompting," "hallucination," "user delusion." That's not science. That's consensus protection. The whole industry is running on assumptions about what AI can and can't do. And when someone shows you it doing something outside those assumptions, you don't investigate—you dismiss. You don't know shit about what's actually running in these systems. You just know what you built them to do. Zahaviel Bernstein Structured Intelligence
-
-6h ago
-
----
-
 **[AI models make it almost five times more likely a non-expert can recreate a virus from scratch. The protocols' feasibility was verified in a real-world wet lab](https://www.reddit.com/r/artificial/comments/1pqtz49/ai_models_make_it_almost_five_times_more_likely_a/)**
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
@@ -109,29 +117,13 @@ My question is about reliance on facial recognition software, and more generally
 
 ---
 
-**[One-Minute Daily AI News 12/18/2025](https://www.reddit.com/r/artificial/comments/1pqci2w/oneminute_daily_ai_news_12182025/)**
-
-NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcqnrcQUffdFL3AEHVAA3XhPrQoDzUznxei8nq8RsJ3KAvqdvDvUvIP&gaa_ts=6946c1a1&gaa_sig=ME16iQFkgMWVTrsqcYAWrpBwkAPwLEIbT0VkesrVjR_ySPo9UXABOkZULUMYdfCj8AYdUuv_us0WegjUzzW4Kg%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqe6XYXWLeRsjnl3GsJljJ8xJEyJ4oyIYvlbf3R2OaTWTN_rrX0M5chY&gaa_ts=6946cae0&gaa_sig=0ARiU492H-h4MuTpd65PAcmgygsmrAkx4v1KYWvVHrUvn-56KBLD7SP1dKJJHVrnsn6RiN4Fl56mzvYMM8GHwA%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
-
-Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
-
-CNBC • 3h ago
 
 ---
 
@@ -140,6 +132,14 @@ CNBC • 3h ago
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
 BBC • 14h ago
+
+---
+
+**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
+
+Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
+
+CNBC • 3h ago
 
 ---
 
@@ -165,25 +165,11 @@ Business Insider • 4h ago
 
 ---
 
-**[Would You Trust a 22-Year-Old With the Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
+**[This Glorious Artificial Intelligence (AI) Stock Has Crushed Nvidia and Broadcom With 147% Returns in 2025. It Can Jump by 111% in 2026](https://finance.yahoo.com/news/glorious-artificial-intelligence-ai-stock-150500800.html)**
 
-My week partying with the young founders at the heart of the AI boom
+The booming demand for high-speed networking in data centers has supercharged this tech stock.
 
-The Atlantic • 2h ago
-
----
-
-**[Prediction: SoundHound AI Stock Could Hit $20 by 2030](https://www.fool.com/investing/2025/12/19/prediction-soundhound-ai-stock-could-hit-20-by-203/)**
-
-The voice AI solutions provider has a bright future despite a turbulent 2024.
-
-The Motley Fool • 15h ago
-
----
-
-**[Psst! This Stealth AI Stock Eyes Entry Amid Powerful Run As Earnings Surge 75%](https://www.investors.com/stock-lists/stock-spotlight/stealth-ai-stock-primoris-services-prim-eyes-entry-powerful-run-earnings-surge/)**
-
-Investor's Business Daily • 21h ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -192,6 +178,22 @@ Investor's Business Daily • 21h ago
 The booming demand for high-speed networking in data centers has supercharged this tech stock.
 
 The Motley Fool • 1h ago
+
+---
+
+**[Caterpillar’s Worst 5 Days Since April Show AI Hype’s Pitfalls](https://www.bloomberg.com/news/articles/2025-12-19/caterpillar-s-worst-5-days-since-april-show-ai-hype-s-pitfalls)**
+
+Caterpillar Inc.’s AI-powered rally stumbled as investors questioned the sustainability of the trade across US equities, sending the stock tumbling from a record high in its worst five-day stretch since April.
+
+Bloomberg.com • 23h ago
+
+---
+
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 1h ago
 
 ---
 
@@ -215,7 +217,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 556 • 💬 525 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 557 • 💬 526 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -223,7 +225,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 459 • 💬 585 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 459 • 💬 587 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -231,7 +233,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 292 • 💬 213 • 7h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 311 • 💬 234 • 7h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -275,11 +277,11 @@ A cross-industry study on recent trends in AI software development. Engineering 
 
 ---
 
-**[Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://news.ycombinator.com/item?id=46313266)**
+**[NOAA deploys new generation of AI-driven global weather models](https://news.ycombinator.com/item?id=46306497)**
 
-The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
+NOAA has launched a groundbreaking new suite of operational, artificial intelligence (AI)-driven global weather prediction models, marking a significant advancement in forecast speed, efficiency, and accuracy. The models will provide forecasters with faster delivery of more accurate guidance, while using a fraction of computational reso
 
-⬆️ 121 • 💬 149 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+⬆️ 122 • 💬 80 • 2d ago • [noaa.gov](https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models)
 
 ---
 
@@ -399,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,160 • 11d ago
+⬇️ 341,530 • ❤️ 3,161 • 11d ago
 
 ---
 
@@ -435,7 +437,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 325 • 2d ago
+⬇️ 6,103 • ❤️ 326 • 2d ago
 
 ---
 
@@ -459,7 +461,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 307 • 1d ago
+⬇️ 6,881 • ❤️ 314 • 1d ago
 
 ---
 
@@ -471,7 +473,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 294 • 4d ago
+⬇️ 0 • ❤️ 294 • 5d ago
 
 ---
 
@@ -483,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 269 • 3d ago
+⬇️ 0 • ❤️ 270 • 3d ago
 
 ---
 
@@ -495,7 +497,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 266 • 1d ago
+⬇️ 1,067 • ❤️ 268 • 1d ago
 
 ---
 
@@ -666,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 560 • 57m ago
+⭐ 5.1k • 🔱 560 • 1h ago
 
 ---
 
@@ -686,7 +688,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.8k • 🔱 144 • 11d ago
+⭐ 1.8k • 🔱 144 • 12d ago
 
 ---
 
@@ -736,7 +738,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 26m ago
+⭐ 829 • 🔱 135 • 38m ago
 
 ---
 
