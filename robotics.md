@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T23:45:26.285456+00:00'
+updated: '2025-12-20T23:56:47.810522+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 23:45 UTC  
+**Last Updated:** December 20, 2025 at 23:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-13h ago
+14h ago
 
 ---
 
@@ -100,25 +100,17 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 ---
 
-**[Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China](https://www.reddit.com/r/robotics/comments/1pr5f0y/humanoid_robots_from_unitree_perform_flips_and/)**
+**[Robotics projects from scratch](https://www.reddit.com/r/robotics/comments/1prqkya/robotics_projects_from_scratch/)**
 
-Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
+I will be doing my masters degree in robotics and ML and I wanna some resources or websites maybe that builds different types of robots from scratch like it gives you everything the design, code, components and how to connect everything together and apply different topics like ML, computer vision and AI on it. Just so I get my hands dirty and learn in a good way
 
-19h ago
+1h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
-
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
-
-Futurism • 1d ago
-
----
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
@@ -142,6 +134,14 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
+
+Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
+
+NVIDIA Developer • 3d ago
+
+---
+
 **[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
@@ -154,7 +154,15 @@ KSBY News • 1d ago
 
 Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-KEYC News Now • 23h ago
+KEYC News Now • 1d ago
+
+---
+
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
+
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
+
+Futurism • 1d ago
 
 ---
 
@@ -179,14 +187,6 @@ Fortune • 2d ago
 NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
 
 Yahoo Finance • 3d ago
-
----
-
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
-
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
-
-NVIDIA Developer • 3d ago
 
 ---
 

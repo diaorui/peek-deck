@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T23:45:26.282180+00:00'
+updated: '2025-12-20T23:56:47.807321+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 23:45 UTC  
+**Last Updated:** December 20, 2025 at 23:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -3.0%  
-**30d:** +7.5%  
-**90d:** -29.2%  
+**24h:** +0.1%  
+**7d:** -2.9%  
+**30d:** +7.6%  
+**90d:** -29.1%  
 **1y:** -10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.08B
+**Market Cap:** $359.19B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687039.6%
++687302.9%
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-2h ago
+3h ago
 
 ---
 
@@ -160,7 +160,7 @@ AMBCrypto • 22h ago
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 10h ago
+livemint.com • 11h ago
 
 ---
 
@@ -178,19 +178,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
-
-The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
-
-CoinDesk • 4h ago
-
----
-
 **[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
 Decrypt • 2d ago
+
+---
+
+**[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
+
+The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ FXEmpire • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqdPu_ncxbI4VNRx_446NhP4b551uIuj7-BTRhW8mGsh7eSZKPtSXdG9&gaa_ts=69473216&gaa_sig=O8yWpxyhjwv5TXTJiS8GFTkbHI2W166YF2rbkkS3HEFqOg8hL6FaA0aVtjhS2pTxI9KiUIFhnFOSUtDOFEbS2g%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqe-0o7pu-fyMZQMSQ3kewQHF82s-WmLT0gPvOV63EDkCUW1ru186rBO&gaa_ts=69473b2b&gaa_sig=YcuDVJdbAcegiN9p7AqDdoNcQ45IjxO0YIvd2_jH5IXyIbAjD18hL2OXd4DMSVv8IpBqyVJzequW4P9CV_e-PQ%3D%3D)**
 
 Barron's • 3d ago
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T23:45:26.276085+00:00'
+updated: '2025-12-20T23:56:47.801418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 23:45 UTC  
+**Last Updated:** December 20, 2025 at 23:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** +0.5%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.6%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.17B
+**Market Cap:** $1762.81B
 Rank #1
 
-**Circulating Supply:** 19,964,856 BTC
+**Circulating Supply:** 19,964,878 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-29.9%
 
 **All-Time Low:** $67.81
-+130107.9%
++130165.4%
 
 ---
 
@@ -131,15 +131,15 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 ---
 
-**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-1d ago
+24m ago
 
 ---
 
-**[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
+**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-15h ago
+1d ago
 
 ---
 
@@ -147,11 +147,27 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
+
+A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
 The Motley Fool • 13h ago
+
+---
+
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+
+Nasdaq • 13h ago
 
 ---
 
@@ -167,21 +183,13 @@ Yahoo Finance • 1d ago
 
 This dip is an opportunity to think about what matters most with this asset.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfP0mXUBO2Ee_BbmONfjmF9_sPOmp8W_v_P52Jk-Bz2a9PFNUbaCUpD&gaa_ts=69473215&gaa_sig=allT-UXvnr1m5waeb15-5grt10P_2zdsz-86v4suLUH19Fna_U3DBhIzERLlv-ra0o1r_kChsNjU1MPqZ1WW0w%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdmGjZgYYFE68JA7rFq41DiF6QPQkCX7u04lcY4s-4Fa-01t1zBVE8r&gaa_ts=69473b2a&gaa_sig=bMlzW_Bj92QL-KroCiQWZUkKwOTKiKu0YV5041itVBYN6HdBdvQR9DzCX5kjb6gCsnGlFDAEm4L4WR-mqUMDPA%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
-
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 2d ago
 
 ---
 
@@ -190,6 +198,14 @@ Bloomberg.com • 2d ago
 Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
 
 CoinDesk • 2h ago
+
+---
+
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -204,20 +220,6 @@ Forbes • 10h ago
 Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
 Nasdaq • 5h ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
-
-In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
-
-Futurism • 1d ago
 
 ---
 
@@ -341,7 +343,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 328 • 💬 243 • ⏱️ 4:18 • 5h ago
+👁️ 5K • 👍 328 • 💬 243 • ⏱️ 4:18 • 6h ago
 
 ---
 
