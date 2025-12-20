@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T18:56:03.737352+00:00'
+updated: '2025-12-20T19:17:45.174292+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 18:56 UTC  
+**Last Updated:** December 20, 2025 at 19:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.0%  
-**30d:** +3.9%  
+**24h:** +0.2%  
+**7d:** +0.1%  
+**30d:** +4.0%  
 **90d:** -21.7%  
-**1y:** -9.3%  
+**1y:** -9.2%  
 
 ---
 
@@ -93,13 +93,13 @@ The mods will probably delete this....again.... But I finally hit 0.1 BTC!
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -121,13 +121,13 @@ The crypto market is down" Degens with their last $200:
 
 I thought he was working on Rush Hour 4... Turns put he's hodling BTC with the rest of us
 
-45m ago
+1h ago
 
 ---
 
 **[why sell now! don’t you think the next bull run could still hit? 🚀](https://www.reddit.com/r/Bitcoin/comments/1pr95pu/why_sell_now_dont_you_think_the_next_bull_run/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -153,7 +153,7 @@ Honestly, I'm tired of staring at charts. I've been in this market since 2017. I
 
 The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Reuters • 1d ago
 
 These two digital assets have performed very well for investors, but one is the clear winner.
 
-The Motley Fool • 45m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin experienced a lot of volatility in 2025 without much in the way of total return. How is 2026 shaping up for Bitcoin ETFs?
 
-The Motley Fool • 56m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Nasdaq • 8h ago
 
 These two digital assets have performed very well for investors, but one is the clear winner.
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 46m ago
 
 ---
 
@@ -315,7 +315,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 1K • ⏱️ 46:11 • 4h ago
+👁️ 16K • 👍 1K • ⏱️ 46:11 • 5h ago
 
 ---
 

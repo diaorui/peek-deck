@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T18:56:03.743366+00:00'
+updated: '2025-12-20T19:17:45.179573+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 18:56 UTC  
+**Last Updated:** December 20, 2025 at 19:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.9%  
-**30d:** +7.6%  
+**24h:** -0.5%  
+**7d:** -2.8%  
+**30d:** +7.7%  
 **90d:** -29.1%  
 **1y:** -10.8%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hey guys, I was wondering if tornadocash is still the best mixer, I'm scared to 
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -190,7 +190,7 @@ Decrypt • 2d ago
 
 **[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://www.ccn.com/news/technology/ethereum-wall-street-tokenization-adoption/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 887 • 👍 45 • 💬 9 • ⏱️ 11:26 • 4h ago
+👁️ 887 • 👍 45 • 💬 9 • ⏱️ 11:26 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 124 • 💬 5 • ⏱️ 6:04 • 4h ago
+👁️ 1K • 👍 124 • 💬 5 • ⏱️ 6:04 • 5h ago
 
 ---
 
@@ -284,7 +284,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 53 • 👍 3 • ⏱️ 14:00 • 25m ago
+👁️ 53 • 👍 3 • ⏱️ 14:00 • 47m ago
 
 ---
 
@@ -294,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 156 • 👍 15 • 💬 2 • ⏱️ 4:17 • 7h ago
+👁️ 156 • 👍 15 • 💬 2 • ⏱️ 4:17 • 8h ago
 
 ---
 
@@ -304,7 +304,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 337 • 💬 4 • ⏱️ 20:31 • 22h ago
+👁️ 8K • 👍 337 • 💬 4 • ⏱️ 20:31 • 23h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T18:56:03.728902+00:00'
+updated: '2025-12-20T19:17:45.166866+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 18:56 UTC  
+**Last Updated:** December 20, 2025 at 19:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 7m ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 29m ago
 
 ---
 
@@ -137,7 +137,7 @@ Politico • 4h ago
 
 **[From A.I. to Tariffs, 14 Charts That Explain 2025](https://www.nytimes.com/2025/12/20/business/dealbook/charts-2025-economy.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 5h ago
 
 Several key Republicans, including Gov. Ron DeSantis and Sen. Josh Hawley, have been outspoken against federal AI preemption.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -167,7 +167,7 @@ Gizmodo • 1h ago
 
 Altman recruited iPhone designer Jony Ive to OpenAI this May, and Ive has said the company’s secret device could be ready in the next two years.
 
-Fortune • 31m ago
+Fortune • 52m ago
 
 ---
 
@@ -181,7 +181,7 @@ CNBC • 1d ago
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -285,7 +285,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 13K • 👍 835 • 💬 81 • ⏱️ 37:38 • 4h ago
+👁️ 13K • 👍 835 • 💬 81 • ⏱️ 37:38 • 5h ago
 
 ---
 
@@ -668,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 160 • 53m ago
+⭐ 2.2k • 🔱 160 • 1h ago
 
 ---
 
@@ -728,7 +728,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 829 • 🔱 135 • 2h ago
+⭐ 829 • 🔱 135 • 3h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T18:56:03.746591+00:00'
+updated: '2025-12-20T19:17:45.182390+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 18:56 UTC  
+**Last Updated:** December 20, 2025 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -168,7 +168,7 @@ Australian Broadcasting Corporation • 2d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 19h ago
+South China Morning Post • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consi
 
 📺 Aimin
 
-👁️ 250K • 👍 11K • 💬 3K • ⏱️ 14:27 • 4h ago
+👁️ 250K • 👍 11K • 💬 3K • ⏱️ 14:27 • 5h ago
 
 ---
 
