@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T11:30:44.626678+00:00'
+updated: '2025-12-20T11:42:22.044653+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 11:30 UTC  
+**Last Updated:** December 20, 2025 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-10h ago
+11h ago
 
 ---
 
@@ -285,7 +285,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 464 • 💬 194 • ⏱️ 10:58 • 10h ago
+👁️ 9K • 👍 464 • 💬 194 • ⏱️ 10:58 • 11h ago
 
 ---
 
@@ -295,7 +295,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 65 • ⏱️ 13:47 • 11h ago
+👁️ 24K • 👍 1K • 💬 65 • ⏱️ 13:47 • 12h ago
 
 ---
 

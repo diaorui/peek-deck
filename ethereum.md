@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T11:30:44.632651+00:00'
+updated: '2025-12-20T11:42:22.050786+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 11:30 UTC  
+**Last Updated:** December 20, 2025 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,7 +45,7 @@ Live Ethereum monitoring dashboard
 **24h:** +1.0%  
 **7d:** -2.5%  
 **30d:** +8.0%  
-**90d:** -28.8%  
+**90d:** -28.9%  
 **1y:** -10.5%  
 
 ---
@@ -118,7 +118,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 19h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ Crypto Briefing • 2d ago
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView — Track All Markets • 1d ago
 
 Discover how Bitmine Immersion Technologies (BMNR) offers unique Ethereum exposure.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 307 • 💬 111 • ⏱️ 22:39 • 16h ago
+👁️ 8K • 👍 307 • 💬 111 • ⏱️ 22:39 • 17h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 764 • 👍 68 • ⏱️ 58:50 • 15h ago
+👁️ 764 • 👍 68 • ⏱️ 58:50 • 16h ago
 
 ---
 
