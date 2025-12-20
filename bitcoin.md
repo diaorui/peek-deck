@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T13:36:33.553755+00:00'
+updated: '2025-12-20T13:49:24.274225+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 13:36 UTC  
+**Last Updated:** December 20, 2025 at 13:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.5%  
-**30d:** +3.4%  
-**90d:** -22.1%  
-**1y:** -9.7%  
+**24h:** +0.2%  
+**7d:** -0.0%  
+**30d:** +3.9%  
+**90d:** -21.7%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.08B
+**Market Cap:** $1759.33B
 Rank #1
 
 **Circulating Supply:** 19,964,681 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.0%
 
 **All-Time Low:** $67.81
-+130079.9%
++129959.0%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
+**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-8h ago
+4h ago
 
 ---
 
-**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
+**[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-3h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-22h ago
+23h ago
 
 ---
 
@@ -169,9 +169,17 @@ CoinDesk • 21h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfbPqvWMyopHQ3UIOepG2MOCAcGVgyehA2cW8unnjh6Lm61Ghxa_DQK&gaa_ts=6946a2e6&gaa_sig=78jnmn_FjheOUIaIttKqM_mooKQgaOAFvITcKZZVkImxLncD4X7TA4jT4TYc7JngN4nC9Qg3k3XDSXtNH-9-zw%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdVMdhbkJvPxDAzWyGDFlpO_QJ0ECq3Q2ExZ-oftY_TAJr4bjlbcRa8&gaa_ts=6946acc9&gaa_sig=yz4kq00RfJ35xtbpZGm5ZgBJJ5HWN8PpyYNtUgaRSNgx6ye6rJbI5pdqtCz913umGbMW5Cx6JSdh8H_feWyf7w%3D%3D)**
 
 Barron's • 20h ago
+
+---
+
+**[Michael Burry Compares Bitcoin to One of the Biggest Bubbles in History](https://www.fool.com/investing/2025/12/20/michael-burry-compares-bitcoin-to-one-of-the-bigge/)**
+
+Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -191,12 +199,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
-
-Forbes • 1d ago
-
----
-
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
@@ -205,7 +207,7 @@ Nasdaq • 3h ago
 
 ---
 
-**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqdHCcK1ixqqkpe37HxQBs7iQ3HPLknMpES1OBY5sV-4Kyp2OO9mFnMA&gaa_ts=6946a2e6&gaa_sig=KvpqDUtOQW5pAiSlnQYsrJXQyDqH9JEK3BiDs6bjOdL6M9KoC7WjMun6s2vtvWSvbrORatP7Pz3_4b_leWSjLA%3D%3D)**
+**[Bitcoin and XRP Struggle Again. Why Coinbase, Robinhood, and Strategy Stocks Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-coinbase-robinhood-strategy-stocks-8d7fe9f8?gaa_at=eafs&gaa_n=AWEtsqevlakPNvLJ7NTiXhXw4eT_s9yCzU3bzf_yDur5Ti4Qit44sAtrBDR0&gaa_ts=6946acc9&gaa_sig=cBIFdUHTlyQwdM-7qVfeqST-_LCExk7fhvPQqYQuIdQC12scFKR-Bm9UlFHXCtM0UAXkj9hV2lkiBMJLUNuN1w%3D%3D)**
 
 Barron's • 2d ago
 

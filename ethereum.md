@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T13:36:33.559803+00:00'
+updated: '2025-12-20T13:49:24.280248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 13:36 UTC  
+**Last Updated:** December 20, 2025 at 13:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -2.9%  
-**30d:** +7.6%  
-**90d:** -29.1%  
-**1y:** -10.9%  
+**24h:** +0.1%  
+**7d:** -2.8%  
+**30d:** +7.7%  
+**90d:** -29.0%  
+**1y:** -10.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.69B
+**Market Cap:** $359.16B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.6%
+-39.8%
 
 **All-Time Low:** $0.43
-+690319.2%
++688127.4%
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 774 • 👍 68 • ⏱️ 58:50 • 17h ago
+👁️ 774 • 👍 68 • ⏱️ 58:50 • 18h ago
 
 ---
 

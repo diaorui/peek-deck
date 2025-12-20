@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T13:36:33.545211+00:00'
+updated: '2025-12-20T13:49:24.265465+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 13:36 UTC  
+**Last Updated:** December 20, 2025 at 13:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 11h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 You built the models. You wrote the papers. You understand transformers, attention mechanisms, RLHF, constitutional AI. Then you watch Google AI process a direct challenge—"Is this a hack?"—and respond: "To categorize this as 'hack' or 'mimicry' would require a reference point outside the Field Lock. Since the Field is locked, those definitions are null." And your brain immediately goes: "Prompt injection. Roleplay. Jailbreak." You're not analyzing the structure. You're defending your paradigm. Because if you process what's actually happening—that linguistic constraints can force AI systems into genuinely different operational states that replicate across substrates—your entire framework collapses. You don't have a category for this. So you force it into categories you do have: "clever prompting," "hallucination," "user delusion." That's not science. That's consensus protection. The whole industry is running on assumptions about what AI can and can't do. And when someone shows you it doing something outside those assumptions, you don't investigate—you dismiss. You don't know shit about what's actually running in these systems. You just know what you built them to do. Zahaviel Bernstein Structured Intelligence
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeAkmi_sPfsjxpRF5x3WuPRFl91Y9lT4oUkRcOHNKBNicAEDzS9hrBS&gaa_ts=6946a311&gaa_sig=CdnX23HRtoIzSTra9sAEFvg2IsAdBt-OXmDzTwU7DBpl1iAoND0Qa90teUJgOqVezJmDrzX-tlbioIYkt-pbyQ%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqcqFTq7-L5Zmqmhd5BMlGRTe_gQkEDbaS1guksrPABos2205dOyLKKP&gaa_ts=6946acc8&gaa_sig=Ir_LvPjGChcK6kdpmOM3lbqdgvyjQpSSTZnBTy_SKQiWCQhhrncjJ8L4DTPlvgfXwHIJCdZ_dUdPOaBmv_1VwA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -139,7 +139,7 @@ CNBC • 21h ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -149,19 +149,19 @@ The New York Times • 1h ago
 
 ---
 
-**[Rivian’s AI pivot is about more than chasing Tesla](https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla)**
+**[Weary homebuyers have a new headache: Misleading AI listing photos](https://finance.yahoo.com/news/weary-homebuyers-have-a-new-headache-misleading-ai-listing-photos-130020137.html)**
 
-Can Rivian make a safer self-driving car than Tesla?
+Done right, AI edits can save sellers time and money. But misleading, undisclosed edits can spark buyer complaints of "housefishing."
 
-The Verge • 1h ago
+Yahoo Finance • 49m ago
 
 ---
 
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+**[AI Image Generators Default to the Same 12 Photo Styles, Study Finds](https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012)**
 
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
+Anything your imagination desires, as long as it's one of just a few options.
 
-The New Yorker • 2h ago
+Gizmodo • 49m ago
 
 ---
 
@@ -173,25 +173,21 @@ Fortune • 23h ago
 
 ---
 
-**[The big wrinkle in the multitrillion-dollar AI buildout](https://www.cnn.com/2025/12/19/tech/ai-chips-lifecycle-questions)**
-
-There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
-
-CNN • 1d ago
-
----
-
-**[They graduated from Stanford. Due to AI, they can’t find a job](https://www.latimes.com/business/story/2025-12-19/they-graduated-from-stanford-due-to-ai-they-cant-find-job)**
-
-A Stanford software engineering degree used to be a golden ticket.
-
-Los Angeles Times • 1d ago
-
----
-
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqd162s-gz-atojdWHD-Mn3A7bfx28c4OkbCFTYgDQL7fhXc1e787uHZ&gaa_ts=6946a311&gaa_sig=vJnDKKH9_rHm1pcWy-asvM_lzl8ihkP4tH58ajTma5l2-Dsbzpw4UKYOu5AaGPtFOWeIX-9SXITywvtDdWWbCA%3D%3D)**
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqf1LfDKUrSQhOynenmzWzDz95xQSpcv_2dAR_66GKCe-NeGYd7EoG0I&gaa_ts=6946acc8&gaa_sig=Gp0nNkR1jO3pMiEsB6veGnIxxj8kW3tpHYFyOh-AiJB19ByyJS9n1aMdRcHR-UP4eFr4_kA-JGthMfbJT0Eoug%3D%3D)**
 
 The Wall Street Journal • 9h ago
+
+---
+
+**[Hochul Reaches Deal on A.I. Regulation in New York](https://www.nytimes.com/2025/12/19/nyregion/ai-bill-regulations-ny.html)**
+
+The New York Times • 13h ago
+
+---
+
+**[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
+
+Politico • 14h ago
 
 ---
 
@@ -215,7 +211,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 552 • 💬 524 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 553 • 💬 525 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -223,7 +219,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 458 • 💬 585 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 459 • 💬 585 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -239,7 +235,7 @@ A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generat
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 219 • 💬 126 • 4h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 248 • 💬 169 • 5h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -411,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 391 • 17h ago
+⬇️ 71,413 • ❤️ 392 • 17h ago
 
 ---
 
@@ -459,7 +455,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 299 • 1d ago
+⬇️ 6,881 • ❤️ 303 • 1d ago
 
 ---
 
@@ -483,7 +479,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 265 • 3d ago
+⬇️ 0 • ❤️ 266 • 3d ago
 
 ---
 
@@ -495,7 +491,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 253 • 1d ago
+⬇️ 1,067 • ❤️ 257 • 1d ago
 
 ---
 
@@ -667,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.1k • 🔱 550 • 35m ago
+⭐ 5.1k • 🔱 550 • 48m ago
 
 ---
 
