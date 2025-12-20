@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T03:55:33.180336+00:00'
+updated: '2025-12-20T04:28:02.703796+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 03:55 UTC  
+**Last Updated:** December 20, 2025 at 04:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,119.01
+### $88,222.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +0.0%  
+**24h:** +1.2%  
+**7d:** -0.0%  
 **30d:** +3.9%  
 **90d:** -21.7%  
-**1y:** -9.2%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.75B
+**Market Cap:** $1759.63B
 Rank #1
 
 **Circulating Supply:** 19,964,481 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.1%
 
 **All-Time Low:** $67.81
-+129959.0%
++129873.5%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-9h ago
+10h ago
 
 ---
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,17 +95,17 @@ Rank #1
 
 ---
 
+**[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
+
+5h ago
+
+---
+
 **[54 yo, unemployed, had to sell](https://www.reddit.com/r/Bitcoin/comments/1pqmswa/54_yo_unemployed_had_to_sell/)**
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
 13h ago
-
----
-
-**[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
-
-5h ago
 
 ---
 
@@ -119,13 +119,13 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Bart giving you the big ol stinky. legendary bullrun setup. Save this post im serious](https://www.reddit.com/r/Bitcoin/comments/1pqnlib/bart_giving_you_the_big_ol_stinky_legendary/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Victory](https://www.reddit.com/r/Bitcoin/comments/1pqutyf/victory/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqcs8qFLJMVvfU93hkvazASbSoUhBek5lzmv9RzyBISJRgTTCI8sFtH_&gaa_ts=69462146&gaa_sig=XHX1nunXlkD_MPU6Ye-dSrrohx3F_pO69bEsmGiLMKNo5qYmOtvFmDYABFcC_Li2fWmvAyDD4yl9dVaEGb4qDg%3D%3D)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqf4LnFY5HH-pm3ZOaeH8xOEqJfKpt9XTv_obu9X-RcP1ky2WvvSXR-K&gaa_ts=69462939&gaa_sig=W2uAIUYowJEdSGyJcd_TMMY7vrw_P1uLXpvtQ08h4ktVSxMW0jsCPtPInUF6hc-CFd2QVu3yI9PRxpX_FCbXrA%3D%3D)**
 
 Barron's • 19h ago
 
@@ -165,7 +165,7 @@ Investing.com • 14h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqcCkoUBayZr0f4xXbXfnv0lhLsvwAP1rUfqQKsDDlvK5N95wysjayMQ&gaa_ts=69462146&gaa_sig=np42lwj4N7JGXKCRy7DU-Z3N6co2AMBro2i2H6F1r2xrU46RiyeAYGsDr7a1sG9htSV-VB0NoBrSBGHArrBfZQ%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqclViZhDGkfEghZedif2MRJxe2ne7GKtEbX39PzCJbh2-4Ql4XIyx22&gaa_ts=69462939&gaa_sig=gSwwoh0o-kOKLsHdGUYZg0X4LlYv1Ohq38Z9TzYIdxmiYzbJNYxVWrKYAyKZXpUcc-f19ahRUfubMPClrpVl_Q%3D%3D)**
 
 MarketWatch • 14h ago
 
@@ -175,7 +175,7 @@ MarketWatch • 14h ago
 
 Earlier this week, Norway’s Norges Bank Investment Management backed all five of Metaplanet’s bitcoin-focused capital restructuring proposals ahead of the December 22 Extraordinary General Meeting, including plans for share buybacks, dividends, and new preferred share issuance to raise US$150 million from institutional investors. This support from one of the world’s largest sovereign wealth funds highlights growing institutional interest in Metaplanet’s bitcoin accumulation model and its...
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 45m ago
 
 In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-Futurism • 12h ago
+Futurism • 13h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqe2T_-ztc839xsnOn0NekSjxV6JabRGWHkRC_fy-WSSeK9wF9sQsvWi&gaa_ts=69462146&gaa_sig=BzdztW3qoUsGtDXmDcKyACnomqFOiv7jplY_q3qtMrcVqXd-vl591EQXRSvPG7-5W-qmaDGiwU7CCUnR1_qDug%3D%3D)**
+**[Bitcoin Keeps Sliding, and the True Believers Keep Buying](https://www.wsj.com/finance/currencies/bitcoin-keeps-sliding-and-the-true-believers-keep-buying-b3c03b1b?gaa_at=eafs&gaa_n=AWEtsqd0lZZPMAja_qteYKAFk7ey7PrF2V-YRDihKh9eoOJ6u1YyizS-lPV2&gaa_ts=69462939&gaa_sig=5dqyAGsWNiojL3Qz_rwuAO1DbdEJJ568rVIWsboRi7-ubi88L30dxm2c78GzA3VBvZdjyKxq9NA87K0rIltIaA%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -253,7 +253,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 12h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 13h ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -325,7 +325,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 182 • ⏱️ 44:14 • 12h ago
+👁️ 34K • 👍 2K • 💬 182 • ⏱️ 44:14 • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 121 • 💬 37 • ⏱️ 4:42 • 3h ago
+👁️ 1K • 👍 121 • 💬 37 • ⏱️ 4:42 • 4h ago
 
 ---
 
@@ -345,7 +345,7 @@ Macro and onchain data says Bitcoin looks undervalued heading into 2026. BITUNIX
 
 📺 Lark Davis
 
-👁️ 3K • 👍 261 • 💬 33 • ⏱️ 9:09 • 4h ago
+👁️ 3K • 👍 261 • 💬 33 • ⏱️ 9:09 • 5h ago
 
 ---
 
@@ -355,7 +355,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 667 • 💬 104 • ⏱️ 5:29 • 10h ago
+👁️ 8K • 👍 667 • 💬 104 • ⏱️ 5:29 • 11h ago
 
 ---
 
@@ -365,7 +365,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 356 • 💬 61 • ⏱️ 9:31 • 11h ago
+👁️ 7K • 👍 356 • 💬 61 • ⏱️ 9:31 • 12h ago
 
 ---
 
@@ -375,7 +375,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 219 • ⏱️ 18:06 • 11h ago
+👁️ 56K • 👍 4K • 💬 219 • ⏱️ 18:06 • 12h ago
 
 ---
 
@@ -385,7 +385,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 479 • 💬 45 • ⏱️ 8:37 • 16h ago
+👁️ 15K • 👍 479 • 💬 45 • ⏱️ 8:37 • 17h ago
 
 ---
 

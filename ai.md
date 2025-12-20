@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T03:55:33.171883+00:00'
+updated: '2025-12-20T04:28:02.695489+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 03:55 UTC  
+**Last Updated:** December 20, 2025 at 04:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-18h ago
+19h ago
 
 ---
 
@@ -81,7 +81,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 8h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 9h ago
 
 ---
 
@@ -97,7 +97,7 @@ My question is about reliance on facial recognition software, and more generally
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 8h ago
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 15h ago
+Los Angeles Times • 16h ago
 
 ---
 
@@ -147,21 +147,7 @@ CNBC • 11h ago
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 17h ago
-
----
-
-**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
-
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 13h ago
-
----
-
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdCu1tu5CotIkRxgqV0FElYeWc1UXJ7agc7Ir3xSECpP2DstszrW29K&gaa_ts=69462199&gaa_sig=B4_STK5WTkY0H-EYQ5F9pkFgJf82a4PVa4UirKisZbjUwXWWS0PtzxE1Lihemslx4r8S1vddumpVwlANOdtkhA%3D%3D)**
-
-The Wall Street Journal • 1d ago
+CNN • 18h ago
 
 ---
 
@@ -173,11 +159,25 @@ BBC • 2h ago
 
 ---
 
+**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 14h ago
+
+---
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqf7pHxjpen16VEYV5hCwR-MJBVxuC7kovytz2giGwP0DyOEF0JMZHEH&gaa_ts=69462938&gaa_sig=mhwM15F3tBpzd09uDaWDFWK5I7P7DTEQWyoKyhvRdTHehumCrftWXwCGr_W135ViGEW_uF-nE3J8SxbhwnxaDw%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
 **[What will your life look like in 2035?](https://www.theguardian.com/technology/ng-interactive/2025/dec/19/what-will-your-life-look-like-in-2035)**
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -189,9 +189,11 @@ National Oceanic and Atmospheric Administration (NOAA) (.gov) • 2d ago
 
 ---
 
-**[HHS Announces Request for Information to Harness Artificial Intelligence to Deflate Health Care Costs and Make America Healthy Again](https://www.hhs.gov/press-room/hhs-ai-rfi.html)**
+**[6 Scary Predictions for AI in 2026](https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/)**
 
-Department of Health and Human Services (HHS) (.gov) • 13h ago
+Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?
+
+WIRED • 12h ago
 
 ---
 
@@ -333,7 +335,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 7K • 👍 215 • 💬 13 • ⏱️ 1:00 • 5h ago
+👁️ 7K • 👍 215 • 💬 13 • ⏱️ 1:00 • 6h ago
 
 ---
 
@@ -343,7 +345,7 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 124K • 👍 9K • 💬 1K • ⏱️ 17:08 • 10h ago
+👁️ 124K • 👍 9K • 💬 1K • ⏱️ 17:08 • 11h ago
 
 ---
 
@@ -383,7 +385,7 @@ A Rabbit's Kindness, A Man's Cruel Choice #ai #plants #trending #growth.
 
 📺 Ai creator
 
-👁️ 267 • ⏱️ 0:21 • 14m ago
+👁️ 267 • ⏱️ 0:21 • 47m ago
 
 ---
 
@@ -411,7 +413,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 387 • 7h ago
+⬇️ 62,493 • ❤️ 388 • 8h ago
 
 ---
 
@@ -447,7 +449,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 296 • 5d ago
+⬇️ 2,490 • ❤️ 297 • 5d ago
 
 ---
 
@@ -459,7 +461,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 288 • 4d ago
+⬇️ 0 • ❤️ 289 • 4d ago
 
 ---
 
@@ -471,7 +473,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 268 • 1d ago
+⬇️ 2,154 • ❤️ 271 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 255 • 3d ago
+⬇️ 0 • ❤️ 256 • 3d ago
 
 ---
 
@@ -507,7 +509,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 953 • 7d ago
+⬇️ 201,479 • ❤️ 954 • 7d ago
 
 ---
 
@@ -547,7 +549,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 59 • 💬 1 • ⭐ 565 • 3d ago
+▲ 59 • 💬 1 • ⭐ 571 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -564,18 +566,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 134 • 💬 6 • ⭐ 18,682 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 30 • 💬 2 • ⭐ 12,811 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -620,6 +610,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 30 • 💬 2 • ⭐ 12,831 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
 **[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
 *Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 16h ago
+⭐ 18.0k • 🔱 2.8k • 17h ago
 
 ---
 
@@ -667,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.9k • 🔱 521 • 1d ago
+⭐ 4.9k • 🔱 526 • 1d ago
 
 ---
 
@@ -677,7 +679,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 149 • 55m ago
+⭐ 2.1k • 🔱 150 • 17m ago
 
 ---
 
@@ -727,7 +729,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 821 • 🔱 134 • 3d ago
+⭐ 822 • 🔱 134 • 3d ago
 
 ---
 
@@ -737,7 +739,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 803 • 🔱 37 • 2d ago
+⭐ 815 • 🔱 39 • 2d ago
 
 ---
 
@@ -747,7 +749,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 795 • 🔱 116 • 2d ago
+⭐ 796 • 🔱 116 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T03:55:33.189538+00:00'
+updated: '2025-12-20T04:28:02.712848+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 03:55 UTC  
+**Last Updated:** December 20, 2025 at 04:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 **[G1: The ultimate concert hype man](https://www.reddit.com/r/robotics/comments/1pqm8it/g1_the_ultimate_concert_hype_man/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -88,19 +88,23 @@ It's my old line follower robot with Aimega16 :) I maked it with my hands and no
 
 Anyone have any experience with Linmot Actuators? We implemented these in food grade wash down environment using a scara robot making rate of about 40 picks a minute , however we have had 4 , yes FOUR , cables fail in the last month and half since we commissioned this job . Just wondering if anyone has had experience with any linmot grippers ( EOAT). Would love to chat Thanks .
 
-1h ago
+2h ago
 
 ---
 
-**[Modular robot，From limx dynamics](https://www.reddit.com/r/robotics/comments/1ppsl1o/modular_robotfrom_limx_dynamics/)**
+**[Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China](https://www.reddit.com/r/robotics/comments/1pr5f0y/humanoid_robots_from_unitree_perform_flips_and/)**
 
-1d ago
+Humanoid robots from Unitree perform flips and synchronized choreography live on stage in China
+
+4m ago
 
 ---
 
-**[Just finished some controller boards for the Pololu TB9051 DC motor driver, including encoder inputs, PID control and CAN interface. The boards are intended to be used in my Robot (still under construction).](https://www.reddit.com/r/robotics/comments/1pqn4hq/just_finished_some_controller_boards_for_the/)**
+**[Designing my first PCB for an ESP32 Skid Steer: Motor Noise Suppression and Power Isolation](https://www.reddit.com/r/robotics/comments/1pr5atl/designing_my_first_pcb_for_an_esp32_skid_steer/)**
 
-12h ago
+Hey everyone, I’m currently building a 2-wheel skid steer robot using an ESP32. The goal is to have it transport a payload between two points with high precision and speed, controlled by a human operator. It needs to be super reliable, so I’m finally moving away from the breadboard and designing my first custom PCB for it. Since this is my first board, I’m a bit worried about signal integrity and keeping the ESP32 from resetting due to electrical noise from the DC motors. I’m trying to figure out the best way to isolate the logic side from the power side to prevent inductive spikes. Would using separate voltage regulators with a common star ground be enough here, or is there a better approach? Also, regarding the motors themselves, I know I need to solder ceramic capacitors to suppress high-frequency noise, but I’m looking for confirmation on the best arrangement. Is the standard setup of one cap across the terminals and two to the motor case the way to go? And are 0.1µF (100nF) capacitors usually the right value for this? Any other tips on trace widths or general layout advice for a first-timer would be really appreciated. Thanks in advance!
+
+10m ago
 
 ---
 
@@ -112,7 +116,7 @@ Anyone have any experience with Linmot Actuators? We implemented these in food g
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Futurism • 9h ago
+Futurism • 10h ago
 
 ---
 
@@ -154,19 +158,11 @@ The New York Times • 2d ago
 
 ---
 
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 1d ago
-
----
-
 **[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
 
 ---
 
@@ -181,6 +177,14 @@ Bloomberg.com • 17h ago
 UPS is paying up $120 million to use 400 truck-unloading robots from Pickle Robot, adding to its broader $9 billion warehouse automation strategy.
 
 Sourcing Journal • 3d ago
+
+---
+
+**[Update - AMC Robotics Establishes Supplier Framework to Enable Robotics Deployment in Japan](https://finance.yahoo.com/news/amc-robotics-establishes-supplier-framework-144400553.html)**
+
+NEW YORK, Dec. 17, 2025 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven safety and robotics solutions company, today announced that it has established a non-binding supplier framework to support the deployment of its solutions for a government agency in Japan. The framework outlines a collaborative path to introduce AMC’s quadruped robotics platform and expand its capabilities for the Japanese market. This includes joint work on AI-powe
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -204,7 +208,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 13K • 👍 278 • 💬 86 • ⏱️ 3:55 • 16h ago
+👁️ 13K • 👍 278 • 💬 86 • ⏱️ 3:55 • 17h ago
 
 ---
 
