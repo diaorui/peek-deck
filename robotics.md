@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T14:27:33.793787+00:00'
+updated: '2025-12-20T14:43:23.523570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 14:27 UTC  
+**Last Updated:** December 20, 2025 at 14:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -80,13 +80,13 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-15h ago
+16h ago
 
 ---
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 10K • 👍 304 • 💬 28 • ⏱️ 2:08:46 • 13h ago
+👁️ 11K • 👍 341 • 💬 33 • ⏱️ 2:08:46 • 14h ago
 
 ---
 
@@ -208,7 +208,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 18K • 👍 329 • 💬 100 • ⏱️ 3:55 • 1d ago
+👁️ 20K • 👍 357 • 💬 101 • ⏱️ 3:55 • 1d ago
+
+---
+
+**[Polish startup just built a 1,000-muscle robot that moves exactly like a human and it&#39;s terrifying](https://www.youtube.com/watch?v=_HtcRmUXiSU)**
+
+A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitching its limbs like it just woke up from a nightmare ...
+
+📺 Nic Conley
+
+👁️ 19K • 👍 1K • 💬 37 • ⏱️ 1:32 • 1d ago
 
 ---
 
@@ -218,37 +228,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 189K • 👍 2K • 💬 21 • ⏱️ 0:25 • 6d ago
-
----
-
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
-
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
-
-📺 CNET
-
-👁️ 32K • 👍 759 • 💬 121 • ⏱️ 6:41 • 6d ago
-
----
-
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 74K • 👍 1K • 💬 144 • ⏱️ 11:23 • 4d ago
-
----
-
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 32K • 👍 319 • 💬 33 • ⏱️ 1:05 • 4d ago
+👁️ 190K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
 
 ---
 
@@ -258,17 +238,45 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 51K • 👍 3K • 💬 327 • ⏱️ 13:43 • 1d ago
+👁️ 53K • 👍 3K • 💬 332 • ⏱️ 13:43 • 1d ago
 
 ---
 
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
 
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+📺 Romi Pal
 
-📺 vt.physics
+👁️ 11.3M • 👍 76K • 💬 518 • ⏱️ 0:24 • 4d ago
 
-👁️ 468K • 👍 16K • 💬 504 • ⏱️ 0:34 • 6d ago
+---
+
+**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+
+Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+
+📺 CNET
+
+👁️ 32K • 👍 760 • 💬 121 • ⏱️ 6:41 • 6d ago
+
+---
+
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+
+📺 AI Revolution
+
+👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 4d ago
+
+---
+
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+
+📺 CNET
+
+👁️ 32K • 👍 319 • 💬 33 • ⏱️ 1:05 • 5d ago
 
 ---
 
@@ -278,17 +286,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 17K • 👍 37 • ⏱️ 0:09 • 1d ago
-
----
-
-**[They Crushed The Indra With NERFS... Indra Overhaul Has Arrived | War Robots](https://www.youtube.com/watch?v=3pO2EaxafpU)**
-
-The Indra got big nerfs by pixonic. I was afraid of this, and it's arrived. The Indra, which is alot of f2p players go to titan has got big ...
-
-📺 PREDATOR WR
-
-👁️ 7K • 👍 300 • 💬 49 • ⏱️ 16:44 • 1d ago
+👁️ 18K • 👍 40 • ⏱️ 0:09 • 1d ago
 
 ---
 

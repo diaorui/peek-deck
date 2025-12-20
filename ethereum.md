@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T14:27:33.790533+00:00'
+updated: '2025-12-20T14:43:23.520703+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 14:27 UTC  
+**Last Updated:** December 20, 2025 at 14:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.8%  
-**30d:** +7.7%  
+**24h:** +0.5%  
+**7d:** -2.9%  
+**30d:** +7.6%  
 **90d:** -29.1%  
-**1y:** -10.8%  
+**1y:** -10.9%  
 
 ---
 
@@ -118,7 +118,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 **[Poll for name of the new ERC standard for diamond contracts](https://www.reddit.com/r/ethereum/comments/1pqo36m/poll_for_name_of_the_new_erc_standard_for_diamond/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/2002037963056947478) • 23h ago
 
 ---
 
@@ -232,13 +232,33 @@ ts2.tech • 19h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
+
+In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
+
+📺 Milk Road
+
+👁️ 102 • 👍 11 • 💬 1 • ⏱️ 11:26 • 42m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YnQLkYMv6FE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 267 • 👍 35 • 💬 2 • ⏱️ 6:04 • 34m ago
+
+---
+
 **[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 301 • 💬 8 • ⏱️ 21:53 • 23h ago
+👁️ 8K • 👍 334 • 💬 9 • ⏱️ 21:53 • 23h ago
 
 ---
 
@@ -248,7 +268,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 496 • 💬 29 • ⏱️ 8:37 • 1d ago
+👁️ 16K • 👍 501 • 💬 29 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -258,17 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 483 • 💬 58 • ⏱️ 16:54 • 1d ago
-
----
-
-**[BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hFt8o9AUfQM)**
-
-BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 311 • 💬 113 • ⏱️ 22:39 • 19h ago
+👁️ 15K • 👍 492 • 💬 58 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -278,7 +288,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 302 • 💬 4 • ⏱️ 20:31 • 18h ago
+👁️ 7K • 👍 319 • 💬 4 • ⏱️ 20:31 • 18h ago
+
+---
+
+**[BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hFt8o9AUfQM)**
+
+BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 312 • 💬 82 • ⏱️ 22:39 • 20h ago
 
 ---
 
@@ -288,7 +308,7 @@ Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bea
 
 📺 Taiki Maeda
 
-👁️ 15K • 👍 640 • 💬 261 • ⏱️ 33:33 • 2d ago
+👁️ 15K • 👍 641 • 💬 262 • ⏱️ 33:33 • 2d ago
 
 ---
 
@@ -298,7 +318,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 19K • 👍 2K • 💬 2 • ⏱️ 27:59 • 1d ago
+👁️ 20K • 👍 2K • 💬 2 • ⏱️ 27:59 • 1d ago
 
 ---
 
@@ -308,27 +328,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 774 • 👍 68 • ⏱️ 58:50 • 18h ago
-
----
-
-**[XRP ETFs CRUSHING Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=9vySY0ML4Ik)**
-
-FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
-
-📺 Paul Barron Podcast
-
-👁️ 18K • 👍 1K • 💬 179 • ⏱️ 35:52 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XDMJuuBKCtA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 153 • 💬 11 • ⏱️ 9:41 • 1d ago
+👁️ 790 • 👍 69 • ⏱️ 58:50 • 19h ago
 
 ---
 

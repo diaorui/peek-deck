@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T14:27:33.784428+00:00'
+updated: '2025-12-20T14:43:23.515286+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 14:27 UTC  
+**Last Updated:** December 20, 2025 at 14:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,094.17
+### $88,116.95
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Honestly, I'm tired of staring at charts. I've been in this market since 2017. I saw the euphoria when everyone was talking about crypto, and I saw the despair when portfolios dropped hard. I thought I'd seen it all. But this feels different. Prices are going up, institutions are here, ETFs are live - yet there's a strange tension in the air. It's not the easy euphoria of past cycles. It feels like the calm before something big, one way or another. Last night I closed the charts and went for a walk without my phone. Sometimes it helps to remember that life isn't just green and red candles. I came back and bought a little more BTC - not because I'm calm, but because I believe in the long term. How are you handling the pressure right now? Feeling anxious or totally zen?
 
-57m ago
+1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Honestly, I’m exhausted from watching charts all day. I’ve been in this mark
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-13h ago
+14h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 1d ago
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 26m ago
+CoinDesk • 42m ago
 
 ---
 
@@ -181,13 +181,13 @@ The Motley Fool • 1h ago
 
 "If you can do $25 billion in bad year, imagine the flow potential in good year," said Bloomberg's Eric Balchunas
 
-CoinDesk • 26m ago
+CoinDesk • 42m ago
 
 ---
 
 **[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfvj2D970dmfYvcxMUAs9jcOMIUVyDg2bAMVqi74aARR_cwfz4LAWJs&gaa_ts=6946b5bd&gaa_sig=x0DUEPFuJOXmum89scJy884WAEAIEwAyVxibtkusaKxSCl4VGU0CdjTGm1IPsBqUYUSUqkU1ACQM6EevYo_JMA%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -287,7 +287,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 91 • ⏱️ 13:47 • 14h ago
+👁️ 30K • 👍 2K • 💬 146 • ⏱️ 13:47 • 15h ago
 
 ---
 
@@ -297,7 +297,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 503 • 💬 228 • ⏱️ 10:58 • 13h ago
+👁️ 11K • 👍 525 • 💬 307 • ⏱️ 10:58 • 14h ago
 
 ---
 
@@ -307,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 38K • 👍 2K • 💬 175 • ⏱️ 44:14 • 23h ago
+👁️ 38K • 👍 2K • 💬 180 • ⏱️ 44:14 • 23h ago
 
 ---
 
@@ -317,17 +317,17 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 
 📺 Swan Bitcoin
 
-👁️ 50K • 👍 2K • 💬 157 • ⏱️ 16:50 • 1d ago
+👁️ 51K • 👍 2K • 💬 160 • ⏱️ 16:50 • 1d ago
 
 ---
 
-**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+**[Bitcoiners, What The Heck Is GOING ON](https://www.youtube.com/watch?v=pDqkkYs-qJY)**
 
-Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+Ton Wallet: ...
 
-📺 BTC Isla
+📺 Aaron Bennett
 
-👁️ 15K • 👍 1K • 💬 234 • ⏱️ 8:31 • 21h ago
+👁️ 2K • 👍 205 • 💬 35 • ⏱️ 11:40 • 3h ago
 
 ---
 
@@ -337,7 +337,17 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 40K • 👍 1K • 💬 214 • ⏱️ 2:15 • 1d ago
+👁️ 41K • 👍 2K • 💬 220 • ⏱️ 2:15 • 1d ago
+
+---
+
+**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+
+Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+
+📺 BTC Isla
+
+👁️ 16K • 👍 2K • 💬 238 • ⏱️ 8:31 • 21h ago
 
 ---
 
@@ -347,27 +357,17 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 209 • 💬 48 • ⏱️ 4:42 • 14h ago
+👁️ 4K • 👍 230 • 💬 90 • ⏱️ 4:42 • 14h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=HzxkdNoefQY)**
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
 
-📺 ET Transport
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 1K • 2h ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 16K • 👍 496 • 💬 29 • ⏱️ 8:37 • 1d ago
+👁️ 72K • 👍 5K • 💬 260 • ⏱️ 18:06 • 22h ago
 
 ---
 
@@ -377,7 +377,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 415 • 💬 16 • ⏱️ 7:49 • 9h ago
+👁️ 7K • 👍 453 • 💬 49 • ⏱️ 7:49 • 9h ago
 
 ---
 
