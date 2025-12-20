@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T07:49:14.763418+00:00'
+updated: '2025-12-20T08:00:44.307601+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 07:49 UTC  
+**Last Updated:** December 20, 2025 at 08:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
+**24h:** +0.9%  
 **7d:** -2.9%  
 **30d:** +7.5%  
 **90d:** -29.2%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.99B
+**Market Cap:** $359.84B
 Rank #2
 
 **Circulating Supply:** 120,695,016 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.7%
 
 **All-Time Low:** $0.43
-+687332.9%
++688559.3%
 
 ---
 
@@ -96,15 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 21h ago
-
----
-
-**[Ethereal news weekly #3 | J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy](https://www.reddit.com/r/ethereum/comments/1pqikyu/ethereal_news_weekly_3_jp_morgan_tokenized_fund/)**
-
-J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 20h ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 22h ago
 
 ---
 
@@ -113,6 +105,14 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
 
 23h ago
+
+---
+
+**[Ethereal news weekly #3 | J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy](https://www.reddit.com/r/ethereum/comments/1pqikyu/ethereal_news_weekly_3_jp_morgan_tokenized_fund/)**
+
+J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks privacy
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-3/) • 20h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance UK • 2h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqcwcxwEAdJK0YW5Ts1gvdptgiazL119yXm4ayOJf_qLp_59snwUNcvu&gaa_ts=694652a1&gaa_sig=2jtmF7yAzC05-Sl7iGyg8mA2YqtQhzxEQkJfaelLsCsLOVBWOS_O7u-eVBSUE6SVkl29hP_bDKX7-IraUeJmNw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqfaUfqgPLBNIkrOeMXttcW8uBWKGS7Rzm6PIYjRfASe7S_Kh1ty2jnO&gaa_ts=69465b14&gaa_sig=m0LrjhZP3d7xVJmYPrB_2hKme6_sGCCe_rYkdVHOsDB2Pqdy7TqxWtCy2jFvTtPSdnQvQziljFmfydoIH55gqw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -204,7 +204,7 @@ Barron's • 2d ago
 
 Bitcoin, Ethereum and XRP traded carefully on Friday as global investors watched the expiry of about $7.1 trillion worth of U.S. stock and ETF options. This is the largest options expiry ever recorded, and its size has raised concerns about short-term market volatility. Still, analysts say such eve…
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 481 • 💬 28 • ⏱️ 8:37 • 20h ago
+👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 250 • 💬 6 • ⏱️ 21:53 • 16h ago
+👁️ 6K • 👍 269 • 💬 7 • ⏱️ 21:53 • 16h ago
 
 ---
 
@@ -254,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 462 • 💬 54 • ⏱️ 16:54 • 1d ago
+👁️ 14K • 👍 470 • 💬 55 • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -264,17 +264,7 @@ BITCOIN: This Changes EVERYTHING (for now)..... | Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 283 • 💬 86 • ⏱️ 22:39 • 13h ago
-
----
-
-**[CRYPTO LIVE TRADING || 20 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=VKgqz2eFmOc)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 601 • 2h ago
+👁️ 7K • 👍 297 • 💬 106 • ⏱️ 22:39 • 13h ago
 
 ---
 
@@ -288,13 +278,23 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Hegota Upgrade Revealed: Why BlackRock &amp; BitMine Are Betting Big on Ethereum&quot;](https://www.youtube.com/watch?v=_9z2hB4blbY)**
+**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
 
-In this video, we uncover the massive implications of Ethereum's newly announced Hegota Upgrade scheduled for 2026. This isn't ...
+Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
 
-📺 CryptoStock Lab
+📺 Sin City Crypto
 
-👁️ 875 • 👍 22 • 💬 2 • ⏱️ 15:52 • 16h ago
+👁️ 744 • 👍 67 • ⏱️ 58:50 • 12h ago
+
+---
+
+**[XRP ETFs CRUSHING Bitcoin &amp; Ethereum](https://www.youtube.com/watch?v=9vySY0ML4Ik)**
+
+FEATURED PARTNER: ▻ Uphold Debit Card - Get Up to 6% in XRP with Every Purchase for 3 Months! Plus more XRP Bonuses ...
+
+📺 Paul Barron Podcast
+
+👁️ 17K • 👍 1K • 💬 178 • ⏱️ 35:52 • 18h ago
 
 ---
 
@@ -308,23 +308,23 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 ---
 
-**[Bitcoin and Ethereum at Inflection Point](https://www.youtube.com/watch?v=i8w-IJhWnss)**
+**[Why I’m Shorting $1M of ETH (Again)](https://www.youtube.com/watch?v=4lvRHZaCTR4)**
 
-Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Create an account with Stake and win Stake Cash ...
+Taiki is back in the arena shorting $1M of ETH. In this video I recap my ETH bear thesis over the last few months, and why I ...
 
-📺 Sin City Crypto
+📺 Taiki Maeda
 
-👁️ 724 • 👍 66 • ⏱️ 58:50 • 12h ago
+👁️ 15K • 👍 636 • 💬 261 • ⏱️ 33:33 • 2d ago
 
 ---
 
-**[Ethereum Sees Small Recovery Before A MUCH Bigger Drop](https://www.youtube.com/watch?v=NWg1n9p9wZc)**
+**[Hegota Upgrade Revealed: Why BlackRock &amp; BitMine Are Betting Big on Ethereum&quot;](https://www.youtube.com/watch?v=_9z2hB4blbY)**
 
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+In this video, we uncover the massive implications of Ethereum's newly announced Hegota Upgrade scheduled for 2026. This isn't ...
 
-📺 Trade Confident
+📺 CryptoStock Lab
 
-👁️ 453 • 👍 20 • 💬 20 • ⏱️ 5:53 • 10h ago
+👁️ 919 • 👍 23 • 💬 2 • ⏱️ 15:52 • 16h ago
 
 ---
 

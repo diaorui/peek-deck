@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T07:49:14.766691+00:00'
+updated: '2025-12-20T08:00:44.310854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 07:49 UTC  
+**Last Updated:** December 20, 2025 at 08:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,25 +112,11 @@ Hey everyone, I’m currently building a 2-wheel skid steer robot using an ESP32
 
 ## Google News: "robotics"
 
-**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+**[US firm Foundation plans to build 50,000 humanoid robots by 2027](https://interestingengineering.com/military/us-foundation-build-50000-humanoid-robots)**
 
-California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+Foundation plans to build 50,000 humanoid robots by 2027, targeting both industrial work and military missions.
 
-Los Angeles Times • 2d ago
-
----
-
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
-
-Bloomberg.com • 20h ago
-
----
-
-**[Investors Warn That Humanoid Robots Are the Next Financial Bubble](https://futurism.com/future-society/humanoid-robot-financial-bubble)**
-
-A venture capitalist is warning investors that the AI robots sector could be experiencing the start of a financial bubble.
-
-Futurism • 12h ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -170,13 +156,13 @@ TechCrunch • 2d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 8h ago
+South China Morning Post • 9h ago
 
 ---
 
 **[Grab to Acquire Chinese Firm Infermove to Expand in AI Robotics](https://www.bloomberg.com/news/articles/2025-12-19/grab-to-acquire-chinese-firm-infermove-to-expand-in-ai-robotics)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -185,6 +171,20 @@ Bloomberg.com • 20h ago
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
 Fortune • 1d ago
+
+---
+
+**[At a Silicon Valley summit, robots fold laundry—and investors open their wallets](https://www.latimes.com/business/story/2025-12-17/robot-conference-shows-how-californian-companies-are-leading-bot-wars)**
+
+California startups are building robots to help with fold laundry and other tedious tasks as the race to dominate artificial intelligence intensifies against countries such as China.
+
+Los Angeles Times • 2d ago
+
+---
+
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
+
+Bloomberg.com • 21h ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 5K • 👍 202 • 💬 18 • ⏱️ 2:08:46 • 7h ago
+👁️ 7K • 👍 244 • 💬 20 • ⏱️ 2:08:46 • 7h ago
 
 ---
 
@@ -208,17 +208,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 14K • 👍 290 • 💬 91 • ⏱️ 3:55 • 20h ago
-
----
-
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 75K • 👍 1K • 💬 144 • ⏱️ 11:23 • 4d ago
+👁️ 15K • 👍 300 • 💬 93 • ⏱️ 3:55 • 20h ago
 
 ---
 
@@ -228,17 +218,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 187K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
-
----
-
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 41K • 👍 3K • 💬 286 • ⏱️ 13:43 • 1d ago
+👁️ 188K • 👍 2K • 💬 21 • ⏱️ 0:25 • 5d ago
 
 ---
 
@@ -252,13 +232,13 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 ---
 
-**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
 
-Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
 
-📺 Digital Farming 
+📺 AI Revolution
 
-👁️ 12K • 👍 35 • ⏱️ 0:09 • 20h ago
+👁️ 74K • 👍 1K • 💬 144 • ⏱️ 11:23 • 4d ago
 
 ---
 
@@ -268,15 +248,27 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 318 • 💬 32 • ⏱️ 1:05 • 4d ago
+👁️ 32K • 👍 318 • 💬 33 • ⏱️ 1:05 • 4d ago
 
 ---
 
-**[Why do people think this robot is fake?](https://www.youtube.com/watch?v=XmnoAYIJzHA)**
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
 
-📺 QCT
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
 
-👁️ 169K • 👍 2K • 💬 37 • ⏱️ 0:25 • 1d ago
+📺 AZFK
+
+👁️ 44K • 👍 3K • 💬 296 • ⏱️ 13:43 • 1d ago
+
+---
+
+**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
+
+Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
+
+📺 Digital Farming 
+
+👁️ 14K • 👍 36 • ⏱️ 0:09 • 20h ago
 
 ---
 
@@ -286,7 +278,17 @@ Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or 
 
 📺 vt.physics
 
-👁️ 460K • 👍 15K • 💬 493 • ⏱️ 0:34 • 5d ago
+👁️ 463K • 👍 16K • 💬 494 • ⏱️ 0:34 • 5d ago
+
+---
+
+**[Pacman vs Monsters Compilation | Pacman Universe – Creative Robot Pacman Project](https://www.youtube.com/watch?v=xctPEic9iA8)**
+
+Pacman vs Monsters Compilation | Pacman Universe – Creative Robot Pacman Project Thanks for watching! Please Subscribe for ...
+
+📺 StrEat
+
+👁️ 98K • 👍 204 • 1d ago
 
 ---
 

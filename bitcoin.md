@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T07:49:14.757380+00:00'
+updated: '2025-12-20T08:00:44.301559+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 07:49 UTC  
+**Last Updated:** December 20, 2025 at 08:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,286.49
+### $88,280.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.2%  
 **7d:** +0.1%  
 **30d:** +4.0%  
 **90d:** -21.6%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.56B
+**Market Cap:** $1760.71B
 Rank #1
 
-**Circulating Supply:** 19,964,565 BTC
+**Circulating Supply:** 19,964,578 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.0%
 
 **All-Time Low:** $67.81
-+129923.6%
++129978.2%
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[When you’re a long-term Bitcoin HODLer, market noise doesn't bother you.](https://www.reddit.com/r/Bitcoin/comments/1pqj8x2/when_youre_a_longterm_bitcoin_hodler_market_noise/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Its hard to beat him...](https://www.reddit.com/r/Bitcoin/comments/1pqysad/its_hard_to_beat_him/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[LOL](https://www.reddit.com/r/Bitcoin/comments/1pqrraz/lol/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -145,9 +145,9 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqeL9ghPRksQW3gjkkwv3BOt6tP8Wb5L2vpDVKfmog26JgI21JdRFfVS&gaa_ts=694652a0&gaa_sig=FE50Y-DSYZwGqXBjR3eIs7JFJV-Xe3mJXG_GUXXf2cU2mfsI09gJo3cqT1hZxiO717l0vxG5GuuxbTlebnBrNA%3D%3D)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqc9XrmpycQXNqD6jhF0cMje75JHAzcpr2oFS5_qR4nS0z3N_5kbQddS&gaa_ts=69465b13&gaa_sig=IHsQutjYeZZFzO3LpARrEM6p5hhxffduaHvHrpuNics57RmT2w4ZLxa776ZpYj_AS_xsnwoN7io87se9TGtZRQ%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -165,39 +165,23 @@ Investing.com • 18h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqd33RO7mVYg74qvwckeZio0NsDW0sYojZV1xgJ3R2yQwvpRSPh9J9xP&gaa_ts=694652a0&gaa_sig=aGewKfkiEcFZT2N-tWylpRmQUvcSemVxTxZPo3HiltALPQ2qFE4yaGSOCayjvBEBd6ILNgWoKbCf4TdUcX3TzA%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeEg9lretIZGHPjlIOedausj6lvMoES7Rh4FN5NQqTy22MQKRoJxngC&gaa_ts=69465b13&gaa_sig=DMoclpdTpNz4PzMHEAITps2jXU7E4peqd8ztrK5iJFQiNzChQk43RrIvqwo5_bEtujqqK-EZAS3J-6mhzdJpvQ%3D%3D)**
 
 MarketWatch • 18h ago
 
 ---
 
-**[Peter Schiff Says Bitcoin Will Drop ‘Much Lower’ Than $50K, Claims Michael Saylor ‘Doesn’t Care’ About Shareholder Value](https://finance.yahoo.com/news/peter-schiff-says-bitcoin-drop-094721576.html)**
+**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
 
-Peter Schiff warned that Bitcoin is unlikely to find a durable bottom at $50,000. Schiff argued that Strategy’s valuation is vulnerable to further declines. Michael ...
+Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Peter Schiff Tells Michael Saylor That Buying Bitcoin While MSTR Trades Below NAV Makes No Sense](https://finance.yahoo.com/news/peter-schiff-tells-michael-saylor-203113899.html)**
-
-Strategy Inc. (NASDAQ:MSTR) is facing renewed scrutiny after Peter Schiff questioned why the company keeps buying Bitcoin (CRYPTO: BTC) even as its shares trade below the value of its crypto holdings. Peter Schiff Questions Shareholder Math Schiff said in a post on X that Strategy's aggressive Bitcoin purchases no longer make sense when the company trades at a discount to its net Bitcoin holdings. He argued that if Saylor were focused on shareholder value, Strategy would sell some Bitcoin and re
-
-Yahoo Finance • 1d ago
+CoinDesk • 15h ago
 
 ---
 
-**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdk0ydfRo5a4nN8wHLIxFiVcsz_UjSNglU5JuMt0Rtdaubrvy8g1ri2&gaa_ts=69465b13&gaa_sig=bkH02LqFkasYyvDRZ_qmUlWdhAa_7zrstaLgMkOQpwRI-rAsPLsFbonp0acWJUCfiqtMd9JTfL3EVwLDnZORmA%3D%3D)**
 
-Investor's Business Daily • 21h ago
-
----
-
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
-
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 20h ago
+Barron's • 14h ago
 
 ---
 
@@ -213,7 +197,21 @@ Futurism • 16h ago
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
+
+Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
+
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -293,7 +291,7 @@ Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs
 
 Open source primitives for agent context management - Michaelliv/context-engine
 
-⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/Michaelliv/context-engine)
+⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/Michaelliv/context-engine)
 
 ---
 
@@ -307,7 +305,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 365 • 💬 144 • ⏱️ 10:58 • 7h ago
+👁️ 8K • 👍 420 • 💬 156 • ⏱️ 10:58 • 7h ago
 
 ---
 
@@ -317,7 +315,17 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 61 • ⏱️ 13:47 • 8h ago
+👁️ 20K • 👍 1K • 💬 62 • ⏱️ 13:47 • 8h ago
+
+---
+
+**[WARNING: The Bitcoin Price is Being Manipulated](https://www.youtube.com/watch?v=YVfS7WxV2wM)**
+
+The Bitcoin price is being manipulated, here's how I'm positioning. ➡ Follow me on X for time sensitive calls: ...
+
+📺 EllioTrades
+
+👁️ 11K • 👍 899 • 💬 141 • ⏱️ 19:52 • 11h ago
 
 ---
 
@@ -327,47 +335,17 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 148 • 💬 42 • ⏱️ 4:42 • 7h ago
+👁️ 3K • 👍 167 • 💬 42 • ⏱️ 4:42 • 7h ago
 
 ---
 
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
 
-📺 CryptosRUs
+📺 BTC Isla
 
-👁️ 35K • 👍 2K • 💬 170 • ⏱️ 44:14 • 16h ago
-
----
-
-**[BITCOIN MANIPULATION](https://www.youtube.com/watch?v=i1TR-gUQ2LQ)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 7K • 👍 361 • 💬 31 • ⏱️ 9:31 • 15h ago
-
----
-
-**[Bitcoin&#39;s Extreme Mispricing in 2026 [Macro &amp; Onchain]](https://www.youtube.com/watch?v=0Mc23kmy_hA)**
-
-Macro and onchain data says Bitcoin looks undervalued heading into 2026. BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 296 • 💬 23 • ⏱️ 9:09 • 8h ago
-
----
-
-**[Bitcoin Is NOT In A Bear Market](https://www.youtube.com/watch?v=6qCwwSE_kgI)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 9K • 👍 689 • 💬 90 • ⏱️ 5:29 • 14h ago
+👁️ 13K • 👍 1K • 💬 164 • ⏱️ 8:31 • 14h ago
 
 ---
 
@@ -377,7 +355,37 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 227 • ⏱️ 18:06 • 15h ago
+👁️ 63K • 👍 4K • 💬 241 • ⏱️ 18:06 • 15h ago
+
+---
+
+**[BITCOIN EXTREME FEAR... (This is Important)](https://www.youtube.com/watch?v=la9LAprLd0o)**
+
+WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 2K • 👍 230 • 💬 6 • ⏱️ 7:49 • 2h ago
+
+---
+
+**[BITCOIN MANIPULATION](https://www.youtube.com/watch?v=i1TR-gUQ2LQ)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 363 • 💬 31 • ⏱️ 9:31 • 15h ago
+
+---
+
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 36K • 👍 2K • 💬 172 • ⏱️ 44:14 • 16h ago
 
 ---
 
@@ -387,17 +395,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 481 • 💬 28 • ⏱️ 8:37 • 20h ago
-
----
-
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
-
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
-
-📺 Swan Bitcoin
-
-👁️ 48K • 👍 2K • 💬 155 • ⏱️ 16:50 • 1d ago
+👁️ 16K • 👍 484 • 💬 28 • ⏱️ 8:37 • 20h ago
 
 ---
 

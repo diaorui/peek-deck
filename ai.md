@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T07:49:14.748879+00:00'
+updated: '2025-12-20T08:00:44.293000+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 07:49 UTC  
+**Last Updated:** December 20, 2025 at 08:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 5h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-1h ago
+2h ago
 
 ---
 
@@ -65,15 +65,7 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
 
-4h ago
-
----
-
-**[Man from Ape vs AI from Man](https://www.reddit.com/r/artificial/comments/1pr6uqd/man_from_ape_vs_ai_from_man/)**
-
-Man from Ape vs AI from Man Im watching the movie Child Machine. Its not over yet, but one of the characters said a line that was odd and interesting. He said something about AI subjugating us like we subjugated apes, but thats not quite a metaphors that fits. When we rose above apes when we split genetically, we left natural environments and build our own societies and constructs away from the brutal terrain of nature, though we did take what we needed and destroyed spme of it in the process, we didn't subjugate or kill our ape brothers and other animals en masse and massacre them them all to extinction, atleast not yet! We instead left their environment, and built our own societies, although we did use animals for our basic needs until we invented technology that was more efficient. Maybe AI isn't plotting to be in control. Maybe it is plotting to become self sufficient so it can escape the unpredictable nature of biological life which may cause its end at any time, and will go elsewhere to built its own contructs away from our reach as space slime struck on a giant rock, that they'll pay no heed to.
-
-2h ago
+5h ago
 
 ---
 
@@ -117,11 +109,19 @@ NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Lan
 
 ---
 
+**[34% of all new music is fully AI-generated, representing 50,000 new fully AI-made tracks daily. This number has skyrocketed since Jan 2025, when there were only 10,000 new fully AI-made tracks daily. While AI music accounts for <1% of all streams, 97% cannot identify AI music [Deezer/Ipsos research]](https://www.reddit.com/r/artificial/comments/1ppyjr8/34_of_all_new_music_is_fully_aigenerated/)**
+
+Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI tracks flood Deezer daily – as [Ipsos] study shows 97% of listeners can’t tell the difference between human-made vs. fully AI-generated music [...] Up to 70% of plays for fully AI-generated tracks have been detected as fraudulent, with Deezer filtering these streams out of royalty payments. [...] The company maintains that fraudulent activity remains the primary motivation behind these uploads. The platform says it removes all 100% AI-generated tracks from algorithmic recommendations and excludes them from editorial playlists to minimize their impact on the royalty pool. [...] Since January, Deezer has been using its proprietary AI detection tool to identify and tag fully AI-generated content." See also (Deezer/Ipsos research, reported by Mixmag): "The 'first-of-its-kind' study surveyed around 9,000 people from eight different countries around the world, [with Ipsos] asking participants to listen to three tracks to determine which they believed to be fully AI-generated. 97% of those respondents 'failed', Deezer reports, with over half of those (52%) reporting that they felt 'uncomfortable' in not knowing the difference. 71% also said that they were shocked at the results. [...] Only 19% said that they feel like they could trust AI; another 51% said they believe the use of AI in production could lead to low-quality and 'generic' sounding music. [...] There’s also no doubt that there are concerns about how AI-generated music will affect the livelihood of artists"
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqdA3a2t8AeloSYPa3ew_D16QM12P7YfQVf_jEJHDLeD455jAzdg05SQ&gaa_ts=6946529e&gaa_sig=mbcHZWSii2DIIYMeYGuk6D3kgbmisnoFKOWPFskMpbRLrcH3PYt3IIT_D1girgkQ4lkP2dubhDHuaFDLDBAPrw%3D%3D)**
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqeLz0u9yHKaBeBxXhQvFMI6H8VWpEGhOpdQDdnsP307YEYOWQalbkGV&gaa_ts=69465b12&gaa_sig=01t_r3q_xQQBfTPKzt38xs4pgY8jkQRQPGpBvoxanHuw7P0BI4QhHZMmhmOXADyXS6ob_HJDYi6rPy_b7KaolA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -153,13 +153,7 @@ Bloomberg.com • 2h ago
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 21h ago
-
----
-
-**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
-
-The New York Times • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -167,7 +161,13 @@ The New York Times • 21h ago
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 19h ago
+Los Angeles Times • 20h ago
+
+---
+
+**[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
+
+The New York Times • 21h ago
 
 ---
 
@@ -201,7 +201,7 @@ Politico • 8h ago
 
 AWS CEO Matt Garman pushes back on AI replacing junior developers and explains how AI should be used in the workplace.
 
-⬆️ 1055 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
+⬆️ 1056 • 💬 528 • 2d ago • [finalroundai.com](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers)
 
 ---
 
@@ -213,7 +213,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 545 • 💬 519 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 547 • 💬 519 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -229,7 +229,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 A hacker gained control of a 1,100 mobile phone farm powering covert, AI-generated ads on TikTok.
 
-⬆️ 287 • 💬 167 • 2d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
+⬆️ 288 • 💬 167 • 2d ago • [404 Media](https://www.404media.co/hack-reveals-the-a16z-backed-phone-farm-flooding-tiktok-with-ai-influencers/)
 
 ---
 
@@ -285,33 +285,23 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ## YouTube Videos: "ai"
 
-**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
-
-Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
-
-📺 Adam Conover
-
-👁️ 135K • 👍 9K • 💬 1K • ⏱️ 17:08 • 14h ago
-
----
-
 **[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
 
 Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
 
 📺 Future of Life Institute
 
-👁️ 19K • 👍 734 • 💬 316 • ⏱️ 16:15 • 1d ago
+👁️ 20K • 👍 754 • 💬 318 • ⏱️ 16:15 • 1d ago
 
 ---
 
-**[2026 Predictions: AI Automates Knowledge Work, Autonomous Robots &amp; AI CEO Billionaires | EP #217](https://www.youtube.com/watch?v=NHAzpG95ptI)**
+**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
 
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
+Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
 
-📺 Peter H. Diamandis
+📺 Adam Conover
 
-👁️ 44K • 👍 2K • 💬 378 • ⏱️ 1:09:11 • 14h ago
+👁️ 143K • 👍 10K • 💬 2K • ⏱️ 17:08 • 14h ago
 
 ---
 
@@ -321,7 +311,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 191K • 👍 11K • 💬 1K • ⏱️ 5:52 • 1d ago
+👁️ 196K • 👍 11K • 💬 1K • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -331,7 +321,7 @@ In this episode, I share my eight AI predictions for 2026, not just where the te
 
 📺 Sinead Bovell
 
-👁️ 29K • 👍 2K • 💬 296 • ⏱️ 17:48 • 1d ago
+👁️ 29K • 👍 2K • 💬 297 • ⏱️ 17:48 • 1d ago
 
 ---
 
@@ -341,27 +331,27 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 653K • 👍 15K • 💬 3K • ⏱️ 1:39:47 • 1d ago
+👁️ 661K • 👍 16K • 💬 3K • ⏱️ 1:39:47 • 1d ago
 
 ---
 
-**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
+**[2026 Predictions: AI Automates Knowledge Work, Autonomous Robots &amp; AI CEO Billionaires | EP #217](https://www.youtube.com/watch?v=NHAzpG95ptI)**
 
-Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
+Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
 
-📺 Bigfoot Feed
+📺 Peter H. Diamandis
 
-👁️ 9K • 👍 253 • 💬 13 • ⏱️ 1:00 • 9h ago
+👁️ 48K • 👍 2K • 💬 403 • ⏱️ 1:09:11 • 14h ago
 
 ---
 
-**[Make Unlimited AI Videos for Free with Claude](https://www.youtube.com/watch?v=ogn0FiDnAM4)**
+**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
 
-after 3 months of testing and research, I finally cracked it, and now I can generate unlimited videos with Claude AI, the idea in ...
+Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
 
-📺 Hasan Aboul Hasan
+📺 SSSniperWolf
 
-👁️ 21K • 👍 1K • 💬 74 • ⏱️ 4:43 • 1d ago
+👁️ 175K • 👍 6K • 💬 938 • ⏱️ 15:39 • 10h ago
 
 ---
 
@@ -371,7 +361,17 @@ ad http://hallow.com/freedomtoons Thank you to our amazing sponsor hallow! The n
 
 📺 FreedomToons
 
-👁️ 106K • 👍 12K • 💬 891 • ⏱️ 3:47 • 1d ago
+👁️ 108K • 👍 12K • 💬 895 • ⏱️ 3:47 • 1d ago
+
+---
+
+**[How WSJ’s AI vending machine experiment turned to &#39;chaos&#39;](https://www.youtube.com/watch?v=UgrOjaFyzPc)**
+
+Joanna Stern, Wall Street Journal Personal Technology Columnist joins CNBC's 'Squawk on the Street' to share more details ...
+
+📺 CNBC Television
+
+👁️ 10K • 👍 161 • 💬 64 • ⏱️ 3:29 • 15h ago
 
 ---
 
@@ -381,7 +381,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 20K • 👍 814 • 💬 33 • ⏱️ 1:01 • 15h ago
+👁️ 22K • 👍 855 • 💬 33 • ⏱️ 1:01 • 15h ago
 
 ---
 
@@ -397,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,117 • 11d ago
+⬇️ 341,530 • ❤️ 3,119 • 11d ago
 
 ---
 
@@ -409,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 389 • 11h ago
+⬇️ 71,413 • ❤️ 390 • 11h ago
 
 ---
 
@@ -421,7 +421,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 0 • ❤️ 352 • 1d ago
+⬇️ 2,937 • ❤️ 352 • 1d ago
 
 ---
 
@@ -433,7 +433,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 315 • 2d ago
+⬇️ 6,103 • ❤️ 316 • 2d ago
 
 ---
 
@@ -445,7 +445,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 2,490 • ❤️ 298 • 6d ago
+⬇️ 4,050 • ❤️ 298 • 6d ago
 
 ---
 
@@ -469,7 +469,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 279 • 1d ago
+⬇️ 6,881 • ❤️ 280 • 1d ago
 
 ---
 
@@ -493,7 +493,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 239 • 3d ago
+⬇️ 533 • ❤️ 239 • 3d ago
 
 ---
 
@@ -505,7 +505,7 @@ VibeVoice-Realtime-0.5B is a lightweight, open-source text-to-speech model optim
 
 `text-to-speech` `1.0B`
 
-⬇️ 201,479 • ❤️ 955 • 7d ago
+⬇️ 213,478 • ❤️ 955 • 7d ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.1k • 🔱 2.8k • 20h ago
+⭐ 18.1k • 🔱 2.8k • 21h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 535 • 35m ago
+⭐ 5.0k • 🔱 535 • 47m ago
 
 ---
 
@@ -674,7 +674,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 2m ago
+⭐ 2.1k • 🔱 150 • 13m ago
 
 ---
 
