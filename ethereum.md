@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T19:40:45.054680+00:00'
+updated: '2025-12-20T19:52:04.905147+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:40 UTC  
+**Last Updated:** December 20, 2025 at 19:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,7 +45,7 @@ Live Ethereum monitoring dashboard
 **24h:** -0.5%  
 **7d:** -2.8%  
 **30d:** +7.7%  
-**90d:** -29.0%  
+**90d:** -29.1%  
 **1y:** -10.8%  
 
 ---
@@ -170,7 +170,7 @@ TradingView — Track All Markets • 1d ago
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 6h ago
+livemint.com • 7h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 1d ago
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 40m ago
+CoinDesk • 51m ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 1d ago
 
 Ethereum remains under pressure as sentiment stays deeply bearish, but historical weekly trends suggest a major reversal could be forming.
 
-FXEmpire • 23h ago
+FXEmpire • 1d ago
 
 ---
 

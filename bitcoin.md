@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T19:40:45.048568+00:00'
+updated: '2025-12-20T19:52:04.899046+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 19:40 UTC  
+**Last Updated:** December 20, 2025 at 19:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.3%  
+**24h:** -0.2%  
+**7d:** -0.3%  
+**30d:** +3.6%  
+**90d:** -21.9%  
+**1y:** -9.5%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The mods will probably delete this....again.... But I finally hit 0.1 BTC!
 
-1h ago
+2h ago
 
 ---
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ The crypto market is down" Degens with their last $200:
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-37m ago
+48m ago
 
 ---
 
@@ -125,7 +125,7 @@ The crypto market is down" Degens with their last $200:
 
 **[Bought the dip… now I’m dipping with it😫](https://www.reddit.com/r/Bitcoin/comments/1prk8mj/bought_the_dip_now_im_dipping_with_it/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Expecting a bounce & relief rally shortly!
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
