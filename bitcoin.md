@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T07:24:39.415571+00:00'
+updated: '2025-12-20T07:38:01.924111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 07:24 UTC  
+**Last Updated:** December 20, 2025 at 07:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.1%  
-**30d:** +3.8%  
-**90d:** -21.8%  
-**1y:** -9.4%  
+**24h:** +0.3%  
+**7d:** +0.1%  
+**30d:** +4.0%  
+**90d:** -21.6%  
+**1y:** -9.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. T
 
 Recently, Bitcoin proved that it’s different when it reached its peak of around $120,000. Today, it’s trading at an average of $85,000, which means it’s almost 30% below its all-time high. What I don’t understand is how most of the population still resists entering this market. The day will come when they try to buy and won’t be able to anymore because of the enormous scarcity.
 
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ Recently, Bitcoin proved that it’s different when it reached its peak of aroun
 
 **[Not All Bitcoin Is the Same](https://www.reddit.com/r/Bitcoin/comments/1pqo33g/not_all_bitcoin_is_the_same/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -161,13 +161,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin price today: muted at $88k after soft US CPI data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-near-87k-after-soft-us-cpi-data-set-for-weekly-loss-4416458)**
 
-Investing.com • 17h ago
+Investing.com • 18h ago
 
 ---
 
 **[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqd33RO7mVYg74qvwckeZio0NsDW0sYojZV1xgJ3R2yQwvpRSPh9J9xP&gaa_ts=694652a0&gaa_sig=aGewKfkiEcFZT2N-tWylpRmQUvcSemVxTxZPo3HiltALPQ2qFE4yaGSOCayjvBEBd6ILNgWoKbCf4TdUcX3TzA%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -255,7 +255,7 @@ Silk Road-tagged wallets transferred over $3 million worth of Bitcoin, marking t
 
 **[Google Backing Bitcoin Miners Marks a Quiet $5B Shift Toward AI](https://news.ycombinator.com/item?id=46333840)**
 
-⬆️ 2 • 💬 1 • 1h ago
+⬆️ 2 • 💬 1 • 2h ago
 
 ---
 
@@ -307,7 +307,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 365 • 💬 144 • ⏱️ 10:58 • 6h ago
+👁️ 5K • 👍 365 • 💬 144 • ⏱️ 10:58 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 61 • ⏱️ 13:47 • 7h ago
+👁️ 17K • 👍 1K • 💬 61 • ⏱️ 13:47 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 35K • 👍 2K • 💬 170 • ⏱️ 44:14 • 15h ago
+👁️ 35K • 👍 2K • 💬 170 • ⏱️ 44:14 • 16h ago
 
 ---
 

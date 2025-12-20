@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T07:24:39.406223+00:00'
+updated: '2025-12-20T07:38:01.915611+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - social
 - videos
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 07:24 UTC  
+**Last Updated:** December 20, 2025 at 07:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 11h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 5h ago
 
 Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 

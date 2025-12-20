@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-20T07:24:39.425639+00:00'
+updated: '2025-12-20T07:38:01.933446+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 20, 2025 at 07:24 UTC  
+**Last Updated:** December 20, 2025 at 07:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I'
 
 **[Unitree robots doing Webster flips and dancing at a concert](https://www.reddit.com/r/robotics/comments/1pqo06a/unitree_robots_doing_webster_flips_and_dancing_at/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 5K • 👍 202 • 💬 18 • ⏱️ 2:08:46 • 6h ago
+👁️ 5K • 👍 202 • 💬 18 • ⏱️ 2:08:46 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ Watch how advanced AI-powered robots are transforming modern farming! This smart
 
 📺 Digital Farming 
 
-👁️ 12K • 👍 35 • ⏱️ 0:09 • 19h ago
+👁️ 12K • 👍 35 • ⏱️ 0:09 • 20h ago
 
 ---
 
