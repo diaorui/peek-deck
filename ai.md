@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T17:39:53.289978+00:00'
+updated: '2025-12-20T17:50:42.013640+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 17:39 UTC  
+**Last Updated:** December 20, 2025 at 17:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ My week partying with the young founders at the heart of the AI boom
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 15h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-19m ago
+30m ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 2d ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Atlantic • 4h ago
 
 It depends on which ones and what you believe about the future of the sector.
 
-The Motley Fool • 54m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 5h ago
 
 **[Big Tech gets worried about Trump’s AI czar](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 2h ago
+Politico • 3h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 565 • 2h ago
+⭐ 5.2k • 🔱 566 • 3h ago
 
 ---
 
@@ -714,7 +714,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 907 • 🔱 42 • 2d ago
+⭐ 911 • 🔱 42 • 2d ago
 
 ---
 

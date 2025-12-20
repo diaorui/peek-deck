@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T17:39:53.304350+00:00'
+updated: '2025-12-20T17:50:42.028174+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 17:39 UTC  
+**Last Updated:** December 20, 2025 at 17:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,7 +45,7 @@ Live Ethereum monitoring dashboard
 **24h:** +0.2%  
 **7d:** -2.9%  
 **30d:** +7.5%  
-**90d:** -29.1%  
+**90d:** -29.2%  
 **1y:** -10.9%  
 
 ---
@@ -162,7 +162,7 @@ AMBCrypto • 16h ago
 
 Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
 
-livemint.com • 4h ago
+livemint.com • 5h ago
 
 ---
 
@@ -198,7 +198,7 @@ Decrypt • 2d ago
 
 Ethereum remains under pressure as sentiment stays deeply bearish, but historical weekly trends suggest a major reversal could be forming.
 
-FXEmpire • 21h ago
+FXEmpire • 22h ago
 
 ---
 
