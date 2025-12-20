@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T07:38:01.915611+00:00'
+updated: '2025-12-20T07:49:14.748879+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 07:38 UTC  
+**Last Updated:** December 20, 2025 at 07:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ When i type something in my gemini type box and hit enter “something went wron
 
 Man from Ape vs AI from Man Im watching the movie Child Machine. Its not over yet, but one of the characters said a line that was odd and interesting. He said something about AI subjugating us like we subjugated apes, but thats not quite a metaphors that fits. When we rose above apes when we split genetically, we left natural environments and build our own societies and constructs away from the brutal terrain of nature, though we did take what we needed and destroyed spme of it in the process, we didn't subjugate or kill our ape brothers and other animals en masse and massacre them them all to extinction, atleast not yet! We instead left their environment, and built our own societies, although we did use animals for our basic needs until we invented technology that was more efficient. Maybe AI isn't plotting to be in control. Maybe it is plotting to become self sufficient so it can escape the unpredictable nature of biological life which may cause its end at any time, and will go elsewhere to built its own contructs away from our reach as space slime struck on a giant rock, that they'll pay no heed to.
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 15h ago
 
 **[Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut](https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -183,13 +183,13 @@ The Guardian • 16h ago
 
 Rapid emergence of AI will foster demand for new types of workers, including "explainers" and bias auditors, according to economist Robert Seamans.
 
-CBS News • 8h ago
+CBS News • 9h ago
 
 ---
 
 **[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
 
-Politico • 7h ago
+Politico • 8h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.0k • 🔱 532 • 1d ago
+⭐ 5.0k • 🔱 535 • 35m ago
 
 ---
 
@@ -674,7 +674,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 150 • 1h ago
+⭐ 2.1k • 🔱 150 • 2m ago
 
 ---
 
@@ -724,7 +724,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 833 • 🔱 39 • 2d ago
+⭐ 844 • 🔱 41 • 2d ago
 
 ---
 
@@ -734,7 +734,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 823 • 🔱 134 • 4d ago
+⭐ 825 • 🔱 134 • 4d ago
 
 ---
 

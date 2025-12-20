@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T07:38:01.930148+00:00'
+updated: '2025-12-20T07:49:14.763418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 07:38 UTC  
+**Last Updated:** December 20, 2025 at 07:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -314,7 +314,7 @@ Bitcoin rallies and falters. Crypto is at an inflection point–what's next? Cre
 
 📺 Sin City Crypto
 
-👁️ 724 • 👍 66 • ⏱️ 58:50 • 11h ago
+👁️ 724 • 👍 66 • ⏱️ 58:50 • 12h ago
 
 ---
 
@@ -324,7 +324,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 453 • 👍 20 • 💬 20 • ⏱️ 5:53 • 9h ago
+👁️ 453 • 👍 20 • 💬 20 • ⏱️ 5:53 • 10h ago
 
 ---
 

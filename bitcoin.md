@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T07:38:01.924111+00:00'
+updated: '2025-12-20T07:49:14.757380+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 07:38 UTC  
+**Last Updated:** December 20, 2025 at 07:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** +0.1%  
 **30d:** +4.0%  
 **90d:** -21.6%  
-**1y:** -9.1%  
+**1y:** -9.2%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Next stop 0.1!](https://www.reddit.com/r/Bitcoin/comments/1pr5vbr/next_stop_01/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 HODLing my dearest 1 BTC unit since 2017. Now I have to sell to pay the bills. The feeling is really bad. Fortunately I didn’t hear all the mocking after buying it. I was saving exactly for an unpredictable event. Now it arrived and I thank God for this community, the memes and the great energy. This saved me from panic sell in all this bear times. Hopefully I will find another job and buy it back, but it’ll take time. 😢
 
-16h ago
+17h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Bounces, But Strategy's Buying Power Is Low On Fuel](https://www.investors.com/news/bitcoin-price-strategy-buying-mstr-stock-issuance/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
