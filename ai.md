@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T01:50:49.888123+00:00'
+updated: '2025-12-20T03:08:07.813599+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 01:50 UTC  
+**Last Updated:** December 20, 2025 at 03:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
+
+$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
+
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1h ago
+
+---
+
 **[Gemini Flash hallucinates 91% times, if it does not know answer](https://www.reddit.com/r/artificial/comments/1pqgofe/gemini_flash_hallucinates_91_times_if_it_does_not/)**
 
 Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
 
-16h ago
+17h ago
+
+---
+
+**[Facing this issue with Gemini Pro for two days now.](https://www.reddit.com/r/artificial/comments/1pr3pam/facing_this_issue_with_gemini_pro_for_two_days_now/)**
+
+When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
+
+13m ago
 
 ---
 
@@ -53,19 +69,11 @@ This must sting for Microsoft. LG says customers can delete Copilot from their T
 
 ---
 
-**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
-
-$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
-
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1m ago
-
----
-
 **[Researchers show a robot learning 1,000 tasks in 24 hours](https://www.reddit.com/r/artificial/comments/1pqb8tk/researchers_show_a_robot_learning_1000_tasks_in/)**
 
 Robots are usually terrible at improvising. Give most of them a new object or an unfamiliar task, and they freeze, fumble, or fail completely. Teaching them
 
-🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 21h ago
+🔗 [LearnGupt](https://scienceclock.com/robot-learns-1000-tasks-in-a-single-day/) • 23h ago
 
 ---
 
@@ -73,7 +81,7 @@ Robots are usually terrible at improvising. Give most of them a new object or an
 
 UK AISI’s first Frontier AI Trends Report finds that AI models are getting better at self-replication, too
 
-🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 6h ago
+🔗 [transformernews.ai](https://www.transformernews.ai/p/aisi-ai-security-institute-frontier-ai-trends-report-biorisk-self-replication) • 7h ago
 
 ---
 
@@ -89,7 +97,7 @@ My question is about reliance on facial recognition software, and more generally
 
 NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission.[1] ChatGPT launches an app store, lets developers know it’s open for business.[2] Luma Announces Ray3 Modify for Start–End Frame Video Control.[3] Google’s vibe-coding tool Opal comes to Gemini.[4] Sources: [1] https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/ [2] https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/ [3] https://www.findarticles.com/luma-announces-ray3-modify-for-start-end-frame-video-control/ [4] https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/
 
-20h ago
+22h ago
 
 ---
 
@@ -109,21 +117,13 @@ Source (Deezer/Ipsos research, reported by Music Business Worldwide): "50,000 AI
 
 ---
 
-**[What is something AI still struggles with, in your experience?](https://www.reddit.com/r/artificial/comments/1ppwuug/what_is_something_ai_still_struggles_with_in_your/)**
-
-This year, AI has improved a lot, but it still feels limited in some situations. Not in theory, but in everyday use. I want to know what you guys have noticed. What type of tasks and situations still feel hard for today's AI systems, even with all the progress?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Why Do A.I. Chatbots Use ‘I’?](https://www.nytimes.com/2025/12/19/technology/why-do-ai-chatbots-use-i.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -131,37 +131,21 @@ The New York Times • 6h ago
 
 As competition heats up for AI talent, Google turned to hiring more so-called boomerang employees in 2025.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
-**[Data center deals hit record $61 billion in 2025 amid construction frenzy](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html)**
+**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
-Hyperscalers are increasingly turning to outside capital in the form of debt to fund the energy-intensive infrastructure.
+Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-CNBC • 16h ago
-
----
-
-**[What AI data centers are doing to your electric bill : Planet Money](https://www.npr.org/2025/12/19/nx-s1-5649814/ai-data-center-electricity-bill)**
-
-As a country, we are spending more to get data centers up and running than we spent to build the entire interstate highway system. (Yes, that’s inflation-adjusted.) With tech companies spending hundreds of billions of dollars on AI, data centers have kind of become the thing in the US economy. But along with that growth have come a lot of questions. Like where is all the electricity to run these data centers supposed to come from? And how much are residential customers’ electric bills increasing as a result?On today’s episode, we go to Ohio to trace one electric bill back to its source, to see what exactly is causing the big price increases people are seeing. We take a tour of a data center hot spot, and get to the bottom of how prices are set from inside the power company.Related episodes: - Asking for a friend … which jobs are safe from AI?  - No AI data centers in my backyard!  - What $10 billion in data centers actually gets you  - Is AI overrated or underrated?  - Green energy gridlockPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.Today's show was hosted by Keith Romer and Jeff Guo. It was produced by Sam Yellowhorse Kesler. It was edited by Jess Jiang and fact checked by Sierra Juarez and Vito Emanuel. It was engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer.
-
-NPR • 1h ago
+BBC • 1h ago
 
 ---
 
-**[AI boom drives data-center dealmaking to record high, says report](https://www.reuters.com/business/ai-boom-drives-data-center-dealmaking-record-high-says-report-2025-12-19/)**
+**[The Year in AI Was Crazy. So Was This Meeting of AI’s Brightest Minds.](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqf8hzTkgQrDGdAqSeFiB00HPag21L1UTlhTCYSXEOGA9FpWCIxiyR8t&gaa_ts=6946167f&gaa_sig=MXLH6rnbhPh1h045dSEksinpiQlk7krgnj3MiRxJYZwVSBxWUXlZaCGoIatQ49YWrICWMhOuhWxOGUEYycyEcw%3D%3D)**
 
-Reuters • 7h ago
-
----
-
-**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
-
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 11h ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -169,7 +153,7 @@ Fortune • 11h ago
 
 There’s a giant question mark hanging over the tech industry’s future: How long will its massive investments in AI infrastructure really last?
 
-CNN • 15h ago
+CNN • 17h ago
 
 ---
 
@@ -177,7 +161,7 @@ CNN • 15h ago
 
 A Stanford software engineering degree used to be a golden ticket.
 
-Los Angeles Times • 13h ago
+Los Angeles Times • 15h ago
 
 ---
 
@@ -185,13 +169,27 @@ Los Angeles Times • 13h ago
 
 When AIs become consistently more capable than humans, life could change in strange ways. Here we look at how the era of artificial general intelligence might feel
 
-The Guardian • 10h ago
+The Guardian • 12h ago
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars.](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34?gaa_at=eafs&gaa_n=AWEtsqfFBg3thl5axM3pJdP23qv3oR7LmpyQqJ6ctW-wV9pbqXG6cJG5MzA-&gaa_ts=6946045c&gaa_sig=inIktNRyYmwliXJuHOgxvnBqZV7cUfeMN5J_OkmnIyUXDpT9g5bDCkw0Fvst0EQKSOVdJzZb6ppZXxZyHDciFQ%3D%3D)**
+**[HHS Announces Request for Information to Harness Artificial Intelligence to Deflate Health Care Costs and Make America Healthy Again](https://www.hhs.gov/press-room/hhs-ai-rfi.html)**
 
-The Wall Street Journal • 1d ago
+Department of Health and Human Services (HHS) (.gov) • 13h ago
+
+---
+
+**[40 of our most helpful AI tips from 2025](https://blog.google/technology/ai/ai-tips-2025/)**
+
+Learn more about the AI tips and tools Google shared in 2025.
+
+blog.google • 10h ago
+
+---
+
+**[NY Gov. Kathy Hochul signs sweeping AI safety bill, RAISE Act](https://www.axios.com/2025/12/19/new-york-ai-safety-bill-hochul)**
+
+Axios • 4h ago
 
 ---
 
@@ -215,7 +213,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 532 • 💬 513 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 534 • 💬 517 • 1d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -223,7 +221,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 447 • 💬 570 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 448 • 💬 572 • 1d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -303,7 +301,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 5K • 👍 145 • 💬 11 • ⏱️ 1:00 • 3h ago
+👁️ 5K • 👍 145 • 💬 11 • ⏱️ 1:00 • 5h ago
 
 ---
 
@@ -353,7 +351,7 @@ The condensed highlights of hours of AI lab leader interviews, last-48-hour mode
 
 📺 AI Explained
 
-👁️ 37K • 👍 2K • 💬 246 • ⏱️ 20:00 • 9h ago
+👁️ 37K • 👍 2K • 💬 246 • ⏱️ 20:00 • 10h ago
 
 ---
 
@@ -363,7 +361,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 18K • 👍 741 • 💬 30 • ⏱️ 1:01 • 9h ago
+👁️ 18K • 👍 741 • 💬 30 • ⏱️ 1:01 • 10h ago
 
 ---
 
@@ -399,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 329,981 • ❤️ 3,101 • 11d ago
+⬇️ 329,981 • ❤️ 3,108 • 11d ago
 
 ---
 
@@ -411,7 +409,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 62,493 • ❤️ 385 • 5h ago
+⬇️ 62,493 • ❤️ 387 • 6h ago
 
 ---
 
@@ -435,7 +433,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 3,633 • ❤️ 309 • 1d ago
+⬇️ 3,633 • ❤️ 311 • 1d ago
 
 ---
 
@@ -459,7 +457,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 287 • 4d ago
+⬇️ 0 • ❤️ 288 • 4d ago
 
 ---
 
@@ -471,7 +469,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 2,154 • ❤️ 259 • 1d ago
+⬇️ 2,154 • ❤️ 266 • 1d ago
 
 ---
 
@@ -483,7 +481,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 252 • 2d ago
+⬇️ 0 • ❤️ 255 • 3d ago
 
 ---
 
@@ -495,7 +493,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 397 • ❤️ 234 • 2d ago
+⬇️ 397 • ❤️ 235 • 2d ago
 
 ---
 
@@ -535,7 +533,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 9 • 💬 2 • ⭐ 12,609 • 1mo ago
+▲ 9 • 💬 2 • ⭐ 12,644 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -547,7 +545,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 58 • 💬 1 • ⭐ 565 • 3d ago
+▲ 59 • 💬 1 • ⭐ 565 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -567,20 +565,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,423 • 22d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -590,19 +574,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 ▲ 30 • 💬 2 • ⭐ 12,811 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 118 • 💬 18 • ⭐ 47,226 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -620,16 +591,30 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
-  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
-*Tongyi SpeechTeam*
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
 
-FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+🏢 Tongyi-MAI
 
-▲ 39 • 💬 1 • ⭐ 18,091 • 17mo ago
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+▲ 27 • 💬 2 • ⭐ 7,440 • 22d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 118 • 💬 18 • ⭐ 47,254 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -647,6 +632,19 @@ PersonaLive is a diffusion-based framework for real-time portrait animation that
 
 ---
 
+**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+
+*Tongyi SpeechTeam*
+
+FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+
+▲ 39 • 💬 1 • ⭐ 18,095 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -657,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.0k • 🔱 2.8k • 14h ago
+⭐ 18.0k • 🔱 2.8k • 16h ago
 
 ---
 
@@ -667,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 4.9k • 🔱 516 • 1d ago
+⭐ 4.9k • 🔱 521 • 1d ago
 
 ---
 
@@ -677,7 +675,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.1k • 🔱 149 • 10h ago
+⭐ 2.1k • 🔱 149 • 7m ago
 
 ---
 
@@ -707,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 909 • 🔱 24 • 12d ago
+⭐ 910 • 🔱 24 • 12d ago
 
 ---
 
@@ -731,23 +729,23 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
-**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
-
-  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
-
-`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
-
-⭐ 794 • 🔱 116 • 2d ago
-
----
-
 **[wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher)**
 
 Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 793 • 🔱 37 • 2d ago
+⭐ 803 • 🔱 37 • 2d ago
+
+---
+
+**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
+
+  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
+
+`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
+
+⭐ 795 • 🔱 116 • 2d ago
 
 ---
 
