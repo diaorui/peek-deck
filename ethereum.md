@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T09:55:51.101586+00:00'
+updated: '2025-12-21T10:23:07.647148+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 09:55 UTC  
+**Last Updated:** December 21, 2025 at 10:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +1.5%  
-**30d:** +8.4%  
-**90d:** -27.9%  
-**1y:** -8.1%  
+**24h:** +0.6%  
+**7d:** +1.3%  
+**30d:** +8.2%  
+**90d:** -28.0%  
+**1y:** -8.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.76B
+**Market Cap:** $362.20B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.4%
+-39.3%
 
 **All-Time Low:** $0.43
-+692056.0%
++693393.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 13h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 14h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
-🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 1d ago
+🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -162,15 +162,15 @@ CoinDesk • 14h ago
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 13h ago
+ZyCrypto • 14h ago
 
 ---
 
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
+**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
 
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
+Next year could be good but won't be driven by blockchain tech upgrades.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -184,15 +184,7 @@ The Block • 1d ago
 
 Solana founder Anatoly Yakovenko has shared new data that shows Solana has outperformed Ethereum in yearly revenue, highlighting what he sees as a pivotal shift in how value may be distributed across the crypto market.The infographics by DeFi Development Corp. show the projected chain revenue compa…
 
-TradingView — Track All Markets • 8h ago
-
----
-
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
-
-Next year could be good but won't be driven by blockchain tech upgrades.
-
-The Motley Fool • 1d ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -201,6 +193,14 @@ The Motley Fool • 1d ago
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
 Decrypt • 2d ago
+
+---
+
+**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
+
+ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -220,11 +220,11 @@ ts2.tech • 1d ago
 
 ---
 
-**[Ethereum vs. Bitcoin: What the usage–value split says about prices](https://ambcrypto.com/ethereum-vs-bitcoin-what-the-usage-value-split-says-about-prices/)**
+**[Curve Finance Strengthens Its Position as a Leading Ethereum DEX With 44% Fee Share](https://markets.businessinsider.com/news/currencies/curve-finance-strengthens-its-position-as-a-leading-ethereum-dex-with-44-fee-share-1035661157)**
 
-ETH wallet growth hits new highs while BTC exchange balances fall.
+Zug, Switzerland, December 19th, 2025, FinanceWireEthereum&rsquo;s market is one of the most competitive corners of DeFi, and...
 
-AMBCrypto • 1d ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 76 • 💬 76 • ⏱️ 11:26 • 19h ago
+👁️ 2K • 👍 76 • 💬 76 • ⏱️ 11:26 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 14h ago
+👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 15h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 294 • 👍 18 • 💬 31 • ⏱️ 4:17 • 22h ago
+👁️ 294 • 👍 18 • 💬 31 • ⏱️ 4:17 • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 12K • 👍 538 • 💬 34 • ⏱️ 14:36 • 21h ago
+👁️ 12K • 👍 538 • 💬 34 • ⏱️ 14:36 • 22h ago
 
 ---
 

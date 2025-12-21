@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T09:55:51.087309+00:00'
+updated: '2025-12-21T10:23:07.630426+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - videos
 - repositories
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 09:55 UTC  
+**Last Updated:** December 21, 2025 at 10:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 13h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ​​ so I am just now aware of that Gemini has has a system of limit of prompts for free that it's only two to five prompts which is way more worse than gtp5 was. I'm not sure if this is a individually but, i guess I have to wait until​​ for 13 hours just to make a couple of prompts until I hit the limit. In my opinion I don't think the 240$ bucks a year is worth it, can someone please fill me in on more information about this.
 
-1h ago
+2h ago
 
 ---
 
@@ -119,25 +119,31 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ## Google News: "ai"
 
+**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
+
+Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
+
+CNBC • 22h ago
+
+---
+
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+**[AI agents are coming to job interviews. Tips for handling them](https://qz.com/ai-agent-job-interview-tips)**
 
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 19h ago
+qz.com • 22m ago
 
 ---
 
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
+**[How much water will Meta's Louisiana data center use? New details unveiled for first time.](https://www.nola.com/news/environment/meta-louisiana-data-center-water-ai/article_d27dea17-d571-453c-b5a5-0deb571ea272.html)**
 
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+Meta's Louisiana data center can use more than 23 million gallons of water per day, or 8.4 billion gallons per year, according to state records and the company. But Meta says those limits are much higher than what it will actually use.
 
-CNN • 1h ago
+NOLA.com • 23m ago
 
 ---
 
@@ -145,13 +151,21 @@ CNN • 1h ago
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
 Politico • 19h ago
+
+---
+
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 20h ago
 
 ---
 
@@ -163,33 +177,19 @@ bbc.com • 1d ago
 
 ---
 
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
-
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
-
-The New Yorker • 22h ago
-
----
-
 **[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 20h ago
+The Atlantic • 21h ago
 
 ---
 
-**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
 
-Axios • 12h ago
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
----
-
-**[Al Jazeera launches new integrative AI model, ‘The Core’](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core)**
-
-Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
-
-Al Jazeera • 4h ago
+The New Yorker • 23h ago
 
 ---
 
@@ -205,7 +205,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 570 • 💬 537 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 571 • 💬 537 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -213,7 +213,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 467 • 💬 410 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 472 • 💬 410 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -227,7 +227,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 209 • 💬 317 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 210 • 💬 320 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -249,7 +249,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 134 • 💬 86 • 5h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 136 • 💬 88 • 6h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -285,7 +285,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 81K • 👍 2K • 💬 675 • ⏱️ 15:25 • 14h ago
+👁️ 81K • 👍 2K • 💬 675 • ⏱️ 15:25 • 15h ago
 
 ---
 
@@ -305,7 +305,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 38K • 👍 2K • 💬 164 • ⏱️ 37:38 • 19h ago
+👁️ 38K • 👍 2K • 💬 164 • ⏱️ 37:38 • 20h ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 404 • 1d ago
+⬇️ 74,165 • ❤️ 405 • 1d ago
 
 ---
 
@@ -415,7 +415,19 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,021 • ❤️ 378 • 2d ago
+⬇️ 3,021 • ❤️ 379 • 2d ago
+
+---
+
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 10,633 • ❤️ 366 • 2d ago
 
 ---
 
@@ -431,18 +443,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 10,633 • ❤️ 365 • 2d ago
-
----
-
 **[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
 
 *Qwen*
@@ -451,7 +451,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 362 • 2d ago
+⬇️ 3,459 • ❤️ 365 • 2d ago
 
 ---
 
@@ -463,7 +463,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 353 • 3d ago
+⬇️ 6,796 • ❤️ 354 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 299 • 4d ago
+⬇️ 0 • ❤️ 301 • 4d ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 167 • 32m ago
+⭐ 2.3k • 🔱 167 • 59m ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 834 • 🔱 135 • 17h ago
+⭐ 834 • 🔱 135 • 18h ago
 
 ---
 

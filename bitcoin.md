@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T09:55:51.095623+00:00'
+updated: '2025-12-21T10:23:07.638922+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 09:55 UTC  
+**Last Updated:** December 21, 2025 at 10:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,612.08
+### $88,815.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +2.9%  
-**30d:** +5.2%  
-**90d:** -20.4%  
-**1y:** -6.4%  
+**24h:** +0.4%  
+**7d:** +2.6%  
+**30d:** +4.8%  
+**90d:** -20.7%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.75B
+**Market Cap:** $1773.39B
 Rank #1
 
 **Circulating Supply:** 19,965,006 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.6%
 
 **All-Time Low:** $67.81
-+130835.0%
++130787.8%
 
 ---
 
@@ -85,25 +85,39 @@ Rank #1
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-14h ago
+15h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-12h ago
+13h ago
+
+---
+
+**[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
+
+1h ago
+
+---
+
+**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
+
+HODL
+
+50m ago
 
 ---
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -113,31 +127,17 @@ Rank #1
 
 ---
 
+**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
+
+3h ago
+
+---
+
 **[Bitcoin 👀](https://www.reddit.com/r/Bitcoin/comments/1prjz40/bitcoin/)**
 
 The crypto market is down" Degens with their last $200:
 
 16h ago
-
----
-
-**[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
-
-57m ago
-
----
-
-**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
-
-2h ago
-
----
-
-**[What if Bitcoin doesn’t need mass adoption to succeed?](https://www.reddit.com/r/Bitcoin/comments/1prqeen/what_if_bitcoin_doesnt_need_mass_adoption_to/)**
-
-Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
-
-11h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeuMTzaf1ylj359iarmVhPURtU7u3xGcd8kQ7lLYvdXFlBMyU99MpSD&gaa_ts=6947c517&gaa_sig=F59WAF9xEqNMStDgZS2mcEEEnKADRTilTzpBX4C5drIjsr1SXaxjhYALm43aqe2A1gQfYZHfqf1MXy_A25cGFg%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqflqnLiG4aBf_ZeX2rv5s_FVpZQVA-5z68ICdc9sdlYQ8q5KiVC1CsT&gaa_ts=6947cdf7&gaa_sig=wJaQF6gT8uoFFM83UeSpt59UnKTDcm8v08ZmJpzjWdmSyUth7XkDcRLmOaDOh2fkKxrOimRkZfDlViBJ80wDdA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -217,7 +217,7 @@ CoinDesk • 1d ago
 
 The price of Bitcoin BINANCE:BTCUSD will outperform gold in the long run, and BTC holders should not sell their coins to pour into gold during its meteoric run to prices above $4,000 per ounce, according to Bitcoin advocate, educator and market analyst Matthew Kratter.BTC is a better store of value…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -263,11 +263,17 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ---
 
+**[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
+
+⬆️ 1 • 💬 0 • 16m ago
+
+---
+
 **[Aaron Van Wirdum predicts the future of crypto](https://news.ycombinator.com/item?id=46310765)**
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
-⬆️ 3 • 💬 3 • 2d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 3 • 💬 3 • 3d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
 
 ---
 
@@ -281,7 +287,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 105 • ⏱️ 14:31 • 16h ago
+👁️ 23K • 👍 1K • 💬 105 • ⏱️ 14:31 • 17h ago
 
 ---
 
@@ -301,7 +307,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 2K • 💬 101 • ⏱️ 46:11 • 19h ago
+👁️ 45K • 👍 2K • 💬 101 • ⏱️ 46:11 • 20h ago
 
 ---
 
@@ -351,7 +357,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 BTC Sessions
 
-👁️ 16K • 👍 699 • 💬 328 • ⏱️ 20:14 • 13h ago
+👁️ 16K • 👍 699 • 💬 328 • ⏱️ 20:14 • 14h ago
 
 ---
 
@@ -361,7 +367,7 @@ In this video I reveal why owning 0.21 BTC puts you in the top ≈ 1 % of Bitcoi
 
 📺 Brad Long
 
-👁️ 3K • 👍 119 • 💬 123 • ⏱️ 11:16 • 19h ago
+👁️ 3K • 👍 119 • 💬 123 • ⏱️ 11:16 • 20h ago
 
 ---
 

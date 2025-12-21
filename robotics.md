@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T09:55:51.104776+00:00'
+updated: '2025-12-21T10:23:07.652587+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 09:55 UTC  
+**Last Updated:** December 21, 2025 at 10:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[In China, robots are now handling the solar panels, making installation faster and safer](https://www.reddit.com/r/robotics/comments/1ps2aw1/in_china_robots_are_now_handling_the_solar_panels/)**
+
+From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
+
+1h ago
+
+---
+
 **[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
 17h ago
-
----
-
-**[In China, robots are now handling the solar panels, making installation faster and safer](https://www.reddit.com/r/robotics/comments/1ps2aw1/in_china_robots_are_now_handling_the_solar_panels/)**
-
-From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
-
-47m ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -134,11 +134,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
 
-Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-Interesting Engineering • 1d ago
+KEYC News Now • 1d ago
 
 ---
 
@@ -150,11 +150,11 @@ KSBY News • 2d ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
 
-KEYC News Now • 1d ago
+Fortune • 3d ago
 
 ---
 
@@ -176,7 +176,7 @@ Tom's Hardware • 23h ago
 
 **[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
 
-KXAN Austin • 11h ago
+KXAN Austin • 12h ago
 
 ---
 
