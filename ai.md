@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T05:41:12.328403+00:00'
+updated: '2025-12-21T05:52:51.056169+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 05:41 UTC  
+**Last Updated:** December 21, 2025 at 05:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Republicans make deepfake AI video of Democrat giving a kid trans hormone therapy. The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.](https://www.reddit.com/r/artificial/comments/1pry2ph/republicans_make_deepfake_ai_video_of_democrat/)**
+
+The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
+
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 1h ago
+
+---
+
 **[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
@@ -45,19 +53,11 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 ---
 
-**[Republicans make deepfake AI video of Democrat giving a kid trans hormone therapy. The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.](https://www.reddit.com/r/artificial/comments/1pry2ph/republicans_make_deepfake_ai_video_of_democrat/)**
-
-The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
-
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 50m ago
-
----
-
 **[Sam Altman says he’s ‘0%’ excited to be CEO of a public company as OpenAI drops hints about an IPO: ‘In some ways I think it’d be really annoying’](https://www.reddit.com/r/artificial/comments/1prllyb/sam_altman_says_hes_0_excited_to_be_ceo_of_a/)**
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 10h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 6h ago
 
 ---
 
@@ -90,6 +90,12 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
 🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1d ago
+
+---
+
+**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
+
+12m ago
 
 ---
 
@@ -106,14 +112,6 @@ OK so I love AI. I am all in on artificial intelligence. Our ability to solve co
 In enterprise AI workloads are beginning to unleash. As I witness this process the cuts are coming and they are brutal and should not be ignored. For me personally, I feel there is one key aspect in the industry that is being grossly ignore. How do we increase actual productivity by not just automating jobs away but allow for workers to increase workloads and productivity by doing more than what they could have done before because of the benefit of AI. Online, you hear good talking points about how it could go but in the real world there is no softlanding I am seeing. You hear things like this will increase the the productivity but it's a net 0 loss if you only automate but don't actually increase productivity by the workforce you have. On one hand AI tools are helpful to the upper echelons as they can use those tools to make their day more productive and that can be a net gain if that person can actually do more. There is good commentary on this and is mostly agreeable. On the other hand a person whose job is simply automated away may have nothing to fall back on as efficiencies allow to rid the position. This is Net 0 Loss. There is no productivity gain there is only an efficiency gain. In my mind, I would think it would be prudent for lines of business to fight for their budgets by ideating what could increase their workloads and productivity if they could do more and start planning those capabilities simultaneously as they are solutiononing AI workflows. If this posture is not articulated and articulated quickly I fear that the job losses could be insurmountable and devastating to the economy. All while achieving a NET 0 LOSS. No productivity boost just job loss accumulation. Because I am an optimist I believe there is a silver lining here. The ideation of what is truly productivity boosting should come with the package of automation design. Meaning, lines of business should be responsible for doing both. Productivity gains with budgets they have if they could do more. In other words, if you could hire 100 new workers what else would you do. If a business line can't answer that question then perhaps it's a reflection of that business line than anything else. The C-Suite can push for such initiatives that have both and the public perception in my mind would be much better than advertising solely job loss efficiency gains. Has anyone else experienced this with the AI products you're building?
 
 3h ago
-
----
-
-**[What are the working tasks AI will be able to do by 2026?](https://www.reddit.com/r/artificial/comments/1prgrnh/what_are_the_working_tasks_ai_will_be_able_to_do/)**
-
-Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
-
-14h ago
 
 ---
 
@@ -135,11 +133,11 @@ The New York Times • 17h ago
 
 ---
 
-**[AI-Driven Solutions for Shopify Websites by Kineteck](https://www.usatoday.com/press-release/story/21785/ai-driven-solutions-for-shopify-websites-by-kineteck/)**
+**[Al Jazeera launches new integrative AI model, ‘The Core’](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core)**
 
-Kineteck Enhances Shopify Websites with AI Technology Sheridan, United States – December 17, 2025 / Kineteck Solutions / Kineteck Solutions is making notable advancements in the e-commerce sector by incorporating artificial intelligence (AI) technology into Shopify websites. This pioneering approach is designed to boost conversion rates for online retailers, equipping them with essential tools for […]
+Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-USA Today • 54m ago
+Al Jazeera • 17m ago
 
 ---
 
@@ -151,25 +149,25 @@ CBS News • 1h ago
 
 ---
 
-**[Looking back on a year of AI blunders](https://www.ft.com/content/d22867d6-af87-4727-84d7-1571d951347d)**
+**[Q: AI Griefbots? A: Heidelberg Catechism](https://www.thegospelcoalition.org/article/catechism-ai-griefbots/)**
 
-Few industries have escaped our hapless misuse of this troubling technology
+The question isn't ‘Is it right to use AI to receive a word of wisdom or comfort from a deceased person?’ but rather ‘What is my only comfort in life and in death?’
 
-Financial Times • 40m ago
-
----
-
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 15h ago
+The Gospel Coalition • 52m ago
 
 ---
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 14h ago
+Politico • 15h ago
+
+---
+
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
+
+The New Yorker • 18h ago
 
 ---
 
@@ -179,11 +177,11 @@ Axios • 5h ago
 
 ---
 
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
+My week partying with the young founders at the heart of the AI boom
 
-The New Yorker • 18h ago
+The Atlantic • 16h ago
 
 ---
 
@@ -223,7 +221,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 451 • 💬 400 • 21h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 452 • 💬 400 • 21h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -237,7 +235,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 205 • 💬 306 • 20h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 205 • 💬 307 • 20h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -393,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,211 • 12d ago
+⬇️ 341,530 • ❤️ 3,218 • 12d ago
 
 ---
 
@@ -409,6 +407,18 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 ---
 
+**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
+
+*Shakker Labs*
+
+AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
+
+`text-to-image`
+
+⬇️ 4,050 • ❤️ 372 • 7d ago
+
+---
+
 **[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
 
 *Tencent*
@@ -421,18 +431,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
-**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
-
-*Shakker Labs*
-
-AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
-
-`text-to-image`
-
-⬇️ 4,050 • ❤️ 366 • 6d ago
-
----
-
 **[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
 *Google*
@@ -441,7 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 353 • 2d ago
+⬇️ 6,881 • ❤️ 354 • 2d ago
 
 ---
 
@@ -453,7 +451,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 346 • 3d ago
+⬇️ 6,103 • ❤️ 347 • 3d ago
 
 ---
 
@@ -465,7 +463,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 338 • 1d ago
+⬇️ 1,067 • ❤️ 343 • 1d ago
 
 ---
 
@@ -489,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 290 • 4d ago
+⬇️ 0 • ❤️ 292 • 4d ago
 
 ---
 
@@ -501,7 +499,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 250 • 3d ago
+⬇️ 533 • ❤️ 251 • 3d ago
 
 ---
 
@@ -660,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.3k • 🔱 582 • 14h ago
+⭐ 5.3k • 🔱 582 • 15h ago
 
 ---
 
@@ -720,7 +718,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 823 • 🔱 77 • 11h ago
+⭐ 823 • 🔱 77 • 12h ago
 
 ---
 

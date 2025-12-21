@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T05:41:12.336742+00:00'
+updated: '2025-12-21T05:52:51.064867+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 05:41 UTC  
+**Last Updated:** December 21, 2025 at 05:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +1.8%  
-**30d:** +4.0%  
-**90d:** -21.3%  
-**1y:** -7.4%  
+**24h:** +0.0%  
+**7d:** +2.0%  
+**30d:** +4.2%  
+**90d:** -21.2%  
+**1y:** -7.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1757.81B
+**Market Cap:** $1758.60B
 Rank #1
 
 **Circulating Supply:** 19,964,943 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.1%
 
 **All-Time Low:** $67.81
-+129771.7%
++129783.5%
 
 ---
 
@@ -80,14 +80,6 @@ Rank #1
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
 10h ago
-
----
-
-**[Bitcoin 👀](https://www.reddit.com/r/Bitcoin/comments/1prjz40/bitcoin/)**
-
-The crypto market is down" Degens with their last $200:
-
-12h ago
 
 ---
 
@@ -115,6 +107,14 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
+**[Bitcoin 👀](https://www.reddit.com/r/Bitcoin/comments/1prjz40/bitcoin/)**
+
+The crypto market is down" Degens with their last $200:
+
+12h ago
+
+---
+
 **[What if Bitcoin doesn’t need mass adoption to succeed?](https://www.reddit.com/r/Bitcoin/comments/1prqeen/what_if_bitcoin_doesnt_need_mass_adoption_to/)**
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
@@ -125,7 +125,13 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-19h ago
+20h ago
+
+---
+
+**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
+
+1h ago
 
 ---
 
@@ -133,13 +139,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
 
-11h ago
-
----
-
-**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
-
-1h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfbGm-WC_8PbEnuGJYZJpcdi8KIu27pxi_toiNUSqSZ-Rbpyvv_jh6p&gaa_ts=694786fc&gaa_sig=vUJONe66N5DGWtNsrIXC3UcEbPe1R_zrQdR6ShbCpKRyioXd_u_WSRGIiZDzAES37nWT10FCYz0PGF65SNqg-Q%3D%3D)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqexaW__ou4iAcpw_Szsc2SoV3KwZskcilYPLTii1JjoypSNtoktW9AX&gaa_ts=69478e9d&gaa_sig=39KY5CGMHtQMXGz3w5KEOhbe4uKTlcAap_ecB7Of-KU_uwzQOq-JQ04lsKVwR_UNyldo_GjNNe_HktAjBKAl5A%3D%3D)**
 
 Barron's • 1d ago
 
@@ -185,9 +185,11 @@ The Motley Fool • 19h ago
 
 ---
 
-**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
+**[26 Cryptocurrency, Bitcoin, and DeFi Predictions for 2026](https://www.galaxy.com/insights/research/predictions-2026-crypto-bitcoin-defi)**
 
-CCN.com • 1d ago
+Plus: a look back at how Galaxy Researchâs 2025 predictions performed.
+
+galaxy.com • 1d ago
 
 ---
 
@@ -213,7 +215,7 @@ The Motley Fool • 7h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeD5q0cdS5IA6xWTeSes-O3NnPZs0qgt8tcMXehyCVmzKCSMO-YOXPK&gaa_ts=694786fc&gaa_sig=s-LTO3pySRQV3Lm6f2JWNucKNQvCAylBC7W4aRSV9K_zYZGcACfKZwCHC_5_RDPLGxe4E2uizXtv0dGe1c9-9w%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqcf-1Zm4lQRhhzIze0j1LnQtY0k0vOS9luD62liPegalpsJ4OSbY8JE&gaa_ts=69478e9d&gaa_sig=H7lu11xjiQEiGBiPHGAjulKSdbF_UOUGark6d9ppOOtvoxf0nO_V0SB2MdT8dLi32qbWohRVTatYLKoVzchnSw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -349,7 +351,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 397 • 💬 100 • ⏱️ 4:18 • 11h ago
+👁️ 8K • 👍 397 • 💬 100 • ⏱️ 4:18 • 12h ago
 
 ---
 

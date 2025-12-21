@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T05:41:12.346070+00:00'
+updated: '2025-12-21T05:52:51.074264+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 05:41 UTC  
+**Last Updated:** December 21, 2025 at 05:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 **[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -102,45 +102,13 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-1h ago
+2h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
-
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
-
-Futurism • 1d ago
-
----
-
-**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
-
-Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
-
-Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
-
-KSBY News • 1d ago
-
----
-
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 1d ago
-
----
 
 **[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
@@ -154,7 +122,7 @@ Interesting Engineering • 10h ago
 
 Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
 
-TechNode • 16h ago
+TechNode • 17h ago
 
 ---
 
@@ -163,6 +131,22 @@ TechNode • 16h ago
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
 South China Morning Post • 1d ago
+
+---
+
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 1d ago
+
+---
+
+**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
+
+Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
+
+KSBY News • 1d ago
 
 ---
 
@@ -187,6 +171,20 @@ NVIDIA Developer • 3d ago
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
 The Robot Report • 16h ago
+
+---
+
+**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
+
+KXAN Austin • 7h ago
+
+---
+
+**[Nvidia-led NitroGen is a generalist video gaming AI that can play any title — research also has big implications for robotics](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-led-nitrogen-is-a-generalist-video-gaming-ai-that-can-play-any-title-research-also-has-big-implications-for-robotics)**
+
+Trained on 40,000 hours of gameplay in 1,000+ titles.
+
+Tom's Hardware • 19h ago
 
 ---
 
