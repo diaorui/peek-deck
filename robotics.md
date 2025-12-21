@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T10:53:39.773307+00:00'
+updated: '2025-12-21T11:14:02.573779+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 10:53 UTC  
+**Last Updated:** December 21, 2025 at 11:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-17h ago
+18h ago
 
 ---
 
@@ -112,7 +112,7 @@ https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 23K • 👍 563 • 💬 57 • ⏱️ 2:08:46 • 1d ago
+👁️ 24K • 👍 574 • 💬 58 • ⏱️ 2:08:46 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 1.7M • 👍 135K • 💬 33K • ⏱️ 15:02 • 8h ago
+👁️ 2.0M • 👍 153K • 💬 36K • ⏱️ 15:02 • 8h ago
 
 ---
 
@@ -216,7 +216,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 32K • 👍 818 • 💬 121 • ⏱️ 6:41 • 6d ago
+👁️ 32K • 👍 819 • 💬 121 • ⏱️ 6:41 • 6d ago
 
 ---
 
@@ -236,15 +236,7 @@ Retire Army Soldier Build Robotic Zebra for Indian Girl #ai #army #save #robot.
 
 📺 Meow World
 
-👁️ 2.4M • 👍 46K • 💬 52 • ⏱️ 0:40 • 6d ago
-
----
-
-**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
-
-📺 Romi Pal
-
-👁️ 14.8M • 👍 100K • 💬 734 • ⏱️ 0:24 • 5d ago
+👁️ 2.5M • 👍 47K • 💬 52 • ⏱️ 0:40 • 6d ago
 
 ---
 
@@ -254,7 +246,15 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 321 • 💬 33 • ⏱️ 1:05 • 5d ago
+👁️ 32K • 👍 321 • 💬 34 • ⏱️ 1:05 • 5d ago
+
+---
+
+**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
+
+📺 Romi Pal
+
+👁️ 15.2M • 👍 103K • 💬 762 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -264,7 +264,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 84K • 👍 5K • 💬 410 • ⏱️ 13:43 • 2d ago
+👁️ 88K • 👍 5K • 💬 419 • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -284,7 +284,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 28K • 👍 3K • 💬 75 • ⏱️ 1:38 • 4d ago
+👁️ 28K • 👍 3K • 💬 79 • ⏱️ 1:38 • 4d ago
 
 ---
 

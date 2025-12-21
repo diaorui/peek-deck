@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T10:53:39.755058+00:00'
+updated: '2025-12-21T11:14:02.555683+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 10:53 UTC  
+**Last Updated:** December 21, 2025 at 11:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ OK so I love AI. I am all in on artificial intelligence. Our ability to solve co
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -133,13 +133,13 @@ Politico • 20h ago
 
 **[AI companions: "The new imaginary friend" redefining children's friendships](https://www.axios.com/2025/12/21/ai-companions-new-imaginary-friend-children-teens)**
 
-Axios • 7m ago
+Axios • 27m ago
 
 ---
 
 **[AI agents are coming to job interviews. Tips for handling them](https://qz.com/ai-agent-job-interview-tips)**
 
-qz.com • 52m ago
+qz.com • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ qz.com • 52m ago
 
 Collibra CEO Felix Van de Maele said it's "a red flag" if prospective employees aren't leaning into how they can use AI to make their job better.
 
-Business Insider • 2m ago
+Business Insider • 23m ago
 
 ---
 
@@ -171,7 +171,7 @@ bbc.com • 1d ago
 
 A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 20h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 23h ago
+The New Yorker • 1d ago
 
 ---
 
@@ -247,7 +247,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 141 • 💬 91 • 6h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 141 • 💬 91 • 7h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -285,37 +285,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 81K • 👍 2K • 💬 675 • ⏱️ 15:25 • 15h ago
-
----
-
-**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
-
-Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
-
-📺 Future of Life Institute
-
-👁️ 22K • 👍 813 • 💬 325 • ⏱️ 16:15 • 2d ago
-
----
-
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
-
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
-
-📺 Matt Wolfe
-
-👁️ 38K • 👍 2K • 💬 164 • ⏱️ 37:38 • 20h ago
-
----
-
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 310K • 👍 18K • 💬 2K • ⏱️ 5:52 • 2d ago
+👁️ 85K • 👍 2K • 💬 706 • ⏱️ 15:25 • 16h ago
 
 ---
 
@@ -325,7 +295,37 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 2.1M • 👍 6K • 💬 122 • ⏱️ 8:07 • 2d ago
+👁️ 2.2M • 👍 6K • 💬 125 • ⏱️ 8:07 • 2d ago
+
+---
+
+**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
+
+Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
+
+📺 Future of Life Institute
+
+👁️ 22K • 👍 822 • 💬 327 • ⏱️ 16:15 • 2d ago
+
+---
+
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 41K • 👍 2K • 💬 168 • ⏱️ 37:38 • 21h ago
+
+---
+
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+
+Are we watching an AI revolution, or a slow-motion economic disaster?
+
+📺 Robert Reich
+
+👁️ 320K • 👍 19K • 💬 2K • ⏱️ 5:52 • 2d ago
 
 ---
 
@@ -335,7 +335,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 323K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 328K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
@@ -345,17 +345,17 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 116K • 👍 7K • 💬 1K • ⏱️ 19:40 • 14h ago
+👁️ 132K • 👍 7K • 💬 1K • ⏱️ 19:40 • 14h ago
 
 ---
 
-**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
 
-Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Bigfoot Feed
+📺 Julian Goldie SEO
 
-👁️ 30K • 👍 618 • 💬 16 • ⏱️ 1:00 • 1d ago
+👁️ 4K • 👍 108 • 💬 8 • ⏱️ 8:42 • 13h ago
 
 ---
 
@@ -365,17 +365,17 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 848K • 👍 34K • 💬 558 • ⏱️ 1:01 • 1d ago
+👁️ 1.0M • 👍 42K • 💬 665 • ⏱️ 1:01 • 1d ago
 
 ---
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
+**[Is the AI Bubble About to Burst? | Henrik Zeberg | TED](https://www.youtube.com/watch?v=pp8vdZdNl2A)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+We are living through what may be the largest economic bubble in history, spanning AI, cryptocurrency and tech company stocks, ...
 
-📺 Julian Goldie SEO
+📺 TED
 
-👁️ 12K • 👍 239 • 💬 16 • ⏱️ 8:13 • 2d ago
+👁️ 34K • 👍 667 • 💬 79 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -606,7 +606,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 30 • 💬 2 • ⭐ 12,878 • 12d ago
+▲ 30 • 💬 2 • ⭐ 12,878 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.3k • 🔱 2.9k • 1d ago
+⭐ 18.3k • 🔱 2.9k • 2d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 592 • 20h ago
+⭐ 5.4k • 🔱 594 • 20h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 167 • 1h ago
+⭐ 2.3k • 🔱 168 • 1h ago
 
 ---
 
@@ -679,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 327 • 15d ago
+⭐ 1.3k • 🔱 329 • 15d ago
 
 ---
 
@@ -689,7 +689,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 959 • 🔱 48 • 3d ago
+⭐ 962 • 🔱 49 • 3d ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 834 • 🔱 135 • 18h ago
+⭐ 835 • 🔱 135 • 18h ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 830 • 🔱 81 • 17h ago
+⭐ 833 • 🔱 81 • 17h ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 801 • 🔱 118 • 3d ago
+⭐ 802 • 🔱 118 • 3d ago
 
 ---
 
@@ -739,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 757 • 🔱 60 • 18d ago
+⭐ 759 • 🔱 60 • 18d ago
 
 ---
 

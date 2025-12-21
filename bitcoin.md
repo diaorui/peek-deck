@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T10:53:39.763470+00:00'
+updated: '2025-12-21T11:14:02.564358+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 10:53 UTC  
+**Last Updated:** December 21, 2025 at 11:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.8%  
-**30d:** +5.0%  
-**90d:** -20.6%  
-**1y:** -6.5%  
+**24h:** +0.5%  
+**7d:** +2.6%  
+**30d:** +4.8%  
+**90d:** -20.7%  
+**1y:** -6.7%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ HODL
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ HODL
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ HODL
 
 **[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -263,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 47m ago
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
@@ -285,37 +285,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 105 • ⏱️ 14:31 • 17h ago
-
----
-
-**[TOM LEE&#39;S FUND JUST SAID BITCOIN IS GOING TO $60k!!](https://www.youtube.com/watch?v=M8pOiuRmuj0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 9K • 👍 429 • 💬 133 • ⏱️ 4:18 • 17h ago
-
----
-
-**[Bitcoin, AI &amp; the Next Macro Shift Investors Aren’t Ready For](https://www.youtube.com/watch?v=OJPZS2yaHvs)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
-
-📺 Anthony Pompliano
-
-👁️ 45K • 👍 2K • 💬 101 • ⏱️ 46:11 • 20h ago
-
----
-
-**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
-
-My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 41K • 👍 2K • 💬 120 • ⏱️ 13:47 • 1d ago
+👁️ 24K • 👍 1K • 💬 117 • ⏱️ 14:31 • 18h ago
 
 ---
 
@@ -325,47 +295,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 43K • 👍 2K • 💬 205 • ⏱️ 44:14 • 1d ago
+👁️ 44K • 👍 2K • 💬 205 • ⏱️ 44:14 • 1d ago
 
 ---
 
-**[Outlook 2026: Mike McGlone on Bitcoin&#39;s $10k Risk, Gold Volatility &amp; The ‘Great Reversion’](https://www.youtube.com/watch?v=Fzu0MX_qiB0)**
+**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
 
-The S&P 500 is pricing in a perfect soft landing, but the physical economy is screaming recession. In this Outlook 2026 special, ...
+My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
 
-📺 Kitco NEWS
+📺 Altcoin Daily
 
-👁️ 55K • 👍 2K • 💬 233 • ⏱️ 27:59 • 2d ago
-
----
-
-**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
-
-Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
-
-📺 BTC Isla
-
-👁️ 24K • 👍 2K • 💬 315 • ⏱️ 8:31 • 1d ago
-
----
-
-**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
-
-This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
-
-📺 BTC Sessions
-
-👁️ 16K • 👍 699 • 💬 328 • ⏱️ 20:14 • 14h ago
-
----
-
-**[Owning 0.21 BTC = Top 1 of Bitcoin Holders 99th Percentile – How To Reach It In 2026 COMP](https://www.youtube.com/watch?v=HtXo7C5ikWY)**
-
-In this video I reveal why owning 0.21 BTC puts you in the top ≈ 1 % of Bitcoin holders (the 99th percentile) and how you can hit ...
-
-📺 Brad Long
-
-👁️ 3K • 👍 119 • 💬 123 • ⏱️ 11:16 • 20h ago
+👁️ 42K • 👍 2K • 💬 121 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -376,6 +316,66 @@ This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin act
 📺 Swan Bitcoin
 
 👁️ 55K • 👍 2K • 💬 170 • ⏱️ 16:50 • 2d ago
+
+---
+
+**[TOM LEE&#39;S FUND JUST SAID BITCOIN IS GOING TO $60k!!](https://www.youtube.com/watch?v=M8pOiuRmuj0)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 9K • 👍 439 • 💬 120 • ⏱️ 4:18 • 17h ago
+
+---
+
+**[Bitcoin, AI &amp; the Next Macro Shift Investors Aren’t Ready For](https://www.youtube.com/watch?v=OJPZS2yaHvs)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 101 • ⏱️ 46:11 • 21h ago
+
+---
+
+**[🚨 BITCOIN SHORT TERM WARNING](https://www.youtube.com/watch?v=-_DZV2Cniao)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 390 • 💬 3 • ⏱️ 1:04 • 22h ago
+
+---
+
+**[Is Bitcoin Heading A LOT LOWER?! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=AnUGiccvefE)**
+
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+
+📺 Crypto Jebb
+
+👁️ 5K • 👍 261 • 💬 40 • ⏱️ 4:42 • 1d ago
+
+---
+
+**[Major Bitcoin Cycle Reveal: Pure Charts And Technical Analysis From Legendary Pro Trader](https://www.youtube.com/watch?v=C9TaSaaf5po)**
+
+Chief Market Strategist Gareth Soloway reveals a new discovery about the Bitcoin cycle. Based on this technical analysis, Gareth ...
+
+📺 Gareth Soloway
+
+👁️ 40K • 👍 3K • 💬 223 • ⏱️ 10:40 • 1d ago
+
+---
+
+**[Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutorial](https://www.youtube.com/watch?v=mVUBPFQqfgg)**
+
+Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutorial -- it's called SOAP and it's not something you ...
+
+📺 VoskCoin
+
+👁️ 3K • 👍 122 • 💬 37 • ⏱️ 15:00 • 19h ago
 
 ---
 

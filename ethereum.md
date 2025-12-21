@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T10:53:39.770045+00:00'
+updated: '2025-12-21T11:14:02.570444+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 10:53 UTC  
+**Last Updated:** December 21, 2025 at 11:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,984.02
+### $3,000.55
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +1.2%  
-**30d:** +8.1%  
-**90d:** -28.1%  
-**1y:** -8.4%  
+**24h:** +0.2%  
+**7d:** +1.0%  
+**30d:** +7.9%  
+**90d:** -28.3%  
+**1y:** -8.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 14h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 15h ago
 
 ---
 
@@ -154,7 +154,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 15h ago
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 14h ago
+ZyCrypto • 15h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 9h ago
 
 Next year could be good but won't be driven by blockchain tech upgrades.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 11K • 👍 761 • 💬 193 • ⏱️ 35:41 • 10h ago
+👁️ 12K • 👍 854 • 💬 205 • ⏱️ 35:41 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 76 • 💬 76 • ⏱️ 11:26 • 20h ago
+👁️ 2K • 👍 80 • 💬 76 • ⏱️ 11:26 • 21h ago
 
 ---
 
@@ -258,17 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 15h ago
-
----
-
-**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
-
-Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
-
-📺 Ryan’s Money Lab
-
-👁️ 3K • 👍 115 • 💬 16 • ⏱️ 14:00 • 16h ago
+👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 16h ago
 
 ---
 
@@ -278,7 +268,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 531 • 💬 57 • ⏱️ 16:54 • 2d ago
+👁️ 17K • 👍 534 • 💬 57 • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -288,17 +278,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 445 • 💬 12 • ⏱️ 21:53 • 1d ago
+👁️ 13K • 👍 452 • 💬 12 • ⏱️ 21:53 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
 
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
 
-📺 Thomas Kralow
+📺 Ryan’s Money Lab
 
-👁️ 18K • 👍 530 • 💬 33 • ⏱️ 8:37 • 1d ago
+👁️ 3K • 👍 121 • 💬 15 • ⏱️ 14:00 • 16h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YnQLkYMv6FE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 153 • 💬 6 • ⏱️ 6:04 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 297 • 💬 167 • ⏱️ 21:12 • 13h ago
+👁️ 7K • 👍 314 • 💬 170 • ⏱️ 21:12 • 13h ago
 
 ---
 
@@ -318,17 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 294 • 👍 18 • 💬 31 • ⏱️ 4:17 • 23h ago
+👁️ 294 • 👍 18 • 💬 31 • ⏱️ 4:17 • 1d ago
 
 ---
 
-**[BITCOIN: 90% Are About to Get Trapped! (warning) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=jZF1GMvdrds)**
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
 
-📺 BitcoinHyper
+📺 Thomas Kralow
 
-👁️ 12K • 👍 538 • 💬 34 • ⏱️ 14:36 • 22h ago
+👁️ 18K • 👍 533 • 💬 33 • ⏱️ 8:37 • 1d ago
 
 ---
 
