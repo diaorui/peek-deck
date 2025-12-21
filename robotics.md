@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T20:50:28.482936+00:00'
+updated: '2025-12-21T21:09:13.259385+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 20:50 UTC  
+**Last Updated:** December 21, 2025 at 21:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 As the 2025 year ends soon,just now in X Google Ai studio(Google) Products Lead Logan hinted that 2026 is going to be a huge year for robots and we can see that in real world more soon. And he hinted about Embodied Ai too. For those who don't know Embodied AI means integrating Artificial Intelligence into physical systems (like robots, drones or self-driving cars). Source: Logan(in twitter/X) 🔗: https://x.com/i/status/2002831970586566824 Your thoughts,guys??
 
-28m ago
+47m ago
 
 ---
 
@@ -136,7 +136,7 @@ South China Morning Post • 1d ago
 
 Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-CNET • 7h ago
+CNET • 8h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNET • 7h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 7h ago
+The Verge • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 337K • 👍 8K • 💬 998 • ⏱️ 18:35 • 23h ago
+👁️ 337K • 👍 8K • 💬 998 • ⏱️ 18:35 • 1d ago
 
 ---
 

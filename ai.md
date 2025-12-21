@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T20:50:28.465543+00:00'
+updated: '2025-12-21T21:09:13.241772+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 20:50 UTC  
+**Last Updated:** December 21, 2025 at 21:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 7h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 15h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 4h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 5h ago
 
 ---
 
@@ -77,27 +77,11 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 ---
 
-**[Space Force uses AI challenge to push everyday use of artificial intelligence](https://www.reddit.com/r/artificial/comments/1psckmk/space_force_uses_ai_challenge_to_push_everyday/)**
-
-Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
-
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 2h ago
-
----
-
 **[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.reddit.com/r/artificial/comments/1psfj48/the_coming_ai_upheaval_risks_collarflipping_the/)**
 
 A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 51m ago
-
----
-
-**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
-
-Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
-
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1d ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 1h ago
 
 ---
 
@@ -106,6 +90,22 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 1h ago
+
+---
+
+**[Space Force uses AI challenge to push everyday use of artificial intelligence](https://www.reddit.com/r/artificial/comments/1psckmk/space_force_uses_ai_challenge_to_push_everyday/)**
+
+Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
+
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 3h ago
+
+---
+
+**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
+
+Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
+
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1d ago
 
 ---
 
@@ -121,17 +121,9 @@ AI Overviews now show up in around half of searches, and many people already use
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfL-UwRT1w6vlC6n5GQaeJrb7VgJX3qKnec_4qxS4YxPvd-DaJ5C6Oy&gaa_ts=69485dfa&gaa_sig=rdPpYnSyoCX6LdiIycY5z2NNbSWB4KLhbzTi-XDrOWB6ow-K7_amnCmkH14kMGAroSx5kko89XAkK8tKayQCVA%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI - WSJ](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqd2j7HHdBlhaqe9iapUTUZGPoB7KGgTnvTHQv-qKM1TPnKSGAnb9ent&gaa_ts=69486565&gaa_sig=mSrkv7a2tw3lkuLoIT8mztt8k9zOkPIPFIrTJkVE8qDirRrbM7utExwt3ROuCbsQb1yfenAetiIYXMhnWCNr2Q%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 7h ago
 
 ---
 
@@ -139,15 +131,13 @@ The Guardian • 7h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
-**[Riding the AI wave? You need a 'strong stomach': Dan Ives' strategy](https://finance.yahoo.com/video/riding-ai-wave-strong-stomach-190054666.html)**
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-In the AI trade, you "can't just bet on one company," Wedbush Securities managing director and global head of technology research, Dan Ives, tells Yahoo Finance, highlighting the importance of diversification for AI investors. Watch the video above to hear more about Ives' AI thesis and the 30 stocks in the Dan IVES Wedbush AI Revolution ETF (IVES). To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 1h ago
+The New York Times • 1d ago
 
 ---
 
@@ -159,9 +149,33 @@ Fox Business • 1h ago
 
 ---
 
+**[Gen Z is using social media to job hunt but is still fearful AI will dictate their career paths](https://nypost.com/2025/12/21/lifestyle/gen-z-fears-ai-will-steal-their-jobs/)**
+
+They’re now known as the “reroute generation.”
+
+New York Post • 16m ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 8h ago
+
+---
+
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
 Politico • 1d ago
+
+---
+
+**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
+
+Oracle stock peaked in September before suffering a continued decline in the back half of the year.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -170,20 +184,6 @@ Politico • 1d ago
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
 CNBC • 12h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Shield AI’s new CEO says the $5.6B defense tech startup is at an inflection point](https://fortune.com/2025/12/21/shield-ai-ukraine-defense-tech-gary-steele/)**
-
-Demand for Shield AI’s V-BAT is ramping up in Europe and Asia.
-
-Fortune • 8h ago
 
 ---
 
@@ -201,19 +201,19 @@ Axios • 4h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 496 • 💬 458 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 498 • 💬 459 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 226 • 💬 335 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 226 • 💬 336 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 211 • 💬 163 • 16h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 213 • 💬 163 • 17h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 148 • 💬 349 • 13h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 148 • 💬 354 • 13h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -245,7 +245,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 122 • 💬 52 • 23h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 122 • 💬 52 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -265,7 +265,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 80 • 💬 74 • 15h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 82 • 💬 74 • 16h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -297,7 +297,7 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:03:20 • 7h ago
+👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:03:20 • 8h ago
 
 ---
 
@@ -317,7 +317,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 121 • 💬 11 • ⏱️ 8:42 • 22h ago
+👁️ 5K • 👍 121 • 💬 11 • ⏱️ 8:42 • 23h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,247 • 13d ago
+⬇️ 352,314 • ❤️ 3,248 • 13d ago
 
 ---
 
@@ -429,7 +429,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 393 • 3d ago
+⬇️ 10,633 • ❤️ 394 • 3d ago
 
 ---
 
@@ -469,6 +469,18 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 ---
 
+**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
+
+*Microsoft*
+
+TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
+
+`image-to-3d`
+
+⬇️ 0 • ❤️ 315 • 4d ago
+
+---
+
 **[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
 
 *Resemble AI*
@@ -478,18 +490,6 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 `text-to-speech`
 
 ⬇️ 0 • ❤️ 315 • 6d ago
-
----
-
-**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
-
-*Microsoft*
-
-TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
-
-`image-to-3d`
-
-⬇️ 0 • ❤️ 314 • 4d ago
 
 ---
 
