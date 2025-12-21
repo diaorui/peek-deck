@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T21:09:13.250128+00:00'
+updated: '2025-12-21T21:29:09.744451+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 21:09 UTC  
+**Last Updated:** December 21, 2025 at 21:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,499.00
+### $88,340.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.2%  
-**30d:** +4.4%  
-**90d:** -21.0%  
-**1y:** -7.1%  
+**24h:** +0.3%  
+**7d:** +2.3%  
+**30d:** +4.5%  
+**90d:** -20.9%  
+**1y:** -6.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -111,13 +111,13 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hey everyone, I’ve been digging into recent on-chain data, and it paints a rea
 
 Hello guys! Do you invest into anything else like real estate, stocks, bonds or just bitcoin? Im curious because im 21 and live in hungary and my biggest goal is to have 0.1 bitcoin, sadly i just simply can't manage to accumulate 1 whole bitcoin while i can invest maximum 300$/month overall. What i thought i would do is to buy the next 2-3 year just bitcoin so i can get to 0.1 hopefully. After that i think i would feel more safe investing to others (i have around 1500$ worth of googl stocks, but i can't use these now just after5 years becuase its tax-free after that.) So yeah, this is why im curious because i need advice in what should i do? I know i should not seek for advice on reddit but what i have read in the bitcoin section, you guys are all more nice and polite not grumpy and mean like in other groups. So yeah, if you could give me an idea what should i do, please let me know!
 
-58m ago
+1h ago
 
 ---
 
@@ -287,7 +287,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 4h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 5h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 32K • 👍 2K • 💬 535 • ⏱️ 8:54 • 13h ago
+👁️ 32K • 👍 2K • 💬 535 • ⏱️ 8:54 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T21:09:13.241772+00:00'
+updated: '2025-12-21T21:29:09.736074+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 21:09 UTC  
+**Last Updated:** December 21, 2025 at 21:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ A divide between Britain’s data-center boomtowns and its white-collar commuter
 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 1h ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Fox Business • 1h ago
 
 They’re now known as the “reroute generation.”
 
-New York Post • 16m ago
+New York Post • 36m ago
 
 ---
 
@@ -183,13 +183,13 @@ Yahoo Finance • 2h ago
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 148 • 💬 354 • 13h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 148 • 💬 354 • 14h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -287,7 +287,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 10K • 👍 668 • 💬 46 • ⏱️ 1:29 • 2h ago
+👁️ 10K • 👍 668 • 💬 46 • ⏱️ 1:29 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ Dating is already confusing enough but add AI into the mix, and the entire relat
 
 📺 The Infographics Show
 
-👁️ 27K • 👍 813 • 💬 310 • ⏱️ 11:26 • 23h ago
+👁️ 27K • 👍 813 • 💬 310 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -517,7 +517,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 7 • 💬 2 • ⭐ 4,341 • 10d ago
+▲ 7 • 💬 2 • ⭐ 4,461 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -543,7 +543,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 135 • 💬 6 • ⭐ 18,774 • 3mo ago
+▲ 135 • 💬 6 • ⭐ 18,805 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -602,6 +602,18 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 2 • 💬 0 • ⭐ 61,062 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
+
+---
+
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -611,20 +623,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 ▲ 30 • 💬 2 • ⭐ 12,902 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
-**[Step-GUI Technical Report](https://huggingface.co/papers/2512.15431)**
-
-*Haolong Yan, Jia Wang, Xin Huang et al. (97 authors)*
-
-🏢 StepFun
-
-A self-evolving training pipeline with the Calibrated Step Reward System and GUI-MCP protocol improve GUI automation efficiency, accuracy, and privacy in real-world scenarios.
-
-▲ 118 • 💬 3 • ⭐ 1,642 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.15431) • [💻 code](https://github.com/stepfun-ai/gelab-zero) • [🔗 project](https://opengelab.github.io/)
 
 ---
 
@@ -671,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 173 • 3h ago
+⭐ 2.3k • 🔱 173 • 4h ago
 
 ---
 
@@ -681,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 330 • 15d ago
+⭐ 1.3k • 🔱 331 • 15d ago
 
 ---
 
@@ -705,13 +703,23 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 ---
 
+**[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
+
+Autonomous multi-session AI coding
+
+`TypeScript`
+
+⭐ 865 • 🔱 166 • 1m ago
+
+---
+
 **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
 
 `JavaScript`
 
-⭐ 858 • 🔱 139 • 1d ago
+⭐ 861 • 🔱 139 • 1d ago
 
 ---
 
@@ -721,17 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 848 • 🔱 83 • 3h ago
-
----
-
-**[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
-
-Autonomous multi-session AI coding
-
-`TypeScript`
-
-⭐ 825 • 🔱 163 • 2h ago
+⭐ 849 • 🔱 83 • 3h ago
 
 ---
 
@@ -741,7 +739,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 805 • 🔱 119 • 4d ago
+⭐ 806 • 🔱 119 • 4d ago
 
 ---
 
