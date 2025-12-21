@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T09:00:48.699345+00:00'
+updated: '2025-12-21T09:29:39.518759+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - videos
 - repositories
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 09:00 UTC  
+**Last Updated:** December 21, 2025 at 09:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 12h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ​​ so I am just now aware of that Gemini has has a system of limit of prompts for free that it's only two to five prompts which is way more worse than gtp5 was. I'm not sure if this is a individually but, i guess I have to wait until​​ for 13 hours just to make a couple of prompts until I hit the limit. In my opinion I don't think the 240$ bucks a year is worth it, can someone please fill me in on more information about this.
 
-54m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNN • 1h ago
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 50m ago
+CNBC • 1h ago
 
 ---
 
@@ -183,13 +183,13 @@ The New Yorker • 22h ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 19h ago
+The Atlantic • 20h ago
 
 ---
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -271,7 +271,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 **[Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 120 • 💬 76 • 4h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 120 • 💬 76 • 5h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -451,7 +451,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 359 • 1d ago
+⬇️ 3,459 • ❤️ 359 • 2d ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 167 • 13m ago
+⭐ 2.3k • 🔱 167 • 42m ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 834 • 🔱 135 • 16h ago
+⭐ 834 • 🔱 135 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T09:00:48.707774+00:00'
+updated: '2025-12-21T09:29:39.526276+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - cryptocurrency
 - news
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 09:00 UTC  
+**Last Updated:** December 21, 2025 at 09:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.5%  
-**30d:** +4.7%  
-**90d:** -20.8%  
-**1y:** -6.8%  
+**24h:** +0.5%  
+**7d:** +2.7%  
+**30d:** +4.9%  
+**90d:** -20.7%  
+**1y:** -6.7%  
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-7h ago
+8h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ The crypto market is down" Degens with their last $200:
 
 **[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-10h ago
+11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Nasdaq • 22h ago
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -277,7 +277,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 105 • ⏱️ 14:31 • 15h ago
+👁️ 23K • 👍 1K • 💬 105 • ⏱️ 14:31 • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 BTC Sessions
 
-👁️ 16K • 👍 699 • 💬 328 • ⏱️ 20:14 • 12h ago
+👁️ 16K • 👍 699 • 💬 328 • ⏱️ 20:14 • 13h ago
 
 ---
 
