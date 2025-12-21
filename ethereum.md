@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T13:38:08.178055+00:00'
+updated: '2025-12-21T13:51:05.486895+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 13:38 UTC  
+**Last Updated:** December 21, 2025 at 13:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,24 +45,24 @@ Live Ethereum monitoring dashboard
 **24h:** -0.9%  
 **7d:** -0.4%  
 **30d:** +6.4%  
-**90d:** -29.3%  
+**90d:** -29.2%  
 **1y:** -9.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.68B
+**Market Cap:** $356.67B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-40.3%
 
 **All-Time Low:** $0.43
-+686198.9%
++681535.8%
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-16h ago
+17h ago
 
 ---
 
@@ -170,7 +170,7 @@ ZyCrypto • 17h ago
 
 The Ethereum Foundation has set a new technical roadmap prioritizing security over speed for zero-knowledge Ethereum Virtual Machines (zkEVMs), establishing three critical milestones stretching through the end of 2026. The shift comes after zkEVM teams successfully reduced proving times from 16 minutes to 16 seconds while cutting costs by 45 ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -196,11 +196,19 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
 
-Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-Decrypt • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+
+Decrypt • 3d ago
 
 ---
 
@@ -217,14 +225,6 @@ AMBCrypto • 1d ago
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
 
 ts2.tech • 1d ago
-
----
-
-**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
-
-Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
-
-CryptoSlate • 1d ago
 
 ---
 

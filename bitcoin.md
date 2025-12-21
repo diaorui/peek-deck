@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T13:38:08.172064+00:00'
+updated: '2025-12-21T13:51:05.476914+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 13:38 UTC  
+**Last Updated:** December 21, 2025 at 13:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1769.64B
+**Market Cap:** $1754.13B
 Rank #1
 
 **Circulating Supply:** 19,965,078 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-30.4%
 
 **All-Time Low:** $67.81
-+130209.7%
++129268.8%
 
 ---
 
@@ -83,23 +83,17 @@ Rank #1
 
 ---
 
-**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
-
-HODL
-
-4h ago
-
----
-
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
 4h ago
 
 ---
 
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
 
-18h ago
+HODL
+
+4h ago
 
 ---
 
@@ -111,15 +105,15 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-14h ago
+18h ago
 
 ---
 
-**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-16h ago
+14h ago
 
 ---
 
@@ -129,15 +123,23 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 ---
 
+**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
+
+16h ago
+
+---
+
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
 23h ago
 
 ---
 
-**[Title](https://www.reddit.com/r/Bitcoin/comments/1prybko/title/)**
+**[I'm old and late to the party, but just went all-in. Here's why.](https://www.reddit.com/r/Bitcoin/comments/1ps6nrw/im_old_and_late_to_the_party_but_just_went_allin/)**
 
-8h ago
+I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
+
+16m ago
 
 ---
 
@@ -177,6 +179,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
+
+The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
+
+TradingView — Track All Markets • 50m ago
+
+---
+
 **[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/21/better-crypto-buy-bitcoin-vs-xrp/)**
 
 Crypto has had a bumpy ride this year, giving back the gains from late last year and earlier this year.
@@ -185,7 +195,15 @@ The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcjQCKxFu-HDKVy2ojVUxTeXD80cSh_ziWZas5-W4H_Ja_k_NvwvY_U&gaa_ts=6947f4ae&gaa_sig=wXDrdOu37E5U6IXT6UxvcsH2qYw36vJUV6WTFOs7KvWKgO3ADDbZIAkmd02ScdiTqFrOZcJgZ3DiP6zOrO-fAA%3D%3D)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+
+Nasdaq • 2h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcyJ3YqCdRrOYXa-LS-MKZ3mmRDKJz5V-zeT55qhU_uEia8SzuEMx7K&gaa_ts=6947feb6&gaa_sig=zdZb3U81XbOC0UXNqbtt2GK4Vo56CPbmuGAfEoQIDLmLQ8wCHF1jj2Q_VXmqBquzvSQfn1ZivaZMJgyFzF-CTw%3D%3D)**
 
 Barron's • 1d ago
 
@@ -204,18 +222,6 @@ CoinDesk • 1d ago
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc7gvIAfibCQQf9TIvtXckDlmu-mUBeZNED2zLJl_DleUVq0Jk3zrDu&gaa_ts=6947f4ae&gaa_sig=eJlf4Kh_rMKV_cJapY_qLAAPHPBibb8Qj2y2jB4cEM7MBj1MWehPX9zbA93UQDVEx5sjGVV2cSu6jmSrpeAUTA%3D%3D)**
-
-MarketWatch • 1d ago
 
 ---
 

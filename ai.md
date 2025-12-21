@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T13:38:08.163583+00:00'
+updated: '2025-12-21T13:51:05.464088+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 13:38 UTC  
+**Last Updated:** December 21, 2025 at 13:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 8h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 9h ago
 
 ---
 
@@ -61,19 +61,19 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 ---
 
-**[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
-
-Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
-
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 34m ago
-
----
-
 **[Sam Altman says he’s ‘0%’ excited to be CEO of a public company as OpenAI drops hints about an IPO: ‘In some ways I think it’d be really annoying’](https://www.reddit.com/r/artificial/comments/1prllyb/sam_altman_says_hes_0_excited_to_be_ceo_of_a/)**
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 18h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 19h ago
+
+---
+
+**[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
+
+Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
+
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 47m ago
 
 ---
 
@@ -85,11 +85,9 @@ A company is not just a collection of people. It is a collection of people doing
 
 ---
 
-**[When AI gets too Indian](https://www.reddit.com/r/artificial/comments/1ps49ri/when_ai_gets_too_indian/)**
+**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-Today, while working on an academic project, I experimented with Gemini Live and selected an Indian male voice. Everything was going fine, the responses were great, and it felt very natural, as if I were speaking with an actual person. In the middle of Gemini's response, I noticed something unusual. It pronounced the word "math" (short for "mathematics") as "math" (as in RamaKrishna Math, a monastery). It might seem like a small mistake, and hallucinations are common in the world of LLMs. A small pronunciation slip made me rethink how close AI voices are getting to humans in India. Until a few years ago, text-to-speech models would butcher even the most basic Indian words, for example, "Namaste." But now it's getting better by day, and they're nailing the local/cultural nuances in pronouncing local words. It is very exciting and can significantly enhance the overall customer experience. Still, on the other hand, these mispronunciations are a telltale sign of an artificial voice that we often hear in spam calls. As models continue to improve, it may become increasingly difficult to distinguish between a human and a machine, especially for the average Indian. I'm sure you might have observed something similar in your local language, and would love to hear about it.
-
-2h ago
+8h ago
 
 ---
 
@@ -101,17 +99,19 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 ---
 
-**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
-
-7h ago
-
----
-
 **[Gemini AI yielding sloppy code for Ubuntu development with new helper script](https://www.reddit.com/r/artificial/comments/1prsbba/gemini_ai_yielding_sloppy_code_for_ubuntu/)**
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
 🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 13h ago
+
+---
+
+**[When AI gets too Indian](https://www.reddit.com/r/artificial/comments/1ps49ri/when_ai_gets_too_indian/)**
+
+Today, while working on an academic project, I experimented with Gemini Live and selected an Indian male voice. Everything was going fine, the responses were great, and it felt very natural, as if I were speaking with an actual person. In the middle of Gemini's response, I noticed something unusual. It pronounced the word "math" (short for "mathematics") as "math" (as in RamaKrishna Math, a monastery). It might seem like a small mistake, and hallucinations are common in the world of LLMs. A small pronunciation slip made me rethink how close AI voices are getting to humans in India. Until a few years ago, text-to-speech models would butcher even the most basic Indian words, for example, "Namaste." But now it's getting better by day, and they're nailing the local/cultural nuances in pronouncing local words. It is very exciting and can significantly enhance the overall customer experience. Still, on the other hand, these mispronunciations are a telltale sign of an artificial voice that we often hear in spam calls. As models continue to improve, it may become increasingly difficult to distinguish between a human and a machine, especially for the average Indian. I'm sure you might have observed something similar in your local language, and would love to hear about it.
+
+2h ago
 
 ---
 
@@ -127,15 +127,17 @@ CNBC • 5h ago
 
 ---
 
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-The New York Times • 1d ago
+Politico • 23h ago
 
 ---
 
-**[AI companions: "The new imaginary friend" redefining children's friendships](https://www.axios.com/2025/12/21/ai-companions-new-imaginary-friend-children-teens)**
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
 
-Axios • 2h ago
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 51m ago
 
 ---
 
@@ -143,7 +145,7 @@ Axios • 2h ago
 
 David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
-Vox • 38m ago
+Vox • 51m ago
 
 ---
 
@@ -171,23 +173,21 @@ Fortune • 23h ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 22h ago
-
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqcL8XBFgqOzC-YUsNtyPUsVca79kbQVd7tfaOaSPRdIOhyTR8uBeqa-&gaa_ts=6947f4ac&gaa_sig=DX8rfGUWZeggpNdFcTtYAMDNLfNAc7C1zW9O-1S5kIwQ9OJeH6hXbPWGd3v7iBCH2oirROc31n4cQVsXqhue3w%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqf2Qy5TOnFx4FnnTrH40EEhNJyEqiC91pApsSchOCoe-2JksERtT6Ty&gaa_ts=6947feb5&gaa_sig=Lby9-c2Jv-7aBmcyeXUO39TQParfCS9fbw1rmgzDiXKwl5VqEfnXikwiaEyAhZ8JjjlxMEuSZb6Aif0-w4ntuA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
+**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
+Axios • 16h ago
 
-BBC • 1d ago
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -203,7 +203,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 572 • 💬 538 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 574 • 💬 538 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -211,7 +211,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 482 • 💬 424 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 484 • 💬 430 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -225,13 +225,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 215 • 💬 322 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 217 • 💬 322 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 163 • 💬 104 • 9h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 170 • 💬 106 • 9h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -263,13 +263,15 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 113 • 💬 46 • 16h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 115 • 💬 46 • 17h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
-**[Using AI Generated Code Will Make You a Bad Programmer](https://news.ycombinator.com/item?id=46327124)**
+**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
 
-⬆️ 89 • 💬 176 • 1d ago • [unsolicited-opinions.rudism.com](https://unsolicited-opinions.rudism.com/bad-programmer/)
+The Indie Game Awards presented the award last night, only to strip it hours later.
+
+⬆️ 95 • 💬 207 • 6h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -303,7 +305,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 148K • 👍 8K • 💬 1K • ⏱️ 19:40 • 16h ago
+👁️ 148K • 👍 8K • 💬 1K • ⏱️ 19:40 • 17h ago
 
 ---
 
@@ -363,7 +365,7 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Z Jung
 
-👁️ 3K • ⏱️ 0:59 • 44m ago
+👁️ 3K • ⏱️ 0:59 • 56m ago
 
 ---
 
@@ -387,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,235 • 12d ago
+⬇️ 352,314 • ❤️ 3,236 • 12d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 374 • 2d ago
+⬇️ 3,459 • ❤️ 378 • 2d ago
 
 ---
 
@@ -435,7 +437,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 385 • 7d ago
+⬇️ 4,530 • ❤️ 386 • 7d ago
 
 ---
 
@@ -447,7 +449,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 370 • 2d ago
+⬇️ 10,633 • ❤️ 372 • 2d ago
 
 ---
 
@@ -459,7 +461,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 356 • 3d ago
+⬇️ 6,796 • ❤️ 357 • 3d ago
 
 ---
 
@@ -483,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 306 • 4d ago
+⬇️ 0 • ❤️ 307 • 4d ago
 
 ---
 
@@ -655,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 599 • 22h ago
+⭐ 5.4k • 🔱 599 • 23h ago
 
 ---
 
