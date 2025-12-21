@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T14:46:35.649120+00:00'
+updated: '2025-12-21T14:57:14.204164+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 14:46 UTC  
+**Last Updated:** December 21, 2025 at 14:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 9h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 10h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 19h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 20h ago
 
 ---
 
@@ -81,7 +81,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 44m ago
+🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 55m ago
 
 ---
 
@@ -103,7 +103,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 14h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 15h ago
 
 ---
 
@@ -257,7 +257,7 @@ Timeline & Responsible Disclosure
 
 The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
 
-⬆️ 121 • 💬 152 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+⬆️ 121 • 💬 152 • 3d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 
 ---
 
@@ -265,7 +265,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 116 • 💬 46 • 17h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 116 • 💬 46 • 18h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -307,7 +307,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 148K • 👍 8K • 💬 1K • ⏱️ 19:40 • 17h ago
+👁️ 148K • 👍 8K • 💬 1K • ⏱️ 19:40 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Z Jung
 
-👁️ 3K • ⏱️ 0:59 • 1h ago
+👁️ 3K • ⏱️ 0:59 • 2h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 601 • 23h ago
+⭐ 5.4k • 🔱 601 • 1d ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 839 • 🔱 83 • 20h ago
+⭐ 839 • 🔱 83 • 21h ago
 
 ---
 

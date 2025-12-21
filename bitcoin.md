@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T14:46:35.657539+00:00'
+updated: '2025-12-21T14:57:14.212642+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 14:46 UTC  
+**Last Updated:** December 21, 2025 at 14:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +1.8%  
-**30d:** +4.0%  
-**90d:** -21.3%  
-**1y:** -7.4%  
+**24h:** -0.1%  
+**7d:** +1.6%  
+**30d:** +3.8%  
+**90d:** -21.5%  
+**1y:** -7.6%  
 
 ---
 
@@ -121,7 +121,7 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 **[Everytime 🤬](https://www.reddit.com/r/Bitcoin/comments/1ps74vq/everytime/)**
 
-47m ago
+58m ago
 
 ---
 
@@ -151,7 +151,7 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -305,7 +305,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 446 • 💬 121 • ⏱️ 4:18 • 20h ago
+👁️ 9K • 👍 446 • 💬 121 • ⏱️ 4:18 • 21h ago
 
 ---
 
