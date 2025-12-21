@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T17:58:25.698799+00:00'
+updated: '2025-12-21T18:38:14.675898+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 17:58 UTC  
+**Last Updated:** December 21, 2025 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-8h ago
+9h ago
 
 ---
 
@@ -72,6 +72,14 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 ---
 
+**[Enough isnt enough!](https://www.reddit.com/r/robotics/comments/1psdko5/enough_isnt_enough/)**
+
+what if, your working on outdated machinery/motors!? if doing better was reliant on knowing the limits instead of archaic designs? what if your wrong... Flux hybrid motors aren't a snake but really the only step forward #mds-tech #magen-drive #mds-tech @sorry4beenright! I didnt mean it... Just wtf
+
+1m ago
+
+---
+
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
 1d ago
@@ -100,17 +108,17 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 ---
 
-**[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
-
-Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
+
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
+
+Futurism • 2d ago
+
+---
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
@@ -118,11 +126,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
 
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-Interesting Engineering • 22h ago
+CNET • 5h ago
 
 ---
 
@@ -130,15 +138,23 @@ Interesting Engineering • 22h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 4h ago
+The Verge • 5h ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-KEYC News Now • 1d ago
+Interesting Engineering • 23h ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -150,11 +166,11 @@ KSBY News • 2d ago
 
 ---
 
-**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
 
-Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-Yahoo Finance • 2d ago
+KEYC News Now • 1d ago
 
 ---
 
@@ -166,25 +182,11 @@ Fortune • 3d ago
 
 ---
 
-**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
+**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
 
-Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
+Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
 
-The Robot Report • 1d ago
-
----
-
-**[Two-Wheeled Arduino Robot Project For Beginners](https://hackaday.com/2025/12/20/two-wheeled-arduino-robot-project-for-beginners/)**
-
-Here’s a fun build from [RootSaid] that is suitable for people just getting started with microcontrollers and robotics — an Arduino-controlled two-wheeled robot. The video assumes you a…
-
-Hackaday • 23h ago
-
----
-
-**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
-
-KXAN Austin • 19h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -228,7 +230,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 313K • 👍 7K • 💬 959 • ⏱️ 18:35 • 20h ago
+👁️ 313K • 👍 7K • 💬 959 • ⏱️ 18:35 • 21h ago
 
 ---
 
@@ -248,7 +250,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 2.8M • 👍 187K • 💬 42K • ⏱️ 15:02 • 15h ago
+👁️ 2.8M • 👍 187K • 💬 42K • ⏱️ 15:02 • 16h ago
 
 ---
 
@@ -268,7 +270,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 37K • 👍 357 • 💬 20 • ⏱️ 0:11 • 13h ago
+👁️ 37K • 👍 357 • 💬 20 • ⏱️ 0:11 • 14h ago
 
 ---
 

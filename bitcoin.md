@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T17:58:25.689673+00:00'
+updated: '2025-12-21T18:38:14.666333+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 17:58 UTC  
+**Last Updated:** December 21, 2025 at 18:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,396.99
+### $88,109.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -21.0%  
-**1y:** -7.0%  
+**24h:** +0.0%  
+**7d:** +2.0%  
+**30d:** +4.2%  
+**90d:** -21.1%  
+**1y:** -7.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.70B
+**Market Cap:** $1760.47B
 Rank #1
 
-**Circulating Supply:** 19,965,162 BTC
+**Circulating Supply:** 19,965,200 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.1%
 
 **All-Time Low:** $67.81
-+130137.4%
++129931.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,21 +87,19 @@ Rank #1
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-4h ago
+5h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-16h ago
+17h ago
 
 ---
 
-**[$95K BTC = $5.8B in Shorts at Risk](https://www.reddit.com/r/Bitcoin/comments/1psam7v/95k_btc_58b_in_shorts_at_risk/)**
+**[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-JUST IN: If $BTC rallies to $95K over the holiday season, over $5.8 billion in leveraged short positions will be liquidated.
-
-1h ago
+2h ago
 
 ---
 
@@ -109,11 +107,17 @@ JUST IN: If $BTC rallies to $95K over the holiday season, over $5.8 billion in l
 
 According to recent reports, XXI Capital accumulated more than 40,000 BTC during 2024, with the holdings valued at approximately $3.8 billion at current prices. The accumulation highlights continued institutional interest in Bitcoin, even amid market volatility.
 
-3h ago
+4h ago
 
 ---
 
-**[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
+**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
+
+14m ago
+
+---
+
+**[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
 
 1h ago
 
@@ -121,7 +125,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -133,19 +137,19 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-18h ago
-
----
-
-**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
-
-10h ago
+19h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
+
+Forbes • 5h ago
+
+---
 
 **[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
 
@@ -155,31 +159,11 @@ Nasdaq • 6h ago
 
 ---
 
-**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
+**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
 
-Forbes • 5h ago
+Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
 
----
-
-**[Bitcoin (BTC) news: Need more evidence before lowering rates further, says Fed's Hammack](https://www.coindesk.com/markets/2025/12/21/incoming-voter-on-interest-rate-policy-cleveland-fed-s-hammack-says-no-more-cuts)**
-
-"My base case is that we can stay here for some period of time," Cleveland Fed President Beth Hammack told the WSJ.
-
-CoinDesk • 2h ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
-
-Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
-
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdAIeSgnu0OUMGbRPtowJWGf-cCmR7h0oMzzVbQgIGPF6FHuyl3tbax&gaa_ts=69483389&gaa_sig=qkcWLAiXuV-xLOeVvm0GIx-Wdd-yBvrGcK6k1KV0KdV6PYyBv7BrEVzg-mZPJcEusY4H4p57kwgts7l44tz48Q%3D%3D)**
-
-Barron's • 2d ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -189,9 +173,39 @@ The Block • 1d ago
 
 ---
 
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+**[Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
 
-Reuters • 2d ago
+The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
+
+CoinDesk • 1d ago
+
+---
+
+**[Tether-backed Northern Data sold bitcoin mining arm to companies run by Tether's own executives: FT](https://www.theblock.co/post/383439/tether-backed-northern-data-sold-bitcoin-mining-arm-to-companies-run-by-tethers-own-executives-ft)**
+
+The Block • 38m ago
+
+---
+
+**[MicroStrategy’s Saylor Signals Imminent Bitcoin Buy Amid MSTR Stock YTD Decline](https://finance.yahoo.com/news/microstrategy-saylor-signals-imminent-bitcoin-173809733.html)**
+
+Michael Saylor wants to buy additional Bitcoin for Strategy (formerly MicroStrategy) despite a sharp decline in the company’s stock.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqc2_feg4H3FGeTU1NBNrSYXQkUScNdaXJ46ENvwL_8gwJzOBTsW3yLk&gaa_ts=694841fe&gaa_sig=iEmvd0OhcLKq9fe5HTjsyGTS-Qf5Y27CNPmAFqWhxPCFUD3K0avGTfgQ1lFFFyvMD2bvh2gk63oxERHIbBF_Bg%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Michael Burry Compares Bitcoin to One of the Biggest Bubbles in History](https://www.fool.com/investing/2025/12/20/michael-burry-compares-bitcoin-to-one-of-the-bigge/)**
+
+Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -200,22 +214,6 @@ Reuters • 2d ago
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
 CoinDesk • 2d ago
-
----
-
-**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
-
-The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
-
-TradingView — Track All Markets • 4h ago
-
----
-
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
-
-This dip is an opportunity to think about what matters most with this asset.
-
-Yahoo Finance • 19h ago
 
 ---
 
@@ -271,7 +269,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 7h ago
+⬆️ 1 • 💬 0 • 8h ago
 
 ---
 
@@ -285,7 +283,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 1h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 2h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -299,7 +297,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 457 • 💬 178 • ⏱️ 55:13 • 3h ago
+👁️ 5K • 👍 457 • 💬 178 • ⏱️ 55:13 • 4h ago
 
 ---
 
@@ -319,7 +317,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 29K • 👍 2K • 💬 515 • ⏱️ 8:54 • 10h ago
+👁️ 29K • 👍 2K • 💬 515 • ⏱️ 8:54 • 11h ago
 
 ---
 
@@ -389,7 +387,7 @@ Let's talk about the current CPI (inflation) report and how it may affect risk a
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 3K • 💬 190 • ⏱️ 29:15 • 19h ago
+👁️ 54K • 👍 3K • 💬 190 • ⏱️ 29:15 • 20h ago
 
 ---
 

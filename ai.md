@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T17:58:25.681318+00:00'
+updated: '2025-12-21T18:38:14.657596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 17:58 UTC  
+**Last Updated:** December 21, 2025 at 18:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 4h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 6h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 7h ago
 
 ---
 
@@ -73,7 +73,15 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 1h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 2h ago
+
+---
+
+**[Space Force uses AI challenge to push everyday use of artificial intelligence](https://www.reddit.com/r/artificial/comments/1psckmk/space_force_uses_ai_challenge_to_push_everyday/)**
+
+Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
+
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 42m ago
 
 ---
 
@@ -81,7 +89,15 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 21h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 22h ago
+
+---
+
+**[Do you think most people will move to AI search soon?](https://www.reddit.com/r/artificial/comments/1psc3oo/do_you_think_most_people_will_move_to_ai_search/)**
+
+AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
+
+1h ago
 
 ---
 
@@ -93,25 +109,9 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
-**[Al Jazeera launches new integrative AI model, ‘The Core’ | Media News](https://www.reddit.com/r/artificial/comments/1ps773s/al_jazeera_launches_new_integrative_ai_model_the/)**
-
-Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
-
-🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 3h ago
-
----
-
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
 12h ago
-
----
-
-**[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
-
-A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
-
-1d ago
 
 ---
 
@@ -123,41 +123,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 9h ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 4h ago
-
----
-
-**[OpenAI Is Getting More Efficient at Running Its AI, Internal Financials Show](https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show)**
-
-The Information • 1h ago
-
----
-
-**[Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact](https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html)**
-
-The AI trade isn't over. Investors have just become choosier about which players might emerge as winners.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
-
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdJRXBikwtSmAwHlZ87FBMmBZC1NHnho4ISYpnweX3P8l9rrF6knEnU&gaa_ts=69483387&gaa_sig=sbk95x6t0eNb7QhLgCLcUzgGjaU_jbhoIo5hWNiG7EYxsispKW34qNhphTz1NkGfhcSof4vNPQkN3ANZYWRT6w%3D%3D)**
-
-The Wall Street Journal • 1d ago
+CNBC • 10h ago
 
 ---
 
@@ -165,7 +131,53 @@ The Wall Street Journal • 1d ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 9h ago
+CNN • 10h ago
+
+---
+
+**[Assessing Applied Materials Valuation After AI Driven Surge In 2025](https://finance.yahoo.com/news/assessing-applied-materials-valuation-ai-170726228.html)**
+
+Wondering if Applied Materials is still a smart buy after such a huge run, or if the easy money has already been made? In this article, we break down what the current price is really saying about potential future returns. Despite a slight pullback of about 1.1% over the last week, the stock is still up roughly 14.5% over the past month, 56.5% year to date, and 58.3% over the last year, with multiyear gains well into triple digits. These moves have come as investors continue to focus on...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[3 Artificial Intelligence Stocks With as Much as 88% Upside in 2026, According to Select Wall Street Analysts](https://www.fool.com/investing/2025/12/20/3-ai-stocks-with-as-much-as-88-upside/)**
+
+Artificial intelligence (AI)-powered gains might not be done yet -- at least not for these three stocks.
+
+The Motley Fool • 16h ago
+
+---
+
+**[Better Artificial Intelligence Stock: Palantir vs. Nvidia](https://www.fool.com/investing/2025/12/21/better-ai-stock-palantir-vs-nvidia/)**
+
+It's not too late to get in on these high-flying AI stocks.
+
+The Motley Fool • 28m ago
+
+---
+
+**[The Best Artificial Intelligence (AI) Stock To Buy in 2026 (Hint: It's Not Nvidia)](https://www.fool.com/investing/2025/12/21/the-best-artificial-intelligence-ai-stock-to-buy/)**
+
+As demand for artificial intelligence (AI) remains strong, investors are wondering who the biggest winners will be going into next year.
+
+The Motley Fool • 3h ago
+
+---
+
+**[This Is What the World’s Smartest Minds Really Think About AI - WSJ](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdLR7mWIlKEL7iA3FII9zcOimqNnEqXddmHnVyR3FuldBPw1hpbdd-0&gaa_ts=694841fc&gaa_sig=ZQljBCpl2qsHrejmvXJ9cfjjWXy22H3b3muCuMP4jFsn1MO7mDIVFH2q-AF2eUvUbLRYts1-BmoAaCbuE9vycQ%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 5h ago
 
 ---
 
@@ -175,17 +187,11 @@ Politico • 1d ago
 
 ---
 
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+**[What does Trump’s AI czar want?](https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump)**
 
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
-Fortune • 1d ago
-
----
-
-**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
-
-Axios • 5h ago
+Vox • 5h ago
 
 ---
 
@@ -193,23 +199,11 @@ Axios • 5h ago
 
 ## HackerNews: "ai"
 
-**[Firefox will have an option to disable all AI features](https://news.ycombinator.com/item?id=46316409)**
-
-Something that hasn't been made clear: Firefox will have an option to completely disable all AI features.
-
-We've been calling it the AI kill switch internally. I'm sure it'll ship with a less murderous name, but that's how seriously and absolutely we're taking this.
-
-…
-
-⬆️ 576 • 💬 539 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
-
----
-
 **[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 490 • 💬 444 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 491 • 💬 451 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -223,13 +217,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 222 • 💬 333 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 222 • 💬 334 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 196 • 💬 146 • 13h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 201 • 💬 152 • 14h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -245,7 +239,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 138 • 💬 323 • 10h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 142 • 💬 339 • 11h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -253,7 +247,7 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Timeline & Responsible Disclosure
 
-⬆️ 125 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 125 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -261,13 +255,27 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 120 • 💬 51 • 21h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 122 • 💬 52 • 21h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
 **[Using AI Generated Code Will Make You a Bad Programmer](https://news.ycombinator.com/item?id=46327124)**
 
 ⬆️ 90 • 💬 177 • 2d ago • [unsolicited-opinions.rudism.com](https://unsolicited-opinions.rudism.com/bad-programmer/)
+
+---
+
+**[I doubt that anything resembling genuine AGI is within reach of current AI tools](https://news.ycombinator.com/item?id=46342380)**
+
+I doubt that anything resembling genuine "artificial general intelligence" is within reach of current #AI tools.  However, I think a weaker, but still quite valuable, type of "artificial general cleverness" is becoming a reality in various ways.
+
+By "general cleverness", I mean the ability to solve broad classes of complex problems via somewhat ad hoc means.  These means may be stochastic or the result of brute force computation; they may be ungrounded or fallible; and they may be either uninterpretable, or traceable back to similar tricks found in an AI's training data.  So they would not qualify as the result of any true "intelligence".  And yet, they can have a non-trivial success rate at achieving an increasingly wide spectrum of tasks, particularly when coupled with stringent verification procedures to filter out incorrect or unpromising approaches, at scales beyond what individual humans could achieve.
+
+This results in the somewhat unintuitive combination of a technology that can be very useful and impressive, while simultaneously being fundamentally unsatisfying and disappointing - somewhat akin to how one's awe at an amazingly clever magic trick can dissipate (or transform to technical respect) once one learns how the trick was performed.  
+
+But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
+
+⬆️ 78 • 💬 71 • 13h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -281,7 +289,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 91K • 👍 3K • 💬 796 • ⏱️ 15:25 • 22h ago
+👁️ 91K • 👍 3K • 💬 796 • ⏱️ 15:25 • 23h ago
 
 ---
 
@@ -321,7 +329,7 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 719 • 👍 32 • 💬 3 • ⏱️ 1:03:20 • 4h ago
+👁️ 719 • 👍 32 • 💬 3 • ⏱️ 1:03:20 • 5h ago
 
 ---
 
@@ -387,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,242 • 13d ago
+⬇️ 352,314 • ❤️ 3,244 • 13d ago
 
 ---
 
@@ -399,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 409 • 1d ago
+⬇️ 74,165 • ❤️ 410 • 1d ago
 
 ---
 
@@ -411,7 +419,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 399 • 2d ago
+⬇️ 3,459 • ❤️ 402 • 2d ago
 
 ---
 
@@ -423,7 +431,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 386 • 2d ago
+⬇️ 10,633 • ❤️ 388 • 2d ago
 
 ---
 
@@ -471,7 +479,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 313 • 6d ago
+⬇️ 0 • ❤️ 314 • 6d ago
 
 ---
 
@@ -483,7 +491,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 311 • 4d ago
+⬇️ 0 • ❤️ 312 • 4d ago
 
 ---
 
@@ -665,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 171 • 32m ago
+⭐ 2.3k • 🔱 171 • 1h ago
 
 ---
 
@@ -715,7 +723,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 848 • 🔱 83 • 12m ago
+⭐ 848 • 🔱 83 • 52m ago
 
 ---
 
