@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T23:10:24.009432+00:00'
+updated: '2025-12-21T23:30:44.558720+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 23:10 UTC  
+**Last Updated:** December 21, 2025 at 23:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.6%  
-**30d:** +4.8%  
-**90d:** -20.7%  
-**1y:** -6.7%  
+**24h:** +0.1%  
+**7d:** +2.3%  
+**30d:** +4.5%  
+**90d:** -21.0%  
+**1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1764.53B
+**Market Cap:** $1766.84B
 Rank #1
 
-**Circulating Supply:** 19,965,256 BTC
+**Circulating Supply:** 19,965,275 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-29.8%
 
 **All-Time Low:** $67.81
-+130224.4%
++130395.5%
 
 ---
 
@@ -79,15 +79,13 @@ Rank #1
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-4h ago
+5h ago
 
 ---
 
-**[I'm old and late to the party, but just went all-in. Here's why.](https://www.reddit.com/r/Bitcoin/comments/1ps6nrw/im_old_and_late_to_the_party_but_just_went_allin/)**
+**[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
 
-I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
-
-9h ago
+4h ago
 
 ---
 
@@ -99,21 +97,11 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
-**[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
+**[I'm old and late to the party, but just went all-in. Here's why.](https://www.reddit.com/r/Bitcoin/comments/1ps6nrw/im_old_and_late_to_the_party_but_just_went_allin/)**
 
-3h ago
+I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
----
-
-**[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
-
-14h ago
-
----
-
-**[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
-
-7h ago
+9h ago
 
 ---
 
@@ -123,21 +111,35 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
-**[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
+**[Fed Injects $6.8B Liquidity Tomorrow — Is Bitcoin About to React?](https://www.reddit.com/r/Bitcoin/comments/1psi4ns/fed_injects_68b_liquidity_tomorrow_is_bitcoin/)**
 
-5h ago
-
----
-
-**[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
+JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
 1h ago
 
 ---
 
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
+**[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-21h ago
+7h ago
+
+---
+
+**[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
+
+14h ago
+
+---
+
+**[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
+
+6h ago
+
+---
+
+**[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
+
+2h ago
 
 ---
 
@@ -156,14 +158,6 @@ Forbes • 10h ago
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
 Nasdaq • 11h ago
-
----
-
-**[Bitcoin faces uncertain 2026 outlook, $250,000 by end of 2027: Galaxy Digital's Alex Thorn](https://www.coindesk.com/markets/2025/12/21/galaxy-digital-s-head-of-research-explains-why-bitcoin-s-outlook-is-so-uncertain-in-2026)**
-
-Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
-
-CoinDesk • 1h ago
 
 ---
 
@@ -197,7 +191,7 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqf9P5o67Uk1Te9Fn_ii2dIoy9EzzmIWG-rW1ZX8aSFebkjeHrhU1sSr&gaa_ts=69487d46&gaa_sig=IQrEorslTY6xM4ryxPxsMoLmU0ddyfk_hxXEAMXkmPA671n83XZqndFfgH2BfzG58ZTu86DyPdy1qpjyM2OVwQ%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdXdsipPnDrm9zkX68lVXOoiG99WR72SQ14oN8gRv0TXkyduNVcaC0Y&gaa_ts=69488694&gaa_sig=1uhoRLO0jvnQRAsFxZBkABQ-u_wk3VF-BzEx-APnoax_e1Dfo8Q3-h2FHzVfSbfyzfw0N7pAj79fFQ_B8TiG9A%3D%3D)**
 
 Barron's • 2d ago
 
@@ -214,6 +208,14 @@ The Motley Fool • 1d ago
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
 Reuters • 2d ago
+
+---
+
+**[Crypto Bills Shouldn't Be Bitcoin or Bust, Says Indiana Lawmaker](https://decrypt.co/352795/crypto-bills-shouldnt-bitcoin-bust-says-indiana-lawmaker)**
+
+Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
+
+Decrypt • 8h ago
 
 ---
 
@@ -283,7 +285,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 6h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 7h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -327,7 +329,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 35K • 👍 2K • 💬 530 • ⏱️ 8:54 • 15h ago
+👁️ 35K • 👍 2K • 💬 530 • ⏱️ 8:54 • 16h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T23:10:24.001039+00:00'
+updated: '2025-12-21T23:30:44.550201+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 23:10 UTC  
+**Last Updated:** December 21, 2025 at 23:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,19 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 ---
 
-**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
-
-I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
-
-7h ago
-
----
-
 **[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 2h ago
+
+---
+
+**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
+
+I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
+
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ A divide between Britain’s data-center boomtowns and its white-collar commuter
 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 3h ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 4h ago
 
 ---
 
@@ -121,17 +121,9 @@ Generate a sarcastic link for that lazy friend who refuses to type in an AI prom
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdkG5fDG30vfmuEWsbt4Gv-9U0SDrgPzKg68t3fT1yj74KkwsxCJf0x&gaa_ts=69487d44&gaa_sig=kfWoJeUdZlO8QcWLU1BJvjHGILc1BegoNoIK6w9kT7sCl_upPRYvIHxsnGbErWxppjMICU6LOF2MmyDi8COWBQ%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqduDwQEKsbDnEF0f0qrdRP05HZSAuI9xB65b45TqNA-guEdNW4OpsH2&gaa_ts=69488692&gaa_sig=0vOKABXZSuO-okl7FHm2PWa617JcZ-tpUNp7PqhJFCwx-1DWl4R0TBnZQIfzmc5r73lwKh-R2bZhdautjp_PDQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 10h ago
 
 ---
 
@@ -143,15 +135,23 @@ CNN • 15h ago
 
 ---
 
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[AI and the future of entry-level jobs](https://www.ktvu.com/news/ai-future-entry-level-jobs-advice-from-executive-search-firm-founder)**
 
-Politico • 1d ago
+Entry-level job postings in the United States have dropped by about 35% over the past two years, a decline researchers say is being driven in part by the rapid adoption of artificial intelligence.
+
+KTVU • 50m ago
 
 ---
 
@@ -159,13 +159,21 @@ Politico • 1d ago
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
 
-The New York Times • 1d ago
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 10h ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 1d ago
 
 ---
 
@@ -177,19 +185,11 @@ CNBC • 2d ago
 
 ---
 
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+**[Shield AI’s new CEO says the $5.6B defense tech startup is at an inflection point](https://fortune.com/2025/12/21/shield-ai-ukraine-defense-tech-gary-steele/)**
 
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+Demand for Shield AI’s V-BAT is ramping up in Europe and Asia.
 
-Fortune • 1d ago
-
----
-
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
-
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-BBC • 1d ago
+Fortune • 11h ago
 
 ---
 
@@ -201,19 +201,19 @@ BBC • 1d ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 502 • 💬 464 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 503 • 💬 466 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 228 • 💬 340 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 229 • 💬 340 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 219 • 💬 172 • 19h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 219 • 💬 173 • 19h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 153 • 💬 360 • 15h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 155 • 💬 365 • 16h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -251,7 +251,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 92 • 💬 77 • 18h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 92 • 💬 80 • 18h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -261,19 +261,19 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 ---
 
+**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
+
+Personal Musings and Transcripts
+
+⬆️ 77 • 💬 41 • 6h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+
+---
+
 **[Engineers who dismiss AI](https://news.ycombinator.com/item?id=46325360)**
 
 Some engineers dismiss AI coding tools as ‘garbage’ without trying modern versions. Their outdated opinions are costing them.
 
 ⬆️ 74 • 💬 239 • 2d ago • [Terrible Software](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)
-
----
-
-**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
-
-Personal Musings and Transcripts
-
-⬆️ 72 • 💬 35 • 5h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -287,7 +287,7 @@ I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and 
 
 📺 tef
 
-👁️ 16K • 👍 2K • 💬 228 • ⏱️ 13:09 • 6h ago
+👁️ 16K • 👍 2K • 💬 228 • ⏱️ 13:09 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 20K • 👍 1K • 💬 66 • ⏱️ 1:29 • 4h ago
+👁️ 20K • 👍 1K • 💬 66 • ⏱️ 1:29 • 5h ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 415 • 2d ago
+⬇️ 3,459 • ❤️ 416 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 413 • 2d ago
+⬇️ 74,165 • ❤️ 414 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 401 • 3d ago
+⬇️ 10,633 • ❤️ 404 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 316 • 4d ago
+⬇️ 0 • ❤️ 317 • 4d ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 173 • 5h ago
+⭐ 2.3k • 🔱 173 • 6h ago
 
 ---
 
