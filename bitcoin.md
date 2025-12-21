@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T04:54:38.590202+00:00'
+updated: '2025-12-21T05:20:16.765962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 04:54 UTC  
+**Last Updated:** December 21, 2025 at 05:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +1.9%  
-**30d:** +4.1%  
-**90d:** -21.2%  
-**1y:** -7.3%  
+**24h:** -0.2%  
+**7d:** +1.8%  
+**30d:** +3.9%  
+**90d:** -21.4%  
+**1y:** -7.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.52B
+**Market Cap:** $1757.81B
 Rank #1
 
 **Circulating Supply:** 19,964,943 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-30.2%
 
 **All-Time Low:** $67.81
-+129789.4%
++129771.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +93,13 @@ The crypto market is down" Degens with their last $200:
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-7h ago
+8h ago
+
+---
+
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
+
+4h ago
 
 ---
 
@@ -105,13 +111,7 @@ The crypto market is down" Degens with their last $200:
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-14h ago
-
----
-
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
-
-3h ago
+15h ago
 
 ---
 
@@ -137,11 +137,9 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 ---
 
-**[We faded Bitcoin at 1000$, what’s your sob story?](https://www.reddit.com/r/Bitcoin/comments/1prt8zc/we_faded_bitcoin_at_1000_whats_your_sob_story/)**
+**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
 
-Back in 2013, we sat through a lecture from a professor of economics who suggested putting 1–5% of your portfolio into ultra high-risk assets. He pointed to Bitcoin as a prime example. We chuckled at the idea and thought, “Good luck with that.” A decade later, that advice hits a little different.
-
-4h ago
+1h ago
 
 ---
 
@@ -157,29 +155,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
-
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
-
-The Motley Fool • 18h ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
-
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
-
-Nasdaq • 18h ago
-
----
-
-**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
-
-CCN.com • 1d ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqecj7fTfrXcttsXxqu7TjRgQOBmFbAQ6Dl2gEybE9EVg0acydc6MN7R&gaa_ts=69477a2f&gaa_sig=VyM3A97Ft4xZ3YhpZe5H3cgl2HartLR7BXqxQAFpvTV0ednDg7rIrxpcQqiVdRafrCabQ8HJc9x36VZK92oH2w%3D%3D)**
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqfbGm-WC_8PbEnuGJYZJpcdi8KIu27pxi_toiNUSqSZ-Rbpyvv_jh6p&gaa_ts=694786fc&gaa_sig=vUJONe66N5DGWtNsrIXC3UcEbPe1R_zrQdR6ShbCpKRyioXd_u_WSRGIiZDzAES37nWT10FCYz0PGF65SNqg-Q%3D%3D)**
 
 Barron's • 1d ago
 
@@ -193,31 +169,53 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+
+Nasdaq • 18h ago
+
+---
+
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
+
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+
+The Motley Fool • 19h ago
+
+---
+
+**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
+
+CCN.com • 1d ago
+
+---
+
 **[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
 Forbes • 2d ago
 
 ---
 
-**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
+**[Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
 
-Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
+The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
-CoinDesk • 7h ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 1d ago
+CoinDesk • 14h ago
 
 ---
 
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
 
-Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
+This dip is an opportunity to think about what matters most with this asset.
 
-Nasdaq • 10h ago
+The Motley Fool • 6h ago
+
+---
+
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeD5q0cdS5IA6xWTeSes-O3NnPZs0qgt8tcMXehyCVmzKCSMO-YOXPK&gaa_ts=694786fc&gaa_sig=s-LTO3pySRQV3Lm6f2JWNucKNQvCAylBC7W4aRSV9K_zYZGcACfKZwCHC_5_RDPLGxe4E2uizXtv0dGe1c9-9w%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -281,7 +279,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 74 • ⏱️ 14:31 • 11h ago
+👁️ 19K • 👍 1K • 💬 74 • ⏱️ 14:31 • 12h ago
 
 ---
 
@@ -311,7 +309,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 BTC Sessions
 
-👁️ 12K • 👍 575 • 💬 220 • ⏱️ 20:14 • 8h ago
+👁️ 12K • 👍 575 • 💬 220 • ⏱️ 20:14 • 9h ago
 
 ---
 
@@ -331,7 +329,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 101 • ⏱️ 46:11 • 14h ago
+👁️ 40K • 👍 2K • 💬 101 • ⏱️ 46:11 • 15h ago
 
 ---
 
@@ -361,7 +359,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 355 • 💬 4 • ⏱️ 1:04 • 15h ago
+👁️ 12K • 👍 355 • 💬 4 • ⏱️ 1:04 • 16h ago
 
 ---
 
@@ -371,7 +369,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 242 • 💬 88 • ⏱️ 4:01 • 5h ago
+👁️ 3K • 👍 242 • 💬 88 • ⏱️ 4:01 • 6h ago
 
 ---
 

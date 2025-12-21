@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T04:54:38.581725+00:00'
+updated: '2025-12-21T05:20:16.757186+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 04:54 UTC  
+**Last Updated:** December 21, 2025 at 05:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 8h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 9h ago
+
+---
+
+**[Republicans make deepfake AI video of Democrat giving a kid trans hormone therapy. The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.](https://www.reddit.com/r/artificial/comments/1pry2ph/republicans_make_deepfake_ai_video_of_democrat/)**
+
+The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
+
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 29m ago
 
 ---
 
@@ -57,7 +65,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,15 +73,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-9h ago
-
----
-
-**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
-
-$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
-
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1d ago
+10h ago
 
 ---
 
@@ -82,6 +82,14 @@ $6 million to change what information ChatGPT will emit. What other influences c
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
 🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 5h ago
+
+---
+
+**[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
+
+$6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
+
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1d ago
 
 ---
 
@@ -109,14 +117,6 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 ---
 
-**[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
-
-Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
-
-22h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,35 +125,37 @@ Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line
 
 Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
-**[Did Goldman Sachs’ (GS) AI-Focused Software Hire and New Debt Shelf Just Redraw Its Investment Narrative?](https://finance.yahoo.com/news/did-goldman-sachs-gs-ai-031144914.html)**
+**[AI-Driven Solutions for Shopify Websites by Kineteck](https://www.usatoday.com/press-release/story/21785/ai-driven-solutions-for-shopify-websites-by-kineteck/)**
 
-In recent days, Goldman Sachs appointed Qatalyst Partners co-founder Brian Cayne as global co-head of its software investment banking group, and it has been actively issuing a range of medium-term senior and subordinated notes under a new US$30.00 billion shelf registration. Together with its push into AI-focused software advisory and alternative investments, these moves highlight Goldman’s effort to deepen higher-fee franchises while broadening its funding flexibility across the maturity...
+Kineteck Enhances Shopify Websites with AI Technology Sheridan, United States – December 17, 2025 / Kineteck Solutions / Kineteck Solutions is making notable advancements in the e-commerce sector by incorporating artificial intelligence (AI) technology into Shopify websites. This pioneering approach is designed to boost conversion rates for online retailers, equipping them with essential tools for […]
 
-Yahoo Finance • 1h ago
-
----
-
-**[Does Zoom Still Offer Upside After AI Expansion and Recent Share Price Rebound?](https://finance.yahoo.com/news/does-zoom-still-offer-upside-031154608.html)**
-
-If you have ever wondered whether Zoom Communications is still a bargain or if the easy money is long gone, you are exactly who this breakdown is for. Despite a bruising 5 year journey with the share price down 76.1%, the stock has quietly climbed 0.3% over the last week, 14.2% over the past month, and 10.1% year to date, leaving it 4.9% higher than a year ago. Recent headlines have focused on Zoom pushing beyond its pandemic image, with the company investing heavily in AI driven...
-
-Yahoo Finance • 1h ago
+USA Today • 33m ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[Consumers turning to AI for help with holiday shopping](https://www.cbsnews.com/newyork/video/consumers-turning-to-ai-for-help-with-holiday-shopping/)**
 
-Politico • 14h ago
+Artificial intelligence is expected to have a big impact this holiday season, with many consumers turning to AI for help with holiday shopping. Kelly O'Grady reports.
+
+CBS News • 42m ago
+
+---
+
+**[Looking back on a year of AI blunders](https://www.ft.com/content/d22867d6-af87-4727-84d7-1571d951347d)**
+
+Few industries have escaped our hapless misuse of this troubling technology
+
+Financial Times • 19m ago
 
 ---
 
@@ -161,7 +163,13 @@ Politico • 14h ago
 
 A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
 
-Fortune • 14h ago
+Fortune • 15h ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 14h ago
 
 ---
 
@@ -175,7 +183,7 @@ Axios • 4h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 17h ago
+The New Yorker • 18h ago
 
 ---
 
@@ -184,14 +192,6 @@ The New Yorker • 17h ago
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
 BBC • 1d ago
-
----
-
-**[How online retailers are using AI to adjust prices by mining your personal data](https://www.pbs.org/newshour/show/how-online-retailers-are-using-ai-to-adjust-prices-by-mining-your-personal-data)**
-
-If you’re going online to buy some last-minute gifts this holiday season, there’s a chance the price you pay will be influenced by what’s known as “surveillance pricing.” Some retailers are using artificial intelligence to set individualized prices online by sifting through personal data, including age, gender, location and browsing history. Ali Rogin speaks with Jay Stanley at the ACLU for more.
-
-PBS • 6h ago
 
 ---
 
@@ -215,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 465 • 💬 591 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 465 • 💬 592 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -223,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 448 • 💬 400 • 20h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 451 • 💬 400 • 20h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -237,7 +237,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 201 • 💬 305 • 19h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 205 • 💬 306 • 19h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -287,7 +287,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 48K • 👍 2K • 💬 542 • ⏱️ 15:25 • 9h ago
+👁️ 48K • 👍 2K • 💬 542 • ⏱️ 15:25 • 10h ago
 
 ---
 
@@ -297,7 +297,7 @@ Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/tw
 
 📺 NetworkChuck
 
-👁️ 73K • 👍 4K • 💬 556 • ⏱️ 33:14 • 11h ago
+👁️ 73K • 👍 4K • 💬 556 • ⏱️ 33:14 • 12h ago
 
 ---
 
@@ -317,7 +317,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 1K • 💬 149 • ⏱️ 37:38 • 14h ago
+👁️ 33K • 👍 1K • 💬 149 • ⏱️ 37:38 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,201 • 12d ago
+⬇️ 341,530 • ❤️ 3,211 • 12d ago
 
 ---
 
@@ -417,7 +417,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 369 • 2d ago
+⬇️ 2,937 • ❤️ 371 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 355 • 6d ago
+⬇️ 4,050 • ❤️ 366 • 6d ago
 
 ---
 
@@ -441,7 +441,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 350 • 2d ago
+⬇️ 6,881 • ❤️ 353 • 2d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 332 • 1d ago
+⬇️ 1,067 • ❤️ 338 • 1d ago
 
 ---
 
@@ -489,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 288 • 4d ago
+⬇️ 0 • ❤️ 290 • 4d ago
 
 ---
 
@@ -670,7 +670,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 165 • 32m ago
+⭐ 2.3k • 🔱 165 • 58m ago
 
 ---
 
@@ -710,7 +710,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 833 • 🔱 135 • 12h ago
+⭐ 833 • 🔱 135 • 13h ago
 
 ---
 

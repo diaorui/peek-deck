@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T04:54:38.599482+00:00'
+updated: '2025-12-21T05:20:16.775255+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 04:54 UTC  
+**Last Updated:** December 21, 2025 at 05:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Website: https://www.nio-robotics.com/
 
-19h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-18h ago
+19h ago
 
 ---
 
@@ -118,14 +118,6 @@ Futurism • 1d ago
 
 ---
 
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
-
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
-
-TechNode • 16h ago
-
----
-
 **[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
 
 Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
@@ -150,6 +142,30 @@ KEYC News Now • 1d ago
 
 ---
 
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+
+Interesting Engineering • 10h ago
+
+---
+
+**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+
+Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+
+TechNode • 16h ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 1d ago
+
+---
+
 **[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
@@ -171,22 +187,6 @@ NVIDIA Developer • 3d ago
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
 The Robot Report • 15h ago
-
----
-
-**[Nvidia-led NitroGen is a generalist video gaming AI that can play any title — research also has big implications for robotics](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-led-nitrogen-is-a-generalist-video-gaming-ai-that-can-play-any-title-research-also-has-big-implications-for-robotics)**
-
-Trained on 40,000 hours of gameplay in 1,000+ titles.
-
-Tom's Hardware • 18h ago
-
----
-
-**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
-
-Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -288,7 +288,7 @@ Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consi
 
 📺 Aimin
 
-👁️ 560K • 👍 15K • 💬 3K • ⏱️ 14:27 • 14h ago
+👁️ 560K • 👍 15K • 💬 3K • ⏱️ 14:27 • 15h ago
 
 ---
 

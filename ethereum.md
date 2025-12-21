@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T04:54:38.596197+00:00'
+updated: '2025-12-21T05:20:16.771996+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 04:54 UTC  
+**Last Updated:** December 21, 2025 at 05:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +0.3%  
+**24h:** -0.0%  
+**7d:** +0.4%  
 **30d:** +7.2%  
 **90d:** -28.7%  
-**1y:** -9.2%  
+**1y:** -9.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.06B
+**Market Cap:** $358.95B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.8%
 
 **All-Time Low:** $0.43
-+687034.9%
++687254.4%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
+
+---
+
+**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
+
+9h ago
 
 ---
 
@@ -84,17 +90,11 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 ---
 
-**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
-
-8h ago
-
----
-
 **[DTCC processed $3.7 quadrillion in 2024?? and they’re tokenizing U.S. treasuries now?? ON F*CKING CANTON???](https://www.reddit.com/r/ethereum/comments/1prnc2q/dtcc_processed_37_quadrillion_in_2024_and_theyre/)**
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 8h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 9h ago
 
 ---
 
@@ -152,7 +152,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -161,6 +161,14 @@ CoinDesk • 9h ago
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
 AMBCrypto • 1d ago
+
+---
+
+**[Solana to Surpass Ethereum in Yearly Revenue](https://www.tradingview.com/news/u_today:85769ad66094b:0-solana-to-surpass-ethereum-in-yearly-revenue/)**
+
+Solana founder Anatoly Yakovenko has shared new data that shows Solana has outperformed Ethereum in yearly revenue, highlighting what he sees as a pivotal shift in how value may be distributed across the crypto market.The infographics by DeFi Development Corp. show the projected chain revenue compa…
+
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -178,14 +186,6 @@ The Block • 1d ago
 
 ---
 
-**[Major Ethereum Metric Just Hit A New All-Time High – Can Price Reclaim $3,000?](https://www.tradingview.com/news/newsbtc:0c5a67f85094b:0-major-ethereum-metric-just-hit-a-new-all-time-high-can-price-reclaim-3-000/)**
-
-Ethereum’s derivatives market is showing signs of a decisive shift beneath the surface, and price action is about to return above the $3,000 mark. On-chain data suggests trader behavior on major exchanges is shifting into a more accumulative phase.Even as ETH continues to linger below the psycholog…
-
-TradingView — Track All Markets • 6h ago
-
----
-
 **[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
@@ -198,7 +198,7 @@ Decrypt • 2d ago
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 8h ago
+ZyCrypto • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 72 • 💬 33 • ⏱️ 11:26 • 14h ago
+👁️ 2K • 👍 72 • 💬 33 • ⏱️ 11:26 • 15h ago
 
 ---
 
@@ -256,7 +256,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 490 • 👍 29 • 💬 56 • ⏱️ 8:36 • 9h ago
+👁️ 490 • 👍 29 • 💬 56 • ⏱️ 8:36 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 248 • 👍 18 • 💬 6 • ⏱️ 4:17 • 17h ago
+👁️ 248 • 👍 18 • 💬 6 • ⏱️ 4:17 • 18h ago
 
 ---
 
