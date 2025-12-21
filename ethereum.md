@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T11:30:34.062170+00:00'
+updated: '2025-12-21T11:42:42.478932+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 11:30 UTC  
+**Last Updated:** December 21, 2025 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.3%  
 **7d:** +1.1%  
-**30d:** +7.9%  
+**30d:** +8.0%  
 **90d:** -28.2%  
 **1y:** -8.5%  
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 121 • 💬 15 • ⏱️ 14:00 • 16h ago
+👁️ 3K • 👍 121 • 💬 15 • ⏱️ 14:00 • 17h ago
 
 ---
 

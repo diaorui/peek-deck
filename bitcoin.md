@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T11:30:34.056878+00:00'
+updated: '2025-12-21T11:42:42.472788+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 11:30 UTC  
+**Last Updated:** December 21, 2025 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,749.58
+### $88,766.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.6%  
-**30d:** +4.8%  
-**90d:** -20.7%  
-**1y:** -6.7%  
+**24h:** +0.2%  
+**7d:** +2.3%  
+**30d:** +4.5%  
+**90d:** -20.9%  
+**1y:** -7.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 HODL
 
-1h ago
+2h ago
 
 ---
 
@@ -263,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 1 • 💬 0 • 33m ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 1 • 💬 0 • 45m ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -381,7 +381,7 @@ Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutor
 
 📺 VoskCoin
 
-👁️ 3K • 👍 122 • 💬 37 • ⏱️ 15:00 • 19h ago
+👁️ 3K • 👍 122 • 💬 37 • ⏱️ 15:00 • 20h ago
 
 ---
 
