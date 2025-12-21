@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T21:29:09.750374+00:00'
+updated: '2025-12-21T21:43:10.017657+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 21:29 UTC  
+**Last Updated:** December 21, 2025 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,25 +44,25 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.2%  
 **7d:** +0.7%  
-**30d:** +7.5%  
+**30d:** +7.6%  
 **90d:** -28.5%  
-**1y:** -8.9%  
+**1y:** -8.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.30B
+**Market Cap:** $359.93B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.6%
+-39.7%
 
 **All-Time Low:** $0.43
-+689866.5%
++688513.1%
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 15h ago
+
+---
+
+**[I got drained for $840k. Hacker is swapping to Monero](https://www.reddit.com/r/ethereum/comments/1pshuq8/i_got_drained_for_840k_hacker_is_swapping_to/)**
+
+Hi everyone, about two weeks ago my wallet was drained for over $840k, it is my life savings and I’m actually devastated. I’ve been trying all I can with onchain investigators to freeze CEX/recover anything but no result so far… My hacker is using TornadoCash and GoblinSwap / ChangeNOW to make it untraceable/buy monero (anonymous currency) is there really no way to freeze it? Before you ask me: No, I do not know how this happened, I always was very cautious and do not really know how it happened.
+
+3m ago
 
 ---
 
@@ -138,31 +146,23 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 ---
 
-**[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
-
-Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum’s 2026 ‘Hegota’ Upgrade Targets State Bloat and Fees](https://finance.yahoo.com/news/ethereum-2026-hegota-upgrade-targets-160129535.html)**
-
-This week started shaky as we reacted to Federal Reserve uncertainty, but sentiment flipped fast. Ethereum surged nearly 2%, and confidence returned as macro data softened. Right from the start, the ongoing Bessent Warren dispute framed much of the conversation, especially as the Bitcoin price held firm despite volatility. But ...
-
-Yahoo Finance • 5h ago
-
----
 
 **[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum’s 2026 ‘Hegota’ Upgrade Targets State Bloat and Fees](https://finance.yahoo.com/news/ethereum-2026-hegota-upgrade-targets-160129535.html)**
+
+This week started shaky as we reacted to Federal Reserve uncertainty, but sentiment flipped fast. Ethereum surged nearly 2%, and confidence returned as macro data softened. Right from the start, the ongoing Bessent Warren dispute framed much of the conversation, especially as the Bitcoin price held firm despite volatility. But ...
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -180,19 +180,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
-
-ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
-
-AMBCrypto • 1d ago
-
----
-
 **[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
 
 Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
+
+ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 18K • 👍 1K • 💬 256 • ⏱️ 35:41 • 20h ago
+👁️ 18K • 👍 1K • 💬 256 • ⏱️ 35:41 • 21h ago
 
 ---
 

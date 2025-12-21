@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T21:29:09.753607+00:00'
+updated: '2025-12-21T21:43:10.020863+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 21:29 UTC  
+**Last Updated:** December 21, 2025 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,14 +48,6 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 ---
 
-**[Google Products Lead Hints about Robotics and Embodied Ai in 2026](https://www.reddit.com/r/robotics/comments/1psg2lz/google_products_lead_hints_about_robotics_and/)**
-
-As the 2025 year ends soon,just now in X Google Ai studio(Google) Products Lead Logan hinted that 2026 is going to be a huge year for robots and we can see that in real world more soon. And he hinted about Embodied Ai too. For those who don't know Embodied AI means integrating Artificial Intelligence into physical systems (like robots, drones or self-driving cars). Source: Logan(in twitter/X) 🔗: https://x.com/i/status/2002831970586566824 Your thoughts,guys??
-
-1h ago
-
----
-
 **[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
@@ -69,6 +61,14 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
 2h ago
+
+---
+
+**[I made a software framework to make a robot crawl like a Baby](https://www.reddit.com/r/robotics/comments/1pshtr3/i_made_a_software_framework_to_make_a_robot_crawl/)**
+
+I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
+
+4m ago
 
 ---
 
@@ -90,7 +90,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Realbotix XBOTF Humanoides : les plus sous-estimés ! Ignorés par les grands noms, mais dans la poche d'Arthur Hayes.](https://www.reddit.com/r/robotics/comments/1psdlw1/realbotix_xbotf_humanoides_les_plus_sousestimés/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -156,14 +156,6 @@ Futurism • 2d ago
 
 ---
 
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
-
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
-
-TechNode • 1d ago
-
----
-
 **[China’s humanoid robots' dance performance in Chengdu awes netizens; Elon Musk calls it ‘impressive’ on X](https://www.globaltimes.cn/page/202512/1351059.shtml)**
 
 Six humanoid robots recently took the stage at Chinese American singer-songwriter Wang Leehomâs concert in Chengdu, Southwest Chinaâs Sichuan Province, performing alongside the singer and drawing widespread attention, including praise from US tech billionaire Elon Musk, who retweeted a related video on X, and wrote âimpressive.â
@@ -172,11 +164,19 @@ Global Times • 1d ago
 
 ---
 
+**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+
+Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+
+TechNode • 1d ago
+
+---
+
 **[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
 
 China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
 
-South China Morning Post • 21h ago
+South China Morning Post • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 2.9M • 👍 193K • 💬 43K • ⏱️ 15:02 • 18h ago
+👁️ 2.9M • 👍 193K • 💬 43K • ⏱️ 15:02 • 19h ago
 
 ---
 
@@ -276,7 +276,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Romi Pal
 
-👁️ 16.4M • 👍 112K • 💬 846 • ⏱️ 0:24 • 5d ago
+👁️ 16.4M • 👍 112K • 💬 846 • ⏱️ 0:24 • 6d ago
 
 ---
 

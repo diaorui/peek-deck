@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T21:29:09.744451+00:00'
+updated: '2025-12-21T21:43:10.011741+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 21:29 UTC  
+**Last Updated:** December 21, 2025 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -20.9%  
-**1y:** -6.9%  
+**24h:** +0.0%  
+**7d:** +2.1%  
+**30d:** +4.3%  
+**90d:** -21.1%  
+**1y:** -7.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.52B
+**Market Cap:** $1762.07B
 Rank #1
 
 **Circulating Supply:** 19,965,231 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.0%
 
 **All-Time Low:** $67.81
-+130016.5%
++130034.2%
 
 ---
 
@@ -87,13 +87,21 @@ Rank #1
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-7h ago
+8h ago
 
 ---
 
 **[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
 
 2h ago
+
+---
+
+**[15-year-old HDD, 80% bitcoin mining.](https://www.reddit.com/r/Bitcoin/comments/1psgruk/15yearold_hdd_80_bitcoin_mining/)**
+
+I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
+
+50m ago
 
 ---
 
@@ -129,14 +137,6 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 ---
 
-**[Bitcoin’s Role in the Current Economic Landscape](https://www.reddit.com/r/Bitcoin/comments/1psfhth/bitcoins_role_in_the_current_economic_landscape/)**
-
-Hey everyone, I’ve been digging into recent on-chain data, and it paints a really interesting picture for Bitcoin’s long-term trajectory. Metrics like wallet activity, exchange inflows/outflows, and HODLer behavior suggest accumulation is accelerating. For example, the number of addresses holding 1 BTC or more continues to grow steadily, while exchange reserves are declining, indicating that long-term holders are increasingly moving coins off exchanges and out of circulation. At the same time, entities like miners are showing disciplined selling patterns, which historically reduces short-term supply shock risk. Hash rate trends also remain robust, signaling continued network security and miner confidence despite price fluctuations. Combined with growing adoption of Lightning Network channels and Layer-2 activity, these metrics suggest that Bitcoin’s network is becoming both more secure and more liquid for peer-to-peer transfers. The overall picture shows demand building from both retail and institutional actors while on-chain supply tightens, which has historically correlated with upward price pressure over the medium to long term. I’m curious what others are seeing in the data: which on-chain indicators do you prioritize when assessing Bitcoin’s health and accumulation trends, and are there any signals that suggest we might be entering another HODLer-led phase?
-
-1h ago
-
----
-
 **[Just out of curiosity](https://www.reddit.com/r/Bitcoin/comments/1psftcf/just_out_of_curiosity/)**
 
 Hello guys! Do you invest into anything else like real estate, stocks, bonds or just bitcoin? Im curious because im 21 and live in hungary and my biggest goal is to have 0.1 bitcoin, sadly i just simply can't manage to accumulate 1 whole bitcoin while i can invest maximum 300$/month overall. What i thought i would do is to buy the next 2-3 year just bitcoin so i can get to 0.1 hopefully. After that i think i would feel more safe investing to others (i have around 1500$ worth of googl stocks, but i can't use these now just after5 years becuase its tax-free after that.) So yeah, this is why im curious because i need advice in what should i do? I know i should not seek for advice on reddit but what i have read in the bitcoin section, you guys are all more nice and polite not grumpy and mean like in other groups. So yeah, if you could give me an idea what should i do, please let me know!
@@ -163,23 +163,31 @@ Nasdaq • 9h ago
 
 ---
 
-**[IMF Q2 2025 COFER Data Weakens Dedollarization Narratives Cited as Bullish Catalysts for Bitcoin](https://finance.yahoo.com/news/imf-q2-2025-cofer-data-193648028.html)**
+**[Bitcoin faces uncertain 2026 outlook, $250,000 by end of 2027: Galaxy Digital's Alex Thorn](https://www.coindesk.com/markets/2025/12/21/galaxy-digital-s-head-of-research-explains-why-bitcoin-s-outlook-is-so-uncertain-in-2026)**
 
-IMF Q2 2025 COFER data: USD reserves fell due to exchange rates, not central bank diversification, tempers crypto dedollarization narratives.
+Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
 
-Yahoo Finance • 1h ago
+CoinDesk • 16m ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqc4hSGwlzl8nkeIDDII28Oat0y3q63djjIX5E4wdx9yR8tdyTaavuR0&gaa_ts=69486566&gaa_sig=TV5tZ3igQ5OoofwEftVZhFy2ItNmdCdvn9tzeAKqCYwpk0jLt6gGiK01C8tsPufnNylg2VWR7PX2mcsbietRXw%3D%3D)**
+**[MicroStrategy’s Saylor Signals Imminent Bitcoin Buy Amid MSTR Stock YTD Decline](https://finance.yahoo.com/news/microstrategy-saylor-signals-imminent-bitcoin-173809733.html)**
 
-Barron's • 2d ago
+Michael Saylor wants to buy additional Bitcoin for Strategy (formerly MicroStrategy) despite a sharp decline in the company’s stock.
+
+Yahoo Finance • 4h ago
 
 ---
 
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
 The Block • 1d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeRPpxei8c8XwjhO3rBJCNKDq-7EcZjA1xm6x2kGMg2FgvK5W6SUszB&gaa_ts=69486d5b&gaa_sig=nNV7V3rvDX_-NszXT9j30xaKOJarH6vqB_QJpLD2xlND_KBrAhh0oKIUpoHRIKcFsTDitL4qEYReIHdn5cqVIg%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -197,19 +205,11 @@ Reuters • 2d ago
 
 ---
 
-**[Galaxy's Top Researcher Reveals When Bitcoin Will Hit $250K](https://www.tradingview.com/news/u_today:2f23c8bba094b:0-galaxy-s-top-researcher-reveals-when-bitcoin-will-hit-250k/)**
+**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
 
-Alex Thorn, head of firmwide research at Galaxy Digital, has predicted that Bitcoin will eventually hit $250,000 by the end of 2027. At the same time, the prominent researcher has admitted that it would be too challenging to predict the flagship cryptocurrency's price action in 2026. In fact, as no…
+In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
-TradingView — Track All Markets • 3h ago
-
----
-
-**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
-
-Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
-
-CoinDesk • 2d ago
+Futurism • 2d ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin remains stuck in a sideways range, with low volatility and minimal direc
 
 📺 Brooks Trading Course
 
-👁️ 357 • 👍 51 • 💬 45 • ⏱️ 8:29 • 3h ago
+👁️ 357 • 👍 51 • 💬 45 • ⏱️ 8:29 • 4h ago
 
 ---
 
@@ -391,7 +391,7 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 916 • 👍 111 • 💬 19 • ⏱️ 12:58 • 4h ago
+👁️ 916 • 👍 111 • 💬 19 • ⏱️ 12:58 • 5h ago
 
 ---
 

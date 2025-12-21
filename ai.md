@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T21:29:09.736074+00:00'
+updated: '2025-12-21T21:43:10.003349+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 21:29 UTC  
+**Last Updated:** December 21, 2025 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,15 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 9h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 10h ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 22m ago
 
 ---
 
@@ -109,73 +117,13 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 ---
 
-**[Do you think most people will move to AI search soon?](https://www.reddit.com/r/artificial/comments/1psc3oo/do_you_think_most_people_will_move_to_ai_search/)**
-
-AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
-
-3h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI - WSJ](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqd2j7HHdBlhaqe9iapUTUZGPoB7KGgTnvTHQv-qKM1TPnKSGAnb9ent&gaa_ts=69486565&gaa_sig=mSrkv7a2tw3lkuLoIT8mztt8k9zOkPIPFIrTJkVE8qDirRrbM7utExwt3ROuCbsQb1yfenAetiIYXMhnWCNr2Q%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI - WSJ](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfs_SAy8eAI1vcR78aL7kKNBSLUgoBA1PNN1CpbVIXpM0oqk8NkLYDI&gaa_ts=69486d5c&gaa_sig=ZC34HI2XGht4bI0_PG0z8ib5nu80IvVK773ugnoqWK9SwWSBTpDQHm5a20IPSm0oGN-EdwRV_ty8ZY4Ag01eiw%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
-
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
-
-CNN • 13h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Google executive addresses calls to slow AI, highlights security and energy focus](https://www.foxbusiness.com/media/google-executive-addresses-calls-slow-ai-highlights-security-energy-focus)**
-
-Google executive urges responsible AI development, citing collaborations brought about by President Donald Trump's "Genesis Mission" for energy and cybersecurity innovation.
-
-Fox Business • 1h ago
-
----
-
-**[Gen Z is using social media to job hunt but is still fearful AI will dictate their career paths](https://nypost.com/2025/12/21/lifestyle/gen-z-fears-ai-will-steal-their-jobs/)**
-
-They’re now known as the “reroute generation.”
-
-New York Post • 36m ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 8h ago
-
----
-
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 1d ago
-
----
-
-**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
-
-Oracle stock peaked in September before suffering a continued decline in the back half of the year.
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -187,9 +135,63 @@ CNBC • 13h ago
 
 ---
 
-**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
-Axios • 5h ago
+As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+
+CNN • 13h ago
+
+---
+
+**[Google executive addresses calls to slow AI, highlights security and energy focus](https://www.foxbusiness.com/media/google-executive-addresses-calls-slow-ai-highlights-security-energy-focus)**
+
+Google executive urges responsible AI development, citing collaborations brought about by President Donald Trump's "Genesis Mission" for energy and cybersecurity innovation.
+
+Fox Business • 1h ago
+
+---
+
+**[Traverse City launches AI-driven sewer evaluation](https://upnorthlive.com/news/local/traverse-city-launches-ai-driven-sewer-evaluation)**
+
+TRAVERSE CITY, Mich,. (WPBN/WGTU) - - Traverse City is conducting a sanitary sewer evaluation to assess the condition of its piping systems.The evaluation aims
+
+WPBN • 37m ago
+
+---
+
+**[Gen Z is using social media to job hunt but is still fearful AI will dictate their career paths](https://nypost.com/2025/12/21/lifestyle/gen-z-fears-ai-will-steal-their-jobs/)**
+
+They’re now known as the “reroute generation.”
+
+New York Post • 50m ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 1d ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 8h ago
+
+---
+
+**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
+
+Oracle stock peaked in September before suffering a continued decline in the back half of the year.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -201,19 +203,19 @@ Axios • 5h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 498 • 💬 459 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 498 • 💬 463 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 226 • 💬 336 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 227 • 💬 338 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 213 • 💬 163 • 17h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 215 • 💬 168 • 17h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +223,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 148 • 💬 354 • 14h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 149 • 💬 357 • 14h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -265,7 +267,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 82 • 💬 74 • 16h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 87 • 💬 75 • 16h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -337,7 +339,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 352K • 👍 10K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 352K • 👍 10K • 💬 1K • ⏱️ 15:39 • 2d ago
 
 ---
 
@@ -393,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,248 • 13d ago
+⬇️ 352,314 • ❤️ 3,249 • 13d ago
 
 ---
 
@@ -405,7 +407,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 411 • 2d ago
+⬇️ 74,165 • ❤️ 412 • 2d ago
 
 ---
 
@@ -417,7 +419,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 409 • 2d ago
+⬇️ 3,459 • ❤️ 411 • 2d ago
 
 ---
 
@@ -429,7 +431,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 394 • 3d ago
+⬇️ 10,633 • ❤️ 396 • 3d ago
 
 ---
 
@@ -709,7 +711,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 865 • 🔱 166 • 1m ago
+⭐ 865 • 🔱 166 • 15m ago
 
 ---
 
