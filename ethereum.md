@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T13:51:05.486895+00:00'
+updated: '2025-12-21T14:10:12.554599+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 13:51 UTC  
+**Last Updated:** December 21, 2025 at 14:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -0.4%  
-**30d:** +6.4%  
-**90d:** -29.2%  
-**1y:** -9.8%  
+**24h:** -0.0%  
+**7d:** +0.3%  
+**30d:** +7.1%  
+**90d:** -28.8%  
+**1y:** -9.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 17h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 18h ago
 
 ---
 
@@ -154,7 +154,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 18h ago
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 17h ago
+ZyCrypto • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 84 • 💬 76 • ⏱️ 11:26 • 23h ago
+👁️ 2K • 👍 84 • 💬 76 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 717 • 👍 33 • 💬 107 • ⏱️ 8:36 • 18h ago
+👁️ 717 • 👍 33 • 💬 107 • ⏱️ 8:36 • 19h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 6 • ⏱️ 6:04 • 23h ago
+👁️ 2K • 👍 156 • 💬 6 • ⏱️ 6:04 • 1d ago
 
 ---
 

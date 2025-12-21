@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T13:51:05.491083+00:00'
+updated: '2025-12-21T14:10:12.557822+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 13:51 UTC  
+**Last Updated:** December 21, 2025 at 14:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-20h ago
+21h ago
 
 ---
 
@@ -216,7 +216,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 270K • 👍 7K • 💬 888 • ⏱️ 18:35 • 16h ago
+👁️ 270K • 👍 7K • 💬 888 • ⏱️ 18:35 • 17h ago
 
 ---
 

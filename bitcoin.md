@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T13:51:05.476914+00:00'
+updated: '2025-12-21T14:10:12.548636+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 13:51 UTC  
+**Last Updated:** December 21, 2025 at 14:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,828.19
+### $87,608.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +1.5%  
-**30d:** +3.7%  
-**90d:** -21.6%  
-**1y:** -7.7%  
+**24h:** +0.2%  
+**7d:** +1.9%  
+**30d:** +4.1%  
+**90d:** -21.2%  
+**1y:** -7.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,13 +101,13 @@ HODL
 
 XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Interesting to see continued institutional accumulation even before broader retail participation. Curious how others see this playing out over the next cycle.
 
-2h ago
+3h ago
 
 ---
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -131,7 +131,7 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-16m ago
+35m ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 2d ago
 
 The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
 
-TradingView — Track All Markets • 50m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -271,13 +271,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 1 • 💬 0 • 2h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 1 • 💬 0 • 3h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 3h ago
+⬆️ 1 • 💬 0 • 4h ago
 
 ---
 
@@ -299,7 +299,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 142 • ⏱️ 14:31 • 20h ago
+👁️ 25K • 👍 2K • 💬 142 • ⏱️ 14:31 • 21h ago
 
 ---
 
@@ -309,7 +309,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 446 • 💬 121 • ⏱️ 4:18 • 19h ago
+👁️ 9K • 👍 446 • 💬 121 • ⏱️ 4:18 • 20h ago
 
 ---
 
@@ -369,7 +369,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 101 • ⏱️ 46:11 • 23h ago
+👁️ 48K • 👍 2K • 💬 101 • ⏱️ 46:11 • 1d ago
 
 ---
 

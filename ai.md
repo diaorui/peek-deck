@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T13:51:05.464088+00:00'
+updated: '2025-12-21T14:10:12.540280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 13:51 UTC  
+**Last Updated:** December 21, 2025 at 14:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 47m ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 1h ago
 
 ---
 
@@ -95,7 +95,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 14h ago
 
 ---
 
@@ -137,7 +137,7 @@ Politico • 23h ago
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 51m ago
+The Guardian • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 51m ago
 
 David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
-Vox • 51m ago
+Vox • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fox News • 1h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 5h ago
 
 A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -231,7 +231,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 170 • 💬 106 • 9h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 170 • 💬 106 • 10h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -285,7 +285,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 87K • 👍 2K • 💬 732 • ⏱️ 15:25 • 18h ago
+👁️ 87K • 👍 2K • 💬 732 • ⏱️ 15:25 • 19h ago
 
 ---
 
@@ -315,7 +315,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 43K • 👍 3K • 💬 179 • ⏱️ 37:38 • 23h ago
+👁️ 43K • 👍 3K • 💬 179 • ⏱️ 37:38 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Z Jung
 
-👁️ 3K • ⏱️ 0:59 • 56m ago
+👁️ 3K • ⏱️ 0:59 • 1h ago
 
 ---
 
@@ -373,7 +373,7 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Etymology Nerd
 
-👁️ 845K • 👍 35K • 💬 731 • ⏱️ 1:03 • 22h ago
+👁️ 845K • 👍 35K • 💬 731 • ⏱️ 1:03 • 23h ago
 
 ---
 
@@ -592,7 +592,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 205 • 💬 5 • ⭐ 7,501 • 23d ago
+▲ 205 • 💬 5 • ⭐ 7,501 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -717,7 +717,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 837 • 🔱 83 • 19h ago
+⭐ 837 • 🔱 83 • 20h ago
 
 ---
 
