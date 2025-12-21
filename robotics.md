@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T08:49:45.324462+00:00'
+updated: '2025-12-21T09:00:48.716973+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 08:49 UTC  
+**Last Updated:** December 21, 2025 at 09:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-22h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-4h ago
+5h ago
 
 ---
 
@@ -118,6 +118,14 @@ Interesting Engineering • 13h ago
 
 ---
 
+**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+
+Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+
+TechNode • 20h ago
+
+---
+
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
@@ -126,19 +134,11 @@ Futurism • 1d ago
 
 ---
 
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
 
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-South China Morning Post • 1d ago
-
----
-
-**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
-
-Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
-
-Interesting Engineering • 1d ago
+KEYC News Now • 1d ago
 
 ---
 
@@ -147,14 +147,6 @@ Interesting Engineering • 1d ago
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
 KSBY News • 2d ago
-
----
-
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 1d ago
 
 ---
 
@@ -170,7 +162,7 @@ The Robot Report • 19h ago
 
 Trained on 40,000 hours of gameplay in 1,000+ titles.
 
-Tom's Hardware • 21h ago
+Tom's Hardware • 22h ago
 
 ---
 
@@ -188,6 +180,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[crafted in solid walnut and maple, phantom is the world’s first robotic chessboard](https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/)**
+
+a synthesis of traditional woodcraft and silent robotics, phantom reimagines the chessboard as a self‑playing heirloom.
+
+Designboom • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 21K • 👍 540 • 💬 53 • ⏱️ 2:08:46 • 1d ago
+👁️ 23K • 👍 563 • 💬 57 • ⏱️ 2:08:46 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 1.2M • 👍 114K • 💬 29K • ⏱️ 15:02 • 6h ago
+👁️ 1.7M • 👍 135K • 💬 33K • ⏱️ 15:02 • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
 
 📺 Catanimation
 
-👁️ 196K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
+👁️ 197K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
 
 ---
 
@@ -238,7 +238,7 @@ Retire Army Soldier Build Robotic Zebra for Indian Girl #ai #army #save #robot.
 
 📺 Meow World
 
-👁️ 2.3M • 👍 45K • 💬 50 • ⏱️ 0:40 • 6d ago
+👁️ 2.4M • 👍 46K • 💬 52 • ⏱️ 0:40 • 6d ago
 
 ---
 
@@ -246,17 +246,7 @@ Retire Army Soldier Build Robotic Zebra for Indian Girl #ai #army #save #robot.
 
 📺 Romi Pal
 
-👁️ 14.5M • 👍 98K • 💬 709 • ⏱️ 0:24 • 5d ago
-
----
-
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 81K • 👍 5K • 💬 403 • ⏱️ 13:43 • 2d ago
+👁️ 14.8M • 👍 100K • 💬 734 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -270,13 +260,13 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
 
-📺 South China Morning Post
+📺 AZFK
 
-👁️ 35K • 👍 488 • 💬 122 • ⏱️ 3:55 • 1d ago
+👁️ 84K • 👍 5K • 💬 410 • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -287,6 +277,16 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 📺 AI Revolution
 
 👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 5d ago
+
+---
+
+**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
+
+Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
+
+📺 Dr Ben Miles
+
+👁️ 28K • 👍 3K • 💬 75 • ⏱️ 1:38 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T08:49:45.315063+00:00'
+updated: '2025-12-21T09:00:48.707774+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 08:49 UTC  
+**Last Updated:** December 21, 2025 at 09:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.4%  
 **7d:** +2.5%  
 **30d:** +4.7%  
 **90d:** -20.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.25B
+**Market Cap:** $1766.72B
 Rank #1
 
 **Circulating Supply:** 19,965,006 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-29.8%
 
 **All-Time Low:** $67.81
-+129932.4%
++130429.4%
 
 ---
 
@@ -103,7 +103,13 @@ Rank #1
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-18h ago
+19h ago
+
+---
+
+**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
+
+5h ago
 
 ---
 
@@ -115,9 +121,9 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
-**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
+**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-4h ago
+1h ago
 
 ---
 
@@ -126,12 +132,6 @@ The crypto market is down" Degens with their last $200:
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
 10h ago
-
----
-
-**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
-
-1h ago
 
 ---
 
@@ -153,12 +153,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdFvQJmlX1YIWrNjPhNj2GhagS4x0QlzjbZAQaZktqjrhR9gIGGvKBq&gaa_ts=6947b303&gaa_sig=fuC9YfBmCUOcjsGTIYkJs17OOwya3BoyRR-P4SprwqsidHpWCBPV4psJEPGozIEkFz2SA4Q8fJQ2XFREz8-bww%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
@@ -172,6 +166,18 @@ Nasdaq • 22h ago
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
 The Motley Fool • 22h ago
+
+---
+
+**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
+
+CCN.com • 1d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeNazeGDEOWBOMcLYHwzRL2K9NENjIM9j24hQg3xUl-dH1d-xiWry1L&gaa_ts=6947baaa&gaa_sig=dk0gaDHOqLpjpglIjJqjgMt5uS_VHP1h8u4gWdJpZWPl7GgTet-CfF-IBCyC43nbsQMIij_98wrj3uGEXPF2kA%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -205,19 +211,9 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin underperformed gold, but ETF holders remained resilient](https://www.coindesk.com/markets/2025/12/19/gold-wins-the-debasement-trade-in-2025-but-it-is-not-the-full-story)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdtzRBbtSd5nZJHKZNMwYNIvdknjFNaDNZqZ9ba3jAKc6tTn5azN9bR&gaa_ts=6947baaa&gaa_sig=-4LiqwzkXWltHtPAKLEOORTnB3R_GCMIPWjnn_wMU4A9xEDT-aJLjOlVUQstDSdRs4L_j6en72I-0kxFYSLwvg%3D%3D)**
 
-Bitcoin (BTC) corrected 36% from its October all-time high, while U.S. spot bitcoin ETF holdings declined by only about 3.6%
-
-CoinDesk • 1d ago
-
----
-
-**[Sell Bitcoin for gold? Not so fast, one analyst says](https://www.tradingview.com/news/cointelegraph:b4a31da64094b:0-sell-bitcoin-for-gold-not-so-fast-one-analyst-says/)**
-
-The price of Bitcoin BINANCE:BTCUSD will outperform gold in the long run, and BTC holders should not sell their coins to pour into gold during its meteoric run to prices above $4,000 per ounce, according to Bitcoin advocate, educator and market analyst Matthew Kratter.BTC is a better store of value…
-
-TradingView — Track All Markets • 12h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -281,17 +277,17 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 98 • ⏱️ 14:31 • 15h ago
+👁️ 23K • 👍 1K • 💬 105 • ⏱️ 14:31 • 15h ago
 
 ---
 
-**[JAPANESE CRASHED BITCOIN! Bitcoin Heading To $75k?! Bitcoin Technical Analysis 2025](https://www.youtube.com/watch?v=HOIfNxsBdKI)**
+**[TOM LEE&#39;S FUND JUST SAID BITCOIN IS GOING TO $60k!!](https://www.youtube.com/watch?v=M8pOiuRmuj0)**
 
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Crypto Jebb
+📺 My Financial Friend
 
-👁️ 5K • 👍 272 • 💬 146 • ⏱️ 11:07 • 14h ago
+👁️ 9K • 👍 429 • 💬 133 • ⏱️ 4:18 • 15h ago
 
 ---
 
@@ -301,27 +297,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 101 • ⏱️ 46:11 • 18h ago
-
----
-
-**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
-
-This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
-
-📺 BTC Sessions
-
-👁️ 14K • 👍 655 • 💬 267 • ⏱️ 20:14 • 12h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 43K • 👍 2K • 💬 205 • ⏱️ 44:14 • 1d ago
+👁️ 45K • 👍 2K • 💬 101 • ⏱️ 46:11 • 19h ago
 
 ---
 
@@ -335,33 +311,13 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 ---
 
-**[BTC: GET READY... MY FINAL WARNING](https://www.youtube.com/watch?v=B7_WkMebMTI)**
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 Coinflare: ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Crypto Kid
+📺 CryptosRUs
 
-👁️ 5K • 👍 292 • 💬 139 • ⏱️ 4:01 • 9h ago
-
----
-
-**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
-
-Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
-
-📺 CryptosRus Extra
-
-👁️ 14K • 👍 630 • 💬 353 • ⏱️ 10:58 • 1d ago
-
----
-
-**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
-
-Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
-
-📺 BTC Isla
-
-👁️ 23K • 👍 2K • 💬 312 • ⏱️ 8:31 • 1d ago
+👁️ 43K • 👍 2K • 💬 205 • ⏱️ 44:14 • 1d ago
 
 ---
 
@@ -371,7 +327,47 @@ The S&P 500 is pricing in a perfect soft landing, but the physical economy is sc
 
 📺 Kitco NEWS
 
-👁️ 55K • 👍 2K • 💬 232 • ⏱️ 27:59 • 2d ago
+👁️ 55K • 👍 2K • 💬 233 • ⏱️ 27:59 • 2d ago
+
+---
+
+**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+
+Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+
+📺 BTC Isla
+
+👁️ 24K • 👍 2K • 💬 315 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
+
+This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
+
+📺 BTC Sessions
+
+👁️ 16K • 👍 699 • 💬 328 • ⏱️ 20:14 • 12h ago
+
+---
+
+**[Owning 0.21 BTC = Top 1 of Bitcoin Holders 99th Percentile – How To Reach It In 2026 COMP](https://www.youtube.com/watch?v=HtXo7C5ikWY)**
+
+In this video I reveal why owning 0.21 BTC puts you in the top ≈ 1 % of Bitcoin holders (the 99th percentile) and how you can hit ...
+
+📺 Brad Long
+
+👁️ 3K • 👍 119 • 💬 123 • ⏱️ 11:16 • 19h ago
+
+---
+
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
+
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
+
+📺 Swan Bitcoin
+
+👁️ 55K • 👍 2K • 💬 170 • ⏱️ 16:50 • 2d ago
 
 ---
 

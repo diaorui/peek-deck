@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T08:49:45.306571+00:00'
+updated: '2025-12-21T09:00:48.699345+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 08:49 UTC  
+**Last Updated:** December 21, 2025 at 09:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 3h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 4h ago
 
 ---
 
@@ -61,6 +61,22 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
+**[Is anyone upset or outraged that how Gemini has restricted its free users now](https://www.reddit.com/r/artificial/comments/1ps1cv3/is_anyone_upset_or_outraged_that_how_gemini_has/)**
+
+​​ so I am just now aware of that Gemini has has a system of limit of prompts for free that it's only two to five prompts which is way more worse than gtp5 was. I'm not sure if this is a individually but, i guess I have to wait until​​ for 13 hours just to make a couple of prompts until I hit the limit. In my opinion I don't think the 240$ bucks a year is worth it, can someone please fill me in on more information about this.
+
+54m ago
+
+---
+
+**[One-Minute Daily AI News 12/20/2025](https://www.reddit.com/r/artificial/comments/1prz73c/oneminute_daily_ai_news_12202025/)**
+
+OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
+
+3h ago
+
+---
+
 **[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
@@ -69,11 +85,17 @@ A company is not just a collection of people. It is a collection of people doing
 
 ---
 
-**[Is anyone upset or outraged that how Gemini has restricted its free users now](https://www.reddit.com/r/artificial/comments/1ps1cv3/is_anyone_upset_or_outraged_that_how_gemini_has/)**
+**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-​​ so I am just now aware of that Gemini has has a system of limit of prompts for free that it's only two to five prompts which is way more worse than gtp5 was. I'm not sure if this is a individually but, i guess I have to wait until​​ for 13 hours just to make a couple of prompts until I hit the limit. In my opinion I don't think the 240$ bucks a year is worth it, can someone please fill me in on more information about this.
+3h ago
 
-43m ago
+---
+
+**[Gemini AI yielding sloppy code for Ubuntu development with new helper script](https://www.reddit.com/r/artificial/comments/1prsbba/gemini_ai_yielding_sloppy_code_for_ubuntu/)**
+
+A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 9h ago
 
 ---
 
@@ -85,33 +107,11 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 ---
 
-**[One-Minute Daily AI News 12/20/2025](https://www.reddit.com/r/artificial/comments/1prz73c/oneminute_daily_ai_news_12202025/)**
-
-OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
-
-2h ago
-
----
-
-**[Gemini AI yielding sloppy code for Ubuntu development with new helper script](https://www.reddit.com/r/artificial/comments/1prsbba/gemini_ai_yielding_sloppy_code_for_ubuntu/)**
-
-A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 8h ago
-
----
-
 **[Israel wants to train ChatGPT to be more pro-Israel](https://www.reddit.com/r/artificial/comments/1pr2eqg/israel_wants_to_train_chatgpt_to_be_more_proisrael/)**
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
 🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1d ago
-
----
-
-**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
-
-3h ago
 
 ---
 
@@ -123,13 +123,13 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -137,15 +137,7 @@ The New York Times • 20h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 49m ago
-
----
-
-**[‘Help! I need money. It’s an emergency’: your child’s voicemail that could be a scam](https://www.theguardian.com/money/2025/dec/21/ai-cloned-voicemail-scam-criminals-fraud)**
-
-Steps to help combat fraud in which criminals use AI-generated replica of a person’s voice to deceive victims
-
-The Guardian • 1h ago
+CNN • 1h ago
 
 ---
 
@@ -153,7 +145,7 @@ The Guardian • 1h ago
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 39m ago
+CNBC • 50m ago
 
 ---
 
@@ -171,19 +163,19 @@ Politico • 18h ago
 
 ---
 
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
-
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
-
-The New Yorker • 21h ago
-
----
-
 **[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 1d ago
+bbc.com • 1d ago
+
+---
+
+**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
+
+If economic and technological transformations have changed our relationship with literature before, they could do so again.
+
+The New Yorker • 22h ago
 
 ---
 
@@ -192,6 +184,12 @@ BBC • 1d ago
 My week partying with the young founders at the heart of the AI boom
 
 The Atlantic • 19h ago
+
+---
+
+**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+
+Axios • 5h ago
 
 ---
 
@@ -207,7 +205,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 570 • 💬 533 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 570 • 💬 535 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -223,13 +221,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 461 • 💬 405 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 465 • 💬 407 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 209 • 💬 313 • 23h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 209 • 💬 315 • 23h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -273,7 +271,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 **[Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 108 • 💬 73 • 4h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 120 • 💬 76 • 4h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -287,7 +285,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 70K • 👍 2K • 💬 634 • ⏱️ 15:25 • 13h ago
+👁️ 81K • 👍 2K • 💬 675 • ⏱️ 15:25 • 14h ago
 
 ---
 
@@ -301,23 +299,13 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 ---
 
-**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
-
-Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
-
-📺 Adam Conover
-
-👁️ 229K • 👍 14K • 💬 2K • ⏱️ 17:08 • 1d ago
-
----
-
 **[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
 
 Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
 
 📺 Matt Wolfe
 
-👁️ 36K • 👍 2K • 💬 158 • ⏱️ 37:38 • 18h ago
+👁️ 38K • 👍 2K • 💬 164 • ⏱️ 37:38 • 19h ago
 
 ---
 
@@ -327,17 +315,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 301K • 👍 18K • 💬 2K • ⏱️ 5:52 • 2d ago
-
----
-
-**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
-
-AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
-
-📺 The Diary Of A CEO
-
-👁️ 745K • 👍 17K • 💬 3K • ⏱️ 1:39:47 • 3d ago
+👁️ 310K • 👍 18K • 💬 2K • ⏱️ 5:52 • 2d ago
 
 ---
 
@@ -347,7 +325,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 2.1M • 👍 6K • 💬 121 • ⏱️ 8:07 • 2d ago
+👁️ 2.1M • 👍 6K • 💬 122 • ⏱️ 8:07 • 2d ago
 
 ---
 
@@ -357,17 +335,27 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 316K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 323K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
-**[The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai](https://www.youtube.com/watch?v=2FHcEsGAaFg)**
+**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
 
-The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai#shorts #ronaldo #messi ...
+welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
 
-📺 FootyToons AI
+📺 Fads
 
-👁️ 34K • 💬 6 • ⏱️ 0:51 • 17h ago
+👁️ 116K • 👍 7K • 💬 1K • ⏱️ 19:40 • 12h ago
+
+---
+
+**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
+
+Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
+
+📺 Bigfoot Feed
+
+👁️ 30K • 👍 618 • 💬 16 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -377,7 +365,17 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 674K • 👍 28K • 💬 467 • ⏱️ 1:01 • 1d ago
+👁️ 848K • 👍 34K • 💬 558 • ⏱️ 1:01 • 1d ago
+
+---
+
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 12K • 👍 239 • 💬 16 • ⏱️ 8:13 • 2d ago
 
 ---
 
@@ -393,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,224 • 12d ago
+⬇️ 352,314 • ❤️ 3,225 • 12d ago
 
 ---
 
@@ -441,7 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 362 • 2d ago
+⬇️ 10,633 • ❤️ 363 • 2d ago
 
 ---
 
@@ -453,7 +451,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 356 • 1d ago
+⬇️ 3,459 • ❤️ 359 • 1d ago
 
 ---
 
@@ -465,7 +463,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 350 • 3d ago
+⬇️ 6,796 • ❤️ 351 • 3d ago
 
 ---
 
@@ -671,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 167 • 2m ago
+⭐ 2.3k • 🔱 167 • 13m ago
 
 ---
 
@@ -721,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 828 • 🔱 79 • 14h ago
+⭐ 828 • 🔱 79 • 15h ago
 
 ---
 
@@ -741,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 757 • 🔱 60 • 17d ago
+⭐ 757 • 🔱 60 • 18d ago
 
 ---
 

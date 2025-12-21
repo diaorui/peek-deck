@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T08:49:45.321184+00:00'
+updated: '2025-12-21T09:00:48.713756+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 08:49 UTC  
+**Last Updated:** December 21, 2025 at 09:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.7%  
 **7d:** +1.1%  
 **30d:** +7.9%  
 **90d:** -28.2%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.44B
+**Market Cap:** $360.87B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.5%
 
 **All-Time Low:** $0.43
-+688808.7%
++690612.5%
 
 ---
 
@@ -154,7 +154,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -204,14 +204,6 @@ Decrypt • 2d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 1d ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
@@ -228,6 +220,14 @@ FXEmpire • 1d ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 8K • 👍 653 • 💬 179 • ⏱️ 35:41 • 8h ago
+👁️ 11K • 👍 761 • 💬 193 • ⏱️ 35:41 • 8h ago
 
 ---
 
@@ -248,27 +248,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 76 • 💬 77 • ⏱️ 11:26 • 18h ago
-
----
-
-**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
-
-Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
-
-📺 Ryan’s Money Lab
-
-👁️ 2K • 👍 109 • 💬 15 • ⏱️ 14:00 • 14h ago
-
----
-
-**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 17K • 👍 525 • 💬 59 • ⏱️ 16:54 • 2d ago
+👁️ 2K • 👍 76 • 💬 76 • ⏱️ 11:26 • 19h ago
 
 ---
 
@@ -278,7 +258,27 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 533 • 👍 29 • 💬 107 • ⏱️ 8:36 • 13h ago
+👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 13h ago
+
+---
+
+**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
+
+Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
+
+📺 Ryan’s Money Lab
+
+👁️ 3K • 👍 115 • 💬 16 • ⏱️ 14:00 • 14h ago
+
+---
+
+**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 531 • 💬 57 • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -288,37 +288,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 432 • 💬 12 • ⏱️ 21:53 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 21 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=08yYe0g1LNA)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 611 • 3h ago
-
----
-
-**[IT STARTED:SWIFT &amp; 30 Banks Officially Choose Ethereum (BMNR Targets $XXX)](https://www.youtube.com/watch?v=M5mvQO8X5eI)**
-
-BREAKING: It has officially started. SWIFT and over 30 global financial giants—including JPMorgan, Bank of America, BNP ...
-
-📺 CryptoStock Lab
-
-👁️ 1K • 👍 60 • 💬 91 • ⏱️ 14:59 • 14h ago
-
----
-
-**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 294 • 👍 18 • 💬 32 • ⏱️ 4:17 • 21h ago
+👁️ 12K • 👍 445 • 💬 12 • ⏱️ 21:53 • 1d ago
 
 ---
 
@@ -328,7 +298,37 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 528 • 💬 33 • ⏱️ 8:37 • 1d ago
+👁️ 18K • 👍 530 • 💬 33 • ⏱️ 8:37 • 1d ago
+
+---
+
+**[BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HtusFKeaU5s)**
+
+BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 297 • 💬 167 • ⏱️ 21:12 • 11h ago
+
+---
+
+**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 294 • 👍 18 • 💬 31 • ⏱️ 4:17 • 21h ago
+
+---
+
+**[BITCOIN: 90% Are About to Get Trapped! (warning) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=jZF1GMvdrds)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 12K • 👍 538 • 💬 34 • ⏱️ 14:36 • 20h ago
 
 ---
 
