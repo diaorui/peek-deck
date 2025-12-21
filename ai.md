@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T14:57:14.204164+00:00'
+updated: '2025-12-21T15:25:37.637191+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 14:57 UTC  
+**Last Updated:** December 21, 2025 at 15:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 1h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 2h ago
 
 ---
 
@@ -65,7 +65,23 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 18h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 19h ago
+
+---
+
+**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
+
+I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
+
+13m ago
+
+---
+
+**[Al Jazeera launches new integrative AI model, ‘The Core’ | Media News](https://www.reddit.com/r/artificial/comments/1ps773s/al_jazeera_launches_new_integrative_ai_model_the/)**
+
+Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
+
+🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 1h ago
 
 ---
 
@@ -77,11 +93,9 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
-**[Al Jazeera launches new integrative AI model, ‘The Core’ | Media News](https://www.reddit.com/r/artificial/comments/1ps773s/al_jazeera_launches_new_integrative_ai_model_the/)**
+**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
-
-🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 55m ago
+9h ago
 
 ---
 
@@ -89,13 +103,7 @@ Al Jazeera Media Network says initiative will shift role of AI 'from passive too
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-21h ago
-
----
-
-**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
-
-9h ago
+22h ago
 
 ---
 
@@ -107,14 +115,6 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 ---
 
-**[Gemini AI yielding sloppy code for Ubuntu development with new helper script](https://www.reddit.com/r/artificial/comments/1prsbba/gemini_ai_yielding_sloppy_code_for_ubuntu/)**
-
-A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 15h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,13 +123,15 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
-Politico • 1d ago
+As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+
+CNN • 7h ago
 
 ---
 
@@ -137,7 +139,7 @@ Politico • 1d ago
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -149,31 +151,35 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[What does Trump’s AI czar want?](https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump)**
+**[New York State Just Put Itself on a Legal Collision Course with Trump’s AI Policy](https://gizmodo.com/new-york-state-just-put-itself-on-a-legal-collision-course-with-trumps-ai-policy-2000702258)**
 
-David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
+Setting the stage for courtroom battles.
 
-Vox • 1h ago
-
----
-
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
-
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
-
-CNN • 6h ago
+Gizmodo • 1h ago
 
 ---
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqc0lCIJAN1cdDJQD4HEg-WEcMoUJ-eVtbxMyRmpM7sL1hM9Vq-j9Ier&gaa_ts=694808a0&gaa_sig=Ts_2Rku3v7VeYzbr8dhQnMaDVKeQdpOEa_LFMYG6e23B5vN-u4jl2srRXRXy03PyrMJSwET0bLoRrORhJUuBIw%3D%3D)**
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdkksC8hfDBz-7G22WanEhQuwj7hMWP9nOqmCEpZ3XyKbRogrTc3881&gaa_ts=694814d5&gaa_sig=8o3UNMMbHU6cX5kcODklceDJPRK_UtVgaHQcjCZ6IXdofAyYFB297tL8dM6MQ79BC3_lRxs2A1qpp9z42Lh9Rw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 1d ago
+
+---
+
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -182,14 +188,6 @@ Axios • 17h ago
 Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
 Fortune • 2d ago
-
----
-
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
-
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-BBC • 1d ago
 
 ---
 
@@ -205,7 +203,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 574 • 💬 539 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 576 • 💬 539 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -213,7 +211,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 486 • 💬 433 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 487 • 💬 436 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -221,19 +219,19 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 466 • 💬 596 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 467 • 💬 596 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 218 • 💬 323 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 221 • 💬 323 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 173 • 💬 111 • 10h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 183 • 💬 121 • 11h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -253,11 +251,11 @@ Timeline & Responsible Disclosure
 
 ---
 
-**[Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://news.ycombinator.com/item?id=46313266)**
+**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
 
-The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
+The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 121 • 💬 152 • 3d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+⬆️ 122 • 💬 281 • 8h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -265,15 +263,13 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 116 • 💬 46 • 18h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 117 • 💬 47 • 18h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
-**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
+**[Using AI Generated Code Will Make You a Bad Programmer](https://news.ycombinator.com/item?id=46327124)**
 
-The Indie Game Awards presented the award last night, only to strip it hours later.
-
-⬆️ 112 • 💬 244 • 7h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 90 • 💬 176 • 1d ago • [unsolicited-opinions.rudism.com](https://unsolicited-opinions.rudism.com/bad-programmer/)
 
 ---
 
@@ -287,7 +283,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 87K • 👍 2K • 💬 732 • ⏱️ 15:25 • 19h ago
+👁️ 87K • 👍 2K • 💬 732 • ⏱️ 15:25 • 20h ago
 
 ---
 
@@ -337,7 +333,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 336K • 👍 20K • 💬 2K • ⏱️ 5:52 • 2d ago
+👁️ 336K • 👍 20K • 💬 2K • ⏱️ 5:52 • 3d ago
 
 ---
 
@@ -375,7 +371,7 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Etymology Nerd
 
-👁️ 845K • 👍 35K • 💬 731 • ⏱️ 1:03 • 23h ago
+👁️ 845K • 👍 35K • 💬 731 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -391,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,238 • 12d ago
+⬇️ 352,314 • ❤️ 3,240 • 12d ago
 
 ---
 
@@ -403,7 +399,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 408 • 1d ago
+⬇️ 74,165 • ❤️ 409 • 1d ago
 
 ---
 
@@ -415,7 +411,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 382 • 2d ago
+⬇️ 3,459 • ❤️ 387 • 2d ago
 
 ---
 
@@ -431,6 +427,18 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 10,633 • ❤️ 378 • 2d ago
+
+---
+
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -443,18 +451,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 10,633 • ❤️ 373 • 2d ago
-
----
-
 **[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
 
 *Xiaomi MiMo*
@@ -463,7 +459,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 358 • 3d ago
+⬇️ 6,796 • ❤️ 361 • 3d ago
 
 ---
 
@@ -475,7 +471,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 308 • 5d ago
+⬇️ 0 • ❤️ 310 • 5d ago
 
 ---
 
@@ -487,7 +483,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 307 • 4d ago
+⬇️ 0 • ❤️ 308 • 4d ago
 
 ---
 
@@ -669,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 170 • 5h ago
+⭐ 2.3k • 🔱 170 • 6h ago
 
 ---
 
@@ -709,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 844 • 🔱 136 • 22h ago
+⭐ 844 • 🔱 136 • 23h ago
 
 ---
 
@@ -729,7 +725,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 802 • 🔱 119 • 3d ago
+⭐ 802 • 🔱 119 • 4d ago
 
 ---
 
