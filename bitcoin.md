@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T17:36:26.965087+00:00'
+updated: '2025-12-21T17:47:38.979721+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 17:36 UTC  
+**Last Updated:** December 21, 2025 at 17:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -20.9%  
-**1y:** -7.0%  
+**24h:** +0.1%  
+**7d:** +2.0%  
+**30d:** +4.2%  
+**90d:** -21.2%  
+**1y:** -7.3%  
 
 ---
 
@@ -127,7 +127,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[How it started vs how it’s ending: Bitcoin skeptics vs reality”](https://www.reddit.com/r/Bitcoin/comments/1ps5n51/how_it_started_vs_how_its_ending_bitcoin_skeptics/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -215,7 +215,7 @@ TradingView — Track All Markets • 4h ago
 
 This dip is an opportunity to think about what matters most with this asset.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -293,53 +293,23 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
-**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
-
-Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 153 • ⏱️ 14:31 • 1d ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 44K • 👍 2K • 💬 212 • ⏱️ 44:14 • 2d ago
-
----
-
 **[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
 
 Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 227 • 💬 110 • ⏱️ 55:13 • 3h ago
+👁️ 5K • 👍 457 • 💬 178 • ⏱️ 55:13 • 3h ago
 
 ---
 
-**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
+**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
 
-My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
+Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 43K • 👍 2K • 💬 121 • ⏱️ 13:47 • 1d ago
-
----
-
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
-
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
-
-📺 Swan Bitcoin
-
-👁️ 56K • 👍 2K • 💬 170 • ⏱️ 16:50 • 2d ago
+👁️ 27K • 👍 2K • 💬 148 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -349,7 +319,27 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 450 • ⏱️ 8:54 • 10h ago
+👁️ 29K • 👍 2K • 💬 515 • ⏱️ 8:54 • 10h ago
+
+---
+
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 45K • 👍 2K • 💬 214 • ⏱️ 44:14 • 2d ago
+
+---
+
+**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
+
+My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 44K • 👍 2K • 💬 124 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -359,27 +349,17 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 2K • 💬 101 • ⏱️ 46:11 • 1d ago
+👁️ 51K • 👍 3K • 💬 101 • ⏱️ 46:11 • 1d ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
 
-It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
 
-📺 Benjamin Cowen
+📺 Swan Bitcoin
 
-👁️ 88K • 👍 5K • 💬 297 • ⏱️ 18:06 • 2d ago
-
----
-
-**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
-
-CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
-
-📺 Craigslist Hunter
-
-👁️ 48K • 👍 2K • 💬 250 • ⏱️ 2:15 • 2d ago
+👁️ 56K • 👍 3K • 💬 170 • ⏱️ 16:50 • 2d ago
 
 ---
 
@@ -389,7 +369,27 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 25K • 👍 2K • 💬 343 • ⏱️ 8:31 • 2d ago
+👁️ 25K • 👍 2K • 💬 345 • ⏱️ 8:31 • 2d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
+
+It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
+
+📺 Benjamin Cowen
+
+👁️ 89K • 👍 5K • 💬 297 • ⏱️ 18:06 • 2d ago
+
+---
+
+**[Inflation Drops to 2.7% | Bitcoin, Altcoins, Stocks](https://www.youtube.com/watch?v=w1dJjaF1g9g)**
+
+Let's talk about the current CPI (inflation) report and how it may affect risk assets like Bitcoin, Altcoins, and Stocks. Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 54K • 👍 3K • 💬 190 • ⏱️ 29:15 • 19h ago
 
 ---
 

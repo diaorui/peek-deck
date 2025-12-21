@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T17:36:26.956605+00:00'
+updated: '2025-12-21T17:47:38.970817+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 17:36 UTC  
+**Last Updated:** December 21, 2025 at 17:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ Al Jazeera Media Network says initiative will shift role of AI 'from passive too
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -281,7 +281,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 89K • 👍 3K • 💬 770 • ⏱️ 15:25 • 22h ago
+👁️ 91K • 👍 3K • 💬 796 • ⏱️ 15:25 • 22h ago
 
 ---
 
@@ -291,7 +291,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 157K • 👍 8K • 💬 2K • ⏱️ 19:40 • 20h ago
+👁️ 167K • 👍 9K • 💬 2K • ⏱️ 19:40 • 20h ago
 
 ---
 
@@ -301,7 +301,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 45K • 👍 3K • 💬 185 • ⏱️ 37:38 • 1d ago
+👁️ 48K • 👍 3K • 💬 185 • ⏱️ 37:38 • 1d ago
 
 ---
 
@@ -311,7 +311,17 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 337K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 344K • 👍 10K • 💬 1K • ⏱️ 15:39 • 1d ago
+
+---
+
+**[How AI has transformed in 2025](https://www.youtube.com/watch?v=bL7Rrd7N5Ho)**
+
+Artificial intelligence has impacted industries and people around the world this year, from producing music to relationships.
+
+📺 CBS Mornings
+
+👁️ 719 • 👍 32 • 💬 3 • ⏱️ 1:03:20 • 4h ago
 
 ---
 
@@ -321,43 +331,27 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 1.4M • 👍 60K • 💬 895 • ⏱️ 1:01 • 2d ago
+👁️ 1.7M • 👍 71K • 💬 1K • ⏱️ 1:01 • 2d ago
 
 ---
 
-**[DON’T DATE AI!](https://www.youtube.com/watch?v=niHbG9ICHr4)**
+**[The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai](https://www.youtube.com/watch?v=2FHcEsGAaFg)**
 
-📺 LOL Podcast 
+The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai#shorts #ronaldo #messi ...
 
-👁️ 68K • 👍 3K • 💬 102 • ⏱️ 1:13 • 1d ago
+📺 FootyToons AI
 
----
-
-**[The problem with Chinese AI](https://www.youtube.com/watch?v=fMEFW8z_C8s)**
-
-📺 Etymology Nerd
-
-👁️ 890K • 👍 36K • 💬 751 • ⏱️ 1:03 • 1d ago
+👁️ 311K • 💬 18 • ⏱️ 0:51 • 1d ago
 
 ---
 
-**[Monopolizing to gain full control of the AI market 🤖📈🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=UEVtmedaPbw)**
+**[Is the AI Bubble About to Burst? | Henrik Zeberg | TED](https://www.youtube.com/watch?v=pp8vdZdNl2A)**
 
-Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+We are living through what may be the largest economic bubble in history, spanning AI, cryptocurrency and tech company stocks, ...
 
-📺 Gianmarco Soresi
+📺 TED
 
-👁️ 112K • 👍 5K • 💬 147 • ⏱️ 0:56 • 1d ago
-
----
-
-**[Mojang&#39;s AI Bot has officially gone crazy.](https://www.youtube.com/watch?v=88Mp1uMMmzg)**
-
-https://minecraft.wiki/w/Minecraft_Support_Virtual_Agent#/media/File:WorkshopTextureAtlas.png *It seems like they haven't ...
-
-📺 Phoenix SC
-
-👁️ 639K • 👍 37K • 💬 2K • ⏱️ 5:02 • 2d ago
+👁️ 42K • 👍 806 • 💬 95 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -367,7 +361,17 @@ Sam Altman is the CEO of OpenAI. Altman joins Big Technology Podcast to discuss 
 
 📺 Alex Kantrowitz
 
-👁️ 90K • 👍 5K • 💬 617 • ⏱️ 58:23 • 2d ago
+👁️ 92K • 👍 5K • 💬 628 • ⏱️ 58:23 • 2d ago
+
+---
+
+**[Natasha Cheated Poor Hulk! Hulk Revenge#hulk #ai #shorts](https://www.youtube.com/watch?v=5bLvKQ3DyL4)**
+
+hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​ #sadstory​ #emotional​ #plotwist​ #shockending​ ...
+
+📺 Z Jung
+
+👁️ 13K • ⏱️ 0:59 • 4h ago
 
 ---
 
@@ -661,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 170 • 43m ago
+⭐ 2.3k • 🔱 170 • 54m ago
 
 ---
 

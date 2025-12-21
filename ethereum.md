@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T17:36:26.971137+00:00'
+updated: '2025-12-21T17:47:38.986232+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 17:36 UTC  
+**Last Updated:** December 21, 2025 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +0.5%  
-**30d:** +7.3%  
-**90d:** -28.6%  
-**1y:** -9.0%  
+**24h:** +0.3%  
+**7d:** +0.7%  
+**30d:** +7.6%  
+**90d:** -28.5%  
+**1y:** -8.8%  
 
 ---
 
@@ -94,7 +94,7 @@ I was recently threatened with a ban for mentioning one thing I think is neglect
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-20h ago
+21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 3K • 👍 319 • 💬 338 • ⏱️ 11:34 • 4h ago
+👁️ 5K • 👍 440 • 💬 320 • ⏱️ 11:34 • 4h ago
 
 ---
 
@@ -248,17 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 321 • 👍 39 • 💬 2 • ⏱️ 4:12 • 2h ago
-
----
-
-**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
-
-In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 84 • 💬 92 • ⏱️ 11:26 • 1d ago
+👁️ 843 • 👍 88 • 💬 6 • ⏱️ 4:12 • 2h ago
 
 ---
 
@@ -268,7 +258,37 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 15K • 👍 1K • 💬 247 • ⏱️ 35:41 • 17h ago
+👁️ 17K • 👍 1K • 💬 249 • ⏱️ 35:41 • 17h ago
+
+---
+
+**[Ethereum Is Approaching a Key Level — Big Move Coming?](https://www.youtube.com/watch?v=35KwTlk-t70)**
+
+Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/AcpwbgTMYc TELEGRAM ...
+
+📺 Crypto Cobra
+
+👁️ 165 • 👍 22 • 💬 9 • ⏱️ 14:27 • 26m ago
+
+---
+
+**[WILL ETH BREAKOUT NEXT WEEK?🔥 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=b_vOMteFZts)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 261 • 👍 16 • 💬 1 • ⏱️ 5:02 • 7h ago
+
+---
+
+**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
+
+In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
+
+📺 Milk Road
+
+👁️ 3K • 👍 84 • 💬 86 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -278,37 +298,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 482 • 💬 12 • ⏱️ 21:53 • 2d ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 539 • 💬 34 • ⏱️ 8:37 • 2d ago
-
----
-
-**[BMNR Stock &amp; ETH Technical Analysis Prediction | Tom Lee’s BitMine Set For Monster Q1 Move!](https://www.youtube.com/watch?v=-DWATwifb1Y)**
-
-ethereum #bmnr #bitcoin In this video, I break down why BMNR stock and Ethereum are setting up for a major move into January ...
-
-📺 alliseeisW 
-
-👁️ 1K • 👍 73 • 💬 104 • ⏱️ 9:51 • 21h ago
-
----
-
-**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 756 • 👍 34 • 💬 127 • ⏱️ 8:36 • 22h ago
+👁️ 14K • 👍 502 • 💬 13 • ⏱️ 21:53 • 2d ago
 
 ---
 
@@ -318,17 +308,27 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 129 • 💬 16 • ⏱️ 14:00 • 23h ago
+👁️ 3K • 👍 140 • 💬 17 • ⏱️ 14:00 • 23h ago
 
 ---
 
-**[BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HtusFKeaU5s)**
+**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
 
-BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Crypto World
+📺 C-Zar Gets Crypto 
 
-👁️ 8K • 👍 346 • 💬 216 • ⏱️ 21:12 • 20h ago
+👁️ 796 • 👍 34 • 💬 119 • ⏱️ 8:36 • 22h ago
+
+---
+
+**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
+
+This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 542 • 💬 34 • ⏱️ 8:37 • 2d ago
 
 ---
 
