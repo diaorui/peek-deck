@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T23:30:44.568569+00:00'
+updated: '2025-12-21T23:44:43.825451+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 23:30 UTC  
+**Last Updated:** December 21, 2025 at 23:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Realbotix XBOTF Humanoides : les plus sous-estimés ! Ignorés par les grands noms, mais dans la poche d'Arthur Hayes.](https://www.reddit.com/r/robotics/comments/1psdlw1/realbotix_xbotf_humanoides_les_plus_sousestimés/)**
 
-4h ago
+5h ago
 
 ---
 

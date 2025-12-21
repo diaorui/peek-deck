@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T23:30:44.558720+00:00'
+updated: '2025-12-21T23:44:43.816167+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 23:30 UTC  
+**Last Updated:** December 21, 2025 at 23:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -21.0%  
-**1y:** -7.0%  
+**24h:** +0.3%  
+**7d:** +2.5%  
+**30d:** +4.7%  
+**90d:** -20.8%  
+**1y:** -6.8%  
 
 ---
 
@@ -101,7 +101,7 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-9h ago
+10h ago
 
 ---
 
@@ -165,7 +165,7 @@ Nasdaq • 11h ago
 
 Michael Saylor wants to buy additional Bitcoin for Strategy (formerly MicroStrategy) despite a sharp decline in the company’s stock.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 2d ago
 
 CryptoQuant said onchain and derivatives indicators show a bitcoin bear market has begun, with downside reference levels around $70,000 and potentially $56,000 if weakness persists.
 
-Bitbo • 9h ago
+Bitbo • 10h ago
 
 ---
 
@@ -339,7 +339,7 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 2K • 👍 148 • 💬 38 • ⏱️ 12:58 • 6h ago
+👁️ 2K • 👍 148 • 💬 38 • ⏱️ 12:58 • 7h ago
 
 ---
 
@@ -349,7 +349,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 133 • ⏱️ 13:47 • 1d ago
+👁️ 46K • 👍 2K • 💬 133 • ⏱️ 13:47 • 2d ago
 
 ---
 

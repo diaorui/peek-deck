@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T23:30:44.565193+00:00'
+updated: '2025-12-21T23:44:43.822186+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 23:30 UTC  
+**Last Updated:** December 21, 2025 at 23:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.0%  
-**30d:** +7.9%  
-**90d:** -28.3%  
-**1y:** -8.6%  
+**24h:** +0.9%  
+**7d:** +1.3%  
+**30d:** +8.2%  
+**90d:** -28.1%  
+**1y:** -8.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Hi everyone, about two weeks ago my wallet was drained for over $840k, it is my life savings and I’m actually devastated. I’ve been trying all I can with onchain investigators to freeze CEX/recover anything but no result so far… My hacker is using TornadoCash and GoblinSwap / ChangeNOW to make it untraceable/buy monero (anonymous currency) is there really no way to freeze it? Before you ask me: No, I do not know how this happened, I always was very cautious and do not really know how it happened, here is my wallet address : 0xb977bf608C834Bf2c60675dE9ba12A2806960613
 
-1h ago
+2h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 1K • 👍 142 • 💬 17 • ⏱️ 16:57 • 2h ago
+👁️ 1K • 👍 142 • 💬 17 • ⏱️ 16:57 • 3h ago
 
 ---
 
