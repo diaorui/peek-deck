@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-20T23:56:47.807321+00:00'
+updated: '2025-12-21T02:06:42.396079+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 23:56 UTC  
+**Last Updated:** December 21, 2025 at 02:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -2.9%  
-**30d:** +7.6%  
-**90d:** -29.1%  
-**1y:** -10.9%  
+**24h:** -0.6%  
+**7d:** +0.3%  
+**30d:** +7.1%  
+**90d:** -28.8%  
+**1y:** -9.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.19B
+**Market Cap:** $358.03B
 Rank #2
 
-**Circulating Supply:** 120,695,016 ETH
+**Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.9%
 
 **All-Time Low:** $0.43
-+687302.9%
++686349.0%
 
 ---
 
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
-
----
-
-**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
-
-3h ago
+20h ago
 
 ---
 
@@ -86,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-3h ago
+5h ago
+
+---
+
+**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
+
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 3h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 6h ago
 
 ---
 
@@ -148,25 +148,19 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 ## Google News: "ethereum"
 
+**[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
+
+The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
+
+CoinDesk • 7h ago
+
+---
+
 **[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-AMBCrypto • 22h ago
-
----
-
-**[Not Bitcoin or Ethereum - These 5 are the top best performing cryptos in 2025](https://www.livemint.com/market/cryptocurrency/not-bitcoin-or-ethereum-these-5-are-the-top-best-performing-cryptos-in-2025-11766216526786.html)**
-
-Bitcoin is down 7.96% year-to-date, trading at $86,065 as of December 18 after beginning the year at $93,508. In comparison, Ethereum has recorded a steeper decline of 15.25% YTD, with its price falling from $3,337 to $2,828 during the same timeframe.
-
-livemint.com • 11h ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 1d ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -178,27 +172,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 1d ago
+
+---
+
+**[Major Ethereum Metric Just Hit A New All-Time High – Can Price Reclaim $3,000?](https://www.tradingview.com/news/newsbtc:0c5a67f85094b:0-major-ethereum-metric-just-hit-a-new-all-time-high-can-price-reclaim-3-000/)**
+
+Ethereum’s derivatives market is showing signs of a decisive shift beneath the surface, and price action is about to return above the $3,000 mark. On-chain data suggests trader behavior on major exchanges is shifting into a more accumulative phase.Even as ETH continues to linger below the psycholog…
+
+TradingView — Track All Markets • 3h ago
+
+---
+
 **[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
 
 Decrypt • 2d ago
-
----
-
-**[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
-
-The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
-
-CoinDesk • 4h ago
-
----
-
-**[Ethereum Traders Chase Upside With Historic Leverage – Breakout Fuel Or Fragile Setup?](https://www.tradingview.com/news/newsbtc:1c54f2933094b:0-ethereum-traders-chase-upside-with-historic-leverage-breakout-fuel-or-fragile-setup/)**
-
-Ethereum has been struggling to regain traction below the $3,000 level since Monday, with repeated rejection attempts reinforcing a fragile market structure. Bulls continue to lose ground as upside momentum fades, while sentiment across the market remains dominated by apathy and underlying fear.Tra…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -218,9 +210,19 @@ FXEmpire • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop Further. Why Cryptos Aren’t Following Gold’s Risk Ramp.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-gold-693455fd?gaa_at=eafs&gaa_n=AWEtsqe-0o7pu-fyMZQMSQ3kewQHF82s-WmLT0gPvOV63EDkCUW1ru186rBO&gaa_ts=69473b2b&gaa_sig=YcuDVJdbAcegiN9p7AqDdoNcQ45IjxO0YIvd2_jH5IXyIbAjD18hL2OXd4DMSVv8IpBqyVJzequW4P9CV_e-PQ%3D%3D)**
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
 
-Barron's • 3d ago
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
+
+Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
+
+ZyCrypto • 5h ago
 
 ---
 
@@ -228,31 +230,33 @@ Barron's • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 287 • 👍 21 • 💬 63 • ⏱️ 8:36 • 4h ago
-
----
-
 **[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
 
 In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 62 • 💬 61 • ⏱️ 11:26 • 9h ago
+👁️ 2K • 👍 69 • 💬 27 • ⏱️ 11:26 • 12h ago
 
 ---
 
-**[INSANE SOLANA AND ETHEREUM RUMORS EXPLAINED #crypto #cryptocurrency #solana #ethereum](https://www.youtube.com/watch?v=j32Z1lf-Je4)**
+**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
 
-📺 CryptoWendyO
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
-👁️ 1K • 👍 124 • 💬 5 • ⏱️ 1:58 • 1h ago
+📺 Tevis
+
+👁️ 2K • 👍 231 • 💬 45 • ⏱️ 35:41 • 1h ago
+
+---
+
+**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 419 • 👍 27 • 💬 50 • ⏱️ 8:36 • 6h ago
 
 ---
 
@@ -262,47 +266,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 953 • 👍 61 • 💬 8 • ⏱️ 14:00 • 5h ago
-
----
-
-**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 221 • 👍 17 • 💬 62 • ⏱️ 4:17 • 12h ago
-
----
-
-**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 11K • 👍 402 • 💬 32 • ⏱️ 21:53 • 1d ago
-
----
-
-**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 514 • 💬 58 • ⏱️ 16:54 • 2d ago
-
----
-
-**[BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HtusFKeaU5s)**
-
-BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 140 • 💬 141 • ⏱️ 21:12 • 2h ago
+👁️ 2K • 👍 90 • 💬 12 • ⏱️ 14:00 • 7h ago
 
 ---
 
@@ -312,7 +276,47 @@ BREAKING: It has officially started. SWIFT and over 30 global financial giants�
 
 📺 CryptoStock Lab
 
-👁️ 609 • 👍 38 • 💬 53 • ⏱️ 14:59 • 5h ago
+👁️ 1K • 👍 50 • 💬 42 • ⏱️ 14:59 • 7h ago
+
+---
+
+**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 11K • 👍 412 • 💬 19 • ⏱️ 21:53 • 1d ago
+
+---
+
+**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 520 • 💬 59 • ⏱️ 16:54 • 2d ago
+
+---
+
+**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 235 • 👍 17 • 💬 28 • ⏱️ 4:17 • 14h ago
+
+---
+
+**[BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HtusFKeaU5s)**
+
+BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 220 • 💬 127 • ⏱️ 21:12 • 4h ago
 
 ---
 
@@ -322,7 +326,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 523 • 💬 29 • ⏱️ 8:37 • 1d ago
+👁️ 17K • 👍 526 • 💬 29 • ⏱️ 8:37 • 1d ago
 
 ---
 

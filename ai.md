@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-20T23:56:47.793048+00:00'
+updated: '2025-12-21T02:06:42.381352+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 20, 2025 at 23:56 UTC  
+**Last Updated:** December 21, 2025 at 02:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 3h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 5h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-6h ago
+8h ago
 
 ---
 
@@ -65,7 +65,15 @@ A company is not just a collection of people. It is a collection of people doing
 
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
-🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 22h ago
+🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1d ago
+
+---
+
+**[Can we talk philosophy for a min? I can't be the only one who feels this way.](https://www.reddit.com/r/artificial/comments/1prsxnl/can_we_talk_philosophy_for_a_min_i_cant_be_the/)**
+
+OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
+
+1h ago
 
 ---
 
@@ -73,7 +81,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-4h ago
+6h ago
 
 ---
 
@@ -81,7 +89,15 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 4m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 2h ago
+
+---
+
+**[Don't judge a Word by it's pronunciation.](https://www.reddit.com/r/artificial/comments/1prujwi/dont_judge_a_word_by_its_pronunciation/)**
+
+The Core Idea A sentence’s category is not about the sentence itself. It’s about how people use it. Time + repetition + context = category shift. One Sentence, One Timeline Sentence: “Knowledge is power.” Aphorism (Birth) Coined deliberately (Francis Bacon) New, sharp, intellectual Makes you stop and think ➡ A crafted insight Maxim (Adopted) Used as guidance for behavior Encourages learning, education, literacy ➡ A rule to live by Proverb (Popularized) Spreads beyond its author Becomes common wisdom ➡ General truth everyone “knows” Adage (Aged) Decades or centuries pass The saying feels old and established ➡ Wisdom because it has lasted Cliché (Overused) Repeated in speeches, posters, ads Predictable, low-impact ➡ You hear it coming before it’s said Platitude (Hollowed) Used vaguely, without action or depth Sounds wise but adds nothing ➡ Comforting noise (Optional) Idiom-like Use Sometimes treated as shorthand for “Education matters” without literal force Meaning becomes automatic rather than thoughtful ➡ Functionally idiomatic, though not a true idiom What Actually Changed? Thing Changed? Words ❌ No Meaning ⚠ Slightly Impact ✅ Yes Thought required ❌ Decreases Cultural saturation ✅ Increases One-Sentence Rule to Remember A sentence becomes a cliché or platitude not because it’s wrong, but because it’s no longer doing cognitive work.
+
+22m ago
 
 ---
 
@@ -89,7 +105,7 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-8h ago
+10h ago
 
 ---
 
@@ -97,23 +113,7 @@ Right now AI can already create photos, videos, music, or even apps (Google AI s
 
 Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
 
-18h ago
-
----
-
-**[Facing this issue with Gemini Pro for two days now.](https://www.reddit.com/r/artificial/comments/1pr3pam/facing_this_issue_with_gemini_pro_for_two_days_now/)**
-
-When i type something in my gemini type box and hit enter “something went wrong. Please try again later” popup appears. I uninstalled it again installed. Still same issue. Can someone help?
-
-21h ago
-
----
-
-**[Gemini Flash hallucinates 91% times, if it does not know answer](https://www.reddit.com/r/artificial/comments/1pqgofe/gemini_flash_hallucinates_91_times_if_it_does_not/)**
-
-Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscience Hallucination Rate benchmark!? Can you actually use this for anything serious? I wonder if the reason Anthropic models are so good at coding is that they hallucinate much less. Seems critical when you need precise, reliable output. AA-Omniscience Hallucination Rate (lower is better) measures how often the model answers incorrectly when it should have refused or admitted to not knowing the answer. It is defined as the proportion of incorrect answers out of all non-correct responses, i.e. incorrect / (incorrect + partial answers + not attempted). Notable Model Scores (from lowest to highest hallucination rate): Claude 4.5 Haiku: 26% Claude 4.5 Sonnet: 48% GPT-5.1 (high): 51% Claude 4.5 Opus: 58% Grok 4.1: 64% DeepSeek V3.2: 82% Llama 4 Maverick: 88% Gemini 2.5 Flash (Sep): 88% Gemini 3 Flash: 91% (Highlighted) GLM-4.6: 93% Credit: amix3k
-
-1d ago
+20h ago
 
 ---
 
@@ -121,25 +121,19 @@ Gemini 3 Flash has a 91% hallucination rate on the Artificial Analysis Omniscien
 
 ## Google News: "ai"
 
-**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
-
-Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
-
-CNBC • 11h ago
-
----
-
 **[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
-BBC • 22h ago
+BBC • 1d ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
 
-Politico • 9h ago
+Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
+
+CNBC • 14h ago
 
 ---
 
@@ -147,7 +141,19 @@ Politico • 9h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 12h ago
+The New Yorker • 15h ago
+
+---
+
+**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+
+Axios • 4h ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 11h ago
 
 ---
 
@@ -155,13 +161,13 @@ The New Yorker • 12h ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 10h ago
+The Atlantic • 12h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqfR9ePHW5lnL_xrm3zE2xzxCEGp-lwGW9OENkwKrgSx_FOzpJOCUyVA&gaa_ts=69473b28&gaa_sig=WkWuSzS_tUKBjhMdFlNjShA8YFF2H2IveP0bI8vbLn8EwQYyAEchl0mGo3A0PNGo1wJtIjsCdyK0lAn4K7WObg%3D%3D)**
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqcQ5VICQoZ0xqvpw3q10XLMaTTO53p6wKj_43M4zZnjoOYy0AIVMsGt&gaa_ts=6947599c&gaa_sig=Xaa2HmbDmd2MYCN8uGMpu1bYesj3r6gIUBviT1MC1C9lTDeCrYpG0fTiPFqr-e7uUsCZhLUtIbVUGhHLOTefnA%3D%3D)**
 
-wsj.com • 19h ago
+wsj.com • 21h ago
 
 ---
 
@@ -171,23 +177,17 @@ Politico • 1d ago
 
 ---
 
-**[Hochul Reaches Deal on A.I. Regulation in New York](https://www.nytimes.com/2025/12/19/nyregion/ai-bill-regulations-ny.html)**
+**[Governor Hochul signs New York's AI safety act](https://www.engadget.com/ai/governor-hochul-signs-new-yorks-ai-safety-act-220503930.html)**
 
-The New York Times • 21h ago
+The RAISE Act requires large AI developers  to be more transparent about their safety protocols and incidents.
 
----
-
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 9h ago
+Engadget • 4h ago
 
 ---
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 11h ago
+The New York Times • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 564 • 💬 530 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 565 • 💬 532 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -211,7 +211,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 463 • 💬 590 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 464 • 💬 591 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -219,7 +219,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 429 • 💬 379 • 15h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 440 • 💬 392 • 17h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -233,7 +233,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 187 • 💬 288 • 14h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 194 • 💬 302 • 16h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -253,17 +253,17 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
-
-⬆️ 120 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
-
----
-
 **[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
 
 Timeline & Responsible Disclosure
 
-⬆️ 120 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 121 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+
+---
+
+**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
+
+⬆️ 120 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
 
 ---
 
@@ -277,13 +277,23 @@ Timeline & Responsible Disclosure
 
 ## YouTube Videos: "ai"
 
+**[I Asked AI To Predict The 2028 Election Map... The Results Were SHOCKING](https://www.youtube.com/watch?v=BQOhV8rGyZI)**
+
+Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com/@election.time *Discord Server* ...
+
+📺 Election Time
+
+👁️ 24K • 👍 1K • 💬 385 • ⏱️ 15:25 • 7h ago
+
+---
+
 **[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
 
 Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
 
 📺 Future of Life Institute
 
-👁️ 21K • 👍 794 • 💬 322 • ⏱️ 16:15 • 2d ago
+👁️ 21K • 👍 799 • 💬 324 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -293,37 +303,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 26K • 👍 1K • 💬 149 • ⏱️ 37:38 • 9h ago
-
----
-
-**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
-
-Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
-
-📺 SSSniperWolf
-
-👁️ 284K • 👍 8K • 💬 1K • ⏱️ 15:39 • 1d ago
-
----
-
-**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
-
-AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
-
-📺 The Diary Of A CEO
-
-👁️ 720K • 👍 17K • 💬 3K • ⏱️ 1:39:47 • 2d ago
-
----
-
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 263K • 👍 16K • 💬 2K • ⏱️ 5:52 • 2d ago
+👁️ 31K • 👍 1K • 💬 151 • ⏱️ 37:38 • 12h ago
 
 ---
 
@@ -333,17 +313,37 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 208K • 👍 13K • 💬 2K • ⏱️ 17:08 • 1d ago
+👁️ 218K • 👍 13K • 💬 2K • ⏱️ 17:08 • 1d ago
 
 ---
 
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=bB94kfyjO3w)**
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
 
-Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/bB94kfyjO3w Step into a world ...
+Are we watching an AI revolution, or a slow-motion economic disaster?
 
-📺 Satisfy Hub ASMR
+📺 Robert Reich
 
-👁️ 2.0M • 👍 6K • 💬 117 • ⏱️ 8:07 • 2d ago
+👁️ 280K • 👍 17K • 💬 2K • ⏱️ 5:52 • 2d ago
+
+---
+
+**[Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won&#39;t Exist in 24 Months!](https://www.youtube.com/watch?v=zQ1POHiR8m8)**
+
+AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, killer robots, and cyber crime, and how we ...
+
+📺 The Diary Of A CEO
+
+👁️ 730K • 👍 17K • 💬 3K • ⏱️ 1:39:47 • 2d ago
+
+---
+
+**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
+
+Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
+
+📺 SSSniperWolf
+
+👁️ 297K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
@@ -353,27 +353,27 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 102K • 👍 8K • 💬 160 • ⏱️ 1:01 • 1d ago
+👁️ 331K • 👍 15K • 💬 277 • ⏱️ 1:01 • 1d ago
 
 ---
 
-**[Amazon Fired Their AI Chief. Here&#39;s Why It Took So Long (Plus 5 Newsworthy Moments in AI This Week)](https://www.youtube.com/watch?v=EaMz3g1OYPA)**
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=bB94kfyjO3w)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/bB94kfyjO3w Step into a world ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Satisfy Hub ASMR
 
-👁️ 5K • 👍 296 • 💬 32 • ⏱️ 10:32 • 7h ago
+👁️ 2.0M • 👍 6K • 💬 119 • ⏱️ 8:07 • 2d ago
 
 ---
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=x48NRoBMAaE)**
+**[2026 Predictions: AI Automates Knowledge Work, Autonomous Robots &amp; AI CEO Billionaires | EP #217](https://www.youtube.com/watch?v=NHAzpG95ptI)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
 
-📺 Julian Goldie SEO
+📺 Peter H. Diamandis
 
-👁️ 12K • 👍 238 • 💬 15 • ⏱️ 8:13 • 1d ago
+👁️ 76K • 👍 3K • 💬 554 • ⏱️ 1:09:11 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,190 • 12d ago
+⬇️ 341,530 • ❤️ 3,196 • 12d ago
 
 ---
 
@@ -401,7 +401,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 399 • 1d ago
+⬇️ 71,413 • ❤️ 400 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 363 • 2d ago
+⬇️ 2,937 • ❤️ 364 • 2d ago
 
 ---
 
@@ -425,7 +425,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 346 • 6d ago
+⬇️ 4,050 • ❤️ 353 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 343 • 2d ago
+⬇️ 6,881 • ❤️ 347 • 2d ago
 
 ---
 
@@ -449,7 +449,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 339 • 2d ago
+⬇️ 6,103 • ❤️ 340 • 2d ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 307 • 1d ago
+⬇️ 1,067 • ❤️ 313 • 1d ago
 
 ---
 
@@ -473,7 +473,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 300 • 5d ago
+⬇️ 0 • ❤️ 301 • 5d ago
 
 ---
 
@@ -485,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 283 • 3d ago
+⬇️ 0 • ❤️ 285 • 3d ago
 
 ---
 
@@ -513,7 +513,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 7 • 💬 2 • ⭐ 4,177 • 9d ago
+▲ 7 • 💬 2 • ⭐ 4,267 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -537,7 +537,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 60 • 💬 3 • ⭐ 581 • 4d ago
+▲ 60 • 💬 3 • ⭐ 587 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -551,7 +551,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 134 • 💬 6 • ⭐ 18,711 • 3mo ago
+▲ 134 • 💬 6 • ⭐ 18,721 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -564,7 +564,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 118 • 💬 18 • ⭐ 47,315 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,315 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -610,20 +610,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[Step-GUI Technical Report](https://huggingface.co/papers/2512.15431)**
-
-*Haolong Yan, Jia Wang, Xin Huang et al. (97 authors)*
-
-🏢 StepFun
-
-A self-evolving training pipeline with the Calibrated Step Reward System and GUI-MCP protocol improve GUI automation efficiency, accuracy, and privacy in real-world scenarios.
-
-▲ 117 • 💬 3 • ⭐ 1,601 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.15431) • [💻 code](https://github.com/stepfun-ai/gelab-zero) • [🔗 project](https://opengelab.github.io/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -634,6 +620,19 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 26 • 💬 1 • ⭐ 65,829 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
+
+*Tongyi SpeechTeam*
+
+FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
+
+▲ 39 • 💬 1 • ⭐ 18,122 • 17mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
 
 ---
 
@@ -657,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 571 • 9h ago
+⭐ 5.2k • 🔱 576 • 11h ago
 
 ---
 
@@ -667,17 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 160 • 5h ago
-
----
-
-**[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)**
-
-🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[正在开发 Sidebar 高级功能，敬请期待]
-
-`JavaScript` `banana` `gemini` `prompt`
-
-⭐ 1.8k • 🔱 144 • 12d ago
+⭐ 2.2k • 🔱 160 • 8h ago
 
 ---
 
@@ -697,7 +686,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 922 • 🔱 43 • 2d ago
+⭐ 926 • 🔱 43 • 3d ago
 
 ---
 
@@ -707,17 +696,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 915 • 🔱 24 • 13d ago
-
----
-
-**[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)**
-
-Open Source Semantic Search for your AI Agent
-
-`TypeScript` `colbert` `embeddings` `grep` `grep-search`
-
-⭐ 883 • 🔱 50 • 5d ago
+⭐ 916 • 🔱 24 • 13d ago
 
 ---
 
@@ -727,7 +706,7 @@ Open Source Semantic Search for your AI Agent
 
 `JavaScript`
 
-⭐ 830 • 🔱 135 • 7h ago
+⭐ 831 • 🔱 135 • 9h ago
 
 ---
 
@@ -737,7 +716,27 @@ Open Source Semantic Search for your AI Agent
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 806 • 🔱 76 • 6h ago
+⭐ 809 • 🔱 76 • 8h ago
+
+---
+
+**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
+
+  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
+
+`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
+
+⭐ 800 • 🔱 118 • 3d ago
+
+---
+
+**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
+
+GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+
+`Python`
+
+⭐ 751 • 🔱 60 • 17d ago
 
 ---
 

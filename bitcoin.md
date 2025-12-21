@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-20T23:56:47.801418+00:00'
+updated: '2025-12-21T02:06:42.389935+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 20, 2025 at 23:56 UTC  
+**Last Updated:** December 21, 2025 at 02:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +0.1%  
-**30d:** +4.0%  
-**90d:** -21.6%  
-**1y:** -9.2%  
+**24h:** -0.2%  
+**7d:** +1.9%  
+**30d:** +4.1%  
+**90d:** -21.3%  
+**1y:** -7.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.81B
+**Market Cap:** $1756.93B
 Rank #1
 
-**Circulating Supply:** 19,964,878 BTC
+**Circulating Supply:** 19,964,903 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-30.2%
 
 **All-Time Low:** $67.81
-+130165.4%
++129751.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-4h ago
+7h ago
 
 ---
 
@@ -87,25 +87,19 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-6h ago
-
----
-
-**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
-
-9h ago
+8h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-2h ago
+4h ago
 
 ---
 
-**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
+**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-14h ago
+12h ago
 
 ---
 
@@ -113,7 +107,19 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-1h ago
+3h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
+
+2h ago
+
+---
+
+**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
+
+16h ago
 
 ---
 
@@ -121,55 +127,25 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
 
-6h ago
+8h ago
+
+---
+
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
+
+50m ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-15h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
-
-24m ago
-
----
-
-**[One Hell of a coin.](https://www.reddit.com/r/Bitcoin/comments/1pqqwqy/one_hell_of_a_coin/)**
-
-1d ago
+17h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin Is Doing Something Last Seen in 2014. Wall Street Analysts Say This Will Happen in 2026.](https://finance.yahoo.com/news/bitcoin-doing-something-last-seen-091500313.html)**
-
-A few Wall Street analysts expect Bitcoin to rocket to new highs in 2026, but history offers a more sobering outlook.
-
-Yahoo Finance • 2d ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
-
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
-
-The Motley Fool • 13h ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
-
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
-
-Nasdaq • 13h ago
-
----
 
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
 
@@ -179,25 +155,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
-This dip is an opportunity to think about what matters most with this asset.
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-Yahoo Finance • 1h ago
+The Motley Fool • 15h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdmGjZgYYFE68JA7rFq41DiF6QPQkCX7u04lcY4s-4Fa-01t1zBVE8r&gaa_ts=69473b2a&gaa_sig=bMlzW_Bj92QL-KroCiQWZUkKwOTKiKu0YV5041itVBYN6HdBdvQR9DzCX5kjb6gCsnGlFDAEm4L4WR-mqUMDPA%3D%3D)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+
+Nasdaq • 15h ago
+
+---
+
+**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
+
+CCN.com • 1d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqepXIHeh_tomx9PXyzWJNOmzPB-SnSzARqhvOIH5QQdZc-L_HRd0Nqp&gaa_ts=6947599d&gaa_sig=qzPoEvnmeQpDukgic0I39Wx3ljXHHK6Dniiczb0dxiHKFUWL_TptOuNFVpWDWuyUXUd2WAixTdVkxMIyKLMvDA%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Tom Lee responds to controversy surrounding Fundstrat’s differing bitcoin outlooks](https://www.coindesk.com/markets/2025/12/20/tom-lee-responds-as-x-debates-fundstrat-s-differing-bitcoin-outlooks)**
-
-Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
-
-CoinDesk • 2h ago
 
 ---
 
@@ -209,9 +191,17 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[‘Nothing Stops This Train’—2026 Fed U.S. Dollar ‘Destruction’ Warning, Predicted To Trigger $4 Trillion Bitcoin Price Boom](https://www.forbes.com/sites/digital-assets/2025/12/20/nothing-stops-this-train-2026-fed-us-dollar-destruction-warning-predicted-to-trigger-4-trillion-bitcoin-price-boom/)**
+**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
 
-Forbes • 10h ago
+Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
+
+CoinDesk • 7h ago
+
+---
+
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -219,7 +209,13 @@ Forbes • 10h ago
 
 Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
-Nasdaq • 5h ago
+Nasdaq • 7h ago
+
+---
+
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 1d ago
 
 ---
 
@@ -283,7 +279,17 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 995 • 💬 89 • ⏱️ 14:31 • 6h ago
+👁️ 16K • 👍 1K • 💬 93 • ⏱️ 14:31 • 9h ago
+
+---
+
+**[JAPANESE CRASHED BITCOIN! Bitcoin Heading To $75k?! Bitcoin Technical Analysis 2025](https://www.youtube.com/watch?v=HOIfNxsBdKI)**
+
+A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 244 • 💬 120 • ⏱️ 11:07 • 7h ago
 
 ---
 
@@ -293,7 +299,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 13K • 👍 594 • 💬 394 • ⏱️ 10:58 • 23h ago
+👁️ 14K • 👍 607 • 💬 370 • ⏱️ 10:58 • 1d ago
 
 ---
 
@@ -303,7 +309,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 157 • ⏱️ 13:47 • 1d ago
+👁️ 39K • 👍 2K • 💬 189 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -313,27 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 2K • 💬 100 • ⏱️ 46:11 • 9h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 41K • 👍 2K • 💬 222 • ⏱️ 44:14 • 1d ago
-
----
-
-**[Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutorial](https://www.youtube.com/watch?v=mVUBPFQqfgg)**
-
-Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutorial -- it's called SOAP and it's not something you ...
-
-📺 VoskCoin
-
-👁️ 2K • 👍 101 • 💬 17 • ⏱️ 15:00 • 8h ago
+👁️ 37K • 👍 2K • 💬 101 • ⏱️ 46:11 • 12h ago
 
 ---
 
@@ -343,17 +329,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 328 • 💬 243 • ⏱️ 4:18 • 6h ago
+👁️ 7K • 👍 379 • 💬 173 • ⏱️ 4:18 • 8h ago
 
 ---
 
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
 
-It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Benjamin Cowen
+📺 CryptosRUs
 
-👁️ 82K • 👍 5K • 💬 282 • ⏱️ 18:06 • 1d ago
+👁️ 42K • 👍 2K • 💬 211 • ⏱️ 44:14 • 1d ago
+
+---
+
+**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
+
+This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
+
+📺 BTC Sessions
+
+👁️ 8K • 👍 477 • 💬 228 • ⏱️ 20:14 • 5h ago
 
 ---
 
@@ -363,17 +359,17 @@ CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deep
 
 📺 Craigslist Hunter
 
-👁️ 44K • 👍 2K • 💬 237 • ⏱️ 2:15 • 1d ago
+👁️ 45K • 👍 2K • 💬 237 • ⏱️ 2:15 • 2d ago
 
 ---
 
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
+**[🚨 Major Threat!! #Bitcoin](https://www.youtube.com/watch?v=n62wi7y4ZaA)**
 
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
+Bitcoin and quantum computers Altcoin Daily Merch: https://m046hz-bk.myshopify.com Start Trading on Polymarket (#1 ...
 
-📺 Swan Bitcoin
+📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 170 • ⏱️ 16:50 • 2d ago
+👁️ 13K • 👍 106 • 💬 8 • ⏱️ 0:08 • 1d ago
 
 ---
 
