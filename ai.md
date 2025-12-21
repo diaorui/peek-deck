@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T07:11:56.693356+00:00'
+updated: '2025-12-21T07:32:08.602432+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 07:11 UTC  
+**Last Updated:** December 21, 2025 at 07:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 10h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
 
-6h ago
+7h ago
 
 ---
 
@@ -141,11 +141,11 @@ Al Jazeera • 1h ago
 
 ---
 
-**[Inside Tencent’s deal to use Nvidia’s best AI chips in Japan](https://www.ft.com/content/9b47c335-9633-4560-9f57-5736c9d04bef)**
+**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
 
-Contracts with Chinese tech giant have rapidly turned Datasection into one of Asia’s biggest ‘neoclouds’
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
-Financial Times • 2h ago
+Fortune • 1d ago
 
 ---
 
@@ -163,25 +163,17 @@ The New Yorker • 20h ago
 
 ---
 
-**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
-
-Axios • 9h ago
-
----
-
 **[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 17h ago
+The Atlantic • 18h ago
 
 ---
 
-**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 1d ago
+Axios • 10h ago
 
 ---
 
@@ -190,6 +182,14 @@ Fortune • 1d ago
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
 BBC • 1d ago
+
+---
+
+**[How online retailers are using AI to adjust prices by mining your personal data](https://www.pbs.org/newshour/show/how-online-retailers-are-using-ai-to-adjust-prices-by-mining-your-personal-data)**
+
+If you’re going online to buy some last-minute gifts this holiday season, there’s a chance the price you pay will be influenced by what’s known as “surveillance pricing.” Some retailers are using artificial intelligence to set individualized prices online by sifting through personal data, including age, gender, location and browsing history. Ali Rogin speaks with Jay Stanley at the ACLU for more.
+
+PBS • 8h ago
 
 ---
 
@@ -365,7 +365,7 @@ The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #n
 
 📺 FootyToons AI
 
-👁️ 34K • 💬 6 • ⏱️ 0:51 • 15h ago
+👁️ 34K • 💬 6 • ⏱️ 0:51 • 16h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,223 • 12d ago
+⬇️ 341,530 • ❤️ 3,224 • 12d ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 403 • 1d ago
+⬇️ 71,413 • ❤️ 404 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 374 • 2d ago
+⬇️ 2,937 • ❤️ 375 • 2d ago
 
 ---
 
@@ -439,7 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 358 • 2d ago
+⬇️ 6,881 • ❤️ 362 • 2d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 351 • 1d ago
+⬇️ 1,067 • ❤️ 353 • 1d ago
 
 ---
 
@@ -463,7 +463,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 348 • 3d ago
+⬇️ 6,103 • ❤️ 350 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 294 • 4d ago
+⬇️ 0 • ❤️ 295 • 4d ago
 
 ---
 
@@ -527,7 +527,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,737 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,773 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -566,23 +566,9 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,315 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,348 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,491 • 23d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -595,6 +581,20 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 ▲ 30 • 💬 2 • ⭐ 12,868 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 27 • 💬 2 • ⭐ 7,509 • 23d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -612,19 +612,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[FunAudioLLM: Voice Understanding and Generation Foundation Models for
-  Natural Interaction Between Humans and LLMs](https://huggingface.co/papers/2407.04051)**
-
-*Tongyi SpeechTeam*
-
-FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingual speech recognition, emotion detection, and audio event detection with CosyVoice for natural speech generation across languages, timbres, and styles.
-
-▲ 39 • 💬 1 • ⭐ 18,122 • 17mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
-
----
-
 **[Step-GUI Technical Report](https://huggingface.co/papers/2512.15431)**
 
 *Haolong Yan, Jia Wang, Xin Huang et al. (97 authors)*
@@ -636,6 +623,19 @@ A self-evolving training pipeline with the Calibrated Step Reward System and GUI
 ▲ 117 • 💬 3 • ⭐ 1,617 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.15431) • [💻 code](https://github.com/stepfun-ai/gelab-zero) • [🔗 project](https://opengelab.github.io/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 26 • 💬 1 • ⭐ 65,847 • 27mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.3k • 🔱 585 • 16h ago
+⭐ 5.3k • 🔱 588 • 16h ago
 
 ---
 
@@ -689,7 +689,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 941 • 🔱 44 • 3d ago
+⭐ 947 • 🔱 45 • 3d ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 833 • 🔱 135 • 14h ago
+⭐ 834 • 🔱 135 • 15h ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 822 • 🔱 77 • 13h ago
+⭐ 827 • 🔱 78 • 13h ago
 
 ---
 
@@ -739,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 756 • 🔱 60 • 17d ago
+⭐ 757 • 🔱 60 • 17d ago
 
 ---
 

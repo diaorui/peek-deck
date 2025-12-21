@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T07:11:56.707645+00:00'
+updated: '2025-12-21T07:32:08.616704+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 07:11 UTC  
+**Last Updated:** December 21, 2025 at 07:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** -0.4%  
 **7d:** +0.4%  
-**30d:** +7.2%  
+**30d:** +7.3%  
 **90d:** -28.7%  
 **1y:** -9.1%  
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -166,11 +166,11 @@ ZyCrypto • 11h ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
+**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
 
-Next year could be good but won't be driven by blockchain tech upgrades.
+Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -184,7 +184,15 @@ The Block • 1d ago
 
 Solana founder Anatoly Yakovenko has shared new data that shows Solana has outperformed Ethereum in yearly revenue, highlighting what he sees as a pivotal shift in how value may be distributed across the crypto market.The infographics by DeFi Development Corp. show the projected chain revenue compa…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -220,14 +228,6 @@ FXEmpire • 1d ago
 
 ---
 
-**[Ethereum vs. Bitcoin: What the usage–value split says about prices](https://ambcrypto.com/ethereum-vs-bitcoin-what-the-usage-value-split-says-about-prices/)**
-
-ETH wallet growth hits new highs while BTC exchange balances fall.
-
-AMBCrypto • 22h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 8K • 👍 653 • 💬 179 • ⏱️ 35:41 • 6h ago
+👁️ 8K • 👍 653 • 💬 179 • ⏱️ 35:41 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 2K • 👍 109 • 💬 15 • ⏱️ 14:00 • 12h ago
+👁️ 2K • 👍 109 • 💬 15 • ⏱️ 14:00 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ BREAKING: It has officially started. SWIFT and over 30 global financial giants�
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 60 • 💬 91 • ⏱️ 14:59 • 12h ago
+👁️ 1K • 👍 60 • 💬 91 • ⏱️ 14:59 • 13h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 294 • 👍 18 • 💬 32 • ⏱️ 4:17 • 19h ago
+👁️ 294 • 👍 18 • 💬 32 • ⏱️ 4:17 • 20h ago
 
 ---
 

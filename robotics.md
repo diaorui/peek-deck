@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T07:11:56.710971+00:00'
+updated: '2025-12-21T07:32:08.619887+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 07:11 UTC  
+**Last Updated:** December 21, 2025 at 07:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Website: https://www.nio-robotics.com/
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
 
-10h ago
+11h ago
 
 ---
 
@@ -110,14 +110,6 @@ https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e
 
 ## Google News: "robotics"
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
-
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
-
-Interesting Engineering • 11h ago
-
----
-
 **[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
 
 Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
@@ -126,11 +118,27 @@ TechNode • 18h ago
 
 ---
 
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+
+Interesting Engineering • 12h ago
+
+---
+
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
 Futurism • 1d ago
+
+---
+
+**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
+
+Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -160,7 +168,7 @@ The Robot Report • 17h ago
 
 **[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
 
-KXAN Austin • 8h ago
+KXAN Austin • 9h ago
 
 ---
 
@@ -177,14 +185,6 @@ Tom's Hardware • 20h ago
 Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
 
 Yahoo Finance • 2d ago
-
----
-
-**[crafted in solid walnut and maple, phantom is the world’s first robotic chessboard](https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/)**
-
-a synthesis of traditional woodcraft and silent robotics, phantom reimagines the chessboard as a self‑playing heirloom.
-
-Designboom • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 1.2M • 👍 114K • 💬 29K • ⏱️ 15:02 • 4h ago
+👁️ 1.2M • 👍 114K • 💬 29K • ⏱️ 15:02 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T07:11:56.701730+00:00'
+updated: '2025-12-21T07:32:08.610824+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 07:11 UTC  
+**Last Updated:** December 21, 2025 at 07:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,13 @@ Rank #1
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-5h ago
+6h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-8h ago
+9h ago
 
 ---
 
@@ -155,39 +155,47 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Bloomberg.com • 2d ago
+Nasdaq • 21h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeDuP_oNDEMF2UfCxu2Dc8cKakLuq451FgRd2lgNmiD_I50jAwuPzNC&gaa_ts=69479c45&gaa_sig=0WqKkjzMHoSUjbrcxCVhdw69OoEbYT_sTdjH0tB4L9q90sxoI4Jyf2BkpUl_SfU4ZYZzuqvzNIGMQ48JuPdbcg%3D%3D)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
+
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+
+The Motley Fool • 21h ago
+
+---
+
+**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
+
+CCN.com • 1d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqe4NskpEPbB9q26WSd49cCTF_hwN50QNzsmRcrnude0QAsDnK8JrGaB&gaa_ts=6947a5e8&gaa_sig=MGSM2qBVyil-koWORd6LYg0FFY9ApDZgvzZgbilrsCzb6_kBKM88JujWdiaQ7xYjII9q_-WP6Q00yG8pBi0_Fw%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
+**[Michael Burry Compares Bitcoin to One of the Biggest Bubbles in History](https://www.fool.com/investing/2025/12/20/michael-burry-compares-bitcoin-to-one-of-the-bigge/)**
 
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
+Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
 
-Nasdaq • 20h ago
-
----
-
-**[Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
-
-The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
-
-CoinDesk • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
-Forbes • 2d ago
+Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -199,23 +207,15 @@ CoinDesk • 11h ago
 
 ---
 
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
-This dip is an opportunity to think about what matters most with this asset.
-
-The Motley Fool • 8h ago
+Forbes • 2d ago
 
 ---
 
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
 The Block • 1d ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeDJ_dbI1MseeycyMVPTjooyK7g-O6PR-PdUjWeXyymnnyb6lpxP0Sx&gaa_ts=69479c45&gaa_sig=0uSzLT1S5Dt9TLynB4riZ3JNoUJvZ8B9OR4Er_AMUl1oWN3AYDsH8B_4JNYbOZ3QYGWaJSs7PCA_vA7EgbvjnA%3D%3D)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -309,7 +309,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 BTC Sessions
 
-👁️ 14K • 👍 655 • 💬 267 • ⏱️ 20:14 • 10h ago
+👁️ 14K • 👍 655 • 💬 267 • ⏱️ 20:14 • 11h ago
 
 ---
 
