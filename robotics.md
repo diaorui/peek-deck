@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T22:51:02.999868+00:00'
+updated: '2025-12-21T23:10:24.018567+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 22:51 UTC  
+**Last Updated:** December 21, 2025 at 23:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-13h ago
+14h ago
 
 ---
 
@@ -128,7 +128,7 @@ Interesting Engineering • 1d ago
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-South China Morning Post • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -136,7 +136,7 @@ South China Morning Post • 1d ago
 
 Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-CNET • 9h ago
+CNET • 10h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNET • 9h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 

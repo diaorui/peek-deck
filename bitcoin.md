@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T22:51:02.990532+00:00'
+updated: '2025-12-21T23:10:24.009432+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 22:51 UTC  
+**Last Updated:** December 21, 2025 at 23:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,340.96
+### $88,730.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -21.0%  
-**1y:** -7.0%  
+**24h:** +0.4%  
+**7d:** +2.6%  
+**30d:** +4.8%  
+**90d:** -20.7%  
+**1y:** -6.7%  
 
 ---
 
@@ -95,7 +95,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-1h ago
+2h ago
 
 ---
 
@@ -107,19 +107,19 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-13h ago
+14h ago
 
 ---
 
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -263,13 +263,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 11h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 12h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 12h ago
+⬆️ 1 • 💬 0 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 678 • 💬 272 • ⏱️ 55:13 • 8h ago
+👁️ 11K • 👍 678 • 💬 272 • ⏱️ 55:13 • 9h ago
 
 ---
 
@@ -377,7 +377,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 470 • 💬 95 • ⏱️ 14:16 • 5h ago
+👁️ 4K • 👍 470 • 💬 95 • ⏱️ 14:16 • 6h ago
 
 ---
 

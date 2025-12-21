@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T22:51:02.996596+00:00'
+updated: '2025-12-21T23:10:24.015370+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 22:51 UTC  
+**Last Updated:** December 21, 2025 at 23:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +0.5%  
-**30d:** +7.3%  
-**90d:** -28.7%  
-**1y:** -9.1%  
+**24h:** +0.9%  
+**7d:** +1.3%  
+**30d:** +8.2%  
+**90d:** -28.1%  
+**1y:** -8.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Hi everyone, about two weeks ago my wallet was drained for over $840k, it is my 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 558 • 💬 384 • ⏱️ 11:34 • 9h ago
+👁️ 9K • 👍 558 • 💬 384 • ⏱️ 11:34 • 10h ago
 
 ---
 
@@ -268,7 +268,7 @@ Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does
 
 📺 Schwab Network
 
-👁️ 208 • 👍 12 • 💬 24 • ⏱️ 8:22 • 1h ago
+👁️ 208 • 👍 12 • 💬 24 • ⏱️ 8:22 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 8 • ⏱️ 4:12 • 7h ago
+👁️ 2K • 👍 123 • 💬 8 • ⏱️ 4:12 • 8h ago
 
 ---
 
