@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T16:55:32.538711+00:00'
+updated: '2025-12-21T17:18:19.712044+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 16:55 UTC  
+**Last Updated:** December 21, 2025 at 17:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +0.5%  
-**30d:** +7.3%  
+**24h:** +0.1%  
+**7d:** +0.6%  
+**30d:** +7.4%  
 **90d:** -28.6%  
-**1y:** -9.1%  
+**1y:** -9.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 20h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 2d ago
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 20h ago
+ZyCrypto • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 3K • 👍 319 • 💬 338 • ⏱️ 11:34 • 3h ago
+👁️ 3K • 👍 319 • 💬 338 • ⏱️ 11:34 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 321 • 👍 39 • 💬 2 • ⏱️ 4:12 • 1h ago
+👁️ 321 • 👍 39 • 💬 2 • ⏱️ 4:12 • 2h ago
 
 ---
 
@@ -308,7 +308,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 756 • 👍 34 • 💬 127 • ⏱️ 8:36 • 21h ago
+👁️ 756 • 👍 34 • 💬 127 • ⏱️ 8:36 • 22h ago
 
 ---
 

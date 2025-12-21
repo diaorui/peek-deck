@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T16:55:32.541968+00:00'
+updated: '2025-12-21T17:18:19.715285+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 16:55 UTC  
+**Last Updated:** December 21, 2025 at 17:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-7h ago
+8h ago
 
 ---
 
@@ -122,7 +122,7 @@ Bloomberg.com • 2d ago
 
 Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-CNET • 3h ago
+CNET • 4h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNET • 3h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 3h ago
+The Verge • 4h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Verge • 3h ago
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 288K • 👍 7K • 💬 920 • ⏱️ 18:35 • 19h ago
+👁️ 288K • 👍 7K • 💬 920 • ⏱️ 18:35 • 20h ago
 
 ---
 

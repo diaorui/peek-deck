@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T16:55:32.523943+00:00'
+updated: '2025-12-21T17:18:19.697611+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 16:55 UTC  
+**Last Updated:** December 21, 2025 at 17:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 3h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 52m ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 20h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 21h ago
 
 ---
 
@@ -103,7 +103,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 2h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 3h ago
 
 ---
 
@@ -123,7 +123,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Motley Fool • 2h ago
 
 Setting the stage for courtroom battles.
 
-Gizmodo • 2h ago
+Gizmodo • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Wall Street Journal • 1d ago
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 3h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
@@ -231,7 +231,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 190 • 💬 137 • 12h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 190 • 💬 137 • 13h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -247,7 +247,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 132 • 💬 307 • 9h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 132 • 💬 307 • 10h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -283,7 +283,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 89K • 👍 3K • 💬 770 • ⏱️ 15:25 • 21h ago
+👁️ 89K • 👍 3K • 💬 770 • ⏱️ 15:25 • 22h ago
 
 ---
 
@@ -663,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 170 • 2m ago
+⭐ 2.3k • 🔱 170 • 25m ago
 
 ---
 

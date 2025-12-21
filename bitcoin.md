@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T16:55:32.532417+00:00'
+updated: '2025-12-21T17:18:19.706096+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 16:55 UTC  
+**Last Updated:** December 21, 2025 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,024.38
+### $88,396.99
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.3%  
-**7d:** +2.1%  
-**30d:** +4.3%  
-**90d:** -21.1%  
-**1y:** -7.1%  
+**7d:** +2.2%  
+**30d:** +4.4%  
+**90d:** -21.0%  
+**1y:** -7.0%  
 
 ---
 
@@ -87,7 +87,7 @@ HODL
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,13 +101,13 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[Everytime 🤬](https://www.reddit.com/r/Bitcoin/comments/1ps74vq/everytime/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,19 +115,19 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 According to recent reports, XXI Capital accumulated more than 40,000 BTC during 2024, with the holdings valued at approximately $3.8 billion at current prices. The accumulation highlights continued institutional interest in Bitcoin, even amid market volatility.
 
-2h ago
+3h ago
 
 ---
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-21h ago
+22h ago
 
 ---
 
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 JUST IN: If $BTC rallies to $95K over the holiday season, over $5.8 billion in leveraged short positions will be liquidated.
 
-20m ago
+43m ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 4h ago
 
 Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
 
-The Motley Fool • 48m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Motley Fool • 48m ago
 
 "My base case is that we can stay here for some period of time," Cleveland Fed President Beth Hammack told the WSJ.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 1h ago
 
 Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -265,13 +265,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 5h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 6h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 6h ago
+⬆️ 1 • 💬 0 • 7h ago
 
 ---
 
@@ -285,7 +285,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 0 • 35m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 0 • 58m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -299,7 +299,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 153 • ⏱️ 14:31 • 23h ago
+👁️ 26K • 👍 2K • 💬 153 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 227 • 💬 110 • ⏱️ 55:13 • 2h ago
+👁️ 2K • 👍 227 • 💬 110 • ⏱️ 55:13 • 3h ago
 
 ---
 
