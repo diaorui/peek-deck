@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T15:40:43.258063+00:00'
+updated: '2025-12-21T15:51:54.460752+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 15:40 UTC  
+**Last Updated:** December 21, 2025 at 15:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,821.41
+### $88,096.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +1.7%  
-**30d:** +3.8%  
-**90d:** -21.4%  
-**1y:** -7.6%  
+**24h:** +0.2%  
+**7d:** +1.9%  
+**30d:** +4.0%  
+**90d:** -21.3%  
+**1y:** -7.4%  
 
 ---
 
@@ -151,7 +151,7 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ MarketWatch • 2d ago
 
 Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 50m ago
 
 ---
 

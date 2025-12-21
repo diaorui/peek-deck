@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T15:40:43.249678+00:00'
+updated: '2025-12-21T15:51:54.453354+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 15:40 UTC  
+**Last Updated:** December 21, 2025 at 15:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 10h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-28m ago
+39m ago
 
 ---
 
@@ -89,7 +89,7 @@ Al Jazeera Media Network says initiative will shift role of AI 'from passive too
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 20h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 21h ago
 
 ---
 
@@ -263,13 +263,13 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 117 • 💬 47 • 18h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 117 • 💬 47 • 19h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
 **[Using AI Generated Code Will Make You a Bad Programmer](https://news.ycombinator.com/item?id=46327124)**
 
-⬆️ 90 • 💬 176 • 1d ago • [unsolicited-opinions.rudism.com](https://unsolicited-opinions.rudism.com/bad-programmer/)
+⬆️ 90 • 💬 176 • 2d ago • [unsolicited-opinions.rudism.com](https://unsolicited-opinions.rudism.com/bad-programmer/)
 
 ---
 
@@ -293,7 +293,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 157K • 👍 8K • 💬 2K • ⏱️ 19:40 • 18h ago
+👁️ 157K • 👍 8K • 💬 2K • ⏱️ 19:40 • 19h ago
 
 ---
 
@@ -588,7 +588,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 205 • 💬 5 • ⭐ 7,501 • 24d ago
+▲ 205 • 💬 5 • ⭐ 7,533 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 601 • 1d ago
+⭐ 5.5k • 🔱 602 • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 969 • 🔱 49 • 3d ago
+⭐ 977 • 🔱 49 • 3d ago
 
 ---
 
@@ -703,7 +703,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 844 • 🔱 136 • 23h ago
+⭐ 846 • 🔱 137 • 23h ago
 
 ---
 
@@ -713,7 +713,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 839 • 🔱 83 • 21h ago
+⭐ 844 • 🔱 83 • 22h ago
 
 ---
 
@@ -723,7 +723,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 802 • 🔱 119 • 4d ago
+⭐ 803 • 🔱 119 • 4d ago
 
 ---
 
