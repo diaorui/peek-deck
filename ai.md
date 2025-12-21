@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T11:14:02.555683+00:00'
+updated: '2025-12-21T11:30:34.049326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 11:14 UTC  
+**Last Updated:** December 21, 2025 at 11:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 14h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-17h ago
+18h ago
 
 ---
 
@@ -80,6 +80,14 @@ A company is not just a collection of people. It is a collection of people doing
 OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
 
 5h ago
+
+---
+
+**[When AI gets too Indian](https://www.reddit.com/r/artificial/comments/1ps49ri/when_ai_gets_too_indian/)**
+
+Today, while working on an academic project, I experimented with Gemini Live and selected an Indian male voice. Everything was going fine, the responses were great, and it felt very natural, as if I were speaking with an actual person. In the middle of Gemini's response, I noticed something unusual. It pronounced the word "math" (short for "mathematics") as "math" (as in RamaKrishna Math, a monastery). It might seem like a small mistake, and hallucinations are common in the world of LLMs. A small pronunciation slip made me rethink how close AI voices are getting to humans in India. Until a few years ago, text-to-speech models would butcher even the most basic Indian words, for example, "Namaste." But now it's getting better by day, and they're nailing the local/cultural nuances in pronouncing local words. It is very exciting and can significantly enhance the overall customer experience. Still, on the other hand, these mispronunciations are a telltale sign of an artificial voice that we often hear in spam calls. As models continue to improve, it may become increasingly difficult to distinguish between a human and a machine, especially for the average Indian. I'm sure you might have observed something similar in your local language, and would love to hear about it.
+
+13m ago
 
 ---
 
@@ -95,7 +103,7 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-15h ago
+16h ago
 
 ---
 
@@ -104,14 +112,6 @@ America and China Is the US really in an AI race with China—or are we racing t
 $6 million to change what information ChatGPT will emit. What other influences could be effecting how ChatGPT operates?
 
 🔗 [Responsible Statecraft](https://responsiblestatecraft.org/israel-chatgpt/) • 1d ago
-
----
-
-**[Can we talk philosophy for a min? I can't be the only one who feels this way.](https://www.reddit.com/r/artificial/comments/1prsxnl/can_we_talk_philosophy_for_a_min_i_cant_be_the/)**
-
-OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
-
-10h ago
 
 ---
 
@@ -125,19 +125,37 @@ The New York Times • 23h ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
 
-Politico • 20h ago
+Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
+
+bbc.com • 1d ago
 
 ---
 
 **[AI companions: "The new imaginary friend" redefining children's friendships](https://www.axios.com/2025/12/21/ai-companions-new-imaginary-friend-children-teens)**
 
-Axios • 27m ago
+Axios • 44m ago
 
 ---
 
-**[AI agents are coming to job interviews. Tips for handling them](https://qz.com/ai-agent-job-interview-tips)**
+**[How online retailers are using AI to adjust prices by mining your personal data](https://www.pbs.org/newshour/show/how-online-retailers-are-using-ai-to-adjust-prices-by-mining-your-personal-data)**
+
+If you’re going online to buy some last-minute gifts this holiday season, there’s a chance the price you pay will be influenced by what’s known as “surveillance pricing.” Some retailers are using artificial intelligence to set individualized prices online by sifting through personal data, including age, gender, location and browsing history. Ali Rogin speaks with Jay Stanley at the ACLU for more.
+
+PBS • 12h ago
+
+---
+
+**[Data center deals hit record $61 billion in 2025 amid construction frenzy](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html)**
+
+Hyperscalers are increasingly turning to outside capital in the form of debt to fund the energy-intensive infrastructure.
+
+CNBC • 2d ago
+
+---
+
+**[Sen. Mark Kelly on taxing AI companies that kill jobs, data center revolts, and working with Republicans](https://qz.com/mark-kelly-tech-fund-ai-chandler)**
 
 qz.com • 1h ago
 
@@ -147,7 +165,13 @@ qz.com • 1h ago
 
 Collibra CEO Felix Van de Maele said it's "a red flag" if prospective employees aren't leaning into how they can use AI to make their job better.
 
-Business Insider • 23m ago
+Business Insider • 39m ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 20h ago
 
 ---
 
@@ -159,35 +183,9 @@ CNBC • 1d ago
 
 ---
 
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdYHMc-8_fa8RMxkbo0FCs4LgvHhhr_gXu8n0HtnmpNNSplyS5dS4y-&gaa_ts=6947ddc4&gaa_sig=7IsS0807GyS_7WNsWYmRAOVbt4YtcveFNgrj8_44AvOpfxj7UJtwea7hH-tmqn3zRPdRSx8lj0vbnBqeAKZluw%3D%3D)**
 
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-bbc.com • 1d ago
-
----
-
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 21h ago
-
----
-
-**[What if Readers Like A.I.-Generated Fiction?](https://www.newyorker.com/culture/the-weekend-essay/what-if-readers-like-ai-generated-fiction)**
-
-If economic and technological transformations have changed our relationship with literature before, they could do so again.
-
-The New Yorker • 1d ago
-
----
-
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
-
-My week partying with the young founders at the heart of the AI boom
-
-The Atlantic • 21h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -211,7 +209,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 474 • 💬 411 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 475 • 💬 412 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -225,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 212 • 💬 319 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 213 • 💬 320 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -247,7 +245,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 141 • 💬 91 • 7h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 143 • 💬 93 • 7h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -271,7 +269,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 106 • 💬 43 • 14h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 110 • 💬 44 • 14h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -391,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,232 • 12d ago
+⬇️ 352,314 • ❤️ 3,233 • 12d ago
 
 ---
 
@@ -415,7 +413,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,021 • ❤️ 379 • 2d ago
+⬇️ 3,021 • ❤️ 380 • 2d ago
 
 ---
 
@@ -427,7 +425,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 383 • 7d ago
+⬇️ 4,530 • ❤️ 385 • 7d ago
 
 ---
 
@@ -439,7 +437,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 367 • 2d ago
+⬇️ 10,633 • ❤️ 368 • 2d ago
 
 ---
 
@@ -451,7 +449,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 367 • 2d ago
+⬇️ 3,459 • ❤️ 368 • 2d ago
 
 ---
 
@@ -487,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 302 • 4d ago
+⬇️ 0 • ❤️ 304 • 4d ago
 
 ---
 
@@ -499,7 +497,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 632 • ❤️ 252 • 4d ago
+⬇️ 632 • ❤️ 253 • 4d ago
 
 ---
 
@@ -669,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 168 • 1h ago
+⭐ 2.3k • 🔱 168 • 2h ago
 
 ---
 
@@ -709,7 +707,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 835 • 🔱 135 • 18h ago
+⭐ 835 • 🔱 135 • 19h ago
 
 ---
 

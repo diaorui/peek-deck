@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T11:14:02.564358+00:00'
+updated: '2025-12-21T11:30:34.056878+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 11:14 UTC  
+**Last Updated:** December 21, 2025 at 11:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.52B
+**Market Cap:** $1769.26B
 Rank #1
 
 **Circulating Supply:** 19,965,006 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.7%
 
 **All-Time Low:** $67.81
-+130627.0%
++130622.6%
 
 ---
 
@@ -85,13 +85,7 @@ Rank #1
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-9h ago
-
----
-
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
-
-16h ago
+10h ago
 
 ---
 
@@ -103,6 +97,12 @@ HODL
 
 ---
 
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+
+16h ago
+
+---
+
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
 2h ago
@@ -111,7 +111,7 @@ HODL
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ HODL
 
 **[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,11 +133,9 @@ HODL
 
 ---
 
-**[Bitcoin 👀](https://www.reddit.com/r/Bitcoin/comments/1prjz40/bitcoin/)**
+**[Title](https://www.reddit.com/r/Bitcoin/comments/1prybko/title/)**
 
-The crypto market is down" Degens with their last $200:
-
-17h ago
+6h ago
 
 ---
 
@@ -169,13 +167,13 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqf2SIBVM4dDirF80mA_LXC5dSV2sw3V4iBMU2JbRL_-N9Rv76zGbg-_&gaa_ts=6947d51d&gaa_sig=brauTiKH4vu50fkracPlytti4j70ddOsk8jMCrdeiv4bVl2gZP6g2firuKZCY_MZsZ45eIT665jDwTXfc8tgtQ%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqct57cYItuhsnARHtnc0EonPaLx6GEMkCE33ivDlTowi0e4439wVR8M&gaa_ts=6947ddc5&gaa_sig=TFFxnQQPmABICwYqXbYyZSitAA56CucQwMx5xlK4vLgE711rhpSCVeLgQ075_CQzpGOU_L69A_xvloLawCHtlg%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc6nH-9tSqmyXLUVc9xIx509jyWoYlHUiSRHbEdASn0yVyjorAFDBSk&gaa_ts=6947d51d&gaa_sig=zqG4CcpN2fwzimIghaDpPVaEkUZgbdm8kCK8QzMJQ_hmIeW53WZfS9FFMyfuWEJjxT6WuU-c8V2Cnn3LTLc5_A%3D%3D)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqcg5V4ZzawUa7PZcJrP7SAwYqGy9-4Nd969ZQ1cfvXY83qL6jwBOVSc&gaa_ts=6947ddc5&gaa_sig=k0m197NDW2ywr84iel5t4oIAytdqRUxLgN4POfGvVXIktAW72kJNsrLED6Jr3n62R5yl7K6buPXkBwBm9rR4Qg%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -258,6 +256,14 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ⬆️ 1 • 💬 0 • 5d ago • [flip.gold](https://flip.gold/)
+
+---
+
+**[Standard Chartered halves BTC USD 2025 target and pushes $500K goal to 2030](https://news.ycombinator.com/item?id=46343925)**
+
+Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
+
+⬆️ 1 • 💬 0 • 33m ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 

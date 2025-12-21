@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T11:14:02.573779+00:00'
+updated: '2025-12-21T11:30:34.064991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 11:14 UTC  
+**Last Updated:** December 21, 2025 at 11:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -98,11 +98,11 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 ---
 
-**[News of the planetary gearbox](https://www.reddit.com/r/robotics/comments/1prwz5c/news_of_the_planetary_gearbox/)**
+**[Plume, a small biped robot](https://www.reddit.com/r/robotics/comments/1pqykl4/plume_a_small_biped_robot/)**
 
-https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
+Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
 
-7h ago
+1d ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg.com • 2d ago
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 16h ago
 
 ---
 
@@ -174,7 +174,7 @@ Tom's Hardware • 1d ago
 
 **[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
 
-KXAN Austin • 12h ago
+KXAN Austin • 13h ago
 
 ---
 
@@ -206,7 +206,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 2.0M • 👍 153K • 💬 36K • ⏱️ 15:02 • 8h ago
+👁️ 2.0M • 👍 153K • 💬 36K • ⏱️ 15:02 • 9h ago
 
 ---
 
