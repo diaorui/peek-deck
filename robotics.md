@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T14:33:27.110810+00:00'
+updated: '2025-12-21T14:46:35.666938+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 14:33 UTC  
+**Last Updated:** December 21, 2025 at 14:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 **[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -226,7 +226,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 322 • 💬 34 • ⏱️ 1:05 • 5d ago
+👁️ 32K • 👍 322 • 💬 34 • ⏱️ 1:05 • 6d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T14:33:27.092944+00:00'
+updated: '2025-12-21T14:46:35.649120+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 14:33 UTC  
+**Last Updated:** December 21, 2025 at 14:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 2h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 31m ago
+🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 44m ago
 
 ---
 
@@ -95,7 +95,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -129,7 +129,7 @@ CNBC • 6h ago
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 23h ago
+Politico • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 23K • 👍 829 • 💬 327 • ⏱️ 16:15 • 2d ago
+👁️ 23K • 👍 829 • 💬 327 • ⏱️ 16:15 • 3d ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.3k • 🔱 2.9k • 2d ago
+⭐ 18.4k • 🔱 2.9k • 2d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 599 • 23h ago
+⭐ 5.4k • 🔱 601 • 23h ago
 
 ---
 
@@ -699,7 +699,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 917 • 🔱 24 • 13d ago
+⭐ 918 • 🔱 24 • 13d ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 839 • 🔱 135 • 22h ago
+⭐ 844 • 🔱 136 • 22h ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 837 • 🔱 83 • 20h ago
+⭐ 839 • 🔱 83 • 20h ago
 
 ---
 
