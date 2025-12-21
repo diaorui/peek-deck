@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T12:33:08.403619+00:00'
+updated: '2025-12-21T13:08:20.455347+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 12:33 UTC  
+**Last Updated:** December 21, 2025 at 13:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-19h ago
+20h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 Hi everyone, I’m working on a college final-year project focused on an autonomous arecanut harvesting robot and would appreciate some guidance. The robot is designed to be manually clamped onto an arecanut tree trunk and climb vertically using three inward-facing motorized wheels. A lightweight robotic manipulator mounted on a circular rail handles scanning and harvesting. The arm carries a camera and a circular cutter to detect ripe/unripe arecanut bunches and cut the bunch branch when maturity criteria are met. The system follows a simple sequence: clamp → climb → detect → harvest → descend, without any ground navigation or mapping. I’m unsure about the software architecture for this system. Do I need to use ROS2 for this kind of robot, or would a simpler approach be better? If ROS2 is not necessary, what would be a recommended way to structure the software (controllers, state machines, communication, etc.) for a task-oriented agricultural robot like this? I used ChatGPT mainly to improve the clarity of my English and to better explain the problem.
 
-25m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 **[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -124,19 +124,11 @@ Interesting Engineering • 17h ago
 
 ---
 
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
 
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-Futurism • 1d ago
-
----
-
-**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
-
-Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
-
-KSBY News • 2d ago
+The Verge • 8m ago
 
 ---
 
@@ -145,6 +137,14 @@ KSBY News • 2d ago
 Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
 KEYC News Now • 1d ago
+
+---
+
+**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
+
+Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
+
+KSBY News • 2d ago
 
 ---
 
@@ -160,7 +160,13 @@ Fortune • 3d ago
 
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
+
+---
+
+**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
+
+KXAN Austin • 14h ago
 
 ---
 
@@ -177,12 +183,6 @@ Designboom • 2d ago
 Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
 
 Yahoo Finance • 2d ago
-
----
-
-**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
-
-KXAN Austin • 14h ago
 
 ---
 
@@ -216,7 +216,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 32K • 👍 819 • 💬 121 • ⏱️ 6:41 • 6d ago
+👁️ 32K • 👍 819 • 💬 121 • ⏱️ 6:41 • 7d ago
 
 ---
 

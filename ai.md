@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T12:33:08.385595+00:00'
+updated: '2025-12-21T13:08:20.437623+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 12:33 UTC  
+**Last Updated:** December 21, 2025 at 13:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 7h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 8h ago
+
+---
+
+**[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
+
+Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
+
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 1h ago
 
 ---
 
@@ -53,11 +61,11 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 ---
 
-**[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
+**[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
 
-Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
+Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 57m ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 4m ago
 
 ---
 
@@ -65,7 +73,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 17h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 18h ago
 
 ---
 
@@ -89,13 +97,13 @@ Today, while working on an academic project, I experimented with Gemini Live and
 
 OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
 
-6h ago
+7h ago
 
 ---
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -103,15 +111,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 12h ago
-
----
-
-**[America and China Are Racing to Different AI Futures](https://www.reddit.com/r/artificial/comments/1prmbsj/america_and_china_are_racing_to_different_ai/)**
-
-America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
-
-17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 13h ago
 
 ---
 
@@ -135,29 +135,23 @@ The New York Times • 1d ago
 
 **[AI companions: "The new imaginary friend" redefining children's friendships](https://www.axios.com/2025/12/21/ai-companions-new-imaginary-friend-children-teens)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[Get every creative AI tool you need in this lifetime deal for 86% off](https://mashable.com/article/dec-21-1minai-advanced-business-plan-lifetime-subscription)**
+**[What does Trump’s AI czar want?](https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump)**
 
-One platform to power all your ideas.
+David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
-Mashable • 2h ago
-
----
-
-**[Shield AI’s new CEO says the $5.6B defense tech startup is at an inflection point](https://fortune.com/2025/12/21/shield-ai-ukraine-defense-tech-gary-steele/)**
-
-Demand for Shield AI’s V-BAT is ramping up in Europe and Asia.
-
-Fortune • 33m ago
+Vox • 8m ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[Instagram’s new AI tool lets you control your algorithm](https://www.foxnews.com/tech/instagrams-new-ai-tool-lets-you-control-your-algorithm)**
 
-Politico • 21h ago
+Instagram's new 'Your Algorithm' tool lets you control your Reels feed in real time. The app now gives you power to customize what videos you see.
+
+Fox News • 53m ago
 
 ---
 
@@ -165,11 +159,25 @@ Politico • 21h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdbnqE5zRWYcgHQAOU-dWso9ltqneMtCbBOjh-AfaQXowjCtq0We_r2&gaa_ts=6947ec6c&gaa_sig=AnUn5-eo2jg4DWG4aUJFW9Ei1T4ml6GDzus1r7MUGVlXxpETd7WsrxJuTQ4N1ITIJN7Wqyo6Ixd49AvjgjGekQ%3D%3D)**
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 23h ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 22h ago
+
+---
+
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqcL8XBFgqOzC-YUsNtyPUsVca79kbQVd7tfaOaSPRdIOhyTR8uBeqa-&gaa_ts=6947f4ac&gaa_sig=DX8rfGUWZeggpNdFcTtYAMDNLfNAc7C1zW9O-1S5kIwQ9OJeH6hXbPWGd3v7iBCH2oirROc31n4cQVsXqhue3w%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -180,14 +188,6 @@ The Wall Street Journal • 1d ago
 Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
 
 BBC • 1d ago
-
----
-
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
-
-My week partying with the young founders at the heart of the AI boom
-
-The Atlantic • 23h ago
 
 ---
 
@@ -203,7 +203,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 572 • 💬 537 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 572 • 💬 538 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -211,7 +211,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 480 • 💬 423 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 482 • 💬 424 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -225,21 +225,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 213 • 💬 322 • 1d ago • [antirez.com](https://antirez.com/news/157)
-
----
-
-**[AI helps ship faster but it produces 1.7× more bugs](https://news.ycombinator.com/item?id=46312159)**
-
-We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
-
-⬆️ 206 • 💬 167 • 2d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 215 • 💬 322 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 152 • 💬 98 • 8h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 163 • 💬 104 • 9h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -263,7 +255,7 @@ Timeline & Responsible Disclosure
 
 The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
 
-⬆️ 121 • 💬 151 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
+⬆️ 121 • 💬 152 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 
 ---
 
@@ -271,7 +263,13 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 110 • 💬 45 • 15h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 113 • 💬 46 • 16h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+
+---
+
+**[Using AI Generated Code Will Make You a Bad Programmer](https://news.ycombinator.com/item?id=46327124)**
+
+⬆️ 89 • 💬 176 • 1d ago • [unsolicited-opinions.rudism.com](https://unsolicited-opinions.rudism.com/bad-programmer/)
 
 ---
 
@@ -285,7 +283,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 85K • 👍 2K • 💬 706 • ⏱️ 15:25 • 17h ago
+👁️ 85K • 👍 2K • 💬 706 • ⏱️ 15:25 • 18h ago
 
 ---
 
@@ -315,7 +313,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 41K • 👍 2K • 💬 168 • ⏱️ 37:38 • 22h ago
+👁️ 41K • 👍 2K • 💬 168 • ⏱️ 37:38 • 23h ago
 
 ---
 
@@ -345,7 +343,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 132K • 👍 7K • 💬 1K • ⏱️ 19:40 • 15h ago
+👁️ 132K • 👍 7K • 💬 1K • ⏱️ 19:40 • 16h ago
 
 ---
 
@@ -355,7 +353,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 108 • 💬 8 • ⏱️ 8:42 • 14h ago
+👁️ 4K • 👍 108 • 💬 8 • ⏱️ 8:42 • 15h ago
 
 ---
 
@@ -391,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,234 • 12d ago
+⬇️ 352,314 • ❤️ 3,235 • 12d ago
 
 ---
 
@@ -403,7 +401,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 407 • 1d ago
+⬇️ 74,165 • ❤️ 408 • 1d ago
 
 ---
 
@@ -427,7 +425,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 373 • 2d ago
+⬇️ 3,459 • ❤️ 374 • 2d ago
 
 ---
 
@@ -463,7 +461,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 354 • 3d ago
+⬇️ 6,796 • ❤️ 356 • 3d ago
 
 ---
 
@@ -487,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 305 • 4d ago
+⬇️ 0 • ❤️ 306 • 4d ago
 
 ---
 
@@ -659,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 596 • 21h ago
+⭐ 5.4k • 🔱 596 • 22h ago
 
 ---
 
@@ -719,7 +717,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 835 • 🔱 82 • 18h ago
+⭐ 835 • 🔱 82 • 19h ago
 
 ---
 
