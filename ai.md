@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T09:29:39.518759+00:00'
+updated: '2025-12-21T09:45:13.769631+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 09:29 UTC  
+**Last Updated:** December 21, 2025 at 09:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,11 +61,11 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
-**[Is anyone upset or outraged that how Gemini has restricted its free users now](https://www.reddit.com/r/artificial/comments/1ps1cv3/is_anyone_upset_or_outraged_that_how_gemini_has/)**
+**[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
 
-​​ so I am just now aware of that Gemini has has a system of limit of prompts for free that it's only two to five prompts which is way more worse than gtp5 was. I'm not sure if this is a individually but, i guess I have to wait until​​ for 13 hours just to make a couple of prompts until I hit the limit. In my opinion I don't think the 240$ bucks a year is worth it, can someone please fill me in on more information about this.
+A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-1h ago
+16h ago
 
 ---
 
@@ -77,17 +77,9 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 ---
 
-**[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
-
-A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
-
-16h ago
-
----
-
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,21 +107,29 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
+**[Is anyone upset or outraged that how Gemini has restricted its free users now](https://www.reddit.com/r/artificial/comments/1ps1cv3/is_anyone_upset_or_outraged_that_how_gemini_has/)**
+
+​​ so I am just now aware of that Gemini has has a system of limit of prompts for free that it's only two to five prompts which is way more worse than gtp5 was. I'm not sure if this is a individually but, i guess I have to wait until​​ for 13 hours just to make a couple of prompts until I hit the limit. In my opinion I don't think the 240$ bucks a year is worth it, can someone please fill me in on more information about this.
+
+1h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
-
-Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
-
-CNBC • 21h ago
-
----
-
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
 The New York Times • 21h ago
+
+---
+
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 19h ago
 
 ---
 
@@ -149,17 +149,9 @@ CNBC • 1h ago
 
 ---
 
-**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
-
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 1d ago
-
----
-
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 18h ago
+Politico • 19h ago
 
 ---
 
@@ -189,7 +181,15 @@ The Atlantic • 20h ago
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 6h ago
+Axios • 12h ago
+
+---
+
+**[Al Jazeera launches new integrative AI model, ‘The Core’](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core)**
+
+Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
+
+Al Jazeera • 4h ago
 
 ---
 
@@ -205,7 +205,15 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 570 • 💬 535 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 570 • 💬 537 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+
+---
+
+**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
+
+Exclusive: Tech exec admits not dead cert it'll find the right solution
+
+⬆️ 467 • 💬 410 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -217,17 +225,9 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 ---
 
-**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
-
-Exclusive: Tech exec admits not dead cert it'll find the right solution
-
-⬆️ 465 • 💬 407 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
-
----
-
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 209 • 💬 315 • 23h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 209 • 💬 317 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -244,6 +244,12 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
 ⬆️ 145 • 💬 13 • 2d ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+
+---
+
+**[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
+
+⬆️ 134 • 💬 86 • 5h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -266,12 +272,6 @@ The fine is equal to six times the profits Airbnb made while the properties were
 **[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
 
 ⬆️ 120 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
-
----
-
-**[Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://news.ycombinator.com/item?id=46342166)**
-
-⬆️ 120 • 💬 76 • 5h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,225 • 12d ago
+⬇️ 352,314 • ❤️ 3,226 • 12d ago
 
 ---
 
@@ -407,6 +407,18 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 ---
 
+**[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
+
+*Tencent*
+
+HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modeling with long-term geometric consistency. It uses a streaming video diffusion approach with novel memory management and RL post-training for applications like 3D reconstruction and scene generation.
+
+`image-to-video`
+
+⬇️ 3,021 • ❤️ 378 • 2d ago
+
+---
+
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -419,18 +431,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
-
-*Tencent*
-
-HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modeling with long-term geometric consistency. It uses a streaming video diffusion approach with novel memory management and RL post-training for applications like 3D reconstruction and scene generation.
-
-`image-to-video`
-
-⬇️ 3,021 • ❤️ 375 • 2d ago
-
----
-
 **[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
 *Google*
@@ -439,7 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 363 • 2d ago
+⬇️ 10,633 • ❤️ 365 • 2d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 359 • 2d ago
+⬇️ 3,459 • ❤️ 362 • 2d ago
 
 ---
 
@@ -463,7 +463,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 351 • 3d ago
+⬇️ 6,796 • ❤️ 353 • 3d ago
 
 ---
 
@@ -475,7 +475,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 305 • 5d ago
+⬇️ 0 • ❤️ 308 • 5d ago
 
 ---
 
@@ -487,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 297 • 4d ago
+⬇️ 0 • ❤️ 299 • 4d ago
 
 ---
 
@@ -515,7 +515,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 7 • 💬 2 • ⭐ 4,267 • 9d ago
+▲ 7 • 💬 2 • ⭐ 4,267 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 167 • 42m ago
+⭐ 2.3k • 🔱 167 • 58m ago
 
 ---
 

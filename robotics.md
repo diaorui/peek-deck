@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T09:29:39.534380+00:00'
+updated: '2025-12-21T09:45:13.787480+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 09:29 UTC  
+**Last Updated:** December 21, 2025 at 09:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,14 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 ---
 
+**[In China, robots are now handling the solar panels, making installation faster and safer](https://www.reddit.com/r/robotics/comments/1ps2aw1/in_china_robots_are_now_handling_the_solar_panels/)**
+
+From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
+
+37m ago
+
+---
+
 **[Aru Robot, manufactured by the French company Nio Robotics to do industrial inspection and maintenance](https://www.reddit.com/r/robotics/comments/1prabw8/aru_robot_manufactured_by_the_french_company_nio/)**
 
 Website: https://www.nio-robotics.com/
@@ -58,21 +66,13 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-20h ago
+21h ago
 
 ---
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
 1d ago
-
----
-
-**[Path to Robotics Technician?](https://www.reddit.com/r/robotics/comments/1prnxvd/path_to_robotics_technician/)**
-
-Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
-
-12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 **[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -118,14 +118,6 @@ Interesting Engineering • 14h ago
 
 ---
 
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
-
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
-
-TechNode • 20h ago
-
----
-
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
@@ -134,11 +126,19 @@ Futurism • 1d ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
 
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-KEYC News Now • 1d ago
+South China Morning Post • 1d ago
+
+---
+
+**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
+
+Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -150,11 +150,19 @@ KSBY News • 2d ago
 
 ---
 
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 1d ago
+
+---
+
 **[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
 
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 
@@ -180,14 +188,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[crafted in solid walnut and maple, phantom is the world’s first robotic chessboard](https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/)**
-
-a synthesis of traditional woodcraft and silent robotics, phantom reimagines the chessboard as a self‑playing heirloom.
-
-Designboom • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -208,7 +208,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 1.7M • 👍 135K • 💬 33K • ⏱️ 15:02 • 6h ago
+👁️ 1.7M • 👍 135K • 💬 33K • ⏱️ 15:02 • 7h ago
 
 ---
 

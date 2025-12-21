@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T09:29:39.526276+00:00'
+updated: '2025-12-21T09:45:13.778104+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 09:29 UTC  
+**Last Updated:** December 21, 2025 at 09:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.7%  
-**30d:** +4.9%  
-**90d:** -20.7%  
-**1y:** -6.7%  
+**24h:** +0.7%  
+**7d:** +2.8%  
+**30d:** +5.0%  
+**90d:** -20.6%  
+**1y:** -6.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1766.72B
+**Market Cap:** $1772.75B
 Rank #1
 
 **Circulating Supply:** 19,965,006 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.8%
+-29.6%
 
 **All-Time Low:** $67.81
-+130429.4%
++130835.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -89,15 +89,15 @@ Rank #1
 
 ---
 
-**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
-
-12h ago
-
----
-
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
 14h ago
+
+---
+
+**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
+
+12h ago
 
 ---
 
@@ -117,7 +117,13 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-15h ago
+16h ago
+
+---
+
+**[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
+
+46m ago
 
 ---
 
@@ -132,12 +138,6 @@ The crypto market is down" Degens with their last $200:
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
 11h ago
-
----
-
-**[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
-
-23h ago
 
 ---
 
@@ -157,25 +157,19 @@ Yahoo Finance • 1d ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
+**[Bitcoin May Not Have Bottomed Yet as Social Media Fear Remains Low: Analyst](https://finance.yahoo.com/news/bitcoin-may-not-bottomed-yet-084500470.html)**
 
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+Bitcoin may still have further downside ahead, as crypto traders have yet to display the level of fear typically associated with a market bottom, according to Santiment founder Maksim Balashevich. Key Takeaways: Bitcoin could still fall toward $75,000 as social media sentiment remains too optimistic, according to Santiment’s Maksim Balashevich. ...
 
-The Motley Fool • 23h ago
-
----
-
-**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
-
-CCN.com • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeNazeGDEOWBOMcLYHwzRL2K9NENjIM9j24hQg3xUl-dH1d-xiWry1L&gaa_ts=6947baaa&gaa_sig=dk0gaDHOqLpjpglIjJqjgMt5uS_VHP1h8u4gWdJpZWPl7GgTet-CfF-IBCyC43nbsQMIij_98wrj3uGEXPF2kA%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeuMTzaf1ylj359iarmVhPURtU7u3xGcd8kQ7lLYvdXFlBMyU99MpSD&gaa_ts=6947c517&gaa_sig=F59WAF9xEqNMStDgZS2mcEEEnKADRTilTzpBX4C5drIjsr1SXaxjhYALm43aqe2A1gQfYZHfqf1MXy_A25cGFg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -185,7 +179,7 @@ Barron's • 1d ago
 
 Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -211,9 +205,19 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdtzRBbtSd5nZJHKZNMwYNIvdknjFNaDNZqZ9ba3jAKc6tTn5azN9bR&gaa_ts=6947baaa&gaa_sig=-4LiqwzkXWltHtPAKLEOORTnB3R_GCMIPWjnn_wMU4A9xEDT-aJLjOlVUQstDSdRs4L_j6en72I-0kxFYSLwvg%3D%3D)**
+**[Bitcoin underperformed gold, but ETF holders remained resilient](https://www.coindesk.com/markets/2025/12/19/gold-wins-the-debasement-trade-in-2025-but-it-is-not-the-full-story)**
 
-MarketWatch • 1d ago
+Bitcoin (BTC) corrected 36% from its October all-time high, while U.S. spot bitcoin ETF holdings declined by only about 3.6%
+
+CoinDesk • 1d ago
+
+---
+
+**[Sell Bitcoin for gold? Not so fast, one analyst says](https://www.tradingview.com/news/cointelegraph:b4a31da64094b:0-sell-bitcoin-for-gold-not-so-fast-one-analyst-says/)**
+
+The price of Bitcoin BINANCE:BTCUSD will outperform gold in the long run, and BTC holders should not sell their coins to pour into gold during its meteoric run to prices above $4,000 per ounce, according to Bitcoin advocate, educator and market analyst Matthew Kratter.BTC is a better store of value…
+
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -255,7 +259,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
-⬆️ 1 • 💬 0 • 4d ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 5d ago • [flip.gold](https://flip.gold/)
 
 ---
 

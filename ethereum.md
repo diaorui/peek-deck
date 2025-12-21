@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T09:29:39.531579+00:00'
+updated: '2025-12-21T09:45:13.784206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 09:29 UTC  
+**Last Updated:** December 21, 2025 at 09:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.0%  
-**30d:** +7.8%  
-**90d:** -28.3%  
-**1y:** -8.6%  
+**24h:** +0.7%  
+**7d:** +1.1%  
+**30d:** +8.0%  
+**90d:** -28.2%  
+**1y:** -8.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.87B
+**Market Cap:** $361.76B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.4%
 
 **All-Time Low:** $0.43
-+690612.5%
++692056.0%
 
 ---
 
@@ -204,14 +204,6 @@ Decrypt • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
-
-FXStreet • 2d ago
-
----
-
 **[Ethereum Price Prediction: Historical Trend Favors $9,000 Target for ETH](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-historical-trend-favors-9000-target-for-eth-1568730)**
 
 Ethereum remains under pressure as sentiment stays deeply bearish, but historical weekly trends suggest a major reversal could be forming.
@@ -225,6 +217,14 @@ FXEmpire • 1d ago
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
 
 ts2.tech • 1d ago
+
+---
+
+**[Ethereum vs. Bitcoin: What the usage–value split says about prices](https://ambcrypto.com/ethereum-vs-bitcoin-what-the-usage-value-split-says-about-prices/)**
+
+ETH wallet growth hits new highs while BTC exchange balances fall.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 115 • 💬 16 • ⏱️ 14:00 • 14h ago
+👁️ 3K • 👍 115 • 💬 16 • ⏱️ 14:00 • 15h ago
 
 ---
 
