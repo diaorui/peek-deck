@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T15:51:54.453354+00:00'
+updated: '2025-12-21T16:15:11.389828+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 15:51 UTC  
+**Last Updated:** December 21, 2025 at 16:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 2h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 3h ago
 
 ---
 
@@ -61,6 +61,14 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 ---
 
+**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
+
+I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
+
+1h ago
+
+---
+
 **[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
@@ -69,19 +77,19 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 ---
 
-**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
-
-I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
-
-39m ago
-
----
-
 **[Al Jazeera launches new integrative AI model, ‘The Core’ | Media News](https://www.reddit.com/r/artificial/comments/1ps773s/al_jazeera_launches_new_integrative_ai_model_the/)**
 
 Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 1h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 2h ago
+
+---
+
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
+
+At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 11m ago
 
 ---
 
@@ -107,14 +115,6 @@ A company is not just a collection of people. It is a collection of people doing
 
 ---
 
-**[One-Minute Daily AI News 12/20/2025](https://www.reddit.com/r/artificial/comments/1prz73c/oneminute_daily_ai_news_12202025/)**
-
-OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
-
-9h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,39 +123,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 7h ago
-
----
-
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
-
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
-
-CNN • 7h ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 2h ago
-
----
-
-**[Here's your big free reminder on AI stocks for 2026](https://finance.yahoo.com/news/heres-your-big-free-reminder-on-ai-stocks-for-2026-133036552.html)**
-
-You have to think beyond "Magnificent" stocks in 2026!
-
-Yahoo Finance • 2h ago
-
----
-
-**[New York State Just Put Itself on a Legal Collision Course with Trump’s AI Policy](https://gizmodo.com/new-york-state-just-put-itself-on-a-legal-collision-course-with-trumps-ai-policy-2000702258)**
-
-Setting the stage for courtroom battles.
-
-Gizmodo • 1h ago
+CNBC • 8h ago
 
 ---
 
@@ -165,7 +133,37 @@ The New York Times • 1d ago
 
 ---
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdkksC8hfDBz-7G22WanEhQuwj7hMWP9nOqmCEpZ3XyKbRogrTc3881&gaa_ts=694814d5&gaa_sig=8o3UNMMbHU6cX5kcODklceDJPRK_UtVgaHQcjCZ6IXdofAyYFB297tL8dM6MQ79BC3_lRxs2A1qpp9z42Lh9Rw%3D%3D)**
+**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
+
+Oracle stock peaked in September before suffering a continued decline in the back half of the year.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[New York State Just Put Itself on a Legal Collision Course with Trump’s AI Policy](https://gizmodo.com/new-york-state-just-put-itself-on-a-legal-collision-course-with-trumps-ai-policy-2000702258)**
+
+Setting the stage for courtroom battles.
+
+Gizmodo • 2h ago
+
+---
+
+**[OpenAI Is Getting More Efficient at Running Its AI, Internal Financials Show](https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show)**
+
+The Information • 15m ago
+
+---
+
+**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
+
+As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+
+CNN • 8h ago
+
+---
+
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfyEOeyFFV0O4_wZiPuxLW3IzgWFxXnkBE9BJIoWCiZAKcwKFMw2zQT&gaa_ts=69482078&gaa_sig=8Nv7BYGy-bThMGWo603KDCQVzSlEi5v71Ladvb3TMcoqrl3XzA_VFwFAsz21rcMxyjO_kOrXlr8SNon7roGTKw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -177,17 +175,17 @@ Politico • 1d ago
 
 ---
 
-**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
 
-Axios • 18h ago
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 3h ago
 
 ---
 
-**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
-
-Fortune • 2d ago
+Axios • 3h ago
 
 ---
 
@@ -211,7 +209,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 487 • 💬 436 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 488 • 💬 439 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -225,13 +223,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 221 • 💬 323 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 222 • 💬 326 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 183 • 💬 121 • 11h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 188 • 💬 127 • 12h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -243,6 +241,14 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 ---
 
+**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
+
+The Indie Game Awards presented the award last night, only to strip it hours later.
+
+⬆️ 127 • 💬 292 • 8h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+
+---
+
 **[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
 
 Timeline & Responsible Disclosure
@@ -251,19 +257,11 @@ Timeline & Responsible Disclosure
 
 ---
 
-**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
-
-The Indie Game Awards presented the award last night, only to strip it hours later.
-
-⬆️ 122 • 💬 281 • 8h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
-
----
-
 **[MIRA – An open-source persistent AI entity with memory](https://news.ycombinator.com/item?id=46339537)**
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 117 • 💬 47 • 19h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 117 • 💬 48 • 19h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -283,7 +281,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 89K • 👍 3K • 💬 770 • ⏱️ 15:25 • 20h ago
+👁️ 89K • 👍 3K • 💬 770 • ⏱️ 15:25 • 21h ago
 
 ---
 
@@ -323,7 +321,7 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 1.4M • 👍 60K • 💬 895 • ⏱️ 1:01 • 1d ago
+👁️ 1.4M • 👍 60K • 💬 895 • ⏱️ 1:01 • 2d ago
 
 ---
 
@@ -385,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,240 • 12d ago
+⬇️ 352,314 • ❤️ 3,241 • 12d ago
 
 ---
 
@@ -409,7 +407,19 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 387 • 2d ago
+⬇️ 3,459 • ❤️ 393 • 2d ago
+
+---
+
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 10,633 • ❤️ 383 • 2d ago
 
 ---
 
@@ -422,18 +432,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 `image-to-video`
 
 ⬇️ 3,021 • ❤️ 381 • 2d ago
-
----
-
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 10,633 • ❤️ 378 • 2d ago
 
 ---
 
@@ -457,7 +455,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 361 • 3d ago
+⬇️ 6,796 • ❤️ 362 • 3d ago
 
 ---
 
@@ -469,7 +467,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 310 • 5d ago
+⬇️ 0 • ❤️ 310 • 6d ago
 
 ---
 
@@ -703,7 +701,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 846 • 🔱 137 • 23h ago
+⭐ 846 • 🔱 137 • 1d ago
 
 ---
 

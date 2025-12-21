@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T15:51:54.468739+00:00'
+updated: '2025-12-21T16:15:11.407299+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 15:51 UTC  
+**Last Updated:** December 21, 2025 at 16:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-6h ago
-
----
-
-**[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
-
-I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
-
-22h ago
+7h ago
 
 ---
 
@@ -53,6 +45,14 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
 1h ago
+
+---
+
+**[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
+
+I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
+
+23h ago
 
 ---
 
@@ -84,6 +84,14 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 ---
 
+**[News of the planetary gearbox](https://www.reddit.com/r/robotics/comments/1prwz5c/news_of_the_planetary_gearbox/)**
+
+https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
+
+12h ago
+
+---
+
 **[World's first ever universal humanoid navigation stack](https://www.reddit.com/r/robotics/comments/1pqudhi/worlds_first_ever_universal_humanoid_navigation/)**
 
 Source: https://x.com/stash_pomichter/status/1983294144341807614
@@ -97,12 +105,6 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
 1d ago
-
----
-
-**[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
-
-15h ago
 
 ---
 
@@ -128,55 +130,7 @@ Interesting Engineering • 20h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 2h ago
-
----
-
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
-
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
-
-South China Morning Post • 1d ago
-
----
-
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
-
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
-
-Futurism • 1d ago
-
----
-
-**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
-
-Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
-
-CNET • 2h ago
-
----
-
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
-
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
-
-TechNode • 1d ago
-
----
-
-**[China’s humanoid robots' dance performance in Chengdu awes netizens; Elon Musk calls it ‘impressive’ on X](https://www.globaltimes.cn/page/202512/1351059.shtml)**
-
-Six humanoid robots recently took the stage at Chinese American singer-songwriter Wang Leehomâs concert in Chengdu, Southwest Chinaâs Sichuan Province, performing alongside the singer and drawing widespread attention, including praise from US tech billionaire Elon Musk, who retweeted a related video on X, and wrote âimpressive.â
-
-Global Times • 1d ago
-
----
-
-**[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
-
-China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
-
-South China Morning Post • 16h ago
+The Verge • 3h ago
 
 ---
 
@@ -185,6 +139,52 @@ South China Morning Post • 16h ago
 Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
 KEYC News Now • 1d ago
+
+---
+
+**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
+
+Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
+
+KSBY News • 2d ago
+
+---
+
+**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
+
+Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
+
+Fortune • 3d ago
+
+---
+
+**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
+
+KXAN Austin • 17h ago
+
+---
+
+**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
+
+Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
+
+Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
+
+The Robot Report • 1d ago
+
+---
+
+**[Shepherdsville distribution center uses robots to ship 120,000 holiday packages daily](https://www.wave3.com/2025/12/18/shepherdsville-distribution-center-uses-robots-ship-120000-holiday-packages-daily/)**
+
+A Shepherdsville distribution center is using 200 robots to help workers ship 120,000 packages daily during the peak holiday season, ensuring Christmas gifts arrive on time.
+
+WAVE News • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 288K • 👍 7K • 💬 920 • ⏱️ 18:35 • 18h ago
+👁️ 288K • 👍 7K • 💬 920 • ⏱️ 18:35 • 19h ago
 
 ---
 
@@ -266,7 +266,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 PRO ROBOTS
 
-👁️ 336K • 👍 6K • 💬 562 • ⏱️ 26:54 • 6d ago
+👁️ 336K • 👍 6K • 💬 562 • ⏱️ 26:54 • 7d ago
 
 ---
 

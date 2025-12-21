@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T15:51:54.460752+00:00'
+updated: '2025-12-21T16:15:11.398089+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 15:51 UTC  
+**Last Updated:** December 21, 2025 at 16:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,096.18
+### $88,024.38
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.2%  
-**7d:** +1.9%  
-**30d:** +4.0%  
-**90d:** -21.3%  
-**1y:** -7.4%  
+**7d:** +2.0%  
+**30d:** +4.2%  
+**90d:** -21.1%  
+**1y:** -7.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.84B
+**Market Cap:** $1757.84B
 Rank #1
 
-**Circulating Supply:** 19,965,125 BTC
+**Circulating Supply:** 19,965,140 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.2%
 
 **All-Time Low:** $67.81
-+129470.9%
++129730.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,6 +97,12 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 ---
 
+**[Everytime 🤬](https://www.reddit.com/r/Bitcoin/comments/1ps74vq/everytime/)**
+
+2h ago
+
+---
+
 **[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
 
 HODL
@@ -105,23 +111,17 @@ HODL
 
 ---
 
-**[XXI Capital reportedly accumulated 40,000 BTC (~$3.8B) in 2024 institutions keep stacking](https://www.reddit.com/r/Bitcoin/comments/1ps3zy9/xxi_capital_reportedly_accumulated_40000_btc_38b/)**
-
-XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Interesting to see continued institutional accumulation even before broader retail participation. Curious how others see this playing out over the next cycle.
-
-4h ago
-
----
-
-**[Everytime 🤬](https://www.reddit.com/r/Bitcoin/comments/1ps74vq/everytime/)**
-
-1h ago
-
----
-
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-20h ago
+21h ago
+
+---
+
+**[XXI Capital reportedly accumulated over 40,000 Bitcoin in 2024](https://www.reddit.com/r/Bitcoin/comments/1ps7ce2/xxi_capital_reportedly_accumulated_over_40000/)**
+
+According to recent reports, XXI Capital accumulated more than 40,000 BTC during 2024, with the holdings valued at approximately $3.8 billion at current prices. The accumulation highlights continued institutional interest in Bitcoin, even amid market volatility.
+
+2h ago
 
 ---
 
@@ -137,9 +137,9 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 ---
 
-**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
+**[How it started vs how it’s ending: Bitcoin skeptics vs reality”](https://www.reddit.com/r/Bitcoin/comments/1ps5n51/how_it_started_vs_how_its_ending_bitcoin_skeptics/)**
 
-18h ago
+3h ago
 
 ---
 
@@ -155,59 +155,47 @@ Nasdaq • 4h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqf4wees0zZh68MrSnyKz9qYe5B3nO8mT33zTojLuHAny09wARBtn8za&gaa_ts=694814d6&gaa_sig=0x05dSZxEc_kJswBjNNro69PMs--4ZmcEWkNVmwDr727zsx6zdDFVva02k81-ntd7uoyIH0drMBApRbm83W5Aw%3D%3D)**
+**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
 
-MarketWatch • 2d ago
+In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
 
----
-
-**[Crypto Bills Shouldn't Be Bitcoin or Bust, Says Indiana Lawmaker](https://finance.yahoo.com/news/crypto-bills-shouldnt-bitcoin-bust-150103408.html)**
-
-Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
-
-Yahoo Finance • 50m ago
+Futurism • 2d ago
 
 ---
 
-**[Michael Burry Compares Bitcoin to One of the Biggest Bubbles in History](https://www.fool.com/investing/2025/12/20/michael-burry-compares-bitcoin-to-one-of-the-bigge/)**
+**[Bitcoin mining ‘may be strengthening the ruble,’ says Russian central bank](https://finance.yahoo.com/news/bitcoin-mining-may-strengthening-ruble-142713571.html)**
 
-Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
+Mining ‘leading to strong ruble exchange rate,’ says governor. Bank’s bullish statement comes after years of anti-crypto rhetoric. Central bank reportedly ready to let certain citizens trade crypto via banking apps.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcn_qG3gxhiA88orMPexLWLIPwe1_eY6TLYtV8abTQAXQ2NOqGJ0iIF&gaa_ts=694814d6&gaa_sig=Gz24IwtCXzgfJZ_abeSBQpVbQGugpLQrP1ieRklfTcrxJzoNkuIDjvwn_1dEIqqQ3Pl2rqzp-Sb4rDtY066Orw%3D%3D)**
+**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
+
+Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
+
+The Motley Fool • 8m ago
+
+---
+
+**[Bitcoin (BTC) news: Need more evidence before lowering rates further, says Fed's Hammack](https://www.coindesk.com/markets/2025/12/21/incoming-voter-on-interest-rate-policy-cleveland-fed-s-hammack-says-no-more-cuts)**
+
+"My base case is that we can stay here for some period of time," Cleveland Fed President Beth Hammack told the WSJ.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfgWZrSwLndJdY5EpbTqqocaGFop9UG5FeXyGvrUEkdX0SZ01RkFgmc&gaa_ts=69482079&gaa_sig=ZyPaastZEjtz2bPzFs204q39kvwaGvDiT8Rd_YFn5d8iQFoq3Dy6jw_ET915q2icUmj0j6q7MGpioBULNV_8Ng%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqciQD8rPLoDDljnuXShbMp2pmG1MsEjaM2ichuuQ4macGTyvFsLsyjH&gaa_ts=694814d6&gaa_sig=RdLMvx_0SLP7f9qX8ZjDEkYmbcR0KXwdMZ4mGUMmeWOPrvhGftxEp45DfyiH-VP7XrNqM41kExdkGSqdSdLO5A%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
-
-Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
-
-Nasdaq • 1d ago
-
----
-
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-Reuters • 1d ago
-
----
-
-**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
-
-The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
-
-TradingView — Track All Markets • 2h ago
+Reuters • 2d ago
 
 ---
 
@@ -216,6 +204,18 @@ TradingView — Track All Markets • 2h ago
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
 Bloomberg.com • 2d ago
+
+---
+
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+
+Forbes • 2d ago
+
+---
+
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 1d ago
 
 ---
 
@@ -235,7 +235,7 @@ Bithoven is a smart contract language for composing powerful and secure instrume
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -265,13 +265,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 4h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 5h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 5h ago
+⬆️ 1 • 💬 0 • 6h ago
 
 ---
 
@@ -293,7 +293,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 153 • ⏱️ 14:31 • 22h ago
+👁️ 26K • 👍 2K • 💬 153 • ⏱️ 14:31 • 23h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 227 • 💬 110 • ⏱️ 55:13 • 1h ago
+👁️ 2K • 👍 227 • 💬 110 • ⏱️ 55:13 • 2h ago
 
 ---
 
@@ -363,7 +363,7 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 88K • 👍 5K • 💬 297 • ⏱️ 18:06 • 1d ago
+👁️ 88K • 👍 5K • 💬 297 • ⏱️ 18:06 • 2d ago
 
 ---
 
