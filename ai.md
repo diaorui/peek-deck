@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T19:41:24.060486+00:00'
+updated: '2025-12-21T19:52:54.053573+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 19:41 UTC  
+**Last Updated:** December 21, 2025 at 19:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Republicans make deepfake AI video of Democrat giving a kid trans hormone therapy. The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.](https://www.reddit.com/r/artificial/comments/1pry2ph/republicans_make_deepfake_ai_video_of_democrat/)**
-
-The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
-
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 14h ago
-
----
-
 **[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
 🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 6h ago
+
+---
+
+**[Republicans make deepfake AI video of Democrat giving a kid trans hormone therapy. The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.](https://www.reddit.com/r/artificial/comments/1pry2ph/republicans_make_deepfake_ai_video_of_democrat/)**
+
+The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
+
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 15h ago
 
 ---
 
@@ -61,19 +61,19 @@ I have observed that many people are talking about how Google is the only compan
 
 ---
 
-**[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
-
-Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
-
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 8h ago
-
----
-
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
 🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 3h ago
+
+---
+
+**[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
+
+Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
+
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 8h ago
 
 ---
 
@@ -93,6 +93,14 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 ---
 
+**[Understanding AI Benchmarks](https://www.reddit.com/r/artificial/comments/1psejki/understanding_ai_benchmarks/)**
+
+Tips for interpreting frontier model releases and their SOTA benchmark scores.
+
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 35m ago
+
+---
+
 **[Do you think most people will move to AI search soon?](https://www.reddit.com/r/artificial/comments/1psc3oo/do_you_think_most_people_will_move_to_ai_search/)**
 
 AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
@@ -109,21 +117,63 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
-**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
-
-14h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 6h ago
+
+---
 
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
 CNN • 11h ago
+
+---
+
+**[Fraudsters use AI to fake artwork authenticity and ownership](https://www.ft.com/content/fdfb5489-daa0-4e7e-97b7-4317514cd9f4)**
+
+Chatbots forge convincing sales invoices and other documents, say industry figures
+
+Financial Times • 1h ago
+
+---
+
+**[Riding the AI wave? You need a 'strong stomach': Dan Ives' strategy](https://finance.yahoo.com/video/riding-ai-wave-strong-stomach-190054666.html)**
+
+In the AI trade, you "can't just bet on one company," Wedbush Securities managing director and global head of technology research, Dan Ives, tells Yahoo Finance, highlighting the importance of diversification for AI investors. Watch the video above to hear more about Ives' AI thesis and the 30 stocks in the Dan IVES Wedbush AI Revolution ETF (IVES). To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
+
+Yahoo Finance • 52m ago
+
+---
+
+**[AI Is Stress-Testing The Grid. Can Energy Storage Diversify](https://www.forbes.com/sites/jenniferkitepowell/2025/12/21/ai-is-stress-testing-the-grid-can-energy-storage--diversify/)**
+
+Forbes • 1h ago
+
+---
+
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqf1tGZ2puWvME9PtkxPAlbv2b1zweOwDZJ5QSC7aR5C16UkLhvRZbDT&gaa_ts=6948537f&gaa_sig=R3WU3C9ygIGIlOyyKjsqTCUdBRx_MV1UpHbybu7Hinvs26bkO-Vd-N8UiZE3SdjX0UnvFhqI-6XcFukqoS5IUw%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 1d ago
 
 ---
 
@@ -135,59 +185,11 @@ CNBC • 11h ago
 
 ---
 
-**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+**[Shield AI’s new CEO says the $5.6B defense tech startup is at an inflection point](https://fortune.com/2025/12/21/shield-ai-ukraine-defense-tech-gary-steele/)**
 
-Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+Demand for Shield AI’s V-BAT is ramping up in Europe and Asia.
 
-Fortune • 2d ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 6h ago
-
----
-
-**[Assessing Applied Materials Valuation After AI Driven Surge In 2025](https://finance.yahoo.com/news/assessing-applied-materials-valuation-ai-170726228.html)**
-
-Wondering if Applied Materials is still a smart buy after such a huge run, or if the easy money has already been made? In this article, we break down what the current price is really saying about potential future returns. Despite a slight pullback of about 1.1% over the last week, the stock is still up roughly 14.5% over the past month, 56.5% year to date, and 58.3% over the last year, with multiyear gains well into triple digits. These moves have come as investors continue to focus on...
-
-Yahoo Finance • 2h ago
-
----
-
-**[AI Is Stress-Testing The Grid. Can Energy Storage Diversify](https://www.forbes.com/sites/jenniferkitepowell/2025/12/21/ai-is-stress-testing-the-grid-can-energy-storage--diversify/)**
-
-Forbes • 1h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
-
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfLYOPtibk33a19uIdpVXLma4yueKgdg22H6SH0lyk28OhcewV81oKV&gaa_ts=69484a95&gaa_sig=lU4BeydNbY8AiAk5OXOD_cv9oGqGSJg0q6zS3brGWB8iIilQmGjLoPdq-KN_ER4OFgJ5Outzfa_aeB1E-zR8ow%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 1d ago
-
----
-
-**[What does Trump’s AI czar want?](https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump)**
-
-David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
-
-Vox • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -199,7 +201,7 @@ Vox • 6h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 491 • 💬 453 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 494 • 💬 455 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -211,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 205 • 💬 153 • 15h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 209 • 💬 156 • 15h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -219,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 146 • 💬 344 • 12h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 148 • 💬 346 • 12h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -243,7 +245,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 122 • 💬 52 • 22h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 122 • 💬 52 • 23h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -263,7 +265,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 78 • 💬 73 • 14h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 80 • 💬 74 • 14h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -279,43 +281,13 @@ Some engineers dismiss AI coding tools as ‘garbage’ without trying modern ve
 
 ## YouTube Videos: "ai"
 
-**[I Asked AI To Predict The 2028 Election Map... The Results Were SHOCKING](https://www.youtube.com/watch?v=BQOhV8rGyZI)**
+**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
 
-Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com/@election.time *Discord Server* ...
+AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
 
-📺 Election Time
+📺 The Diary Of A CEO
 
-👁️ 91K • 👍 3K • 💬 796 • ⏱️ 15:25 • 1d ago
-
----
-
-**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
-
-welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
-
-📺 Fads
-
-👁️ 167K • 👍 9K • 💬 2K • ⏱️ 19:40 • 22h ago
-
----
-
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
-
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
-
-📺 Matt Wolfe
-
-👁️ 48K • 👍 3K • 💬 185 • ⏱️ 37:38 • 1d ago
-
----
-
-**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
-
-Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
-
-📺 SSSniperWolf
-
-👁️ 344K • 👍 10K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 10K • 👍 668 • 💬 46 • ⏱️ 1:29 • 1h ago
 
 ---
 
@@ -325,37 +297,47 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 719 • 👍 32 • 💬 3 • ⏱️ 1:03:20 • 6h ago
+👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:03:20 • 6h ago
 
 ---
 
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
 
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
 
-📺 gptars
+📺 Matt Wolfe
 
-👁️ 1.7M • 👍 71K • 💬 1K • ⏱️ 1:01 • 2d ago
-
----
-
-**[The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai](https://www.youtube.com/watch?v=2FHcEsGAaFg)**
-
-The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai#shorts #ronaldo #messi ...
-
-📺 FootyToons AI
-
-👁️ 311K • 💬 18 • ⏱️ 0:51 • 1d ago
+👁️ 50K • 👍 3K • 💬 189 • ⏱️ 37:38 • 1d ago
 
 ---
 
-**[Is the AI Bubble About to Burst? | Henrik Zeberg | TED](https://www.youtube.com/watch?v=pp8vdZdNl2A)**
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
 
-We are living through what may be the largest economic bubble in history, spanning AI, cryptocurrency and tech company stocks, ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 TED
+📺 Julian Goldie SEO
 
-👁️ 42K • 👍 806 • 💬 95 • ⏱️ 17:08 • 2d ago
+👁️ 5K • 👍 121 • 💬 11 • ⏱️ 8:42 • 21h ago
+
+---
+
+**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
+
+welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
+
+📺 Fads
+
+👁️ 175K • 👍 9K • 💬 2K • ⏱️ 19:40 • 23h ago
+
+---
+
+**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
+
+Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
+
+📺 SSSniperWolf
+
+👁️ 352K • 👍 10K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
@@ -365,17 +347,37 @@ Sam Altman is the CEO of OpenAI. Altman joins Big Technology Podcast to discuss 
 
 📺 Alex Kantrowitz
 
-👁️ 92K • 👍 5K • 💬 628 • ⏱️ 58:23 • 2d ago
+👁️ 94K • 👍 5K • 💬 642 • ⏱️ 58:23 • 2d ago
 
 ---
 
-**[Natasha Cheated Poor Hulk! Hulk Revenge#hulk #ai #shorts](https://www.youtube.com/watch?v=5bLvKQ3DyL4)**
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
 
-hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​ #sadstory​ #emotional​ #plotwist​ #shockending​ ...
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
 
-📺 Z Jung
+📺 gptars
 
-👁️ 13K • ⏱️ 0:59 • 6h ago
+👁️ 1.9M • 👍 79K • 💬 1K • ⏱️ 1:01 • 2d ago
+
+---
+
+**[AI Is Making Dating IMPOSSIBLE](https://www.youtube.com/watch?v=hv7vaYCASSY)**
+
+Dating is already confusing enough but add AI into the mix, and the entire relationship game is about to get flipped upside down.
+
+📺 The Infographics Show
+
+👁️ 27K • 👍 813 • 💬 310 • ⏱️ 11:26 • 22h ago
+
+---
+
+**[Google&#39;s 2 FREE AI Tools for Presentation in 2026 | Create Slides in 30 Seconds!](https://www.youtube.com/watch?v=05KagYI69HE)**
+
+How to Create Slides in 30 Seconds Using NotebookLM + Gemini 3 (FREE AI Tools 2026) | Google's FREE AI Tools: NotebookLM ...
+
+📺 Gurru Tech Solutions
+
+👁️ 5K • 👍 188 • 💬 14 • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -391,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,245 • 13d ago
+⬇️ 352,314 • ❤️ 3,246 • 13d ago
 
 ---
 
@@ -403,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 410 • 1d ago
+⬇️ 74,165 • ❤️ 411 • 1d ago
 
 ---
 
@@ -415,7 +417,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 404 • 2d ago
+⬇️ 3,459 • ❤️ 405 • 2d ago
 
 ---
 
@@ -719,7 +721,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 848 • 🔱 83 • 1h ago
+⭐ 848 • 🔱 83 • 2h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T19:41:24.074915+00:00'
+updated: '2025-12-21T19:52:54.066225+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 19:41 UTC  
+**Last Updated:** December 21, 2025 at 19:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,984.17
+### $2,989.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +0.7%  
-**30d:** +7.5%  
-**90d:** -28.5%  
-**1y:** -8.9%  
+**24h:** +0.1%  
+**7d:** +0.8%  
+**30d:** +7.6%  
+**90d:** -28.4%  
+**1y:** -8.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.98B
+**Market Cap:** $360.44B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.6%
 
 **All-Time Low:** $0.43
-+690739.5%
++690143.6%
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-22h ago
+23h ago
 
 ---
 
@@ -196,6 +196,14 @@ The Motley Fool • 2d ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 2d ago
+
+---
+
 **[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
@@ -220,14 +228,6 @@ AMBCrypto • 1d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 5K • 👍 440 • 💬 320 • ⏱️ 11:34 • 6h ago
+👁️ 7K • 👍 504 • 💬 377 • ⏱️ 11:34 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 843 • 👍 88 • 💬 6 • ⏱️ 4:12 • 4h ago
+👁️ 1K • 👍 107 • 💬 8 • ⏱️ 4:12 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 17K • 👍 1K • 💬 249 • ⏱️ 35:41 • 19h ago
+👁️ 18K • 👍 1K • 💬 256 • ⏱️ 35:41 • 19h ago
 
 ---
 
@@ -268,7 +268,7 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 165 • 👍 22 • 💬 9 • ⏱️ 14:27 • 2h ago
+👁️ 464 • 👍 38 • 💬 13 • ⏱️ 14:27 • 2h ago
 
 ---
 
@@ -288,7 +288,17 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 3K • 👍 84 • 💬 86 • ⏱️ 11:26 • 1d ago
+👁️ 3K • 👍 84 • 💬 101 • ⏱️ 11:26 • 1d ago
+
+---
+
+**[Crypto Altcoin Technical Analysis: Ethereum, Solana, XRP, Cardano, Avalanche, Chainlink And More](https://www.youtube.com/watch?v=b-yhuBpnzfg)**
+
+Chief Market Strategist Gareth Soloway uses technical analysis to give his near-term forecasts on altcoins like Ethereum (ETH), ...
+
+📺 Gareth Soloway
+
+👁️ 5K • 👍 784 • 💬 33 • ⏱️ 16:45 • 2h ago
 
 ---
 
@@ -298,7 +308,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 502 • 💬 13 • ⏱️ 21:53 • 2d ago
+👁️ 14K • 👍 509 • 💬 14 • ⏱️ 21:53 • 2d ago
 
 ---
 
@@ -308,27 +318,17 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 140 • 💬 17 • ⏱️ 14:00 • 1d ago
+👁️ 3K • 👍 143 • 💬 17 • ⏱️ 14:00 • 1d ago
 
 ---
 
-**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
+**[BMNR Stock &amp; ETH Technical Analysis Prediction | Tom Lee’s BitMine Set For Monster Q1 Move!](https://www.youtube.com/watch?v=-DWATwifb1Y)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+ethereum #bmnr #bitcoin In this video, I break down why BMNR stock and Ethereum are setting up for a major move into January ...
 
-📺 C-Zar Gets Crypto 
+📺 alliseeisW 
 
-👁️ 796 • 👍 34 • 💬 119 • ⏱️ 8:36 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: YES YES YES!!!!!!!](https://www.youtube.com/watch?v=fEcXagK-wdA)**
-
-This data can change everything now for bitcoin, ethereum and the rest of crypto! BEWARE!!!!!!! Strategic online session - to help ...
-
-📺 Thomas Kralow
-
-👁️ 18K • 👍 542 • 💬 34 • ⏱️ 8:37 • 2d ago
+👁️ 2K • 👍 76 • 💬 116 • ⏱️ 9:51 • 23h ago
 
 ---
 
