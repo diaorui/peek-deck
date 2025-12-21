@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T07:32:08.610824+00:00'
+updated: '2025-12-21T07:44:40.185730+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 07:32 UTC  
+**Last Updated:** December 21, 2025 at 07:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.52B
+**Market Cap:** $1758.70B
 Rank #1
 
 **Circulating Supply:** 19,964,943 BTC
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-13h ago
+14h ago
 
 ---
 
@@ -131,15 +131,15 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-21h ago
+22h ago
 
 ---
 
-**[People only love bitcoin when it is going up](https://www.reddit.com/r/Bitcoin/comments/1prk2gx/people_only_love_bitcoin_when_it_is_going_up/)**
+**[We faded Bitcoin at 1000$, what’s your sob story?](https://www.reddit.com/r/Bitcoin/comments/1prt8zc/we_faded_bitcoin_at_1000_whats_your_sob_story/)**
 
-I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
+Back in 2013, we sat through a lecture from a professor of economics who suggested putting 1–5% of your portfolio into ultra high-risk assets. He pointed to Bitcoin as a prime example. We chuckled at the idea and thought, “Good luck with that.” A decade later, that advice hits a little different.
 
-13h ago
+7h ago
 
 ---
 
@@ -289,7 +289,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 272 • 💬 146 • ⏱️ 11:07 • 12h ago
+👁️ 5K • 👍 272 • 💬 146 • ⏱️ 11:07 • 13h ago
 
 ---
 
