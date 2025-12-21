@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T18:38:14.666333+00:00'
+updated: '2025-12-21T18:54:16.218020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 18:38 UTC  
+**Last Updated:** December 21, 2025 at 18:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -113,7 +113,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-14m ago
+31m ago
 
 ---
 
@@ -131,7 +131,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[How it started vs how it’s ending: Bitcoin skeptics vs reality”](https://www.reddit.com/r/Bitcoin/comments/1ps5n51/how_it_started_vs_how_its_ending_bitcoin_skeptics/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -155,7 +155,7 @@ Forbes • 5h ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -163,7 +163,7 @@ Nasdaq • 6h ago
 
 Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 1d ago
 
 **[Tether-backed Northern Data sold bitcoin mining arm to companies run by Tether's own executives: FT](https://www.theblock.co/post/383439/tether-backed-northern-data-sold-bitcoin-mining-arm-to-companies-run-by-tethers-own-executives-ft)**
 
-The Block • 38m ago
+The Block • 55m ago
 
 ---
 

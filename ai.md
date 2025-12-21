@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T18:38:14.657596+00:00'
+updated: '2025-12-21T18:54:16.209496+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 18:38 UTC  
+**Last Updated:** December 21, 2025 at 18:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 13h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 14h ago
 
 ---
 
@@ -81,7 +81,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
 
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 42m ago
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 58m ago
 
 ---
 
@@ -105,13 +105,13 @@ AI Overviews now show up in around half of searches, and many people already use
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 23h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 1d ago
 
 ---
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Motley Fool • 16h ago
 
 It's not too late to get in on these high-flying AI stocks.
 
-The Motley Fool • 28m ago
+The Motley Fool • 44m ago
 
 ---
 
@@ -163,7 +163,7 @@ The Motley Fool • 28m ago
 
 As demand for artificial intelligence (AI) remains strong, investors are wondering who the biggest winners will be going into next year.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -255,7 +255,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 122 • 💬 52 • 21h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 122 • 💬 52 • 22h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -299,7 +299,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 167K • 👍 9K • 💬 2K • ⏱️ 19:40 • 21h ago
+👁️ 167K • 👍 9K • 💬 2K • ⏱️ 19:40 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Z Jung
 
-👁️ 13K • ⏱️ 0:59 • 5h ago
+👁️ 13K • ⏱️ 0:59 • 6h ago
 
 ---
 
@@ -703,7 +703,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 918 • 🔱 24 • 13d ago
+⭐ 918 • 🔱 24 • 14d ago
 
 ---
 
@@ -723,7 +723,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 848 • 🔱 83 • 52m ago
+⭐ 848 • 🔱 83 • 1h ago
 
 ---
 

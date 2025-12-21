@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T18:38:14.675898+00:00'
+updated: '2025-12-21T18:54:16.227502+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 18:38 UTC  
+**Last Updated:** December 21, 2025 at 18:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 what if, your working on outdated machinery/motors!? if doing better was reliant on knowing the limits instead of archaic designs? what if your wrong... Flux hybrid motors aren't a snake but really the only step forward #mds-tech #magen-drive #mds-tech @sorry4beenright! I didnt mean it... Just wtf
 
-1m ago
+17m ago
 
 ---
 
@@ -96,7 +96,7 @@ what if, your working on outdated machinery/motors!? if doing better was reliant
 
 https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-14h ago
+15h ago
 
 ---
 
@@ -210,7 +210,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 652 • 👍 12 • ⏱️ 0:19 • 1h ago
+👁️ 652 • 👍 12 • ⏱️ 0:19 • 2h ago
 
 ---
 
