@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T21:43:10.003349+00:00'
+updated: '2025-12-21T21:53:59.983016+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - repositories
 - videos
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 21:43 UTC  
+**Last Updated:** December 21, 2025 at 21:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 16h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 17h ago
 
 ---
 
@@ -81,7 +81,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 22m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 33m ago
 
 ---
 
@@ -147,7 +147,7 @@ CNN • 13h ago
 
 Google executive urges responsible AI development, citing collaborations brought about by President Donald Trump's "Genesis Mission" for energy and cybersecurity innovation.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox Business • 1h ago
 
 TRAVERSE CITY, Mich,. (WPBN/WGTU) - - Traverse City is conducting a sanitary sewer evaluation to assess the condition of its piping systems.The evaluation aims
 
-WPBN • 37m ago
+WPBN • 48m ago
 
 ---
 
@@ -163,7 +163,7 @@ WPBN • 37m ago
 
 They’re now known as the “reroute generation.”
 
-New York Post • 50m ago
+New York Post • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
 
-⬆️ 145 • 💬 13 • 2d ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 145 • 💬 13 • 3d ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ---
 
@@ -283,13 +283,13 @@ Some engineers dismiss AI coding tools as ‘garbage’ without trying modern ve
 
 ## YouTube Videos: "ai"
 
-**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
+**[5 AI&#39;s WORK TOGETHER to Make Subway Surfers From Scratch](https://www.youtube.com/watch?v=hopkhs_bsWA)**
 
-AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
+I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and make Subway Surfers From Scratch in ONE ...
 
-📺 The Diary Of A CEO
+📺 tef
 
-👁️ 10K • 👍 668 • 💬 46 • ⏱️ 1:29 • 3h ago
+👁️ 16K • 👍 2K • 💬 228 • ⏱️ 13:09 • 5h ago
 
 ---
 
@@ -299,27 +299,27 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:03:20 • 8h ago
+👁️ 2K • 👍 78 • 💬 11 • ⏱️ 1:03:20 • 8h ago
 
 ---
 
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+**[I Asked AI To Predict The 2028 Election Map... The Results Were SHOCKING](https://www.youtube.com/watch?v=BQOhV8rGyZI)**
 
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com/@election.time *Discord Server* ...
 
-📺 Matt Wolfe
+📺 Election Time
 
-👁️ 50K • 👍 3K • 💬 189 • ⏱️ 37:38 • 1d ago
+👁️ 98K • 👍 3K • 💬 856 • ⏱️ 15:25 • 1d ago
 
 ---
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
+**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
 
-📺 Julian Goldie SEO
+📺 The Diary Of A CEO
 
-👁️ 5K • 👍 121 • 💬 11 • ⏱️ 8:42 • 23h ago
+👁️ 20K • 👍 1K • 💬 66 • ⏱️ 1:29 • 3h ago
 
 ---
 
@@ -329,7 +329,47 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 175K • 👍 9K • 💬 2K • ⏱️ 19:40 • 1d ago
+👁️ 180K • 👍 10K • 💬 2K • ⏱️ 19:40 • 1d ago
+
+---
+
+**[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
+
+Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
+
+📺 Codie Sanchez
+
+👁️ 11K • 👍 1K • 💬 55 • ⏱️ 13:25 • 3h ago
+
+---
+
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 51K • 👍 3K • 💬 192 • ⏱️ 37:38 • 1d ago
+
+---
+
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 5K • 👍 122 • 💬 11 • ⏱️ 8:42 • 23h ago
+
+---
+
+**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
+
+Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
+
+📺 Bigfoot Feed
+
+👁️ 37K • 👍 763 • 💬 16 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -339,47 +379,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 352K • 👍 10K • 💬 1K • ⏱️ 15:39 • 2d ago
-
----
-
-**[Sam Altman: How OpenAI Wins, ChatGPT’s Future, AI Buildout Logic, IPO in 2026?](https://www.youtube.com/watch?v=2P27Ef-LLuQ)**
-
-Sam Altman is the CEO of OpenAI. Altman joins Big Technology Podcast to discuss OpenAI's plan to win in a tightening AI race.
-
-📺 Alex Kantrowitz
-
-👁️ 94K • 👍 5K • 💬 642 • ⏱️ 58:23 • 3d ago
-
----
-
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
-
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
-
-📺 gptars
-
-👁️ 1.9M • 👍 79K • 💬 1K • ⏱️ 1:01 • 2d ago
-
----
-
-**[AI Is Making Dating IMPOSSIBLE](https://www.youtube.com/watch?v=hv7vaYCASSY)**
-
-Dating is already confusing enough but add AI into the mix, and the entire relationship game is about to get flipped upside down.
-
-📺 The Infographics Show
-
-👁️ 27K • 👍 813 • 💬 310 • ⏱️ 11:26 • 1d ago
-
----
-
-**[Google&#39;s 2 FREE AI Tools for Presentation in 2026 | Create Slides in 30 Seconds!](https://www.youtube.com/watch?v=05KagYI69HE)**
-
-How to Create Slides in 30 Seconds Using NotebookLM + Gemini 3 (FREE AI Tools 2026) | Google's FREE AI Tools: NotebookLM ...
-
-📺 Gurru Tech Solutions
-
-👁️ 5K • 👍 188 • 💬 14 • ⏱️ 14:45 • 1d ago
+👁️ 358K • 👍 10K • 💬 1K • ⏱️ 15:39 • 2d ago
 
 ---
 
@@ -711,7 +711,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 865 • 🔱 166 • 15m ago
+⭐ 865 • 🔱 166 • 26m ago
 
 ---
 
@@ -731,7 +731,7 @@ Autonomous multi-session AI coding
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 849 • 🔱 83 • 3h ago
+⭐ 849 • 🔱 83 • 4h ago
 
 ---
 

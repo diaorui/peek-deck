@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T21:43:10.017657+00:00'
+updated: '2025-12-21T21:53:59.999512+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 21:43 UTC  
+**Last Updated:** December 21, 2025 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.7%  
-**30d:** +7.6%  
-**90d:** -28.5%  
-**1y:** -8.8%  
+**24h:** -0.3%  
+**7d:** +0.2%  
+**30d:** +7.0%  
+**90d:** -28.8%  
+**1y:** -9.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone, about two weeks ago my wallet was drained for over $840k, it is my life savings and I’m actually devastated. I’ve been trying all I can with onchain investigators to freeze CEX/recover anything but no result so far… My hacker is using TornadoCash and GoblinSwap / ChangeNOW to make it untraceable/buy monero (anonymous currency) is there really no way to freeze it? Before you ask me: No, I do not know how this happened, I always was very cautious and do not really know how it happened.
 
-3m ago
+14m ago
 
 ---
 
@@ -238,7 +238,47 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 7K • 👍 504 • 💬 377 • ⏱️ 11:34 • 8h ago
+👁️ 9K • 👍 558 • 💬 384 • ⏱️ 11:34 • 8h ago
+
+---
+
+**[BITCOIN WILL MOVE SOON (Don&#39;t Miss This)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pd5wdA-CqGA)**
+
+BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* https://bit.ly/PIONEX_ ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 142 • 💬 17 • ⏱️ 16:57 • 1h ago
+
+---
+
+**[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 398 • 💬 77 • ⏱️ 15:49 • 6h ago
+
+---
+
+**[Bitcoin &quot;Digital Gold&quot; &amp; Ethereum &quot;Digital Oil:&quot; Crypto&#39;s Path to Commoditization](https://www.youtube.com/watch?v=kZzRkG5IlXk)**
+
+Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does he see institutional investing adding long-term ...
+
+📺 Schwab Network
+
+👁️ 208 • 👍 12 • 💬 24 • ⏱️ 8:22 • 53m ago
+
+---
+
+**[XRP BITCOIN ETHEREUM ‼️ KNOW THIS BEFORE TOMORROW!](https://www.youtube.com/watch?v=bBU6oHVTtXQ)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 401 • 👍 58 • 💬 6 • ⏱️ 11:18 • 8m ago
 
 ---
 
@@ -248,17 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 8 • ⏱️ 4:12 • 6h ago
-
----
-
-**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 18K • 👍 1K • 💬 256 • ⏱️ 35:41 • 21h ago
+👁️ 2K • 👍 123 • 💬 8 • ⏱️ 4:12 • 6h ago
 
 ---
 
@@ -268,7 +298,27 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 464 • 👍 38 • 💬 13 • ⏱️ 14:27 • 4h ago
+👁️ 630 • 👍 51 • 💬 48 • ⏱️ 14:27 • 4h ago
+
+---
+
+**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 19K • 👍 1K • 💬 260 • ⏱️ 35:41 • 21h ago
+
+---
+
+**[Wall Street&#39;s Biggest Bitcoin Bull Is lying to You](https://www.youtube.com/watch?v=iJIcoKxtrGY)**
+
+Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethereum bet so big it can't be ignored. While he's publicly ...
+
+📺 Ryan’s Money Lab
+
+👁️ 3K • 👍 149 • 💬 29 • ⏱️ 8:06 • 6h ago
 
 ---
 
@@ -278,57 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 261 • 👍 16 • 💬 1 • ⏱️ 5:02 • 11h ago
-
----
-
-**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
-
-In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 84 • 💬 101 • ⏱️ 11:26 • 1d ago
-
----
-
-**[Crypto Altcoin Technical Analysis: Ethereum, Solana, XRP, Cardano, Avalanche, Chainlink And More](https://www.youtube.com/watch?v=b-yhuBpnzfg)**
-
-Chief Market Strategist Gareth Soloway uses technical analysis to give his near-term forecasts on altcoins like Ethereum (ETH), ...
-
-📺 Gareth Soloway
-
-👁️ 5K • 👍 784 • 💬 33 • ⏱️ 16:45 • 3h ago
-
----
-
-**[&quot;My Top 5 Honest Predictions for BTC, SOL &amp; ETH in 2026&quot;- Matt Hougan](https://www.youtube.com/watch?v=LJnaNv3Fuuo)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 14K • 👍 509 • 💬 14 • ⏱️ 21:53 • 2d ago
-
----
-
-**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
-
-Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
-
-📺 Ryan’s Money Lab
-
-👁️ 3K • 👍 143 • 💬 17 • ⏱️ 14:00 • 1d ago
-
----
-
-**[BMNR Stock &amp; ETH Technical Analysis Prediction | Tom Lee’s BitMine Set For Monster Q1 Move!](https://www.youtube.com/watch?v=-DWATwifb1Y)**
-
-ethereum #bmnr #bitcoin In this video, I break down why BMNR stock and Ethereum are setting up for a major move into January ...
-
-📺 alliseeisW 
-
-👁️ 2K • 👍 76 • 💬 116 • ⏱️ 9:51 • 1d ago
+👁️ 346 • 👍 17 • 💬 29 • ⏱️ 5:02 • 11h ago
 
 ---
 

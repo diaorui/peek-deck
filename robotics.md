@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T21:43:10.020863+00:00'
+updated: '2025-12-21T21:54:00.002900+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 21:43 UTC  
+**Last Updated:** December 21, 2025 at 21:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body contr
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-4m ago
+15m ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 28K • 👍 640 • 💬 66 • ⏱️ 2:08:46 • 1d ago
+👁️ 29K • 👍 650 • 💬 66 • ⏱️ 2:08:46 • 1d ago
 
 ---
 
@@ -208,7 +208,75 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 848 • 👍 13 • ⏱️ 0:19 • 4h ago
+👁️ 848 • 👍 13 • ⏱️ 0:19 • 5h ago
+
+---
+
+**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
+
+This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
+
+📺 NVIDIA Developer
+
+👁️ 1K • 👍 74 • 💬 1 • ⏱️ 55:42 • 1d ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 105K • 👍 6K • 💬 464 • ⏱️ 13:43 • 3d ago
+
+---
+
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+
+📺 SocksReact
+
+👁️ 359K • 👍 8K • 💬 1K • ⏱️ 18:35 • 1d ago
+
+---
+
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+
+📺 South China Morning Post
+
+👁️ 47K • 👍 587 • 💬 160 • ⏱️ 3:55 • 2d ago
+
+---
+
+**[CONTROL REWORK TRAILER + SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=31Pek0aIpEI)**
+
+Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   Blox Fruits Twitter: ...
+
+📺 Gamer Robot
+
+👁️ 3.1M • 👍 198K • 💬 44K • ⏱️ 15:02 • 19h ago
+
+---
+
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=XzV8EU9tNjA)**
+
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
+
+📺 Ai BOOF
+
+👁️ 42K • 👍 375 • 💬 20 • ⏱️ 0:11 • 17h ago
+
+---
+
+**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
+
+📺 Romi Pal
+
+👁️ 16.6M • 👍 114K • 💬 864 • ⏱️ 0:24 • 6d ago
 
 ---
 
@@ -219,74 +287,6 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 📺 AI Revolution
 
 👁️ 75K • 👍 1K • 💬 146 • ⏱️ 11:23 • 5d ago
-
----
-
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 102K • 👍 5K • 💬 456 • ⏱️ 13:43 • 3d ago
-
----
-
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
-
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
-
-📺 SocksReact
-
-👁️ 337K • 👍 8K • 💬 998 • ⏱️ 18:35 • 1d ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 45K • 👍 574 • 💬 160 • ⏱️ 3:55 • 2d ago
-
----
-
-**[CONTROL REWORK TRAILER + SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=31Pek0aIpEI)**
-
-Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   Blox Fruits Twitter: ...
-
-📺 Gamer Robot
-
-👁️ 2.9M • 👍 193K • 💬 43K • ⏱️ 15:02 • 19h ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=XzV8EU9tNjA)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 41K • 👍 365 • 💬 20 • ⏱️ 0:11 • 17h ago
-
----
-
-**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
-
-📺 Romi Pal
-
-👁️ 16.4M • 👍 112K • 💬 846 • ⏱️ 0:24 • 6d ago
-
----
-
-**[Tomato Harvesting Robot in Action | AgriTech Innovation 🚜🤖](https://www.youtube.com/watch?v=VCIaxMgWDtQ)**
-
-Watch how advanced AI-powered robots are transforming modern farming! This smart agricultural robot helps farmers ...
-
-📺 Digital Farming 
-
-👁️ 27K • 👍 53 • ⏱️ 0:09 • 2d ago
 
 ---
 

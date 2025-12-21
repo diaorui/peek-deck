@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T21:43:10.011741+00:00'
+updated: '2025-12-21T21:53:59.993191+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 21:43 UTC  
+**Last Updated:** December 21, 2025 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.0%  
 **7d:** +2.1%  
-**30d:** +4.3%  
+**30d:** +4.2%  
 **90d:** -21.1%  
 **1y:** -7.2%  
 
@@ -101,7 +101,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-50m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hello guys! Do you invest into anything else like real estate, stocks, bonds or 
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -159,7 +159,7 @@ Forbes • 8h ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -167,7 +167,7 @@ Nasdaq • 9h ago
 
 Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
 
-CoinDesk • 16m ago
+CoinDesk • 27m ago
 
 ---
 
@@ -301,7 +301,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 590 • 💬 243 • ⏱️ 55:13 • 7h ago
+👁️ 11K • 👍 678 • 💬 272 • ⏱️ 55:13 • 7h ago
 
 ---
 
@@ -311,7 +311,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 172 • ⏱️ 14:31 • 1d ago
+👁️ 29K • 👍 2K • 💬 165 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -321,7 +321,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptosRus Extra
 
-👁️ 16K • 👍 659 • 💬 368 • ⏱️ 10:58 • 1d ago
+👁️ 16K • 👍 670 • 💬 369 • ⏱️ 10:58 • 1d ago
 
 ---
 
@@ -331,57 +331,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 32K • 👍 2K • 💬 535 • ⏱️ 8:54 • 14h ago
-
----
-
-**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
-
-My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 136 • ⏱️ 13:47 • 1d ago
-
----
-
-**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
-
-Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
-
-📺 BTC Isla
-
-👁️ 26K • 👍 2K • 💬 367 • ⏱️ 8:31 • 2d ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 45K • 👍 2K • 💬 215 • ⏱️ 44:14 • 2d ago
-
----
-
-**[🚨 BITCOIN SHORT TERM WARNING](https://www.youtube.com/watch?v=-_DZV2Cniao)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 16K • 👍 427 • 💬 3 • ⏱️ 1:04 • 1d ago
-
----
-
-**[Bitcoin Trading Range on Daily Chart](https://www.youtube.com/watch?v=WSjKTVT1id4)**
-
-Bitcoin remains stuck in a sideways range, with low volatility and minimal directional conviction. This consolidation phase is likely ...
-
-📺 Brooks Trading Course
-
-👁️ 357 • 👍 51 • 💬 45 • ⏱️ 8:29 • 4h ago
+👁️ 35K • 👍 2K • 💬 530 • ⏱️ 8:54 • 14h ago
 
 ---
 
@@ -391,7 +341,57 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 916 • 👍 111 • 💬 19 • ⏱️ 12:58 • 5h ago
+👁️ 2K • 👍 148 • 💬 38 • ⏱️ 12:58 • 5h ago
+
+---
+
+**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
+
+My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 133 • ⏱️ 13:47 • 1d ago
+
+---
+
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 45K • 👍 2K • 💬 213 • ⏱️ 44:14 • 2d ago
+
+---
+
+**[🚨 BITCOIN SHORT TERM WARNING](https://www.youtube.com/watch?v=-_DZV2Cniao)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 16K • 👍 430 • 💬 3 • ⏱️ 1:04 • 1d ago
+
+---
+
+**[Is Gold Killing Bitcoin? The Harsh Truth About What’s Coming In 2026](https://www.youtube.com/watch?v=NVgENlLOtIk)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 4K • 👍 470 • 💬 95 • ⏱️ 14:16 • 4h ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
+
+It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
+
+📺 Benjamin Cowen
+
+👁️ 90K • 👍 6K • 💬 297 • ⏱️ 18:06 • 2d ago
 
 ---
 
