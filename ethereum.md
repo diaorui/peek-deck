@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T11:53:30.146440+00:00'
+updated: '2025-12-21T12:33:08.400358+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 11:53 UTC  
+**Last Updated:** December 21, 2025 at 12:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
+**24h:** +0.6%  
 **7d:** +1.1%  
-**30d:** +7.9%  
+**30d:** +8.0%  
 **90d:** -28.2%  
 **1y:** -8.5%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $361.73B
+**Market Cap:** $362.17B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.4%
 
 **All-Time Low:** $0.43
-+692025.9%
++692587.2%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 15h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 16h ago
 
 ---
 
@@ -154,7 +154,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 16h ago
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 15h ago
+ZyCrypto • 16h ago
 
 ---
 
@@ -174,17 +174,17 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 2d ago
-
----
-
 **[Solana to Surpass Ethereum in Yearly Revenue](https://www.tradingview.com/news/u_today:85769ad66094b:0-solana-to-surpass-ethereum-in-yearly-revenue/)**
 
 Solana founder Anatoly Yakovenko has shared new data that shows Solana has outperformed Ethereum in yearly revenue, highlighting what he sees as a pivotal shift in how value may be distributed across the crypto market.The infographics by DeFi Development Corp. show the projected chain revenue compa…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
+
+---
+
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 12K • 👍 854 • 💬 205 • ⏱️ 35:41 • 11h ago
+👁️ 12K • 👍 854 • 💬 205 • ⏱️ 35:41 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 80 • 💬 76 • ⏱️ 11:26 • 21h ago
+👁️ 2K • 👍 80 • 💬 76 • ⏱️ 11:26 • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 16h ago
+👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 121 • 💬 15 • ⏱️ 14:00 • 17h ago
+👁️ 3K • 👍 121 • 💬 15 • ⏱️ 14:00 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 153 • 💬 6 • ⏱️ 6:04 • 21h ago
+👁️ 2K • 👍 153 • 💬 6 • ⏱️ 6:04 • 22h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 314 • 💬 170 • ⏱️ 21:12 • 14h ago
+👁️ 7K • 👍 314 • 💬 170 • ⏱️ 21:12 • 15h ago
 
 ---
 

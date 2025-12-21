@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T11:53:30.140254+00:00'
+updated: '2025-12-21T12:33:08.394267+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 11:53 UTC  
+**Last Updated:** December 21, 2025 at 12:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,242.32
+### $88,368.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.5%  
-**30d:** +4.7%  
-**90d:** -20.8%  
-**1y:** -6.8%  
+**24h:** +0.3%  
+**7d:** +2.4%  
+**30d:** +4.6%  
+**90d:** -20.9%  
+**1y:** -6.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1769.26B
+**Market Cap:** $1771.98B
 Rank #1
 
-**Circulating Supply:** 19,965,006 BTC
+**Circulating Supply:** 19,965,078 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.6%
 
 **All-Time Low:** $67.81
-+130622.6%
++130851.2%
 
 ---
 
@@ -77,15 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
-
-12h ago
-
----
-
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,63 +87,63 @@ Rank #1
 
 HODL
 
-2h ago
-
----
-
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
-
-16h ago
+3h ago
 
 ---
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-2h ago
+3h ago
+
+---
+
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+
+17h ago
+
+---
+
+**[XXI Capital reportedly accumulated 40,000 BTC (~$3.8B) in 2024 institutions keep stacking](https://www.reddit.com/r/Bitcoin/comments/1ps3zy9/xxi_capital_reportedly_accumulated_40000_btc_38b/)**
+
+XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Interesting to see continued institutional accumulation even before broader retail participation. Curious how others see this playing out over the next cycle.
+
+1h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
+
+13h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-14h ago
-
----
-
-**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
-
-21h ago
+15h ago
 
 ---
 
 **[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
+**[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-7h ago
+22h ago
 
 ---
 
 **[Title](https://www.reddit.com/r/Bitcoin/comments/1prybko/title/)**
 
-6h ago
+7h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
-
-Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
-
-Yahoo Finance • 1d ago
-
----
 
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
@@ -159,39 +153,33 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin May Not Have Bottomed Yet as Social Media Fear Remains Low: Analyst](https://finance.yahoo.com/news/bitcoin-may-not-bottomed-yet-084500470.html)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
-Bitcoin may still have further downside ahead, as crypto traders have yet to display the level of fear typically associated with a market bottom, according to Santiment founder Maksim Balashevich. Key Takeaways: Bitcoin could still fall toward $75,000 as social media sentiment remains too optimistic, according to Santiment’s Maksim Balashevich. ...
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-Yahoo Finance • 3h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqct57cYItuhsnARHtnc0EonPaLx6GEMkCE33ivDlTowi0e4439wVR8M&gaa_ts=6947ddc5&gaa_sig=TFFxnQQPmABICwYqXbYyZSitAA56CucQwMx5xlK4vLgE711rhpSCVeLgQ075_CQzpGOU_L69A_xvloLawCHtlg%3D%3D)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/21/better-crypto-buy-bitcoin-vs-xrp/)**
+
+Crypto has had a bumpy ride this year, giving back the gains from late last year and earlier this year.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Michael Saylor Admits His ‘Big Mistake’ on Bitcoin, Says Price Falling After Strategy's $2B Purchase Is 'Good Thing'](https://finance.yahoo.com/news/michael-saylor-admits-big-mistake-110216353.html)**
+
+Michael Saylor said Bitcoin’s failure to rise after Strategy’s roughly $2 billion in recent purchases reflects market maturity. Saylor reiterated his belief that Bitcoin can ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfVGaRcLFGMmto0-0F50iz6nLi6aSjGlc2RFgK8Yd4ki0ne8Gun7-Bz&gaa_ts=6947ec6d&gaa_sig=R-9564dd5JM-gVdWJ08sffybHsY_ioZy1hIvgtZlOdAiYh0qptR0jmcH4bUx65PdYii1CvElTet4_Kr4LZu_Fg%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqcg5V4ZzawUa7PZcJrP7SAwYqGy9-4Nd969ZQ1cfvXY83qL6jwBOVSc&gaa_ts=6947ddc5&gaa_sig=k0m197NDW2ywr84iel5t4oIAytdqRUxLgN4POfGvVXIktAW72kJNsrLED6Jr3n62R5yl7K6buPXkBwBm9rR4Qg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
-
-Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
-
-CoinDesk • 1d ago
-
----
-
-**[Michael Burry Compares Bitcoin to One of the Biggest Bubbles in History](https://www.fool.com/investing/2025/12/20/michael-burry-compares-bitcoin-to-one-of-the-bigge/)**
-
-Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
-
-The Motley Fool • 23h ago
 
 ---
 
@@ -208,6 +196,18 @@ CoinDesk • 1d ago
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+
+Reuters • 1d ago
+
+---
+
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqdYt19n8KC3KRm2uc43dWE5pZtWfK3xTigttZznHSv8LqJkqGJYYaGu&gaa_ts=6947ec6d&gaa_sig=UFWP2no1KTrlFsXfbsCTT9Y-l3RwhIiQG2MUHVHCJ-UhPcxXXDgekElOtlntWSIVuFW8K3ntPjJZVPxxlW_fYA%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -263,13 +263,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 1 • 💬 0 • 56m ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 1 • 💬 0 • 1h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 1h ago
+⬆️ 1 • 💬 0 • 2h ago
 
 ---
 
@@ -291,7 +291,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 117 • ⏱️ 14:31 • 18h ago
+👁️ 24K • 👍 1K • 💬 117 • ⏱️ 14:31 • 19h ago
 
 ---
 
@@ -341,7 +341,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 101 • ⏱️ 46:11 • 21h ago
+👁️ 46K • 👍 2K • 💬 101 • ⏱️ 46:11 • 22h ago
 
 ---
 
@@ -351,7 +351,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 390 • 💬 3 • ⏱️ 1:04 • 22h ago
+👁️ 14K • 👍 390 • 💬 3 • ⏱️ 1:04 • 23h ago
 
 ---
 
@@ -381,7 +381,7 @@ Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutor
 
 📺 VoskCoin
 
-👁️ 3K • 👍 122 • 💬 37 • ⏱️ 15:00 • 20h ago
+👁️ 3K • 👍 122 • 💬 37 • ⏱️ 15:00 • 21h ago
 
 ---
 

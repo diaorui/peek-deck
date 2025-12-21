@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T11:53:30.149727+00:00'
+updated: '2025-12-21T12:33:08.403619+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 11:53 UTC  
+**Last Updated:** December 21, 2025 at 12:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-18h ago
+19h ago
 
 ---
 
@@ -66,7 +66,15 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-23h ago
+1d ago
+
+---
+
+**[doubts on my college project robot](https://www.reddit.com/r/robotics/comments/1ps52mg/doubts_on_my_college_project_robot/)**
+
+Hi everyone, I’m working on a college final-year project focused on an autonomous arecanut harvesting robot and would appreciate some guidance. The robot is designed to be manually clamped onto an arecanut tree trunk and climb vertically using three inward-facing motorized wheels. A lightweight robotic manipulator mounted on a circular rail handles scanning and harvesting. The arm carries a camera and a circular cutter to detect ripe/unripe arecanut bunches and cut the bunch branch when maturity criteria are met. The system follows a simple sequence: clamp → climb → detect → harvest → descend, without any ground navigation or mapping. I’m unsure about the software architecture for this system. Do I need to use ROS2 for this kind of robot, or would a simpler approach be better? If ROS2 is not necessary, what would be a recommended way to structure the software (controllers, state machines, communication, etc.) for a task-oriented agricultural robot like this? I used ChatGPT mainly to improve the clarity of my English and to better explain the problem.
+
+25m ago
 
 ---
 
@@ -98,14 +106,6 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 ---
 
-**[Plume, a small biped robot](https://www.reddit.com/r/robotics/comments/1pqykl4/plume_a_small_biped_robot/)**
-
-Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,7 +120,7 @@ Bloomberg.com • 2d ago
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 17h ago
 
 ---
 
@@ -132,19 +132,19 @@ Futurism • 1d ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 1d ago
-
----
-
 **[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
 KSBY News • 2d ago
+
+---
+
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 1d ago
 
 ---
 
@@ -164,25 +164,25 @@ The Robot Report • 22h ago
 
 ---
 
-**[Nvidia-led NitroGen is a generalist video gaming AI that can play any title — research also has big implications for robotics](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-led-nitrogen-is-a-generalist-video-gaming-ai-that-can-play-any-title-research-also-has-big-implications-for-robotics)**
-
-Trained on 40,000 hours of gameplay in 1,000+ titles.
-
-Tom's Hardware • 1d ago
-
----
-
-**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
-
-KXAN Austin • 13h ago
-
----
-
 **[crafted in solid walnut and maple, phantom is the world’s first robotic chessboard](https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/)**
 
 a synthesis of traditional woodcraft and silent robotics, phantom reimagines the chessboard as a self‑playing heirloom.
 
 Designboom • 2d ago
+
+---
+
+**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
+
+Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
+
+KXAN Austin • 14h ago
 
 ---
 
@@ -206,7 +206,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 2.0M • 👍 153K • 💬 36K • ⏱️ 15:02 • 9h ago
+👁️ 2.0M • 👍 153K • 💬 36K • ⏱️ 15:02 • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Retire Army Soldier Build Robotic Zebra for Indian Girl #ai #army #save #robot.
 
 📺 Meow World
 
-👁️ 2.5M • 👍 47K • 💬 52 • ⏱️ 0:40 • 6d ago
+👁️ 2.5M • 👍 47K • 💬 52 • ⏱️ 0:40 • 7d ago
 
 ---
 
