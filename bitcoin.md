@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T04:25:36.256632+00:00'
+updated: '2025-12-21T04:54:38.590202+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 04:25 UTC  
+**Last Updated:** December 21, 2025 at 04:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +1.7%  
-**30d:** +3.9%  
-**90d:** -21.4%  
-**1y:** -7.5%  
+**24h:** -0.5%  
+**7d:** +1.9%  
+**30d:** +4.1%  
+**90d:** -21.2%  
+**1y:** -7.3%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ The crypto market is down" Degens with their last $200:
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -133,7 +133,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ I don't understand why people get depressed when bitcoin goes down. Do you want 
 
 Back in 2013, we sat through a lecture from a professor of economics who suggested putting 1–5% of your portfolio into ultra high-risk assets. He pointed to Bitcoin as a prime example. We chuckled at the idea and thought, “Good luck with that.” A decade later, that advice hits a little different.
 
-3h ago
+4h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 18h ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 2d ago
 
 Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -291,7 +291,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 260 • 💬 119 • ⏱️ 11:07 • 9h ago
+👁️ 4K • 👍 260 • 💬 119 • ⏱️ 11:07 • 10h ago
 
 ---
 
@@ -351,7 +351,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 397 • 💬 100 • ⏱️ 4:18 • 10h ago
+👁️ 8K • 👍 397 • 💬 100 • ⏱️ 4:18 • 11h ago
 
 ---
 

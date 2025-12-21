@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T04:25:36.265986+00:00'
+updated: '2025-12-21T04:54:38.599482+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 04:25 UTC  
+**Last Updated:** December 21, 2025 at 04:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-11h ago
+12h ago
 
 ---
 
@@ -58,13 +58,13 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-15h ago
+16h ago
 
 ---
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
 
-7h ago
+8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 **[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-33m ago
+1h ago
 
 ---
 
@@ -122,7 +122,7 @@ Futurism • 1d ago
 
 Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
 
-TechNode • 15h ago
+TechNode • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ NVIDIA Developer • 3d ago
 
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Robot Report • 14h ago
 
 Trained on 40,000 hours of gameplay in 1,000+ titles.
 
-Tom's Hardware • 17h ago
+Tom's Hardware • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 552K • 👍 82K • 💬 22K • ⏱️ 15:02 • 1h ago
+👁️ 552K • 👍 82K • 💬 22K • ⏱️ 15:02 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T04:25:36.262742+00:00'
+updated: '2025-12-21T04:54:38.596197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 04:25 UTC  
+**Last Updated:** December 21, 2025 at 04:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +0.4%  
+**24h:** -0.3%  
+**7d:** +0.3%  
 **30d:** +7.2%  
 **90d:** -28.7%  
-**1y:** -9.1%  
+**1y:** -9.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-7h ago
+8h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Block • 1d ago
 
 Ethereum’s derivatives market is showing signs of a decisive shift beneath the surface, and price action is about to return above the $3,000 mark. On-chain data suggests trader behavior on major exchanges is shifting into a more accumulative phase.Even as ETH continues to linger below the psycholog…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 5K • 👍 490 • 💬 116 • ⏱️ 35:41 • 3h ago
+👁️ 5K • 👍 490 • 💬 116 • ⏱️ 35:41 • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ BREAKING: It has officially started. SWIFT and over 30 global financial giants�
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 56 • 💬 42 • ⏱️ 14:59 • 9h ago
+👁️ 1K • 👍 56 • 💬 42 • ⏱️ 14:59 • 10h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 2K • 👍 105 • 💬 14 • ⏱️ 14:00 • 9h ago
+👁️ 2K • 👍 105 • 💬 14 • ⏱️ 14:00 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 250 • 💬 73 • ⏱️ 21:12 • 6h ago
+👁️ 5K • 👍 250 • 💬 73 • ⏱️ 21:12 • 7h ago
 
 ---
 

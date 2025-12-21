@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T04:25:36.248088+00:00'
+updated: '2025-12-21T04:54:38.581725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 04:25 UTC  
+**Last Updated:** December 21, 2025 at 04:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 9h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 10h ago
 
 ---
 
@@ -81,7 +81,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ OK so I love AI. I am all in on artificial intelligence. Our ability to solve co
 
 In enterprise AI workloads are beginning to unleash. As I witness this process the cuts are coming and they are brutal and should not be ignored. For me personally, I feel there is one key aspect in the industry that is being grossly ignore. How do we increase actual productivity by not just automating jobs away but allow for workers to increase workloads and productivity by doing more than what they could have done before because of the benefit of AI. Online, you hear good talking points about how it could go but in the real world there is no softlanding I am seeing. You hear things like this will increase the the productivity but it's a net 0 loss if you only automate but don't actually increase productivity by the workforce you have. On one hand AI tools are helpful to the upper echelons as they can use those tools to make their day more productive and that can be a net gain if that person can actually do more. There is good commentary on this and is mostly agreeable. On the other hand a person whose job is simply automated away may have nothing to fall back on as efficiencies allow to rid the position. This is Net 0 Loss. There is no productivity gain there is only an efficiency gain. In my mind, I would think it would be prudent for lines of business to fight for their budgets by ideating what could increase their workloads and productivity if they could do more and start planning those capabilities simultaneously as they are solutiononing AI workflows. If this posture is not articulated and articulated quickly I fear that the job losses could be insurmountable and devastating to the economy. All while achieving a NET 0 LOSS. No productivity boost just job loss accumulation. Because I am an optimist I believe there is a silver lining here. The ideation of what is truly productivity boosting should come with the package of automation design. Meaning, lines of business should be responsible for doing both. Productivity gains with budgets they have if they could do more. In other words, if you could hire 100 new workers what else would you do. If a business line can't answer that question then perhaps it's a reflection of that business line than anything else. The C-Suite can push for such initiatives that have both and the public perception in my mind would be much better than advertising solely job loss efficiency gains. Has anyone else experienced this with the AI products you're building?
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 1h ago
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 13h ago
+Politico • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ BBC • 1d ago
 
 If you’re going online to buy some last-minute gifts this holiday season, there’s a chance the price you pay will be influenced by what’s known as “surveillance pricing.” Some retailers are using artificial intelligence to set individualized prices online by sifting through personal data, including age, gender, location and browsing history. Ali Rogin speaks with Jay Stanley at the ACLU for more.
 
-PBS • 5h ago
+PBS • 6h ago
 
 ---
 
@@ -223,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 448 • 💬 400 • 19h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 448 • 💬 400 • 20h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -237,7 +237,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 201 • 💬 305 • 18h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 201 • 💬 305 • 19h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -660,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.3k • 🔱 580 • 13h ago
+⭐ 5.3k • 🔱 582 • 14h ago
 
 ---
 
@@ -670,7 +670,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 162 • 10h ago
+⭐ 2.3k • 🔱 165 • 32m ago
 
 ---
 
@@ -690,7 +690,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 933 • 🔱 43 • 3d ago
+⭐ 937 • 🔱 44 • 3d ago
 
 ---
 
@@ -700,7 +700,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 916 • 🔱 24 • 13d ago
+⭐ 917 • 🔱 24 • 13d ago
 
 ---
 
@@ -720,7 +720,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 820 • 🔱 76 • 10h ago
+⭐ 823 • 🔱 77 • 11h ago
 
 ---
 
@@ -740,7 +740,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 753 • 🔱 60 • 17d ago
+⭐ 754 • 🔱 60 • 17d ago
 
 ---
 
