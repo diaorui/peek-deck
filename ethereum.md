@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T10:23:07.647148+00:00'
+updated: '2025-12-21T10:42:22.403984+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 10:23 UTC  
+**Last Updated:** December 21, 2025 at 10:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.3%  
-**30d:** +8.2%  
-**90d:** -28.0%  
-**1y:** -8.3%  
+**24h:** +0.5%  
+**7d:** +1.2%  
+**30d:** +8.1%  
+**90d:** -28.1%  
+**1y:** -8.4%  
 
 ---
 
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 11K • 👍 761 • 💬 193 • ⏱️ 35:41 • 9h ago
+👁️ 11K • 👍 761 • 💬 193 • ⏱️ 35:41 • 10h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 115 • 💬 16 • ⏱️ 14:00 • 15h ago
+👁️ 3K • 👍 115 • 💬 16 • ⏱️ 14:00 • 16h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 297 • 💬 167 • ⏱️ 21:12 • 12h ago
+👁️ 6K • 👍 297 • 💬 167 • ⏱️ 21:12 • 13h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T10:23:07.652587+00:00'
+updated: '2025-12-21T10:42:22.407254+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 10:23 UTC  
+**Last Updated:** December 21, 2025 at 10:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -162,7 +162,7 @@ Fortune • 3d ago
 
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-The Robot Report • 20h ago
+The Robot Report • 21h ago
 
 ---
 
@@ -208,7 +208,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 1.7M • 👍 135K • 💬 33K • ⏱️ 15:02 • 7h ago
+👁️ 1.7M • 👍 135K • 💬 33K • ⏱️ 15:02 • 8h ago
 
 ---
 

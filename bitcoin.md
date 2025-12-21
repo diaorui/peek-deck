@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T10:23:07.638922+00:00'
+updated: '2025-12-21T10:42:22.397854+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 10:23 UTC  
+**Last Updated:** December 21, 2025 at 10:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,815.38
+### $88,749.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.6%  
-**30d:** +4.8%  
-**90d:** -20.7%  
-**1y:** -6.7%  
+**24h:** +0.6%  
+**7d:** +2.8%  
+**30d:** +5.0%  
+**90d:** -20.6%  
+**1y:** -6.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 HODL
 
-50m ago
+1h ago
 
 ---
 
@@ -137,7 +137,7 @@ HODL
 
 The crypto market is down" Degens with their last $200:
 
-16h ago
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo Finance • 1d ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 23h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -265,7 +265,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 16m ago
+⬆️ 1 • 💬 0 • 36m ago
 
 ---
 

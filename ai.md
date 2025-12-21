@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T10:23:07.630426+00:00'
+updated: '2025-12-21T10:42:22.389312+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 10:23 UTC  
+**Last Updated:** December 21, 2025 at 10:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 22h ago
 
 **[AI agents are coming to job interviews. Tips for handling them](https://qz.com/ai-agent-job-interview-tips)**
 
-qz.com • 22m ago
+qz.com • 41m ago
 
 ---
 
@@ -143,7 +143,7 @@ qz.com • 22m ago
 
 Meta's Louisiana data center can use more than 23 million gallons of water per day, or 8.4 billion gallons per year, according to state records and the company. But Meta says those limits are much higher than what it will actually use.
 
-NOLA.com • 23m ago
+NOLA.com • 42m ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 167 • 59m ago
+⭐ 2.3k • 🔱 167 • 1h ago
 
 ---
 
