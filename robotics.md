@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T05:52:51.074264+00:00'
+updated: '2025-12-21T06:22:42.301087+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 05:52 UTC  
+**Last Updated:** December 21, 2025 at 06:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-12h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Website: https://www.nio-robotics.com/
 
-20h ago
+21h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-19h ago
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Robot Report • 16h ago
 
 **[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
 
-KXAN Austin • 7h ago
+KXAN Austin • 8h ago
 
 ---
 
@@ -286,7 +286,7 @@ Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consi
 
 📺 Aimin
 
-👁️ 560K • 👍 15K • 💬 3K • ⏱️ 14:27 • 15h ago
+👁️ 560K • 👍 15K • 💬 3K • ⏱️ 14:27 • 16h ago
 
 ---
 

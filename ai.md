@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T05:52:51.056169+00:00'
+updated: '2025-12-21T06:22:42.285533+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 05:52 UTC  
+**Last Updated:** December 21, 2025 at 06:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 9h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 10h ago
 
 ---
 
@@ -65,7 +65,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-12h ago
+13h ago
 
 ---
 
@@ -73,7 +73,15 @@ A company is not just a collection of people. It is a collection of people doing
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-10h ago
+11h ago
+
+---
+
+**[One-Minute Daily AI News 12/20/2025](https://www.reddit.com/r/artificial/comments/1prz73c/oneminute_daily_ai_news_12202025/)**
+
+OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
+
+28m ago
 
 ---
 
@@ -95,7 +103,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-12m ago
+42m ago
 
 ---
 
@@ -107,14 +115,6 @@ OK so I love AI. I am all in on artificial intelligence. Our ability to solve co
 
 ---
 
-**[NET 0 LOSS - I am becoming increasingly concerned for people who are about to lose their jobs as AI platforms that are much more robust start to roll out. I am not hearing ANY discussions of how we can save jobs or reassign workflows - This is ALARMING](https://www.reddit.com/r/artificial/comments/1prvgxi/net_0_loss_i_am_becoming_increasingly_concerned/)**
-
-In enterprise AI workloads are beginning to unleash. As I witness this process the cuts are coming and they are brutal and should not be ignored. For me personally, I feel there is one key aspect in the industry that is being grossly ignore. How do we increase actual productivity by not just automating jobs away but allow for workers to increase workloads and productivity by doing more than what they could have done before because of the benefit of AI. Online, you hear good talking points about how it could go but in the real world there is no softlanding I am seeing. You hear things like this will increase the the productivity but it's a net 0 loss if you only automate but don't actually increase productivity by the workforce you have. On one hand AI tools are helpful to the upper echelons as they can use those tools to make their day more productive and that can be a net gain if that person can actually do more. There is good commentary on this and is mostly agreeable. On the other hand a person whose job is simply automated away may have nothing to fall back on as efficiencies allow to rid the position. This is Net 0 Loss. There is no productivity gain there is only an efficiency gain. In my mind, I would think it would be prudent for lines of business to fight for their budgets by ideating what could increase their workloads and productivity if they could do more and start planning those capabilities simultaneously as they are solutiononing AI workflows. If this posture is not articulated and articulated quickly I fear that the job losses could be insurmountable and devastating to the economy. All while achieving a NET 0 LOSS. No productivity boost just job loss accumulation. Because I am an optimist I believe there is a silver lining here. The ideation of what is truly productivity boosting should come with the package of automation design. Meaning, lines of business should be responsible for doing both. Productivity gains with budgets they have if they could do more. In other words, if you could hire 100 new workers what else would you do. If a business line can't answer that question then perhaps it's a reflection of that business line than anything else. The C-Suite can push for such initiatives that have both and the public perception in my mind would be much better than advertising solely job loss efficiency gains. Has anyone else experienced this with the AI products you're building?
-
-3h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,13 +123,13 @@ In enterprise AI workloads are beginning to unleash. As I witness this process t
 
 Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 17h ago
 
 Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-Al Jazeera • 17m ago
+Al Jazeera • 47m ago
 
 ---
 
@@ -153,7 +153,7 @@ CBS News • 1h ago
 
 The question isn't ‘Is it right to use AI to receive a word of wisdom or comfort from a deceased person?’ but rather ‘What is my only comfort in life and in death?’
 
-The Gospel Coalition • 52m ago
+The Gospel Coalition • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Politico • 15h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 18h ago
+The New Yorker • 19h ago
 
 ---
 
@@ -181,7 +181,7 @@ Axios • 5h ago
 
 My week partying with the young founders at the heart of the AI boom
 
-The Atlantic • 16h ago
+The Atlantic • 17h ago
 
 ---
 
@@ -221,7 +221,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 452 • 💬 400 • 21h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 456 • 💬 400 • 21h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+
+---
+
+**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
+
+⬆️ 206 • 💬 308 • 20h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -230,12 +236,6 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
 ⬆️ 206 • 💬 167 • 2d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
-
----
-
-**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
-
-⬆️ 205 • 💬 307 • 20h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -285,7 +285,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 48K • 👍 2K • 💬 542 • ⏱️ 15:25 • 10h ago
+👁️ 48K • 👍 2K • 💬 542 • ⏱️ 15:25 • 11h ago
 
 ---
 
@@ -295,7 +295,7 @@ Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/tw
 
 📺 NetworkChuck
 
-👁️ 73K • 👍 4K • 💬 556 • ⏱️ 33:14 • 12h ago
+👁️ 73K • 👍 4K • 💬 556 • ⏱️ 33:14 • 13h ago
 
 ---
 
@@ -315,7 +315,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 1K • 💬 149 • ⏱️ 37:38 • 15h ago
+👁️ 33K • 👍 1K • 💬 149 • ⏱️ 37:38 • 16h ago
 
 ---
 
@@ -572,20 +572,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 204 • 💬 5 • ⭐ 7,489 • 23d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -612,16 +598,17 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 Tongyi-MAI
 
-▲ 26 • 💬 1 • ⭐ 65,829 • 27mo ago
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 204 • 💬 5 • ⭐ 7,501 • 23d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -635,6 +622,20 @@ FunAudioLLM enhances voice interactions by integrating SenseVoice for multilingu
 ▲ 39 • 💬 1 • ⭐ 18,122 • 17mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.04051) • [💻 code](https://github.com/funaudiollm/cosyvoice)
+
+---
+
+**[Step-GUI Technical Report](https://huggingface.co/papers/2512.15431)**
+
+*Haolong Yan, Jia Wang, Xin Huang et al. (97 authors)*
+
+🏢 StepFun
+
+A self-evolving training pipeline with the Calibrated Step Reward System and GUI-MCP protocol improve GUI automation efficiency, accuracy, and privacy in real-world scenarios.
+
+▲ 117 • 💬 3 • ⭐ 1,617 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.15431) • [💻 code](https://github.com/stepfun-ai/gelab-zero) • [🔗 project](https://opengelab.github.io/)
 
 ---
 
@@ -658,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.3k • 🔱 582 • 15h ago
+⭐ 5.3k • 🔱 585 • 15h ago
 
 ---
 
@@ -668,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 165 • 1h ago
+⭐ 2.3k • 🔱 166 • 1h ago
 
 ---
 
@@ -688,7 +689,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 937 • 🔱 44 • 3d ago
+⭐ 941 • 🔱 44 • 3d ago
 
 ---
 
@@ -708,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 833 • 🔱 135 • 13h ago
+⭐ 833 • 🔱 135 • 14h ago
 
 ---
 
@@ -718,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 823 • 🔱 77 • 12h ago
+⭐ 822 • 🔱 77 • 12h ago
 
 ---
 
@@ -728,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 800 • 🔱 118 • 3d ago
+⭐ 801 • 🔱 118 • 3d ago
 
 ---
 
@@ -738,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 754 • 🔱 60 • 17d ago
+⭐ 756 • 🔱 60 • 17d ago
 
 ---
 

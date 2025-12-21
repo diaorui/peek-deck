@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T05:52:51.064867+00:00'
+updated: '2025-12-21T06:22:42.293051+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 05:52 UTC  
+**Last Updated:** December 21, 2025 at 06:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.0%  
-**30d:** +4.2%  
-**90d:** -21.2%  
-**1y:** -7.3%  
+**24h:** -0.4%  
+**7d:** +1.8%  
+**30d:** +4.0%  
+**90d:** -21.3%  
+**1y:** -7.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.60B
+**Market Cap:** $1759.79B
 Rank #1
 
 **Circulating Supply:** 19,964,943 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.1%
 
 **All-Time Low:** $67.81
-+129783.5%
++129904.4%
 
 ---
 
@@ -77,21 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
+
+5h ago
+
+---
+
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-10h ago
+11h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-8h ago
-
----
-
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
-
-4h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,19 +119,19 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-7h ago
+8h ago
+
+---
+
+**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
+
+2h ago
 
 ---
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
 20h ago
-
----
-
-**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
-
-1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Nasdaq • 19h ago
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 2d ago
 
 The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -281,7 +281,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 74 • ⏱️ 14:31 • 12h ago
+👁️ 19K • 👍 1K • 💬 74 • ⏱️ 14:31 • 13h ago
 
 ---
 
@@ -311,7 +311,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 BTC Sessions
 
-👁️ 12K • 👍 575 • 💬 220 • ⏱️ 20:14 • 9h ago
+👁️ 12K • 👍 575 • 💬 220 • ⏱️ 20:14 • 10h ago
 
 ---
 
@@ -331,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 101 • ⏱️ 46:11 • 15h ago
+👁️ 40K • 👍 2K • 💬 101 • ⏱️ 46:11 • 16h ago
 
 ---
 
@@ -361,7 +361,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 355 • 💬 4 • ⏱️ 1:04 • 16h ago
+👁️ 12K • 👍 355 • 💬 4 • ⏱️ 1:04 • 17h ago
 
 ---
 
@@ -371,7 +371,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 242 • 💬 88 • ⏱️ 4:01 • 6h ago
+👁️ 3K • 👍 242 • 💬 88 • ⏱️ 4:01 • 7h ago
 
 ---
 
