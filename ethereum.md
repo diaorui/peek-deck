@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T23:44:43.822186+00:00'
+updated: '2025-12-21T23:55:21.015248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 23:44 UTC  
+**Last Updated:** December 21, 2025 at 23:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +1.3%  
-**30d:** +8.2%  
+**24h:** +0.8%  
+**7d:** +1.2%  
+**30d:** +8.1%  
 **90d:** -28.1%  
-**1y:** -8.3%  
+**1y:** -8.4%  
 
 ---
 
@@ -238,17 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 558 • 💬 384 • ⏱️ 11:34 • 10h ago
-
----
-
-**[BITCOIN WILL MOVE SOON (Don&#39;t Miss This)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pd5wdA-CqGA)**
-
-BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* https://bit.ly/PIONEX_ ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 142 • 💬 17 • ⏱️ 16:57 • 3h ago
+👁️ 10K • 👍 600 • 💬 401 • ⏱️ 11:34 • 10h ago
 
 ---
 
@@ -258,17 +248,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 398 • 💬 77 • ⏱️ 15:49 • 8h ago
+👁️ 10K • 👍 461 • 💬 60 • ⏱️ 15:49 • 8h ago
 
 ---
 
-**[Bitcoin &quot;Digital Gold&quot; &amp; Ethereum &quot;Digital Oil:&quot; Crypto&#39;s Path to Commoditization](https://www.youtube.com/watch?v=kZzRkG5IlXk)**
+**[ETH Ethereum Price Prediction: 21st of December](https://www.youtube.com/watch?v=2_OtXgqgS7Q)**
 
-Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does he see institutional investing adding long-term ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Schwab Network
+📺 C-Zar Gets Crypto 
 
-👁️ 208 • 👍 12 • 💬 24 • ⏱️ 8:22 • 2h ago
+👁️ 99 • 👍 16 • 💬 7 • ⏱️ 9:36 • 1h ago
 
 ---
 
@@ -278,7 +268,7 @@ Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does
 
 📺 Stock Moe
 
-👁️ 401 • 👍 58 • 💬 6 • ⏱️ 11:18 • 1h ago
+👁️ 3K • 👍 437 • 💬 16 • ⏱️ 11:18 • 2h ago
 
 ---
 
@@ -288,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 8 • ⏱️ 4:12 • 8h ago
+👁️ 2K • 👍 126 • 💬 9 • ⏱️ 4:12 • 8h ago
 
 ---
 
@@ -298,7 +288,17 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 630 • 👍 51 • 💬 48 • ⏱️ 14:27 • 6h ago
+👁️ 847 • 👍 55 • 💬 25 • ⏱️ 14:27 • 6h ago
+
+---
+
+**[BITCOIN WILL MOVE SOON (Don&#39;t Miss This)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pd5wdA-CqGA)**
+
+BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* https://bit.ly/PIONEX_ ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 251 • 💬 63 • ⏱️ 16:57 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 19K • 👍 1K • 💬 260 • ⏱️ 35:41 • 23h ago
+👁️ 20K • 👍 1K • 💬 197 • ⏱️ 35:41 • 23h ago
 
 ---
 
@@ -318,7 +318,7 @@ Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethere
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 149 • 💬 29 • ⏱️ 8:06 • 8h ago
+👁️ 4K • 👍 190 • 💬 30 • ⏱️ 8:06 • 8h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 346 • 👍 17 • 💬 29 • ⏱️ 5:02 • 13h ago
+👁️ 362 • 👍 17 • 💬 5 • ⏱️ 5:02 • 13h ago
 
 ---
 

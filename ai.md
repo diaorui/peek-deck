@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T23:44:43.807656+00:00'
+updated: '2025-12-21T23:55:21.000677+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 23:44 UTC  
+**Last Updated:** December 21, 2025 at 23:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 18h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 19h ago
 
 ---
 
@@ -281,33 +281,33 @@ Some engineers dismiss AI coding tools as ‘garbage’ without trying modern ve
 
 ## YouTube Videos: "ai"
 
+**[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
+
+Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
+
+📺 Codie Sanchez
+
+👁️ 22K • 👍 2K • 💬 115 • ⏱️ 13:25 • 5h ago
+
+---
+
 **[5 AI&#39;s WORK TOGETHER to Make Subway Surfers From Scratch](https://www.youtube.com/watch?v=hopkhs_bsWA)**
 
 I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and make Subway Surfers From Scratch in ONE ...
 
 📺 tef
 
-👁️ 16K • 👍 2K • 💬 228 • ⏱️ 13:09 • 7h ago
+👁️ 24K • 👍 2K • 💬 261 • ⏱️ 13:09 • 7h ago
 
 ---
 
-**[How AI has transformed in 2025](https://www.youtube.com/watch?v=bL7Rrd7N5Ho)**
+**[BRACE YOURSELF FOR THE AI BUBBLE 2026](https://www.youtube.com/watch?v=AhwyGtUv1fs)**
 
-Artificial intelligence has impacted industries and people around the world this year, from producing music to relationships.
+Is the AI revolution just getting started or are we at the peak of a ready to crash? Michael Burry is warning of an Al bubble set to ...
 
-📺 CBS Mornings
+📺 Ricky Gutierrez
 
-👁️ 2K • 👍 78 • 💬 11 • ⏱️ 1:03:20 • 10h ago
-
----
-
-**[I Asked AI To Predict The 2028 Election Map... The Results Were SHOCKING](https://www.youtube.com/watch?v=BQOhV8rGyZI)**
-
-Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com/@election.time *Discord Server* ...
-
-📺 Election Time
-
-👁️ 98K • 👍 3K • 💬 856 • ⏱️ 15:25 • 1d ago
+👁️ 7K • 👍 461 • 💬 72 • ⏱️ 15:45 • 3h ago
 
 ---
 
@@ -317,7 +317,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 20K • 👍 1K • 💬 66 • ⏱️ 1:29 • 5h ago
+👁️ 29K • 👍 1K • 💬 73 • ⏱️ 1:29 • 5h ago
 
 ---
 
@@ -327,17 +327,17 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 180K • 👍 10K • 💬 2K • ⏱️ 19:40 • 1d ago
+👁️ 186K • 👍 10K • 💬 2K • ⏱️ 19:40 • 1d ago
 
 ---
 
-**[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
+**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
 
-Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
+Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
 
-📺 Codie Sanchez
+📺 Sasha Yanshin
 
-👁️ 11K • 👍 1K • 💬 55 • ⏱️ 13:25 • 5h ago
+👁️ 28K • 👍 3K • 💬 621 • ⏱️ 16:44 • 5h ago
 
 ---
 
@@ -347,27 +347,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 3K • 💬 192 • ⏱️ 37:38 • 1d ago
-
----
-
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 5K • 👍 122 • 💬 11 • ⏱️ 8:42 • 1d ago
-
----
-
-**[Top 5 SORA AI Disney Trailers😂](https://www.youtube.com/watch?v=2q8ADKTGaY8)**
-
-Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme #aimemes #funnyai ...
-
-📺 Bigfoot Feed
-
-👁️ 37K • 👍 763 • 💬 16 • ⏱️ 1:00 • 2d ago
+👁️ 53K • 👍 3K • 💬 193 • ⏱️ 37:38 • 1d ago
 
 ---
 
@@ -377,7 +357,27 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 358K • 👍 10K • 💬 1K • ⏱️ 15:39 • 2d ago
+👁️ 366K • 👍 10K • 💬 1K • ⏱️ 15:39 • 2d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=IJYkIQQsIw8)**
+
+Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/IJYkIQQsIw8 Which crazy bed ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 730K • 👍 5K • 💬 167 • ⏱️ 8:24 • 1d ago
+
+---
+
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+
+📺 gptars
+
+👁️ 2.2M • 👍 89K • 💬 1K • ⏱️ 1:01 • 2d ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 849 • 🔱 83 • 5h ago
+⭐ 849 • 🔱 83 • 6h ago
 
 ---
 
