@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T13:08:20.455347+00:00'
+updated: '2025-12-21T13:38:08.181307+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 13:08 UTC  
+**Last Updated:** December 21, 2025 at 13:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,7 +120,7 @@ Bloomberg.com • 2d ago
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -128,7 +128,7 @@ Interesting Engineering • 17h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 8m ago
+The Verge • 38m ago
 
 ---
 
@@ -160,13 +160,13 @@ Fortune • 3d ago
 
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-The Robot Report • 23h ago
+The Robot Report • 1d ago
 
 ---
 
 **[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
 
-KXAN Austin • 14h ago
+KXAN Austin • 15h ago
 
 ---
 
@@ -196,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 24K • 👍 574 • 💬 58 • ⏱️ 2:08:46 • 1d ago
+👁️ 25K • 👍 591 • 💬 60 • ⏱️ 2:08:46 • 1d ago
 
 ---
 
@@ -206,37 +206,17 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 2.0M • 👍 153K • 💬 36K • ⏱️ 15:02 • 10h ago
+👁️ 2.3M • 👍 169K • 💬 39K • ⏱️ 15:02 • 11h ago
 
 ---
 
-**[Biggest Problems Humanoid Robots Face in 2026 | What The Future](https://www.youtube.com/watch?v=hxvJi8xa6eo)**
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
 
-Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning point for this technology if the ...
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
 
-📺 CNET
+📺 SocksReact
 
-👁️ 32K • 👍 819 • 💬 121 • ⏱️ 6:41 • 7d ago
-
----
-
-**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
-
-Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
-
-📺 Catanimation
-
-👁️ 197K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
-
----
-
-**[Retire Army Soldier Build Robotic Zebra for Indian Girl! #ai #army #save #robot](https://www.youtube.com/watch?v=wYtE3GJviaw)**
-
-Retire Army Soldier Build Robotic Zebra for Indian Girl #ai #army #save #robot.
-
-📺 Meow World
-
-👁️ 2.5M • 👍 47K • 💬 52 • ⏱️ 0:40 • 7d ago
+👁️ 270K • 👍 7K • 💬 888 • ⏱️ 18:35 • 16h ago
 
 ---
 
@@ -246,7 +226,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 321 • 💬 34 • ⏱️ 1:05 • 5d ago
+👁️ 32K • 👍 322 • 💬 34 • ⏱️ 1:05 • 5d ago
 
 ---
 
@@ -254,7 +234,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 Romi Pal
 
-👁️ 15.2M • 👍 103K • 💬 762 • ⏱️ 0:24 • 5d ago
+👁️ 15.5M • 👍 105K • 💬 787 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -264,7 +244,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 88K • 👍 5K • 💬 419 • ⏱️ 13:43 • 2d ago
+👁️ 92K • 👍 5K • 💬 433 • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -274,7 +254,27 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 5d ago
+👁️ 74K • 👍 1K • 💬 146 • ⏱️ 11:23 • 5d ago
+
+---
+
+**[Japan Starts New Robotic Trend | Best Tech at IREX Expo](https://www.youtube.com/watch?v=Tvw8waR7aPY)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The Future Is Here: IREX 2025 in Tokyo Just ...
+
+📺 PRO ROBOTS
+
+👁️ 336K • 👍 6K • 💬 559 • ⏱️ 26:54 • 6d ago
+
+---
+
+**[The Self-Aware Robot FKN ESCAPED..😳](https://www.youtube.com/watch?v=1cGFtOCTp-I)**
+
+Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: https://www.youtube.com/@richlevgaming ...
+
+📺 RICHLEV
+
+👁️ 214K • 👍 5K • 💬 1K • ⏱️ 17:05 • 6d ago
 
 ---
 
@@ -284,7 +284,7 @@ Robotic surgeons struggle with precisely controlling suture tension, which is cr
 
 📺 Dr Ben Miles
 
-👁️ 28K • 👍 3K • 💬 79 • ⏱️ 1:38 • 4d ago
+👁️ 28K • 👍 3K • 💬 82 • ⏱️ 1:38 • 4d ago
 
 ---
 

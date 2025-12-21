@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T13:08:20.437623+00:00'
+updated: '2025-12-21T13:38:08.163583+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 13:08 UTC  
+**Last Updated:** December 21, 2025 at 13:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 1h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 16h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 4m ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 34m ago
 
 ---
 
@@ -81,7 +81,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-19h ago
+20h ago
 
 ---
 
@@ -89,7 +89,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 Today, while working on an academic project, I experimented with Gemini Live and selected an Indian male voice. Everything was going fine, the responses were great, and it felt very natural, as if I were speaking with an actual person. In the middle of Gemini's response, I noticed something unusual. It pronounced the word "math" (short for "mathematics") as "math" (as in RamaKrishna Math, a monastery). It might seem like a small mistake, and hallucinations are common in the world of LLMs. A small pronunciation slip made me rethink how close AI voices are getting to humans in India. Until a few years ago, text-to-speech models would butcher even the most basic Indian words, for example, "Namaste." But now it's getting better by day, and they're nailing the local/cultural nuances in pronouncing local words. It is very exciting and can significantly enhance the overall customer experience. Still, on the other hand, these mispronunciations are a telltale sign of an artificial voice that we often hear in spam calls. As models continue to improve, it may become increasingly difficult to distinguish between a human and a machine, especially for the average Indian. I'm sure you might have observed something similar in your local language, and would love to hear about it.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 2h ago
 
 David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
-Vox • 8m ago
+Vox • 38m ago
 
 ---
 
@@ -151,7 +151,7 @@ Vox • 8m ago
 
 Instagram's new 'Your Algorithm' tool lets you control your Reels feed in real time. The app now gives you power to customize what videos you see.
 
-Fox News • 53m ago
+Fox News • 1h ago
 
 ---
 
@@ -283,17 +283,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 85K • 👍 2K • 💬 706 • ⏱️ 15:25 • 18h ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=bB94kfyjO3w)**
-
-Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/bB94kfyjO3w Step into a world ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 2.2M • 👍 6K • 💬 125 • ⏱️ 8:07 • 2d ago
+👁️ 87K • 👍 2K • 💬 732 • ⏱️ 15:25 • 18h ago
 
 ---
 
@@ -303,37 +293,7 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 22K • 👍 822 • 💬 327 • ⏱️ 16:15 • 2d ago
-
----
-
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
-
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
-
-📺 Matt Wolfe
-
-👁️ 41K • 👍 2K • 💬 168 • ⏱️ 37:38 • 23h ago
-
----
-
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 320K • 👍 19K • 💬 2K • ⏱️ 5:52 • 2d ago
-
----
-
-**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
-
-Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
-
-📺 SSSniperWolf
-
-👁️ 328K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 23K • 👍 829 • 💬 327 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -343,17 +303,47 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 132K • 👍 7K • 💬 1K • ⏱️ 19:40 • 16h ago
+👁️ 148K • 👍 8K • 💬 1K • ⏱️ 19:40 • 16h ago
 
 ---
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
 
-📺 Julian Goldie SEO
+📺 Matt Wolfe
 
-👁️ 4K • 👍 108 • 💬 8 • ⏱️ 8:42 • 15h ago
+👁️ 43K • 👍 3K • 💬 179 • ⏱️ 37:38 • 23h ago
+
+---
+
+**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
+
+Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
+
+📺 Adam Conover
+
+👁️ 246K • 👍 15K • 💬 2K • ⏱️ 17:08 • 1d ago
+
+---
+
+**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
+
+Are we watching an AI revolution, or a slow-motion economic disaster?
+
+📺 Robert Reich
+
+👁️ 336K • 👍 20K • 💬 2K • ⏱️ 5:52 • 2d ago
+
+---
+
+**[I reacted to AI videos of myself](https://www.youtube.com/watch?v=wrF0R5nr3Ps)**
+
+Hello friends today we are watching a video where I reacted to AI videos of myself! Leave a Like if you enjoyed and comment what ...
+
+📺 SSSniperWolf
+
+👁️ 333K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
@@ -363,17 +353,25 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 1.0M • 👍 42K • 💬 665 • ⏱️ 1:01 • 1d ago
+👁️ 1.2M • 👍 51K • 💬 777 • ⏱️ 1:01 • 1d ago
 
 ---
 
-**[Is the AI Bubble About to Burst? | Henrik Zeberg | TED](https://www.youtube.com/watch?v=pp8vdZdNl2A)**
+**[Natasha Cheated Poor Hulk! Hulk Revenge#hulk #ai #shorts](https://www.youtube.com/watch?v=5bLvKQ3DyL4)**
 
-We are living through what may be the largest economic bubble in history, spanning AI, cryptocurrency and tech company stocks, ...
+hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​ #sadstory​ #emotional​ #plotwist​ #shockending​ ...
 
-📺 TED
+📺 Z Jung
 
-👁️ 34K • 👍 667 • 💬 79 • ⏱️ 17:08 • 1d ago
+👁️ 3K • ⏱️ 0:59 • 44m ago
+
+---
+
+**[The problem with Chinese AI](https://www.youtube.com/watch?v=fMEFW8z_C8s)**
+
+📺 Etymology Nerd
+
+👁️ 845K • 👍 35K • 💬 731 • ⏱️ 1:03 • 22h ago
 
 ---
 
@@ -578,7 +576,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,509 • 23d ago
+▲ 27 • 💬 2 • ⭐ 7,509 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -657,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 596 • 22h ago
+⭐ 5.4k • 🔱 599 • 22h ago
 
 ---
 
@@ -667,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 170 • 3h ago
+⭐ 2.3k • 🔱 170 • 4h ago
 
 ---
 
@@ -687,7 +685,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 965 • 🔱 49 • 3d ago
+⭐ 969 • 🔱 49 • 3d ago
 
 ---
 
@@ -707,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 836 • 🔱 135 • 20h ago
+⭐ 839 • 🔱 135 • 21h ago
 
 ---
 
@@ -717,7 +715,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 835 • 🔱 82 • 19h ago
+⭐ 837 • 🔱 83 • 19h ago
 
 ---
 

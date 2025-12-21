@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T13:08:20.452117+00:00'
+updated: '2025-12-21T13:38:08.178055+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 13:08 UTC  
+**Last Updated:** December 21, 2025 at 13:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +0.2%  
-**30d:** +7.0%  
-**90d:** -28.9%  
-**1y:** -9.3%  
+**24h:** -0.9%  
+**7d:** -0.4%  
+**30d:** +6.4%  
+**90d:** -29.3%  
+**1y:** -9.8%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 3h ago
 
 Solana founder Anatoly Yakovenko has shared new data that shows Solana has outperformed Ethereum in yearly revenue, highlighting what he sees as a pivotal shift in how value may be distributed across the crypto market.The infographics by DeFi Development Corp. show the projected chain revenue compa…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 12K • 👍 854 • 💬 205 • ⏱️ 35:41 • 12h ago
+👁️ 14K • 👍 947 • 💬 218 • ⏱️ 35:41 • 13h ago
 
 ---
 
@@ -248,17 +248,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 80 • 💬 76 • ⏱️ 11:26 • 23h ago
-
----
-
-**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 646 • 👍 30 • 💬 107 • ⏱️ 8:36 • 17h ago
+👁️ 2K • 👍 84 • 💬 76 • ⏱️ 11:26 • 23h ago
 
 ---
 
@@ -268,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 534 • 💬 57 • ⏱️ 16:54 • 2d ago
+👁️ 18K • 👍 543 • 💬 57 • ⏱️ 16:54 • 2d ago
 
 ---
 
@@ -278,7 +268,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 452 • 💬 12 • ⏱️ 21:53 • 1d ago
+👁️ 13K • 👍 471 • 💬 12 • ⏱️ 21:53 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 717 • 👍 33 • 💬 107 • ⏱️ 8:36 • 18h ago
 
 ---
 
@@ -288,17 +288,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 3K • 👍 121 • 💬 15 • ⏱️ 14:00 • 18h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YnQLkYMv6FE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 153 • 💬 6 • ⏱️ 6:04 • 22h ago
+👁️ 3K • 👍 124 • 💬 15 • ⏱️ 14:00 • 19h ago
 
 ---
 
@@ -308,17 +298,27 @@ BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 314 • 💬 170 • ⏱️ 21:12 • 15h ago
+👁️ 8K • 👍 335 • 💬 173 • ⏱️ 21:12 • 16h ago
 
 ---
 
-**[ETHEREUM WEEKEND UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=MeNnQhHTu1Y)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YnQLkYMv6FE)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 294 • 👍 18 • 💬 31 • ⏱️ 4:17 • 1d ago
+👁️ 2K • 👍 156 • 💬 6 • ⏱️ 6:04 • 23h ago
+
+---
+
+**[BMNR Stock &amp; ETH Technical Analysis Prediction | Tom Lee’s BitMine Set For Monster Q1 Move!](https://www.youtube.com/watch?v=-DWATwifb1Y)**
+
+ethereum #bmnr #bitcoin In this video, I break down why BMNR stock and Ethereum are setting up for a major move into January ...
+
+📺 alliseeisW 
+
+👁️ 1K • 👍 71 • 💬 87 • ⏱️ 9:51 • 17h ago
 
 ---
 
@@ -328,7 +328,7 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 533 • 💬 33 • ⏱️ 8:37 • 2d ago
+👁️ 18K • 👍 538 • 💬 33 • ⏱️ 8:37 • 2d ago
 
 ---
 

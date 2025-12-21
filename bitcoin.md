@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T13:08:20.446086+00:00'
+updated: '2025-12-21T13:38:08.172064+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 13:08 UTC  
+**Last Updated:** December 21, 2025 at 13:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,154.39
+### $87,828.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.4%  
-**30d:** +4.6%  
-**90d:** -20.9%  
-**1y:** -6.9%  
+**24h:** -0.3%  
+**7d:** +1.5%  
+**30d:** +3.7%  
+**90d:** -21.6%  
+**1y:** -7.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 HODL
 
-3h ago
+4h ago
 
 ---
 
@@ -113,19 +113,19 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-13h ago
+14h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
 **[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2d ago
 
 Crypto has had a bumpy ride this year, giving back the gains from late last year and earlier this year.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -293,37 +293,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 117 • ⏱️ 14:31 • 20h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 44K • 👍 2K • 💬 205 • ⏱️ 44:14 • 1d ago
-
----
-
-**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
-
-My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 121 • ⏱️ 13:47 • 1d ago
-
----
-
-**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
-
-This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
-
-📺 Swan Bitcoin
-
-👁️ 55K • 👍 2K • 💬 170 • ⏱️ 16:50 • 2d ago
+👁️ 25K • 👍 2K • 💬 142 • ⏱️ 14:31 • 20h ago
 
 ---
 
@@ -333,7 +303,57 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 439 • 💬 120 • ⏱️ 4:18 • 19h ago
+👁️ 9K • 👍 446 • 💬 121 • ⏱️ 4:18 • 19h ago
+
+---
+
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 44K • 👍 2K • 💬 207 • ⏱️ 44:14 • 1d ago
+
+---
+
+**[Bitcoin: This will PISS YOU OFF!!!](https://www.youtube.com/watch?v=4dW0m0neAo4)**
+
+Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://youtu.be/B5tImpo66YA (click)
+
+📺 MMCrypto
+
+👁️ 19K • 👍 2K • 💬 379 • ⏱️ 8:54 • 6h ago
+
+---
+
+**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
+
+My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 120 • ⏱️ 13:47 • 1d ago
+
+---
+
+**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
+
+This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
+
+📺 BTC Sessions
+
+👁️ 18K • 👍 794 • 💬 350 • ⏱️ 20:14 • 17h ago
+
+---
+
+**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
+
+Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
+
+📺 CryptosRus Extra
+
+👁️ 15K • 👍 638 • 💬 357 • ⏱️ 10:58 • 1d ago
 
 ---
 
@@ -343,27 +363,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 101 • ⏱️ 46:11 • 23h ago
-
----
-
-**[🚨 BITCOIN SHORT TERM WARNING](https://www.youtube.com/watch?v=-_DZV2Cniao)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 14K • 👍 390 • 💬 3 • ⏱️ 1:04 • 1d ago
-
----
-
-**[Is Bitcoin Heading A LOT LOWER?! Bitcoin Price Prediction 2025](https://www.youtube.com/watch?v=AnUGiccvefE)**
-
-A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro ...
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 261 • 💬 40 • ⏱️ 4:42 • 1d ago
+👁️ 48K • 👍 2K • 💬 101 • ⏱️ 46:11 • 23h ago
 
 ---
 
@@ -373,17 +373,17 @@ Chief Market Strategist Gareth Soloway reveals a new discovery about the Bitcoin
 
 📺 Gareth Soloway
 
-👁️ 40K • 👍 3K • 💬 223 • ⏱️ 10:40 • 1d ago
+👁️ 41K • 👍 3K • 💬 224 • ⏱️ 10:40 • 2d ago
 
 ---
 
-**[Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutorial](https://www.youtube.com/watch?v=mVUBPFQqfgg)**
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=-m-2wAhiB1k)**
 
-Increase Bitcoin and Dogecoin Mining Profitability with THIS - Quai Mining Tutorial -- it's called SOAP and it's not something you ...
+It is once again time for some dubious speculation on the price of Bitcoin! Into The Cryptoverse Premium SALE (ENDS SOON!)
 
-📺 VoskCoin
+📺 Benjamin Cowen
 
-👁️ 3K • 👍 122 • 💬 37 • ⏱️ 15:00 • 21h ago
+👁️ 87K • 👍 5K • 💬 294 • ⏱️ 18:06 • 1d ago
 
 ---
 
