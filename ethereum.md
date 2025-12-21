@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T17:47:38.986232+00:00'
+updated: '2025-12-21T17:58:25.695598+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 17:47 UTC  
+**Last Updated:** December 21, 2025 at 17:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +0.7%  
-**30d:** +7.6%  
-**90d:** -28.5%  
-**1y:** -8.8%  
+**24h:** +0.1%  
+**7d:** +0.5%  
+**30d:** +7.3%  
+**90d:** -28.6%  
+**1y:** -9.0%  
 
 ---
 
@@ -268,7 +268,7 @@ Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord ht
 
 📺 Crypto Cobra
 
-👁️ 165 • 👍 22 • 💬 9 • ⏱️ 14:27 • 26m ago
+👁️ 165 • 👍 22 • 💬 9 • ⏱️ 14:27 • 37m ago
 
 ---
 

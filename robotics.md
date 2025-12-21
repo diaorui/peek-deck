@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T17:47:38.989654+00:00'
+updated: '2025-12-21T17:58:25.698799+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 17:47 UTC  
+**Last Updated:** December 21, 2025 at 17:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-13h ago
+14h ago
 
 ---
 
@@ -208,7 +208,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 652 • 👍 12 • ⏱️ 0:19 • 58m ago
+👁️ 652 • 👍 12 • ⏱️ 0:19 • 1h ago
 
 ---
 

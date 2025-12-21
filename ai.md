@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T17:47:38.970817+00:00'
+updated: '2025-12-21T17:58:25.681318+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 17:47 UTC  
+**Last Updated:** December 21, 2025 at 17:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 12h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 13h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 22h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 23h ago
 
 ---
 
@@ -261,7 +261,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 120 • 💬 51 • 20h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 120 • 💬 51 • 21h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -291,7 +291,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 167K • 👍 9K • 💬 2K • ⏱️ 19:40 • 20h ago
+👁️ 167K • 👍 9K • 💬 2K • ⏱️ 19:40 • 21h ago
 
 ---
 
@@ -371,7 +371,7 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Z Jung
 
-👁️ 13K • ⏱️ 0:59 • 4h ago
+👁️ 13K • ⏱️ 0:59 • 5h ago
 
 ---
 
@@ -523,7 +523,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,773 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,819 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -537,7 +537,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 134 • 💬 6 • ⭐ 18,774 • 3mo ago
+▲ 135 • 💬 6 • ⭐ 18,774 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -562,23 +562,9 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,348 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,382 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,509 • 24d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -593,6 +579,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 205 • 💬 5 • ⭐ 7,533 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 27 • 💬 2 • ⭐ 7,538 • 24d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 170 • 54m ago
+⭐ 2.3k • 🔱 171 • 32m ago
 
 ---
 
@@ -675,7 +675,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 329 • 15d ago
+⭐ 1.3k • 🔱 330 • 15d ago
 
 ---
 
@@ -685,7 +685,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 982 • 🔱 49 • 3d ago
+⭐ 985 • 🔱 49 • 3d ago
 
 ---
 
@@ -705,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 855 • 🔱 139 • 1d ago
+⭐ 858 • 🔱 139 • 1d ago
 
 ---
 
@@ -715,7 +715,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 847 • 🔱 83 • 23h ago
+⭐ 848 • 🔱 83 • 12m ago
 
 ---
 
@@ -725,7 +725,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 804 • 🔱 119 • 4d ago
+⭐ 805 • 🔱 119 • 4d ago
 
 ---
 
