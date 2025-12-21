@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T05:20:16.765962+00:00'
+updated: '2025-12-21T05:41:12.336742+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 05:20 UTC  
+**Last Updated:** December 21, 2025 at 05:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,095.50
+### $88,118.60
 
 ---
 
@@ -46,9 +46,9 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.2%  
 **7d:** +1.8%  
-**30d:** +3.9%  
-**90d:** -21.4%  
-**1y:** -7.5%  
+**30d:** +4.0%  
+**90d:** -21.3%  
+**1y:** -7.4%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ The crypto market is down" Degens with their last $200:
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-6h ago
+7h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 2d ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 14h ago
 
 This dip is an opportunity to think about what matters most with this asset.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -289,7 +289,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 260 • 💬 119 • ⏱️ 11:07 • 10h ago
+👁️ 4K • 👍 260 • 💬 119 • ⏱️ 11:07 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T05:20:16.757186+00:00'
+updated: '2025-12-21T05:41:12.328403+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 05:20 UTC  
+**Last Updated:** December 21, 2025 at 05:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 29m ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 50m ago
 
 ---
 
@@ -97,7 +97,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ OK so I love AI. I am all in on artificial intelligence. Our ability to solve co
 
 In enterprise AI workloads are beginning to unleash. As I witness this process the cuts are coming and they are brutal and should not be ignored. For me personally, I feel there is one key aspect in the industry that is being grossly ignore. How do we increase actual productivity by not just automating jobs away but allow for workers to increase workloads and productivity by doing more than what they could have done before because of the benefit of AI. Online, you hear good talking points about how it could go but in the real world there is no softlanding I am seeing. You hear things like this will increase the the productivity but it's a net 0 loss if you only automate but don't actually increase productivity by the workforce you have. On one hand AI tools are helpful to the upper echelons as they can use those tools to make their day more productive and that can be a net gain if that person can actually do more. There is good commentary on this and is mostly agreeable. On the other hand a person whose job is simply automated away may have nothing to fall back on as efficiencies allow to rid the position. This is Net 0 Loss. There is no productivity gain there is only an efficiency gain. In my mind, I would think it would be prudent for lines of business to fight for their budgets by ideating what could increase their workloads and productivity if they could do more and start planning those capabilities simultaneously as they are solutiononing AI workflows. If this posture is not articulated and articulated quickly I fear that the job losses could be insurmountable and devastating to the economy. All while achieving a NET 0 LOSS. No productivity boost just job loss accumulation. Because I am an optimist I believe there is a silver lining here. The ideation of what is truly productivity boosting should come with the package of automation design. Meaning, lines of business should be responsible for doing both. Productivity gains with budgets they have if they could do more. In other words, if you could hire 100 new workers what else would you do. If a business line can't answer that question then perhaps it's a reflection of that business line than anything else. The C-Suite can push for such initiatives that have both and the public perception in my mind would be much better than advertising solely job loss efficiency gains. Has anyone else experienced this with the AI products you're building?
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ In enterprise AI workloads are beginning to unleash. As I witness this process t
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 17h ago
 
 Kineteck Enhances Shopify Websites with AI Technology Sheridan, United States – December 17, 2025 / Kineteck Solutions / Kineteck Solutions is making notable advancements in the e-commerce sector by incorporating artificial intelligence (AI) technology into Shopify websites. This pioneering approach is designed to boost conversion rates for online retailers, equipping them with essential tools for […]
 
-USA Today • 33m ago
+USA Today • 54m ago
 
 ---
 
@@ -147,7 +147,7 @@ USA Today • 33m ago
 
 Artificial intelligence is expected to have a big impact this holiday season, with many consumers turning to AI for help with holiday shopping. Kelly O'Grady reports.
 
-CBS News • 42m ago
+CBS News • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ CBS News • 42m ago
 
 Few industries have escaped our hapless misuse of this troubling technology
 
-Financial Times • 19m ago
+Financial Times • 40m ago
 
 ---
 
@@ -175,7 +175,7 @@ Politico • 14h ago
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -223,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 451 • 💬 400 • 20h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 451 • 💬 400 • 21h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -237,7 +237,7 @@ We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structur
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 205 • 💬 306 • 19h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 205 • 💬 306 • 20h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -670,7 +670,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 165 • 58m ago
+⭐ 2.3k • 🔱 165 • 1h ago
 
 ---
 
