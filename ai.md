@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T19:52:54.053573+00:00'
+updated: '2025-12-21T20:16:01.922488+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 19:52 UTC  
+**Last Updated:** December 21, 2025 at 20:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 6h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ I have observed that many people are talking about how Google is the only compan
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 3h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
 
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 1h ago
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 35m ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 58m ago
 
 ---
 
@@ -125,7 +125,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 6h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNN • 11h ago
 
 Chatbots forge convincing sales invoices and other documents, say industry figures
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -149,13 +149,13 @@ Financial Times • 1h ago
 
 In the AI trade, you "can't just bet on one company," Wedbush Securities managing director and global head of technology research, Dan Ives, tells Yahoo Finance, highlighting the importance of diversification for AI investors. Watch the video above to hear more about Ives' AI thesis and the 30 stocks in the Dan IVES Wedbush AI Revolution ETF (IVES). To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[AI Is Stress-Testing The Grid. Can Energy Storage Diversify](https://www.forbes.com/sites/jenniferkitepowell/2025/12/21/ai-is-stress-testing-the-grid-can-energy-storage--diversify/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Politico • 1d ago
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 11h ago
 
 Demand for Shield AI’s V-BAT is ramping up in Europe and Asia.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -213,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 209 • 💬 156 • 15h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 209 • 💬 156 • 16h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -265,7 +265,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 80 • 💬 74 • 14h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 80 • 💬 74 • 15h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -297,7 +297,7 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:03:20 • 6h ago
+👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:03:20 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 121 • 💬 11 • ⏱️ 8:42 • 21h ago
+👁️ 5K • 👍 121 • 💬 11 • ⏱️ 8:42 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Dating is already confusing enough but add AI into the mix, and the entire relat
 
 📺 The Infographics Show
 
-👁️ 27K • 👍 813 • 💬 310 • ⏱️ 11:26 • 22h ago
+👁️ 27K • 👍 813 • 💬 310 • ⏱️ 11:26 • 23h ago
 
 ---
 
@@ -549,18 +549,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614)**
-
-*Wenqiang Sun, Haiyu Zhang, Haoyuan Wang et al. (10 authors)*
-
-WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
-
-▲ 61 • 💬 3 • ⭐ 603 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -571,6 +559,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 120 • 💬 18 • ⭐ 47,382 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614)**
+
+*Wenqiang Sun, Haiyu Zhang, Haoyuan Wang et al. (10 authors)*
+
+WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
+
+▲ 61 • 💬 3 • ⭐ 623 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 171 • 2h ago
+⭐ 2.3k • 🔱 173 • 2h ago
 
 ---
 
@@ -691,7 +691,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 986 • 🔱 49 • 3d ago
+⭐ 989 • 🔱 49 • 3d ago
 
 ---
 
@@ -725,6 +725,16 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 ---
 
+**[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
+
+Autonomous multi-session AI coding
+
+`TypeScript`
+
+⭐ 825 • 🔱 163 • 1h ago
+
+---
+
 **[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
 
   AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
@@ -732,16 +742,6 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
 ⭐ 805 • 🔱 119 • 4d ago
-
----
-
-**[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
-
-Autonomous multi-session AI coding
-
-`TypeScript`
-
-⭐ 783 • 🔱 162 • 1h ago
 
 ---
 

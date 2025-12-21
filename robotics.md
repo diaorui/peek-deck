@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T19:52:54.068990+00:00'
+updated: '2025-12-21T20:16:01.937872+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 19:52 UTC  
+**Last Updated:** December 21, 2025 at 20:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-30m ago
+53m ago
 
 ---
 
@@ -136,7 +136,7 @@ South China Morning Post • 1d ago
 
 Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-CNET • 6h ago
+CNET • 7h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNET • 6h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 6h ago
+The Verge • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 337K • 👍 8K • 💬 998 • ⏱️ 18:35 • 22h ago
+👁️ 337K • 👍 8K • 💬 998 • ⏱️ 18:35 • 23h ago
 
 ---
 

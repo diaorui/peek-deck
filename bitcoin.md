@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T19:52:54.061001+00:00'
+updated: '2025-12-21T20:16:01.929867+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 19:52 UTC  
+**Last Updated:** December 21, 2025 at 20:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -20.9%  
-**1y:** -6.9%  
+**24h:** -0.1%  
+**7d:** +2.1%  
+**30d:** +4.3%  
+**90d:** -21.1%  
+**1y:** -7.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,13 +99,13 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-18h ago
+19h ago
 
 ---
 
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 According to recent reports, XXI Capital accumulated more than 40,000 BTC during 2024, with the holdings valued at approximately $3.8 billion at current prices. The accumulation highlights continued institutional interest in Bitcoin, even amid market volatility.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
 
-33m ago
+57m ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 2d ago
 
 Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -213,7 +213,7 @@ Decrypt • 4h ago
 
 The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -263,13 +263,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 8h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 9h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 9h ago
+⬆️ 1 • 💬 0 • 10h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 590 • 💬 243 • ⏱️ 55:13 • 5h ago
+👁️ 8K • 👍 590 • 💬 243 • ⏱️ 55:13 • 6h ago
 
 ---
 
