@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T22:38:52.897685+00:00'
+updated: '2025-12-21T22:51:02.990532+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 22:38 UTC  
+**Last Updated:** December 21, 2025 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.2%  
-**30d:** +4.4%  
+**24h:** +0.1%  
+**7d:** +2.3%  
+**30d:** +4.5%  
 **90d:** -21.0%  
-**1y:** -7.1%  
+**1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.08B
+**Market Cap:** $1764.53B
 Rank #1
 
 **Circulating Supply:** 19,965,256 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.9%
 
 **All-Time Low:** $67.81
-+130171.3%
++130224.4%
 
 ---
 
@@ -117,15 +117,15 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
-**[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
+**[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-5h ago
+55m ago
 
 ---
 
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
+**[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
 
-21h ago
+5h ago
 
 ---
 
@@ -135,11 +135,9 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
-**[XXI Capital reportedly accumulated over 40,000 Bitcoin in 2024](https://www.reddit.com/r/Bitcoin/comments/1ps7ce2/xxi_capital_reportedly_accumulated_over_40000/)**
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-According to recent reports, XXI Capital accumulated more than 40,000 BTC during 2024, with the holdings valued at approximately $3.8 billion at current prices. The accumulation highlights continued institutional interest in Bitcoin, even amid market volatility.
-
-8h ago
+21h ago
 
 ---
 
@@ -157,7 +155,7 @@ Forbes • 9h ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 10h ago
+Nasdaq • 11h ago
 
 ---
 
@@ -187,7 +185,7 @@ The Block • 2d ago
 
 CryptoQuant said onchain and derivatives indicators show a bitcoin bear market has begun, with downside reference levels around $70,000 and potentially $56,000 if weakness persists.
 
-Bitbo • 8h ago
+Bitbo • 9h ago
 
 ---
 
@@ -199,7 +197,7 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcgdBTYb31F6cc07lo5CJQNhTjmBlaBB_zPQP9CVKNq6b-Tr0ehI43E&gaa_ts=6948756e&gaa_sig=yKAQQDM229dZSNy3lDpXYr0qXePQJhRwwMLPnDbMckrbT5UwqJ_32eK7T49tAud6j72_Fn-0njMWU6eyDRxT1w%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqf9P5o67Uk1Te9Fn_ii2dIoy9EzzmIWG-rW1ZX8aSFebkjeHrhU1sSr&gaa_ts=69487d46&gaa_sig=IQrEorslTY6xM4ryxPxsMoLmU0ddyfk_hxXEAMXkmPA671n83XZqndFfgH2BfzG58ZTu86DyPdy1qpjyM2OVwQ%3D%3D)**
 
 Barron's • 2d ago
 
