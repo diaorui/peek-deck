@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T20:37:32.626083+00:00'
+updated: '2025-12-21T20:50:28.482936+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 20:37 UTC  
+**Last Updated:** December 21, 2025 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 As the 2025 year ends soon,just now in X Google Ai studio(Google) Products Lead Logan hinted that 2026 is going to be a huge year for robots and we can see that in real world more soon. And he hinted about Embodied Ai too. For those who don't know Embodied AI means integrating Artificial Intelligence into physical systems (like robots, drones or self-driving cars). Source: Logan(in twitter/X) 🔗: https://x.com/i/status/2002831970586566824 Your thoughts,guys??
 
-15m ago
+28m ago
 
 ---
 
@@ -90,7 +90,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Realbotix XBOTF Humanoides : les plus sous-estimés ! Ignorés par les grands noms, mais dans la poche d'Arthur Hayes.](https://www.reddit.com/r/robotics/comments/1psdlw1/realbotix_xbotf_humanoides_les_plus_sousestimés/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -208,7 +208,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 848 • 👍 13 • ⏱️ 0:19 • 3h ago
+👁️ 848 • 👍 13 • ⏱️ 0:19 • 4h ago
 
 ---
 

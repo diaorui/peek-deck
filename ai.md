@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T20:37:32.608375+00:00'
+updated: '2025-12-21T20:50:28.465543+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 20:37 UTC  
+**Last Updated:** December 21, 2025 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Space Force uses AI challenge to push everyday use of artificial intelligence Sp
 
 A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 38m ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 51m ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 1h ago
 
 Google executive urges responsible AI development, citing collaborations brought about by President Donald Trump's "Genesis Mission" for energy and cybersecurity innovation.
 
-Fox Business • 47m ago
+Fox Business • 1h ago
 
 ---
 
@@ -327,7 +327,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 175K • 👍 9K • 💬 2K • ⏱️ 19:40 • 23h ago
+👁️ 175K • 👍 9K • 💬 2K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -721,7 +721,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 848 • 🔱 83 • 2h ago
+⭐ 848 • 🔱 83 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T20:37:32.616822+00:00'
+updated: '2025-12-21T20:50:28.473838+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 20:37 UTC  
+**Last Updated:** December 21, 2025 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -137,7 +137,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[How it started vs how it’s ending: Bitcoin skeptics vs reality”](https://www.reddit.com/r/Bitcoin/comments/1ps5n51/how_it_started_vs_how_its_ending_bitcoin_skeptics/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Forbes • 7h ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 8h ago
+Nasdaq • 9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Nasdaq • 8h ago
 
 Michael Saylor wants to buy additional Bitcoin for Strategy (formerly MicroStrategy) despite a sharp decline in the company’s stock.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
