@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T14:10:12.540280+00:00'
+updated: '2025-12-21T14:33:27.092944+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 14:10 UTC  
+**Last Updated:** December 21, 2025 at 14:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 ---
 
+**[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
+
+Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
+
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 1h ago
+
+---
+
 **[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
@@ -57,7 +65,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 17h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 18h ago
 
 ---
 
@@ -69,11 +77,11 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
-**[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
+**[Al Jazeera launches new integrative AI model, ‘The Core’ | Media News](https://www.reddit.com/r/artificial/comments/1ps773s/al_jazeera_launches_new_integrative_ai_model_the/)**
 
-Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
+Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 1h ago
+🔗 [Al Jazeera](https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core) • 31m ago
 
 ---
 
@@ -81,7 +89,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-20h ago
+21h ago
 
 ---
 
@@ -107,14 +115,6 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 ---
 
-**[When AI gets too Indian](https://www.reddit.com/r/artificial/comments/1ps49ri/when_ai_gets_too_indian/)**
-
-Today, while working on an academic project, I experimented with Gemini Live and selected an Indian male voice. Everything was going fine, the responses were great, and it felt very natural, as if I were speaking with an actual person. In the middle of Gemini's response, I noticed something unusual. It pronounced the word "math" (short for "mathematics") as "math" (as in RamaKrishna Math, a monastery). It might seem like a small mistake, and hallucinations are common in the world of LLMs. A small pronunciation slip made me rethink how close AI voices are getting to humans in India. Until a few years ago, text-to-speech models would butcher even the most basic Indian words, for example, "Namaste." But now it's getting better by day, and they're nailing the local/cultural nuances in pronouncing local words. It is very exciting and can significantly enhance the overall customer experience. Still, on the other hand, these mispronunciations are a telltale sign of an artificial voice that we often hear in spam calls. As models continue to improve, it may become increasingly difficult to distinguish between a human and a machine, especially for the average Indian. I'm sure you might have observed something similar in your local language, and would love to hear about it.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,7 +123,7 @@ Today, while working on an academic project, I experimented with Gemini Live and
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -141,19 +141,19 @@ The Guardian • 1h ago
 
 ---
 
+**[Here's your big free reminder on AI stocks for 2026](https://finance.yahoo.com/news/heres-your-big-free-reminder-on-ai-stocks-for-2026-133036552.html)**
+
+You have to think beyond "Magnificent" stocks in 2026!
+
+Yahoo Finance • 1h ago
+
+---
+
 **[What does Trump’s AI czar want?](https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump)**
 
 David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
 Vox • 1h ago
-
----
-
-**[Instagram’s new AI tool lets you control your algorithm](https://www.foxnews.com/tech/instagrams-new-ai-tool-lets-you-control-your-algorithm)**
-
-Instagram's new 'Your Algorithm' tool lets you control your Reels feed in real time. The app now gives you power to customize what videos you see.
-
-Fox News • 1h ago
 
 ---
 
@@ -165,15 +165,7 @@ CNN • 6h ago
 
 ---
 
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 1d ago
-
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqf2Qy5TOnFx4FnnTrH40EEhNJyEqiC91pApsSchOCoe-2JksERtT6Ty&gaa_ts=6947feb5&gaa_sig=Lby9-c2Jv-7aBmcyeXUO39TQParfCS9fbw1rmgzDiXKwl5VqEfnXikwiaEyAhZ8JjjlxMEuSZb6Aif0-w4ntuA%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqc0lCIJAN1cdDJQD4HEg-WEcMoUJ-eVtbxMyRmpM7sL1hM9Vq-j9Ier&gaa_ts=694808a0&gaa_sig=Ts_2Rku3v7VeYzbr8dhQnMaDVKeQdpOEa_LFMYG6e23B5vN-u4jl2srRXRXy03PyrMJSwET0bLoRrORhJUuBIw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -181,13 +173,23 @@ The Wall Street Journal • 1d ago
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 16h ago
+Axios • 17h ago
 
 ---
 
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+**[Yoshua Bengio, who helped create AI: It’s only ‘a matter of time’ before all jobs are wiped out](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
 
-The New York Times • 1d ago
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 2d ago
+
+---
+
+**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
+
+Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
+
+BBC • 1d ago
 
 ---
 
@@ -203,7 +205,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 574 • 💬 538 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 574 • 💬 539 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -211,7 +213,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 484 • 💬 430 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 486 • 💬 433 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -225,13 +227,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 217 • 💬 322 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 218 • 💬 323 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 170 • 💬 106 • 10h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 173 • 💬 111 • 10h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -263,7 +265,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 115 • 💬 46 • 17h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 116 • 💬 46 • 17h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -271,7 +273,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 95 • 💬 207 • 6h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 112 • 💬 244 • 7h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -389,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,236 • 12d ago
+⬇️ 352,314 • ❤️ 3,238 • 12d ago
 
 ---
 
@@ -405,6 +407,18 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 ---
 
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 3,459 • ❤️ 382 • 2d ago
+
+---
+
 **[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
 
 *Tencent*
@@ -417,18 +431,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 3,459 • ❤️ 378 • 2d ago
-
----
-
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -437,7 +439,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 386 • 7d ago
+⬇️ 4,530 • ❤️ 387 • 7d ago
 
 ---
 
@@ -449,7 +451,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 372 • 2d ago
+⬇️ 10,633 • ❤️ 373 • 2d ago
 
 ---
 
@@ -461,7 +463,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 357 • 3d ago
+⬇️ 6,796 • ❤️ 358 • 3d ago
 
 ---
 
@@ -497,7 +499,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 632 • ❤️ 253 • 4d ago
+⬇️ 632 • ❤️ 254 • 4d ago
 
 ---
 
@@ -667,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 170 • 4h ago
+⭐ 2.3k • 🔱 170 • 5h ago
 
 ---
 
@@ -707,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 839 • 🔱 135 • 21h ago
+⭐ 839 • 🔱 135 • 22h ago
 
 ---
 
