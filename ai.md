@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T18:54:16.209496+00:00'
+updated: '2025-12-21T19:14:49.791562+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 18:54 UTC  
+**Last Updated:** December 21, 2025 at 19:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 5h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 2h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
 
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 58m ago
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 1h ago
 
 ---
 
@@ -119,57 +119,27 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ## Google News: "ai"
 
-**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
-
-Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
-
-CNBC • 10h ago
-
----
-
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
-**[Assessing Applied Materials Valuation After AI Driven Surge In 2025](https://finance.yahoo.com/news/assessing-applied-materials-valuation-ai-170726228.html)**
+**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
 
-Wondering if Applied Materials is still a smart buy after such a huge run, or if the easy money has already been made? In this article, we break down what the current price is really saying about potential future returns. Despite a slight pullback of about 1.1% over the last week, the stock is still up roughly 14.5% over the past month, 56.5% year to date, and 58.3% over the last year, with multiyear gains well into triple digits. These moves have come as investors continue to focus on...
+Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-Yahoo Finance • 1h ago
-
----
-
-**[3 Artificial Intelligence Stocks With as Much as 88% Upside in 2026, According to Select Wall Street Analysts](https://www.fool.com/investing/2025/12/20/3-ai-stocks-with-as-much-as-88-upside/)**
-
-Artificial intelligence (AI)-powered gains might not be done yet -- at least not for these three stocks.
-
-The Motley Fool • 16h ago
+CNBC • 11h ago
 
 ---
 
-**[Better Artificial Intelligence Stock: Palantir vs. Nvidia](https://www.fool.com/investing/2025/12/21/better-ai-stock-palantir-vs-nvidia/)**
+**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
 
-It's not too late to get in on these high-flying AI stocks.
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
 
-The Motley Fool • 44m ago
-
----
-
-**[The Best Artificial Intelligence (AI) Stock To Buy in 2026 (Hint: It's Not Nvidia)](https://www.fool.com/investing/2025/12/21/the-best-artificial-intelligence-ai-stock-to-buy/)**
-
-As demand for artificial intelligence (AI) remains strong, investors are wondering who the biggest winners will be going into next year.
-
-The Motley Fool • 4h ago
-
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI - WSJ](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdLR7mWIlKEL7iA3FII9zcOimqNnEqXddmHnVyR3FuldBPw1hpbdd-0&gaa_ts=694841fc&gaa_sig=ZQljBCpl2qsHrejmvXJ9cfjjWXy22H3b3muCuMP4jFsn1MO7mDIVFH2q-AF2eUvUbLRYts1-BmoAaCbuE9vycQ%3D%3D)**
-
-The Wall Street Journal • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -177,7 +147,33 @@ The Wall Street Journal • 1d ago
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 5h ago
+The Guardian • 6h ago
+
+---
+
+**[Assessing Applied Materials Valuation After AI Driven Surge In 2025](https://finance.yahoo.com/news/assessing-applied-materials-valuation-ai-170726228.html)**
+
+Wondering if Applied Materials is still a smart buy after such a huge run, or if the easy money has already been made? In this article, we break down what the current price is really saying about potential future returns. Despite a slight pullback of about 1.1% over the last week, the stock is still up roughly 14.5% over the past month, 56.5% year to date, and 58.3% over the last year, with multiyear gains well into triple digits. These moves have come as investors continue to focus on...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[AI Is Stress-Testing The Grid. Can Energy Storage Diversify](https://www.forbes.com/sites/jenniferkitepowell/2025/12/21/ai-is-stress-testing-the-grid-can-energy-storage--diversify/)**
+
+Forbes • 1h ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfLYOPtibk33a19uIdpVXLma4yueKgdg22H6SH0lyk28OhcewV81oKV&gaa_ts=69484a95&gaa_sig=lU4BeydNbY8AiAk5OXOD_cv9oGqGSJg0q6zS3brGWB8iIilQmGjLoPdq-KN_ER4OFgJ5Outzfa_aeB1E-zR8ow%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -191,7 +187,7 @@ Politico • 1d ago
 
 David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
-Vox • 5h ago
+Vox • 6h ago
 
 ---
 
@@ -203,27 +199,27 @@ Vox • 5h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 491 • 💬 451 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
-
----
-
-**[How China built its ‘Manhattan Project’ to rival the West in AI chips](https://news.ycombinator.com/item?id=46316907)**
-
-Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
-
-⬆️ 467 • 💬 596 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 491 • 💬 453 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 222 • 💬 334 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 225 • 💬 334 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 201 • 💬 152 • 14h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 205 • 💬 153 • 15h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+
+---
+
+**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
+
+The Indie Game Awards presented the award last night, only to strip it hours later.
+
+⬆️ 146 • 💬 344 • 11h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -235,19 +231,11 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 ---
 
-**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
-
-The Indie Game Awards presented the award last night, only to strip it hours later.
-
-⬆️ 142 • 💬 339 • 11h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
-
----
-
 **[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
 
 Timeline & Responsible Disclosure
 
-⬆️ 125 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 127 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -275,7 +263,15 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 78 • 💬 71 • 13h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 78 • 💬 73 • 14h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+
+---
+
+**[Engineers who dismiss AI](https://news.ycombinator.com/item?id=46325360)**
+
+Some engineers dismiss AI coding tools as ‘garbage’ without trying modern versions. Their outdated opinions are costing them.
+
+⬆️ 74 • 💬 239 • 2d ago • [Terrible Software](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)
 
 ---
 
@@ -289,7 +285,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 91K • 👍 3K • 💬 796 • ⏱️ 15:25 • 23h ago
+👁️ 91K • 👍 3K • 💬 796 • ⏱️ 15:25 • 1d ago
 
 ---
 
@@ -329,7 +325,7 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 719 • 👍 32 • 💬 3 • ⏱️ 1:03:20 • 5h ago
+👁️ 719 • 👍 32 • 💬 3 • ⏱️ 1:03:20 • 6h ago
 
 ---
 
@@ -395,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,244 • 13d ago
+⬇️ 352,314 • ❤️ 3,245 • 13d ago
 
 ---
 
@@ -419,7 +415,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 402 • 2d ago
+⬇️ 3,459 • ❤️ 404 • 2d ago
 
 ---
 
@@ -431,7 +427,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 388 • 2d ago
+⬇️ 10,633 • ❤️ 389 • 2d ago
 
 ---
 
@@ -455,7 +451,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 388 • 7d ago
+⬇️ 4,530 • ❤️ 389 • 7d ago
 
 ---
 
@@ -503,7 +499,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 632 • ❤️ 255 • 4d ago
+⬇️ 632 • ❤️ 256 • 4d ago
 
 ---
 
@@ -610,7 +606,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 30 • 💬 2 • ⭐ 12,878 • 13d ago
+▲ 30 • 💬 2 • ⭐ 12,902 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -693,7 +689,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 985 • 🔱 49 • 3d ago
+⭐ 986 • 🔱 49 • 3d ago
 
 ---
 
@@ -737,13 +733,13 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 ---
 
-**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
+**[AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)**
 
-GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+Autonomous multi-session AI coding
 
-`Python`
+`TypeScript`
 
-⭐ 763 • 🔱 60 • 18d ago
+⭐ 783 • 🔱 162 • 45m ago
 
 ---
 

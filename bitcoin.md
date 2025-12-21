@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T18:54:16.218020+00:00'
+updated: '2025-12-21T19:14:49.799939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 18:54 UTC  
+**Last Updated:** December 21, 2025 at 19:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.0%  
-**30d:** +4.2%  
-**90d:** -21.1%  
-**1y:** -7.2%  
+**24h:** +0.3%  
+**7d:** +2.3%  
+**30d:** +4.5%  
+**90d:** -21.0%  
+**1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.47B
+**Market Cap:** $1764.47B
 Rank #1
 
 **Circulating Supply:** 19,965,200 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-29.9%
 
 **All-Time Low:** $67.81
-+129931.0%
++130218.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,6 +91,12 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 ---
 
+**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
+
+51m ago
+
+---
+
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
 17h ago
@@ -99,7 +105,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,13 +113,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 According to recent reports, XXI Capital accumulated more than 40,000 BTC during 2024, with the holdings valued at approximately $3.8 billion at current prices. The accumulation highlights continued institutional interest in Bitcoin, even amid market volatility.
 
-4h ago
-
----
-
-**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
-
-31m ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -135,9 +135,9 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
+**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-19h ago
+11h ago
 
 ---
 
@@ -159,45 +159,23 @@ Nasdaq • 7h ago
 
 ---
 
-**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
-
-Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
-
-Yahoo Finance • 1h ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 1d ago
-
----
-
-**[Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
-
-The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
-
-CoinDesk • 1d ago
-
----
-
 **[Tether-backed Northern Data sold bitcoin mining arm to companies run by Tether's own executives: FT](https://www.theblock.co/post/383439/tether-backed-northern-data-sold-bitcoin-mining-arm-to-companies-run-by-tethers-own-executives-ft)**
 
-The Block • 55m ago
+The Block • 1h ago
 
 ---
 
-**[MicroStrategy’s Saylor Signals Imminent Bitcoin Buy Amid MSTR Stock YTD Decline](https://finance.yahoo.com/news/microstrategy-saylor-signals-imminent-bitcoin-173809733.html)**
-
-Michael Saylor wants to buy additional Bitcoin for Strategy (formerly MicroStrategy) despite a sharp decline in the company’s stock.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqc2_feg4H3FGeTU1NBNrSYXQkUScNdaXJ46ENvwL_8gwJzOBTsW3yLk&gaa_ts=694841fe&gaa_sig=iEmvd0OhcLKq9fe5HTjsyGTS-Qf5Y27CNPmAFqWhxPCFUD3K0avGTfgQ1lFFFyvMD2bvh2gk63oxERHIbBF_Bg%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeseQ5nB_QA_42B753eYCn7P1g-4B-tc2ueZyyZddC2t3QjVpbbtRdl&gaa_ts=69484a96&gaa_sig=RjhrwxLTFsNzYdzNN_tpko2PWI0hg9CgcanKc1KqZKiOasKoIY5i7A7Et5L_vOpozon__ifUp7dYOb9c4FIY2g%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
+
+This dip is an opportunity to think about what matters most with this asset.
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -209,11 +187,33 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+
+Reuters • 2d ago
+
+---
+
 **[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
 CoinDesk • 2d ago
+
+---
+
+**[Crypto Bills Shouldn't Be Bitcoin or Bust, Says Indiana Lawmaker](https://decrypt.co/352795/crypto-bills-shouldnt-bitcoin-bust-says-indiana-lawmaker)**
+
+Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
+
+Decrypt • 4h ago
+
+---
+
+**[Galaxy's Top Researcher Reveals When Bitcoin Will Hit $250K](https://www.tradingview.com/news/u_today:2f23c8bba094b:0-galaxy-s-top-researcher-reveals-when-bitcoin-will-hit-250k/)**
+
+Alex Thorn, head of firmwide research at Galaxy Digital, has predicted that Bitcoin will eventually hit $250,000 by the end of 2027. At the same time, the prominent researcher has admitted that it would be too challenging to predict the flagship cryptocurrency's price action in 2026. In fact, as no…
+
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -263,13 +263,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 7h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 8h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 8h ago
+⬆️ 1 • 💬 0 • 9h ago
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 457 • 💬 178 • ⏱️ 55:13 • 4h ago
+👁️ 5K • 👍 457 • 💬 178 • ⏱️ 55:13 • 5h ago
 
 ---
 

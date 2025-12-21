@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T18:54:16.224147+00:00'
+updated: '2025-12-21T19:14:49.805878+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 18:54 UTC  
+**Last Updated:** December 21, 2025 at 19:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** +0.6%  
-**30d:** +7.5%  
-**90d:** -28.5%  
-**1y:** -8.9%  
+**7d:** +0.9%  
+**30d:** +7.7%  
+**90d:** -28.4%  
+**1y:** -8.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.58B
+**Market Cap:** $360.98B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.5%
 
 **All-Time Low:** $0.43
-+688090.4%
++690739.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 22h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 23h ago
 
 ---
 
@@ -150,11 +150,25 @@ Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other
 
 ## Google News: "ethereum"
 
+**[Ethereum’s 2026 ‘Hegota’ Upgrade Targets State Bloat and Fees](https://finance.yahoo.com/news/ethereum-2026-hegota-upgrade-targets-160129535.html)**
+
+This week started shaky as we reacted to Federal Reserve uncertainty, but sentiment flipped fast. Ethereum surged nearly 2%, and confidence returned as macro data softened. Right from the start, the ongoing Bessent Warren dispute framed much of the conversation, especially as the Bitcoin price held firm despite volatility. But ...
+
+Yahoo Finance • 3h ago
+
+---
+
 **[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 2d ago
 
 ---
 
@@ -163,14 +177,6 @@ CoinDesk • 23h ago
 Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
 
 CryptoSlate • 1d ago
-
----
-
-**[Bitcoin, Ethereum, Solana To Hit All-Time Highs In 2026, Bitwise Predicts](https://finance.yahoo.com/news/bitcoin-ethereum-solana-hit-time-023109855.html)**
-
-Asset management firm Bitwise expects 2026 to be a breakout year for crypto, with Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and Solana (CRYPTO: SOL) all pushing to new all-time highs as institutional forces reshape the market. What Happened: In ...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -190,25 +196,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 2d ago
-
----
-
 **[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 22h ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 1d ago
+ZyCrypto • 23h ago
 
 ---
 
@@ -228,6 +220,14 @@ AMBCrypto • 1d ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 5K • 👍 440 • 💬 320 • ⏱️ 11:34 • 5h ago
+👁️ 5K • 👍 440 • 💬 320 • ⏱️ 11:34 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 843 • 👍 88 • 💬 6 • ⏱️ 4:12 • 3h ago
+👁️ 843 • 👍 88 • 💬 6 • ⏱️ 4:12 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 796 • 👍 34 • 💬 119 • ⏱️ 8:36 • 23h ago
+👁️ 796 • 👍 34 • 💬 119 • ⏱️ 8:36 • 1d ago
 
 ---
 
