@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T21:53:59.999512+00:00'
+updated: '2025-12-21T22:17:42.826420+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 21:54 UTC  
+**Last Updated:** December 21, 2025 at 22:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,989.50
+### $2,973.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +0.2%  
-**30d:** +7.0%  
-**90d:** -28.8%  
-**1y:** -9.3%  
+**24h:** +0.0%  
+**7d:** +0.5%  
+**30d:** +7.3%  
+**90d:** -28.7%  
+**1y:** -9.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.93B
+**Market Cap:** $359.11B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.6%
 
 **All-Time Low:** $0.43
-+688513.1%
++689889.6%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion December 21, 2025](https://www.reddit.com/r/ethereum/comments/1przbh3/daily_general_discussion_december_21_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-15h ago
-
----
-
 **[I got drained for $840k. Hacker is swapping to Monero](https://www.reddit.com/r/ethereum/comments/1pshuq8/i_got_drained_for_840k_hacker_is_swapping_to/)**
 
 Hi everyone, about two weeks ago my wallet was drained for over $840k, it is my life savings and I’m actually devastated. I’ve been trying all I can with onchain investigators to freeze CEX/recover anything but no result so far… My hacker is using TornadoCash and GoblinSwap / ChangeNOW to make it untraceable/buy monero (anonymous currency) is there really no way to freeze it? Before you ask me: No, I do not know how this happened, I always was very cautious and do not really know how it happened.
 
-14m ago
+38m ago
+
+---
+
+**[Daily General Discussion December 21, 2025](https://www.reddit.com/r/ethereum/comments/1przbh3/daily_general_discussion_december_21_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+16h ago
 
 ---
 
@@ -162,21 +162,13 @@ CoinDesk • 1d ago
 
 This week started shaky as we reacted to Federal Reserve uncertainty, but sentiment flipped fast. Ethereum surged nearly 2%, and confidence returned as macro data softened. Right from the start, the ongoing Bessent Warren dispute framed much of the conversation, especially as the Bitcoin price held firm despite volatility. But ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
 The Block • 2d ago
-
----
-
-**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
-
-Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
-
-CryptoSlate • 1d ago
 
 ---
 
@@ -188,19 +180,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
+
+Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
+
+CryptoSlate • 1d ago
+
+---
+
 **[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
 AMBCrypto • 1d ago
-
----
-
-**[Has Ethereum Officially Overtaken Bitcoin? This Expert is Nodding in Affirmation](https://zycrypto.com/has-ethereum-officially-overtaken-bitcoin-this-expert-is-nodding-in-affirmation/)**
-
-Ethereum’s market behavior has attracted analysts who are highlighting a shift in leadership, typically seen only after a strong Bitcoin rally.
-
-ZyCrypto • 1d ago
 
 ---
 
@@ -228,6 +220,14 @@ ZyCrypto • 1d ago
 
 ---
 
+**[SoFi Unveils Ethereum Stablecoin for Trading and Payments](https://decrypt.co/352815/sofi-unveils-ethereum-stablecoin-trading-and-payments)**
+
+SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.
+
+Decrypt • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 558 • 💬 384 • ⏱️ 11:34 • 8h ago
+👁️ 9K • 👍 558 • 💬 384 • ⏱️ 11:34 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 398 • 💬 77 • ⏱️ 15:49 • 6h ago
+👁️ 7K • 👍 398 • 💬 77 • ⏱️ 15:49 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does
 
 📺 Schwab Network
 
-👁️ 208 • 👍 12 • 💬 24 • ⏱️ 8:22 • 53m ago
+👁️ 208 • 👍 12 • 💬 24 • ⏱️ 8:22 • 1h ago
 
 ---
 
@@ -278,7 +278,7 @@ Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does
 
 📺 Stock Moe
 
-👁️ 401 • 👍 58 • 💬 6 • ⏱️ 11:18 • 8m ago
+👁️ 401 • 👍 58 • 💬 6 • ⏱️ 11:18 • 31m ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 8 • ⏱️ 4:12 • 6h ago
+👁️ 2K • 👍 123 • 💬 8 • ⏱️ 4:12 • 7h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 346 • 👍 17 • 💬 29 • ⏱️ 5:02 • 11h ago
+👁️ 346 • 👍 17 • 💬 29 • ⏱️ 5:02 • 12h ago
 
 ---
 

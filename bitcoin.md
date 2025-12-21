@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T21:53:59.993191+00:00'
+updated: '2025-12-21T22:17:42.819732+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 21:53 UTC  
+**Last Updated:** December 21, 2025 at 22:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.1%  
-**30d:** +4.2%  
-**90d:** -21.1%  
-**1y:** -7.2%  
+**24h:** +0.1%  
+**7d:** +2.3%  
+**30d:** +4.5%  
+**90d:** -20.9%  
+**1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.07B
+**Market Cap:** $1760.08B
 Rank #1
 
-**Circulating Supply:** 19,965,231 BTC
+**Circulating Supply:** 19,965,256 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-29.9%
 
 **All-Time Low:** $67.81
-+130034.2%
++130171.3%
 
 ---
 
@@ -91,12 +91,6 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 ---
 
-**[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
-
-2h ago
-
----
-
 **[15-year-old HDD, 80% bitcoin mining.](https://www.reddit.com/r/Bitcoin/comments/1psgruk/15yearold_hdd_80_bitcoin_mining/)**
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
@@ -105,15 +99,21 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
+**[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
+
+2h ago
+
+---
+
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-12h ago
+13h ago
 
 ---
 
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,13 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-20h ago
+21h ago
+
+---
+
+**[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
+
+58m ago
 
 ---
 
@@ -133,15 +139,7 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 According to recent reports, XXI Capital accumulated more than 40,000 BTC during 2024, with the holdings valued at approximately $3.8 billion at current prices. The accumulation highlights continued institutional interest in Bitcoin, even amid market volatility.
 
-7h ago
-
----
-
-**[Just out of curiosity](https://www.reddit.com/r/Bitcoin/comments/1psftcf/just_out_of_curiosity/)**
-
-Hello guys! Do you invest into anything else like real estate, stocks, bonds or just bitcoin? Im curious because im 21 and live in hungary and my biggest goal is to have 0.1 bitcoin, sadly i just simply can't manage to accumulate 1 whole bitcoin while i can invest maximum 300$/month overall. What i thought i would do is to buy the next 2-3 year just bitcoin so i can get to 0.1 hopefully. After that i think i would feel more safe investing to others (i have around 1500$ worth of googl stocks, but i can't use these now just after5 years becuase its tax-free after that.) So yeah, this is why im curious because i need advice in what should i do? I know i should not seek for advice on reddit but what i have read in the bitcoin section, you guys are all more nice and polite not grumpy and mean like in other groups. So yeah, if you could give me an idea what should i do, please let me know!
-
-1h ago
+8h ago
 
 ---
 
@@ -167,7 +165,7 @@ Nasdaq • 10h ago
 
 Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
 
-CoinDesk • 27m ago
+CoinDesk • 50m ago
 
 ---
 
@@ -181,11 +179,27 @@ Yahoo Finance • 4h ago
 
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeRPpxei8c8XwjhO3rBJCNKDq-7EcZjA1xm6x2kGMg2FgvK5W6SUszB&gaa_ts=69486d5b&gaa_sig=nNV7V3rvDX_-NszXT9j30xaKOJarH6vqB_QJpLD2xlND_KBrAhh0oKIUpoHRIKcFsTDitL4qEYReIHdn5cqVIg%3D%3D)**
+**[CryptoQuant Flags Bear Market, Sees $70K Bitcoin Soon](https://bitbo.io/news/cryptoquant-bear-market-70k/)**
+
+CryptoQuant said onchain and derivatives indicators show a bitcoin bear market has begun, with downside reference levels around $70,000 and potentially $56,000 if weakness persists.
+
+Bitbo • 8h ago
+
+---
+
+**[Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact](https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact)**
+
+The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcgdBTYb31F6cc07lo5CJQNhTjmBlaBB_zPQP9CVKNq6b-Tr0ehI43E&gaa_ts=6948756e&gaa_sig=yKAQQDM229dZSNy3lDpXYr0qXePQJhRwwMLPnDbMckrbT5UwqJ_32eK7T49tAud6j72_Fn-0njMWU6eyDRxT1w%3D%3D)**
 
 Barron's • 2d ago
 
@@ -202,22 +216,6 @@ The Motley Fool • 1d ago
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
 Reuters • 2d ago
-
----
-
-**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
-
-In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
-
-Futurism • 2d ago
-
----
-
-**[Crypto Bills Shouldn't Be Bitcoin or Bust, Says Indiana Lawmaker](https://decrypt.co/352795/crypto-bills-shouldnt-bitcoin-bust-says-indiana-lawmaker)**
-
-Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
-
-Decrypt • 6h ago
 
 ---
 
@@ -267,13 +265,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 10h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 11h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 11h ago
+⬆️ 1 • 💬 0 • 12h ago
 
 ---
 
@@ -301,7 +299,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 678 • 💬 272 • ⏱️ 55:13 • 7h ago
+👁️ 11K • 👍 678 • 💬 272 • ⏱️ 55:13 • 8h ago
 
 ---
 
@@ -381,7 +379,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 470 • 💬 95 • ⏱️ 14:16 • 4h ago
+👁️ 4K • 👍 470 • 💬 95 • ⏱️ 14:16 • 5h ago
 
 ---
 

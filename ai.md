@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T21:53:59.983016+00:00'
+updated: '2025-12-21T22:17:42.810395+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 21:53 UTC  
+**Last Updated:** December 21, 2025 at 22:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 8h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 9h ago
 
 ---
 
@@ -57,7 +57,15 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 5h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 6h ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 57m ago
 
 ---
 
@@ -65,7 +73,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-6h ago
+7h ago
 
 ---
 
@@ -77,19 +85,11 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 ---
 
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 33m ago
-
----
-
 **[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.reddit.com/r/artificial/comments/1psfj48/the_coming_ai_upheaval_risks_collarflipping_the/)**
 
 A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 1h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 2h ago
 
 ---
 
@@ -97,7 +97,15 @@ A divide between Britain’s data-center boomtowns and its white-collar commuter
 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 2h ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 3h ago
+
+---
+
+**[Let Me AI That For You](https://www.reddit.com/r/artificial/comments/1psiczf/let_me_ai_that_for_you/)**
+
+Generate a sarcastic link for that lazy friend who refuses to type in an AI prompt themselves.
+
+🔗 [lmaitfy.lol](https://lmaitfy.lol) • 15m ago
 
 ---
 
@@ -105,15 +113,7 @@ Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
 
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 3h ago
-
----
-
-**[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
-
-Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
-
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1d ago
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI - WSJ](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfs_SAy8eAI1vcR78aL7kKNBSLUgoBA1PNN1CpbVIXpM0oqk8NkLYDI&gaa_ts=69486d5c&gaa_sig=ZC34HI2XGht4bI0_PG0z8ib5nu80IvVK773ugnoqWK9SwWSBTpDQHm5a20IPSm0oGN-EdwRV_ty8ZY4Ag01eiw%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI - WSJ](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdeHbxDkHRb6wXuPJWczhu-lJA8ZwLDveebwby5W3eREKavF5tFjwss&gaa_ts=6948756c&gaa_sig=d_aEMNANSXKz0DqAuWPPWd5-VnakA5rZQ7wHawuOzz4vW4Pw8HDcpxr-nobKki27b2J318uAh5UKcpRs0I1lXQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 1d ago
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -139,37 +139,19 @@ CNBC • 13h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
-**[Google executive addresses calls to slow AI, highlights security and energy focus](https://www.foxbusiness.com/media/google-executive-addresses-calls-slow-ai-highlights-security-energy-focus)**
+**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
-Google executive urges responsible AI development, citing collaborations brought about by President Donald Trump's "Genesis Mission" for energy and cybersecurity innovation.
-
-Fox Business • 2h ago
+Bloomberg.com • 17m ago
 
 ---
 
-**[Traverse City launches AI-driven sewer evaluation](https://upnorthlive.com/news/local/traverse-city-launches-ai-driven-sewer-evaluation)**
+**[Opinion | Would You Let Claude Do Your Taxes?](https://www.wsj.com/opinion/would-you-let-claude-do-your-taxes-d7517b52?gaa_at=eafs&gaa_n=AWEtsqfkbCPP0IOnfBUcXq1ZzzTt5Vg4oRT0UdCKSaY2GVYYAPFQK2vPZiKe&gaa_ts=6948756c&gaa_sig=ZxpTgJEQ71wiX9b_Gt1aUK7_TAEgfwAwrvD-O5OWqHKe72TMmSVfcMv112GMa15t-xWLO44ovhXkn1urFYL-SQ%3D%3D)**
 
-TRAVERSE CITY, Mich,. (WPBN/WGTU) - - Traverse City is conducting a sanitary sewer evaluation to assess the condition of its piping systems.The evaluation aims
-
-WPBN • 48m ago
-
----
-
-**[Gen Z is using social media to job hunt but is still fearful AI will dictate their career paths](https://nypost.com/2025/12/21/lifestyle/gen-z-fears-ai-will-steal-their-jobs/)**
-
-They’re now known as the “reroute generation.”
-
-New York Post • 1h ago
-
----
-
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 1d ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -177,7 +159,13 @@ Politico • 1d ago
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 8h ago
+The Guardian • 9h ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 1d ago
 
 ---
 
@@ -195,6 +183,14 @@ The New York Times • 1d ago
 
 ---
 
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,19 +199,19 @@ The New York Times • 1d ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 498 • 💬 463 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 499 • 💬 463 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 227 • 💬 338 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 228 • 💬 339 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 215 • 💬 168 • 17h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 216 • 💬 168 • 18h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -223,15 +219,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 149 • 💬 357 • 14h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
-
----
-
-**[AI vending machine was tricked into giving away everything](https://news.ycombinator.com/item?id=46319324)**
-
-Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, named Claudius, was responsible for autonomously p
-
-⬆️ 145 • 💬 13 • 3d ago • [kottke.org](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
+⬆️ 151 • 💬 358 • 15h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -247,7 +235,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 122 • 💬 52 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 123 • 💬 52 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -267,7 +255,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 87 • 💬 75 • 16h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 88 • 💬 77 • 17h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -276,6 +264,14 @@ But perhaps this can be resolved by the realization that while cleverness and in
 Some engineers dismiss AI coding tools as ‘garbage’ without trying modern versions. Their outdated opinions are costing them.
 
 ⬆️ 74 • 💬 239 • 2d ago • [Terrible Software](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)
+
+---
+
+**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
+
+Personal Musings and Transcripts
+
+⬆️ 67 • 💬 33 • 4h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -289,7 +285,7 @@ I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and 
 
 📺 tef
 
-👁️ 16K • 👍 2K • 💬 228 • ⏱️ 13:09 • 5h ago
+👁️ 16K • 👍 2K • 💬 228 • ⏱️ 13:09 • 6h ago
 
 ---
 
@@ -299,7 +295,7 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 2K • 👍 78 • 💬 11 • ⏱️ 1:03:20 • 8h ago
+👁️ 2K • 👍 78 • 💬 11 • ⏱️ 1:03:20 • 9h ago
 
 ---
 
@@ -339,7 +335,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 11K • 👍 1K • 💬 55 • ⏱️ 13:25 • 3h ago
+👁️ 11K • 👍 1K • 💬 55 • ⏱️ 13:25 • 4h ago
 
 ---
 
@@ -359,7 +355,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 122 • 💬 11 • ⏱️ 8:42 • 23h ago
+👁️ 5K • 👍 122 • 💬 11 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -369,7 +365,7 @@ Top 5 SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #
 
 📺 Bigfoot Feed
 
-👁️ 37K • 👍 763 • 💬 16 • ⏱️ 1:00 • 1d ago
+👁️ 37K • 👍 763 • 💬 16 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -395,7 +391,19 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,249 • 13d ago
+⬇️ 352,314 • ❤️ 3,252 • 13d ago
+
+---
+
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 3,459 • ❤️ 413 • 2d ago
 
 ---
 
@@ -411,18 +419,6 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 ---
 
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 3,459 • ❤️ 411 • 2d ago
-
----
-
 **[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
 
 *Google*
@@ -431,7 +427,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 396 • 3d ago
+⬇️ 10,633 • ❤️ 397 • 3d ago
 
 ---
 
@@ -479,7 +475,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 315 • 4d ago
+⬇️ 0 • ❤️ 316 • 4d ago
 
 ---
 
@@ -711,7 +707,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 865 • 🔱 166 • 26m ago
+⭐ 865 • 🔱 166 • 50m ago
 
 ---
 
