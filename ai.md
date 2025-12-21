@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T15:25:37.637191+00:00'
+updated: '2025-12-21T15:40:43.249678+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 15:25 UTC  
+**Last Updated:** December 21, 2025 at 15:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 3h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-13m ago
+28m ago
 
 ---
 
@@ -95,7 +95,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 2h ago
 
 You have to think beyond "Magnificent" stocks in 2026!
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -283,17 +283,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 87K • 👍 2K • 💬 732 • ⏱️ 15:25 • 20h ago
-
----
-
-**[AI expert exposes why he left OpenAI](https://www.youtube.com/watch?v=CkspCK5mGHA)**
-
-Daniel Kokotajlo discusses why artificial intelligence may surpass the transformative power of the Industrial Revolution, just how ...
-
-📺 Future of Life Institute
-
-👁️ 23K • 👍 829 • 💬 327 • ⏱️ 16:15 • 3d ago
+👁️ 89K • 👍 3K • 💬 770 • ⏱️ 15:25 • 20h ago
 
 ---
 
@@ -303,7 +293,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 148K • 👍 8K • 💬 1K • ⏱️ 19:40 • 18h ago
+👁️ 157K • 👍 8K • 💬 2K • ⏱️ 19:40 • 18h ago
 
 ---
 
@@ -313,27 +303,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 43K • 👍 3K • 💬 179 • ⏱️ 37:38 • 1d ago
-
----
-
-**[OpenAI Wants You To Go Insane](https://www.youtube.com/watch?v=fPW3B6v60nc)**
-
-Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collaborative, private, and pro-human.
-
-📺 Adam Conover
-
-👁️ 246K • 👍 15K • 💬 2K • ⏱️ 17:08 • 1d ago
-
----
-
-**[Brace Yourself for the AI Bubble](https://www.youtube.com/watch?v=0wxBHxpMFXA)**
-
-Are we watching an AI revolution, or a slow-motion economic disaster?
-
-📺 Robert Reich
-
-👁️ 336K • 👍 20K • 💬 2K • ⏱️ 5:52 • 3d ago
+👁️ 45K • 👍 3K • 💬 185 • ⏱️ 37:38 • 1d ago
 
 ---
 
@@ -343,7 +313,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 333K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 337K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
 
 ---
 
@@ -353,17 +323,15 @@ Didn't expect this... I got curious and wanted to see how @chatgpt would react t
 
 📺 gptars
 
-👁️ 1.2M • 👍 51K • 💬 777 • ⏱️ 1:01 • 1d ago
+👁️ 1.4M • 👍 60K • 💬 895 • ⏱️ 1:01 • 1d ago
 
 ---
 
-**[Natasha Cheated Poor Hulk! Hulk Revenge#hulk #ai #shorts](https://www.youtube.com/watch?v=5bLvKQ3DyL4)**
+**[DON’T DATE AI!](https://www.youtube.com/watch?v=niHbG9ICHr4)**
 
-hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​ #sadstory​ #emotional​ #plotwist​ #shockending​ ...
+📺 LOL Podcast 
 
-📺 Z Jung
-
-👁️ 3K • ⏱️ 0:59 • 2h ago
+👁️ 68K • 👍 3K • 💬 102 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -371,7 +339,37 @@ hulk​ #marvel​ #ai​ #aistory​ #aitrend​ #viralvideo​ #trendingnow​
 
 📺 Etymology Nerd
 
-👁️ 845K • 👍 35K • 💬 731 • ⏱️ 1:03 • 1d ago
+👁️ 890K • 👍 36K • 💬 751 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[Monopolizing to gain full control of the AI market 🤖📈🤣 | Tyler Austin Harper | The Downside Podcast](https://www.youtube.com/watch?v=UEVtmedaPbw)**
+
+Check Out my Tour Dates! Tour Dates: https://beacons.ai/gianmarcosoresi Get a text next time I'm performing in your city ...
+
+📺 Gianmarco Soresi
+
+👁️ 112K • 👍 5K • 💬 147 • ⏱️ 0:56 • 1d ago
+
+---
+
+**[Mojang&#39;s AI Bot has officially gone crazy.](https://www.youtube.com/watch?v=88Mp1uMMmzg)**
+
+https://minecraft.wiki/w/Minecraft_Support_Virtual_Agent#/media/File:WorkshopTextureAtlas.png *It seems like they haven't ...
+
+📺 Phoenix SC
+
+👁️ 639K • 👍 37K • 💬 2K • ⏱️ 5:02 • 2d ago
+
+---
+
+**[Sam Altman: How OpenAI Wins, ChatGPT’s Future, AI Buildout Logic, IPO in 2026?](https://www.youtube.com/watch?v=2P27Ef-LLuQ)**
+
+Sam Altman is the CEO of OpenAI. Altman joins Big Technology Podcast to discuss OpenAI's plan to win in a tightening AI race.
+
+📺 Alex Kantrowitz
+
+👁️ 90K • 👍 5K • 💬 617 • ⏱️ 58:23 • 2d ago
 
 ---
 

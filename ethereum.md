@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T15:25:37.652172+00:00'
+updated: '2025-12-21T15:40:43.264734+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 15:25 UTC  
+**Last Updated:** December 21, 2025 at 15:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -0.1%  
-**30d:** +6.6%  
-**90d:** -29.1%  
-**1y:** -9.6%  
+**24h:** -0.2%  
+**7d:** +0.2%  
+**30d:** +7.0%  
+**90d:** -28.9%  
+**1y:** -9.3%  
 
 ---
 
@@ -232,13 +232,23 @@ TradingView — Track All Markets • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
+**[Tom Lee&#39;s Fundstrat Sees $60K BTC $1.8k ETH and $50 SOL In H1 2026... Stablecoin Battle, BTC ETF...](https://www.youtube.com/watch?v=PrjHeXsAGfE)**
 
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 Tevis
+📺 AllinCrypto
 
-👁️ 14K • 👍 947 • 💬 218 • ⏱️ 35:41 • 14h ago
+👁️ 3K • 👍 319 • 💬 338 • ⏱️ 11:34 • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=stp8NpOeNj8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 321 • 👍 39 • 💬 2 • ⏱️ 4:12 • 36m ago
 
 ---
 
@@ -248,17 +258,17 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 84 • 💬 76 • ⏱️ 11:26 • 1d ago
+👁️ 3K • 👍 84 • 💬 92 • ⏱️ 11:26 • 1d ago
 
 ---
 
-**[Cathie Wood: &quot;The Bottom Is In!&quot; [New Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=WqRYEMmtNZc)**
+**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
-📺 Crypto Nutshell
+📺 Tevis
 
-👁️ 18K • 👍 543 • 💬 57 • ⏱️ 16:54 • 3d ago
+👁️ 15K • 👍 1K • 💬 247 • ⏱️ 35:41 • 15h ago
 
 ---
 
@@ -268,57 +278,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 471 • 💬 12 • ⏱️ 21:53 • 2d ago
-
----
-
-**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 717 • 👍 33 • 💬 107 • ⏱️ 8:36 • 20h ago
-
----
-
-**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
-
-Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
-
-📺 Ryan’s Money Lab
-
-👁️ 3K • 👍 124 • 💬 15 • ⏱️ 14:00 • 20h ago
-
----
-
-**[BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HtusFKeaU5s)**
-
-BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 335 • 💬 173 • ⏱️ 21:12 • 17h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YnQLkYMv6FE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 156 • 💬 6 • ⏱️ 6:04 • 1d ago
-
----
-
-**[BMNR Stock &amp; ETH Technical Analysis Prediction | Tom Lee’s BitMine Set For Monster Q1 Move!](https://www.youtube.com/watch?v=-DWATwifb1Y)**
-
-ethereum #bmnr #bitcoin In this video, I break down why BMNR stock and Ethereum are setting up for a major move into January ...
-
-📺 alliseeisW 
-
-👁️ 1K • 👍 71 • 💬 87 • ⏱️ 9:51 • 18h ago
+👁️ 13K • 👍 482 • 💬 12 • ⏱️ 21:53 • 2d ago
 
 ---
 
@@ -328,7 +288,47 @@ This data can change everything now for bitcoin, ethereum and the rest of crypto
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 538 • 💬 33 • ⏱️ 8:37 • 2d ago
+👁️ 18K • 👍 539 • 💬 34 • ⏱️ 8:37 • 2d ago
+
+---
+
+**[BMNR Stock &amp; ETH Technical Analysis Prediction | Tom Lee’s BitMine Set For Monster Q1 Move!](https://www.youtube.com/watch?v=-DWATwifb1Y)**
+
+ethereum #bmnr #bitcoin In this video, I break down why BMNR stock and Ethereum are setting up for a major move into January ...
+
+📺 alliseeisW 
+
+👁️ 1K • 👍 73 • 💬 104 • ⏱️ 9:51 • 19h ago
+
+---
+
+**[ETH Ethereum Price Prediction: THE LOW IS IN](https://www.youtube.com/watch?v=VxV9_cWg18Y)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 756 • 👍 34 • 💬 127 • ⏱️ 8:36 • 20h ago
+
+---
+
+**[Whales Are Buying Ethereum  Retail Is Selling](https://www.youtube.com/watch?v=MFBeoCbJwM8)**
+
+Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin is down ~30%. But here's the twist: retail is ...
+
+📺 Ryan’s Money Lab
+
+👁️ 3K • 👍 129 • 💬 16 • ⏱️ 14:00 • 21h ago
+
+---
+
+**[BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=HtusFKeaU5s)**
+
+BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 346 • 💬 216 • ⏱️ 21:12 • 18h ago
 
 ---
 

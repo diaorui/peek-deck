@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T15:25:37.645971+00:00'
+updated: '2025-12-21T15:40:43.258063+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 15:25 UTC  
+**Last Updated:** December 21, 2025 at 15:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 HODL
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ XXI Capital has accumulated over 40,000 BTC this year, worth roughly $3.8B. Inte
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -165,7 +165,7 @@ MarketWatch • 2d ago
 
 Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -293,17 +293,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 142 • ⏱️ 14:31 • 22h ago
-
----
-
-**[TOM LEE&#39;S FUND JUST SAID BITCOIN IS GOING TO $60k!!](https://www.youtube.com/watch?v=M8pOiuRmuj0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 9K • 👍 446 • 💬 121 • ⏱️ 4:18 • 21h ago
+👁️ 26K • 👍 2K • 💬 153 • ⏱️ 14:31 • 22h ago
 
 ---
 
@@ -313,17 +303,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 44K • 👍 2K • 💬 207 • ⏱️ 44:14 • 1d ago
+👁️ 44K • 👍 2K • 💬 212 • ⏱️ 44:14 • 2d ago
 
 ---
 
-**[Bitcoin: This will PISS YOU OFF!!!](https://www.youtube.com/watch?v=4dW0m0neAo4)**
+**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
 
-Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://youtu.be/B5tImpo66YA (click)
+Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
 
-📺 MMCrypto
+📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 2K • 💬 379 • ⏱️ 8:54 • 7h ago
+👁️ 2K • 👍 227 • 💬 110 • ⏱️ 55:13 • 1h ago
 
 ---
 
@@ -333,27 +323,27 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 120 • ⏱️ 13:47 • 1d ago
+👁️ 43K • 👍 2K • 💬 121 • ⏱️ 13:47 • 1d ago
 
 ---
 
-**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
+**[Why This Bitcoin Crash Proves Most Don’t Understand Bitcoin...](https://www.youtube.com/watch?v=4xSvl2xd2bs)**
 
-This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
+This Bitcoin crash is exposing a massive misunderstanding about what Bitcoin actually is. While most investors focus on price ...
 
-📺 BTC Sessions
+📺 Swan Bitcoin
 
-👁️ 18K • 👍 794 • 💬 350 • ⏱️ 20:14 • 19h ago
+👁️ 56K • 👍 2K • 💬 170 • ⏱️ 16:50 • 2d ago
 
 ---
 
-**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
+**[Bitcoin: This will PISS YOU OFF!!!](https://www.youtube.com/watch?v=4dW0m0neAo4)**
 
-Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
+Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://youtu.be/B5tImpo66YA (click)
 
-📺 CryptosRus Extra
+📺 MMCrypto
 
-👁️ 15K • 👍 638 • 💬 357 • ⏱️ 10:58 • 1d ago
+👁️ 24K • 👍 2K • 💬 450 • ⏱️ 8:54 • 8h ago
 
 ---
 
@@ -363,17 +353,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 101 • ⏱️ 46:11 • 1d ago
-
----
-
-**[Major Bitcoin Cycle Reveal: Pure Charts And Technical Analysis From Legendary Pro Trader](https://www.youtube.com/watch?v=C9TaSaaf5po)**
-
-Chief Market Strategist Gareth Soloway reveals a new discovery about the Bitcoin cycle. Based on this technical analysis, Gareth ...
-
-📺 Gareth Soloway
-
-👁️ 41K • 👍 3K • 💬 224 • ⏱️ 10:40 • 2d ago
+👁️ 49K • 👍 2K • 💬 101 • ⏱️ 46:11 • 1d ago
 
 ---
 
@@ -383,7 +363,27 @@ It is once again time for some dubious speculation on the price of Bitcoin! Into
 
 📺 Benjamin Cowen
 
-👁️ 87K • 👍 5K • 💬 294 • ⏱️ 18:06 • 1d ago
+👁️ 88K • 👍 5K • 💬 297 • ⏱️ 18:06 • 1d ago
+
+---
+
+**[He Tried to Scam Me With Bitcoin #crypto](https://www.youtube.com/watch?v=rk0w9sGMI1Y)**
+
+CRAIGSLIST HUNTER Marketplace https://craigslisthunter.net/explore My email deepinthecity7@gmail.com My Ebay ...
+
+📺 Craigslist Hunter
+
+👁️ 48K • 👍 2K • 💬 250 • ⏱️ 2:15 • 2d ago
+
+---
+
+**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+
+Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+
+📺 BTC Isla
+
+👁️ 25K • 👍 2K • 💬 343 • ⏱️ 8:31 • 1d ago
 
 ---
 

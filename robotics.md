@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T15:25:37.655512+00:00'
+updated: '2025-12-21T15:40:43.270405+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 15:25 UTC  
+**Last Updated:** December 21, 2025 at 15:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-38m ago
+53m ago
 
 ---
 
@@ -176,7 +176,7 @@ Global Times • 1d ago
 
 China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
 
-South China Morning Post • 15h ago
+South China Morning Post • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 25K • 👍 591 • 💬 60 • ⏱️ 2:08:46 • 1d ago
+👁️ 26K • 👍 609 • 💬 62 • ⏱️ 2:08:46 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 2.3M • 👍 169K • 💬 39K • ⏱️ 15:02 • 12h ago
+👁️ 2.6M • 👍 179K • 💬 41K • ⏱️ 15:02 • 13h ago
 
 ---
 
@@ -218,25 +218,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 270K • 👍 7K • 💬 888 • ⏱️ 18:35 • 18h ago
-
----
-
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
-
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
-
-📺 CNET
-
-👁️ 32K • 👍 322 • 💬 34 • ⏱️ 1:05 • 6d ago
-
----
-
-**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
-
-📺 Romi Pal
-
-👁️ 15.5M • 👍 105K • 💬 787 • ⏱️ 0:24 • 5d ago
+👁️ 288K • 👍 7K • 💬 920 • ⏱️ 18:35 • 18h ago
 
 ---
 
@@ -246,7 +228,25 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 92K • 👍 5K • 💬 433 • ⏱️ 13:43 • 3d ago
+👁️ 96K • 👍 5K • 💬 442 • ⏱️ 13:43 • 3d ago
+
+---
+
+**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
+
+📺 Romi Pal
+
+👁️ 15.8M • 👍 108K • 💬 808 • ⏱️ 0:24 • 5d ago
+
+---
+
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+
+📺 South China Morning Post
+
+👁️ 41K • 👍 538 • 💬 149 • ⏱️ 3:55 • 2d ago
 
 ---
 
@@ -266,7 +266,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots The
 
 📺 PRO ROBOTS
 
-👁️ 336K • 👍 6K • 💬 559 • ⏱️ 26:54 • 6d ago
+👁️ 336K • 👍 6K • 💬 562 • ⏱️ 26:54 • 6d ago
+
+---
+
+**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+
+We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+
+📺 CNET
+
+👁️ 32K • 👍 323 • 💬 34 • ⏱️ 1:05 • 6d ago
 
 ---
 
@@ -277,16 +287,6 @@ Original video: https://www.youtube.com/watch?v=6nEfAb5q84o Gaming Channel: http
 📺 RICHLEV
 
 👁️ 214K • 👍 5K • 💬 1K • ⏱️ 17:05 • 6d ago
-
----
-
-**[Scientists Create Reprogrammable Knot For Surgery](https://www.youtube.com/watch?v=osQU4MfjcyI)**
-
-Robotic surgeons struggle with precisely controlling suture tension, which is critical to wound healing. Researchers developed a ...
-
-📺 Dr Ben Miles
-
-👁️ 28K • 👍 3K • 💬 82 • ⏱️ 1:38 • 4d ago
 
 ---
 
