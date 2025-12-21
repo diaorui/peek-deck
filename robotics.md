@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T03:45:21.775775+00:00'
+updated: '2025-12-21T04:25:36.265986+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 03:45 UTC  
+**Last Updated:** December 21, 2025 at 04:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Website: https://www.nio-robotics.com/
 
-18h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.nio-robotics.com/
 
 From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/2002150288799772855 Website: https://kyberlabs.ai/
 
-17h ago
+18h ago
 
 ---
 
@@ -98,11 +98,11 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 ---
 
-**[Plume, a small biped robot](https://www.reddit.com/r/robotics/comments/1pqykl4/plume_a_small_biped_robot/)**
+**[News of the planetary gearbox](https://www.reddit.com/r/robotics/comments/1prwz5c/news_of_the_planetary_gearbox/)**
 
-Hey everyone! I wanted to share a little clip of Plume, a small bipedal robot I've been working on for the past several months. Size: 30cm tall, 1.4kg (3D-printed frame) Actuators: 21 Herkulex DRS-0101 and DRS-0102 servos Sensors: BNO055 IMU for balance feedback, FSR sensors for ground contact detection Brain: Teensy 4.0 as the main controller, XIAO ESP32-S3 Sense for connectivity and vision Display: 128×64 OLED screen Audio: Onboard speaker with MAX98357A amplifier Power: 3S 850mAh LiPo battery Custom PCBs for power management and sensor integration My main challenge for this project is bipedal locomotion. I already have a stable walking gait that can self-correct thanks to IMU and FSR feedback . The XIAO Sense has a built-in camera and microphone, which opens up some interesting possibilities. I'm planning to run multimodal AI conversations where the robot streams camera feed and audio to a Python script on a PC that handles the AI part. I've also got a Blender rig with a custom exporter that lets me export motor animations and facial animations directly. Still lots to figure out, but I'm quite happy with it for now. I'll share more videos in the future. Thanks!
+https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-1d ago
+33m ago
 
 ---
 
@@ -122,7 +122,7 @@ Futurism • 1d ago
 
 Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
 
-TechNode • 14h ago
+TechNode • 15h ago
 
 ---
 
@@ -178,13 +178,15 @@ The Robot Report • 14h ago
 
 Trained on 40,000 hours of gameplay in 1,000+ titles.
 
-Tom's Hardware • 16h ago
+Tom's Hardware • 17h ago
 
 ---
 
-**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
+**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
 
-KXAN Austin • 5h ago
+Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -198,17 +200,17 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 19K • 👍 499 • 💬 51 • ⏱️ 2:08:46 • 1d ago
+👁️ 20K • 👍 525 • 💬 52 • ⏱️ 2:08:46 • 1d ago
 
 ---
 
-**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+**[CONTROL REWORK TRAILER + SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=31Pek0aIpEI)**
 
-Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
+Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   Blox Fruits Twitter: ...
 
-📺 Catanimation
+📺 Gamer Robot
 
-👁️ 195K • 👍 2K • 💬 17 • ⏱️ 0:25 • 6d ago
+👁️ 552K • 👍 82K • 💬 22K • ⏱️ 15:02 • 1h ago
 
 ---
 
@@ -218,7 +220,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 32K • 👍 814 • 💬 121 • ⏱️ 6:41 • 6d ago
+👁️ 32K • 👍 816 • 💬 121 • ⏱️ 6:41 • 6d ago
 
 ---
 
@@ -226,27 +228,7 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 Romi Pal
 
-👁️ 13.6M • 👍 93K • 💬 635 • ⏱️ 0:24 • 5d ago
-
----
-
-**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
-
-Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
-
-📺 Aimin
-
-👁️ 513K • 👍 15K • 💬 3K • ⏱️ 14:27 • 13h ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 31K • 👍 454 • 💬 116 • ⏱️ 3:55 • 1d ago
+👁️ 14.1M • 👍 96K • 💬 683 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -256,17 +238,7 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 📺 CNET
 
-👁️ 32K • 👍 320 • 💬 33 • ⏱️ 1:05 • 5d ago
-
----
-
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 74K • 👍 1K • 💬 146 • ⏱️ 11:23 • 5d ago
+👁️ 32K • 👍 321 • 💬 33 • ⏱️ 1:05 • 5d ago
 
 ---
 
@@ -276,17 +248,47 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 73K • 👍 4K • 💬 382 • ⏱️ 13:43 • 2d ago
+👁️ 78K • 👍 4K • 💬 394 • ⏱️ 13:43 • 2d ago
 
 ---
 
-**[Engineers Turned Seafood Waste Into a Powerful Robot](https://www.youtube.com/watch?v=tOirfOhG9Fc)**
+**[Polish startup just built a 1,000-muscle robot that moves exactly like a human and it&#39;s terrifying](https://www.youtube.com/watch?v=_HtcRmUXiSU)**
 
-Researchers at EPFL in Switzerland have shown that discarded Norway lobster, or langoustine, shells can be turned into ...
+A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitching its limbs like it just woke up from a nightmare ...
 
-📺 vt.physics
+📺 Nic Conley
 
-👁️ 479K • 👍 16K • 💬 508 • ⏱️ 0:34 • 6d ago
+👁️ 32K • 👍 2K • 💬 54 • ⏱️ 1:32 • 2d ago
+
+---
+
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+
+📺 AI Revolution
+
+👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 5d ago
+
+---
+
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+
+📺 South China Morning Post
+
+👁️ 33K • 👍 477 • 💬 118 • ⏱️ 3:55 • 1d ago
+
+---
+
+**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
+
+Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
+
+📺 Aimin
+
+👁️ 560K • 👍 15K • 💬 3K • ⏱️ 14:27 • 14h ago
 
 ---
 
