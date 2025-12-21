@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T06:51:05.697559+00:00'
+updated: '2025-12-21T07:11:56.701730+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 06:51 UTC  
+**Last Updated:** December 21, 2025 at 07:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.0%  
+**24h:** -0.3%  
+**7d:** +1.9%  
 **30d:** +4.1%  
 **90d:** -21.2%  
 **1y:** -7.3%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.79B
+**Market Cap:** $1758.52B
 Rank #1
 
 **Circulating Supply:** 19,964,943 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.1%
 
 **All-Time Low:** $67.81
-+129904.4%
++129808.6%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-5h ago
+7h ago
 
 ---
 
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-11h ago
+5h ago
 
 ---
 
@@ -95,15 +95,15 @@ Rank #1
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-7h ago
+12h ago
 
 ---
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -115,17 +115,17 @@ The crypto market is down" Degens with their last $200:
 
 ---
 
+**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
+
+3h ago
+
+---
+
 **[What if Bitcoin doesn’t need mass adoption to succeed?](https://www.reddit.com/r/Bitcoin/comments/1prqeen/what_if_bitcoin_doesnt_need_mass_adoption_to/)**
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
 8h ago
-
----
-
-**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
-
-2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Nasdaq • 20h ago
 
 The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -279,7 +279,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 98 • ⏱️ 14:31 • 13h ago
+👁️ 21K • 👍 1K • 💬 98 • ⏱️ 14:31 • 14h ago
 
 ---
 
@@ -299,7 +299,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 101 • ⏱️ 46:11 • 16h ago
+👁️ 42K • 👍 2K • 💬 101 • ⏱️ 46:11 • 17h ago
 
 ---
 
@@ -339,7 +339,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 292 • 💬 139 • ⏱️ 4:01 • 7h ago
+👁️ 5K • 👍 292 • 💬 139 • ⏱️ 4:01 • 8h ago
 
 ---
 
