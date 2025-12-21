@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T08:28:06.933626+00:00'
+updated: '2025-12-21T08:49:45.321184+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 08:28 UTC  
+**Last Updated:** December 21, 2025 at 08:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +0.5%  
-**30d:** +7.3%  
-**90d:** -28.6%  
-**1y:** -9.0%  
+**24h:** +0.4%  
+**7d:** +1.1%  
+**30d:** +7.9%  
+**90d:** -28.2%  
+**1y:** -8.5%  
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-11h ago
+12h ago
 
 ---
 
@@ -238,7 +238,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 8K • 👍 653 • 💬 179 • ⏱️ 35:41 • 7h ago
+👁️ 8K • 👍 653 • 💬 179 • ⏱️ 35:41 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 2K • 👍 109 • 💬 15 • ⏱️ 14:00 • 13h ago
+👁️ 2K • 👍 109 • 💬 15 • ⏱️ 14:00 • 14h ago
 
 ---
 
@@ -298,7 +298,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 611 • 2h ago
+👁️ 4K • 👍 611 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T08:28:06.927554+00:00'
+updated: '2025-12-21T08:49:45.315063+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 08:28 UTC  
+**Last Updated:** December 21, 2025 at 08:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,118.60
+### $88,612.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.0%  
-**30d:** +4.2%  
-**90d:** -21.2%  
-**1y:** -7.3%  
+**24h:** +0.3%  
+**7d:** +2.5%  
+**30d:** +4.7%  
+**90d:** -20.8%  
+**1y:** -6.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -163,7 +163,7 @@ Barron's • 1d ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 22h ago
 
 Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -291,7 +291,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 272 • 💬 146 • ⏱️ 11:07 • 13h ago
+👁️ 5K • 👍 272 • 💬 146 • ⏱️ 11:07 • 14h ago
 
 ---
 
