@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T20:16:01.922488+00:00'
+updated: '2025-12-21T20:37:32.608375+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 20:16 UTC  
+**Last Updated:** December 21, 2025 at 20:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,14 +53,6 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 ---
 
-**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
-
-I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
-
-5h ago
-
----
-
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
@@ -69,11 +61,19 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 ---
 
+**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
+
+I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
+
+5h ago
+
+---
+
 **[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 8h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 9h ago
 
 ---
 
@@ -85,11 +85,19 @@ Space Force uses AI challenge to push everyday use of artificial intelligence Sp
 
 ---
 
+**[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.reddit.com/r/artificial/comments/1psfj48/the_coming_ai_upheaval_risks_collarflipping_the/)**
+
+A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 38m ago
+
+---
+
 **[AI Generated Media is Unmonetizable](https://www.reddit.com/r/artificial/comments/1prnnfn/ai_generated_media_is_unmonetizable/)**
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 23h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 1d ago
 
 ---
 
@@ -97,7 +105,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 58m ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 1h ago
 
 ---
 
@@ -105,21 +113,19 @@ Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
 
-2h ago
-
----
-
-**[Sam Altman says he’s ‘0%’ excited to be CEO of a public company as OpenAI drops hints about an IPO: ‘In some ways I think it’d be really annoying’](https://www.reddit.com/r/artificial/comments/1prllyb/sam_altman_says_hes_0_excited_to_be_ceo_of_a/)**
-
-Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 1d ago
+3h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfL-UwRT1w6vlC6n5GQaeJrb7VgJX3qKnec_4qxS4YxPvd-DaJ5C6Oy&gaa_ts=69485dfa&gaa_sig=rdPpYnSyoCX6LdiIycY5z2NNbSWB4KLhbzTi-XDrOWB6ow-K7_amnCmkH14kMGAroSx5kko89XAkK8tKayQCVA%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
 
 **[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
 
@@ -137,14 +143,6 @@ CNN • 12h ago
 
 ---
 
-**[Fraudsters use AI to fake artwork authenticity and ownership](https://www.ft.com/content/fdfb5489-daa0-4e7e-97b7-4317514cd9f4)**
-
-Chatbots forge convincing sales invoices and other documents, say industry figures
-
-Financial Times • 2h ago
-
----
-
 **[Riding the AI wave? You need a 'strong stomach': Dan Ives' strategy](https://finance.yahoo.com/video/riding-ai-wave-strong-stomach-190054666.html)**
 
 In the AI trade, you "can't just bet on one company," Wedbush Securities managing director and global head of technology research, Dan Ives, tells Yahoo Finance, highlighting the importance of diversification for AI investors. Watch the video above to hear more about Ives' AI thesis and the 30 stocks in the Dan IVES Wedbush AI Revolution ETF (IVES). To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
@@ -153,21 +151,11 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[AI Is Stress-Testing The Grid. Can Energy Storage Diversify](https://www.forbes.com/sites/jenniferkitepowell/2025/12/21/ai-is-stress-testing-the-grid-can-energy-storage--diversify/)**
+**[Google executive addresses calls to slow AI, highlights security and energy focus](https://www.foxbusiness.com/media/google-executive-addresses-calls-slow-ai-highlights-security-energy-focus)**
 
-Forbes • 2h ago
+Google executive urges responsible AI development, citing collaborations brought about by President Donald Trump's "Genesis Mission" for energy and cybersecurity innovation.
 
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqf1tGZ2puWvME9PtkxPAlbv2b1zweOwDZJ5QSC7aR5C16UkLhvRZbDT&gaa_ts=6948537f&gaa_sig=R3WU3C9ygIGIlOyyKjsqTCUdBRx_MV1UpHbybu7Hinvs26bkO-Vd-N8UiZE3SdjX0UnvFhqI-6XcFukqoS5IUw%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
+Fox Business • 47m ago
 
 ---
 
@@ -185,11 +173,23 @@ CNBC • 12h ago
 
 ---
 
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[Shield AI’s new CEO says the $5.6B defense tech startup is at an inflection point](https://fortune.com/2025/12/21/shield-ai-ukraine-defense-tech-gary-steele/)**
 
 Demand for Shield AI’s V-BAT is ramping up in Europe and Asia.
 
 Fortune • 8h ago
+
+---
+
+**[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
+
+Axios • 4h ago
 
 ---
 
@@ -201,19 +201,19 @@ Fortune • 8h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 494 • 💬 455 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 496 • 💬 458 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 225 • 💬 334 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 226 • 💬 335 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 209 • 💬 156 • 16h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 211 • 💬 163 • 16h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 148 • 💬 346 • 12h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 148 • 💬 349 • 13h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -287,7 +287,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 10K • 👍 668 • 💬 46 • ⏱️ 1:29 • 1h ago
+👁️ 10K • 👍 668 • 💬 46 • ⏱️ 1:29 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ Sam Altman is the CEO of OpenAI. Altman joins Big Technology Podcast to discuss 
 
 📺 Alex Kantrowitz
 
-👁️ 94K • 👍 5K • 💬 642 • ⏱️ 58:23 • 2d ago
+👁️ 94K • 👍 5K • 💬 642 • ⏱️ 58:23 • 3d ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,246 • 13d ago
+⬇️ 352,314 • ❤️ 3,247 • 13d ago
 
 ---
 
@@ -405,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 411 • 1d ago
+⬇️ 74,165 • ❤️ 411 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 405 • 2d ago
+⬇️ 3,459 • ❤️ 409 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 389 • 2d ago
+⬇️ 10,633 • ❤️ 393 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 314 • 6d ago
+⬇️ 0 • ❤️ 315 • 6d ago
 
 ---
 
@@ -489,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 312 • 4d ago
+⬇️ 0 • ❤️ 314 • 4d ago
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 173 • 2h ago
+⭐ 2.3k • 🔱 173 • 3h ago
 
 ---
 
@@ -731,7 +731,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 825 • 🔱 163 • 1h ago
+⭐ 825 • 🔱 163 • 2h ago
 
 ---
 

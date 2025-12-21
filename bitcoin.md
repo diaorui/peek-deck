@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T20:16:01.929867+00:00'
+updated: '2025-12-21T20:37:32.616822+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 20:16 UTC  
+**Last Updated:** December 21, 2025 at 20:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.1%  
 **7d:** +2.1%  
-**30d:** +4.3%  
+**30d:** +4.2%  
 **90d:** -21.1%  
 **1y:** -7.2%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1764.02B
+**Market Cap:** $1762.13B
 Rank #1
 
-**Circulating Supply:** 19,965,200 BTC
+**Circulating Supply:** 19,965,215 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-30.0%
 
 **All-Time Low:** $67.81
-+130246.6%
++130088.8%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
+
+2h ago
+
+---
+
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
 11h ago
@@ -87,25 +93,25 @@ Rank #1
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-6h ago
+7h ago
 
 ---
 
-**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
+**[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
 
 1h ago
-
----
-
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
-
-19h ago
 
 ---
 
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
 4h ago
+
+---
+
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
+
+19h ago
 
 ---
 
@@ -119,13 +125,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
 
-2h ago
-
----
-
-**[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
-
-57m ago
+3h ago
 
 ---
 
@@ -159,9 +159,17 @@ Nasdaq • 8h ago
 
 ---
 
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+**[MicroStrategy’s Saylor Signals Imminent Bitcoin Buy Amid MSTR Stock YTD Decline](https://finance.yahoo.com/news/microstrategy-saylor-signals-imminent-bitcoin-173809733.html)**
 
-The Block • 1d ago
+Michael Saylor wants to buy additional Bitcoin for Strategy (formerly MicroStrategy) despite a sharp decline in the company’s stock.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfG-J6hRkQ6pg_mwy8OAB5chzww6V1KptE2uPAsPARMBUSR9VmsbTPO&gaa_ts=69485d84&gaa_sig=Wubax3n5nBnF2pFR1tZtNYXr6sHn4byqf_ijdi-di59RSY3dS0yGy2k7E_LgiXarrLfd1ebqPcvvdI5bNORrJg%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -173,23 +181,23 @@ The Motley Fool • 1d ago
 
 ---
 
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 1d ago
+
+---
+
+**[Galaxy's Top Researcher Reveals When Bitcoin Will Hit $250K](https://www.tradingview.com/news/u_today:2f23c8bba094b:0-galaxy-s-top-researcher-reveals-when-bitcoin-will-hit-250k/)**
+
+Alex Thorn, head of firmwide research at Galaxy Digital, has predicted that Bitcoin will eventually hit $250,000 by the end of 2027. At the same time, the prominent researcher has admitted that it would be too challenging to predict the flagship cryptocurrency's price action in 2026. In fact, as no…
+
+TradingView — Track All Markets • 2h ago
+
+---
+
 **[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
 Reuters • 2d ago
-
----
-
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
-
-This dip is an opportunity to think about what matters most with this asset.
-
-Yahoo Finance • 21h ago
-
----
-
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqd96O-iFGetG3mBRTtizRspAfRhahGlZ2FnTdPKJ_5sbuPUgm3QLYrs&gaa_ts=69485380&gaa_sig=ilQGXUE7L3MTCQvZSdClbmjy-89WPDKknwaJq2rM6pBrhOIdmDjSLpru54EEgDQoXdLY2iv6dnI7geoGtl-klw%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -206,14 +214,6 @@ CoinDesk • 2d ago
 Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
 
 Decrypt • 5h ago
-
----
-
-**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
-
-The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
-
-TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -283,7 +283,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 3h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 4h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 32K • 👍 2K • 💬 535 • ⏱️ 8:54 • 12h ago
+👁️ 32K • 👍 2K • 💬 535 • ⏱️ 8:54 • 13h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin remains stuck in a sideways range, with low volatility and minimal direc
 
 📺 Brooks Trading Course
 
-👁️ 357 • 👍 51 • 💬 45 • ⏱️ 8:29 • 2h ago
+👁️ 357 • 👍 51 • 💬 45 • ⏱️ 8:29 • 3h ago
 
 ---
 
@@ -387,7 +387,7 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 916 • 👍 111 • 💬 19 • ⏱️ 12:58 • 3h ago
+👁️ 916 • 👍 111 • 💬 19 • ⏱️ 12:58 • 4h ago
 
 ---
 
