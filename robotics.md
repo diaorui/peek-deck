@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T06:22:42.301087+00:00'
+updated: '2025-12-21T06:51:05.705527+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 06:22 UTC  
+**Last Updated:** December 21, 2025 at 06:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Genuine question, who do you think is actually in the wrong here?](https://www.reddit.com/r/robotics/comments/1prd9ji/genuine_question_who_do_you_think_is_actually_in/)**
 
-17h ago
+18h ago
 
 ---
 
 **[6 DOF arm with closed loop stepper motors and harmonic drives](https://www.reddit.com/r/robotics/comments/1pr9svq/6_dof_arm_with_closed_loop_stepper_motors_and/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -72,7 +72,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 Hello everyone. This might be a long shot, but I'm wondering what path people might recommend for someone who wants to be a technician fixing and building robots one day (especially humanoid). For context, I don't have an engineering degree, but I do have about a year and a half IT experience and 3 years of experience repairing electronics. I'm an electronics repair tech at a recycling plant right now. I'm not really interested in pursuing another degree. I thought starting with building a robotic arm with my library's 3D printer using the ARCTOS project might be a good start. Also, can anyone help me to understand some of the main differences between robotics and computer/server tech? I know there is a lot more wiring and working with motors. Edit: I hope I'm not breaking the rules. I read the wiki, but am hoping for more tailored advice based on me not being an engineer (just a technician) and my background.
 
-9h ago
+10h ago
 
 ---
 
@@ -84,17 +84,17 @@ Source: https://x.com/stash_pomichter/status/1983294144341807614
 
 ---
 
-**[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
-
-5h ago
-
----
-
 **[The team behind Olaf self-roaming robot just published their paper on how they brought the character to life](https://www.reddit.com/r/robotics/comments/1pqs0em/the_team_behind_olaf_selfroaming_robot_just/)**
 
 Featuring detailed view on their design and the components in it. Here is the paper link: https://arxiv.org/abs/2512.16705 And the video on the Disney Research Hub YouTube channel: https://youtu.be/-L8OFMTteOo
 
 1d ago
+
+---
+
+**[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
+
+6h ago
 
 ---
 
@@ -122,15 +122,15 @@ Interesting Engineering • 11h ago
 
 Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
 
-TechNode • 17h ago
+TechNode • 18h ago
 
 ---
 
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-South China Morning Post • 1d ago
+Futurism • 1d ago
 
 ---
 
@@ -146,23 +146,7 @@ KEYC News Now • 1d ago
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
-KSBY News • 1d ago
-
----
-
-**[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
-
-Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
-
-Fortune • 2d ago
-
----
-
-**[Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble | NVIDIA Technical Blog](https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/)**
-
-Building realistic 3D environments for robotics simulation has traditionally been a labor-intensive process, often requiring weeks of manual modeling and setup. Now, with generative world models…
-
-NVIDIA Developer • 3d ago
+KSBY News • 2d ago
 
 ---
 
@@ -170,7 +154,7 @@ NVIDIA Developer • 3d ago
 
 Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
@@ -188,6 +172,22 @@ Tom's Hardware • 19h ago
 
 ---
 
+**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
+
+Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[crafted in solid walnut and maple, phantom is the world’s first robotic chessboard](https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/)**
+
+a synthesis of traditional woodcraft and silent robotics, phantom reimagines the chessboard as a self‑playing heirloom.
+
+Designboom • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 20K • 👍 525 • 💬 52 • ⏱️ 2:08:46 • 1d ago
+👁️ 21K • 👍 540 • 💬 53 • ⏱️ 2:08:46 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 552K • 👍 82K • 💬 22K • ⏱️ 15:02 • 3h ago
+👁️ 1.2M • 👍 114K • 💬 29K • ⏱️ 15:02 • 4h ago
 
 ---
 
@@ -218,7 +218,27 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 CNET
 
-👁️ 32K • 👍 816 • 💬 121 • ⏱️ 6:41 • 6d ago
+👁️ 32K • 👍 818 • 💬 121 • ⏱️ 6:41 • 6d ago
+
+---
+
+**[Grandpa loved the robotic zebra made by Grandma 😭 #ai #save #robot](https://www.youtube.com/watch?v=S8nkjZY6dAU)**
+
+Grandpa loved the robotic zebra made by Grandma #ai #save #robot.
+
+📺 Catanimation
+
+👁️ 196K • 👍 2K • 💬 18 • ⏱️ 0:25 • 6d ago
+
+---
+
+**[Retire Army Soldier Build Robotic Zebra for Indian Girl! #ai #army #save #robot](https://www.youtube.com/watch?v=wYtE3GJviaw)**
+
+Retire Army Soldier Build Robotic Zebra for Indian Girl #ai #army #save #robot.
+
+📺 Meow World
+
+👁️ 2.3M • 👍 45K • 💬 50 • ⏱️ 0:40 • 6d ago
 
 ---
 
@@ -226,7 +246,17 @@ Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major 
 
 📺 Romi Pal
 
-👁️ 14.1M • 👍 96K • 💬 683 • ⏱️ 0:24 • 5d ago
+👁️ 14.5M • 👍 98K • 💬 709 • ⏱️ 0:24 • 5d ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 81K • 👍 5K • 💬 403 • ⏱️ 13:43 • 2d ago
 
 ---
 
@@ -240,23 +270,13 @@ We've entered the uncanny valley. Humanoid robots had a lot of wins and losses i
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
 
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
 
-📺 AZFK
+📺 South China Morning Post
 
-👁️ 78K • 👍 4K • 💬 394 • ⏱️ 13:43 • 2d ago
-
----
-
-**[Polish startup just built a 1,000-muscle robot that moves exactly like a human and it&#39;s terrifying](https://www.youtube.com/watch?v=_HtcRmUXiSU)**
-
-A faceless robot hanging from a ceiling drops on Twitter in February 2025 twitching its limbs like it just woke up from a nightmare ...
-
-📺 Nic Conley
-
-👁️ 32K • 👍 2K • 💬 54 • ⏱️ 1:32 • 2d ago
+👁️ 35K • 👍 488 • 💬 122 • ⏱️ 3:55 • 1d ago
 
 ---
 
@@ -267,26 +287,6 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 📺 AI Revolution
 
 👁️ 74K • 👍 1K • 💬 145 • ⏱️ 11:23 • 5d ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 33K • 👍 477 • 💬 118 • ⏱️ 3:55 • 1d ago
-
----
-
-**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
-
-Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
-
-📺 Aimin
-
-👁️ 560K • 👍 15K • 💬 3K • ⏱️ 14:27 • 16h ago
 
 ---
 

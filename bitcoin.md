@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T06:22:42.293051+00:00'
+updated: '2025-12-21T06:51:05.697559+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 06:22 UTC  
+**Last Updated:** December 21, 2025 at 06:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +1.8%  
-**30d:** +4.0%  
-**90d:** -21.3%  
-**1y:** -7.4%  
+**24h:** -0.2%  
+**7d:** +2.0%  
+**30d:** +4.1%  
+**90d:** -21.2%  
+**1y:** -7.3%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
 
-12h ago
+13h ago
 
 ---
 
@@ -155,12 +155,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqexaW__ou4iAcpw_Szsc2SoV3KwZskcilYPLTii1JjoypSNtoktW9AX&gaa_ts=69478e9d&gaa_sig=39KY5CGMHtQMXGz3w5KEOhbe4uKTlcAap_ecB7Of-KU_uwzQOq-JQ04lsKVwR_UNyldo_GjNNe_HktAjBKAl5A%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
@@ -169,33 +163,17 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeDuP_oNDEMF2UfCxu2Dc8cKakLuq451FgRd2lgNmiD_I50jAwuPzNC&gaa_ts=69479c45&gaa_sig=0WqKkjzMHoSUjbrcxCVhdw69OoEbYT_sTdjH0tB4L9q90sxoI4Jyf2BkpUl_SfU4ZYZzuqvzNIGMQ48JuPdbcg%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 19h ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
-
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
-
-The Motley Fool • 20h ago
-
----
-
-**[26 Cryptocurrency, Bitcoin, and DeFi Predictions for 2026](https://www.galaxy.com/insights/research/predictions-2026-crypto-bitcoin-defi)**
-
-Plus: a look back at how Galaxy Researchâs 2025 predictions performed.
-
-galaxy.com • 1d ago
-
----
-
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
-
-Forbes • 2d ago
+Nasdaq • 20h ago
 
 ---
 
@@ -207,15 +185,35 @@ CoinDesk • 15h ago
 
 ---
 
+**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
+
+Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
+
+CoinDesk • 11h ago
+
+---
+
 **[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
 
 This dip is an opportunity to think about what matters most with this asset.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqcf-1Zm4lQRhhzIze0j1LnQtY0k0vOS9luD62liPegalpsJ4OSbY8JE&gaa_ts=69478e9d&gaa_sig=H7lu11xjiQEiGBiPHGAjulKSdbF_UOUGark6d9ppOOtvoxf0nO_V0SB2MdT8dLi32qbWohRVTatYLKoVzchnSw%3D%3D)**
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqeDJ_dbI1MseeycyMVPTjooyK7g-O6PR-PdUjWeXyymnnyb6lpxP0Sx&gaa_ts=69479c45&gaa_sig=0uSzLT1S5Dt9TLynB4riZ3JNoUJvZ8B9OR4Er_AMUl1oWN3AYDsH8B_4JNYbOZ3QYGWaJSs7PCA_vA7EgbvjnA%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -281,7 +279,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 74 • ⏱️ 14:31 • 13h ago
+👁️ 21K • 👍 1K • 💬 98 • ⏱️ 14:31 • 13h ago
 
 ---
 
@@ -291,37 +289,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 260 • 💬 119 • ⏱️ 11:07 • 11h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 42K • 👍 2K • 💬 202 • ⏱️ 44:14 • 1d ago
-
----
-
-**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
-
-This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
-
-📺 BTC Sessions
-
-👁️ 12K • 👍 575 • 💬 220 • ⏱️ 20:14 • 10h ago
-
----
-
-**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
-
-My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 123 • ⏱️ 13:47 • 1d ago
+👁️ 5K • 👍 272 • 💬 146 • ⏱️ 11:07 • 12h ago
 
 ---
 
@@ -331,37 +299,37 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 101 • ⏱️ 46:11 • 16h ago
+👁️ 42K • 👍 2K • 💬 101 • ⏱️ 46:11 • 16h ago
 
 ---
 
-**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
+**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
 
-Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
+This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
 
-📺 CryptosRus Extra
+📺 BTC Sessions
 
-👁️ 14K • 👍 618 • 💬 347 • ⏱️ 10:58 • 1d ago
-
----
-
-**[TOM LEE&#39;S FUND JUST SAID BITCOIN IS GOING TO $60k!!](https://www.youtube.com/watch?v=M8pOiuRmuj0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 8K • 👍 397 • 💬 100 • ⏱️ 4:18 • 12h ago
+👁️ 14K • 👍 655 • 💬 267 • ⏱️ 20:14 • 10h ago
 
 ---
 
-**[🚨 BITCOIN SHORT TERM WARNING](https://www.youtube.com/watch?v=-_DZV2Cniao)**
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 43K • 👍 2K • 💬 205 • ⏱️ 44:14 • 1d ago
+
+---
+
+**[My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026](https://www.youtube.com/watch?v=cldTSpTYW2E)**
+
+My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Daily Merch: ...
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 355 • 💬 4 • ⏱️ 1:04 • 17h ago
+👁️ 41K • 👍 2K • 💬 120 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -371,7 +339,37 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 242 • 💬 88 • ⏱️ 4:01 • 7h ago
+👁️ 5K • 👍 292 • 💬 139 • ⏱️ 4:01 • 7h ago
+
+---
+
+**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
+
+Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
+
+📺 CryptosRus Extra
+
+👁️ 14K • 👍 630 • 💬 353 • ⏱️ 10:58 • 1d ago
+
+---
+
+**[How one bitcoin decision can change your life⎜My story](https://www.youtube.com/watch?v=FGrXmU4mXyQ)**
+
+Going all in on bitcoin might be the biggest, boldest and best decision I have ever made. Hoping this one inspire you a little ...
+
+📺 BTC Isla
+
+👁️ 23K • 👍 2K • 💬 312 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[Outlook 2026: Mike McGlone on Bitcoin&#39;s $10k Risk, Gold Volatility &amp; The ‘Great Reversion’](https://www.youtube.com/watch?v=Fzu0MX_qiB0)**
+
+The S&P 500 is pricing in a perfect soft landing, but the physical economy is screaming recession. In this Outlook 2026 special, ...
+
+📺 Kitco NEWS
+
+👁️ 55K • 👍 2K • 💬 232 • ⏱️ 27:59 • 2d ago
 
 ---
 

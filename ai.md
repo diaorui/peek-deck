@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T06:22:42.285533+00:00'
+updated: '2025-12-21T06:51:05.690094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 06:22 UTC  
+**Last Updated:** December 21, 2025 at 06:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 1h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 11h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 12h ago
 
 ---
 
@@ -81,7 +81,7 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
 
-28m ago
+57m ago
 
 ---
 
@@ -103,7 +103,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 **[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
 
-5h ago
+6h ago
 
 ---
 
@@ -137,29 +137,21 @@ The New York Times • 18h ago
 
 Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-Al Jazeera • 47m ago
+Al Jazeera • 1h ago
 
 ---
 
-**[Consumers turning to AI for help with holiday shopping](https://www.cbsnews.com/newyork/video/consumers-turning-to-ai-for-help-with-holiday-shopping/)**
+**[Inside Tencent’s deal to use Nvidia’s best AI chips in Japan](https://www.ft.com/content/9b47c335-9633-4560-9f57-5736c9d04bef)**
 
-Artificial intelligence is expected to have a big impact this holiday season, with many consumers turning to AI for help with holiday shopping. Kelly O'Grady reports.
+Contracts with Chinese tech giant have rapidly turned Datasection into one of Asia’s biggest ‘neoclouds’
 
-CBS News • 1h ago
-
----
-
-**[Q: AI Griefbots? A: Heidelberg Catechism](https://www.thegospelcoalition.org/article/catechism-ai-griefbots/)**
-
-The question isn't ‘Is it right to use AI to receive a word of wisdom or comfort from a deceased person?’ but rather ‘What is my only comfort in life and in death?’
-
-The Gospel Coalition • 1h ago
+Financial Times • 1h ago
 
 ---
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 15h ago
+Politico • 16h ago
 
 ---
 
@@ -173,7 +165,7 @@ The New Yorker • 19h ago
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 5h ago
+Axios • 9h ago
 
 ---
 
@@ -182,6 +174,14 @@ Axios • 5h ago
 My week partying with the young founders at the heart of the AI boom
 
 The Atlantic • 17h ago
+
+---
+
+**[The scientist who helped create AI says it’s only ‘a matter of time’ before every single job is wiped out—even safer trade jobs like plumbing](https://fortune.com/2025/12/19/yoshua-bengio-ai-only-a-matter-of-time-before-every-single-job-is-wiped-out-even-gen-z-trade-plumbing/)**
+
+Yoshua Bengio helped create the technology that is now coming for your job—and he thinks anyone who works on a laptop or computer is already under threat.
+
+Fortune • 1d ago
 
 ---
 
@@ -221,13 +221,13 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 456 • 💬 400 • 21h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 456 • 💬 400 • 22h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 206 • 💬 308 • 20h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 206 • 💬 308 • 21h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -285,17 +285,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 48K • 👍 2K • 💬 542 • ⏱️ 15:25 • 11h ago
-
----
-
-**[I built an AI Supercomputer... again (2TB RAM)](https://www.youtube.com/watch?v=bFgTxr5yst0)**
-
-Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/twingate-networkchuck I built another AI supercomputer ...
-
-📺 NetworkChuck
-
-👁️ 73K • 👍 4K • 💬 556 • ⏱️ 33:14 • 13h ago
+👁️ 70K • 👍 2K • 💬 634 • ⏱️ 15:25 • 11h ago
 
 ---
 
@@ -305,17 +295,7 @@ Daniel Kokotajlo discusses why artificial intelligence may surpass the transform
 
 📺 Future of Life Institute
 
-👁️ 22K • 👍 805 • 💬 326 • ⏱️ 16:15 • 2d ago
-
----
-
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
-
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
-
-📺 Matt Wolfe
-
-👁️ 33K • 👍 1K • 💬 149 • ⏱️ 37:38 • 16h ago
+👁️ 22K • 👍 813 • 💬 325 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -325,7 +305,17 @@ Join Ellipsus for free → https://ellipsus.app/adam to keep your writing collab
 
 📺 Adam Conover
 
-👁️ 223K • 👍 14K • 💬 2K • ⏱️ 17:08 • 1d ago
+👁️ 229K • 👍 14K • 💬 2K • ⏱️ 17:08 • 1d ago
+
+---
+
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 36K • 👍 2K • 💬 158 • ⏱️ 37:38 • 16h ago
 
 ---
 
@@ -335,7 +325,7 @@ Are we watching an AI revolution, or a slow-motion economic disaster?
 
 📺 Robert Reich
 
-👁️ 291K • 👍 17K • 💬 2K • ⏱️ 5:52 • 2d ago
+👁️ 301K • 👍 18K • 💬 2K • ⏱️ 5:52 • 2d ago
 
 ---
 
@@ -345,17 +335,7 @@ AI pioneer YOSHUA BENGIO, Godfather of AI, reveals the DANGERS of Agentic AI, ki
 
 📺 The Diary Of A CEO
 
-👁️ 738K • 👍 17K • 💬 3K • ⏱️ 1:39:47 • 2d ago
-
----
-
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
-
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
-
-📺 gptars
-
-👁️ 498K • 👍 22K • 💬 375 • ⏱️ 1:01 • 1d ago
+👁️ 745K • 👍 17K • 💬 3K • ⏱️ 1:39:47 • 2d ago
 
 ---
 
@@ -365,7 +345,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 2.0M • 👍 6K • 💬 121 • ⏱️ 8:07 • 2d ago
+👁️ 2.1M • 👍 6K • 💬 121 • ⏱️ 8:07 • 2d ago
 
 ---
 
@@ -375,7 +355,27 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 306K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
+👁️ 316K • 👍 9K • 💬 1K • ⏱️ 15:39 • 1d ago
+
+---
+
+**[The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai](https://www.youtube.com/watch?v=2FHcEsGAaFg)**
+
+The Surreal Fashion Hospital: Unbelievable AI Transformations #ronaldo #messi #neymar #mbappe #ai#shorts #ronaldo #messi ...
+
+📺 FootyToons AI
+
+👁️ 34K • 💬 6 • ⏱️ 0:51 • 15h ago
+
+---
+
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+
+📺 gptars
+
+👁️ 674K • 👍 28K • 💬 467 • ⏱️ 1:01 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,218 • 12d ago
+⬇️ 341,530 • ❤️ 3,223 • 12d ago
 
 ---
 
@@ -403,7 +403,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 402 • 1d ago
+⬇️ 71,413 • ❤️ 403 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 372 • 7d ago
+⬇️ 4,050 • ❤️ 377 • 7d ago
 
 ---
 
@@ -427,7 +427,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 371 • 2d ago
+⬇️ 2,937 • ❤️ 374 • 2d ago
 
 ---
 
@@ -439,19 +439,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 354 • 2d ago
-
----
-
-**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
-
-*Xiaomi MiMo*
-
-MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
-
-`text-generation` `309.8B`
-
-⬇️ 6,103 • ❤️ 347 • 3d ago
+⬇️ 6,881 • ❤️ 358 • 2d ago
 
 ---
 
@@ -463,7 +451,19 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 343 • 1d ago
+⬇️ 1,067 • ❤️ 351 • 1d ago
+
+---
+
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
+
+`text-generation` `309.8B`
+
+⬇️ 6,103 • ❤️ 348 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 292 • 4d ago
+⬇️ 0 • ❤️ 294 • 4d ago
 
 ---
 
@@ -499,7 +499,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 251 • 3d ago
+⬇️ 533 • ❤️ 252 • 4d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.3k • 🔱 585 • 15h ago
+⭐ 5.3k • 🔱 585 • 16h ago
 
 ---
 
