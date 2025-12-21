@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T19:28:43.165414+00:00'
+updated: '2025-12-21T19:41:24.074915+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 19:28 UTC  
+**Last Updated:** December 21, 2025 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +0.8%  
-**30d:** +7.6%  
-**90d:** -28.4%  
-**1y:** -8.8%  
+**24h:** -0.0%  
+**7d:** +0.7%  
+**30d:** +7.5%  
+**90d:** -28.5%  
+**1y:** -8.9%  
 
 ---
 
@@ -258,7 +258,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 17K • 👍 1K • 💬 249 • ⏱️ 35:41 • 18h ago
+👁️ 17K • 👍 1K • 💬 249 • ⏱️ 35:41 • 19h ago
 
 ---
 

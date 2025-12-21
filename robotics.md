@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T19:28:43.168199+00:00'
+updated: '2025-12-21T19:41:24.078141+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 19:28 UTC  
+**Last Updated:** December 21, 2025 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Realbotix XBOTF Humanoides : les plus sous-estimés ! Ignorés par les grands noms, mais dans la poche d'Arthur Hayes.](https://www.reddit.com/r/robotics/comments/1psdlw1/realbotix_xbotf_humanoides_les_plus_sousestimés/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 what if, your working on outdated machinery/motors!? if doing better was reliant on knowing the limits instead of archaic designs? what if your wrong... Flux hybrid motors aren't a snake but really the only step forward #mds-tech #magen-drive #mds-tech @sorry4beenright! I didnt mean it... Just wtf
 
-51m ago
+1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Global Times • 1d ago
 
 China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
 
-South China Morning Post • 19h ago
+South China Morning Post • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 2.8M • 👍 187K • 💬 42K • ⏱️ 15:02 • 16h ago
+👁️ 2.8M • 👍 187K • 💬 42K • ⏱️ 15:02 • 17h ago
 
 ---
 
