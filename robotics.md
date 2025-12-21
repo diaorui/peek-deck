@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T16:41:51.480838+00:00'
+updated: '2025-12-21T16:55:32.541968+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 16:41 UTC  
+**Last Updated:** December 21, 2025 at 16:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-12h ago
+13h ago
 
 ---
 
@@ -118,11 +118,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
 
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-Interesting Engineering • 21h ago
+CNET • 3h ago
 
 ---
 
@@ -134,11 +134,27 @@ The Verge • 3h ago
 
 ---
 
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+
+Interesting Engineering • 21h ago
+
+---
+
 **[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
 
 Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
 KEYC News Now • 1d ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -150,6 +166,14 @@ KSBY News • 2d ago
 
 ---
 
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
+
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
+
+Futurism • 1d ago
+
+---
+
 **[We 'don't have enough manpower' for the delivery boom, says Singapore-based robotics founder](https://fortune.com/2025/12/18/quikbot-singapore-robots-delivery-ecommerce-founder-alan-ng/)**
 
 Delivery is "still stuck at the last mile," says Quikbot founder Alan Ng, who is developing robots that can navigate Singapore's buildings.
@@ -158,33 +182,11 @@ Fortune • 3d ago
 
 ---
 
-**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.kxan.com/technology/texas-am-engineering-students-build-robotic-ai-powered-dog-to-help-with-emergency-response/)**
-
-KXAN Austin • 18h ago
-
----
-
 **[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
 
 Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
 
 Yahoo Finance • 2d ago
-
----
-
-**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
-
-Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
-
-The Robot Report • 1d ago
-
----
-
-**[Shepherdsville distribution center uses robots to ship 120,000 holiday packages daily](https://www.wave3.com/2025/12/18/shepherdsville-distribution-center-uses-robots-ship-120000-holiday-packages-daily/)**
-
-A Shepherdsville distribution center is using 200 robots to help workers ship 120,000 packages daily during the peak holiday season, ensuring Christmas gifts arrive on time.
-
-WAVE News • 2d ago
 
 ---
 

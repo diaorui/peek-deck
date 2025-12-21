@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T16:41:51.471202+00:00'
+updated: '2025-12-21T16:55:32.532417+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 16:41 UTC  
+**Last Updated:** December 21, 2025 at 16:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.3%  
-**7d:** +2.2%  
-**30d:** +4.4%  
-**90d:** -21.0%  
+**7d:** +2.1%  
+**30d:** +4.3%  
+**90d:** -21.1%  
 **1y:** -7.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1757.84B
+**Market Cap:** $1761.93B
 Rank #1
 
-**Circulating Supply:** 19,965,140 BTC
+**Circulating Supply:** 19,965,162 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.0%
 
 **All-Time Low:** $67.81
-+129730.4%
++130038.6%
 
 ---
 
@@ -76,6 +76,14 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
+
+HODL
+
+7h ago
+
+---
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
@@ -91,29 +99,15 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 ---
 
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
-
-15h ago
-
----
-
 **[Everytime 🤬](https://www.reddit.com/r/Bitcoin/comments/1ps74vq/everytime/)**
 
 2h ago
 
 ---
 
-**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-HODL
-
-7h ago
-
----
-
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
-
-21h ago
+15h ago
 
 ---
 
@@ -125,21 +119,29 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 ---
 
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
+
+21h ago
+
+---
+
+**[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
+
+52m ago
+
+---
+
+**[$95K BTC = $5.8B in Shorts at Risk](https://www.reddit.com/r/Bitcoin/comments/1psam7v/95k_btc_58b_in_shorts_at_risk/)**
+
+JUST IN: If $BTC rallies to $95K over the holiday season, over $5.8 billion in leveraged short positions will be liquidated.
+
+20m ago
+
+---
+
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
 17h ago
-
----
-
-**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
-
-9h ago
-
----
-
-**[How it started vs how it’s ending: Bitcoin skeptics vs reality”](https://www.reddit.com/r/Bitcoin/comments/1ps5n51/how_it_started_vs_how_its_ending_bitcoin_skeptics/)**
-
-4h ago
 
 ---
 
@@ -151,23 +153,13 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
-**[Bitcoin Crashing Is Actually Awesome News for Regular People, Economist Says](https://futurism.com/future-society/bitcoin-crash-economist)**
+**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-In a recent analysis, economist Dean Baker explains that crypto's collapse leaves the rest of us with a bigger piece of the economic pie.
-
-Futurism • 2d ago
-
----
-
-**[Bitcoin mining ‘may be strengthening the ruble,’ says Russian central bank](https://finance.yahoo.com/news/bitcoin-mining-may-strengthening-ruble-142713571.html)**
-
-Mining ‘leading to strong ruble exchange rate,’ says governor. Bank’s bullish statement comes after years of anti-crypto rhetoric. Central bank reportedly ready to let certain citizens trade crypto via banking apps.
-
-Yahoo Finance • 2h ago
+Forbes • 4h ago
 
 ---
 
@@ -175,7 +167,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
 
-The Motley Fool • 34m ago
+The Motley Fool • 48m ago
 
 ---
 
@@ -187,9 +179,23 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfgWZrSwLndJdY5EpbTqqocaGFop9UG5FeXyGvrUEkdX0SZ01RkFgmc&gaa_ts=69482079&gaa_sig=ZyPaastZEjtz2bPzFs204q39kvwaGvDiT8Rd_YFn5d8iQFoq3Dy6jw_ET915q2icUmj0j6q7MGpioBULNV_8Ng%3D%3D)**
+**[Crypto Bills Shouldn't Be Bitcoin or Bust, Says Indiana Lawmaker](https://finance.yahoo.com/news/crypto-bills-shouldnt-bitcoin-bust-150103408.html)**
+
+Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfQ9qIFJ6G6wBwS1veso9DiblTMrLB7fLt3_HZdEVvww9zCIX52z14b&gaa_ts=694829eb&gaa_sig=nYLWGhYWImICd-maXOBTN5djwySK9ONVm_cyDwqWDgjLyRFTgehneTxKlgEcfqrBQ6Oa34heh9ZbPoQ99QbTBg%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 1d ago
 
 ---
 
@@ -199,23 +205,17 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqf68oGg21lwUqXp8_0QBw4aMafDUkOe0PNpSdRqpGo-LCmjKyyRB6m0&gaa_ts=694829eb&gaa_sig=G8iUP6EjCLyTVSwIrhRIn_SR9LB25MBz5d035Jq1t-Qxue08iNfj0kn-aaBu7Zk68pD4XC5BaAEUJs2AkaxOiQ%3D%3D)**
 
-Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
-
-Bloomberg.com • 2d ago
+MarketWatch • 2d ago
 
 ---
 
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
+**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
 
-Forbes • 2d ago
+Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -280,6 +280,12 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
 
 ⬆️ 3 • 💬 3 • 3d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+
+---
+
+**[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
+
+⬆️ 1 • 💬 0 • 35m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
