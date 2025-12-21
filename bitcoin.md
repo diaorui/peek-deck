@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T10:42:22.397854+00:00'
+updated: '2025-12-21T10:53:39.763470+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 10:42 UTC  
+**Last Updated:** December 21, 2025 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1773.39B
+**Market Cap:** $1770.52B
 Rank #1
 
 **Circulating Supply:** 19,965,006 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.7%
 
 **All-Time Low:** $67.81
-+130787.8%
++130627.0%
 
 ---
 
@@ -95,9 +95,11 @@ Rank #1
 
 ---
 
-**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
+**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
 
-13h ago
+HODL
+
+1h ago
 
 ---
 
@@ -107,11 +109,9 @@ Rank #1
 
 ---
 
-**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
+**[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-HODL
-
-1h ago
+13h ago
 
 ---
 
@@ -121,15 +121,15 @@ HODL
 
 ---
 
-**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
-
-6h ago
-
----
-
 **[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
 3h ago
+
+---
+
+**[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
+
+6h ago
 
 ---
 
@@ -165,13 +165,27 @@ Nasdaq • 1d ago
 
 Bitcoin may still have further downside ahead, as crypto traders have yet to display the level of fear typically associated with a market bottom, according to Santiment founder Maksim Balashevich. Key Takeaways: Bitcoin could still fall toward $75,000 as social media sentiment remains too optimistic, according to Santiment’s Maksim Balashevich. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqflqnLiG4aBf_ZeX2rv5s_FVpZQVA-5z68ICdc9sdlYQ8q5KiVC1CsT&gaa_ts=6947cdf7&gaa_sig=wJaQF6gT8uoFFM83UeSpt59UnKTDcm8v08ZmJpzjWdmSyUth7XkDcRLmOaDOh2fkKxrOimRkZfDlViBJ80wDdA%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqf2SIBVM4dDirF80mA_LXC5dSV2sw3V4iBMU2JbRL_-N9Rv76zGbg-_&gaa_ts=6947d51d&gaa_sig=brauTiKH4vu50fkracPlytti4j70ddOsk8jMCrdeiv4bVl2gZP6g2firuKZCY_MZsZ45eIT665jDwTXfc8tgtQ%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqc6nH-9tSqmyXLUVc9xIx509jyWoYlHUiSRHbEdASn0yVyjorAFDBSk&gaa_ts=6947d51d&gaa_sig=zqG4CcpN2fwzimIghaDpPVaEkUZgbdm8kCK8QzMJQ_hmIeW53WZfS9FFMyfuWEJjxT6WuU-c8V2Cnn3LTLc5_A%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Bitcoin price could hit $143,000 in a year, Citi says, citing ETF and regulatory tailwinds](https://www.coindesk.com/markets/2025/12/19/bitcoin-earns-base-case-target-of-usd143-000-at-citigroup)**
+
+Citi analysts forecast a 62% BTC rally fueled by revived ETF flows and U.S. digital-asset legislation, with key support at $70K.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -179,7 +193,7 @@ Barron's • 1d ago
 
 Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -202,22 +216,6 @@ Bloomberg.com • 2d ago
 **[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
 
 Forbes • 2d ago
-
----
-
-**[Bitcoin underperformed gold, but ETF holders remained resilient](https://www.coindesk.com/markets/2025/12/19/gold-wins-the-debasement-trade-in-2025-but-it-is-not-the-full-story)**
-
-Bitcoin (BTC) corrected 36% from its October all-time high, while U.S. spot bitcoin ETF holdings declined by only about 3.6%
-
-CoinDesk • 1d ago
-
----
-
-**[Sell Bitcoin for gold? Not so fast, one analyst says](https://www.tradingview.com/news/cointelegraph:b4a31da64094b:0-sell-bitcoin-for-gold-not-so-fast-one-analyst-says/)**
-
-The price of Bitcoin BINANCE:BTCUSD will outperform gold in the long run, and BTC holders should not sell their coins to pour into gold during its meteoric run to prices above $4,000 per ounce, according to Bitcoin advocate, educator and market analyst Matthew Kratter.BTC is a better store of value…
-
-TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -265,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 36m ago
+⬆️ 1 • 💬 0 • 47m ago
 
 ---
 
@@ -297,7 +295,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 429 • 💬 133 • ⏱️ 4:18 • 16h ago
+👁️ 9K • 👍 429 • 💬 133 • ⏱️ 4:18 • 17h ago
 
 ---
 

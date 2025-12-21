@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T10:42:22.389312+00:00'
+updated: '2025-12-21T10:53:39.755058+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 10:42 UTC  
+**Last Updated:** December 21, 2025 at 10:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 5h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 6h ago
 
 ---
 
@@ -57,7 +57,13 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 15h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 16h ago
+
+---
+
+**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
+
+5h ago
 
 ---
 
@@ -77,17 +83,11 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 ---
 
-**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
-
-5h ago
-
----
-
 **[Gemini AI yielding sloppy code for Ubuntu development with new helper script](https://www.reddit.com/r/artificial/comments/1prsbba/gemini_ai_yielding_sloppy_code_for_ubuntu/)**
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 11h ago
 
 ---
 
@@ -107,11 +107,11 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
-**[Is anyone upset or outraged that how Gemini has restricted its free users now](https://www.reddit.com/r/artificial/comments/1ps1cv3/is_anyone_upset_or_outraged_that_how_gemini_has/)**
+**[Can we talk philosophy for a min? I can't be the only one who feels this way.](https://www.reddit.com/r/artificial/comments/1prsxnl/can_we_talk_philosophy_for_a_min_i_cant_be_the/)**
 
-​​ so I am just now aware of that Gemini has has a system of limit of prompts for free that it's only two to five prompts which is way more worse than gtp5 was. I'm not sure if this is a individually but, i guess I have to wait until​​ for 13 hours just to make a couple of prompts until I hit the limit. In my opinion I don't think the 240$ bucks a year is worth it, can someone please fill me in on more information about this.
+OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
 
-2h ago
+10h ago
 
 ---
 
@@ -119,53 +119,43 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ## Google News: "ai"
 
-**[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
-
-Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
-
-CNBC • 22h ago
-
----
-
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
 The New York Times • 22h ago
 
 ---
 
-**[AI agents are coming to job interviews. Tips for handling them](https://qz.com/ai-agent-job-interview-tips)**
-
-qz.com • 41m ago
-
----
-
-**[How much water will Meta's Louisiana data center use? New details unveiled for first time.](https://www.nola.com/news/environment/meta-louisiana-data-center-water-ai/article_d27dea17-d571-453c-b5a5-0deb571ea272.html)**
-
-Meta's Louisiana data center can use more than 23 million gallons of water per day, or 8.4 billion gallons per year, according to state records and the company. But Meta says those limits are much higher than what it will actually use.
-
-NOLA.com • 42m ago
-
----
-
-**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
-
-Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
-
-CNBC • 2h ago
-
----
-
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 19h ago
+Politico • 20h ago
 
 ---
 
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+**[AI companions: "The new imaginary friend" redefining children's friendships](https://www.axios.com/2025/12/21/ai-companions-new-imaginary-friend-children-teens)**
 
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+Axios • 7m ago
 
-Fortune • 20h ago
+---
+
+**[AI agents are coming to job interviews. Tips for handling them](https://qz.com/ai-agent-job-interview-tips)**
+
+qz.com • 52m ago
+
+---
+
+**[Collibra CEO Describes What He Looks for in AI-First Employees](https://www.businessinsider.com/collibra-ai-first-employees-felix-van-de-maele-enterprise-2025-12)**
+
+Collibra CEO Felix Van de Maele said it's "a red flag" if prospective employees aren't leaning into how they can use AI to make their job better.
+
+Business Insider • 2m ago
+
+---
+
+**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+
+Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
+
+CNBC • 1d ago
 
 ---
 
@@ -177,11 +167,11 @@ bbc.com • 1d ago
 
 ---
 
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
 
-My week partying with the young founders at the heart of the AI boom
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
 
-The Atlantic • 21h ago
+Fortune • 20h ago
 
 ---
 
@@ -190,6 +180,14 @@ The Atlantic • 21h ago
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
 The New Yorker • 23h ago
+
+---
+
+**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
+
+My week partying with the young founders at the heart of the AI boom
+
+The Atlantic • 21h ago
 
 ---
 
@@ -205,7 +203,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 571 • 💬 537 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 572 • 💬 537 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -213,7 +211,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 472 • 💬 410 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 474 • 💬 411 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -221,13 +219,13 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 465 • 💬 595 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 466 • 💬 595 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 210 • 💬 320 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 212 • 💬 319 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -249,7 +247,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 136 • 💬 88 • 6h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 141 • 💬 91 • 6h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -257,7 +255,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 Timeline & Responsible Disclosure
 
-⬆️ 124 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 125 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -269,9 +267,11 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 ---
 
-**[We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://news.ycombinator.com/item?id=46311144)**
+**[MIRA – An open-source persistent AI entity with memory](https://news.ycombinator.com/item?id=46339537)**
 
-⬆️ 120 • 💬 86 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34)
+This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
+
+⬆️ 106 • 💬 43 • 14h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -345,7 +345,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 116K • 👍 7K • 💬 1K • ⏱️ 19:40 • 13h ago
+👁️ 116K • 👍 7K • 💬 1K • ⏱️ 19:40 • 14h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,226 • 12d ago
+⬇️ 352,314 • ❤️ 3,232 • 12d ago
 
 ---
 
@@ -419,18 +419,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
-**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
-
-*Google*
-
-FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
-
-`text-generation` `268.1M`
-
-⬇️ 10,633 • ❤️ 366 • 2d ago
-
----
-
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -439,7 +427,19 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 378 • 7d ago
+⬇️ 4,530 • ❤️ 383 • 7d ago
+
+---
+
+**[functiongemma-270m-it](https://huggingface.co/google/functiongemma-270m-it)**
+
+*Google*
+
+FunctionGemma 270M-IT is a lightweight, open Google model optimized for function calling tasks, suitable for fine-tuning on specific single or multi-turn agentic workflows. Its small size allows for deployment in resource-constrained environments, enabling custom app mechanics and offline personal device task execution.
+
+`text-generation` `268.1M`
+
+⬇️ 10,633 • ❤️ 367 • 2d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 365 • 2d ago
+⬇️ 3,459 • ❤️ 367 • 2d ago
 
 ---
 
@@ -487,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 301 • 4d ago
+⬇️ 0 • ❤️ 302 • 4d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 592 • 19h ago
+⭐ 5.4k • 🔱 592 • 20h ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 830 • 🔱 81 • 16h ago
+⭐ 830 • 🔱 81 • 17h ago
 
 ---
 

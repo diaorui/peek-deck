@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T10:42:22.407254+00:00'
+updated: '2025-12-21T10:53:39.773307+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 10:42 UTC  
+**Last Updated:** December 21, 2025 at 10:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 **[Phantom Bridge: a new take on ROS real-time data visualization, teleoperation, observability, remote and local debugging](https://www.reddit.com/r/robotics/comments/1prtc5o/phantom_bridge_a_new_take_on_ros_realtime_data/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -102,13 +102,19 @@ Featuring detailed view on their design and the components in it. Here is the pa
 
 https://preview.redd.it/ecufemysbh8g1.png?width=532&format=png&auto=webp&s=96e2e28c2cdffe0f91c77dbe60c2dd2e2c5077ce I tested it and it worked well, it was just coming off the ring, but actually, it was very good. I just need to figure out how I'm going to integrate this with a NEMA 17 on a robotic arm (I still need to design and test the dimensions and weights of the robotic arm parts).
 
-6h ago
+7h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
+
+Bloomberg.com • 1d ago
+
+---
 
 **[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
@@ -123,14 +129,6 @@ Interesting Engineering • 15h ago
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
 Futurism • 1d ago
-
----
-
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
-
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
-
-South China Morning Post • 1d ago
 
 ---
 
@@ -170,7 +168,7 @@ The Robot Report • 21h ago
 
 Trained on 40,000 hours of gameplay in 1,000+ titles.
 
-Tom's Hardware • 23h ago
+Tom's Hardware • 1d ago
 
 ---
 
@@ -180,11 +178,11 @@ KXAN Austin • 12h ago
 
 ---
 
-**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
+**[crafted in solid walnut and maple, phantom is the world’s first robotic chessboard](https://www.designboom.com/design/solid-walnut-maple-phantom-worlds-first-robotic-chessboard-12-19-2025/)**
 
-Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
+a synthesis of traditional woodcraft and silent robotics, phantom reimagines the chessboard as a self‑playing heirloom.
 
-Yahoo Finance • 2d ago
+Designboom • 1d ago
 
 ---
 

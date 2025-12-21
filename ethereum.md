@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T10:42:22.403984+00:00'
+updated: '2025-12-21T10:53:39.770045+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 10:42 UTC  
+**Last Updated:** December 21, 2025 at 10:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $362.20B
+**Market Cap:** $361.69B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.3%
+-39.4%
 
 **All-Time Low:** $0.43
-+693393.2%
++691972.8%
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-13h ago
+14h ago
 
 ---
 
@@ -166,11 +166,11 @@ ZyCrypto • 14h ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://finance.yahoo.com/news/3-predictions-ethereum-2026-112000012.html)**
+**[Ethereum Shifts Focus From Speed to Security With New 2026 Deadline](https://finance.yahoo.com/news/ethereum-shifts-focus-speed-security-094652732.html)**
 
-Next year could be good but won't be driven by blockchain tech upgrades.
+The Ethereum Foundation has set a new technical roadmap prioritizing security over speed for zero-knowledge Ethereum Virtual Machines (zkEVMs), establishing three critical milestones stretching through the end of 2026. The shift comes after zkEVM teams successfully reduced proving times from 16 minutes to 16 seconds while cutting costs by 45 ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,6 +188,14 @@ TradingView — Track All Markets • 9h ago
 
 ---
 
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Bitcoin, Ethereum Rise Following Soft US Inflation Data](https://decrypt.co/352889/bitcoin-ethereum-rise-following-soft-us-inflation-data)**
 
 Bitcoin and Ethereum ticked up after a widely watched inflation gauge indicated that consumer prices rose less than expected last month.
@@ -201,14 +209,6 @@ Decrypt • 2d ago
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
 AMBCrypto • 1d ago
-
----
-
-**[Ethereum Price Prediction: Historical Trend Favors $9,000 Target for ETH](https://www.fxempire.com/forecasts/article/ethereum-price-prediction-historical-trend-favors-9000-target-for-eth-1568730)**
-
-Ethereum remains under pressure as sentiment stays deeply bearish, but historical weekly trends suggest a major reversal could be forming.
-
-FXEmpire • 1d ago
 
 ---
 
