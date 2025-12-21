@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T09:45:13.778104+00:00'
+updated: '2025-12-21T09:55:51.095623+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 09:45 UTC  
+**Last Updated:** December 21, 2025 at 09:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +2.8%  
-**30d:** +5.0%  
-**90d:** -20.6%  
-**1y:** -6.6%  
+**24h:** +0.8%  
+**7d:** +2.9%  
+**30d:** +5.2%  
+**90d:** -20.4%  
+**1y:** -6.4%  
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Added Another Cold Card Q to the Line Up](https://www.reddit.com/r/Bitcoin/comments/1prx109/added_another_cold_card_q_to_the_line_up/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ The crypto market is down" Degens with their last $200:
 
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
-46m ago
+57m ago
 
 ---
 
@@ -291,7 +291,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 429 • 💬 133 • ⏱️ 4:18 • 15h ago
+👁️ 9K • 👍 429 • 💬 133 • ⏱️ 4:18 • 16h ago
 
 ---
 

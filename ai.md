@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T09:45:13.769631+00:00'
+updated: '2025-12-21T09:55:51.087309+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 09:45 UTC  
+**Last Updated:** December 21, 2025 at 09:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 4h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 14h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 15h ago
 
 ---
 
@@ -73,7 +73,7 @@ A company is not just a collection of people. It is a collection of people doing
 
 OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA AI Releases Nemotron 3: A Hybrid Mamba Transformer MoE Stack for Long Context Agentic AI.[2] Meta’s Yann LeCun targets €3bn valuation for AI start-up.[3] Machine learning enables scalable and systematic hierarchical virus taxonomy.[4] Sources: [1] https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/ [2] https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/ [3] https://www.ft.com/content/d88729c0-c44f-4530-b888-bafa29ee0446 [4] https://www.nature.com/articles/s41587-025-02946-9
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 9h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 10h ago
 
 ---
 
@@ -345,7 +345,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 116K • 👍 7K • 💬 1K • ⏱️ 19:40 • 12h ago
+👁️ 116K • 👍 7K • 💬 1K • ⏱️ 19:40 • 13h ago
 
 ---
 
@@ -533,18 +533,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614)**
-
-*Wenqiang Sun, Haiyu Zhang, Haoyuan Wang et al. (10 authors)*
-
-WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
-
-▲ 60 • 💬 3 • ⭐ 587 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -556,6 +544,18 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 134 • 💬 6 • ⭐ 18,721 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://huggingface.co/papers/2512.14614)**
+
+*Wenqiang Sun, Haiyu Zhang, Haoyuan Wang et al. (10 authors)*
+
+WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
+
+▲ 61 • 💬 3 • ⭐ 603 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
 ---
 
@@ -594,7 +594,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 204 • 💬 5 • ⭐ 7,501 • 23d ago
+▲ 205 • 💬 5 • ⭐ 7,501 • 23d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -620,7 +620,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 A self-evolving training pipeline with the Calibrated Step Reward System and GUI-MCP protocol improve GUI automation efficiency, accuracy, and privacy in real-world scenarios.
 
-▲ 117 • 💬 3 • ⭐ 1,617 • 4d ago
+▲ 118 • 💬 3 • ⭐ 1,617 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.15431) • [💻 code](https://github.com/stepfun-ai/gelab-zero) • [🔗 project](https://opengelab.github.io/)
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.3k • 🔱 591 • 18h ago
+⭐ 5.4k • 🔱 592 • 19h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 167 • 58m ago
+⭐ 2.3k • 🔱 167 • 32m ago
 
 ---
 
@@ -689,7 +689,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 951 • 🔱 47 • 3d ago
+⭐ 959 • 🔱 48 • 3d ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 828 • 🔱 79 • 15h ago
+⭐ 830 • 🔱 81 • 16h ago
 
 ---
 
