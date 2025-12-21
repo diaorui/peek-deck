@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T07:55:19.508436+00:00'
+updated: '2025-12-21T08:28:06.927554+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 07:55 UTC  
+**Last Updated:** December 21, 2025 at 08:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +1.9%  
-**30d:** +4.1%  
+**24h:** -0.2%  
+**7d:** +2.0%  
+**30d:** +4.2%  
 **90d:** -21.2%  
 **1y:** -7.3%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.70B
+**Market Cap:** $1759.25B
 Rank #1
 
-**Circulating Supply:** 19,964,943 BTC
+**Circulating Supply:** 19,965,006 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129808.6%
++129932.4%
 
 ---
 
@@ -85,25 +85,25 @@ Rank #1
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-6h ago
+7h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-12h ago
+13h ago
 
 ---
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -125,21 +125,19 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-9h ago
+10h ago
+
+---
+
+**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
+
+1h ago
 
 ---
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
 22h ago
-
----
-
-**[We faded Bitcoin at 1000$, what’s your sob story?](https://www.reddit.com/r/Bitcoin/comments/1prt8zc/we_faded_bitcoin_at_1000_whats_your_sob_story/)**
-
-Back in 2013, we sat through a lecture from a professor of economics who suggested putting 1–5% of your portfolio into ultra high-risk assets. He pointed to Bitcoin as a prime example. We chuckled at the idea and thought, “Good luck with that.” A decade later, that advice hits a little different.
-
-7h ago
 
 ---
 
@@ -155,6 +153,12 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdFvQJmlX1YIWrNjPhNj2GhagS4x0QlzjbZAQaZktqjrhR9gIGGvKBq&gaa_ts=6947b303&gaa_sig=fuC9YfBmCUOcjsGTIYkJs17OOwya3BoyRR-P4SprwqsidHpWCBPV4psJEPGozIEkFz2SA4Q8fJQ2XFREz8-bww%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.nasdaq.com/articles/xrp-vs-bitcoin-which-cryptocurrency-will-perform-better-2026)**
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
@@ -167,19 +171,7 @@ Nasdaq • 21h ago
 
 Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
 
-The Motley Fool • 21h ago
-
----
-
-**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
-
-CCN.com • 1d ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqe4NskpEPbB9q26WSd49cCTF_hwN50QNzsmRcrnude0QAsDnK8JrGaB&gaa_ts=6947a5e8&gaa_sig=MGSM2qBVyil-koWORd6LYg0FFY9ApDZgvzZgbilrsCzb6_kBKM88JujWdiaQ7xYjII9q_-WP6Q00yG8pBi0_Fw%3D%3D)**
-
-Barron's • 1d ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -191,19 +183,19 @@ The Motley Fool • 19h ago
 
 ---
 
+**[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
+
+Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
+
+CoinDesk • 1d ago
+
+---
+
 **[Bitcoin Volatility Rises Ahead of $23 Billion Options Expiry](https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration)**
 
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
-
-Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
-
-CoinDesk • 12h ago
 
 ---
 
@@ -213,9 +205,19 @@ Forbes • 2d ago
 
 ---
 
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+**[Bitcoin underperformed gold, but ETF holders remained resilient](https://www.coindesk.com/markets/2025/12/19/gold-wins-the-debasement-trade-in-2025-but-it-is-not-the-full-story)**
 
-The Block • 1d ago
+Bitcoin (BTC) corrected 36% from its October all-time high, while U.S. spot bitcoin ETF holdings declined by only about 3.6%
+
+CoinDesk • 1d ago
+
+---
+
+**[Sell Bitcoin for gold? Not so fast, one analyst says](https://www.tradingview.com/news/cointelegraph:b4a31da64094b:0-sell-bitcoin-for-gold-not-so-fast-one-analyst-says/)**
+
+The price of Bitcoin BINANCE:BTCUSD will outperform gold in the long run, and BTC holders should not sell their coins to pour into gold during its meteoric run to prices above $4,000 per ounce, according to Bitcoin advocate, educator and market analyst Matthew Kratter.BTC is a better store of value…
+
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -279,7 +281,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 98 • ⏱️ 14:31 • 14h ago
+👁️ 21K • 👍 1K • 💬 98 • ⏱️ 14:31 • 15h ago
 
 ---
 
@@ -299,7 +301,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 101 • ⏱️ 46:11 • 17h ago
+👁️ 42K • 👍 2K • 💬 101 • ⏱️ 46:11 • 18h ago
 
 ---
 
@@ -309,7 +311,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 BTC Sessions
 
-👁️ 14K • 👍 655 • 💬 267 • ⏱️ 20:14 • 11h ago
+👁️ 14K • 👍 655 • 💬 267 • ⏱️ 20:14 • 12h ago
 
 ---
 
@@ -339,7 +341,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 292 • 💬 139 • ⏱️ 4:01 • 8h ago
+👁️ 5K • 👍 292 • 💬 139 • ⏱️ 4:01 • 9h ago
 
 ---
 
