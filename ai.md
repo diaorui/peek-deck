@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T22:17:42.810395+00:00'
+updated: '2025-12-21T22:38:52.889398+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 22:17 UTC  
+**Last Updated:** December 21, 2025 at 22:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 57m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 10h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 Generate a sarcastic link for that lazy friend who refuses to type in an AI prompt themselves.
 
-🔗 [lmaitfy.lol](https://lmaitfy.lol) • 15m ago
+🔗 [lmaitfy.lol](https://lmaitfy.lol) • 37m ago
 
 ---
 
@@ -145,7 +145,7 @@ CNN • 14h ago
 
 **[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
-Bloomberg.com • 17m ago
+Bloomberg.com • 38m ago
 
 ---
 
@@ -173,7 +173,7 @@ Politico • 1d ago
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -271,7 +271,7 @@ Some engineers dismiss AI coding tools as ‘garbage’ without trying modern ve
 
 Personal Musings and Transcripts
 
-⬆️ 67 • 💬 33 • 4h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 67 • 💬 33 • 5h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -315,7 +315,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 20K • 👍 1K • 💬 66 • ⏱️ 1:29 • 3h ago
+👁️ 20K • 👍 1K • 💬 66 • ⏱️ 1:29 • 4h ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 173 • 4h ago
+⭐ 2.3k • 🔱 173 • 5h ago
 
 ---
 
@@ -707,7 +707,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 865 • 🔱 166 • 50m ago
+⭐ 914 • 🔱 169 • 35m ago
 
 ---
 
@@ -717,7 +717,7 @@ Autonomous multi-session AI coding
 
 `JavaScript`
 
-⭐ 861 • 🔱 139 • 1d ago
+⭐ 865 • 🔱 141 • 1d ago
 
 ---
 
@@ -737,7 +737,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 806 • 🔱 119 • 4d ago
+⭐ 810 • 🔱 120 • 4d ago
 
 ---
 

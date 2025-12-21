@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T22:17:42.829954+00:00'
+updated: '2025-12-21T22:38:52.906787+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 22:17 UTC  
+**Last Updated:** December 21, 2025 at 22:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-39m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Realbotix XBOTF Humanoides : les plus sous-estimés ! Ignorés par les grands noms, mais dans la poche d'Arthur Hayes.](https://www.reddit.com/r/robotics/comments/1psdlw1/realbotix_xbotf_humanoides_les_plus_sousestimés/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -176,7 +176,7 @@ TechNode • 1d ago
 
 China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
 
-South China Morning Post • 22h ago
+South China Morning Post • 23h ago
 
 ---
 
@@ -258,7 +258,7 @@ Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   
 
 📺 Gamer Robot
 
-👁️ 3.1M • 👍 198K • 💬 44K • ⏱️ 15:02 • 19h ago
+👁️ 3.1M • 👍 198K • 💬 44K • ⏱️ 15:02 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 42K • 👍 375 • 💬 20 • ⏱️ 0:11 • 17h ago
+👁️ 42K • 👍 375 • 💬 20 • ⏱️ 0:11 • 18h ago
 
 ---
 
