@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T17:18:19.697611+00:00'
+updated: '2025-12-21T17:36:26.956605+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 17:18 UTC  
+**Last Updated:** December 21, 2025 at 17:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 5h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 6h ago
 
 ---
 
@@ -93,12 +93,6 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 ---
 
-**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
-
-11h ago
-
----
-
 **[Al Jazeera launches new integrative AI model, ‘The Core’ | Media News](https://www.reddit.com/r/artificial/comments/1ps773s/al_jazeera_launches_new_integrative_ai_model_the/)**
 
 Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
@@ -107,11 +101,17 @@ Al Jazeera Media Network says initiative will shift role of AI 'from passive too
 
 ---
 
+**[Public NASA Town Hall. Excerpt from the first Agencywide address by NASA Administrator Jared Isaacman. No endorsement implied.](https://www.reddit.com/r/artificial/comments/1pryyur/public_nasa_town_hall_excerpt_from_the_first/)**
+
+11h ago
+
+---
+
 **[If AI replaces employees of a company, will the company itself be replaced by AI too?](https://www.reddit.com/r/artificial/comments/1prjjwu/if_ai_replaces_employees_of_a_company_will_the/)**
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-23h ago
+1d ago
 
 ---
 
@@ -127,47 +127,37 @@ CNBC • 9h ago
 
 ---
 
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 4h ago
+
+---
+
+**[OpenAI Is Getting More Efficient at Running Its AI, Internal Financials Show](https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show)**
+
+The Information • 1h ago
+
+---
+
+**[Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact](https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html)**
+
+The AI trade isn't over. Investors have just become choosier about which players might emerge as winners.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
-
-Oracle stock peaked in September before suffering a continued decline in the back half of the year.
-
-Yahoo Finance • 2h ago
-
----
-
-**[The Best Artificial Intelligence (AI) Stock To Buy in 2026 (Hint: It's Not Nvidia)](https://www.fool.com/investing/2025/12/21/the-best-artificial-intelligence-ai-stock-to-buy/)**
-
-As demand for artificial intelligence (AI) remains strong, investors are wondering who the biggest winners will be going into next year.
-
-The Motley Fool • 2h ago
-
----
-
-**[New York State Just Put Itself on a Legal Collision Course with Trump’s AI Policy](https://gizmodo.com/new-york-state-just-put-itself-on-a-legal-collision-course-with-trumps-ai-policy-2000702258)**
-
-Setting the stage for courtroom battles.
-
-Gizmodo • 3h ago
-
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqepGLTl5MKUvmYaF40ocwOkietYwHNDnPhAv1aY_piy__VO0GJeRdeW&gaa_ts=694829e9&gaa_sig=83s2Yc6tSa5YmzLVkrAS-w1iLbQyHIKQ-yGduU4zstMgCY2gSqZFr9BBe_l_YrAbfyGpylqwCyfi7W3QIe1L4g%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdJRXBikwtSmAwHlZ87FBMmBZC1NHnho4ISYpnweX3P8l9rrF6knEnU&gaa_ts=69483387&gaa_sig=sbk95x6t0eNb7QhLgCLcUzgGjaU_jbhoIo5hWNiG7EYxsispKW34qNhphTz1NkGfhcSof4vNPQkN3ANZYWRT6w%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 4h ago
 
 ---
 
@@ -185,9 +175,17 @@ Politico • 1d ago
 
 ---
 
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 1d ago
+
+---
+
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -211,7 +209,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 489 • 💬 441 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 490 • 💬 444 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -231,7 +229,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 190 • 💬 137 • 13h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 196 • 💬 146 • 13h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -247,7 +245,7 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 132 • 💬 307 • 10h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 138 • 💬 323 • 10h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -263,7 +261,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 118 • 💬 48 • 20h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 120 • 💬 51 • 20h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -409,7 +407,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 396 • 2d ago
+⬇️ 3,459 • ❤️ 399 • 2d ago
 
 ---
 
@@ -445,7 +443,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 387 • 7d ago
+⬇️ 4,530 • ❤️ 388 • 7d ago
 
 ---
 
@@ -457,7 +455,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 363 • 3d ago
+⬇️ 6,796 • ❤️ 364 • 3d ago
 
 ---
 
@@ -469,7 +467,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 312 • 6d ago
+⬇️ 0 • ❤️ 313 • 6d ago
 
 ---
 
@@ -481,7 +479,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 310 • 4d ago
+⬇️ 0 • ❤️ 311 • 4d ago
 
 ---
 
@@ -663,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 170 • 25m ago
+⭐ 2.3k • 🔱 170 • 43m ago
 
 ---
 

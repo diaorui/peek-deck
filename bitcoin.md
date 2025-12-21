@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T17:18:19.706096+00:00'
+updated: '2025-12-21T17:36:26.965087+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 17:18 UTC  
+**Last Updated:** December 21, 2025 at 17:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.2%  
-**30d:** +4.4%  
-**90d:** -21.0%  
+**24h:** +0.4%  
+**7d:** +2.3%  
+**30d:** +4.5%  
+**90d:** -20.9%  
 **1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.93B
+**Market Cap:** $1762.70B
 Rank #1
 
 **Circulating Supply:** 19,965,162 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.0%
 
 **All-Time Low:** $67.81
-+130038.6%
++130137.4%
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The dip](https://www.reddit.com/r/Bitcoin/comments/1ps2o46/the_dip/)**
-
-HODL
-
-7h ago
-
----
-
 **[2026 will be massive 💥](https://www.reddit.com/r/Bitcoin/comments/1ps25s3/2026_will_be_massive/)**
 
 8h ago
@@ -95,19 +87,21 @@ HODL
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-3h ago
-
----
-
-**[Everytime 🤬](https://www.reddit.com/r/Bitcoin/comments/1ps74vq/everytime/)**
-
-3h ago
+4h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
 16h ago
+
+---
+
+**[$95K BTC = $5.8B in Shorts at Risk](https://www.reddit.com/r/Bitcoin/comments/1psam7v/95k_btc_58b_in_shorts_at_risk/)**
+
+JUST IN: If $BTC rallies to $95K over the holiday season, over $5.8 billion in leveraged short positions will be liquidated.
+
+1h ago
 
 ---
 
@@ -119,29 +113,33 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 ---
 
-**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
-
-22h ago
-
----
-
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
 1h ago
 
 ---
 
-**[$95K BTC = $5.8B in Shorts at Risk](https://www.reddit.com/r/Bitcoin/comments/1psam7v/95k_btc_58b_in_shorts_at_risk/)**
+**[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-JUST IN: If $BTC rallies to $95K over the holiday season, over $5.8 billion in leveraged short positions will be liquidated.
+22h ago
 
-43m ago
+---
+
+**[How it started vs how it’s ending: Bitcoin skeptics vs reality”](https://www.reddit.com/r/Bitcoin/comments/1ps5n51/how_it_started_vs_how_its_ending_bitcoin_skeptics/)**
+
+4h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-17h ago
+18h ago
+
+---
+
+**[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
+
+10h ago
 
 ---
 
@@ -163,14 +161,6 @@ Forbes • 4h ago
 
 ---
 
-**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
-
-Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
-
-The Motley Fool • 1h ago
-
----
-
 **[Bitcoin (BTC) news: Need more evidence before lowering rates further, says Fed's Hammack](https://www.coindesk.com/markets/2025/12/21/incoming-voter-on-interest-rate-policy-cleveland-fed-s-hammack-says-no-more-cuts)**
 
 "My base case is that we can stay here for some period of time," Cleveland Fed President Beth Hammack told the WSJ.
@@ -179,17 +169,17 @@ CoinDesk • 2h ago
 
 ---
 
-**[Crypto Bills Shouldn't Be Bitcoin or Bust, Says Indiana Lawmaker](https://finance.yahoo.com/news/crypto-bills-shouldnt-bitcoin-bust-150103408.html)**
+**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
 
-Bitcoin may be the first digital asset, but it shouldn’t be the only one affected by legislation, Indiana State Rep. Kyle Pierce told Decrypt.
+Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfQ9qIFJ6G6wBwS1veso9DiblTMrLB7fLt3_HZdEVvww9zCIX52z14b&gaa_ts=694829eb&gaa_sig=nYLWGhYWImICd-maXOBTN5djwySK9ONVm_cyDwqWDgjLyRFTgehneTxKlgEcfqrBQ6Oa34heh9ZbPoQ99QbTBg%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdAIeSgnu0OUMGbRPtowJWGf-cCmR7h0oMzzVbQgIGPF6FHuyl3tbax&gaa_ts=69483389&gaa_sig=qkcWLAiXuV-xLOeVvm0GIx-Wdd-yBvrGcK6k1KV0KdV6PYyBv7BrEVzg-mZPJcEusY4H4p57kwgts7l44tz48Q%3D%3D)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -205,17 +195,27 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin will climb to $143,000, according to this Wall Street forecast](https://www.marketwatch.com/story/bitcoin-will-climb-to-143-000-according-to-this-wall-street-forecast-cd202b39?gaa_at=eafs&gaa_n=AWEtsqf68oGg21lwUqXp8_0QBw4aMafDUkOe0PNpSdRqpGo-LCmjKyyRB6m0&gaa_ts=694829eb&gaa_sig=G8iUP6EjCLyTVSwIrhRIn_SR9LB25MBz5d035Jq1t-Qxue08iNfj0kn-aaBu7Zk68pD4XC5BaAEUJs2AkaxOiQ%3D%3D)**
-
-MarketWatch • 2d ago
-
----
-
 **[Bitcoin price news: Here is why BTC is stuck on tough $89,000 ceiling](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs)**
 
 Bitcoin bulls are putting up a fight on Friday to break this week's choppy action that has capped all advances at around $90,000.
 
 CoinDesk • 2d ago
+
+---
+
+**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
+
+The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
+
+This dip is an opportunity to think about what matters most with this asset.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -285,7 +285,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 0 • 58m ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 1h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 450 • ⏱️ 8:54 • 9h ago
+👁️ 24K • 👍 2K • 💬 450 • ⏱️ 8:54 • 10h ago
 
 ---
 
@@ -389,7 +389,7 @@ Going all in on bitcoin might be the biggest, boldest and best decision I have e
 
 📺 BTC Isla
 
-👁️ 25K • 👍 2K • 💬 343 • ⏱️ 8:31 • 1d ago
+👁️ 25K • 👍 2K • 💬 343 • ⏱️ 8:31 • 2d ago
 
 ---
 
