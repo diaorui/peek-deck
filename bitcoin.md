@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T19:14:49.799939+00:00'
+updated: '2025-12-21T19:28:43.160181+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 19:14 UTC  
+**Last Updated:** December 21, 2025 at 19:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -21.0%  
-**1y:** -7.0%  
+**24h:** +0.1%  
+**7d:** +2.1%  
+**30d:** +4.3%  
+**90d:** -21.1%  
+**1y:** -7.2%  
 
 ---
 
@@ -93,13 +93,13 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-51m ago
+1h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -119,7 +119,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -283,7 +283,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 2h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 3h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 29K • 👍 2K • 💬 515 • ⏱️ 8:54 • 11h ago
+👁️ 29K • 👍 2K • 💬 515 • ⏱️ 8:54 • 12h ago
 
 ---
 
@@ -387,7 +387,7 @@ Let's talk about the current CPI (inflation) report and how it may affect risk a
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 3K • 💬 190 • ⏱️ 29:15 • 20h ago
+👁️ 54K • 👍 3K • 💬 190 • ⏱️ 29:15 • 21h ago
 
 ---
 

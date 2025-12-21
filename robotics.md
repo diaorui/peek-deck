@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-21T19:14:49.809121+00:00'
+updated: '2025-12-21T19:28:43.168199+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 21, 2025 at 19:14 UTC  
+**Last Updated:** December 21, 2025 at 19:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 **[Realbotix XBOTF Humanoides : les plus sous-estimés ! Ignorés par les grands noms, mais dans la poche d'Arthur Hayes.](https://www.reddit.com/r/robotics/comments/1psdlw1/realbotix_xbotf_humanoides_les_plus_sousestimés/)**
 
-36m ago
+50m ago
 
 ---
 
@@ -94,7 +94,7 @@ From Kyber Labs on 𝕏: https://x.com/KyberLabsRobots/status/200215028879977285
 
 what if, your working on outdated machinery/motors!? if doing better was reliant on knowing the limits instead of archaic designs? what if your wrong... Flux hybrid motors aren't a snake but really the only step forward #mds-tech #magen-drive #mds-tech @sorry4beenright! I didnt mean it... Just wtf
 
-37m ago
+51m ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg.com • 2d ago
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 37K • 👍 357 • 💬 20 • ⏱️ 0:11 • 14h ago
+👁️ 37K • 👍 357 • 💬 20 • ⏱️ 0:11 • 15h ago
 
 ---
 
