@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T02:06:42.389935+00:00'
+updated: '2025-12-21T03:45:21.766673+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 02:06 UTC  
+**Last Updated:** December 21, 2025 at 03:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,280.43
+### $88,057.64
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.2%  
-**7d:** +1.9%  
+**7d:** +2.0%  
 **30d:** +4.1%  
-**90d:** -21.3%  
+**90d:** -21.2%  
 **1y:** -7.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.93B
+**Market Cap:** $1757.20B
 Rank #1
 
 **Circulating Supply:** 19,964,903 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.2%
 
 **All-Time Low:** $67.81
-+129751.1%
++129693.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Signs are everywhere… bull run loading 🐂](https://www.reddit.com/r/Bitcoin/comments/1prly8j/signs_are_everywhere_bull_run_loading/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,19 +87,25 @@ Rank #1
 
 The crypto market is down" Degens with their last $200:
 
-8h ago
+10h ago
 
 ---
 
 **[If history repeats, we're in for a huge Bitcoin surge!📈📈](https://www.reddit.com/r/Bitcoin/comments/1prp04o/if_history_repeats_were_in_for_a_huge_bitcoin/)**
 
-4h ago
+6h ago
 
 ---
 
 **[People have started stamping “buy bitcoin” on paper money in Europe](https://www.reddit.com/r/Bitcoin/comments/1prf06n/people_have_started_stamping_buy_bitcoin_on_paper/)**
 
-12h ago
+13h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
+
+4h ago
 
 ---
 
@@ -107,11 +113,11 @@ The crypto market is down" Degens with their last $200:
 
 Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if that’s wrong? What if Bitcoin’s endgame is much smaller: • Central banks hold it as a reserve • Corporations keep it as treasury insurance • Individuals use it only as long-term savings • Almost no one spends it day to day Gold isn’t used to buy coffee. Yet it’s worth trillions. So here’s the uncomfortable question: Does Bitcoin actually fail if it never becomes a global currency? Or is that narrative just a distraction?
 
-3h ago
+5h ago
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
 2h ago
 
@@ -119,7 +125,7 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 **[Peak Crypto bro living experience 😂](https://www.reddit.com/r/Bitcoin/comments/1praog8/peak_crypto_bro_living_experience/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -127,19 +133,13 @@ Everyone assumes Bitcoin “wins” only if the whole world uses it. But what if
 
 I don't understand why people get depressed when bitcoin goes down. Do you want to buy something you want cheap or at a higher price?
 
-8h ago
-
----
-
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
-
-50m ago
+10h ago
 
 ---
 
 **[Same chart, new number.](https://www.reddit.com/r/Bitcoin/comments/1pr9bvv/same_chart_new_number/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -155,11 +155,39 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
+**[Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next?](https://www.coindesk.com/markets/2025/12/18/bitcoin-is-all-over-the-place-ahead-of-u-s-inflation-data-gold-nears-record-high)**
 
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+U.S. inflation data for November, expected to show a 3.1% increase in CPI, could influence Federal Reserve interest rate decisions.
 
-The Motley Fool • 15h ago
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin, XRP Climb. Why the Crypto Reaction to Inflation Data Is a Worry.](https://www.barrons.com/articles/bitcoin-xrp-cryptos-inflation-data-fed-d59ce29f?gaa_at=eafs&gaa_n=AWEtsqeO7sl5DvOfnb_R0c77PfDTBuCB0WoH3ki1waZYNaatMF2nhCDLOyy9&gaa_ts=694770bb&gaa_sig=PQo9Fi6o9GdgsaZk_CQKeI2WcNLXWT_GgEAI5Tn2TrmriERgWGY3xDbN1RVqjYvTqEHpDY1pKuUXhqT8BfAB2A%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?](https://www.tradingview.com/news/cointelegraph:656f5230d094b:0-bitcoin-trips-at-90k-despite-cpi-showing-curbed-us-inflation-what-gives/)**
+
+Bitcoin (BTC) moved closer to reclaiming $90,000 after US inflation cooled more than expected, with the November CPI coming in at 2.7% year-over-year versus forecasts of 3.1%. The softer print narrows the gap to the Federal Reserve’s 2% target, easing near-term inflation pressure and reviving risk…
+
+TradingView — Track All Markets • 2d ago
+
+---
+
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
+
+This dip is an opportunity to think about what matters most with this asset.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqec_FR4p24fkvxd9VIf4Bjqs2v_GITEJAq5J_xAK1QT3tC3z5sXJ4K1&gaa_ts=694770bb&gaa_sig=oo-TfO24CaKBI5N8yehMj5ioY4HKnkYpaPLuq0OyiL3PnH2NhSnGvwx1FOq-Md58mR5px2xmov9Oxvc2GyTQFw%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -167,19 +195,23 @@ The Motley Fool • 15h ago
 
 Key PointsA growing acceptance of crypto next year could lead to a surge in price for the world's top digital currency, Bitcoin.
 
-Nasdaq • 15h ago
+Nasdaq • 17h ago
 
 ---
 
-**[Bitcoin Headed to $150,000, Claims Famed Investor, Slams Bearish Investors as ‘Drama Queens’](https://www.ccn.com/news/crypto/bitcoin-price-150000-famed-investor-bearish-investors-drama-queens/)**
+**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
 
-CCN.com • 1d ago
+Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
+
+The Motley Fool • 17h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqepXIHeh_tomx9PXyzWJNOmzPB-SnSzARqhvOIH5QQdZc-L_HRd0Nqp&gaa_ts=6947599d&gaa_sig=qzPoEvnmeQpDukgic0I39Wx3ljXHHK6Dniiczb0dxiHKFUWL_TptOuNFVpWDWuyUXUd2WAixTdVkxMIyKLMvDA%3D%3D)**
+**[Tom Lee responds to controversy surrounding Fundstrat’s differing bitcoin outlooks](https://www.coindesk.com/markets/2025/12/20/tom-lee-responds-as-x-debates-fundstrat-s-differing-bitcoin-outlooks)**
 
-Barron's • 1d ago
+Tom Lee weighed in after X users questioned whether Fundstrat analysts were contradicting each other on bitcoin, pointing to differences in role, timing and risk management.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -188,34 +220,6 @@ Barron's • 1d ago
 Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin’s quantum debate is resurfacing, and markets are starting to notice](https://www.coindesk.com/tech/2025/12/20/bitcoin-s-quantum-debate-is-resurfacing-and-markets-are-starting-to-notice)**
-
-Quantum computing is not currently an existential threat to Bitcoin, but as capital becomes more institutional and long-term, even distant risks require clearer answers.
-
-CoinDesk • 7h ago
-
----
-
-**[From Gold To Bitcoin: What Investors Get Wrong About Value Storage](https://www.forbes.com/sites/digital-assets/2025/12/18/from-gold-to-bitcoin-what-investors-get-wrong-about-value-storage/)**
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
-
-Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
-
-Nasdaq • 7h ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 1d ago
 
 ---
 
@@ -279,7 +283,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 93 • ⏱️ 14:31 • 9h ago
+👁️ 16K • 👍 1K • 💬 93 • ⏱️ 14:31 • 10h ago
 
 ---
 
@@ -289,7 +293,7 @@ A MAJOR RALLY IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 244 • 💬 120 • ⏱️ 11:07 • 7h ago
+👁️ 4K • 👍 244 • 💬 120 • ⏱️ 11:07 • 9h ago
 
 ---
 
@@ -319,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 2K • 💬 101 • ⏱️ 46:11 • 12h ago
+👁️ 37K • 👍 2K • 💬 101 • ⏱️ 46:11 • 13h ago
 
 ---
 
@@ -329,7 +333,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 379 • 💬 173 • ⏱️ 4:18 • 8h ago
+👁️ 7K • 👍 379 • 💬 173 • ⏱️ 4:18 • 9h ago
 
 ---
 
@@ -349,7 +353,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 BTC Sessions
 
-👁️ 8K • 👍 477 • 💬 228 • ⏱️ 20:14 • 5h ago
+👁️ 8K • 👍 477 • 💬 228 • ⏱️ 20:14 • 7h ago
 
 ---
 

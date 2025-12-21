@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T02:06:42.396079+00:00'
+updated: '2025-12-21T03:45:21.772592+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 02:06 UTC  
+**Last Updated:** December 21, 2025 at 03:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
+**24h:** -0.4%  
 **7d:** +0.3%  
 **30d:** +7.1%  
 **90d:** -28.8%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.03B
+**Market Cap:** $358.54B
 Rank #2
 
 **Circulating Supply:** 120,695,010 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.9%
 
 **All-Time Low:** $0.43
-+686349.0%
++686097.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-5h ago
+6h ago
 
 ---
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 6h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 7h ago
 
 ---
 
@@ -152,7 +152,7 @@ J.P. Morgan tokenized fund, Privacy Pools on Arbitrum & Optimism, SEC talks priv
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Block • 1d ago
 
 Ethereum’s derivatives market is showing signs of a decisive shift beneath the surface, and price action is about to return above the $3,000 mark. On-chain data suggests trader behavior on major exchanges is shifting into a more accumulative phase.Even as ETH continues to linger below the psycholog…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -194,11 +194,19 @@ Decrypt • 2d ago
 
 ---
 
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP correction slide as BoJ rate decision weighs on sentiment](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-correction-slide-as-boj-rate-decision-weighs-on-sentiment-202512190338)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are extending their correction phases after losing nearly 3%, 8%, and 10%, respectively, through Friday.
 
-FXStreet • 1d ago
+FXStreet • 2d ago
 
 ---
 
@@ -210,19 +218,11 @@ FXEmpire • 1d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 1d ago
-
----
-
 **[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 5h ago
+ZyCrypto • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 2K • 👍 69 • 💬 27 • ⏱️ 11:26 • 12h ago
+👁️ 2K • 👍 69 • 💬 27 • ⏱️ 11:26 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 2K • 👍 231 • 💬 45 • ⏱️ 35:41 • 1h ago
+👁️ 2K • 👍 231 • 💬 45 • ⏱️ 35:41 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 419 • 👍 27 • 💬 50 • ⏱️ 8:36 • 6h ago
+👁️ 419 • 👍 27 • 💬 50 • ⏱️ 8:36 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ Ethereum is getting wrecked — down 40%+ from its recent peak — while Bitcoin
 
 📺 Ryan’s Money Lab
 
-👁️ 2K • 👍 90 • 💬 12 • ⏱️ 14:00 • 7h ago
+👁️ 2K • 👍 90 • 💬 12 • ⏱️ 14:00 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ BREAKING: It has officially started. SWIFT and over 30 global financial giants�
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 50 • 💬 42 • ⏱️ 14:59 • 7h ago
+👁️ 1K • 👍 50 • 💬 42 • ⏱️ 14:59 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 235 • 👍 17 • 💬 28 • ⏱️ 4:17 • 14h ago
+👁️ 235 • 👍 17 • 💬 28 • ⏱️ 4:17 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN REPEATING RARE SIGNAL (Prepare Now)!!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 220 • 💬 127 • ⏱️ 21:12 • 4h ago
+👁️ 3K • 👍 220 • 💬 127 • ⏱️ 21:12 • 6h ago
 
 ---
 

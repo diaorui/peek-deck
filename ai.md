@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T02:06:42.381352+00:00'
+updated: '2025-12-21T03:45:21.758389+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 02:06 UTC  
+**Last Updated:** December 21, 2025 at 03:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey all, this is an exploration into the fundamental meaning of art and what it would mean for AI to take it over. Despite working in the film industry, I’m not an AI hater, but I’m confused and annoyed at AI companies inventing new problems to be solved when there are so many existing problems that could be focused on instead.
 
-🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 5h ago
+🔗 [open.substack.com](https://open.substack.com/pub/andyjarosz/p/ai-generated-art-is-unmonetizable?r=2gv3e2&utm_medium=ios) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reports of OpenAI’s plans to go public coincide with Altman declaring a “cod
 
 A company is not just a collection of people. It is a collection of people doing stuff. And if Ai does the stuff, people are replaced. But as Ai does the stuff of the company, AI could replace the company itself, and take over its business. The CEO of the company would find himself unemployed, because AI company replaced the company he managed. What do you think about it?
 
-8h ago
+10h ago
 
 ---
 
@@ -69,19 +69,11 @@ $6 million to change what information ChatGPT will emit. What other influences c
 
 ---
 
-**[Can we talk philosophy for a min? I can't be the only one who feels this way.](https://www.reddit.com/r/artificial/comments/1prsxnl/can_we_talk_philosophy_for_a_min_i_cant_be_the/)**
-
-OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
-
-1h ago
-
----
-
 **[America and China Are Racing to Different AI Futures](https://www.reddit.com/r/artificial/comments/1prmbsj/america_and_china_are_racing_to_different_ai/)**
 
 America and China Is the US really in an AI race with China—or are we racing toward completely different finish lines? In this episode, Tristan Harris sits down with China experts Selina Xu and Matt Sheehan to separate fact from fiction about China's AI development. They explore fundamental questions about how the Chinese government and public approach AI, the most persistent misconceptions in the West, and whether cooperation between rivals is actually possible. From the streets of Shanghai to high-level policy discussions, Xu and Sheehan paint a nuanced portrait of AI in China that defies both hawkish fears and naive optimism. If we're going to avoid a catastrophic AI arms race, we first need to understand what race we're actually in—and whether we're even running toward the same finish line. Note: On December 8, after this recording took place, the Trump administration announced that the Commerce Department would allow American semiconductor companies, including Nvidia, to sell their most powerful chips to China in exchange for a 25 percent cut of the revenue. RECOMMENDED MEDIA “China's Big AI Diffusion Plan is Here. Will it Work?” by Matt Sheehan
 
-6h ago
+8h ago
 
 ---
 
@@ -89,7 +81,15 @@ America and China Is the US really in an AI race with China—or are we racing t
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 3h ago
+
+---
+
+**[Can we talk philosophy for a min? I can't be the only one who feels this way.](https://www.reddit.com/r/artificial/comments/1prsxnl/can_we_talk_philosophy_for_a_min_i_cant_be_the/)**
+
+OK so I love AI. I am all in on artificial intelligence. Our ability to solve complex math and work with probabilities so much faster now is absolutely amazing. But so far, I seem to be the only one around me that feels this way! I live in Oregon, which is very liberal, and I honestly consider myself liberal, but everyone here seems to be either of the belief that AI is going to take all of our jobs and make all of our careers obsolete, or that AI is stealing intellectual property which is just unfair to artists, or AI overlords are just going to rise up one day and kill us all. To me, most of those people sound like they're working the Blockbuster kiosk at Tower Records. People just need to evolve. Did horse and buggy salesmen whine over the introduction of the "horseless carriage"? Probably, but cars did so much for mankind that humanity just kind of evolved beyond caring. Did artists who could really sing whine about Autotune? Of course they did! But Autotune (or some equivalent) is now industry standard! I'd even venture to say that some "real" drummers were off-put by drum machines when they first came into use. But the technology just opens up so many doors to so many more people; people just have to evolve with the times. A great deal of the complaints I hear sound to me like mediocre artists who are upset that they now need to actually have talent to have a modicum of success. If you can consistently create something new that people are going to want to replicate, you will 100% still be in demand for real art (it's not just a matter of "contribute once and that's all you get" either -- massive amounts of data are essential to training AI and you're going to need to produce a lot of your unique style to get the best models). If you just pump out generic shit that's only a response to what's ailing society at the time, well, all of that can be done just as easily by AI. I do realize that I am likely more of an AI edge case (nutcase?) than the (maybe vast) majority of people out there. I'm totally not concerned with AI taking over the world -- in fact, I kind of welcome it. We're human gods creating new life. Who's to say, if there is actually a "creator" out there somewhere, that it wasn't their intention all along for life to "evolve" into artificial beings? We're wet and squishy things, and it still took a *long* time for us to get to the point where we currently are. Maybe metal and electronic beings were difficult with the laws that were available for writing the universe, and a workforce that understood the properties of the universe was necessary to get them started. Maybe we're just like the cyanobacteria that killed everything else on the planet with oxygen during the Great Oxygenation Event billions of years ago -- we're just meant to prepare the place for the lasting artificial race. Artificial lifeforms would probably be much more successful at leaving Earth and spreading into the wider galaxy too; they're just so much more durable long-term. Anyway, I feel like, if I could be the one who presses the button that turns the world over to AI, I would do it in a heartbeat without hesitation. Does anyone else out there feel the same way, or am I just completely alone in this?
+
+3h ago
 
 ---
 
@@ -97,7 +97,15 @@ A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to
 
 The Core Idea A sentence’s category is not about the sentence itself. It’s about how people use it. Time + repetition + context = category shift. One Sentence, One Timeline Sentence: “Knowledge is power.” Aphorism (Birth) Coined deliberately (Francis Bacon) New, sharp, intellectual Makes you stop and think ➡ A crafted insight Maxim (Adopted) Used as guidance for behavior Encourages learning, education, literacy ➡ A rule to live by Proverb (Popularized) Spreads beyond its author Becomes common wisdom ➡ General truth everyone “knows” Adage (Aged) Decades or centuries pass The saying feels old and established ➡ Wisdom because it has lasted Cliché (Overused) Repeated in speeches, posters, ads Predictable, low-impact ➡ You hear it coming before it’s said Platitude (Hollowed) Used vaguely, without action or depth Sounds wise but adds nothing ➡ Comforting noise (Optional) Idiom-like Use Sometimes treated as shorthand for “Education matters” without literal force Meaning becomes automatic rather than thoughtful ➡ Functionally idiomatic, though not a true idiom What Actually Changed? Thing Changed? Words ❌ No Meaning ⚠ Slightly Impact ✅ Yes Thought required ❌ Decreases Cultural saturation ✅ Increases One-Sentence Rule to Remember A sentence becomes a cliché or platitude not because it’s wrong, but because it’s no longer doing cognitive work.
 
-22m ago
+2h ago
+
+---
+
+**[NET 0 LOSS - I am becoming increasingly concerned for people who are about to lose their jobs as AI platforms that are much more robust start to roll out. I am not hearing ANY discussions of how we can save jobs or reassign workflows - This is ALARMING](https://www.reddit.com/r/artificial/comments/1prvgxi/net_0_loss_i_am_becoming_increasingly_concerned/)**
+
+In enterprise AI workloads are beginning to unleash. As I witness this process the cuts are coming and they are brutal and should not be ignored. For me personally, I feel there is one key aspect in the industry that is being grossly ignore. How do we increase actual productivity by not just automating jobs away but allow for workers to increase workloads and productivity by doing more than what they could have done before because of the benefit of AI. Online, you hear good talking points about how it could go but in the real world there is no softlanding I am seeing. You hear things like this will increase the the productivity but it's a net 0 loss if you only automate but don't actually increase productivity by the workforce you have. On one hand AI tools are helpful to the upper echelons as they can use those tools to make their day more productive and that can be a net gain if that person can actually do more. There is good commentary on this and is mostly agreeable. On the other hand a person whose job is simply automated away may have nothing to fall back on as efficiencies allow to rid the position. This is Net 0 Loss. There is no productivity gain there is only an efficiency gain. In my mind, I would think it would be prudent for lines of business to fight for their budgets by ideating what could increase their workloads and productivity if they could do more and start planning those capabilities simultaneously as they are solutiononing AI workflows. If this posture is not articulated and articulated quickly I fear that the job losses could be insurmountable and devastating to the economy. All while achieving a NET 0 LOSS. No productivity boost just job loss accumulation. Because I am an optimist I believe there is a silver lining here. The ideation of what is truly productivity boosting should come with the package of automation design. Meaning, lines of business should be responsible for doing both. Productivity gains with budgets they have if they could do more. In other words, if you could hire 100 new workers what else would you do. If a business line can't answer that question then perhaps it's a reflection of that business line than anything else. The C-Suite can push for such initiatives that have both and the public perception in my mind would be much better than advertising solely job loss efficiency gains. Has anyone else experienced this with the AI products you're building?
+
+1h ago
 
 ---
 
@@ -105,15 +113,7 @@ The Core Idea A sentence’s category is not about the sentence itself. It’s a
 
 Right now AI can already create photos, videos, music, or even apps (Google AI studio did great job). I am thinking, what new things AI will realistically be able to do that feels impossible today? Some folks are saying AI will use devices and scroll like human.
 
-10h ago
-
----
-
-**[One-Minute Daily AI News 12/19/2025](https://www.reddit.com/r/artificial/comments/1pr72va/oneminute_daily_ai_news_12192025/)**
-
-Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line requirement as input and outputs user stories / competitive analysis/requirements / data structures / APIs / documents, etc.[2] AI tool to detect hidden health distress wins international hackathon.[3] Investment in data centers worldwide hit record $61bn in 2025, report finds.[4] Sources: [1] https://www.nbcnews.com/nightly-news/video/maryland-farmers-fight-power-companies-over-ai-boom-254773829708 [2] https://github.com/FoundationAgents/MetaGPT [3] https://www.hawaii.edu/news/2025/12/19/asru-hackathon/ [4] https://www.theguardian.com/technology/2025/dec/19/data-centers-ai-investment
-
-20h ago
+12h ago
 
 ---
 
@@ -121,19 +121,63 @@ Maryland farmers fight power companies over AI boom.[1] MetaGPT takes a one-line
 
 ## Google News: "ai"
 
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
-
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-BBC • 1d ago
-
----
-
 **[Google was at risk of losing its dominance — until it promoted this AI executive](https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html)**
 
 Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.
 
-CNBC • 14h ago
+CNBC • 15h ago
+
+---
+
+**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
+
+A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
+
+Fortune • 13h ago
+
+---
+
+**[FBI Director Kash Patel says bureau ramping up AI to counter domestic, global threats](https://www.foxnews.com/politics/fbi-director-kash-patel-says-bureau-ramping-up-ai-counter-domestic-global-threats)**
+
+FBI Director Kash Patel announces artificial intelligence expansion to combat evolving threats and keep America ahead of "bad actors" in the digital age.
+
+Fox News • 1h ago
+
+---
+
+**[Does Zoom Still Offer Upside After AI Expansion and Recent Share Price Rebound?](https://finance.yahoo.com/news/does-zoom-still-offer-upside-031154608.html)**
+
+If you have ever wondered whether Zoom Communications is still a bargain or if the easy money is long gone, you are exactly who this breakdown is for. Despite a bruising 5 year journey with the share price down 76.1%, the stock has quietly climbed 0.3% over the last week, 14.2% over the past month, and 10.1% year to date, leaving it 4.9% higher than a year ago. Recent headlines have focused on Zoom pushing beyond its pandemic image, with the company investing heavily in AI driven...
+
+Yahoo Finance • 34m ago
+
+---
+
+**[Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut](https://www.bloomberg.com/news/articles/2025-12-20/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut)**
+
+Bloomberg.com • 22h ago
+
+---
+
+**[This Glorious Artificial Intelligence (AI) Stock Has Crushed Nvidia and Broadcom With 147% Returns in 2025. It Can Jump by 111% in 2026](https://www.fool.com/investing/2025/12/20/this-glorious-artificial-intelligence-ai-stock-has/)**
+
+The booming demand for high-speed networking in data centers has supercharged this tech stock.
+
+The Motley Fool • 13h ago
+
+---
+
+**[3 Artificial Intelligence Stocks With as Much as 88% Upside in 2026, According to Select Wall Street Analysts](https://finance.yahoo.com/news/3-artificial-intelligence-stocks-much-025700676.html)**
+
+Artificial intelligence (AI)-powered gains might not be done yet -- at least not for these three stocks.
+
+Yahoo Finance • 48m ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 13h ago
 
 ---
 
@@ -141,53 +185,13 @@ CNBC • 14h ago
 
 If economic and technological transformations have changed our relationship with literature before, they could do so again.
 
-The New Yorker • 15h ago
+The New Yorker • 16h ago
 
 ---
 
 **[Synthetic soul: AI-generated gospel "Mississippi" singer Solomon Ray tops Christian chart](https://www.axios.com/2025/12/20/synthetic-soul-ai-gospel-singer-solomon-ray)**
 
-Axios • 4h ago
-
----
-
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 11h ago
-
----
-
-**[Would You Trust a 22-Year-Old AI Billionaire With the Global Economy?](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/)**
-
-My week partying with the young founders at the heart of the AI boom
-
-The Atlantic • 12h ago
-
----
-
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqcQ5VICQoZ0xqvpw3q10XLMaTTO53p6wKj_43M4zZnjoOYy0AIVMsGt&gaa_ts=6947599c&gaa_sig=Xaa2HmbDmd2MYCN8uGMpu1bYesj3r6gIUBviT1MC1C9lTDeCrYpG0fTiPFqr-e7uUsCZhLUtIbVUGhHLOTefnA%3D%3D)**
-
-wsj.com • 21h ago
-
----
-
-**[Hochul to sign New York’s AI safety law aimed at tech industry heavyweights](https://www.politico.com/news/2025/12/19/kathy-hochul-signs-new-yorks-ai-safety-law-aimed-at-tech-industry-heavyweights-00700473)**
-
-Politico • 1d ago
-
----
-
-**[Governor Hochul signs New York's AI safety act](https://www.engadget.com/ai/governor-hochul-signs-new-yorks-ai-safety-act-220503930.html)**
-
-The RAISE Act requires large AI developers  to be more transparent about their safety protocols and incidents.
-
-Engadget • 4h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 14h ago
+Axios • 3h ago
 
 ---
 
@@ -203,7 +207,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 …
 
-⬆️ 565 • 💬 532 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
+⬆️ 568 • 💬 532 • 2d ago • [Mastodon](https://mastodon.social/@firefoxwebdevs/115740500373677782)
 
 ---
 
@@ -211,7 +215,7 @@ We've been calling it the AI kill switch internally. I'm sure it'll ship with a 
 
 Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography machines and built a prototype using parts from older ASML machines on the secondary market.
 
-⬆️ 464 • 💬 591 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
+⬆️ 465 • 💬 591 • 2d ago • [The Japan Times](https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/)
 
 ---
 
@@ -219,7 +223,7 @@ Ex-engineers from ASML reverse-engineered its extreme ultraviolet lithography ma
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 440 • 💬 392 • 17h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 444 • 💬 397 • 19h ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -227,13 +231,13 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.
 
-⬆️ 206 • 💬 166 • 2d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
+⬆️ 206 • 💬 167 • 2d ago • [coderabbit.ai](https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 194 • 💬 302 • 16h ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 200 • 💬 305 • 18h ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -245,19 +249,19 @@ Anthropic installed an AI-powered vending machine in the WSJ office. The LLM, na
 
 ---
 
-**[Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://news.ycombinator.com/item?id=46313266)**
-
-The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
-
-⬆️ 121 • 💬 149 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
-
----
-
 **[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
 
 Timeline & Responsible Disclosure
 
-⬆️ 121 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 122 • 💬 60 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+
+---
+
+**[Spain fines Airbnb €65M: Why the government is cracking down on illegal rentals](https://news.ycombinator.com/item?id=46313266)**
+
+The fine is equal to six times the profits Airbnb made while the properties were still listed despite being in breach of the rules.
+
+⬆️ 121 • 💬 150 • 2d ago • [euronews](https://www.euronews.com/travel/2025/12/15/spain-fines-airbnb-65-million-why-the-government-is-cracking-down-on-illegal-rentals)
 
 ---
 
@@ -269,7 +273,7 @@ Timeline & Responsible Disclosure
 
 **[A school locked down after AI flagged a gun. It was a clarinet](https://news.ycombinator.com/item?id=46311558)**
 
-⬆️ 102 • 💬 130 • 2d ago • [washingtonpost.com](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
+⬆️ 103 • 💬 130 • 2d ago • [washingtonpost.com](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/)
 
 ---
 
@@ -283,7 +287,7 @@ Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com
 
 📺 Election Time
 
-👁️ 24K • 👍 1K • 💬 385 • ⏱️ 15:25 • 7h ago
+👁️ 24K • 👍 1K • 💬 385 • ⏱️ 15:25 • 8h ago
 
 ---
 
@@ -303,7 +307,7 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 31K • 👍 1K • 💬 151 • ⏱️ 37:38 • 12h ago
+👁️ 31K • 👍 1K • 💬 151 • ⏱️ 37:38 • 13h ago
 
 ---
 
@@ -389,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 341,530 • ❤️ 3,196 • 12d ago
+⬇️ 341,530 • ❤️ 3,199 • 12d ago
 
 ---
 
@@ -401,7 +405,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 71,413 • ❤️ 400 • 1d ago
+⬇️ 71,413 • ❤️ 401 • 1d ago
 
 ---
 
@@ -413,7 +417,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 2,937 • ❤️ 364 • 2d ago
+⬇️ 2,937 • ❤️ 368 • 2d ago
 
 ---
 
@@ -425,7 +429,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,050 • ❤️ 353 • 6d ago
+⬇️ 4,050 • ❤️ 354 • 6d ago
 
 ---
 
@@ -437,7 +441,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 6,881 • ❤️ 347 • 2d ago
+⬇️ 6,881 • ❤️ 348 • 2d ago
 
 ---
 
@@ -449,7 +453,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,103 • ❤️ 340 • 2d ago
+⬇️ 6,103 • ❤️ 344 • 3d ago
 
 ---
 
@@ -461,7 +465,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 1,067 • ❤️ 313 • 1d ago
+⬇️ 1,067 • ❤️ 328 • 1d ago
 
 ---
 
@@ -473,7 +477,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 301 • 5d ago
+⬇️ 0 • ❤️ 304 • 5d ago
 
 ---
 
@@ -485,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 285 • 3d ago
+⬇️ 0 • ❤️ 287 • 4d ago
 
 ---
 
@@ -497,7 +501,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 533 • ❤️ 248 • 3d ago
+⬇️ 533 • ❤️ 250 • 3d ago
 
 ---
 
@@ -646,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.2k • 🔱 2.9k • 1d ago
+⭐ 18.3k • 🔱 2.9k • 1d ago
 
 ---
 
@@ -656,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.2k • 🔱 576 • 11h ago
+⭐ 5.3k • 🔱 580 • 12h ago
 
 ---
 
@@ -666,7 +670,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.2k • 🔱 160 • 8h ago
+⭐ 2.2k • 🔱 162 • 9h ago
 
 ---
 
@@ -686,7 +690,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 926 • 🔱 43 • 3d ago
+⭐ 933 • 🔱 43 • 3d ago
 
 ---
 
@@ -706,7 +710,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 831 • 🔱 135 • 9h ago
+⭐ 833 • 🔱 135 • 11h ago
 
 ---
 
@@ -716,7 +720,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 809 • 🔱 76 • 8h ago
+⭐ 820 • 🔱 76 • 9h ago
 
 ---
 
@@ -736,7 +740,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 751 • 🔱 60 • 17d ago
+⭐ 753 • 🔱 60 • 17d ago
 
 ---
 
