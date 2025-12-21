@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T16:15:11.398089+00:00'
+updated: '2025-12-21T16:41:51.471202+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 16:15 UTC  
+**Last Updated:** December 21, 2025 at 16:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.0%  
-**30d:** +4.2%  
-**90d:** -21.1%  
-**1y:** -7.2%  
+**24h:** +0.3%  
+**7d:** +2.2%  
+**30d:** +4.4%  
+**90d:** -21.0%  
+**1y:** -7.1%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-2h ago
+3h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1prtzze/facts/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -107,7 +107,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 HODL
 
-6h ago
+7h ago
 
 ---
 
@@ -127,19 +127,19 @@ According to recent reports, XXI Capital accumulated more than 40,000 BTC during
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1prrwho/daily_meme_until_100000/)**
 
-16h ago
+17h ago
 
 ---
 
 **[I'm Accumulating more Bitcoin against next Q1, Are you?](https://www.reddit.com/r/Bitcoin/comments/1ps0ktk/im_accumulating_more_bitcoin_against_next_q1_are/)**
 
-8h ago
+9h ago
 
 ---
 
 **[How it started vs how it’s ending: Bitcoin skeptics vs reality”](https://www.reddit.com/r/Bitcoin/comments/1ps5n51/how_it_started_vs_how_its_ending_bitcoin_skeptics/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Futurism • 2d ago
 
 Mining ‘leading to strong ruble exchange rate,’ says governor. Bank’s bullish statement comes after years of anti-crypto rhetoric. Central bank reportedly ready to let certain citizens trade crypto via banking apps.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
 
-The Motley Fool • 8m ago
+The Motley Fool • 34m ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://yo
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 450 • ⏱️ 8:54 • 8h ago
+👁️ 24K • 👍 2K • 💬 450 • ⏱️ 8:54 • 9h ago
 
 ---
 
