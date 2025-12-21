@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-21T11:42:42.464189+00:00'
+updated: '2025-12-21T11:53:30.131596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 21, 2025 at 11:42 UTC  
+**Last Updated:** December 21, 2025 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 6h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey all, this is an exploration into the fundamental meaning of art and what it 
 
 Reports of OpenAI’s plans to go public coincide with Altman declaring a “code red” for the company, something he said he plans to do multiple times in the foreseeable future.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 16h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/sam-altman-says-0-excited-173814095.html) • 17h ago
 
 ---
 
@@ -87,7 +87,7 @@ OpenAI allows users to directly adjust ChatGPT’s enthusiasm level.[1] NVIDIA A
 
 Today, while working on an academic project, I experimented with Gemini Live and selected an Indian male voice. Everything was going fine, the responses were great, and it felt very natural, as if I were speaking with an actual person. In the middle of Gemini's response, I noticed something unusual. It pronounced the word "math" (short for "mathematics") as "math" (as in RamaKrishna Math, a monastery). It might seem like a small mistake, and hallucinations are common in the world of LLMs. A small pronunciation slip made me rethink how close AI voices are getting to humans in India. Until a few years ago, text-to-speech models would butcher even the most basic Indian words, for example, "Namaste." But now it's getting better by day, and they're nailing the local/cultural nuances in pronouncing local words. It is very exciting and can significantly enhance the overall customer experience. Still, on the other hand, these mispronunciations are a telltale sign of an artificial voice that we often hear in spam calls. As models continue to improve, it may become increasingly difficult to distinguish between a human and a machine, especially for the average Indian. I'm sure you might have observed something similar in your local language, and would love to hear about it.
 
-25m ago
+36m ago
 
 ---
 
@@ -95,7 +95,7 @@ Today, while working on an academic project, I experimented with Gemini Live and
 
 A few weeks ago it was mentioned by a Canonical engineer how trying to use AI to modernize the Ubuntu Error Tracker yielded some code that was 'plain wrong' and other issues raised by that Microsoft GitHub Copilot code
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Gemini-AI-Sloppy-Ubuntu) • 12h ago
 
 ---
 
@@ -135,7 +135,7 @@ bbc.com • 1d ago
 
 **[AI companions: "The new imaginary friend" redefining children's friendships](https://www.axios.com/2025/12/21/ai-companions-new-imaginary-friend-children-teens)**
 
-Axios • 56m ago
+Axios • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 56m ago
 
 If you’re going online to buy some last-minute gifts this holiday season, there’s a chance the price you pay will be influenced by what’s known as “surveillance pricing.” Some retailers are using artificial intelligence to set individualized prices online by sifting through personal data, including age, gender, location and browsing history. Ali Rogin speaks with Jay Stanley at the ACLU for more.
 
-PBS • 12h ago
+PBS • 13h ago
 
 ---
 
@@ -165,13 +165,13 @@ qz.com • 1h ago
 
 Collibra CEO Felix Van de Maele said it's "a red flag" if prospective employees aren't leaning into how they can use AI to make their job better.
 
-Business Insider • 51m ago
+Business Insider • 1h ago
 
 ---
 
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Politico • 20h ago
+Politico • 21h ago
 
 ---
 
@@ -269,7 +269,7 @@ The fine is equal to six times the profits Airbnb made while the properties were
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 110 • 💬 44 • 14h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 110 • 💬 44 • 15h ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -343,7 +343,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 132K • 👍 7K • 💬 1K • ⏱️ 19:40 • 14h ago
+👁️ 132K • 👍 7K • 💬 1K • ⏱️ 19:40 • 15h ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.4k • 🔱 594 • 20h ago
+⭐ 5.4k • 🔱 594 • 21h ago
 
 ---
 
@@ -717,7 +717,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 833 • 🔱 81 • 17h ago
+⭐ 833 • 🔱 81 • 18h ago
 
 ---
 

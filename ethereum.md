@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-21T11:42:42.478932+00:00'
+updated: '2025-12-21T11:53:30.146440+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 11:42 UTC  
+**Last Updated:** December 21, 2025 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** +0.2%  
 **7d:** +1.1%  
-**30d:** +8.0%  
+**30d:** +7.9%  
 **90d:** -28.2%  
 **1y:** -8.5%  
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-14h ago
+15h ago
 
 ---
 
@@ -170,7 +170,7 @@ ZyCrypto • 15h ago
 
 The Ethereum Foundation has set a new technical roadmap prioritizing security over speed for zero-knowledge Ethereum Virtual Machines (zkEVMs), establishing three critical milestones stretching through the end of 2026. The shift comes after zkEVM teams successfully reduced proving times from 16 minutes to 16 seconds while cutting costs by 45 ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 

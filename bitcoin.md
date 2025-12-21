@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-21T11:42:42.472788+00:00'
+updated: '2025-12-21T11:53:30.140254+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 21, 2025 at 11:42 UTC  
+**Last Updated:** December 21, 2025 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,766.99
+### $88,242.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.3%  
-**30d:** +4.5%  
-**90d:** -20.9%  
-**1y:** -7.0%  
+**24h:** +0.5%  
+**7d:** +2.5%  
+**30d:** +4.7%  
+**90d:** -20.8%  
+**1y:** -6.8%  
 
 ---
 
@@ -163,7 +163,7 @@ Nasdaq • 1d ago
 
 Bitcoin may still have further downside ahead, as crypto traders have yet to display the level of fear typically associated with a market bottom, according to Santiment founder Maksim Balashevich. Key Takeaways: Bitcoin could still fall toward $75,000 as social media sentiment remains too optimistic, according to Santiment’s Maksim Balashevich. ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1d ago
 
 Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -263,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 1 • 💬 0 • 45m ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 1 • 💬 0 • 56m ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -331,7 +331,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 439 • 💬 120 • ⏱️ 4:18 • 17h ago
+👁️ 9K • 👍 439 • 💬 120 • ⏱️ 4:18 • 18h ago
 
 ---
 
