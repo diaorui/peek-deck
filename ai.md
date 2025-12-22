@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T20:55:30.056244+00:00'
+updated: '2025-12-22T21:20:09.921454+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 20:55 UTC  
+**Last Updated:** December 22, 2025 at 21:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 9h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 3h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 4h ago
 
 ---
 
@@ -73,13 +73,13 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 35m ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 1h ago
 
 ---
 
 **[Robot training process + gameplay. I'm making a physics-based game where you command AI robot through levels - not just pointing the path, but also by controlling limb power and decision speed.](https://www.reddit.com/r/artificial/comments/1pt8xgm/robot_training_process_gameplay_im_making_a/)**
 
-Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂
+Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
 1h ago
 
@@ -137,17 +137,27 @@ CNN • 1d ago
 
 ---
 
-**[Bank of America’s Moynihan Says AI’s Economic Benefit Is ‘Kicking In More’](https://www.bloomberg.com/news/articles/2025-12-22/bofa-s-moynihan-says-ai-s-economic-benefit-is-kicking-in-more)**
+**[Bank of America’s Moynihan says AI’s economic benefit is ‘kicking in more’](https://fortune.com/2025/12/22/bank-of-america-brian-moynihan-ai-economic-benefit-kicking-in-more/)**
 
-Bloomberg.com • 1h ago
+Bank of America CEO Brian Moynihan said AI is starting to have a bigger impact on the U.S. economy.
+
+Fortune • 1h ago
 
 ---
 
-**[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
+**[Instacart halts 'item price tests' amid scrutiny of its AI tools](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454)**
 
-Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
+Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-CBS News • 5h ago
+NBC News • 1h ago
+
+---
+
+**[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
+
+A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
+
+CNBC • 6h ago
 
 ---
 
@@ -155,27 +165,21 @@ CBS News • 5h ago
 
 Instacart will end a program that set different prices for the same items sold at the same store after a report on the experiments triggered criticism.
 
-Los Angeles Times • 25m ago
+Los Angeles Times • 50m ago
 
 ---
 
-**[Instacart Says It Is Pulling the Plug on Its AI-Powered Price Tests](https://gizmodo.com/instacart-says-it-is-pulling-the-plug-on-its-ai-powered-price-tests-2000702649)**
+**[Can Shopify (SHOP) Turn Agentic AI and Sustainability Bets Into Durable Platform Advantage?](https://finance.yahoo.com/news/shopify-shop-turn-agentic-ai-200749018.html)**
 
-After an investigation found some customers were charged nearly 25% more for identical items, Instacart says itâs ending its controversial price-testing program.
+Over the past week, Shopify has been in focus as analysts highlighted its push into AI-enabled “agentic commerce,” new Winter ’26 Edition tools, and enhanced partnerships like the Contentsquare analytics tie-up, while broader industry attention also touched on regulatory actions affecting merchants selling medical‑grade products online. At the same time, Shopify’s growing role in AI-powered commerce infrastructure and its support for initiatives such as Frontier’s long-term carbon removal...
 
-Gizmodo • 40m ago
-
----
-
-**[AI Agents & Identity: Why 2 Nonprofits Just Backed Amazon Against Perplexity](https://www.forbes.com/sites/johnkoetsier/2025/12/22/ai-agents--identity-why-2-nonprofits-just-backed-amazon-against-perplexity/)**
-
-Forbes • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -189,7 +193,7 @@ Axios • 10h ago
 
 Mustafa Suleyman, Microsoft AI's CEO, has described using AI for guidance on life decisions as "something that the world needs."
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -209,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 258 • 💬 161 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 258 • 💬 162 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -229,7 +233,15 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 177 • 💬 396 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 178 • 💬 397 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+
+---
+
+**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://news.ycombinator.com/item?id=46355548)**
+
+Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
+
+⬆️ 146 • 💬 212 • 4h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -240,7 +252,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 136 • 💬 73 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 146 • 💬 74 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -254,7 +266,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 131 • 💬 154 • 13h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 131 • 💬 155 • 14h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -263,20 +275,6 @@ Personal Musings and Transcripts
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
 ⬆️ 128 • 💬 53 • 2d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
-
----
-
-**[I doubt that anything resembling genuine AGI is within reach of current AI tools](https://news.ycombinator.com/item?id=46342380)**
-
-I doubt that anything resembling genuine "artificial general intelligence" is within reach of current #AI tools.  However, I think a weaker, but still quite valuable, type of "artificial general cleverness" is becoming a reality in various ways.
-
-By "general cleverness", I mean the ability to solve broad classes of complex problems via somewhat ad hoc means.  These means may be stochastic or the result of brute force computation; they may be ungrounded or fallible; and they may be either uninterpretable, or traceable back to similar tricks found in an AI's training data.  So they would not qualify as the result of any true "intelligence".  And yet, they can have a non-trivial success rate at achieving an increasingly wide spectrum of tasks, particularly when coupled with stringent verification procedures to filter out incorrect or unpromising approaches, at scales beyond what individual humans could achieve.
-
-This results in the somewhat unintuitive combination of a technology that can be very useful and impressive, while simultaneously being fundamentally unsatisfying and disappointing - somewhat akin to how one's awe at an amazingly clever magic trick can dissipate (or transform to technical respect) once one learns how the trick was performed.  
-
-But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
-
-⬆️ 124 • 💬 107 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -408,7 +406,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 533 • 3d ago
+⬇️ 5,379 • ❤️ 535 • 3d ago
 
 ---
 
@@ -436,6 +434,18 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 ---
 
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
+
+`text-generation` `309.8B`
+
+⬇️ 8,830 • ❤️ 396 • 4d ago
+
+---
+
 **[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
 
 *Tencent*
@@ -445,18 +455,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 `image-to-video`
 
 ⬇️ 3,187 • ❤️ 395 • 4d ago
-
----
-
-**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
-
-*Xiaomi MiMo*
-
-MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
-
-`text-generation` `309.8B`
-
-⬇️ 8,830 • ❤️ 394 • 4d ago
 
 ---
 
@@ -651,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 15h ago
+⭐ 18.7k • 🔱 3.0k • 16h ago
 
 ---
 
@@ -681,7 +679,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 283 • 20m ago
+⭐ 1.9k • 🔱 283 • 45m ago
 
 ---
 
@@ -741,7 +739,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 868 • 🔱 80 • 4h ago
+⭐ 868 • 🔱 80 • 5h ago
 
 ---
 

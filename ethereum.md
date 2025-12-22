@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T20:55:30.070775+00:00'
+updated: '2025-12-22T21:20:09.935738+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 20:55 UTC  
+**Last Updated:** December 22, 2025 at 21:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,978.07
+### $2,981.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.5%  
-**30d:** +6.2%  
-**90d:** -28.1%  
-**1y:** -13.1%  
+**24h:** +0.3%  
+**7d:** +0.8%  
+**30d:** +6.5%  
+**90d:** -27.9%  
+**1y:** -12.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.65B
+**Market Cap:** $360.22B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.6%
 
 **All-Time Low:** $0.43
-+686321.3%
++689346.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 4h ago
 
 BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -234,7 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 207 • 💬 42 • ⏱️ 17:34 • 4h ago
+👁️ 4K • 👍 207 • 💬 42 • ⏱️ 17:34 • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 41 • 💬 15 • ⏱️ 7:32 • 7h ago
+👁️ 1K • 👍 41 • 💬 15 • ⏱️ 7:32 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 152 • 👍 8 • ⏱️ 16:54 • 55m ago
+👁️ 152 • 👍 8 • ⏱️ 16:54 • 1h ago
 
 ---
 
@@ -274,7 +274,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 54 • 👍 5 • 💬 2 • ⏱️ 5:29 • 24m ago
+👁️ 54 • 👍 5 • 💬 2 • ⏱️ 5:29 • 49m ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 10 • ⏱️ 6:15 • 16h ago
+👁️ 3K • 👍 175 • 💬 10 • ⏱️ 6:15 • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:52 • 7h ago
+👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:52 • 8h ago
 
 ---
 

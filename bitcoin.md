@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T20:55:30.064771+00:00'
+updated: '2025-12-22T21:20:09.929788+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 20:55 UTC  
+**Last Updated:** December 22, 2025 at 21:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.6%  
+**24h:** -0.3%  
+**7d:** +0.7%  
 **30d:** +1.4%  
 **90d:** -22.1%  
-**1y:** -7.1%  
+**1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.65B
+**Market Cap:** $1764.12B
 Rank #1
 
-**Circulating Supply:** 19,965,650 BTC
+**Circulating Supply:** 19,965,659 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.1%
+-29.9%
 
 **All-Time Low:** $67.81
-+129824.8%
++130149.2%
 
 ---
 
@@ -85,12 +85,6 @@ bitvoin
 
 ---
 
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
-
-11h ago
-
----
-
 **[It's NOT over](https://www.reddit.com/r/Bitcoin/comments/1pt1de2/its_not_over/)**
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
@@ -101,7 +95,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -111,9 +105,9 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
-**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
+**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-8h ago
+1h ago
 
 ---
 
@@ -123,9 +117,15 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
-**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
+**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-43m ago
+8h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
+
+12h ago
 
 ---
 
@@ -133,7 +133,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Strategy has increased its USD reserve by $748 million and now holds $2.19 billion and ₿671,268.
 
-7h ago
+8h ago
 
 ---
 
@@ -141,7 +141,7 @@ Strategy has increased its USD reserve by $748 million and now holds $2.19 billi
 
 I've been looking into the idea of using Bitcoin as collateral instead of selling for a while now. Sounds brilliant at first - liquidity without a tax event, BTC stays yours, you keep benefiting from price appreciation. But the more I dig into it, the more uncomfortable I get. Celsius and BlockFi aren't ancient history. And even with the "serious" platforms that are still around: one 50% crash and your LTV goes through the roof. Margin call, forced liquidation, everything gone. What surprises me is how little this gets discussed in all those "never sell your Bitcoin" conversations. Obviously the lending platforms aren't eager to highlight this. But even in the community it's often presented as basically risk-free as long as you keep a low LTV. I built a calculator to play through this over multiple years (app.retire-on-bitcoin.com if anyone wants to mess around with it themselves). The numbers are sobering when you're honest about it and don't just model the best-case scenario. You need a really proper cushion to stay on the safe side. Am I missing something or is this topic really as underexplored as it seems?
 
-6h ago
+7h ago
 
 ---
 
@@ -153,7 +153,23 @@ I've been looking into the idea of using Bitcoin as collateral instead of sellin
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+
+Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+
+CoinDesk • 7h ago
+
+---
+
+**[Countries May Shift Gold Reserves To Bitcoin: Gemini](https://bitcoinmagazine.com/news/gemini-prediction-bitcoin-adoption-in-2026)**
+
+Gemini predicts that in 2026, Bitcoin’s market maturation may break its traditional four-year cycle, political engagement with crypto will rise, prediction markets will grow, digital asset treasury firms will consolidate, and at least one nation may convert part of its gold reserves into Bitcoin.
+
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -165,22 +181,6 @@ The Verge • 1h ago
 
 ---
 
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
-
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
-
-Al Jazeera • 4h ago
-
----
-
-**[Countries May Shift Gold Reserves To Bitcoin: Gemini](https://bitcoinmagazine.com/news/gemini-prediction-bitcoin-adoption-in-2026)**
-
-Gemini predicts that in 2026, Bitcoin’s market maturation may break its traditional four-year cycle, political engagement with crypto will rise, prediction markets will grow, digital asset treasury firms will consolidate, and at least one nation may convert part of its gold reserves into Bitcoin.
-
-Bitcoin Magazine • 3h ago
-
----
-
 **[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
@@ -189,11 +189,11 @@ The Motley Fool • 21h ago
 
 ---
 
-**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
 
-Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-CoinDesk • 7h ago
+Al Jazeera • 4h ago
 
 ---
 
@@ -213,15 +213,15 @@ Nasdaq • 1d ago
 
 **[Billionaire hedge fund legend says central banks won’t hold Bitcoin](https://www.thestreet.com/crypto/trading/billionaire-hedge-fund-central-banks-wont-hold-bitcoin)**
 
-thestreet.com • 1d ago
+thestreet.com • 6h ago
 
 ---
 
-**[AI Predicts Bitcoin Price if 1 Million BTC Gets Locked in ETFs: The $250K Scenario](https://247wallst.com/investing/2025/12/22/ai-predicts-bitcoin-price-if-1-million-btc-gets-locked-in-etfs-the-250k-scenario/)**
+**[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
 
-AI models predict Bitcoin could hit $150K-$250K if 1 million more BTC enters ETF custody. Monte Carlo simulations show what it would take.
+Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
 
-24/7 Wall St. • 6h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -247,7 +247,7 @@ How much of a resource hog is AI?
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 4d ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 5d ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -263,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 4 • 5h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 4 • 6h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -279,7 +279,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 1 • 💬 0 • 58m ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 1h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -303,7 +303,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 115 • ⏱️ 16:18 • 22h ago
+👁️ 35K • 👍 2K • 💬 115 • ⏱️ 16:18 • 23h ago
 
 ---
 
@@ -313,7 +313,7 @@ Jeff Ross joins the show for a breakdown of why the global financial system is c
 
 📺 What Bitcoin Did
 
-👁️ 7K • 👍 436 • 💬 87 • ⏱️ 1:04:00 • 8h ago
+👁️ 7K • 👍 436 • 💬 87 • ⏱️ 1:04:00 • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 2K • 👍 186 • 💬 7 • ⏱️ 15:14 • 4h ago
+👁️ 2K • 👍 186 • 💬 7 • ⏱️ 15:14 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 5K • 👍 470 • 💬 60 • ⏱️ 6:08 • 3h ago
+👁️ 5K • 👍 470 • 💬 60 • ⏱️ 6:08 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 226 • ⏱️ 14:37 • 11h ago
+👁️ 12K • 👍 1K • 💬 226 • ⏱️ 14:37 • 12h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin is at a critical crossroads as global liquidity signals turn mixed, the 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 1K • 💬 45 • ⏱️ 43:07 • 6h ago
+👁️ 15K • 👍 1K • 💬 45 • ⏱️ 43:07 • 7h ago
 
 ---
 
