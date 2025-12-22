@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T10:19:47.109680+00:00'
+updated: '2025-12-22T10:43:30.579583+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 10:19 UTC  
+**Last Updated:** December 22, 2025 at 10:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +1.0%  
 **7d:** +2.2%  
-**30d:** +2.9%  
+**30d:** +3.0%  
 **90d:** -20.9%  
 **1y:** -5.6%  
 
@@ -87,13 +87,13 @@ Rank #1
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-9h ago
+10h ago
 
 ---
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 **[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
 
-24m ago
+48m ago
 
 ---
 
@@ -143,7 +143,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 Bitcoin price stays range-bound as exchange outflows jump 59%, signaling rising spot demand Whales are adding slowly, but faster exchange outflows suggest retail buyers are stepping in. Bitcoin price must reclaim $89,250 or risk another rejection toward $87,590 support
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bitcoin price stays range-bound as exchange outflows jump 59%, signaling rising 
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ TradingView — Track All Markets • 21h ago
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Barron's • 1h ago
 
 Spot XRP XRP $1.93 24h volatility: 0.1% Market cap: $116.72 B Vol. 24h: $2.37 B ETFs in the United States have continued to show strength, clocking $82 million in inflows over the past week. The significance of these net flows is even more pronounced as Bitcoin BTC $89 759 24h ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -204,7 +204,7 @@ Yahoo Finance • 1h ago
 
 Margin long positions continue to climb, signaling strong conviction despite bitcoin’s weakness.
 
-CoinDesk • 12m ago
+CoinDesk • 36m ago
 
 ---
 
@@ -212,7 +212,7 @@ CoinDesk • 12m ago
 
 Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -290,7 +290,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 83 • ⏱️ 15:15 • 8h ago
+👁️ 14K • 👍 1K • 💬 83 • ⏱️ 15:15 • 9h ago
 
 ---
 

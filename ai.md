@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T10:19:47.102176+00:00'
+updated: '2025-12-22T10:43:30.571299+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 10:19 UTC  
+**Last Updated:** December 22, 2025 at 10:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 4h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 54m ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
 
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 4h ago
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 22h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 23h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Wall Street Journal • 9h ago
 
 **[AI, Manufacturing Reset Spell 2026 Boon for European Industrials](https://www.bloomberg.com/news/articles/2025-12-22/ai-manufacturing-reset-spell-2026-boon-for-european-industrials)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 1h ago
 
 I'm starting to worry that I'm not worried enough about the AI bubble.
 
-Gizmodo • 19m ago
+Gizmodo • 43m ago
 
 ---
 
@@ -167,7 +167,7 @@ Fortune • 1h ago
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -253,7 +253,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 122 • 💬 60 • 16h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 122 • 💬 60 • 17h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -307,7 +307,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 55K • 👍 2K • 💬 103 • ⏱️ 1:29 • 15h ago
+👁️ 55K • 👍 2K • 💬 103 • ⏱️ 1:29 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 3K • 👍 173 • 💬 10 • ⏱️ 13:03 • 12h ago
+👁️ 3K • 👍 173 • 💬 10 • ⏱️ 13:03 • 13h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 622 • 43m ago
+⭐ 5.7k • 🔱 622 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 177 • 3h ago
+⭐ 2.4k • 🔱 177 • 4h ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 224 • 24m ago
+⭐ 1.3k • 🔱 224 • 48m ago
 
 ---
 

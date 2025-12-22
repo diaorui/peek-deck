@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T10:19:47.117999+00:00'
+updated: '2025-12-22T10:43:30.588809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 10:19 UTC  
+**Last Updated:** December 22, 2025 at 10:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-7h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 9h ago
 
 ---
 
@@ -68,7 +68,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-12h ago
+13h ago
 
 ---
 
@@ -92,7 +92,7 @@ Did anyone here preorder the NEO Home product? If so, through which medium did y
 
 Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
 
-8h ago
+9h ago
 
 ---
 
@@ -108,7 +108,7 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-14h ago
+15h ago
 
 ---
 
@@ -294,7 +294,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 1.1M • 👍 17K • 💬 341 • ⏱️ 0:29 • 10h ago
+👁️ 1.1M • 👍 17K • 💬 341 • ⏱️ 0:29 • 11h ago
 
 ---
 
