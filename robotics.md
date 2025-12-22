@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T01:52:43.218499+00:00'
+updated: '2025-12-22T03:27:05.323098+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 01:52 UTC  
+**Last Updated:** December 22, 2025 at 03:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-16h ago
+18h ago
+
+---
+
+**[Tilt gimbal](https://www.reddit.com/r/robotics/comments/1pso6qv/tilt_gimbal/)**
+
+This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
+
+51m ago
 
 ---
 
@@ -44,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +60,23 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-4h ago
+5h ago
+
+---
+
+**[Olaf: Bringing an Animated Character to Life in the Physical World](https://www.reddit.com/r/robotics/comments/1psmxsh/olaf_bringing_an_animated_character_to_life_in/)**
+
+About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 1h ago
+
+---
+
+**[Preordered NEO Robot](https://www.reddit.com/r/robotics/comments/1psl257/preordered_neo_robot/)**
+
+Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
+
+3h ago
 
 ---
 
@@ -64,11 +88,11 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 ---
 
-**[Preordered NEO Robot](https://www.reddit.com/r/robotics/comments/1psl257/preordered_neo_robot/)**
+**[can someone explain how sunday's memo's elbow joint works?](https://www.reddit.com/r/robotics/comments/1psoszq/can_someone_explain_how_sundays_memos_elbow_joint/)**
 
-Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
+hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-1h ago
+21m ago
 
 ---
 
@@ -76,35 +100,11 @@ Did anyone here preorder the NEO Home product? If so, through which medium did y
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-6h ago
+8h ago
 
 ---
 
 **[Raspberry pi courses?](https://www.reddit.com/r/robotics/comments/1psn1wo/raspberry_pi_courses/)**
-
-12m ago
-
----
-
-**[Olaf: Bringing an Animated Character to Life in the Physical World](https://www.reddit.com/r/robotics/comments/1psmxsh/olaf_bringing_an_animated_character_to_life_in/)**
-
-About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 18m ago
-
----
-
-**[Modular mini-VLA model](https://www.reddit.com/r/robotics/comments/1psmugb/modular_minivla_model/)**
-
-Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
-
-22m ago
-
----
-
-**[Open-sourced an MCP server for HuggingFace Pollen Robotics REACHY MINI](https://www.reddit.com/r/robotics/comments/1pslc6n/opensourced_an_mcp_server_for_huggingface_pollen/)**
-
-Been working on connecting LLMs to Pollen's Reachy Mini robot. Made it open source in case anyone else is exploring this space. Speak, listen, look, show emotions, etc. Works with Claude, Continue/Cline, Cursor, Windsurf, or any MCP-compatible system. https://preview.redd.it/04x4kazren8g1.png?width=3450&format=png&auto=webp&s=3ee5f0363550b9ae30f02bd189d4f241dc749cc7 Works with the MuJoCo simulator as well. https://github.com/jackccrawford/reachy-mini-mcp Happy to answer questions if anyone's doing similar work!
 
 1h ago
 
@@ -136,51 +136,11 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+**[iRobot founder says company's bankruptcy revealed a new kind of competitor: 'the Chinese fast follower'](https://www.businessinsider.com/irobot-ceo-bankruptcy-china-fast-followers-competition-2025-12)**
 
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
 
-The Verge • 12h ago
-
----
-
-**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
-
-Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
-
-CNET • 12h ago
-
----
-
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
-
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
-
-Futurism • 2d ago
-
----
-
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
-
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
-
-TechNode • 1d ago
-
----
-
-**[China’s humanoid robots' dance performance in Chengdu awes netizens; Elon Musk calls it ‘impressive’ on X](https://www.globaltimes.cn/page/202512/1351059.shtml)**
-
-Six humanoid robots recently took the stage at Chinese American singer-songwriter Wang Leehomâs concert in Chengdu, Southwest Chinaâs Sichuan Province, performing alongside the singer and drawing widespread attention, including praise from US tech billionaire Elon Musk, who retweeted a related video on X, and wrote âimpressive.â
-
-Global Times • 1d ago
-
----
-
-**[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
-
-China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
-
-South China Morning Post • 1d ago
+Business Insider • 4h ago
 
 ---
 
@@ -189,6 +149,44 @@ South China Morning Post • 1d ago
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
 KSBY News • 2d ago
+
+---
+
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 2d ago
+
+---
+
+**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
+
+Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
+
+The Robot Report • 1d ago
+
+---
+
+**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.newsnationnow.com/business/tech/texas-am-engineering-students-robot-dog/)**
+
+NewsNation • 14h ago
+
+---
+
+**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
+
+Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
+
+Yahoo Finance • 3d ago
+
+---
+
+**[Shepherdsville distribution center uses robots to ship 120,000 holiday packages daily](https://www.wave3.com/2025/12/18/shepherdsville-distribution-center-uses-robots-ship-120000-holiday-packages-daily/)**
+
+A Shepherdsville distribution center is using 200 robots to help workers ship 120,000 packages daily during the peak holiday season, ensuring Christmas gifts arrive on time.
+
+WAVE News • 3d ago
 
 ---
 
@@ -202,7 +200,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 29K • 👍 661 • 💬 68 • ⏱️ 2:08:46 • 2d ago
+👁️ 31K • 👍 673 • 💬 73 • ⏱️ 2:08:46 • 2d ago
 
 ---
 
@@ -212,17 +210,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 1K • 👍 24 • 💬 2 • ⏱️ 0:19 • 9h ago
-
----
-
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 75K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
+👁️ 3K • 👍 29 • 💬 2 • ⏱️ 0:19 • 10h ago
 
 ---
 
@@ -232,37 +220,17 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 8K • 👍 153 • 💬 1 • ⏱️ 0:29 • 2h ago
+👁️ 355K • 👍 12K • 💬 205 • ⏱️ 0:29 • 4h ago
 
 ---
 
-**[Humanoids Are Getting More Human-Like! Here’s How Humanoid Robots Can Earn Trust in 2026](https://www.youtube.com/watch?v=l6A3vsn7UxU)**
+**[The SHOCKING Rise of Humanoid Robot Performers](https://www.youtube.com/watch?v=PUc2v-uQQ9I)**
 
-We've entered the uncanny valley. Humanoid robots had a lot of wins and losses in 2025, and 2026 could be a major turning ...
+Chinese robotics leader Unitree is capping off a blockbuster year the same way it entered 2025: with the power of dance. A viral ...
 
-📺 CNET
+📺 Kalil 4.0
 
-👁️ 32K • 👍 324 • 💬 34 • ⏱️ 1:05 • 6d ago
-
----
-
-**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
-
-This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
-
-📺 NVIDIA Developer
-
-👁️ 2K • 👍 75 • 💬 1 • ⏱️ 55:42 • 1d ago
-
----
-
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 107K • 👍 6K • 💬 470 • ⏱️ 13:43 • 3d ago
+👁️ 2K • 👍 28 • 💬 5 • ⏱️ 7:34 • 19h ago
 
 ---
 
@@ -272,25 +240,57 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 379K • 👍 8K • 💬 1K • ⏱️ 18:35 • 1d ago
+👁️ 405K • 👍 8K • 💬 1K • ⏱️ 18:35 • 1d ago
 
 ---
 
-**[She just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=CsL-IxXFbRI)**
+**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
 
-📺 Romi Pal
+This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
 
-👁️ 16.8M • 👍 115K • 💬 871 • ⏱️ 0:24 • 6d ago
+📺 NVIDIA Developer
+
+👁️ 2K • 👍 77 • 💬 1 • ⏱️ 55:42 • 1d ago
 
 ---
 
-**[CONTROL REWORK TRAILER + SHOWCASE | Blox Fruits](https://www.youtube.com/watch?v=31Pek0aIpEI)**
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
 
-Control Event Link: https://www.roblox.com/events/4321121613224084070 SOCIALS   Blox Fruits Twitter: ...
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
 
-📺 Gamer Robot
+📺 AZFK
 
-👁️ 3.2M • 👍 201K • 💬 44K • ⏱️ 15:02 • 23h ago
+👁️ 111K • 👍 6K • 💬 479 • ⏱️ 13:43 • 3d ago
+
+---
+
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+
+📺 South China Morning Post
+
+👁️ 51K • 👍 621 • 💬 168 • ⏱️ 3:55 • 2d ago
+
+---
+
+**[The Year the Robots Danced #robotics #robots #humanoidrobots #airobot #technology #airobots](https://www.youtube.com/watch?v=hjoso10iPuU)**
+
+Twenty-twenty-five is the year humanoid robots started dancing better than people. Chinese robotics leader Unitree is capping off ...
+
+📺 Kalil 4.0
+
+👁️ 452 • 👍 3 • ⏱️ 1:09 • 46m ago
+
+---
+
+**[The PRINCEPS Build that actually works in War Robots](https://www.youtube.com/watch?v=ZEPHCSIHFrM)**
+
+War Robots Titan Gameplay: New PRINCEPS with Void and Chasm #warrobots #warrobotsgameplay #wr My Best-Of-War ...
+
+📺 Manni-Gaming
+
+👁️ 5K • 👍 300 • 💬 58 • ⏱️ 10:24 • 10h ago
 
 ---
 

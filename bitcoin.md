@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T01:52:43.209087+00:00'
+updated: '2025-12-22T03:27:05.313908+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 01:52 UTC  
+**Last Updated:** December 22, 2025 at 03:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,198.41
+### $88,045.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +1.5%  
-**30d:** +2.3%  
-**90d:** -21.4%  
-**1y:** -6.2%  
+**24h:** +0.8%  
+**7d:** +1.3%  
+**30d:** +2.1%  
+**90d:** -21.6%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1778.88B
+**Market Cap:** $1771.61B
 Rank #1
 
-**Circulating Supply:** 19,965,312 BTC
+**Circulating Supply:** 19,965,353 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.6%
 
 **All-Time Low:** $67.81
-+131150.6%
++130818.7%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-3h ago
+5h ago
 
 ---
 
 **[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-4h ago
+5h ago
 
 ---
 
@@ -107,15 +107,7 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-5h ago
-
----
-
-**[I'm old and late to the party, but just went all-in. Here's why.](https://www.reddit.com/r/Bitcoin/comments/1ps6nrw/im_old_and_late_to_the_party_but_just_went_allin/)**
-
-I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
-
-12h ago
+6h ago
 
 ---
 
@@ -123,25 +115,33 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-1h ago
+2h ago
+
+---
+
+**[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+
+2h ago
+
+---
+
+**[I'm old and late to the party, but just went all-in. Here's why.](https://www.reddit.com/r/Bitcoin/comments/1ps6nrw/im_old_and_late_to_the_party_but_just_went_allin/)**
+
+I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
+
+13h ago
 
 ---
 
 **[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
 
-4h ago
+6h ago
 
 ---
 
 **[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
 
-9h ago
-
----
-
-**[The ₿iggest ₿itcoin holders ₿y company and country](https://www.reddit.com/r/Bitcoin/comments/1psbplt/the_iggest_itcoin_holders_y_company_and_country/)**
-
-8h ago
+11h ago
 
 ---
 
@@ -149,17 +149,17 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 ## Google News: "bitcoin"
 
-**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
+**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
 
-Forbes • 13h ago
+One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
+
+The Motley Fool • 4h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
-
-Nasdaq • 14h ago
+Forbes • 14h ago
 
 ---
 
@@ -167,13 +167,15 @@ Nasdaq • 14h ago
 
 Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
 
-The Block • 2d ago
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+
+Nasdaq • 15h ago
 
 ---
 
@@ -185,11 +187,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[CryptoQuant Flags Bear Market, Sees $70K Bitcoin Soon](https://bitbo.io/news/cryptoquant-bear-market-70k/)**
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-CryptoQuant said onchain and derivatives indicators show a bitcoin bear market has begun, with downside reference levels around $70,000 and potentially $56,000 if weakness persists.
+The Block • 2d ago
 
-Bitbo • 12h ago
+---
+
+**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
+
+Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -201,17 +209,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfhsrAV735uR5hTv3f4bXxcsqNj51ImYlvUGxCuZTKiRsoRM6c9uBVv&gaa_ts=6948a7d3&gaa_sig=iZPcwvlV_MKzUtln5D6QFPhEUSaMh6noFjVfwfilAq1bl44Fb7hjprgirRO-834PJD8SqOPiGDolE5LtwRnhtg%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdHQWGnAXgh5aSpSnDHo1Aw-ToUbebyNubyREYtgLK0j-NhlgEtjqnO&gaa_ts=6948bdf4&gaa_sig=GQSr2orwHE2wZbprCGgEP9fGOgQz0IxFBqwIKU1vowua2eF9IVQ055uVEaOx9Nf9Vkw3zHwMHYBtNTwqEJBcMQ%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Michael Burry Compares Bitcoin to One of the Biggest Bubbles in History](https://www.fool.com/investing/2025/12/20/michael-burry-compares-bitcoin-to-one-of-the-bigge/)**
-
-Tulip mania is a classic example of the risks that come with speculation, and there are some key lessons Bitcoin investors can learn from it.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -219,7 +219,7 @@ The Motley Fool • 1d ago
 
 According to reports, Fundstrat analysts are sending mixed signals about Bitcoin’s path in 2026. One line of work inside the firm sees a noticeable pullback early next year, while another predicts new highs arriving soon after.Sean Farrell, Fundstrat’s head of digital asset strategy, is reported to…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -269,13 +269,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 14h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 16h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 15h ago
+⬆️ 1 • 💬 0 • 17h ago
 
 ---
 
@@ -289,7 +289,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 9h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 11h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -303,17 +303,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 745 • 💬 268 • ⏱️ 55:13 • 11h ago
-
----
-
-**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
-
-Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 176 • ⏱️ 14:31 • 1d ago
+👁️ 16K • 👍 798 • 💬 251 • ⏱️ 55:13 • 13h ago
 
 ---
 
@@ -323,17 +313,27 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 438 • 💬 36 • ⏱️ 16:18 • 3h ago
+👁️ 13K • 👍 874 • 💬 61 • ⏱️ 16:18 • 5h ago
 
 ---
 
-**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
+**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
 
-Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
+Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
 
-📺 CryptosRus Extra
+📺 Simply Bitcoin
 
-👁️ 16K • 👍 679 • 💬 370 • ⏱️ 10:58 • 2d ago
+👁️ 31K • 👍 2K • 💬 167 • ⏱️ 14:31 • 1d ago
+
+---
+
+**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
+
+Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 477 • 💬 47 • ⏱️ 15:15 • 1h ago
 
 ---
 
@@ -343,17 +343,7 @@ BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 3K • 👍 251 • 💬 63 • ⏱️ 16:57 • 5h ago
-
----
-
-**[Bitcoin: This will PISS YOU OFF!!!](https://www.youtube.com/watch?v=4dW0m0neAo4)**
-
-Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://youtu.be/B5tImpo66YA (click)
-
-📺 MMCrypto
-
-👁️ 36K • 👍 3K • 💬 512 • ⏱️ 8:54 • 18h ago
+👁️ 6K • 👍 313 • 💬 82 • ⏱️ 16:57 • 6h ago
 
 ---
 
@@ -363,7 +353,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 130 • ⏱️ 13:47 • 2d ago
+👁️ 47K • 👍 2K • 💬 129 • ⏱️ 13:47 • 2d ago
 
 ---
 
@@ -373,7 +363,25 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 46K • 👍 2K • 💬 215 • ⏱️ 44:14 • 2d ago
+👁️ 46K • 👍 2K • 💬 216 • ⏱️ 44:14 • 2d ago
+
+---
+
+**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
+
+This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
+
+📺 BTC Sessions
+
+👁️ 28K • 👍 1K • 💬 463 • ⏱️ 20:14 • 1d ago
+
+---
+
+**[PROOF NO ONE KNOWS ANYTHING IN CRYPTO! (MYSELF INCLUDED?!) #crypto #cryptocurrency #bitcoin #xrp](https://www.youtube.com/watch?v=7VEejj_vwMI)**
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 287 • 💬 7 • ⏱️ 1:00 • 8h ago
 
 ---
 
@@ -383,17 +391,7 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 2K • 👍 166 • 💬 67 • ⏱️ 12:58 • 9h ago
-
----
-
-**[&quot;This BTC Upgrade  Will Cause a Massive Explosion in Bitcoin’s Price&quot; - Micheal Saylor](https://www.youtube.com/watch?v=aTXm7Q6hwxE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 358 • 💬 42 • ⏱️ 20:42 • 1d ago
+👁️ 3K • 👍 184 • 💬 32 • ⏱️ 12:58 • 10h ago
 
 ---
 

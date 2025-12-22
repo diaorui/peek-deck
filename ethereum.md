@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T01:52:43.215224+00:00'
+updated: '2025-12-22T03:27:05.319914+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 01:52 UTC  
+**Last Updated:** December 22, 2025 at 03:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,45 +42,37 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +2.6%  
-**30d:** +8.5%  
-**90d:** -26.6%  
-**1y:** -11.2%  
+**24h:** +1.7%  
+**7d:** +2.1%  
+**30d:** +7.9%  
+**90d:** -27.0%  
+**1y:** -11.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.01B
+**Market Cap:** $364.92B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-38.9%
 
 **All-Time Low:** $0.43
-+701550.7%
++698197.1%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[I got drained for $840k. Hacker is swapping to Monero](https://www.reddit.com/r/ethereum/comments/1pshuq8/i_got_drained_for_840k_hacker_is_swapping_to/)**
-
-Hi everyone, about two weeks ago my wallet was drained for over $840k, it is my life savings and I’m actually devastated. I’ve been trying all I can with onchain investigators to freeze CEX/recover anything but no result so far… My hacker is using TornadoCash and GoblinSwap / ChangeNOW to make it untraceable/buy monero (anonymous currency) is there really no way to freeze it? Before you ask me: No, I do not know how this happened, I always was very cautious and do not really know how it happened, here is my wallet address : 0xb977bf608C834Bf2c60675dE9ba12A2806960613
-
-4h ago
-
----
-
 **[Daily General Discussion December 21, 2025](https://www.reddit.com/r/ethereum/comments/1przbh3/daily_general_discussion_december_21_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
@@ -88,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently threatened with a ban for mentioning one thing I think is neglected in scaling, so I assume I will not mention that here. But another important thing, is parallel contract execution. This is probably a topic many people here have expertise on since upwards 10 years, and thus something where those with expertise can share, or when there is unsolved problems, there can be discussion. Ethereum in 2014 ordered all transactions in a block sequentially in the transaction-trie (sequence number as key in trie). It seems an upgrade from that to parallel execution could be the "transaction dependency trie". Where the keys are the number of dependencies (from 0 and upwards), and then each key stores a nested trie with the transactions. Block validators can them simply run transactions in order of dependencies. This trie can be constructed based on read/writes of storage slots. It also seems meaningful with the old flat storage trie idea, which I assume was always about parallelization. It could have "storage objects" that each contain a trie where the keys are storage slots, and storage slots can contain pointers to storage objects. Thus you can have mappings and arrays and such that can be operated on in parallel by shards (I will avoid mentioning my other idea on how such sharding should be organized, as I am threatened with a ban if I do, although it would be easier if moderation here could moderate itself to behave more in line with normal civil discourse). Such is quite easily shardable it seems, arbitrarily (and how arbitrary sharding is allowed, is in that idea I am not allowed to mention by the moderator Edmund with support from Ligi who has publicly threatened a ban if I do). The key is shards can easily collaborate on assembling the Merkle roots for such tries, and mange ranges of keys (based on most significant bits), this has always been a known property of Patricia Merkle Tries. Why is parallelization important to me? Well I invented "video pseudonym parties" between 2015 and 2018 (Gavin Wood who alone built first version of Ethereum is currently approaching same idea and he calls it "proof-of-video-interaction") and it requires hundreds of thousands of transactions per second for 10 billion citizens. The whitepaper is public and published since 2018, it has been cited by MIT researched Bryan Ford in numerous publications, was in Frontiers and Bloomberg, and has been well known by "the community" (but it was originally invented together with a controversial organization). Note, inter-shard "mutexes" (which will be in contract code most likely) is part of such coordination too, but again, me being forbidden from mentioning the elephant in the room on sharding does make it harder to have a technical discussion, and it would be good if the moderation here could overrule that moderator's threat. I do not see how it is productive to forbid mentioning the elephant in the room on sharding, it ought to make it impossible to move past that bottleneck. Edit: The dependency trie probably needs storage slots nested under each transaction, and for multiple accesses sequential list, and then the transaction hash dependencies for each. The block validator has to run every transaction in parallel, but the dependency trie acts as implicit "mutex" for each point of contention, with no deadlocks as the block producer could run it. It is a bit complicated, but it seems it should work. The "number of dependencies" part in the trie can be skipped, it is meaningless. But it would be easier if I was not threatened with ban if I mention the elephant in the room in scaling, as it is important here in how the sharding is ideally organized (or, the only way it works in this current paradigm).
 
-11h ago
+13h ago
 
 ---
 
@@ -146,6 +138,14 @@ Reproducible benchmarks reveal true Ethereum client throughput under real and ex
 
 ---
 
+**[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
+
+Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -158,11 +158,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
+**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
 
-Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
+Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-CryptoSlate • 1d ago
+ZyCrypto • 1d ago
 
 ---
 
@@ -196,14 +196,6 @@ The Block • 2d ago
 
 ---
 
-**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
-
-Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
-
-ZyCrypto • 1d ago
-
----
-
 **[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
@@ -220,6 +212,14 @@ ts2.tech • 2d ago
 
 ---
 
+**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
+
+Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
+
+CryptoSlate • 1d ago
+
+---
+
 **[Curve Finance Strengthens Its Position as a Leading Ethereum DEX With 44% Fee Share](https://markets.businessinsider.com/news/currencies/curve-finance-strengthens-its-position-as-a-leading-ethereum-dex-with-44-fee-share-1035661157)**
 
 Zug, Switzerland, December 19th, 2025, FinanceWireEthereum&rsquo;s market is one of the most competitive corners of DeFi, and...
@@ -232,33 +232,23 @@ markets.businessinsider.com • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee&#39;s Fundstrat Sees $60K BTC $1.8k ETH and $50 SOL In H1 2026... Stablecoin Battle, BTC ETF...](https://www.youtube.com/watch?v=PrjHeXsAGfE)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 10K • 👍 600 • 💬 401 • ⏱️ 11:34 • 12h ago
-
----
-
 **[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 461 • 💬 60 • ⏱️ 15:49 • 10h ago
+👁️ 13K • 👍 543 • 💬 62 • ⏱️ 15:49 • 12h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 21st of December](https://www.youtube.com/watch?v=2_OtXgqgS7Q)**
+**[Tom Lee&#39;s Fundstrat Sees $60K BTC $1.8k ETH and $50 SOL In H1 2026... Stablecoin Battle, BTC ETF...](https://www.youtube.com/watch?v=PrjHeXsAGfE)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 C-Zar Gets Crypto 
+📺 AllinCrypto
 
-👁️ 99 • 👍 16 • 💬 7 • ⏱️ 9:36 • 3h ago
+👁️ 11K • 👍 629 • 💬 427 • ⏱️ 11:34 • 14h ago
 
 ---
 
@@ -268,47 +258,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 Stock Moe
 
-👁️ 3K • 👍 437 • 💬 16 • ⏱️ 11:18 • 4h ago
+👁️ 8K • 👍 691 • 💬 18 • ⏱️ 11:18 • 5h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=stp8NpOeNj8)**
+**[ETH Ethereum Price Prediction: 21st of December](https://www.youtube.com/watch?v=2_OtXgqgS7Q)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 More Crypto Online
+📺 C-Zar Gets Crypto 
 
-👁️ 2K • 👍 126 • 💬 9 • ⏱️ 4:12 • 10h ago
-
----
-
-**[Ethereum Is Approaching a Key Level — Big Move Coming?](https://www.youtube.com/watch?v=35KwTlk-t70)**
-
-Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/AcpwbgTMYc TELEGRAM ...
-
-📺 Crypto Cobra
-
-👁️ 847 • 👍 55 • 💬 25 • ⏱️ 14:27 • 8h ago
-
----
-
-**[BITCOIN WILL MOVE SOON (Don&#39;t Miss This)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pd5wdA-CqGA)**
-
-BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* https://bit.ly/PIONEX_ ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 251 • 💬 63 • ⏱️ 16:57 • 5h ago
-
----
-
-**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 20K • 👍 1K • 💬 197 • ⏱️ 35:41 • 1d ago
+👁️ 268 • 👍 29 • 💬 7 • ⏱️ 9:36 • 5h ago
 
 ---
 
@@ -318,7 +278,17 @@ Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethere
 
 📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 190 • 💬 30 • ⏱️ 8:06 • 10h ago
+👁️ 5K • 👍 236 • 💬 36 • ⏱️ 8:06 • 11h ago
+
+---
+
+**[BITCOIN WILL MOVE SOON (Don&#39;t Miss This)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pd5wdA-CqGA)**
+
+BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* https://bit.ly/PIONEX_ ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 313 • 💬 82 • ⏱️ 16:57 • 6h ago
 
 ---
 
@@ -328,7 +298,37 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 362 • 👍 17 • 💬 5 • ⏱️ 5:02 • 15h ago
+👁️ 383 • 👍 18 • 💬 1 • ⏱️ 5:02 • 17h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=stp8NpOeNj8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 133 • 💬 9 • ⏱️ 4:12 • 12h ago
+
+---
+
+**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
+
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+
+📺 Tevis
+
+👁️ 21K • 👍 1K • 💬 202 • ⏱️ 35:41 • 1d ago
+
+---
+
+**[Ethereum Is Approaching a Key Level — Big Move Coming?](https://www.youtube.com/watch?v=35KwTlk-t70)**
+
+Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/AcpwbgTMYc TELEGRAM ...
+
+📺 Crypto Cobra
+
+👁️ 1K • 👍 61 • 💬 19 • ⏱️ 14:27 • 10h ago
 
 ---
 

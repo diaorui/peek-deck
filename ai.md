@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T01:52:43.200640+00:00'
+updated: '2025-12-22T03:27:05.305457+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 01:52 UTC  
+**Last Updated:** December 22, 2025 at 03:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 12h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 21h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 9h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 4h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 6h ago
 
 ---
 
@@ -73,7 +73,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 14h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 15h ago
 
 ---
 
@@ -81,15 +81,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-10h ago
-
----
-
-**[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.reddit.com/r/artificial/comments/1psfj48/the_coming_ai_upheaval_risks_collarflipping_the/)**
-
-A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 5h ago
+12h ago
 
 ---
 
@@ -97,7 +89,15 @@ A divide between Britain’s data-center boomtowns and its white-collar commuter
 
 AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
 
-8h ago
+9h ago
+
+---
+
+**[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.reddit.com/r/artificial/comments/1psfj48/the_coming_ai_upheaval_risks_collarflipping_the/)**
+
+A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ AI Overviews now show up in around half of searches, and many people already use
 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 6h ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
 
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 7h ago
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 9h ago
 
 ---
 
@@ -125,41 +125,23 @@ Space Force uses AI challenge to push everyday use of artificial intelligence Sp
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 17h ago
+CNN • 19h ago
 
 ---
 
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
 
-The New York Times • 1d ago
+Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
----
-
-**[These Teenagers Are Already Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3?gaa_at=eafs&gaa_n=AWEtsqecW-xdnC7XoqKmBo3A5nzz3rDyWlp-axJSvVRhhDsuv-pOYcEKVS2u&gaa_ts=6948a7d2&gaa_sig=xKqbWUs_T_wDpxBPDYhy3N2FSNkJz_CeWyeyIz4Atm2IfhyizAN9bC6psJi83Zmpw3-BUU8x5uNZ3tfi8VIwJg%3D%3D)**
-
-The Wall Street Journal • 52m ago
+CNBC • 19h ago
 
 ---
 
-**[Wall St futures edge higher amid renewed AI optimism](https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-amid-renewed-ai-optimism-4418351)**
+**[AI likely to displace jobs, says Bank of England governor](https://www.bbc.com/news/articles/c0r9280gvelo)**
 
-Investing.com • 1h ago
+Andrew Bailey says workers need to be trained to move into jobs that use AI, but adds it might not lead to mass unemployment.
 
----
-
-**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
-
-Oracle stock peaked in September before suffering a continued decline in the back half of the year.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 12h ago
+BBC • 2d ago
 
 ---
 
@@ -169,23 +151,43 @@ Politico • 1d ago
 
 ---
 
-**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqflSpUouzcNDKsyYPioAVpROFDx5448HIC12G77l3aFDnmICwyRAxYn&gaa_ts=6948bdf2&gaa_sig=JDgKAPFXiZz_zYmpzLjhjsPl7PpFxIow0GugbdfMVXwI1QNr0j8eefLCUPD5m9nmP1xsGZy7jfrEtqeuX6msYw%3D%3D)**
 
-Bloomberg.com • 3h ago
+The Wall Street Journal • 1d ago
+
+---
+
+**[What does Trump’s AI czar want?](https://www.vox.com/podcasts/473058/what-david-sacks-wants-believes-ai-trump)**
+
+David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
+
+Vox • 14h ago
+
+---
+
+**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
+
+Oracle stock peaked in September before suffering a continued decline in the back half of the year.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdFBN-0_4z7RI6ttuUKWDybAIsST9pLUN0knEYOp2aHZ41i5gm8NV-t&gaa_ts=6948bdf2&gaa_sig=gTQybueDZKzT9wmotgEZfNiuBvHoKic37scI7lW0Z0cBoQTXHT7S0pHOtFHVvkLMTn_uHgRzaCigx-TsKOZceA%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
 
 ---
 
 **[Democrats' divide over AI frames a debate for 2028](https://www.axios.com/2025/12/21/ai-fight-democrats-2028)**
 
-Axios • 2h ago
-
----
-
-**['They'll lose their humanity': Dartmouth professor says he's surprised just how scared his Gen Z students are of AI](https://fortune.com/2025/12/20/does-ai-make-you-dumb-dartmouth-professor-says-gen-z-scared/)**
-
-A lot of Scott Anthony's students are excited to use AI, he told Fortune, but a meaningful portion are "scared full stop." They have "hesitation and fear."
-
-Fortune • 1d ago
+Axios • 3h ago
 
 ---
 
@@ -197,19 +199,19 @@ Fortune • 1d ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 504 • 💬 471 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 505 • 💬 473 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 230 • 💬 342 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 231 • 💬 343 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 222 • 💬 176 • 21h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 222 • 💬 177 • 23h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -217,7 +219,15 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 160 • 💬 376 • 18h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 163 • 💬 377 • 20h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+
+---
+
+**[Autoland saves King Air, everyone reported safe](https://news.ycombinator.com/item?id=46346214)**
+
+Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
+
+⬆️ 145 • 💬 70 • 10h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -237,11 +247,11 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 ---
 
-**[Autoland saves King Air, everyone reported safe](https://news.ycombinator.com/item?id=46346214)**
+**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
 
-Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
+Personal Musings and Transcripts
 
-⬆️ 109 • 💬 48 • 8h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 104 • 💬 52 • 10h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -255,15 +265,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 97 • 💬 88 • 20h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
-
----
-
-**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
-
-Personal Musings and Transcripts
-
-⬆️ 91 • 💬 49 • 8h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 99 • 💬 92 • 22h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -277,33 +279,23 @@ Personal Musings and Transcripts
 
 ## YouTube Videos: "ai"
 
+**[Google Gemini 4: The AI That Understands the World Like Never Before](https://www.youtube.com/watch?v=NOfwg2Wj2HA)**
+
+Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! Google Gemini 4 is unlike anything we've seen before.
+
+📺 BitBiasedAI
+
+👁️ 4K • 👍 159 • 💬 10 • ⏱️ 25:57 • 7h ago
+
+---
+
 **[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
 
 Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
 
 📺 Codie Sanchez
 
-👁️ 22K • 👍 2K • 💬 115 • ⏱️ 13:25 • 7h ago
-
----
-
-**[5 AI&#39;s WORK TOGETHER to Make Subway Surfers From Scratch](https://www.youtube.com/watch?v=hopkhs_bsWA)**
-
-I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and make Subway Surfers From Scratch in ONE ...
-
-📺 tef
-
-👁️ 24K • 👍 2K • 💬 261 • ⏱️ 13:09 • 9h ago
-
----
-
-**[BRACE YOURSELF FOR THE AI BUBBLE 2026](https://www.youtube.com/watch?v=AhwyGtUv1fs)**
-
-Is the AI revolution just getting started or are we at the peak of a ready to crash? Michael Burry is warning of an Al bubble set to ...
-
-📺 Ricky Gutierrez
-
-👁️ 7K • 👍 461 • 💬 72 • ⏱️ 15:45 • 5h ago
+👁️ 44K • 👍 2K • 💬 114 • ⏱️ 13:25 • 9h ago
 
 ---
 
@@ -313,7 +305,17 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 29K • 👍 1K • 💬 73 • ⏱️ 1:29 • 7h ago
+👁️ 41K • 👍 2K • 💬 81 • ⏱️ 1:29 • 9h ago
+
+---
+
+**[AI Influencers Are Making $10K+ Month While You Sleep: Here’s How](https://www.youtube.com/watch?v=ARRbBmXK7AA)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* – https://FirstMovers.ai/blueprint/ It's ...
+
+📺 Julia McCoy
+
+👁️ 17K • 👍 1K • 💬 116 • ⏱️ 12:00 • 2d ago
 
 ---
 
@@ -323,17 +325,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 186K • 👍 10K • 💬 2K • ⏱️ 19:40 • 1d ago
-
----
-
-**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
-
-Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
-
-📺 Sasha Yanshin
-
-👁️ 28K • 👍 3K • 💬 621 • ⏱️ 16:44 • 7h ago
+👁️ 195K • 👍 10K • 💬 2K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -343,7 +335,17 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 53K • 👍 3K • 💬 193 • ⏱️ 37:38 • 1d ago
+👁️ 55K • 👍 3K • 💬 194 • ⏱️ 37:38 • 1d ago
+
+---
+
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 6K • 👍 127 • 💬 5 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -353,7 +355,7 @@ Hello friends today we are watching a video where I reacted to AI videos of myse
 
 📺 SSSniperWolf
 
-👁️ 366K • 👍 10K • 💬 1K • ⏱️ 15:39 • 2d ago
+👁️ 378K • 👍 10K • 💬 1K • ⏱️ 15:39 • 2d ago
 
 ---
 
@@ -363,17 +365,17 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 730K • 👍 5K • 💬 167 • ⏱️ 8:24 • 1d ago
+👁️ 747K • 👍 5K • 💬 172 • ⏱️ 8:24 • 1d ago
 
 ---
 
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+**[Real vs AI Videos!](https://www.youtube.com/watch?v=BdBGTLJekWE)**
 
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf.io/PrestonReacts For 10% off your purchase at ...
 
-📺 gptars
+📺 PrestonReacts
 
-👁️ 2.2M • 👍 89K • 💬 1K • ⏱️ 1:01 • 2d ago
+👁️ 103K • 👍 2K • 💬 336 • ⏱️ 15:32 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,256 • 13d ago
+⬇️ 352,314 • ❤️ 3,258 • 13d ago
 
 ---
 
@@ -401,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 429 • 2d ago
+⬇️ 3,459 • ❤️ 440 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 416 • 2d ago
+⬇️ 74,165 • ❤️ 420 • 2d ago
 
 ---
 
@@ -425,7 +427,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 405 • 3d ago
+⬇️ 10,633 • ❤️ 411 • 3d ago
 
 ---
 
@@ -461,7 +463,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 365 • 3d ago
+⬇️ 6,796 • ❤️ 367 • 4d ago
 
 ---
 
@@ -473,7 +475,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 319 • 4d ago
+⬇️ 0 • ❤️ 322 • 5d ago
 
 ---
 
@@ -497,7 +499,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 632 • ❤️ 258 • 4d ago
+⬇️ 632 • ❤️ 260 • 4d ago
 
 ---
 
@@ -525,7 +527,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,819 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,854 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -552,7 +554,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,382 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,415 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -578,7 +580,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,538 • 24d ago
+▲ 27 • 💬 2 • ⭐ 7,571 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -645,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.4k • 🔱 2.9k • 2d ago
+⭐ 18.5k • 🔱 2.9k • 2d ago
 
 ---
 
@@ -655,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.5k • 🔱 608 • 1d ago
+⭐ 5.5k • 🔱 610 • 1d ago
 
 ---
 
@@ -665,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 173 • 2m ago
+⭐ 2.3k • 🔱 173 • 46m ago
 
 ---
 
@@ -675,7 +677,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 332 • 15d ago
+⭐ 1.3k • 🔱 333 • 15d ago
 
 ---
 
@@ -685,7 +687,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 183 • 3h ago
+⭐ 1.1k • 🔱 191 • 5h ago
 
 ---
 
@@ -695,7 +697,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 49 • 4d ago
+⭐ 1.0k • 🔱 50 • 4d ago
 
 ---
 
@@ -715,7 +717,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 877 • 🔱 145 • 1d ago
+⭐ 888 • 🔱 147 • 1d ago
 
 ---
 
@@ -725,7 +727,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 856 • 🔱 83 • 5m ago
+⭐ 869 • 🔱 84 • 1h ago
 
 ---
 
@@ -735,7 +737,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 812 • 🔱 120 • 4d ago
+⭐ 813 • 🔱 120 • 4d ago
 
 ---
 
