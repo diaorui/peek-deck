@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T13:56:32.082097+00:00'
+updated: '2025-12-22T14:27:01.526220+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 13:56 UTC  
+**Last Updated:** December 22, 2025 at 14:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-2h ago
+3h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 Just came across this Medical Robotics Market report from Roots Analysis — major growth ahead for surgical tech! According to the summary, the global medical robotics market is expected to grow from about $10.1B in 2024 to ~$31.3B by 2035, with a ~10.8% CAGR. Surgical robots currently hold the largest share, with strong adoption in orthopedic and minimally invasive procedures, while rehabilitation robots and smart exoskeletons are gaining traction too. North America leads the market, but Asia-Pacific is the fastest-growing region. If you’re into surgical innovation and future tech trends, this forecast is worth a look.
 
-2h ago
+3h ago
 
 ---
 
@@ -108,7 +108,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 Hey everyone! I’m a high school student from India and just starting out with robotics Right now I’m mostly experimenting and learning, so instead of buying everything brand new I thought I’d ask here If anyone in India has robotics/electronics components they’re not using anymore and would be willing to sell them at a reasonable price, I’d really appreciate it Stuff like DC/servo motors/stepper motors Sensors Arduino/ESP boards Motor drivers, power modules etc If you hve upgraded your setup or just have spare parts lying around I’d be happy to put them to good use Im not trying to lowball anyone totally fine with paying fairly Thanks [ Attached Image : Irrelevant ]
 
-38m ago
+1h ago
 
 ---
 
@@ -124,25 +124,33 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
+**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
 
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
+In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Futurism • 2d ago
+Stock Titan • 5h ago
 
 ---
 
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.post-gazette.com/business/tech-news/2025/12/22/agility-robotics-artificial-intelligence-humanoid-digit-robot/stories/202512110094)**
 
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
 
-The Verge • 1d ago
+Pittsburgh Post-Gazette • 5h ago
 
 ---
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
 Bloomberg.com • 3d ago
+
+---
+
+**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
+
+NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
+
+Phoronix • 2h ago
 
 ---
 
@@ -158,15 +166,15 @@ KSBY News • 3d ago
 
 As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
+**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
 
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
+Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
 
-Phoronix • 2h ago
+Sifted • 9h ago
 
 ---
 
@@ -175,12 +183,6 @@ Phoronix • 2h ago
 Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
 KEYC News Now • 2d ago
-
----
-
-**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.newsnationnow.com/business/tech/texas-am-engineering-students-robot-dog/)**
-
-NewsNation • 1d ago
 
 ---
 
@@ -202,17 +204,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 34K • 👍 700 • 💬 76 • ⏱️ 2:08:46 • 2d ago
-
----
-
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
-
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
-
-📺 CNET
-
-👁️ 18K • 👍 426 • 💬 91 • ⏱️ 5:25 • 1d ago
+👁️ 34K • 👍 705 • 💬 76 • ⏱️ 2:08:46 • 2d ago
 
 ---
 
@@ -222,57 +214,27 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 18K • 👍 129 • 💬 4 • ⏱️ 0:19 • 21h ago
+👁️ 28K • 👍 146 • 💬 6 • ⏱️ 0:19 • 21h ago
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
 
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
 
-📺 AZFK
+📺 CNET
 
-👁️ 117K • 👍 6K • 💬 490 • ⏱️ 13:43 • 3d ago
-
----
-
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
-
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
-
-📺 SocksReact
-
-👁️ 441K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
+👁️ 19K • 👍 450 • 💬 102 • ⏱️ 5:25 • 1d ago
 
 ---
 
-**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
 
-MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
 
-📺 Tyler & Snowi
+📺 Ai BOOF
 
-👁️ 685K • 👍 28K • 💬 479 • ⏱️ 21:05 • 14h ago
-
----
-
-**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
-
-This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
-
-📺 NVIDIA Developer
-
-👁️ 2K • 👍 81 • 💬 1 • ⏱️ 55:42 • 1d ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 55K • 👍 677 • 💬 174 • ⏱️ 3:55 • 3d ago
+👁️ 2K • 👍 52 • 💬 6 • ⏱️ 0:11 • 5h ago
 
 ---
 
@@ -286,13 +248,53 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 ---
 
-**[The PRINCEPS Build that actually works in War Robots](https://www.youtube.com/watch?v=ZEPHCSIHFrM)**
+**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
 
-War Robots Titan Gameplay: New PRINCEPS with Void and Chasm #warrobots #warrobotsgameplay #wr My Best-Of-War ...
+MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
 
-📺 Manni-Gaming
+📺 Tyler & Snowi
 
-👁️ 7K • 👍 385 • 💬 66 • ⏱️ 10:24 • 20h ago
+👁️ 779K • 👍 32K • 💬 519 • ⏱️ 21:05 • 14h ago
+
+---
+
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+
+📺 SocksReact
+
+👁️ 450K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 118K • 👍 6K • 💬 498 • ⏱️ 13:43 • 3d ago
+
+---
+
+**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
+
+Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
+
+📺 LimX Dynamics
+
+👁️ 841K • 👍 10K • 💬 588 • ⏱️ 2:43 • 4d ago
+
+---
+
+**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
+
+Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
+
+📺 Aimin
+
+👁️ 903K • 👍 20K • 💬 4K • ⏱️ 14:27 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T13:56:32.078834+00:00'
+updated: '2025-12-22T14:27:01.522973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 13:56 UTC  
+**Last Updated:** December 22, 2025 at 14:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +3.1%  
-**30d:** +9.0%  
-**90d:** -26.3%  
-**1y:** -10.8%  
+**24h:** +2.8%  
+**7d:** +3.2%  
+**30d:** +9.1%  
+**90d:** -26.2%  
+**1y:** -10.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $368.64B
+**Market Cap:** $369.84B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.2%
+-38.1%
 
 **All-Time Low:** $0.43
-+705465.4%
++706590.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-7h ago
+8h ago
 
 ---
 
@@ -94,9 +94,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Tx-dependency trie for parallel block production and validation](https://www.reddit.com/r/ethereum/comments/1ps7nwg/txdependency_trie_for_parallel_block_production/)**
 
-I was recently threatened with a ban for mentioning one thing I think is neglected in scaling, so I assume I will not mention that here. But another important thing, is parallel contract execution. This is probably a topic many people here have expertise on since upwards 10 years, and thus something where those with expertise can share, or when there is unsolved problems, there can be discussion. Ethereum in 2014 ordered all transactions in a block sequentially in the transaction-trie (sequence number as key in trie). It seems an upgrade from that to parallel execution could be the "transaction dependency trie". Where the keys are the number of dependencies (from 0 and upwards), and then each key stores a nested trie with the transactions. Block validators can them simply run transactions in order of dependencies. This trie can be constructed based on read/writes of storage slots. It also seems meaningful with the old flat storage trie idea, which I assume was always about parallelization. It could have "storage objects" that each contain a trie where the keys are storage slots, and storage slots can contain pointers to storage objects. Thus you can have mappings and arrays and such that can be operated on in parallel by shards (I will avoid mentioning my other idea on how such sharding should be organized, as I am threatened with a ban if I do, although it would be easier if moderation here could moderate itself to behave more in line with normal civil discourse). Such is quite easily shardable it seems, arbitrarily (and how arbitrary sharding is allowed, is in that idea I am not allowed to mention by the moderator Edmund with support from Ligi who has publicly threatened a ban if I do). The key is shards can easily collaborate on assembling the Merkle roots for such tries, and mange ranges of keys (based on most significant bits), this has always been a known property of Patricia Merkle Tries. Why is parallelization important to me? Well I invented "video pseudonym parties" between 2015 and 2018 (Gavin Wood who alone built first version of Ethereum is currently approaching same idea and he calls it "proof-of-video-interaction") and it requires hundreds of thousands of transactions per second for 10 billion citizens. The whitepaper is public and published since 2018, it has been cited by MIT researched Bryan Ford in numerous publications, was in Frontiers and Bloomberg, and has been well known by "the community" (but it was originally invented together with a controversial organization). Note, inter-shard "mutexes" (which will be in contract code most likely) is part of such coordination too, but again, me being forbidden from mentioning the elephant in the room on sharding does make it harder to have a technical discussion, and it would be good if the moderation here could overrule that moderator's threat. I do not see how it is productive to forbid mentioning the elephant in the room on sharding, it ought to make it impossible to move past that bottleneck. Edit: The dependency trie probably needs storage slots nested under each transaction, and for multiple accesses sequential list, and then the transaction hash dependencies for each. The block validator has to run every transaction in parallel, but the dependency trie acts as implicit "mutex" for each point of contention, with no deadlocks as the block producer could run it. It is a bit complicated, but it seems it should work. The "number of dependencies" part in the trie can be skipped, it is meaningless. But it would be easier if I was not threatened with ban if I mention the elephant in the room in scaling, as it is important here in how the sharding is ideally organized (or, the only way it works in this current paradigm).
+Edit: Probably better to do dependency per transaction rather than storage slot, like Polygon is doing as NaturalCarob5611 pointed out. It avoids conflicts in ETH transfer dependency too. Transactions do storage slot I/O by 2-phase commit, try and run and whenever they request access to slot they take a form of "mutex". Shards keep track of what txID is waiting and which has mutex, and they sync this so all shards with mutex or in queue know it. If a deadlock happens, the shard processing the transaction then knows this directly, and then some rule to choose winner (the one to cause deadlock aborts or by txID). I am still not allowed to mention the elephant in the room in sharding as an Edmund with support of a Ligi threatens a ban if I do, but Polygon seems to be sharding correctly as well, that is, "internal" to the validator, which respects that the validator attestation is actually trust-based and any approach that does not respect that and assumes trustless will fail. But Polygon does not have a flat storage trie, and it seems certain types of "algorithms" that run well in a parallelized way might favor those, my dApp needs to register 10 billion people in 2 weeks (each "period" of 4 weeks) and "delayed ordering" array could allow that in parallel way + shuffling randomly, whereas current array has a bottleneck for writing to the length slot and that cannot be done in parallel, so I think the storage model has to be innovated for true parallel Ethereum. I was recently threatened with a ban for mentioning one thing I think is neglected in scaling, so I assume I will not mention that here. But another important thing, is parallel contract execution. This is probably a topic many people here have expertise on since upwards 10 years, and thus something where those with expertise can share, or when there is unsolved problems, there can be discussion. Ethereum in 2014 ordered all transactions in a block sequentially in the transaction-trie (sequence number as key in trie). It seems an upgrade from that to parallel execution could be the "transaction dependency trie". Where the keys are the number of dependencies (from 0 and upwards), and then each key stores a nested trie with the transactions. Block validators can them simply run transactions in order of dependencies. This trie can be constructed based on read/writes of storage slots. It also seems meaningful with the old flat storage trie idea, which I assume was always about parallelization. It could have "storage objects" that each contain a trie where the keys are storage slots, and storage slots can contain pointers to storage objects. Thus you can have mappings and arrays and such that can be operated on in parallel by shards (I will avoid mentioning my other idea on how such sharding should be organized, as I am threatened with a ban if I do, although it would be easier if moderation here could moderate itself to behave more in line with normal civil discourse). Such is quite easily shardable it seems, arbitrarily (and how arbitrary sharding is allowed, is in that idea I am not allowed to mention by the moderator Edmund with support from Ligi who has publicly threatened a ban if I do). The key is shards can easily collaborate on assembling the Merkle roots for such tries, and mange ranges of keys (based on most significant bits), this has always been a known property of Patricia Merkle Tries. Why is parallelization important to me? Well I invented "video pseudonym parties" between 2015 and 2018 (Gavin Wood who alone built first version of Ethereum is currently approaching same idea and he calls it "proof-of-video-interaction") and it requires hundreds of thousands of transactions per second for 10 billion citizens. The whitepaper is public and published since 2018, it has been cited by MIT researched Bryan Ford in numerous publications, was in Frontiers and Bloomberg, and has been well known by "the community" (but it was originally invented together with a controversial organization). Note, inter-shard "mutexes" (which will be in contract code most likely) is part of such coordination too, but again, me being forbidden from mentioning the elephant in the room on sharding does make it harder to have a technical discussion, and it would be good if the moderation here could overrule that moderator's threat. I do not see how it is productive to forbid mentioning the elephant in the room on sharding, it ought to make it impossible to move past that bottleneck. Edit: The dependency trie probably needs storage slots nested under each transaction, and for multiple accesses sequential list, and then the transaction hash dependencies for each. The block validator has to run every transaction in parallel, but the dependency trie acts as implicit "mutex" for each point of contention, with no deadlocks as the block producer could run it. It is a bit complicated, but it seems it should work. The "number of dependencies" part in the trie can be skipped, it is meaningless. But it would be easier if I was not threatened with ban if I mention the elephant in the room in scaling, as it is important here in how the sharding is ideally organized (or, the only way it works in this current paradigm).
 
-23h ago
+1d ago
 
 ---
 
@@ -158,19 +158,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
 
-Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-CryptoSlate • 2d ago
-
----
-
-**[Ethereum Hit Harder Than Bitcoin as $952 Million Exits Crypto Funds—Here’s Why](https://finance.yahoo.com/news/ethereum-hit-harder-bitcoin-952-110702690.html)**
-
-US Clarity Act delays cause $952 million in crypto outflows, with regulatory fears hitting Ethereum hardest.
-
-Yahoo Finance • 2h ago
+FXStreet • 10h ago
 
 ---
 
@@ -182,7 +174,15 @@ The Motley Fool • 3h ago
 
 ---
 
-**[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcocrerkLhc8Cb21asj3YuEpunbGFkafsnE5vpJn9WW0aoZYsRKqn6X&gaa_ts=69494def&gaa_sig=ISpmJVJXSV4lyfYKjXZBp2ryvBvhCXdpZJ1YzzDgXSCwZe3F-X5mtf5Ej6q8S1G0M6x7T4hJba7Wz6AqyurOXQ%3D%3D)**
+**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
+
+As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcm8FO5jgXhAfItWaWkdQnPL5_WT9e-v5Ca_21BHerkYKtrRBQyzw0z&gaa_ts=694958a1&gaa_sig=DCb7nLkccHt6mBM6AItdqozQ9ik8uGxNTyKipnE5OacO57x9FXM15k5Z-y5ap2dYyVewoAT_n9bGcCVhrpZnXg%3D%3D)**
 
 Barron's • 2h ago
 
@@ -196,27 +196,19 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Ethereum whales move in! $644 mln ETH ETF outflows drain the market](https://ambcrypto.com/ethereum-whales-move-in-644-mln-eth-etf-outflows-drain-the-market/)**
-
-Large holders are buying like never before while ETF numbers collapse.
-
-AMBCrypto • 5h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
-
-FXStreet • 9h ago
-
----
-
 **[ETHE: What You Need To Know About This Ethereum ETF](https://seekingalpha.com/article/4854984-ethe-what-you-need-to-know-about-this-ethereum-etf)**
 
 ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
 
-Seeking Alpha • 26m ago
+Seeking Alpha • 57m ago
+
+---
+
+**[Ethereum whales move in! $644 mln ETH ETF outflows drain the market](https://ambcrypto.com/ethereum-whales-move-in-644-mln-eth-etf-outflows-drain-the-market/)**
+
+Large holders are buying like never before while ETF numbers collapse.
+
+AMBCrypto • 6h ago
 
 ---
 
@@ -225,6 +217,12 @@ Seeking Alpha • 26m ago
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
 ZyCrypto • 1d ago
+
+---
+
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 3d ago
 
 ---
 
@@ -238,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 634 • 💬 63 • ⏱️ 15:49 • 22h ago
+👁️ 18K • 👍 667 • 💬 68 • ⏱️ 15:49 • 23h ago
 
 ---
 
@@ -248,37 +246,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 12K • 👍 664 • 💬 450 • ⏱️ 11:34 • 1d ago
-
----
-
-**[XRP BITCOIN ETHEREUM ‼️ KNOW THIS BEFORE TOMORROW!](https://www.youtube.com/watch?v=bBU6oHVTtXQ)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 12K • 👍 846 • 💬 18 • ⏱️ 11:18 • 16h ago
-
----
-
-**[CRITICAL ETHEREUM UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Iyi5qnSnU2Q)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 108 • 👍 13 • 💬 2 • ⏱️ 4:38 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=baVZ1J_gs5w)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 161 • 💬 9 • ⏱️ 6:15 • 9h ago
+👁️ 13K • 👍 671 • 💬 450 • ⏱️ 11:34 • 1d ago
 
 ---
 
@@ -288,7 +256,47 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 521 • 👍 39 • 💬 10 • ⏱️ 9:36 • 15h ago
+👁️ 558 • 👍 39 • 💬 15 • ⏱️ 9:36 • 16h ago
+
+---
+
+**[A Digital Asset Treasury that is Diversified! Bitcoin, Ethereum, Solana, and XRP | Jamie Leverton](https://www.youtube.com/watch?v=XXpiEfypm4s)**
+
+Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a unique approach to their digital asset treasury ...
+
+📺 Thinking Crypto
+
+👁️ 310 • 👍 51 • 💬 23 • ⏱️ 31:48 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HXb6p0wUQt0)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 510 • 👍 73 • 💬 1 • ⏱️ 4:52 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=baVZ1J_gs5w)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 174 • 💬 9 • ⏱️ 6:15 • 10h ago
+
+---
+
+**[XRP BITCOIN ETHEREUM ‼️ KNOW THIS BEFORE TOMORROW!](https://www.youtube.com/watch?v=bBU6oHVTtXQ)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 12K • 👍 877 • 💬 18 • ⏱️ 11:18 • 16h ago
 
 ---
 
@@ -298,7 +306,17 @@ BMNR Stock Collapsed 80% — Was Tom Lee Wrong or Is This a Setup? | ETH Treasur
 
 📺 Darren Steves
 
-👁️ 2K • 👍 112 • 💬 22 • ⏱️ 11:28 • 19h ago
+👁️ 2K • 👍 127 • 💬 26 • ⏱️ 11:28 • 20h ago
+
+---
+
+**[CRITICAL ETHEREUM UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Iyi5qnSnU2Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 204 • 👍 12 • 💬 3 • ⏱️ 4:38 • 4h ago
 
 ---
 
@@ -308,27 +326,7 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 3K • 👍 222 • 💬 116 • ⏱️ 11:26 • 1d ago
-
----
-
-**[Wall Street&#39;s Biggest Bitcoin Bull Is lying to You](https://www.youtube.com/watch?v=iJIcoKxtrGY)**
-
-Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethereum bet so big it can't be ignored. While he's publicly ...
-
-📺 Ryan’s Money Lab
-
-👁️ 7K • 👍 307 • 💬 42 • ⏱️ 8:06 • 22h ago
-
----
-
-**[Bitcoin &amp; Ethereum. Wir dürfen weiter verhalten optimistisch sein!!](https://www.youtube.com/watch?v=KB3rgh9gIqU)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 637 • 💬 145 • ⏱️ 11:01 • 8h ago
+👁️ 3K • 👍 225 • 💬 116 • ⏱️ 11:26 • 2d ago
 
 ---
 
