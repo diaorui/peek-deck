@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T13:41:29.454609+00:00'
+updated: '2025-12-22T13:56:32.072802+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 13:41 UTC  
+**Last Updated:** December 22, 2025 at 13:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
-**7d:** +2.8%  
-**30d:** +3.6%  
-**90d:** -20.4%  
-**1y:** -5.0%  
+**24h:** +2.4%  
+**7d:** +2.7%  
+**30d:** +3.4%  
+**90d:** -20.5%  
+**1y:** -5.2%  
 
 ---
 
@@ -95,7 +95,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 **[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,19 +115,19 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-16h ago
+17h ago
 
 ---
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-15h ago
+16h ago
 
 ---
 
@@ -153,7 +153,7 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
 
-CoinDesk • 13m ago
+CoinDesk • 28m ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 2h ago
 
 A time-honored Wall Street pattern could bring relief to battered BTC bulls as the year end nears.
 
-CoinDesk • 20m ago
+CoinDesk • 35m ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 14h ago
 
 **[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqfxdGmgv81qG1vDJPgmlQbUNQB8cAMKRdOBc5Hn5UhT6-PT5HEXmL_M&gaa_ts=69494ded&gaa_sig=L8YScu_86BEgmHBvLRkhjlMaOhsUBKsFJOPTV20u81CXdrA9QY05aPg0tHQcJiHx18aD_87dlQDVGhNpxu0yWg%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 

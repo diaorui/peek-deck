@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T13:41:29.446135+00:00'
+updated: '2025-12-22T13:56:32.064271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - news
 - videos
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 13:41 UTC  
+**Last Updated:** December 22, 2025 at 13:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -105,7 +105,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 48m ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 1h ago
 
 ---
 
@@ -133,7 +133,7 @@ Yahoo • 8h ago
 
 "I don't think they come to us looking for AI other than, 'please, for God's sake tell us what it means for us.'"
 
-Fortune • 36m ago
+Fortune • 51m ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 36m ago
 
 Yoshua Bengio, known as one of the "AI godfathers," said that while more jobs will be automated by AI, human qualities like love will always be valuable.
 
-Business Insider • 37m ago
+Business Insider • 52m ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 37m ago
 
 As artificial intelligence rapidly transforms the workplace, it is also reshaping how people learn, develop expertise, and form their professional identities. Although gen AI promises to accelerate learning and boost productivity, it risks undermining the very experiences that foster mastery, deep thinking, empathy, and personal agency. The challenge for leaders is to ensure that amid this transformation, organizations deliberately preserve the human experiences—struggle, choice, and interpersonal connection—that are vital for true development and flourishing.
 
-Harvard Business Review • 22m ago
+Harvard Business Review • 37m ago
 
 ---
 
@@ -586,7 +586,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 207 • 💬 5 • ⭐ 7,612 • 24d ago
+▲ 207 • 💬 5 • ⭐ 7,612 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 626 • 52m ago
+⭐ 5.7k • 🔱 626 • 1h ago
 
 ---
 
@@ -692,7 +692,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 236 • 59m ago
+⭐ 1.5k • 🔱 236 • 1h ago
 
 ---
 
@@ -712,7 +712,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 970 • 🔱 163 • 50m ago
+⭐ 970 • 🔱 163 • 1h ago
 
 ---
 
@@ -732,7 +732,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 894 • 🔱 89 • 2h ago
+⭐ 894 • 🔱 89 • 3h ago
 
 ---
 

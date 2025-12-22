@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T13:41:29.463812+00:00'
+updated: '2025-12-22T13:56:32.082097+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 13:41 UTC  
+**Last Updated:** December 22, 2025 at 13:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-2h ago
+3h ago
 
 ---
 
@@ -76,7 +76,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-22h ago
+23h ago
 
 ---
 
@@ -108,7 +108,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 Hey everyone! I’m a high school student from India and just starting out with robotics Right now I’m mostly experimenting and learning, so instead of buying everything brand new I thought I’d ask here If anyone in India has robotics/electronics components they’re not using anymore and would be willing to sell them at a reasonable price, I’d really appreciate it Stuff like DC/servo motors/stepper motors Sensors Arduino/ESP boards Motor drivers, power modules etc If you hve upgraded your setup or just have spare parts lying around I’d be happy to put them to good use Im not trying to lowball anyone totally fine with paying fairly Thanks [ Attached Image : Irrelevant ]
 
-22m ago
+38m ago
 
 ---
 
@@ -166,7 +166,7 @@ Business Insider • 14h ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 1h ago
+Phoronix • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 18K • 👍 129 • 💬 4 • ⏱️ 0:19 • 20h ago
+👁️ 18K • 👍 129 • 💬 4 • ⏱️ 0:19 • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 685K • 👍 28K • 💬 479 • ⏱️ 21:05 • 13h ago
+👁️ 685K • 👍 28K • 💬 479 • ⏱️ 21:05 • 14h ago
 
 ---
 

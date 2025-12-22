@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T13:41:29.460549+00:00'
+updated: '2025-12-22T13:56:32.078834+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 13:41 UTC  
+**Last Updated:** December 22, 2025 at 13:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +2.9%  
-**7d:** +3.0%  
-**30d:** +8.9%  
+**7d:** +3.1%  
+**30d:** +9.0%  
 **90d:** -26.3%  
-**1y:** -10.9%  
+**1y:** -10.8%  
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 2h ago
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
 **[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcocrerkLhc8Cb21asj3YuEpunbGFkafsnE5vpJn9WW0aoZYsRKqn6X&gaa_ts=69494def&gaa_sig=ISpmJVJXSV4lyfYKjXZBp2ryvBvhCXdpZJ1YzzDgXSCwZe3F-X5mtf5Ej6q8S1G0M6x7T4hJba7Wz6AqyurOXQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -216,7 +216,7 @@ FXStreet • 9h ago
 
 ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
 
-Seeking Alpha • 11m ago
+Seeking Alpha • 26m ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 Stock Moe
 
-👁️ 12K • 👍 846 • 💬 18 • ⏱️ 11:18 • 15h ago
+👁️ 12K • 👍 846 • 💬 18 • ⏱️ 11:18 • 16h ago
 
 ---
 
