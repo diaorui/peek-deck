@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T06:54:08.140968+00:00'
+updated: '2025-12-22T07:22:25.466698+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 06:54 UTC  
+**Last Updated:** December 22, 2025 at 07:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
 
-6h ago
+7h ago
 
 ---
 
@@ -92,7 +92,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-11h ago
+12h ago
 
 ---
 
@@ -150,7 +150,7 @@ Futurism • 2d ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 17h ago
+The Verge • 18h ago
 
 ---
 
@@ -166,7 +166,7 @@ TechNode • 1d ago
 
 Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-CNET • 17h ago
+CNET • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 809K • 👍 14K • 💬 273 • ⏱️ 0:29 • 7h ago
+👁️ 809K • 👍 14K • 💬 273 • ⏱️ 0:29 • 8h ago
 
 ---
 
@@ -232,7 +232,7 @@ Chinese robotics leader Unitree is capping off a blockbuster year the same way i
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 29 • 💬 5 • ⏱️ 7:34 • 22h ago
+👁️ 2K • 👍 29 • 💬 5 • ⏱️ 7:34 • 23h ago
 
 ---
 

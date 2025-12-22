@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T06:54:08.131730+00:00'
+updated: '2025-12-22T07:22:25.457429+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 06:54 UTC  
+**Last Updated:** December 22, 2025 at 07:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,761.26
+### $89,048.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +1.6%  
-**30d:** +2.3%  
-**90d:** -21.4%  
-**1y:** -6.2%  
+**24h:** +0.3%  
+**7d:** +1.4%  
+**30d:** +2.2%  
+**90d:** -21.5%  
+**1y:** -6.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -123,13 +123,13 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
 
-3h ago
+4h ago
 
 ---
 
 **[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[The benefit of dca](https://www.reddit.com/r/Bitcoin/comments/1psnkwr/the_benefit_of_dca/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -269,13 +269,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 19h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 20h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 20h ago
+⬆️ 1 • 💬 0 • 21h ago
 
 ---
 
@@ -289,7 +289,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 14h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 15h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 826 • 💬 248 • ⏱️ 55:13 • 16h ago
+👁️ 17K • 👍 826 • 💬 248 • ⏱️ 55:13 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 70 • ⏱️ 16:18 • 8h ago
+👁️ 17K • 👍 1K • 💬 70 • ⏱️ 16:18 • 9h ago
 
 ---
 
@@ -343,7 +343,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 ITS Academy 
 
-👁️ 5K • 👍 1K • 4h ago
+👁️ 5K • 👍 1K • 5h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T06:54:08.137736+00:00'
+updated: '2025-12-22T07:22:25.463422+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 06:54 UTC  
+**Last Updated:** December 22, 2025 at 07:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +2.2%  
-**30d:** +8.0%  
-**90d:** -26.9%  
-**1y:** -11.6%  
+**24h:** +1.1%  
+**7d:** +2.3%  
+**30d:** +8.1%  
+**90d:** -26.8%  
+**1y:** -11.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-52m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-31m ago
+59m ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView — Track All Markets • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 2h ago
+FXStreet • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 570 • 💬 63 • ⏱️ 15:49 • 15h ago
+👁️ 14K • 👍 570 • 💬 63 • ⏱️ 15:49 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 11K • 👍 640 • 💬 429 • ⏱️ 11:34 • 17h ago
+👁️ 11K • 👍 640 • 💬 429 • ⏱️ 11:34 • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 369 • 👍 33 • 💬 6 • ⏱️ 9:36 • 8h ago
+👁️ 369 • 👍 33 • 💬 6 • ⏱️ 9:36 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 358 • 👍 49 • 💬 4 • ⏱️ 6:15 • 2h ago
+👁️ 358 • 👍 49 • 💬 4 • ⏱️ 6:15 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum is currently showing one of the biggest divergences in crypto history. 
 
 📺 CryptoStock Lab
 
-👁️ 551 • 👍 31 • 💬 4 • ⏱️ 9:42 • 10h ago
+👁️ 551 • 👍 31 • 💬 4 • ⏱️ 9:42 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 9 • ⏱️ 4:12 • 15h ago
+👁️ 2K • 👍 132 • 💬 9 • ⏱️ 4:12 • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 399 • 👍 19 • 💬 1 • ⏱️ 5:02 • 20h ago
+👁️ 399 • 👍 19 • 💬 1 • ⏱️ 5:02 • 21h ago
 
 ---
 
