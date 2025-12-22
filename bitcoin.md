@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T15:31:22.202391+00:00'
+updated: '2025-12-22T15:48:30.814410+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 15:31 UTC  
+**Last Updated:** December 22, 2025 at 15:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,493.21
+### $89,547.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
+**24h:** +1.2%  
 **7d:** +2.1%  
-**30d:** +2.9%  
+**30d:** +2.8%  
 **90d:** -21.0%  
 **1y:** -5.7%  
 
@@ -107,13 +107,13 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-2h ago
+3h ago
 
 ---
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -155,13 +155,13 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
 **[Bitcoin price today: rises to $89k amid Fed cut bets, but remains rangebound](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-fed-cut-bets-but-remains-rangebound-4418479)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 4h ago
 
 Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -263,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 2 • 💬 1 • 22m ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 2 • 💬 1 • 39m ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -315,7 +315,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 950 • 💬 384 • ⏱️ 17:34 • 14h ago
+👁️ 14K • 👍 950 • 💬 384 • ⏱️ 17:34 • 15h ago
 
 ---
 

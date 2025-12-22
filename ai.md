@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T15:31:22.194013+00:00'
+updated: '2025-12-22T15:48:30.805396+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 15:31 UTC  
+**Last Updated:** December 22, 2025 at 15:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 So wouldn't an AGI be able to mimic human intelligence if it learned accurately enough which brain regions show what activity in different settings?
 
-12m ago
+29m ago
 
 ---
 
@@ -141,13 +141,13 @@ CNN • 1d ago
 
 Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-CBS News • 34m ago
+CBS News • 51m ago
 
 ---
 
 **[Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why AI Is Key.](https://www.barrons.com/articles/microsoft-stock-upside-2026-ai-eb44db82?gaa_at=eafs&gaa_n=AWEtsqepB1vtUn4-g7MFhAmgwUU7-rY0jNuBpi-dw_ih6EZznnuuvCHE4e4-&gaa_ts=694967b4&gaa_sig=rB208bgm3WP1F_MkoqMA1LLYz5WnvLLyQ7U9yvBEYRtgvrW50Y5AwPPcd0tlIlna6gQwKV7ECGSzHKnZwWZGoQ%3D%3D)**
 
-Barron's • 58m ago
+Barron's • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Atlantic • 2h ago
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-BBC • 39m ago
+BBC • 56m ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 629 • 3m ago
+⭐ 5.7k • 🔱 629 • 20m ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 178 • 5m ago
+⭐ 2.4k • 🔱 178 • 22m ago
 
 ---
 
@@ -732,7 +732,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 903 • 🔱 89 • 4h ago
+⭐ 903 • 🔱 89 • 5h ago
 
 ---
 
@@ -742,7 +742,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 846 • 🔱 80 • 2h ago
+⭐ 846 • 🔱 80 • 3h ago
 
 ---
 

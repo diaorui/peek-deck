@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T15:31:22.211793+00:00'
+updated: '2025-12-22T15:48:30.824232+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 15:31 UTC  
+**Last Updated:** December 22, 2025 at 15:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/200283181182376363
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-12h ago
+13h ago
 
 ---
 
@@ -76,7 +76,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-53m ago
+1h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hey everyone! I’m a high school student from India and just starting out with 
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 14h ago
 
 ---
 
@@ -174,7 +174,7 @@ Sifted • 10h ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 3h ago
+Phoronix • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 2K • 👍 52 • 💬 6 • ⏱️ 0:11 • 6h ago
+👁️ 2K • 👍 52 • 💬 6 • ⏱️ 0:11 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 779K • 👍 32K • 💬 519 • ⏱️ 21:05 • 15h ago
+👁️ 779K • 👍 32K • 💬 519 • ⏱️ 21:05 • 16h ago
 
 ---
 
