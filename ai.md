@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T21:20:09.921454+00:00'
+updated: '2025-12-22T21:36:30.510321+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 21:20 UTC  
+**Last Updated:** December 22, 2025 at 21:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ Game called "Humanize Robotics". I’m building a community of people like me - 
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 6h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 7h ago
 
 ---
 
@@ -113,7 +113,7 @@ How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 15h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 16h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fortune • 1h ago
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 6h ago
 
 Instacart will end a program that set different prices for the same items sold at the same store after a report on the experiments triggered criticism.
 
-Los Angeles Times • 50m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 11h ago
 
 **[AI is changing childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -241,7 +241,7 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 146 • 💬 212 • 4h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 146 • 💬 212 • 5h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -358,7 +358,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 199 • 💬 15 • ⏱️ 13:03 • 23h ago
+👁️ 4K • 👍 199 • 💬 15 • ⏱️ 13:03 • 1d ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 180 • 2h ago
+⭐ 2.4k • 🔱 180 • 3h ago
 
 ---
 
@@ -679,7 +679,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 283 • 45m ago
+⭐ 1.9k • 🔱 283 • 1h ago
 
 ---
 

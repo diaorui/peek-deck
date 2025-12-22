@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T21:20:09.939000+00:00'
+updated: '2025-12-22T21:36:30.526132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 21:20 UTC  
+**Last Updated:** December 22, 2025 at 21:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/2002831811823763639
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-18h ago
+19h ago
 
 ---
 
@@ -134,7 +134,7 @@ TechNode • 2d ago
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 12h ago
+Stock Titan • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T21:20:09.929788+00:00'
+updated: '2025-12-22T21:36:30.517970+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 21:20 UTC  
+**Last Updated:** December 22, 2025 at 21:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.7%  
-**30d:** +1.4%  
-**90d:** -22.1%  
-**1y:** -7.0%  
+**24h:** +0.0%  
+**7d:** +1.0%  
+**30d:** +1.8%  
+**90d:** -21.8%  
+**1y:** -6.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 bitvoin
 
-8h ago
+9h ago
 
 ---
 
@@ -113,13 +113,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 5h ago
 
 Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Verge • 1h ago
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -213,7 +213,7 @@ Nasdaq • 1d ago
 
 **[Billionaire hedge fund legend says central banks won’t hold Bitcoin](https://www.thestreet.com/crypto/trading/billionaire-hedge-fund-central-banks-wont-hold-bitcoin)**
 
-thestreet.com • 6h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 142 • ⏱️ 15:15 • 19h ago
+👁️ 24K • 👍 2K • 💬 142 • ⏱️ 15:15 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 297 • 💬 30 • ⏱️ 1:11:22 • 1h ago
+👁️ 4K • 👍 297 • 💬 30 • ⏱️ 1:11:22 • 2h ago
 
 ---
 
