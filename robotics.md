@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T23:27:29.678125+00:00'
+updated: '2025-12-22T23:43:28.620640+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 23:27 UTC  
+**Last Updated:** December 22, 2025 at 23:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Hey guys, how much time do you usually spend on your feet in a given work day? I
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-20h ago
+21h ago
 
 ---
 
@@ -92,7 +92,7 @@ Making some good progress on the automatic tool-changing mechanism for my SCARA 
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Try it live at https://rerun.io/viewer.
 Python: pip install rerun-sdk
 Rust: cargo add rerun and cargo i...
 
-🔗 [GitHub](https://github.com/rerun-io/rerun/releases/tag/0.28.0) • 7m ago
+🔗 [GitHub](https://github.com/rerun-io/rerun/releases/tag/0.28.0) • 23m ago
 
 ---
 
@@ -132,7 +132,7 @@ Interesting Engineering • 2d ago
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 14h ago
+Stock Titan • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Information • 5h ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 11h ago
+Phoronix • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ Phoronix • 11h ago
 
 As peak holiday demand stretches supply chains to their limits, global retailers like Amazon, Walmart and Target are leaning heavily on artificial
 
-PYMNTS.com • 18m ago
+PYMNTS.com • 34m ago
 
 ---
 
@@ -268,7 +268,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 10K • 👍 160 • 💬 6 • ⏱️ 0:11 • 14h ago
+👁️ 10K • 👍 160 • 💬 6 • ⏱️ 0:11 • 15h ago
 
 ---
 

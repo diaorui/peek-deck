@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T23:27:29.668796+00:00'
+updated: '2025-12-22T23:43:28.611246+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 23:27 UTC  
+**Last Updated:** December 22, 2025 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +1.2%  
-**30d:** +2.0%  
-**90d:** -21.6%  
-**1y:** -6.5%  
+**24h:** -0.1%  
+**7d:** +1.1%  
+**30d:** +1.9%  
+**90d:** -21.7%  
+**1y:** -6.6%  
 
 ---
 
@@ -107,7 +107,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 2h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 33m ago
+WCVB • 49m ago
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 191 • ⏱️ 15:15 • 21h ago
+👁️ 25K • 👍 2K • 💬 191 • ⏱️ 15:15 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 374 • 💬 66 • ⏱️ 1:11:22 • 3h ago
+👁️ 6K • 👍 374 • 💬 66 • ⏱️ 1:11:22 • 4h ago
 
 ---
 
