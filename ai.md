@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T10:57:03.152889+00:00'
+updated: '2025-12-22T11:23:46.124726+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 10:57 UTC  
+**Last Updated:** December 22, 2025 at 11:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 21h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 22h ago
 
 ---
 
@@ -81,7 +81,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 18h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 19h ago
 
 ---
 
@@ -105,7 +105,7 @@ With the upgraded AI Vision, Samsung becomes more fluent in food recognition and
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 2h ago
 
 **[AI is reshaping childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
 
-Axios • 24m ago
+Axios • 51m ago
 
 ---
 
@@ -159,7 +159,7 @@ Axios • 24m ago
 
 I'm starting to worry that I'm not worried enough about the AI bubble.
 
-Gizmodo • 56m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNBC • 2d ago
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 227 • 💬 137 • 17h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 227 • 💬 137 • 18h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -253,7 +253,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 122 • 💬 60 • 17h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 122 • 💬 60 • 18h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -287,7 +287,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 76K • 👍 3K • 💬 150 • ⏱️ 13:25 • 16h ago
+👁️ 76K • 👍 3K • 💬 150 • ⏱️ 13:25 • 17h ago
 
 ---
 
@@ -297,7 +297,7 @@ Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 37K • 👍 710 • 💬 21 • ⏱️ 0:56 • 11h ago
+👁️ 37K • 👍 710 • 💬 21 • ⏱️ 0:56 • 12h ago
 
 ---
 
@@ -555,7 +555,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 135 • 💬 6 • ⭐ 18,841 • 3mo ago
+▲ 136 • 💬 6 • ⭐ 18,841 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -620,7 +620,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 30 • 💬 2 • ⭐ 12,927 • 13d ago
+▲ 30 • 💬 2 • ⭐ 12,927 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -633,7 +633,7 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 65,888 • 27mo ago
+▲ 26 • 💬 1 • ⭐ 65,930 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.6k • 🔱 2.9k • 5h ago
+⭐ 18.7k • 🔱 2.9k • 6h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 622 • 1h ago
+⭐ 5.7k • 🔱 624 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 177 • 4h ago
+⭐ 2.4k • 🔱 177 • 49m ago
 
 ---
 
@@ -679,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.4k • 🔱 347 • 16d ago
+⭐ 1.5k • 🔱 348 • 16d ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 224 • 1h ago
+⭐ 1.4k • 🔱 227 • 3m ago
 
 ---
 
@@ -709,7 +709,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 955 • 🔱 161 • 1d ago
+⭐ 964 • 🔱 162 • 1d ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 892 • 🔱 89 • 3h ago
+⭐ 892 • 🔱 89 • 38m ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T10:57:03.161604+00:00'
+updated: '2025-12-22T11:23:46.133248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 10:57 UTC  
+**Last Updated:** December 22, 2025 at 11:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
+**24h:** +1.3%  
 **7d:** +2.3%  
-**30d:** +3.0%  
-**90d:** -20.9%  
-**1y:** -5.6%  
+**30d:** +3.1%  
+**90d:** -20.8%  
+**1y:** -5.5%  
 
 ---
 
@@ -93,7 +93,7 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -129,13 +129,13 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 Bitcoin price stays range-bound as exchange outflows jump 59%, signaling rising spot demand Whales are adding slowly, but faster exchange outflows suggest retail buyers are stepping in. Bitcoin price must reclaim $89,250 or risk another rejection toward $87,590 support
 
-2h ago
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 5h ago
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 11h ago
 
 The November sale of Peak Mining, the Bitcoin mining subsidiary of Northern Data, has raised concerns. The sale was made to three companies, two of ...
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 55m ago
 
 Margin long positions continue to climb, signaling strong conviction despite bitcoin’s weakness.
 
-CoinDesk • 49m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 49m ago
 
 The expiration involves over 50% of Deribit's total open interest, with a bullish bias indicated by a put-call ratio of 0.38.
 
-CoinDesk • 40m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -271,7 +271,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 23h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 1d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -295,7 +295,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 96 • ⏱️ 16:18 • 12h ago
+👁️ 25K • 👍 1K • 💬 96 • ⏱️ 16:18 • 13h ago
 
 ---
 
@@ -305,7 +305,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 7K • 👍 497 • 💬 21 • ⏱️ 7:16 • 12h ago
+👁️ 7K • 👍 497 • 💬 21 • ⏱️ 7:16 • 13h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 870 • 💬 250 • ⏱️ 55:13 • 20h ago
+👁️ 19K • 👍 870 • 💬 250 • ⏱️ 55:13 • 21h ago
 
 ---
 

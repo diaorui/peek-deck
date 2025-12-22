@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T10:57:03.171343+00:00'
+updated: '2025-12-22T11:23:46.142405+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 10:57 UTC  
+**Last Updated:** December 22, 2025 at 11:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-5m ago
+31m ago
 
 ---
 
@@ -92,7 +92,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
 
-10h ago
+11h ago
 
 ---
 
@@ -108,7 +108,7 @@ Recently I have started working on developing a mini-Vision-Language-Action mode
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-7h ago
+8h ago
 
 ---
 
@@ -118,7 +118,7 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -126,7 +126,7 @@ Bloomberg.com • 2d ago
 
 Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-CNET • 21h ago
+CNET • 22h ago
 
 ---
 
@@ -134,7 +134,7 @@ CNET • 21h ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 21h ago
+The Verge • 22h ago
 
 ---
 
@@ -150,7 +150,7 @@ Interesting Engineering • 1d ago
 
 Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
 
-Pittsburgh Post-Gazette • 1h ago
+Pittsburgh Post-Gazette • 2h ago
 
 ---
 
@@ -214,7 +214,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 17K • 👍 418 • 💬 87 • ⏱️ 5:25 • 21h ago
+👁️ 17K • 👍 418 • 💬 87 • ⏱️ 5:25 • 22h ago
 
 ---
 
@@ -294,7 +294,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 1.1M • 👍 17K • 💬 341 • ⏱️ 0:29 • 11h ago
+👁️ 1.1M • 👍 17K • 💬 341 • ⏱️ 0:29 • 12h ago
 
 ---
 
