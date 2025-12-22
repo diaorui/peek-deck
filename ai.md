@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T15:48:30.805396+00:00'
+updated: '2025-12-22T15:59:21.869026+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 15:48 UTC  
+**Last Updated:** December 22, 2025 at 15:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 So wouldn't an AGI be able to mimic human intelligence if it learned accurately enough which brain regions show what activity in different settings?
 
-29m ago
+40m ago
 
 ---
 
@@ -141,7 +141,7 @@ CNN • 1d ago
 
 Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-CBS News • 51m ago
+CBS News • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Atlantic • 2h ago
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-BBC • 56m ago
+BBC • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 243 • 💬 150 • 22h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 243 • 💬 150 • 23h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -493,7 +493,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 327 • 6d ago
+⬇️ 0 • ❤️ 327 • 7d ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 629 • 20m ago
+⭐ 5.7k • 🔱 629 • 31m ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 178 • 22m ago
+⭐ 2.4k • 🔱 178 • 33m ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 252 • 1h ago
+⭐ 1.6k • 🔱 252 • 2h ago
 
 ---
 
@@ -712,7 +712,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 990 • 🔱 167 • 2h ago
+⭐ 990 • 🔱 167 • 3h ago
 
 ---
 

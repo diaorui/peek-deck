@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T15:48:30.814410+00:00'
+updated: '2025-12-22T15:59:21.877465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 15:48 UTC  
+**Last Updated:** December 22, 2025 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,547.47
+### $89,811.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +2.1%  
-**30d:** +2.8%  
-**90d:** -21.0%  
-**1y:** -5.7%  
+**24h:** +1.6%  
+**7d:** +2.4%  
+**30d:** +3.2%  
+**90d:** -20.7%  
+**1y:** -5.4%  
 
 ---
 
@@ -95,7 +95,7 @@ bitvoin
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-18h ago
+19h ago
 
 ---
 
@@ -127,7 +127,7 @@ Strategy has increased its USD reserve by $748 million and now holds $2.19 billi
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-17h ago
+18h ago
 
 ---
 
@@ -221,7 +221,7 @@ Barron's • 1h ago
 
 Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -233,7 +233,7 @@ Seeking Alpha • 3h ago
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 4d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -263,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 2 • 💬 1 • 39m ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 2 • 💬 1 • 50m ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
