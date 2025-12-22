@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T16:37:27.513945+00:00'
+updated: '2025-12-22T16:56:35.083801+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 16:37 UTC  
+**Last Updated:** December 22, 2025 at 16:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +2.5%  
-**30d:** +3.3%  
-**90d:** -20.6%  
-**1y:** -5.3%  
+**24h:** +1.2%  
+**7d:** +2.2%  
+**30d:** +2.9%  
+**90d:** -20.9%  
+**1y:** -5.6%  
 
 ---
 
@@ -89,7 +89,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ Strategy has increased its USD reserve by $748 million and now holds $2.19 billi
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ I've been looking into the idea of using Bitcoin as collateral instead of sellin
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -171,13 +171,13 @@ The Motley Fool • 5h ago
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 35m ago
+Bloomberg.com • 55m ago
 
 ---
 
 **[Strategy Paused Its Bitcoin Purchases Last Week](https://www.barrons.com/articles/strategy-stock-bitcoin-crypto-ad16e5d5?gaa_at=eafs&gaa_n=AWEtsqf_6ZFhla85KeUmJTec2AQu9RmjTi2S_2HvjUVhE-S3bCN9wHLdae-j&gaa_ts=6949772e&gaa_sig=tJuBz21CssSZe6NBPP9N-xtg4IQjWqlS0XkKXHb_i33r8nMZmRogGDGXJ6UhXhrWuSrmBc2s-JzY9dA8WicO4A%3D%3D)**
 
-Barron's • 33m ago
+Barron's • 52m ago
 
 ---
 
@@ -185,7 +185,7 @@ Barron's • 33m ago
 
 What is the biggest crypto news today? Bitcoin jumps above $90,000 as a $24B options expiry and technical breakout drive market volatility.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Forbes • 1d ago
 
 **[Bitcoin Price Jumps, But Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 18m ago
+Investor's Business Daily • 37m ago
 
 ---
 

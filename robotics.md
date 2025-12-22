@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T16:37:27.523245+00:00'
+updated: '2025-12-22T16:56:35.091953+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 16:37 UTC  
+**Last Updated:** December 22, 2025 at 16:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-1h ago
+2h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 Found an interesting video on Tesla's Optimus Robot.
 
-🔗 [youtu.be](https://youtu.be/J_y5ni5mihI) • 39m ago
+🔗 [youtu.be](https://youtu.be/J_y5ni5mihI) • 58m ago
 
 ---
 
@@ -222,7 +222,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 30K • 👍 146 • 💬 6 • ⏱️ 0:19 • 23h ago
+👁️ 30K • 👍 146 • 💬 6 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 3K • 👍 101 • 💬 6 • ⏱️ 0:11 • 7h ago
+👁️ 3K • 👍 101 • 💬 6 • ⏱️ 0:11 • 8h ago
 
 ---
 
@@ -292,7 +292,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 871K • 👍 35K • 💬 568 • ⏱️ 21:05 • 16h ago
+👁️ 871K • 👍 35K • 💬 568 • ⏱️ 21:05 • 17h ago
 
 ---
 

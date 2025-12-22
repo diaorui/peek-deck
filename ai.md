@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T16:37:27.505422+00:00'
+updated: '2025-12-22T16:56:35.076341+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 16:37 UTC  
+**Last Updated:** December 22, 2025 at 16:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. Curious, disciplined, critical? AI will amplify that. Lazy, gullible, or intellectually passive? AI will amplify that too. LOL. That’s the uncomfortable truth no one wants to say out loud: This is the 2024–2030 revolution. AI will widen the gap : elites pulling further ahead, the rest trailing. Not because the tool is elitist… but because using it well isn’t evenly distributed. And that’s… kind of sad. Imo, we’re not ready for the social consequences of that.
 
-49m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 4h ago
 
 ---
 
@@ -105,13 +105,13 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 For more than 20 years Google has been the gateway to the internet – now it wants to use its dominance to win the AI race. Cloudflare CEO Matthew Prince tells Anthony Cuthbertson why new rules are needed to rein in its ‘radically unfair’ advantage and prevent another monopoly from emerging
 
-🔗 [The Independent](https://www.independent.co.uk/tech/google-gemini-vs-chatgpt-cloudflare-ai-b2881240.html) • 8m ago
+🔗 [The Independent](https://www.independent.co.uk/tech/google-gemini-vs-chatgpt-cloudflare-ai-b2881240.html) • 27m ago
 
 ---
 
 **[The Massive Acceleration of AI](https://www.reddit.com/r/artificial/comments/1pt30te/the_massive_acceleration_of_ai/)**
 
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/the-massive-acceleration-of-ai-b99) • 42m ago
+🔗 [ecency.com](https://ecency.com/@taskmaster4450/the-massive-acceleration-of-ai-b99) • 1h ago
 
 ---
 
@@ -147,19 +147,19 @@ CBS News • 1h ago
 
 A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Instacart ends AI-driven price experiments after criticism](https://www.reuters.com/business/instacart-ends-ai-driven-price-experiments-after-criticism-2025-12-22/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
 **[AI Study Says Self-Running Image Tools Keep Turning Different Prompts Into the Same Boring Pictures](https://www.extremetech.com/computing/ai-study-says-self-running-image-tools-keep-turning-different-prompts-into)**
 
-extremetech.com • 51m ago
+extremetech.com • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 1h ago
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-BBC • 8m ago
+BBC • 27m ago
 
 ---
 
@@ -285,7 +285,7 @@ Dubai's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Nex Ai
 
-👁️ 1K • 👍 14 • ⏱️ 0:12 • 3h ago
+👁️ 1K • 👍 14 • ⏱️ 0:12 • 4h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,283 • 13d ago
+⬇️ 363,445 • ❤️ 3,283 • 14d ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 45m ago
+⭐ 5.7k • 🔱 631 • 1h ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 260 • 2h ago
+⭐ 1.7k • 🔱 260 • 3h ago
 
 ---
 
@@ -706,7 +706,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 170 • 3h ago
+⭐ 1.0k • 🔱 170 • 4h ago
 
 ---
 
@@ -726,7 +726,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 906 • 🔱 89 • 5h ago
+⭐ 906 • 🔱 89 • 6h ago
 
 ---
 
@@ -736,7 +736,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 853 • 🔱 80 • 18m ago
+⭐ 853 • 🔱 80 • 37m ago
 
 ---
 
