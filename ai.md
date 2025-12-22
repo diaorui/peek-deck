@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T06:19:21.762325+00:00'
+updated: '2025-12-22T06:54:08.123306+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 06:19 UTC  
+**Last Updated:** December 22, 2025 at 06:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-46m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 8h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 9h ago
 
 ---
 
@@ -77,19 +77,19 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 ---
 
-**[Nvidia wants to create universal AI agents for all worlds with NitroGen](https://www.reddit.com/r/artificial/comments/1psrkcs/nvidia_wants_to_create_universal_ai_agents_for/)**
-
-Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
-
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 49m ago
-
----
-
 **[Samsung To Unveil AI Vision Built With Google Gemini at CES 2026](https://www.reddit.com/r/artificial/comments/1psrod2/samsung_to_unveil_ai_vision_built_with_google/)**
 
 With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
 
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 43m ago
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 1h ago
+
+---
+
+**[Nvidia wants to create universal AI agents for all worlds with NitroGen](https://www.reddit.com/r/artificial/comments/1psrkcs/nvidia_wants_to_create_universal_ai_agents_for/)**
+
+Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
+
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 1h ago
 
 ---
 
@@ -105,15 +105,15 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 18h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 19h ago
 
 ---
 
-**[The Coming AI Upheaval Risks ‘Collar-Flipping’ the Middle Class](https://www.reddit.com/r/artificial/comments/1psfj48/the_coming_ai_upheaval_risks_collarflipping_the/)**
+**[Understanding AI Benchmarks](https://www.reddit.com/r/artificial/comments/1psejki/understanding_ai_benchmarks/)**
 
-A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
+Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 10h ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 11h ago
 
 ---
 
@@ -121,67 +121,17 @@ A divide between Britain’s data-center boomtowns and its white-collar commuter
 
 ## Google News: "ai"
 
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeFJHeo1aACy4gJtjk4JevSyVFk-4aaGibU_KzZxjc8f53X6CYqx3Tk&gaa_ts=6948ee7a&gaa_sig=J530WX_A0xFKnPfsrFLwlROZzwYbmzRQz611CiDuAAAMLG6KHHc-Z6phHoppdKONjKEYF4WB_c9po4KQLQ-8ug%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
 **[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
 
 Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
 
 CNBC • 22h ago
-
----
-
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
-
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
-
-CNN • 22h ago
-
----
-
-**[AI is creating a security problem most companies aren't staffed to handle, says an AI researcher](https://www.businessinsider.com/ai-security-gap-companies-researcher-sander-schulhoff-2025-12)**
-
-An AI security researcher says companies lack the talent to handle AI security problems — and traditional cybersecurity teams aren't enough.
-
-Business Insider • 50m ago
-
----
-
-**[What publishers are wishing for this holiday season: End AI scraping and determine AI-powered audience value](https://digiday.com/media/what-publishers-are-wishing-for-this-holiday-season-end-ai-scraping-and-determine-ai-powered-audience-value/)**
-
-Publishers want a fair, structured, regulated AI environment for 2026 and for publishers to come together to establish new metrics.
-
-Digiday • 1h ago
-
----
-
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://www.yahoo.com/news/videos/boys-her-school-shared-ai-050208868.html)**
-
-A middle school student in Louisiana got into a fight with classmates who were sharing AI-generated nude images of her, she ended up getting expelled. (AP video: Stephen Smith and Jack Brook)
-
-Yahoo • 1h ago
-
----
-
-**[These Teenagers Are Already Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3?gaa_at=eafs&gaa_n=AWEtsqe7IgpN4kOYKUYPMF1IuPJ9n4EjOcZQfj_lnH5ekpM11FMvvI3OHf5V&gaa_ts=6948e655&gaa_sig=-BiJ7TzRYu8Vg1h5ch6r5uqwA6aL4Mqyoi7K-Cp714PGGPvyi4UgvqUA39QrRYzo35cGPmhYtDLAaX9kX-MHog%3D%3D)**
-
-The Wall Street Journal • 5h ago
-
----
-
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 1d ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
-
----
-
-**[OpenAI Is Getting More Efficient at Running Its AI, Internal Financials Show](https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show)**
-
-The Information • 14h ago
 
 ---
 
@@ -193,6 +143,60 @@ The Guardian • 17h ago
 
 ---
 
+**[What publishers are wishing for this holiday season: End AI scraping and determine AI-powered audience value](https://digiday.com/media/what-publishers-are-wishing-for-this-holiday-season-end-ai-scraping-and-determine-ai-powered-audience-value/)**
+
+Publishers want a fair, structured, regulated AI environment for 2026 and for publishers to come together to establish new metrics.
+
+Digiday • 1h ago
+
+---
+
+**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://www.yahoo.com/news/articles/boys-her-school-shared-ai-050314208.html)**
+
+Nude images of a 13-year-old girl and her friends, generated by artificial intelligence, were circulating on social media and had become the talk of a Louisiana middle school.  When the 13-year-old girl stepped onto the Lafourche Parish school bus at the end of the day, a classmate was showing one of them to a friend.  The 13-year-old girl’s attorneys allege he avoided school discipline altogether.
+
+Yahoo • 1h ago
+
+---
+
+**[AI Stocks Could Stay 'The Place to Be' Next Year. Here Are Two Banks' Top Chip Picks](https://www.investopedia.com/ai-stocks-could-stay-the-place-to-be-next-year-here-are-two-banks-top-chip-picks-11873732)**
+
+AI stocks have had a tough time lately, but analysts at Bank of America and Jefferies say they're sticking by their favorite chip stocks for next year.
+
+Investopedia • 15h ago
+
+---
+
+**[Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact](https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html)**
+
+The AI trade isn't over. Investors have just become choosier about which players might emerge as winners.
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Asian shares advance, yen slips after AI stocks push higher on Wall Street](https://www.10tv.com/article/syndication/associatedpress/asian-shares-advance-yen-slips-after-ai-stocks-push-higher-on-wall-street/616-f951c387-190d-4870-b2b9-3ea747ba28d0)**
+
+Shares have surged higher in Asia after a rebound in AI-related stocks like Nvidia spurred a rally on Wall Street. U.S. futures and oil prices also rose. Tokyo's...
+
+10TV • 1h ago
+
+---
+
+**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
+
+As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+
+CNN • 22h ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +205,7 @@ The Guardian • 17h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 506 • 💬 474 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 506 • 💬 469 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -213,7 +217,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 225 • 💬 179 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 225 • 💬 180 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +225,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 196 • 💬 112 • 13h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 202 • 💬 115 • 13h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -229,7 +233,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 168 • 💬 385 • 23h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 169 • 💬 385 • 23h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -253,7 +257,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 118 • 💬 59 • 12h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 119 • 💬 59 • 13h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -267,7 +271,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 106 • 💬 99 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 109 • 💬 99 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -307,7 +311,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 46K • 👍 2K • 💬 88 • ⏱️ 1:29 • 11h ago
+👁️ 46K • 👍 2K • 💬 88 • ⏱️ 1:29 • 12h ago
 
 ---
 
@@ -317,7 +321,7 @@ Mastering Claude Code Skills: Building General AI Agents for Your Business This 
 
 📺 Riley Brown
 
-👁️ 4K • 👍 206 • 💬 18 • ⏱️ 27:21 • 7h ago
+👁️ 4K • 👍 206 • 💬 18 • ⏱️ 27:21 • 8h ago
 
 ---
 
@@ -327,7 +331,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 21K • 👍 758 • 💬 39 • ⏱️ 15:54 • 15h ago
+👁️ 21K • 👍 758 • 💬 39 • ⏱️ 15:54 • 16h ago
 
 ---
 
@@ -393,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,262 • 13d ago
+⬇️ 352,314 • ❤️ 3,265 • 13d ago
 
 ---
 
@@ -405,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 455 • 2d ago
+⬇️ 3,459 • ❤️ 462 • 2d ago
 
 ---
 
@@ -441,7 +445,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,021 • ❤️ 386 • 3d ago
+⬇️ 3,021 • ❤️ 387 • 3d ago
 
 ---
 
@@ -501,7 +505,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 632 • ❤️ 263 • 4d ago
+⬇️ 632 • ❤️ 263 • 5d ago
 
 ---
 
@@ -517,7 +521,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 9 • 💬 2 • ⭐ 4,461 • 10d ago
+▲ 9 • 💬 2 • ⭐ 4,578 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -543,7 +547,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 135 • 💬 6 • ⭐ 18,805 • 3mo ago
+▲ 135 • 💬 6 • ⭐ 18,841 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -596,7 +600,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 205 • 💬 5 • ⭐ 7,559 • 24d ago
+▲ 206 • 💬 5 • ⭐ 7,559 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -649,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.5k • 🔱 2.9k • 1h ago
+⭐ 18.6k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -659,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.6k • 🔱 614 • 2h ago
+⭐ 5.6k • 🔱 616 • 32m ago
 
 ---
 
@@ -669,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 174 • 1h ago
+⭐ 2.4k • 🔱 175 • 28m ago
 
 ---
 
@@ -679,7 +683,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.4k • 🔱 339 • 15d ago
+⭐ 1.4k • 🔱 341 • 15d ago
 
 ---
 
@@ -689,7 +693,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 207 • 8h ago
+⭐ 1.2k • 🔱 210 • 8h ago
 
 ---
 
@@ -719,7 +723,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 896 • 🔱 153 • 1d ago
+⭐ 910 • 🔱 157 • 1d ago
 
 ---
 
@@ -729,7 +733,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 874 • 🔱 84 • 4h ago
+⭐ 881 • 🔱 87 • 5h ago
 
 ---
 
@@ -739,7 +743,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 815 • 🔱 121 • 4d ago
+⭐ 816 • 🔱 122 • 4d ago
 
 ---
 
