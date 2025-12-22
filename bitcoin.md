@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T22:47:30.350063+00:00'
+updated: '2025-12-22T22:58:14.692778+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 22:47 UTC  
+**Last Updated:** December 22, 2025 at 22:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.7%  
-**30d:** +1.4%  
-**90d:** -22.1%  
-**1y:** -7.0%  
+**24h:** +0.2%  
+**7d:** +1.4%  
+**30d:** +2.1%  
+**90d:** -21.5%  
+**1y:** -6.4%  
 
 ---
 
@@ -95,7 +95,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 8h ago
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Motley Fool • 1d ago
 
 Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -281,7 +281,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 2 • 💬 0 • 2h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 3h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -295,37 +295,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 142 • ⏱️ 15:15 • 21h ago
-
----
-
-**[My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED)](https://www.youtube.com/watch?v=e1ozMqOYANY)**
-
-My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 115 • ⏱️ 16:18 • 1d ago
-
----
-
-**[Bitcoin, Liquidity, And The Coming Inflection Point | Jeff Ross](https://www.youtube.com/watch?v=0h5gLtzS1_M)**
-
-Jeff Ross joins the show for a breakdown of why the global financial system is cracking and why Bitcoin's recent weakness may be ...
-
-📺 What Bitcoin Did
-
-👁️ 7K • 👍 436 • 💬 87 • ⏱️ 1:04:00 • 10h ago
-
----
-
-**[🚨 EMERGENCY: Everyone Is Wrong About Bitcoin as Gold &amp; Silver Surge](https://www.youtube.com/watch?v=E6LnI33wdl0)**
-
-Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
-
-📺 DataDash
-
-👁️ 2K • 👍 186 • 💬 7 • ⏱️ 15:14 • 6h ago
+👁️ 25K • 👍 2K • 💬 191 • ⏱️ 15:15 • 21h ago
 
 ---
 
@@ -335,7 +305,17 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 5K • 👍 470 • 💬 60 • ⏱️ 6:08 • 5h ago
+👁️ 8K • 👍 597 • 💬 89 • ⏱️ 6:08 • 5h ago
+
+---
+
+**[Bitcoin Crypto Prices Are Falling for a Reason No One Likes to Admit.](https://www.youtube.com/watch?v=KIPJtth6K7s)**
+
+Things continue to chop sideways with a little run. But let's be honest - momentum is gone and sentiment is in the toilet. The links ...
+
+📺 Digital Asset News
+
+👁️ 3K • 👍 324 • 💬 41 • ⏱️ 27:45 • 3h ago
 
 ---
 
@@ -345,7 +325,37 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 297 • 💬 30 • ⏱️ 1:11:22 • 3h ago
+👁️ 6K • 👍 374 • 💬 66 • ⏱️ 1:11:22 • 3h ago
+
+---
+
+**[My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED)](https://www.youtube.com/watch?v=e1ozMqOYANY)**
+
+My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 36K • 👍 2K • 💬 172 • ⏱️ 16:18 • 1d ago
+
+---
+
+**[Bitcoin, Liquidity, And The Coming Inflection Point | Jeff Ross](https://www.youtube.com/watch?v=0h5gLtzS1_M)**
+
+Jeff Ross joins the show for a breakdown of why the global financial system is cracking and why Bitcoin's recent weakness may be ...
+
+📺 What Bitcoin Did
+
+👁️ 8K • 👍 470 • 💬 94 • ⏱️ 1:04:00 • 10h ago
+
+---
+
+**[🚨 EMERGENCY: Everyone Is Wrong About Bitcoin as Gold &amp; Silver Surge](https://www.youtube.com/watch?v=E6LnI33wdl0)**
+
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
+
+📺 DataDash
+
+👁️ 3K • 👍 211 • 💬 8 • ⏱️ 15:14 • 6h ago
 
 ---
 
@@ -359,33 +369,23 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 ---
 
-**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
-
-Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
-
-📺 The Wolf Of All Streets
-
-👁️ 21K • 👍 940 • 💬 249 • ⏱️ 55:13 • 1d ago
-
----
-
 **[BITCOIN RALLY IMMINENT – YOU HAVE TO SEE THIS!!!!!](https://www.youtube.com/watch?v=5BSo09MHaZk)**
 
 Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 226 • ⏱️ 14:37 • 13h ago
+👁️ 12K • 👍 1K • 💬 282 • ⏱️ 14:37 • 13h ago
 
 ---
 
-**[Bitcoin’s PUMPING, BOJ Shock FAILS, Altcoin Scandal Deepens &amp; More](https://www.youtube.com/watch?v=8KxjgT7nr5w)**
+**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
 
-Bitcoin is at a critical crossroads as global liquidity signals turn mixed, the Bank of Japan tightens policy, and confidence in parts ...
+Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
 
-📺 Coin Bureau
+📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 1K • 💬 45 • ⏱️ 43:07 • 8h ago
+👁️ 21K • 👍 946 • 💬 249 • ⏱️ 55:13 • 1d ago
 
 ---
 

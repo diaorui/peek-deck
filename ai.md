@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T22:47:30.341803+00:00'
+updated: '2025-12-22T22:58:14.684404+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 22:47 UTC  
+**Last Updated:** December 22, 2025 at 22:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Atlantic • 9h ago
 
 At a New York City training session, educators explored how artificial intelligence could support teaching while also discussing their concerns around the technology.
 
-NBC News • 50m ago
+NBC News • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ NBC News • 50m ago
 
 OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an 'LLM-based automated attacker.'
 
-TechCrunch • 36m ago
+TechCrunch • 46m ago
 
 ---
 
@@ -173,7 +173,7 @@ Los Angeles Times • 2h ago
 
 Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -284,23 +284,23 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 ## YouTube Videos: "ai"
 
-**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
+**[I Made the Same Animation in Every AI Video Generator](https://www.youtube.com/watch?v=UKp_zXdxVTI)**
 
-welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
+I made the same AI Animation in every AI video generator Best All In One AI Video Generator ...
 
-📺 Fads
+📺 Dan Kieft
 
-👁️ 229K • 👍 12K • 💬 2K • ⏱️ 19:40 • 2d ago
+👁️ 9K • 💬 27 • ⏱️ 44:39 • 5h ago
 
 ---
 
-**[Google Gemini 4: The AI That Understands the World Like Never Before](https://www.youtube.com/watch?v=NOfwg2Wj2HA)**
+**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
 
-Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! Google Gemini 4 is unlike anything we've seen before.
+Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
 
-📺 BitBiasedAI
+📺 Fox News
 
-👁️ 12K • 👍 304 • 💬 27 • ⏱️ 25:57 • 1d ago
+👁️ 24K • 👍 340 • 💬 212 • ⏱️ 4:26 • 20h ago
 
 ---
 
@@ -310,27 +310,17 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 118K • 👍 5K • 💬 256 • ⏱️ 13:25 • 1d ago
+👁️ 128K • 👍 5K • 💬 260 • ⏱️ 13:25 • 1d ago
 
 ---
 
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
 
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
 
-📺 Matt Wolfe
+📺 Fads
 
-👁️ 64K • 👍 3K • 💬 205 • ⏱️ 37:38 • 2d ago
-
----
-
-**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
-
-AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
-
-📺 The Diary Of A CEO
-
-👁️ 82K • 👍 2K • 💬 111 • ⏱️ 1:29 • 1d ago
+👁️ 232K • 👍 12K • 💬 2K • ⏱️ 19:40 • 2d ago
 
 ---
 
@@ -340,7 +330,27 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 973K • 👍 5K • 💬 220 • ⏱️ 8:24 • 2d ago
+👁️ 1.0M • 👍 5K • 💬 225 • ⏱️ 8:24 • 2d ago
+
+---
+
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 65K • 👍 3K • 💬 206 • ⏱️ 37:38 • 2d ago
+
+---
+
+**[I Tried the WORLD&#39;S FIRST AI Restaurant](https://www.youtube.com/watch?v=ibwK3tPvIko)**
+
+Well… this day has finally arrived. I'm gonna try the world's first AI restaurant. Where the chef is an AI, Chef Aiman. To be honest, I ...
+
+📺 Alexander The Guest
+
+👁️ 17K • 👍 1K • 💬 131 • ⏱️ 8:41 • 5h ago
 
 ---
 
@@ -350,17 +360,7 @@ Artificial intelligence has impacted industries and people around the world this
 
 📺 CBS Mornings
 
-👁️ 15K • 👍 295 • 💬 41 • ⏱️ 1:03:20 • 1d ago
-
----
-
-**[The Most POWERFUL FREE AI Tools That You Won’t Believe Exist 🤯](https://www.youtube.com/watch?v=bzjIo3mg07w)**
-
-Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus.ai/jbc?exp=exp_deepagent_free_tier This ...
-
-📺 Rob The AI Guy
-
-👁️ 4K • 👍 199 • 💬 15 • ⏱️ 13:03 • 1d ago
+👁️ 16K • 👍 310 • 💬 42 • ⏱️ 1:03:20 • 1d ago
 
 ---
 
@@ -370,7 +370,7 @@ Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf
 
 📺 PrestonReacts
 
-👁️ 140K • 👍 2K • 💬 391 • ⏱️ 15:32 • 2d ago
+👁️ 144K • 👍 2K • 💬 400 • ⏱️ 15:32 • 2d ago
 
 ---
 
@@ -380,7 +380,7 @@ Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/tw
 
 📺 NetworkChuck
 
-👁️ 172K • 👍 8K • 💬 1K • ⏱️ 33:14 • 2d ago
+👁️ 175K • 👍 8K • 💬 1K • ⏱️ 33:14 • 2d ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 6h ago
+⭐ 5.7k • 🔱 631 • 7h ago
 
 ---
 
@@ -681,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 284 • 56m ago
+⭐ 1.9k • 🔱 284 • 1h ago
 
 ---
 
@@ -711,7 +711,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 171 • 9h ago
+⭐ 1.0k • 🔱 171 • 10h ago
 
 ---
 

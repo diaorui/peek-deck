@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T22:47:30.356066+00:00'
+updated: '2025-12-22T22:58:14.698727+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 22:47 UTC  
+**Last Updated:** December 22, 2025 at 22:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +1.1%  
-**30d:** +6.8%  
-**90d:** -27.7%  
-**1y:** -12.6%  
+**24h:** +0.4%  
+**7d:** +1.7%  
+**30d:** +7.5%  
+**90d:** -27.2%  
+**1y:** -12.0%  
 
 ---
 
@@ -234,17 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 207 • 💬 42 • ⏱️ 17:34 • 6h ago
-
----
-
-**[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 20K • 👍 710 • 💬 73 • ⏱️ 15:49 • 1d ago
+👁️ 5K • 👍 238 • 💬 127 • ⏱️ 17:34 • 6h ago
 
 ---
 
@@ -258,13 +248,13 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 ---
 
-**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
+**[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
 
-BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 CryptoStock Lab
+📺 Crypto Nutshell
 
-👁️ 152 • 👍 8 • ⏱️ 16:54 • 2h ago
+👁️ 20K • 👍 717 • 💬 74 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -274,7 +264,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 54 • 👍 5 • 💬 2 • ⏱️ 5:29 • 2h ago
+👁️ 185 • 👍 14 • 💬 2 • ⏱️ 5:29 • 2h ago
 
 ---
 
@@ -284,27 +274,17 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 13K • 👍 683 • 💬 405 • ⏱️ 11:34 • 1d ago
+👁️ 13K • 👍 683 • 💬 407 • ⏱️ 11:34 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=baVZ1J_gs5w)**
+**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
 
-📺 More Crypto Online
+📺 CryptoStock Lab
 
-👁️ 3K • 👍 175 • 💬 10 • ⏱️ 6:15 • 18h ago
-
----
-
-**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 180 • 👍 30 • 💬 8 • ⏱️ 5:02 • 4h ago
+👁️ 403 • 👍 16 • ⏱️ 16:54 • 2h ago
 
 ---
 
@@ -314,7 +294,17 @@ Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the
 
 📺 NextMove Stocks
 
-👁️ 449 • 👍 17 • 💬 13 • ⏱️ 7:50 • 9h ago
+👁️ 511 • 👍 18 • 💬 13 • ⏱️ 7:50 • 9h ago
+
+---
+
+**[Bitcoin &quot;Digital Gold&quot; &amp; Ethereum &quot;Digital Oil:&quot; Crypto&#39;s Path to Commoditization](https://www.youtube.com/watch?v=kZzRkG5IlXk)**
+
+Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does he see institutional investing adding long-term ...
+
+📺 Schwab Network
+
+👁️ 3K • 👍 59 • 💬 6 • ⏱️ 8:22 • 1d ago
 
 ---
 
@@ -324,7 +314,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:52 • 9h ago
+👁️ 2K • 👍 144 • 💬 6 • ⏱️ 4:52 • 9h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 265 • 👍 30 • 💬 10 • ⏱️ 5:02 • 4h ago
 
 ---
 

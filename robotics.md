@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T22:47:30.359303+00:00'
+updated: '2025-12-22T22:58:14.701986+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 22:47 UTC  
+**Last Updated:** December 22, 2025 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-11h ago
+12h ago
 
 ---
 
@@ -76,7 +76,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 Hey guys, how much time do you usually spend on your feet in a given work day? I’ve recently injured my back and it doesn’t look like it’s going to get healed anytime soon. I’m relegated to a chair for the most part I think, but this is an industry I’m pretty interested in. I would love to get your feedback so I can decide if I can actually do this work in a professional setting. Thanks! 🤖
 
-28m ago
+38m ago
 
 ---
 
@@ -100,7 +100,7 @@ new modified version with a better camera. Patrolling on demand or on schedule. 
 
 Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
 
-5h ago
+6h ago
 
 ---
 
@@ -202,7 +202,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 36K • 👍 727 • 💬 76 • ⏱️ 2:08:46 • 2d ago
+👁️ 37K • 👍 733 • 💬 76 • ⏱️ 2:08:46 • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 22K • 👍 502 • 💬 110 • ⏱️ 5:25 • 1d ago
+👁️ 24K • 👍 515 • 💬 116 • ⏱️ 5:25 • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 918K • 👍 10K • 💬 600 • ⏱️ 2:43 • 4d ago
+👁️ 925K • 👍 10K • 💬 605 • ⏱️ 2:43 • 4d ago
 
 ---
 
@@ -242,17 +242,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 128K • 👍 7K • 💬 520 • ⏱️ 13:43 • 4d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 10K • 👍 158 • 💬 6 • ⏱️ 0:11 • 14h ago
+👁️ 131K • 👍 7K • 💬 527 • ⏱️ 13:43 • 4d ago
 
 ---
 
@@ -262,17 +252,27 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 487K • 👍 9K • 💬 1K • ⏱️ 18:35 • 2d ago
+👁️ 498K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
 
 ---
 
-**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
 
-MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
 
-📺 Tyler & Snowi
+📺 Ai BOOF
 
-👁️ 1.0M • 👍 39K • 💬 642 • ⏱️ 21:05 • 23h ago
+👁️ 10K • 👍 160 • 💬 6 • ⏱️ 0:11 • 14h ago
+
+---
+
+**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+
+Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+
+📺 AI Revolution
+
+👁️ 76K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
 
 ---
 
@@ -286,13 +286,13 @@ This session will provide a high-level overview of NVIDIA's comprehensive approa
 
 ---
 
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
+**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
 
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
+jumpersjump #hardclipped.
 
-📺 AI Revolution
+📺 Sharp Cut
 
-👁️ 76K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
+👁️ 2.1M • 👍 31K • 💬 514 • ⏱️ 0:29 • 23h ago
 
 ---
 
