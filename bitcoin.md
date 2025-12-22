@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T11:39:13.857465+00:00'
+updated: '2025-12-22T11:49:46.741957+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 11:39 UTC  
+**Last Updated:** December 22, 2025 at 11:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +2.4%  
-**30d:** +3.1%  
-**90d:** -20.8%  
-**1y:** -5.5%  
+**24h:** +1.7%  
+**7d:** +2.7%  
+**30d:** +3.4%  
+**90d:** -20.5%  
+**1y:** -5.2%  
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 12h ago
 
 **[Bitcoin Hovers Below $90,000. Traders Bet on a 5% Rally By Christmas.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcoIarzpxqOEip2A7c2S6Br-PlopgncPeFFIDjAW3m8ODibc7pRuBxP&gaa_ts=69493149&gaa_sig=0U6I7x5nCO1UaK4rNceKjpCTjybkgA9-VKbrVp9THryZ0_CLXl8m7idCtc7enAB8prpsnmNHBgcmGDwAgyn4gg%3D%3D)**
 
-Barron's • 9m ago
+Barron's • 19m ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 9m ago
 
 Galaxy Digital predicts Bitcoin's price could hit $250,000 by 2027 as adoption grows despite near-term volatility.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 41m ago
 
 The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
-The Motley Fool • 24m ago
+The Motley Fool • 34m ago
 
 ---
 
@@ -209,7 +209,7 @@ The Motley Fool • 24m ago
 
 Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 

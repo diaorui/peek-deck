@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T11:39:13.862875+00:00'
+updated: '2025-12-22T11:49:46.748026+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 11:39 UTC  
+**Last Updated:** December 22, 2025 at 11:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +2.5%  
-**30d:** +8.4%  
-**90d:** -26.6%  
-**1y:** -11.3%  
+**24h:** +2.2%  
+**7d:** +3.0%  
+**30d:** +8.9%  
+**90d:** -26.3%  
+**1y:** -10.9%  
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 3h ago
 
 US Clarity Act delays cause $952 million in crypto outflows, with regulatory fears hitting Ethereum hardest.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 32m ago
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 52m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 Stock Moe
 
-👁️ 11K • 👍 819 • 💬 18 • ⏱️ 11:18 • 13h ago
+👁️ 11K • 👍 819 • 💬 18 • ⏱️ 11:18 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 9K • 👍 375 • 💬 81 • ⏱️ 16:57 • 14h ago
+👁️ 9K • 👍 375 • 💬 81 • ⏱️ 16:57 • 15h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T11:39:13.865754+00:00'
+updated: '2025-12-22T11:49:46.751258+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 11:39 UTC  
+**Last Updated:** December 22, 2025 at 11:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-47m ago
+57m ago
 
 ---
 
@@ -60,7 +60,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-34m ago
+44m ago
 
 ---
 
@@ -68,7 +68,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-20h ago
+21h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 Just came across this Medical Robotics Market report from Roots Analysis — major growth ahead for surgical tech! According to the summary, the global medical robotics market is expected to grow from about $10.1B in 2024 to ~$31.3B by 2035, with a ~10.8% CAGR. Surgical robots currently hold the largest share, with strong adoption in orthopedic and minimally invasive procedures, while rehabilitation robots and smart exoskeletons are gaining traction too. North America leads the market, but Asia-Pacific is the fastest-growing region. If you’re into surgical innovation and future tech trends, this forecast is worth a look.
 
-15m ago
+25m ago
 
 ---
 
@@ -222,7 +222,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 11K • 👍 84 • 💬 4 • ⏱️ 0:19 • 18h ago
+👁️ 11K • 👍 84 • 💬 4 • ⏱️ 0:19 • 19h ago
 
 ---
 
@@ -272,7 +272,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 601K • 👍 25K • 💬 439 • ⏱️ 21:05 • 11h ago
+👁️ 601K • 👍 25K • 💬 439 • ⏱️ 21:05 • 12h ago
 
 ---
 

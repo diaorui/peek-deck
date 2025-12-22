@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T11:39:13.849803+00:00'
+updated: '2025-12-22T11:49:46.733325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 11:39 UTC  
+**Last Updated:** December 22, 2025 at 11:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 37m ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 48m ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 1h ago
 
 When AI detection software fails, students and teachers have to negotiate difficult conversations about cheating with artificial intelligence.
 
-Detroit Free Press • 34m ago
+Detroit Free Press • 44m ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 1h ago
 
 Is AI a utopian promise or an existential threat? These 11 must-read books — featuring Annie Bot, Empire of AI and UnWorld — navigate the turbulent landscape of deepfakes, algorithmic bias, and the quest for Artificial General Intelligence.
 
-Los Angeles Times • 39m ago
+Los Angeles Times • 49m ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 227 • 19m ago
+⭐ 1.4k • 🔱 227 • 29m ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 892 • 🔱 89 • 53m ago
+⭐ 892 • 🔱 89 • 1h ago
 
 ---
 
