@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T16:56:35.091953+00:00'
+updated: '2025-12-22T17:23:36.885370+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 16:56 UTC  
+**Last Updated:** December 22, 2025 at 17:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,15 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-5h ago
+6h ago
+
+---
+
+**[Tesla Optimus Controversy | Teleoperated!](https://www.reddit.com/r/robotics/comments/1pt33xm/tesla_optimus_controversy_teleoperated/)**
+
+Found an interesting video on Tesla's Optimus Robot.
+
+🔗 [youtu.be](https://youtu.be/J_y5ni5mihI) • 1h ago
 
 ---
 
@@ -80,22 +88,6 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 ---
 
-**[Walking gait](https://www.reddit.com/r/robotics/comments/1ps85lc/walking_gait/)**
-
-Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
-
-1d ago
-
----
-
-**[Tesla Optimus Controversy | Teleoperated!](https://www.reddit.com/r/robotics/comments/1pt33xm/tesla_optimus_controversy_teleoperated/)**
-
-Found an interesting video on Tesla's Optimus Robot.
-
-🔗 [youtu.be](https://youtu.be/J_y5ni5mihI) • 58m ago
-
----
-
 **[Medical Robotics Growth Outlook: Surgical, Rehab, and Assistive Robots on the Rise](https://www.reddit.com/r/robotics/comments/1psx8hx/medical_robotics_growth_outlook_surgical_rehab/)**
 
 Just came across this Medical Robotics Market report from Roots Analysis — major growth ahead for surgical tech! According to the summary, the global medical robotics market is expected to grow from about $10.1B in 2024 to ~$31.3B by 2035, with a ~10.8% CAGR. Surgical robots currently hold the largest share, with strong adoption in orthopedic and minimally invasive procedures, while rehabilitation robots and smart exoskeletons are gaining traction too. North America leads the market, but Asia-Pacific is the fastest-growing region. If you’re into surgical innovation and future tech trends, this forecast is worth a look.
@@ -104,11 +96,19 @@ Just came across this Medical Robotics Market report from Roots Analysis — maj
 
 ---
 
-**[Olaf: Bringing an Animated Character to Life in the Physical World](https://www.reddit.com/r/robotics/comments/1psmxsh/olaf_bringing_an_animated_character_to_life_in/)**
+**[[OS] SPIDER: A General Physics-Informed Retargeting Framework for Humanoids & Dexterous Hands](https://www.reddit.com/r/robotics/comments/1pt4uxn/os_spider_a_general_physicsinformed_retargeting/)**
 
-About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
+Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting human motion to diverse robot embodiments. Most retargeting methods suffer from physical inconsistencies. SPIDER is physics-informed, ensuring dynamically feasible motions without artifacts like ghosting or floating. Key Features: General: Supports both humanoids (G1, H1, etc.) and dexterous hands (Allegro, Shadow, etc.). Physics-Based: GPU-accelerated optimization for clean, stable motion. Sim2Real-ready: Ready for deployment, from human video to real-world robot actions. Links: 📦 Code: https://github.com/facebookresearch/spider 📓 Tutorial: Notebook 🌐 Project Page: http://jc-bao.github.io/spider-project/ Would love to hear your feedback or help with any integration questions!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 15h ago
+17m ago
+
+---
+
+**[3d printed automatic tool-changer update](https://www.reddit.com/r/robotics/comments/1pt4jb8/3d_printed_automatic_toolchanger_update/)**
+
+Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
+
+29m ago
 
 ---
 
@@ -154,11 +154,11 @@ Stock Titan • 8h ago
 
 ---
 
-**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.post-gazette.com/business/tech-news/2025/12/22/agility-robotics-artificial-intelligence-humanoid-digit-robot/stories/202512110094)**
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
 
-Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-Pittsburgh Post-Gazette • 7h ago
+KEYC News Now • 2d ago
 
 ---
 
@@ -166,7 +166,7 @@ Pittsburgh Post-Gazette • 7h ago
 
 As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
 
-Business Insider • 17h ago
+Business Insider • 18h ago
 
 ---
 
@@ -182,7 +182,7 @@ KSBY News • 3d ago
 
 Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
 
-Sifted • 11h ago
+Sifted • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ This session will provide a high-level overview of NVIDIA's comprehensive approa
 
 📺 NVIDIA Developer
 
-👁️ 2K • 👍 86 • 💬 1 • ⏱️ 55:42 • 1d ago
+👁️ 2K • 👍 86 • 💬 1 • ⏱️ 55:42 • 2d ago
 
 ---
 

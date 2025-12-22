@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T16:56:35.089137+00:00'
+updated: '2025-12-22T17:23:36.882053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 16:56 UTC  
+**Last Updated:** December 22, 2025 at 17:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,031.27
+### $3,034.13
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +2.8%  
-**30d:** +8.7%  
-**90d:** -26.4%  
-**1y:** -11.0%  
+**24h:** +1.5%  
+**7d:** +2.4%  
+**30d:** +8.2%  
+**90d:** -26.8%  
+**1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $368.33B
+**Market Cap:** $365.92B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.5%
+-38.7%
 
 **All-Time Low:** $0.43
-+702742.4%
++700010.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 30m ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 57m ago
 
 ---
 
@@ -88,7 +88,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-10h ago
+11h ago
 
 ---
 
@@ -162,7 +162,15 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
+
+---
+
+**[Ethereum treasury news: ETHZills (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
+
+This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
+
+CoinDesk • 29m ago
 
 ---
 
@@ -190,6 +198,12 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**[BitMine Immersion Highlights Record Ethereum Treasury and Liquidity](https://www.tipranks.com/news/company-announcements/bitmine-immersion-highlights-record-ethereum-treasury-and-liquidity)**
+
+TipRanks • 3h ago
+
+---
+
 **[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
@@ -202,29 +216,13 @@ ZyCrypto • 1d ago
 
 Large holders are buying like never before while ETF numbers collapse.
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
 The Block • 3d ago
-
----
-
-**[ETHE: What You Need To Know About This Ethereum ETF](https://seekingalpha.com/article/4854984-ethe-what-you-need-to-know-about-this-ethereum-etf)**
-
-ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
-
-Seeking Alpha • 3h ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 2d ago
 
 ---
 
@@ -238,7 +236,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 611 • 👍 37 • 💬 5 • ⏱️ 17:34 • 43m ago
+👁️ 611 • 👍 37 • 💬 5 • ⏱️ 17:34 • 1h ago
 
 ---
 
@@ -258,7 +256,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 481 • 👍 27 • 💬 13 • ⏱️ 7:32 • 3h ago
+👁️ 481 • 👍 27 • 💬 13 • ⏱️ 7:32 • 4h ago
 
 ---
 
@@ -288,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 175 • 💬 9 • ⏱️ 6:15 • 12h ago
+👁️ 2K • 👍 175 • 💬 9 • ⏱️ 6:15 • 13h ago
 
 ---
 
@@ -298,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 121 • 💬 2 • ⏱️ 4:52 • 3h ago
+👁️ 1K • 👍 121 • 💬 2 • ⏱️ 4:52 • 4h ago
 
 ---
 
@@ -308,7 +306,7 @@ Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a
 
 📺 Thinking Crypto
 
-👁️ 697 • 👍 73 • 💬 26 • ⏱️ 31:48 • 3h ago
+👁️ 697 • 👍 73 • 💬 26 • ⏱️ 31:48 • 4h ago
 
 ---
 
@@ -328,7 +326,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 572 • 👍 39 • 💬 11 • ⏱️ 9:36 • 18h ago
+👁️ 572 • 👍 39 • 💬 11 • ⏱️ 9:36 • 19h ago
 
 ---
 

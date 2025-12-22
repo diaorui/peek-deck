@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T16:56:35.076341+00:00'
+updated: '2025-12-22T17:23:36.867038+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 16:56 UTC  
+**Last Updated:** December 22, 2025 at 17:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 5h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 6h ago
 
 ---
 
@@ -61,11 +61,11 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 ---
 
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
+**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
 
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 19h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 18m ago
 
 ---
 
@@ -74,6 +74,14 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
 🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 11h ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 20h ago
 
 ---
 
@@ -101,14 +109,6 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 ---
 
-**[How Google Gemini leapfrogged ChatGPT – and why the AI race may already be over](https://www.reddit.com/r/artificial/comments/1pt3vtc/how_google_gemini_leapfrogged_chatgpt_and_why_the/)**
-
-For more than 20 years Google has been the gateway to the internet – now it wants to use its dominance to win the AI race. Cloudflare CEO Matthew Prince tells Anthony Cuthbertson why new rules are needed to rein in its ‘radically unfair’ advantage and prevent another monopoly from emerging
-
-🔗 [The Independent](https://www.independent.co.uk/tech/google-gemini-vs-chatgpt-cloudflare-ai-b2881240.html) • 27m ago
-
----
-
 **[The Massive Acceleration of AI](https://www.reddit.com/r/artificial/comments/1pt30te/the_massive_acceleration_of_ai/)**
 
 🔗 [ecency.com](https://ecency.com/@taskmaster4450/the-massive-acceleration-of-ai-b99) • 1h ago
@@ -119,6 +119,54 @@ For more than 20 years Google has been the gateway to the internet – now it wa
 
 ## Google News: "ai"
 
+**[How to spot misleading AI videos by checking for hidden watermarks](https://www.bbc.com/news/live/cwyp2nyke4xt)**
+
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
+
+BBC • 6h ago
+
+---
+
+**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
+
+A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
+
+ABC News • 9h ago
+
+---
+
+**[Column | Your chatbot keeps a file on you. Here’s how to delete it.](https://www.washingtonpost.com/technology/2025/12/22/ai-privacy-settings-chatgpt-gemini-claude-copilot-meta/)**
+
+The Washington Post • 1h ago
+
+---
+
+**[I correctly predicted ChatGPT. Here are my 6 AI predictions for 2026](https://www.fastcompany.com/91461250/i-correctly-predicted-chatgpt-my-6-ai-predictions-2026)**
+
+Fast Company • 35m ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[Alphabet Buys Energy Startup Intersect For $4.75 Billion To Fuel AI Growth](https://www.forbes.com/sites/tylerroush/2025/12/22/alphabet-buys-clean-energy-startup-for-ai-data-centers-in-475-billion-deal/)**
+
+Forbes • 26m ago
+
+---
+
+**[Cognitive data architecture: Designing self-optimizing frameworks for scalable AI systems](https://www.cio.com/article/4109911/cognitive-data-architecture-designing-self-optimizing-frameworks-for-scalable-ai-systems.html)**
+
+If your AI feels slow, expensive or risky, the problem isn’t the models — it’s the data, and cognitive data architecture is the fix.
+
+cio.com • 16m ago
+
+---
+
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
@@ -127,67 +175,19 @@ CNN • 1d ago
 
 ---
 
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://www.yahoo.com/news/articles/boys-her-school-shared-ai-050314208.html)**
-
-Nude images of a 13-year-old girl and her friends, generated by artificial intelligence, were circulating on social media and had become the talk of a Louisiana middle school.  When the 13-year-old girl stepped onto the Lafourche Parish school bus at the end of the day, a classmate was showing one of them to a friend.  The 13-year-old girl’s attorneys allege he avoided school discipline altogether.
-
-Yahoo • 11h ago
-
----
-
-**[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
-
-Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
-
-CBS News • 1h ago
-
----
-
-**[Instacart ends AI-driven pricing tests that drove up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
-
-A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
-
-CNBC • 2h ago
-
----
-
-**[Instacart ends AI-driven price experiments after criticism](https://www.reuters.com/business/instacart-ends-ai-driven-price-experiments-after-criticism-2025-12-22/)**
-
-Reuters • 2h ago
-
----
-
-**[AI Study Says Self-Running Image Tools Keep Turning Different Prompts Into the Same Boring Pictures](https://www.extremetech.com/computing/ai-study-says-self-running-image-tools-keep-turning-different-prompts-into)**
-
-extremetech.com • 1h ago
-
----
-
-**[From AI Co-Pilots To AI Challengers: 6 Questions Every CEO Must Answer](https://www.forbes.com/sites/johnsviokla/2025/12/22/from-ai-co-pilots-to-ai-challengers-6-questions-every-ceo-must-answer/)**
-
-Forbes • 1h ago
-
----
-
-**[How to spot misleading AI videos by checking for hidden watermarks](https://www.bbc.com/news/live/cwyp2nyke4xt)**
-
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
-
-BBC • 27m ago
-
----
-
 **[AI Is Democratizing Music. Unfortunately.](https://www.theatlantic.com/culture/2025/12/ai-music-suno-warner-bros/685331/)**
 
 The emerging technology is warping the record industry in all sorts of strange—and foreboding—ways.
 
-The Atlantic • 3h ago
+The Atlantic • 4h ago
 
 ---
 
-**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
 
-Bloomberg.com • 18h ago
+Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
+
+CNBC • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 18h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 512 • 💬 479 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 513 • 💬 479 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -207,7 +207,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 245 • 💬 155 • 23h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 248 • 💬 155 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -219,7 +219,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 235 • 💬 186 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 236 • 💬 186 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -227,7 +227,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 176 • 💬 394 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 176 • 💬 395 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -235,7 +235,7 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Personal Musings and Transcripts
 
-⬆️ 134 • 💬 61 • 23h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 135 • 💬 61 • 1d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -247,17 +247,17 @@ Timeline & Responsible Disclosure
 
 ---
 
+**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
+
+⬆️ 128 • 💬 137 • 10h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+
+---
+
 **[MIRA – An open-source persistent AI entity with memory](https://news.ycombinator.com/item?id=46339537)**
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
 ⬆️ 128 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
-
----
-
-**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
-
-⬆️ 125 • 💬 130 • 9h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -295,7 +295,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 98K • 👍 4K • 💬 190 • ⏱️ 13:25 • 22h ago
+👁️ 98K • 👍 4K • 💬 190 • ⏱️ 13:25 • 23h ago
 
 ---
 
@@ -305,7 +305,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 10K • 👍 261 • 💬 22 • ⏱️ 25:57 • 20h ago
+👁️ 10K • 👍 261 • 💬 22 • ⏱️ 25:57 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/tw
 
 📺 NetworkChuck
 
-👁️ 164K • 👍 7K • 💬 968 • ⏱️ 33:14 • 1d ago
+👁️ 164K • 👍 7K • 💬 968 • ⏱️ 33:14 • 2d ago
 
 ---
 
@@ -375,7 +375,7 @@ Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Or
 
 📺 Sasha Yanshin
 
-👁️ 104K • 👍 5K • 💬 1K • ⏱️ 16:44 • 22h ago
+👁️ 104K • 👍 5K • 💬 1K • ⏱️ 16:44 • 23h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,283 • 14d ago
+⬇️ 363,445 • ❤️ 3,285 • 14d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 522 • 3d ago
+⬇️ 5,379 • ❤️ 524 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 433 • 2d ago
+⬇️ 86,205 • ❤️ 435 • 2d ago
 
 ---
 
@@ -439,7 +439,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,187 • ❤️ 393 • 4d ago
+⬇️ 3,187 • ❤️ 394 • 4d ago
 
 ---
 
@@ -451,7 +451,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 387 • 4d ago
+⬇️ 8,830 • ❤️ 390 • 4d ago
 
 ---
 
@@ -475,7 +475,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 343 • 5d ago
+⬇️ 0 • ❤️ 345 • 5d ago
 
 ---
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 11h ago
+⭐ 18.7k • 🔱 3.0k • 12h ago
 
 ---
 
@@ -736,7 +736,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 853 • 🔱 80 • 37m ago
+⭐ 853 • 🔱 80 • 1h ago
 
 ---
 
