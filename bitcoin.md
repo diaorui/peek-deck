@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T04:58:35.926579+00:00'
+updated: '2025-12-22T05:33:16.011708+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 04:58 UTC  
+**Last Updated:** December 22, 2025 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,695.65
+### $88,761.26
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.0%  
-**7d:** +1.6%  
-**30d:** +2.4%  
+**7d:** +1.5%  
+**30d:** +2.3%  
 **90d:** -21.4%  
-**1y:** -6.2%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1776.20B
+**Market Cap:** $1772.18B
 Rank #1
 
 **Circulating Supply:** 19,965,393 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.6%
 
 **All-Time Low:** $67.81
-+131034.1%
++130826.1%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
 7h ago
-
----
-
-**[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
-
-9h ago
 
 ---
 
@@ -115,7 +109,7 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-4h ago
+5h ago
 
 ---
 
@@ -129,13 +123,13 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
 
-1h ago
+2h ago
 
 ---
 
 **[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -147,6 +141,12 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 ---
 
+**[The benefit of dca](https://www.reddit.com/r/Bitcoin/comments/1psnkwr/the_benefit_of_dca/)**
+
+3h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -155,7 +155,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -165,33 +165,27 @@ Forbes • 16h ago
 
 ---
 
+**[Bitcoin Will Hit $200,000 In 2026 Thanks To This New Federal Reserve Program, Arthur Hayes Says](https://finance.yahoo.com/news/bitcoin-hit-200-000-2026-043106493.html)**
+
+Bitcoin (CRYPTO: BTC) is consolidating below $90,000, but BitMEX co-founder Arthur Hayes says the pause masks a powerful liquidity-driven move that could send the cryptocurrency to $200,000 in 2026. What Happened: In his latest essay, "Love Language," ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin faces uncertain 2026 outlook, $250,000 by end of 2027: Galaxy Digital's Alex Thorn](https://www.coindesk.com/markets/2025/12/21/galaxy-digital-s-head-of-research-explains-why-bitcoin-s-outlook-is-so-uncertain-in-2026)**
 
 Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
+**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
 
-This dip is an opportunity to think about what matters most with this asset.
+Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
-
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
-
-Nasdaq • 17h ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 2d ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -203,11 +197,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Has Entered a Bear Market, Say Analysts—Here's Why](https://decrypt.co/353225/bitcoin-entered-bear-market-analysts-why)**
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
-As Bitcoin continues to languish below the $90,000 mark, CryptoQuant analysts are ready to call it: BTC has entered a bear market.
+The Block • 2d ago
 
-Decrypt • 1d ago
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+
+Nasdaq • 17h ago
 
 ---
 
@@ -217,7 +217,7 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqeUNBOpz8MloMTgYBmqpo4iQRhpB4JYyWb3ImFqE_4I2EewHTNqA_Gx&gaa_ts=6948d362&gaa_sig=S1QJTjfkVB2Qeqy8K5hIl52vyniLICAhj_KV7X9qUlfHsKnW2uqO2ckQHLBVFg152NPQs3hPHlHe7a0A-2Qapw%3D%3D)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqebkRg7nn4y__X0hmtZbr6MwZ5AWpodC_IHrKP8sgp_mwg4PUBAc1bx&gaa_ts=6948db69&gaa_sig=ypTf8dPBZr3vTsFMvTs3Ib2jCYI3uErvxuOimobx8pU72smalsqxtAPKnwlCSxry-QAvWNkzVTx7AryQ5rjqQQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -275,7 +275,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 18h ago
+⬆️ 1 • 💬 0 • 19h ago
 
 ---
 
@@ -289,7 +289,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 12h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 13h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -297,13 +297,23 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 ## YouTube Videos: "bitcoin"
 
+**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
+
+Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 738 • 💬 77 • ⏱️ 15:15 • 4h ago
+
+---
+
 **[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
 
 Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 798 • 💬 251 • ⏱️ 55:13 • 14h ago
+👁️ 17K • 👍 826 • 💬 248 • ⏱️ 55:13 • 15h ago
 
 ---
 
@@ -313,7 +323,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 874 • 💬 61 • ⏱️ 16:18 • 6h ago
+👁️ 17K • 👍 1K • 💬 70 • ⏱️ 16:18 • 7h ago
 
 ---
 
@@ -323,27 +333,17 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 167 • ⏱️ 14:31 • 1d ago
+👁️ 32K • 👍 2K • 💬 167 • ⏱️ 14:31 • 1d ago
 
 ---
 
-**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=QjxuQWGEIJ8)**
 
-Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Simply Bitcoin
+📺 ITS Academy 
 
-👁️ 4K • 👍 477 • 💬 47 • ⏱️ 15:15 • 3h ago
-
----
-
-**[BITCOIN WILL MOVE SOON (Don&#39;t Miss This)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pd5wdA-CqGA)**
-
-BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* https://bit.ly/PIONEX_ ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 313 • 💬 82 • ⏱️ 16:57 • 8h ago
+👁️ 5K • 👍 1K • 3h ago
 
 ---
 
@@ -357,23 +357,23 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 ---
 
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
+**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
 
-📺 CryptosRUs
+📺 CryptosRus Extra
 
-👁️ 46K • 👍 2K • 💬 216 • ⏱️ 44:14 • 2d ago
+👁️ 16K • 👍 692 • 💬 369 • ⏱️ 10:58 • 2d ago
 
 ---
 
-**[&quot;THIS Is When You See $10M Bitcoin” — Samson Mow Just Dropped A 2026 BOMBSHELL](https://www.youtube.com/watch?v=XCP2tWc45FM)**
+**[Inflation Drops to 2.7% | Bitcoin, Altcoins, Stocks](https://www.youtube.com/watch?v=w1dJjaF1g9g)**
 
-This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking prediction for 2026, revealing the most ...
+Let's talk about the current CPI (inflation) report and how it may affect risk assets like Bitcoin, Altcoins, and Stocks. Into The ...
 
-📺 BTC Sessions
+📺 Benjamin Cowen
 
-👁️ 28K • 👍 1K • 💬 463 • ⏱️ 20:14 • 1d ago
+👁️ 68K • 👍 4K • 💬 223 • ⏱️ 29:15 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 287 • 💬 7 • ⏱️ 1:00 • 10h ago
+👁️ 6K • 👍 305 • 💬 7 • ⏱️ 1:00 • 11h ago
 
 ---
 
@@ -391,7 +391,7 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 3K • 👍 184 • 💬 32 • ⏱️ 12:58 • 12h ago
+👁️ 3K • 👍 192 • 💬 53 • ⏱️ 12:58 • 12h ago
 
 ---
 
