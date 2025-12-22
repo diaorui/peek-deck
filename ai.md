@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T04:27:46.658891+00:00'
+updated: '2025-12-22T04:58:35.918132+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 04:27 UTC  
+**Last Updated:** December 22, 2025 at 04:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 23h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 16h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
 
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 10h ago
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Space Force uses AI challenge to push everyday use of artificial intelligence Sp
 
 AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ AI Overviews now show up in around half of searches, and many people already use
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfHcrnbR68T802VYG1pKPEe1pClChcUmqD4JVAS1pTqmKzq5LAmLaU4&gaa_ts=6948cc30&gaa_sig=LWQJv9KcxwQqbwYgrI-MCqMkExLal9RXsJ1_Guz9nJ6AQiiF32ggL1hF5r98nh0Cr_tZIY_cOmA8wWDPsntJNA%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfeo8A4jEnWV0Ey5Btq2KjjVeBCsVBgGTrcaMeoqlwiYiIer-PMGDHo&gaa_ts=6948d361&gaa_sig=XOXOJ5j8jbhw-LMMfyVaoeKV71HgaEZeAApIfJO-qO-RHLCHzpR_aH4W40zqHNFhJKCTZWJ3sqIs-NGSOOuGrw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -143,11 +143,11 @@ BBC • 2d ago
 
 ---
 
-**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
+**[Gen Z is using social media to job hunt but is still fearful AI will dictate their career paths](https://nypost.com/2025/12/21/lifestyle/gen-z-fears-ai-will-steal-their-jobs/)**
 
-Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
+They’re now known as the “reroute generation.”
 
-CNBC • 20h ago
+New York Post • 8h ago
 
 ---
 
@@ -173,23 +173,25 @@ Gizmodo • 14h ago
 
 ---
 
+**[Fears grow over AI bubble - and here are the pressure points that could burst it](https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328)**
+
+Tom Clarke explains why some analysts think the maths behind the AI boom no longer adds up, and breaks down the three pressure points that could ultimately burst the AI bubble.
+
+Sky News • 1h ago
+
+---
+
+**[Asia stocks climb as AI rebound lifts chipmakers; Japan, S.Korea lead gains](https://www.investing.com/news/stock-market-news/asia-stocks-climb-as-ai-rebound-lifts-chipmakers-japan-skorea-lead-gains-4418364)**
+
+Investing.com • 1h ago
+
+---
+
 **[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Democrats' divide over AI frames a debate for 2028](https://www.axios.com/2025/12/21/ai-fight-democrats-2028)**
-
-Axios • 3h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -213,15 +215,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 223 • 💬 178 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-
----
-
-**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
-
-The Indie Game Awards presented the award last night, only to strip it hours later.
-
-⬆️ 165 • 💬 380 • 21h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 225 • 💬 178 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -229,7 +223,15 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 163 • 💬 92 • 11h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 172 • 💬 102 • 12h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+
+---
+
+**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
+
+The Indie Game Awards presented the award last night, only to strip it hours later.
+
+⬆️ 165 • 💬 381 • 21h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -237,7 +239,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 Timeline & Responsible Disclosure
 
-⬆️ 128 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 129 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -245,7 +247,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 123 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 124 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -253,7 +255,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 111 • 💬 57 • 11h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 116 • 💬 57 • 11h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -267,7 +269,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 103 • 💬 94 • 23h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 104 • 💬 94 • 23h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -405,7 +407,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 447 • 2d ago
+⬇️ 3,459 • ❤️ 450 • 2d ago
 
 ---
 
@@ -429,7 +431,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 413 • 3d ago
+⬇️ 10,633 • ❤️ 415 • 3d ago
 
 ---
 
@@ -489,7 +491,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 315 • 6d ago
+⬇️ 0 • ❤️ 316 • 6d ago
 
 ---
 
@@ -659,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.6k • 🔱 612 • 14m ago
+⭐ 5.6k • 🔱 612 • 44m ago
 
 ---
 
@@ -669,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 174 • 1h ago
+⭐ 2.4k • 🔱 174 • 2h ago
 
 ---
 
@@ -729,7 +731,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 872 • 🔱 84 • 2h ago
+⭐ 872 • 🔱 84 • 3h ago
 
 ---
 

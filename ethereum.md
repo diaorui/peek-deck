@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T04:27:46.673837+00:00'
+updated: '2025-12-22T04:58:35.932609+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 04:27 UTC  
+**Last Updated:** December 22, 2025 at 04:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +2.1%  
-**30d:** +7.9%  
-**90d:** -27.0%  
-**1y:** -11.7%  
+**24h:** +2.2%  
+**7d:** +2.5%  
+**30d:** +8.4%  
+**90d:** -26.6%  
+**1y:** -11.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.33B
+**Market Cap:** $366.77B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.8%
+-38.6%
 
 **All-Time Low:** $0.43
-+698892.3%
++701654.6%
 
 ---
 
@@ -196,22 +196,6 @@ The Block • 2d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
-
-ts2.tech • 2d ago
-
----
-
-**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
-
-Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
-
-ZyCrypto • 1d ago
-
----
-
 **[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
 
 ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
@@ -225,6 +209,22 @@ AMBCrypto • 2d ago
 Zug, Switzerland, December 19th, 2025, FinanceWireEthereum&rsquo;s market is one of the most competitive corners of DeFi, and...
 
 markets.businessinsider.com • 2d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 2d ago
+
+---
+
+**[$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question](https://beincrypto.com/bitcoin-ethereum-options-december-expiry/)**
+
+Bitcoin and Ethereum face uncertainty as $3.16 billion in crypto options expire ahead of Christmas. What investors must know.
+
+BeInCrypto • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 Stock Moe
 
-👁️ 8K • 👍 691 • 💬 18 • ⏱️ 11:18 • 6h ago
+👁️ 8K • 👍 691 • 💬 18 • ⏱️ 11:18 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethere
 
 📺 Ryan’s Money Lab
 
-👁️ 5K • 👍 236 • 💬 36 • ⏱️ 8:06 • 12h ago
+👁️ 5K • 👍 236 • 💬 36 • ⏱️ 8:06 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 6K • 👍 313 • 💬 82 • ⏱️ 16:57 • 7h ago
+👁️ 6K • 👍 313 • 💬 82 • ⏱️ 16:57 • 8h ago
 
 ---
 

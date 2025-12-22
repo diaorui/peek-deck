@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T04:27:46.677176+00:00'
+updated: '2025-12-22T04:58:35.935902+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 04:27 UTC  
+**Last Updated:** December 22, 2025 at 04:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 3h ago
 
 ---
 
@@ -108,7 +108,7 @@ https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body contr
 
 Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
 
-2h ago
+3h ago
 
 ---
 
@@ -138,19 +138,51 @@ South China Morning Post • 2d ago
 
 ---
 
-**[iRobot founder says company's bankruptcy revealed a new kind of competitor: 'the Chinese fast follower'](https://www.businessinsider.com/irobot-ceo-bankruptcy-china-fast-followers-competition-2025-12)**
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
-As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-Business Insider • 5h ago
+Futurism • 2d ago
 
 ---
 
-**[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
 
-Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-KSBY News • 2d ago
+The Verge • 15h ago
+
+---
+
+**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
+
+Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
+
+CNET • 15h ago
+
+---
+
+**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+
+Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+
+TechNode • 1d ago
+
+---
+
+**[China’s humanoid robots' dance performance in Chengdu awes netizens; Elon Musk calls it ‘impressive’ on X](https://www.globaltimes.cn/page/202512/1351059.shtml)**
+
+Six humanoid robots recently took the stage at Chinese American singer-songwriter Wang Leehomâs concert in Chengdu, Southwest Chinaâs Sichuan Province, performing alongside the singer and drawing widespread attention, including praise from US tech billionaire Elon Musk, who retweeted a related video on X, and wrote âimpressive.â
+
+Global Times • 1d ago
+
+---
+
+**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
+
+Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -159,36 +191,6 @@ KSBY News • 2d ago
 Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
 KEYC News Now • 2d ago
-
----
-
-**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
-
-Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
-
-The Robot Report • 1d ago
-
----
-
-**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.newsnationnow.com/business/tech/texas-am-engineering-students-robot-dog/)**
-
-NewsNation • 15h ago
-
----
-
-**[Richtech Robotics (RR): Assessing a Premium Valuation After a Volatile Share Price Pullback](https://finance.yahoo.com/news/richtech-robotics-rr-assessing-premium-201545662.html)**
-
-Richtech Robotics (RR) has quietly turned into a roller coaster for traders, with the stock sliding this week after a strong year to date, even though the business is still early in its growth story. See our latest analysis for Richtech Robotics. The latest pullback, including a 1 day share price return of minus 5.5 percent and a 7 day share price return of minus 26.7 percent, comes after a sharp run that still leaves Richtech Robotics up 42.3 percent on a year to date share price basis and...
-
-Yahoo Finance • 3d ago
-
----
-
-**[Shepherdsville distribution center uses robots to ship 120,000 holiday packages daily](https://www.wave3.com/2025/12/18/shepherdsville-distribution-center-uses-robots-ship-120000-holiday-packages-daily/)**
-
-A Shepherdsville distribution center is using 200 robots to help workers ship 120,000 packages daily during the peak holiday season, ensuring Christmas gifts arrive on time.
-
-WAVE News • 3d ago
 
 ---
 
@@ -212,7 +214,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 3K • 👍 29 • 💬 2 • ⏱️ 0:19 • 11h ago
+👁️ 3K • 👍 29 • 💬 2 • ⏱️ 0:19 • 12h ago
 
 ---
 
@@ -282,7 +284,7 @@ Twenty-twenty-five is the year humanoid robots started dancing better than peopl
 
 📺 Kalil 4.0
 
-👁️ 452 • 👍 3 • ⏱️ 1:09 • 1h ago
+👁️ 452 • 👍 3 • ⏱️ 1:09 • 2h ago
 
 ---
 
