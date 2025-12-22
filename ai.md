@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T09:33:28.217600+00:00'
+updated: '2025-12-22T09:53:28.901131+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 09:33 UTC  
+**Last Updated:** December 22, 2025 at 09:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 7m ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 27m ago
 
 ---
 
@@ -97,7 +97,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
 
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 3h ago
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 21h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 22h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg.com • 1h ago
 
 Many designers are increasingly warming to the idea of incorporating AI in design, says Cecilia Brenner, the managing director of Design for Good, a global design charity.
 
-Fortune • 40m ago
+Fortune • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 40m ago
 
 Nvidia's revenue momentum is underpinned by a $0.5 trillion Blackwell/Rubin pipeline. Click here to read more about NVDA stock and why it is a Strong Buy.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 234 • 💬 345 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 234 • 💬 345 • 2d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -281,23 +281,13 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 ## YouTube Videos: "ai"
 
-**[Google Gemini 4: The AI That Understands the World Like Never Before](https://www.youtube.com/watch?v=NOfwg2Wj2HA)**
-
-Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! Google Gemini 4 is unlike anything we've seen before.
-
-📺 BitBiasedAI
-
-👁️ 7K • 👍 198 • 💬 14 • ⏱️ 25:57 • 13h ago
-
----
-
 **[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
 
 Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
 
 📺 Codie Sanchez
 
-👁️ 69K • 👍 3K • 💬 131 • ⏱️ 13:25 • 15h ago
+👁️ 76K • 👍 3K • 💬 150 • ⏱️ 13:25 • 15h ago
 
 ---
 
@@ -307,7 +297,7 @@ Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 26K • 👍 547 • 💬 19 • ⏱️ 0:56 • 10h ago
+👁️ 37K • 👍 710 • 💬 21 • ⏱️ 0:56 • 10h ago
 
 ---
 
@@ -317,7 +307,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 51K • 👍 2K • 💬 96 • ⏱️ 1:29 • 15h ago
+👁️ 55K • 👍 2K • 💬 103 • ⏱️ 1:29 • 15h ago
 
 ---
 
@@ -327,7 +317,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 769K • 👍 5K • 💬 178 • ⏱️ 8:24 • 1d ago
+👁️ 784K • 👍 5K • 💬 183 • ⏱️ 8:24 • 1d ago
 
 ---
 
@@ -337,7 +327,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 3K • 👍 163 • 💬 9 • ⏱️ 13:03 • 12h ago
+👁️ 3K • 👍 173 • 💬 10 • ⏱️ 13:03 • 12h ago
 
 ---
 
@@ -347,7 +337,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 203K • 👍 11K • 💬 2K • ⏱️ 19:40 • 1d ago
+👁️ 206K • 👍 11K • 💬 2K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -357,17 +347,17 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 57K • 👍 3K • 💬 198 • ⏱️ 37:38 • 1d ago
+👁️ 58K • 👍 3K • 💬 202 • ⏱️ 37:38 • 1d ago
 
 ---
 
-**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
+**[I built an AI Supercomputer... again (2TB RAM)](https://www.youtube.com/watch?v=bFgTxr5yst0)**
 
-Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
+Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/twingate-networkchuck I built another AI supercomputer ...
 
-📺 Sasha Yanshin
+📺 NetworkChuck
 
-👁️ 75K • 👍 4K • 💬 1K • ⏱️ 16:44 • 15h ago
+👁️ 153K • 👍 7K • 💬 910 • ⏱️ 33:14 • 1d ago
 
 ---
 
@@ -377,7 +367,17 @@ Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf
 
 📺 PrestonReacts
 
-👁️ 117K • 👍 2K • 💬 347 • ⏱️ 15:32 • 1d ago
+👁️ 121K • 👍 2K • 💬 349 • ⏱️ 15:32 • 1d ago
+
+---
+
+**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
+
+Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
+
+📺 gptars
+
+👁️ 2.7M • 👍 106K • 💬 2K • ⏱️ 1:01 • 2d ago
 
 ---
 
@@ -517,7 +517,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 11 • 💬 2 • ⭐ 4,578 • 10d ago
+▲ 11 • 💬 2 • ⭐ 4,578 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 222 • 50m ago
+⭐ 1.3k • 🔱 222 • 1h ago
 
 ---
 

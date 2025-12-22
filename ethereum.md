@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T09:33:28.240739+00:00'
+updated: '2025-12-22T09:53:28.915853+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 09:33 UTC  
+**Last Updated:** December 22, 2025 at 09:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +2.5%  
+**24h:** +1.6%  
+**7d:** +2.6%  
 **30d:** +8.4%  
-**90d:** -26.7%  
-**1y:** -11.3%  
+**90d:** -26.6%  
+**1y:** -11.2%  
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 597 • 💬 63 • ⏱️ 15:49 • 18h ago
+👁️ 16K • 👍 612 • 💬 60 • ⏱️ 15:49 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 12K • 👍 646 • 💬 433 • ⏱️ 11:34 • 20h ago
+👁️ 12K • 👍 651 • 💬 437 • ⏱️ 11:34 • 20h ago
 
 ---
 
@@ -258,17 +258,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 Stock Moe
 
-👁️ 11K • 👍 803 • 💬 18 • ⏱️ 11:18 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=baVZ1J_gs5w)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 856 • 👍 100 • 💬 6 • ⏱️ 6:15 • 5h ago
+👁️ 11K • 👍 819 • 💬 18 • ⏱️ 11:18 • 12h ago
 
 ---
 
@@ -278,7 +268,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 440 • 👍 35 • 💬 7 • ⏱️ 9:36 • 11h ago
+👁️ 490 • 👍 37 • 💬 8 • ⏱️ 9:36 • 11h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=baVZ1J_gs5w)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 131 • 💬 7 • ⏱️ 6:15 • 5h ago
 
 ---
 
@@ -288,17 +288,7 @@ BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 8K • 👍 356 • 💬 73 • ⏱️ 16:57 • 12h ago
-
----
-
-**[The Calm Before ETH’s next move  (BlackRock In Control)](https://www.youtube.com/watch?v=AOKAaYWtBN4)**
-
-Ethereum is currently showing one of the biggest divergences in crypto history. On one hand, network growth is exploding, with ...
-
-📺 CryptoStock Lab
-
-👁️ 610 • 👍 33 • 💬 2 • ⏱️ 9:42 • 13h ago
+👁️ 9K • 👍 375 • 💬 81 • ⏱️ 16:57 • 13h ago
 
 ---
 
@@ -308,17 +298,17 @@ Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethere
 
 📺 Ryan’s Money Lab
 
-👁️ 6K • 👍 284 • 💬 42 • ⏱️ 8:06 • 18h ago
+👁️ 7K • 👍 298 • 💬 42 • ⏱️ 8:06 • 18h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 22 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=19R7txpgoeU)**
+**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
 
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
 
-📺 Balraj Trading Tech
+📺 Milk Road
 
-👁️ 5K • 👍 816 • 3h ago
+👁️ 3K • 👍 221 • 💬 116 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -329,6 +319,16 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 📺 Tevis
 
 👁️ 22K • 👍 1K • 💬 209 • ⏱️ 35:41 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Wir dürfen weiter verhalten optimistisch sein!!](https://www.youtube.com/watch?v=KB3rgh9gIqU)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 560 • 💬 130 • ⏱️ 11:01 • 4h ago
 
 ---
 

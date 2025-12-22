@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T09:33:28.229210+00:00'
+updated: '2025-12-22T09:53:28.909545+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 09:33 UTC  
+**Last Updated:** December 22, 2025 at 09:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.0%  
-**7d:** +2.3%  
+**7d:** +2.4%  
 **30d:** +3.1%  
 **90d:** -20.8%  
 **1y:** -5.5%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-11h ago
+12h ago
 
 ---
 
@@ -115,7 +115,7 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 **[I'm still Stuck in 2021 🥲](https://www.reddit.com/r/Bitcoin/comments/1psul41/im_still_stuck_in_2021/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 10h ago
 
 Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -203,19 +203,19 @@ Yahoo Finance • 1h ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 
 **[Bitcoin Mining May Be Supporting the Ruble, Russia’s Top Banker Reveals](https://www.ccn.com/news/crypto/bitcoin-mining-supporting-ruble-russias-top-banker-reveals/)**
 
-CCN.com • 48m ago
+CCN.com • 1h ago
 
 ---
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -263,7 +263,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
-⬆️ 1 • 💬 0 • 5d ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 6d ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -285,7 +285,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 928 • 💬 66 • ⏱️ 15:15 • 8h ago
+👁️ 14K • 👍 1K • 💬 83 • ⏱️ 15:15 • 8h ago
 
 ---
 
@@ -295,17 +295,17 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 75 • ⏱️ 16:18 • 11h ago
+👁️ 25K • 👍 1K • 💬 96 • ⏱️ 16:18 • 11h ago
 
 ---
 
-**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
+**[ALERT: HUGE BITCOIN MOVE STARTS TOMORROW!](https://www.youtube.com/watch?v=TV-nQpEQzT8)**
 
-Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
+WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100 FREE COUPON BLOFIN: ...
 
-📺 The Wolf Of All Streets
+📺 The Moon Show
 
-👁️ 18K • 👍 851 • 💬 248 • ⏱️ 55:13 • 19h ago
+👁️ 7K • 👍 497 • 💬 21 • ⏱️ 7:16 • 11h ago
 
 ---
 
@@ -315,7 +315,37 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 168 • ⏱️ 14:31 • 1d ago
+👁️ 33K • 👍 2K • 💬 163 • ⏱️ 14:31 • 1d ago
+
+---
+
+**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
+
+Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 870 • 💬 250 • ⏱️ 55:13 • 19h ago
+
+---
+
+**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
+
+Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
+
+📺 CryptosRus Extra
+
+👁️ 17K • 👍 693 • 💬 371 • ⏱️ 10:58 • 2d ago
+
+---
+
+**[Bitcoin: This will PISS YOU OFF!!!](https://www.youtube.com/watch?v=4dW0m0neAo4)**
+
+Bitcoin what now? I Ate ONLY MEAT for 30 Days! The Results SHOCKED me https://youtu.be/B5tImpo66YA (click)
+
+📺 MMCrypto
+
+👁️ 40K • 👍 3K • 💬 437 • ⏱️ 8:54 • 1d ago
 
 ---
 
@@ -325,17 +355,7 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 129 • ⏱️ 13:47 • 2d ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 47K • 👍 2K • 💬 217 • ⏱️ 44:14 • 2d ago
+👁️ 48K • 👍 2K • 💬 126 • ⏱️ 13:47 • 2d ago
 
 ---
 
@@ -345,15 +365,7 @@ Let's talk about the current CPI (inflation) report and how it may affect risk a
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 4K • 💬 223 • ⏱️ 29:15 • 1d ago
-
----
-
-**[PROOF NO ONE KNOWS ANYTHING IN CRYPTO! (MYSELF INCLUDED?!) #crypto #cryptocurrency #bitcoin #xrp](https://www.youtube.com/watch?v=7VEejj_vwMI)**
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 317 • 💬 8 • ⏱️ 1:00 • 15h ago
+👁️ 70K • 👍 4K • 💬 224 • ⏱️ 29:15 • 1d ago
 
 ---
 
@@ -363,17 +375,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 58K • 👍 3K • 💬 101 • ⏱️ 46:11 • 1d ago
-
----
-
-**[&quot;My Latest 2026 BTC Prediction Will Come As a Huge Surprise&quot; - Michael Saylor](https://www.youtube.com/watch?v=iB4F2IAcSvA)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 214 • 💬 5 • ⏱️ 22:00 • 15h ago
+👁️ 59K • 👍 3K • 💬 101 • ⏱️ 46:11 • 1d ago
 
 ---
 

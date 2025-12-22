@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T09:33:28.246874+00:00'
+updated: '2025-12-22T09:53:28.919154+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 09:33 UTC  
+**Last Updated:** December 22, 2025 at 09:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-18h ago
+19h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 8h ago
 
 ---
 
@@ -68,7 +68,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-11h ago
+12h ago
 
 ---
 
@@ -150,7 +150,7 @@ TechNode • 1d ago
 
 Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
 
-Pittsburgh Post-Gazette • 33m ago
+Pittsburgh Post-Gazette • 53m ago
 
 ---
 
@@ -204,7 +204,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 32K • 👍 685 • 💬 76 • ⏱️ 2:08:46 • 2d ago
+👁️ 33K • 👍 691 • 💬 76 • ⏱️ 2:08:46 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 17K • 👍 403 • 💬 86 • ⏱️ 5:25 • 20h ago
+👁️ 17K • 👍 418 • 💬 87 • ⏱️ 5:25 • 20h ago
 
 ---
 
@@ -224,27 +224,27 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 7K • 👍 64 • 💬 2 • ⏱️ 0:19 • 16h ago
+👁️ 11K • 👍 84 • 💬 4 • ⏱️ 0:19 • 17h ago
 
 ---
 
-**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
 
-jumpersjump #hardclipped.
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
 
-📺 Sharp Cut
+📺 AZFK
 
-👁️ 997K • 👍 14K • 💬 289 • ⏱️ 0:29 • 10h ago
+👁️ 116K • 👍 6K • 💬 486 • ⏱️ 13:43 • 3d ago
 
 ---
 
-**[The SHOCKING Rise of Humanoid Robot Performers](https://www.youtube.com/watch?v=PUc2v-uQQ9I)**
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
 
-Chinese robotics leader Unitree is capping off a blockbuster year the same way it entered 2025: with the power of dance. A viral ...
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
 
-📺 Kalil 4.0
+📺 SocksReact
 
-👁️ 2K • 👍 30 • 💬 5 • ⏱️ 7:34 • 1d ago
+👁️ 434K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
 
 ---
 
@@ -258,33 +258,23 @@ This session will provide a high-level overview of NVIDIA's comprehensive approa
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 114K • 👍 6K • 💬 484 • ⏱️ 13:43 • 3d ago
-
----
-
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
-
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
-
-📺 SocksReact
-
-👁️ 426K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
-
----
-
 **[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
 
 Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
 
 📺 South China Morning Post
 
-👁️ 53K • 👍 647 • 💬 170 • ⏱️ 3:55 • 2d ago
+👁️ 54K • 👍 667 • 💬 172 • ⏱️ 3:55 • 2d ago
+
+---
+
+**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
+
+MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
+
+📺 Tyler & Snowi
+
+👁️ 601K • 👍 25K • 💬 439 • ⏱️ 21:05 • 10h ago
 
 ---
 
@@ -295,6 +285,16 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 📺 AI Revolution
 
 👁️ 75K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
+
+---
+
+**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
+
+jumpersjump #hardclipped.
+
+📺 Sharp Cut
+
+👁️ 1.1M • 👍 17K • 💬 341 • ⏱️ 0:29 • 10h ago
 
 ---
 
