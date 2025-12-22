@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T18:52:44.199684+00:00'
+updated: '2025-12-22T19:14:18.299062+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 18:52 UTC  
+**Last Updated:** December 22, 2025 at 19:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 7h ago
-
----
-
-**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
-
-I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
-
-13h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 8h ago
 
 ---
 
@@ -61,19 +53,19 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 ---
 
+**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
+
+I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
+
+13h ago
+
+---
+
 **[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 1h ago
-
----
-
-**[Intel releases GenAI Examples v1.5 - while validating this AI showcase on old Xeon CPUs](https://www.reddit.com/r/artificial/comments/1pt619a/intel_releases_genai_examples_v15_while/)**
-
-Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
-
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 1h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 2h ago
 
 ---
 
@@ -85,11 +77,19 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 ---
 
+**[Intel releases GenAI Examples v1.5 - while validating this AI showcase on old Xeon CPUs](https://www.reddit.com/r/artificial/comments/1pt619a/intel_releases_genai_examples_v15_while/)**
+
+Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
+
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 1h ago
+
+---
+
 **[We asked four AI coding agents to rebuild Minesweeper, and the results were explosive...](https://www.reddit.com/r/artificial/comments/1psyume/we_asked_four_ai_coding_agents_to_rebuild/)**
 
 How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 6h ago
 
 ---
 
@@ -137,39 +137,41 @@ CNN • 1d ago
 
 ---
 
-**[Alphabet to Buy Intersect for $4.75 Billion as AI-Investment Plans Grow](https://www.wsj.com/tech/ai/alphabet-to-buy-intersect-for-4-75-billion-in-cash-b67ff7b9?gaa_at=eafs&gaa_n=AWEtsqeKq14-LFzxql7ZaGBghIPy3IOz0-aqgMF-SRysKR9wy0w4Hc1otC-n&gaa_ts=6949903e&gaa_sig=eAIE7LwDGu1ZJoKi6kpdn3OUvLPZ3_6dTevJIhjyY4577FFCc19s9XbxeVhSOf0Z5IrTNJgQLzRfGdLokpIMTA%3D%3D)**
+**[Instacart halts 'item price tests' amid scrutiny of its AI tools](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454)**
 
-The Wall Street Journal • 1h ago
+Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
----
-
-**[Alphabet Buys Clean Energy Startup For AI Data Centers In $4.75 Billion Deal](https://www.forbes.com/sites/tylerroush/2025/12/22/alphabet-buys-clean-energy-startup-for-ai-data-centers-in-475-billion-deal/)**
-
-Forbes • 1h ago
+NBC News • 51m ago
 
 ---
 
-**[Alphabet to buy clean energy developer Intersect in $4.75 billion deal amid AI push](https://finance.yahoo.com/news/alphabet-buy-data-center-infrastructure-161028901.html)**
+**[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
 
-Alphabet said on Monday it would buy clean energy developer Intersect for $4.75 billion in cash, plus assumed debt, as ​tech giants spend billions to expand the computing and power capacity ‌necessary for developing artificial intelligence.  Big Tech has ramped up investments in energy firms as U.S. power ‌grids struggle to keep pace with the soaring electricity demand of generative AI amid an intensifying race to capitalize on the booming technology.  Under the deal, the Google parent will acquire Intersect's energy and data center projects in development or under construction.
+A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
 
-Yahoo Finance • 45m ago
-
----
-
-**[AI adoption will play a greater role deciding next year's winners and losers. Here's why](https://www.cnbc.com/2025/12/22/ai-adoption-will-play-a-greater-role-deciding-next-years-winners-and-losers-heres-why.html)**
-
-More investors are casting an eye toward non-tech companies.
-
-CNBC • 1h ago
+CNBC • 4h ago
 
 ---
 
-**[Tala Health Launches With $100M to Transform Patient Care Through AI Collaboration](https://www.usatoday.com/story/special/contributor-content/2025/12/22/tala-health-launches-with-100m-to-transform-patient-care-through-ai-collaboration/87884004007/)**
+**[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
 
-The funding, led by Sofreh Capital, ranks among the largest early-stage rounds for a healthtech startup this year.
+Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-USA Today • 1h ago
+CBS News • 4h ago
+
+---
+
+**[What's Next for AI? Four AI Predictions for 2026 and Beyond](https://finance.yahoo.com/news/whats-next-ai-four-ai-185458802.html)**
+
+The AI industry is being funded by high-quality capital, leading firms are trading at reasonable P/E ratios, and capital expenditure is growing, but is safely funded.
+
+Yahoo Finance • 19m ago
+
+---
+
+**[Trump wants states to back down on AI laws. Will Georgia follow along?](https://www.ajc.com/politics/2025/12/trump-wants-states-to-back-down-on-ai-laws-will-georgia-follow-along/)**
+
+AJC.com • 1h ago
 
 ---
 
@@ -177,21 +179,19 @@ USA Today • 1h ago
 
 The emerging technology is warping the record industry in all sorts of strange—and foreboding—ways.
 
-The Atlantic • 5h ago
-
----
-
-**[How to spot misleading AI videos by checking for hidden watermarks](https://www.bbc.com/news/live/cwyp2nyke4xt)**
-
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
-
-BBC • 8h ago
+The Atlantic • 6h ago
 
 ---
 
 **[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
+
+---
+
+**[Google-Parent Alphabet to Buy Intersect for $4.75 Billion as AI-Investment Plans Grow](https://www.wsj.com/tech/ai/alphabet-to-buy-intersect-for-4-75-billion-in-cash-b67ff7b9?gaa_at=eafs&gaa_n=AWEtsqfzbqpVQyr88nGzXxzg10XDfeHsqsfwPnAo7XuCcZ-hZnUAOjjJxuRf&gaa_ts=69499bf2&gaa_sig=h5EIa2snhT580rcqPbX4H-M_zKwLvn8lg75-FadkKMuzdSK2LtM2GPI2U7DqzIHl6BzsQdg4Wb0wZDJihTFnUQ%3D%3D)**
+
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 20h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 513 • 💬 479 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 513 • 💬 481 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -211,13 +211,13 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 254 • 💬 159 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 256 • 💬 160 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 237 • 💬 346 • 2d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 237 • 💬 347 • 2d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -239,13 +239,13 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Personal Musings and Transcripts
 
-⬆️ 135 • 💬 63 • 1d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 136 • 💬 63 • 1d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 130 • 💬 147 • 11h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 130 • 💬 152 • 12h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -278,7 +278,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 116 • 💬 66 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 120 • 💬 69 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -312,7 +312,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 11K • 👍 287 • 💬 22 • ⏱️ 25:57 • 22h ago
+👁️ 11K • 👍 287 • 💬 22 • ⏱️ 25:57 • 23h ago
 
 ---
 
@@ -398,7 +398,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,288 • 14d ago
+⬇️ 363,445 • ❤️ 3,289 • 14d ago
 
 ---
 
@@ -410,7 +410,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 527 • 3d ago
+⬇️ 5,379 • ❤️ 529 • 3d ago
 
 ---
 
@@ -422,7 +422,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 465 • 3d ago
+⬇️ 14,346 • ❤️ 467 • 3d ago
 
 ---
 
@@ -434,7 +434,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 436 • 2d ago
+⬇️ 86,205 • ❤️ 439 • 2d ago
 
 ---
 
@@ -458,7 +458,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 390 • 4d ago
+⬇️ 8,830 • ❤️ 391 • 4d ago
 
 ---
 
@@ -494,7 +494,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 327 • 7d ago
+⬇️ 0 • ❤️ 328 • 7d ago
 
 ---
 
@@ -506,7 +506,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 770 • ❤️ 273 • 5d ago
+⬇️ 770 • ❤️ 274 • 5d ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 13h ago
+⭐ 18.7k • 🔱 3.0k • 14h ago
 
 ---
 
@@ -673,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 179 • 27m ago
+⭐ 2.4k • 🔱 179 • 48m ago
 
 ---
 
@@ -683,7 +683,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 275 • 4h ago
+⭐ 1.8k • 🔱 275 • 5h ago
 
 ---
 

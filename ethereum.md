@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T18:52:44.214233+00:00'
+updated: '2025-12-22T19:14:18.313326+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 18:52 UTC  
+**Last Updated:** December 22, 2025 at 19:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** +2.2%  
-**30d:** +8.0%  
-**90d:** -26.9%  
-**1y:** -11.6%  
+**24h:** +0.6%  
+**7d:** +1.4%  
+**30d:** +7.1%  
+**90d:** -27.5%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.43B
+**Market Cap:** $362.53B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.8%
+-39.3%
 
 **All-Time Low:** $0.43
-+698873.9%
++693792.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -154,7 +154,7 @@ I live in Indonesia. Trust funds basically don’t exist here, and investing in 
 
 The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 14h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -188,28 +188,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Where Will Cryptocurrency Ethereum Be in 5 Years?](https://www.fool.com/investing/2025/12/22/where-will-cryptocurrency-ethereum-be-in-5-years/)**
-
-Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
-
-The Motley Fool • 8h ago
-
----
-
-**[Where will cryptocurrency Ethereum be in 5 years?](https://www.msn.com/en-us/money/savingandinvesting/where-will-cryptocurrency-ethereum-be-in-5-years/ar-AA1SPgmK?ocid=finance-verthp-feeds)**
-
-MSN • 6h ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars as Much as 2,000%, According to Tom Lee of Fundstrat](https://finance.yahoo.com/news/1-top-cryptocurrency-buy-soars-095000748.html)**
-
-Tom Lee is a top market strategist who tends to be bullish.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Solana to Surpass Ethereum in Yearly Revenue](https://www.tradingview.com/news/u_today:85769ad66094b:0-solana-to-surpass-ethereum-in-yearly-revenue/)**
 
 Solana founder Anatoly Yakovenko has shared new data that shows Solana has outperformed Ethereum in yearly revenue, highlighting what he sees as a pivotal shift in how value may be distributed across the crypto market.The infographics by DeFi Development Corp. show the projected chain revenue compa…
@@ -218,9 +196,31 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**[Where Will Cryptocurrency Ethereum Be in 5 Years?](https://www.fool.com/investing/2025/12/22/where-will-cryptocurrency-ethereum-be-in-5-years/)**
+
+Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
+
+The Motley Fool • 8h ago
+
+---
+
 **[BitMine Immersion Highlights Record Ethereum Treasury and Liquidity](https://www.tipranks.com/news/company-announcements/bitmine-immersion-highlights-record-ethereum-treasury-and-liquidity)**
 
 TipRanks • 4h ago
+
+---
+
+**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
+
+Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
+
+ZyCrypto • 1d ago
+
+---
+
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 3d ago
 
 ---
 
@@ -234,7 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 163 • 💬 26 • ⏱️ 17:34 • 2h ago
+👁️ 2K • 👍 163 • 💬 26 • ⏱️ 17:34 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 755 • 👍 34 • 💬 14 • ⏱️ 7:32 • 5h ago
+👁️ 755 • 👍 34 • 💬 14 • ⏱️ 7:32 • 6h ago
 
 ---
 
@@ -294,7 +294,7 @@ Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 101 • 💬 27 • ⏱️ 31:48 • 5h ago
+👁️ 1K • 👍 101 • 💬 27 • ⏱️ 31:48 • 6h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 2 • ⏱️ 4:52 • 5h ago
+👁️ 2K • 👍 127 • 💬 2 • ⏱️ 4:52 • 6h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 312 • 👍 16 • 💬 3 • ⏱️ 4:38 • 8h ago
+👁️ 312 • 👍 16 • 💬 3 • ⏱️ 4:38 • 9h ago
 
 ---
 
@@ -324,7 +324,7 @@ I am expecting a Bitcoin bounce, but can it save the Crypto bull run? This video
 
 📺 VirtualBacon
 
-👁️ 2K • 👍 73 • 1h ago
+👁️ 2K • 👍 73 • 2h ago
 
 ---
 

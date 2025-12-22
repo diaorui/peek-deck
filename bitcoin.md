@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T18:52:44.208024+00:00'
+updated: '2025-12-22T19:14:18.307354+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 18:52 UTC  
+**Last Updated:** December 22, 2025 at 19:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,490.11
+### $88,695.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +1.9%  
-**30d:** +2.7%  
-**90d:** -21.1%  
-**1y:** -5.9%  
+**24h:** +0.5%  
+**7d:** +1.5%  
+**30d:** +2.2%  
+**90d:** -21.5%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1784.42B
+**Market Cap:** $1772.79B
 Rank #1
 
-**Circulating Supply:** 19,965,603 BTC
+**Circulating Supply:** 19,965,625 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-29.6%
 
 **All-Time Low:** $67.81
-+131559.0%
++130812.8%
 
 ---
 
@@ -77,139 +77,45 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
-
-bitvoin
-
-6h ago
-
----
-
-**[It's NOT over](https://www.reddit.com/r/Bitcoin/comments/1pt1de2/its_not_over/)**
-
-I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
-
-4h ago
-
----
-
-**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
-
-6h ago
-
----
-
-**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
-
-4h ago
-
----
-
-**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
-
-5h ago
-
----
-
-**[BTC continues to accumulate](https://www.reddit.com/r/Bitcoin/comments/1psz6iy/btc_continues_to_accumulate/)**
-
-Strategy has increased its USD reserve by $748 million and now holds $2.19 billion and ₿671,268.
-
-5h ago
-
----
-
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
-
-9h ago
-
----
-
-**[Bitcoin-backed loans for "living without selling" - am I the only one who thinks this is way riskier than it's being sold?](https://www.reddit.com/r/Bitcoin/comments/1pt0n2i/bitcoinbacked_loans_for_living_without_selling_am/)**
-
-I've been looking into the idea of using Bitcoin as collateral instead of selling for a while now. Sounds brilliant at first - liquidity without a tax event, BTC stays yours, you keep benefiting from price appreciation. But the more I dig into it, the more uncomfortable I get. Celsius and BlockFi aren't ancient history. And even with the "serious" platforms that are still around: one 50% crash and your LTV goes through the roof. Margin call, forced liquidation, everything gone. What surprises me is how little this gets discussed in all those "never sell your Bitcoin" conversations. Obviously the lending platforms aren't eager to highlight this. But even in the community it's often presented as basically risk-free as long as you keep a low LTV. I built a calculator to play through this over multiple years (app.retire-on-bitcoin.com if anyone wants to mess around with it themselves). The numbers are sobering when you're honest about it and don't just model the best-case scenario. You need a really proper cushion to stay on the safe side. Am I missing something or is this topic really as underexplored as it seems?
-
-4h ago
-
----
-
-**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
-
-1d ago
-
----
-
-**[15-year-old HDD, 80% bitcoin mining.](https://www.reddit.com/r/Bitcoin/comments/1psgruk/15yearold_hdd_80_bitcoin_mining/)**
-
-I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
-
-22h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Price Jumps, But Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 2h ago
+
+---
 
 **[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Michael Saylor's Strategy expands dollar reserve instead of Bitcoin](https://finance.yahoo.com/news/michael-saylors-strategy-expands-dollar-163854674.html)**
+**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
 
-Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
+Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Strategy Paused Its Bitcoin Purchases Last Week](https://www.barrons.com/articles/strategy-stock-bitcoin-crypto-ad16e5d5?gaa_at=eafs&gaa_n=AWEtsqcog8vHyjYWGZRo0Quab9xwBwtJZVNybmXRf61Y94Fc5JSEWEoFTp4s&gaa_ts=69499040&gaa_sig=rP_E8PTp5HtXwN893Fm0G_RCNZ8vu6DiKcU_nHsImC_sE68BGIToCWtB5eTwGCCJ-HZCLxJbx5gsm2n1sZ8ZHg%3D%3D)**
-
-Barron's • 2h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[BTC, ETH, SOL ADA News: Bitcoin steadies near $89,000 as gold hits record](https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise)**
+**[Bitcoin News: BTC upgrade against quantum computing threat might take years](https://www.coindesk.com/tech/2025/12/22/bitcoin-isn-t-under-quantum-threat-yet-but-upgrading-it-could-take-5-10-years)**
 
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+Even if quantum machines capable of breaking Bitcoin’s cryptography are decades away, the work required to update software, infrastructure and user behavior would be measured in years, not months.
 
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
-
-Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
-
-CoinDesk • 5h ago
+CoinDesk • 12m ago
 
 ---
 
-**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
+**[Trump Media Adds 451 Bitcoin, Total BTC Holdings Surpass $1 Billion](https://bitcoinmagazine.com/news/trump-media-adds-451-bitcoin)**
 
-Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
+Trump Media just added 451 Bitcoin to its holdings, bringing its total to 11,542 BTC worth over $1 billion as part of its ongoing crypto treasury strategy.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Price news: BTC slips from day's highs during U.S. trading session](https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance)**
-
-Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
-
-CoinDesk • 1h ago
-
----
-
-**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
-
-One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
-
-The Motley Fool • 19h ago
+Bitcoin Magazine • 50m ago
 
 ---
 
@@ -221,11 +127,33 @@ Al Jazeera • 2h ago
 
 ---
 
-**[Has the American Bitcoin Share Price Slump in 2025 Created an Opportunity?](https://finance.yahoo.com/news/american-bitcoin-share-price-slump-230912804.html)**
+**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
 
-If you are wondering whether American Bitcoin is a beaten down opportunity or a value trap at today’s price, you are not alone. Let’s unpack what the market might be getting wrong. After a flat 7 day return, the stock is still down about 59.8% over the last month and 72.2% year to date, a harsh reset that has clearly shifted sentiment and perceived risk. These moves have come as investors reassess speculative crypto exposed names amid shifting regulatory signals and tighter financial...
+One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-Yahoo Finance • 19h ago
+The Motley Fool • 19h ago
+
+---
+
+**[Bitcoin Whales Unload 36.5K BTC, $3.37B Offloaded in December](https://finance.yahoo.com/news/bitcoin-whales-unload-36-5k-164809939.html)**
+
+On-chain data has confirmed a large distribution from some of Bitcoin’s largest holders. Wallets holding between 10,000 and 100,000 BTC have collectively reduced their positions by 36,500 BTC since the beginning of December.Bitcoin Whales Distribute 36,500 BTC Amid Market ChopThe total value of the moved or sold Bitcoin is approximately ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
+
+Forbes • 1d ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -267,7 +195,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 3 • 3h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 3 • 4h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -299,7 +227,7 @@ Jeff Ross joins the show for a breakdown of why the global financial system is c
 
 📺 What Bitcoin Did
 
-👁️ 5K • 👍 373 • 💬 83 • ⏱️ 1:04:00 • 6h ago
+👁️ 5K • 👍 373 • 💬 83 • ⏱️ 1:04:00 • 7h ago
 
 ---
 
@@ -309,7 +237,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 118 • ⏱️ 16:18 • 20h ago
+👁️ 34K • 👍 2K • 💬 118 • ⏱️ 16:18 • 21h ago
 
 ---
 
@@ -329,7 +257,7 @@ BTC, Trump trade, AI stocks, and altcoins! BITUNIX TRADE THE TOP COINS (availabl
 
 📺 Lark Davis
 
-👁️ 10K • 👍 621 • 💬 37 • ⏱️ 53:38 • 6h ago
+👁️ 10K • 👍 621 • 💬 37 • ⏱️ 53:38 • 7h ago
 
 ---
 
@@ -359,7 +287,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 1K • 👍 136 • 💬 7 • ⏱️ 15:14 • 2h ago
+👁️ 1K • 👍 136 • 💬 7 • ⏱️ 15:14 • 3h ago
 
 ---
 
@@ -379,7 +307,7 @@ DO NOT SELL YOUR BITCOIN RIGHT NOW!!! WAIT FOR MY NEXT UPDATE AFTER WE TEST 100K
 
 📺 Naeem
 
-👁️ 1K • 👍 22 • 💬 9 • ⏱️ 1:42 • 7h ago
+👁️ 1K • 👍 22 • 💬 9 • ⏱️ 1:42 • 8h ago
 
 ---
 
