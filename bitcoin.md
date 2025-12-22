@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T09:53:28.909545+00:00'
+updated: '2025-12-22T10:19:47.109680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 09:53 UTC  
+**Last Updated:** December 22, 2025 at 10:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.0%  
-**7d:** +2.4%  
-**30d:** +3.1%  
-**90d:** -20.8%  
-**1y:** -5.5%  
+**7d:** +2.2%  
+**30d:** +2.9%  
+**90d:** -20.9%  
+**1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.24B
+**Market Cap:** $1788.78B
 Rank #1
 
-**Circulating Supply:** 19,965,456 BTC
+**Circulating Supply:** 19,965,468 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.9%
 
 **All-Time Low:** $67.81
-+131883.5%
++132185.8%
 
 ---
 
@@ -91,20 +91,6 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 ---
 
-**[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
-
-11h ago
-
----
-
-**[Fed Injects $6.8B Liquidity Tomorrow — Is Bitcoin About to React?](https://www.reddit.com/r/Bitcoin/comments/1psi4ns/fed_injects_68b_liquidity_tomorrow_is_bitcoin/)**
-
-JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
-
-12h ago
-
----
-
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
 15h ago
@@ -119,23 +105,37 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
+**[Fed Injects $6.8B Liquidity Tomorrow — Is Bitcoin About to React?](https://www.reddit.com/r/Bitcoin/comments/1psi4ns/fed_injects_68b_liquidity_tomorrow_is_bitcoin/)**
+
+JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
+
+12h ago
+
+---
+
+**[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
+
+12h ago
+
+---
+
 **[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
 
 This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
 
-6h ago
+7h ago
 
 ---
 
-**[I'm still Stuck in 2021 🥲](https://www.reddit.com/r/Bitcoin/comments/1psul41/im_still_stuck_in_2021/)**
+**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
 
-1h ago
+24m ago
 
 ---
 
 **[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 1d ago
 
 The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -183,11 +183,12 @@ The Motley Fool • 10h ago
 
 ---
 
-**[Watch Assia: Bitcoin is Digital Gold](https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video)**
+**[Bitcoin Lifted Higher by Tech Stock Rally](https://www.barrons.com/livecoverage/stock-market-news-today-122225/card/bitcoin-lifted-higher-by-tech-stock-rally-7L5FgvAVLY0IUxkI8ucB?gaa_at=eafs&gaa_n=AWEtsqeJ6J3_A51K682heiqXWTL_Kq4kp57P3yPUpbJITKwSflTwZqB7O21Z&gaa_ts=69491ead&gaa_sig=VIF-_bvXJMePisMzBbmaLmg7cPgr3tEtq5HIkqODEj7e1kyOVGhleMsVvUMy53CdTDisRP-z5WHVhcL2IsCeiw%3D%3D)**
 
-Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
+Bitcoin was rising rises as Asian stocks were pulled higher by tech stocks, tracking Friday's U.S. tech-rally.
+Oracle led the gains in U.S. tech stocks after reports that it might host TikTok's U.S. user data under a U.S.-China arrangement that allows the Chinese app to continue operating in the U.
 
-Bloomberg.com • 2h ago
+Barron's • 1h ago
 
 ---
 
@@ -196,6 +197,22 @@ Bloomberg.com • 2h ago
 Spot XRP XRP $1.93 24h volatility: 0.1% Market cap: $116.72 B Vol. 24h: $2.37 B ETFs in the United States have continued to show strength, clocking $82 million in inflows over the past week. The significance of these net flows is even more pronounced as Bitcoin BTC $89 759 24h ...
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Bullish Bitcoin (BTC) Plays on Bitfinex Swell to Highest Since Early 2024](https://www.coindesk.com/markets/2025/12/22/bullish-bitcoin-plays-on-bitfinex-swell-to-highest-since-early-2024)**
+
+Margin long positions continue to climb, signaling strong conviction despite bitcoin’s weakness.
+
+CoinDesk • 12m ago
+
+---
+
+**[Watch Assia: Bitcoin is Digital Gold](https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video)**
+
+Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -210,18 +227,6 @@ Nasdaq • 22h ago
 **[Bitcoin Mining May Be Supporting the Ruble, Russia’s Top Banker Reveals](https://www.ccn.com/news/crypto/bitcoin-mining-supporting-ruble-russias-top-banker-reveals/)**
 
 CCN.com • 1h ago
-
----
-
-**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
-
-Forbes • 21h ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 2d ago
 
 ---
 
@@ -271,7 +276,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 22h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 23h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -295,7 +300,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 96 • ⏱️ 16:18 • 11h ago
+👁️ 25K • 👍 1K • 💬 96 • ⏱️ 16:18 • 12h ago
 
 ---
 
@@ -305,7 +310,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 7K • 👍 497 • 💬 21 • ⏱️ 7:16 • 11h ago
+👁️ 7K • 👍 497 • 💬 21 • ⏱️ 7:16 • 12h ago
 
 ---
 
@@ -325,7 +330,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 870 • 💬 250 • ⏱️ 55:13 • 19h ago
+👁️ 19K • 👍 870 • 💬 250 • ⏱️ 55:13 • 20h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T09:53:28.919154+00:00'
+updated: '2025-12-22T10:19:47.117999+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 09:53 UTC  
+**Last Updated:** December 22, 2025 at 10:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -84,7 +84,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
 
-9h ago
+10h ago
 
 ---
 
@@ -100,7 +100,7 @@ Recently I have started working on developing a mini-Vision-Language-Action mode
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-6h ago
+7h ago
 
 ---
 
@@ -122,35 +122,27 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
+
+Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
+
+CNET • 21h ago
+
+---
+
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+
+The Verge • 21h ago
+
+---
+
 **[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
 Interesting Engineering • 1d ago
-
----
-
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
-
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
-
-Futurism • 2d ago
-
----
-
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
-
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
-
-TechNode • 1d ago
-
----
-
-**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.post-gazette.com/business/tech-news/2025/12/22/agility-robotics-artificial-intelligence-humanoid-digit-robot/stories/202512110094)**
-
-Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
-
-Pittsburgh Post-Gazette • 53m ago
 
 ---
 
@@ -170,11 +162,19 @@ KSBY News • 3d ago
 
 ---
 
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-The Verge • 20h ago
+Futurism • 2d ago
+
+---
+
+**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+
+Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+
+TechNode • 1d ago
 
 ---
 
@@ -186,11 +186,11 @@ KEYC News Now • 2d ago
 
 ---
 
-**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
+**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
 
-Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
+Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-CNET • 20h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 17K • 👍 418 • 💬 87 • ⏱️ 5:25 • 20h ago
+👁️ 17K • 👍 418 • 💬 87 • ⏱️ 5:25 • 21h ago
 
 ---
 

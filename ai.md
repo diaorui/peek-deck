@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T09:53:28.901131+00:00'
+updated: '2025-12-22T10:19:47.102176+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 09:53 UTC  
+**Last Updated:** December 22, 2025 at 10:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 20h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 21h ago
 
 ---
 
@@ -81,7 +81,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 17h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 18h ago
 
 ---
 
@@ -89,7 +89,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 27m ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 54m ago
 
 ---
 
@@ -105,7 +105,7 @@ With the upgraded AI Vision, Samsung becomes more fluent in food recognition and
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-18h ago
+19h ago
 
 ---
 
@@ -121,7 +121,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqcGPDp7LGais8kZlYzH0RI3zPJ4aZDKybnHJqbM1yajvXckVW-HJf4F&gaa_ts=694913d1&gaa_sig=7n_w9fkQsWBzN3rPOjYkPEmb_l3Wuv2MdizSQt4kUF8h-0bRt6I7BWOJyYvgwRODxyUlTtOzxTbuc5ARxFmFaA%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeFIJIOjXVp51BUww0T6rx5qCIE5yaLBd9vSGCmPDjfmLS4FRHqRj3U&gaa_ts=69491eac&gaa_sig=w34nHvu-Cda7PrBi-qd29W1d583UWfWkfjKPMYxDK5ou8TP2KGTst1oOlEE7XFokNTU1LuVTVx02hfA7qVGrtg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -135,17 +135,23 @@ CNN • 1d ago
 
 ---
 
-**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
+**[These Teenagers Are Already Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3?gaa_at=eafs&gaa_n=AWEtsqdouG2us2Bxn7JgOFyiJPOYBto7TVgV00QCpXVAy9PatEWIfSs_3-li&gaa_ts=69491eac&gaa_sig=vSZpvd0T1mzJZh0m37RrbwL0l5u699kaB4-Hbb3qCJqEGUoVx0uVAd5YfSO0uUH0DH_Y6LaKgBdyOHBsSXNq2w%3D%3D)**
 
-Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
-
-CNBC • 1d ago
+The Wall Street Journal • 9h ago
 
 ---
 
 **[AI, Manufacturing Reset Spell 2026 Boon for European Industrials](https://www.bloomberg.com/news/articles/2025-12-22/ai-manufacturing-reset-spell-2026-boon-for-european-industrials)**
 
 Bloomberg.com • 1h ago
+
+---
+
+**[The Most Worrying Bits from Bloomberg’s Worrisome AI Bubble Q&A with Jason Furman](https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356)**
+
+I'm starting to worry that I'm not worried enough about the AI bubble.
+
+Gizmodo • 19m ago
 
 ---
 
@@ -157,19 +163,19 @@ Fortune • 1h ago
 
 ---
 
-**[Nvidia: Transition To Long Thinking Models Is Beyond Traditional AI Growth Patterns](https://seekingalpha.com/article/4855042-nvidia-transition-to-long-thinking-models-is-beyond-traditional-ai-growth-patterns)**
-
-Nvidia's revenue momentum is underpinned by a $0.5 trillion Blackwell/Rubin pipeline. Click here to read more about NVDA stock and why it is a Strong Buy.
-
-Seeking Alpha • 2h ago
-
----
-
 **[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
 Yahoo Finance • 15h ago
+
+---
+
+**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
+
+Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
+
+CNBC • 2d ago
 
 ---
 
@@ -183,13 +189,7 @@ Politico • 1d ago
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-The Guardian • 20h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
+The Guardian • 21h ago
 
 ---
 
@@ -213,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 227 • 💬 182 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 228 • 💬 182 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 226 • 💬 134 • 16h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 227 • 💬 136 • 17h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -229,7 +229,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 172 • 💬 388 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 172 • 💬 389 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -253,7 +253,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 121 • 💬 59 • 16h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 122 • 💬 60 • 16h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -267,7 +267,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 112 • 💬 102 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 113 • 💬 102 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -287,7 +287,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 76K • 👍 3K • 💬 150 • ⏱️ 13:25 • 15h ago
+👁️ 76K • 👍 3K • 💬 150 • ⏱️ 13:25 • 16h ago
 
 ---
 
@@ -297,7 +297,7 @@ Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 37K • 👍 710 • 💬 21 • ⏱️ 0:56 • 10h ago
+👁️ 37K • 👍 710 • 💬 21 • ⏱️ 0:56 • 11h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,270 • 13d ago
+⬇️ 363,445 • ❤️ 3,271 • 13d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 488 • 3d ago
+⬇️ 5,379 • ❤️ 495 • 3d ago
 
 ---
 
@@ -417,7 +417,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 433 • 3d ago
+⬇️ 14,346 • ❤️ 442 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 426 • 2d ago
+⬇️ 86,205 • ❤️ 428 • 2d ago
 
 ---
 
@@ -441,7 +441,19 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,187 • ❤️ 390 • 3d ago
+⬇️ 3,187 • ❤️ 391 • 3d ago
+
+---
+
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
+
+`text-generation` `309.8B`
+
+⬇️ 8,830 • ❤️ 378 • 4d ago
 
 ---
 
@@ -457,18 +469,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
-
-*Xiaomi MiMo*
-
-MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
-
-`text-generation` `309.8B`
-
-⬇️ 8,830 • ❤️ 377 • 4d ago
-
----
-
 **[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
 
 *Microsoft*
@@ -477,7 +477,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 330 • 5d ago
+⬇️ 0 • ❤️ 332 • 5d ago
 
 ---
 
@@ -489,7 +489,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 319 • 6d ago
+⬇️ 0 • ❤️ 320 • 6d ago
 
 ---
 
@@ -501,7 +501,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 770 • ❤️ 267 • 5d ago
+⬇️ 770 • ❤️ 268 • 5d ago
 
 ---
 
@@ -574,6 +574,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 207 • 💬 5 • ⭐ 7,612 • 24d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -597,20 +611,6 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 ▲ 61 • 💬 3 • ⭐ 642 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 207 • 💬 5 • ⭐ 7,559 • 24d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.6k • 🔱 2.9k • 4h ago
+⭐ 18.6k • 🔱 2.9k • 5h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.6k • 🔱 620 • 1h ago
+⭐ 5.7k • 🔱 622 • 43m ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 175 • 3h ago
+⭐ 2.4k • 🔱 177 • 3h ago
 
 ---
 
@@ -679,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.4k • 🔱 344 • 16d ago
+⭐ 1.4k • 🔱 347 • 16d ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 222 • 1h ago
+⭐ 1.3k • 🔱 224 • 24m ago
 
 ---
 
@@ -699,7 +699,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 51 • 4d ago
+⭐ 1.1k • 🔱 51 • 4d ago
 
 ---
 
@@ -709,7 +709,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 938 • 🔱 159 • 1d ago
+⭐ 955 • 🔱 161 • 1d ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 889 • 🔱 89 • 2h ago
+⭐ 892 • 🔱 89 • 3h ago
 
 ---
 
