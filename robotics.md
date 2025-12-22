@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T10:43:30.588809+00:00'
+updated: '2025-12-22T10:57:03.171343+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 10:43 UTC  
+**Last Updated:** December 22, 2025 at 10:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,15 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-19h ago
+20h ago
+
+---
+
+**[GITAI's rovers and robotic arms deploy solar panels and weld in a construction field test](https://www.reddit.com/r/robotics/comments/1pswpjv/gitais_rovers_and_robotic_arms_deploy_solar/)**
+
+Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
+
+5m ago
 
 ---
 
@@ -104,14 +112,6 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 
 ---
 
-**[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://www.reddit.com/r/robotics/comments/1psenkw/pvp_dataefficient_humanoid_robot_learning_with/)**
-
-https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
-
-15h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -143,6 +143,22 @@ The Verge • 21h ago
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
 Interesting Engineering • 1d ago
+
+---
+
+**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.post-gazette.com/business/tech-news/2025/12/22/agility-robotics-artificial-intelligence-humanoid-digit-robot/stories/202512110094)**
+
+Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
+
+Pittsburgh Post-Gazette • 1h ago
+
+---
+
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 2d ago
 
 ---
 
@@ -178,22 +194,6 @@ TechNode • 1d ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 2d ago
-
----
-
-**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
-
-Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
-
-The Robot Report • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -224,7 +224,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 11K • 👍 84 • 💬 4 • ⏱️ 0:19 • 17h ago
+👁️ 11K • 👍 84 • 💬 4 • ⏱️ 0:19 • 18h ago
 
 ---
 
@@ -274,7 +274,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 601K • 👍 25K • 💬 439 • ⏱️ 21:05 • 10h ago
+👁️ 601K • 👍 25K • 💬 439 • ⏱️ 21:05 • 11h ago
 
 ---
 

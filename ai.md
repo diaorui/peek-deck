@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T10:43:30.571299+00:00'
+updated: '2025-12-22T10:57:03.152889+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 10:43 UTC  
+**Last Updated:** December 22, 2025 at 10:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -121,7 +121,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeFIJIOjXVp51BUww0T6rx5qCIE5yaLBd9vSGCmPDjfmLS4FRHqRj3U&gaa_ts=69491eac&gaa_sig=w34nHvu-Cda7PrBi-qd29W1d583UWfWkfjKPMYxDK5ou8TP2KGTst1oOlEE7XFokNTU1LuVTVx02hfA7qVGrtg%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeZp0gT4XdjRGqE8eKGo5nr4Ku_IbwCk0QkypJvOYmxTgkzVFtUK8rQ&gaa_ts=69492769&gaa_sig=fx_AcTyRyMmYvfFrfd6uo50Bkl9vHPDNCScSQ-FBSvH0I0mZZYl98oa-18_N9OSFOzCxo5y09jzWVryHiREggQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -135,9 +135,11 @@ CNN • 1d ago
 
 ---
 
-**[These Teenagers Are Already Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3?gaa_at=eafs&gaa_n=AWEtsqdouG2us2Bxn7JgOFyiJPOYBto7TVgV00QCpXVAy9PatEWIfSs_3-li&gaa_ts=69491eac&gaa_sig=vSZpvd0T1mzJZh0m37RrbwL0l5u699kaB4-Hbb3qCJqEGUoVx0uVAd5YfSO0uUH0DH_Y6LaKgBdyOHBsSXNq2w%3D%3D)**
+**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
 
-The Wall Street Journal • 9h ago
+Oracle stock peaked in September before suffering a continued decline in the back half of the year.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -147,27 +149,23 @@ Bloomberg.com • 2h ago
 
 ---
 
+**[AI is reshaping childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
+
+Axios • 24m ago
+
+---
+
 **[The Most Worrying Bits from Bloomberg’s Worrisome AI Bubble Q&A with Jason Furman](https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356)**
 
 I'm starting to worry that I'm not worried enough about the AI bubble.
 
-Gizmodo • 43m ago
+Gizmodo • 56m ago
 
 ---
 
-**[A top global design alliance is embracing AI to 'let designers focus more on empathy and creativity'](https://fortune.com/2025/12/22/a-top-global-design-alliance-is-embracing-ai-to-let-designers-focus-more-on-empathy-and-creativity/)**
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Many designers are increasingly warming to the idea of incorporating AI in design, says Cecilia Brenner, the managing director of Design for Good, a global design charity.
-
-Fortune • 1h ago
-
----
-
-**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
-
-Oracle stock peaked in September before suffering a continued decline in the back half of the year.
-
-Yahoo Finance • 16h ago
+Politico • 1d ago
 
 ---
 
@@ -179,17 +177,19 @@ CNBC • 2d ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 1d ago
-
----
-
 **[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
 The Guardian • 21h ago
+
+---
+
+**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
+
+Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
+
+BBC • 2d ago
 
 ---
 
@@ -213,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 228 • 💬 182 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 229 • 💬 182 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 227 • 💬 136 • 17h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 227 • 💬 137 • 17h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -229,7 +229,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 172 • 💬 389 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 172 • 💬 390 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -267,7 +267,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 113 • 💬 102 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 114 • 💬 103 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,271 • 13d ago
+⬇️ 363,445 • ❤️ 3,272 • 13d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 495 • 3d ago
+⬇️ 5,379 • ❤️ 498 • 3d ago
 
 ---
 
@@ -417,7 +417,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 442 • 3d ago
+⬇️ 14,346 • ❤️ 446 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 428 • 2d ago
+⬇️ 86,205 • ❤️ 429 • 2d ago
 
 ---
 
@@ -465,7 +465,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 5,349 • ❤️ 397 • 8d ago
+⬇️ 5,349 • ❤️ 398 • 8d ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 224 • 48m ago
+⭐ 1.3k • 🔱 224 • 1h ago
 
 ---
 

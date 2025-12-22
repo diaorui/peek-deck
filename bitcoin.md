@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T10:43:30.579583+00:00'
+updated: '2025-12-22T10:57:03.161604+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 10:43 UTC  
+**Last Updated:** December 22, 2025 at 10:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +2.2%  
+**24h:** +1.1%  
+**7d:** +2.3%  
 **30d:** +3.0%  
 **90d:** -20.9%  
 **1y:** -5.6%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.78B
+**Market Cap:** $1792.36B
 Rank #1
 
-**Circulating Supply:** 19,965,468 BTC
+**Circulating Supply:** 19,965,484 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.8%
 
 **All-Time Low:** $67.81
-+132185.8%
++132320.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-13h ago
+14h ago
 
 ---
 
@@ -109,13 +109,19 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-12h ago
+13h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-12h ago
+13h ago
+
+---
+
+**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
+
+1h ago
 
 ---
 
@@ -127,15 +133,9 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 ---
 
-**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
 
-48m ago
-
----
-
-**[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
-
-13h ago
+1h ago
 
 ---
 
@@ -159,22 +159,6 @@ CoinDesk • 5h ago
 
 ---
 
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
-
-This dip is an opportunity to think about what matters most with this asset.
-
-The Motley Fool • 1d ago
-
----
-
-**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
-
-The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
-
-TradingView — Track All Markets • 21h ago
-
----
-
 **[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
@@ -183,20 +167,11 @@ The Motley Fool • 11h ago
 
 ---
 
-**[Bitcoin Lifted Higher by Tech Stock Rally](https://www.barrons.com/livecoverage/stock-market-news-today-122225/card/bitcoin-lifted-higher-by-tech-stock-rally-7L5FgvAVLY0IUxkI8ucB?gaa_at=eafs&gaa_n=AWEtsqeJ6J3_A51K682heiqXWTL_Kq4kp57P3yPUpbJITKwSflTwZqB7O21Z&gaa_ts=69491ead&gaa_sig=VIF-_bvXJMePisMzBbmaLmg7cPgr3tEtq5HIkqODEj7e1kyOVGhleMsVvUMy53CdTDisRP-z5WHVhcL2IsCeiw%3D%3D)**
+**[EU's Largest Bitcoin Miner Northern Data Sold to Tether-run Companies, But There’s a Twist](https://finance.yahoo.com/news/eus-largest-bitcoin-miner-northern-100114294.html)**
 
-Bitcoin was rising rises as Asian stocks were pulled higher by tech stocks, tracking Friday's U.S. tech-rally.
-Oracle led the gains in U.S. tech stocks after reports that it might host TikTok's U.S. user data under a U.S.-China arrangement that allows the Chinese app to continue operating in the U.
+The November sale of Peak Mining, the Bitcoin mining subsidiary of Northern Data, has raised concerns. The sale was made to three companies, two of ...
 
-Barron's • 1h ago
-
----
-
-**[XRP ETFs Show Strength, Bitcoin ETF, Ethereum ETFs Bleed $490-$650M Last Week](https://finance.yahoo.com/news/xrp-etfs-show-strength-bitcoin-082430472.html)**
-
-Spot XRP XRP $1.93 24h volatility: 0.1% Market cap: $116.72 B Vol. 24h: $2.37 B ETFs in the United States have continued to show strength, clocking $82 million in inflows over the past week. The significance of these net flows is even more pronounced as Bitcoin BTC $89 759 24h ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 55m ago
 
 ---
 
@@ -204,7 +179,15 @@ Yahoo Finance • 2h ago
 
 Margin long positions continue to climb, signaling strong conviction despite bitcoin’s weakness.
 
-CoinDesk • 36m ago
+CoinDesk • 49m ago
+
+---
+
+**[Bitcoin and ether options worth $27 billion set for year-end reset](https://www.coindesk.com/markets/2025/12/22/boxing-day-bonanza-usd27-billion-in-bitcoin-ether-options-set-for-year-end-reset)**
+
+The expiration involves over 50% of Deribit's total open interest, with a bullish bias indicated by a put-call ratio of 0.38.
+
+CoinDesk • 40m ago
 
 ---
 
@@ -220,13 +203,25 @@ Bloomberg.com • 3h ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
-**[Bitcoin Mining May Be Supporting the Ruble, Russia’s Top Banker Reveals](https://www.ccn.com/news/crypto/bitcoin-mining-supporting-ruble-russias-top-banker-reveals/)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfcPdfC3eaYxbaQJOVj4qC1soZR5TFeRahxoLRCeJ_Wn97lX8giH7_8&gaa_ts=69492718&gaa_sig=bYJi4v32m6sUeQ9Dzgfl04Y5sF6pL_RLzJEqA5Z_rPepPKIxfy_ID9rORvENnllHAxbScRM9YeTAqs8k3kwesw%3D%3D)**
 
-CCN.com • 1h ago
+Barron's • 2d ago
+
+---
+
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 2d ago
+
+---
+
+**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
+
+Forbes • 22h ago
 
 ---
 

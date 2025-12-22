@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T10:43:30.585589+00:00'
+updated: '2025-12-22T10:57:03.167948+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 10:43 UTC  
+**Last Updated:** December 22, 2025 at 10:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +2.5%  
-**30d:** +8.4%  
-**90d:** -26.6%  
-**1y:** -11.3%  
+**24h:** +1.6%  
+**7d:** +2.7%  
+**30d:** +8.5%  
+**90d:** -26.5%  
+**1y:** -11.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.09B
+**Market Cap:** $367.17B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-38.5%
 
 **All-Time Low:** $0.43
-+701710.0%
++702691.6%
 
 ---
 
@@ -182,19 +182,19 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
-
-Next year could be good but won't be driven by blockchain tech upgrades.
-
-The Motley Fool • 2d ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
 FXStreet • 6h ago
+
+---
+
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
+
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -212,19 +212,19 @@ ts2.tech • 2d ago
 
 ---
 
-**[Has Ethereum Officially Overtaken Bitcoin? This Expert is Nodding in Affirmation](https://zycrypto.com/has-ethereum-officially-overtaken-bitcoin-this-expert-is-nodding-in-affirmation/)**
-
-Ethereum’s market behavior has attracted analysts who are highlighting a shift in leadership, typically seen only after a strong Bitcoin rally.
-
-ZyCrypto • 1d ago
-
----
-
 **[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
 
 As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
+
+ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
+
+AMBCrypto • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 Stock Moe
 
-👁️ 11K • 👍 819 • 💬 18 • ⏱️ 11:18 • 12h ago
+👁️ 11K • 👍 819 • 💬 18 • ⏱️ 11:18 • 13h ago
 
 ---
 
