@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T21:36:30.510321+00:00'
+updated: '2025-12-22T21:48:00.751332+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 21:36 UTC  
+**Last Updated:** December 22, 2025 at 21:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 13h ago
+ABC News • 14h ago
 
 ---
 
@@ -157,7 +157,7 @@ NBC News • 2h ago
 
 A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 907 • 🔱 89 • 10h ago
+⭐ 907 • 🔱 89 • 11h ago
 
 ---
 

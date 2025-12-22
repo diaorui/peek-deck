@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T21:36:30.526132+00:00'
+updated: '2025-12-22T21:48:00.769094+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 21:36 UTC  
+**Last Updated:** December 22, 2025 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -84,7 +84,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-6h ago
+7h ago
 
 ---
 
@@ -190,7 +190,7 @@ Interesting Engineering • 3d ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 9h ago
+Phoronix • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 10K • 👍 158 • 💬 6 • ⏱️ 0:11 • 12h ago
+👁️ 10K • 👍 158 • 💬 6 • ⏱️ 0:11 • 13h ago
 
 ---
 
@@ -274,7 +274,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 1.0M • 👍 39K • 💬 642 • ⏱️ 21:05 • 21h ago
+👁️ 1.0M • 👍 39K • 💬 642 • ⏱️ 21:05 • 22h ago
 
 ---
 

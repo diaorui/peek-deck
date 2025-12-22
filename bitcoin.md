@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T21:36:30.517970+00:00'
+updated: '2025-12-22T21:48:00.759750+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 21:36 UTC  
+**Last Updated:** December 22, 2025 at 21:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +1.0%  
-**30d:** +1.8%  
-**90d:** -21.8%  
-**1y:** -6.7%  
+**24h:** +0.1%  
+**7d:** +1.1%  
+**30d:** +1.9%  
+**90d:** -21.7%  
+**1y:** -6.6%  
 
 ---
 
@@ -101,7 +101,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bitcoin Magazine • 4h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Motley Fool • 22h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 4h ago
+Al Jazeera • 5h ago
 
 ---
 
