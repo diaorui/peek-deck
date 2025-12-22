@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T17:52:52.169028+00:00'
+updated: '2025-12-22T18:24:22.990659+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 17:52 UTC  
+**Last Updated:** December 22, 2025 at 18:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
+**24h:** +1.2%  
 **7d:** +2.2%  
-**30d:** +8.1%  
-**90d:** -26.9%  
-**1y:** -11.6%  
+**30d:** +8.0%  
+**90d:** -26.8%  
+**1y:** -11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.92B
+**Market Cap:** $366.43B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.7%
+-38.8%
 
 **All-Time Low:** $0.43
-+700010.2%
++698873.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-11h ago
+12h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 13h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -182,11 +182,31 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Ethereum Leverage Hits Record Highs: Why Your ETH Now Sits on a Time Bomb](https://99bitcoins.com/news/altcoins/ethereum-leverage-hits-record-highs-why-your-eth-now-sits-on-a-time-bomb/)**
+
+99Bitcoins • 1d ago
+
+---
+
 **[Where Will Cryptocurrency Ethereum Be in 5 Years?](https://www.fool.com/investing/2025/12/22/where-will-cryptocurrency-ethereum-be-in-5-years/)**
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
 The Motley Fool • 7h ago
+
+---
+
+**[Where will cryptocurrency Ethereum be in 5 years?](https://www.msn.com/en-us/money/savingandinvesting/where-will-cryptocurrency-ethereum-be-in-5-years/ar-AA1SPgmK?ocid=finance-verthp-feeds)**
+
+MSN • 6h ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars as Much as 2,000%, According to Tom Lee of Fundstrat](https://finance.yahoo.com/news/1-top-cryptocurrency-buy-soars-095000748.html)**
+
+Tom Lee is a top market strategist who tends to be bullish.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -200,29 +220,7 @@ TradingView — Track All Markets • 1d ago
 
 **[BitMine Immersion Highlights Record Ethereum Treasury and Liquidity](https://www.tipranks.com/news/company-announcements/bitmine-immersion-highlights-record-ethereum-treasury-and-liquidity)**
 
-TipRanks • 3h ago
-
----
-
-**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
-
-Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
-
-ZyCrypto • 1d ago
-
----
-
-**[Ethereum whales move in! $644 mln ETH ETF outflows drain the market](https://ambcrypto.com/ethereum-whales-move-in-644-mln-eth-etf-outflows-drain-the-market/)**
-
-Large holders are buying like never before while ETF numbers collapse.
-
-AMBCrypto • 9h ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 3d ago
+TipRanks • 4h ago
 
 ---
 
@@ -236,7 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 611 • 👍 37 • 💬 5 • ⏱️ 17:34 • 1h ago
+👁️ 611 • 👍 37 • 💬 5 • ⏱️ 17:34 • 2h ago
 
 ---
 
@@ -256,7 +254,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 481 • 👍 27 • 💬 13 • ⏱️ 7:32 • 4h ago
+👁️ 481 • 👍 27 • 💬 13 • ⏱️ 7:32 • 5h ago
 
 ---
 
@@ -286,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 175 • 💬 9 • ⏱️ 6:15 • 13h ago
+👁️ 2K • 👍 175 • 💬 9 • ⏱️ 6:15 • 14h ago
 
 ---
 
@@ -296,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 121 • 💬 2 • ⏱️ 4:52 • 4h ago
+👁️ 1K • 👍 121 • 💬 2 • ⏱️ 4:52 • 5h ago
 
 ---
 
@@ -306,7 +304,7 @@ Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a
 
 📺 Thinking Crypto
 
-👁️ 697 • 👍 73 • 💬 26 • ⏱️ 31:48 • 4h ago
+👁️ 697 • 👍 73 • 💬 26 • ⏱️ 31:48 • 5h ago
 
 ---
 
@@ -326,7 +324,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 572 • 👍 39 • 💬 11 • ⏱️ 9:36 • 19h ago
+👁️ 572 • 👍 39 • 💬 11 • ⏱️ 9:36 • 20h ago
 
 ---
 

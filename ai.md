@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T17:52:52.154285+00:00'
+updated: '2025-12-22T18:24:22.976361+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 17:52 UTC  
+**Last Updated:** December 22, 2025 at 18:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 6h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 7h ago
 
 ---
 
@@ -65,7 +65,39 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 47m ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 1h ago
+
+---
+
+**[Intel releases GenAI Examples v1.5 - while validating this AI showcase on old Xeon CPUs](https://www.reddit.com/r/artificial/comments/1pt619a/intel_releases_genai_examples_v15_while/)**
+
+Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
+
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 32m ago
+
+---
+
+**[Are we dismissing AI spend before the 6x compute jump lands?](https://www.reddit.com/r/artificial/comments/1pt0qq1/are_we_dismissing_ai_spend_before_the_6x_compute/)**
+
+Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
+
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 4h ago
+
+---
+
+**[We asked four AI coding agents to rebuild Minesweeper, and the results were explosive...](https://www.reddit.com/r/artificial/comments/1psyume/we_asked_four_ai_coding_agents_to_rebuild/)**
+
+How do four modern LLMs do at re-creating a simple Windows gaming classic?
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 5h ago
+
+---
+
+**[OpenAI’s profit potential improves as compute margins near 70%](https://www.reddit.com/r/artificial/comments/1psvd24/openais_profit_potential_improves_as_compute/)**
+
+OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
+
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 8h ago
 
 ---
 
@@ -81,37 +113,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 20h ago
-
----
-
-**[OpenAI’s profit potential improves as compute margins near 70%](https://www.reddit.com/r/artificial/comments/1psvd24/openais_profit_potential_improves_as_compute/)**
-
-OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
-
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 8h ago
-
----
-
-**[We asked four AI coding agents to rebuild Minesweeper, and the results were explosive...](https://www.reddit.com/r/artificial/comments/1psyume/we_asked_four_ai_coding_agents_to_rebuild/)**
-
-How do four modern LLMs do at re-creating a simple Windows gaming classic?
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 4h ago
-
----
-
-**[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
-
-Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
-
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 1d ago
-
----
-
-**[The Massive Acceleration of AI](https://www.reddit.com/r/artificial/comments/1pt30te/the_massive_acceleration_of_ai/)**
-
-🔗 [ecency.com](https://ecency.com/@taskmaster4450/the-massive-acceleration-of-ai-b99) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 21h ago
 
 ---
 
@@ -119,51 +121,11 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 ## Google News: "ai"
 
-**[How to spot misleading AI videos by checking for hidden watermarks](https://www.bbc.com/news/live/cwyp2nyke4xt)**
-
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
-
-BBC • 7h ago
-
----
-
 **[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
 ABC News • 10h ago
-
----
-
-**[Column | Your chatbot keeps a file on you. Here’s how to delete it.](https://www.washingtonpost.com/technology/2025/12/22/ai-privacy-settings-chatgpt-gemini-claude-copilot-meta/)**
-
-The Washington Post • 1h ago
-
----
-
-**[I correctly predicted ChatGPT. Here are my 6 AI predictions for 2026](https://www.fastcompany.com/91461250/i-correctly-predicted-chatgpt-my-6-ai-predictions-2026)**
-
-Fast Company • 1h ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Alphabet Buys Energy Startup Intersect For $4.75 Billion To Fuel AI Growth](https://www.forbes.com/sites/tylerroush/2025/12/22/alphabet-buys-clean-energy-startup-for-ai-data-centers-in-475-billion-deal/)**
-
-Forbes • 55m ago
-
----
-
-**[Cognitive data architecture: Designing self-optimizing frameworks for scalable AI systems](https://www.cio.com/article/4109911/cognitive-data-architecture-designing-self-optimizing-frameworks-for-scalable-ai-systems.html)**
-
-If your AI feels slow, expensive or risky, the problem isn’t the models — it’s the data, and cognitive data architecture is the fix.
-
-cio.com • 45m ago
 
 ---
 
@@ -175,19 +137,61 @@ CNN • 1d ago
 
 ---
 
+**[Alphabet to Buy Intersect for $4.75 Billion as AI-Investment Plans Grow](https://www.wsj.com/tech/ai/alphabet-to-buy-intersect-for-4-75-billion-in-cash-b67ff7b9?gaa_at=eafs&gaa_n=AWEtsqeKq14-LFzxql7ZaGBghIPy3IOz0-aqgMF-SRysKR9wy0w4Hc1otC-n&gaa_ts=6949903e&gaa_sig=eAIE7LwDGu1ZJoKi6kpdn3OUvLPZ3_6dTevJIhjyY4577FFCc19s9XbxeVhSOf0Z5IrTNJgQLzRfGdLokpIMTA%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[Alphabet Buys Clean Energy Startup For AI Data Centers In $4.75 Billion Deal](https://www.forbes.com/sites/tylerroush/2025/12/22/alphabet-buys-clean-energy-startup-for-ai-data-centers-in-475-billion-deal/)**
+
+Forbes • 1h ago
+
+---
+
+**[Alphabet to buy clean energy developer Intersect in $4.75 billion deal amid AI push](https://finance.yahoo.com/news/alphabet-buy-data-center-infrastructure-161028901.html)**
+
+Alphabet said on Monday it would buy clean energy developer Intersect for $4.75 billion in cash, plus assumed debt, as ​tech giants spend billions to expand the computing and power capacity ‌necessary for developing artificial intelligence.  Big Tech has ramped up investments in energy firms as U.S. power ‌grids struggle to keep pace with the soaring electricity demand of generative AI amid an intensifying race to capitalize on the booming technology.  Under the deal, the Google parent will acquire Intersect's energy and data center projects in development or under construction.
+
+Yahoo Finance • 16m ago
+
+---
+
+**[AI adoption will play a greater role deciding next year's winners and losers. Here's why](https://www.cnbc.com/2025/12/22/ai-adoption-will-play-a-greater-role-deciding-next-years-winners-and-losers-heres-why.html)**
+
+More investors are casting an eye toward non-tech companies.
+
+CNBC • 35m ago
+
+---
+
+**[Tala Health Launches With $100M to Transform Patient Care Through AI Collaboration](https://www.usatoday.com/story/special/contributor-content/2025/12/22/tala-health-launches-with-100m-to-transform-patient-care-through-ai-collaboration/87884004007/)**
+
+The funding, led by Sofreh Capital, ranks among the largest early-stage rounds for a healthtech startup this year.
+
+USA Today • 50m ago
+
+---
+
 **[AI Is Democratizing Music. Unfortunately.](https://www.theatlantic.com/culture/2025/12/ai-music-suno-warner-bros/685331/)**
 
 The emerging technology is warping the record industry in all sorts of strange—and foreboding—ways.
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
-**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
+**[How to spot misleading AI videos by checking for hidden watermarks](https://www.bbc.com/news/live/cwyp2nyke4xt)**
 
-Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-CNBC • 1d ago
+BBC • 7h ago
+
+---
+
+**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+
+Bloomberg.com • 20h ago
 
 ---
 
@@ -207,7 +211,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 248 • 💬 155 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 254 • 💬 159 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -235,21 +239,13 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Personal Musings and Transcripts
 
-⬆️ 135 • 💬 61 • 1d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
-
----
-
-**[Reverse Engineering US Airline's PNR System and Accessing All Reservations](https://news.ycombinator.com/item?id=46328992)**
-
-Timeline & Responsible Disclosure
-
-⬆️ 133 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 135 • 💬 63 • 1d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 128 • 💬 137 • 10h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 130 • 💬 147 • 11h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -271,7 +267,18 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 123 • 💬 104 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 124 • 💬 106 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+
+---
+
+**[How I protect my Forgejo instance from AI web crawlers](https://news.ycombinator.com/item?id=46345205)**
+
+This article describes my nginx
+configuration and strategy on how to prevent web crawlers from putting
+down my instance while still serving most people with minimal amount of
+friction.
+
+⬆️ 116 • 💬 66 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -285,7 +292,7 @@ Dubai's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut 
 
 📺 Nex Ai
 
-👁️ 1K • 👍 14 • ⏱️ 0:12 • 4h ago
+👁️ 1K • 👍 14 • ⏱️ 0:12 • 5h ago
 
 ---
 
@@ -295,7 +302,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 98K • 👍 4K • 💬 190 • ⏱️ 13:25 • 23h ago
+👁️ 98K • 👍 4K • 💬 190 • ⏱️ 13:25 • 1d ago
 
 ---
 
@@ -305,7 +312,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 10K • 👍 261 • 💬 22 • ⏱️ 25:57 • 21h ago
+👁️ 10K • 👍 261 • 💬 22 • ⏱️ 25:57 • 22h ago
 
 ---
 
@@ -375,7 +382,7 @@ Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Or
 
 📺 Sasha Yanshin
 
-👁️ 104K • 👍 5K • 💬 1K • ⏱️ 16:44 • 23h ago
+👁️ 104K • 👍 5K • 💬 1K • ⏱️ 16:44 • 1d ago
 
 ---
 
@@ -391,7 +398,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,285 • 14d ago
+⬇️ 363,445 • ❤️ 3,288 • 14d ago
 
 ---
 
@@ -403,7 +410,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 524 • 3d ago
+⬇️ 5,379 • ❤️ 527 • 3d ago
 
 ---
 
@@ -415,7 +422,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 462 • 3d ago
+⬇️ 14,346 • ❤️ 465 • 3d ago
 
 ---
 
@@ -427,7 +434,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 435 • 2d ago
+⬇️ 86,205 • ❤️ 436 • 2d ago
 
 ---
 
@@ -463,7 +470,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 5,349 • ❤️ 400 • 8d ago
+⬇️ 5,349 • ❤️ 401 • 8d ago
 
 ---
 
@@ -475,7 +482,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 345 • 5d ago
+⬇️ 0 • ❤️ 346 • 5d ago
 
 ---
 
@@ -499,7 +506,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 770 • ❤️ 272 • 5d ago
+⬇️ 770 • ❤️ 273 • 5d ago
 
 ---
 
@@ -646,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 12h ago
+⭐ 18.7k • 🔱 3.0k • 13h ago
 
 ---
 
@@ -666,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 179 • 19m ago
+⭐ 2.4k • 🔱 179 • 50m ago
 
 ---
 
@@ -676,7 +683,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 268 • 3h ago
+⭐ 1.7k • 🔱 268 • 4h ago
 
 ---
 
@@ -736,7 +743,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 863 • 🔱 80 • 1h ago
+⭐ 863 • 🔱 80 • 2h ago
 
 ---
 
