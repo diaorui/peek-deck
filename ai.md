@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T07:43:09.947212+00:00'
+updated: '2025-12-22T07:54:49.456272+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 07:43 UTC  
+**Last Updated:** December 22, 2025 at 07:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -147,7 +147,7 @@ CNN • 23h ago
 
 Diameter Capital Partners made successful telecom and satellite bets as AI demand spread beyond chips.
 
-Business Insider • 22m ago
+Business Insider • 33m ago
 
 ---
 
@@ -155,13 +155,13 @@ Business Insider • 22m ago
 
 The rush for AI in businesses risks leaving us with a leadership vacuum that no algorithm can fill. As automation grows, critical operations demand leaders...
 
-Dallas News • 7m ago
+Dallas News • 19m ago
 
 ---
 
 **[Chinese AI Chip Maker Biren Technology Plans $623 Million Hong Kong IPO](https://www.wsj.com/business/chinese-ai-chip-maker-biren-technology-plans-623-million-hong-kong-ipo-a5433f02?gaa_at=eafs&gaa_n=AWEtsqc-gRD1KB3RvORNFe8cPvY6sB5_EfXHZUYb0TOFNaHskADdQoktSXEL&gaa_ts=6948f9f6&gaa_sig=i5X8IdEsbmzFL5H-ppG62veAdDZavf7SujDKNg8LcP73BpZgSZSSMR6b7sgjQYh6X4c9114nOLpz-y2inMa84Q%3D%3D)**
 
-The Wall Street Journal • 52m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -535,6 +535,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 2 • 💬 0 • ⭐ 61,186 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
+
+---
+
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -602,18 +614,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 2 • 💬 0 • ⭐ 61,062 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.6k • 🔱 616 • 1h ago
+⭐ 5.6k • 🔱 619 • 1h ago
 
 ---
 
@@ -679,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.4k • 🔱 341 • 16d ago
+⭐ 1.4k • 🔱 343 • 16d ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 210 • 9h ago
+⭐ 1.3k • 🔱 217 • 9h ago
 
 ---
 
@@ -699,7 +699,17 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 50 • 4d ago
+⭐ 1.0k • 🔱 51 • 4d ago
+
+---
+
+**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
+
+一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
+
+`JavaScript`
+
+⭐ 922 • 🔱 156 • 1d ago
 
 ---
 
@@ -713,23 +723,13 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 ---
 
-**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
-
-一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
-
-`JavaScript`
-
-⭐ 910 • 🔱 157 • 1d ago
-
----
-
 **[datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)**
 
 首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 881 • 🔱 87 • 5h ago
+⭐ 886 • 🔱 88 • 54m ago
 
 ---
 
@@ -739,7 +739,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 816 • 🔱 122 • 4d ago
+⭐ 817 • 🔱 122 • 4d ago
 
 ---
 
