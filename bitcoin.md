@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T20:21:36.050790+00:00'
+updated: '2025-12-22T20:42:15.380926+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 20:21 UTC  
+**Last Updated:** December 22, 2025 at 20:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.1%  
 **7d:** +0.4%  
-**30d:** +1.2%  
+**30d:** +1.1%  
 **90d:** -22.3%  
 **1y:** -7.3%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1761.78B
+**Market Cap:** $1758.65B
 Rank #1
 
-**Circulating Supply:** 19,965,625 BTC
+**Circulating Supply:** 19,965,650 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129957.5%
++129824.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 bitvoin
 
-7h ago
+8h ago
 
 ---
 
@@ -113,13 +113,19 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-7h ago
+8h ago
 
 ---
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-5h ago
+6h ago
+
+---
+
+**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
+
+30m ago
 
 ---
 
@@ -139,12 +145,6 @@ I've been looking into the idea of using Bitcoin as collateral instead of sellin
 
 ---
 
-**[A guy gave me this in 2014](https://www.reddit.com/r/Bitcoin/comments/1psyzei/a_guy_gave_me_this_in_2014/)**
-
-7h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -161,15 +161,7 @@ Bloomberg.com • 4h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 37m ago
-
----
-
-**[Could Bitcoin Finally Break $100,000 This Christmas Week – Or Is A Drop To $70,000 Coming?](https://bitcoinmagazine.com/markets/bitcoin-price-outlook-bulls-target-94000-break-for-momentum-into-new-year)**
-
-After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
-
-Bitcoin Magazine • 1h ago
+The Verge • 58m ago
 
 ---
 
@@ -181,27 +173,11 @@ Al Jazeera • 3h ago
 
 ---
 
-**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+**[Countries May Shift Gold Reserves To Bitcoin: Gemini](https://bitcoinmagazine.com/news/gemini-prediction-bitcoin-adoption-in-2026)**
 
-Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+Gemini predicts that in 2026, Bitcoin’s market maturation may break its traditional four-year cycle, political engagement with crypto will rise, prediction markets will grow, digital asset treasury firms will consolidate, and at least one nation may convert part of its gold reserves into Bitcoin.
 
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin Price news: BTC slips from day's highs during U.S. trading session](https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance)**
-
-Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
-
-CoinDesk • 2h ago
-
----
-
-**[Expert Reveals Bitcoin Likely to Tumble $50,000 Before Market Fully Bottoms](https://www.tradingview.com/news/zycrypto:0bbc2eb61094b:0-expert-reveals-bitcoin-likely-to-tumble-50-000-before-market-fully-bottoms/)**
-
-Bitcoin (BTC) may still face a significant downside if historical bear-market patterns continue to play out.
-
-TradingView — Track All Markets • 1h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -209,7 +185,15 @@ TradingView — Track All Markets • 1h ago
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
+
+---
+
+**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+
+Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -219,11 +203,25 @@ Forbes • 1d ago
 
 ---
 
-**[CryptoQuant Flags Bear Market, Sees $70K Bitcoin Soon](https://bitbo.io/news/cryptoquant-bear-market-70k/)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
 
-CryptoQuant said onchain and derivatives indicators show a bitcoin bear market has begun, with downside reference levels around $70,000 and potentially $56,000 if weakness persists.
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Bitbo • 1d ago
+Nasdaq • 1d ago
+
+---
+
+**[Billionaire hedge fund legend says central banks won’t hold Bitcoin](https://www.thestreet.com/crypto/trading/billionaire-hedge-fund-central-banks-wont-hold-bitcoin)**
+
+thestreet.com • 1d ago
+
+---
+
+**[AI Predicts Bitcoin Price if 1 Million BTC Gets Locked in ETFs: The $250K Scenario](https://247wallst.com/investing/2025/12/22/ai-predicts-bitcoin-price-if-1-million-btc-gets-locked-in-etfs-the-250k-scenario/)**
+
+AI models predict Bitcoin could hit $150K-$250K if 1 million more BTC enters ETF custody. Monte Carlo simulations show what it would take.
+
+24/7 Wall St. • 6h ago
 
 ---
 
@@ -265,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 3 • 5h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 4 • 5h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -274,6 +272,14 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
 ⬆️ 2 • 💬 1 • 1d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+
+---
+
+**[Show HN: Find games with few -but positive- reviews based on games that you like](https://news.ycombinator.com/item?id=46358236)**
+
+Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
+
+⬆️ 1 • 💬 0 • 45m ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -287,7 +293,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 137 • ⏱️ 15:15 • 18h ago
+👁️ 23K • 👍 1K • 💬 137 • ⏱️ 15:15 • 19h ago
 
 ---
 
@@ -317,7 +323,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 1K • 💬 422 • ⏱️ 17:34 • 19h ago
+👁️ 16K • 👍 1K • 💬 422 • ⏱️ 17:34 • 20h ago
 
 ---
 
@@ -347,7 +353,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 Stock Moe
 
-👁️ 8K • 👍 755 • 💬 44 • ⏱️ 12:16 • 6h ago
+👁️ 8K • 👍 755 • 💬 44 • ⏱️ 12:16 • 7h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T20:21:36.060001+00:00'
+updated: '2025-12-22T20:42:15.390422+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 20:21 UTC  
+**Last Updated:** December 22, 2025 at 20:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/2002831811823763639
 
-7h ago
+8h ago
 
 ---
 
@@ -76,7 +76,15 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-17h ago
+18h ago
+
+---
+
+**[watchdog using roborock](https://www.reddit.com/r/robotics/comments/1pt14lc/watchdog_using_roborock/)**
+
+new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
+
+6h ago
 
 ---
 
@@ -85,14 +93,6 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 Found an interesting video on Tesla's Optimus Robot.
 
 🔗 [youtu.be](https://youtu.be/J_y5ni5mihI) • 4h ago
-
----
-
-**[watchdog using roborock](https://www.reddit.com/r/robotics/comments/1pt14lc/watchdog_using_roborock/)**
-
-new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
-
-5h ago
 
 ---
 
@@ -134,7 +134,7 @@ TechNode • 2d ago
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 11h ago
+Stock Titan • 12h ago
 
 ---
 
@@ -146,14 +146,6 @@ The Verge • 1d ago
 
 ---
 
-**[iRobot founder says company's bankruptcy revealed a new kind of competitor: 'the Chinese fast follower'](https://www.businessinsider.com/irobot-ceo-bankruptcy-china-fast-followers-competition-2025-12)**
-
-As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
-
-Business Insider • 21h ago
-
----
-
 **[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
@@ -162,11 +154,11 @@ hyundai.com • 14h ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+**[iRobot founder says company's bankruptcy revealed a new kind of competitor: 'the Chinese fast follower'](https://www.businessinsider.com/irobot-ceo-bankruptcy-china-fast-followers-competition-2025-12)**
 
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
 
-KEYC News Now • 2d ago
+Business Insider • 21h ago
 
 ---
 
@@ -191,6 +183,14 @@ Interesting Engineering • 3d ago
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
 Phoronix • 8h ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 2d ago
 
 ---
 

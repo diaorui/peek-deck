@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T20:21:36.056796+00:00'
+updated: '2025-12-22T20:42:15.387078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 20:21 UTC  
+**Last Updated:** December 22, 2025 at 20:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +0.2%  
-**30d:** +5.9%  
-**90d:** -28.3%  
-**1y:** -13.3%  
+**24h:** +0.1%  
+**7d:** +0.4%  
+**30d:** +6.1%  
+**90d:** -28.2%  
+**1y:** -13.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.85B
+**Market Cap:** $358.65B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-39.9%
 
 **All-Time Low:** $0.43
-+688741.7%
++686321.3%
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 3h ago
-
----
-
-**[When did Ethereum go from confusing to useful for you](https://www.reddit.com/r/ethereum/comments/1pt8ry5/when_did_ethereum_go_from_confusing_to_useful_for/)**
-
-I remember learning about smart contracts and feeling overwhelmed at first. After actually using a few apps and doing swaps it started to click. Did trying things in practice help you understand Ethereum better?
-
-44m ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 4h ago
 
 ---
 
@@ -96,7 +88,7 @@ I remember learning about smart contracts and feeling overwhelmed at first. Afte
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-13h ago
+14h ago
 
 ---
 
@@ -143,6 +135,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
 🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 2d ago
+
+---
+
+**[Trust funds don’t exist where I live, can I substitute it with crypto?](https://www.reddit.com/r/ethereum/comments/1pqv5m1/trust_funds_dont_exist_where_i_live_can_i/)**
+
+I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
+
+3d ago
 
 ---
 
@@ -196,17 +196,23 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[BitMine Immersion Highlights Record Ethereum Treasury and Liquidity](https://www.tipranks.com/news/company-announcements/bitmine-immersion-highlights-record-ethereum-treasury-and-liquidity)**
+**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
 
-TipRanks • 5h ago
+Next year could be good but won't be driven by blockchain tech upgrades.
+
+The Motley Fool • 3d ago
 
 ---
 
-**[Where Will Cryptocurrency Ethereum Be in 5 Years?](https://www.fool.com/investing/2025/12/22/where-will-cryptocurrency-ethereum-be-in-5-years/)**
+**[BitMine Immersion Highlights Record Ethereum Treasury and Liquidity](https://www.tipranks.com/news/company-announcements/bitmine-immersion-highlights-record-ethereum-treasury-and-liquidity)**
 
-Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
+TipRanks • 6h ago
 
-The Motley Fool • 9h ago
+---
+
+**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
+
+The Block • 3d ago
 
 ---
 
@@ -215,12 +221,6 @@ The Motley Fool • 9h ago
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
 ZyCrypto • 2d ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 3d ago
 
 ---
 
@@ -264,7 +264,7 @@ Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the
 
 📺 NextMove Stocks
 
-👁️ 338 • 👍 17 • 💬 13 • ⏱️ 7:50 • 6h ago
+👁️ 338 • 👍 17 • 💬 13 • ⏱️ 7:50 • 7h ago
 
 ---
 
