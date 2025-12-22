@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T17:41:29.882054+00:00'
+updated: '2025-12-22T17:52:52.169028+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 17:41 UTC  
+**Last Updated:** December 22, 2025 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -170,7 +170,7 @@ FXStreet • 13h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 47m ago
+CoinDesk • 58m ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2d ago
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -316,7 +316,7 @@ Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a
 
 📺 Stock Moe
 
-👁️ 13K • 👍 885 • 💬 18 • ⏱️ 11:18 • 19h ago
+👁️ 13K • 👍 885 • 💬 18 • ⏱️ 11:18 • 20h ago
 
 ---
 

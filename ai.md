@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T17:41:29.867424+00:00'
+updated: '2025-12-22T17:52:52.154285+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 17:41 UTC  
+**Last Updated:** December 22, 2025 at 17:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. Curious, disciplined, critical? AI will amplify that. Lazy, gullible, or intellectually passive? AI will amplify that too. LOL. That’s the uncomfortable truth no one wants to say out loud: This is the 2024–2030 revolution. AI will widen the gap : elites pulling further ahead, the rest trailing. Not because the tool is elitist… but because using it well isn’t evenly distributed. And that’s… kind of sad. Imo, we’re not ready for the social consequences of that.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 36m ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 47m ago
 
 ---
 
@@ -143,7 +143,7 @@ The Washington Post • 1h ago
 
 **[I correctly predicted ChatGPT. Here are my 6 AI predictions for 2026](https://www.fastcompany.com/91461250/i-correctly-predicted-chatgpt-my-6-ai-predictions-2026)**
 
-Fast Company • 53m ago
+Fast Company • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 2d ago
 
 **[Alphabet Buys Energy Startup Intersect For $4.75 Billion To Fuel AI Growth](https://www.forbes.com/sites/tylerroush/2025/12/22/alphabet-buys-clean-energy-startup-for-ai-data-centers-in-475-billion-deal/)**
 
-Forbes • 44m ago
+Forbes • 55m ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 44m ago
 
 If your AI feels slow, expensive or risky, the problem isn’t the models — it’s the data, and cognitive data architecture is the fix.
 
-cio.com • 34m ago
+cio.com • 45m ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 1h ago
+⭐ 5.7k • 🔱 631 • 2h ago
 
 ---
 
@@ -666,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 179 • 7m ago
+⭐ 2.4k • 🔱 179 • 19m ago
 
 ---
 
@@ -706,7 +706,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 171 • 4h ago
+⭐ 1.0k • 🔱 171 • 5h ago
 
 ---
 
@@ -726,7 +726,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 906 • 🔱 89 • 6h ago
+⭐ 906 • 🔱 89 • 7h ago
 
 ---
 

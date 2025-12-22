@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T17:41:29.875859+00:00'
+updated: '2025-12-22T17:52:52.162903+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 17:41 UTC  
+**Last Updated:** December 22, 2025 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,249.35
+### $89,282.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +2.0%  
-**30d:** +2.8%  
-**90d:** -21.0%  
-**1y:** -5.8%  
+**24h:** +0.8%  
+**7d:** +1.8%  
+**30d:** +2.5%  
+**90d:** -21.2%  
+**1y:** -6.0%  
 
 ---
 
@@ -89,7 +89,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ I've been looking into the idea of using Bitcoin as collateral instead of sellin
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-20h ago
+21h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Economic Times • 16h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 57m ago
+Al Jazeera • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 1h ago
 
 Gemini predicts that in 2026, Bitcoin’s market maturation may break its traditional four-year cycle, political engagement with crypto will rise, prediction markets will grow, digital asset treasury firms will consolidate, and at least one nation may convert part of its gold reserves into Bitcoin.
 
-Bitcoin Magazine • 37m ago
+Bitcoin Magazine • 49m ago
 
 ---
 
