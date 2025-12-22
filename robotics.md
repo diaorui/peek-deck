@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T22:58:14.701986+00:00'
+updated: '2025-12-22T23:27:29.678125+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 22:58 UTC  
+**Last Updated:** December 22, 2025 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Physical Intelligence just released a series of "Robot Olympics" events to showcase their latest π0.6 model. Unlike standard benchmarks, these tasks are designed to illustrate Moravec’s Paradox which are everyday physical actions that are trivial for humans but represent the "gold standard" of difficulty for modern robotics. All tasks shown are fully autonomous, demonstrating high-level task decomposition and fine motor control. The 5 Olympic Events: Event 1 (Gold) - Door Entry: The robot successfully navigates a self-closing lever-handle door. This is technically challenging because it requires the model to apply force to keep the door open while simultaneously moving its base through the frame. Event 2 (Silver) - Textile Manipulation: The model successfully turns a sock right-side-out. They attempted the Gold medal task (hanging an inside-out dress shirt), but the current hardware gripper was too wide for the sleeves. Event 3 (Gold) - Fine Tool Use: A major win here,the robot used a small key to unlock a padlock. This requires extreme precision to align the key and enough torque to turn the tumbler. (Silver was making a peanut butter sandwich, involving long-horizon steps like spreading and cutting triangles). Event 4 (Silver) - Deformable Objects: The robot successfully opened a dog poop bag. This is notoriously difficult because the thin plastic blinds the wrist cameras during manipulation. They attempted to peel an orange for Gold but were "disqualified" for needing a sharper tool. Event 5 (Gold) - Complex Cleaning: The robot washed a frying pan in a sink using soap and water, scrubbing both sides. They also cleared the Silver (cleaning the grippers) and Bronze (wiping the counter) tasks for this category. The Tech Behind It: The π0.6 model is a Vision-Language-Action (VLA) generalist policy. It moves away from simple "behavior cloning" and instead focuses on agentic coding and task completion, allowing it to recover from errors and handle diverse, "messy" real-world environments. Official Blog: pi.website/blog/olympics Source Video: Physical Intelligence on X
 
-4h ago
+5h ago
 
 ---
 
@@ -48,19 +48,11 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[Logan Kilpatrick, lead AI product for Google: "2026 is going to be a huge year for embodied AI" - "We are going to see a lot more robots in the real world soon"](https://www.reddit.com/r/robotics/comments/1psydvl/logan_kilpatrick_lead_ai_product_for_google_2026/)**
-
-Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/2002831811823763639
-
-10h ago
-
----
-
 **[[OS] SPIDER: A General Physics-Informed Retargeting Framework for Humanoids & Dexterous Hands](https://www.reddit.com/r/robotics/comments/1pt4uxn/os_spider_a_general_physicsinformed_retargeting/)**
 
 Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting human motion to diverse robot embodiments. Most retargeting methods suffer from physical inconsistencies. SPIDER is physics-informed, ensuring dynamically feasible motions without artifacts like ghosting or floating. Key Features: General: Supports both humanoids (G1, H1, etc.) and dexterous hands (Allegro, Shadow, etc.). Physics-Based: GPU-accelerated optimization for clean, stable motion. Sim2Real-ready: Ready for deployment, from human video to real-world robot actions. Links: 📦 Code: https://github.com/facebookresearch/spider 📓 Tutorial: Notebook 🌐 Project Page: http://jc-bao.github.io/spider-project/ Would love to hear your feedback or help with any integration questions!
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +60,7 @@ Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting h
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-11h ago
+12h ago
 
 ---
 
@@ -76,7 +68,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 Hey guys, how much time do you usually spend on your feet in a given work day? I’ve recently injured my back and it doesn’t look like it’s going to get healed anytime soon. I’m relegated to a chair for the most part I think, but this is an industry I’m pretty interested in. I would love to get your feedback so I can decide if I can actually do this work in a professional setting. Thanks! 🤖
 
-38m ago
+1h ago
 
 ---
 
@@ -88,6 +80,14 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 ---
 
+**[3d printed automatic tool-changer update](https://www.reddit.com/r/robotics/comments/1pt4jb8/3d_printed_automatic_toolchanger_update/)**
+
+Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
+
+6h ago
+
+---
+
 **[watchdog using roborock](https://www.reddit.com/r/robotics/comments/1pt14lc/watchdog_using_roborock/)**
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
@@ -96,11 +96,15 @@ new modified version with a better camera. Patrolling on demand or on schedule. 
 
 ---
 
-**[3d printed automatic tool-changer update](https://www.reddit.com/r/robotics/comments/1pt4jb8/3d_printed_automatic_toolchanger_update/)**
+**[Rerun 0.28 - easier use with ROS style data](https://www.reddit.com/r/robotics/comments/1pte5bp/rerun_028_easier_use_with_ros_style_data/)**
 
-Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
+Rerun is an easy-to-use database and visualization toolbox for multimodal and temporal data.
+Try it live at https://rerun.io/viewer.
 
-6h ago
+Python: pip install rerun-sdk
+Rust: cargo add rerun and cargo i...
+
+🔗 [GitHub](https://github.com/rerun-io/rerun/releases/tag/0.28.0) • 7m ago
 
 ---
 
@@ -140,17 +144,11 @@ The Verge • 1d ago
 
 ---
 
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
+**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
 
-Bloomberg.com • 3d ago
+Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
 
----
-
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 16h ago
+Sifted • 18h ago
 
 ---
 
@@ -158,29 +156,21 @@ hyundai.com • 16h ago
 
 As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
-**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
-Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
-Sifted • 17h ago
+hyundai.com • 17h ago
 
 ---
 
 **[Robot Makers Wrestle With How to Safely Pull the Plug on Humanoids](https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids)**
 
-The Information • 4h ago
-
----
-
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
-
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
-
-South China Morning Post • 2d ago
+The Information • 5h ago
 
 ---
 
@@ -189,6 +179,22 @@ South China Morning Post • 2d ago
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
 Phoronix • 11h ago
+
+---
+
+**[Retailers Turn to AI and Robotics to Keep Holiday Fulfillment on Track](https://www.pymnts.com/news/retail/2025/retailers-turn-to-ai-and-robotics-to-keep-holiday-fulfillment-on-track/)**
+
+As peak holiday demand stretches supply chains to their limits, global retailers like Amazon, Walmart and Target are leaning heavily on artificial
+
+PYMNTS.com • 18m ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 3d ago
 
 ---
 
@@ -292,7 +298,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 2.1M • 👍 31K • 💬 514 • ⏱️ 0:29 • 23h ago
+👁️ 2.1M • 👍 31K • 💬 514 • ⏱️ 0:29 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T22:58:14.698727+00:00'
+updated: '2025-12-22T23:27:29.674799+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 22:58 UTC  
+**Last Updated:** December 22, 2025 at 23:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.7%  
-**30d:** +7.5%  
-**90d:** -27.2%  
-**1y:** -12.0%  
+**24h:** -0.8%  
+**7d:** +1.5%  
+**30d:** +7.3%  
+**90d:** -27.4%  
+**1y:** -12.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.93B
+**Market Cap:** $362.78B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.5%
+-39.2%
 
 **All-Time Low:** $0.43
-+690739.5%
++694194.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 6h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 7h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-16h ago
+17h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
@@ -170,7 +170,13 @@ FXStreet • 18h ago
 
 BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
+
+---
+
+**[Ethereum Leverage Hits Record Highs: Why Your ETH Now Sits on a Time Bomb](https://99bitcoins.com/news/altcoins/ethereum-leverage-hits-record-highs-why-your-eth-now-sits-on-a-time-bomb/)**
+
+99Bitcoins • 1d ago
 
 ---
 
@@ -182,15 +188,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Leverage Hits Record Highs: Why Your ETH Now Sits on a Time Bomb](https://99bitcoins.com/news/altcoins/ethereum-leverage-hits-record-highs-why-your-eth-now-sits-on-a-time-bomb/)**
-
-99Bitcoins • 1d ago
-
----
-
 **[BitMine Immersion Highlights Record Ethereum Treasury and Liquidity](https://www.tipranks.com/news/company-announcements/bitmine-immersion-highlights-record-ethereum-treasury-and-liquidity)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -212,7 +212,7 @@ ZyCrypto • 2d ago
 
 Large holders are buying like never before while ETF numbers collapse.
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
 
 ---
 
@@ -234,7 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 238 • 💬 127 • ⏱️ 17:34 • 6h ago
+👁️ 5K • 👍 238 • 💬 127 • ⏱️ 17:34 • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 41 • 💬 15 • ⏱️ 7:32 • 9h ago
+👁️ 1K • 👍 41 • 💬 15 • ⏱️ 7:32 • 10h ago
 
 ---
 
@@ -284,7 +284,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 403 • 👍 16 • ⏱️ 16:54 • 2h ago
+👁️ 403 • 👍 16 • ⏱️ 16:54 • 3h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 6 • ⏱️ 4:52 • 9h ago
+👁️ 2K • 👍 144 • 💬 6 • ⏱️ 4:52 • 10h ago
 
 ---
 

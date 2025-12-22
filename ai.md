@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T22:58:14.684404+00:00'
+updated: '2025-12-22T23:27:29.660420+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 22:58 UTC  
+**Last Updated:** December 22, 2025 at 23:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Steam games that openly use generative AI earned $660 million this year, including Call of Duty: Black Ops 6, Stellaris, and more, as studios continue to rely on the technology](https://www.reddit.com/r/artificial/comments/1ptd5uy/steam_games_that_openly_use_generative_ai_earned/)**
+
+Uh oh…
+
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 50m ago
+
+---
+
 **[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 11h ago
-
----
-
-**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
-
-Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
-
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 5h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 12h ago
 
 ---
 
@@ -57,7 +57,15 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 2h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 3h ago
+
+---
+
+**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
+
+Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
+
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 6h ago
 
 ---
 
@@ -69,19 +77,19 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 ---
 
+**[Are we dismissing AI spend before the 6x compute jump lands?](https://www.reddit.com/r/artificial/comments/1pt0qq1/are_we_dismissing_ai_spend_before_the_6x_compute/)**
+
+Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
+
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 9h ago
+
+---
+
 **[Robot training process + gameplay. I'm making a physics-based game where you command AI robot through levels - not just pointing the path, but also by controlling limb power and decision speed.](https://www.reddit.com/r/artificial/comments/1pt8xgm/robot_training_process_gameplay_im_making_a/)**
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
 3h ago
-
----
-
-**[Are we dismissing AI spend before the 6x compute jump lands?](https://www.reddit.com/r/artificial/comments/1pt0qq1/are_we_dismissing_ai_spend_before_the_6x_compute/)**
-
-Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
-
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 8h ago
 
 ---
 
@@ -97,7 +105,7 @@ Intel engineers as part of the OPEA Project today released the Generative AI Exa
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 13h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 14h ago
 
 ---
 
@@ -106,14 +114,6 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
 🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 17h ago
-
----
-
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 1d ago
 
 ---
 
@@ -133,7 +133,7 @@ ABC News • 15h ago
 
 The emerging technology is warping the record industry in all sorts of strange—and foreboding—ways.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -149,31 +149,15 @@ NBC News • 1h ago
 
 OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an 'LLM-based automated attacker.'
 
-TechCrunch • 46m ago
+TechCrunch • 1h ago
 
 ---
 
-**[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
+**[UNC alum helps launch AI tool for brewers](https://www.wral.com/business/technology/unc-alum-launch-ai-tool-brewers-2025/)**
 
-A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
+The art of brewing the best craft beer is a science - one that a Durham-based company is hoping to make easier through technology.
 
-CNBC • 8h ago
-
----
-
-**[Instacart ends AI pricing test that charged shoppers different prices for the same items](https://www.latimes.com/business/story/2025-12-22/instacart-ends-ai-pricing-test-that-charged-shoppers-different-prices-for-same-items)**
-
-Instacart will end a program that set different prices for the same items sold at the same store after a report on the experiments triggered criticism.
-
-Los Angeles Times • 2h ago
-
----
-
-**[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
-
-Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
-
-CBS News • 8h ago
+WRAL • 1h ago
 
 ---
 
@@ -185,9 +169,21 @@ CNN • 1d ago
 
 ---
 
-**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
 
-Bloomberg.com • 1d ago
+The New York Times • 3h ago
+
+---
+
+**[AI is changing childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
+
+Axios • 11h ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -195,7 +191,7 @@ Bloomberg.com • 1d ago
 
 Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
 
-blog.google • 4h ago
+blog.google • 5h ago
 
 ---
 
@@ -215,7 +211,15 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 259 • 💬 162 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 262 • 💬 164 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+
+---
+
+**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://news.ycombinator.com/item?id=46355548)**
+
+Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
+
+⬆️ 238 • 💬 279 • 6h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -231,19 +235,11 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 ---
 
-**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://news.ycombinator.com/item?id=46355548)**
-
-Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
-
-⬆️ 184 • 💬 252 • 6h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
-
----
-
 **[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 178 • 💬 397 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 180 • 💬 397 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -254,7 +250,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 148 • 💬 78 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 152 • 💬 79 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -268,7 +264,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 133 • 💬 155 • 15h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 133 • 💬 155 • 16h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -290,7 +286,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 9K • 💬 27 • ⏱️ 44:39 • 5h ago
+👁️ 9K • 💬 27 • ⏱️ 44:39 • 6h ago
 
 ---
 
@@ -300,7 +296,7 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 24K • 👍 340 • 💬 212 • ⏱️ 4:26 • 20h ago
+👁️ 24K • 👍 340 • 💬 212 • ⏱️ 4:26 • 21h ago
 
 ---
 
@@ -350,7 +346,7 @@ Well… this day has finally arrived. I'm gonna try the world's first AI restaur
 
 📺 Alexander The Guest
 
-👁️ 17K • 👍 1K • 💬 131 • ⏱️ 8:41 • 5h ago
+👁️ 17K • 👍 1K • 💬 131 • ⏱️ 8:41 • 6h ago
 
 ---
 
@@ -396,7 +392,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,293 • 14d ago
+⬇️ 363,445 • ❤️ 3,296 • 14d ago
 
 ---
 
@@ -408,7 +404,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 537 • 3d ago
+⬇️ 5,379 • ❤️ 539 • 3d ago
 
 ---
 
@@ -420,7 +416,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 472 • 4d ago
+⬇️ 14,346 • ❤️ 473 • 4d ago
 
 ---
 
@@ -432,7 +428,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 441 • 3d ago
+⬇️ 86,205 • ❤️ 442 • 3d ago
 
 ---
 
@@ -444,7 +440,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 397 • 4d ago
+⬇️ 8,830 • ❤️ 399 • 4d ago
 
 ---
 
@@ -480,7 +476,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 348 • 5d ago
+⬇️ 0 • ❤️ 349 • 5d ago
 
 ---
 
@@ -571,23 +567,9 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,459 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,504 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 27 • 💬 2 • ⭐ 7,616 • 25d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -605,15 +587,17 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://huggingface.co/papers/2512.16969)**
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
-*Wanghan Xu, Yuhao Zhou, Yifan Zhou et al. (107 authors)*
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
 
-A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
+🏢 Tongyi-MAI
 
-▲ 78 • 💬 6 • ⭐ 50 • 4d ago
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
+▲ 27 • 💬 2 • ⭐ 7,641 • 25d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -629,15 +613,27 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 ---
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+**[Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://huggingface.co/papers/2512.16969)**
 
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+*Wanghan Xu, Yuhao Zhou, Yifan Zhou et al. (107 authors)*
 
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 30 • 💬 2 • ⭐ 12,956 • 14d ago
+▲ 78 • 💬 6 • ⭐ 56 • 4d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+[🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
+
+---
+
+**[3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://huggingface.co/papers/2512.17459)**
+
+*Tobias Sautter, Jan-Niklas Dihlmann, Hendrik P. A. Lensch*
+
+3D-RE-GEN reconstructs single images into modifiable 3D textured mesh scenes with comprehensive backgrounds, achieving top performance through compositional generation and scene optimization.
+
+▲ 4 • 💬 1 • ⭐ 33 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.17459) • [💻 code](https://github.com/cgtuebingen/3D-RE-GEN) • [🔗 project](https://3dregen.jdihlmann.com/)
 
 ---
 
@@ -651,7 +647,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 17h ago
+⭐ 18.7k • 🔱 3.0k • 18h ago
 
 ---
 
@@ -661,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 7h ago
+⭐ 5.7k • 🔱 632 • 7h ago
 
 ---
 
@@ -671,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 4h ago
+⭐ 2.4k • 🔱 180 • 5h ago
 
 ---
 
@@ -681,7 +677,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 284 • 1h ago
+⭐ 2.0k • 🔱 294 • 11m ago
 
 ---
 
@@ -691,7 +687,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.6k • 🔱 356 • 16d ago
+⭐ 1.6k • 🔱 358 • 16d ago
 
 ---
 
@@ -711,7 +707,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 171 • 10h ago
+⭐ 1.0k • 🔱 172 • 10h ago
 
 ---
 
@@ -731,7 +727,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 907 • 🔱 89 • 12h ago
+⭐ 908 • 🔱 89 • 12h ago
 
 ---
 
@@ -741,7 +737,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 869 • 🔱 80 • 6h ago
+⭐ 874 • 🔱 80 • 7h ago
 
 ---
 
