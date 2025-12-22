@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T14:58:31.928876+00:00'
+updated: '2025-12-22T15:31:22.194013+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - videos
 - repositories
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 14:58 UTC  
+**Last Updated:** December 22, 2025 at 15:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
+
+The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
+
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 4h ago
+
+---
+
 **[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
@@ -45,19 +53,11 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 ---
 
-**[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
-
-The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
-
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 3h ago
-
----
-
 **[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 17h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 9h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 10h ago
 
 ---
 
@@ -89,7 +89,15 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 5h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 6h ago
+
+---
+
+**[Could training AIs on human brain activity be key to AGI?](https://www.reddit.com/r/artificial/comments/1pt24xk/could_training_ais_on_human_brain_activity_be_key/)**
+
+So wouldn't an AGI be able to mimic human intelligence if it learned accurately enough which brain regions show what activity in different settings?
+
+12m ago
 
 ---
 
@@ -97,7 +105,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 Something I don’t see talked about enough: How much time AI builders spend repeating setup work. Every project: - Pull data - Clean it - Structure it - Validate outputs - Fix edge cases - Re-run when something changes None of this is the interesting part, but skipping it causes problems later. I’m starting to think the real productivity gain in AI isn’t better models, it’s fewer repeated steps. Curious how others feel: What’s the one setup task you wish you never had to do again?
 
-32m ago
+1h ago
 
 ---
 
@@ -105,15 +113,7 @@ Something I don’t see talked about enough: How much time AI builders spend rep
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 37m ago
-
----
-
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
-
-At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 22h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 1h ago
 
 ---
 
@@ -125,7 +125,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Nude images of a 13-year-old girl and her friends, generated by artificial intelligence, were circulating on social media and had become the talk of a Louisiana middle school.  When the 13-year-old girl stepped onto the Lafourche Parish school bus at the end of the day, a classmate was showing one of them to a friend.  The 13-year-old girl’s attorneys allege he avoided school discipline altogether.
 
-Yahoo • 9h ago
+Yahoo • 10h ago
 
 ---
 
@@ -137,33 +137,17 @@ CNN • 1d ago
 
 ---
 
-**[Inside Tencent’s deal to use Nvidia’s best AI chips in Japan](https://www.ft.com/content/9b47c335-9633-4560-9f57-5736c9d04bef)**
+**[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
 
-Contracts with Chinese tech giant have rapidly turned Datasection into one of Asia’s biggest ‘neoclouds’
+Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-Financial Times • 1d ago
-
----
-
-**['Big Short' investor Michael Burry warns the US will lose the AI race to China if it banks on Nvidia's 'power hungry' chips](https://www.businessinsider.com/big-short-michael-burry-nvidia-chips-ai-china-tech-power-2025-12)**
-
-Michael Burry of "The Big Short" fame said the US needs to shift away from "power-hungry" chips, but Nvidia has a "death grip" on the sector.
-
-Business Insider • 1h ago
+CBS News • 34m ago
 
 ---
 
-**[Nvidia: Transition To Long Thinking Models Is Beyond Traditional AI Growth Patterns](https://seekingalpha.com/article/4855042-nvidia-transition-to-long-thinking-models-is-beyond-traditional-ai-growth-patterns)**
+**[Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why AI Is Key.](https://www.barrons.com/articles/microsoft-stock-upside-2026-ai-eb44db82?gaa_at=eafs&gaa_n=AWEtsqepB1vtUn4-g7MFhAmgwUU7-rY0jNuBpi-dw_ih6EZznnuuvCHE4e4-&gaa_ts=694967b4&gaa_sig=rB208bgm3WP1F_MkoqMA1LLYz5WnvLLyQ7U9yvBEYRtgvrW50Y5AwPPcd0tlIlna6gQwKV7ECGSzHKnZwWZGoQ%3D%3D)**
 
-Nvidia's revenue momentum is underpinned by a $0.5 trillion Blackwell/Rubin pipeline. Click here to read more about NVDA stock and why it is a Strong Buy.
-
-Seeking Alpha • 7h ago
-
----
-
-**[Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why AI Is Key.](https://www.barrons.com/articles/microsoft-stock-upside-2026-ai-eb44db82?gaa_at=eafs&gaa_n=AWEtsqcewRbUB_fp8MIP0eTbkjOsqXMyDUN8luMFI7uhjgw5aGr02Jp610qX&gaa_ts=69496002&gaa_sig=WNZvaXMj8N2AO3TH9FXUbTbl1gX2PDTsmUy9QZAcMeGvrPzxTGqbNaMO6z5U68YwIRO6b6T_BxQZETmy-0cwEQ%3D%3D)**
-
-Barron's • 25m ago
+Barron's • 58m ago
 
 ---
 
@@ -171,7 +155,7 @@ Barron's • 25m ago
 
 At Sam’s Club, our technology decisions are grounded in a key part of the Walmart enterprise purpose: We are people-led and tech-powered.
 
-Fortune • 53m ago
+Fortune • 1h ago
 
 ---
 
@@ -179,21 +163,37 @@ Fortune • 53m ago
 
 The emerging technology is warping the record industry in all sorts of strange—and foreboding—ways.
 
-The Atlantic • 1h ago
+The Atlantic • 2h ago
+
+---
+
+**[How to spot misleading AI videos by checking for hidden watermarks](https://www.bbc.com/news/live/cwyp2nyke4xt)**
+
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
+
+BBC • 39m ago
+
+---
+
+**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
+
+Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
+
+CNBC • 1d ago
 
 ---
 
 **[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
-**[Independence officials charged up for Dutch AI company's data-center project](https://www.kshb.com/news/local-news/independence-officials-charged-up-for-dutch-ai-companys-data-center-project)**
+**[This AI finds simple rules where humans see only chaos](https://www.sciencedaily.com/releases/2025/12/251221091237.htm)**
 
-AI has become big business and Independence officials are charged up about a proposed multi-faceted, multi-phase project that involves a new power plant and a Dutch technology company, Nebius.
+A new AI developed at Duke University can uncover simple, readable rules behind extremely complex systems. It studies how systems evolve over time and reduces thousands of variables into compact equations that still capture real behavior. The method works across physics, engineering, climate science, and biology. Researchers say it could help scientists understand systems where traditional equations are missing or too complicated to write down.
 
-KSHB 41 Kansas City • 9h ago
+ScienceDaily • 9h ago
 
 ---
 
@@ -205,7 +205,7 @@ KSHB 41 Kansas City • 9h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 512 • 💬 478 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 512 • 💬 479 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -213,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 241 • 💬 150 • 22h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 243 • 💬 150 • 22h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -249,7 +249,7 @@ Timeline & Responsible Disclosure
 
 Personal Musings and Transcripts
 
-⬆️ 132 • 💬 60 • 21h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 132 • 💬 60 • 22h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -258,6 +258,12 @@ Personal Musings and Transcripts
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
 ⬆️ 127 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+
+---
+
+**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
+
+⬆️ 123 • 💬 121 • 8h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -271,13 +277,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 120 • 💬 103 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
-
----
-
-**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
-
-⬆️ 119 • 💬 117 • 7h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 121 • 💬 103 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -291,7 +291,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 90K • 👍 4K • 💬 179 • ⏱️ 13:25 • 20h ago
+👁️ 90K • 👍 4K • 💬 179 • ⏱️ 13:25 • 21h ago
 
 ---
 
@@ -301,7 +301,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 9K • 👍 239 • 💬 17 • ⏱️ 25:57 • 18h ago
+👁️ 9K • 👍 239 • 💬 17 • ⏱️ 25:57 • 19h ago
 
 ---
 
@@ -351,7 +351,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 182 • 💬 10 • ⏱️ 13:03 • 17h ago
+👁️ 4K • 👍 182 • 💬 10 • ⏱️ 13:03 • 18h ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 514 • 3d ago
+⬇️ 5,379 • ❤️ 518 • 3d ago
 
 ---
 
@@ -421,7 +421,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 455 • 3d ago
+⬇️ 14,346 • ❤️ 458 • 3d ago
 
 ---
 
@@ -469,7 +469,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 5,349 • ❤️ 398 • 8d ago
+⬇️ 5,349 • ❤️ 399 • 8d ago
 
 ---
 
@@ -481,7 +481,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 338 • 5d ago
+⬇️ 0 • ❤️ 340 • 5d ago
 
 ---
 
@@ -493,7 +493,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 325 • 6d ago
+⬇️ 0 • ❤️ 327 • 6d ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 9h ago
+⭐ 18.7k • 🔱 3.0k • 10h ago
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 628 • 1h ago
+⭐ 5.7k • 🔱 629 • 3m ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 178 • 46m ago
+⭐ 2.4k • 🔱 178 • 5m ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 243 • 1h ago
+⭐ 1.6k • 🔱 252 • 1h ago
 
 ---
 
@@ -692,7 +692,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.5k • 🔱 350 • 16d ago
+⭐ 1.5k • 🔱 351 • 16d ago
 
 ---
 
@@ -712,7 +712,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 978 • 🔱 166 • 2h ago
+⭐ 990 • 🔱 167 • 2h ago
 
 ---
 
@@ -732,7 +732,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 900 • 🔱 89 • 4h ago
+⭐ 903 • 🔱 89 • 4h ago
 
 ---
 
@@ -742,7 +742,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 835 • 🔱 78 • 2h ago
+⭐ 846 • 🔱 80 • 2h ago
 
 ---
 

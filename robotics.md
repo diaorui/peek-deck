@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T14:58:31.946334+00:00'
+updated: '2025-12-22T15:31:22.211793+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 14:58 UTC  
+**Last Updated:** December 22, 2025 at 15:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/2002831811823763639
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-20m ago
+53m ago
 
 ---
 
@@ -88,19 +88,19 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 ---
 
-**[Anyone here from India?](https://www.reddit.com/r/robotics/comments/1pszctm/anyone_here_from_india/)**
-
-Hey everyone! I’m a high school student from India and just starting out with robotics Right now I’m mostly experimenting and learning, so instead of buying everything brand new I thought I’d ask here If anyone in India has robotics/electronics components they’re not using anymore and would be willing to sell them at a reasonable price, I’d really appreciate it Stuff like DC/servo motors/stepper motors Sensors Arduino/ESP boards Motor drivers, power modules etc If you hve upgraded your setup or just have spare parts lying around I’d be happy to put them to good use Im not trying to lowball anyone totally fine with paying fairly Thanks [ Attached Image : Irrelevant ]
-
-1h ago
-
----
-
 **[Medical Robotics Growth Outlook: Surgical, Rehab, and Assistive Robots on the Rise](https://www.reddit.com/r/robotics/comments/1psx8hx/medical_robotics_growth_outlook_surgical_rehab/)**
 
 Just came across this Medical Robotics Market report from Roots Analysis — major growth ahead for surgical tech! According to the summary, the global medical robotics market is expected to grow from about $10.1B in 2024 to ~$31.3B by 2035, with a ~10.8% CAGR. Surgical robots currently hold the largest share, with strong adoption in orthopedic and minimally invasive procedures, while rehabilitation robots and smart exoskeletons are gaining traction too. North America leads the market, but Asia-Pacific is the fastest-growing region. If you’re into surgical innovation and future tech trends, this forecast is worth a look.
 
-3h ago
+4h ago
+
+---
+
+**[Anyone here from India?](https://www.reddit.com/r/robotics/comments/1pszctm/anyone_here_from_india/)**
+
+Hey everyone! I’m a high school student from India and just starting out with robotics Right now I’m mostly experimenting and learning, so instead of buying everything brand new I thought I’d ask here If anyone in India has robotics/electronics components they’re not using anymore and would be willing to sell them at a reasonable price, I’d really appreciate it Stuff like DC/servo motors/stepper motors Sensors Arduino/ESP boards Motor drivers, power modules etc If you hve upgraded your setup or just have spare parts lying around I’d be happy to put them to good use Im not trying to lowball anyone totally fine with paying fairly Thanks [ Attached Image : Irrelevant ]
+
+2h ago
 
 ---
 
@@ -128,15 +128,15 @@ Interesting Engineering • 1d ago
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 6h ago
+Stock Titan • 7h ago
 
 ---
 
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-The Verge • 1d ago
+Futurism • 2d ago
 
 ---
 
@@ -158,7 +158,15 @@ KSBY News • 3d ago
 
 As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
+
+---
+
+**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
+
+Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
+
+Sifted • 10h ago
 
 ---
 
@@ -167,14 +175,6 @@ Business Insider • 15h ago
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
 Phoronix • 3h ago
-
----
-
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
-
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
-
-South China Morning Post • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ KEYC News Now • 2d ago
 
 Sen. Bernie Sanders (I-VT) has slammed Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk amid an AI and Robotics push. How Will This Utopia Come About, Bernie Sanders Asks In a post on the social media platform X on Thursday, Sanders shared a video directed at Musk. "Just a couple of questions for you," Sanders captioned the video. In the video, the Senator asked Musk questions about his artificial intelligence and robotics efforts, which will bring about a "utopia" in the world. "You have told us poverty
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -274,7 +274,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 118K • 👍 6K • 💬 498 • ⏱️ 13:43 • 3d ago
+👁️ 118K • 👍 6K • 💬 498 • ⏱️ 13:43 • 4d ago
 
 ---
 

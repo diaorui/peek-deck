@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T14:58:31.937158+00:00'
+updated: '2025-12-22T15:31:22.202391+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 14:58 UTC  
+**Last Updated:** December 22, 2025 at 15:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,571.43
+### $89,493.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +3.0%  
-**30d:** +3.7%  
-**90d:** -20.3%  
-**1y:** -4.9%  
+**24h:** +1.3%  
+**7d:** +2.1%  
+**30d:** +2.9%  
+**90d:** -21.0%  
+**1y:** -5.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.01B
+**Market Cap:** $1787.44B
 Rank #1
 
 **Circulating Supply:** 19,965,534 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-29.0%
 
 **All-Time Low:** $67.81
-+132827.3%
++131957.2%
 
 ---
 
@@ -77,29 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
-
-5h ago
-
----
-
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
 bitvoin
-
-2h ago
-
----
-
-**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
-
-This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
-
-11h ago
-
----
-
-**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psx9ow/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
 3h ago
 
@@ -107,7 +87,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -119,23 +99,9 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
-**[The floor keeps rising! ⏳](https://www.reddit.com/r/Bitcoin/comments/1pszud8/the_floor_keeps_rising/)**
-
-Pain is the
-
-1h ago
-
----
-
-**[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
-
-14h ago
-
----
-
 **[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -145,15 +111,51 @@ Pain is the
 
 ---
 
+**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
+
+56m ago
+
+---
+
+**[BTC continues to accumulate](https://www.reddit.com/r/Bitcoin/comments/1psz6iy/btc_continues_to_accumulate/)**
+
+Strategy has increased its USD reserve by $748 million and now holds $2.19 billion and ₿671,268.
+
+2h ago
+
+---
+
+**[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+
+14h ago
+
+---
+
+**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
+
+This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
+
+12h ago
+
+---
+
+**[Fed Injects $6.8B Liquidity Tomorrow — Is Bitcoin About to React?](https://www.reddit.com/r/Bitcoin/comments/1psi4ns/fed_injects_68b_liquidity_tomorrow_is_bitcoin/)**
+
+JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
+
+17h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+**[BTC, ETH, SOL ADA News: Bitcoin steadies near $89,000 as gold hits record](https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise)**
 
-Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 1h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -175,7 +177,7 @@ The Motley Fool • 1d ago
 
 The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -187,23 +189,17 @@ Bloomberg.com • 7h ago
 
 ---
 
+**[Has the American Bitcoin Share Price Slump in 2025 Created an Opportunity?](https://finance.yahoo.com/news/american-bitcoin-share-price-slump-230912804.html)**
+
+If you are wondering whether American Bitcoin is a beaten down opportunity or a value trap at today’s price, you are not alone. Let’s unpack what the market might be getting wrong. After a flat 7 day return, the stock is still down about 59.8% over the last month and 72.2% year to date, a harsh reset that has clearly shifted sentiment and perceived risk. These moves have come as investors reassess speculative crypto exposed names amid shifting regulatory signals and tighter financial...
+
+Yahoo Finance • 16h ago
+
+---
+
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
 Forbes • 1d ago
-
----
-
-**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://finance.yahoo.com/news/shiba-inu-vs-bitcoin-better-234300764.html)**
-
-One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcAFiP2n84ZI8K37pifTXtZ1jV8zPs6DOzyJhke7sflCxAD1kvxaqaA&gaa_ts=69496003&gaa_sig=rBaijPzejcTLY_yC0m5Jvy44xURA1lg11PnwGgvhat3tu64ZAJWUAxetMVATHD74Fc9P59Xcp43SEViGEJLvnw%3D%3D)**
-
-Barron's • 49m ago
 
 ---
 
@@ -212,6 +208,12 @@ Barron's • 49m ago
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
 Nasdaq • 1d ago
+
+---
+
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqfzz1X-8tyss84QfibrbvBm6_zaFMib0cqef-DWbLixqvN71BIB_UfP&gaa_ts=694967b6&gaa_sig=WtmGrZrU72IUDWUGppO158jqqdmmLfTnhhuVLebpee5q7Y6soJM0zx5YfQGEatElEoDvPvWxJb2qYYoX-vkjYg%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
@@ -237,7 +239,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 2d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 3d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -254,6 +256,14 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 ⬆️ 1 • 💬 0 • 6d ago • [flip.gold](https://flip.gold/)
+
+---
+
+**[Federal Prison for Writing Code](https://news.ycombinator.com/item?id=46354699)**
+
+The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
+
+⬆️ 2 • 💬 1 • 22m ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -275,7 +285,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 127 • ⏱️ 15:15 • 13h ago
+👁️ 19K • 👍 1K • 💬 127 • ⏱️ 15:15 • 14h ago
 
 ---
 
@@ -285,7 +295,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 122 • ⏱️ 16:18 • 16h ago
+👁️ 30K • 👍 2K • 💬 122 • ⏱️ 16:18 • 17h ago
 
 ---
 
@@ -295,7 +305,7 @@ BTC, Trump trade, AI stocks, and altcoins! BITUNIX TRADE THE TOP COINS (availabl
 
 📺 Lark Davis
 
-👁️ 5K • 👍 464 • 💬 23 • ⏱️ 53:38 • 2h ago
+👁️ 5K • 👍 464 • 💬 23 • ⏱️ 53:38 • 3h ago
 
 ---
 
@@ -325,7 +335,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 473 • 💬 29 • ⏱️ 9:23 • 5h ago
+👁️ 6K • 👍 473 • 💬 29 • ⏱️ 9:23 • 6h ago
 
 ---
 
@@ -345,7 +355,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 8K • 👍 566 • 💬 23 • ⏱️ 7:16 • 16h ago
+👁️ 8K • 👍 566 • 💬 23 • ⏱️ 7:16 • 17h ago
 
 ---
 
@@ -355,7 +365,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 47K • 👍 2K • 💬 221 • ⏱️ 44:14 • 2d ago
+👁️ 47K • 👍 2K • 💬 221 • ⏱️ 44:14 • 3d ago
 
 ---
 
@@ -365,7 +375,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 146 • 1h ago
+👁️ 2K • 👍 146 • 2h ago
 
 ---
 
