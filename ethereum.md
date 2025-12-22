@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T05:50:48.417198+00:00'
+updated: '2025-12-22T06:19:21.776773+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 05:50 UTC  
+**Last Updated:** December 22, 2025 at 06:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +2.4%  
-**30d:** +8.2%  
-**90d:** -26.7%  
-**1y:** -11.4%  
+**24h:** +1.6%  
+**7d:** +2.2%  
+**30d:** +8.0%  
+**90d:** -26.9%  
+**1y:** -11.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.50B
+**Market Cap:** $365.21B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
@@ -62,17 +62,25 @@ No max supply
 -38.8%
 
 **All-Time Low:** $0.43
-+698959.3%
++698659.1%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 22, 2025](https://www.reddit.com/r/ethereum/comments/1pss4f5/daily_general_discussion_december_22_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+17m ago
+
+---
+
 **[Daily General Discussion December 21, 2025](https://www.reddit.com/r/ethereum/comments/1przbh3/daily_general_discussion_december_21_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +110,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -126,7 +134,7 @@ I live in Indonesia. Trust funds basically don’t exist here, and investing in 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -135,14 +143,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Reproducible benchmarks reveal true Ethereum client throughput under real and extreme load, with Nethermind sustaining 2â10x higher performance.
 
 🔗 [nethermind.io](https://www.nethermind.io/blog/getting-ethereum-ready-for-gigagas) • 2d ago
-
----
-
-**[Why are dApps moving to ethereum?](https://www.reddit.com/r/ethereum/comments/1pqfnqo/why_are_dapps_moving_to_ethereum/)**
-
-Why are dApps moving to Ethereum? Ethereum has a powerful "network effect" other L1s dont. Its the pioneer of smart contracts, has most users, deepest liquidity, and mature dev tools, making it the default "operating system" (via the EVM) for the decentralized web. ​The Fusaka upgrade solved the scalability bottleneck with PeerDAS to allow Ethereum to handle a massive increase in "blobs"—the specialized data packets used by rollups. This dropped L2 tx fees by another 50–90%, making it nearly impossible for "Ethereum Killers" to compete on cost alone. ​The Scalability Pivot: older chains tried to scale everything on one layer, Ethereum’s Fusaka and Pectra upgrades proved that a "modular" approach works. ​Interoperability: the roadmap moves towards shared sequencers and unified liquidity, the "fragmentation" between different L2s is beginning to dissolve, making the entire Ethereum ecosystem feel like one giant, seamless super-network.
-
-2d ago
 
 ---
 
@@ -158,11 +158,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
+**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
 
-Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
+ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-ZyCrypto • 1d ago
+AMBCrypto • 2d ago
+
+---
+
+**[Bitcoin & Ethereum Volatility Is Tightening—What This Setup Means for the Next Crypto Price Move](https://www.tradingview.com/news/coinpedia:e2cc4ac51094b:0-bitcoin-ethereum-volatility-is-tightening-what-this-setup-means-for-the-next-crypto-price-move/)**
+
+The final quarter has historically been a constructive phase for crypto markets, with December often marking the start of renewed upside momentum. In past cycles, the Bitcoin price has used this period to break prolonged consolidations and reverse bearish trends, while the Ethereum price follows. T…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
+
+FXStreet • 2h ago
 
 ---
 
@@ -196,14 +212,6 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
-
-ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
-
-AMBCrypto • 2d ago
-
----
-
 **[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
@@ -212,19 +220,11 @@ ts2.tech • 2d ago
 
 ---
 
-**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
+**[Ethereum Foundation prioritizes security, targets 128-bit rule by 2026](https://cryptobriefing.com/ethereum-security-roadmap-2026/)**
 
-Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
+The Ethereum Foundation sets the ethereum security roadmap for 128-bit provable security by 2026, focusing on stricter standards.
 
-CryptoSlate • 1d ago
-
----
-
-**[Ethereum ETFs Extend Outflow Streak as BlackRock ETHA Sells](https://crypto.news/ethereum-etfs-extend-7-day-outflow-streak-eth-stalls/)**
-
-Ethereum spot ETFs recorded $75.9M in outflows on Dec. 19, marking seven straight days of redemptions led by BlackRock’s ETHA.
-
-crypto.news • 1d ago
+Crypto Briefing • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 570 • 💬 63 • ⏱️ 15:49 • 14h ago
+👁️ 14K • 👍 570 • 💬 63 • ⏱️ 15:49 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 11K • 👍 640 • 💬 429 • ⏱️ 11:34 • 16h ago
+👁️ 11K • 👍 640 • 💬 429 • ⏱️ 11:34 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 358 • 👍 49 • 💬 4 • ⏱️ 6:15 • 1h ago
+👁️ 358 • 👍 49 • 💬 4 • ⏱️ 6:15 • 2h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum is currently showing one of the biggest divergences in crypto history. 
 
 📺 CryptoStock Lab
 
-👁️ 551 • 👍 31 • 💬 4 • ⏱️ 9:42 • 9h ago
+👁️ 551 • 👍 31 • 💬 4 • ⏱️ 9:42 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 9 • ⏱️ 4:12 • 14h ago
+👁️ 2K • 👍 132 • 💬 9 • ⏱️ 4:12 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 399 • 👍 19 • 💬 1 • ⏱️ 5:02 • 19h ago
+👁️ 399 • 👍 19 • 💬 1 • ⏱️ 5:02 • 20h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T05:50:48.420435+00:00'
+updated: '2025-12-22T06:19:21.780005+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 05:50 UTC  
+**Last Updated:** December 22, 2025 at 06:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-20h ago
+21h ago
 
 ---
 
@@ -56,14 +56,6 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 ---
 
-**[I made a software framework to make a robot crawl like a Baby](https://www.reddit.com/r/robotics/comments/1pshtr3/i_made_a_software_framework_to_make_a_robot_crawl/)**
-
-I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
-
-8h ago
-
----
-
 **[Olaf: Bringing an Animated Character to Life in the Physical World](https://www.reddit.com/r/robotics/comments/1psmxsh/olaf_bringing_an_animated_character_to_life_in/)**
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
@@ -72,11 +64,19 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 ---
 
+**[I made a software framework to make a robot crawl like a Baby](https://www.reddit.com/r/robotics/comments/1pshtr3/i_made_a_software_framework_to_make_a_robot_crawl/)**
+
+I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
+
+8h ago
+
+---
+
 **[Preordered NEO Robot](https://www.reddit.com/r/robotics/comments/1psl257/preordered_neo_robot/)**
 
 Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
 
-5h ago
+6h ago
 
 ---
 
@@ -92,7 +92,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-2h ago
+3h ago
 
 ---
 
@@ -138,14 +138,6 @@ South China Morning Post • 2d ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
-
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
-
-KEYC News Now • 2d ago
-
----
-
 **[Elementary school robotics team advances to championships](https://www.ksby.com/paso-robles/elementary-school-robotics-team-heads-to-championships)**
 
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
@@ -154,9 +146,17 @@ KSBY News • 2d ago
 
 ---
 
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 2d ago
+
+---
+
 **[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.newsnationnow.com/business/tech/texas-am-engineering-students-robot-dog/)**
 
-NewsNation • 16h ago
+NewsNation • 17h ago
 
 ---
 
@@ -176,19 +176,19 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Carmel Valley girl-powered robotics team advances to FIRST Lego League championships](https://www.sandiegouniontribune.com/2025/12/21/carmel-valley-girl-powered-robotics-team-advances-to-first-lego-league-championships/)**
+
+The Coral Coders, an all-girls robotics team made up of Pacific Trail Middle School students and one Sage Canyon Elementary School fourth grader recently advanced to the championship round of the F…
+
+San Diego Union-Tribune • 2h ago
+
+---
+
 **[Shepherdsville distribution center uses robots to ship 120,000 holiday packages daily](https://www.wave3.com/2025/12/18/shepherdsville-distribution-center-uses-robots-ship-120000-holiday-packages-daily/)**
 
 A Shepherdsville distribution center is using 200 robots to help workers ship 120,000 packages daily during the peak holiday season, ensuring Christmas gifts arrive on time.
 
 WAVE News • 3d ago
-
----
-
-**[Police Warn of Robot Crime Wave](https://futurism.com/artificial-intelligence/police-robot-crime-wave)**
-
-Police agency Europol has imagined a not-so-distant future in which criminals hijack autonomous vehicles, drones, and robots.
-
-Futurism • 15h ago
 
 ---
 
@@ -232,7 +232,7 @@ Chinese robotics leader Unitree is capping off a blockbuster year the same way i
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 29 • 💬 5 • ⏱️ 7:34 • 21h ago
+👁️ 2K • 👍 29 • 💬 5 • ⏱️ 7:34 • 22h ago
 
 ---
 

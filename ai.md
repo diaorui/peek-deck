@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T05:50:48.402522+00:00'
+updated: '2025-12-22T06:19:21.762325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 05:50 UTC  
+**Last Updated:** December 22, 2025 at 06:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
+
+I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
+
+46m ago
+
+---
+
 **[Half of Steam's Current Top 10 Best-Selling Games Are From Devs Who Embraced Gen AI](https://www.reddit.com/r/artificial/comments/1ps61q5/half_of_steams_current_top_10_bestselling_games/)**
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 16h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 17h ago
 
 ---
 
@@ -65,7 +73,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 13h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 14h ago
 
 ---
 
@@ -73,7 +81,15 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 20m ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 49m ago
+
+---
+
+**[Samsung To Unveil AI Vision Built With Google Gemini at CES 2026](https://www.reddit.com/r/artificial/comments/1psrod2/samsung_to_unveil_ai_vision_built_with_google/)**
+
+With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
+
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 43m ago
 
 ---
 
@@ -81,7 +97,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-14h ago
+15h ago
 
 ---
 
@@ -97,23 +113,7 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 9h ago
-
----
-
-**[Understanding AI Benchmarks](https://www.reddit.com/r/artificial/comments/1psejki/understanding_ai_benchmarks/)**
-
-Tips for interpreting frontier model releases and their SOTA benchmark scores.
-
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 10h ago
-
----
-
-**[Space Force uses AI challenge to push everyday use of artificial intelligence](https://www.reddit.com/r/artificial/comments/1psckmk/space_force_uses_ai_challenge_to_push_everyday/)**
-
-Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
-
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 11h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 10h ago
 
 ---
 
@@ -121,17 +121,27 @@ Space Force uses AI challenge to push everyday use of artificial intelligence Sp
 
 ## Google News: "ai"
 
+**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
+
+Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
+
+CNBC • 22h ago
+
+---
+
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[AI is creating a security problem most companies aren't staffed to handle, says an AI researcher](https://www.businessinsider.com/ai-security-gap-companies-researcher-sander-schulhoff-2025-12)**
 
-Politico • 1d ago
+An AI security researcher says companies lack the talent to handle AI security problems — and traditional cybersecurity teams aren't enough.
+
+Business Insider • 50m ago
 
 ---
 
@@ -139,31 +149,7 @@ Politico • 1d ago
 
 Publishers want a fair, structured, regulated AI environment for 2026 and for publishers to come together to establish new metrics.
 
-Digiday • 44m ago
-
----
-
-**[Inside Tencent’s deal to use Nvidia’s best AI chips in Japan](https://www.ft.com/content/9b47c335-9633-4560-9f57-5736c9d04bef)**
-
-Contracts with Chinese tech giant have rapidly turned Datasection into one of Asia’s biggest ‘neoclouds’
-
-Financial Times • 1d ago
-
----
-
-**[AI-linked IPOs in China are exploding. But it's not easy for foreigners to join the party](https://www.cnbc.com/2025/12/22/metax-moore-threads-ipos-exploded-but-its-not-easy-for-foreigners-to-join-the-party.html)**
-
-China's hottest artificial-intelligence listings are delivering eye-popping gains. However, it may not be easy for overseas investors to partake in the rally.
-
-CNBC • 1h ago
-
----
-
-**[Moore Threads unveils new AI chips to challenge Nvidia](https://www.scmp.com/tech/tech-trends/article/3337217/moore-threads-unveils-new-ai-chips-challenge-nvidia)**
-
-The Shanghai-listed chipmaker launched the Huashan chip for AI and the Lushan chip for gaming, promising superior performance for both.
-
-South China Morning Post • 23h ago
+Digiday • 1h ago
 
 ---
 
@@ -171,13 +157,19 @@ South China Morning Post • 23h ago
 
 A middle school student in Louisiana got into a fight with classmates who were sharing AI-generated nude images of her, she ended up getting expelled. (AP video: Stephen Smith and Jack Brook)
 
-Yahoo • 48m ago
+Yahoo • 1h ago
 
 ---
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqcK_2RdiBBXgnJrxfcjuDwvRUZPa0hG_-ai2dRnfHouGGDvZ3z7jNUX&gaa_ts=6948db86&gaa_sig=mxhXRjOFdTT6Sw6G6SeFzncjB81OMELMA5TrUZamBAqiRSagW1yq5WxfhNS70Q0CFgYVwuAhyNlT8B2Z5uuBng%3D%3D)**
+**[These Teenagers Are Already Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3?gaa_at=eafs&gaa_n=AWEtsqe7IgpN4kOYKUYPMF1IuPJ9n4EjOcZQfj_lnH5ekpM11FMvvI3OHf5V&gaa_ts=6948e655&gaa_sig=-BiJ7TzRYu8Vg1h5ch6r5uqwA6aL4Mqyoi7K-Cp714PGGPvyi4UgvqUA39QrRYzo35cGPmhYtDLAaX9kX-MHog%3D%3D)**
 
-The Wall Street Journal • 2d ago
+The Wall Street Journal • 5h ago
+
+---
+
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+
+Politico • 1d ago
 
 ---
 
@@ -189,7 +181,15 @@ The New York Times • 1d ago
 
 **[OpenAI Is Getting More Efficient at Running Its AI, Internal Financials Show](https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show)**
 
-The Information • 13h ago
+The Information • 14h ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 17h ago
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 180 • 💬 106 • 12h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 196 • 💬 112 • 13h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -229,7 +229,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 167 • 💬 384 • 22h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 168 • 💬 385 • 23h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -253,7 +253,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 117 • 💬 58 • 12h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 118 • 💬 59 • 12h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -267,7 +267,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 106 • 💬 97 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 106 • 💬 99 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -287,7 +287,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 6K • 👍 173 • 💬 13 • ⏱️ 25:57 • 9h ago
+👁️ 6K • 👍 173 • 💬 13 • ⏱️ 25:57 • 10h ago
 
 ---
 
@@ -297,7 +297,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 56K • 👍 3K • 💬 124 • ⏱️ 13:25 • 11h ago
+👁️ 56K • 👍 3K • 💬 124 • ⏱️ 13:25 • 12h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,261 • 13d ago
+⬇️ 352,314 • ❤️ 3,262 • 13d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 451 • 2d ago
+⬇️ 3,459 • ❤️ 455 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 416 • 3d ago
+⬇️ 10,633 • ❤️ 419 • 3d ago
 
 ---
 
@@ -441,7 +441,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,021 • ❤️ 384 • 3d ago
+⬇️ 3,021 • ❤️ 386 • 3d ago
 
 ---
 
@@ -453,7 +453,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 394 • 7d ago
+⬇️ 4,530 • ❤️ 394 • 8d ago
 
 ---
 
@@ -465,7 +465,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 373 • 4d ago
+⬇️ 6,796 • ❤️ 374 • 4d ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.5k • 🔱 2.9k • 49m ago
+⭐ 18.5k • 🔱 2.9k • 1h ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.6k • 🔱 614 • 1h ago
+⭐ 5.6k • 🔱 614 • 2h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 174 • 33m ago
+⭐ 2.4k • 🔱 174 • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 207 • 7h ago
+⭐ 1.2k • 🔱 207 • 8h ago
 
 ---
 

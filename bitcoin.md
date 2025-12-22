@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T05:50:48.411089+00:00'
+updated: '2025-12-22T06:19:21.770717+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 05:50 UTC  
+**Last Updated:** December 22, 2025 at 06:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +1.5%  
-**30d:** +2.3%  
-**90d:** -21.4%  
-**1y:** -6.2%  
+**24h:** +0.7%  
+**7d:** +1.3%  
+**30d:** +2.0%  
+**90d:** -21.6%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.18B
+**Market Cap:** $1772.56B
 Rank #1
 
 **Circulating Supply:** 19,965,393 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.6%
 
 **All-Time Low:** $67.81
-+130826.1%
++130742.1%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-8h ago
+9h ago
 
 ---
 
@@ -123,13 +123,13 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
 
-2h ago
+3h ago
 
 ---
 
 **[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 **[The benefit of dca](https://www.reddit.com/r/Bitcoin/comments/1psnkwr/the_benefit_of_dca/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,15 @@ The Motley Fool • 6h ago
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
+
+---
+
+**[BTC, ETH, SOL ADA News: Bitcoin steadies near $89,000 as gold hits record](https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise)**
+
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+
+CoinDesk • 47m ago
 
 ---
 
@@ -170,22 +178,6 @@ Forbes • 16h ago
 Bitcoin (CRYPTO: BTC) is consolidating below $90,000, but BitMEX co-founder Arthur Hayes says the pause masks a powerful liquidity-driven move that could send the cryptocurrency to $200,000 in 2026. What Happened: In his latest essay, "Love Language," ...
 
 Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin faces uncertain 2026 outlook, $250,000 by end of 2027: Galaxy Digital's Alex Thorn](https://www.coindesk.com/markets/2025/12/21/galaxy-digital-s-head-of-research-explains-why-bitcoin-s-outlook-is-so-uncertain-in-2026)**
-
-Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
-
-CoinDesk • 8h ago
-
----
-
-**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
-
-Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
-
-Yahoo Finance • 12h ago
 
 ---
 
@@ -203,6 +195,14 @@ The Block • 2d ago
 
 ---
 
+**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
+
+Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
+
+Yahoo Finance • 12h ago
+
+---
+
 **[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
@@ -211,15 +211,15 @@ Nasdaq • 18h ago
 
 ---
 
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqe5vpFm-Dq1qxXZDbZ5Hu47-6O-WRXSCJiX30cURLXmr0sIbibd1oQc&gaa_ts=6948e656&gaa_sig=SdLjucjH3sQ_3v_xIhjKcDC7wTMTo5RIgeTfe9WFW6D2LDy10iwFdQjF29zUTurr9A9F2C1rqeg1bNc-QDl7RA%3D%3D)**
 
-Reuters • 2d ago
+Barron's • 2d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqebkRg7nn4y__X0hmtZbr6MwZ5AWpodC_IHrKP8sgp_mwg4PUBAc1bx&gaa_ts=6948db69&gaa_sig=ypTf8dPBZr3vTsFMvTs3Ib2jCYI3uErvxuOimobx8pU72smalsqxtAPKnwlCSxry-QAvWNkzVTx7AryQ5rjqQQ%3D%3D)**
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
 
-Barron's • 2d ago
+Reuters • 2d ago
 
 ---
 
@@ -269,13 +269,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 18h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 19h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 19h ago
+⬆️ 1 • 💬 0 • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 826 • 💬 248 • ⏱️ 55:13 • 15h ago
+👁️ 17K • 👍 826 • 💬 248 • ⏱️ 55:13 • 16h ago
 
 ---
 
@@ -323,7 +323,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 70 • ⏱️ 16:18 • 7h ago
+👁️ 17K • 👍 1K • 💬 70 • ⏱️ 16:18 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 ITS Academy 
 
-👁️ 5K • 👍 1K • 3h ago
+👁️ 5K • 👍 1K • 4h ago
 
 ---
 
