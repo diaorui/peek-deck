@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T12:00:39.123146+00:00'
+updated: '2025-12-22T13:00:54.494375+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 12:00 UTC  
+**Last Updated:** December 22, 2025 at 13:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-6h ago
+7h ago
+
+---
+
+**[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
+
+The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
+
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 14h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 15h ago
 
 ---
 
@@ -57,7 +65,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 22h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 23h ago
 
 ---
 
@@ -65,7 +73,15 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 6h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 7h ago
+
+---
+
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
+
+At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 20h ago
 
 ---
 
@@ -77,27 +93,19 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 ---
 
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
-
-At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 19h ago
-
----
-
 **[OpenAI’s profit potential improves as compute margins near 70%](https://www.reddit.com/r/artificial/comments/1psvd24/openais_profit_potential_improves_as_compute/)**
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 2h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 3h ago
 
 ---
 
-**[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
+**[We asked four AI coding agents to rebuild Minesweeper, and the results were explosive...](https://www.reddit.com/r/artificial/comments/1psyume/we_asked_four_ai_coding_agents_to_rebuild/)**
 
-The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
+How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 58m ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 7m ago
 
 ---
 
@@ -105,27 +113,13 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
 
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 6h ago
-
----
-
-**[What's your take on google vs everyone in AI race](https://www.reddit.com/r/artificial/comments/1ps8pdv/whats_your_take_on_google_vs_everyone_in_ai_race/)**
-
-I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
-
-20h ago
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 7h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeN22F_AO3XrSoQ_R8P24euYHJUIzNBbaTF1pd6ylsLAfWyclpwgFUY&gaa_ts=69493147&gaa_sig=6IRINlMYSLUyXwnjMsEFWdPES3HdX2RG46-3r4PbQsmMa-Nl2TAPYzKiHUg9AJ8AIJg-4_uS7wPzDWRqcIFAjA%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
 
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
@@ -139,29 +133,35 @@ CNN • 1d ago
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[AI cheating accusations create trust issues in Michigan classrooms](https://www.freep.com/story/news/education/2025/12/22/ai-cheating-accusations-create-trust-issues-in-michigan-classrooms/87792506007/)**
+**[Is the AI bubble about to burst? If so the consequences could be dire](https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328)**
 
-When AI detection software fails, students and teachers have to negotiate difficult conversations about cheating with artificial intelligence.
+Tom Clarke explains why some analysts think the maths behind the AI boom no longer adds up, and breaks down the three pressure points that could ultimately burst the AI bubble.
 
-Detroit Free Press • 55m ago
+Sky News • 9h ago
 
 ---
 
-**[AI is reshaping childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
+**[Everything is coming up roses for the AI trade](https://www.axios.com/2025/12/22/ai-tech-stocks-bubble)**
 
 Axios • 1h ago
 
 ---
 
-**[Scared of AI? 11 essential books for navigating our new normal](https://www.latimes.com/entertainment-arts/books/story/2025-12-22/best-ai-books-2025-fiction-nonfiction)**
+**[AI Mate in Wondershare Filmora V15: a new era of intelligent video creation](https://gizmodo.com/ai-mate-in-wondershare-filmora-v15-a-new-era-of-intelligent-video-creation-2000700107)**
 
-Is AI a utopian promise or an existential threat? These 11 must-read books — featuring Annie Bot, Empire of AI and UnWorld — navigate the turbulent landscape of deepfakes, algorithmic bias, and the quest for Artificial General Intelligence.
+Faster, smarter workflows and more powerful toolsâwith AI integrated.
 
-Los Angeles Times • 1h ago
+Gizmodo • 55m ago
+
+---
+
+**[Silent Time Bomb Threatens 6 AI S&P 500 Stocks Loading Up With Debt](https://www.investors.com/etfs-and-funds/sectors/sp500-silent-time-bomb-threatens-6-ai-stocks-loading-up-with-debt/)**
+
+Investor's Business Daily • 58m ago
 
 ---
 
@@ -169,21 +169,19 @@ Los Angeles Times • 1h ago
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 4h ago
+ABC News • 5h ago
+
+---
+
+**[These Teenagers Are Already Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3?gaa_at=eafs&gaa_n=AWEtsqcNwWcy2tpOBB2nN8F-wjoxNcilfzeSNYRin2TY4ekYsoBj2cWzG4AR&gaa_ts=6949446c&gaa_sig=a6oGWtsa7escniJw3oEL6Py9F96sgM6AZfEdbraPdYtw2vQQPW-FEJNPjMZuHhAmpBMAAA9OihSsRx9TkwX-Dw%3D%3D)**
+
+The Wall Street Journal • 12h ago
 
 ---
 
 **[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
-Bloomberg.com • 14h ago
-
----
-
-**[34-year-old entrepreneur earns $200 an hour from side gig training AI models: 'Intellectual curiosity drew me in'](https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html)**
-
-Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1.
-
-CNBC • 2d ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -201,19 +199,13 @@ Politico • 1d ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 510 • 💬 475 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 511 • 💬 475 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 234 • 💬 345 • 2d ago • [antirez.com](https://antirez.com/news/157)
-
----
-
-**[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
-
-⬆️ 231 • 💬 182 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 236 • 💬 345 • 2d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -221,7 +213,13 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 229 • 💬 140 • 19h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 232 • 💬 142 • 20h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+
+---
+
+**[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
+
+⬆️ 231 • 💬 183 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -229,7 +227,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 173 • 💬 390 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 175 • 💬 391 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -237,7 +235,15 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Timeline & Responsible Disclosure
 
-⬆️ 131 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 133 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+
+---
+
+**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
+
+Personal Musings and Transcripts
+
+⬆️ 128 • 💬 60 • 19h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -246,14 +252,6 @@ Timeline & Responsible Disclosure
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
 ⬆️ 126 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
-
----
-
-**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
-
-Personal Musings and Transcripts
-
-⬆️ 124 • 💬 60 • 18h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -267,7 +265,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 116 • 💬 103 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 118 • 💬 103 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -287,7 +285,7 @@ I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and 
 
 📺 tef
 
-👁️ 55K • 👍 4K • 💬 415 • ⏱️ 13:09 • 19h ago
+👁️ 55K • 👍 4K • 💬 415 • ⏱️ 13:09 • 20h ago
 
 ---
 
@@ -297,7 +295,7 @@ Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 47K • 👍 822 • 💬 22 • ⏱️ 0:56 • 12h ago
+👁️ 47K • 👍 822 • 💬 22 • ⏱️ 0:56 • 13h ago
 
 ---
 
@@ -307,7 +305,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 82K • 👍 3K • 💬 158 • ⏱️ 13:25 • 18h ago
+👁️ 82K • 👍 3K • 💬 158 • ⏱️ 13:25 • 19h ago
 
 ---
 
@@ -327,7 +325,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 177 • 💬 10 • ⏱️ 13:03 • 14h ago
+👁️ 4K • 👍 177 • 💬 10 • ⏱️ 13:03 • 15h ago
 
 ---
 
@@ -357,7 +355,7 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 19K • 👍 287 • 💬 198 • ⏱️ 4:26 • 9h ago
+👁️ 19K • 👍 287 • 💬 198 • ⏱️ 4:26 • 10h ago
 
 ---
 
@@ -393,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,275 • 13d ago
+⬇️ 363,445 • ❤️ 3,277 • 13d ago
 
 ---
 
@@ -405,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 500 • 3d ago
+⬇️ 5,379 • ❤️ 508 • 3d ago
 
 ---
 
@@ -417,7 +415,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 447 • 3d ago
+⬇️ 14,346 • ❤️ 448 • 3d ago
 
 ---
 
@@ -429,7 +427,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 429 • 2d ago
+⬇️ 86,205 • ❤️ 430 • 2d ago
 
 ---
 
@@ -441,7 +439,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,187 • ❤️ 391 • 3d ago
+⬇️ 3,187 • ❤️ 392 • 3d ago
 
 ---
 
@@ -453,7 +451,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 378 • 4d ago
+⬇️ 8,830 • ❤️ 380 • 4d ago
 
 ---
 
@@ -477,7 +475,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 333 • 5d ago
+⬇️ 0 • ❤️ 336 • 5d ago
 
 ---
 
@@ -489,7 +487,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 320 • 6d ago
+⬇️ 0 • ❤️ 322 • 6d ago
 
 ---
 
@@ -529,7 +527,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,854 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,906 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -568,7 +566,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,415 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,459 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -596,9 +594,21 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,571 • 24d ago
+▲ 27 • 💬 2 • ⭐ 7,616 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://huggingface.co/papers/2512.16969)**
+
+*Wanghan Xu, Yuhao Zhou, Yifan Zhou et al. (107 authors)*
+
+A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
+
+▲ 70 • 💬 1 • ⭐ 50 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
 ---
 
@@ -608,7 +618,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 61 • 💬 3 • ⭐ 642 • 5d ago
+▲ 61 • 💬 3 • ⭐ 642 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -626,19 +636,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 26 • 💬 1 • ⭐ 65,930 • 27mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -649,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 2.9k • 6h ago
+⭐ 18.7k • 🔱 2.9k • 7h ago
 
 ---
 
@@ -659,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 624 • 2h ago
+⭐ 5.7k • 🔱 626 • 11m ago
 
 ---
 
@@ -669,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 177 • 1h ago
+⭐ 2.4k • 🔱 177 • 2h ago
 
 ---
 
@@ -679,7 +676,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.5k • 🔱 348 • 16d ago
+⭐ 1.5k • 🔱 349 • 16d ago
 
 ---
 
@@ -689,7 +686,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 227 • 40m ago
+⭐ 1.5k • 🔱 236 • 18m ago
 
 ---
 
@@ -709,7 +706,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 964 • 🔱 162 • 1d ago
+⭐ 970 • 🔱 163 • 10m ago
 
 ---
 
@@ -729,7 +726,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 892 • 🔱 89 • 1h ago
+⭐ 894 • 🔱 89 • 2h ago
 
 ---
 
@@ -739,7 +736,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 818 • 🔱 122 • 4d ago
+⭐ 820 • 🔱 122 • 4d ago
 
 ---
 

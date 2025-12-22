@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T12:00:39.131829+00:00'
+updated: '2025-12-22T13:00:54.503132+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 12:00 UTC  
+**Last Updated:** December 22, 2025 at 13:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,946.60
+### $90,208.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +2.7%  
-**30d:** +3.5%  
-**90d:** -20.5%  
-**1y:** -5.2%  
+**24h:** +2.7%  
+**7d:** +3.0%  
+**30d:** +3.8%  
+**90d:** -20.3%  
+**1y:** -4.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.46B
+**Market Cap:** $1800.75B
 Rank #1
 
-**Circulating Supply:** 19,965,484 BTC
+**Circulating Supply:** 19,965,509 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.5%
 
 **All-Time Low:** $67.81
-+132535.3%
++132930.5%
 
 ---
 
@@ -77,23 +77,37 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
 
-11h ago
+This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
+
+9h ago
 
 ---
 
-**[Global Liquidity Bitcoin chart, zoomed out.](https://www.reddit.com/r/Bitcoin/comments/1pslojg/global_liquidity_bitcoin_chart_zoomed_out/)**
+**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
-Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
+bitvoin
 
-11h ago
+37m ago
+
+---
+
+**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psx9ow/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
+
+1h ago
+
+---
+
+**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
+
+3h ago
 
 ---
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,13 +115,13 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-15h ago
+16h ago
 
 ---
 
-**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
+**[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-2h ago
+12h ago
 
 ---
 
@@ -115,35 +129,21 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-14h ago
+15h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-14h ago
+15h ago
 
 ---
 
-**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
+**[Global Liquidity Bitcoin chart, zoomed out.](https://www.reddit.com/r/Bitcoin/comments/1pslojg/global_liquidity_bitcoin_chart_zoomed_out/)**
 
-This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
+Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-8h ago
-
----
-
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
-
-3h ago
-
----
-
-**[Bitcoin Buying Pressure Jumps 59% — Can It Finally Break the $89,000 Wall?](https://www.reddit.com/r/Bitcoin/comments/1psudim/bitcoin_buying_pressure_jumps_59_can_it_finally/)**
-
-Bitcoin price stays range-bound as exchange outflows jump 59%, signaling rising spot demand Whales are adding slowly, but faster exchange outflows suggest retail buyers are stepping in. Bitcoin price must reclaim $89,250 or risk another rejection toward $87,590 support
-
-3h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bitcoin price stays range-bound as exchange outflows jump 59%, signaling rising 
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -167,49 +167,47 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
+**[Crypto Markets Today: Gold tokens shine while BTC price rises to $89,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-today-gold-tokens-shine-as-bitcoin-rises-to-usd89-000)**
 
-The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
+Tether gold (XAUT) rose to an all-time high of $4,425 while gains in PAXG (PAXG) and kineses gold (KAU) lifted the market value of gold-backed tokens to $4.38 billion.
 
-TradingView — Track All Markets • 23h ago
-
----
-
-**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
-
-One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
-
-The Motley Fool • 12h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Hovers Below $90,000. Traders Bet on a 5% Rally By Christmas.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcoIarzpxqOEip2A7c2S6Br-PlopgncPeFFIDjAW3m8ODibc7pRuBxP&gaa_ts=69493149&gaa_sig=0U6I7x5nCO1UaK4rNceKjpCTjybkgA9-VKbrVp9THryZ0_CLXl8m7idCtc7enAB8prpsnmNHBgcmGDwAgyn4gg%3D%3D)**
+**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Barron's • 30m ago
-
----
-
-**[Galaxy Digital Issues 2027 Bitcoin Forecast as 2026 Outlook Remains Unclear](https://finance.yahoo.com/news/galaxy-digital-issues-2027-bitcoin-105808345.html)**
-
-Galaxy Digital predicts Bitcoin's price could hit $250,000 by 2027 as adoption grows despite near-term volatility.
-
-Yahoo Finance • 1h ago
+Forbes • 1d ago
 
 ---
 
-**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
+**[BTC price finds its legs as gold rises to another record: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/12/22/bitcoin-finds-its-legs-crypto-daybook-americas)**
+
+The day ahead in crypto: Dec. 22, 2025
+
+CoinDesk • 44m ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
+
+Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
+
+The Motley Fool • 20h ago
+
+---
+
+**[Bitcoin Hovers Below $90,000. Traders Bet on a 5% Rally By Christmas.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqf3ywYPRXEG7RwLd3Jioa3AaCr2yhRem8Kiutaei0bxuxdzGwf29aXr&gaa_ts=6949446d&gaa_sig=tIWkY-ZtZbIfr5dR3DZfIkW7OZPqVU9XfV1LcZQTwU385XrYzbrZpTsZ4snX1QJSy5GGS3MpVlhb_VlZPwDyHw%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://finance.yahoo.com/news/bitcoin-could-help-retire-multimillionaire-113500960.html)**
 
 The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
-The Motley Fool • 45m ago
-
----
-
-**[Watch Assia: Bitcoin is Digital Gold](https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video)**
-
-Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
-
-Bloomberg.com • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -221,23 +219,17 @@ Nasdaq • 1d ago
 
 ---
 
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+**[Watch Assia: Bitcoin is Digital Gold](https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video)**
 
-The Block • 2d ago
+Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
+
+Bloomberg.com • 5h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Show HN: Bithoven – A high-level, imperative language for Bitcoin Smart Contract](https://news.ycombinator.com/item?id=46273877)**
-
-Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. - ChrisCho-H/bithoven
-
-⬆️ 27 • 💬 8 • 6d ago • [GitHub](https://github.com/ChrisCho-H/bithoven)
-
----
 
 **[AI surpasses 2024 Bitcoin mining in energy usage](https://news.ycombinator.com/item?id=46314300)**
 
@@ -287,7 +279,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 116 • ⏱️ 15:15 • 10h ago
+👁️ 17K • 👍 1K • 💬 116 • ⏱️ 15:15 • 11h ago
 
 ---
 
@@ -297,7 +289,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 112 • ⏱️ 16:18 • 13h ago
+👁️ 27K • 👍 2K • 💬 112 • ⏱️ 16:18 • 14h ago
 
 ---
 
@@ -307,7 +299,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 8K • 👍 533 • 💬 21 • ⏱️ 7:16 • 13h ago
+👁️ 8K • 👍 533 • 💬 21 • ⏱️ 7:16 • 14h ago
 
 ---
 
@@ -317,7 +309,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 887 • 💬 251 • ⏱️ 55:13 • 22h ago
+👁️ 19K • 👍 887 • 💬 251 • ⏱️ 55:13 • 23h ago
 
 ---
 
@@ -345,7 +337,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 334 • 💬 8 • ⏱️ 1:00 • 17h ago
+👁️ 8K • 👍 334 • 💬 8 • ⏱️ 1:00 • 18h ago
 
 ---
 
@@ -365,7 +357,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 240 • 💬 5 • ⏱️ 22:00 • 17h ago
+👁️ 6K • 👍 240 • 💬 5 • ⏱️ 22:00 • 18h ago
 
 ---
 
