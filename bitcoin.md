@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T19:43:29.763025+00:00'
+updated: '2025-12-22T19:54:35.513726+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 19:43 UTC  
+**Last Updated:** December 22, 2025 at 19:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,543.57
+### $88,260.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.8%  
-**30d:** +1.5%  
-**90d:** -22.0%  
-**1y:** -6.9%  
+**24h:** -0.3%  
+**7d:** +0.6%  
+**30d:** +1.4%  
+**90d:** -22.1%  
+**1y:** -7.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.79B
+**Market Cap:** $1761.78B
 Rank #1
 
 **Circulating Supply:** 19,965,625 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-30.1%
 
 **All-Time Low:** $67.81
-+130812.8%
++129957.5%
 
 ---
 
@@ -77,15 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
+
+bitvoin
+
+7h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
+
+10h ago
+
+---
+
+**[It's NOT over](https://www.reddit.com/r/Bitcoin/comments/1pt1de2/its_not_over/)**
+
+I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
+
+5h ago
+
+---
+
+**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
+
+6h ago
+
+---
+
+**[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
+
+1h ago
+
+---
+
+**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
+
+7h ago
+
+---
+
+**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
+
+5h ago
+
+---
+
+**[BTC continues to accumulate](https://www.reddit.com/r/Bitcoin/comments/1psz6iy/btc_continues_to_accumulate/)**
+
+Strategy has increased its USD reserve by $748 million and now holds $2.19 billion and ₿671,268.
+
+6h ago
+
+---
+
+**[Bitcoin-backed loans for "living without selling" - am I the only one who thinks this is way riskier than it's being sold?](https://www.reddit.com/r/Bitcoin/comments/1pt0n2i/bitcoinbacked_loans_for_living_without_selling_am/)**
+
+I've been looking into the idea of using Bitcoin as collateral instead of selling for a while now. Sounds brilliant at first - liquidity without a tax event, BTC stays yours, you keep benefiting from price appreciation. But the more I dig into it, the more uncomfortable I get. Celsius and BlockFi aren't ancient history. And even with the "serious" platforms that are still around: one 50% crash and your LTV goes through the roof. Margin call, forced liquidation, everything gone. What surprises me is how little this gets discussed in all those "never sell your Bitcoin" conversations. Obviously the lending platforms aren't eager to highlight this. But even in the community it's often presented as basically risk-free as long as you keep a low LTV. I built a calculator to play through this over multiple years (app.retire-on-bitcoin.com if anyone wants to mess around with it themselves). The numbers are sobering when you're honest about it and don't just model the best-case scenario. You need a really proper cushion to stay on the safe side. Am I missing something or is this topic really as underexplored as it seems?
+
+5h ago
+
+---
+
+**[A guy gave me this in 2014](https://www.reddit.com/r/Bitcoin/comments/1psyzei/a_guy_gave_me_this_in_2014/)**
+
+6h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin Price Jumps, But Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 3h ago
-
----
 
 **[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
@@ -95,27 +157,19 @@ Bloomberg.com • 3h ago
 
 ---
 
-**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
+**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
 
-Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
+Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin News: BTC upgrade against quantum computing threat might take years](https://www.coindesk.com/tech/2025/12/22/bitcoin-isn-t-under-quantum-threat-yet-but-upgrading-it-could-take-5-10-years)**
-
-Even if quantum machines capable of breaking Bitcoin’s cryptography are decades away, the work required to update software, infrastructure and user behavior would be measured in years, not months.
-
-CoinDesk • 41m ago
+The Verge • 10m ago
 
 ---
 
-**[Trump Media Adds 451 Bitcoin, Total BTC Holdings Surpass $1 Billion](https://bitcoinmagazine.com/news/trump-media-adds-451-bitcoin)**
+**[Could Bitcoin Finally Break $100,000 This Christmas Week – Or Is A Drop To $70,000 Coming?](https://bitcoinmagazine.com/markets/bitcoin-price-outlook-bulls-target-94000-break-for-momentum-into-new-year)**
 
-Trump Media just added 451 Bitcoin to its holdings, bringing its total to 11,542 BTC worth over $1 billion as part of its ongoing crypto treasury strategy.
+After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 37m ago
 
 ---
 
@@ -123,7 +177,31 @@ Bitcoin Magazine • 1h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 2h ago
+Al Jazeera • 3h ago
+
+---
+
+**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+
+Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Price news: BTC slips from day's highs during U.S. trading session](https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance)**
+
+Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
+
+CoinDesk • 2h ago
+
+---
+
+**[Expert Reveals Bitcoin Likely to Tumble $50,000 Before Market Fully Bottoms](https://www.tradingview.com/news/zycrypto:0bbc2eb61094b:0-expert-reveals-bitcoin-likely-to-tumble-50-000-before-market-fully-bottoms/)**
+
+Bitcoin (BTC) may still face a significant downside if historical bear-market patterns continue to play out.
+
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -135,25 +213,17 @@ The Motley Fool • 20h ago
 
 ---
 
-**[Bitcoin Whales Unload 36.5K BTC, $3.37B Offloaded in December](https://finance.yahoo.com/news/bitcoin-whales-unload-36-5k-164809939.html)**
-
-On-chain data has confirmed a large distribution from some of Bitcoin’s largest holders. Wallets holding between 10,000 and 100,000 BTC have collectively reduced their positions by 36,500 BTC since the beginning of December.Bitcoin Whales Distribute 36,500 BTC Amid Market ChopThe total value of the moved or sold Bitcoin is approximately ...
-
-Yahoo Finance • 2h ago
-
----
-
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
 Forbes • 1d ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+**[CryptoQuant Flags Bear Market, Sees $70K Bitcoin Soon](https://bitbo.io/news/cryptoquant-bear-market-70k/)**
 
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+CryptoQuant said onchain and derivatives indicators show a bitcoin bear market has begun, with downside reference levels around $70,000 and potentially $56,000 if weakness persists.
 
-Nasdaq • 1d ago
+Bitbo • 1d ago
 
 ---
 

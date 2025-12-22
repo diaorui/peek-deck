@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T19:43:29.754698+00:00'
+updated: '2025-12-22T19:54:35.505277+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 19:43 UTC  
+**Last Updated:** December 22, 2025 at 19:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. Curious, disciplined, critical? AI will amplify that. Lazy, gullible, or intellectually passive? AI will amplify that too. LOL. That’s the uncomfortable truth no one wants to say out loud: This is the 2024–2030 revolution. AI will widen the gap : elites pulling further ahead, the rest trailing. Not because the tool is elitist… but because using it well isn’t evenly distributed. And that’s… kind of sad. Imo, we’re not ready for the social consequences of that.
 
-3h ago
-
----
-
-**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
-
-I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
-
-14h ago
+4h ago
 
 ---
 
@@ -66,6 +58,14 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
 🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 2h ago
+
+---
+
+**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
+
+I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
+
+14h ago
 
 ---
 
@@ -81,7 +81,15 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 2h ago
+
+---
+
+**[Robot training process + gameplay. I'm making a physics-based game where you command AI robot through levels - not just pointing the path, but also by controlling limb power and decision speed.](https://www.reddit.com/r/artificial/comments/1pt8xgm/robot_training_process_gameplay_im_making_a/)**
+
+Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂
+
+11m ago
 
 ---
 
@@ -89,15 +97,7 @@ Intel engineers as part of the OPEA Project today released the Generative AI Exa
 
 How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 6h ago
-
----
-
-**[OpenAI’s profit potential improves as compute margins near 70%](https://www.reddit.com/r/artificial/comments/1psvd24/openais_profit_potential_improves_as_compute/)**
-
-OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
-
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 10h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 7h ago
 
 ---
 
@@ -109,11 +109,11 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 ---
 
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
+**[OpenAI’s profit potential improves as compute margins near 70%](https://www.reddit.com/r/artificial/comments/1psvd24/openais_profit_potential_improves_as_compute/)**
 
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 22h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 10h ago
 
 ---
 
@@ -145,14 +145,6 @@ NBC News • 1h ago
 
 ---
 
-**[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
-
-A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
-
-CNBC • 4h ago
-
----
-
 **[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
 
 Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
@@ -161,11 +153,19 @@ CBS News • 4h ago
 
 ---
 
+**[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
+
+A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
+
+CNBC • 5h ago
+
+---
+
 **[What's Next for AI? Four AI Predictions for 2026 and Beyond](https://finance.yahoo.com/news/whats-next-ai-four-ai-185458802.html)**
 
 The AI industry is being funded by high-quality capital, leading firms are trading at reasonable P/E ratios, and capital expenditure is growing, but is safely funded.
 
-Yahoo Finance • 48m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -189,9 +189,11 @@ Bloomberg.com • 21h ago
 
 ---
 
-**[Google-Parent Alphabet to Buy Intersect for $4.75 Billion as AI-Investment Plans Grow](https://www.wsj.com/tech/ai/alphabet-to-buy-intersect-for-4-75-billion-in-cash-b67ff7b9?gaa_at=eafs&gaa_n=AWEtsqfzbqpVQyr88nGzXxzg10XDfeHsqsfwPnAo7XuCcZ-hZnUAOjjJxuRf&gaa_ts=69499bf2&gaa_sig=h5EIa2snhT580rcqPbX4H-M_zKwLvn8lg75-FadkKMuzdSK2LtM2GPI2U7DqzIHl6BzsQdg4Wb0wZDJihTFnUQ%3D%3D)**
+**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
 
-The Wall Street Journal • 2h ago
+Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
+
+CNBC • 1d ago
 
 ---
 
@@ -211,7 +213,13 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 256 • 💬 160 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 258 • 💬 161 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+
+---
+
+**[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
+
+⬆️ 238 • 💬 186 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,17 +229,11 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 ---
 
-**[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
-
-⬆️ 236 • 💬 186 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-
----
-
 **[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 176 • 💬 395 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 176 • 💬 396 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -245,7 +247,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 130 • 💬 152 • 12h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 131 • 💬 153 • 12h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -254,6 +256,17 @@ Personal Musings and Transcripts
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
 ⬆️ 128 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+
+---
+
+**[How I protect my Forgejo instance from AI web crawlers](https://news.ycombinator.com/item?id=46345205)**
+
+This article describes my nginx
+configuration and strategy on how to prevent web crawlers from putting
+down my instance while still serving most people with minimal amount of
+friction.
+
+⬆️ 125 • 💬 71 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -268,17 +281,6 @@ This results in the somewhat unintuitive combination of a technology that can be
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
 ⬆️ 124 • 💬 106 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
-
----
-
-**[How I protect my Forgejo instance from AI web crawlers](https://news.ycombinator.com/item?id=46345205)**
-
-This article describes my nginx
-configuration and strategy on how to prevent web crawlers from putting
-down my instance while still serving most people with minimal amount of
-friction.
-
-⬆️ 120 • 💬 69 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -398,7 +400,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,289 • 14d ago
+⬇️ 363,445 • ❤️ 3,290 • 14d ago
 
 ---
 
@@ -410,7 +412,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 529 • 3d ago
+⬇️ 5,379 • ❤️ 530 • 3d ago
 
 ---
 
@@ -422,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 467 • 3d ago
+⬇️ 14,346 • ❤️ 468 • 3d ago
 
 ---
 
@@ -458,7 +460,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 391 • 4d ago
+⬇️ 8,830 • ❤️ 394 • 4d ago
 
 ---
 
@@ -482,7 +484,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 346 • 5d ago
+⬇️ 0 • ❤️ 347 • 5d ago
 
 ---
 
@@ -506,7 +508,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 770 • ❤️ 274 • 5d ago
+⬇️ 770 • ❤️ 273 • 5d ago
 
 ---
 
@@ -613,7 +615,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 77 • 💬 6 • ⭐ 50 • 4d ago
+▲ 78 • 💬 6 • ⭐ 50 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
@@ -663,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 3h ago
+⭐ 5.7k • 🔱 631 • 4h ago
 
 ---
 
@@ -683,7 +685,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 275 • 5h ago
+⭐ 1.8k • 🔱 280 • 14m ago
 
 ---
 
@@ -713,7 +715,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 171 • 6h ago
+⭐ 1.0k • 🔱 171 • 7h ago
 
 ---
 
@@ -733,7 +735,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 907 • 🔱 89 • 8h ago
+⭐ 907 • 🔱 89 • 9h ago
 
 ---
 
@@ -743,7 +745,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 866 • 🔱 80 • 3h ago
+⭐ 867 • 🔱 80 • 3h ago
 
 ---
 
