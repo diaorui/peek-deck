@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T08:56:22.108436+00:00'
+updated: '2025-12-22T09:33:28.229210+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 08:56 UTC  
+**Last Updated:** December 22, 2025 at 09:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.1%  
-**30d:** +2.9%  
-**90d:** -21.0%  
-**1y:** -5.7%  
+**24h:** +1.0%  
+**7d:** +2.3%  
+**30d:** +3.1%  
+**90d:** -20.8%  
+**1y:** -5.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.73B
+**Market Cap:** $1787.24B
 Rank #1
 
-**Circulating Supply:** 19,965,440 BTC
+**Circulating Supply:** 19,965,456 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-29.0%
 
 **All-Time Low:** $67.81
-+132333.3%
++131883.5%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-8h ago
+9h ago
 
 ---
 
@@ -105,6 +105,12 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 ---
 
+**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
+
+15h ago
+
+---
+
 **[15-year-old HDD, 80% bitcoin mining.](https://www.reddit.com/r/Bitcoin/comments/1psgruk/15yearold_hdd_80_bitcoin_mining/)**
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
@@ -113,37 +119,31 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
-**[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
-
-14h ago
-
----
-
 **[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
 
 This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
 
-5h ago
+6h ago
+
+---
+
+**[I'm still Stuck in 2021 🥲](https://www.reddit.com/r/Bitcoin/comments/1psul41/im_still_stuck_in_2021/)**
+
+58m ago
 
 ---
 
 **[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
 
-11h ago
+12h ago
 
 ---
 
-**[I'm old and late to the party, but just went all-in. Here's why.](https://www.reddit.com/r/Bitcoin/comments/1ps6nrw/im_old_and_late_to_the_party_but_just_went_allin/)**
+**[Bitcoin Buying Pressure Jumps 59% — Can It Finally Break the $89,000 Wall?](https://www.reddit.com/r/Bitcoin/comments/1psudim/bitcoin_buying_pressure_jumps_59_can_it_finally/)**
 
-I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
+Bitcoin price stays range-bound as exchange outflows jump 59%, signaling rising spot demand Whales are adding slowly, but faster exchange outflows suggest retail buyers are stepping in. Bitcoin price must reclaim $89,250 or risk another rejection toward $87,590 support
 
-19h ago
-
----
-
-**[The benefit of dca](https://www.reddit.com/r/Bitcoin/comments/1psnkwr/the_benefit_of_dca/)**
-
-6h ago
+1h ago
 
 ---
 
@@ -155,15 +155,15 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
 
 This dip is an opportunity to think about what matters most with this asset.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1d ago
 
 The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -179,7 +179,7 @@ TradingView — Track All Markets • 19h ago
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -191,11 +191,11 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
+**[XRP ETFs Show Strength, Bitcoin ETF, Ethereum ETFs Bleed $490-$650M Last Week](https://finance.yahoo.com/news/xrp-etfs-show-strength-bitcoin-082430472.html)**
 
-Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
+Spot XRP XRP $1.93 24h volatility: 0.1% Market cap: $116.72 B Vol. 24h: $2.37 B ETFs in the United States have continued to show strength, clocking $82 million in inflows over the past week. The significance of these net flows is even more pronounced as Bitcoin BTC $89 759 24h ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -204,6 +204,12 @@ Yahoo Finance • 15h ago
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
 Nasdaq • 21h ago
+
+---
+
+**[Bitcoin Mining May Be Supporting the Ruble, Russia’s Top Banker Reveals](https://www.ccn.com/news/crypto/bitcoin-mining-supporting-ruble-russias-top-banker-reveals/)**
+
+CCN.com • 48m ago
 
 ---
 
@@ -216,12 +222,6 @@ Forbes • 20h ago
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
 The Block • 2d ago
-
----
-
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfLDYf5r7y0BW0fc6_aP66ankON2UQyqkWG9_YwkNT0W9YDtesNTWVi&gaa_ts=69490531&gaa_sig=i-JmGregQiYe0ocsByBSA2Y8is3QiMC5cqkAyyHlmoJmmKOlIik_H-GS6h7E8gn_EKIAy7Sf5yqE68l12sgKTQ%3D%3D)**
-
-Barron's • 2d ago
 
 ---
 
@@ -271,33 +271,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 21h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
-
----
-
-**[Show HN: 13Radar.com – A real-time visualizer for SEC 13F filings](https://news.ycombinator.com/item?id=46352201)**
-
-⬆️ 2 • 💬 0 • 43m ago
-
----
-
-**[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
-
-⬆️ 1 • 💬 0 • 22h ago
-
----
-
-**[A Global Forum Built for Real, Unfiltered Conversations](https://news.ycombinator.com/item?id=46352076)**
-
-⬆️ 1 • 💬 0 • 1h ago
-
----
-
-**[Aaron Van Wirdum predicts the future of crypto](https://news.ycombinator.com/item?id=46310765)**
-
-Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
-
-⬆️ 3 • 💬 3 • 3d ago • [Altcoin Desk](https://altcoindesk.com/perspectives/interviews/aaron-van-wirdum-predicts-the-future-of-crypto/)
+⬆️ 2 • 💬 1 • 22h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -311,7 +285,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 928 • 💬 66 • ⏱️ 15:15 • 7h ago
+👁️ 12K • 👍 928 • 💬 66 • ⏱️ 15:15 • 8h ago
 
 ---
 
@@ -321,7 +295,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 75 • ⏱️ 16:18 • 10h ago
+👁️ 21K • 👍 1K • 💬 75 • ⏱️ 16:18 • 11h ago
 
 ---
 
@@ -331,7 +305,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 851 • 💬 248 • ⏱️ 55:13 • 18h ago
+👁️ 18K • 👍 851 • 💬 248 • ⏱️ 55:13 • 19h ago
 
 ---
 
@@ -379,7 +353,7 @@ Let's talk about the current CPI (inflation) report and how it may affect risk a
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 317 • 💬 8 • ⏱️ 1:00 • 14h ago
+👁️ 7K • 👍 317 • 💬 8 • ⏱️ 1:00 • 15h ago
 
 ---
 
@@ -399,7 +373,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 214 • 💬 5 • ⏱️ 22:00 • 14h ago
+👁️ 5K • 👍 214 • 💬 5 • ⏱️ 22:00 • 15h ago
 
 ---
 

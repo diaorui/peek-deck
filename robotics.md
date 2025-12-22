@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T08:56:22.117603+00:00'
+updated: '2025-12-22T09:33:28.246874+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 08:56 UTC  
+**Last Updated:** December 22, 2025 at 09:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-23h ago
+1d ago
 
 ---
 
@@ -72,14 +72,6 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 ---
 
-**[Preordered NEO Robot](https://www.reddit.com/r/robotics/comments/1psl257/preordered_neo_robot/)**
-
-Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
-
-8h ago
-
----
-
 **[Teleoperating via Wi-Fi](https://www.reddit.com/r/robotics/comments/1prixcd/teleoperating_via_wifi/)**
 
 I wanted to show you the latest progress on my robot RKP 1. I managed to control it over Wi-Fi. For this, I use two Silex DS-700 USB-to-Wi-Fi units (one on the robot and one on the tele-rig) to connect my servo bus driver to my PC via Wi-Fi, on which the Phosphobot program is running. This gives me the ability to control my robot wirelessly. I also added a back plate as well as a mount for the Silex. Next, I’m considering attaching a QDD actuator to the base plate so the robot can rotate around its own axis, as well as starting the first experiments with ROS 2 and Isaac Sim/Lab. I’ll keep you posted on future progress.
@@ -88,11 +80,19 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 ---
 
+**[Preordered NEO Robot](https://www.reddit.com/r/robotics/comments/1psl257/preordered_neo_robot/)**
+
+Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
+
+9h ago
+
+---
+
 **[Modular mini-VLA model](https://www.reddit.com/r/robotics/comments/1psmugb/modular_minivla_model/)**
 
 Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
 
-7h ago
+8h ago
 
 ---
 
@@ -100,7 +100,7 @@ Recently I have started working on developing a mini-Vision-Language-Action mode
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-5h ago
+6h ago
 
 ---
 
@@ -108,7 +108,7 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-13h ago
+14h ago
 
 ---
 
@@ -146,6 +146,14 @@ TechNode • 1d ago
 
 ---
 
+**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.post-gazette.com/business/tech-news/2025/12/22/agility-robotics-artificial-intelligence-humanoid-digit-robot/stories/202512110094)**
+
+Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
+
+Pittsburgh Post-Gazette • 33m ago
+
+---
+
 **[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
 
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
@@ -166,7 +174,7 @@ KSBY News • 3d ago
 
 China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-The Verge • 19h ago
+The Verge • 20h ago
 
 ---
 
@@ -182,15 +190,7 @@ KEYC News Now • 2d ago
 
 Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
 
-CNET • 19h ago
-
----
-
-**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
-
-Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
-
-The Robot Report • 1d ago
+CNET • 20h ago
 
 ---
 
@@ -214,7 +214,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 17K • 👍 403 • 💬 86 • ⏱️ 5:25 • 19h ago
+👁️ 17K • 👍 403 • 💬 86 • ⏱️ 5:25 • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 997K • 👍 14K • 💬 289 • ⏱️ 0:29 • 9h ago
+👁️ 997K • 👍 14K • 💬 289 • ⏱️ 0:29 • 10h ago
 
 ---
 
