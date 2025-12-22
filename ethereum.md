@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T22:29:59.526678+00:00'
+updated: '2025-12-22T22:47:30.356066+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 22:29 UTC  
+**Last Updated:** December 22, 2025 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +0.9%  
-**30d:** +6.6%  
-**90d:** -27.8%  
-**1y:** -12.7%  
+**24h:** -0.2%  
+**7d:** +1.1%  
+**30d:** +6.8%  
+**90d:** -27.7%  
+**1y:** -12.6%  
 
 ---
 
@@ -274,7 +274,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 54 • 👍 5 • 💬 2 • ⏱️ 5:29 • 1h ago
+👁️ 54 • 👍 5 • 💬 2 • ⏱️ 5:29 • 2h ago
 
 ---
 
@@ -304,7 +304,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 180 • 👍 30 • 💬 8 • ⏱️ 5:02 • 3h ago
+👁️ 180 • 👍 30 • 💬 8 • ⏱️ 5:02 • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the
 
 📺 NextMove Stocks
 
-👁️ 449 • 👍 17 • 💬 13 • ⏱️ 7:50 • 8h ago
+👁️ 449 • 👍 17 • 💬 13 • ⏱️ 7:50 • 9h ago
 
 ---
 

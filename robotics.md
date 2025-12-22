@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T22:29:59.529954+00:00'
+updated: '2025-12-22T22:47:30.359303+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 22:29 UTC  
+**Last Updated:** December 22, 2025 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 Hey guys, how much time do you usually spend on your feet in a given work day? I’ve recently injured my back and it doesn’t look like it’s going to get healed anytime soon. I’m relegated to a chair for the most part I think, but this is an industry I’m pretty interested in. I would love to get your feedback so I can decide if I can actually do this work in a professional setting. Thanks! 🤖
 
-10m ago
+28m ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey guys, how much time do you usually spend on your feet in a given work day? I
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-19h ago
+20h ago
 
 ---
 
@@ -92,7 +92,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ Interesting Engineering • 2d ago
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 13h ago
+Stock Titan • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ South China Morning Post • 2d ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 10h ago
+Phoronix • 11h ago
 
 ---
 
@@ -252,7 +252,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 10K • 👍 158 • 💬 6 • ⏱️ 0:11 • 13h ago
+👁️ 10K • 👍 158 • 💬 6 • ⏱️ 0:11 • 14h ago
 
 ---
 
@@ -272,7 +272,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 1.0M • 👍 39K • 💬 642 • ⏱️ 21:05 • 22h ago
+👁️ 1.0M • 👍 39K • 💬 642 • ⏱️ 21:05 • 23h ago
 
 ---
 

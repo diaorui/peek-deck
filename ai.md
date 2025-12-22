@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T22:29:59.512223+00:00'
+updated: '2025-12-22T22:47:30.341803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 22:29 UTC  
+**Last Updated:** December 22, 2025 at 22:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-16h ago
+17h ago
 
 ---
 
@@ -73,7 +73,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 14h ago
+ABC News • 15h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Atlantic • 9h ago
 
 At a New York City training session, educators explored how artificial intelligence could support teaching while also discussing their concerns around the technology.
 
-NBC News • 33m ago
+NBC News • 50m ago
 
 ---
 
@@ -149,7 +149,7 @@ NBC News • 33m ago
 
 OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an 'LLM-based automated attacker.'
 
-TechCrunch • 18m ago
+TechCrunch • 36m ago
 
 ---
 
@@ -157,7 +157,7 @@ TechCrunch • 18m ago
 
 A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 7h ago
 
 Instacart will end a program that set different prices for the same items sold at the same store after a report on the experiments triggered criticism.
 
-Los Angeles Times • 1h ago
+Los Angeles Times • 2h ago
 
 ---
 
@@ -235,7 +235,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 184 • 💬 252 • 5h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 184 • 💬 252 • 6h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -681,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 284 • 39m ago
+⭐ 1.9k • 🔱 284 • 56m ago
 
 ---
 
@@ -731,7 +731,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 907 • 🔱 89 • 11h ago
+⭐ 907 • 🔱 89 • 12h ago
 
 ---
 

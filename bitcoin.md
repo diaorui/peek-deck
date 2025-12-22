@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T22:29:59.520647+00:00'
+updated: '2025-12-22T22:47:30.350063+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 22:29 UTC  
+**Last Updated:** December 22, 2025 at 22:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.9%  
-**30d:** +1.7%  
-**90d:** -21.9%  
-**1y:** -6.8%  
+**24h:** -0.5%  
+**7d:** +0.7%  
+**30d:** +1.4%  
+**90d:** -22.1%  
+**1y:** -7.0%  
 
 ---
 
@@ -101,7 +101,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bitcoin Magazine • 3h ago
 
 Bitcoin (BTC-USD) is back above $90,000 per token on Monday morning as investors look back on a highly volatile year for the digital asset, which has seen a broad sell-off since hitting its record high above $126,000 in early October. Marketgauge.com chief strategist Michele Schneider examines the technicals of the cryptocurrency and the price range that crypto bulls would feel most comfortable with bitcoin closing 2025 out at. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bitcoin Magazine • 1h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 2h ago
+The Verge • 3h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Motley Fool • 23h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 5h ago
+Al Jazeera • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 297 • 💬 30 • ⏱️ 1:11:22 • 2h ago
+👁️ 4K • 👍 297 • 💬 30 • ⏱️ 1:11:22 • 3h ago
 
 ---
 
