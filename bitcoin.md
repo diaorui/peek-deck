@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T15:59:21.877465+00:00'
+updated: '2025-12-22T16:37:27.513945+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 15:59 UTC  
+**Last Updated:** December 22, 2025 at 16:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,811.10
+### $90,101.58
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.6%  
-**7d:** +2.4%  
-**30d:** +3.2%  
-**90d:** -20.7%  
-**1y:** -5.4%  
+**7d:** +2.5%  
+**30d:** +3.3%  
+**90d:** -20.6%  
+**1y:** -5.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.44B
+**Market Cap:** $1796.61B
 Rank #1
 
-**Circulating Supply:** 19,965,534 BTC
+**Circulating Supply:** 19,965,550 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.9%
 
 **All-Time Low:** $67.81
-+131957.2%
++132169.6%
 
 ---
 
@@ -81,13 +81,47 @@ Rank #1
 
 bitvoin
 
+4h ago
+
+---
+
+**[It's NOT over](https://www.reddit.com/r/Bitcoin/comments/1pt1de2/its_not_over/)**
+
+I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
+
+1h ago
+
+---
+
+**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
+
+4h ago
+
+---
+
+**[BTC continues to accumulate](https://www.reddit.com/r/Bitcoin/comments/1psz6iy/btc_continues_to_accumulate/)**
+
+Strategy has increased its USD reserve by $748 million and now holds $2.19 billion and ₿671,268.
+
 3h ago
+
+---
+
+**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
+
+2h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
+
+7h ago
 
 ---
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -99,27 +133,9 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
+**[Bitcoin-backed loans for "living without selling" - am I the only one who thinks this is way riskier than it's being sold?](https://www.reddit.com/r/Bitcoin/comments/1pt0n2i/bitcoinbacked_loans_for_living_without_selling_am/)**
 
-6h ago
-
----
-
-**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
-
-3h ago
-
----
-
-**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
-
-1h ago
-
----
-
-**[BTC continues to accumulate](https://www.reddit.com/r/Bitcoin/comments/1psz6iy/btc_continues_to_accumulate/)**
-
-Strategy has increased its USD reserve by $748 million and now holds $2.19 billion and ₿671,268.
+I've been looking into the idea of using Bitcoin as collateral instead of selling for a while now. Sounds brilliant at first - liquidity without a tax event, BTC stays yours, you keep benefiting from price appreciation. But the more I dig into it, the more uncomfortable I get. Celsius and BlockFi aren't ancient history. And even with the "serious" platforms that are still around: one 50% crash and your LTV goes through the roof. Margin call, forced liquidation, everything gone. What surprises me is how little this gets discussed in all those "never sell your Bitcoin" conversations. Obviously the lending platforms aren't eager to highlight this. But even in the community it's often presented as basically risk-free as long as you keep a low LTV. I built a calculator to play through this over multiple years (app.retire-on-bitcoin.com if anyone wants to mess around with it themselves). The numbers are sobering when you're honest about it and don't just model the best-case scenario. You need a really proper cushion to stay on the safe side. Am I missing something or is this topic really as underexplored as it seems?
 
 2h ago
 
@@ -131,45 +147,15 @@ Strategy has increased its USD reserve by $748 million and now holds $2.19 billi
 
 ---
 
-**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
-
-This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
-
-12h ago
-
----
-
-**[Fed Injects $6.8B Liquidity Tomorrow — Is Bitcoin About to React?](https://www.reddit.com/r/Bitcoin/comments/1psi4ns/fed_injects_68b_liquidity_tomorrow_is_bitcoin/)**
-
-JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
-
-18h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, SOL ADA News: Bitcoin steadies near $89,000 as gold hits record](https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise)**
+**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
 
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
 
-CoinDesk • 10h ago
-
----
-
-**[Bitcoin price today: rises to $89k amid Fed cut bets, but remains rangebound](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-fed-cut-bets-but-remains-rangebound-4418479)**
-
-Investing.com • 8h ago
-
----
-
-**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
-
-This dip is an opportunity to think about what matters most with this asset.
-
-The Motley Fool • 1d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,29 +163,41 @@ The Motley Fool • 1d ago
 
 The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[Watch Assia: Bitcoin is Digital Gold](https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video)**
+**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
-Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
+Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 35m ago
 
 ---
 
-**[Has the American Bitcoin Share Price Slump in 2025 Created an Opportunity?](https://finance.yahoo.com/news/american-bitcoin-share-price-slump-230912804.html)**
+**[Strategy Paused Its Bitcoin Purchases Last Week](https://www.barrons.com/articles/strategy-stock-bitcoin-crypto-ad16e5d5?gaa_at=eafs&gaa_n=AWEtsqf_6ZFhla85KeUmJTec2AQu9RmjTi2S_2HvjUVhE-S3bCN9wHLdae-j&gaa_ts=6949772e&gaa_sig=tJuBz21CssSZe6NBPP9N-xtg4IQjWqlS0XkKXHb_i33r8nMZmRogGDGXJ6UhXhrWuSrmBc2s-JzY9dA8WicO4A%3D%3D)**
 
-If you are wondering whether American Bitcoin is a beaten down opportunity or a value trap at today’s price, you are not alone. Let’s unpack what the market might be getting wrong. After a flat 7 day return, the stock is still down about 59.8% over the last month and 72.2% year to date, a harsh reset that has clearly shifted sentiment and perceived risk. These moves have come as investors reassess speculative crypto exposed names amid shifting regulatory signals and tighter financial...
+Barron's • 33m ago
 
-Yahoo Finance • 16h ago
+---
+
+**[Critical Week For Bitcoin? Options Pressure and ETF Incentives Converge | US Crypto News](https://finance.yahoo.com/news/critical-week-bitcoin-options-pressure-155254849.html)**
+
+What is the biggest crypto news today? Bitcoin jumps above $90,000 as a $24B options expiry and technical breakout drive market volatility.
+
+Yahoo Finance • 44m ago
 
 ---
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
 Forbes • 1d ago
+
+---
+
+**[Bitcoin Price Jumps, But Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 18m ago
 
 ---
 
@@ -211,17 +209,17 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqfzz1X-8tyss84QfibrbvBm6_zaFMib0cqef-DWbLixqvN71BIB_UfP&gaa_ts=694967b6&gaa_sig=WtmGrZrU72IUDWUGppO158jqqdmmLfTnhhuVLebpee5q7Y6soJM0zx5YfQGEatElEoDvPvWxJb2qYYoX-vkjYg%3D%3D)**
-
-Barron's • 1h ago
-
----
-
 **[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
 
 Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
 
 Seeking Alpha • 4h ago
+
+---
+
+**[Tether-backed Northern Data sold bitcoin mining arm to companies run by Tether's own executives: FT](https://www.theblock.co/post/383439/tether-backed-northern-data-sold-bitcoin-mining-arm-to-companies-run-by-tethers-own-executives-ft)**
+
+The Block • 22h ago
 
 ---
 
@@ -263,7 +261,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 2 • 💬 1 • 50m ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 3 • 1h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -285,7 +283,17 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 127 • ⏱️ 15:15 • 14h ago
+👁️ 21K • 👍 1K • 💬 132 • ⏱️ 15:15 • 15h ago
+
+---
+
+**[Bitcoin, Liquidity, And The Coming Inflection Point | Jeff Ross](https://www.youtube.com/watch?v=0h5gLtzS1_M)**
+
+Jeff Ross joins the show for a breakdown of why the global financial system is cracking and why Bitcoin's recent weakness may be ...
+
+📺 What Bitcoin Did
+
+👁️ 3K • 👍 285 • 💬 61 • ⏱️ 1:04:00 • 4h ago
 
 ---
 
@@ -295,7 +303,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 122 • ⏱️ 16:18 • 17h ago
+👁️ 32K • 👍 2K • 💬 126 • ⏱️ 16:18 • 18h ago
 
 ---
 
@@ -305,7 +313,7 @@ BTC, Trump trade, AI stocks, and altcoins! BITUNIX TRADE THE TOP COINS (availabl
 
 📺 Lark Davis
 
-👁️ 5K • 👍 464 • 💬 23 • ⏱️ 53:38 • 3h ago
+👁️ 8K • 👍 575 • 💬 32 • ⏱️ 53:38 • 4h ago
 
 ---
 
@@ -315,27 +323,27 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 950 • 💬 384 • ⏱️ 17:34 • 15h ago
+👁️ 15K • 👍 1K • 💬 399 • ⏱️ 17:34 • 16h ago
 
 ---
 
-**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
+**[Assia: Bitcoin is Digital Gold](https://www.youtube.com/watch?v=ZBo93A9sbjI)**
 
-Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
+Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder ...
 
-📺 Simply Bitcoin
+📺 Bloomberg Television
 
-👁️ 34K • 👍 2K • 💬 165 • ⏱️ 14:31 • 1d ago
+👁️ 168 • 👍 4 • 💬 4 • ⏱️ 5:04 • 1h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO... THIS CHART TELLS US SOMETHING IMPORTANT](https://www.youtube.com/watch?v=ZedxX1u7fZ8)**
+**[Bitcoin’s PUMPING, BOJ Shock FAILS, Altcoin Scandal Deepens &amp; More](https://www.youtube.com/watch?v=8KxjgT7nr5w)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Bitcoin is at a critical crossroads as global liquidity signals turn mixed, the Bank of Japan tightens policy, and confidence in parts ...
 
-📺 Satoshi Stacker
+📺 Coin Bureau
 
-👁️ 6K • 👍 473 • 💬 29 • ⏱️ 9:23 • 6h ago
+👁️ 9K • 👍 987 • 💬 30 • ⏱️ 43:07 • 2h ago
 
 ---
 
@@ -345,7 +353,17 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 20K • 👍 914 • 💬 261 • ⏱️ 55:13 • 1d ago
+👁️ 21K • 👍 926 • 💬 262 • ⏱️ 55:13 • 1d ago
+
+---
+
+**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
+
+Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
+
+📺 Simply Bitcoin
+
+👁️ 34K • 👍 2K • 💬 167 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -355,27 +373,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 8K • 👍 566 • 💬 23 • ⏱️ 7:16 • 17h ago
-
----
-
-**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 47K • 👍 2K • 💬 221 • ⏱️ 44:14 • 3d ago
-
----
-
-**[Bitcoin TESTS $90K As Gold &amp; Silver Break ATHs! Santa Rally Inbound?](https://www.youtube.com/watch?v=jA3a0HRv_fE)**
-
-Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash warning signs: Hong Kong unveils new crypto ...
-
-📺 The Wolf Of All Streets
-
-👁️ 2K • 👍 146 • 2h ago
+👁️ 9K • 👍 583 • 💬 23 • ⏱️ 7:16 • 18h ago
 
 ---
 
