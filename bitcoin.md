@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T05:33:16.011708+00:00'
+updated: '2025-12-22T05:50:48.411089+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 05:33 UTC  
+**Last Updated:** December 22, 2025 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
+**24h:** +1.1%  
 **7d:** +1.5%  
 **30d:** +2.3%  
 **90d:** -21.4%  
-**1y:** -6.3%  
+**1y:** -6.2%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 20
+### 25
 **EXTREME FEAR**
 
 ---
@@ -115,7 +115,7 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-15h ago
+16h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 8h ago
 
 Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 2d ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
@@ -391,7 +391,7 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 3K • 👍 192 • 💬 53 • ⏱️ 12:58 • 12h ago
+👁️ 3K • 👍 192 • 💬 53 • ⏱️ 12:58 • 13h ago
 
 ---
 

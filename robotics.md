@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T05:33:16.019870+00:00'
+updated: '2025-12-22T05:50:48.420435+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 05:33 UTC  
+**Last Updated:** December 22, 2025 at 05:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ WAVE News • 3d ago
 
 Police agency Europol has imagined a not-so-distant future in which criminals hijack autonomous vehicles, drones, and robots.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
@@ -212,7 +212,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 3K • 👍 46 • 💬 2 • ⏱️ 0:19 • 12h ago
+👁️ 3K • 👍 46 • 💬 2 • ⏱️ 0:19 • 13h ago
 
 ---
 
@@ -282,7 +282,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 392K • 👍 19K • 💬 319 • ⏱️ 21:05 • 5h ago
+👁️ 392K • 👍 19K • 💬 319 • ⏱️ 21:05 • 6h ago
 
 ---
 

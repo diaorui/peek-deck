@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T05:33:16.004095+00:00'
+updated: '2025-12-22T05:50:48.402522+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 05:33 UTC  
+**Last Updated:** December 22, 2025 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 3m ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 20m ago
 
 ---
 
@@ -89,7 +89,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 17h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 18h ago
 
 ---
 
@@ -139,7 +139,7 @@ Politico • 1d ago
 
 Publishers want a fair, structured, regulated AI environment for 2026 and for publishers to come together to establish new metrics.
 
-Digiday • 27m ago
+Digiday • 44m ago
 
 ---
 
@@ -171,7 +171,7 @@ South China Morning Post • 23h ago
 
 A middle school student in Louisiana got into a fight with classmates who were sharing AI-generated nude images of her, she ended up getting expelled. (AP video: Stephen Smith and Jack Brook)
 
-Yahoo • 31m ago
+Yahoo • 48m ago
 
 ---
 
@@ -317,7 +317,7 @@ Mastering Claude Code Skills: Building General AI Agents for Your Business This 
 
 📺 Riley Brown
 
-👁️ 4K • 👍 206 • 💬 18 • ⏱️ 27:21 • 6h ago
+👁️ 4K • 👍 206 • 💬 18 • ⏱️ 27:21 • 7h ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.5k • 🔱 2.9k • 31m ago
+⭐ 18.5k • 🔱 2.9k • 49m ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 174 • 16m ago
+⭐ 2.4k • 🔱 174 • 33m ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 874 • 🔱 84 • 3h ago
+⭐ 874 • 🔱 84 • 4h ago
 
 ---
 
