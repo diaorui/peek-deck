@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T03:27:05.323098+00:00'
+updated: '2025-12-22T04:27:46.677176+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 03:27 UTC  
+**Last Updated:** December 22, 2025 at 04:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-18h ago
+19h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-51m ago
+1h ago
 
 ---
 
@@ -52,7 +52,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-12h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 2h ago
 
 ---
 
@@ -76,7 +76,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
 
-3h ago
+4h ago
 
 ---
 
@@ -92,7 +92,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-21m ago
+1h ago
 
 ---
 
@@ -100,13 +100,15 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-8h ago
+9h ago
 
 ---
 
-**[Raspberry pi courses?](https://www.reddit.com/r/robotics/comments/1psn1wo/raspberry_pi_courses/)**
+**[Modular mini-VLA model](https://www.reddit.com/r/robotics/comments/1psmugb/modular_minivla_model/)**
 
-1h ago
+Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
+
+2h ago
 
 ---
 
@@ -140,7 +142,7 @@ South China Morning Post • 2d ago
 
 As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
@@ -170,7 +172,7 @@ The Robot Report • 1d ago
 
 **[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.newsnationnow.com/business/tech/texas-am-engineering-students-robot-dog/)**
 
-NewsNation • 14h ago
+NewsNation • 15h ago
 
 ---
 
@@ -210,7 +212,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 3K • 👍 29 • 💬 2 • ⏱️ 0:19 • 10h ago
+👁️ 3K • 👍 29 • 💬 2 • ⏱️ 0:19 • 11h ago
 
 ---
 
@@ -220,7 +222,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 355K • 👍 12K • 💬 205 • ⏱️ 0:29 • 4h ago
+👁️ 355K • 👍 12K • 💬 205 • ⏱️ 0:29 • 5h ago
 
 ---
 
@@ -230,7 +232,7 @@ Chinese robotics leader Unitree is capping off a blockbuster year the same way i
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 28 • 💬 5 • ⏱️ 7:34 • 19h ago
+👁️ 2K • 👍 28 • 💬 5 • ⏱️ 7:34 • 20h ago
 
 ---
 
@@ -280,7 +282,7 @@ Twenty-twenty-five is the year humanoid robots started dancing better than peopl
 
 📺 Kalil 4.0
 
-👁️ 452 • 👍 3 • ⏱️ 1:09 • 46m ago
+👁️ 452 • 👍 3 • ⏱️ 1:09 • 1h ago
 
 ---
 
@@ -290,7 +292,7 @@ War Robots Titan Gameplay: New PRINCEPS with Void and Chasm #warrobots #warrobot
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 300 • 💬 58 • ⏱️ 10:24 • 10h ago
+👁️ 5K • 👍 300 • 💬 58 • ⏱️ 10:24 • 11h ago
 
 ---
 

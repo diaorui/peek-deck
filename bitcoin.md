@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T03:27:05.313908+00:00'
+updated: '2025-12-22T04:27:46.667622+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 03:27 UTC  
+**Last Updated:** December 22, 2025 at 04:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,045.70
+### $88,695.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +1.3%  
-**30d:** +2.1%  
-**90d:** -21.6%  
-**1y:** -6.4%  
+**24h:** +0.9%  
+**7d:** +1.5%  
+**30d:** +2.3%  
+**90d:** -21.4%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1771.61B
+**Market Cap:** $1775.49B
 Rank #1
 
 **Circulating Supply:** 19,965,353 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.5%
 
 **All-Time Low:** $67.81
-+130818.7%
++131044.4%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Sorry dad, I'm stacking sats. There's no second best 2026 💥💪](https://www.reddit.com/r/Bitcoin/comments/1psekz2/sorry_dad_im_stacking_sats_theres_no_second_best/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-6h ago
+7h ago
 
 ---
 
@@ -115,13 +115,27 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-2h ago
+3h ago
 
 ---
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-2h ago
+3h ago
+
+---
+
+**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
+
+This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
+
+1h ago
+
+---
+
+**[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
+
+7h ago
 
 ---
 
@@ -129,19 +143,7 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-13h ago
-
----
-
-**[Whales stacking BTC! Momentum incoming 🚀](https://www.reddit.com/r/Bitcoin/comments/1pshdkh/whales_stacking_btc_momentum_incoming/)**
-
-6h ago
-
----
-
-**[🇺🇸 MASSIVE FED LIQUIDITY INCOMING](https://www.reddit.com/r/Bitcoin/comments/1ps9v2v/massive_fed_liquidity_incoming/)**
-
-11h ago
+14h ago
 
 ---
 
@@ -153,13 +155,13 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
@@ -167,15 +169,7 @@ Forbes • 14h ago
 
 Galaxy Digital’s Alex Thorn says options signals and macro risks make bitcoin hard to call in 2026 while maintaining a $250,000 target for the end of 2027.
 
-CoinDesk • 6h ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
-
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
-
-Nasdaq • 15h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -197,29 +191,35 @@ The Block • 2d ago
 
 Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://finance.yahoo.com/news/strategy-bitcoin-buying-firms-face-155944091.html)**
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://finance.yahoo.com/news/3-reasons-why-im-not-224700734.html)**
 
-Michael Saylor's Strategy could soon be dropped from MSCI and potentially other major stock indexes, which analysts say could cost the bitcoin-hoarding giant up to $9 billion in demand for its shares and hurt the wider appeal of the sector.  After queries ​from clients, MSCI in October proposed ditching from its global benchmarks companies whose digital asset holdings represent 50% or more of their total assets. ‌It says they resemble investment funds, which it does not include in its benchmarks.  Shares in Strategy, which began life as software firm MicroStrategy, skyrocketed 3,000% after it began buying bitcoin in 2020, although they have since fallen sharply, and are down about 43% this year amid the cryptocurrency's slump.
+This dip is an opportunity to think about what matters most with this asset.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdHQWGnAXgh5aSpSnDHo1Aw-ToUbebyNubyREYtgLK0j-NhlgEtjqnO&gaa_ts=6948bdf4&gaa_sig=GQSr2orwHE2wZbprCGgEP9fGOgQz0IxFBqwIKU1vowua2eF9IVQ055uVEaOx9Nf9Vkw3zHwMHYBtNTwqEJBcMQ%3D%3D)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+
+Nasdaq • 16h ago
+
+---
+
+**[Strategy and bitcoin-buying firms face wider exclusion from stock indexes](https://www.reuters.com/business/strategy-bitcoin-buying-firms-face-wider-exclusion-stock-indexes-2025-12-19/)**
+
+Reuters • 2d ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdrNpuQNUl5iXY932wF8bfV4hJvZCNIkRc0c5EI6OBsqM2n-CqFBYPW&gaa_ts=6948cc32&gaa_sig=_QtOCWvDnYL9kLuK5o0L7wjNmVGgsM0CBMyDHDkhqekgQbgXuYgylZ2x-t07yCWlgN2ZCIGF-fa2NB8dyGHqQQ%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Bitcoin Outlook Discord: Tom Lee Breaks Down Fundstrat’s Position](https://www.tradingview.com/news/newsbtc:51c3793fd094b:0-bitcoin-outlook-discord-tom-lee-breaks-down-fundstrat-s-position/)**
-
-According to reports, Fundstrat analysts are sending mixed signals about Bitcoin’s path in 2026. One line of work inside the firm sees a noticeable pullback early next year, while another predicts new highs arriving soon after.Sean Farrell, Fundstrat’s head of digital asset strategy, is reported to…
-
-TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -269,13 +269,13 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 16h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 17h ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Ask HN: Which whole genome sequencing provider do you recommend in 2025?](https://news.ycombinator.com/item?id=46343690)**
 
-⬆️ 1 • 💬 0 • 17h ago
+⬆️ 1 • 💬 0 • 18h ago
 
 ---
 
@@ -289,7 +289,7 @@ Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standar
 
 **[Shooting myself in the foot with Git by accident](https://news.ycombinator.com/item?id=46345884)**
 
-⬆️ 1 • 💬 1 • 11h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
+⬆️ 1 • 💬 1 • 12h ago • [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 798 • 💬 251 • ⏱️ 55:13 • 13h ago
+👁️ 16K • 👍 798 • 💬 251 • ⏱️ 55:13 • 14h ago
 
 ---
 
@@ -313,7 +313,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 874 • 💬 61 • ⏱️ 16:18 • 5h ago
+👁️ 13K • 👍 874 • 💬 61 • ⏱️ 16:18 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 477 • 💬 47 • ⏱️ 15:15 • 1h ago
+👁️ 4K • 👍 477 • 💬 47 • ⏱️ 15:15 • 2h ago
 
 ---
 
@@ -343,7 +343,7 @@ BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 6K • 👍 313 • 💬 82 • ⏱️ 16:57 • 6h ago
+👁️ 6K • 👍 313 • 💬 82 • ⏱️ 16:57 • 7h ago
 
 ---
 
@@ -381,7 +381,7 @@ This is when you see $10 million Bitcoin.” Samson Mow just dropped a shocking 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 287 • 💬 7 • ⏱️ 1:00 • 8h ago
+👁️ 6K • 👍 287 • 💬 7 • ⏱️ 1:00 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53
 
 📺 Wolves of Crypto
 
-👁️ 3K • 👍 184 • 💬 32 • ⏱️ 12:58 • 10h ago
+👁️ 3K • 👍 184 • 💬 32 • ⏱️ 12:58 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T03:27:05.305457+00:00'
+updated: '2025-12-22T04:27:46.658891+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 03:27 UTC  
+**Last Updated:** December 22, 2025 at 04:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 14h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 15h ago
 
 ---
 
@@ -49,15 +49,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. They couldn't use real video because that never happened.
 
-🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 22h ago
-
----
-
-**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
-
-At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 11h ago
+🔗 [LGBTQ Nation](https://www.lgbtqnation.com/2025/12/republicans-make-deepfake-ai-video-of-democrat-giving-a-kid-trans-hormone-therapy/) • 23h ago
 
 ---
 
@@ -65,15 +57,15 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 6h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 7h ago
 
 ---
 
-**[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
+**[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.reddit.com/r/artificial/comments/1ps9vqb/humanoid_robots_are_coming_as_soon_as_they_learn/)**
 
-Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
+At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 15h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 12h ago
 
 ---
 
@@ -81,15 +73,15 @@ Apple researchers have developed an AI model that recovers detail from raw senso
 
 I have observed that many people are talking about how Google is the only company playing this AI game with a full deck. While everyone else is competing on specific pieces, Google owns the entire stack. ‎​Here is why they seem unbeatable: ‎​The Brains: DeepMind has been ahead of the curve for years. They have the talent and the best foundational models. ‎​The Hardware: While everyone fights for NVIDIA chips, Google runs on their own TPUs. They control their hardware destiny. ‎​The Scale: They have the cash to burn indefinitely and an ecosystem that no one can match. ‎The Distribution: Google has biggest ecosystem so no company on earth can compete with them on it. ‎​Does anyone actually have a real shot against this level of vertical integration, or is the winner already decided?
 
-12h ago
+13h ago
 
 ---
 
-**[Do you think most people will move to AI search soon?](https://www.reddit.com/r/artificial/comments/1psc3oo/do_you_think_most_people_will_move_to_ai_search/)**
+**[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
 
-AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
+Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-9h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 16h ago
 
 ---
 
@@ -97,7 +89,7 @@ AI Overviews now show up in around half of searches, and many people already use
 
 A divide between Britain’s data-center boomtowns and its white-collar commuter-belt shows how AI could upend the economic and political order.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 7h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/ai-data-center-infrastructure-projects-risk-uk-political-upheaval) • 8h ago
 
 ---
 
@@ -105,7 +97,7 @@ A divide between Britain’s data-center boomtowns and its white-collar commuter
 
 Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
-🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 8h ago
+🔗 [blog.sshh.io](https://blog.sshh.io/p/understanding-ai-benchmarks) • 9h ago
 
 ---
 
@@ -113,7 +105,15 @@ Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 Space Force uses AI challenge to push everyday use of artificial intelligence Space Force uses AI challenge to push everyday use of artificial intelligence
 
-🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 9h ago
+🔗 [SpaceNews](https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/) • 10h ago
+
+---
+
+**[Do you think most people will move to AI search soon?](https://www.reddit.com/r/artificial/comments/1psc3oo/do_you_think_most_people_will_move_to_ai_search/)**
+
+AI Overviews now show up in around half of searches, and many people already use them. A lot of users have shifted to AI search tools like ChatGPT, which has huge weekly usage and sends a big part of AI-related web traffic. Many experts saying, more than 75% of people will mostly use AI search instead of traditional search in 2026?
+
+10h ago
 
 ---
 
@@ -121,19 +121,17 @@ Space Force uses AI challenge to push everyday use of artificial intelligence Sp
 
 ## Google News: "ai"
 
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqfHcrnbR68T802VYG1pKPEe1pClChcUmqD4JVAS1pTqmKzq5LAmLaU4&gaa_ts=6948cc30&gaa_sig=LWQJv9KcxwQqbwYgrI-MCqMkExLal9RXsJ1_Guz9nJ6AQiiF32ggL1hF5r98nh0Cr_tZIY_cOmA8wWDPsntJNA%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 19h ago
-
----
-
-**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
-
-Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
-
-CNBC • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -145,15 +143,17 @@ BBC • 2d ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts](https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html)**
 
-Politico • 1d ago
+Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025.
+
+CNBC • 20h ago
 
 ---
 
-**[New York Signs AI Safety Bill Into Law, Ignoring Trump Executive Order](https://www.wsj.com/articles/new-york-signs-ai-safety-bill-into-law-ignoring-trump-executive-order-f1ece21d?gaa_at=eafs&gaa_n=AWEtsqflSpUouzcNDKsyYPioAVpROFDx5448HIC12G77l3aFDnmICwyRAxYn&gaa_ts=6948bdf2&gaa_sig=JDgKAPFXiZz_zYmpzLjhjsPl7PpFxIow0GugbdfMVXwI1QNr0j8eefLCUPD5m9nmP1xsGZy7jfrEtqeuX6msYw%3D%3D)**
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-The Wall Street Journal • 1d ago
+Politico • 1d ago
 
 ---
 
@@ -161,7 +161,15 @@ The Wall Street Journal • 1d ago
 
 David Sacks, Trump’s go-to adviser on all things tech, may help decide who wins the AI race between the US and China.
 
-Vox • 14h ago
+Vox • 15h ago
+
+---
+
+**[New York State Just Put Itself on a Legal Collision Course with Trump’s AI Policy](https://gizmodo.com/new-york-state-just-put-itself-on-a-legal-collision-course-with-trumps-ai-policy-2000702258)**
+
+Setting the stage for courtroom battles.
+
+Gizmodo • 14h ago
 
 ---
 
@@ -169,25 +177,19 @@ Vox • 14h ago
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 8h ago
-
----
-
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqdFBN-0_4z7RI6ttuUKWDybAIsST9pLUN0knEYOp2aHZ41i5gm8NV-t&gaa_ts=6948bdf2&gaa_sig=gTQybueDZKzT9wmotgEZfNiuBvHoKic37scI7lW0Z0cBoQTXHT7S0pHOtFHVvkLMTn_uHgRzaCigx-TsKOZceA%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
-
-The New York Times • 1d ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Democrats' divide over AI frames a debate for 2028](https://www.axios.com/2025/12/21/ai-fight-democrats-2028)**
 
 Axios • 3h ago
+
+---
+
+**[Opinion | The A.I. Models Are Competing for Your Affection](https://www.nytimes.com/2025/12/20/opinion/ai-chat-gpt-models-personality.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -199,19 +201,19 @@ Axios • 3h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 505 • 💬 473 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 506 • 💬 473 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 231 • 💬 343 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 231 • 💬 344 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 222 • 💬 177 • 23h ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 223 • 💬 178 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -219,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 163 • 💬 377 • 20h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 165 • 💬 380 • 21h ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -227,7 +229,7 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 145 • 💬 70 • 10h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 163 • 💬 92 • 11h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -251,7 +253,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 104 • 💬 52 • 10h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 111 • 💬 57 • 11h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -265,7 +267,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 99 • 💬 92 • 22h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 103 • 💬 94 • 23h ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -285,7 +287,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 4K • 👍 159 • 💬 10 • ⏱️ 25:57 • 7h ago
+👁️ 4K • 👍 159 • 💬 10 • ⏱️ 25:57 • 8h ago
 
 ---
 
@@ -295,7 +297,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 44K • 👍 2K • 💬 114 • ⏱️ 13:25 • 9h ago
+👁️ 44K • 👍 2K • 💬 114 • ⏱️ 13:25 • 10h ago
 
 ---
 
@@ -305,7 +307,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 41K • 👍 2K • 💬 81 • ⏱️ 1:29 • 9h ago
+👁️ 41K • 👍 2K • 💬 81 • ⏱️ 1:29 • 10h ago
 
 ---
 
@@ -391,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,258 • 13d ago
+⬇️ 352,314 • ❤️ 3,261 • 13d ago
 
 ---
 
@@ -403,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 440 • 2d ago
+⬇️ 3,459 • ❤️ 447 • 2d ago
 
 ---
 
@@ -415,7 +417,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 420 • 2d ago
+⬇️ 74,165 • ❤️ 423 • 2d ago
 
 ---
 
@@ -427,7 +429,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 411 • 3d ago
+⬇️ 10,633 • ❤️ 413 • 3d ago
 
 ---
 
@@ -439,7 +441,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,021 • ❤️ 382 • 3d ago
+⬇️ 3,021 • ❤️ 383 • 3d ago
 
 ---
 
@@ -451,7 +453,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 4,530 • ❤️ 393 • 7d ago
+⬇️ 4,530 • ❤️ 394 • 7d ago
 
 ---
 
@@ -463,7 +465,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 6,796 • ❤️ 367 • 4d ago
+⬇️ 6,796 • ❤️ 372 • 4d ago
 
 ---
 
@@ -475,7 +477,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 322 • 5d ago
+⬇️ 0 • ❤️ 325 • 5d ago
 
 ---
 
@@ -499,7 +501,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 632 • ❤️ 260 • 4d ago
+⬇️ 632 • ❤️ 263 • 4d ago
 
 ---
 
@@ -515,7 +517,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 8 • 💬 2 • ⭐ 4,461 • 10d ago
+▲ 9 • 💬 2 • ⭐ 4,461 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -618,7 +620,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 30 • 💬 2 • ⭐ 12,902 • 13d ago
+▲ 30 • 💬 2 • ⭐ 12,927 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -657,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.5k • 🔱 610 • 1d ago
+⭐ 5.6k • 🔱 612 • 14m ago
 
 ---
 
@@ -667,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.3k • 🔱 173 • 46m ago
+⭐ 2.4k • 🔱 174 • 1h ago
 
 ---
 
@@ -677,7 +679,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.3k • 🔱 333 • 15d ago
+⭐ 1.4k • 🔱 337 • 15d ago
 
 ---
 
@@ -687,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 191 • 5h ago
+⭐ 1.1k • 🔱 202 • 6h ago
 
 ---
 
@@ -707,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 918 • 🔱 24 • 14d ago
+⭐ 917 • 🔱 24 • 14d ago
 
 ---
 
@@ -717,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `JavaScript`
 
-⭐ 888 • 🔱 147 • 1d ago
+⭐ 890 • 🔱 149 • 1d ago
 
 ---
 
@@ -727,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 869 • 🔱 84 • 1h ago
+⭐ 872 • 🔱 84 • 2h ago
 
 ---
 
