@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T17:23:36.867038+00:00'
+updated: '2025-12-22T17:41:29.867424+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 17:23 UTC  
+**Last Updated:** December 22, 2025 at 17:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 18m ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 36m ago
 
 ---
 
@@ -73,7 +73,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 11h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 7h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ BBC • 6h ago
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 9h ago
+ABC News • 10h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Washington Post • 1h ago
 
 **[I correctly predicted ChatGPT. Here are my 6 AI predictions for 2026](https://www.fastcompany.com/91461250/i-correctly-predicted-chatgpt-my-6-ai-predictions-2026)**
 
-Fast Company • 35m ago
+Fast Company • 53m ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 2d ago
 
 **[Alphabet Buys Energy Startup Intersect For $4.75 Billion To Fuel AI Growth](https://www.forbes.com/sites/tylerroush/2025/12/22/alphabet-buys-clean-energy-startup-for-ai-data-centers-in-475-billion-deal/)**
 
-Forbes • 26m ago
+Forbes • 44m ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 26m ago
 
 If your AI feels slow, expensive or risky, the problem isn’t the models — it’s the data, and cognitive data architecture is the fix.
 
-cio.com • 16m ago
+cio.com • 34m ago
 
 ---
 
@@ -345,7 +345,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 188 • 💬 14 • ⏱️ 13:03 • 19h ago
+👁️ 4K • 👍 188 • 💬 14 • ⏱️ 13:03 • 20h ago
 
 ---
 
@@ -606,7 +606,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 76 • 💬 1 • ⭐ 50 • 4d ago
+▲ 76 • 💬 6 • ⭐ 50 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
@@ -666,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 178 • 1h ago
+⭐ 2.4k • 🔱 179 • 7m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 260 • 3h ago
+⭐ 1.7k • 🔱 268 • 3h ago
 
 ---
 
@@ -686,7 +686,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.6k • 🔱 352 • 16d ago
+⭐ 1.6k • 🔱 355 • 16d ago
 
 ---
 
@@ -696,7 +696,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 51 • 4d ago
+⭐ 1.1k • 🔱 52 • 4d ago
 
 ---
 
@@ -706,7 +706,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 170 • 4h ago
+⭐ 1.0k • 🔱 171 • 4h ago
 
 ---
 
@@ -736,7 +736,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 853 • 🔱 80 • 1h ago
+⭐ 863 • 🔱 80 • 1h ago
 
 ---
 

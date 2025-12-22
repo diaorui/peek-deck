@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T17:23:36.875831+00:00'
+updated: '2025-12-22T17:41:29.875859+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 17:23 UTC  
+**Last Updated:** December 22, 2025 at 17:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** +1.1%  
 **7d:** +2.0%  
 **30d:** +2.8%  
-**90d:** -21.1%  
+**90d:** -21.0%  
 **1y:** -5.8%  
 
 ---
@@ -95,7 +95,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ Strategy has increased its USD reserve by $748 million and now holds $2.19 billi
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Economic Times • 16h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 39m ago
+Al Jazeera • 57m ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 1h ago
 
 Gemini predicts that in 2026, Bitcoin’s market maturation may break its traditional four-year cycle, political engagement with crypto will rise, prediction markets will grow, digital asset treasury firms will consolidate, and at least one nation may convert part of its gold reserves into Bitcoin.
 
-Bitcoin Magazine • 19m ago
+Bitcoin Magazine • 37m ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 132 • ⏱️ 15:15 • 15h ago
+👁️ 21K • 👍 1K • 💬 132 • ⏱️ 15:15 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 15K • 👍 1K • 💬 399 • ⏱️ 17:34 • 16h ago
+👁️ 15K • 👍 1K • 💬 399 • ⏱️ 17:34 • 17h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin set to end the year lower despite a risk-on period for stocks, and deman
 
 📺 Bloomberg Television
 
-👁️ 168 • 👍 4 • 💬 4 • ⏱️ 5:04 • 1h ago
+👁️ 168 • 👍 4 • 💬 4 • ⏱️ 5:04 • 2h ago
 
 ---
 
