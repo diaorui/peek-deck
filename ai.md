@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T13:00:54.494375+00:00'
+updated: '2025-12-22T13:41:29.446135+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 13:00 UTC  
+**Last Updated:** December 22, 2025 at 13:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 1h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 15h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 Steam's current global best-sellers list shows that nearly half of the most popular games come from developers who use generative AI.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 23h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/half-of-steams-current-top-10-best-selling-games-are-from-devs-who-embraced-gen-ai/) • 1d ago
 
 ---
 
@@ -73,7 +73,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 7h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 At a Silicon Valley summit, small robots roamed and poured lattes, while evangelists hailed new AI techniques as transformative. But full-size prototypes were scarce.
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 20h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough) • 21h ago
 
 ---
 
@@ -97,7 +97,7 @@ The ad shows Maine Gov. Janet Mills giving little kids syringes with hormones. T
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 3h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 4h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 7m ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 48m ago
 
 ---
 
@@ -113,7 +113,7 @@ How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
 With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
 
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 7h ago
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 8h ago
 
 ---
 
@@ -121,27 +121,49 @@ With the upgraded AI Vision, Samsung becomes more fluent in food recognition and
 
 ## Google News: "ai"
 
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
+**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://www.yahoo.com/news/articles/boys-her-school-shared-ai-050314208.html)**
 
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+Nude images of a 13-year-old girl and her friends, generated by artificial intelligence, were circulating on social media and had become the talk of a Louisiana middle school.  When the 13-year-old girl stepped onto the Lafourche Parish school bus at the end of the day, a classmate was showing one of them to a friend.  The 13-year-old girl’s attorneys allege he avoided school discipline altogether.
 
-CNN • 1d ago
-
----
-
-**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
-
-Oracle stock peaked in September before suffering a continued decline in the back half of the year.
-
-Yahoo Finance • 3h ago
+Yahoo • 8h ago
 
 ---
 
-**[Is the AI bubble about to burst? If so the consequences could be dire](https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328)**
+**[Iowa wood chipper maker doesn't care about AI buzzwords: Silicon Valley CEOs get real about the hype](https://fortune.com/2025/12/22/silicon-valley-hype-slop-cycle-freshworks-xero-ceos-small-business/)**
 
-Tom Clarke explains why some analysts think the maths behind the AI boom no longer adds up, and breaks down the three pressure points that could ultimately burst the AI bubble.
+"I don't think they come to us looking for AI other than, 'please, for God's sake tell us what it means for us.'"
 
-Sky News • 9h ago
+Fortune • 36m ago
+
+---
+
+**[A godfather of AI shares career advice in the age of AI: Work on being a 'beautiful human being'](https://www.businessinsider.com/yoshua-bengio-godfather-beautiful-human-ai-2025-12)**
+
+Yoshua Bengio, known as one of the "AI godfathers," said that while more jobs will be automated by AI, human qualities like love will always be valuable.
+
+Business Insider • 37m ago
+
+---
+
+**[AI Is Changing How We Learn at Work](https://hbr.org/2025/12/ai-is-changing-how-we-learn-at-work)**
+
+As artificial intelligence rapidly transforms the workplace, it is also reshaping how people learn, develop expertise, and form their professional identities. Although gen AI promises to accelerate learning and boost productivity, it risks undermining the very experiences that foster mastery, deep thinking, empathy, and personal agency. The challenge for leaders is to ensure that amid this transformation, organizations deliberately preserve the human experiences—struggle, choice, and interpersonal connection—that are vital for true development and flourishing.
+
+Harvard Business Review • 22m ago
+
+---
+
+**[AI, Manufacturing Reset Spell 2026 Boon for European Industrials](https://www.bloomberg.com/news/articles/2025-12-22/ai-manufacturing-reset-spell-2026-boon-for-european-industrials)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[This AI finds simple rules where humans see only chaos](https://www.sciencedaily.com/releases/2025/12/251221091237.htm)**
+
+A new AI developed at Duke University can uncover simple, readable rules behind extremely complex systems. It studies how systems evolve over time and reduces thousands of variables into compact equations that still capture real behavior. The method works across physics, engineering, climate science, and biology. Researchers say it could help scientists understand systems where traditional equations are missing or too complicated to write down.
+
+ScienceDaily • 7h ago
 
 ---
 
@@ -151,43 +173,27 @@ Axios • 1h ago
 
 ---
 
-**[AI Mate in Wondershare Filmora V15: a new era of intelligent video creation](https://gizmodo.com/ai-mate-in-wondershare-filmora-v15-a-new-era-of-intelligent-video-creation-2000700107)**
+**[Is the AI bubble about to burst? If so the consequences could be dire](https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328)**
 
-Faster, smarter workflows and more powerful toolsâwith AI integrated.
+Tom Clarke explains why some analysts think the maths behind the AI boom no longer adds up, and breaks down the three pressure points that could ultimately burst the AI bubble.
 
-Gizmodo • 55m ago
-
----
-
-**[Silent Time Bomb Threatens 6 AI S&P 500 Stocks Loading Up With Debt](https://www.investors.com/etfs-and-funds/sectors/sp500-silent-time-bomb-threatens-6-ai-stocks-loading-up-with-debt/)**
-
-Investor's Business Daily • 58m ago
+Sky News • 10h ago
 
 ---
 
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
+**[AI cheating accusations create trust issues in Michigan classrooms](https://www.freep.com/story/news/education/2025/12/22/ai-cheating-accusations-create-trust-issues-in-michigan-classrooms/87792506007/)**
 
-A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
+When AI detection software fails, students and teachers have to negotiate difficult conversations about cheating with artificial intelligence.
 
-ABC News • 5h ago
-
----
-
-**[These Teenagers Are Already Running Their Own AI Companies](https://www.wsj.com/business/entrepreneurship/teenage-founders-ecb9cbd3?gaa_at=eafs&gaa_n=AWEtsqcNwWcy2tpOBB2nN8F-wjoxNcilfzeSNYRin2TY4ekYsoBj2cWzG4AR&gaa_ts=6949446c&gaa_sig=a6oGWtsa7escniJw3oEL6Py9F96sgM6AZfEdbraPdYtw2vQQPW-FEJNPjMZuHhAmpBMAAA9OihSsRx9TkwX-Dw%3D%3D)**
-
-The Wall Street Journal • 12h ago
+Detroit Free Press • 2h ago
 
 ---
 
-**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+**[People Are Using Sora 2 to Make Disturbing Videos With AI-Generated Kids](https://www.wired.com/story/people-are-using-sora-2-to-make-child-fetish-content/)**
 
-Bloomberg.com • 15h ago
+Videos such as fake ads featuring AI children playing with vibrators or Jeffrey Epstein and Diddy-themed playsets are being made with Sora 2 and posted to TikTok.
 
----
-
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
-
-Politico • 1d ago
+WIRED • 2h ago
 
 ---
 
@@ -199,7 +205,15 @@ Politico • 1d ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 511 • 💬 475 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 511 • 💬 478 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+
+---
+
+**[Autoland saves King Air, everyone reported safe](https://news.ycombinator.com/item?id=46346214)**
+
+Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
+
+⬆️ 237 • 💬 143 • 20h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -209,17 +223,9 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 ---
 
-**[Autoland saves King Air, everyone reported safe](https://news.ycombinator.com/item?id=46346214)**
-
-Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
-
-⬆️ 232 • 💬 142 • 20h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
-
----
-
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 231 • 💬 183 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 232 • 💬 184 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -243,7 +249,7 @@ Timeline & Responsible Disclosure
 
 Personal Musings and Transcripts
 
-⬆️ 128 • 💬 60 • 19h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 130 • 💬 60 • 20h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -285,7 +291,7 @@ I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and 
 
 📺 tef
 
-👁️ 55K • 👍 4K • 💬 415 • ⏱️ 13:09 • 20h ago
+👁️ 55K • 👍 4K • 💬 415 • ⏱️ 13:09 • 21h ago
 
 ---
 
@@ -295,7 +301,7 @@ Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 47K • 👍 822 • 💬 22 • ⏱️ 0:56 • 13h ago
+👁️ 47K • 👍 822 • 💬 22 • ⏱️ 0:56 • 14h ago
 
 ---
 
@@ -325,7 +331,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 177 • 💬 10 • ⏱️ 13:03 • 15h ago
+👁️ 4K • 👍 177 • 💬 10 • ⏱️ 13:03 • 16h ago
 
 ---
 
@@ -355,7 +361,7 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 19K • 👍 287 • 💬 198 • ⏱️ 4:26 • 10h ago
+👁️ 19K • 👍 287 • 💬 198 • ⏱️ 4:26 • 11h ago
 
 ---
 
@@ -403,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 508 • 3d ago
+⬇️ 5,379 • ❤️ 512 • 3d ago
 
 ---
 
@@ -415,7 +421,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 448 • 3d ago
+⬇️ 14,346 • ❤️ 451 • 3d ago
 
 ---
 
@@ -475,7 +481,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 336 • 5d ago
+⬇️ 0 • ❤️ 337 • 5d ago
 
 ---
 
@@ -487,7 +493,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 322 • 6d ago
+⬇️ 0 • ❤️ 323 • 6d ago
 
 ---
 
@@ -594,7 +600,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,616 • 24d ago
+▲ 27 • 💬 2 • ⭐ 7,616 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -646,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 2.9k • 7h ago
+⭐ 18.7k • 🔱 2.9k • 8h ago
 
 ---
 
@@ -656,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 626 • 11m ago
+⭐ 5.7k • 🔱 626 • 52m ago
 
 ---
 
@@ -666,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 177 • 2h ago
+⭐ 2.4k • 🔱 177 • 3h ago
 
 ---
 
@@ -686,7 +692,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 236 • 18m ago
+⭐ 1.5k • 🔱 236 • 59m ago
 
 ---
 
@@ -706,7 +712,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 970 • 🔱 163 • 10m ago
+⭐ 970 • 🔱 163 • 50m ago
 
 ---
 

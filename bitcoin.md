@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T13:00:54.503132+00:00'
+updated: '2025-12-22T13:41:29.454609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 13:00 UTC  
+**Last Updated:** December 22, 2025 at 13:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,208.70
+### $89,895.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +3.0%  
-**30d:** +3.8%  
-**90d:** -20.3%  
-**1y:** -4.9%  
+**24h:** +2.6%  
+**7d:** +2.8%  
+**30d:** +3.6%  
+**90d:** -20.4%  
+**1y:** -5.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.75B
+**Market Cap:** $1794.41B
 Rank #1
 
 **Circulating Supply:** 19,965,509 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.7%
 
 **All-Time Low:** $67.81
-+132930.5%
++132443.9%
 
 ---
 
@@ -77,25 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
-
-This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
-
-9h ago
-
----
-
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
 bitvoin
 
-37m ago
+1h ago
 
 ---
 
-**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psx9ow/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
+**[He's Right](https://www.reddit.com/r/Bitcoin/comments/1psoumh/hes_right/)**
 
-1h ago
+This is what long-term conviction sounds like. Adoption first. Price follows. Noise is optional. My Question for getagent was, "more people are using it than 12 months ago and the price is lower, why?"
+
+10h ago
 
 ---
 
@@ -105,9 +99,15 @@ bitvoin
 
 ---
 
+**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psx9ow/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
+
+2h ago
+
+---
+
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -125,6 +125,12 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
+**[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
+
+15h ago
+
+---
+
 **[Fed Injects $6.8B Liquidity Tomorrow — Is Bitcoin About to React?](https://www.reddit.com/r/Bitcoin/comments/1psi4ns/fed_injects_68b_liquidity_tomorrow_is_bitcoin/)**
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
@@ -133,17 +139,9 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 ---
 
-**[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
 
-15h ago
-
----
-
-**[Global Liquidity Bitcoin chart, zoomed out.](https://www.reddit.com/r/Bitcoin/comments/1pslojg/global_liquidity_bitcoin_chart_zoomed_out/)**
-
-Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
-
-12h ago
+4h ago
 
 ---
 
@@ -151,11 +149,17 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, SOL ADA News: Bitcoin steadies near $89,000 as gold hits record](https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise)**
+**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
 
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
 
-CoinDesk • 7h ago
+CoinDesk • 13m ago
+
+---
+
+**[Bitcoin price today: rises to $89k amid Fed cut bets, but remains rangebound](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-fed-cut-bets-but-remains-rangebound-4418479)**
+
+Investing.com • 6h ago
 
 ---
 
@@ -167,47 +171,39 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Crypto Markets Today: Gold tokens shine while BTC price rises to $89,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-today-gold-tokens-shine-as-bitcoin-rises-to-usd89-000)**
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
 
-Tether gold (XAUT) rose to an all-time high of $4,425 while gains in PAXG (PAXG) and kineses gold (KAU) lifted the market value of gold-backed tokens to $4.38 billion.
+The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
-CoinDesk • 1h ago
+The Motley Fool • 2h ago
+
+---
+
+**[S&P 500's Santa tradition offers hope to battered Bitcoin (BTC) bulls](https://www.coindesk.com/markets/2025/12/22/stock-market-s-santa-tradition-offers-hope-to-battered-bitcoin-bulls)**
+
+A time-honored Wall Street pattern could bring relief to battered BTC bulls as the year end nears.
+
+CoinDesk • 20m ago
+
+---
+
+**[Has the American Bitcoin Share Price Slump in 2025 Created an Opportunity?](https://finance.yahoo.com/news/american-bitcoin-share-price-slump-230912804.html)**
+
+If you are wondering whether American Bitcoin is a beaten down opportunity or a value trap at today’s price, you are not alone. Let’s unpack what the market might be getting wrong. After a flat 7 day return, the stock is still down about 59.8% over the last month and 72.2% year to date, a harsh reset that has clearly shifted sentiment and perceived risk. These moves have come as investors reassess speculative crypto exposed names amid shifting regulatory signals and tighter financial...
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqfxdGmgv81qG1vDJPgmlQbUNQB8cAMKRdOBc5Hn5UhT6-PT5HEXmL_M&gaa_ts=69494ded&gaa_sig=L8YScu_86BEgmHBvLRkhjlMaOhsUBKsFJOPTV20u81CXdrA9QY05aPg0tHQcJiHx18aD_87dlQDVGhNpxu0yWg%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
 Forbes • 1d ago
-
----
-
-**[BTC price finds its legs as gold rises to another record: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/12/22/bitcoin-finds-its-legs-crypto-daybook-americas)**
-
-The day ahead in crypto: Dec. 22, 2025
-
-CoinDesk • 44m ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
-
-Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
-
-The Motley Fool • 20h ago
-
----
-
-**[Bitcoin Hovers Below $90,000. Traders Bet on a 5% Rally By Christmas.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqf3ywYPRXEG7RwLd3Jioa3AaCr2yhRem8Kiutaei0bxuxdzGwf29aXr&gaa_ts=6949446d&gaa_sig=tIWkY-ZtZbIfr5dR3DZfIkW7OZPqVU9XfV1LcZQTwU385XrYzbrZpTsZ4snX1QJSy5GGS3MpVlhb_VlZPwDyHw%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[How Bitcoin Could Help You Retire a Multimillionaire](https://finance.yahoo.com/news/bitcoin-could-help-retire-multimillionaire-113500960.html)**
-
-The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -223,7 +219,7 @@ Nasdaq • 1d ago
 
 Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -279,7 +275,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 116 • ⏱️ 15:15 • 11h ago
+👁️ 17K • 👍 1K • 💬 116 • ⏱️ 15:15 • 12h ago
 
 ---
 
@@ -289,7 +285,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 112 • ⏱️ 16:18 • 14h ago
+👁️ 27K • 👍 2K • 💬 112 • ⏱️ 16:18 • 15h ago
 
 ---
 
@@ -299,7 +295,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 8K • 👍 533 • 💬 21 • ⏱️ 7:16 • 14h ago
+👁️ 8K • 👍 533 • 💬 21 • ⏱️ 7:16 • 15h ago
 
 ---
 
@@ -337,7 +333,7 @@ Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Every
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 334 • 💬 8 • ⏱️ 1:00 • 18h ago
+👁️ 8K • 👍 334 • 💬 8 • ⏱️ 1:00 • 19h ago
 
 ---
 
@@ -357,7 +353,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 240 • 💬 5 • ⏱️ 22:00 • 18h ago
+👁️ 6K • 👍 240 • 💬 5 • ⏱️ 22:00 • 19h ago
 
 ---
 
