@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T19:30:54.051088+00:00'
+updated: '2025-12-22T19:43:29.772315+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 19:30 UTC  
+**Last Updated:** December 22, 2025 at 19:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting h
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-16h ago
+17h ago
 
 ---
 
@@ -92,7 +92,7 @@ Found an interesting video on Tesla's Optimus Robot.
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-4h ago
+5h ago
 
 ---
 
@@ -182,7 +182,7 @@ Sifted • 14h ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 7h ago
+Phoronix • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 6K • 👍 153 • 💬 6 • ⏱️ 0:11 • 10h ago
+👁️ 6K • 👍 153 • 💬 6 • ⏱️ 0:11 • 11h ago
 
 ---
 

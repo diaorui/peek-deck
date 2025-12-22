@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T19:30:54.041776+00:00'
+updated: '2025-12-22T19:43:29.763025+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 19:30 UTC  
+**Last Updated:** December 22, 2025 at 19:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +1.1%  
-**30d:** +1.8%  
-**90d:** -21.8%  
-**1y:** -6.7%  
+**24h:** -0.2%  
+**7d:** +0.8%  
+**30d:** +1.5%  
+**90d:** -22.0%  
+**1y:** -6.9%  
 
 ---
 
@@ -83,7 +83,7 @@ Rank #1
 
 **[Bitcoin Price Jumps, But Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -107,7 +107,7 @@ The Motley Fool • 1d ago
 
 Even if quantum machines capable of breaking Bitcoin’s cryptography are decades away, the work required to update software, infrastructure and user behavior would be measured in years, not months.
 
-CoinDesk • 28m ago
+CoinDesk • 41m ago
 
 ---
 
@@ -247,7 +247,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 1K • 💬 422 • ⏱️ 17:34 • 18h ago
+👁️ 16K • 👍 1K • 💬 422 • ⏱️ 17:34 • 19h ago
 
 ---
 

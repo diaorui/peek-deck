@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T19:30:54.047836+00:00'
+updated: '2025-12-22T19:43:29.769014+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 19:30 UTC  
+**Last Updated:** December 22, 2025 at 19:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +0.8%  
-**30d:** +6.5%  
-**90d:** -27.9%  
-**1y:** -12.6%  
+**24h:** -0.1%  
+**7d:** +0.7%  
+**30d:** +6.4%  
+**90d:** -28.0%  
+**1y:** -12.9%  
 
 ---
 
@@ -264,7 +264,7 @@ Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the
 
 📺 NextMove Stocks
 
-👁️ 338 • 👍 17 • 💬 13 • ⏱️ 7:50 • 5h ago
+👁️ 338 • 👍 17 • 💬 13 • ⏱️ 7:50 • 6h ago
 
 ---
 

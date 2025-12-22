@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T19:30:54.033489+00:00'
+updated: '2025-12-22T19:43:29.754698+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- social
 - repositories
 - videos
-- social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 19:30 UTC  
+**Last Updated:** December 22, 2025 at 19:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 11h ago
+ABC News • 12h ago
 
 ---
 
@@ -165,7 +165,7 @@ CBS News • 4h ago
 
 The AI industry is being funded by high-quality capital, leading firms are trading at reasonable P/E ratios, and capital expenditure is growing, but is safely funded.
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 48m ago
 
 ---
 
