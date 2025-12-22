@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T08:30:58.979431+00:00'
+updated: '2025-12-22T08:56:22.100076+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 08:30 UTC  
+**Last Updated:** December 22, 2025 at 08:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
 
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 2h ago
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 3h ago
 
 ---
 
@@ -105,7 +105,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 20h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 21h ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 1h ago
 
 The rush for AI in businesses risks leaving us with a leadership vacuum that no algorithm can fill. As automation grows, critical operations demand leaders...
 
-Dallas News • 55m ago
+Dallas News • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Dallas News • 55m ago
 
 The system would be able to access video game content and alter it based on user preferences.
 
-80 Level • 11m ago
+80 Level • 37m ago
 
 ---
 
@@ -203,7 +203,7 @@ The Information • 16h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 508 • 💬 472 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 508 • 💬 472 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -519,7 +519,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 9 • 💬 2 • ⭐ 4,578 • 10d ago
+▲ 11 • 💬 2 • ⭐ 4,578 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -610,7 +610,7 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 206 • 💬 5 • ⭐ 7,559 • 24d ago
+▲ 207 • 💬 5 • ⭐ 7,559 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.6k • 🔱 619 • 2h ago
+⭐ 5.6k • 🔱 620 • 38m ago
 
 ---
 
@@ -681,7 +681,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.4k • 🔱 343 • 16d ago
+⭐ 1.4k • 🔱 344 • 16d ago
 
 ---
 
@@ -691,7 +691,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 217 • 10h ago
+⭐ 1.3k • 🔱 222 • 13m ago
 
 ---
 
@@ -711,7 +711,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 922 • 🔱 156 • 1d ago
+⭐ 938 • 🔱 159 • 1d ago
 
 ---
 
@@ -721,7 +721,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 917 • 🔱 24 • 14d ago
+⭐ 917 • 🔱 25 • 14d ago
 
 ---
 
@@ -731,7 +731,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 886 • 🔱 88 • 1h ago
+⭐ 889 • 🔱 89 • 1h ago
 
 ---
 
@@ -741,7 +741,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 817 • 🔱 122 • 4d ago
+⭐ 818 • 🔱 122 • 4d ago
 
 ---
 

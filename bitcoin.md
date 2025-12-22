@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T08:30:58.987860+00:00'
+updated: '2025-12-22T08:56:22.108436+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 08:30 UTC  
+**Last Updated:** December 22, 2025 at 08:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,790.97
+### $89,246.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +2.5%  
-**30d:** +3.3%  
-**90d:** -20.7%  
-**1y:** -5.3%  
+**24h:** +0.5%  
+**7d:** +2.1%  
+**30d:** +2.9%  
+**90d:** -21.0%  
+**1y:** -5.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-7h ago
+8h ago
 
 ---
 
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ Doesn’t look so heavily diverged from M2 now does it? In fact, you can see per
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-11h ago
+12h ago
 
 ---
 
@@ -137,7 +137,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-18h ago
+19h ago
 
 ---
 
@@ -155,7 +155,7 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Motley Fool • 9h ago
 
 Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 50m ago
 
 Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -203,13 +203,13 @@ Yahoo Finance • 14h ago
 
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Nasdaq • 20h ago
+Nasdaq • 21h ago
 
 ---
 
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Show HN: 13Radar.com – A real-time visualizer for SEC 13F filings](https://news.ycombinator.com/item?id=46352201)**
 
-⬆️ 2 • 💬 0 • 17m ago
+⬆️ 2 • 💬 0 • 43m ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[A Global Forum Built for Real, Unfiltered Conversations](https://news.ycombinator.com/item?id=46352076)**
 
-⬆️ 1 • 💬 0 • 54m ago
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 

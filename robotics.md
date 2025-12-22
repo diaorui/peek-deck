@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T08:30:58.997132+00:00'
+updated: '2025-12-22T08:56:22.117603+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 08:30 UTC  
+**Last Updated:** December 22, 2025 at 08:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-17h ago
+18h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 7h ago
 
 ---
 
@@ -68,7 +68,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-10h ago
+11h ago
 
 ---
 
@@ -224,7 +224,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 7K • 👍 64 • 💬 2 • ⏱️ 0:19 • 15h ago
+👁️ 7K • 👍 64 • 💬 2 • ⏱️ 0:19 • 16h ago
 
 ---
 

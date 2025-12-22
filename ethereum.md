@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T08:30:58.993865+00:00'
+updated: '2025-12-22T08:56:22.114390+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 08:30 UTC  
+**Last Updated:** December 22, 2025 at 08:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +2.9%  
-**30d:** +8.8%  
-**90d:** -26.4%  
-**1y:** -11.0%  
+**24h:** +0.6%  
+**7d:** +2.2%  
+**30d:** +8.1%  
+**90d:** -26.9%  
+**1y:** -11.6%  
 
 ---
 
@@ -258,7 +258,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 Stock Moe
 
-👁️ 11K • 👍 803 • 💬 18 • ⏱️ 11:18 • 10h ago
+👁️ 11K • 👍 803 • 💬 18 • ⏱️ 11:18 • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 8K • 👍 356 • 💬 73 • ⏱️ 16:57 • 11h ago
+👁️ 8K • 👍 356 • 💬 73 • ⏱️ 16:57 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 5K • 👍 816 • 2h ago
+👁️ 5K • 👍 816 • 3h ago
 
 ---
 
