@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T19:54:35.505277+00:00'
+updated: '2025-12-22T20:21:36.042402+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 19:54 UTC  
+**Last Updated:** December 22, 2025 at 20:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 8h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. C
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 2h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 5h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Intel engineers as part of the OPEA Project today released the Generative AI Exa
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂
 
-11m ago
+38m ago
 
 ---
 
@@ -149,7 +149,7 @@ NBC News • 1h ago
 
 Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-CBS News • 4h ago
+CBS News • 5h ago
 
 ---
 
@@ -165,13 +165,13 @@ CNBC • 5h ago
 
 The AI industry is being funded by high-quality capital, leading firms are trading at reasonable P/E ratios, and capital expenditure is growing, but is safely funded.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Trump wants states to back down on AI laws. Will Georgia follow along?](https://www.ajc.com/politics/2025/12/trump-wants-states-to-back-down-on-ai-laws-will-georgia-follow-along/)**
 
-AJC.com • 1h ago
+AJC.com • 2h ago
 
 ---
 
@@ -179,13 +179,13 @@ AJC.com • 1h ago
 
 The emerging technology is warping the record industry in all sorts of strange—and foreboding—ways.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
 **[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -247,7 +247,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 131 • 💬 153 • 12h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 131 • 💬 153 • 13h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -294,7 +294,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 3K • 💬 12 • ⏱️ 44:39 • 2h ago
+👁️ 3K • 💬 12 • ⏱️ 44:39 • 3h ago
 
 ---
 
@@ -314,7 +314,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 11K • 👍 287 • 💬 22 • ⏱️ 25:57 • 23h ago
+👁️ 11K • 👍 287 • 💬 22 • ⏱️ 25:57 • 1d ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 14h ago
+⭐ 18.7k • 🔱 3.0k • 15h ago
 
 ---
 
@@ -685,7 +685,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 280 • 14m ago
+⭐ 1.8k • 🔱 280 • 41m ago
 
 ---
 
@@ -745,7 +745,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 867 • 🔱 80 • 3h ago
+⭐ 867 • 🔱 80 • 4h ago
 
 ---
 

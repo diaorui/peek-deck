@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T19:54:35.519781+00:00'
+updated: '2025-12-22T20:21:36.056796+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 19:54 UTC  
+**Last Updated:** December 22, 2025 at 20:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +0.6%  
-**30d:** +6.3%  
-**90d:** -28.0%  
-**1y:** -13.0%  
+**24h:** -0.1%  
+**7d:** +0.2%  
+**30d:** +5.9%  
+**90d:** -28.3%  
+**1y:** -13.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 I remember learning about smart contracts and feeling overwhelmed at first. After actually using a few apps and doing swaps it started to click. Did trying things in practice help you understand Ethereum better?
 
-17m ago
+44m ago
 
 ---
 
@@ -118,7 +118,7 @@ Edit: The "deferred ordering" array does not need deferred ordering. Nodes can k
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 1d ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 3h ago
 
 BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 9h ago
 
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
-ZyCrypto • 1d ago
+ZyCrypto • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 163 • 💬 26 • ⏱️ 17:34 • 3h ago
+👁️ 2K • 👍 163 • 💬 26 • ⏱️ 17:34 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 755 • 👍 34 • 💬 14 • ⏱️ 7:32 • 6h ago
+👁️ 755 • 👍 34 • 💬 14 • ⏱️ 7:32 • 7h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 9 • ⏱️ 6:15 • 15h ago
+👁️ 3K • 👍 175 • 💬 9 • ⏱️ 6:15 • 16h ago
 
 ---
 
@@ -294,7 +294,7 @@ Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 101 • 💬 27 • ⏱️ 31:48 • 6h ago
+👁️ 1K • 👍 101 • 💬 27 • ⏱️ 31:48 • 7h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 2 • ⏱️ 4:52 • 6h ago
+👁️ 2K • 👍 127 • 💬 2 • ⏱️ 4:52 • 7h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 312 • 👍 16 • 💬 3 • ⏱️ 4:38 • 9h ago
+👁️ 312 • 👍 16 • 💬 3 • ⏱️ 4:38 • 10h ago
 
 ---
 
@@ -324,7 +324,7 @@ I am expecting a Bitcoin bounce, but can it save the Crypto bull run? This video
 
 📺 VirtualBacon
 
-👁️ 2K • 👍 73 • 2h ago
+👁️ 2K • 👍 73 • 3h ago
 
 ---
 
