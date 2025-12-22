@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T11:49:46.751258+00:00'
+updated: '2025-12-22T12:00:39.141823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 11:49 UTC  
+**Last Updated:** December 22, 2025 at 12:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-57m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-44m ago
+55m ago
 
 ---
 
@@ -76,7 +76,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 Just came across this Medical Robotics Market report from Roots Analysis — major growth ahead for surgical tech! According to the summary, the global medical robotics market is expected to grow from about $10.1B in 2024 to ~$31.3B by 2035, with a ~10.8% CAGR. Surgical robots currently hold the largest share, with strong adoption in orthopedic and minimally invasive procedures, while rehabilitation robots and smart exoskeletons are gaining traction too. North America leads the market, but Asia-Pacific is the fastest-growing region. If you’re into surgical innovation and future tech trends, this forecast is worth a look.
 
-25m ago
+36m ago
 
 ---
 
@@ -134,7 +134,7 @@ Interesting Engineering • 1d ago
 
 Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
 
-Pittsburgh Post-Gazette • 2h ago
+Pittsburgh Post-Gazette • 3h ago
 
 ---
 
@@ -202,7 +202,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 33K • 👍 691 • 💬 76 • ⏱️ 2:08:46 • 2d ago
+👁️ 34K • 👍 700 • 💬 76 • ⏱️ 2:08:46 • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 17K • 👍 418 • 💬 87 • ⏱️ 5:25 • 22h ago
+👁️ 18K • 👍 426 • 💬 91 • ⏱️ 5:25 • 22h ago
 
 ---
 
@@ -222,7 +222,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 11K • 👍 84 • 💬 4 • ⏱️ 0:19 • 19h ago
+👁️ 18K • 👍 129 • 💬 4 • ⏱️ 0:19 • 19h ago
 
 ---
 
@@ -232,7 +232,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 116K • 👍 6K • 💬 486 • ⏱️ 13:43 • 3d ago
+👁️ 117K • 👍 6K • 💬 490 • ⏱️ 13:43 • 3d ago
 
 ---
 
@@ -242,27 +242,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 434K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
-
----
-
-**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
-
-This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
-
-📺 NVIDIA Developer
-
-👁️ 2K • 👍 79 • 💬 1 • ⏱️ 55:42 • 1d ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 54K • 👍 667 • 💬 172 • ⏱️ 3:55 • 3d ago
+👁️ 441K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
 
 ---
 
@@ -272,7 +252,27 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 601K • 👍 25K • 💬 439 • ⏱️ 21:05 • 12h ago
+👁️ 685K • 👍 28K • 💬 479 • ⏱️ 21:05 • 12h ago
+
+---
+
+**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
+
+This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
+
+📺 NVIDIA Developer
+
+👁️ 2K • 👍 81 • 💬 1 • ⏱️ 55:42 • 1d ago
+
+---
+
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+
+📺 South China Morning Post
+
+👁️ 55K • 👍 677 • 💬 174 • ⏱️ 3:55 • 3d ago
 
 ---
 
@@ -286,13 +286,13 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 ---
 
-**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
+**[The PRINCEPS Build that actually works in War Robots](https://www.youtube.com/watch?v=ZEPHCSIHFrM)**
 
-jumpersjump #hardclipped.
+War Robots Titan Gameplay: New PRINCEPS with Void and Chasm #warrobots #warrobotsgameplay #wr My Best-Of-War ...
 
-📺 Sharp Cut
+📺 Manni-Gaming
 
-👁️ 1.1M • 👍 17K • 💬 341 • ⏱️ 0:29 • 12h ago
+👁️ 7K • 👍 385 • 💬 66 • ⏱️ 10:24 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T11:49:46.748026+00:00'
+updated: '2025-12-22T12:00:39.138429+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 11:49 UTC  
+**Last Updated:** December 22, 2025 at 12:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,041.19
+### $3,053.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +3.0%  
-**30d:** +8.9%  
-**90d:** -26.3%  
-**1y:** -10.9%  
+**24h:** +3.2%  
+**7d:** +2.8%  
+**30d:** +8.7%  
+**90d:** -26.4%  
+**1y:** -11.0%  
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1d ago
 
 Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 3h ago
 
 US Clarity Act delays cause $952 million in crypto outflows, with regulatory fears hitting Ethereum hardest.
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView — Track All Markets • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -224,7 +224,7 @@ ts2.tech • 2d ago
 
 Tom Lee, chairman of BitMine and managing partner at Fundstrat, has been a vocal optimist when it comes to the cryptocurrency market, especially for Bitcoin
 
-Bitcoinist.com • 22h ago
+Bitcoinist.com • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 612 • 💬 60 • ⏱️ 15:49 • 20h ago
+👁️ 17K • 👍 634 • 💬 63 • ⏱️ 15:49 • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 12K • 👍 651 • 💬 437 • ⏱️ 11:34 • 22h ago
+👁️ 12K • 👍 664 • 💬 450 • ⏱️ 11:34 • 22h ago
 
 ---
 
@@ -258,17 +258,17 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 Stock Moe
 
-👁️ 11K • 👍 819 • 💬 18 • ⏱️ 11:18 • 14h ago
+👁️ 12K • 👍 846 • 💬 18 • ⏱️ 11:18 • 14h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 21st of December](https://www.youtube.com/watch?v=2_OtXgqgS7Q)**
+**[CRITICAL ETHEREUM UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Iyi5qnSnU2Q)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 C-Zar Gets Crypto 
+📺 Cilinix Crypto
 
-👁️ 490 • 👍 37 • 💬 8 • ⏱️ 9:36 • 13h ago
+👁️ 108 • 👍 13 • 💬 2 • ⏱️ 4:38 • 1h ago
 
 ---
 
@@ -278,27 +278,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 131 • 💬 7 • ⏱️ 6:15 • 7h ago
+👁️ 2K • 👍 161 • 💬 9 • ⏱️ 6:15 • 7h ago
 
 ---
 
-**[BITCOIN WILL MOVE SOON (Don&#39;t Miss This)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=pd5wdA-CqGA)**
+**[ETH Ethereum Price Prediction: 21st of December](https://www.youtube.com/watch?v=2_OtXgqgS7Q)**
 
-BITCOIN WILL MOVE SOON (Don't Miss This)!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* https://bit.ly/PIONEX_ ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Crypto World
+📺 C-Zar Gets Crypto 
 
-👁️ 9K • 👍 375 • 💬 81 • ⏱️ 16:57 • 15h ago
+👁️ 521 • 👍 39 • 💬 10 • ⏱️ 9:36 • 13h ago
 
 ---
 
-**[Wall Street&#39;s Biggest Bitcoin Bull Is lying to You](https://www.youtube.com/watch?v=iJIcoKxtrGY)**
+**[The BMNR Collapse Explained: Tom Lee’s ETH Bet vs Reality](https://www.youtube.com/watch?v=lz3zPqKVqbQ)**
 
-Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethereum bet so big it can't be ignored. While he's publicly ...
+BMNR Stock Collapsed 80% — Was Tom Lee Wrong or Is This a Setup? | ETH Treasury Risk Breakdown BMNR (BitMine ...
 
-📺 Ryan’s Money Lab
+📺 Darren Steves
 
-👁️ 7K • 👍 298 • 💬 42 • ⏱️ 8:06 • 20h ago
+👁️ 2K • 👍 112 • 💬 22 • ⏱️ 11:28 • 17h ago
 
 ---
 
@@ -308,17 +308,17 @@ In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto T
 
 📺 Milk Road
 
-👁️ 3K • 👍 221 • 💬 116 • ⏱️ 11:26 • 1d ago
+👁️ 3K • 👍 222 • 💬 116 • ⏱️ 11:26 • 1d ago
 
 ---
 
-**[Tom Lee Warns HUGE BMNR &amp; ETH CRASH  in 2026](https://www.youtube.com/watch?v=WxO07sZvBFY)**
+**[Wall Street&#39;s Biggest Bitcoin Bull Is lying to You](https://www.youtube.com/watch?v=iJIcoKxtrGY)**
 
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethereum bet so big it can't be ignored. While he's publicly ...
 
-📺 Tevis
+📺 Ryan’s Money Lab
 
-👁️ 22K • 👍 1K • 💬 209 • ⏱️ 35:41 • 1d ago
+👁️ 7K • 👍 307 • 💬 42 • ⏱️ 8:06 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 560 • 💬 130 • ⏱️ 11:01 • 6h ago
+👁️ 3K • 👍 637 • 💬 145 • ⏱️ 11:01 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T11:49:46.733325+00:00'
+updated: '2025-12-22T12:00:39.123146+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 11:49 UTC  
+**Last Updated:** December 22, 2025 at 12:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 48m ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 58m ago
 
 ---
 
@@ -139,7 +139,7 @@ CNN • 1d ago
 
 Oracle stock peaked in September before suffering a continued decline in the back half of the year.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Yahoo Finance • 1h ago
 
 When AI detection software fails, students and teachers have to negotiate difficult conversations about cheating with artificial intelligence.
 
-Detroit Free Press • 44m ago
+Detroit Free Press • 55m ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 1h ago
 
 Is AI a utopian promise or an existential threat? These 11 must-read books — featuring Annie Bot, Empire of AI and UnWorld — navigate the turbulent landscape of deepfakes, algorithmic bias, and the quest for Artificial General Intelligence.
 
-Los Angeles Times • 49m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ ABC News • 4h ago
 
 **[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 229 • 💬 140 • 18h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 229 • 💬 140 • 19h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -281,13 +281,13 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 ## YouTube Videos: "ai"
 
-**[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
+**[5 AI&#39;s WORK TOGETHER to Make Subway Surfers From Scratch](https://www.youtube.com/watch?v=hopkhs_bsWA)**
 
-Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
+I forced 5 AIs - ChatGPT, Grok, Co-Pilot, Gemini, Claude - to WORK TOGETHER and make Subway Surfers From Scratch in ONE ...
 
-📺 Codie Sanchez
+📺 tef
 
-👁️ 76K • 👍 3K • 💬 150 • ⏱️ 13:25 • 17h ago
+👁️ 55K • 👍 4K • 💬 415 • ⏱️ 13:09 • 19h ago
 
 ---
 
@@ -297,17 +297,17 @@ Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 37K • 👍 710 • 💬 21 • ⏱️ 0:56 • 12h ago
+👁️ 47K • 👍 822 • 💬 22 • ⏱️ 0:56 • 12h ago
 
 ---
 
-**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
+**[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
 
-AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
+Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
 
-📺 The Diary Of A CEO
+📺 Codie Sanchez
 
-👁️ 55K • 👍 2K • 💬 103 • ⏱️ 1:29 • 17h ago
+👁️ 82K • 👍 3K • 💬 158 • ⏱️ 13:25 • 18h ago
 
 ---
 
@@ -317,7 +317,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 784K • 👍 5K • 💬 183 • ⏱️ 8:24 • 1d ago
+👁️ 805K • 👍 5K • 💬 187 • ⏱️ 8:24 • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 3K • 👍 173 • 💬 10 • ⏱️ 13:03 • 14h ago
+👁️ 4K • 👍 177 • 💬 10 • ⏱️ 13:03 • 14h ago
 
 ---
 
@@ -337,7 +337,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 206K • 👍 11K • 💬 2K • ⏱️ 19:40 • 1d ago
+👁️ 210K • 👍 11K • 💬 2K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -347,7 +347,17 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 58K • 👍 3K • 💬 202 • ⏱️ 37:38 • 1d ago
+👁️ 59K • 👍 3K • 💬 202 • ⏱️ 37:38 • 1d ago
+
+---
+
+**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
+
+Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
+
+📺 Fox News
+
+👁️ 19K • 👍 287 • 💬 198 • ⏱️ 4:26 • 9h ago
 
 ---
 
@@ -357,27 +367,17 @@ Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/tw
 
 📺 NetworkChuck
 
-👁️ 153K • 👍 7K • 💬 910 • ⏱️ 33:14 • 1d ago
+👁️ 157K • 👍 7K • 💬 931 • ⏱️ 33:14 • 1d ago
 
 ---
 
-**[Real vs AI Videos!](https://www.youtube.com/watch?v=BdBGTLJekWE)**
+**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
 
-Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf.io/PrestonReacts For 10% off your purchase at ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 PrestonReacts
+📺 Julian Goldie SEO
 
-👁️ 121K • 👍 2K • 💬 349 • ⏱️ 15:32 • 1d ago
-
----
-
-**[Two AIs talking to each other: ChatGPT reacts to AI fish](https://www.youtube.com/watch?v=DlL_ghwnDKo)**
-
-Didn't expect this... I got curious and wanted to see how @chatgpt would react to my talking Al-powered fish that I built. Yeah so ...
-
-📺 gptars
-
-👁️ 2.7M • 👍 106K • 💬 2K • ⏱️ 1:01 • 2d ago
+👁️ 6K • 👍 129 • 💬 6 • ⏱️ 8:42 • 1d ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 227 • 29m ago
+⭐ 1.4k • 🔱 227 • 40m ago
 
 ---
 
