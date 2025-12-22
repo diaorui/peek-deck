@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T23:43:28.602811+00:00'
+updated: '2025-12-22T23:54:43.270604+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 23:43 UTC  
+**Last Updated:** December 22, 2025 at 23:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ Game called "Humanize Robotics". I’m building a community of people like me - 
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 6h ago
 
 ---
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 632 • 7h ago
+⭐ 5.7k • 🔱 632 • 8h ago
 
 ---
 
@@ -677,7 +677,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 294 • 27m ago
+⭐ 2.0k • 🔱 294 • 38m ago
 
 ---
 
@@ -707,7 +707,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 172 • 10h ago
+⭐ 1.0k • 🔱 172 • 11h ago
 
 ---
 
@@ -727,7 +727,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 908 • 🔱 89 • 12h ago
+⭐ 908 • 🔱 89 • 13h ago
 
 ---
 

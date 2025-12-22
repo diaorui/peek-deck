@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T23:43:28.620640+00:00'
+updated: '2025-12-22T23:54:43.286296+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 23:43 UTC  
+**Last Updated:** December 22, 2025 at 23:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Try it live at https://rerun.io/viewer.
 Python: pip install rerun-sdk
 Rust: cargo add rerun and cargo i...
 
-🔗 [GitHub](https://github.com/rerun-io/rerun/releases/tag/0.28.0) • 23m ago
+🔗 [GitHub](https://github.com/rerun-io/rerun/releases/tag/0.28.0) • 35m ago
 
 ---
 
@@ -186,7 +186,7 @@ Phoronix • 12h ago
 
 As peak holiday demand stretches supply chains to their limits, global retailers like Amazon, Walmart and Target are leaning heavily on artificial
 
-PYMNTS.com • 34m ago
+PYMNTS.com • 45m ago
 
 ---
 

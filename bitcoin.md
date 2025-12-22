@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T23:43:28.611246+00:00'
+updated: '2025-12-22T23:54:43.278177+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 23:43 UTC  
+**Last Updated:** December 22, 2025 at 23:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-3h ago
+4h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 1h ago
 
 Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 2h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 49m ago
+WCVB • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ WCVB • 49m ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 3h ago
+The Verge • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Motley Fool • 1d ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 6h ago
+Al Jazeera • 7h ago
 
 ---
 
