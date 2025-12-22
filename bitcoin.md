@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T07:22:25.457429+00:00'
+updated: '2025-12-22T07:43:09.955558+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 07:22 UTC  
+**Last Updated:** December 22, 2025 at 07:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +1.4%  
-**30d:** +2.2%  
-**90d:** -21.5%  
-**1y:** -6.3%  
+**24h:** +0.6%  
+**7d:** +1.8%  
+**30d:** +2.6%  
+**90d:** -21.2%  
+**1y:** -6.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1774.69B
+**Market Cap:** $1777.76B
 Rank #1
 
-**Circulating Supply:** 19,965,393 BTC
+**Circulating Supply:** 19,965,421 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.4%
 
 **All-Time Low:** $67.81
-+130954.4%
++131216.9%
 
 ---
 
@@ -101,7 +101,13 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 **[All of us…](https://www.reddit.com/r/Bitcoin/comments/1psd8qv/all_of_us/)**
 
-12h ago
+13h ago
+
+---
+
+**[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
+
+6h ago
 
 ---
 
@@ -109,13 +115,7 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-6h ago
-
----
-
-**[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
-
-6h ago
+7h ago
 
 ---
 
@@ -137,7 +137,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 I've been a gold and silver investor all my life. My grandpa lived through the Great Depression and didn't trust stocks and banks. He told me to store wealth in gold and silver. Even as other family members and financial advisors told me "stocks only". And hey, there's nothing wrong with stocks but I did really well with gold and silver, especially this year. I watched Bitcoin for many years and heard the same dismissive comments about it so I ignored it, didn't understand it, wasn't worth the risk. I finally started paying attention because our President was talking about it and BlackRock launched an ETF, so it felt more legitimate to me, it was here to stay, not beanie babies. Also the young people at work seem to love it. I never hear them talk about silver, even though it doubled in price this year. I noticed BTC was down a few months ago and decided to buy a little on the dip. A small purchase became several more. Suddenly it was making sense, I own this asset forever, digitally. Digital Gold. All of a sudden it reminded me of Facebook in the early days, something small for a few people, then bigger and now everyone and their grandma is on it. Google, Apple, Microsoft all had massive volatility, and were declared "dead" many times before becoming the massive companies they are today. With gold, silver, and stocks at all time highs, and bitcoin being down it felt like the perfect time to rotate assets. I've been told never tell your business online, and may delete this later, but I have no one else to talk to about this so thought I'd share. Anyway, glad to be here and see where this goes.
 
-17h ago
+18h ago
 
 ---
 
@@ -151,41 +151,41 @@ I've been a gold and silver investor all my life. My grandpa lived through the G
 
 ## Google News: "bitcoin"
 
-**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
-
-One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
-
-The Motley Fool • 7h ago
-
----
-
-**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
-
-Forbes • 18h ago
-
----
-
 **[BTC, ETH, SOL ADA News: Bitcoin steadies near $89,000 as gold hits record](https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise)**
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Will Hit $200,000 In 2026 Thanks To This New Federal Reserve Program, Arthur Hayes Says](https://finance.yahoo.com/news/bitcoin-hit-200-000-2026-043106493.html)**
+**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
 
-Bitcoin (CRYPTO: BTC) is consolidating below $90,000, but BitMEX co-founder Arthur Hayes says the pause masks a powerful liquidity-driven move that could send the cryptocurrency to $200,000 in 2026. What Happened: In his latest essay, "Love Language," ...
+One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+**[Before You Sell Bitcoin For Gold, Hear This Warning](https://www.tradingview.com/news/newsbtc:f9a10f44d094b:0-before-you-sell-bitcoin-for-gold-hear-this-warning/)**
 
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+Bitcoin supporters are warning holders not to rush out of BTC to buy gold even as the metal climbs above $4,000 per ounce. According to market educator Matthew Kratter, Bitcoin’s features — like ease of transfer, clear supply rules, and divisibility — make it a stronger long-term store of value tha…
 
-Nasdaq • 19h ago
+TradingView — Track All Markets • 1h ago
+
+---
+
+**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
+
+The Block • 2d ago
+
+---
+
+**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
+
+Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -197,21 +197,21 @@ CoinDesk • 1d ago
 
 ---
 
-**[Analysts Look Beyond Bitcoin’s Price As Tom Lee Flags a Structural Shift](https://finance.yahoo.com/news/analysts-look-beyond-bitcoin-price-173902882.html)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
 
-Analysts shift focus from Bitcoin’s price to structural demand signals as Tom Lee questions the four-year cycle.
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
-Yahoo Finance • 13h ago
-
----
-
-**[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
-
-The Block • 2d ago
+Nasdaq • 19h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqcnSiVL4RfMYVQbn_PkHxdANvJU4a4I37RndPR94ix77M5RiWrNfUdD&gaa_ts=6948ee7c&gaa_sig=sbnTeH9-Z-FPcpV7BGQ4ivvmKLGHh221r6yHxZQrOLbdZmfdUFk1anfpB-1-FEBfxEbwtzWfl6lrymAmxtGyqw%3D%3D)**
+**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
+
+Forbes • 18h ago
+
+---
+
+**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqftMhlv1jRl5h_cBJ86pMe0fW8PyZlZHGQWJVATtRVwzAJIdrm3mKMa&gaa_ts=6948f9f8&gaa_sig=ohJGsKFP3JqRb58IxZmQBk0Uy1HWYpDCGZ1fMguv1xJ5n7hWiF1OcNUKjJdha1LjXWYUOG7Cq5gXmrgMdTtB8w%3D%3D)**
 
 Barron's • 2d ago
 
@@ -279,6 +279,12 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
+**[A Global Forum Built for Real, Unfiltered Conversations](https://news.ycombinator.com/item?id=46352076)**
+
+⬆️ 1 • 💬 0 • 6m ago
+
+---
+
 **[Aaron Van Wirdum predicts the future of crypto](https://news.ycombinator.com/item?id=46310765)**
 
 Explore Aaron van Wirdum’s view on Bitcoin’s origins, why it set the standard, and how altcoins test its limits in shaping the future of crypto.
@@ -303,17 +309,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 738 • 💬 77 • ⏱️ 15:15 • 5h ago
-
----
-
-**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
-
-Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
-
-📺 The Wolf Of All Streets
-
-👁️ 17K • 👍 826 • 💬 248 • ⏱️ 55:13 • 17h ago
+👁️ 12K • 👍 928 • 💬 66 • ⏱️ 15:15 • 6h ago
 
 ---
 
@@ -323,7 +319,17 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 70 • ⏱️ 16:18 • 9h ago
+👁️ 21K • 👍 1K • 💬 75 • ⏱️ 16:18 • 9h ago
+
+---
+
+**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
+
+Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
+
+📺 The Wolf Of All Streets
+
+👁️ 18K • 👍 851 • 💬 248 • ⏱️ 55:13 • 17h ago
 
 ---
 
@@ -333,17 +339,7 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 167 • ⏱️ 14:31 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=QjxuQWGEIJ8)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 ITS Academy 
-
-👁️ 5K • 👍 1K • 5h ago
+👁️ 32K • 👍 2K • 💬 168 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -357,13 +353,13 @@ My Honest Thoughts on What Comes Next For Bitcoin and Crypto in 2026 Altcoin Dai
 
 ---
 
-**[Tom Lee: Bitcoin to $200K by January?! 🚀 (Why the 4-Year Cycle is DEAD)](https://www.youtube.com/watch?v=o1P3nzqj6Hg)**
+**[Bitcoin Veteran Predicts a Shocking Price Target in 45 Days](https://www.youtube.com/watch?v=87Yppxfr1t8)**
 
-Tom Lee Says Bitcoin Will Hit $200K in 45 Days – Here's Why That Changes Everything This isn't just speculation. Legendary ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 CryptosRus Extra
+📺 CryptosRUs
 
-👁️ 16K • 👍 692 • 💬 369 • ⏱️ 10:58 • 2d ago
+👁️ 47K • 👍 2K • 💬 217 • ⏱️ 44:14 • 2d ago
 
 ---
 
@@ -373,7 +369,7 @@ Let's talk about the current CPI (inflation) report and how it may affect risk a
 
 📺 Benjamin Cowen
 
-👁️ 68K • 👍 4K • 💬 223 • ⏱️ 29:15 • 1d ago
+👁️ 69K • 👍 4K • 💬 223 • ⏱️ 29:15 • 1d ago
 
 ---
 
@@ -381,17 +377,27 @@ Let's talk about the current CPI (inflation) report and how it may affect risk a
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 305 • 💬 7 • ⏱️ 1:00 • 12h ago
+👁️ 7K • 👍 317 • 💬 8 • ⏱️ 1:00 • 13h ago
 
 ---
 
-**[Bitcoin: WARNING - We’ve Seen This Before!](https://www.youtube.com/watch?v=tWpUrs0mzxk)**
+**[Bitcoin, AI &amp; the Next Macro Shift Investors Aren’t Ready For](https://www.youtube.com/watch?v=OJPZS2yaHvs)**
 
-Important Context, My Bear Scenario, Topic Intro 0:00-2:53 Bitunix Exchange 2:53-3:46 Analysis 3:46-12:25 Bitunix Exchange ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience and the writer behind the ...
 
-📺 Wolves of Crypto
+📺 Anthony Pompliano
 
-👁️ 3K • 👍 192 • 💬 53 • ⏱️ 12:58 • 14h ago
+👁️ 58K • 👍 3K • 💬 101 • ⏱️ 46:11 • 1d ago
+
+---
+
+**[&quot;My Latest 2026 BTC Prediction Will Come As a Huge Surprise&quot; - Michael Saylor](https://www.youtube.com/watch?v=iB4F2IAcSvA)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 214 • 💬 5 • ⏱️ 22:00 • 13h ago
 
 ---
 

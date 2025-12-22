@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T07:22:25.466698+00:00'
+updated: '2025-12-22T07:43:09.964949+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 07:22 UTC  
+**Last Updated:** December 22, 2025 at 07:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 6h ago
 
 ---
 
@@ -68,7 +68,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-9h ago
+10h ago
 
 ---
 
@@ -88,6 +88,14 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 ---
 
+**[Modular mini-VLA model](https://www.reddit.com/r/robotics/comments/1psmugb/modular_minivla_model/)**
+
+Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
+
+6h ago
+
+---
+
 **[can someone explain how sunday's memo's elbow joint works?](https://www.reddit.com/r/robotics/comments/1psoszq/can_someone_explain_how_sundays_memos_elbow_joint/)**
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
@@ -101,14 +109,6 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
 12h ago
-
----
-
-**[Modular mini-VLA model](https://www.reddit.com/r/robotics/comments/1psmugb/modular_minivla_model/)**
-
-Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
-
-5h ago
 
 ---
 
@@ -202,7 +202,17 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 32K • 👍 681 • 💬 73 • ⏱️ 2:08:46 • 2d ago
+👁️ 32K • 👍 685 • 💬 76 • ⏱️ 2:08:46 • 2d ago
+
+---
+
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 17K • 👍 403 • 💬 86 • ⏱️ 5:25 • 18h ago
 
 ---
 
@@ -212,7 +222,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 3K • 👍 46 • 💬 2 • ⏱️ 0:19 • 14h ago
+👁️ 7K • 👍 64 • 💬 2 • ⏱️ 0:19 • 14h ago
 
 ---
 
@@ -222,7 +232,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 809K • 👍 14K • 💬 273 • ⏱️ 0:29 • 8h ago
+👁️ 997K • 👍 14K • 💬 289 • ⏱️ 0:29 • 8h ago
 
 ---
 
@@ -232,7 +242,7 @@ Chinese robotics leader Unitree is capping off a blockbuster year the same way i
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 29 • 💬 5 • ⏱️ 7:34 • 23h ago
+👁️ 2K • 👍 30 • 💬 5 • ⏱️ 7:34 • 23h ago
 
 ---
 
@@ -252,7 +262,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 112K • 👍 6K • 💬 480 • ⏱️ 13:43 • 3d ago
+👁️ 114K • 👍 6K • 💬 484 • ⏱️ 13:43 • 3d ago
 
 ---
 
@@ -262,7 +272,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 417K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
+👁️ 426K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
 
 ---
 
@@ -272,17 +282,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 52K • 👍 634 • 💬 168 • ⏱️ 3:55 • 2d ago
-
----
-
-**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
-
-MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
-
-📺 Tyler & Snowi
-
-👁️ 392K • 👍 19K • 💬 319 • ⏱️ 21:05 • 7h ago
+👁️ 53K • 👍 647 • 💬 170 • ⏱️ 3:55 • 2d ago
 
 ---
 

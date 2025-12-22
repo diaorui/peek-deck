@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T07:22:25.448928+00:00'
+updated: '2025-12-22T07:43:09.947212+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 07:22 UTC  
+**Last Updated:** December 22, 2025 at 07:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-1h ago
+2h ago
 
 ---
 
@@ -77,19 +77,19 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 ---
 
-**[Samsung To Unveil AI Vision Built With Google Gemini at CES 2026](https://www.reddit.com/r/artificial/comments/1psrod2/samsung_to_unveil_ai_vision_built_with_google/)**
-
-With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
-
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 1h ago
-
----
-
 **[Nvidia wants to create universal AI agents for all worlds with NitroGen](https://www.reddit.com/r/artificial/comments/1psrkcs/nvidia_wants_to_create_universal_ai_agents_for/)**
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 1h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 2h ago
+
+---
+
+**[Samsung To Unveil AI Vision Built With Google Gemini at CES 2026](https://www.reddit.com/r/artificial/comments/1psrod2/samsung_to_unveil_ai_vision_built_with_google/)**
+
+With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
+
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 2h ago
 
 ---
 
@@ -105,7 +105,7 @@ I have observed that many people are talking about how Google is the only compan
 
 Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
 
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 19h ago
+🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Tips for interpreting frontier model releases and their SOTA benchmark scores.
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeFJHeo1aACy4gJtjk4JevSyVFk-4aaGibU_KzZxjc8f53X6CYqx3Tk&gaa_ts=6948ee7a&gaa_sig=J530WX_A0xFKnPfsrFLwlROZzwYbmzRQz611CiDuAAAMLG6KHHc-Z6phHoppdKONjKEYF4WB_c9po4KQLQ-8ug%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqcQtrVIOX8yrNId0rYTGpO9rByD6VWhc-HCJ-_Y4u7A2wxO0cmIOOVI&gaa_ts=6948f9f6&gaa_sig=O-71mBuB1OoaOoRxSHf6ocJBwT6wbVNvC5L2ElOYp-8vvCl8VSyDfWlu1Krg2WCLVhT1vhHQK4FwGsTPAtzwhQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -135,54 +135,6 @@ CNBC • 23h ago
 
 ---
 
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
-
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 18h ago
-
----
-
-**[What publishers are wishing for this holiday season: End AI scraping and determine AI-powered audience value](https://digiday.com/media/what-publishers-are-wishing-for-this-holiday-season-end-ai-scraping-and-determine-ai-powered-audience-value/)**
-
-Publishers want a fair, structured, regulated AI environment for 2026 and for publishers to come together to establish new metrics.
-
-Digiday • 2h ago
-
----
-
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://www.yahoo.com/news/articles/boys-her-school-shared-ai-050314208.html)**
-
-Nude images of a 13-year-old girl and her friends, generated by artificial intelligence, were circulating on social media and had become the talk of a Louisiana middle school.  When the 13-year-old girl stepped onto the Lafourche Parish school bus at the end of the day, a classmate was showing one of them to a friend.  The 13-year-old girl’s attorneys allege he avoided school discipline altogether.
-
-Yahoo • 2h ago
-
----
-
-**[AI Stocks Could Stay 'The Place to Be' Next Year. Here Are Two Banks' Top Chip Picks](https://www.investopedia.com/ai-stocks-could-stay-the-place-to-be-next-year-here-are-two-banks-top-chip-picks-11873732)**
-
-AI stocks have had a tough time lately, but analysts at Bank of America and Jefferies say they're sticking by their favorite chip stocks for next year.
-
-Investopedia • 16h ago
-
----
-
-**[Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact](https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html)**
-
-The AI trade isn't over. Investors have just become choosier about which players might emerge as winners.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Asian shares advance, yen slips after AI stocks push higher on Wall Street](https://www.10tv.com/article/syndication/associatedpress/asian-shares-advance-yen-slips-after-ai-stocks-push-higher-on-wall-street/616-f951c387-190d-4870-b2b9-3ea747ba28d0)**
-
-Shares have surged higher in Asia after a rebound in AI-related stocks like Nvidia spurred a rally on Wall Street. U.S. futures and oil prices also rose. Tokyo's...
-
-10TV • 1h ago
-
----
-
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
@@ -191,9 +143,53 @@ CNN • 23h ago
 
 ---
 
+**[A $25 billion credit investor says betting only on AI chips overlooks the bigger cycle](https://www.businessinsider.com/ai-investing-ideas-beyond-chips-market-startegy-goldman-sachs-podcast-2025-12)**
+
+Diameter Capital Partners made successful telecom and satellite bets as AI demand spread beyond chips.
+
+Business Insider • 22m ago
+
+---
+
+**[AI is revolutionizing business but it can’t form the leaders we need](https://www.dallasnews.com/opinion/commentary/2025/12/22/ai-is-revolutionizing-business-but-it-cant-form-the-leaders-we-need/)**
+
+The rush for AI in businesses risks leaving us with a leadership vacuum that no algorithm can fill. As automation grows, critical operations demand leaders...
+
+Dallas News • 7m ago
+
+---
+
+**[Chinese AI Chip Maker Biren Technology Plans $623 Million Hong Kong IPO](https://www.wsj.com/business/chinese-ai-chip-maker-biren-technology-plans-623-million-hong-kong-ipo-a5433f02?gaa_at=eafs&gaa_n=AWEtsqc-gRD1KB3RvORNFe8cPvY6sB5_EfXHZUYb0TOFNaHskADdQoktSXEL&gaa_ts=6948f9f6&gaa_sig=i5X8IdEsbmzFL5H-ppG62veAdDZavf7SujDKNg8LcP73BpZgSZSSMR6b7sgjQYh6X4c9114nOLpz-y2inMa84Q%3D%3D)**
+
+The Wall Street Journal • 52m ago
+
+---
+
+**[How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html)**
+
+Oracle stock peaked in September before suffering a continued decline in the back half of the year.
+
+Yahoo Finance • 13h ago
+
+---
+
 **[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
 Politico • 1d ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+The Guardian • 18h ago
+
+---
+
+**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+
+Bloomberg.com • 9h ago
 
 ---
 
@@ -205,19 +201,19 @@ Politico • 1d ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 506 • 💬 469 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 507 • 💬 469 • 1d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 231 • 💬 344 • 1d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 232 • 💬 345 • 1d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 225 • 💬 180 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 227 • 💬 181 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -225,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 202 • 💬 115 • 14h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 211 • 💬 122 • 14h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -241,7 +237,7 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Timeline & Responsible Disclosure
 
-⬆️ 129 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+⬆️ 130 • 💬 60 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
 
 ---
 
@@ -249,7 +245,7 @@ Timeline & Responsible Disclosure
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 124 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 125 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -257,7 +253,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 119 • 💬 59 • 14h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 121 • 💬 59 • 14h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -271,7 +267,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 109 • 💬 99 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 110 • 💬 102 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -291,7 +287,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 6K • 👍 173 • 💬 13 • ⏱️ 25:57 • 11h ago
+👁️ 7K • 👍 198 • 💬 14 • ⏱️ 25:57 • 11h ago
 
 ---
 
@@ -301,7 +297,17 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 56K • 👍 3K • 💬 124 • ⏱️ 13:25 • 13h ago
+👁️ 69K • 👍 3K • 💬 131 • ⏱️ 13:25 • 13h ago
+
+---
+
+**[Ranking Craziest SORA AI Disney Trailers💀](https://www.youtube.com/watch?v=yinjptHfeVg)**
+
+Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme ...
+
+📺 Bigfoot Feed
+
+👁️ 26K • 👍 547 • 💬 19 • ⏱️ 0:56 • 8h ago
 
 ---
 
@@ -311,47 +317,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 46K • 👍 2K • 💬 88 • ⏱️ 1:29 • 12h ago
-
----
-
-**[Claude Code Skills Will Dominate 2026: Build Your AI Agent Army](https://www.youtube.com/watch?v=OdtGN27LchE)**
-
-Mastering Claude Code Skills: Building General AI Agents for Your Business This video is for beginners. Not an advanced Claude ...
-
-📺 Riley Brown
-
-👁️ 4K • 👍 206 • 💬 18 • ⏱️ 27:21 • 8h ago
-
----
-
-**[Google Just Killed All Competitors + Disney Gave Mickey Mouse to AI (10 Updates)](https://www.youtube.com/watch?v=AOUAqGLPw3Y)**
-
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox https://dub.sh/ai-updates-vs ...
-
-📺 Vaibhav Sisinty
-
-👁️ 21K • 👍 758 • 💬 39 • ⏱️ 15:54 • 17h ago
-
----
-
-**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
-
-welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
-
-📺 Fads
-
-👁️ 199K • 👍 11K • 💬 2K • ⏱️ 19:40 • 1d ago
-
----
-
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
-
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
-
-📺 Matt Wolfe
-
-👁️ 56K • 👍 3K • 💬 195 • ⏱️ 37:38 • 1d ago
+👁️ 51K • 👍 2K • 💬 96 • ⏱️ 1:29 • 13h ago
 
 ---
 
@@ -361,17 +327,47 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 757K • 👍 5K • 💬 173 • ⏱️ 8:24 • 1d ago
+👁️ 769K • 👍 5K • 💬 178 • ⏱️ 8:24 • 1d ago
 
 ---
 
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
+**[The Most POWERFUL FREE AI Tools That You Won’t Believe Exist 🤯](https://www.youtube.com/watch?v=bzjIo3mg07w)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus.ai/jbc?exp=exp_deepagent_free_tier This ...
 
-📺 Julian Goldie SEO
+📺 Rob The AI Guy
 
-👁️ 6K • 👍 129 • 💬 6 • ⏱️ 8:42 • 1d ago
+👁️ 3K • 👍 163 • 💬 9 • ⏱️ 13:03 • 10h ago
+
+---
+
+**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
+
+welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
+
+📺 Fads
+
+👁️ 203K • 👍 11K • 💬 2K • ⏱️ 19:40 • 1d ago
+
+---
+
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 57K • 👍 3K • 💬 198 • ⏱️ 37:38 • 1d ago
+
+---
+
+**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
+
+Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
+
+📺 Sasha Yanshin
+
+👁️ 75K • 👍 4K • 💬 1K • ⏱️ 16:44 • 13h ago
 
 ---
 
@@ -381,7 +377,7 @@ Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf
 
 📺 PrestonReacts
 
-👁️ 112K • 👍 2K • 💬 346 • ⏱️ 15:32 • 1d ago
+👁️ 117K • 👍 2K • 💬 347 • ⏱️ 15:32 • 1d ago
 
 ---
 
@@ -397,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 352,314 • ❤️ 3,265 • 13d ago
+⬇️ 363,445 • ❤️ 3,266 • 13d ago
 
 ---
 
@@ -409,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 3,459 • ❤️ 462 • 2d ago
+⬇️ 3,459 • ❤️ 466 • 2d ago
 
 ---
 
@@ -421,7 +417,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 74,165 • ❤️ 423 • 2d ago
+⬇️ 86,205 • ❤️ 425 • 2d ago
 
 ---
 
@@ -433,7 +429,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 10,633 • ❤️ 419 • 3d ago
+⬇️ 14,346 • ❤️ 423 • 3d ago
 
 ---
 
@@ -445,7 +441,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,021 • ❤️ 387 • 3d ago
+⬇️ 3,187 • ❤️ 387 • 3d ago
 
 ---
 
@@ -481,7 +477,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 325 • 5d ago
+⬇️ 0 • ❤️ 326 • 5d ago
 
 ---
 
@@ -505,7 +501,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 632 • ❤️ 263 • 5d ago
+⬇️ 770 • ❤️ 263 • 5d ago
 
 ---
 
@@ -673,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 175 • 57m ago
+⭐ 2.4k • 🔱 175 • 1h ago
 
 ---
 
