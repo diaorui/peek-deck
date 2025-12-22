@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T18:24:22.976361+00:00'
+updated: '2025-12-22T18:52:44.199684+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 18:24 UTC  
+**Last Updated:** December 22, 2025 at 18:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-12h ago
+13h ago
 
 ---
 
@@ -57,7 +57,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. Curious, disciplined, critical? AI will amplify that. Lazy, gullible, or intellectually passive? AI will amplify that too. LOL. That’s the uncomfortable truth no one wants to say out loud: This is the 2024–2030 revolution. AI will widen the gap : elites pulling further ahead, the rest trailing. Not because the tool is elitist… but because using it well isn’t evenly distributed. And that’s… kind of sad. Imo, we’re not ready for the social consequences of that.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 32m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 8h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 12h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 10h ago
+ABC News • 11h ago
 
 ---
 
@@ -153,7 +153,7 @@ Forbes • 1h ago
 
 Alphabet said on Monday it would buy clean energy developer Intersect for $4.75 billion in cash, plus assumed debt, as ​tech giants spend billions to expand the computing and power capacity ‌necessary for developing artificial intelligence.  Big Tech has ramped up investments in energy firms as U.S. power ‌grids struggle to keep pace with the soaring electricity demand of generative AI amid an intensifying race to capitalize on the booming technology.  Under the deal, the Google parent will acquire Intersect's energy and data center projects in development or under construction.
 
-Yahoo Finance • 16m ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 16m ago
 
 More investors are casting an eye toward non-tech companies.
 
-CNBC • 35m ago
+CNBC • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 35m ago
 
 The funding, led by Sofreh Capital, ranks among the largest early-stage rounds for a healthtech startup this year.
 
-USA Today • 50m ago
+USA Today • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Atlantic • 5h ago
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -286,13 +286,13 @@ friction.
 
 ## YouTube Videos: "ai"
 
-**[Dubai’s AI Barber Is INSANE 🤯✂️ | Haircut in Seconds](https://www.youtube.com/watch?v=w2xRCsD1nIM)**
+**[I Made the Same Animation in Every AI Video Generator](https://www.youtube.com/watch?v=UKp_zXdxVTI)**
 
-Dubai's AI Barber Pod 3.0 is next-level insanity! ✂️ Get a flawless haircut in seconds, thanks to futuristic tech you won't believe ...
+I made the same AI Animation in every AI video generator Best All In One AI Video Generator ...
 
-📺 Nex Ai
+📺 Dan Kieft
 
-👁️ 1K • 👍 14 • ⏱️ 0:12 • 5h ago
+👁️ 3K • 💬 12 • ⏱️ 44:39 • 1h ago
 
 ---
 
@@ -302,7 +302,7 @@ Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Bui
 
 📺 Codie Sanchez
 
-👁️ 98K • 👍 4K • 💬 190 • ⏱️ 13:25 • 1d ago
+👁️ 107K • 👍 5K • 💬 232 • ⏱️ 13:25 • 1d ago
 
 ---
 
@@ -312,27 +312,7 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 10K • 👍 261 • 💬 22 • ⏱️ 25:57 • 22h ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=IJYkIQQsIw8)**
-
-Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/IJYkIQQsIw8 Which crazy bed ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 882K • 👍 5K • 💬 201 • ⏱️ 8:24 • 2d ago
-
----
-
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
-
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
-
-📺 Matt Wolfe
-
-👁️ 62K • 👍 3K • 💬 202 • ⏱️ 37:38 • 2d ago
+👁️ 11K • 👍 287 • 💬 22 • ⏱️ 25:57 • 22h ago
 
 ---
 
@@ -342,7 +322,27 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 220K • 👍 12K • 💬 2K • ⏱️ 19:40 • 1d ago
+👁️ 225K • 👍 12K • 💬 2K • ⏱️ 19:40 • 1d ago
+
+---
+
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 63K • 👍 3K • 💬 205 • ⏱️ 37:38 • 2d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=IJYkIQQsIw8)**
+
+Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/IJYkIQQsIw8 Which crazy bed ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 928K • 👍 5K • 💬 206 • ⏱️ 8:24 • 2d ago
 
 ---
 
@@ -352,7 +352,17 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 188 • 💬 14 • ⏱️ 13:03 • 20h ago
+👁️ 4K • 👍 193 • 💬 15 • ⏱️ 13:03 • 21h ago
+
+---
+
+**[Real vs AI Videos!](https://www.youtube.com/watch?v=BdBGTLJekWE)**
+
+Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf.io/PrestonReacts For 10% off your purchase at ...
+
+📺 PrestonReacts
+
+👁️ 136K • 👍 2K • 💬 376 • ⏱️ 15:32 • 2d ago
 
 ---
 
@@ -362,7 +372,7 @@ Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/tw
 
 📺 NetworkChuck
 
-👁️ 164K • 👍 7K • 💬 968 • ⏱️ 33:14 • 2d ago
+👁️ 168K • 👍 8K • 💬 1K • ⏱️ 33:14 • 2d ago
 
 ---
 
@@ -373,16 +383,6 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 📺 Julian Goldie SEO
 
 👁️ 6K • 👍 131 • 💬 6 • ⏱️ 8:42 • 1d ago
-
----
-
-**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
-
-Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
-
-📺 Sasha Yanshin
-
-👁️ 104K • 👍 5K • 💬 1K • ⏱️ 16:44 • 1d ago
 
 ---
 
@@ -613,7 +613,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 76 • 💬 6 • ⭐ 50 • 4d ago
+▲ 77 • 💬 6 • ⭐ 50 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
@@ -663,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 2h ago
+⭐ 5.7k • 🔱 631 • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 179 • 50m ago
+⭐ 2.4k • 🔱 179 • 27m ago
 
 ---
 
@@ -683,7 +683,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 268 • 4h ago
+⭐ 1.8k • 🔱 275 • 4h ago
 
 ---
 
@@ -713,7 +713,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 171 • 5h ago
+⭐ 1.0k • 🔱 171 • 6h ago
 
 ---
 
@@ -723,7 +723,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 918 • 🔱 25 • 14d ago
+⭐ 918 • 🔱 25 • 15d ago
 
 ---
 
@@ -733,7 +733,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 906 • 🔱 89 • 7h ago
+⭐ 907 • 🔱 89 • 8h ago
 
 ---
 
@@ -743,7 +743,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 863 • 🔱 80 • 2h ago
+⭐ 866 • 🔱 80 • 2h ago
 
 ---
 

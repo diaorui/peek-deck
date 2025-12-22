@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T18:24:22.990659+00:00'
+updated: '2025-12-22T18:52:44.214233+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 18:24 UTC  
+**Last Updated:** December 22, 2025 at 18:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,8 +45,8 @@ Live Ethereum monitoring dashboard
 **24h:** +1.2%  
 **7d:** +2.2%  
 **30d:** +8.0%  
-**90d:** -26.8%  
-**1y:** -11.5%  
+**90d:** -26.9%  
+**1y:** -11.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 1h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2d ago
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -234,7 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 611 • 👍 37 • 💬 5 • ⏱️ 17:34 • 2h ago
+👁️ 2K • 👍 163 • 💬 26 • ⏱️ 17:34 • 2h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 681 • 💬 70 • ⏱️ 15:49 • 1d ago
+👁️ 19K • 👍 695 • 💬 70 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 481 • 👍 27 • 💬 13 • ⏱️ 7:32 • 5h ago
+👁️ 755 • 👍 34 • 💬 14 • ⏱️ 7:32 • 5h ago
 
 ---
 
@@ -264,7 +264,7 @@ Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the
 
 📺 NextMove Stocks
 
-👁️ 222 • 👍 14 • 💬 13 • ⏱️ 7:50 • 4h ago
+👁️ 338 • 👍 17 • 💬 13 • ⏱️ 7:50 • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 13K • 👍 675 • 💬 450 • ⏱️ 11:34 • 1d ago
+👁️ 13K • 👍 679 • 💬 450 • ⏱️ 11:34 • 1d ago
 
 ---
 
@@ -284,17 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 175 • 💬 9 • ⏱️ 6:15 • 14h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HXb6p0wUQt0)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 121 • 💬 2 • ⏱️ 4:52 • 5h ago
+👁️ 3K • 👍 175 • 💬 9 • ⏱️ 6:15 • 14h ago
 
 ---
 
@@ -304,27 +294,37 @@ Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a
 
 📺 Thinking Crypto
 
-👁️ 697 • 👍 73 • 💬 26 • ⏱️ 31:48 • 5h ago
+👁️ 1K • 👍 101 • 💬 27 • ⏱️ 31:48 • 5h ago
 
 ---
 
-**[XRP BITCOIN ETHEREUM ‼️ KNOW THIS BEFORE TOMORROW!](https://www.youtube.com/watch?v=bBU6oHVTtXQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HXb6p0wUQt0)**
 
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Stock Moe
+📺 More Crypto Online
 
-👁️ 13K • 👍 885 • 💬 18 • ⏱️ 11:18 • 20h ago
+👁️ 2K • 👍 127 • 💬 2 • ⏱️ 4:52 • 5h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 21st of December](https://www.youtube.com/watch?v=2_OtXgqgS7Q)**
+**[CRITICAL ETHEREUM UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Iyi5qnSnU2Q)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 C-Zar Gets Crypto 
+📺 Cilinix Crypto
 
-👁️ 572 • 👍 39 • 💬 11 • ⏱️ 9:36 • 20h ago
+👁️ 312 • 👍 16 • 💬 3 • ⏱️ 4:38 • 8h ago
+
+---
+
+**[Will a Bitcoin Bounce Save the Bull Run? I&#39;m Watching This Key Level](https://www.youtube.com/watch?v=NHBYTwOQG9c)**
+
+I am expecting a Bitcoin bounce, but can it save the Crypto bull run? This video will break down what I expect to happen to Bitcoin ...
+
+📺 VirtualBacon
+
+👁️ 2K • 👍 73 • 1h ago
 
 ---
 

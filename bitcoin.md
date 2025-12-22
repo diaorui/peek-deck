@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T18:24:22.984696+00:00'
+updated: '2025-12-22T18:52:44.208024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 18:24 UTC  
+**Last Updated:** December 22, 2025 at 18:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,398.94
+### $89,490.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +2.1%  
-**30d:** +2.9%  
-**90d:** -21.0%  
-**1y:** -5.7%  
+**24h:** +0.9%  
+**7d:** +1.9%  
+**30d:** +2.7%  
+**90d:** -21.1%  
+**1y:** -5.9%  
 
 ---
 
@@ -89,19 +89,19 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-3h ago
+4h ago
 
 ---
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-5h ago
+6h ago
 
 ---
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ I've been looking into the idea of using Bitcoin as collateral instead of sellin
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-21h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 2h ago
 
 Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 2h ago
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 12h ago
 
 Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
 
-CoinDesk • 38m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Motley Fool • 19h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 1h ago
+Al Jazeera • 2h ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 132 • ⏱️ 15:15 • 16h ago
+👁️ 23K • 👍 1K • 💬 137 • ⏱️ 15:15 • 17h ago
 
 ---
 
@@ -299,7 +299,7 @@ Jeff Ross joins the show for a breakdown of why the global financial system is c
 
 📺 What Bitcoin Did
 
-👁️ 3K • 👍 285 • 💬 61 • ⏱️ 1:04:00 • 6h ago
+👁️ 5K • 👍 373 • 💬 83 • ⏱️ 1:04:00 • 6h ago
 
 ---
 
@@ -309,17 +309,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 126 • ⏱️ 16:18 • 20h ago
-
----
-
-**[Bitcoin They Don&#39;t Have Any Other Choice](https://www.youtube.com/watch?v=Y0eINt8I440)**
-
-BTC, Trump trade, AI stocks, and altcoins! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
-
-📺 Lark Davis
-
-👁️ 8K • 👍 575 • 💬 32 • ⏱️ 53:38 • 6h ago
+👁️ 34K • 👍 2K • 💬 118 • ⏱️ 16:18 • 20h ago
 
 ---
 
@@ -329,27 +319,17 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 15K • 👍 1K • 💬 399 • ⏱️ 17:34 • 17h ago
+👁️ 16K • 👍 1K • 💬 422 • ⏱️ 17:34 • 18h ago
 
 ---
 
-**[Assia: Bitcoin is Digital Gold](https://www.youtube.com/watch?v=ZBo93A9sbjI)**
+**[Bitcoin They Don&#39;t Have Any Other Choice](https://www.youtube.com/watch?v=Y0eINt8I440)**
 
-Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder ...
+BTC, Trump trade, AI stocks, and altcoins! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
 
-📺 Bloomberg Television
+📺 Lark Davis
 
-👁️ 168 • 👍 4 • 💬 4 • ⏱️ 5:04 • 2h ago
-
----
-
-**[Bitcoin’s PUMPING, BOJ Shock FAILS, Altcoin Scandal Deepens &amp; More](https://www.youtube.com/watch?v=8KxjgT7nr5w)**
-
-Bitcoin is at a critical crossroads as global liquidity signals turn mixed, the Bank of Japan tightens policy, and confidence in parts ...
-
-📺 Coin Bureau
-
-👁️ 9K • 👍 987 • 💬 30 • ⏱️ 43:07 • 4h ago
+👁️ 10K • 👍 621 • 💬 37 • ⏱️ 53:38 • 6h ago
 
 ---
 
@@ -359,7 +339,27 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 926 • 💬 262 • ⏱️ 55:13 • 1d ago
+👁️ 21K • 👍 934 • 💬 263 • ⏱️ 55:13 • 1d ago
+
+---
+
+**[XRP BITCOIN 🚨 YOU HAVE BEEN TOLD](https://www.youtube.com/watch?v=TAaHnm8-pm8)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 8K • 👍 755 • 💬 44 • ⏱️ 12:16 • 5h ago
+
+---
+
+**[🚨 EMERGENCY: Everyone Is Wrong About Bitcoin as Gold &amp; Silver Surge](https://www.youtube.com/watch?v=E6LnI33wdl0)**
+
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
+
+📺 DataDash
+
+👁️ 1K • 👍 136 • 💬 7 • ⏱️ 15:14 • 2h ago
 
 ---
 
@@ -369,17 +369,17 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 167 • ⏱️ 14:31 • 2d ago
+👁️ 35K • 👍 2K • 💬 168 • ⏱️ 14:31 • 2d ago
 
 ---
 
-**[ALERT: HUGE BITCOIN MOVE STARTS TOMORROW!](https://www.youtube.com/watch?v=TV-nQpEQzT8)**
+**[DO NOT SELL YOUR BITCOIN RIGHT NOW!!!](https://www.youtube.com/watch?v=ytTWMpmkUsI)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100 FREE COUPON BLOFIN: ...
+DO NOT SELL YOUR BITCOIN RIGHT NOW!!! WAIT FOR MY NEXT UPDATE AFTER WE TEST 100K SHARE THIS VIDEO NOW ...
 
-📺 The Moon Show
+📺 Naeem
 
-👁️ 9K • 👍 583 • 💬 23 • ⏱️ 7:16 • 20h ago
+👁️ 1K • 👍 22 • 💬 9 • ⏱️ 1:42 • 7h ago
 
 ---
 

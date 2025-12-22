@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T18:24:22.993916+00:00'
+updated: '2025-12-22T18:52:44.217509+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 18:24 UTC  
+**Last Updated:** December 22, 2025 at 18:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/2002831811823763639
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/200283181182376363
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-15h ago
+16h ago
 
 ---
 
@@ -68,7 +68,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 Physical Intelligence just released a series of "Robot Olympics" events to showcase their latest π0.6 model. Unlike standard benchmarks, these tasks are designed to illustrate Moravec’s Paradox which are everyday physical actions that are trivial for humans but represent the "gold standard" of difficulty for modern robotics. All tasks shown are fully autonomous, demonstrating high-level task decomposition and fine motor control. The 5 Olympic Events: Event 1 (Gold) - Door Entry: The robot successfully navigates a self-closing lever-handle door. This is technically challenging because it requires the model to apply force to keep the door open while simultaneously moving its base through the frame. Event 2 (Silver) - Textile Manipulation: The model successfully turns a sock right-side-out. They attempted the Gold medal task (hanging an inside-out dress shirt), but the current hardware gripper was too wide for the sleeves. Event 3 (Gold) - Fine Tool Use: A major win here,the robot used a small key to unlock a padlock. This requires extreme precision to align the key and enough torque to turn the tumbler. (Silver was making a peanut butter sandwich, involving long-horizon steps like spreading and cutting triangles). Event 4 (Silver) - Deformable Objects: The robot successfully opened a dog poop bag. This is notoriously difficult because the thin plastic blinds the wrist cameras during manipulation. They attempted to peel an orange for Gold but were "disqualified" for needing a sharper tool. Event 5 (Gold) - Complex Cleaning: The robot washed a frying pan in a sink using soap and water, scrubbing both sides. They also cleared the Silver (cleaning the grippers) and Bronze (wiping the counter) tasks for this category. The Tech Behind It: The π0.6 model is a Vision-Language-Action (VLA) generalist policy. It moves away from simple "behavior cloning" and instead focuses on agentic coding and task completion, allowing it to recover from errors and handle diverse, "messy" real-world environments. Official Blog: pi.website/blog/olympics Source Video: Physical Intelligence on X
 
-7m ago
+36m ago
 
 ---
 
@@ -84,7 +84,7 @@ Found an interesting video on Tesla's Optimus Robot.
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-3h ago
+4h ago
 
 ---
 
@@ -126,7 +126,7 @@ Bloomberg.com • 3d ago
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -204,7 +204,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 35K • 👍 710 • 💬 76 • ⏱️ 2:08:46 • 2d ago
+👁️ 35K • 👍 717 • 💬 76 • ⏱️ 2:08:46 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 20K • 👍 472 • 💬 105 • ⏱️ 5:25 • 1d ago
+👁️ 21K • 👍 484 • 💬 109 • ⏱️ 5:25 • 1d ago
 
 ---
 
@@ -224,7 +224,67 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 30K • 👍 146 • 💬 6 • ⏱️ 0:19 • 1d ago
+👁️ 30K • 👍 145 • 💬 6 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
+
+Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
+
+📺 LimX Dynamics
+
+👁️ 895K • 👍 10K • 💬 594 • ⏱️ 2:43 • 4d ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 125K • 👍 7K • 💬 512 • ⏱️ 13:43 • 4d ago
+
+---
+
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
+
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
+
+📺 Ai BOOF
+
+👁️ 6K • 👍 153 • 💬 6 • ⏱️ 0:11 • 10h ago
+
+---
+
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+
+📺 SocksReact
+
+👁️ 475K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
+
+---
+
+**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+
+📺 South China Morning Post
+
+👁️ 57K • 👍 703 • 💬 185 • ⏱️ 3:55 • 3d ago
+
+---
+
+**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
+
+This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
+
+📺 NVIDIA Developer
+
+👁️ 2K • 👍 88 • 💬 1 • ⏱️ 55:42 • 2d ago
 
 ---
 
@@ -235,66 +295,6 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 📺 AI Revolution
 
 👁️ 75K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 3K • 👍 101 • 💬 6 • ⏱️ 0:11 • 9h ago
-
----
-
-**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
-
-Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
-
-📺 LimX Dynamics
-
-👁️ 874K • 👍 10K • 💬 591 • ⏱️ 2:43 • 4d ago
-
----
-
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 121K • 👍 6K • 💬 507 • ⏱️ 13:43 • 4d ago
-
----
-
-**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
-
-This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
-
-📺 NVIDIA Developer
-
-👁️ 2K • 👍 86 • 💬 1 • ⏱️ 55:42 • 2d ago
-
----
-
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
-
-📺 South China Morning Post
-
-👁️ 56K • 👍 694 • 💬 184 • ⏱️ 3:55 • 3d ago
-
----
-
-**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
-
-MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
-
-📺 Tyler & Snowi
-
-👁️ 871K • 👍 35K • 💬 568 • ⏱️ 21:05 • 18h ago
 
 ---
 
