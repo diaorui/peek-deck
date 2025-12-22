@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T21:59:00.419507+00:00'
+updated: '2025-12-22T22:29:59.512223+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 21:59 UTC  
+**Last Updated:** December 22, 2025 at 22:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 10h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 4h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 1h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Game called "Humanize Robotics". I’m building a community of people like me - 
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 7h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Intel engineers as part of the OPEA Project today released the Generative AI Exa
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 12h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 13h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 16h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 17h ago
 
 ---
 
@@ -129,23 +129,27 @@ ABC News • 14h ago
 
 ---
 
-**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
+**[AI Is Democratizing Music. Unfortunately.](https://www.theatlantic.com/culture/2025/12/ai-music-suno-warner-bros/685331/)**
 
-The New York Times • 11h ago
+The emerging technology is warping the record industry in all sorts of strange—and foreboding—ways.
 
----
-
-**[AI is changing childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
-
-Axios • 10h ago
+The Atlantic • 9h ago
 
 ---
 
-**[The CEO of Microsoft AI says AI chatbots are a powerful way for humans to offload emotions and 'detoxify ourselves'](https://www.businessinsider.com/microsoft-ai-ceo-ai-chatbots-help-humans-detoxify-ourselves-2025-12)**
+**[Teachers test-drive AI as schools give mixed signals on rules](https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726)**
 
-Mustafa Suleyman, Microsoft AI's CEO, has described using AI for guidance on life decisions as "something that the world needs."
+At a New York City training session, educators explored how artificial intelligence could support teaching while also discussing their concerns around the technology.
 
-Business Insider • 6h ago
+NBC News • 33m ago
+
+---
+
+**[OpenAI says AI browsers may always be vulnerable to prompt injection attacks](https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/)**
+
+OpenAI says prompt injections will always be a risk for AI browsers with agentic capabilities, like Atlas. But the firm is beefing up its cybersecurity with an 'LLM-based automated attacker.'
+
+TechCrunch • 18m ago
 
 ---
 
@@ -165,27 +169,11 @@ Los Angeles Times • 1h ago
 
 ---
 
-**[Instacart Says It Is Pulling the Plug on Its AI-Powered Price Tests](https://gizmodo.com/instacart-says-it-is-pulling-the-plug-on-its-ai-powered-price-tests-2000702649)**
+**[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
 
-After an investigation found some customers were charged nearly 25% more for identical items, Instacart says itâs ending its controversial price-testing program.
+Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-Gizmodo • 1h ago
-
----
-
-**[ChatGPT Thinks C3.ai Stock Will Close At This Price In The Next 60 Days](https://finance.yahoo.com/news/chatgpt-thinks-c3-ai-stock-210039833.html)**
-
-Shares of C3.ai (AI) traded slightly higher over the past month, signaling life for a stock that has been battered by guidance cuts and market skepticism. Still, C3.ai remains down substantially for the year, and the tone around the enterprise AI ...
-
-Yahoo Finance • 58m ago
-
----
-
-**[AI is starting to have a bigger economic impact, BofA CEO says (BAC:NYSE)](https://seekingalpha.com/news/4534293-ai-is-starting-to-have-a-bigger-economic-impact-bofa-ceo-says)**
-
-Understood! Please provide the article or content for which you'd like a meta description.
-
-Seeking Alpha • 2h ago
+CBS News • 7h ago
 
 ---
 
@@ -194,6 +182,20 @@ Seeking Alpha • 2h ago
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
 CNN • 1d ago
+
+---
+
+**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)**
+
+Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
+
+blog.google • 4h ago
 
 ---
 
@@ -229,19 +231,19 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 ---
 
+**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://news.ycombinator.com/item?id=46355548)**
+
+Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
+
+⬆️ 184 • 💬 252 • 5h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+
+---
+
 **[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
 ⬆️ 178 • 💬 397 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
-
----
-
-**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://news.ycombinator.com/item?id=46355548)**
-
-Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
-
-⬆️ 156 • 💬 222 • 5h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -266,7 +268,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 131 • 💬 155 • 14h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 133 • 💬 155 • 15h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -394,7 +396,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,291 • 14d ago
+⬇️ 363,445 • ❤️ 3,293 • 14d ago
 
 ---
 
@@ -406,7 +408,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 535 • 3d ago
+⬇️ 5,379 • ❤️ 537 • 3d ago
 
 ---
 
@@ -418,7 +420,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 470 • 4d ago
+⬇️ 14,346 • ❤️ 472 • 4d ago
 
 ---
 
@@ -430,7 +432,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 440 • 3d ago
+⬇️ 86,205 • ❤️ 441 • 3d ago
 
 ---
 
@@ -649,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.7k • 🔱 3.0k • 16h ago
+⭐ 18.7k • 🔱 3.0k • 17h ago
 
 ---
 
@@ -669,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 3h ago
+⭐ 2.4k • 🔱 181 • 4h ago
 
 ---
 
@@ -679,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 284 • 8m ago
+⭐ 1.9k • 🔱 284 • 39m ago
 
 ---
 
@@ -739,7 +741,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 869 • 🔱 80 • 5h ago
+⭐ 869 • 🔱 80 • 6h ago
 
 ---
 

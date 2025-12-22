@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T21:59:00.428134+00:00'
+updated: '2025-12-22T22:29:59.520647+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 21:59 UTC  
+**Last Updated:** December 22, 2025 at 22:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.7%  
-**30d:** +1.4%  
-**90d:** -22.1%  
-**1y:** -7.0%  
+**24h:** -0.2%  
+**7d:** +0.9%  
+**30d:** +1.7%  
+**90d:** -21.9%  
+**1y:** -6.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1762.17B
+**Market Cap:** $1763.81B
 Rank #1
 
 **Circulating Supply:** 19,965,678 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-29.9%
 
 **All-Time Low:** $67.81
-+130004.7%
++130192.0%
 
 ---
 
@@ -81,6 +81,12 @@ Rank #1
 
 bitvoin
 
+10h ago
+
+---
+
+**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
+
 9h ago
 
 ---
@@ -93,12 +99,6 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
-**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
-
-8h ago
-
----
-
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
 3h ago
@@ -107,25 +107,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-1h ago
+2h ago
 
 ---
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
 7h ago
-
----
-
-**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
-
-9h ago
-
----
-
-**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
-
-12h ago
 
 ---
 
@@ -137,11 +125,23 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 ---
 
+**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
+
+9h ago
+
+---
+
+**[Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1psuz06/bitcoin/)**
+
+13h ago
+
+---
+
 **[Bitcoin-backed loans for "living without selling" - am I the only one who thinks this is way riskier than it's being sold?](https://www.reddit.com/r/Bitcoin/comments/1pt0n2i/bitcoinbacked_loans_for_living_without_selling_am/)**
 
 I've been looking into the idea of using Bitcoin as collateral instead of selling for a while now. Sounds brilliant at first - liquidity without a tax event, BTC stays yours, you keep benefiting from price appreciation. But the more I dig into it, the more uncomfortable I get. Celsius and BlockFi aren't ancient history. And even with the "serious" platforms that are still around: one 50% crash and your LTV goes through the roof. Margin call, forced liquidation, everything gone. What surprises me is how little this gets discussed in all those "never sell your Bitcoin" conversations. Obviously the lending platforms aren't eager to highlight this. But even in the community it's often presented as basically risk-free as long as you keep a low LTV. I built a calculator to play through this over multiple years (app.retire-on-bitcoin.com if anyone wants to mess around with it themselves). The numbers are sobering when you're honest about it and don't just model the best-case scenario. You need a really proper cushion to stay on the safe side. Am I missing something or is this topic really as underexplored as it seems?
 
-7h ago
+8h ago
 
 ---
 
@@ -149,19 +149,25 @@ I've been looking into the idea of using Bitcoin as collateral instead of sellin
 
 ## Google News: "bitcoin"
 
-**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
+**[Michael Saylor's MSTR raises additional cash through stock sales](https://www.coindesk.com/markets/2025/12/22/strategy-boosted-cash-reserve-by-usd748-million-last-week)**
 
-Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
+Led by Executive Chairman Michael Saylor, the company raised the funds entirely by sales of common stock.
 
-Bloomberg.com • 5h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin Price Struggles at $90,000 as Christmas Trading Looms](https://bitcoinmagazine.com/news/bitcoin-price-struggles-at-90000)**
+**[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-The bitcoin price briefly climbed above $90,000 after rising from $88,000 during Asian and European hours, before retreating toward $88,000 again during U.S. trading.
+Investor's Business Daily • 1h ago
 
-Bitcoin Magazine • 29m ago
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
+
+Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -173,19 +179,27 @@ CoinDesk • 1h ago
 
 ---
 
-**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
+**[Could Bitcoin Finally Break $100,000 This Christmas Week – Or Is A Drop To $70,000 Coming?](https://bitcoinmagazine.com/markets/bitcoin-price-outlook-bulls-target-94000-break-for-momentum-into-new-year)**
 
-One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
+After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
 
-The Motley Fool • 22h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+**[Bitcoin holding above $91K will be 'sigh of relief' for bulls](https://finance.yahoo.com/video/bitcoin-holding-above-91k-sigh-163000954.html)**
 
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+Bitcoin (BTC-USD) is back above $90,000 per token on Monday morning as investors look back on a highly volatile year for the digital asset, which has seen a broad sell-off since hitting its record high above $126,000 in early October. Marketgauge.com chief strategist Michele Schneider examines the technicals of the cryptocurrency and the price range that crypto bulls would feel most comfortable with bitcoin closing 2025 out at. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Al Jazeera • 5h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[Bitcoin Price Struggles at $90,000 as Christmas Trading Looms](https://bitcoinmagazine.com/news/bitcoin-price-struggles-at-90000)**
+
+The bitcoin price briefly climbed above $90,000 after rising from $88,000 during Asian and European hours, before retreating toward $88,000 again during U.S. trading.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -197,31 +211,19 @@ The Verge • 2h ago
 
 ---
 
-**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
+**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
 
-Forbes • 1d ago
+One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
----
-
-**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.nasdaq.com/articles/how-bitcoin-could-help-you-retire-multimillionaire-1)**
-
-Key PointsBitcoin pioneered blockchain technology, but has become more of a digital gold.
-
-Nasdaq • 10h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Bitcoin December 22 daily chart alert - Bulls steady the market](https://www.kitco.com/news/article/2025-12-22/bitcoin-december-22-daily-chart-alert-bulls-steady-market)**
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-KITCO • 8h ago
-
----
-
-**[Billionaire hedge fund legend says central banks won’t hold Bitcoin](https://www.thestreet.com/crypto/trading/billionaire-hedge-fund-central-banks-wont-hold-bitcoin)**
-
-thestreet.com • 7h ago
+Al Jazeera • 5h ago
 
 ---
 
@@ -263,7 +265,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 4 • 6h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 4 • 7h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -293,7 +295,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 142 • ⏱️ 15:15 • 20h ago
+👁️ 24K • 👍 2K • 💬 142 • ⏱️ 15:15 • 21h ago
 
 ---
 
@@ -303,7 +305,7 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 115 • ⏱️ 16:18 • 23h ago
+👁️ 35K • 👍 2K • 💬 115 • ⏱️ 16:18 • 1d ago
 
 ---
 
@@ -313,7 +315,7 @@ Jeff Ross joins the show for a breakdown of why the global financial system is c
 
 📺 What Bitcoin Did
 
-👁️ 7K • 👍 436 • 💬 87 • ⏱️ 1:04:00 • 9h ago
+👁️ 7K • 👍 436 • 💬 87 • ⏱️ 1:04:00 • 10h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 2K • 👍 186 • 💬 7 • ⏱️ 15:14 • 5h ago
+👁️ 2K • 👍 186 • 💬 7 • ⏱️ 15:14 • 6h ago
 
 ---
 
@@ -333,7 +335,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 5K • 👍 470 • 💬 60 • ⏱️ 6:08 • 4h ago
+👁️ 5K • 👍 470 • 💬 60 • ⏱️ 6:08 • 5h ago
 
 ---
 
@@ -373,7 +375,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 12K • 👍 1K • 💬 226 • ⏱️ 14:37 • 12h ago
+👁️ 12K • 👍 1K • 💬 226 • ⏱️ 14:37 • 13h ago
 
 ---
 
