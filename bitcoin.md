@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T19:14:18.307354+00:00'
+updated: '2025-12-22T19:30:54.041776+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 19:14 UTC  
+**Last Updated:** December 22, 2025 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,695.53
+### $88,543.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +1.5%  
-**30d:** +2.2%  
-**90d:** -21.5%  
-**1y:** -6.3%  
+**24h:** +0.1%  
+**7d:** +1.1%  
+**30d:** +1.8%  
+**90d:** -21.8%  
+**1y:** -6.7%  
 
 ---
 
@@ -107,7 +107,7 @@ The Motley Fool • 1d ago
 
 Even if quantum machines capable of breaking Bitcoin’s cryptography are decades away, the work required to update software, infrastructure and user behavior would be measured in years, not months.
 
-CoinDesk • 12m ago
+CoinDesk • 28m ago
 
 ---
 
@@ -115,7 +115,7 @@ CoinDesk • 12m ago
 
 Trump Media just added 451 Bitcoin to its holdings, bringing its total to 11,542 BTC worth over $1 billion as part of its ongoing crypto treasury strategy.
 
-Bitcoin Magazine • 50m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Al Jazeera • 2h ago
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 137 • ⏱️ 15:15 • 17h ago
+👁️ 23K • 👍 1K • 💬 137 • ⏱️ 15:15 • 18h ago
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, 
 
 📺 Stock Moe
 
-👁️ 8K • 👍 755 • 💬 44 • ⏱️ 12:16 • 5h ago
+👁️ 8K • 👍 755 • 💬 44 • ⏱️ 12:16 • 6h ago
 
 ---
 

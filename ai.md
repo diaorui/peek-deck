@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T19:14:18.299062+00:00'
+updated: '2025-12-22T19:30:54.033489+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 19:14 UTC  
+**Last Updated:** December 22, 2025 at 19:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 4h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 9h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 10h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 13h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 14h ago
 
 ---
 
@@ -113,7 +113,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 22h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNN • 1d ago
 
 Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
 
-NBC News • 51m ago
+NBC News • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ CBS News • 4h ago
 
 The AI industry is being funded by high-quality capital, leading firms are trading at reasonable P/E ratios, and capital expenditure is growing, but is safely funded.
 
-Yahoo Finance • 19m ago
+Yahoo Finance • 35m ago
 
 ---
 
@@ -292,7 +292,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 3K • 💬 12 • ⏱️ 44:39 • 1h ago
+👁️ 3K • 💬 12 • ⏱️ 44:39 • 2h ago
 
 ---
 
@@ -352,7 +352,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 193 • 💬 15 • ⏱️ 13:03 • 21h ago
+👁️ 4K • 👍 193 • 💬 15 • ⏱️ 13:03 • 22h ago
 
 ---
 
@@ -673,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 179 • 48m ago
+⭐ 2.4k • 🔱 179 • 1h ago
 
 ---
 
@@ -743,7 +743,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 866 • 🔱 80 • 2h ago
+⭐ 866 • 🔱 80 • 3h ago
 
 ---
 
