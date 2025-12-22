@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T21:48:00.769094+00:00'
+updated: '2025-12-22T21:59:00.438015+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 21:48 UTC  
+**Last Updated:** December 22, 2025 at 21:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,11 +88,19 @@ new modified version with a better camera. Patrolling on demand or on schedule. 
 
 ---
 
+**[In China, robots are now handling the solar panels, making installation faster and safer](https://www.reddit.com/r/robotics/comments/1ps2aw1/in_china_robots_are_now_handling_the_solar_panels/)**
+
+From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
+
+1d ago
+
+---
+
 **[3d printed automatic tool-changer update](https://www.reddit.com/r/robotics/comments/1pt4jb8/3d_printed_automatic_toolchanger_update/)**
 
 Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
 
-4h ago
+5h ago
 
 ---
 
@@ -100,15 +108,7 @@ Making some good progress on the automatic tool-changing mechanism for my SCARA 
 
 Found an interesting video on Tesla's Optimus Robot.
 
-🔗 [youtu.be](https://youtu.be/J_y5ni5mihI) • 5h ago
-
----
-
-**[In China, robots are now handling the solar panels, making installation faster and safer](https://www.reddit.com/r/robotics/comments/1ps2aw1/in_china_robots_are_now_handling_the_solar_panels/)**
-
-From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
-
-1d ago
+🔗 [youtu.be](https://youtu.be/J_y5ni5mihI) • 6h ago
 
 ---
 
@@ -122,11 +122,11 @@ Bloomberg.com • 3d ago
 
 ---
 
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-TechNode • 2d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -138,11 +138,11 @@ Stock Titan • 13h ago
 
 ---
 
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
 
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
 
-The Verge • 1d ago
+TechNode • 2d ago
 
 ---
 
@@ -178,11 +178,11 @@ Sifted • 16h ago
 
 ---
 
-**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
 
-Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-Interesting Engineering • 3d ago
+South China Morning Post • 2d ago
 
 ---
 

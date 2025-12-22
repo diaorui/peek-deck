@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T21:48:00.751332+00:00'
+updated: '2025-12-22T21:59:00.419507+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 21:48 UTC  
+**Last Updated:** December 22, 2025 at 21:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 ---
 
-**[AI is just a multiplier : for better or worse](https://www.reddit.com/r/artificial/comments/1pt2utu/ai_is_just_a_multiplier_for_better_or_worse/)**
-
-AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. Curious, disciplined, critical? AI will amplify that. Lazy, gullible, or intellectually passive? AI will amplify that too. LOL. That’s the uncomfortable truth no one wants to say out loud: This is the 2024–2030 revolution. AI will widen the gap : elites pulling further ahead, the rest trailing. Not because the tool is elitist… but because using it well isn’t evenly distributed. And that’s… kind of sad. Imo, we’re not ready for the social consequences of that.
-
-5h ago
-
----
-
 **[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
@@ -61,19 +53,19 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 ---
 
-**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
-
-I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
-
-16h ago
-
----
-
 **[Instacart scraps AI pricing tests that made some products more expensive | A study found that Instacart’s pricing tests resulted in higher prices for some customers.](https://www.reddit.com/r/artificial/comments/1pt9u2r/instacart_scraps_ai_pricing_tests_that_made_some/)**
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
 🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 1h ago
+
+---
+
+**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
+
+I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
+
+16h ago
 
 ---
 
@@ -97,15 +89,15 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 4h ago
 
 ---
 
-**[We asked four AI coding agents to rebuild Minesweeper, and the results were explosive...](https://www.reddit.com/r/artificial/comments/1psyume/we_asked_four_ai_coding_agents_to_rebuild/)**
+**[OpenAI’s profit potential improves as compute margins near 70%](https://www.reddit.com/r/artificial/comments/1psvd24/openais_profit_potential_improves_as_compute/)**
 
-How do four modern LLMs do at re-creating a simple Windows gaming classic?
+OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 8h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 12h ago
 
 ---
 
@@ -114,6 +106,14 @@ How do four modern LLMs do at re-creating a simple Windows gaming classic?
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
 🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 16h ago
+
+---
+
+**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.reddit.com/r/artificial/comments/1pshepe/extremists_are_using_ai_voice_cloning_to/)**
+
+Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism) • 1d ago
 
 ---
 
@@ -129,27 +129,23 @@ ABC News • 14h ago
 
 ---
 
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
+**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
 
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
-
-CNN • 1d ago
+The New York Times • 11h ago
 
 ---
 
-**[Bank of America’s Moynihan says AI’s economic benefit is ‘kicking in more’](https://fortune.com/2025/12/22/bank-of-america-brian-moynihan-ai-economic-benefit-kicking-in-more/)**
+**[AI is changing childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
 
-Bank of America CEO Brian Moynihan said AI is starting to have a bigger impact on the U.S. economy.
-
-Fortune • 1h ago
+Axios • 10h ago
 
 ---
 
-**[Instacart halts 'item price tests' amid scrutiny of its AI tools](https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454)**
+**[The CEO of Microsoft AI says AI chatbots are a powerful way for humans to offload emotions and 'detoxify ourselves'](https://www.businessinsider.com/microsoft-ai-ceo-ai-chatbots-help-humans-detoxify-ourselves-2025-12)**
 
-Instacart will no longer let retailers use its AI-driven software to run price tests, after criticism over different prices appearing for the same item.
+Mustafa Suleyman, Microsoft AI's CEO, has described using AI for guidance on life decisions as "something that the world needs."
 
-NBC News • 2h ago
+Business Insider • 6h ago
 
 ---
 
@@ -169,31 +165,35 @@ Los Angeles Times • 1h ago
 
 ---
 
-**[Can Shopify (SHOP) Turn Agentic AI and Sustainability Bets Into Durable Platform Advantage?](https://finance.yahoo.com/news/shopify-shop-turn-agentic-ai-200749018.html)**
+**[Instacart Says It Is Pulling the Plug on Its AI-Powered Price Tests](https://gizmodo.com/instacart-says-it-is-pulling-the-plug-on-its-ai-powered-price-tests-2000702649)**
 
-Over the past week, Shopify has been in focus as analysts highlighted its push into AI-enabled “agentic commerce,” new Winter ’26 Edition tools, and enhanced partnerships like the Contentsquare analytics tie-up, while broader industry attention also touched on regulatory actions affecting merchants selling medical‑grade products online. At the same time, Shopify’s growing role in AI-powered commerce infrastructure and its support for initiatives such as Frontier’s long-term carbon removal...
+After an investigation found some customers were charged nearly 25% more for identical items, Instacart says itâs ending its controversial price-testing program.
 
-Yahoo Finance • 1h ago
-
----
-
-**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
-
-The New York Times • 11h ago
+Gizmodo • 1h ago
 
 ---
 
-**[AI is changing childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
+**[ChatGPT Thinks C3.ai Stock Will Close At This Price In The Next 60 Days](https://finance.yahoo.com/news/chatgpt-thinks-c3-ai-stock-210039833.html)**
 
-Axios • 11h ago
+Shares of C3.ai (AI) traded slightly higher over the past month, signaling life for a stock that has been battered by guidance cuts and market skepticism. Still, C3.ai remains down substantially for the year, and the tone around the enterprise AI ...
+
+Yahoo Finance • 58m ago
 
 ---
 
-**[The CEO of Microsoft AI says AI chatbots are a powerful way for humans to offload emotions and 'detoxify ourselves'](https://www.businessinsider.com/microsoft-ai-ceo-ai-chatbots-help-humans-detoxify-ourselves-2025-12)**
+**[AI is starting to have a bigger economic impact, BofA CEO says (BAC:NYSE)](https://seekingalpha.com/news/4534293-ai-is-starting-to-have-a-bigger-economic-impact-bofa-ceo-says)**
 
-Mustafa Suleyman, Microsoft AI's CEO, has described using AI for guidance on life decisions as "something that the world needs."
+Understood! Please provide the article or content for which you'd like a meta description.
 
-Business Insider • 6h ago
+Seeking Alpha • 2h ago
+
+---
+
+**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
+
+As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+
+CNN • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ Business Insider • 6h ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 513 • 💬 481 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 514 • 💬 481 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -213,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 258 • 💬 162 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 259 • 💬 162 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -241,7 +241,7 @@ The Indie Game Awards presented the award last night, only to strip it hours lat
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 146 • 💬 212 • 5h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 156 • 💬 222 • 5h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -252,7 +252,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 146 • 💬 74 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 148 • 💬 78 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -394,7 +394,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,290 • 14d ago
+⬇️ 363,445 • ❤️ 3,291 • 14d ago
 
 ---
 
@@ -430,7 +430,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 439 • 3d ago
+⬇️ 86,205 • ❤️ 440 • 3d ago
 
 ---
 
@@ -442,7 +442,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 396 • 4d ago
+⬇️ 8,830 • ❤️ 397 • 4d ago
 
 ---
 
@@ -530,7 +530,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,906 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,931 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 5h ago
+⭐ 5.7k • 🔱 631 • 6h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 180 • 3h ago
+⭐ 2.4k • 🔱 181 • 3h ago
 
 ---
 
@@ -679,7 +679,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 283 • 1h ago
+⭐ 1.9k • 🔱 284 • 8m ago
 
 ---
 
@@ -689,7 +689,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.6k • 🔱 355 • 16d ago
+⭐ 1.6k • 🔱 356 • 16d ago
 
 ---
 
@@ -709,7 +709,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 171 • 8h ago
+⭐ 1.0k • 🔱 171 • 9h ago
 
 ---
 
@@ -739,7 +739,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 868 • 🔱 80 • 5h ago
+⭐ 869 • 🔱 80 • 5h ago
 
 ---
 

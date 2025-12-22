@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T21:48:00.759750+00:00'
+updated: '2025-12-22T21:59:00.428134+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 21:48 UTC  
+**Last Updated:** December 22, 2025 at 21:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +1.1%  
-**30d:** +1.9%  
-**90d:** -21.7%  
-**1y:** -6.6%  
+**24h:** -0.3%  
+**7d:** +0.7%  
+**30d:** +1.4%  
+**90d:** -22.1%  
+**1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1764.12B
+**Market Cap:** $1762.17B
 Rank #1
 
-**Circulating Supply:** 19,965,659 BTC
+**Circulating Supply:** 19,965,678 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.9%
+-30.0%
 
 **All-Time Low:** $67.81
-+130149.2%
++130004.7%
 
 ---
 
@@ -89,7 +89,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-6h ago
+7h ago
 
 ---
 
@@ -129,11 +129,11 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
-**[BTC continues to accumulate](https://www.reddit.com/r/Bitcoin/comments/1psz6iy/btc_continues_to_accumulate/)**
+**[BTC supply held on exchanges is dropping and currently at levels last seen in late 2018](https://www.reddit.com/r/Bitcoin/comments/1pt91am/btc_supply_held_on_exchanges_is_dropping_and/)**
 
-Strategy has increased its USD reserve by $748 million and now holds $2.19 billion and ₿671,268.
+Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-8h ago
+2h ago
 
 ---
 
@@ -157,27 +157,19 @@ Bloomberg.com • 5h ago
 
 ---
 
-**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+**[Bitcoin Price Struggles at $90,000 as Christmas Trading Looms](https://bitcoinmagazine.com/news/bitcoin-price-struggles-at-90000)**
 
-Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+The bitcoin price briefly climbed above $90,000 after rising from $88,000 during Asian and European hours, before retreating toward $88,000 again during U.S. trading.
 
-CoinDesk • 8h ago
-
----
-
-**[Countries May Shift Gold Reserves To Bitcoin: Gemini](https://bitcoinmagazine.com/news/gemini-prediction-bitcoin-adoption-in-2026)**
-
-Gemini predicts that in 2026, Bitcoin’s market maturation may break its traditional four-year cycle, political engagement with crypto will rise, prediction markets will grow, digital asset treasury firms will consolidate, and at least one nation may convert part of its gold reserves into Bitcoin.
-
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 29m ago
 
 ---
 
-**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
+**[Bitcoin price news: BTC gives up early Monday gains, falling back below $88,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-slip-further-as-traders-brace-for-usd28-5b-deribit-expiry)**
 
-Pubkey wants to “soften” Bitcoin’s rough public image in DC.
+Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
 
-The Verge • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -197,31 +189,39 @@ Al Jazeera • 5h ago
 
 ---
 
+**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
+
+Pubkey wants to “soften” Bitcoin’s rough public image in DC.
+
+The Verge • 2h ago
+
+---
+
 **[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
 
 Forbes • 1d ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.nasdaq.com/articles/how-bitcoin-could-help-you-retire-multimillionaire-1)**
 
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+Key PointsBitcoin pioneered blockchain technology, but has become more of a digital gold.
 
-Nasdaq • 1d ago
+Nasdaq • 10h ago
+
+---
+
+**[Bitcoin December 22 daily chart alert - Bulls steady the market](https://www.kitco.com/news/article/2025-12-22/bitcoin-december-22-daily-chart-alert-bulls-steady-market)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 8h ago
 
 ---
 
 **[Billionaire hedge fund legend says central banks won’t hold Bitcoin](https://www.thestreet.com/crypto/trading/billionaire-hedge-fund-central-banks-wont-hold-bitcoin)**
 
 thestreet.com • 7h ago
-
----
-
-**[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
-
-Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
-
-Seeking Alpha • 9h ago
 
 ---
 
@@ -279,7 +279,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 2 • 💬 0 • 1h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 2h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin is at a critical crossroads as global liquidity signals turn mixed, the 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 1K • 💬 45 • ⏱️ 43:07 • 7h ago
+👁️ 15K • 👍 1K • 💬 45 • ⏱️ 43:07 • 8h ago
 
 ---
 

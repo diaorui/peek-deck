@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T21:48:00.765819+00:00'
+updated: '2025-12-22T21:59:00.434700+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 21:48 UTC  
+**Last Updated:** December 22, 2025 at 21:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +1.1%  
-**30d:** +6.8%  
-**90d:** -27.7%  
-**1y:** -12.6%  
+**24h:** +0.3%  
+**7d:** +0.8%  
+**30d:** +6.5%  
+**90d:** -27.9%  
+**1y:** -12.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.22B
+**Market Cap:** $360.29B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.6%
 
 **All-Time Low:** $0.43
-+689346.8%
++689494.6%
 
 ---
 
@@ -166,14 +166,6 @@ FXStreet • 17h ago
 
 ---
 
-**[Ethereum treasury news: ETHZills (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
-
-This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
-
-CoinDesk • 4h ago
-
----
-
 **[$270 Million From BlackRock Wallets Hit Coinbase; Bitcoin and Ethereum at Risk of Sell-Off](https://www.tradingview.com/news/u_today:ac09f76e3094b:0-270-million-from-blackrock-wallets-hit-coinbase-bitcoin-and-ethereum-at-risk-of-sell-off/)**
 
 BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
@@ -221,6 +213,14 @@ The Block • 3d ago
 Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
 
 ZyCrypto • 2d ago
+
+---
+
+**[Ethereum whales move in! $644 mln ETH ETF outflows drain the market](https://ambcrypto.com/ethereum-whales-move-in-644-mln-eth-etf-outflows-drain-the-market/)**
+
+Large holders are buying like never before while ETF numbers collapse.
+
+AMBCrypto • 13h ago
 
 ---
 
