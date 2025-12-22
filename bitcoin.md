@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T14:47:06.257461+00:00'
+updated: '2025-12-22T14:58:31.937158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 14:47 UTC  
+**Last Updated:** December 22, 2025 at 14:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +2.5%  
-**30d:** +3.3%  
-**90d:** -20.7%  
-**1y:** -5.4%  
+**24h:** +2.2%  
+**7d:** +3.0%  
+**30d:** +3.7%  
+**90d:** -20.3%  
+**1y:** -4.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.35B
+**Market Cap:** $1800.01B
 Rank #1
 
-**Circulating Supply:** 19,965,528 BTC
+**Circulating Supply:** 19,965,534 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.5%
 
 **All-Time Low:** $67.81
-+132600.2%
++132827.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ This is what long-term conviction sounds like. Adoption first. Price follows. No
 
 I found some 15-year-old hard drives... I used to mine BTC back then. What happens if there's something on them? What do I need to do next? I have absolutely no idea...
 
-17h ago
+18h ago
 
 ---
 
@@ -129,13 +129,7 @@ Pain is the
 
 **[Daily Bitcoin memes until Bitcoin hits $200k](https://www.reddit.com/r/Bitcoin/comments/1psm10l/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-13h ago
-
----
-
-**[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
-
-16h ago
+14h ago
 
 ---
 
@@ -145,15 +139,21 @@ Pain is the
 
 ---
 
+**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
+
+2h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, SOL ADA News: Bitcoin steadies near $89,000 as gold hits record](https://www.coindesk.com/markets/2025/12/22/bitcoin-steadies-near-usd89-000-as-gold-hits-record-and-asia-stocks-rise)**
+**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
 
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
 
-CoinDesk • 9h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -163,11 +163,11 @@ Investing.com • 7h ago
 
 ---
 
-**[Bitcoin Price Analysis: Traders brace for U.S. session as BTC climbs above $90,000](https://www.coindesk.com/markets/2025/12/22/bitcoin-reclaims-usd90-000-with-u-s-trading-risk-ahead)**
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
 
-Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
+This dip is an opportunity to think about what matters most with this asset.
 
-CoinDesk • 1h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -179,19 +179,11 @@ The Motley Fool • 3h ago
 
 ---
 
-**[JPMorgan Is Exploring Crypto Trading for Institutional Clients](https://www.bloomberg.com/news/articles/2025-12-22/jpmorgan-is-exploring-crypto-trading-for-institutional-clients)**
+**[Watch Assia: Bitcoin is Digital Gold](https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video)**
 
-JPMorgan Chase &amp; Co. is considering offering cryptocurrency trading to its institutional clients, as large banks around the world deepen their involvement in the asset class.
+Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-Bloomberg.com • 1h ago
-
----
-
-**[S&P 500's Santa tradition offers hope to battered Bitcoin (BTC) bulls](https://www.coindesk.com/markets/2025/12/22/stock-market-s-santa-tradition-offers-hope-to-battered-bitcoin-bulls)**
-
-A time-honored Wall Street pattern could bring relief to battered BTC bulls as the year end nears.
-
-CoinDesk • 1h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -209,9 +201,9 @@ Yahoo Finance • 15h ago
 
 ---
 
-**[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqf-q1vm8p9X6Hz7gTkFFb_3AwUqOdSxr3vR5e66dRhxSdJevZtmrspG&gaa_ts=6949589e&gaa_sig=iY4MtFaa94MoUQgQheB8-COQ6jn2xnXxQkzdcMKTDcM7YkEbg4xwsDdjBIut6ctMcjSDwJBc_5vOd1vCb71XAw%3D%3D)**
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcAFiP2n84ZI8K37pifTXtZ1jV8zPs6DOzyJhke7sflCxAD1kvxaqaA&gaa_ts=69496003&gaa_sig=rBaijPzejcTLY_yC0m5Jvy44xURA1lg11PnwGgvhat3tu64ZAJWUAxetMVATHD74Fc9P59Xcp43SEViGEJLvnw%3D%3D)**
 
-Barron's • 3h ago
+Barron's • 49m ago
 
 ---
 
@@ -220,6 +212,14 @@ Barron's • 3h ago
 Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
 
 Nasdaq • 1d ago
+
+---
+
+**[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
+
+Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
+
+Seeking Alpha • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T14:47:06.267300+00:00'
+updated: '2025-12-22T14:58:31.943124+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 14:47 UTC  
+**Last Updated:** December 22, 2025 at 14:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +2.7%  
-**30d:** +8.5%  
-**90d:** -26.6%  
-**1y:** -11.2%  
+**24h:** +3.0%  
+**7d:** +3.4%  
+**30d:** +9.3%  
+**90d:** -26.0%  
+**1y:** -10.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $369.84B
+**Market Cap:** $369.90B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.1%
 
 **All-Time Low:** $0.43
-+706590.2%
++707389.3%
 
 ---
 
@@ -182,12 +182,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcm8FO5jgXhAfItWaWkdQnPL5_WT9e-v5Ca_21BHerkYKtrRBQyzw0z&gaa_ts=694958a1&gaa_sig=DCb7nLkccHt6mBM6AItdqozQ9ik8uGxNTyKipnE5OacO57x9FXM15k5Z-y5ap2dYyVewoAT_n9bGcCVhrpZnXg%3D%3D)**
-
-Barron's • 3h ago
-
----
-
 **[Solana to Surpass Ethereum in Yearly Revenue](https://www.tradingview.com/news/u_today:85769ad66094b:0-solana-to-surpass-ethereum-in-yearly-revenue/)**
 
 Solana founder Anatoly Yakovenko has shared new data that shows Solana has outperformed Ethereum in yearly revenue, highlighting what he sees as a pivotal shift in how value may be distributed across the crypto market.The infographics by DeFi Development Corp. show the projected chain revenue compa…
@@ -223,6 +217,14 @@ ZyCrypto • 1d ago
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
 The Block • 3d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T14:47:06.272863+00:00'
+updated: '2025-12-22T14:58:31.946334+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 14:47 UTC  
+**Last Updated:** December 22, 2025 at 14:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-3h ago
+4h ago
 
 ---
 
@@ -72,11 +72,27 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 ---
 
+**[watchdog using roborock](https://www.reddit.com/r/robotics/comments/1pt14lc/watchdog_using_roborock/)**
+
+new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
+
+20m ago
+
+---
+
 **[Walking gait](https://www.reddit.com/r/robotics/comments/1ps85lc/walking_gait/)**
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
 
-23h ago
+1d ago
+
+---
+
+**[Anyone here from India?](https://www.reddit.com/r/robotics/comments/1pszctm/anyone_here_from_india/)**
+
+Hey everyone! I’m a high school student from India and just starting out with robotics Right now I’m mostly experimenting and learning, so instead of buying everything brand new I thought I’d ask here If anyone in India has robotics/electronics components they’re not using anymore and would be willing to sell them at a reasonable price, I’d really appreciate it Stuff like DC/servo motors/stepper motors Sensors Arduino/ESP boards Motor drivers, power modules etc If you hve upgraded your setup or just have spare parts lying around I’d be happy to put them to good use Im not trying to lowball anyone totally fine with paying fairly Thanks [ Attached Image : Irrelevant ]
+
+1h ago
 
 ---
 
@@ -88,27 +104,11 @@ Just came across this Medical Robotics Market report from Roots Analysis — maj
 
 ---
 
-**[I made a software framework to make a robot crawl like a Baby](https://www.reddit.com/r/robotics/comments/1pshtr3/i_made_a_software_framework_to_make_a_robot_crawl/)**
-
-I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
-
-17h ago
-
----
-
 **[Olaf: Bringing an Animated Character to Life in the Physical World](https://www.reddit.com/r/robotics/comments/1psmxsh/olaf_bringing_an_animated_character_to_life_in/)**
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
 🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 13h ago
-
----
-
-**[Anyone here from India?](https://www.reddit.com/r/robotics/comments/1pszctm/anyone_here_from_india/)**
-
-Hey everyone! I’m a high school student from India and just starting out with robotics Right now I’m mostly experimenting and learning, so instead of buying everything brand new I thought I’d ask here If anyone in India has robotics/electronics components they’re not using anymore and would be willing to sell them at a reasonable price, I’d really appreciate it Stuff like DC/servo motors/stepper motors Sensors Arduino/ESP boards Motor drivers, power modules etc If you hve upgraded your setup or just have spare parts lying around I’d be happy to put them to good use Im not trying to lowball anyone totally fine with paying fairly Thanks [ Attached Image : Irrelevant ]
-
-1h ago
 
 ---
 
@@ -132,25 +132,17 @@ Stock Titan • 6h ago
 
 ---
 
-**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.post-gazette.com/business/tech-news/2025/12/22/agility-robotics-artificial-intelligence-humanoid-digit-robot/stories/202512110094)**
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
 
-Digit the humanoid robot is 5 feet 9 inches tall and lives in warehouses, helping its human coworkers move and stack boxes up to 35 pounds. It also “smiles”...
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
 
-Pittsburgh Post-Gazette • 5h ago
+The Verge • 1d ago
 
 ---
 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
 Bloomberg.com • 3d ago
-
----
-
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
-
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
-
-Phoronix • 3h ago
 
 ---
 
@@ -170,11 +162,19 @@ Business Insider • 15h ago
 
 ---
 
-**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
+**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
 
-Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
+NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Sifted • 9h ago
+Phoronix • 3h ago
+
+---
+
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
+
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 28K • 👍 146 • 💬 6 • ⏱️ 0:19 • 21h ago
+👁️ 28K • 👍 146 • 💬 6 • ⏱️ 0:19 • 22h ago
 
 ---
 
