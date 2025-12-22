@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T07:54:49.474464+00:00'
+updated: '2025-12-22T08:30:58.997132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 07:54 UTC  
+**Last Updated:** December 22, 2025 at 08:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
 
-22h ago
+23h ago
 
 ---
 
@@ -76,7 +76,7 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 Did anyone here preorder the NEO Home product? If so, through which medium did you preorder it: standard (monthly subscription) or early access (ownership)?
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ I wanted to show you the latest progress on my robot RKP 1. I managed to control
 
 Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
 
-6h ago
+7h ago
 
 ---
 
@@ -100,7 +100,7 @@ Recently I have started working on developing a mini-Vision-Language-Action mode
 
 hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
 
-4h ago
+5h ago
 
 ---
 
@@ -108,7 +108,7 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 
 https://arxiv.org/abs/2512.13093 Achieving efficient and robust whole-body control (WBC) is essential for enabling humanoid robots to perform complex tasks in dynamic environments. Despite the success of reinforcement learning (RL) in this domain, its sample inefficiency remains a significant challenge due to the intricate dynamics and partial observability of humanoid robots. To address this limitation, we propose PvP, a Proprioceptive-Privileged contrastive learning framework that leverages the intrinsic complementarity between proprioceptive and privileged states. PvP learns compact and task-relevant latent representations without requiring hand-crafted data augmentations, enabling faster and more stable policy learning. To support systematic evaluation, we develop SRL4Humanoid, the first unified and modular framework that provides high-quality implementations of representative state representation learning (SRL) methods for humanoid robot learning. Extensive experiments on the LimX Oli robot across velocity tracking and motion imitation tasks demonstrate that PvP significantly improves sample efficiency and final performance compared to baseline SRL methods. Our study further provides practical insights into integrating SRL with RL for humanoid WBC, offering valuable guidance for data-efficient humanoid robot learning.
 
-12h ago
+13h ago
 
 ---
 
@@ -130,27 +130,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
-
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
-
-South China Morning Post • 2d ago
-
----
-
 **[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
 Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
 Futurism • 2d ago
-
----
-
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
-
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
-
-The Verge • 18h ago
 
 ---
 
@@ -162,25 +146,11 @@ TechNode • 1d ago
 
 ---
 
-**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
+**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
 
-Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
+China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
-CNET • 18h ago
-
----
-
-**[China’s humanoid robots' dance performance in Chengdu awes netizens; Elon Musk calls it ‘impressive’ on X](https://www.globaltimes.cn/page/202512/1351059.shtml)**
-
-Six humanoid robots recently took the stage at Chinese American singer-songwriter Wang Leehomâs concert in Chengdu, Southwest Chinaâs Sichuan Province, performing alongside the singer and drawing widespread attention, including praise from US tech billionaire Elon Musk, who retweeted a related video on X, and wrote âimpressive.â
-
-Global Times • 2d ago
-
----
-
-**[Home Service Robots](https://www.trendhunter.com/trends/neo-gamma1)**
-
-Trend Hunter • 2d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -189,6 +159,38 @@ Trend Hunter • 2d ago
 Two teams from Georgia Brown Dual Immersion School’s robotics program recently competed in the Santa Maria Winter Wonderland Robotics Open, bringing home four top awards.
 
 KSBY News • 3d ago
+
+---
+
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+
+The Verge • 19h ago
+
+---
+
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 2d ago
+
+---
+
+**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
+
+Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
+
+CNET • 19h ago
+
+---
+
+**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
+
+Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -212,7 +214,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 17K • 👍 403 • 💬 86 • ⏱️ 5:25 • 18h ago
+👁️ 17K • 👍 403 • 💬 86 • ⏱️ 5:25 • 19h ago
 
 ---
 
@@ -232,7 +234,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 997K • 👍 14K • 💬 289 • ⏱️ 0:29 • 8h ago
+👁️ 997K • 👍 14K • 💬 289 • ⏱️ 0:29 • 9h ago
 
 ---
 
@@ -242,7 +244,7 @@ Chinese robotics leader Unitree is capping off a blockbuster year the same way i
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 30 • 💬 5 • ⏱️ 7:34 • 23h ago
+👁️ 2K • 👍 30 • 💬 5 • ⏱️ 7:34 • 1d ago
 
 ---
 
