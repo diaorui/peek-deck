@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T11:23:46.139187+00:00'
+updated: '2025-12-22T11:39:13.862875+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 11:23 UTC  
+**Last Updated:** December 22, 2025 at 11:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +2.6%  
+**24h:** +1.7%  
+**7d:** +2.5%  
 **30d:** +8.4%  
 **90d:** -26.6%  
-**1y:** -11.2%  
+**1y:** -11.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.17B
+**Market Cap:** $367.69B
 Rank #2
 
 **Circulating Supply:** 120,695,004 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.5%
+-38.4%
 
 **All-Time Low:** $0.43
-+702691.6%
++703599.3%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was recently threatened with a ban for mentioning one thing I think is neglected in scaling, so I assume I will not mention that here. But another important thing, is parallel contract execution. This is probably a topic many people here have expertise on since upwards 10 years, and thus something where those with expertise can share, or when there is unsolved problems, there can be discussion. Ethereum in 2014 ordered all transactions in a block sequentially in the transaction-trie (sequence number as key in trie). It seems an upgrade from that to parallel execution could be the "transaction dependency trie". Where the keys are the number of dependencies (from 0 and upwards), and then each key stores a nested trie with the transactions. Block validators can them simply run transactions in order of dependencies. This trie can be constructed based on read/writes of storage slots. It also seems meaningful with the old flat storage trie idea, which I assume was always about parallelization. It could have "storage objects" that each contain a trie where the keys are storage slots, and storage slots can contain pointers to storage objects. Thus you can have mappings and arrays and such that can be operated on in parallel by shards (I will avoid mentioning my other idea on how such sharding should be organized, as I am threatened with a ban if I do, although it would be easier if moderation here could moderate itself to behave more in line with normal civil discourse). Such is quite easily shardable it seems, arbitrarily (and how arbitrary sharding is allowed, is in that idea I am not allowed to mention by the moderator Edmund with support from Ligi who has publicly threatened a ban if I do). The key is shards can easily collaborate on assembling the Merkle roots for such tries, and mange ranges of keys (based on most significant bits), this has always been a known property of Patricia Merkle Tries. Why is parallelization important to me? Well I invented "video pseudonym parties" between 2015 and 2018 (Gavin Wood who alone built first version of Ethereum is currently approaching same idea and he calls it "proof-of-video-interaction") and it requires hundreds of thousands of transactions per second for 10 billion citizens. The whitepaper is public and published since 2018, it has been cited by MIT researched Bryan Ford in numerous publications, was in Frontiers and Bloomberg, and has been well known by "the community" (but it was originally invented together with a controversial organization). Note, inter-shard "mutexes" (which will be in contract code most likely) is part of such coordination too, but again, me being forbidden from mentioning the elephant in the room on sharding does make it harder to have a technical discussion, and it would be good if the moderation here could overrule that moderator's threat. I do not see how it is productive to forbid mentioning the elephant in the room on sharding, it ought to make it impossible to move past that bottleneck. Edit: The dependency trie probably needs storage slots nested under each transaction, and for multiple accesses sequential list, and then the transaction hash dependencies for each. The block validator has to run every transaction in parallel, but the dependency trie acts as implicit "mutex" for each point of contention, with no deadlocks as the block producer could run it. It is a bit complicated, but it seems it should work. The "number of dependencies" part in the trie can be skipped, it is meaningless. But it would be easier if I was not threatened with ban if I mention the elephant in the room in scaling, as it is important here in how the sharding is ideally organized (or, the only way it works in this current paradigm).
 
-20h ago
+21h ago
 
 ---
 
@@ -170,7 +170,23 @@ CryptoSlate • 1d ago
 
 Spot XRP XRP $1.93 24h volatility: 0.1% Market cap: $116.72 B Vol. 24h: $2.37 B ETFs in the United States have continued to show strength, clocking $82 million in inflows over the past week. The significance of these net flows is even more pronounced as Bitcoin BTC $89 759 24h ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum Hit Harder Than Bitcoin as $952 Million Exits Crypto Funds—Here’s Why](https://finance.yahoo.com/news/ethereum-hit-harder-bitcoin-952-110702690.html)**
+
+US Clarity Act delays cause $952 million in crypto outflows, with regulatory fears hitting Ethereum hardest.
+
+Yahoo Finance • 32m ago
+
+---
+
+**[Where Will Cryptocurrency Ethereum Be in 5 Years?](https://www.fool.com/investing/2025/12/22/where-will-cryptocurrency-ethereum-be-in-5-years/)**
+
+Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
+
+The Motley Fool • 52m ago
 
 ---
 
@@ -190,17 +206,9 @@ FXStreet • 7h ago
 
 ---
 
-**[3 Predictions for Ethereum in 2026](https://www.fool.com/investing/2025/12/19/3-predictions-for-ethereum-eth-in-2026/)**
-
-Next year could be good but won't be driven by blockchain tech upgrades.
-
-The Motley Fool • 3d ago
-
----
-
 **[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -212,19 +220,11 @@ ts2.tech • 2d ago
 
 ---
 
-**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
+**[Bitcoin Or Ethereum To $62,000? Fundstrat Releases Contrasting 2026 Predictions | Bitcoinist.com](https://bitcoinist.com/bitcoin-ethereum-62000-fundstrat-2026-predictions/)**
 
-As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
+Tom Lee, chairman of BitMine and managing partner at Fundstrat, has been a vocal optimist when it comes to the cryptocurrency market, especially for Bitcoin
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
-
-ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
-
-AMBCrypto • 2d ago
+Bitcoinist.com • 22h ago
 
 ---
 
@@ -298,7 +298,7 @@ Tom Lee says “buy Bitcoin” on TV… but his firm is quietly making an Ethere
 
 📺 Ryan’s Money Lab
 
-👁️ 7K • 👍 298 • 💬 42 • ⏱️ 8:06 • 19h ago
+👁️ 7K • 👍 298 • 💬 42 • ⏱️ 8:06 • 20h ago
 
 ---
 

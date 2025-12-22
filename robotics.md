@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T11:23:46.142405+00:00'
+updated: '2025-12-22T11:39:13.865754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 11:23 UTC  
+**Last Updated:** December 22, 2025 at 11:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[GITAI's rovers and robotic arms deploy solar panels and weld in a construction field test](https://www.reddit.com/r/robotics/comments/1pswpjv/gitais_rovers_and_robotic_arms_deploy_solar/)**
+
+Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
+
+47m ago
+
+---
+
 **[Tilt gimbal](https://www.reddit.com/r/robotics/comments/1pso6qv/tilt_gimbal/)**
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-8h ago
+9h ago
 
 ---
 
@@ -48,6 +56,14 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 ---
 
+**[Why don’t we have a small home robot that just… exists?](https://www.reddit.com/r/robotics/comments/1pswx2g/why_dont_we_have_a_small_home_robot_that_just/)**
+
+I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
+
+34m ago
+
+---
+
 **[Walking gait](https://www.reddit.com/r/robotics/comments/1ps85lc/walking_gait/)**
 
 Hello, Here is the first results of a walking gait for Plume. I'm still trying to improve IMU stabilization and the overall dynamic of the gait. (see more information about it here ) Making a robot walk was a dream of mine for a long time. I'm also looking at RL training with isaac sim but that's a whole new world for me. Thanks!
@@ -56,11 +72,11 @@ Hello, Here is the first results of a walking gait for Plume. I'm still trying t
 
 ---
 
-**[GITAI's rovers and robotic arms deploy solar panels and weld in a construction field test](https://www.reddit.com/r/robotics/comments/1pswpjv/gitais_rovers_and_robotic_arms_deploy_solar/)**
+**[Medical Robotics Growth Outlook: Surgical, Rehab, and Assistive Robots on the Rise](https://www.reddit.com/r/robotics/comments/1psx8hx/medical_robotics_growth_outlook_surgical_rehab/)**
 
-Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
+Just came across this Medical Robotics Market report from Roots Analysis — major growth ahead for surgical tech! According to the summary, the global medical robotics market is expected to grow from about $10.1B in 2024 to ~$31.3B by 2035, with a ~10.8% CAGR. Surgical robots currently hold the largest share, with strong adoption in orthopedic and minimally invasive procedures, while rehabilitation robots and smart exoskeletons are gaining traction too. North America leads the market, but Asia-Pacific is the fastest-growing region. If you’re into surgical innovation and future tech trends, this forecast is worth a look.
 
-31m ago
+15m ago
 
 ---
 
@@ -68,7 +84,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 10h ago
 
 ---
 
@@ -76,7 +92,7 @@ About a year ago, the works about BD-1 was being released, https://la.disneyrese
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-13h ago
+14h ago
 
 ---
 
@@ -96,22 +112,6 @@ Did anyone here preorder the NEO Home product? If so, through which medium did y
 
 ---
 
-**[Modular mini-VLA model](https://www.reddit.com/r/robotics/comments/1psmugb/modular_minivla_model/)**
-
-Recently I have started working on developing a mini-Vision-Language-Action model (but forgot to share it here... oops!) Latest update! Making mini-VLA more modular using CLIP and SigLIP encoders. Checkout the code at https://github.com/keivalya/mini-vla/tree/vision and the supporting blog at Upgrading mini-VLA with CLIP/SigLIP vision encoders which is a 6 min read and dives deeper into **how to design VLA to be modular**! Previous updates! In this post I am covering (1) mathematical foundation behind mini-VLA (2) intuitive steps that align with the math and (3) code explanation. BLOG -- Building VLA models from scratch — II Introductory I built a small side project and wanted to share in case it’s useful. mini-VLA — a minimal Vision-Language-Action (VLA) model for robotics. Very small core (~150 lines-of-code) Beginner-friendly VLA that fuses images + text + state → actions Uses a diffusion policy for action generation BLOG -- Building Vision-Language-Action Model from scratch Source code: https://github.com/keivalya/mini-vla
-
-9h ago
-
----
-
-**[can someone explain how sunday's memo's elbow joint works?](https://www.reddit.com/r/robotics/comments/1psoszq/can_someone_explain_how_sundays_memos_elbow_joint/)**
-
-hey y'all, so im working on a mini version of sunday's memo robot. im a bit new to the space so im not exactly sure how they're making the joint work, and i can't find a solid name for it online. i'm assuming its some kind of self contained joint? cause it looks like a sandwich, with a middle unit which i guess houses the motor and the caps which i think move the forearm? if someone could point me in the right direction i'd appreciate it! thanks in advance.
-
-8h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -119,22 +119,6 @@ hey y'all, so im working on a mini version of sunday's memo robot. im a bit new 
 **[Humanoid Robots Are Coming, As Soon As They Learn to Fold Clothes](https://www.bloomberg.com/news/articles/2025-12-19/humanoid-robots-are-emerging-as-the-next-big-ai-breakthrough)**
 
 Bloomberg.com • 3d ago
-
----
-
-**[We May Not Know How Strong AI Humanoid Robots Really Are](https://www.cnet.com/tech/computing/we-may-not-know-how-strong-ai-humanoid-robots-really-are/)**
-
-Recent demonstrations and lawsuits over the strength of AI humanoid robots raise essential questions about safety standards.
-
-CNET • 22h ago
-
----
-
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
-
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
-
-The Verge • 22h ago
 
 ---
 
@@ -154,19 +138,11 @@ Pittsburgh Post-Gazette • 2h ago
 
 ---
 
-**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
 
-Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
 
-KEYC News Now • 2d ago
-
----
-
-**[China’s humanoid arms race: start-ups debut robots for stores, offices and factories](https://www.scmp.com/tech/big-tech/article/3337098/chinas-humanoid-arms-race-start-ups-debut-robots-stores-offices-and-factories)**
-
-China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
-
-South China Morning Post • 2d ago
+Futurism • 2d ago
 
 ---
 
@@ -178,19 +154,41 @@ KSBY News • 3d ago
 
 ---
 
-**[Robots Tear Up Stage as Backup Dancers](https://futurism.com/robots-and-machines/robots-stage-backup-dancers)**
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
 
-Unitree's G1 robot made its major stage debut by appearing alongside Chinese singer Wang Leehom during a Friday night concert in China.
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
 
-Futurism • 2d ago
+KEYC News Now • 2d ago
 
 ---
 
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+**[Chef Robotics launches its most advanced assembly robot yet](https://www.therobotreport.com/chef-robotics-launches-most-advanced-assembly-robot-yet/)**
 
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+Chef Robotics unveiled Chef+, an advanced AI robot with doubled capacity and a new automated meal flattening tool.
 
-TechNode • 1d ago
+The Robot Report • 1d ago
+
+---
+
+**[Bernie Sanders Questions Elon Musk's Universal High Income, Free Housing Claims Amid AI, Robotics Push: 'How Will This Utopia Come…'](https://finance.yahoo.com/news/bernie-sanders-questions-elon-musks-193106106.html)**
+
+Sen. Bernie Sanders (I-VT) has slammed Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk amid an AI and Robotics push. How Will This Utopia Come About, Bernie Sanders Asks In a post on the social media platform X on Thursday, Sanders shared a video directed at Musk. "Just a couple of questions for you," Sanders captioned the video. In the video, the Senator asked Musk questions about his artificial intelligence and robotics efforts, which will bring about a "utopia" in the world. "You have told us poverty
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Texas A&M engineering students build robotic, AI-powered dog to help with emergency response](https://www.newsnationnow.com/business/tech/texas-am-engineering-students-robot-dog/)**
+
+NewsNation • 22h ago
+
+---
+
+**[‘World’s most advanced’ robotic hand enters mass production with 22 motion freedoms](https://interestingengineering.com/ai-robotics/sharpas-advanced-robotic-hand-enters-mass-production)**
+
+Sharpa Robotics moves its SharpaWave dexterous hand into mass production, scaling human-level robotic manipulation ahead of CES 2026.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -264,7 +262,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 54K • 👍 667 • 💬 172 • ⏱️ 3:55 • 2d ago
+👁️ 54K • 👍 667 • 💬 172 • ⏱️ 3:55 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T11:23:46.124726+00:00'
+updated: '2025-12-22T11:39:13.849803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 11:23 UTC  
+**Last Updated:** December 22, 2025 at 11:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 5h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 6h ago
 
 ---
 
@@ -89,7 +89,15 @@ At a Silicon Valley summit, small robots roamed and poured lattes, while evangel
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 1h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 2h ago
+
+---
+
+**[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
+
+The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
+
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 37m ago
 
 ---
 
@@ -97,7 +105,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 With the upgraded AI Vision, Samsung becomes more fluent in food recognition and expands the reach of kitchen experiences  Company will also showcase a new Bespoke AI Wine Cellar and newly designed cooking appliances
 
-🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 5h ago
+🔗 [Samsung Global Newsroom](https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026) • 6h ago
 
 ---
 
@@ -109,19 +117,11 @@ I have observed that many people are talking about how Google is the only compan
 
 ---
 
-**[Apple study shows how an AI-powered ISP could dramatically improve low-light iPhone photos](https://www.reddit.com/r/artificial/comments/1ps4k3r/apple_study_shows_how_an_aipowered_isp_could/)**
-
-Apple researchers have developed an AI model that recovers detail from raw sensor data that would normally be lost. Here's how they did it.
-
-🔗 [9to5Mac](https://9to5mac.com/2025/12/19/apple-study-shows-how-an-ai-powered-isp-could-dramatically-improve-low-light-iphone-photos/) • 23h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeZp0gT4XdjRGqE8eKGo5nr4Ku_IbwCk0QkypJvOYmxTgkzVFtUK8rQ&gaa_ts=69492769&gaa_sig=fx_AcTyRyMmYvfFrfd6uo50Bkl9vHPDNCScSQ-FBSvH0I0mZZYl98oa-18_N9OSFOzCxo5y09jzWVryHiREggQ%3D%3D)**
+**[This Is What the World’s Smartest Minds Really Think About AI](https://www.wsj.com/tech/ai/ai-conference-neurips-ff6398df?gaa_at=eafs&gaa_n=AWEtsqeN22F_AO3XrSoQ_R8P24euYHJUIzNBbaTF1pd6ylsLAfWyclpwgFUY&gaa_ts=69493147&gaa_sig=6IRINlMYSLUyXwnjMsEFWdPES3HdX2RG46-3r4PbQsmMa-Nl2TAPYzKiHUg9AJ8AIJg-4_uS7wPzDWRqcIFAjA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -143,29 +143,39 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[AI, Manufacturing Reset Spell 2026 Boon for European Industrials](https://www.bloomberg.com/news/articles/2025-12-22/ai-manufacturing-reset-spell-2026-boon-for-european-industrials)**
+**[AI cheating accusations create trust issues in Michigan classrooms](https://www.freep.com/story/news/education/2025/12/22/ai-cheating-accusations-create-trust-issues-in-michigan-classrooms/87792506007/)**
 
-Bloomberg.com • 2h ago
+When AI detection software fails, students and teachers have to negotiate difficult conversations about cheating with artificial intelligence.
+
+Detroit Free Press • 34m ago
 
 ---
 
 **[AI is reshaping childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
 
-Axios • 51m ago
+Axios • 1h ago
 
 ---
 
-**[The Most Worrying Bits from Bloomberg’s Worrisome AI Bubble Q&A with Jason Furman](https://gizmodo.com/the-most-worrying-bits-from-bloombergs-worrisome-ai-bubble-qa-with-jason-furman-2000702356)**
+**[Scared of AI? 11 essential books for navigating our new normal](https://www.latimes.com/entertainment-arts/books/story/2025-12-22/best-ai-books-2025-fiction-nonfiction)**
 
-I'm starting to worry that I'm not worried enough about the AI bubble.
+Is AI a utopian promise or an existential threat? These 11 must-read books — featuring Annie Bot, Empire of AI and UnWorld — navigate the turbulent landscape of deepfakes, algorithmic bias, and the quest for Artificial General Intelligence.
 
-Gizmodo • 1h ago
+Los Angeles Times • 39m ago
 
 ---
 
-**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
+**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
 
-Politico • 1d ago
+A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
+
+ABC News • 4h ago
+
+---
+
+**[AI Data Center Gold Rush Driven by Thousands of Newcomers](https://www.bloomberg.com/graphics/2025-ai-data-center-ownership/)**
+
+Bloomberg.com • 13h ago
 
 ---
 
@@ -177,19 +187,9 @@ CNBC • 2d ago
 
 ---
 
-**[Extremists are using AI voice cloning to supercharge propaganda. Experts say it’s helping them grow](https://www.theguardian.com/technology/2025/dec/21/ai-voice-cloning-nazis-islamic-state-extremism)**
+**[Trump AI czar David Sacks starts to worry the industry](https://www.politico.com/news/2025/12/20/big-tech-gets-worried-about-trumps-ai-czar-00701112)**
 
-Researchers warn generative tools are helping militant groups from neo-Nazis to the Islamic State spread ideology
-
-The Guardian • 22h ago
-
----
-
-**[Experts warn AI is making your brain work less](https://www.bbc.com/news/articles/cd6xz12j6pzo)**
-
-Generative AI tools have become hugely popular but some experts worry about the effect they have on the brain.
-
-BBC • 2d ago
+Politico • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ BBC • 2d ago
 
 Exclusive: Tech exec admits not dead cert it'll find the right solution
 
-⬆️ 508 • 💬 472 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 510 • 💬 475 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
 
 ---
 
@@ -213,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 229 • 💬 182 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 231 • 💬 182 • 1d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -221,7 +221,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 227 • 💬 137 • 18h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 229 • 💬 140 • 18h ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -229,7 +229,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 172 • 💬 390 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 173 • 💬 390 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -253,7 +253,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 Personal Musings and Transcripts
 
-⬆️ 122 • 💬 60 • 18h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 124 • 💬 60 • 18h ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -267,7 +267,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 114 • 💬 103 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 116 • 💬 103 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -307,7 +307,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 55K • 👍 2K • 💬 103 • ⏱️ 1:29 • 16h ago
+👁️ 55K • 👍 2K • 💬 103 • ⏱️ 1:29 • 17h ago
 
 ---
 
@@ -327,7 +327,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 3K • 👍 173 • 💬 10 • ⏱️ 13:03 • 13h ago
+👁️ 3K • 👍 173 • 💬 10 • ⏱️ 13:03 • 14h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,272 • 13d ago
+⬇️ 363,445 • ❤️ 3,275 • 13d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 498 • 3d ago
+⬇️ 5,379 • ❤️ 500 • 3d ago
 
 ---
 
@@ -417,7 +417,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 446 • 3d ago
+⬇️ 14,346 • ❤️ 447 • 3d ago
 
 ---
 
@@ -477,7 +477,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 332 • 5d ago
+⬇️ 0 • ❤️ 333 • 5d ago
 
 ---
 
@@ -659,7 +659,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 624 • 1h ago
+⭐ 5.7k • 🔱 624 • 2h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 177 • 49m ago
+⭐ 2.4k • 🔱 177 • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 227 • 3m ago
+⭐ 1.4k • 🔱 227 • 19m ago
 
 ---
 
@@ -729,7 +729,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 892 • 🔱 89 • 38m ago
+⭐ 892 • 🔱 89 • 53m ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T11:23:46.133248+00:00'
+updated: '2025-12-22T11:39:13.857465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 11:23 UTC  
+**Last Updated:** December 22, 2025 at 11:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,246.60
+### $89,927.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +2.3%  
+**24h:** +1.4%  
+**7d:** +2.4%  
 **30d:** +3.1%  
 **90d:** -20.8%  
 **1y:** -5.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1792.36B
+**Market Cap:** $1795.46B
 Rank #1
 
 **Circulating Supply:** 19,965,484 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.7%
 
 **All-Time Low:** $67.81
-+132320.0%
++132535.3%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Doesn’t look so heavily diverged from M2 now does it? In fact, you can see periods where it diverged further than it is now. …just sayin!
 
-10h ago
+11h ago
 
 ---
 
@@ -105,6 +105,12 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 ---
 
+**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
+
+1h ago
+
+---
+
 **[Fed Injects $6.8B Liquidity Tomorrow — Is Bitcoin About to React?](https://www.reddit.com/r/Bitcoin/comments/1psi4ns/fed_injects_68b_liquidity_tomorrow_is_bitcoin/)**
 
 JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the market tomorrow at 9:00 AM EST.
@@ -116,12 +122,6 @@ JUST IN: 🇺🇸 Federal Reserve scheduled to inject $6.8 billion into the mark
 **[Sending this to my boomer dad and his accountant who keep swearing by the S&P 500.](https://www.reddit.com/r/Bitcoin/comments/1psi7qo/sending_this_to_my_boomer_dad_and_his_accountant/)**
 
 13h ago
-
----
-
-**[Another cycle, same routine.](https://www.reddit.com/r/Bitcoin/comments/1psvt24/another_cycle_same_routine/)**
-
-1h ago
 
 ---
 
@@ -155,7 +155,23 @@ Bitcoin price stays range-bound as exchange outflows jump 59%, signaling rising 
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
+
+---
+
+**[3 Reasons Why I'm Not Worried About Bitcoin Slipping Below $90,000](https://www.fool.com/investing/2025/12/20/3-reasons-why-i-dont-worry-about-bitcoin-slipping/)**
+
+This dip is an opportunity to think about what matters most with this asset.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Analyst Explains Bitcoin Price Path To $70K: Why This Level Might Be Inevitable](https://www.tradingview.com/news/newsbtc:83b48b186094b:0-analyst-explains-bitcoin-price-path-to-70k-why-this-level-might-be-inevitable/)**
+
+The Bitcoin price looks set to end the year in the red, having produced one of its worst Q4 performances in recent years. However, it appears that the new year 2026 might bring the relief majority of the market expects. According to a recent evaluation, the Bitcoin price structure suggests that a d…
+
+TradingView — Track All Markets • 22h ago
 
 ---
 
@@ -167,27 +183,25 @@ The Motley Fool • 12h ago
 
 ---
 
-**[EU's Largest Bitcoin Miner Northern Data Sold to Tether-run Companies, But There’s a Twist](https://finance.yahoo.com/news/eus-largest-bitcoin-miner-northern-100114294.html)**
+**[Bitcoin Hovers Below $90,000. Traders Bet on a 5% Rally By Christmas.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcoIarzpxqOEip2A7c2S6Br-PlopgncPeFFIDjAW3m8ODibc7pRuBxP&gaa_ts=69493149&gaa_sig=0U6I7x5nCO1UaK4rNceKjpCTjybkgA9-VKbrVp9THryZ0_CLXl8m7idCtc7enAB8prpsnmNHBgcmGDwAgyn4gg%3D%3D)**
 
-The November sale of Peak Mining, the Bitcoin mining subsidiary of Northern Data, has raised concerns. The sale was made to three companies, two of ...
-
-Yahoo Finance • 1h ago
+Barron's • 9m ago
 
 ---
 
-**[Bullish Bitcoin (BTC) Plays on Bitfinex Swell to Highest Since Early 2024](https://www.coindesk.com/markets/2025/12/22/bullish-bitcoin-plays-on-bitfinex-swell-to-highest-since-early-2024)**
+**[Galaxy Digital Issues 2027 Bitcoin Forecast as 2026 Outlook Remains Unclear](https://finance.yahoo.com/news/galaxy-digital-issues-2027-bitcoin-105808345.html)**
 
-Margin long positions continue to climb, signaling strong conviction despite bitcoin’s weakness.
+Galaxy Digital predicts Bitcoin's price could hit $250,000 by 2027 as adoption grows despite near-term volatility.
 
-CoinDesk • 1h ago
+Yahoo Finance • 41m ago
 
 ---
 
-**[Bitcoin and ether options worth $27 billion set for year-end reset](https://www.coindesk.com/markets/2025/12/22/boxing-day-bonanza-usd27-billion-in-bitcoin-ether-options-set-for-year-end-reset)**
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
 
-The expiration involves over 50% of Deribit's total open interest, with a bullish bias indicated by a put-call ratio of 0.38.
+The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
-CoinDesk • 1h ago
+The Motley Fool • 24m ago
 
 ---
 
@@ -207,21 +221,9 @@ Nasdaq • 23h ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqfcPdfC3eaYxbaQJOVj4qC1soZR5TFeRahxoLRCeJ_Wn97lX8giH7_8&gaa_ts=69492718&gaa_sig=bYJi4v32m6sUeQ9Dzgfl04Y5sF6pL_RLzJEqA5Z_rPepPKIxfy_ID9rORvENnllHAxbScRM9YeTAqs8k3kwesw%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[CryptoQuant says bear market has started, sees bitcoin downside risk to $70,000](https://www.theblock.co/post/383407/cryptoquant-bitcoin-bear-market)**
 
 The Block • 2d ago
-
----
-
-**[‘The True Currency’—$750 Billion Tesla CEO Elon Musk Sparks Wild Bitcoin Speculation Amid ‘Infinite Money Glitch’ Debate](https://www.forbes.com/sites/digital-assets/2025/12/21/the-true-currency-750-billion-tesla-ceo-elon-musk-sparks-wild-bitcoin-speculation-amid-infinite-money-glitch-debate/)**
-
-Forbes • 22h ago
 
 ---
 
@@ -285,7 +287,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 83 • ⏱️ 15:15 • 9h ago
+👁️ 14K • 👍 1K • 💬 83 • ⏱️ 15:15 • 10h ago
 
 ---
 
