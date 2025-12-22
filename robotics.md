@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T20:42:15.390422+00:00'
+updated: '2025-12-22T20:55:30.074082+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 20:42 UTC  
+**Last Updated:** December 22, 2025 at 20:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-9h ago
+10h ago
 
 ---
 
@@ -108,7 +108,7 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
 
-3h ago
+4h ago
 
 ---
 
@@ -182,7 +182,7 @@ Interesting Engineering • 3d ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 8h ago
+Phoronix • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 35K • 👍 717 • 💬 76 • ⏱️ 2:08:46 • 2d ago
+👁️ 36K • 👍 727 • 💬 76 • ⏱️ 2:08:46 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 21K • 👍 484 • 💬 109 • ⏱️ 5:25 • 1d ago
+👁️ 22K • 👍 502 • 💬 110 • ⏱️ 5:25 • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 895K • 👍 10K • 💬 594 • ⏱️ 2:43 • 4d ago
+👁️ 918K • 👍 10K • 💬 600 • ⏱️ 2:43 • 4d ago
 
 ---
 
@@ -244,7 +244,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 125K • 👍 7K • 💬 512 • ⏱️ 13:43 • 4d ago
+👁️ 128K • 👍 7K • 💬 520 • ⏱️ 13:43 • 4d ago
 
 ---
 
@@ -254,7 +254,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 6K • 👍 153 • 💬 6 • ⏱️ 0:11 • 11h ago
+👁️ 10K • 👍 158 • 💬 6 • ⏱️ 0:11 • 12h ago
 
 ---
 
@@ -264,17 +264,17 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 475K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
+👁️ 487K • 👍 9K • 💬 1K • ⏱️ 18:35 • 1d ago
 
 ---
 
-**[Even China’s small factories are turning to robot workers](https://www.youtube.com/watch?v=ZgIRmq8Vk0k)**
+**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Follow us on: Website: https://scmp.com SCMP ...
+MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
 
-📺 South China Morning Post
+📺 Tyler & Snowi
 
-👁️ 57K • 👍 703 • 💬 185 • ⏱️ 3:55 • 3d ago
+👁️ 1.0M • 👍 39K • 💬 642 • ⏱️ 21:05 • 21h ago
 
 ---
 
@@ -284,7 +284,7 @@ This session will provide a high-level overview of NVIDIA's comprehensive approa
 
 📺 NVIDIA Developer
 
-👁️ 2K • 👍 88 • 💬 1 • ⏱️ 55:42 • 2d ago
+👁️ 2K • 👍 91 • 💬 1 • ⏱️ 55:42 • 2d ago
 
 ---
 
@@ -294,7 +294,7 @@ Factories, streets, and physical reality just crossed a line. China unveiled a s
 
 📺 AI Revolution
 
-👁️ 75K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
+👁️ 76K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
 
 ---
 

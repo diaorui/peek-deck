@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T20:42:15.387078+00:00'
+updated: '2025-12-22T20:55:30.070775+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 20:42 UTC  
+**Last Updated:** December 22, 2025 at 20:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,034.13
+### $2,978.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +0.4%  
-**30d:** +6.1%  
-**90d:** -28.2%  
-**1y:** -13.2%  
+**24h:** +0.2%  
+**7d:** +0.5%  
+**30d:** +6.2%  
+**90d:** -28.1%  
+**1y:** -13.1%  
 
 ---
 
@@ -118,7 +118,7 @@ Edit: The "deferred ordering" array does not need deferred ordering. Nodes can k
 
 Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
 
-1d ago
+2d ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 16h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 163 • 💬 26 • ⏱️ 17:34 • 4h ago
+👁️ 4K • 👍 207 • 💬 42 • ⏱️ 17:34 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 695 • 💬 70 • ⏱️ 15:49 • 1d ago
+👁️ 20K • 👍 710 • 💬 73 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -254,17 +254,27 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 755 • 👍 34 • 💬 14 • ⏱️ 7:32 • 7h ago
+👁️ 1K • 👍 41 • 💬 15 • ⏱️ 7:32 • 7h ago
 
 ---
 
-**[Is $BMNR Signaling A New ETH Bull Run? (The &quot;Smart Money&quot; Indicator)](https://www.youtube.com/watch?v=bX-vqqC2d88)**
+**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
 
-Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the "Canary in the Coal Mine." History shows that ...
+BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
 
-📺 NextMove Stocks
+📺 CryptoStock Lab
 
-👁️ 338 • 👍 17 • 💬 13 • ⏱️ 7:50 • 7h ago
+👁️ 152 • 👍 8 • ⏱️ 16:54 • 55m ago
+
+---
+
+**[Ethereum’s Setup Signals Volatility Ahead Into 2026](https://www.youtube.com/watch?v=LNC18lqDyPs)**
+
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+
+📺 Trade Confident
+
+👁️ 54 • 👍 5 • 💬 2 • ⏱️ 5:29 • 24m ago
 
 ---
 
@@ -274,7 +284,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 13K • 👍 679 • 💬 450 • ⏱️ 11:34 • 1d ago
+👁️ 13K • 👍 683 • 💬 405 • ⏱️ 11:34 • 1d ago
 
 ---
 
@@ -284,17 +294,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 9 • ⏱️ 6:15 • 16h ago
+👁️ 3K • 👍 175 • 💬 10 • ⏱️ 6:15 • 16h ago
 
 ---
 
-**[A Digital Asset Treasury that is Diversified! Bitcoin, Ethereum, Solana, and XRP | Jamie Leverton](https://www.youtube.com/watch?v=XXpiEfypm4s)**
+**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
 
-Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a unique approach to their digital asset treasury ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Thinking Crypto
+📺 C-Zar Gets Crypto 
 
-👁️ 1K • 👍 101 • 💬 27 • ⏱️ 31:48 • 7h ago
+👁️ 180 • 👍 30 • 💬 8 • ⏱️ 5:02 • 2h ago
+
+---
+
+**[Is $BMNR Signaling A New ETH Bull Run? (The &quot;Smart Money&quot; Indicator)](https://www.youtube.com/watch?v=bX-vqqC2d88)**
+
+Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the "Canary in the Coal Mine." History shows that ...
+
+📺 NextMove Stocks
+
+👁️ 449 • 👍 17 • 💬 13 • ⏱️ 7:50 • 7h ago
 
 ---
 
@@ -304,27 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 2 • ⏱️ 4:52 • 7h ago
-
----
-
-**[CRITICAL ETHEREUM UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Iyi5qnSnU2Q)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 312 • 👍 16 • 💬 3 • ⏱️ 4:38 • 10h ago
-
----
-
-**[Will a Bitcoin Bounce Save the Bull Run? I&#39;m Watching This Key Level](https://www.youtube.com/watch?v=NHBYTwOQG9c)**
-
-I am expecting a Bitcoin bounce, but can it save the Crypto bull run? This video will break down what I expect to happen to Bitcoin ...
-
-📺 VirtualBacon
-
-👁️ 2K • 👍 73 • 3h ago
+👁️ 2K • 👍 135 • 💬 4 • ⏱️ 4:52 • 7h ago
 
 ---
 

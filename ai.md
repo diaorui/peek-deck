@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T20:42:15.372436+00:00'
+updated: '2025-12-22T20:55:30.056244+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 20:42 UTC  
+**Last Updated:** December 22, 2025 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 AI isn’t wisdom. It’s an accelerator, a multiplier of who you already are. Curious, disciplined, critical? AI will amplify that. Lazy, gullible, or intellectually passive? AI will amplify that too. LOL. That’s the uncomfortable truth no one wants to say out loud: This is the 2024–2030 revolution. AI will widen the gap : elites pulling further ahead, the rest trailing. Not because the tool is elitist… but because using it well isn’t evenly distributed. And that’s… kind of sad. Imo, we’re not ready for the social consequences of that.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 22m ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 35m ago
 
 ---
 
@@ -81,7 +81,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂
 
-58m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Intel engineers as part of the OPEA Project today released the Generative AI Exa
 
 How do four modern LLMs do at re-creating a simple Windows gaming classic?
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/) • 8h ago
 
 ---
 
@@ -155,7 +155,7 @@ CBS News • 5h ago
 
 Instacart will end a program that set different prices for the same items sold at the same store after a report on the experiments triggered criticism.
 
-Los Angeles Times • 12m ago
+Los Angeles Times • 25m ago
 
 ---
 
@@ -163,7 +163,7 @@ Los Angeles Times • 12m ago
 
 After an investigation found some customers were charged nearly 25% more for identical items, Instacart says itâs ending its controversial price-testing program.
 
-Gizmodo • 27m ago
+Gizmodo • 40m ago
 
 ---
 
@@ -262,7 +262,7 @@ Personal Musings and Transcripts
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
-⬆️ 128 • 💬 53 • 1d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 128 • 💬 53 • 2d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -284,23 +284,13 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 ## YouTube Videos: "ai"
 
-**[I Made the Same Animation in Every AI Video Generator](https://www.youtube.com/watch?v=UKp_zXdxVTI)**
+**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
 
-I made the same AI Animation in every AI video generator Best All In One AI Video Generator ...
+welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
 
-📺 Dan Kieft
+📺 Fads
 
-👁️ 3K • 💬 12 • ⏱️ 44:39 • 3h ago
-
----
-
-**[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
-
-Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
-
-📺 Codie Sanchez
-
-👁️ 107K • 👍 5K • 💬 232 • ⏱️ 13:25 • 1d ago
+👁️ 229K • 👍 12K • 💬 2K • ⏱️ 19:40 • 2d ago
 
 ---
 
@@ -310,17 +300,17 @@ Link to our newsletter: https://bitbiased.ai/ Welcome to the next level of AI! G
 
 📺 BitBiasedAI
 
-👁️ 11K • 👍 287 • 💬 22 • ⏱️ 25:57 • 1d ago
+👁️ 12K • 👍 304 • 💬 27 • ⏱️ 25:57 • 1d ago
 
 ---
 
-**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
+**[The AI Bubble is Bursting… Here’s How to Profit From It](https://www.youtube.com/watch?v=06IVFAiHV9Y)**
 
-welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
+Thanks to Build Your Store for sponsoring this video. Get Your FREE AI-Store Builder: https://www.buildyourstore.ai/096f and get a ...
 
-📺 Fads
+📺 Codie Sanchez
 
-👁️ 225K • 👍 12K • 💬 2K • ⏱️ 19:40 • 1d ago
+👁️ 118K • 👍 5K • 💬 256 • ⏱️ 13:25 • 1d ago
 
 ---
 
@@ -330,7 +320,17 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 63K • 👍 3K • 💬 205 • ⏱️ 37:38 • 2d ago
+👁️ 64K • 👍 3K • 💬 205 • ⏱️ 37:38 • 2d ago
+
+---
+
+**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
+
+AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
+
+📺 The Diary Of A CEO
+
+👁️ 82K • 👍 2K • 💬 111 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -340,7 +340,17 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 928K • 👍 5K • 💬 206 • ⏱️ 8:24 • 2d ago
+👁️ 973K • 👍 5K • 💬 220 • ⏱️ 8:24 • 2d ago
+
+---
+
+**[How AI has transformed in 2025](https://www.youtube.com/watch?v=bL7Rrd7N5Ho)**
+
+Artificial intelligence has impacted industries and people around the world this year, from producing music to relationships.
+
+📺 CBS Mornings
+
+👁️ 15K • 👍 295 • 💬 41 • ⏱️ 1:03:20 • 1d ago
 
 ---
 
@@ -350,7 +360,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 193 • 💬 15 • ⏱️ 13:03 • 23h ago
+👁️ 4K • 👍 199 • 💬 15 • ⏱️ 13:03 • 23h ago
 
 ---
 
@@ -360,7 +370,7 @@ Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf
 
 📺 PrestonReacts
 
-👁️ 136K • 👍 2K • 💬 376 • ⏱️ 15:32 • 2d ago
+👁️ 140K • 👍 2K • 💬 391 • ⏱️ 15:32 • 2d ago
 
 ---
 
@@ -370,17 +380,7 @@ Hey…just try Twingate….you'll never look at VPN the same: https://ntck.co/tw
 
 📺 NetworkChuck
 
-👁️ 168K • 👍 8K • 💬 1K • ⏱️ 33:14 • 2d ago
-
----
-
-**[NEW Google Titans AI Update is INSANE!](https://www.youtube.com/watch?v=U-OcMcFhL-c)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 6K • 👍 131 • 💬 6 • ⏱️ 8:42 • 1d ago
+👁️ 172K • 👍 8K • 💬 1K • ⏱️ 33:14 • 2d ago
 
 ---
 
@@ -577,20 +577,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 207 • 💬 5 • ⭐ 7,612 • 25d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -602,6 +588,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 27 • 💬 2 • ⭐ 7,616 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 207 • 💬 5 • ⭐ 7,639 • 25d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.7k • 🔱 631 • 4h ago
+⭐ 5.7k • 🔱 631 • 5h ago
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 179 • 2h ago
+⭐ 2.4k • 🔱 180 • 2h ago
 
 ---
 
@@ -681,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 280 • 1h ago
+⭐ 1.9k • 🔱 283 • 20m ago
 
 ---
 
@@ -711,7 +711,7 @@ Google Antigravity AI模型配额监控插件
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 171 • 7h ago
+⭐ 1.0k • 🔱 171 • 8h ago
 
 ---
 
@@ -731,7 +731,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 907 • 🔱 89 • 9h ago
+⭐ 907 • 🔱 89 • 10h ago
 
 ---
 
@@ -741,7 +741,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 867 • 🔱 80 • 4h ago
+⭐ 868 • 🔱 80 • 4h ago
 
 ---
 
