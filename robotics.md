@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T14:27:01.526220+00:00'
+updated: '2025-12-22T14:47:06.272863+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 14:27 UTC  
+**Last Updated:** December 22, 2025 at 14:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/2002831811823763639
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Logan Kilpatrick on 𝕏: https://x.com/OfficialLoganK/status/200283181182376363
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-11h ago
+12h ago
 
 ---
 
@@ -92,7 +92,7 @@ Just came across this Medical Robotics Market report from Roots Analysis — maj
 
 I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
-16h ago
+17h ago
 
 ---
 
@@ -100,7 +100,7 @@ I made a video explanation for how I did it: https://youtu.be/VVM1YavbaXI
 
 About a year ago, the works about BD-1 was being released, https://la.disneyresearch.com/wp-content/uploads/BD_X_paper.pdf
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=-L8OFMTteOo) • 13h ago
 
 ---
 
@@ -128,7 +128,7 @@ Interesting Engineering • 1d ago
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 5h ago
+Stock Titan • 6h ago
 
 ---
 
@@ -150,7 +150,7 @@ Bloomberg.com • 3d ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 2h ago
+Phoronix • 3h ago
 
 ---
 
@@ -190,7 +190,7 @@ KEYC News Now • 2d ago
 
 Sen. Bernie Sanders (I-VT) has slammed Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk amid an AI and Robotics push. How Will This Utopia Come About, Bernie Sanders Asks In a post on the social media platform X on Thursday, Sanders shared a video directed at Musk. "Just a couple of questions for you," Sanders captioned the video. In the video, the Senator asked Musk questions about his artificial intelligence and robotics efforts, which will bring about a "utopia" in the world. "You have told us poverty
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -234,7 +234,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 2K • 👍 52 • 💬 6 • ⏱️ 0:11 • 5h ago
+👁️ 2K • 👍 52 • 💬 6 • ⏱️ 0:11 • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today
 
 📺 Tyler & Snowi
 
-👁️ 779K • 👍 32K • 💬 519 • ⏱️ 21:05 • 14h ago
+👁️ 779K • 👍 32K • 💬 519 • ⏱️ 21:05 • 15h ago
 
 ---
 

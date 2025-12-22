@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T14:27:01.522973+00:00'
+updated: '2025-12-22T14:47:06.267300+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 14:27 UTC  
+**Last Updated:** December 22, 2025 at 14:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +3.2%  
-**30d:** +9.1%  
-**90d:** -26.2%  
-**1y:** -10.7%  
+**24h:** +2.2%  
+**7d:** +2.7%  
+**30d:** +8.5%  
+**90d:** -26.6%  
+**1y:** -11.2%  
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 10h ago
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcm8FO5jgXhAfItWaWkdQnPL5_WT9e-v5Ca_21BHerkYKtrRBQyzw0z&gaa_ts=694958a1&gaa_sig=DCb7nLkccHt6mBM6AItdqozQ9ik8uGxNTyKipnE5OacO57x9FXM15k5Z-y5ap2dYyVewoAT_n9bGcCVhrpZnXg%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 1d ago
 
 ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
 
-Seeking Alpha • 57m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Stock Moe
 
-👁️ 12K • 👍 877 • 💬 18 • ⏱️ 11:18 • 16h ago
+👁️ 12K • 👍 877 • 💬 18 • ⏱️ 11:18 • 17h ago
 
 ---
 

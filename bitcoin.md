@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T14:27:01.516890+00:00'
+updated: '2025-12-22T14:47:06.257461+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 14:27 UTC  
+**Last Updated:** December 22, 2025 at 14:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,936.03
+### $89,571.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +2.9%  
-**30d:** +3.6%  
-**90d:** -20.4%  
-**1y:** -5.0%  
+**24h:** +1.7%  
+**7d:** +2.5%  
+**30d:** +3.3%  
+**90d:** -20.7%  
+**1y:** -5.4%  
 
 ---
 
@@ -123,7 +123,7 @@ I found some 15-year-old hard drives... I used to mine BTC back then. What happe
 
 Pain is the
 
-45m ago
+1h ago
 
 ---
 
@@ -153,13 +153,13 @@ Pain is the
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
 **[Bitcoin price today: rises to $89k amid Fed cut bets, but remains rangebound](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-fed-cut-bets-but-remains-rangebound-4418479)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ Investing.com • 6h ago
 
 Futures open interest rose steadily as BTC pushed higher, climbing toward $60 billion across major venues.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 3h ago
 
 JPMorgan Chase &amp; Co. is considering offering cryptocurrency trading to its institutional clients, as large banks around the world deepen their involvement in the asset class.
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -205,13 +205,13 @@ Forbes • 1d ago
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
 **[Bitcoin Rises, Traders Bet on a 5% Crypto Rally By Christmas. Ethereum, XRP Also Up.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqf-q1vm8p9X6Hz7gTkFFb_3AwUqOdSxr3vR5e66dRhxSdJevZtmrspG&gaa_ts=6949589e&gaa_sig=iY4MtFaa94MoUQgQheB8-COQ6jn2xnXxQkzdcMKTDcM7YkEbg4xwsDdjBIut6ctMcjSDwJBc_5vOd1vCb71XAw%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -275,7 +275,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 127 • ⏱️ 15:15 • 12h ago
+👁️ 19K • 👍 1K • 💬 127 • ⏱️ 15:15 • 13h ago
 
 ---
 
@@ -305,7 +305,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 14K • 👍 950 • 💬 384 • ⏱️ 17:34 • 13h ago
+👁️ 14K • 👍 950 • 💬 384 • ⏱️ 17:34 • 14h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 146 • 59m ago
+👁️ 2K • 👍 146 • 1h ago
 
 ---
 

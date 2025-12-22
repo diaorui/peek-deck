@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-22T14:27:01.508473+00:00'
+updated: '2025-12-22T14:47:06.249045+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 22, 2025 at 14:27 UTC  
+**Last Updated:** December 22, 2025 at 14:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ Researchers warn generative tools are helping militant groups from neo-Nazis to 
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 8h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Steam's current global best-sellers list shows that nearly half of the most popu
 
 Something I don’t see talked about enough: How much time AI builders spend repeating setup work. Every project: - Pull data - Clean it - Structure it - Validate outputs - Fix edge cases - Re-run when something changes None of this is the interesting part, but skipping it causes problems later. I’m starting to think the real productivity gain in AI isn’t better models, it’s fewer repeated steps. Curious how others feel: What’s the one setup task you wish you never had to do again?
 
-1m ago
+21m ago
 
 ---
 
@@ -97,7 +97,7 @@ Something I don’t see talked about enough: How much time AI builders spend rep
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 5m ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 25m ago
 
 ---
 
@@ -133,7 +133,7 @@ Yahoo • 9h ago
 
 Michael Burry of "The Big Short" fame said the US needs to shift away from "power-hungry" chips, but Nvidia has a "death grip" on the sector.
 
-Business Insider • 41m ago
+Business Insider • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 1h ago
 
 **[Anthropic’s AI Attack Threatens the Strategy at the Foundation of Cybersecurity](https://nationalinterest.org/blog/techland/anthropics-ai-attack-threatens-the-strategy-at-the-foundation-of-cybersecurity)**
 
-The National Interest • 21m ago
+The National Interest • 41m ago
 
 ---
 
@@ -177,7 +177,7 @@ ScienceDaily • 8h ago
 
 **[AI is changing childhood. The guardrails aren't ready](https://www.axios.com/2025/12/22/ai-child-teen-safety-politicies-state-map)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ Sky News • 11h ago
 
 Videos such as fake ads featuring AI children playing with vibrators or Jeffrey Epstein and Diddy-themed playsets are being made with Sora 2 and posted to TikTok.
 
-WIRED • 2h ago
+WIRED • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ Begin Automating Complex Tasks with DeepAgent For FREE: https://deepagent.abacus
 
 📺 Rob The AI Guy
 
-👁️ 4K • 👍 182 • 💬 10 • ⏱️ 13:03 • 16h ago
+👁️ 4K • 👍 182 • 💬 10 • ⏱️ 13:03 • 17h ago
 
 ---
 
@@ -672,7 +672,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 178 • 15m ago
+⭐ 2.4k • 🔱 178 • 35m ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 243 • 34m ago
+⭐ 1.6k • 🔱 243 • 54m ago
 
 ---
 
@@ -732,7 +732,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 900 • 🔱 89 • 3h ago
+⭐ 900 • 🔱 89 • 4h ago
 
 ---
 
@@ -742,7 +742,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 835 • 🔱 78 • 1h ago
+⭐ 835 • 🔱 78 • 2h ago
 
 ---
 
