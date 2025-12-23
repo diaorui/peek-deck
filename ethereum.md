@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T21:22:09.626309+00:00'
+updated: '2025-12-23T21:38:13.305600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 21:22 UTC  
+**Last Updated:** December 23, 2025 at 21:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +4.6%  
-**30d:** +0.3%  
-**90d:** -23.1%  
-**1y:** -15.2%  
+**24h:** -1.4%  
+**7d:** +5.0%  
+**30d:** +0.6%  
+**90d:** -22.9%  
+**1y:** -14.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 3h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 4h ago
 
 ---
 
@@ -284,7 +284,7 @@ Get ready for whats probably going to be one of the craziest years in crypto in 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 723 • 💬 161 • ⏱️ 22:25 • 11h ago
+👁️ 6K • 👍 723 • 💬 161 • ⏱️ 22:25 • 12h ago
 
 ---
 
@@ -324,7 +324,7 @@ Is the age of Gold over? In this video, we look ahead to 2026 — a year many in
 
 📺 Finance Fundamentals
 
-👁️ 3 • ⏱️ 8:11 • 4h ago
+👁️ 3 • ⏱️ 8:11 • 5h ago
 
 ---
 

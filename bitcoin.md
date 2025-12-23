@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T21:22:09.620115+00:00'
+updated: '2025-12-23T21:38:13.299676+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 21:22 UTC  
+**Last Updated:** December 23, 2025 at 21:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +1.8%  
-**30d:** -0.8%  
-**90d:** -19.4%  
-**1y:** -11.0%  
+**24h:** -1.3%  
+**7d:** +1.6%  
+**30d:** -1.0%  
+**90d:** -19.5%  
+**1y:** -11.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 **[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 1h ago
 
 VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 55m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ VanEck • 1d ago
 
 Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -223,7 +223,7 @@ Investor's Business Daily • 10h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 18h ago
+WCVB • 19h ago
 
 ---
 
@@ -265,7 +265,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 5h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 6h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -329,7 +329,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 942 • 💬 151 • ⏱️ 42:55 • 5h ago
+👁️ 15K • 👍 942 • 💬 151 • ⏱️ 42:55 • 6h ago
 
 ---
 

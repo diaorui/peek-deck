@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T21:22:09.611559+00:00'
+updated: '2025-12-23T21:38:13.291290+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 21:22 UTC  
+**Last Updated:** December 23, 2025 at 21:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 22h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 23h ago
 
 ---
 
@@ -87,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-1m ago
+17m ago
 
 ---
 
@@ -111,7 +111,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 5h ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Financial Times • 16h ago
 
 Wall Street experts are anticipating a "robust" year for the IPO market in 2026, with added bullishness when AI companies are thrown into the mix. Kyle Stanford, the PitchBook Director of Research, US Venture, speaks with Ines Ferré on Market Catalysts about IPO and venture capital forecasts for the coming year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ People.com • 1h ago
 
 **[The A In AI Is For Anxiety, And There’s Nothing Artificial About It](https://www.forbes.com/sites/annkirschner/2025/12/23/the-a-in-ai-is-for-anxiety-and-theres-nothing-artificial-about-it/)**
 
-Forbes • 18m ago
+Forbes • 34m ago
 
 ---
 
@@ -248,7 +248,7 @@ friction.
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 162 • 💬 123 • 14h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 162 • 💬 123 • 15h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 665 • 12h ago
+⭐ 6.0k • 🔱 665 • 13h ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 371 • 1h ago
+⭐ 2.9k • 🔱 371 • 2h ago
 
 ---
 
@@ -722,7 +722,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 96 • 9h ago
+⭐ 1.0k • 🔱 96 • 10h ago
 
 ---
 

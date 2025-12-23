@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T21:22:09.629601+00:00'
+updated: '2025-12-23T21:38:13.308818+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 21:22 UTC  
+**Last Updated:** December 23, 2025 at 21:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,19 +80,19 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-23m ago
+39m ago
 
 ---
 
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-23m ago
+39m ago
 
 ---
 
 **[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -160,7 +160,7 @@ CnEVPost • 18h ago
 
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
-Futura, Le média qui explore le monde • 8h ago
+Futura, Le média qui explore le monde • 9h ago
 
 ---
 
@@ -168,7 +168,7 @@ Futura, Le média qui explore le monde • 8h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 2K • 👍 33 • ⏱️ 0:11 • 4h ago
+👁️ 2K • 👍 33 • ⏱️ 0:11 • 5h ago
 
 ---
 
