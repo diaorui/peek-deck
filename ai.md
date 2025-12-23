@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T19:31:54.705073+00:00'
+updated: '2025-12-23T19:44:18.511651+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 19:31 UTC  
+**Last Updated:** December 23, 2025 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 20h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 21h ago
 
 ---
 
@@ -111,7 +111,7 @@ Recently I heard a bit about Glance AI while reading about AI shopping, and it g
 
 Last week a request for comments (RFC) was issued around establishing an LLVM AI Tool Use Policy
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 4h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Washington Post • 1h ago
 
 **[Follow the money: AI, wealth and private-markets plumbing](https://www.axios.com/pro/all-deals/2025/12/23/ai-wealth-private-markets-plumbing)**
 
-Axios • 29m ago
+Axios • 41m ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 29m ago
 
 Nvidia, OpenAI and other major artificial intelligence companies all invest in one another. This carries some risks, as Bloomberg’s Joe Weisenthal explains on “The Ezra Klein Show.”
 
-The New York Times • 53m ago
+The New York Times • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 53m ago
 
 In 2025, if you wanted to do layoffs, AI was a great option for pinning the blame.
 
-Gizmodo • 26m ago
+Gizmodo • 38m ago
 
 ---
 
@@ -448,7 +448,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 425 • 9h ago
+⬇️ 1,148 • ❤️ 425 • 10h ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 369 • 6m ago
+⭐ 2.8k • 🔱 369 • 18m ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 96 • 7h ago
+⭐ 1.0k • 🔱 96 • 8h ago
 
 ---
 
