@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T15:22:45.458789+00:00'
+updated: '2025-12-23T15:42:56.142626+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 15:22 UTC  
+**Last Updated:** December 23, 2025 at 15:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +1.5%  
-**30d:** -1.1%  
-**90d:** -19.6%  
-**1y:** -11.3%  
+**24h:** -2.3%  
+**7d:** +1.4%  
+**30d:** -1.2%  
+**90d:** -19.7%  
+**1y:** -11.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1739.75B
+**Market Cap:** $1745.39B
 Rank #1
 
-**Circulating Supply:** 19,966,003 BTC
+**Circulating Supply:** 19,966,021 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.9%
+-30.7%
 
 **All-Time Low:** $67.81
-+128441.5%
++128816.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -95,13 +95,7 @@ Rank #1
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-3h ago
-
----
-
-**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
-
-5h ago
+4h ago
 
 ---
 
@@ -115,13 +109,13 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 Like the question asks
 
-3h ago
+4h ago
 
 ---
 
-**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-17h ago
+6h ago
 
 ---
 
@@ -133,17 +127,23 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 ---
 
-**[Hal Finney in 2011 explaining Bitcoin, and it aged perfectly](https://www.reddit.com/r/Bitcoin/comments/1ptqqu4/hal_finney_in_2011_explaining_bitcoin_and_it_aged/)**
+**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issuance is slow and predictable Why supply is capped under 21 million How ownership and transfers work without intermediaries No hype. No price talk. Just pure fundamentals. Fast forward to today: ✔ Halvings happened exactly as described ✔ Network secured trillions in value ✔ Institutions, ETFs, and corporations are now competing for supply Bitcoin didn’t change. The world finally caught up. This is why long-term conviction beats short-term noise.
-
-4h ago
+2h ago
 
 ---
 
-**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
+**[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
+
+The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
 1h ago
+
+---
+
+**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+
+17h ago
 
 ---
 
@@ -151,41 +151,41 @@ Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issu
 
 ## Google News: "bitcoin"
 
-**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
-
-Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
-
-VanEck • 20h ago
-
----
-
-**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
-
-Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
-
-Bloomberg.com • 17h ago
-
----
-
-**[Michael Saylor's MSTR raises additional cash through stock sales](https://www.coindesk.com/markets/2025/12/22/strategy-boosted-cash-reserve-by-usd748-million-last-week)**
-
-Led by Executive Chairman Michael Saylor, the company raised the funds entirely by sales of common stock.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 4h ago
-
----
-
 **[Bitcoin price news: BTC heads to its worst quarter since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
 CoinDesk • 10h ago
+
+---
+
+**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
+
+The Block • 9h ago
+
+---
+
+**[Miner capitulation is a contrarian signal, indicates renewed bitcoin momentum, VanEck says](https://www.coindesk.com/markets/2025/12/23/miner-capitulation-is-a-contrarian-signal-indicates-renewed-bitcoin-momentum-vaneck-says)**
+
+VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
+
+CoinDesk • 5h ago
+
+---
+
+**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
+
+Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
+
+VanEck • 21h ago
+
+---
+
+**[Bitcoin price analysis: Struggling dollar hasn't yet boosted BTC](https://www.coindesk.com/markets/2025/12/23/bitcoin-bulls-eye-possible-tailwind-as-u-s-dollar-index-continues-to-leg-lower)**
+
+Metals and other hard assets continue their surge to new records as the greenback stumbles, but crypto has not responded.
+
+CoinDesk • 55m ago
 
 ---
 
@@ -197,31 +197,33 @@ Bitcoin Magazine • 1h ago
 
 ---
 
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 4h ago
+
+---
+
+**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
+
+Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
+
+Bloomberg.com • 17h ago
+
+---
+
+**[Michael Saylor's Strategy expands dollar reserve instead of Bitcoin](https://finance.yahoo.com/news/michael-saylors-strategy-expands-dollar-163854674.html)**
+
+Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
+
+Yahoo Finance • 23h ago
+
+---
+
 **[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
 Al Jazeera • 22h ago
-
----
-
-**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
-
-Pubkey wants to “soften” Bitcoin’s rough public image in DC.
-
-The Verge • 19h ago
-
----
-
-**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
-
-The Block • 9h ago
-
----
-
-**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqeesNDbqotuN1Z01SSg55b0Vu_Pw28MbiYRavqTGSw4OZZu2puggsCt&gaa_ts=694ab0bd&gaa_sig=45nuIoGq1Mq9WZu-y7j035B1fhJnbKIWdwWgWMzDXoAweb0vo4GTHJ7qmWSJUg6MqJWnSF7IdcY6pzjA82NZPQ%3D%3D)**
-
-Barron's • 3h ago
 
 ---
 
@@ -301,7 +303,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 3K • 💬 162 • ⏱️ 10:16 • 15h ago
+👁️ 37K • 👍 3K • 💬 162 • ⏱️ 10:16 • 16h ago
 
 ---
 
@@ -321,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 23h ago
+👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 1d ago
 
 ---
 
@@ -331,7 +333,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 4K • 👍 42 • 💬 42 • ⏱️ 3:19 • 16h ago
+👁️ 4K • 👍 42 • 💬 42 • ⏱️ 3:19 • 17h ago
 
 ---
 
@@ -371,7 +373,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sportskeeda Wrestling
 
-👁️ 1K • 👍 4K • 1h ago
+👁️ 1K • 👍 4K • 2h ago
 
 ---
 
@@ -381,7 +383,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 465 • 💬 114 • ⏱️ 1:11:22 • 19h ago
+👁️ 10K • 👍 465 • 💬 114 • ⏱️ 1:11:22 • 20h ago
 
 ---
 

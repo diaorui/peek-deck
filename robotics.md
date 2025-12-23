@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T15:22:45.468173+00:00'
+updated: '2025-12-23T15:42:56.151850+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 15:22 UTC  
+**Last Updated:** December 23, 2025 at 15:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -114,22 +114,6 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 ## Google News: "robotics"
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 1d ago
-
----
-
-**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
-
-Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
-
-CnEVPost • 12h ago
-
----
-
 **[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
 
 China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
@@ -138,11 +122,11 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
-In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Stock Titan • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -154,11 +138,11 @@ The Verge • 2d ago
 
 ---
 
-**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
-Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
-Sifted • 1d ago
+hyundai.com • 1d ago
 
 ---
 
@@ -170,9 +154,27 @@ Good Morning Wilton • 1d ago
 
 ---
 
-**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
 
-Tech Xplore • 39m ago
+Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
+
+CnEVPost • 12h ago
+
+---
+
+**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
+
+Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
+
+LancasterOnline • 39m ago
+
+---
+
+**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
+
+Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
+
+Sifted • 1d ago
 
 ---
 
@@ -184,11 +186,9 @@ MassDevice • 1d ago
 
 ---
 
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
+**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
-
-Phoronix • 1d ago
+Tech Xplore • 59m ago
 
 ---
 

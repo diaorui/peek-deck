@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T15:22:45.464917+00:00'
+updated: '2025-12-23T15:42:56.148616+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 15:22 UTC  
+**Last Updated:** December 23, 2025 at 15:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** +3.4%  
-**30d:** -0.8%  
-**90d:** -24.0%  
-**1y:** -16.2%  
+**24h:** -4.1%  
+**7d:** +3.2%  
+**30d:** -1.1%  
+**90d:** -24.2%  
+**1y:** -16.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.27B
+**Market Cap:** $352.74B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.9%
 
 **All-Time Low:** $0.43
-+675992.8%
++675286.1%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 22h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 23h ago
 
 ---
 
@@ -158,15 +158,15 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqeqw5vIcpgQl3BTF8VDiasM4a36bzX4PdE6lNlAybhCZX5L_Z9bITHx&gaa_ts=694ab0bf&gaa_sig=W9VurA6_1pQfZIZk25hiZcQWltMDYKPHIMExoIH80YIxT5kG-cjQJO_qHhhwdpOrJ3TVE0IPavErhZ4ZzsSEGA%3D%3D)**
-
-Barron's • 3h ago
-
----
-
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
 CCN.com • 2h ago
+
+---
+
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqfOFkAb-TulUP7ZA9kXRog45b2nUOUtB1gO44we4VOC83QOMs_jGyIz&gaa_ts=694abbed&gaa_sig=DU79kJKhUyj4U1zOeIPNCeD6QwKpG-JbzTU385xXCZPvJUY7Ea9LFwcFxLehbtIQPezuBBulRGarEFub6wliWg%3D%3D)**
+
+Barron's • 3h ago
 
 ---
 
@@ -276,7 +276,7 @@ Get ready for whats probably going to be one of the craziest years in crypto in 
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 460 • 💬 103 • ⏱️ 22:25 • 5h ago
+👁️ 3K • 👍 460 • 💬 103 • ⏱️ 22:25 • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 20h ago
+👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 21h ago
 
 ---
 

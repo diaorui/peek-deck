@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T15:22:45.450347+00:00'
+updated: '2025-12-23T15:42:56.134133+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - repositories
 - videos
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 15:22 UTC  
+**Last Updated:** December 23, 2025 at 15:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 16h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 17h ago
 
 ---
 
@@ -53,6 +53,14 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 ---
 
+**[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1ptvuif/its_been_a_big_week_for_ai_here_are_10_massive/)**
+
+OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+50m ago
+
+---
+
 **[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
@@ -61,11 +69,19 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 ---
 
-**[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1ptvuif/its_been_a_big_week_for_ai_here_are_10_massive/)**
+**[LLVM considering an AI tool policy, AI bot for fixing build system breakage proposed](https://www.reddit.com/r/artificial/comments/1ptwu05/llvm_considering_an_ai_tool_policy_ai_bot_for/)**
 
-OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+Last week a request for comments (RFC) was issued around establishing an LLVM AI Tool Use Policy
 
-30m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 9m ago
+
+---
+
+**[Asia markets edge higher on AI-led global rally](https://www.reddit.com/r/artificial/comments/1ptwpz5/asia_markets_edge_higher_on_ailed_global_rally/)**
+
+Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
+
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 14m ago
 
 ---
 
@@ -93,27 +109,11 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 ---
 
-**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
+**[I tried building a deterministic system to make AI safe, verifiable, auditable.](https://www.reddit.com/r/artificial/comments/1pto9go/i_tried_building_a_deterministic_system_to_make/)**
 
-Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
+The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 22h ago
-
----
-
-**[Thoughts on AI Ugc video ads](https://www.reddit.com/r/artificial/comments/1ptr7ic/thoughts_on_ai_ugc_video_ads/)**
-
-Hello there! I'm new in this subreddit. The first thing that i want to say is that the deep interventions and the quality of the discussions here is remarkable, so thanks for creating this space. I want to discuss with you a topic or more precisely a workflow that i have adopted recently, because i think here i could get a nice feedback. So, to give you context, recently i had the need to promote and scale a bit the quantity of video ads for my business of spare parts and accessories of bycicles. My size is not enough to plan a budget for hiring real actors, real directors and scouting real places. So i discovered a platform for video ads that lets you produce, edit and test video ads, in particular UGC videos (ai ugc). For now, after a research on how to do them, the results are not bad, even if my lack of technical ability in video producing is present. Be aware that i am the one to set the tone of the adv, the script of the adv and to do all the market research for the psycographical segmentation and the product to promote. What are your thoughts on this practice? Do you see benefits on using ai ugc or not?
-
-4h ago
-
----
-
-**[One-Minute Daily AI News 12/22/2025](https://www.reddit.com/r/artificial/comments/1ptlxdk/oneminute_daily_ai_news_12222025/)**
-
-OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
-
-9h ago
+🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 7h ago
 
 ---
 
@@ -129,69 +129,69 @@ ABC News • 1d ago
 
 ---
 
+**[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
+
+The New York Times • 3h ago
+
+---
+
 **[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 3h ago
+The Guardian • 27m ago
 
 ---
 
-**[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
+**[Google started the year behind in the AI race. It ended 2025 on top.](https://finance.yahoo.com/news/google-started-the-year-behind-in-the-ai-race-it-ended-2025-on-top-150352574.html)**
 
-The New York Times • 10h ago
+Google's AI bounced back in a big way in 2025.
 
----
-
-**[AI Funding to Drive Record Year for Top-Rated Company Bond Sales](https://www.bloomberg.com/news/articles/2025-12-23/ai-funding-to-drive-record-year-for-top-rated-company-bond-sales)**
-
-Companies across the US and Europe are preparing to sell a record amount of high-grade bonds in 2026, testing investors’ appetite as yields drift lower.
-
-Bloomberg.com • 1h ago
+Yahoo Finance • 39m ago
 
 ---
 
-**[Google Cloud chief reveals the long game: a decade of silicon and the energy battle behind the AI boom](https://fortune.com/2025/12/23/google-cloud-ceo-thomas-kurian-ai-energy-tpu-battle/)**
+**[AI spending is expected to stay strong in 2026. Barclays thinks these stocks will benefit](https://www.cnbc.com/2025/12/23/ai-spending-is-expected-to-stay-strong-in-2026-barclays-thinks-these-stocks-will-benefit.html)**
 
-"We've worked on TPUs since 2014 ... a long time before AI was fashionable," Thomas Kurian said at the Fortune Brainstorm AI conference.
+Barclays analysts highlighted a dozen overweight-rated stocks that it views as best-positioned to capitalize on higher-than-expected AI spending next year.
 
-Fortune • 1h ago
+CNBC • 39m ago
 
 ---
 
-**[AI first doesn’t mean humans last](https://www.fastcompany.com/91464940/ai-first-doesnt-mean-humans-last)**
+**[OpenAI’s Outlook on AI Browser Security Is Bleak, but Maybe a Little More AI Can Fix It](https://gizmodo.com/openais-outlook-on-ai-browser-security-is-bleak-but-maybe-a-little-more-ai-can-fix-it-2000702902)**
 
-Fast Company • 1h ago
+The company behind ChatGPT says prompt injection vulnerabilities will likely never be fully âsolved.â
+
+Gizmodo • 17m ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 51m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
+**[AI app apologises over false crime alerts across US](https://www.bbc.com/news/videos/c4g4v3yd28yo)**
 
-A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
+An AI-powered app called CrimeRadar has apologised for the distress caused by false crime alerts issued to local US communities after a BBC Verify investigation.
 
-CNBC • 1d ago
-
----
-
-**[Instacart to end AI price tests for retailers following investigation](https://www.cbsnews.com/news/instacart-ends-ai-price-testing-tool-eversight/)**
-
-Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
-
-CBS News • 1d ago
+BBC • 3h ago
 
 ---
 
-**[Instacart scraps AI pricing tests that made some products more expensive](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight)**
+**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
 
-Prices may still vary on a store-by-store basis, Instacart says.
+Reuters • 8h ago
 
-The Verge • 22h ago
+---
+
+**[Google’s Chess Master Is Working on AI's Killer App](https://www.bloomberg.com/opinion/articles/2025-12-23/google-ai-boss-demis-hassabis-is-working-on-the-next-killer-app)**
+
+You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
+
+Bloomberg.com • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Verge • 22h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 685 • 💬 423 • 22h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 704 • 💬 429 • 23h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,7 +211,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 269 • 💬 172 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 270 • 💬 172 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -236,13 +236,13 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 175 • 💬 91 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 176 • 💬 91 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 146 • 💬 175 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 147 • 💬 176 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -272,7 +272,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 129 • 💬 94 • 9h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 130 • 💬 96 • 9h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -400,7 +400,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 597 • 4d ago
+⬇️ 9,848 • ❤️ 604 • 4d ago
 
 ---
 
@@ -412,7 +412,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,333 • 14d ago
+⬇️ 373,123 • ❤️ 3,335 • 14d ago
 
 ---
 
@@ -424,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 500 • 4d ago
+⬇️ 21,058 • ❤️ 502 • 4d ago
 
 ---
 
@@ -436,7 +436,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 10,832 • ❤️ 421 • 5d ago
+⬇️ 10,832 • ❤️ 422 • 5d ago
 
 ---
 
@@ -448,7 +448,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 403 • 4d ago
+⬇️ 3,313 • ❤️ 404 • 4d ago
 
 ---
 
@@ -460,7 +460,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 391 • 5h ago
+⬇️ 1,148 • ❤️ 398 • 6h ago
 
 ---
 
@@ -472,7 +472,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 368 • 6h ago
+⬇️ 0 • ❤️ 370 • 6h ago
 
 ---
 
@@ -484,7 +484,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,493 • ❤️ 414 • 9d ago
+⬇️ 6,493 • ❤️ 415 • 9d ago
 
 ---
 
@@ -496,7 +496,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 110,376 • ❤️ 450 • 3d ago
+⬇️ 110,376 • ❤️ 451 • 3d ago
 
 ---
 
@@ -508,7 +508,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 344 • 7d ago
+⬇️ 0 • ❤️ 345 • 7d ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 357 • 48m ago
+⭐ 2.6k • 🔱 357 • 1h ago
 
 ---
 
@@ -685,7 +685,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 184 • 38m ago
+⭐ 2.5k • 🔱 184 • 58m ago
 
 ---
 
@@ -725,7 +725,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 94 • 3h ago
+⭐ 1.0k • 🔱 94 • 4h ago
 
 ---
 
