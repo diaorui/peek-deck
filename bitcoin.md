@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T19:44:18.520009+00:00'
+updated: '2025-12-23T19:55:48.829984+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 19:44 UTC  
+**Last Updated:** December 23, 2025 at 19:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +1.8%  
-**30d:** -0.7%  
-**90d:** -19.3%  
-**1y:** -11.0%  
+**24h:** -0.9%  
+**7d:** +1.5%  
+**30d:** -1.0%  
+**90d:** -19.6%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.36B
+**Market Cap:** $1752.27B
 Rank #1
 
-**Circulating Supply:** 19,966,093 BTC
+**Circulating Supply:** 19,966,109 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.4%
 
 **All-Time Low:** $67.81
-+129463.5%
++129321.9%
 
 ---
 
@@ -76,12 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
-
-12h ago
-
----
 
 **[One of my worst financial decisions](https://www.reddit.com/r/Bitcoin/comments/1ptwxn7/one_of_my_worst_financial_decisions/)**
 
@@ -96,6 +90,12 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
 9h ago
+
+---
+
+**[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
+
+12h ago
 
 ---
 
@@ -119,7 +119,7 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-6h ago
+7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Like the question asks
 
 **[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -155,33 +155,27 @@ Like the question asks
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 8h ago
+The Guardian • 1h ago
 
 ---
 
-**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
+**[BTC news analysis: Bitcoin trails gold and copper, as the 'fear and AI' trade lifts tangible assets](https://www.coindesk.com/markets/2025/12/23/bitcoin-trails-polar-opposites-gold-and-copper-as-the-fear-and-ai-trade-lifts-tangible-assets)**
 
-The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
+Gold and copper have outperformed other major assets this year, with gold rallying more than copper.
 
-Yahoo Finance • 21h ago
+CoinDesk • 11h ago
 
 ---
 
-**[1 Top Cryptocurrency to Buy Before It Soars 1,049%, According to Strategy's Michael Saylor](https://www.fool.com/investing/2025/12/21/1-top-cryptocurrency-to-buy-before-it-soars-1049-a/)**
+**[Watch Assia: Bitcoin is Digital Gold](https://www.bloomberg.com/news/videos/2025-12-22/assia-bitcoin-is-digital-gold-video)**
 
-Bitcoin may be down for the year, but it could still be headed to a price of $1 million.
+Bitcoin set to end the year lower despite a risk-on period for stocks, and demand for havens like gold. But Yoni Assia, Founder & CEO of eToro back bitcoin in his conversation with Bloomberg’s Lizzy Burden on Horizons Middle East and Africa. (Source: Bloomberg)
 
-The Motley Fool • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -193,41 +187,49 @@ VanEck • 1d ago
 
 ---
 
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+**[How to Buy Bitcoin Hyper (BTC Hyper) | Step-by-Step Guide](https://www.businessinsider.com/personal-finance/how-to-buy-bitcoin-hyper)**
 
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+Learn how to buy Bitcoin Hyper (HYPER). Find out the safest ways to purchase, store, and invest in BTC Hyper today.
 
-Al Jazeera • 1d ago
-
----
-
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqdBA7ROspNL2qlZRjAR9-p-oaeavQrE2Y99YIK6-omRUqb5jecIMVF9&gaa_ts=694aee32&gaa_sig=2gJyKxLylcPvXMlZ1WnPsPd9982uVJjUJnVRsOZTl9V98xUQ1n6Ru2SOSePaJ_K5F3HpiDzS4ZlxoZ8RQbaIUA%3D%3D)**
-
-Barron's • 1d ago
+Business Insider • 22m ago
 
 ---
 
-**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
+**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
 
-Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
+Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
 
-The Guardian • 1h ago
-
----
-
-**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
-
-The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
-
-The Motley Fool • 1d ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+**[Bitcoin price analysis: Struggling dollar hasn't yet boosted BTC](https://www.coindesk.com/markets/2025/12/23/bitcoin-bulls-eye-possible-tailwind-as-u-s-dollar-index-continues-to-leg-lower)**
 
-Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
+Metals and other hard assets continue their surge to new records as the greenback stumbles, but crypto has not responded.
 
-Nasdaq • 3d ago
+CoinDesk • 5h ago
+
+---
+
+**[Why This Friday Could Be Very Big For The Bitcoin Price](https://www.tradingview.com/news/newsbtc:f5c1d84e7094b:0-why-this-friday-could-be-very-big-for-the-bitcoin-price/)**
+
+The Bitcoin price could experience major swings this Friday as billions of dollars in options are set to expire. A crypto market expert has warned that the scale of this event could trigger “something big,” potentially affecting both volatility and the actions of retail and institutional investors…
+
+TradingView — Track All Markets • 55m ago
+
+---
+
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -286,6 +288,14 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
 ⬆️ 3 • 💬 0 • 23h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+
+---
+
+**[Show HN: Prysm – Built a real-time 3D globe for analytics after ditching GA4](https://news.ycombinator.com/item?id=46368760)**
+
+Analytics reimagined. Watch visitors on a 3D globe, explore AI-powered insights, and chat with your data.
+
+⬆️ 1 • 💬 1 • 1m ago • [prysmhq.com](https://prysmhq.com)
 
 ---
 

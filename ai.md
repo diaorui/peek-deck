@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T19:44:18.511651+00:00'
+updated: '2025-12-23T19:55:48.821230+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 19:44 UTC  
+**Last Updated:** December 23, 2025 at 19:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 1h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 2h ago
 
 ---
 
@@ -59,11 +59,19 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 ---
 
+**[Intel NPU firmware published for Panther Lake - completing the Linux driver support](https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/)**
+
+Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 1h ago
+
+---
+
 **[Displace Wireless Pro 2 TVs will feature local AI to enhance privacy](https://www.reddit.com/r/artificial/comments/1ptx654/displace_wireless_pro_2_tvs_will_feature_local_ai/)**
 
 The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
 
-🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 3h ago
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 4h ago
 
 ---
 
@@ -71,7 +79,7 @@ The next generation of the truly wireless TV boasts on-device AI. Displace TV wi
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 1h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 2h ago
 
 ---
 
@@ -88,14 +96,6 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
 🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 4h ago
-
----
-
-**[Intel NPU firmware published for Panther Lake - completing the Linux driver support](https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/)**
-
-Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 1h ago
 
 ---
 
@@ -127,11 +127,11 @@ ABC News • 1d ago
 
 ---
 
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
+**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
 
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
+This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-The Guardian • 2h ago
+blog.google • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Washington Post • 1h ago
 
 **[Follow the money: AI, wealth and private-markets plumbing](https://www.axios.com/pro/all-deals/2025/12/23/ai-wealth-private-markets-plumbing)**
 
-Axios • 41m ago
+Axios • 53m ago
 
 ---
 
@@ -159,15 +159,29 @@ The New York Times • 1h ago
 
 In 2025, if you wanted to do layoffs, AI was a great option for pinning the blame.
 
-Gizmodo • 38m ago
+Gizmodo • 50m ago
 
 ---
 
-**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
+**[Year in a word: AI bubble](https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f)**
 
-This year saw new AI models, transformative products and new breakthroughs in science and robotics.
+The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
 
-blog.google • 2h ago
+Financial Times • 14h ago
+
+---
+
+**[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
+
+The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
+
+The Guardian • 2h ago
 
 ---
 
@@ -179,22 +193,6 @@ CNBC • 1d ago
 
 ---
 
-**[Instacart Ends Controversial AI-Driven Pricing Program](https://www.today.com/video/instacart-ends-controversial-ai-driven-pricing-program-254906437989)**
-
-Instacart says it’s ending a controversial dynamic pricing program that faced criticism for charging shoppers different prices for the same items at the same store. Some customers were paying up to seven percent more.
-
-TODAY.com • 5h ago
-
----
-
-**[Instacart Ends AI Pricing Tests Showing Different Prices for the Same Items](https://www.pcmag.com/news/instacart-ends-ai-pricing-tests-showing-different-prices-for-the-same-items)**
-
-The moves comes after reports of the FTC looking into the pricing tests. The agency said it was 'disturbed' by what it had read about Instacart's AI testing.
-
-PCMag • 8h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +201,7 @@ PCMag • 8h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 757 • 💬 456 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 759 • 💬 458 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 272 • 💬 174 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 273 • 💬 176 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -236,7 +234,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 180 • 💬 92 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 181 • 💬 92 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -272,7 +270,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 136 • 💬 106 • 13h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 136 • 💬 107 • 13h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -334,7 +332,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 136K • 👍 7K • 💬 2K • ⏱️ 19:40 • 5h ago
+👁️ 136K • 👍 7K • 💬 2K • ⏱️ 19:40 • 6h ago
 
 ---
 
@@ -400,7 +398,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 618 • 4d ago
+⬇️ 9,848 • ❤️ 620 • 4d ago
 
 ---
 
@@ -412,7 +410,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,345 • 15d ago
+⬇️ 373,123 • ❤️ 3,346 • 15d ago
 
 ---
 
@@ -428,6 +426,18 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 ---
 
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 1,148 • ❤️ 430 • 10h ago
+
+---
+
 **[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
 
 *Xiaomi MiMo*
@@ -437,18 +447,6 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 `text-generation` `309.8B`
 
 ⬇️ 10,832 • ❤️ 426 • 5d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 1,148 • ❤️ 425 • 10h ago
 
 ---
 
@@ -472,7 +470,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 372 • 10h ago
+⬇️ 0 • ❤️ 373 • 10h ago
 
 ---
 
@@ -508,7 +506,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 353 • 8d ago
+⬇️ 0 • ❤️ 354 • 8d ago
 
 ---
 
@@ -676,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 369 • 18m ago
+⭐ 2.8k • 🔱 369 • 29m ago
 
 ---
 
@@ -706,7 +704,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 197 • 19h ago
+⭐ 1.2k • 🔱 197 • 20h ago
 
 ---
 

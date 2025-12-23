@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T19:44:18.525990+00:00'
+updated: '2025-12-23T19:55:48.836022+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 19:44 UTC  
+**Last Updated:** December 23, 2025 at 19:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,31 +42,39 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +3.6%  
-**30d:** -0.7%  
-**90d:** -23.9%  
-**1y:** -16.0%  
+**24h:** -1.4%  
+**7d:** +3.7%  
+**30d:** -0.6%  
+**90d:** -23.8%  
+**1y:** -15.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.10B
+**Market Cap:** $354.40B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.6%
 
 **All-Time Low:** $0.43
-+679277.1%
++678725.1%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Introducing EIP-8105 Universal Enshrined Encrypted Mempool](https://www.reddit.com/r/ethereum/comments/1ptzq99/introducing_eip8105_universal_enshrined_encrypted/)**
+
+Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
+
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 2h ago
+
+---
 
 **[Daily General Discussion December 23, 2025](https://www.reddit.com/r/ethereum/comments/1ptmezj/daily_general_discussion_december_23_2025/)**
 
@@ -76,11 +84,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Introducing EIP-8105 Universal Enshrined Encrypted Mempool](https://www.reddit.com/r/ethereum/comments/1ptzq99/introducing_eip8105_universal_enshrined_encrypted/)**
+**[ETHZilla still owns about $200M ETH](https://www.reddit.com/r/ethereum/comments/1pu32ay/ethzilla_still_owns_about_200m_eth/)**
 
-Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
-
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 2h ago
+14m ago
 
 ---
 
@@ -138,14 +144,6 @@ Edit: The "deferred ordering" array does not need deferred ordering. Nodes can k
 
 ---
 
-**[Recovering old, mined ETH](https://www.reddit.com/r/ethereum/comments/1prob1d/recovering_old_mined_eth/)**
-
-Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -170,7 +168,7 @@ The Motley Fool • 1d ago
 
 Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -204,6 +202,14 @@ Coinpedia Fintech News • 3h ago
 
 ---
 
+**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+
+Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+
+CryptoSlate • 4h ago
+
+---
+
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
 The Block • 12h ago
@@ -215,14 +221,6 @@ The Block • 12h ago
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
 Bit Digital • 23h ago
-
----
-
-**[Ethereum staking sees heavy withdrawal waves — But long-term growth remains firm](https://ambcrypto.com/ethereum-staking-sees-heavy-withdrawal-waves-but-long-term-growth-remains-firm/)**
-
-New Dune Analytics charts show heavy weekly staked Ethereum withdrawal activity from major providers, with over 1 million withdrawn.
-
-AMBCrypto • 57m ago
 
 ---
 
@@ -276,7 +274,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 20 • ⏱️ 8:07 • 16h ago
+👁️ 2K • 👍 125 • 💬 20 • ⏱️ 8:07 • 17h ago
 
 ---
 

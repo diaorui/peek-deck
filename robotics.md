@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T19:44:18.529221+00:00'
+updated: '2025-12-23T19:55:48.839268+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 19:44 UTC  
+**Last Updated:** December 23, 2025 at 19:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-7h ago
+8h ago
 
 ---
 
@@ -78,6 +78,14 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ---
 
+**[Bringing robotics product to market: custom quadruped or off-the-shelf?](https://www.reddit.com/r/robotics/comments/1pu2lao/bringing_robotics_product_to_market_custom/)**
+
+Hello. I'm considering creating a robotics product for a certain trade. I'm currently side hustling as a representative of the trade, and I also have AI & robotics background (as a student). Anyway. I have an design in mind that requires equipping a quadruped with a tool on it's back. I have a design decision - either buy an expensive (for this, everything is expensive) quadruped, where even the cheapest Unitree Go2 is $1600+shipping OR design a custom one. I can design a quadruped myself, no big deal, but what scares me is the software part of it. While I intend to fully teleoperate the robot, something as simple as walking... I don't know if I can adapt it to a rough terrain. Of course, general VLA policies already exist, which can be used for just walking, but still, I'm scared of the software/AI part with walking. How can you teleoperate a quadruped to walk? On a rough terrain? is there any model that allows this? Anyway, designing my own quadruped might boost margins of this business, as the off-the-shelf quadruped costs $1600, and making a custom one with simpler actuators can be around $800. Or is it stupid? For the reference, the average employee of this trade costs the business on average $3-4k monthly in the US. The robot will be retailed for initial price + subscription. So we don't have high margins here.
+
+34m ago
+
+---
+
 **[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
 
 1h ago
@@ -100,41 +108,9 @@ been looking for the right sub, i dont even know if its the right one , pls dont
 
 ---
 
-**[Christmas video with our lab robots! 🎄🤖](https://www.reddit.com/r/robotics/comments/1ptna5y/christmas_video_with_our_lab_robots/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 12h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
-
-China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
-
-South China Morning Post • 2d ago
-
----
-
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
-
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
-
-El Adelantado • 1d ago
-
----
-
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
-
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
-
-Interesting Engineering • 3d ago
-
----
 
 **[Will Serve Robotics' Gen-3 Robots Drive Faster Unit Economics?](https://finance.yahoo.com/news/serve-robotics-gen-3-robots-163400477.html)**
 
@@ -152,11 +128,25 @@ hyundai.com • 1d ago
 
 ---
 
-**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
+**[Top 5 Viral Humanoid Moments That Made 2025 The Year Of Robotics](https://seekingalpha.com/article/4855343-top-5-viral-humanoid-moments-made-2025-year-of-robotics)**
 
-Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
+The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-LancasterOnline • 4h ago
+Seeking Alpha • 8h ago
+
+---
+
+**[Robot Makers Wrestle With How to Safely Pull the Plug on Humanoids](https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids)**
+
+The Information • 1d ago
+
+---
+
+**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
+
+Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
+
+CnEVPost • 16h ago
 
 ---
 
@@ -168,11 +158,11 @@ Good Morning Wilton • 1d ago
 
 ---
 
-**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
+**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
 
-Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
+Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
 
-CnEVPost • 16h ago
+LancasterOnline • 4h ago
 
 ---
 
@@ -189,6 +179,14 @@ Futura, Le média qui explore le monde • 7h ago
 Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
 
 Sifted • 1d ago
+
+---
+
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
+
+The Daily Beast • 16h ago
 
 ---
 
@@ -262,7 +260,7 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 32K • 💬 4 • ⏱️ 0:26 • 17h ago
+👁️ 32K • 💬 4 • ⏱️ 0:26 • 18h ago
 
 ---
 
