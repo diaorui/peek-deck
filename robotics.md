@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T17:53:49.544148+00:00'
+updated: '2025-12-23T18:26:39.599558+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 17:53 UTC  
+**Last Updated:** December 23, 2025 at 18:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-7h ago
+8h ago
 
 ---
 
@@ -68,27 +68,13 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 Physical Intelligence just released a series of "Robot Olympics" events to showcase their latest π0.6 model. Unlike standard benchmarks, these tasks are designed to illustrate Moravec’s Paradox which are everyday physical actions that are trivial for humans but represent the "gold standard" of difficulty for modern robotics. All tasks shown are fully autonomous, demonstrating high-level task decomposition and fine motor control. The 5 Olympic Events: Event 1 (Gold) - Door Entry: The robot successfully navigates a self-closing lever-handle door. This is technically challenging because it requires the model to apply force to keep the door open while simultaneously moving its base through the frame. Event 2 (Silver) - Textile Manipulation: The model successfully turns a sock right-side-out. They attempted the Gold medal task (hanging an inside-out dress shirt), but the current hardware gripper was too wide for the sleeves. Event 3 (Gold) - Fine Tool Use: A major win here,the robot used a small key to unlock a padlock. This requires extreme precision to align the key and enough torque to turn the tumbler. (Silver was making a peanut butter sandwich, involving long-horizon steps like spreading and cutting triangles). Event 4 (Silver) - Deformable Objects: The robot successfully opened a dog poop bag. This is notoriously difficult because the thin plastic blinds the wrist cameras during manipulation. They attempted to peel an orange for Gold but were "disqualified" for needing a sharper tool. Event 5 (Gold) - Complex Cleaning: The robot washed a frying pan in a sink using soap and water, scrubbing both sides. They also cleared the Silver (cleaning the grippers) and Bronze (wiping the counter) tasks for this category. The Tech Behind It: The π0.6 model is a Vision-Language-Action (VLA) generalist policy. It moves away from simple "behavior cloning" and instead focuses on agentic coding and task completion, allowing it to recover from errors and handle diverse, "messy" real-world environments. Official Blog: pi.website/blog/olympics Source Video: Physical Intelligence on X
 
-23h ago
+1d ago
 
 ---
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
 5h ago
-
----
-
-**[The TRUMP We Should Have Known](https://www.reddit.com/r/robotics/comments/1ptzs6e/the_trump_we_should_have_known/)**
-
-23m ago
-
----
-
-**[UBTECH ASTROBOT KITS](https://www.reddit.com/r/robotics/comments/1pttjve/ubtech_astrobot_kits/)**
-
-been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
-
-4h ago
 
 ---
 
@@ -100,9 +86,25 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pty2i7/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
+**[UBTECH ASTROBOT KITS](https://www.reddit.com/r/robotics/comments/1pttjve/ubtech_astrobot_kits/)**
 
-1h ago
+been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
+
+5h ago
+
+---
+
+**[The TRUMP We Should Have Known](https://www.reddit.com/r/robotics/comments/1ptzs6e/the_trump_we_should_have_known/)**
+
+56m ago
+
+---
+
+**[Christmas video with our lab robots! 🎄🤖](https://www.reddit.com/r/robotics/comments/1ptna5y/christmas_video_with_our_lab_robots/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 11h ago
 
 ---
 
@@ -110,19 +112,19 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ## Google News: "robotics"
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 1d ago
-
----
-
 **[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
 
 China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
 
 South China Morning Post • 2d ago
+
+---
+
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
+
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
+
+El Adelantado • 1d ago
 
 ---
 
@@ -134,11 +136,27 @@ Stock Titan • 1d ago
 
 ---
 
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+**[Will Serve Robotics' Gen-3 Robots Drive Faster Unit Economics?](https://finance.yahoo.com/news/serve-robotics-gen-3-robots-163400477.html)**
 
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+SERV's Gen-3 robots slash production costs and boost autonomy, aiming to fast-track the path to stronger unit economics.
 
-The Verge • 2d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
+
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
+
+hyundai.com • 1d ago
+
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 1d ago
 
 ---
 
@@ -146,7 +164,15 @@ The Verge • 2d ago
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 14h ago
+CnEVPost • 15h ago
+
+---
+
+**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
+
+Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
+
+LancasterOnline • 3h ago
 
 ---
 
@@ -166,30 +192,6 @@ Sifted • 1d ago
 
 ---
 
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
-
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 14h ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 1d ago
-
----
-
-**[Affluent Medical to acquire Caranx, Artedrone to form new heart valve, robotics, AI company](https://www.massdevice.com/affluent-medical-acquire-caranx-artedrone/)**
-
-Affluent Medical recently announced agreements to acquire Caranx Medical and Artedrone to form a new medtech company called Carvolix.
-
-MassDevice • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +202,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 41K • 👍 776 • 💬 80 • ⏱️ 2:08:46 • 3d ago
+👁️ 42K • 👍 781 • 💬 80 • ⏱️ 2:08:46 • 3d ago
 
 ---
 
@@ -210,17 +212,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 34K • 👍 588 • 💬 139 • ⏱️ 5:25 • 2d ago
-
----
-
-**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
-
-Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
-
-📺 Mike Israetel
-
-👁️ 3K • 👍 180 • 💬 55 • ⏱️ 49:59 • 21h ago
+👁️ 35K • 👍 594 • 💬 142 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -234,13 +226,43 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=eFeyyTAyxMI)**
 
-Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
 
-📺 LimX Dynamics
+📺 Ai BOOF
 
-👁️ 1.0M • 👍 11K • 💬 640 • ⏱️ 2:43 • 5d ago
+👁️ 6K • 👍 123 • 💬 4 • ⏱️ 0:11 • 9h ago
+
+---
+
+**[InMoov Robotic Hand 🦾🤖 #3dprinting #lego #arduino #stem #robot](https://www.youtube.com/watch?v=Y9TXBEBjrSo)**
+
+This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full builds & learning on my YouTube channel!
+
+📺 Roll No 36
+
+👁️ 833 • 👍 27 • 💬 4 • ⏱️ 0:31 • 4h ago
+
+---
+
+**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
+
+Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
+
+📺 Mike Israetel
+
+👁️ 3K • 👍 192 • 💬 55 • ⏱️ 49:59 • 22h ago
+
+---
+
+**[Futuristic dancing robot&#39;s in china.....#dance](https://www.youtube.com/watch?v=7drSENm6rpQ)**
+
+future stick dancing robots in China robots can dance like a human robots dance leke better than human China's robots that ...
+
+📺 Santoshgian
+
+👁️ 32K • 💬 4 • ⏱️ 0:26 • 16h ago
 
 ---
 
@@ -250,17 +272,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 542K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
-
----
-
-**[Will Baristas Be Replaced with AI? : CoffeeLand Ep 4](https://www.youtube.com/watch?v=DOFiExv2mRc)**
-
-Will AI and robots become the future of the coffee and cocktail industry? Or will humans and robots become peaceful co ...
-
-📺 Emilee Bryant
-
-👁️ 2K • 👍 103 • 💬 33 • ⏱️ 12:34 • 21h ago
+👁️ 550K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
 
 ---
 
@@ -270,27 +282,17 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 15K • 👍 242 • 💬 6 • ⏱️ 0:11 • 1d ago
+👁️ 16K • 👍 256 • 💬 6 • ⏱️ 0:11 • 1d ago
 
 ---
 
-**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
+**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
 
-jumpersjump #hardclipped.
+Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
 
-📺 Sharp Cut
+📺 LimX Dynamics
 
-👁️ 2.9M • 👍 42K • 💬 678 • ⏱️ 0:29 • 1d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=eFeyyTAyxMI)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 5K • 👍 91 • 💬 4 • ⏱️ 0:11 • 8h ago
+👁️ 1.0M • 👍 11K • 💬 645 • ⏱️ 2:43 • 5d ago
 
 ---
 
