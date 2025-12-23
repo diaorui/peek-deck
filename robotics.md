@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T08:40:44.917326+00:00'
+updated: '2025-12-23T09:00:28.997555+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 08:40 UTC  
+**Last Updated:** December 23, 2025 at 09:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-21h ago
+22h ago
 
 ---
 
@@ -60,7 +60,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting h
 
 Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
 
-15h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Making some good progress on the automatic tool-changing mechanism for my SCARA 
 
 I am building a robotic hand, which is very compact and direct-driven. So, I am trying to find some motors (w/o gearbox) having a very small size, but high torque (and low speed). The torque and speed requirement is similar to the gimbal motor (0.07 N-m) in the below link. https://store.tmotor.com/product/gb2208-gimbal-type.html But the size is an issue for my project. I want to use a motor with a 16 mm smaller diameter, which shape is similar to the ones in the following link. https://www.portescap.com/en/products/brushless-dc-motors/all-bldc-motors The sizes of those motors are good for me, but they are designed for the high speed applications (higher than 10,000 rpm). To accomplish this requirement, I think that the motors should have high resistance compared to high-speed motors used for the drone. Please share your opinion and any comment for my project!!
 
-8h ago
+9h ago
 
 ---
 
@@ -150,7 +150,7 @@ Instead, the shift has been from “repetitive work to less repetitive, more kno
 
 #Amazon #Robotics #FutureOfWork #GenAI #Automation #SupplyChain #Ecommerce Shereen Bhan
 
-LinkedIn • 36m ago
+LinkedIn • 56m ago
 
 ---
 
@@ -174,7 +174,7 @@ hyundai.com • 1d ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 20h ago
+Phoronix • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ Phoronix • 20h ago
 
 Affluent Medical recently announced agreements to acquire Caranx Medical and Artedrone to form a new medtech company called Carvolix.
 
-MassDevice • 19h ago
+MassDevice • 20h ago
 
 ---
 
@@ -212,7 +212,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 39K • 👍 747 • 💬 77 • ⏱️ 2:08:46 • 3d ago
+👁️ 39K • 👍 757 • 💬 79 • ⏱️ 2:08:46 • 3d ago
 
 ---
 
@@ -222,7 +222,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 30K • 👍 560 • 💬 130 • ⏱️ 5:25 • 1d ago
+👁️ 31K • 👍 569 • 💬 135 • ⏱️ 5:25 • 1d ago
 
 ---
 
@@ -242,17 +242,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 981K • 👍 11K • 💬 623 • ⏱️ 2:43 • 4d ago
-
----
-
-**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
-
-jumpersjump #hardclipped.
-
-📺 Sharp Cut
-
-👁️ 2.6M • 👍 36K • 💬 589 • ⏱️ 0:29 • 1d ago
+👁️ 1.0M • 👍 11K • 💬 628 • ⏱️ 2:43 • 4d ago
 
 ---
 
@@ -262,7 +252,27 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 523K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
+👁️ 528K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 145K • 👍 8K • 💬 556 • ⏱️ 13:43 • 4d ago
+
+---
+
+**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
+
+jumpersjump #hardclipped.
+
+📺 Sharp Cut
+
+👁️ 2.7M • 👍 37K • 💬 614 • ⏱️ 0:29 • 1d ago
 
 ---
 
@@ -272,27 +282,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 11K • 👍 170 • 💬 6 • ⏱️ 0:11 • 23h ago
-
----
-
-**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
-
-This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
-
-📺 NVIDIA Developer
-
-👁️ 2K • 👍 93 • 💬 1 • ⏱️ 55:42 • 2d ago
-
----
-
-**[Project Stupid: The Fighting Robot That Weighs Twice It&#39;s Opponents](https://www.youtube.com/watch?v=yqQ1KZ3Ox80)**
-
-Matt Bores & Adam Wrigley from Bots FC are already known for building complex, exciting and World Champion robots, up next: ...
-
-📺 NHRL
-
-👁️ 11K • 👍 556 • 💬 96 • ⏱️ 9:37 • 16h ago
+👁️ 11K • 👍 172 • 💬 6 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -302,7 +292,17 @@ shorts source: JumpersJump.
 
 📺 WildTalk
 
-👁️ 90K • 👍 849 • 💬 4 • ⏱️ 0:22 • 12h ago
+👁️ 95K • 👍 905 • 💬 4 • ⏱️ 0:22 • 12h ago
+
+---
+
+**[MY TYLER ROBOT ESCAPED..](https://www.youtube.com/watch?v=JML9u9OlIKE)**
+
+MERCH NOW 50% OFF! ✨ https://tylerandsnowi.store/ For a Limited Time ⏰ Today Tyler and Snowi meet ELBERR THE ...
+
+📺 Tyler & Snowi
+
+👁️ 1.3M • 👍 44K • 💬 734 • ⏱️ 21:05 • 1d ago
 
 ---
 

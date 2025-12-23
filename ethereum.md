@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T08:40:44.914014+00:00'
+updated: '2025-12-23T09:00:28.994330+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 08:40 UTC  
+**Last Updated:** December 23, 2025 at 09:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,989.48
+### $2,962.91
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +4.9%  
-**30d:** +0.6%  
-**90d:** -22.9%  
-**1y:** -15.0%  
+**24h:** -2.6%  
+**7d:** +4.7%  
+**30d:** +0.3%  
+**90d:** -23.1%  
+**1y:** -15.2%  
 
 ---
 
@@ -154,7 +154,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 1d ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ CryptoSlate • 20h ago
 
 BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
 
-Crypto Briefing • 19h ago
+Crypto Briefing • 20h ago
 
 ---
 
@@ -232,13 +232,23 @@ Seeking Alpha • 19h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=SqBUgWNzN_k)**
+
+As part of the MCO partnership with Bybit, here's a quick overview of a currently running campaign on Bybit.com for active traders ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 95 • 💬 9 • ⏱️ 8:07 • 6h ago
+
+---
+
 **[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 738 • 💬 75 • ⏱️ 15:49 • 1d ago
+👁️ 22K • 👍 743 • 💬 75 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -248,7 +258,27 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 100 • ⏱️ 17:34 • 16h ago
+👁️ 9K • 👍 306 • 💬 93 • ⏱️ 17:34 • 16h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 501 • 👍 37 • 💬 39 • ⏱️ 5:02 • 14h ago
+
+---
+
+**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
+
+BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
+
+📺 CryptoStock Lab
+
+👁️ 2K • 👍 41 • 💬 26 • ⏱️ 16:54 • 13h ago
 
 ---
 
@@ -258,7 +288,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 44 • 💬 67 • ⏱️ 7:32 • 19h ago
+👁️ 1K • 👍 45 • 💬 66 • ⏱️ 7:32 • 19h ago
 
 ---
 
@@ -268,7 +298,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 947 • 👍 264 • 💬 88 • ⏱️ 15:45 • 3h ago
+👁️ 2K • 👍 526 • 💬 124 • ⏱️ 15:45 • 3h ago
 
 ---
 
@@ -282,23 +312,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
+**[Bitcoin &quot;Digital Gold&quot; &amp; Ethereum &quot;Digital Oil:&quot; Crypto&#39;s Path to Commoditization](https://www.youtube.com/watch?v=kZzRkG5IlXk)**
 
-BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
+Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does he see institutional investing adding long-term ...
 
-📺 CryptoStock Lab
+📺 Schwab Network
 
-👁️ 1K • 👍 39 • 💬 26 • ⏱️ 16:54 • 12h ago
-
----
-
-**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 468 • 👍 36 • 💬 41 • ⏱️ 5:02 • 13h ago
+👁️ 3K • 👍 65 • 💬 8 • ⏱️ 8:22 • 1d ago
 
 ---
 
@@ -308,27 +328,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 408 • 👍 19 • 💬 30 • ⏱️ 5:29 • 12h ago
-
----
-
-**[Bitcoin &quot;Digital Gold&quot; &amp; Ethereum &quot;Digital Oil:&quot; Crypto&#39;s Path to Commoditization](https://www.youtube.com/watch?v=kZzRkG5IlXk)**
-
-Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does he see institutional investing adding long-term ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 64 • 💬 8 • ⏱️ 8:22 • 1d ago
-
----
-
-**[Tom Lee&#39;s Fundstrat Sees $60K BTC $1.8k ETH and $50 SOL In H1 2026... Stablecoin Battle, BTC ETF...](https://www.youtube.com/watch?v=PrjHeXsAGfE)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 14K • 👍 685 • 💬 412 • ⏱️ 11:34 • 1d ago
+👁️ 445 • 👍 20 • 💬 27 • ⏱️ 5:29 • 12h ago
 
 ---
 

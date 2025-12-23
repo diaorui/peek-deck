@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T08:40:44.907828+00:00'
+updated: '2025-12-23T09:00:28.988403+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 08:40 UTC  
+**Last Updated:** December 23, 2025 at 09:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
+**24h:** -2.2%  
 **7d:** +1.6%  
 **30d:** -0.9%  
 **90d:** -19.5%  
-**1y:** -11.1%  
+**1y:** -11.2%  
 
 ---
 
@@ -95,13 +95,13 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-17h ago
+18h ago
 
 ---
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -127,13 +127,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-12h ago
+13h ago
 
 ---
 
 **[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 3h ago
 
 Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 16h ago
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 16h ago
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -197,7 +197,7 @@ Investor's Business Daily • 11h ago
 
 Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 16h ago
 
 BlackRock has placed its spot Bitcoin exchange-traded fund among its three biggest investment themes for 2025, ranking the product alongside Treasury bills and US mega-cap technology stocks. Key Takeaways: BlackRock named its spot Bitcoin ETF a top 2025 investment theme alongside Treasurys and big tech. IBIT attracted over $25 billion ...
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 40m ago
 
 Gold and copper have outperformed other major assets this year, with gold rallying more than copper.
 
-CoinDesk • 43m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -279,7 +279,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 2 • 💬 0 • 12h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 13h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -295,11 +295,11 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
 
-Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
+Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation. In this ...
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 117 • ⏱️ 11:35 • 8h ago
+👁️ 17K • 👍 2K • 💬 120 • ⏱️ 11:35 • 9h ago
 
 ---
 
@@ -309,17 +309,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 224 • ⏱️ 39:10 • 17h ago
-
----
-
-**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
-
-CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
-
-📺 CNBC Television
-
-👁️ 2K • 👍 26 • 💬 44 • ⏱️ 3:19 • 10h ago
+👁️ 25K • 👍 1K • 💬 219 • ⏱️ 39:10 • 17h ago
 
 ---
 
@@ -333,53 +323,23 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 ---
 
-**[Bitcoin Crypto Prices Are Falling for a Reason No One Likes to Admit.](https://www.youtube.com/watch?v=KIPJtth6K7s)**
+**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
 
-Things continue to chop sideways with a little run. But let's be honest - momentum is gone and sentiment is in the toilet. The links ...
+CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
 
-📺 Digital Asset News
+📺 CNBC Television
 
-👁️ 7K • 👍 487 • 💬 73 • ⏱️ 27:45 • 13h ago
-
----
-
-**[Bitcoin BREAKS $90K As Gold &amp; Silver SMASH ATHs! Santa Rally Inbound?](https://www.youtube.com/watch?v=jA3a0HRv_fE)**
-
-Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash warning signs: Hong Kong unveils new crypto ...
-
-📺 The Wolf Of All Streets
-
-👁️ 19K • 👍 1K • 💬 293 • ⏱️ 1:04:41 • 16h ago
+👁️ 3K • 👍 29 • 💬 45 • ⏱️ 3:19 • 10h ago
 
 ---
 
-**[Serious Investors Think Bitcoin Is Going Here By JANUARY](https://www.youtube.com/watch?v=13_C9qFzuIk)**
+**[Bitcoin $24 BILLION TRAP Exposed! (Crypto Won’t Recover Until THIS Happens)](https://www.youtube.com/watch?v=zjxvexnqhpw)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+In this video, we break down the hidden liquidity trap locking billions of dollars in Bitcoin, why crypto won't fully recover yet, and ...
 
-📺 Crypto Tips
+📺 Discover Crypto
 
-👁️ 15K • 👍 813 • 💬 120 • ⏱️ 6:08 • 15h ago
-
----
-
-**[BITCOIN COULD SPIKE TO $100K IF THIS LEVEL BREAKS! Bitcoin Technical Analysis 2025](https://www.youtube.com/watch?v=rq9rNjOvZLU)**
-
-A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex and Earn a brand new ...
-
-📺 Crypto Jebb
-
-👁️ 3K • 👍 209 • 💬 107 • ⏱️ 8:51 • 13h ago
-
----
-
-**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 2K • 💬 136 • ⏱️ 10:16 • 8h ago
+👁️ 3K • 👍 145 • 💬 12 • ⏱️ 6:04 • 8h ago
 
 ---
 
@@ -389,7 +349,47 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 175 • ⏱️ 16:18 • 1d ago
+👁️ 38K • 👍 2K • 💬 180 • ⏱️ 16:18 • 1d ago
+
+---
+
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 28K • 👍 2K • 💬 149 • ⏱️ 10:16 • 9h ago
+
+---
+
+**[Bitcoin BREAKS $90K As Gold &amp; Silver SMASH ATHs! Santa Rally Inbound?](https://www.youtube.com/watch?v=jA3a0HRv_fE)**
+
+Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash warning signs: Hong Kong unveils new crypto ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 1K • 💬 305 • ⏱️ 1:04:41 • 17h ago
+
+---
+
+**[Bitcoin, Liquidity, And The Coming Inflection Point | Jeff Ross](https://www.youtube.com/watch?v=0h5gLtzS1_M)**
+
+Jeff Ross joins the show for a breakdown of why the global financial system is cracking and why Bitcoin's recent weakness may be ...
+
+📺 What Bitcoin Did
+
+👁️ 12K • 👍 587 • 💬 136 • ⏱️ 1:04:00 • 21h ago
+
+---
+
+**[This CONFIRMS America will never Buy Bitcoin?! | EP 1403](https://www.youtube.com/watch?v=-ZPeUgVP-ZU)**
+
+In a strange turns of fate, it looks like the main supporter of America buying bitcoin in Washington DC is out - what does this mean ...
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 448 • 💬 118 • ⏱️ 1:11:22 • 13h ago
 
 ---
 

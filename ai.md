@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T08:40:44.899164+00:00'
+updated: '2025-12-23T09:00:28.980094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 08:40 UTC  
+**Last Updated:** December 23, 2025 at 09:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
 
-🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 48m ago
+🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI c
 
 Google recently shipped an API that handles conversation history, context management, and background execution server-side for agent deployments (the new Interactions API in Gemini). From what we can tell, this eliminates most of the infrastructure work that typically goes into building agents. No vector DB setup, no custom context engineering, no session state management. It's all handled by Google. We've been prototyping with it for a couple weeks now. The difference in development velocity is pretty significant. What used to take days of setting up memory architecture now just works out of the box. The trade-off seems obvious though. You're locked into Google's infrastructure. You lose control over how context is stored and retrieved. Model switching becomes harder. Cost optimization gets more opaque. But from a practical standpoint, it removes what we'd estimate was 60-80% of the grunt work in agent development. You can focus entirely on the business logic and prompt engineering instead of building plumbing. A few things we're curious about from people who've worked with this or similar patterns. How does this compare to building with LangChain or LangGraph memory solutions? Is the convenience worth the vendor lock-in? For production deployments, does server-side state management create any issues around auditability or debugging? With custom implementations you can inspect everything. Here it's more of a black box. What's the failure mode if Google's state management has issues? With self-hosted solutions you at least have control. Here you're dependent on their uptime. Is there a reasonable path to migrate off this if needed? Or once you build on it, you're committed? From an architecture perspective, this feels like Google positioning infrastructure as the moat. Similar to how AWS won by solving undifferentiated heavy lifting. But in ML workloads, control over the full stack has typically been important. For context, we're working across several businesses (e-commerce, SaaS) building management-layer agents. Planning systems, decision analysis, that kind of thing. Not doing anything cutting-edge from a research standpoint, just trying to ship production systems that work. The ease of prototyping with this API has been valuable. But we're trying to think through whether we're setting ourselves up for problems down the road by outsourcing this much of the stack. Curious what others think about this pattern. Is server-side state management the future for agent development? Or are we trading too much control for convenience?
 
-49m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1]
 
 And when the working poor talk about it, it’s also a game…. What’s your profession and how will ai affect it? If at all? Short-term and long-term effects
 
-4m ago
+23m ago
 
 ---
 
@@ -125,7 +125,7 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Reuters • 1h ago
 
 Applied Digital’s latest narrative update leaves its fair value estimate unchanged at $43.70 per share, even as a slightly higher discount rate edges up the perceived risk tied to its long dated AI infrastructure buildout. With revenue growth assumptions holding steady near 79.93 and the market rewarding the company’s expanding 4GW pipeline and marquee AI contracts, analysts see room for multiple expansion without rewriting the core growth story. Stay tuned to see how investors can track...
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -288,33 +288,23 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 ## YouTube Videos: "ai"
 
+**[AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation](https://www.youtube.com/watch?v=zt0JA5rxdfM)**
+
+Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...
+
+📺 IBM Technology
+
+👁️ 21K • 👍 951 • 💬 39 • ⏱️ 11:39 • 20h ago
+
+---
+
 **[I Made the Same Animation in Every AI Video Generator](https://www.youtube.com/watch?v=UKp_zXdxVTI)**
 
 I made the same AI Animation in every AI video generator Best All In One AI Video Generator ...
 
 📺 Dan Kieft
 
-👁️ 17K • 💬 37 • ⏱️ 44:39 • 15h ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=IJYkIQQsIw8)**
-
-Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/IJYkIQQsIw8 Which crazy bed ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 1.1M • 👍 5K • 💬 230 • ⏱️ 8:24 • 2d ago
-
----
-
-**[I Asked AI To Predict The 2028 Election Map... JAW DROPPING RESULTS](https://www.youtube.com/watch?v=BQOhV8rGyZI)**
-
-Twitter* 》https://twitter.com/ElectionTime_ *TikTok* 》https://www.tiktok.com/@election.time *Discord Server* ...
-
-📺 Election Time
-
-👁️ 173K • 👍 5K • 💬 1K • ⏱️ 15:25 • 2d ago
+👁️ 19K • 💬 50 • ⏱️ 44:39 • 15h ago
 
 ---
 
@@ -324,7 +314,17 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 27K • 👍 351 • 💬 217 • ⏱️ 4:26 • 1d ago
+👁️ 27K • 👍 351 • 💬 218 • ⏱️ 4:26 • 1d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=IJYkIQQsIw8)**
+
+Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/IJYkIQQsIw8 Which crazy bed ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 1.1M • 👍 5K • 💬 234 • ⏱️ 8:24 • 2d ago
 
 ---
 
@@ -334,17 +334,17 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 238K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
+👁️ 239K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
 
 ---
 
-**[AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation](https://www.youtube.com/watch?v=zt0JA5rxdfM)**
+**[AI Bubble just CRASHED in SF](https://www.youtube.com/watch?v=3bGe4CkrLUM)**
 
-Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 IBM Technology
+📺 Chris Norlund
 
-👁️ 19K • 👍 879 • 💬 39 • ⏱️ 11:39 • 20h ago
+👁️ 157K • 👍 10K • 💬 3K • ⏱️ 16:54 • 1d ago
 
 ---
 
@@ -354,7 +354,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 98K • 👍 3K • 💬 131 • ⏱️ 1:29 • 1d ago
+👁️ 100K • 👍 3K • 💬 134 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -368,23 +368,23 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 ---
 
-**[Nancy Pelosi Just Went All-In On This AI Stock](https://www.youtube.com/watch?v=wUHsZl8oYNo)**
+**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
 
-Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
+Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
 
-📺 Keith D
+📺 Sasha Yanshin
 
-👁️ 25K • 👍 2K • 💬 306 • ⏱️ 15:25 • 18h ago
+👁️ 150K • 👍 7K • 💬 2K • ⏱️ 16:44 • 1d ago
 
 ---
 
-**[How to use Nano Banana Pro for AI Advertising (Full Workflow)](https://www.youtube.com/watch?v=Bw2AlObv7dg)**
+**[Real vs AI Videos!](https://www.youtube.com/watch?v=BdBGTLJekWE)**
 
-Use Nano Banana inside Arcads https://roboverse-ai.com/ai-advertising (affiliate link) In this video, I show you a complete ...
+Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf.io/PrestonReacts For 10% off your purchase at ...
 
-📺 Roboverse
+📺 PrestonReacts
 
-👁️ 5K • 💬 10 • ⏱️ 12:29 • 17h ago
+👁️ 164K • 👍 2K • 💬 434 • ⏱️ 15:32 • 2d ago
 
 ---
 
@@ -484,7 +484,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 362 • 1h ago
+⬇️ 0 • ❤️ 362 • 2h ago
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 645 • 18m ago
+⭐ 5.8k • 🔱 645 • 38m ago
 
 ---
 
@@ -675,7 +675,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 13m ago
+⭐ 2.4k • 🔱 181 • 33m ago
 
 ---
 
@@ -705,7 +705,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 189 • 8h ago
+⭐ 1.1k • 🔱 189 • 9h ago
 
 ---
 
@@ -735,7 +735,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 939 • 🔱 91 • 21h ago
+⭐ 939 • 🔱 91 • 22h ago
 
 ---
 
