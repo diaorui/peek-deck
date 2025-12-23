@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T20:44:31.912483+00:00'
+updated: '2025-12-23T20:55:52.346647+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 20:44 UTC  
+**Last Updated:** December 23, 2025 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,670.54
+### $88,177.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +1.8%  
-**30d:** -0.8%  
-**90d:** -19.3%  
-**1y:** -11.0%  
+**24h:** -0.3%  
+**7d:** +2.0%  
+**30d:** -0.6%  
+**90d:** -19.2%  
+**1y:** -10.8%  
 
 ---
 
@@ -127,7 +127,7 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-7h ago
+8h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 2h ago
 
 VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 17m ago
+CoinDesk • 28m ago
 
 ---
 
@@ -379,7 +379,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 502 • 👍 19 • 💬 40 • ⏱️ 17:16 • 4h ago
+👁️ 502 • 👍 19 • 💬 40 • ⏱️ 17:16 • 5h ago
 
 ---
 

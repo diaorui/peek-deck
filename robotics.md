@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T20:44:31.922180+00:00'
+updated: '2025-12-23T20:55:52.355970+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 20:44 UTC  
+**Last Updated:** December 23, 2025 at 20:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-8h ago
+9h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Daily Beast • 17h ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 43m ago
+The Robot Report • 54m ago
 
 ---
 
@@ -282,7 +282,7 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 35K • 💬 4 • ⏱️ 0:26 • 18h ago
+👁️ 35K • 💬 4 • ⏱️ 0:26 • 19h ago
 
 ---
 
