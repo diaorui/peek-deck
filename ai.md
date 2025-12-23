@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T18:26:39.582060+00:00'
+updated: '2025-12-23T18:54:28.470584+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 18:26 UTC  
+**Last Updated:** December 23, 2025 at 18:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 31m ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 59m ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 19h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 20h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
 
-🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 2h ago
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 3h ago
 
 ---
 
@@ -71,7 +71,7 @@ The next generation of the truly wireless TV boasts on-device AI. Displace TV wi
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 35m ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 1h ago
 
 ---
 
@@ -87,7 +87,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 2h ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 15m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 43m ago
 
 ---
 
@@ -111,7 +111,7 @@ Recently I heard a bit about Glance AI while reading about AI shopping, and it g
 
 Last week a request for comments (RFC) was issued around establishing an LLVM AI Tool Use Policy
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 3h ago
 
 ---
 
@@ -161,13 +161,13 @@ The Guardian • 3h ago
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-Fortune • 30m ago
+Fortune • 58m ago
 
 ---
 
 **[Trump's AI hiring campaign draws interest from 25,000 hopefuls](https://www.reuters.com/business/media-telecom/trumps-ai-hiring-campaign-draws-interest-25000-hopefuls-2025-12-23/)**
 
-Reuters • 10m ago
+Reuters • 38m ago
 
 ---
 
@@ -175,13 +175,13 @@ Reuters • 10m ago
 
 Maduro seen dancing with humanoid AI-robot
 
-NBC News • 53m ago
+NBC News • 1h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 55m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -332,7 +332,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 136K • 👍 7K • 💬 2K • ⏱️ 19:40 • 4h ago
+👁️ 136K • 👍 7K • 💬 2K • ⏱️ 19:40 • 5h ago
 
 ---
 
@@ -372,7 +372,7 @@ While wandering around, this cat found a dried pomegranate in the desert   #ai #
 
 📺 Quick ai86
 
-👁️ 377K • 💬 6 • ⏱️ 0:34 • 15h ago
+👁️ 377K • 💬 6 • ⏱️ 0:34 • 16h ago
 
 ---
 
@@ -382,7 +382,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 110K • 👍 3K • 💬 145 • ⏱️ 1:29 • 1d ago
+👁️ 110K • 👍 3K • 💬 145 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -446,7 +446,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 416 • 8h ago
+⬇️ 1,148 • ❤️ 416 • 9h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 367 • 54m ago
+⭐ 2.8k • 🔱 367 • 1h ago
 
 ---
 
@@ -704,7 +704,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 197 • 18h ago
+⭐ 1.2k • 🔱 197 • 19h ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 95 • 6h ago
+⭐ 1.0k • 🔱 95 • 7h ago
 
 ---
 
@@ -744,7 +744,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 920 • 🔱 25 • 15d ago
+⭐ 920 • 🔱 25 • 16d ago
 
 ---
 

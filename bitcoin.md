@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T18:26:39.590334+00:00'
+updated: '2025-12-23T18:54:28.478960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 18:26 UTC  
+**Last Updated:** December 23, 2025 at 18:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,642.00
+### $88,102.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +1.9%  
-**30d:** -0.7%  
-**90d:** -19.3%  
-**1y:** -10.9%  
+**24h:** +0.3%  
+**7d:** +2.3%  
+**30d:** -0.3%  
+**90d:** -18.9%  
+**1y:** -10.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 Like the question asks
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -167,13 +167,13 @@ CoinDesk • 1h ago
 
 The bitcoin price briefly climbed above $90,000 after rising from $88,000 during Asian and European hours, before retreating toward $88,000 again during U.S. trading.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
 **[Bitcoin price today: drops below $88k as rebound stalls ahead of key US data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-below-88k-as-rebound-stalls-ahead-of-key-us-data-4420559)**
 
-Investing.com • 11h ago
+Investing.com • 12h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 2d ago
 
 Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-The Motley Fool • 37m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Motley Fool • 37m ago
 
 Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
 
-Bitcoin Magazine • 53m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bitcoin Magazine • 53m ago
 
 Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -313,7 +313,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 828 • 💬 141 • ⏱️ 42:55 • 2h ago
+👁️ 12K • 👍 828 • 💬 141 • ⏱️ 42:55 • 3h ago
 
 ---
 
@@ -323,7 +323,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 12K • 👍 633 • 💬 109 • ⏱️ 10:08 • 9h ago
+👁️ 12K • 👍 633 • 💬 109 • ⏱️ 10:08 • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 191 • ⏱️ 10:16 • 18h ago
+👁️ 43K • 👍 3K • 💬 191 • ⏱️ 10:16 • 19h ago
 
 ---
 
@@ -373,7 +373,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 79 • 💬 82 • ⏱️ 3:19 • 19h ago
+👁️ 5K • 👍 79 • 💬 82 • ⏱️ 3:19 • 20h ago
 
 ---
 

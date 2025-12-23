@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T18:26:39.596320+00:00'
+updated: '2025-12-23T18:54:28.484987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 18:26 UTC  
+**Last Updated:** December 23, 2025 at 18:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +3.6%  
-**30d:** -0.7%  
-**90d:** -23.9%  
-**1y:** -16.0%  
+**24h:** -1.3%  
+**7d:** +3.9%  
+**30d:** -0.4%  
+**90d:** -23.7%  
+**1y:** -15.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 58m ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 1h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-The Motley Fool • 37m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 20 • ⏱️ 8:07 • 15h ago
+👁️ 2K • 👍 125 • 💬 20 • ⏱️ 8:07 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ Get ready for whats probably going to be one of the craziest years in crypto in 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 679 • 💬 210 • ⏱️ 22:25 • 8h ago
+👁️ 6K • 👍 679 • 💬 210 • ⏱️ 22:25 • 9h ago
 
 ---
 
