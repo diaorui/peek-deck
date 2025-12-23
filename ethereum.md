@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T09:00:28.994330+00:00'
+updated: '2025-12-23T09:35:36.746299+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 09:00 UTC  
+**Last Updated:** December 23, 2025 at 09:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +4.7%  
-**30d:** +0.3%  
-**90d:** -23.1%  
-**1y:** -15.2%  
+**24h:** -2.8%  
+**7d:** +4.4%  
+**30d:** +0.1%  
+**90d:** -23.3%  
+**1y:** -15.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.35B
+**Market Cap:** $356.89B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.2%
 
 **All-Time Low:** $0.43
-+685591.5%
++682910.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 16h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 17h ago
 
 ---
 
@@ -158,11 +158,11 @@ The Motley Fool • 22h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
+**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
+ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
 
-FXStreet • 1d ago
+AMBCrypto • 3d ago
 
 ---
 
@@ -178,13 +178,21 @@ CoinDesk • 16h ago
 
 Ethereum price started a recovery wave above $2,980. ETH is now consolidating and faces a key barrier near the $3,080 level.Ethereum Price Faces Important ResistanceEthereum price started a decent increase above $2,880, like Bitcoin. ETH price was able to surpass the $2,920 and $2,950 resistance le…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
 **[Ethereum Leverage Hits Record Highs: Why Your ETH Now Sits on a Time Bomb](https://99bitcoins.com/news/altcoins/ethereum-leverage-hits-record-highs-why-your-eth-now-sits-on-a-time-bomb/)**
 
 99Bitcoins • 2d ago
+
+---
+
+**[Bit Digital Announces Appointment of Amanda Cassatt to Board of Directors](https://bit-digital.com/press-releases/bit-digital-announces-appointment-of-amanda-cassatt-to-board-of-directors/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
+
+Bit Digital • 13h ago
 
 ---
 
@@ -196,11 +204,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bit Digital Announces Appointment of Amanda Cassatt to Board of Directors](https://bit-digital.com/press-releases/bit-digital-announces-appointment-of-amanda-cassatt-to-board-of-directors/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
 
-Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-Bit Digital • 12h ago
+FXStreet • 1d ago
 
 ---
 
@@ -208,7 +216,7 @@ Bit Digital • 12h ago
 
 DTCC’s 2026 pilot and JPMorgan’s MONY fund show how tokenized securities and on-chain cash could meet on Ethereum, and who gets access first.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -217,14 +225,6 @@ CryptoSlate • 20h ago
 BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
 
 Crypto Briefing • 20h ago
-
----
-
-**[ETHE: What You Need To Know About This Ethereum ETF](https://seekingalpha.com/article/4854984-ethe-what-you-need-to-know-about-this-ethereum-etf)**
-
-ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
-
-Seeking Alpha • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 306 • 💬 93 • ⏱️ 17:34 • 16h ago
+👁️ 9K • 👍 306 • 💬 93 • ⏱️ 17:34 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 45 • 💬 66 • ⏱️ 7:32 • 19h ago
+👁️ 1K • 👍 45 • 💬 66 • ⏱️ 7:32 • 20h ago
 
 ---
 
@@ -298,7 +298,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 526 • 💬 124 • ⏱️ 15:45 • 3h ago
+👁️ 2K • 👍 526 • 💬 124 • ⏱️ 15:45 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 19h ago
+👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 445 • 👍 20 • 💬 27 • ⏱️ 5:29 • 12h ago
+👁️ 445 • 👍 20 • 💬 27 • ⏱️ 5:29 • 13h ago
 
 ---
 

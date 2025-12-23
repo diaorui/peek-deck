@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T09:00:28.980094+00:00'
+updated: '2025-12-23T09:35:36.731988+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 09:00 UTC  
+**Last Updated:** December 23, 2025 at 09:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ Uh oh…
 
 ---
 
+**[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
+
+AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
+
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 19m ago
+
+---
+
 **[Instacart scraps AI pricing tests that made some products more expensive | A study found that Instacart’s pricing tests resulted in higher prices for some customers.](https://www.reddit.com/r/artificial/comments/1pt9u2r/instacart_scraps_ai_pricing_tests_that_made_some/)**
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 12h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 13h ago
+
+---
+
+**[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
+
+The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
+
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 22h ago
 
 ---
 
@@ -69,19 +85,11 @@ Google recently shipped an API that handles conversation history, context manage
 
 ---
 
-**[Schools across the U.S. are rolling out AI-powered surveillance technology, including drones, facial recognition and even bathroom listening devices](https://www.reddit.com/r/artificial/comments/1pswv5x/schools_across_the_us_are_rolling_out_aipowered/)**
-
-The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
-
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 21h ago
-
----
-
 **[Guided learning lets “untrainable” neural networks realize their potential](https://www.reddit.com/r/artificial/comments/1ptlus7/guided_learning_lets_untrainable_neural_networks/)**
 
 MIT CSAIL study suggests that neural network architectures considered unsuitable for modern tasks can improve with short-term guidance. The method encourages a target network to match a guide network’s internal representations, improving its starting point and making machine learning easier.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 3h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 4h ago
 
 ---
 
@@ -89,7 +97,7 @@ MIT CSAIL study suggests that neural network architectures considered unsuitable
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 15h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 16h ago
 
 ---
 
@@ -97,15 +105,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
 
-3h ago
-
----
-
-**[When the rich talk of AI it’s a game. When the middle class talk about it, it’s our livelihoods](https://www.reddit.com/r/artificial/comments/1ptoyk5/when_the_rich_talk_of_ai_its_a_game_when_the/)**
-
-And when the working poor talk about it, it’s also a game…. What’s your profession and how will ai affect it? If at all? Short-term and long-term effects
-
-23m ago
+4h ago
 
 ---
 
@@ -113,43 +113,13 @@ And when the working poor talk about it, it’s also a game…. What’s your pr
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 18h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 19h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
-
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
-
-The Guardian • 3h ago
-
----
-
-**[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)**
-
-Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
-
-blog.google • 14h ago
-
----
-
-**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
-
-Reuters • 1h ago
-
----
-
-**[Why Analysts See Applied Digital’s Story Evolving as AI Power Deals Reshape Its Valuation](https://finance.yahoo.com/news/why-analysts-see-applied-digital-081119628.html)**
-
-Applied Digital’s latest narrative update leaves its fair value estimate unchanged at $43.70 per share, even as a slightly higher discount rate edges up the perceived risk tied to its long dated AI infrastructure buildout. With revenue growth assumptions holding steady near 79.93 and the market rewarding the company’s expanding 4GW pipeline and marquee AI contracts, analysts see room for multiple expansion without rewriting the core growth story. Stay tuned to see how investors can track...
-
-Yahoo Finance • 49m ago
-
----
 
 **[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
 
@@ -159,11 +129,57 @@ ABC News • 1d ago
 
 ---
 
+**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
+
+The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
+
+The Guardian • 59m ago
+
+---
+
+**[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)**
+
+Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
+
+blog.google • 15h ago
+
+---
+
+**[Little-known underground salt caverns could slow the AI boom and its thirst for power](https://fortune.com/2025/12/23/underground-salt-caverns-gas-power-ai-data-centers/)**
+
+Power demand, gas production, and pipeline and power plant construction are soaring, but the storage space for natural gas is running out.
+
+Fortune • 1h ago
+
+---
+
+**[Why Nvidia’s AI Empire Faces a Reckoning in 2026](https://www.eetimes.com/why-nvidias-ai-empire-faces-a-reckoning-in-2026/)**
+
+EE Times • 1h ago
+
+---
+
+**[Nvidia aims to start H200 AI chip shipments to China by mid-February: sources](https://www.scmp.com/tech/big-tech/article/3337479/nvidia-aims-start-h200-ai-chip-shipments-china-mid-february-sources-say)**
+
+The US chip designer plans to fulfil initial orders from existing stock, with shipments expected to total 40,000 to 80,000 H200 chips.
+
+South China Morning Post • 1h ago
+
+---
+
+**[Prediction: 2 Artificial Intelligence Stocks That Will Be Worth More Than Nvidia by the End of 2026](https://www.fool.com/investing/2025/12/22/prediction-2-artificial-intelligence-stocks-that-w/)**
+
+These companies should have higher earnings power than Nvidia in 2026.
+
+The Motley Fool • 10h ago
+
+---
+
 **[Yann LeCun's Advice for Young Students Wanting to Go Into AI](https://www.businessinsider.com/yann-lecun-advice-ai-careers-computer-science-degree-2025-12)**
 
 Former Meta chief AI scientist Yann LeCun said current and prospective CS students need to focus on skills "with a long shelf life."
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -179,21 +195,7 @@ CNN • 2d ago
 
 NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
 
-Air & Space Forces Magazine • 14h ago
-
----
-
-**[TikTok’s Chinese owner plans $23bn AI spend to keep pace with US rivals](https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad)**
-
-TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
-
-Financial Times • 7h ago
-
----
-
-**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
-
-The New York Times • 22h ago
+Air & Space Forces Magazine • 15h ago
 
 ---
 
@@ -205,7 +207,7 @@ The New York Times • 22h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 568 • 💬 398 • 16h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 586 • 💬 401 • 17h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -213,7 +215,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 266 • 💬 170 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 267 • 💬 170 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -225,7 +227,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 238 • 💬 354 • 2d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 238 • 💬 356 • 2d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -244,7 +246,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 166 • 💬 84 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 168 • 💬 85 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -258,7 +260,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 138 • 💬 163 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 138 • 💬 166 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -272,7 +274,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 133 • 💬 107 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 133 • 💬 109 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -294,7 +296,7 @@ Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Reg
 
 📺 IBM Technology
 
-👁️ 21K • 👍 951 • 💬 39 • ⏱️ 11:39 • 20h ago
+👁️ 21K • 👍 951 • 💬 39 • ⏱️ 11:39 • 21h ago
 
 ---
 
@@ -304,7 +306,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 19K • 💬 50 • ⏱️ 44:39 • 15h ago
+👁️ 19K • 💬 50 • ⏱️ 44:39 • 16h ago
 
 ---
 
@@ -400,7 +402,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,319 • 14d ago
+⬇️ 373,123 • ❤️ 3,322 • 14d ago
 
 ---
 
@@ -412,7 +414,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 568 • 3d ago
+⬇️ 9,848 • ❤️ 570 • 4d ago
 
 ---
 
@@ -424,7 +426,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 490 • 4d ago
+⬇️ 21,058 • ❤️ 491 • 4d ago
 
 ---
 
@@ -448,7 +450,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 10,832 • ❤️ 411 • 5d ago
+⬇️ 10,832 • ❤️ 413 • 5d ago
 
 ---
 
@@ -484,7 +486,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 362 • 2h ago
+⬇️ 0 • ❤️ 362 • 14m ago
 
 ---
 
@@ -496,7 +498,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 338 • 7d ago
+⬇️ 0 • ❤️ 339 • 7d ago
 
 ---
 
@@ -508,7 +510,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 328 • 2h ago
+⬇️ 1,148 • ❤️ 336 • 3h ago
 
 ---
 
@@ -524,7 +526,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 11 • 💬 2 • ⭐ 4,737 • 11d ago
+▲ 11 • 💬 2 • ⭐ 4,737 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -665,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 645 • 38m ago
+⭐ 5.8k • 🔱 645 • 1h ago
 
 ---
 
@@ -675,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 33m ago
+⭐ 2.4k • 🔱 181 • 1h ago
 
 ---
 
@@ -685,7 +687,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 332 • 9h ago
+⭐ 2.4k • 🔱 332 • 10h ago
 
 ---
 
@@ -725,7 +727,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 969 • 🔱 89 • 6h ago
+⭐ 969 • 🔱 89 • 7h ago
 
 ---
 
