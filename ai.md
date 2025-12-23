@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T14:55:14.334701+00:00'
+updated: '2025-12-23T15:22:45.450347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 14:55 UTC  
+**Last Updated:** December 23, 2025 at 15:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Uh oh…
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 5h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-2m ago
+30m ago
 
 ---
 
@@ -81,7 +81,7 @@ Google recently shipped an API that handles conversation history, context manage
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 18h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 19h ago
 
 ---
 
@@ -97,7 +97,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 21h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Hello there! I'm new in this subreddit. The first thing that i want to say is that the deep interventions and the quality of the discussions here is remarkable, so thanks for creating this space. I want to discuss with you a topic or more precisely a workflow that i have adopted recently, because i think here i could get a nice feedback. So, to give you context, recently i had the need to promote and scale a bit the quantity of video ads for my business of spare parts and accessories of bycicles. My size is not enough to plan a budget for hiring real actors, real directors and scouting real places. So i discovered a platform for video ads that lets you produce, edit and test video ads, in particular UGC videos (ai ugc). For now, after a research on how to do them, the results are not bad, even if my lack of technical ability in video producing is present. Be aware that i am the one to set the tone of the adv, the script of the adv and to do all the market research for the psycographical segmentation and the product to promote. What are your thoughts on this practice? Do you see benefits on using ai ugc or not?
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 3h ago
 
 **[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -155,19 +155,19 @@ Bloomberg.com • 1h ago
 
 "We've worked on TPUs since 2014 ... a long time before AI was fashionable," Thomas Kurian said at the Fortune Brainstorm AI conference.
 
-Fortune • 50m ago
+Fortune • 1h ago
 
 ---
 
 **[AI first doesn’t mean humans last](https://www.fastcompany.com/91464940/ai-first-doesnt-mean-humans-last)**
 
-Fast Company • 47m ago
+Fast Company • 1h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 24m ago
+The Washington Post • 51m ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 1d ago
 
 Instacart had drawn criticism for testing an AI-based system that enabled retailers to charge different prices for the same grocery items.
 
-CBS News • 23h ago
+CBS News • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 129 • 💬 94 • 8h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 129 • 💬 94 • 9h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -324,7 +324,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Y Combinator
 
-👁️ 28K • 👍 716 • 💬 47 • ⏱️ 30:23 • 23h ago
+👁️ 28K • 👍 716 • 💬 47 • ⏱️ 30:23 • 1d ago
 
 ---
 
@@ -344,7 +344,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 10K • 👍 302 • 💬 44 • ⏱️ 18:48 • 16h ago
+👁️ 10K • 👍 302 • 💬 44 • ⏱️ 18:48 • 17h ago
 
 ---
 
@@ -384,7 +384,7 @@ With GPT-5, Claude 4.5 Opus, Gemini 3.0 Pro and so many more, it's been a wild y
 
 📺 Theo - t3․gg
 
-👁️ 27K • 👍 947 • 💬 106 • ⏱️ 45:40 • 15h ago
+👁️ 27K • 👍 947 • 💬 106 • ⏱️ 45:40 • 16h ago
 
 ---
 
@@ -472,7 +472,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 368 • 5h ago
+⬇️ 0 • ❤️ 368 • 6h ago
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.9k • 🔱 661 • 6h ago
+⭐ 5.9k • 🔱 661 • 7h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 357 • 21m ago
+⭐ 2.6k • 🔱 357 • 48m ago
 
 ---
 
@@ -685,7 +685,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 184 • 11m ago
+⭐ 2.5k • 🔱 184 • 38m ago
 
 ---
 

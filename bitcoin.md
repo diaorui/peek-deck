@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T14:55:14.343212+00:00'
+updated: '2025-12-23T15:22:45.458789+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 14:55 UTC  
+**Last Updated:** December 23, 2025 at 15:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.1%  
-**7d:** +0.8%  
-**30d:** -1.8%  
-**90d:** -20.2%  
-**1y:** -11.9%  
+**24h:** -2.2%  
+**7d:** +1.5%  
+**30d:** -1.1%  
+**90d:** -19.6%  
+**1y:** -11.3%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Like the question asks
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -163,7 +163,7 @@ VanEck • 20h ago
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ Investor's Business Daily • 3h ago
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 9h ago
 
 Russia’s central bank has proposed new rules that would allow retail investors limited access to cryptocurrencies while granting professional investors broader rights.
 
-Bitcoin Magazine • 52m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -215,13 +215,13 @@ The Verge • 19h ago
 
 **[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
 **[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqeesNDbqotuN1Z01SSg55b0Vu_Pw28MbiYRavqTGSw4OZZu2puggsCt&gaa_ts=694ab0bd&gaa_sig=45nuIoGq1Mq9WZu-y7j035B1fhJnbKIWdwWgWMzDXoAweb0vo4GTHJ7qmWSJUg6MqJWnSF7IdcY6pzjA82NZPQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -239,7 +239,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 3d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 4d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -255,7 +255,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 23h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 1d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -271,13 +271,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 18h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 19h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 7h ago
+⬆️ 1 • 💬 0 • 8h ago
 
 ---
 
@@ -291,7 +291,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 171 • ⏱️ 11:35 • 14h ago
+👁️ 21K • 👍 2K • 💬 171 • ⏱️ 11:35 • 15h ago
 
 ---
 
@@ -361,7 +361,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 18K • 👍 895 • 💬 113 • ⏱️ 6:08 • 21h ago
+👁️ 18K • 👍 895 • 💬 113 • ⏱️ 6:08 • 22h ago
 
 ---
 

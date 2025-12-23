@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T14:55:14.352542+00:00'
+updated: '2025-12-23T15:22:45.468173+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 14:55 UTC  
+**Last Updated:** December 23, 2025 at 15:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 Physical Intelligence just released a series of "Robot Olympics" events to showcase their latest π0.6 model. Unlike standard benchmarks, these tasks are designed to illustrate Moravec’s Paradox which are everyday physical actions that are trivial for humans but represent the "gold standard" of difficulty for modern robotics. All tasks shown are fully autonomous, demonstrating high-level task decomposition and fine motor control. The 5 Olympic Events: Event 1 (Gold) - Door Entry: The robot successfully navigates a self-closing lever-handle door. This is technically challenging because it requires the model to apply force to keep the door open while simultaneously moving its base through the frame. Event 2 (Silver) - Textile Manipulation: The model successfully turns a sock right-side-out. They attempted the Gold medal task (hanging an inside-out dress shirt), but the current hardware gripper was too wide for the sleeves. Event 3 (Gold) - Fine Tool Use: A major win here,the robot used a small key to unlock a padlock. This requires extreme precision to align the key and enough torque to turn the tumbler. (Silver was making a peanut butter sandwich, involving long-horizon steps like spreading and cutting triangles). Event 4 (Silver) - Deformable Objects: The robot successfully opened a dog poop bag. This is notoriously difficult because the thin plastic blinds the wrist cameras during manipulation. They attempted to peel an orange for Gold but were "disqualified" for needing a sharper tool. Event 5 (Gold) - Complex Cleaning: The robot washed a frying pan in a sink using soap and water, scrubbing both sides. They also cleared the Silver (cleaning the grippers) and Bronze (wiping the counter) tasks for this category. The Tech Behind It: The π0.6 model is a Vision-Language-Action (VLA) generalist policy. It moves away from simple "behavior cloning" and instead focuses on agentic coding and task completion, allowing it to recover from errors and handle diverse, "messy" real-world environments. Official Blog: pi.website/blog/olympics Source Video: Physical Intelligence on X
 
-20h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
 
-1h ago
+2h ago
 
 ---
 
@@ -126,7 +126,7 @@ hyundai.com • 1d ago
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 11h ago
+CnEVPost • 12h ago
 
 ---
 
@@ -172,7 +172,7 @@ Good Morning Wilton • 1d ago
 
 **[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
-Tech Xplore • 12m ago
+Tech Xplore • 39m ago
 
 ---
 
@@ -222,7 +222,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 3K • 👍 172 • 💬 53 • ⏱️ 49:59 • 18h ago
+👁️ 3K • 👍 172 • 💬 53 • ⏱️ 49:59 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 3K • 👍 94 • 💬 4 • ⏱️ 0:11 • 5h ago
+👁️ 3K • 👍 94 • 💬 4 • ⏱️ 0:11 • 6h ago
 
 ---
 
@@ -272,7 +272,7 @@ Will AI and robots become the future of the coffee and cocktail industry? Or wil
 
 📺 Emilee Bryant
 
-👁️ 2K • 👍 100 • 💬 32 • ⏱️ 12:34 • 18h ago
+👁️ 2K • 👍 100 • 💬 32 • ⏱️ 12:34 • 19h ago
 
 ---
 
