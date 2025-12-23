@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T07:48:33.487219+00:00'
+updated: '2025-12-23T07:59:35.933206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 07:48 UTC  
+**Last Updated:** December 23, 2025 at 07:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** -2.0%  
 **7d:** +4.8%  
-**30d:** +0.4%  
+**30d:** +0.5%  
 **90d:** -23.0%  
 **1y:** -15.1%  
 
@@ -170,7 +170,7 @@ FXStreet • 1d ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 

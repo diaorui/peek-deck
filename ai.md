@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T07:48:33.472651+00:00'
+updated: '2025-12-23T07:59:35.918294+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 07:48 UTC  
+**Last Updated:** December 23, 2025 at 07:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 OpenAI has added a year-end recap feature to ChatGPT that summarizes how users interacted with the AI over the year. The format is very similar to Spotify Wrapped, but focused on AI conversations rather than entertainment. What stood out to me is less the feature itself and more what it signals: AI tools are starting to frame usage as something worth reflecting on, not just consuming. It’s also rolling out selectively by country and account type, which raises some questions around data handling and regional differences. More details here if anyone wants them: https://techputs.com/chatgpt-year-end-review-spotify-wrapped/ Do you think features like this actually help users understand their AI usage better?
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ Financial Times • 6h ago
 
 Yoshua Bengio, one of the "AI godfathers," said AI technology has a sycophancy problem, so he lies to chatbots to get better responses.
 
-Business Insider • 41m ago
+Business Insider • 52m ago
 
 ---
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 641 • 50m ago
+⭐ 5.8k • 🔱 641 • 1h ago
 
 ---
 
