@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T22:00:46.828356+00:00'
+updated: '2025-12-23T22:30:19.905166+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 22:00 UTC  
+**Last Updated:** December 23, 2025 at 22:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** +5.0%  
-**30d:** +0.6%  
-**90d:** -22.9%  
-**1y:** -14.9%  
+**24h:** -1.4%  
+**7d:** +4.7%  
+**30d:** +0.4%  
+**90d:** -23.1%  
+**1y:** -15.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 4h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am very interested in scaling what Ethereum started in 2013/2014, and I have followed Ethereum since (I used to work with an organization that ENS gave a dedicated name, for example, reserved it as one of few they reserved for organizations...) This organization was very controversial though. I solved proof-of-unique-human in the ideal way by 2018 (together with that controversial organization...), and it is quite well known (an analogous approach but worse version game theoretically is currently being approached by the individual who single-handedly built the first version of Ethereum in 2013/2014, he calls it "proof-of-video-interaction"), but it requires extreme parallelization. Hundreds of thousands of transactions per second. Polygon seems to have solved part of parallelization with "transaction dependency graph". Another problem, scaling the consensus, I am forbidden to mention here as an Edmund with support from a Ligi threatened to ban me if I did (this seems counter-productive still? Would be good if it was over-ruled by the other moderators and I was informed of this). And a third problem, is data structures. In my proof-of-unique-human I need to operate in parallel on something like an array. A very generalized and quite simple mapping that is a bit like a mapping in Golang could allow for that. I think this is a valid idea, and relevant. It is a topic that needs to be solved. Ethereum in 2014 was a revolution, Bitcoin in 2008 before that a revolution too, but everyone here will live many decades more, and just like ENIAC was one of first computers, the computer continued to advance, and 70 years later it continues still to advance. It is a living system, and growth is change.
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 10h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 11h ago
 
 ---
 
@@ -152,7 +152,7 @@ Edit: The "deferred ordering" array does not need deferred ordering. Nodes can k
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Motley Fool • 1d ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -174,7 +174,7 @@ CCN.com • 8h ago
 
 Bitcoin, Ethereum and XRP are trading lower today as crypto markets react to strong U.S. economic data and selling pressure from crypto investment funds. For now, BTC is holding near the $87,000 level, ETH is trading below $3,000, and XRP is hovering around $1.88. Dogecoin, Solana and Cardano are a…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -190,13 +190,13 @@ Yahoo Finance • 3d ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 6h ago
+CryptoSlate • 7h ago
 
 ---
 
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -232,7 +232,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 719 • 👍 35 • 💬 32 • ⏱️ 5:30 • 11h ago
+👁️ 719 • 👍 35 • 💬 32 • ⏱️ 5:30 • 12h ago
 
 ---
 
@@ -252,7 +252,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 452 • 👍 33 • 💬 10 • ⏱️ 9:42 • 8h ago
+👁️ 452 • 👍 33 • 💬 10 • ⏱️ 9:42 • 9h ago
 
 ---
 
@@ -272,7 +272,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 82 • 👍 10 • 💬 3 • ⏱️ 7:44 • 3h ago
+👁️ 82 • 👍 10 • 💬 3 • ⏱️ 7:44 • 4h ago
 
 ---
 
@@ -302,7 +302,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 386 • 💬 44 • ⏱️ 14:56 • 10h ago
+👁️ 6K • 👍 386 • 💬 44 • ⏱️ 14:56 • 11h ago
 
 ---
 
@@ -322,7 +322,7 @@ Is the age of Gold over? In this video, we look ahead to 2026 — a year many in
 
 📺 Finance Fundamentals
 
-👁️ 3 • ⏱️ 8:11 • 5h ago
+👁️ 3 • ⏱️ 8:11 • 6h ago
 
 ---
 

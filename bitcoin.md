@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T22:00:46.822431+00:00'
+updated: '2025-12-23T22:30:19.899103+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 22:00 UTC  
+**Last Updated:** December 23, 2025 at 22:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,673.56
+### $87,545.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +1.8%  
-**30d:** -0.8%  
-**90d:** -19.4%  
-**1y:** -11.0%  
+**24h:** -1.0%  
+**7d:** +1.3%  
+**30d:** -1.2%  
+**90d:** -19.7%  
+**1y:** -11.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
-7h ago
+8h ago
 
 ---
 
@@ -127,19 +127,19 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
 
-6h ago
+7h ago
 
 ---
 
 **[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-8h ago
+9h ago
 
 ---
 
 **[On the wall at an old pub in London. Thoughts…?](https://www.reddit.com/r/Bitcoin/comments/1pu24bd/on_the_wall_at_an_old_pub_in_london_thoughts/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 Renting your primary residence is not the American Dream and Bitcoin being better than fiat doesn't change that. https://www.youtube.com/watch?v=5LZYYCgaA0E
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ Renting your primary residence is not the American Dream and Bitcoin being bette
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 1h ago
 
 VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ VanEck • 1d ago
 
 Crypto-linked stocks had a banner start to 2025, then spent the rest of the year learning that narrative alone doesn’t compound.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -221,7 +221,7 @@ Investor's Business Daily • 11h ago
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -229,7 +229,7 @@ CoinDesk • 5h ago
 
 Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -263,7 +263,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 6h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 7h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -293,7 +293,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 14h ago
+⬆️ 1 • 💬 0 • 15h ago
 
 ---
 
@@ -307,7 +307,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 14K • 👍 231 • 💬 150 • ⏱️ 5:23 • 7h ago
+👁️ 14K • 👍 231 • 💬 150 • ⏱️ 5:23 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 18K • 👍 1K • 💬 84 • ⏱️ 4:03 • 7h ago
+👁️ 18K • 👍 1K • 💬 84 • ⏱️ 4:03 • 8h ago
 
 ---
 

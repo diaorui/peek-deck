@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T22:00:46.831516+00:00'
+updated: '2025-12-23T22:30:19.908455+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 22:00 UTC  
+**Last Updated:** December 23, 2025 at 22:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-11h ago
+12h ago
 
 ---
 
@@ -136,7 +136,7 @@ Interesting Engineering • 3d ago
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 18h ago
+CnEVPost • 19h ago
 
 ---
 
@@ -152,7 +152,7 @@ Good Morning Wilton • 1d ago
 
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
-Futura, Le média qui explore le monde • 9h ago
+Futura, Le média qui explore le monde • 10h ago
 
 ---
 
@@ -160,7 +160,7 @@ Futura, Le média qui explore le monde • 9h ago
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
-The Daily Beast • 1h ago
+The Daily Beast • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Daily Beast • 1h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -176,7 +176,7 @@ Seeking Alpha • 10h ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Robot Report • 1h ago
 
 Nasdaq confirms Nauticus met the equity rule on Dec. 19, 2025 and must stay compliant through Apr. 14, 2026 under panel monitoring to Dec. 19, 2026.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -218,7 +218,7 @@ This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full bu
 
 📺 Roll No 36
 
-👁️ 1K • 👍 29 • 💬 4 • ⏱️ 0:31 • 7h ago
+👁️ 1K • 👍 29 • 💬 4 • ⏱️ 0:31 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 2K • 👍 33 • ⏱️ 0:11 • 5h ago
+👁️ 2K • 👍 33 • ⏱️ 0:11 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T22:00:46.814032+00:00'
+updated: '2025-12-23T22:30:19.890502+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - social
 - repositories
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 22:00 UTC  
+**Last Updated:** December 23, 2025 at 22:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-40m ago
+1h ago
 
 ---
 
@@ -55,7 +55,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 4h ago
 
 ---
 
@@ -71,7 +71,7 @@ Uh oh…
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 12h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 13h ago
 
 ---
 
@@ -95,7 +95,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 6h ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 7h ago
 
 ---
 
@@ -123,7 +123,7 @@ OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 4h ago
+blog.google • 5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Financial Times • 17h ago
 
 Explore how the failed Oracle-Blue Own deal signals the first phase of the AI and S&P500 bubble burst.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -147,7 +147,7 @@ Seeking Alpha • 23h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 4h ago
 
 Apple's 2025 helped set up its future.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Yahoo Finance • 45m ago
 
 Google One is running a “limited time” discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.
 
-9to5Google • 55m ago
+9to5Google • 1h ago
 
 ---
 
 **[The A In AI Is For Anxiety, And There’s Nothing Artificial About It](https://www.forbes.com/sites/annkirschner/2025/12/23/the-a-in-ai-is-for-anxiety-and-theres-nothing-artificial-about-it/)**
 
-Forbes • 57m ago
+Forbes • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Washington Post • 4h ago
 
 Instacart says it’s ending a controversial dynamic pricing program that faced criticism for charging shoppers different prices for the same items at the same store. Some customers were paying up to seven percent more.
 
-TODAY.com • 7h ago
+TODAY.com • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ friction.
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 175 • 💬 137 • 15h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 175 • 💬 137 • 16h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -258,7 +258,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 140 • 💬 143 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 140 • 💬 143 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -304,7 +304,7 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 147K • 👍 9K • 💬 2K • ⏱️ 21:43 • 19h ago
+👁️ 147K • 👍 9K • 💬 2K • ⏱️ 21:43 • 20h ago
 
 ---
 
@@ -324,7 +324,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 13K • 👍 368 • 💬 50 • ⏱️ 18:48 • 23h ago
+👁️ 13K • 👍 368 • 💬 50 • ⏱️ 18:48 • 1d ago
 
 ---
 
@@ -472,7 +472,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 374 • 12h ago
+⬇️ 0 • ❤️ 374 • 13h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 665 • 13h ago
+⭐ 6.0k • 🔱 665 • 14h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 373 • 2h ago
+⭐ 2.9k • 🔱 373 • 3h ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 185 • 4h ago
+⭐ 2.6k • 🔱 185 • 5h ago
 
 ---
 
