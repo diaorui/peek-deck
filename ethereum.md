@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T16:55:06.229898+00:00'
+updated: '2025-12-23T17:21:30.452826+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 16:55 UTC  
+**Last Updated:** December 23, 2025 at 17:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +4.6%  
-**30d:** +0.3%  
-**90d:** -23.1%  
-**1y:** -15.2%  
+**24h:** -2.1%  
+**7d:** +4.2%  
+**30d:** -0.1%  
+**90d:** -23.4%  
+**1y:** -15.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.62B
+**Market Cap:** $357.19B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.2%
+-40.3%
 
 **All-Time Low:** $0.43
-+682570.5%
++681418.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am very interested in scaling what Ethereum started in 2013/2014, and I have followed Ethereum since (I used to work with an organization that ENS gave a dedicated name, for example, reserved it as one of few they reserved for organizations...) This organization was very controversial though. I solved proof-of-unique-human in the ideal way by 2018 (together with that controversial organization...), and it is quite well known (an analogous approach but worse version game theoretically is currently being approached by the individual who single-handedly built the first version of Ethereum in 2013/2014, he calls it "proof-of-video-interaction"), but it requires extreme parallelization. Hundreds of thousands of transactions per second. Polygon seems to have solved part of parallelization with "transaction dependency graph". Another problem, scaling the consensus, I am forbidden to mention here as an Edmund with support from a Ligi threatened to ban me if I did (this seems counter-productive still? Would be good if it was over-ruled by the other moderators and I was informed of this). And a third problem, is data structures. In my proof-of-unique-human I need to operate in parallel on something like an array. A very generalized and quite simple mapping that is a bit like a mapping in Golang could allow for that. I think this is a valid idea, and relevant. It is a topic that needs to be solved. Ethereum in 2014 was a revolution, Bitcoin in 2008 before that a revolution too, but everyone here will live many decades more, and just like ENIAC was one of first computers, the computer continued to advance, and 70 years later it continues still to advance. It is a living system, and growth is change.
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 5h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 6h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -168,13 +168,13 @@ The Motley Fool • 1d ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqdmQ036XyKbCysX4hfkgbq1IV4Wf5E1VosTU9JRBs5aV9gMYJvZbebH&gaa_ts=694ac779&gaa_sig=OInkXv5NfvUaeaU8BDX0Q8lGul-2KR8Znobh6CrQ85wiewpQ3WdKDK5gqnTWyVEkz0F7TokwMJjlO43ijGrwmw%3D%3D)**
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqcn-73bEx3BQyLjRbPdx_14xqOSQsi-E7G4g__VdV8GZzAdTceHj1jI&gaa_ts=694ad301&gaa_sig=sBSlxtEkHhIvnNL4i4OuK4YLlPLLP5T2v_nmCYtpu0FtgQNvcgHg43oaFzS341PR5UjByf-lrjceP3MsvoyZBQ%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -186,6 +186,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[How Wall Street is using Ethereum without talking about Ethereum](https://www.tradingview.com/news/cointelegraph:0d7efe672094b:0-how-wall-street-is-using-ethereum-without-talking-about-ethereum/)**
+
+Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
 **[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
 
 As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
@@ -194,17 +202,9 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Ethereum Price Presses Resistance, but Can The Recovery Survive?](https://www.tradingview.com/news/newsbtc:b1dd9f8c5094b:0-ethereum-price-presses-resistance-but-can-the-recovery-survive/)**
+**[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-Ethereum price started a recovery wave above $2,980. ETH is now consolidating and faces a key barrier near the $3,080 level.Ethereum Price Faces Important ResistanceEthereum price started a decent increase above $2,880, like Bitcoin. ETH price was able to surpass the $2,920 and $2,950 resistance le…
-
-TradingView — Track All Markets • 13h ago
-
----
-
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
-
-TipRanks • 1h ago
+The Block • 10h ago
 
 ---
 
@@ -212,7 +212,7 @@ TipRanks • 1h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 20h ago
+Bit Digital • 21h ago
 
 ---
 
@@ -234,7 +234,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 436 • 👍 31 • 💬 3 • ⏱️ 5:30 • 6h ago
+👁️ 436 • 👍 31 • 💬 3 • ⏱️ 5:30 • 7h ago
 
 ---
 
@@ -264,7 +264,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 280 • 👍 27 • 💬 4 • ⏱️ 9:42 • 3h ago
+👁️ 280 • 👍 27 • 💬 4 • ⏱️ 9:42 • 4h ago
 
 ---
 
