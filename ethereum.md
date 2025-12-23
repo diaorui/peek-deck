@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T22:57:44.760497+00:00'
+updated: '2025-12-23T23:26:42.050440+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 22:57 UTC  
+**Last Updated:** December 23, 2025 at 23:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** +4.5%  
-**30d:** +0.2%  
-**90d:** -23.2%  
-**1y:** -15.3%  
+**24h:** -2.1%  
+**7d:** +4.7%  
+**30d:** +0.4%  
+**90d:** -23.1%  
+**1y:** -15.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.21B
+**Market Cap:** $356.85B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.3%
 
 **All-Time Low:** $0.43
-+683900.8%
++682381.1%
 
 ---
 
@@ -80,7 +80,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -166,23 +166,25 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://www.dlnews.com/articles/markets/why-tom-lee-just-bought-421m-ethereum-despite-the-tanking-market/)**
+
+Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
+
+dlnews.com • 12h ago
+
+---
+
+**[Ethereum Nears $3,000 as Bitmine Expands Holdings to 4 Million ETH](https://finance.yahoo.com/news/ethereum-nears-3-000-bitmine-220000824.html)**
+
+Ethereum price eyes recovery as network growth surges and Bitmine amasses over 3.37% of the ETH supply, nearing its 5% target.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 9h ago
-
----
-
-**[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
-
-The Block • 15h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Stock News and Forecast: 4.066M ETH Treasury, 2026 Staking Catalyst, and Share-Authorization Vote (Dec. 23, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-and-forecast-4-066m-eth-treasury-2026-staking-catalyst-and-share-authorization-vote-dec-23-2025/)**
-
-Bitmine Immersion Technologies (BMNR) Stock News and Forecast: 4.066M ETH Treasury, 2026 Staking Catalyst, and Share-Authorization Vote (Dec. 23, 2025) - TechStock²
-
-ts2.tech • 6h ago
+CCN.com • 10h ago
 
 ---
 
@@ -190,23 +192,7 @@ ts2.tech • 6h ago
 
 is no longer just another blockchain competing on speed or transaction fees. Instead, it’s increasingly functioning as an Internet-scale public good—a shift that demands a fundamentally different way of thinking about value.0/ Ethereum isn’t just a blockchain.It’s emerging as a public layer of the…
 
-TradingView — Track All Markets • 4h ago
-
----
-
-**[Ethereum treasury news: ETHZills (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
-
-This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
-
-CoinDesk • 1d ago
-
----
-
-**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
-
-As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
-
-Yahoo Finance • 3d ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -214,7 +200,7 @@ Yahoo Finance • 3d ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -223,6 +209,20 @@ CryptoSlate • 7h ago
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
 FXStreet • 1d ago
+
+---
+
+**[Is Ethereum undervalued? These 2 on-chain signals say…](https://ambcrypto.com/is-ethereum-undervalued-these-2-on-chain-signals-say/)**
+
+Ethereum’s utility matters more than its chart.
+
+AMBCrypto • 2d ago
+
+---
+
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+
+TipRanks • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 7 • ⏱️ 4:22 • 6h ago
+👁️ 2K • 👍 124 • 💬 7 • ⏱️ 4:22 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 790 • 👍 35 • 💬 26 • ⏱️ 5:30 • 12h ago
+👁️ 790 • 👍 35 • 💬 26 • ⏱️ 5:30 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 513 • 👍 35 • 💬 9 • ⏱️ 9:42 • 9h ago
+👁️ 513 • 👍 35 • 💬 9 • ⏱️ 9:42 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 156 • 👍 16 • 💬 11 • ⏱️ 7:44 • 4h ago
+👁️ 156 • 👍 16 • 💬 11 • ⏱️ 7:44 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 395 • 💬 40 • ⏱️ 14:56 • 11h ago
+👁️ 6K • 👍 395 • 💬 40 • ⏱️ 14:56 • 12h ago
 
 ---
 

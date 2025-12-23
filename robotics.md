@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T22:57:44.763677+00:00'
+updated: '2025-12-23T23:26:42.053201+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 22:57 UTC  
+**Last Updated:** December 23, 2025 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,23 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
+2h ago
+
+---
+
+**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
+
+The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
+
 1h ago
+
+---
+
+**[Most days building a humanoid robot look like this](https://www.reddit.com/r/robotics/comments/1ptqfy6/most_days_building_a_humanoid_robot_look_like_this/)**
+
+Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
+
+13h ago
 
 ---
 
@@ -59,22 +75,6 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
 18h ago
-
----
-
-**[Most days building a humanoid robot look like this](https://www.reddit.com/r/robotics/comments/1ptqfy6/most_days_building_a_humanoid_robot_look_like_this/)**
-
-Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
-
-12h ago
-
----
-
-**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
-
-The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
-
-53m ago
 
 ---
 
@@ -94,7 +94,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -108,31 +108,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ## Google News: "robotics"
 
-**[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
-
-China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
-
-South China Morning Post • 2d ago
-
----
-
-**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
-
-In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
-
-Stock Titan • 1d ago
-
----
-
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
-
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
-
-The Verge • 2d ago
-
----
-
-**["Stingraybot" uses microbubble muscles controlled by ultrasound](https://newatlas.com/robotics/stingraybot-microbubble-muscles-ultrasound/)**
+**['Stingraybot' uses microbubble muscles controlled by ultrasound](https://newatlas.com/robotics/stingraybot-microbubble-muscles-ultrasound/)**
 
 While it might sound like a weapon of oceanic destruction in the hands of Aquaman’s arch enemies, the new “stingraybot” from a team at ETH Zurich (the Federal Institute of Technology of Switzerland) offers enormous promise for surgery, medical care, wildlife biology, robotics, and more, thanks to…
 
@@ -148,27 +124,27 @@ hyundai.com • 1d ago
 
 ---
 
+**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
+
+Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
+
+CnEVPost • 20h ago
+
+---
+
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+
+Interesting Engineering • 3d ago
+
+---
+
 **[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
 Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
 
 Good Morning Wilton • 1d ago
-
----
-
-**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
-
-Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
-
-CnEVPost • 19h ago
-
----
-
-**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
-
-Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
-
-LancasterOnline • 7h ago
 
 ---
 
@@ -185,6 +161,30 @@ Futura, Le média qui explore le monde • 10h ago
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
 Seeking Alpha • 11h ago
+
+---
+
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
+
+The Daily Beast • 3h ago
+
+---
+
+**[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
+
+The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
+
+The Robot Report • 3h ago
+
+---
+
+**[Underwater robotics firm keeps its place on Nasdaq after equity review](https://www.stocktitan.net/news/KITT/nauticus-robotics-tm-regains-compliance-with-nasdaq-listing-kx9h4z3rwfoa.html)**
+
+Nasdaq confirms Nauticus met the equity rule on Dec. 19, 2025 and must stay compliant through Apr. 14, 2026 under panel monitoring to Dec. 19, 2026.
+
+Stock Titan • 11h ago
 
 ---
 
@@ -208,7 +208,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 23K • 👍 771 • 💬 210 • ⏱️ 11:02 • 23h ago
+👁️ 23K • 👍 771 • 💬 210 • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 13K • 👍 203 • 💬 4 • ⏱️ 0:11 • 13h ago
+👁️ 13K • 👍 203 • 💬 4 • ⏱️ 0:11 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full bu
 
 📺 Roll No 36
 
-👁️ 1K • 👍 27 • 💬 4 • ⏱️ 0:31 • 8h ago
+👁️ 1K • 👍 27 • 💬 4 • ⏱️ 0:31 • 9h ago
 
 ---
 

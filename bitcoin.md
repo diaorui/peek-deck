@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T22:57:44.754576+00:00'
+updated: '2025-12-23T23:26:42.045237+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 22:57 UTC  
+**Last Updated:** December 23, 2025 at 23:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +1.6%  
-**30d:** -1.0%  
-**90d:** -19.5%  
-**1y:** -11.2%  
+**24h:** -1.9%  
+**7d:** +1.0%  
+**30d:** -1.5%  
+**90d:** -19.7%  
+**1y:** -11.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.56B
+**Market Cap:** $1741.20B
 Rank #1
 
-**Circulating Supply:** 19,966,140 BTC
+**Circulating Supply:** 19,966,153 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.9%
 
 **All-Time Low:** $67.81
-+128970.9%
++128457.7%
 
 ---
 
@@ -89,7 +89,7 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
 
-7h ago
+8h ago
 
 ---
 
@@ -135,19 +135,19 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 Renting your primary residence is not the American Dream and Bitcoin being better than fiat doesn't change that. https://www.youtube.com/watch?v=5LZYYCgaA0E
 
-5h ago
+6h ago
 
 ---
 
 **[On the wall at an old pub in London. Thoughts…?](https://www.reddit.com/r/Bitcoin/comments/1pu24bd/on_the_wall_at_an_old_pub_in_london_thoughts/)**
 
-3h ago
+4h ago
 
 ---
 
 **[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -159,7 +159,7 @@ Renting your primary residence is not the American Dream and Bitcoin being bette
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -179,33 +179,41 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+**[Bitcoin price news: BTC slips below $88,000, but Strategy, Circle, Gemini among those sharply lower](https://www.coindesk.com/markets/2025/12/23/bitcoin-slips-crypto-stocks-suffer-steep-declines-as-tax-loss-selling-drives-action-analysts-say)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 6h ago
-
----
-
-**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
-
-The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
-
-Yahoo Finance • 1d ago
+CoinDesk • 3h ago
 
 ---
 
-**[Michael Saylor's Strategy expands dollar reserve instead of Bitcoin](https://finance.yahoo.com/news/michael-saylors-strategy-expands-dollar-163854674.html)**
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
 
-Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Yahoo Finance • 1d ago
+Investopedia • 2h ago
 
 ---
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
+
+---
+
+**[Michael Saylor's MSTR raises additional cash through stock sales](https://www.coindesk.com/markets/2025/12/22/strategy-boosted-cash-reserve-by-usd748-million-last-week)**
+
+Led by Executive Chairman Michael Saylor, the company raised the funds entirely by sales of common stock.
+
+CoinDesk • 1d ago
+
+---
+
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -221,15 +229,7 @@ VanEck • 1d ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 20h ago
-
----
-
-**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
-
-Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
-
-Inquirer.com • 3h ago
+WCVB • 21h ago
 
 ---
 
@@ -263,7 +263,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 7h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -293,7 +293,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 15h ago
+⬆️ 1 • 💬 0 • 16h ago
 
 ---
 
@@ -307,7 +307,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 17K • 👍 249 • 💬 133 • ⏱️ 5:23 • 8h ago
+👁️ 17K • 👍 249 • 💬 133 • ⏱️ 5:23 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 19K • 👍 1K • 💬 157 • ⏱️ 20:46 • 4h ago
+👁️ 19K • 👍 1K • 💬 157 • ⏱️ 20:46 • 5h ago
 
 ---
 

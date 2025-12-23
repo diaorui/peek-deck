@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T22:57:44.746146+00:00'
+updated: '2025-12-23T23:26:42.037789+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 22:57 UTC  
+**Last Updated:** December 23, 2025 at 23:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-1h ago
+2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 5h ago
 
 ---
 
@@ -63,7 +63,7 @@ Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las V
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 13h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 14h ago
 
 ---
 
@@ -103,7 +103,7 @@ OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-12h ago
+13h ago
 
 ---
 
@@ -123,21 +123,7 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 5h ago
-
----
-
-**[Year in a word: AI bubble](https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f)**
-
-The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
-
-Financial Times • 17h ago
-
----
-
-**[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
-
-The New York Times • 8h ago
+blog.google • 6h ago
 
 ---
 
@@ -145,23 +131,7 @@ The New York Times • 8h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 5h ago
-
----
-
-**[Hoping AI will give you more work-life balance in 2026? Fortune 500 CEOs warn otherwise](https://fortune.com/2025/12/23/work-life-balance-recap-2025-fortune-500-ceos-productivity-grind-secrets-for-success/)**
-
-Despite Gen Z increasingly demanding work-life balance, many Fortune 500 bosses doubled down on overtime in 2025 to compete in the AI race.
-
-Fortune • 32m ago
-
----
-
-**[Apple spent 2025 setting itself up for the future — and its biggest moves weren't about AI](https://finance.yahoo.com/news/apple-spent-2025-setting-itself-up-for-the-future--and-its-biggest-moves-werent-about-ai-211525196.html)**
-
-Apple's 2025 helped set up its future.
-
-Yahoo Finance • 1h ago
+The Guardian • 6h ago
 
 ---
 
@@ -173,9 +143,25 @@ WRAL • 1h ago
 
 ---
 
+**[AI picks the ‘perfect’ baby name — but would you dare use it?](https://nypost.com/2025/12/23/lifestyle/ais-baby-name-pick-is-elara-the-next-big-thing/)**
+
+Move over, Emma and Liam — AI has suggested a new favorite baby name, and it has parents buzzing.
+
+New York Post • 1h ago
+
+---
+
+**[Hoping AI will give you more work-life balance in 2026? Fortune 500 CEOs warn otherwise](https://fortune.com/2025/12/23/work-life-balance-recap-2025-fortune-500-ceos-productivity-grind-secrets-for-success/)**
+
+Despite Gen Z increasingly demanding work-life balance, many Fortune 500 bosses doubled down on overtime in 2025 to compete in the AI race.
+
+Fortune • 1h ago
+
+---
+
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -187,9 +173,25 @@ CNBC • 1d ago
 
 ---
 
-**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqceeYc5zvbwtzKOGeXHTLaGx5QTWykSt9M7bpXETnAG0WhKFCFn8BnP&gaa_ts=694b1f42&gaa_sig=n7hhBN4IjrBEMKCoOpvZW4a4JmDosrAgATpEPyaXFwZW75K5z_hqNeOO--vDo8EHH5V23P4MsX7oPzT3sFgnIg%3D%3D)**
+**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqdF0FjalGDw28LB6pKq4kq-_sTyv2FPuPGEUOhFDNifN3HUjI6sSdBk&gaa_ts=694b289e&gaa_sig=C3IHk_8zAihXKa83NHaEZbXcC_XYlHJzp3if4fx8b1TJfw3EpGgckxrl-d7xOVIgwOaD6w8auLo3sBaxtGt0UQ%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
+
+---
+
+**[AI app apologises over false crime alerts across US](https://www.bbc.com/news/videos/c4g4v3yd28yo)**
+
+An AI-powered app called CrimeRadar has apologised for the distress caused by false crime alerts issued to local US communities after a BBC Verify investigation.
+
+BBC • 11h ago
+
+---
+
+**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
+
+A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
+
+ABC News • 1d ago
 
 ---
 
@@ -201,7 +203,7 @@ The Wall Street Journal • 11h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 772 • 💬 461 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 772 • 💬 462 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -223,7 +225,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 186 • 💬 147 • 16h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 193 • 💬 149 • 17h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -248,7 +250,7 @@ friction.
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 180 • 💬 202 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 180 • 💬 203 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -256,7 +258,7 @@ friction.
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 154 • 💬 157 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 163 • 💬 163 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -302,7 +304,7 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 160K • 👍 10K • 💬 2K • ⏱️ 21:43 • 20h ago
+👁️ 160K • 👍 10K • 💬 2K • ⏱️ 21:43 • 21h ago
 
 ---
 
@@ -332,7 +334,7 @@ Newsletter Link: https://bitbiased.ai/ The AI world just had one of its most imp
 
 📺 BitBiasedAI
 
-👁️ 1K • 👍 40 • 💬 5 • ⏱️ 12:55 • 5h ago
+👁️ 1K • 👍 40 • 💬 5 • ⏱️ 12:55 • 6h ago
 
 ---
 
@@ -398,7 +400,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 620 • 4d ago
+⬇️ 9,848 • ❤️ 622 • 4d ago
 
 ---
 
@@ -410,7 +412,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,350 • 15d ago
+⬇️ 373,123 • ❤️ 3,351 • 15d ago
 
 ---
 
@@ -422,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 512 • 5d ago
+⬇️ 21,058 • ❤️ 515 • 5d ago
 
 ---
 
@@ -434,7 +436,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 439 • 13h ago
+⬇️ 1,148 • ❤️ 440 • 13h ago
 
 ---
 
@@ -458,7 +460,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 407 • 5d ago
+⬇️ 3,313 • ❤️ 408 • 5d ago
 
 ---
 
@@ -470,7 +472,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 374 • 13h ago
+⬇️ 0 • ❤️ 375 • 14h ago
 
 ---
 
@@ -662,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 665 • 14h ago
+⭐ 6.0k • 🔱 665 • 15h ago
 
 ---
 
@@ -672,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 376 • 3h ago
+⭐ 2.9k • 🔱 376 • 4h ago
 
 ---
 
@@ -682,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 186 • 5h ago
+⭐ 2.6k • 🔱 186 • 6h ago
 
 ---
 
