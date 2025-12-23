@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T11:52:02.762924+00:00'
+updated: '2025-12-23T12:29:19.571840+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 11:52 UTC  
+**Last Updated:** December 23, 2025 at 12:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Google recently shipped an API that handles conversation history, context manage
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 15h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 16h ago
 
 ---
 
@@ -69,6 +69,38 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 ---
 
+**[I tried building a deterministic system to make AI safe, verifiable, auditable.](https://www.reddit.com/r/artificial/comments/1pto9go/i_tried_building_a_deterministic_system_to_make/)**
+
+The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
+
+🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 4h ago
+
+---
+
+**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
+
+Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
+
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 19h ago
+
+---
+
+**[Thoughts on AI Ugc video ads](https://www.reddit.com/r/artificial/comments/1ptr7ic/thoughts_on_ai_ugc_video_ads/)**
+
+Hello there! I'm new in this subreddit. The first thing that i want to say is that the deep interventions and the quality of the discussions here is remarkable, so thanks for creating this space. I want to discuss with you a topic or more precisely a workflow that i have adopted recently, because i think here i could get a nice feedback. So, to give you context, recently i had the need to promote and scale a bit the quantity of video ads for my business of spare parts and accessories of bycicles. My size is not enough to plan a budget for hiring real actors, real directors and scouting real places. So i discovered a platform for video ads that lets you produce, edit and test video ads, in particular UGC videos (ai ugc). For now, after a research on how to do them, the results are not bad, even if my lack of technical ability in video producing is present. Be aware that i am the one to set the tone of the adv, the script of the adv and to do all the market research for the psycographical segmentation and the product to promote. What are your thoughts on this practice? Do you see benefits on using ai ugc or not?
+
+1h ago
+
+---
+
+**[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
+
+There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
+
+2h ago
+
+---
+
 **[One-Minute Daily AI News 12/22/2025](https://www.reddit.com/r/artificial/comments/1ptlxdk/oneminute_daily_ai_news_12222025/)**
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
@@ -77,43 +109,11 @@ OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1]
 
 ---
 
-**[Guided learning lets “untrainable” neural networks realize their potential](https://www.reddit.com/r/artificial/comments/1ptlus7/guided_learning_lets_untrainable_neural_networks/)**
-
-MIT CSAIL study suggests that neural network architectures considered unsuitable for modern tasks can improve with short-term guidance. The method encourages a target network to match a guide network’s internal representations, improving its starting point and making machine learning easier.
-
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 6h ago
-
----
-
-**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://www.reddit.com/r/artificial/comments/1pt4tnu/flock_exposed_its_aipowered_cameras_to_the/)**
-
-Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
-
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 18h ago
-
----
-
-**[Thoughts on AI Ugc video ads](https://www.reddit.com/r/artificial/comments/1ptr7ic/thoughts_on_ai_ugc_video_ads/)**
-
-Hello there! I'm new in this subreddit. The first thing that i want to say is that the deep interventions and the quality of the discussions here is remarkable, so thanks for creating this space. I want to discuss with you a topic or more precisely a workflow that i have adopted recently, because i think here i could get a nice feedback. So, to give you context, recently i had the need to promote and scale a bit the quantity of video ads for my business of spare parts and accessories of bycicles. My size is not enough to plan a budget for hiring real actors, real directors and scouting real places. So i discovered a platform for video ads that lets you produce, edit and test video ads, in particular UGC videos (ai ugc). For now, after a research on how to do them, the results are not bad, even if my lack of technical ability in video producing is present. Be aware that i am the one to set the tone of the adv, the script of the adv and to do all the market research for the psycographical segmentation and the product to promote. What are your thoughts on this practice? Do you see benefits on using ai ugc or not?
-
-49m ago
-
----
-
-**[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
-
-There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
-
-1h ago
-
----
-
 **[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 2h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 3h ago
 
 ---
 
@@ -133,43 +133,41 @@ ABC News • 1d ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 3h ago
+The Guardian • 1h ago
 
 ---
 
-**[TikTok’s Chinese owner plans $23bn AI spend to keep pace with US rivals](https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad)**
+**[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
 
-TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
-
-Financial Times • 10h ago
+The New York Times • 7h ago
 
 ---
 
-**[ByteDance plans to spend $23 billion towards AI infrastructure in 2026, FT reports](https://www.reuters.com/world/asia-pacific/bytedance-plans-spend-23-billion-towards-ai-infrastructure-2026-ft-reports-2025-12-23/)**
+**[AI is reshaping banking—but not causing a jobs wipeout](https://fortune.com/2025/12/23/ai-reshaping-banking-not-causing-jobs-wipeout/)**
 
-Reuters • 10h ago
+Banking and finance headcounts remain largely stable, according to a Fortune report.
 
----
-
-**[ByteDance to increase AI spending in 2026, aiming to challenge US](https://www.fudzilla.com/news/ai/62259-bytedance-to-increase-ai-spending-in-2026-aiming-to-challenge-us)**
-
-AI expansion goes global as ByteDance aims to compete ByteDance, the parent company of TikTok, is set to ramp up its AI investments significantly next year. The company plans to allocate Rmb160bn ($23bn) in 2026 as part of its cunning plan to keep up with US tech giants in the fast-paced AI race. Ar...
-
-Fudzilla.com • 3h ago
+Fortune • 31m ago
 
 ---
 
-**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqeLkC_dzdx6F7hITtFQ3_iI2j41rRdb-ct3RWIH52EwamxeJXGlVwEW&gaa_ts=694a8345&gaa_sig=AVkYZGR3uVAVhwgrMMiCNg8VAvLsH8Uvj0W6nvXnM_8wWTkjP9x6pn_vjaW-xeNkeyLozL7avYpegl2TI9fD3Q%3D%3D)**
+**[Holiday retail spending rose 4.2% this season, driven by e-commerce and electronics: Visa report](https://www.cnbc.com/2025/12/23/holiday-retail-spending-visa-report-2025.html)**
 
-The Wall Street Journal • 52m ago
+U.S. holiday retail spending rose 4.2% as consumers spent more on tech and apparel, with online sales jumping 7.8%, Visa data shows, despite higher prices.
+
+CNBC • 29m ago
 
 ---
 
-**[Say welcome back to the blue book: How AI is reshaping higher education in Syracuse](https://www.syracuse.com/education/2025/12/say-welcome-back-to-the-blue-book-ai-is-roiling-higher-education-in-syracuse.html)**
+**[Memory Chip Makers Say AI Alters Boom-and-Bust Cycle](https://www.bloomberg.com/news/newsletters/2025-12-23/memory-chip-makers-say-ai-alters-boom-and-bust-cycle)**
 
-Artificial intelligence has forced quick change among Syracuse higher education, a system that often moves slow.
+Bloomberg.com • 27m ago
 
-Syracuse.com • 52m ago
+---
+
+**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
+
+Reuters • 5h ago
 
 ---
 
@@ -177,21 +175,21 @@ Syracuse.com • 52m ago
 
 Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
 
-blog.google • 17h ago
+blog.google • 18h ago
 
 ---
 
-**[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
+**[TikTok’s Chinese owner plans $23bn AI spend to keep pace with US rivals](https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad)**
 
-The New York Times • 6h ago
+TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
+
+Financial Times • 11h ago
 
 ---
 
-**[Google’s Chess Master Is Working on AI's Killer App](https://www.bloomberg.com/opinion/articles/2025-12-23/google-ai-boss-demis-hassabis-is-working-on-the-next-killer-app)**
+**[ByteDance plans to spend $23 billion towards AI infrastructure in 2026, FT reports](https://www.reuters.com/world/asia-pacific/bytedance-plans-spend-23-billion-towards-ai-infrastructure-2026-ft-reports-2025-12-23/)**
 
-You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
-
-Bloomberg.com • 6h ago
+Reuters • 10h ago
 
 ---
 
@@ -203,7 +201,7 @@ Bloomberg.com • 6h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 611 • 💬 411 • 19h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 623 • 💬 412 • 19h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 267 • 💬 170 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 267 • 💬 171 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -250,7 +248,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 138 • 💬 166 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 138 • 💬 167 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -280,7 +278,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 113 • 💬 76 • 5h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 119 • 💬 84 • 6h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -294,7 +292,7 @@ Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Reg
 
 📺 IBM Technology
 
-👁️ 23K • 👍 1K • 💬 39 • ⏱️ 11:39 • 23h ago
+👁️ 23K • 👍 1K • 💬 39 • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -304,7 +302,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 21K • 💬 50 • ⏱️ 44:39 • 18h ago
+👁️ 21K • 💬 50 • ⏱️ 44:39 • 19h ago
 
 ---
 
@@ -314,7 +312,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Y Combinator
 
-👁️ 25K • 👍 665 • 💬 43 • ⏱️ 30:23 • 20h ago
+👁️ 25K • 👍 665 • 💬 43 • ⏱️ 30:23 • 21h ago
 
 ---
 
@@ -374,7 +372,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 9K • 👍 282 • 💬 32 • ⏱️ 18:48 • 13h ago
+👁️ 9K • 👍 282 • 💬 32 • ⏱️ 18:48 • 14h ago
 
 ---
 
@@ -400,7 +398,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 582 • 4d ago
+⬇️ 9,848 • ❤️ 586 • 4d ago
 
 ---
 
@@ -412,7 +410,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,327 • 14d ago
+⬇️ 373,123 • ❤️ 3,328 • 14d ago
 
 ---
 
@@ -424,7 +422,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 495 • 4d ago
+⬇️ 21,058 • ❤️ 496 • 4d ago
 
 ---
 
@@ -460,7 +458,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 372 • 2h ago
+⬇️ 1,148 • ❤️ 379 • 2h ago
 
 ---
 
@@ -472,7 +470,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 365 • 2h ago
+⬇️ 0 • ❤️ 366 • 3h ago
 
 ---
 
@@ -496,7 +494,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 110,376 • ❤️ 448 • 3d ago
+⬇️ 110,376 • ❤️ 451 • 3d ago
 
 ---
 
@@ -508,7 +506,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 339 • 7d ago
+⬇️ 0 • ❤️ 341 • 7d ago
 
 ---
 
@@ -524,7 +522,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 11 • 💬 2 • ⭐ 4,737 • 12d ago
+▲ 11 • 💬 2 • ⭐ 4,839 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -548,7 +546,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 3 • 💬 0 • ⭐ 61,306 • 10mo ago
+▲ 3 • 💬 0 • ⭐ 61,378 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -575,7 +573,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 137 • 💬 6 • ⭐ 18,908 • 3mo ago
+▲ 137 • 💬 6 • ⭐ 18,931 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -615,7 +613,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 WorldPlay is a streaming video diffusion model that achieves real-time, interactive world modeling with long-term geometric consistency by using a Dual Action Representation, Reconstituted Context Memory, and Context Forcing.
 
-▲ 61 • 💬 3 • ⭐ 704 • 6d ago
+▲ 61 • 💬 3 • ⭐ 704 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.9k • 🔱 3.0k • 1d ago
+⭐ 19.0k • 🔱 3.0k • 1d ago
 
 ---
 
@@ -666,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.9k • 🔱 650 • 3h ago
+⭐ 5.9k • 🔱 655 • 4h ago
 
 ---
 
@@ -676,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 341 • 1h ago
+⭐ 2.5k • 🔱 347 • 11m ago
 
 ---
 
@@ -686,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 183 • 2h ago
+⭐ 2.5k • 🔱 183 • 3h ago
 
 ---
 
@@ -706,7 +704,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 190 • 12h ago
+⭐ 1.2k • 🔱 191 • 12h ago
 
 ---
 
@@ -716,7 +714,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 56 • 5d ago
+⭐ 1.1k • 🔱 57 • 5d ago
 
 ---
 
@@ -726,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 992 • 🔱 93 • 9h ago
+⭐ 997 • 🔱 94 • 51m ago
 
 ---
 
@@ -736,7 +734,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 941 • 🔱 91 • 1d ago
+⭐ 944 • 🔱 91 • 1d ago
 
 ---
 

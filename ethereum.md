@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T11:52:02.775528+00:00'
+updated: '2025-12-23T12:29:19.586580+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 11:52 UTC  
+**Last Updated:** December 23, 2025 at 12:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** +4.9%  
-**30d:** +0.6%  
-**90d:** -22.9%  
-**1y:** -15.0%  
+**24h:** -3.3%  
+**7d:** +4.4%  
+**30d:** +0.1%  
+**90d:** -23.3%  
+**1y:** -15.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.15B
+**Market Cap:** $358.29B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-40.2%
 
 **All-Time Low:** $0.43
-+685284.3%
++683392.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am very interested in scaling what Ethereum started in 2013/2014, and I have followed Ethereum since (I used to work with an organization that ENS gave a dedicated name, for example, reserved it as one of few they reserved for organizations...) This organization was very controversial though. I solved proof-of-unique-human in the ideal way by 2018 (together with that controversial organization...), and it is quite well known (an analogous approach but worse version game theoretically is currently being approached by the individual who single-handedly built the first version of Ethereum in 2013/2014, he calls it "proof-of-video-interaction"), but it requires extreme parallelization. Hundreds of thousands of transactions per second. Polygon seems to have solved part of parallelization with "transaction dependency graph". Another problem, scaling the consensus, I am forbidden to mention here as an Edmund with support from a Ligi threatened to ban me if I did (this seems counter-productive still? Would be good if it was over-ruled by the other moderators and I was informed of this). And a third problem, is data structures. In my proof-of-unique-human I need to operate in parallel on something like an array. A very generalized and quite simple mapping that is a bit like a mapping in Golang could allow for that. I think this is a valid idea, and relevant. It is a topic that needs to be solved. Ethereum in 2014 was a revolution, Bitcoin in 2008 before that a revolution too, but everyone here will live many decades more, and just like ENIAC was one of first computers, the computer continued to advance, and 70 years later it continues still to advance. It is a living system, and growth is change.
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 43m ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 19h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 20h ago
 
 ---
 
@@ -158,11 +158,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin vs. Ethereum vs. XRP – Which crypto will be 2026’s winner?](https://ambcrypto.com/bitcoin-vs-ethereum-vs-xrp-which-crypto-will-be-2026s-winner/)**
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqdWYDTTn_Ldyjm3oJZOjFGGXIq542pSLd_g6bOwZYbOg7CrmYd8wmYv&gaa_ts=694a8e89&gaa_sig=boerMCJiwd_yayoe1HUA8e0ApcLl57DPwvSQxJj7xWSRJP0K-oadsyz0aBJGoRwNEfICWfVkDm-gy2EhJd7NMQ%3D%3D)**
 
-ETF flows and on-chain data reveal sharply diverging setups for Bitcoin, Ethereum, and XRP.
+Barron's • 9m ago
 
-AMBCrypto • 3d ago
+---
+
+**[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
+
+Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -170,7 +176,7 @@ AMBCrypto • 3d ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -178,7 +184,7 @@ CoinDesk • 18h ago
 
 Ethereum price started a recovery wave above $2,980. ETH is now consolidating and faces a key barrier near the $3,080 level.Ethereum Price Faces Important ResistanceEthereum price started a decent increase above $2,880, like Bitcoin. ETH price was able to surpass the $2,920 and $2,950 resistance le…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -192,7 +198,7 @@ TradingView — Track All Markets • 8h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 15h ago
+Bit Digital • 16h ago
 
 ---
 
@@ -204,27 +210,19 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
-
-As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[BlackRock moves $182M in Bitcoin and $91M in Ethereum to Coinbase Prime](https://cryptobriefing.com/blackrock-crypto-deposits-bitcoin-ethereum-coinbase/)**
-
-BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
-
-Crypto Briefing • 23h ago
-
----
-
 **[These two financial giants just set Ethereum's on-chain schedule, but Wall Street relies on a controversial “undo” button](https://cryptoslate.com/tokenization-gets-real-when-cash-meets-settlement-dtcc-jpmorgan-on-eth/)**
 
 DTCC’s 2026 pilot and JPMorgan’s MONY fund show how tokenized securities and on-chain cash could meet on Ethereum, and who gets access first.
 
 CryptoSlate • 23h ago
+
+---
+
+**[Is Ethereum undervalued? These 2 on-chain signals say…](https://ambcrypto.com/is-ethereum-undervalued-these-2-on-chain-signals-say/)**
+
+Ethereum’s utility matters more than its chart.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -268,7 +266,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 631 • 💬 164 • ⏱️ 15:45 • 6h ago
+👁️ 3K • 👍 631 • 💬 164 • ⏱️ 15:45 • 7h ago
 
 ---
 
@@ -278,7 +276,7 @@ BTC, SOL, ETH, stocks, and space trade! BITUNIX TRADE THE TOP COINS (available e
 
 📺 Lark Davis
 
-👁️ 1K • 👍 97 • 2h ago
+👁️ 1K • 👍 97 • 3h ago
 
 ---
 
@@ -288,7 +286,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 309 • 💬 76 • ⏱️ 17:34 • 19h ago
+👁️ 9K • 👍 309 • 💬 76 • ⏱️ 17:34 • 20h ago
 
 ---
 
@@ -308,7 +306,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 45 • 💬 58 • ⏱️ 7:32 • 22h ago
+👁️ 1K • 👍 45 • 💬 58 • ⏱️ 7:32 • 23h ago
 
 ---
 
@@ -328,7 +326,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 44 • 💬 24 • ⏱️ 16:54 • 15h ago
+👁️ 2K • 👍 44 • 💬 24 • ⏱️ 16:54 • 16h ago
 
 ---
 

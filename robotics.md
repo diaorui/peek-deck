@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T11:52:02.778315+00:00'
+updated: '2025-12-23T12:29:19.589899+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 11:52 UTC  
+**Last Updated:** December 23, 2025 at 12:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Disney: Olaf: Bringing an Animated Character to Life in the Physical World (Demo - Paper)](https://www.reddit.com/r/robotics/comments/1pts3ka/disney_olaf_bringing_an_animated_character_to/)**
+
+Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
+
+34m ago
+
+---
+
 **[Sunday Robotics Memo: "Pick Up Anything" test](https://www.reddit.com/r/robotics/comments/1ptkti2/sunday_robotics_memo_pick_up_anything_test/)**
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
@@ -44,7 +52,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Physical Intelligence just released a series of "Robot Olympics" events to showcase their latest π0.6 model. Unlike standard benchmarks, these tasks are designed to illustrate Moravec’s Paradox which are everyday physical actions that are trivial for humans but represent the "gold standard" of difficulty for modern robotics. All tasks shown are fully autonomous, demonstrating high-level task decomposition and fine motor control. The 5 Olympic Events: Event 1 (Gold) - Door Entry: The robot successfully navigates a self-closing lever-handle door. This is technically challenging because it requires the model to apply force to keep the door open while simultaneously moving its base through the frame. Event 2 (Silver) - Textile Manipulation: The model successfully turns a sock right-side-out. They attempted the Gold medal task (hanging an inside-out dress shirt), but the current hardware gripper was too wide for the sleeves. Event 3 (Gold) - Fine Tool Use: A major win here,the robot used a small key to unlock a padlock. This requires extreme precision to align the key and enough torque to turn the tumbler. (Silver was making a peanut butter sandwich, involving long-horizon steps like spreading and cutting triangles). Event 4 (Silver) - Deformable Objects: The robot successfully opened a dog poop bag. This is notoriously difficult because the thin plastic blinds the wrist cameras during manipulation. They attempted to peel an orange for Gold but were "disqualified" for needing a sharper tool. Event 5 (Gold) - Complex Cleaning: The robot washed a frying pan in a sink using soap and water, scrubbing both sides. They also cleared the Silver (cleaning the grippers) and Bronze (wiping the counter) tasks for this category. The Tech Behind It: The π0.6 model is a Vision-Language-Action (VLA) generalist policy. It moves away from simple "behavior cloning" and instead focuses on agentic coding and task completion, allowing it to recover from errors and handle diverse, "messy" real-world environments. Official Blog: pi.website/blog/olympics Source Video: Physical Intelligence on X
 
-17h ago
+18h ago
 
 ---
 
@@ -60,7 +68,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-1h ago
+2h ago
 
 ---
 
@@ -88,25 +96,17 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 ---
 
+**[M5Stack’s Open-Source Kawaii Robot — Pre-Orders Are Now Open!](https://www.reddit.com/r/robotics/comments/1pthpfw/m5stacks_opensource_kawaii_robot_preorders_are/)**
+
+10h ago
+
+---
+
 **[Question for robotics devs](https://www.reddit.com/r/robotics/comments/1ptcqp9/question_for_robotics_devs/)**
 
 Hey guys, how much time do you usually spend on your feet in a given work day? I’ve recently injured my back and it doesn’t look like it’s going to get healed anytime soon. I’m relegated to a chair for the most part I think, but this is an industry I’m pretty interested in. I would love to get your feedback so I can decide if I can actually do this work in a professional setting. Thanks! 🤖
 
-13h ago
-
----
-
-**[M5Stack’s Open-Source Kawaii Robot — Pre-Orders Are Now Open!](https://www.reddit.com/r/robotics/comments/1pthpfw/m5stacks_opensource_kawaii_robot_preorders_are/)**
-
-9h ago
-
----
-
-**[[OS] SPIDER: A General Physics-Informed Retargeting Framework for Humanoids & Dexterous Hands](https://www.reddit.com/r/robotics/comments/1pt4uxn/os_spider_a_general_physicsinformed_retargeting/)**
-
-Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting human motion to diverse robot embodiments. Most retargeting methods suffer from physical inconsistencies. SPIDER is physics-informed, ensuring dynamically feasible motions without artifacts like ghosting or floating. Key Features: General: Supports both humanoids (G1, H1, etc.) and dexterous hands (Allegro, Shadow, etc.). Physics-Based: GPU-accelerated optimization for clean, stable motion. Sim2Real-ready: Ready for deployment, from human video to real-world robot actions. Links: 📦 Code: https://github.com/facebookresearch/spider 📓 Tutorial: Notebook 🌐 Project Page: http://jc-bao.github.io/spider-project/ Would love to hear your feedback or help with any integration questions!
-
-18h ago
+14h ago
 
 ---
 
@@ -122,7 +122,7 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+**[Video: China’s humanoid robots steal the show at Chengdu concert](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
 Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
@@ -130,19 +130,11 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+**[The Tech Review 2025: China sees breakthroughs in AI and robotics](https://news.cgtn.com/news/2025-12-23/The-Tech-Review-2025-China-sees-breakthroughs-in-AI-and-robotics-1JkPp0QUWl2/p.html)**
 
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+The year 2025 has been defined by a wave of transformative advances in China's artificial intelligence (AI) and robotics sectors, marking a decisive shift from laboratory research toward deep industrial integration and real-world application.The year
 
-The Verge • 1d ago
-
----
-
-**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
-
-Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
-
-CnEVPost • 8h ago
+news.cgtn.com • 3h ago
 
 ---
 
@@ -151,6 +143,22 @@ CnEVPost • 8h ago
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
 hyundai.com • 1d ago
+
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 1d ago
+
+---
+
+**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
+
+Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
+
+CnEVPost • 9h ago
 
 ---
 
@@ -167,14 +175,6 @@ Sifted • 1d ago
 Affluent Medical recently announced agreements to acquire Caranx Medical and Artedrone to form a new medtech company called Carvolix.
 
 MassDevice • 23h ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.0M • 👍 11K • 💬 635 • ⏱️ 2:43 • 4d ago
+👁️ 1.0M • 👍 11K • 💬 635 • ⏱️ 2:43 • 5d ago
 
 ---
 
@@ -254,7 +254,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 594 • 👍 15 • 💬 2 • ⏱️ 0:11 • 2h ago
+👁️ 594 • 👍 15 • 💬 2 • ⏱️ 0:11 • 3h ago
 
 ---
 
@@ -294,7 +294,7 @@ shorts source: JumpersJump.
 
 📺 WildTalk
 
-👁️ 99K • 👍 977 • 💬 5 • ⏱️ 0:22 • 15h ago
+👁️ 99K • 👍 977 • 💬 5 • ⏱️ 0:22 • 16h ago
 
 ---
 

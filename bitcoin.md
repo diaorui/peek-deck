@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T11:52:02.770294+00:00'
+updated: '2025-12-23T12:29:19.580478+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 11:52 UTC  
+**Last Updated:** December 23, 2025 at 12:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** +1.8%  
-**30d:** -0.7%  
-**90d:** -19.3%  
-**1y:** -11.0%  
+**24h:** -2.6%  
+**7d:** +1.6%  
+**30d:** -1.0%  
+**90d:** -19.5%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.39B
+**Market Cap:** $1750.72B
 Rank #1
 
 **Circulating Supply:** 19,965,887 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.5%
 
 **All-Time Low:** $67.81
-+129177.4%
++129147.9%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 bitvoin
 
-23h ago
+1d ago
 
 ---
 
 **[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,13 +119,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-22h ago
+23h ago
 
 ---
 
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -135,11 +135,11 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
-**[BTC supply held on exchanges is dropping and currently at levels last seen in late 2018](https://www.reddit.com/r/Bitcoin/comments/1pt91am/btc_supply_held_on_exchanges_is_dropping_and/)**
+**[Hal Finney in 2011 explaining Bitcoin, and it aged perfectly](https://www.reddit.com/r/Bitcoin/comments/1ptqqu4/hal_finney_in_2011_explaining_bitcoin_and_it_aged/)**
 
-Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
+Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issuance is slow and predictable Why supply is capped under 21 million How ownership and transfers work without intermediaries No hype. No price talk. Just pure fundamentals. Fast forward to today: ✔ Halvings happened exactly as described ✔ Network secured trillions in value ✔ Institutions, ETFs, and corporations are now competing for supply Bitcoin didn’t change. The world finally caught up. This is why long-term conviction beats short-term noise.
 
-16h ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 6h ago
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 13h ago
 
 Led by Executive Chairman Michael Saylor, the company raised the funds entirely by sales of common stock.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -177,11 +177,9 @@ Investor's Business Daily • 15h ago
 
 ---
 
-**[Hyperscale Data Bitcoin Treasury at 514.9655 Bitcoin and Exceeds 100% of Market Capitalization](https://www.prnewswire.com/news-releases/hyperscale-data-bitcoin-treasury-at-514-9655-bitcoin-and-exceeds-100-of-market-capitalization-302648482.html)**
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqcXshFUmHKO09a3xhz2QB4K5OjukJOmHv2jcPleEfEGdPsWUTwi-9lU&gaa_ts=694a8e87&gaa_sig=pObweXy_9utdIy8Yelz4QTvlPkJQ1EH8kWMgndmMTPHDqzZpXTiQ3kym-cLpKHkgmgZDV6BmPw_adfoQB4J2Fw%3D%3D)**
 
-/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
-
-PR Newswire • 52m ago
+Barron's • 9m ago
 
 ---
 
@@ -189,13 +187,7 @@ PR Newswire • 52m ago
 
 VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
 
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqehzrI_ZVLNtmCsA8FenWfNkk3Z6zb3KQJJC8zVzRRYu48t6Ud7ahL3&gaa_ts=694a8347&gaa_sig=AFAfJG2iaTR7UBsDNGIDVKCZF6y24cZ9XiCM8MMXwJkfap_r50_hHpbn-BBAAT6BWkrEPk3GGP1y1V_qJi3ang%3D%3D)**
-
-Barron's • 21h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -204,6 +196,14 @@ Barron's • 21h ago
 The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Verge • 16h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 9h ago
+WCVB • 10h ago
 
 ---
 
@@ -253,7 +253,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 20h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 21h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -269,13 +269,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 15h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 16h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 4h ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -289,7 +289,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:35 • 11h ago
+👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:35 • 12h ago
 
 ---
 
@@ -299,7 +299,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 20h ago
+👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 21h ago
 
 ---
 
@@ -319,7 +319,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 3K • 👍 32 • 💬 63 • ⏱️ 3:19 • 13h ago
+👁️ 3K • 👍 32 • 💬 63 • ⏱️ 3:19 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 17K • 👍 871 • 💬 140 • ⏱️ 6:08 • 18h ago
+👁️ 17K • 👍 871 • 💬 140 • ⏱️ 6:08 • 19h ago
 
 ---
 
@@ -369,7 +369,7 @@ Jeff Ross joins the show for a breakdown of why the global financial system is c
 
 📺 What Bitcoin Did
 
-👁️ 12K • 👍 598 • 💬 138 • ⏱️ 1:04:00 • 23h ago
+👁️ 12K • 👍 598 • 💬 138 • ⏱️ 1:04:00 • 1d ago
 
 ---
 
