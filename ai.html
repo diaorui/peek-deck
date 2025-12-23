@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-23T10:44:38.829500+00:00"
+          "dateModified": "2025-12-23T10:57:29.917095+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -664,7 +664,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pto8yn/googles_serverside_state_management_api_thoughts/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -672,13 +672,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/" target="_blank" onclick="event.stopPropagation();">AI will neutralize the power of a general strike</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1pto8yn/googles_serverside_state_management_api_thoughts/" target="_blank" onclick="event.stopPropagation();">Google's server-side state management API - thoughts on the architecture?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
+                            Google recently shipped an API that handles conversation history, context management, and background execution server-side for agent deployments (the new Interactions API in Gemini). From what we can tell, this eliminates most of the infrastructure work that typically goes into building agents. No vector DB setup, no custom context engineering, no session state management. It's all handled by Google. We've been prototyping with it for a couple weeks now. The difference in development velocity is pretty significant. What used to take days of setting up memory architecture now just works out of the box. The trade-off seems obvious though. You're locked into Google's infrastructure. You lose control over how context is stored and retrieved. Model switching becomes harder. Cost optimization gets more opaque. But from a practical standpoint, it removes what we'd estimate was 60-80% of the grunt work in agent development. You can focus entirely on the business logic and prompt engineering instead of building plumbing. A few things we're curious about from people who've worked with this or similar patterns. How does this compare to building with LangChain or LangGraph memory solutions? Is the convenience worth the vendor lock-in? For production deployments, does server-side state management create any issues around auditability or debugging? With custom implementations you can inspect everything. Here it's more of a black box. What's the failure mode if Google's state management has issues? With self-hosted solutions you at least have control. Here you're dependent on their uptime. Is there a reasonable path to migrate off this if needed? Or once you build on it, you're committed? From an architecture perspective, this feels like Google positioning infrastructure as the moat. Similar to how AWS won by solving undifferentiated heavy lifting. But in ML workloads, control over the full stack has typically been important. For context, we're working across several businesses (e-commerce, SaaS) building management-layer agents. Planning systems, decision analysis, that kind of thing. Not doing anything cutting-edge from a research standpoint, just trying to ship production systems that work. The ease of prototyping with this API has been valuable. But we're trying to think through whether we're setting ourselves up for problems down the road by outsourcing this much of the stack. Curious what others think about this pattern. Is server-side state management the future for agent development? Or are we trading too much control for convenience?
                         </div>
                         
 
@@ -687,7 +687,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1766484327.0"></span>
+                                    <span data-timestamp="1766476268.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -794,7 +794,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pto8yn/googles_serverside_state_management_api_thoughts/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ptlxdk/oneminute_daily_ai_news_12222025/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -802,13 +802,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1pto8yn/googles_serverside_state_management_api_thoughts/" target="_blank" onclick="event.stopPropagation();">Google's server-side state management API - thoughts on the architecture?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ptlxdk/oneminute_daily_ai_news_12222025/" target="_blank" onclick="event.stopPropagation();">One-Minute Daily AI News 12/22/2025</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Google recently shipped an API that handles conversation history, context management, and background execution server-side for agent deployments (the new Interactions API in Gemini). From what we can tell, this eliminates most of the infrastructure work that typically goes into building agents. No vector DB setup, no custom context engineering, no session state management. It's all handled by Google. We've been prototyping with it for a couple weeks now. The difference in development velocity is pretty significant. What used to take days of setting up memory architecture now just works out of the box. The trade-off seems obvious though. You're locked into Google's infrastructure. You lose control over how context is stored and retrieved. Model switching becomes harder. Cost optimization gets more opaque. But from a practical standpoint, it removes what we'd estimate was 60-80% of the grunt work in agent development. You can focus entirely on the business logic and prompt engineering instead of building plumbing. A few things we're curious about from people who've worked with this or similar patterns. How does this compare to building with LangChain or LangGraph memory solutions? Is the convenience worth the vendor lock-in? For production deployments, does server-side state management create any issues around auditability or debugging? With custom implementations you can inspect everything. Here it's more of a black box. What's the failure mode if Google's state management has issues? With self-hosted solutions you at least have control. Here you're dependent on their uptime. Is there a reasonable path to migrate off this if needed? Or once you build on it, you're committed? From an architecture perspective, this feels like Google positioning infrastructure as the moat. Similar to how AWS won by solving undifferentiated heavy lifting. But in ML workloads, control over the full stack has typically been important. For context, we're working across several businesses (e-commerce, SaaS) building management-layer agents. Planning systems, decision analysis, that kind of thing. Not doing anything cutting-edge from a research standpoint, just trying to ship production systems that work. The ease of prototyping with this API has been valuable. But we're trying to think through whether we're setting ourselves up for problems down the road by outsourcing this much of the stack. Curious what others think about this pattern. Is server-side state management the future for agent development? Or are we trading too much control for convenience?
+                            OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
                         </div>
                         
 
@@ -817,7 +817,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1766476268.0"></span>
+                                    <span data-timestamp="1766468026.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -927,7 +927,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ptlxdk/oneminute_daily_ai_news_12222025/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -935,13 +935,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ptlxdk/oneminute_daily_ai_news_12222025/" target="_blank" onclick="event.stopPropagation();">One-Minute Daily AI News 12/22/2025</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/" target="_blank" onclick="event.stopPropagation();">AI will neutralize the power of a general strike</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
+                            There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
                         </div>
                         
 
@@ -950,7 +950,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1766468026.0"></span>
+                                    <span data-timestamp="1766484327.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1083,7 +1083,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-23T10:16:45.220968+00:00">Updated 2025-12-23T10:16:45.220968+00:00</small>
+        <small data-timestamp="2025-12-23T10:57:04.232973+00:00">Updated 2025-12-23T10:57:04.232973+00:00</small>
     </div>
 </div>
 
@@ -1392,6 +1392,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2025/12/23/as-ai-investors-fret-over-roi-these-startups-attracted-serious-cash-customers-2025/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/12/54971199697_468678389e_o-e1765423303599.jpg?resize=1200,600');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://fortune.com/2025/12/23/as-ai-investors-fret-over-roi-these-startups-attracted-serious-cash-customers-2025/" target="_blank" onclick="event.stopPropagation();">As AI investors fret over ROI, these startups attracted serious cash from customers in 2025</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A Brex survey shows that coding and video are reaping big customer gains.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766486160.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://qz.com/ai-investors-tools-agents-chatbots', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1422,88 +1463,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1766484345.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/dating-apps-bet-ai-will-increase-users-2025-12', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/693dc4b4832e0ef1ead63053?width=1200&format=jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.businessinsider.com/dating-apps-bet-ai-will-increase-users-2025-12" target="_blank" onclick="event.stopPropagation();">The AI dating arms race: Dating apps are betting millions that you'll fall back in love with them</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Dating apps like Tinder, Hinge, Bumble, and Grindr are investing in AI-powered matchmaking, hoping to fend off swiping fatigue.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766482800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.fool.com/investing/2025/12/23/2-ai-etfs-to-confidently-buy-heading-into-2026/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848332%2Fan-investor-looking-at-their-smartphone-with-computer-screens-in-the-background-showing-stock-prices.jpg&w=1200&op=resize');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.fool.com/investing/2025/12/23/2-ai-etfs-to-confidently-buy-heading-into-2026/" target="_blank" onclick="event.stopPropagation();">2 Artificial Intelligence ETFs to Confidently Buy Heading Into 2026</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Both of these exchange-traded funds are beating the market in 2025 thanks to their concentrated portfolios of AI stocks.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Motley Fool" class="news-favicon">
-                                    <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766480820.0"></span>
                                 </div>
                                 
                             </div>
@@ -1671,6 +1630,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/ai-godfather-yoshua-bengio-lies-ai-chatbots-responses-2025-12', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69494ce804eda4732f2df3ea?width=1200&format=jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.businessinsider.com/ai-godfather-yoshua-bengio-lies-ai-chatbots-responses-2025-12" target="_blank" onclick="event.stopPropagation();">One of the AI godfathers says he lies to AI chatbots to get better responses from them</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Yoshua Bengio, one of the "AI godfathers," said AI technology has a sycophancy problem, so he lies to chatbots to get better responses.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766473620.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1691,7 +1691,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-23T10:17:06.296291+00:00">Updated 2025-12-23T10:17:06.296291+00:00</small>
+        <small data-timestamp="2025-12-23T10:57:19.284411+00:00">Updated 2025-12-23T10:57:19.284411+00:00</small>
     </div>
 </div>
 
@@ -1916,10 +1916,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 593</span>
+                                    <span class="post-points">▲ 600</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 404</span>
+                                    <span style="color: #9ca3af;">💬 408</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2266,7 +2266,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                     <span class="post-points">▲ 134</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 109</span>
+                                    <span style="color: #9ca3af;">💬 110</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2361,10 +2361,10 @@ But perhaps this can be resolved by the realization that while cleverness and in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 98</span>
+                                    <span class="post-points">▲ 108</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 57</span>
+                                    <span style="color: #9ca3af;">💬 73</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2409,7 +2409,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-23T10:16:46.227823+00:00">Updated 2025-12-23T10:16:46.227823+00:00</small>
+        <small data-timestamp="2025-12-23T10:57:04.087483+00:00">Updated 2025-12-23T10:57:04.087483+00:00</small>
     </div>
 </div>
 
@@ -3543,7 +3543,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                     <span class="model-stats">⬇️ 9,848</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 572</span>
+                                    <span class="model-stats">❤️ 576</span>
                                 </div>
                             </div>
                             
@@ -3599,7 +3599,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                     <span class="model-stats">⬇️ 373,123</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,323</span>
+                                    <span class="model-stats">❤️ 3,324</span>
                                 </div>
                             </div>
                             
@@ -3657,7 +3657,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                     <span class="model-stats">⬇️ 21,058</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 492</span>
+                                    <span class="model-stats">❤️ 493</span>
                                 </div>
                             </div>
                             
@@ -3715,7 +3715,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                     <span class="model-stats">⬇️ 10,832</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 415</span>
+                                    <span class="model-stats">❤️ 416</span>
                                 </div>
                             </div>
                             
@@ -3827,13 +3827,71 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 364</span>
+                                    <span class="model-stats">❤️ 365</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2025-12-23T09:20:39.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/zai-org/GLM-4.7', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/zai-org/GLM-4.7.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/zai-org/GLM-4.7" target="_blank" onclick="event.stopPropagation();">
+                                GLM-4.7
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/62dc173789b4cf157d36ebee/i_pxzM2ZDo3Ub-BEgIkE9.png" alt="Z.ai" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/zai-org" target="_blank" onclick="event.stopPropagation();">Z.ai</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">text-generation</span>
+                                
+                                
+                                <span class="model-tag">358.3B</span>
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 1,148</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 361</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2025-12-23T09:41:14.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3897,64 +3955,6 @@ But perhaps this can be resolved by the realization that while cleverness and in
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/zai-org/GLM-4.7', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/zai-org/GLM-4.7.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/zai-org/GLM-4.7" target="_blank" onclick="event.stopPropagation();">
-                                GLM-4.7
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/62dc173789b4cf157d36ebee/i_pxzM2ZDo3Ub-BEgIkE9.png" alt="Z.ai" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/zai-org" target="_blank" onclick="event.stopPropagation();">Z.ai</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">text-generation</span>
-                                
-                                
-                                <span class="model-tag">358.3B</span>
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 1,148</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 350</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2025-12-23T09:41:14.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16.png');"></div>
@@ -3999,7 +3999,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                     <span class="model-stats">⬇️ 110,376</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 447</span>
+                                    <span class="model-stats">❤️ 448</span>
                                 </div>
                             </div>
                             
@@ -4089,7 +4089,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-23T10:16:56.987250+00:00">Updated 2025-12-23T10:16:56.987250+00:00</small>
+        <small data-timestamp="2025-12-23T10:57:17.328971+00:00">Updated 2025-12-23T10:57:17.328971+00:00</small>
     </div>
 </div>
 
@@ -4913,7 +4913,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 673</span>
+                                    <span style="color: #9ca3af;">⭐ 704</span>
                                 </div>
                                 
                             </div>
@@ -5121,7 +5121,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-23T09:52:12.951113+00:00">Updated 2025-12-23T09:52:12.951113+00:00</small>
+        <small data-timestamp="2025-12-23T10:57:05.030782+00:00">Updated 2025-12-23T10:57:05.030782+00:00</small>
     </div>
 </div>
 
@@ -5458,13 +5458,13 @@ But perhaps this can be resolved by the realization that while cleverness and in
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 5.8k</span>
+                                <span class="repo-stats">⭐ 5.9k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">646</span>
+                                <span class="repo-stats">650</span>
                             </div>
                         </div>
                         
@@ -5521,13 +5521,13 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">336</span>
+                                <span class="repo-stats">341</span>
                             </div>
                         </div>
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-12-22T23:30:25Z"></span>
+                                <span class="repo-age" data-timestamp="2025-12-23T10:22:54Z"></span>
                             </div>
                         </div>
                         
@@ -5712,7 +5712,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">189</span>
+                                <span class="repo-stats">190</span>
                             </div>
                         </div>
                         
@@ -5769,7 +5769,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">55</span>
+                                <span class="repo-stats">56</span>
                             </div>
                         </div>
                         
@@ -5820,13 +5820,13 @@ But perhaps this can be resolved by the realization that while cleverness and in
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 987</span>
+                                <span class="repo-stats">⭐ 992</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">91</span>
+                                <span class="repo-stats">93</span>
                             </div>
                         </div>
                         
@@ -5885,7 +5885,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 939</span>
+                                <span class="repo-stats">⭐ 941</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5950,7 +5950,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 919</span>
+                                <span class="repo-stats">⭐ 920</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5992,7 +5992,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-23T09:52:12.925849+00:00">Updated 2025-12-23T09:52:12.925849+00:00</small>
+        <small data-timestamp="2025-12-23T10:57:04.381597+00:00">Updated 2025-12-23T10:57:04.381597+00:00</small>
     </div>
 </div>
 

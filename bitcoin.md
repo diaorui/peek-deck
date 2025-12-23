@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T10:44:39.313203+00:00'
+updated: '2025-12-23T10:57:30.358929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 10:44 UTC  
+**Last Updated:** December 23, 2025 at 10:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.6%  
-**30d:** -0.9%  
-**90d:** -19.5%  
-**1y:** -11.1%  
+**24h:** -2.8%  
+**7d:** +1.4%  
+**30d:** -1.2%  
+**90d:** -19.7%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.90B
+**Market Cap:** $1747.99B
 Rank #1
 
 **Circulating Supply:** 19,965,887 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128916.4%
++128978.3%
 
 ---
 
@@ -83,6 +83,12 @@ Rank #1
 
 ---
 
+**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+
+12h ago
+
+---
+
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
 bitvoin
@@ -91,9 +97,9 @@ bitvoin
 
 ---
 
-**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-12h ago
+1h ago
 
 ---
 
@@ -101,13 +107,13 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-19h ago
+20h ago
 
 ---
 
-**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
+**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -123,12 +129,6 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
-**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
-
-2h ago
-
----
-
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
 16h ago
@@ -139,7 +139,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-14h ago
+15h ago
 
 ---
 
@@ -155,6 +155,14 @@ CoinDesk • 5h ago
 
 ---
 
+**[Bitcoin price news: BTC gives up early Monday gains, falling back below $88,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-slip-further-as-traders-brace-for-usd28-5b-deribit-expiry)**
+
+Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
+
+CoinDesk • 14h ago
+
+---
+
 **[Could Bitcoin Finally Break $100,000 This Christmas Week – Or Is A Drop To $70,000 Coming?](https://bitcoinmagazine.com/markets/bitcoin-price-outlook-bulls-target-94000-break-for-momentum-into-new-year)**
 
 After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
@@ -163,65 +171,55 @@ Bitcoin Magazine • 15h ago
 
 ---
 
-**[Bitcoin holding above $91K will be 'sigh of relief' for bulls](https://finance.yahoo.com/video/bitcoin-holding-above-91k-sigh-163000954.html)**
-
-Bitcoin (BTC-USD) is back above $90,000 per token on Monday morning as investors look back on a highly volatile year for the digital asset, which has seen a broad sell-off since hitting its record high above $126,000 in early October. Marketgauge.com chief strategist Michele Schneider examines the technicals of the cryptocurrency and the price range that crypto bulls would feel most comfortable with bitcoin closing 2025 out at. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
-
-Yahoo Finance • 18h ago
-
----
-
 **[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
-**[Michael Saylor's Strategy expands dollar reserve instead of Bitcoin](https://finance.yahoo.com/news/michael-saylors-strategy-expands-dollar-163854674.html)**
+**[Michael Saylor's MSTR raises additional cash through stock sales](https://www.coindesk.com/markets/2025/12/22/strategy-boosted-cash-reserve-by-usd748-million-last-week)**
 
-Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
+Led by Executive Chairman Michael Saylor, the company raised the funds entirely by sales of common stock.
 
-Yahoo Finance • 18h ago
+CoinDesk • 20h ago
 
 ---
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
-**[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
+**[Waiting for the Bitcoin Santa Rally This Christmas? Analysts Sound Alarm on Incoming Bears](https://finance.yahoo.com/news/waiting-bitcoin-santa-rally-christmas-100012630.html)**
 
-Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
+The long-anticipated Bitcoin “Santa rally” may be delayed until after the New Year. Billions of dollars in Bitcoin options expiring on Dec. 26 could amplify ...
 
-Seeking Alpha • 22h ago
-
----
-
-**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
-
-The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
-
-CoinDesk • 18h ago
+Yahoo Finance • 57m ago
 
 ---
 
-**[BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025](https://finance.yahoo.com/news/blackrock-names-spot-bitcoin-etf-080029020.html)**
+**[Miner capitulation is a contrarian signal, indicates renewed BTC price momentum, VanEck says](https://www.coindesk.com/markets/2025/12/23/miner-capitulation-is-a-contrarian-signal-indicates-renewed-bitcoin-momentum-vaneck-says)**
 
-BlackRock has placed its spot Bitcoin exchange-traded fund among its three biggest investment themes for 2025, ranking the product alongside Treasury bills and US mega-cap technology stocks. Key Takeaways: BlackRock named its spot Bitcoin ETF a top 2025 investment theme alongside Treasurys and big tech. IBIT attracted over $25 billion ...
+VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
 
-Yahoo Finance • 2h ago
+CoinDesk • 47m ago
 
 ---
 
-**[Bitcoin trails polar opposites, Gold and Copper, as the 'fear and AI' trade lifts tangible assets](https://www.coindesk.com/markets/2025/12/23/bitcoin-trails-polar-opposites-gold-and-copper-as-the-fear-and-ai-trade-lifts-tangible-assets)**
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcwNCS9Dns4LUBX1PeO84qZhtJP8qvG45Hlihp4H2JaYtU8SbmSTIvn&gaa_ts=694a7904&gaa_sig=LfFag0mnKFLMag8OJFjmu-5e27-ZdGh-VutnKcBtWGlif33KA5AJaYV962hZiQotlIogQ8FLBj5MbKbwnVbOBw%3D%3D)**
 
-Gold and copper have outperformed other major assets this year, with gold rallying more than copper.
+Barron's • 20h ago
 
-CoinDesk • 2h ago
+---
+
+**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
+
+Pubkey wants to “soften” Bitcoin’s rough public image in DC.
+
+The Verge • 15h ago
 
 ---
 
@@ -263,7 +261,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 1d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 2d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -271,7 +269,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 14h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 15h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -291,7 +289,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 120 • ⏱️ 11:35 • 10h ago
+👁️ 17K • 👍 2K • 💬 120 • ⏱️ 11:35 • 11h ago
 
 ---
 
@@ -361,7 +359,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 305 • ⏱️ 1:04:41 • 18h ago
+👁️ 19K • 👍 1K • 💬 305 • ⏱️ 1:04:41 • 19h ago
 
 ---
 
