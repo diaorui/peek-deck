@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T22:30:19.899103+00:00'
+updated: '2025-12-23T22:46:46.792423+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 22:30 UTC  
+**Last Updated:** December 23, 2025 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +1.3%  
-**30d:** -1.2%  
-**90d:** -19.7%  
-**1y:** -11.4%  
+**24h:** -0.7%  
+**7d:** +1.6%  
+**30d:** -0.9%  
+**90d:** -19.5%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.77B
+**Market Cap:** $1747.56B
 Rank #1
 
 **Circulating Supply:** 19,966,140 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+129195.1%
++128970.9%
 
 ---
 
@@ -77,19 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Gold and copper are screaming in 2025… and Bitcoin is kinda getting ghosted. That feels important.](https://www.reddit.com/r/Bitcoin/comments/1ptqesf/gold_and_copper_are_screaming_in_2025_and_bitcoin/)**
-
-2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
-
-12h ago
-
----
-
 **[fidelity predicted $1B bitcoin by 2038.](https://www.reddit.com/r/Bitcoin/comments/1ptront/fidelity_predicted_1b_bitcoin_by_2038/)**
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +95,15 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-14h ago
+15h ago
+
+---
+
+**[Gold and copper are screaming in 2025… and Bitcoin is kinda getting ghosted. That feels important.](https://www.reddit.com/r/Bitcoin/comments/1ptqesf/gold_and_copper_are_screaming_in_2025_and_bitcoin/)**
+
+2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
+
+12h ago
 
 ---
 
@@ -115,14 +115,6 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 ---
 
-**[DCA for the win](https://www.reddit.com/r/Bitcoin/comments/1ptt50f/dca_for_the_win/)**
-
-Entry points of your average DCA. “Zoom out” comments incoming.
-
-9h ago
-
----
-
 **[Is never too late to Accumulate Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptwisd/is_never_too_late_to_accumulate_bitcoin/)**
 
 This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
@@ -131,9 +123,19 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 ---
 
-**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
+**[DCA for the win](https://www.reddit.com/r/Bitcoin/comments/1ptt50f/dca_for_the_win/)**
+
+Entry points of your average DCA. “Zoom out” comments incoming.
 
 9h ago
+
+---
+
+**[The American Dream: One House and 0.21 Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptzcx3/the_american_dream_one_house_and_021_bitcoin/)**
+
+Renting your primary residence is not the American Dream and Bitcoin being better than fiat doesn't change that. https://www.youtube.com/watch?v=5LZYYCgaA0E
+
+5h ago
 
 ---
 
@@ -143,11 +145,9 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 ---
 
-**[The American Dream: One House and 0.21 Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptzcx3/the_american_dream_one_house_and_021_bitcoin/)**
+**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-Renting your primary residence is not the American Dream and Bitcoin being better than fiat doesn't change that. https://www.youtube.com/watch?v=5LZYYCgaA0E
-
-5h ago
+9h ago
 
 ---
 
@@ -179,19 +179,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
+**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
 
-Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
+The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-VanEck • 1d ago
-
----
-
-**[The Best Performing Bitcoin and Crypto Stocks of 2025](https://finance.yahoo.com/news/best-performing-bitcoin-crypto-stocks-210103627.html)**
-
-Crypto-linked stocks had a banner start to 2025, then spent the rest of the year learning that narrative alone doesn’t compound.
-
-Yahoo Finance • 1h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -217,19 +209,27 @@ Investor's Business Daily • 11h ago
 
 ---
 
-**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
 
-CoinDesk • 6h ago
+VanEck • 1d ago
 
 ---
 
-**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
+**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
 
-Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
+Waltham and Gloucester have banned the machines
 
-Yahoo Finance • 8h ago
+WCVB • 20h ago
+
+---
+
+**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
+
+Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
+
+Inquirer.com • 3h ago
 
 ---
 
@@ -307,17 +307,17 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 14K • 👍 231 • 💬 150 • ⏱️ 5:23 • 8h ago
+👁️ 17K • 👍 249 • 💬 133 • ⏱️ 5:23 • 8h ago
 
 ---
 
-**[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
+**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
 
-Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation. In this ...
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
 
-📺 Simply Bitcoin
+📺 Mark Moss
 
-👁️ 26K • 👍 2K • 💬 216 • ⏱️ 11:35 • 22h ago
+👁️ 19K • 👍 1K • 💬 157 • ⏱️ 20:46 • 4h ago
 
 ---
 
@@ -327,47 +327,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 942 • 💬 151 • ⏱️ 42:55 • 6h ago
+👁️ 17K • 👍 1K • 💬 154 • ⏱️ 42:55 • 7h ago
 
 ---
 
-**[If You Think Bitcoin’s Volatility Is Bad, You Couldn’t Be More Wrong](https://www.youtube.com/watch?v=Z_vlwus19-8)**
+**[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
 
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 8K • 👍 791 • 💬 114 • ⏱️ 20:46 • 4h ago
-
----
-
-**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
-
-Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
+Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 207 • ⏱️ 15:15 • 1d ago
-
----
-
-**[BITCOIN HOLDERS... THIS $23B MOVE HAPPENS IN 3 DAYS](https://www.youtube.com/watch?v=G39n83gzneM)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 13K • 👍 652 • 💬 78 • ⏱️ 10:08 • 13h ago
-
----
-
-**[WARNING: BITCOIN WORST NIGHTMARE](https://www.youtube.com/watch?v=nvXVmzgTnCU)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
-
-📺 Crypto Crew University
-
-👁️ 18K • 👍 1K • 💬 84 • ⏱️ 4:03 • 8h ago
+👁️ 27K • 👍 2K • 💬 209 • ⏱️ 11:35 • 22h ago
 
 ---
 
@@ -377,17 +347,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 502 • 👍 19 • 💬 40 • ⏱️ 17:16 • 6h ago
-
----
-
-**[Cathie Wood&#39;s New Bitcoin Price Prediction is INSANE](https://www.youtube.com/watch?v=YEFQI8qwrt0)**
-
-Kathy Wood walks through the numbers behind one of the most controversial Bitcoin forecasts on Wall Street. While her official ...
-
-📺 The Bitcoin Revolution
-
-👁️ 6K • 👍 118 • 💬 42 • ⏱️ 11:47 • 1d ago
+👁️ 976 • 👍 38 • 💬 22 • ⏱️ 17:16 • 6h ago
 
 ---
 
@@ -397,7 +357,47 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 214 • ⏱️ 10:16 • 22h ago
+👁️ 47K • 👍 3K • 💬 225 • ⏱️ 10:16 • 23h ago
+
+---
+
+**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
+
+Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 206 • ⏱️ 15:15 • 1d ago
+
+---
+
+**[BITCOIN HOLDERS... THIS $23B MOVE HAPPENS IN 3 DAYS](https://www.youtube.com/watch?v=G39n83gzneM)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 14K • 👍 659 • 💬 57 • ⏱️ 10:08 • 14h ago
+
+---
+
+**[My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED)](https://www.youtube.com/watch?v=e1ozMqOYANY)**
+
+My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 39K • 👍 2K • 💬 186 • ⏱️ 16:18 • 2d ago
+
+---
+
+**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
+
+CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
+
+📺 CNBC Television
+
+👁️ 5K • 👍 84 • 💬 68 • ⏱️ 3:19 • 1d ago
 
 ---
 

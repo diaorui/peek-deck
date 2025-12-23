@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T22:30:19.908455+00:00'
+updated: '2025-12-23T22:46:46.801663+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 22:30 UTC  
+**Last Updated:** December 23, 2025 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,21 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-11h ago
+12h ago
+
+---
+
+**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
+
+1h ago
+
+---
+
+**[Sunday Robotics Memo: "Pick Up Anything" test](https://www.reddit.com/r/robotics/comments/1ptkti2/sunday_robotics_memo_pick_up_anything_test/)**
+
+From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
+
+18h ago
 
 ---
 
@@ -56,17 +70,11 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 ---
 
-**[Sunday Robotics Memo: "Pick Up Anything" test](https://www.reddit.com/r/robotics/comments/1ptkti2/sunday_robotics_memo_pick_up_anything_test/)**
+**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
 
-From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
+The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-17h ago
-
----
-
-**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
-
-1h ago
+42m ago
 
 ---
 
@@ -80,7 +88,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -92,21 +100,37 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
 
-3h ago
-
----
-
-**[GITAI's rovers and robotic arms deploy solar panels and weld in a construction field test](https://www.reddit.com/r/robotics/comments/1pswpjv/gitais_rovers_and_robotic_arms_deploy_solar/)**
-
-Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
-
-1d ago
+4h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
+
+China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
+
+South China Morning Post • 2d ago
+
+---
+
+**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
+
+In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
+
+Stock Titan • 1d ago
+
+---
+
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+
+The Verge • 2d ago
+
+---
 
 **["Stingraybot" uses microbubble muscles controlled by ultrasound](https://newatlas.com/robotics/stingraybot-microbubble-muscles-ultrasound/)**
 
@@ -124,11 +148,11 @@ hyundai.com • 1d ago
 
 ---
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
 
-Interesting Engineering • 3d ago
+Good Morning Wilton • 1d ago
 
 ---
 
@@ -140,11 +164,11 @@ CnEVPost • 19h ago
 
 ---
 
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
 
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
 
-Good Morning Wilton • 1d ago
+LancasterOnline • 7h ago
 
 ---
 
@@ -156,35 +180,11 @@ Futura, Le média qui explore le monde • 10h ago
 
 ---
 
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
-
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 2h ago
-
----
-
 **[Top 5 Viral Humanoid Moments That Made 2025 The Year Of Robotics](https://seekingalpha.com/article/4855343-top-5-viral-humanoid-moments-made-2025-year-of-robotics)**
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
 Seeking Alpha • 11h ago
-
----
-
-**[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
-
-The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
-
-The Robot Report • 2h ago
-
----
-
-**[Underwater robotics firm keeps its place on Nasdaq after equity review](https://www.stocktitan.net/news/KITT/nauticus-robotics-tm-regains-compliance-with-nasdaq-listing-kx9h4z3rwfoa.html)**
-
-Nasdaq confirms Nauticus met the equity rule on Dec. 19, 2025 and must stay compliant through Apr. 14, 2026 under panel monitoring to Dec. 19, 2026.
-
-Stock Titan • 10h ago
 
 ---
 
@@ -198,37 +198,17 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 42K • 👍 785 • 💬 80 • ⏱️ 2:08:46 • 3d ago
+👁️ 43K • 👍 791 • 💬 80 • ⏱️ 2:08:46 • 3d ago
 
 ---
 
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
 
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
 
-📺 CNET
+📺 Its Nenaa
 
-👁️ 35K • 👍 596 • 💬 145 • ⏱️ 5:25 • 2d ago
-
----
-
-**[InMoov Robotic Hand 🦾🤖 #3dprinting #lego #arduino #stem #robot](https://www.youtube.com/watch?v=Y9TXBEBjrSo)**
-
-This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full builds & learning on my YouTube channel!
-
-📺 Roll No 36
-
-👁️ 1K • 👍 29 • 💬 4 • ⏱️ 0:31 • 8h ago
-
----
-
-**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
-
-Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
-
-📺 Mike Israetel
-
-👁️ 3K • 👍 201 • 💬 57 • ⏱️ 49:59 • 1d ago
+👁️ 23K • 👍 771 • 💬 210 • ⏱️ 11:02 • 23h ago
 
 ---
 
@@ -242,33 +222,33 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 36K • 👍 599 • 💬 147 • ⏱️ 5:25 • 2d ago
+
+---
+
+**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
+
+Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
+
+📺 Mike Israetel
+
+👁️ 3K • 👍 221 • 💬 64 • ⏱️ 49:59 • 1d ago
+
+---
+
 **[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=eFeyyTAyxMI)**
 
 ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
 
 📺 Ai BOOF
 
-👁️ 10K • 👍 175 • 💬 4 • ⏱️ 0:11 • 13h ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=8PfHGA1Rjt8)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 2K • 👍 33 • ⏱️ 0:11 • 6h ago
-
----
-
-**[The dog helped the robot.](https://www.youtube.com/watch?v=G3VyCWmPjkA)**
-
-The dog helped the robot.#shorts #usa #usashorts #usavideo #englishstory #viralshorts #animation #english #cartoon ...
-
-📺 Coke Explain 
-
-👁️ 133K • 💬 7 • ⏱️ 0:47 • 5d ago
+👁️ 13K • 👍 203 • 💬 4 • ⏱️ 0:11 • 13h ago
 
 ---
 
@@ -278,17 +258,37 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 35K • 💬 4 • ⏱️ 0:26 • 20h ago
+👁️ 36K • 💬 4 • ⏱️ 0:26 • 20h ago
 
 ---
 
-**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
 
-Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
 
-📺 LimX Dynamics
+📺 SocksReact
 
-👁️ 1.1M • 👍 11K • 💬 649 • ⏱️ 2:43 • 5d ago
+👁️ 564K • 👍 10K • 💬 1K • ⏱️ 18:35 • 3d ago
+
+---
+
+**[InMoov Robotic Hand 🦾🤖 #3dprinting #lego #arduino #stem #robot](https://www.youtube.com/watch?v=Y9TXBEBjrSo)**
+
+This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full builds & learning on my YouTube channel!
+
+📺 Roll No 36
+
+👁️ 1K • 👍 27 • 💬 4 • ⏱️ 0:31 • 8h ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 164K • 👍 9K • 💬 598 • ⏱️ 13:43 • 5d ago
 
 ---
 
