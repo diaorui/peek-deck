@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T16:32:15.654068+00:00'
+updated: '2025-12-23T16:55:06.222941+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 16:32 UTC  
+**Last Updated:** December 23, 2025 at 16:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +2.0%  
-**30d:** -0.6%  
-**90d:** -19.2%  
-**1y:** -10.8%  
+**24h:** -1.6%  
+**7d:** +2.1%  
+**30d:** -0.5%  
+**90d:** -19.1%  
+**1y:** -10.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,13 +95,13 @@ Rank #1
 
 Like the question asks
 
-4h ago
+5h ago
 
 ---
 
 **[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -131,13 +131,13 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-3h ago
+4h ago
 
 ---
 
 **[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -145,7 +145,7 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
 
-54m ago
+1h ago
 
 ---
 
@@ -157,7 +157,7 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 Metals and other hard assets continue their surge to new records as the greenback stumbles, but crypto has not responded.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 18h ago
 
 Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -195,7 +195,7 @@ Investor's Business Daily • 5h ago
 
 Samson Mow argues that Bitcoin has already reached its cyclical bottom and rejects bearish forecasts. Mow sparked debate after claiming he fired an analyst for ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 4h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 23h ago
+Al Jazeera • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 6K • 👍 539 • 💬 69 • ⏱️ 42:55 • 54m ago
+👁️ 6K • 👍 539 • 💬 69 • ⏱️ 42:55 • 1h ago
 
 ---
 
@@ -373,7 +373,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 3K • 💬 168 • ⏱️ 10:16 • 16h ago
+👁️ 40K • 👍 3K • 💬 168 • ⏱️ 10:16 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 586 • 💬 53 • ⏱️ 10:08 • 7h ago
+👁️ 10K • 👍 586 • 💬 53 • ⏱️ 10:08 • 8h ago
 
 ---
 

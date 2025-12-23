@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T16:32:15.659396+00:00'
+updated: '2025-12-23T16:55:06.229898+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 16:32 UTC  
+**Last Updated:** December 23, 2025 at 16:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +4.4%  
-**30d:** +0.1%  
-**90d:** -23.3%  
-**1y:** -15.4%  
+**24h:** -2.2%  
+**7d:** +4.6%  
+**30d:** +0.3%  
+**90d:** -23.1%  
+**1y:** -15.2%  
 
 ---
 
@@ -182,7 +182,7 @@ Barron's • 4h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ TradingView — Track All Markets • 13h ago
 
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-TipRanks • 41m ago
+TipRanks • 1h ago
 
 ---
 
@@ -254,7 +254,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 10 • ⏱️ 8:07 • 13h ago
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 8:07 • 14h ago
 
 ---
 
@@ -314,7 +314,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 21h ago
+👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 22h ago
 
 ---
 
