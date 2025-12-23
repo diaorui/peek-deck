@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T11:41:16.910633+00:00'
+updated: '2025-12-23T11:52:02.770294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 11:41 UTC  
+**Last Updated:** December 23, 2025 at 11:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.9%  
+**24h:** -2.7%  
+**7d:** +1.8%  
 **30d:** -0.7%  
 **90d:** -19.3%  
-**1y:** -10.9%  
+**1y:** -11.0%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-20h ago
+21h ago
 
 ---
 
@@ -131,7 +131,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -139,7 +139,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-15h ago
+16h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 21h ago
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -181,7 +181,7 @@ Investor's Business Daily • 14h ago
 
 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
 
-PR Newswire • 41m ago
+PR Newswire • 52m ago
 
 ---
 
@@ -211,7 +211,7 @@ The Motley Fool • 1d ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 15h ago
+The Verge • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 160 • ⏱️ 10:16 • 11h ago
+👁️ 33K • 👍 2K • 💬 160 • ⏱️ 10:16 • 12h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 302 • ⏱️ 1:04:41 • 19h ago
+👁️ 19K • 👍 1K • 💬 302 • ⏱️ 1:04:41 • 20h ago
 
 ---
 
