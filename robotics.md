@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T20:55:52.355970+00:00'
+updated: '2025-12-23T21:22:09.629601+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 20:55 UTC  
+**Last Updated:** December 23, 2025 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-10h ago
+11h ago
 
 ---
 
@@ -78,6 +78,18 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ---
 
+**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
+
+23m ago
+
+---
+
+**[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
+
+23m ago
+
+---
+
 **[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
 
 2h ago
@@ -89,22 +101,6 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
 1d ago
-
----
-
-**[UBTECH ASTROBOT KITS](https://www.reddit.com/r/robotics/comments/1pttjve/ubtech_astrobot_kits/)**
-
-been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
-
-7h ago
-
----
-
-**[Bringing robotics product to market: custom quadruped or off-the-shelf?](https://www.reddit.com/r/robotics/comments/1pu2lao/bringing_robotics_product_to_market_custom/)**
-
-Hello. I'm considering creating a robotics product for a certain trade. I'm currently side hustling as a representative of the trade, and I also have AI & robotics background (as a student). Anyway. I have an design in mind that requires equipping a quadruped with a tool on it's back. I have a design decision - either buy an expensive (for this, everything is expensive) quadruped, where even the cheapest Unitree Go2 is $1600+shipping OR design a custom one. I can design a quadruped myself, no big deal, but what scares me is the software part of it. While I intend to fully teleoperate the robot, something as simple as walking... I don't know if I can adapt it to a rough terrain. Of course, general VLA policies already exist, which can be used for just walking, but still, I'm scared of the software/AI part with walking. How can you teleoperate a quadruped to walk? On a rough terrain? is there any model that allows this? Anyway, designing my own quadruped might boost margins of this business, as the off-the-shelf quadruped costs $1600, and making a custom one with simpler actuators can be around $800. Or is it stupid? For the reference, the average employee of this trade costs the business on average $3-4k monthly in the US. The robot will be retailed for initial price + subscription. So we don't have high margins here.
-
-1h ago
 
 ---
 
@@ -136,6 +132,14 @@ The Verge • 2d ago
 
 ---
 
+**["Stingraybot" uses microbubble muscles controlled by ultrasound](https://newatlas.com/robotics/stingraybot-microbubble-muscles-ultrasound/)**
+
+While it might sound like a weapon of oceanic destruction in the hands of Aquaman’s arch enemies, the new “stingraybot” from a team at ETH Zurich (the Federal Institute of Technology of Switzerland) offers enormous promise for surgery, medical care, wildlife biology, robotics, and more, thanks to…
+
+New Atlas • 1h ago
+
+---
+
 **[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
@@ -148,7 +152,7 @@ hyundai.com • 1d ago
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 17h ago
+CnEVPost • 18h ago
 
 ---
 
@@ -157,14 +161,6 @@ CnEVPost • 17h ago
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
 Futura, Le média qui explore le monde • 8h ago
-
----
-
-**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
-
-Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
-
-Sifted • 1d ago
 
 ---
 
@@ -180,7 +176,7 @@ Seeking Alpha • 9h ago
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
-The Daily Beast • 17h ago
+The Daily Beast • 1h ago
 
 ---
 
@@ -188,7 +184,7 @@ The Daily Beast • 17h ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 54m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -222,7 +218,7 @@ This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full bu
 
 📺 Roll No 36
 
-👁️ 1K • 👍 29 • 💬 4 • ⏱️ 0:31 • 6h ago
+👁️ 1K • 👍 29 • 💬 4 • ⏱️ 0:31 • 7h ago
 
 ---
 
@@ -252,7 +248,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 10K • 👍 175 • 💬 4 • ⏱️ 0:11 • 11h ago
+👁️ 10K • 👍 175 • 💬 4 • ⏱️ 0:11 • 12h ago
 
 ---
 
@@ -272,7 +268,7 @@ The dog helped the robot.#shorts #usa #usashorts #usavideo #englishstory #virals
 
 📺 Coke Explain 
 
-👁️ 133K • 💬 7 • ⏱️ 0:47 • 4d ago
+👁️ 133K • 💬 7 • ⏱️ 0:47 • 5d ago
 
 ---
 

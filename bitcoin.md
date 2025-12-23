@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T20:55:52.346647+00:00'
+updated: '2025-12-23T21:22:09.620115+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 20:55 UTC  
+**Last Updated:** December 23, 2025 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.0%  
-**30d:** -0.6%  
-**90d:** -19.2%  
-**1y:** -10.8%  
+**24h:** -1.2%  
+**7d:** +1.8%  
+**30d:** -0.8%  
+**90d:** -19.4%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.70B
+**Market Cap:** $1747.43B
 Rank #1
 
-**Circulating Supply:** 19,966,109 BTC
+**Circulating Supply:** 19,966,118 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.4%
 
 **All-Time Low:** $67.81
-+129765.8%
++129258.5%
 
 ---
 
@@ -89,7 +89,7 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
-6h ago
+7h ago
 
 ---
 
@@ -149,7 +149,7 @@ Like the question asks
 
 This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 2h ago
+The Guardian • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 2h ago
 
 VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 28m ago
+CoinDesk • 55m ago
 
 ---
 
@@ -189,27 +189,11 @@ VanEck • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
-
-Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
-
-Yahoo Finance • 6h ago
-
----
-
-**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
-
-Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
-
-Bitcoin Magazine • 3h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -217,7 +201,7 @@ Bitcoin Magazine • 3h ago
 
 The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -231,7 +215,23 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
+
+---
+
+**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
+
+Waltham and Gloucester have banned the machines
+
+WCVB • 18h ago
+
+---
+
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+
+Al Jazeera • 1d ago
 
 ---
 
@@ -257,7 +257,7 @@ How much of a resource hog is AI?
 
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
-⬆️ 1 • 💬 0 • 5d ago • [zetacrush.com](https://zetacrush.com)
+⬆️ 1 • 💬 0 • 6d ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -295,7 +295,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 13h ago
+⬆️ 1 • 💬 0 • 14h ago
 
 ---
 
@@ -309,7 +309,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 14K • 👍 231 • 💬 150 • ⏱️ 5:23 • 6h ago
+👁️ 14K • 👍 231 • 💬 150 • ⏱️ 5:23 • 7h ago
 
 ---
 
@@ -319,7 +319,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 216 • ⏱️ 11:35 • 20h ago
+👁️ 26K • 👍 2K • 💬 216 • ⏱️ 11:35 • 21h ago
 
 ---
 
@@ -339,7 +339,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 8K • 👍 791 • 💬 114 • ⏱️ 20:46 • 2h ago
+👁️ 8K • 👍 791 • 💬 114 • ⏱️ 20:46 • 3h ago
 
 ---
 
@@ -369,7 +369,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 18K • 👍 1K • 💬 84 • ⏱️ 4:03 • 6h ago
+👁️ 18K • 👍 1K • 💬 84 • ⏱️ 4:03 • 7h ago
 
 ---
 

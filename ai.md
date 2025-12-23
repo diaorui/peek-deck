@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T20:55:52.338056+00:00'
+updated: '2025-12-23T21:22:09.611559+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- news
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 20:55 UTC  
+**Last Updated:** December 23, 2025 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -51,6 +51,14 @@ Uh oh…
 
 ---
 
+**[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
+
+AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
+
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 12h ago
+
+---
+
 **[Displace Wireless Pro 2 TVs will feature local AI to enhance privacy](https://www.reddit.com/r/artificial/comments/1ptx654/displace_wireless_pro_2_tvs_will_feature_local_ai/)**
 
 The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
@@ -59,19 +67,11 @@ The next generation of the truly wireless TV boasts on-device AI. Displace TV wi
 
 ---
 
-**[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
-
-AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
-
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 11h ago
-
----
-
 **[Intel NPU firmware published for Panther Lake - completing the Linux driver support](https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/)**
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 3h ago
 
 ---
 
@@ -83,19 +83,11 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 ---
 
-**[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
+**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
 
-There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
+Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-10h ago
-
----
-
-**[Asia markets edge higher on AI-led global rally](https://www.reddit.com/r/artificial/comments/1ptwpz5/asia_markets_edge_higher_on_ailed_global_rally/)**
-
-Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
-
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 5h ago
+1m ago
 
 ---
 
@@ -107,11 +99,19 @@ OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment
 
 ---
 
-**[Anyone explored how Glance AI approaches AI Twin?](https://www.reddit.com/r/artificial/comments/1ptyznr/anyone_explored_how_glance_ai_approaches_ai_twin/)**
+**[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
 
-Recently I heard a bit about Glance AI while reading about AI shopping, and it got me curious about the AI Twin concept. From what I understand AI Twin is about creating a digital version of a user to personalize recommendations and experiences. Not sure how deeply Glance AI is using this idea specially for shopping or fashion use cases. Would be interesting to hear thoughts from anyone who’s looked into this.
+There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-3h ago
+11h ago
+
+---
+
+**[Asia markets edge higher on AI-led global rally](https://www.reddit.com/r/artificial/comments/1ptwpz5/asia_markets_edge_higher_on_ailed_global_rally/)**
+
+Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
+
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 5h ago
 
 ---
 
@@ -119,19 +119,11 @@ Recently I heard a bit about Glance AI while reading about AI shopping, and it g
 
 ## Google News: "ai"
 
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
-
-A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
-
-ABC News • 1d ago
-
----
-
 **[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 3h ago
+blog.google • 4h ago
 
 ---
 
@@ -139,21 +131,7 @@ blog.google • 3h ago
 
 The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
 
-Financial Times • 15h ago
-
----
-
-**[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
-
-The New York Times • 8h ago
-
----
-
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
-
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
-
-The Guardian • 3h ago
+Financial Times • 16h ago
 
 ---
 
@@ -165,17 +143,31 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Amazon Intros AI Integrations For Alexa With Square, Expedia, Yelp and Angi](https://www.pymnts.com/amazon/2025/amazon-intros-ai-integrations-for-alexa-with-square-expedia-yelp-and-angi/)**
+**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
 
-Expedia, Yelp, Angi, and Square are building agentic artificial intelligence (AI) capabilities for Amazon’s Alexa+. The new integrations are set to debut
+The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-PYMNTS.com • 34m ago
+The Guardian • 4h ago
+
+---
+
+**[Romantasy Fatigue, Even More Special Editions and AI: Bookish Trends For 2026](https://people.com/bookish-trends-for-2026-11875511)**
+
+According to this year's second-annual Everand State of Reading Report, bookish trends for 2026 might include a cooling of the viral romantasy genre, the rise of AI and digital storytelling, and the continued popularity of special editions.
+
+People.com • 1h ago
+
+---
+
+**[The A In AI Is For Anxiety, And There’s Nothing Artificial About It](https://www.forbes.com/sites/annkirschner/2025/12/23/the-a-in-ai-is-for-anxiety-and-theres-nothing-artificial-about-it/)**
+
+Forbes • 18m ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -187,11 +179,17 @@ CNBC • 1d ago
 
 ---
 
-**[Instacart Ends Controversial AI-Driven Pricing Program](https://www.today.com/video/instacart-ends-controversial-ai-driven-pricing-program-254906437989)**
+**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqeyLw_iShXO7nxv4AByRZLcT1sB8cIZST1-Fb5ilalMMuwx-5Ua_KCs&gaa_ts=694b0b6b&gaa_sig=BlfeiUs3Mz_JraoZcUiOULi6SRmD7ASB3PlGyPsRL9t7tRvIASo0GyTGKnNcFBh1DGMJ4OY53ggCYfxT-3NgSA%3D%3D)**
 
-Instacart says it’s ending a controversial dynamic pricing program that faced criticism for charging shoppers different prices for the same items at the same store. Some customers were paying up to seven percent more.
+The Wall Street Journal • 10h ago
 
-TODAY.com • 6h ago
+---
+
+**[AI app apologises over false crime alerts across US](https://www.bbc.com/news/videos/c4g4v3yd28yo)**
+
+An AI-powered app called CrimeRadar has apologised for the distress caused by false crime alerts issued to local US communities after a BBC Verify investigation.
+
+BBC • 9h ago
 
 ---
 
@@ -203,7 +201,7 @@ TODAY.com • 6h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 760 • 💬 458 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 765 • 💬 458 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 273 • 💬 176 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 274 • 💬 178 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -225,7 +223,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 184 • 💬 399 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 184 • 💬 400 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -242,7 +240,7 @@ friction.
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 173 • 💬 197 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 174 • 💬 197 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -250,7 +248,7 @@ friction.
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 142 • 💬 109 • 14h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 162 • 💬 123 • 14h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -276,11 +274,11 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 ---
 
-**[MIRA – An open-source persistent AI entity with memory](https://news.ycombinator.com/item?id=46339537)**
+**[Local AI is driving the biggest change in laptops in decades](https://news.ycombinator.com/item?id=46360856)**
 
-This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
+The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 129 • 💬 53 • 3d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+⬆️ 133 • 💬 123 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -304,7 +302,7 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 147K • 👍 9K • 💬 2K • ⏱️ 21:43 • 18h ago
+👁️ 147K • 👍 9K • 💬 2K • ⏱️ 21:43 • 19h ago
 
 ---
 
@@ -324,7 +322,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 13K • 👍 368 • 💬 50 • ⏱️ 18:48 • 22h ago
+👁️ 13K • 👍 368 • 💬 50 • ⏱️ 18:48 • 23h ago
 
 ---
 
@@ -412,7 +410,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,346 • 15d ago
+⬇️ 373,123 • ❤️ 3,347 • 15d ago
 
 ---
 
@@ -436,7 +434,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 431 • 11h ago
+⬇️ 1,148 • ❤️ 433 • 11h ago
 
 ---
 
@@ -472,7 +470,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 373 • 11h ago
+⬇️ 0 • ❤️ 374 • 12h ago
 
 ---
 
@@ -506,7 +504,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 8,076 • ❤️ 252 • 6h ago
+⬇️ 8,076 • ❤️ 253 • 6h ago
 
 ---
 
@@ -684,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 185 • 3h ago
+⭐ 2.5k • 🔱 185 • 4h ago
 
 ---
 
