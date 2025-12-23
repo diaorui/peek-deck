@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T20:25:08.800462+00:00'
+updated: '2025-12-23T20:44:31.903542+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 20:25 UTC  
+**Last Updated:** December 23, 2025 at 20:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 21h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 22h ago
+
+---
+
+**[Displace Wireless Pro 2 TVs will feature local AI to enhance privacy](https://www.reddit.com/r/artificial/comments/1ptx654/displace_wireless_pro_2_tvs_will_feature_local_ai/)**
+
+The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
+
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 4h ago
 
 ---
 
@@ -64,14 +72,6 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
 🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 2h ago
-
----
-
-**[Displace Wireless Pro 2 TVs will feature local AI to enhance privacy](https://www.reddit.com/r/artificial/comments/1ptx654/displace_wireless_pro_2_tvs_will_feature_local_ai/)**
-
-The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
-
-🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 4h ago
 
 ---
 
@@ -95,7 +95,15 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 4h ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 5h ago
+
+---
+
+**[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1ptvuif/its_been_a_big_week_for_ai_here_are_10_massive/)**
+
+OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+5h ago
 
 ---
 
@@ -104,14 +112,6 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 Recently I heard a bit about Glance AI while reading about AI shopping, and it got me curious about the AI Twin concept. From what I understand AI Twin is about creating a digital version of a user to personalize recommendations and experiences. Not sure how deeply Glance AI is using this idea specially for shopping or fashion use cases. Would be interesting to hear thoughts from anyone who’s looked into this.
 
 3h ago
-
----
-
-**[LLVM considering an AI tool policy, AI bot for fixing build system breakage proposed](https://www.reddit.com/r/artificial/comments/1ptwu05/llvm_considering_an_ai_tool_policy_ai_bot_for/)**
-
-Last week a request for comments (RFC) was issued around establishing an LLVM AI Tool Use Policy
-
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 4h ago
 
 ---
 
@@ -132,34 +132,6 @@ ABC News • 1d ago
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
 blog.google • 3h ago
-
----
-
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
-
-The Washington Post • 2h ago
-
----
-
-**[Follow the money: AI, wealth and private-markets plumbing](https://www.axios.com/pro/all-deals/2025/12/23/ai-wealth-private-markets-plumbing)**
-
-Axios • 1h ago
-
----
-
-**[Video: Opinion | A.I.’s ‘Circular Money Machine’](https://www.nytimes.com/video/opinion/100000010591211/ais-circular-money-machine.html)**
-
-Nvidia, OpenAI and other major artificial intelligence companies all invest in one another. This carries some risks, as Bloomberg’s Joe Weisenthal explains on “The Ezra Klein Show.”
-
-The New York Times • 1h ago
-
----
-
-**[AI Gets the Blame for 55,000 Layoffs in 2025](https://gizmodo.com/ai-gets-the-blame-for-55000-layoffs-in-2025-2000703011)**
-
-In 2025, if you wanted to do layoffs, AI was a great option for pinning the blame.
-
-Gizmodo • 1h ago
 
 ---
 
@@ -185,11 +157,41 @@ The Guardian • 3h ago
 
 ---
 
+**[2026 will be 'fast' investment environment for AI: VC outlook](https://finance.yahoo.com/video/2026-fast-investment-environment-ai-193008060.html)**
+
+Wall Street experts are anticipating a "robust" year for the IPO market in 2026, with added bullishness when AI companies are thrown into the mix. Kyle Stanford, the PitchBook Director of Research, US Venture, speaks with Ines Ferré on Market Catalysts about IPO and venture capital forecasts for the coming year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Amazon Intros AI Integrations For Alexa With Square, Expedia, Yelp and Angi](https://www.pymnts.com/amazon/2025/amazon-intros-ai-integrations-for-alexa-with-square-expedia-yelp-and-angi/)**
+
+Expedia, Yelp, Angi, and Square are building agentic artificial intelligence (AI) capabilities for Amazon’s Alexa+. The new integrations are set to debut
+
+PYMNTS.com • 23m ago
+
+---
+
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+
+The Washington Post • 2h ago
+
+---
+
 **[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
 
 A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
 
 CNBC • 1d ago
+
+---
+
+**[Instacart Ends Controversial AI-Driven Pricing Program](https://www.today.com/video/instacart-ends-controversial-ai-driven-pricing-program-254906437989)**
+
+Instacart says it’s ending a controversial dynamic pricing program that faced criticism for charging shoppers different prices for the same items at the same store. Some customers were paying up to seven percent more.
+
+TODAY.com • 6h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNBC • 1d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 759 • 💬 458 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 760 • 💬 458 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -215,7 +217,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 242 • 💬 191 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 242 • 💬 192 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -240,7 +242,15 @@ friction.
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 171 • 💬 196 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 173 • 💬 197 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+
+---
+
+**[iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://news.ycombinator.com/item?id=46362927)**
+
+The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
+
+⬆️ 142 • 💬 109 • 14h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -266,14 +276,6 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 ---
 
-**[iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://news.ycombinator.com/item?id=46362927)**
-
-The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
-
-⬆️ 136 • 💬 107 • 14h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
-
----
-
 **[MIRA – An open-source persistent AI entity with memory](https://news.ycombinator.com/item?id=46339537)**
 
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
@@ -286,13 +288,13 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 ## YouTube Videos: "ai"
 
-**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
+**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
 
-Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
+To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
 
-📺 Greg Isenberg
+📺 How Money Works
 
-👁️ 12K • 👍 343 • 💬 48 • ⏱️ 18:48 • 22h ago
+👁️ 208K • 👍 9K • 💬 2K • ⏱️ 19:40 • 6h ago
 
 ---
 
@@ -302,7 +304,27 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 130K • 👍 8K • 💬 2K • ⏱️ 21:43 • 18h ago
+👁️ 147K • 👍 9K • 💬 2K • ⏱️ 21:43 • 18h ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 10K • 👍 1K • 💬 138 • ⏱️ 33:27 • 3h ago
+
+---
+
+**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
+
+Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
+
+📺 Greg Isenberg
+
+👁️ 13K • 👍 368 • 💬 50 • ⏱️ 18:48 • 22h ago
 
 ---
 
@@ -312,7 +334,7 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 29K • 👍 355 • 💬 244 • ⏱️ 4:26 • 1d ago
+👁️ 29K • 👍 356 • 💬 246 • ⏱️ 4:26 • 1d ago
 
 ---
 
@@ -322,27 +344,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 26K • 💬 52 • ⏱️ 44:39 • 1d ago
-
----
-
-**[If AI Takes Over, It Takes Our Jobs... BUT If AI fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
-
-To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
-
-📺 How Money Works
-
-👁️ 136K • 👍 7K • 💬 2K • ⏱️ 19:40 • 6h ago
-
----
-
-**[AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation](https://www.youtube.com/watch?v=zt0JA5rxdfM)**
-
-Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...
-
-📺 IBM Technology
-
-👁️ 32K • 👍 1K • 💬 40 • ⏱️ 11:39 • 1d ago
+👁️ 27K • 💬 57 • ⏱️ 44:39 • 1d ago
 
 ---
 
@@ -352,7 +354,17 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 245K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
+👁️ 246K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
+
+---
+
+**[AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation](https://www.youtube.com/watch?v=zt0JA5rxdfM)**
+
+Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...
+
+📺 IBM Technology
+
+👁️ 35K • 👍 1K • 💬 40 • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -362,17 +374,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Y Combinator
 
-👁️ 32K • 👍 792 • 💬 52 • ⏱️ 30:23 • 1d ago
-
----
-
-**[While wandering around, this cat found a dried pomegranate in the desert😭 #ai #cat #pomegranate](https://www.youtube.com/watch?v=SnzQTnrxtgA)**
-
-While wandering around, this cat found a dried pomegranate in the desert   #ai #cat #pomegranate #youtubeshorts.
-
-📺 Quick ai86
-
-👁️ 377K • 💬 6 • ⏱️ 0:34 • 17h ago
+👁️ 34K • 👍 824 • 💬 58 • ⏱️ 30:23 • 1d ago
 
 ---
 
@@ -382,7 +384,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 110K • 👍 3K • 💬 145 • ⏱️ 1:29 • 2d ago
+👁️ 112K • 👍 3K • 💬 147 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -422,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 511 • 4d ago
+⬇️ 21,058 • ❤️ 512 • 5d ago
 
 ---
 
@@ -434,7 +436,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 430 • 10h ago
+⬇️ 1,148 • ❤️ 431 • 11h ago
 
 ---
 
@@ -486,18 +488,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling in reasoning and general tasks across multiple languages. It generates reasoning traces before final answers for improved accuracy, supporting commercial use.
-
-`text-generation` `31.6B`
-
-⬇️ 110,376 • ❤️ 454 • 4d ago
-
----
-
 **[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
 
 *Resemble AI*
@@ -507,6 +497,16 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 `text-to-speech`
 
 ⬇️ 0 • ❤️ 354 • 8d ago
+
+---
+
+**[sam-audio-large](https://huggingface.co/facebook/sam-audio-large)**
+
+*AI at Meta*
+
+SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
+
+⬇️ 8,076 • ❤️ 252 • 6h ago
 
 ---
 
@@ -546,7 +546,7 @@ A novel framework, Robust-R1, enhances multimodal large language models' robustn
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 3 • 💬 0 • ⭐ 61,378 • 10mo ago
+▲ 4 • 💬 0 • ⭐ 61,378 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 369 • 59m ago
+⭐ 2.9k • 🔱 371 • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.8k • 🔱 372 • 17d ago
+⭐ 1.8k • 🔱 374 • 17d ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 96 • 8h ago
+⭐ 1.0k • 🔱 96 • 9h ago
 
 ---
 

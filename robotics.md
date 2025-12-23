@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T20:25:08.818328+00:00'
+updated: '2025-12-23T20:44:31.922180+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 20:25 UTC  
+**Last Updated:** December 23, 2025 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
-15h ago
+16h ago
 
 ---
 
@@ -74,21 +74,13 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
-7h ago
-
----
-
-**[Bringing robotics product to market: custom quadruped or off-the-shelf?](https://www.reddit.com/r/robotics/comments/1pu2lao/bringing_robotics_product_to_market_custom/)**
-
-Hello. I'm considering creating a robotics product for a certain trade. I'm currently side hustling as a representative of the trade, and I also have AI & robotics background (as a student). Anyway. I have an design in mind that requires equipping a quadruped with a tool on it's back. I have a design decision - either buy an expensive (for this, everything is expensive) quadruped, where even the cheapest Unitree Go2 is $1600+shipping OR design a custom one. I can design a quadruped myself, no big deal, but what scares me is the software part of it. While I intend to fully teleoperate the robot, something as simple as walking... I don't know if I can adapt it to a rough terrain. Of course, general VLA policies already exist, which can be used for just walking, but still, I'm scared of the software/AI part with walking. How can you teleoperate a quadruped to walk? On a rough terrain? is there any model that allows this? Anyway, designing my own quadruped might boost margins of this business, as the off-the-shelf quadruped costs $1600, and making a custom one with simpler actuators can be around $800. Or is it stupid? For the reference, the average employee of this trade costs the business on average $3-4k monthly in the US. The robot will be retailed for initial price + subscription. So we don't have high margins here.
-
-1h ago
+8h ago
 
 ---
 
 **[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -108,15 +100,39 @@ been looking for the right sub, i dont even know if its the right one , pls dont
 
 ---
 
+**[Bringing robotics product to market: custom quadruped or off-the-shelf?](https://www.reddit.com/r/robotics/comments/1pu2lao/bringing_robotics_product_to_market_custom/)**
+
+Hello. I'm considering creating a robotics product for a certain trade. I'm currently side hustling as a representative of the trade, and I also have AI & robotics background (as a student). Anyway. I have an design in mind that requires equipping a quadruped with a tool on it's back. I have a design decision - either buy an expensive (for this, everything is expensive) quadruped, where even the cheapest Unitree Go2 is $1600+shipping OR design a custom one. I can design a quadruped myself, no big deal, but what scares me is the software part of it. While I intend to fully teleoperate the robot, something as simple as walking... I don't know if I can adapt it to a rough terrain. Of course, general VLA policies already exist, which can be used for just walking, but still, I'm scared of the software/AI part with walking. How can you teleoperate a quadruped to walk? On a rough terrain? is there any model that allows this? Anyway, designing my own quadruped might boost margins of this business, as the off-the-shelf quadruped costs $1600, and making a custom one with simpler actuators can be around $800. Or is it stupid? For the reference, the average employee of this trade costs the business on average $3-4k monthly in the US. The robot will be retailed for initial price + subscription. So we don't have high margins here.
+
+1h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Will Serve Robotics' Gen-3 Robots Drive Faster Unit Economics?](https://finance.yahoo.com/news/serve-robotics-gen-3-robots-163400477.html)**
+**[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
 
-SERV's Gen-3 robots slash production costs and boost autonomy, aiming to fast-track the path to stronger unit economics.
+China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
 
-Yahoo Finance • 3h ago
+South China Morning Post • 2d ago
+
+---
+
+**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
+
+In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
+
+Stock Titan • 1d ago
+
+---
+
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+
+The Verge • 2d ago
 
 ---
 
@@ -128,20 +144,6 @@ hyundai.com • 1d ago
 
 ---
 
-**[Top 5 Viral Humanoid Moments That Made 2025 The Year Of Robotics](https://seekingalpha.com/article/4855343-top-5-viral-humanoid-moments-made-2025-year-of-robotics)**
-
-The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
-
-Seeking Alpha • 8h ago
-
----
-
-**[Robot Makers Wrestle With How to Safely Pull the Plug on Humanoids](https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids)**
-
-The Information • 1d ago
-
----
-
 **[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
@@ -150,27 +152,11 @@ CnEVPost • 17h ago
 
 ---
 
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 1d ago
-
----
-
-**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
-
-Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
-
-LancasterOnline • 5h ago
-
----
-
 **[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
 
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
-Futura, Le média qui explore le monde • 7h ago
+Futura, Le média qui explore le monde • 8h ago
 
 ---
 
@@ -182,11 +168,27 @@ Sifted • 1d ago
 
 ---
 
+**[Top 5 Viral Humanoid Moments That Made 2025 The Year Of Robotics](https://seekingalpha.com/article/4855343-top-5-viral-humanoid-moments-made-2025-year-of-robotics)**
+
+The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
+
+Seeking Alpha • 9h ago
+
+---
+
 **[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
 The Daily Beast • 17h ago
+
+---
+
+**[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
+
+The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
+
+The Robot Report • 43m ago
 
 ---
 
@@ -200,7 +202,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 42K • 👍 781 • 💬 80 • ⏱️ 2:08:46 • 3d ago
+👁️ 42K • 👍 785 • 💬 80 • ⏱️ 2:08:46 • 3d ago
 
 ---
 
@@ -210,7 +212,27 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 35K • 👍 594 • 💬 142 • ⏱️ 5:25 • 2d ago
+👁️ 35K • 👍 596 • 💬 145 • ⏱️ 5:25 • 2d ago
+
+---
+
+**[InMoov Robotic Hand 🦾🤖 #3dprinting #lego #arduino #stem #robot](https://www.youtube.com/watch?v=Y9TXBEBjrSo)**
+
+This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full builds & learning on my YouTube channel!
+
+📺 Roll No 36
+
+👁️ 1K • 👍 29 • 💬 4 • ⏱️ 0:31 • 6h ago
+
+---
+
+**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
+
+Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
+
+📺 Mike Israetel
+
+👁️ 3K • 👍 201 • 💬 57 • ⏱️ 49:59 • 1d ago
 
 ---
 
@@ -230,27 +252,27 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 6K • 👍 123 • 💬 4 • ⏱️ 0:11 • 11h ago
+👁️ 10K • 👍 175 • 💬 4 • ⏱️ 0:11 • 11h ago
 
 ---
 
-**[InMoov Robotic Hand 🦾🤖 #3dprinting #lego #arduino #stem #robot](https://www.youtube.com/watch?v=Y9TXBEBjrSo)**
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=8PfHGA1Rjt8)**
 
-This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full builds & learning on my YouTube channel!
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
 
-📺 Roll No 36
+📺 Ai BOOF
 
-👁️ 833 • 👍 27 • 💬 4 • ⏱️ 0:31 • 6h ago
+👁️ 2K • 👍 33 • ⏱️ 0:11 • 4h ago
 
 ---
 
-**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
+**[The dog helped the robot.](https://www.youtube.com/watch?v=G3VyCWmPjkA)**
 
-Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
+The dog helped the robot.#shorts #usa #usashorts #usavideo #englishstory #viralshorts #animation #english #cartoon ...
 
-📺 Mike Israetel
+📺 Coke Explain 
 
-👁️ 3K • 👍 192 • 💬 55 • ⏱️ 49:59 • 1d ago
+👁️ 133K • 💬 7 • ⏱️ 0:47 • 4d ago
 
 ---
 
@@ -260,27 +282,7 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 32K • 💬 4 • ⏱️ 0:26 • 18h ago
-
----
-
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
-
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
-
-📺 SocksReact
-
-👁️ 550K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 16K • 👍 256 • 💬 6 • ⏱️ 0:11 • 1d ago
+👁️ 35K • 💬 4 • ⏱️ 0:26 • 18h ago
 
 ---
 
@@ -290,7 +292,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.0M • 👍 11K • 💬 645 • ⏱️ 2:43 • 5d ago
+👁️ 1.1M • 👍 11K • 💬 649 • ⏱️ 2:43 • 5d ago
 
 ---
 

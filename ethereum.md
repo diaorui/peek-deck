@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T20:25:08.815088+00:00'
+updated: '2025-12-23T20:44:31.918788+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 20:25 UTC  
+**Last Updated:** December 23, 2025 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,939.80
+### $2,959.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +4.5%  
-**30d:** +0.2%  
-**90d:** -23.3%  
-**1y:** -15.3%  
+**24h:** -0.3%  
+**7d:** +5.3%  
+**30d:** +0.9%  
+**90d:** -22.7%  
+**1y:** -14.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.40B
+**Market Cap:** $357.20B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-39.8%
 
 **All-Time Low:** $0.43
-+678725.1%
++687289.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 2h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ETHZilla still owns about $200M ETH](https://www.reddit.com/r/ethereum/comments/1pu32ay/ethzilla_still_owns_about_200m_eth/)**
 
-43m ago
+1h ago
 
 ---
 
@@ -164,17 +164,23 @@ The Motley Fool • 1d ago
 
 ---
 
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
-
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
-
-The Motley Fool • 2h ago
-
----
-
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
 CCN.com • 7h ago
+
+---
+
+**[Is Bitmine Immersion Technologies a Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/bitmine-immersion-technologies-buy-sell-122400238.html)**
+
+Ethereum treasury companies soared in value earlier this year, but are they still worth the risk?
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
+
+The Block • 13h ago
 
 ---
 
@@ -210,12 +216,6 @@ CryptoSlate • 5h ago
 
 ---
 
-**[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
-
-The Block • 13h ago
-
----
-
 **[Bit Digital Announces Appointment of Amanda Cassatt to Board of Directors](https://bit-digital.com/press-releases/bit-digital-announces-appointment-of-amanda-cassatt-to-board-of-directors/)**
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
@@ -234,7 +234,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 627 • 👍 31 • 💬 77 • ⏱️ 5:30 • 10h ago
+👁️ 719 • 👍 35 • 💬 32 • ⏱️ 5:30 • 10h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 832 • 👍 82 • 💬 14 • ⏱️ 4:22 • 4h ago
+👁️ 1K • 👍 114 • 💬 8 • ⏱️ 4:22 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 354 • 👍 31 • 💬 36 • ⏱️ 9:42 • 7h ago
+👁️ 452 • 👍 33 • 💬 10 • ⏱️ 9:42 • 7h ago
 
 ---
 
@@ -264,7 +264,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 766 • 💬 81 • ⏱️ 15:49 • 2d ago
+👁️ 24K • 👍 767 • 💬 81 • ⏱️ 15:49 • 2d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 82 • 👍 10 • 💬 3 • ⏱️ 7:44 • 2h ago
+
+---
+
+**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
+
+Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 723 • 💬 161 • ⏱️ 22:25 • 11h ago
 
 ---
 
@@ -274,17 +294,17 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 125 • 💬 20 • ⏱️ 8:07 • 17h ago
+👁️ 2K • 👍 126 • 💬 18 • ⏱️ 8:07 • 17h ago
 
 ---
 
-**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+**[BITCOIN: The Breakout Failed! (bad news) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=ER1MOjuN54o)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Library Of Wealth
+📺 BitcoinHyper
 
-👁️ 3K • 👍 86 • 💬 346 • ⏱️ 14:58 • 14h ago
+👁️ 6K • 👍 386 • 💬 44 • ⏱️ 14:56 • 9h ago
 
 ---
 
@@ -298,33 +318,13 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 ---
 
-**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
+**[Why I’m Selling My Gold for Ethereum in 2026 (The Pectra Upgrade)](https://www.youtube.com/watch?v=e_kMwCebu6M)**
 
-Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
+Is the age of Gold over? In this video, we look ahead to 2026 — a year many institutional researchers describe as a major ...
 
-📺 The Modern Investor
+📺 Finance Fundamentals
 
-👁️ 6K • 👍 679 • 💬 210 • ⏱️ 22:25 • 10h ago
-
----
-
-**[XRP BITCOIN ETHEREUM ‼️ KNOW THIS BEFORE TOMORROW!](https://www.youtube.com/watch?v=bBU6oHVTtXQ)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 13K • 👍 902 • 💬 18 • ⏱️ 11:18 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Ausführliches Setup SeMario für den Bitcoin Short, WENN DAS passiert!](https://www.youtube.com/watch?v=fvISK2c9pZw)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 4K • 👍 682 • 💬 217 • ⏱️ 15:45 • 15h ago
+👁️ 3 • ⏱️ 8:11 • 4h ago
 
 ---
 

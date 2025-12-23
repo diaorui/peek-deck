@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T20:25:08.809002+00:00'
+updated: '2025-12-23T20:44:31.912483+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 20:25 UTC  
+**Last Updated:** December 23, 2025 at 20:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,824.63
+### $87,670.54
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.4%  
-**7d:** +1.9%  
-**30d:** -0.7%  
+**7d:** +1.8%  
+**30d:** -0.8%  
 **90d:** -19.3%  
-**1y:** -10.9%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.27B
+**Market Cap:** $1752.70B
 Rank #1
 
 **Circulating Supply:** 19,966,109 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.2%
 
 **All-Time Low:** $67.81
-+129321.9%
++129765.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
 
-4h ago
+5h ago
 
 ---
 
@@ -93,9 +93,17 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 ---
 
+**[fidelity predicted $1B bitcoin by 2038.](https://www.reddit.com/r/Bitcoin/comments/1ptront/fidelity_predicted_1b_bitcoin_by_2038/)**
+
+fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
+
+9h ago
+
+---
+
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -129,25 +137,19 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 ---
 
-**[fidelity predicted $1B bitcoin by 2038.](https://www.reddit.com/r/Bitcoin/comments/1ptront/fidelity_predicted_1b_bitcoin_by_2038/)**
-
-fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
-
-8h ago
-
----
-
 **[Is this a good option for storing bitcoin for cold storage?](https://www.reddit.com/r/Bitcoin/comments/1ptrtvi/is_this_a_good_option_for_storing_bitcoin_for/)**
 
 Like the question asks
 
-8h ago
+9h ago
 
 ---
 
-**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
+**[Is never too late to Accumulate Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptwisd/is_never_too_late_to_accumulate_bitcoin/)**
 
-12h ago
+This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
+
+5h ago
 
 ---
 
@@ -163,11 +165,11 @@ The Guardian • 2h ago
 
 ---
 
-**[BTC news analysis: Bitcoin trails gold and copper, as the 'fear and AI' trade lifts tangible assets](https://www.coindesk.com/markets/2025/12/23/bitcoin-trails-polar-opposites-gold-and-copper-as-the-fear-and-ai-trade-lifts-tangible-assets)**
+**[Gold to $5,000, bitcoin poised for major comeback in 2026, VanEck manager predicts](https://www.coindesk.com/markets/2025/12/23/bitcoin-to-rebound-sharply-as-gold-hits-usd5-000-in-2026-vaneck-manager-says)**
 
-Gold and copper have outperformed other major assets this year, with gold rallying more than copper.
+VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 12h ago
+CoinDesk • 17m ago
 
 ---
 
@@ -187,11 +189,11 @@ VanEck • 1d ago
 
 ---
 
-**[How to Buy Bitcoin Hyper (BTC Hyper) | Step-by-Step Guide](https://www.businessinsider.com/personal-finance/how-to-buy-bitcoin-hyper)**
+**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
 
-Learn how to buy Bitcoin Hyper (HYPER). Find out the safest ways to purchase, store, and invest in BTC Hyper today.
+The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-Business Insider • 52m ago
+CoinDesk • 4h ago
 
 ---
 
@@ -203,27 +205,27 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin price analysis: Struggling dollar hasn't yet boosted BTC](https://www.coindesk.com/markets/2025/12/23/bitcoin-bulls-eye-possible-tailwind-as-u-s-dollar-index-continues-to-leg-lower)**
+**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
 
-Metals and other hard assets continue their surge to new records as the greenback stumbles, but crypto has not responded.
+Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
 
-CoinDesk • 5h ago
-
----
-
-**[Why This Friday Could Be Very Big For The Bitcoin Price](https://www.tradingview.com/news/newsbtc:f5c1d84e7094b:0-why-this-friday-could-be-very-big-for-the-bitcoin-price/)**
-
-The Bitcoin price could experience major swings this Friday as billions of dollars in options are set to expire. A crypto market expert has warned that the scale of this event could trigger “something big,” potentially affecting both volatility and the actions of retail and institutional investors…
-
-TradingView — Track All Markets • 1h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
 
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 22h ago
+
+---
+
+**[Michael Saylor's Strategy expands dollar reserve instead of Bitcoin](https://finance.yahoo.com/news/michael-saylors-strategy-expands-dollar-163854674.html)**
+
+Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -291,14 +293,6 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 ---
 
-**[Show HN: Prysm – Built a real-time 3D globe for analytics after ditching GA4](https://news.ycombinator.com/item?id=46368760)**
-
-Analytics reimagined. Watch visitors on a 3D globe, explore AI-powered insights, and chat with your data.
-
-⬆️ 1 • 💬 1 • 30m ago • [prysmhq.com](https://prysmhq.com)
-
----
-
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
 ⬆️ 1 • 💬 0 • 13h ago
@@ -309,13 +303,23 @@ Analytics reimagined. Watch visitors on a 3D globe, explore AI-powered insights,
 
 ## YouTube Videos: "bitcoin"
 
+**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
+
+Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
+
+📺 CNBC Television
+
+👁️ 14K • 👍 231 • 💬 150 • ⏱️ 5:23 • 6h ago
+
+---
+
 **[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
 
 Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation. In this ...
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 204 • ⏱️ 11:35 • 20h ago
+👁️ 26K • 👍 2K • 💬 216 • ⏱️ 11:35 • 20h ago
 
 ---
 
@@ -325,17 +329,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 828 • 💬 141 • ⏱️ 42:55 • 4h ago
+👁️ 15K • 👍 942 • 💬 151 • ⏱️ 42:55 • 5h ago
 
 ---
 
-**[BITCOIN HOLDERS... THIS $23B MOVE HAPPENS IN 3 DAYS](https://www.youtube.com/watch?v=G39n83gzneM)**
+**[If You Think Bitcoin’s Volatility Is Bad, You Couldn’t Be More Wrong](https://www.youtube.com/watch?v=Z_vlwus19-8)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
 
-📺 Satoshi Stacker
+📺 Mark Moss
 
-👁️ 12K • 👍 633 • 💬 109 • ⏱️ 10:08 • 11h ago
+👁️ 8K • 👍 791 • 💬 114 • ⏱️ 20:46 • 2h ago
 
 ---
 
@@ -345,47 +349,37 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 204 • ⏱️ 15:15 • 1d ago
+👁️ 30K • 👍 2K • 💬 207 • ⏱️ 15:15 • 1d ago
 
 ---
 
-**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
+**[BITCOIN HOLDERS... THIS $23B MOVE HAPPENS IN 3 DAYS](https://www.youtube.com/watch?v=G39n83gzneM)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Altcoin Daily
+📺 Satoshi Stacker
 
-👁️ 43K • 👍 3K • 💬 191 • ⏱️ 10:16 • 20h ago
-
----
-
-**[Is the Bitcoin Santa Rally Starting This Week?](https://www.youtube.com/watch?v=kUx2ypdiIAQ)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 27K • 👍 1K • 💬 207 • ⏱️ 39:10 • 1d ago
+👁️ 13K • 👍 652 • 💬 78 • ⏱️ 10:08 • 12h ago
 
 ---
 
-**[Serious Investors Think Bitcoin Is Going Here By JANUARY](https://www.youtube.com/watch?v=13_C9qFzuIk)**
+**[WARNING: BITCOIN WORST NIGHTMARE](https://www.youtube.com/watch?v=nvXVmzgTnCU)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
 
-📺 Crypto Tips
+📺 Crypto Crew University
 
-👁️ 19K • 👍 931 • 💬 143 • ⏱️ 6:08 • 1d ago
+👁️ 18K • 👍 1K • 💬 84 • ⏱️ 4:03 • 6h ago
 
 ---
 
-**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
+**[Why Arthur Hayes Says Bitcoin Will Reach $750K by 2027](https://www.youtube.com/watch?v=w5UyqDjNm9E)**
 
-CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
+BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk's 50 Most Influential People. He joins ...
 
-📺 CNBC Television
+📺 CoinDesk
 
-👁️ 5K • 👍 79 • 💬 82 • ⏱️ 3:19 • 21h ago
+👁️ 502 • 👍 19 • 💬 40 • ⏱️ 17:16 • 4h ago
 
 ---
 
@@ -395,17 +389,17 @@ Kathy Wood walks through the numbers behind one of the most controversial Bitcoi
 
 📺 The Bitcoin Revolution
 
-👁️ 5K • 👍 112 • 💬 41 • ⏱️ 11:47 • 1d ago
+👁️ 6K • 👍 118 • 💬 42 • ⏱️ 11:47 • 1d ago
 
 ---
 
-**[My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED)](https://www.youtube.com/watch?v=e1ozMqOYANY)**
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
 
-My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin Daily on X: ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 186 • ⏱️ 16:18 • 1d ago
+👁️ 46K • 👍 3K • 💬 214 • ⏱️ 10:16 • 21h ago
 
 ---
 
