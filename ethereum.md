@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-22T23:54:43.283473+00:00'
+updated: '2025-12-23T01:41:39.041828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 23:54 UTC  
+**Last Updated:** December 23, 2025 at 01:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,009.53
+### $3,008.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +1.3%  
-**30d:** +7.0%  
-**90d:** -27.6%  
-**1y:** -12.4%  
+**24h:** +0.6%  
+**7d:** +6.5%  
+**30d:** +2.2%  
+**90d:** -21.7%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $362.78B
+**Market Cap:** $364.61B
 Rank #2
 
-**Circulating Supply:** 120,695,004 ETH
+**Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.2%
+-39.0%
 
 **All-Time Low:** $0.43
-+694194.6%
++696998.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 7h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-17h ago
+19h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-FXStreet • 19h ago
+FXStreet • 21h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 19h ago
 
 BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -180,23 +180,19 @@ TradingView — Track All Markets • 10h ago
 
 ---
 
+**[Bit Digital Announces Appointment of Amanda Cassatt to Board of Directors](https://bit-digital.com/press-releases/bit-digital-announces-appointment-of-amanda-cassatt-to-board-of-directors/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
+
+Bit Digital • 5h ago
+
+---
+
 **[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
 
 As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
 
 Yahoo Finance • 2d ago
-
----
-
-**[BitMine Immersion Highlights Record Ethereum Treasury and Liquidity](https://www.tipranks.com/news/company-announcements/bitmine-immersion-highlights-record-ethereum-treasury-and-liquidity)**
-
-TipRanks • 9h ago
-
----
-
-**[Ethereum developers name post-Glamsterdam upgrade 'Hegota' as 2026 roadmap takes shape](https://www.theblock.co/post/383275/ethereum-developers-name-post-glamsterdam-upgrade-hegota-as-2026-roadmap-takes-shape)**
-
-The Block • 3d ago
 
 ---
 
@@ -212,7 +208,7 @@ ZyCrypto • 2d ago
 
 Large holders are buying like never before while ETF numbers collapse.
 
-AMBCrypto • 15h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -224,17 +220,25 @@ CryptoSlate • 2d ago
 
 ---
 
+**[ETHE: What You Need To Know About This Ethereum ETF](https://seekingalpha.com/article/4854984-ethe-what-you-need-to-know-about-this-ethereum-etf)**
+
+ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
+
+Seeking Alpha • 12h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ryb8qPUZCUc)**
+**[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
 
-THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto World
+📺 Crypto Nutshell
 
-👁️ 5K • 👍 238 • 💬 127 • ⏱️ 17:34 • 7h ago
+👁️ 21K • 👍 724 • 💬 74 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -244,27 +248,17 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 41 • 💬 15 • ⏱️ 7:32 • 10h ago
+👁️ 1K • 👍 43 • 💬 49 • ⏱️ 7:32 • 12h ago
 
 ---
 
-**[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
+**[THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ryb8qPUZCUc)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 20K • 👍 717 • 💬 74 • ⏱️ 15:49 • 1d ago
-
----
-
-**[Ethereum’s Setup Signals Volatility Ahead Into 2026](https://www.youtube.com/watch?v=LNC18lqDyPs)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 185 • 👍 14 • 💬 2 • ⏱️ 5:29 • 3h ago
+👁️ 7K • 👍 266 • 💬 121 • ⏱️ 17:34 • 9h ago
 
 ---
 
@@ -274,37 +268,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 13K • 👍 683 • 💬 407 • ⏱️ 11:34 • 1d ago
-
----
-
-**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
-
-BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
-
-📺 CryptoStock Lab
-
-👁️ 403 • 👍 16 • ⏱️ 16:54 • 3h ago
-
----
-
-**[Is $BMNR Signaling A New ETH Bull Run? (The &quot;Smart Money&quot; Indicator)](https://www.youtube.com/watch?v=bX-vqqC2d88)**
-
-Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the "Canary in the Coal Mine." History shows that ...
-
-📺 NextMove Stocks
-
-👁️ 511 • 👍 18 • 💬 13 • ⏱️ 7:50 • 10h ago
-
----
-
-**[Bitcoin &quot;Digital Gold&quot; &amp; Ethereum &quot;Digital Oil:&quot; Crypto&#39;s Path to Commoditization](https://www.youtube.com/watch?v=kZzRkG5IlXk)**
-
-Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does he see institutional investing adding long-term ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 59 • 💬 6 • ⏱️ 8:22 • 1d ago
+👁️ 14K • 👍 683 • 💬 410 • ⏱️ 11:34 • 1d ago
 
 ---
 
@@ -314,7 +278,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 6 • ⏱️ 4:52 • 10h ago
+👁️ 2K • 👍 153 • 💬 6 • ⏱️ 4:52 • 12h ago
+
+---
+
+**[Ethereum’s Setup Signals Volatility Ahead Into 2026](https://www.youtube.com/watch?v=LNC18lqDyPs)**
+
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+
+📺 Trade Confident
+
+👁️ 304 • 👍 15 • 💬 37 • ⏱️ 5:29 • 5h ago
+
+---
+
+**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
+
+BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
+
+📺 CryptoStock Lab
+
+👁️ 742 • 👍 25 • 💬 35 • ⏱️ 16:54 • 5h ago
+
+---
+
+**[Is $BMNR Signaling A New ETH Bull Run? (The &quot;Smart Money&quot; Indicator)](https://www.youtube.com/watch?v=bX-vqqC2d88)**
+
+Is $BMNR Signaling a New ETH Bull Run? In the crypto markets, the miners are the "Canary in the Coal Mine." History shows that ...
+
+📺 NextMove Stocks
+
+👁️ 596 • 👍 18 • 💬 17 • ⏱️ 7:50 • 12h ago
 
 ---
 
@@ -324,7 +318,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 265 • 👍 30 • 💬 10 • ⏱️ 5:02 • 5h ago
+👁️ 371 • 👍 32 • 💬 51 • ⏱️ 5:02 • 6h ago
+
+---
+
+**[CRITICAL ETHEREUM UPDATE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=Iyi5qnSnU2Q)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 372 • 👍 20 • 💬 3 • ⏱️ 4:38 • 15h ago
 
 ---
 

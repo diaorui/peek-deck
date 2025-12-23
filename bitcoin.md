@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-22T23:54:43.278177+00:00'
+updated: '2025-12-23T01:41:39.035765+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 22, 2025 at 23:54 UTC  
+**Last Updated:** December 23, 2025 at 01:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,56 +38,48 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,308.00
+### $88,516.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +1.1%  
-**30d:** +1.9%  
-**90d:** -21.7%  
-**1y:** -6.6%  
+**24h:** +0.4%  
+**7d:** +2.9%  
+**30d:** +0.3%  
+**90d:** -18.5%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1767.26B
+**Market Cap:** $1767.22B
 Rank #1
 
-**Circulating Supply:** 19,965,703 BTC
+**Circulating Supply:** 19,965,734 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.8%
 
 **All-Time Low:** $67.81
-+130444.2%
++130336.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 25
+### 24
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
+**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-bitvoin
-
-11h ago
-
----
-
-**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
-
-10h ago
+5h ago
 
 ---
 
@@ -95,25 +87,33 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-9h ago
+10h ago
+
+---
+
+**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
+
+bitvoin
+
+13h ago
 
 ---
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-1h ago
+3h ago
+
+---
+
+**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
+
+12h ago
 
 ---
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-5h ago
-
----
-
-**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
-
-3h ago
+6h ago
 
 ---
 
@@ -121,25 +121,25 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-4h ago
-
----
-
-**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
-
-9h ago
+5h ago
 
 ---
 
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1ptcaxi/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
-1h ago
+3h ago
+
+---
+
+**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
+
+11h ago
 
 ---
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -159,15 +159,7 @@ Bloomberg.com • 1h ago
 
 Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
 
-CoinDesk • 3h ago
-
----
-
-**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
-
-Waltham and Gloucester have banned the machines
-
-WCVB • 1h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -175,15 +167,21 @@ WCVB • 1h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 4h ago
+The Verge • 5h ago
 
 ---
 
-**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
+**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://finance.yahoo.com/news/shiba-inu-vs-bitcoin-better-234300764.html)**
 
 One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqfMTew6eC_o3ULgaw_0ZDnoOrYoCsbKSqizEgbPKvSyCw62Ne-yg13S&gaa_ts=6949f6c1&gaa_sig=J7ZGiGHpzcP5Poe6K0xyTqW4_QkEB9D2at4rXUGAIRezfpnHi1x2nz4h5wcPRNKKGjg6Eb9Gs9nnuFrz5dHogw%3D%3D)**
+
+Barron's • 11h ago
 
 ---
 
@@ -191,15 +189,7 @@ The Motley Fool • 1d ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 7h ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
-
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
-
-Nasdaq • 1d ago
+Al Jazeera • 8h ago
 
 ---
 
@@ -207,7 +197,15 @@ Nasdaq • 1d ago
 
 Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 13h ago
+
+---
+
+**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
+
+Waltham and Gloucester have banned the machines
+
+WCVB • 2h ago
 
 ---
 
@@ -217,9 +215,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Price Forecasts for 2026 Are Being Cut as Bulls Turn Cautious](https://www.barrons.com/articles/bitcoin-2026-price-forecasts-soften-c7caddc4?gaa_at=eafs&gaa_n=AWEtsqdGbsq5L1KTz_xRmoLO0Oi6k65HJnllumxNFvlgBoEnPb-td_-ljg7A&gaa_ts=6949d750&gaa_sig=0azfyDmk0nZAhdNRJ-NqqNLMDA5sC6etVAE_XKDNqDphdCbUolawwCK_5sszHBQQRyXlPZHLjbIscPv9aCRPYg%3D%3D)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
 
-Barron's • 3d ago
+Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -261,7 +261,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 4 • 8h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 4 • 10h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 2 • 💬 0 • 3h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 5h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -285,23 +285,33 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 ## YouTube Videos: "bitcoin"
 
-**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
-
-Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 191 • ⏱️ 15:15 • 22h ago
-
----
-
 **[Serious Investors Think Bitcoin Is Going Here By JANUARY](https://www.youtube.com/watch?v=13_C9qFzuIk)**
 
 FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 597 • 💬 89 • ⏱️ 6:08 • 6h ago
+👁️ 12K • 👍 695 • 💬 105 • ⏱️ 6:08 • 8h ago
+
+---
+
+**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
+
+Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 202 • ⏱️ 15:15 • 1d ago
+
+---
+
+**[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
+
+Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 624 • 💬 76 • ⏱️ 11:35 • 1h ago
 
 ---
 
@@ -311,7 +321,7 @@ Things continue to chop sideways with a little run. But let's be honest - moment
 
 📺 Digital Asset News
 
-👁️ 3K • 👍 324 • 💬 41 • ⏱️ 27:45 • 4h ago
+👁️ 5K • 👍 399 • 💬 55 • ⏱️ 27:45 • 6h ago
 
 ---
 
@@ -321,7 +331,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 374 • 💬 66 • ⏱️ 1:11:22 • 4h ago
+👁️ 8K • 👍 409 • 💬 100 • ⏱️ 1:11:22 • 6h ago
 
 ---
 
@@ -331,27 +341,27 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 172 • ⏱️ 16:18 • 1d ago
+👁️ 37K • 👍 2K • 💬 173 • ⏱️ 16:18 • 1d ago
 
 ---
 
-**[Bitcoin, Liquidity, And The Coming Inflection Point | Jeff Ross](https://www.youtube.com/watch?v=0h5gLtzS1_M)**
+**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
 
-Jeff Ross joins the show for a breakdown of why the global financial system is cracking and why Bitcoin's recent weakness may be ...
+CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
 
-📺 What Bitcoin Did
+📺 CNBC Television
 
-👁️ 8K • 👍 470 • 💬 94 • ⏱️ 1:04:00 • 11h ago
+👁️ 1K • 👍 18 • 💬 48 • ⏱️ 3:19 • 3h ago
 
 ---
 
-**[🚨 EMERGENCY: Everyone Is Wrong About Bitcoin as Gold &amp; Silver Surge](https://www.youtube.com/watch?v=E6LnI33wdl0)**
+**[Why Elon Musk Understands Bitcoin—but Won’t Choose It](https://www.youtube.com/watch?v=EyKFQ3hIWtU)**
 
-Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
+Bitcoin isn't competing with the financial system—it's replacing it. In this clip, Jeff Booth explores why even Elon Musk understands ...
 
-📺 DataDash
+📺 Swan Bitcoin
 
-👁️ 3K • 👍 211 • 💬 8 • ⏱️ 15:14 • 7h ago
+👁️ 3K • 👍 111 • 💬 5 • ⏱️ 0:53 • 12h ago
 
 ---
 
@@ -361,27 +371,17 @@ Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In thi
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 157 • ⏱️ 14:31 • 2d ago
+👁️ 36K • 👍 2K • 💬 157 • ⏱️ 14:31 • 2d ago
 
 ---
 
-**[BITCOIN RALLY IMMINENT – YOU HAVE TO SEE THIS!!!!!](https://www.youtube.com/watch?v=5BSo09MHaZk)**
+**[The Real Reason Why Bitcoin Will NEVER Fail | Jeff Booth](https://www.youtube.com/watch?v=GBQnGLjEX9s)**
 
-Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
+In this episode, I sit down with Jeff Booth, entrepreneur, author of The Price of Tomorrow, and one of the clearest thinkers on how ...
 
-📺 100XClub
+📺 The Bitcoin Matrix Podcast
 
-👁️ 12K • 👍 1K • 💬 282 • ⏱️ 14:37 • 14h ago
-
----
-
-**[“Bitcoin’s REAL Bull Run Begins When THIS Happens &amp; Nobody’s Ready!” | Austin Arnold](https://www.youtube.com/watch?v=qbuO8RI4ncE)**
-
-Bitcoin #Crypto #Finance Will 2026 be the breakout year for Bitcoin and crypto, or will history repeat itself? In this deep-dive ...
-
-📺 The Wolf Of All Streets
-
-👁️ 21K • 👍 946 • 💬 249 • ⏱️ 55:13 • 1d ago
+👁️ 5K • 👍 380 • 💬 57 • ⏱️ 59:12 • 11h ago
 
 ---
 

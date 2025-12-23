@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-22T23:54:43.286296+00:00'
+updated: '2025-12-23T01:41:39.045085+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 22, 2025 at 23:54 UTC  
+**Last Updated:** December 23, 2025 at 01:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Physical Intelligence just released a series of "Robot Olympics" events to showcase their latest π0.6 model. Unlike standard benchmarks, these tasks are designed to illustrate Moravec’s Paradox which are everyday physical actions that are trivial for humans but represent the "gold standard" of difficulty for modern robotics. All tasks shown are fully autonomous, demonstrating high-level task decomposition and fine motor control. The 5 Olympic Events: Event 1 (Gold) - Door Entry: The robot successfully navigates a self-closing lever-handle door. This is technically challenging because it requires the model to apply force to keep the door open while simultaneously moving its base through the frame. Event 2 (Silver) - Textile Manipulation: The model successfully turns a sock right-side-out. They attempted the Gold medal task (hanging an inside-out dress shirt), but the current hardware gripper was too wide for the sleeves. Event 3 (Gold) - Fine Tool Use: A major win here,the robot used a small key to unlock a padlock. This requires extreme precision to align the key and enough torque to turn the tumbler. (Silver was making a peanut butter sandwich, involving long-horizon steps like spreading and cutting triangles). Event 4 (Silver) - Deformable Objects: The robot successfully opened a dog poop bag. This is notoriously difficult because the thin plastic blinds the wrist cameras during manipulation. They attempted to peel an orange for Gold but were "disqualified" for needing a sharper tool. Event 5 (Gold) - Complex Cleaning: The robot washed a frying pan in a sink using soap and water, scrubbing both sides. They also cleared the Silver (cleaning the grippers) and Bronze (wiping the counter) tasks for this category. The Tech Behind It: The π0.6 model is a Vision-Language-Action (VLA) generalist policy. It moves away from simple "behavior cloning" and instead focuses on agentic coding and task completion, allowing it to recover from errors and handle diverse, "messy" real-world environments. Official Blog: pi.website/blog/olympics Source Video: Physical Intelligence on X
 
-5h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-13h ago
+14h ago
 
 ---
 
@@ -52,7 +52,15 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting human motion to diverse robot embodiments. Most retargeting methods suffer from physical inconsistencies. SPIDER is physics-informed, ensuring dynamically feasible motions without artifacts like ghosting or floating. Key Features: General: Supports both humanoids (G1, H1, etc.) and dexterous hands (Allegro, Shadow, etc.). Physics-Based: GPU-accelerated optimization for clean, stable motion. Sim2Real-ready: Ready for deployment, from human video to real-world robot actions. Links: 📦 Code: https://github.com/facebookresearch/spider 📓 Tutorial: Notebook 🌐 Project Page: http://jc-bao.github.io/spider-project/ Would love to hear your feedback or help with any integration questions!
 
-6h ago
+8h ago
+
+---
+
+**[Any miniature BLDC (PMSM) or DC motors for direct drive in robots?](https://www.reddit.com/r/robotics/comments/1ptesf6/any_miniature_bldc_pmsm_or_dc_motors_for_direct/)**
+
+I am building a robotic hand, which is very compact and direct-driven. So, I am trying to find some motors (w/o gearbox) having a very small size, but high torque (and low speed). The torque and speed requirement is similar to the gimbal motor (0.07 N-m) in the below link. https://store.tmotor.com/product/gb2208-gimbal-type.html But the size is an issue for my project. I want to use a motor with a 16 mm smaller diameter, which shape is similar to the ones in the following link. https://www.portescap.com/en/products/brushless-dc-motors/all-bldc-motors The sizes of those motors are good for me, but they are designed for the high speed applications (higher than 10,000 rpm). To accomplish this requirement, I think that the motors should have high resistance compared to high-speed motors used for the drone. Please share your opinion and any comment for my project!!
+
+1h ago
 
 ---
 
@@ -60,7 +68,7 @@ Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting h
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-12h ago
+14h ago
 
 ---
 
@@ -68,7 +76,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 Hey guys, how much time do you usually spend on your feet in a given work day? I’ve recently injured my back and it doesn’t look like it’s going to get healed anytime soon. I’m relegated to a chair for the most part I think, but this is an industry I’m pretty interested in. I would love to get your feedback so I can decide if I can actually do this work in a professional setting. Thanks! 🤖
 
-1h ago
+3h ago
 
 ---
 
@@ -76,7 +84,7 @@ Hey guys, how much time do you usually spend on your feet in a given work day? I
 
 This setup uses two single-axis (pitch-only) gimbals stacked in series. When combined, could this configuration serve as an alternative to a robotic arm in certain applications? I’d welcome discussion and insights from the community.
 
-21h ago
+23h ago
 
 ---
 
@@ -84,7 +92,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +100,7 @@ Making some good progress on the automatic tool-changing mechanism for my SCARA 
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-9h ago
+11h ago
 
 ---
 
@@ -104,15 +112,7 @@ Try it live at https://rerun.io/viewer.
 Python: pip install rerun-sdk
 Rust: cargo add rerun and cargo i...
 
-🔗 [GitHub](https://github.com/rerun-io/rerun/releases/tag/0.28.0) • 35m ago
-
----
-
-**[In China, robots are now handling the solar panels, making installation faster and safer](https://www.reddit.com/r/robotics/comments/1ps2aw1/in_china_robots_are_now_handling_the_solar_panels/)**
-
-From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/2002328813548589126
-
-1d ago
+🔗 [GitHub](https://github.com/rerun-io/rerun/releases/tag/0.28.0) • 2h ago
 
 ---
 
@@ -120,19 +120,19 @@ From Lukas Ziegler on 𝕏: https://x.com/lukas_m_ziegler/status/200232881354858
 
 ## Google News: "robotics"
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
-
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
-
-Interesting Engineering • 2d ago
-
----
-
 **[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 15h ago
+Stock Titan • 17h ago
+
+---
+
+**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
+
+Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
+
+TechNode • 2d ago
 
 ---
 
@@ -144,19 +144,19 @@ The Verge • 1d ago
 
 ---
 
+**[Retailers Turn to AI and Robotics to Keep Holiday Fulfillment on Track](https://www.pymnts.com/news/retail/2025/retailers-turn-to-ai-and-robotics-to-keep-holiday-fulfillment-on-track/)**
+
+As peak holiday demand stretches supply chains to their limits, global retailers like Amazon, Walmart and Target are leaning heavily on artificial
+
+PYMNTS.com • 2h ago
+
+---
+
 **[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
 
 Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
 
-Sifted • 18h ago
-
----
-
-**[iRobot founder says company's bankruptcy revealed a new kind of competitor: 'the Chinese fast follower'](https://www.businessinsider.com/irobot-ceo-bankruptcy-china-fast-followers-competition-2025-12)**
-
-As iRobot's founder Colin Angle looks back on its path to bankruptcy, he says it was hard to overcome competitors in China.
-
-Business Insider • 1d ago
+Sifted • 20h ago
 
 ---
 
@@ -164,29 +164,21 @@ Business Insider • 1d ago
 
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
-hyundai.com • 17h ago
+hyundai.com • 19h ago
 
 ---
 
 **[Robot Makers Wrestle With How to Safely Pull the Plug on Humanoids](https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids)**
 
-The Information • 5h ago
+The Information • 7h ago
 
 ---
 
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
+**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
 
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
+Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
 
-Phoronix • 12h ago
-
----
-
-**[Retailers Turn to AI and Robotics to Keep Holiday Fulfillment on Track](https://www.pymnts.com/news/retail/2025/retailers-turn-to-ai-and-robotics-to-keep-holiday-fulfillment-on-track/)**
-
-As peak holiday demand stretches supply chains to their limits, global retailers like Amazon, Walmart and Target are leaning heavily on artificial
-
-PYMNTS.com • 45m ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -195,6 +187,14 @@ PYMNTS.com • 45m ago
 China’s latest venture-backed robotics contenders are unveiling ever more humanlike machines for reception desks, stores and factory floors.
 
 South China Morning Post • 3d ago
+
+---
+
+**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
+
+NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
+
+Phoronix • 13h ago
 
 ---
 
@@ -208,7 +208,17 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 37K • 👍 733 • 💬 76 • ⏱️ 2:08:46 • 2d ago
+👁️ 38K • 👍 736 • 💬 77 • ⏱️ 2:08:46 • 3d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 3K • 👍 250 • 💬 80 • ⏱️ 11:02 • 2h ago
 
 ---
 
@@ -218,7 +228,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 24K • 👍 515 • 💬 116 • ⏱️ 5:25 • 1d ago
+👁️ 26K • 👍 533 • 💬 119 • ⏱️ 5:25 • 1d ago
 
 ---
 
@@ -228,7 +238,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 30K • 👍 145 • 💬 6 • ⏱️ 0:19 • 1d ago
+👁️ 30K • 👍 146 • 💬 6 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -238,7 +248,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 925K • 👍 10K • 💬 605 • ⏱️ 2:43 • 4d ago
+👁️ 928K • 👍 11K • 💬 614 • ⏱️ 2:43 • 4d ago
 
 ---
 
@@ -248,7 +258,7 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 131K • 👍 7K • 💬 527 • ⏱️ 13:43 • 4d ago
+👁️ 136K • 👍 7K • 💬 535 • ⏱️ 13:43 • 4d ago
 
 ---
 
@@ -258,7 +268,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 498K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
+👁️ 509K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
 
 ---
 
@@ -268,17 +278,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 10K • 👍 160 • 💬 6 • ⏱️ 0:11 • 15h ago
-
----
-
-**[China Just Crossed The Line With 6 Arm AI Robot (Works All At Once)](https://www.youtube.com/watch?v=ppoFxgp0PJI)**
-
-Factories, streets, and physical reality just crossed a line. China unveiled a six-armed industrial robot built to outwork humans on ...
-
-📺 AI Revolution
-
-👁️ 76K • 👍 1K • 💬 146 • ⏱️ 11:23 • 6d ago
+👁️ 11K • 👍 168 • 💬 6 • ⏱️ 0:11 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ This session will provide a high-level overview of NVIDIA's comprehensive approa
 
 📺 NVIDIA Developer
 
-👁️ 2K • 👍 91 • 💬 1 • ⏱️ 55:42 • 2d ago
+👁️ 2K • 👍 92 • 💬 1 • ⏱️ 55:42 • 2d ago
 
 ---
 
@@ -298,7 +298,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 2.1M • 👍 31K • 💬 514 • ⏱️ 0:29 • 1d ago
+👁️ 2.4M • 👍 34K • 💬 559 • ⏱️ 0:29 • 1d ago
 
 ---
 
