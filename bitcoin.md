@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T10:57:30.358929+00:00'
+updated: '2025-12-23T11:25:12.533093+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 10:57 UTC  
+**Last Updated:** December 23, 2025 at 11:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** +1.4%  
-**30d:** -1.2%  
-**90d:** -19.7%  
-**1y:** -11.3%  
+**24h:** -2.9%  
+**7d:** +1.5%  
+**30d:** -1.0%  
+**90d:** -19.6%  
+**1y:** -11.2%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 bitvoin
 
-22h ago
+23h ago
 
 ---
 
@@ -119,13 +119,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-21h ago
+22h ago
 
 ---
 
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 14h ago
 
 After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 13h ago
 
 Led by Executive Chairman Michael Saylor, the company raised the funds entirely by sales of common stock.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -197,7 +197,7 @@ Investor's Business Daily • 14h ago
 
 The long-anticipated Bitcoin “Santa rally” may be delayed until after the New Year. Billions of dollars in Bitcoin options expiring on Dec. 26 could amplify ...
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,13 +205,13 @@ Yahoo Finance • 57m ago
 
 VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
 
-CoinDesk • 47m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcwNCS9Dns4LUBX1PeO84qZhtJP8qvG45Hlihp4H2JaYtU8SbmSTIvn&gaa_ts=694a7904&gaa_sig=LfFag0mnKFLMag8OJFjmu-5e27-ZdGh-VutnKcBtWGlif33KA5AJaYV962hZiQotlIogQ8FLBj5MbKbwnVbOBw%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -253,7 +253,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 19h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 20h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -275,7 +275,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 3h ago
+⬆️ 1 • 💬 0 • 4h ago
 
 ---
 
@@ -289,7 +289,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 120 • ⏱️ 11:35 • 11h ago
+👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:35 • 11h ago
 
 ---
 
@@ -299,7 +299,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 219 • ⏱️ 39:10 • 19h ago
+👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 19h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 202 • ⏱️ 15:15 • 1d ago
+👁️ 29K • 👍 2K • 💬 201 • ⏱️ 15:15 • 1d ago
 
 ---
 
@@ -319,17 +319,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 3K • 👍 29 • 💬 45 • ⏱️ 3:19 • 12h ago
-
----
-
-**[Bitcoin $24 BILLION TRAP Exposed! (Crypto Won’t Recover Until THIS Happens)](https://www.youtube.com/watch?v=zjxvexnqhpw)**
-
-In this video, we break down the hidden liquidity trap locking billions of dollars in Bitcoin, why crypto won't fully recover yet, and ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 145 • 💬 12 • ⏱️ 6:04 • 10h ago
+👁️ 3K • 👍 32 • 💬 63 • ⏱️ 3:19 • 12h ago
 
 ---
 
@@ -339,7 +329,17 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 180 • ⏱️ 16:18 • 1d ago
+👁️ 38K • 👍 2K • 💬 186 • ⏱️ 16:18 • 1d ago
+
+---
+
+**[Serious Investors Think Bitcoin Is Going Here By JANUARY](https://www.youtube.com/watch?v=13_C9qFzuIk)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 17K • 👍 871 • 💬 140 • ⏱️ 6:08 • 18h ago
 
 ---
 
@@ -349,7 +349,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 149 • ⏱️ 10:16 • 11h ago
+👁️ 33K • 👍 2K • 💬 160 • ⏱️ 10:16 • 11h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 305 • ⏱️ 1:04:41 • 19h ago
+👁️ 19K • 👍 1K • 💬 302 • ⏱️ 1:04:41 • 19h ago
 
 ---
 
@@ -369,7 +369,7 @@ Jeff Ross joins the show for a breakdown of why the global financial system is c
 
 📺 What Bitcoin Did
 
-👁️ 12K • 👍 587 • 💬 136 • ⏱️ 1:04:00 • 22h ago
+👁️ 12K • 👍 598 • 💬 138 • ⏱️ 1:04:00 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 448 • 💬 118 • ⏱️ 1:11:22 • 15h ago
+👁️ 10K • 👍 458 • 💬 116 • ⏱️ 1:11:22 • 15h ago
 
 ---
 

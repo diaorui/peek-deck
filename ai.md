@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T10:57:30.348682+00:00'
+updated: '2025-12-23T11:25:12.525538+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 10:57 UTC  
+**Last Updated:** December 23, 2025 at 11:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Google recently shipped an API that handles conversation history, context manage
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 14h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 23h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 1d ago
 
 ---
 
@@ -89,7 +89,7 @@ MIT CSAIL study suggests that neural network architectures considered unsuitable
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 17h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 18h ago
 
 ---
 
@@ -97,7 +97,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-52m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 1h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 2h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 2h ago
 
 TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -149,13 +149,13 @@ Financial Times • 9h ago
 
 A Brex survey shows that coding and video are reaping big customer gains.
 
-Fortune • 21m ago
+Fortune • 49m ago
 
 ---
 
 **[AI investors don't use most AI tools. Here are the ones they do use](https://qz.com/ai-investors-tools-agents-chatbots)**
 
-qz.com • 51m ago
+qz.com • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ qz.com • 51m ago
 
 Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
 
-blog.google • 16h ago
+blog.google • 17h ago
 
 ---
 
@@ -171,7 +171,7 @@ blog.google • 16h ago
 
 You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 5h ago
 
 NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
 
-Air & Space Forces Magazine • 16h ago
+Air & Space Forces Magazine • 17h ago
 
 ---
 
@@ -193,7 +193,7 @@ The New York Times • 1d ago
 
 Yoshua Bengio, one of the "AI godfathers," said AI technology has a sycophancy problem, so he lies to chatbots to get better responses.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -282,7 +282,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 108 • 💬 73 • 4h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 108 • 💬 73 • 5h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -296,7 +296,7 @@ Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Reg
 
 📺 IBM Technology
 
-👁️ 21K • 👍 951 • 💬 39 • ⏱️ 11:39 • 22h ago
+👁️ 23K • 👍 1K • 💬 39 • ⏱️ 11:39 • 23h ago
 
 ---
 
@@ -306,7 +306,17 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 19K • 💬 50 • ⏱️ 44:39 • 17h ago
+👁️ 21K • 💬 50 • ⏱️ 44:39 • 18h ago
+
+---
+
+**[The Truth About The AI Bubble](https://www.youtube.com/watch?v=cqrJzG03ENE)**
+
+2025 was the year AI stopped feeling chaotic and started feeling buildable. In this Lightcone episode, the YC partners break down ...
+
+📺 Y Combinator
+
+👁️ 25K • 👍 665 • 💬 43 • ⏱️ 30:23 • 20h ago
 
 ---
 
@@ -316,7 +326,7 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 27K • 👍 351 • 💬 218 • ⏱️ 4:26 • 1d ago
+👁️ 28K • 👍 351 • 💬 218 • ⏱️ 4:26 • 1d ago
 
 ---
 
@@ -326,7 +336,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 1.1M • 👍 5K • 💬 234 • ⏱️ 8:24 • 2d ago
+👁️ 1.1M • 👍 6K • 💬 241 • ⏱️ 8:24 • 2d ago
 
 ---
 
@@ -336,17 +346,7 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 239K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
-
----
-
-**[AI Bubble just CRASHED in SF](https://www.youtube.com/watch?v=3bGe4CkrLUM)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 157K • 👍 10K • 💬 3K • ⏱️ 16:54 • 1d ago
+👁️ 240K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
 
 ---
 
@@ -356,7 +356,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 100K • 👍 3K • 💬 134 • ⏱️ 1:29 • 1d ago
+👁️ 103K • 👍 3K • 💬 136 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -366,27 +366,27 @@ Click here to learn more about VibeCode and Get your first 3 apps free using cod
 
 📺 Matt Wolfe
 
-👁️ 67K • 👍 3K • 💬 207 • ⏱️ 37:38 • 2d ago
+👁️ 67K • 👍 3K • 💬 209 • ⏱️ 37:38 • 2d ago
 
 ---
 
-**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
+**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
 
-Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
+Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
 
-📺 Sasha Yanshin
+📺 Greg Isenberg
 
-👁️ 150K • 👍 7K • 💬 2K • ⏱️ 16:44 • 1d ago
+👁️ 9K • 👍 282 • 💬 32 • ⏱️ 18:48 • 13h ago
 
 ---
 
-**[Real vs AI Videos!](https://www.youtube.com/watch?v=BdBGTLJekWE)**
+**[How AI has transformed in 2025](https://www.youtube.com/watch?v=bL7Rrd7N5Ho)**
 
-Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf.io/PrestonReacts For 10% off your purchase at ...
+Artificial intelligence has impacted industries and people around the world this year, from producing music to relationships.
 
-📺 PrestonReacts
+📺 CBS Mornings
 
-👁️ 164K • 👍 2K • 💬 434 • ⏱️ 15:32 • 2d ago
+👁️ 19K • 👍 344 • 💬 45 • ⏱️ 1:03:20 • 1d ago
 
 ---
 
@@ -462,7 +462,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 365 • 1h ago
+⬇️ 0 • ❤️ 365 • 2h ago
 
 ---
 
@@ -668,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.9k • 🔱 650 • 2h ago
+⭐ 5.9k • 🔱 650 • 3h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 341 • 34m ago
+⭐ 2.5k • 🔱 341 • 1h ago
 
 ---
 
@@ -688,7 +688,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 183 • 1h ago
+⭐ 2.5k • 🔱 183 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T10:57:30.366696+00:00'
+updated: '2025-12-23T11:25:12.538408+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 10:57 UTC  
+**Last Updated:** December 23, 2025 at 11:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** +4.6%  
-**30d:** +0.3%  
-**90d:** -23.1%  
-**1y:** -15.2%  
+**24h:** -2.8%  
+**7d:** +5.0%  
+**30d:** +0.6%  
+**90d:** -22.9%  
+**1y:** -14.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 18h ago
 
 Ethereum price started a recovery wave above $2,980. ETH is now consolidating and faces a key barrier near the $3,080 level.Ethereum Price Faces Important ResistanceEthereum price started a decent increase above $2,880, like Bitcoin. ETH price was able to surpass the $2,920 and $2,950 resistance le…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 7h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 14h ago
+Bit Digital • 15h ago
 
 ---
 
@@ -232,63 +232,33 @@ Crypto Briefing • 22h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=SqBUgWNzN_k)**
-
-As part of the MCO partnership with Bybit, here's a quick overview of a currently running campaign on Bybit.com for active traders ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 95 • 💬 9 • ⏱️ 8:07 • 8h ago
-
----
-
 **[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 743 • 💬 75 • ⏱️ 15:49 • 1d ago
+👁️ 22K • 👍 744 • 💬 79 • ⏱️ 15:49 • 1d ago
 
 ---
 
-**[THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ryb8qPUZCUc)**
+**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
 
-THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
 
-📺 Crypto World
+📺 The Modern Investor
 
-👁️ 9K • 👍 306 • 💬 93 • ⏱️ 17:34 • 18h ago
-
----
-
-**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 501 • 👍 37 • 💬 39 • ⏱️ 5:02 • 16h ago
+👁️ 1K • 👍 202 • 💬 69 • ⏱️ 22:25 • 1h ago
 
 ---
 
-**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=SqBUgWNzN_k)**
 
-BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
+As part of the MCO partnership with Bybit, here's a quick overview of a currently running campaign on Bybit.com for active traders ...
 
-📺 CryptoStock Lab
+📺 More Crypto Online
 
-👁️ 2K • 👍 41 • 💬 26 • ⏱️ 16:54 • 14h ago
-
----
-
-**[TOM LEE JUST DROPPED $40M ON ETH! (Whale Alert)](https://www.youtube.com/watch?v=iNSNWJAiXX0)**
-
-Today's Whale Buy Alert The wallet just activated. And the size of the buy is staggering. According to on-chain data, BitMine ...
-
-📺 Wall Street Stockcast
-
-👁️ 1K • 👍 45 • 💬 66 • ⏱️ 7:32 • 21h ago
+👁️ 2K • 👍 108 • 💬 10 • ⏱️ 8:07 • 8h ago
 
 ---
 
@@ -298,17 +268,47 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 526 • 💬 124 • ⏱️ 15:45 • 5h ago
+👁️ 3K • 👍 631 • 💬 164 • ⏱️ 15:45 • 6h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HXb6p0wUQt0)**
+**[Crypto - WTF Do We Even Do Now?](https://www.youtube.com/watch?v=3V-NHrUUgw4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BTC, SOL, ETH, stocks, and space trade! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
 
-📺 More Crypto Online
+📺 Lark Davis
 
-👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 21h ago
+👁️ 1K • 👍 97 • 2h ago
+
+---
+
+**[THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ryb8qPUZCUc)**
+
+THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 309 • 💬 76 • ⏱️ 17:34 • 19h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 533 • 👍 38 • 💬 39 • ⏱️ 5:02 • 16h ago
+
+---
+
+**[TOM LEE JUST DROPPED $40M ON ETH! (Whale Alert)](https://www.youtube.com/watch?v=iNSNWJAiXX0)**
+
+Today's Whale Buy Alert The wallet just activated. And the size of the buy is staggering. According to on-chain data, BitMine ...
+
+📺 Wall Street Stockcast
+
+👁️ 1K • 👍 45 • 💬 58 • ⏱️ 7:32 • 22h ago
 
 ---
 
@@ -318,17 +318,17 @@ Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does
 
 📺 Schwab Network
 
-👁️ 3K • 👍 65 • 💬 8 • ⏱️ 8:22 • 1d ago
+👁️ 4K • 👍 68 • 💬 8 • ⏱️ 8:22 • 1d ago
 
 ---
 
-**[Ethereum’s Setup Signals Volatility Ahead Into 2026](https://www.youtube.com/watch?v=LNC18lqDyPs)**
+**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
 
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
 
-📺 Trade Confident
+📺 CryptoStock Lab
 
-👁️ 445 • 👍 20 • 💬 27 • ⏱️ 5:29 • 14h ago
+👁️ 2K • 👍 44 • 💬 24 • ⏱️ 16:54 • 15h ago
 
 ---
 
