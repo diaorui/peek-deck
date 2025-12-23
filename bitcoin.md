@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T04:50:43.464900+00:00'
+updated: '2025-12-23T05:15:39.512307+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 04:50 UTC  
+**Last Updated:** December 23, 2025 at 05:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +2.4%  
-**30d:** -0.2%  
-**90d:** -18.9%  
-**1y:** -10.5%  
+**24h:** -1.0%  
+**7d:** +2.1%  
+**30d:** -0.4%  
+**90d:** -19.1%  
+**1y:** -10.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1ptcaxi/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 8h ago
 
 The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Verge • 9h ago
 
 **[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqe38FiKPbxr5EemN2FkPcLvyENNRBppolP_quovSmm6AV2xNbFrWoBO&gaa_ts=694a2310&gaa_sig=iQggqneckytnap9I_H8boc_OLTjSMClBcX7xvxuhmOUzBuQ05vhf3NJyVdTw4KF-3hpRvu8jTld5T77zM2X-fA%3D%3D)**
 
-Barron's • 14h ago
+Barron's • 15h ago
 
 ---
 
@@ -213,7 +213,7 @@ Nasdaq • 1d ago
 
 Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -221,7 +221,7 @@ Seeking Alpha • 16h ago
 
 Trump Media added 451 BTC worth about $40.3 million, taking its bitcoin holdings to 11,542 BTC as BlackRock highlighted bitcoin as a major 2025 investment theme.
 
-Bitbo • 9h ago
+Bitbo • 10h ago
 
 ---
 
@@ -263,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 13h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 14h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -279,7 +279,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 2 • 💬 0 • 8h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 9h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -303,7 +303,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 111 • ⏱️ 11:35 • 4h ago
+👁️ 9K • 👍 1K • 💬 111 • ⏱️ 11:35 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 202 • 💬 107 • ⏱️ 8:51 • 9h ago
+👁️ 3K • 👍 202 • 💬 107 • ⏱️ 8:51 • 10h ago
 
 ---
 

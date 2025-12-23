@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T04:50:43.470977+00:00'
+updated: '2025-12-23T05:15:39.518245+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 04:50 UTC  
+**Last Updated:** December 23, 2025 at 05:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +5.6%  
-**30d:** +1.2%  
-**90d:** -22.4%  
-**1y:** -14.4%  
+**24h:** -1.6%  
+**7d:** +5.1%  
+**30d:** +0.8%  
+**90d:** -22.8%  
+**1y:** -14.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 1d ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 2d ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 8h ago
+Bit Digital • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 282 • 💬 104 • ⏱️ 17:34 • 12h ago
+👁️ 8K • 👍 282 • 💬 104 • ⏱️ 17:34 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 157 • 💬 6 • ⏱️ 4:52 • 15h ago
+👁️ 2K • 👍 157 • 💬 6 • ⏱️ 4:52 • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 43 • 💬 68 • ⏱️ 7:32 • 15h ago
+👁️ 1K • 👍 43 • 💬 68 • ⏱️ 7:32 • 16h ago
 
 ---
 
@@ -278,7 +278,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 34 • 💬 31 • ⏱️ 16:54 • 8h ago
+👁️ 1K • 👍 34 • 💬 31 • ⏱️ 16:54 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 126 • 💬 67 • ⏱️ 31:48 • 15h ago
+👁️ 2K • 👍 126 • 💬 67 • ⏱️ 31:48 • 16h ago
 
 ---
 

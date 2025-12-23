@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T04:50:43.456321+00:00'
+updated: '2025-12-23T05:15:39.503956+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 04:50 UTC  
+**Last Updated:** December 23, 2025 at 05:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 17h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 11h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 12h ago
 
 ---
 
@@ -97,7 +97,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ ABC News • 21h ago
 
 Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
 
-blog.google • 10h ago
+blog.google • 11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox 59 • 6h ago
 
 **[Trump signed an order blocking ‘onerous’ AI laws. What will it mean for Idaho?](https://www.idahostatesman.com/news/politics-government/state-politics/article313845906.html)**
 
-Idaho Statesman • 17h ago
+Idaho Statesman • 18h ago
 
 ---
 
@@ -153,7 +153,7 @@ Idaho Statesman • 17h ago
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
-The Daily Beast • 1h ago
+The Daily Beast • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Daily Beast • 1h ago
 
 Police believe there may be other victims after an after-school employee was arrested on suspicion of making AI-generated child pornography.
 
-NBC Los Angeles • 12m ago
+NBC Los Angeles • 37m ago
 
 ---
 
@@ -169,7 +169,7 @@ NBC Los Angeles • 12m ago
 
 At a New York City training session, educators explored how artificial intelligence could support teaching while also discussing their concerns around the technology.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 8h ago
 
 NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
 
-Air & Space Forces Magazine • 10h ago
+Air & Space Forces Magazine • 11h ago
 
 ---
 
@@ -264,7 +264,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 135 • 💬 161 • 21h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 135 • 💬 161 • 22h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -278,7 +278,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 128 • 💬 107 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 128 • 💬 107 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.8k • 🔱 3.0k • 23h ago
+⭐ 18.8k • 🔱 3.0k • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 636 • 37m ago
+⭐ 5.8k • 🔱 636 • 1h ago
 
 ---
 
