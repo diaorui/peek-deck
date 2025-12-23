@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T09:52:23.458576+00:00'
+updated: '2025-12-23T10:17:10.538921+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 09:52 UTC  
+**Last Updated:** December 23, 2025 at 10:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,11 @@ Uh oh…
 
 ---
 
-**[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
+**[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
 
-AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
+There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 36m ago
+11m ago
 
 ---
 
@@ -65,15 +65,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 22h ago
-
----
-
-**[I tried building a deterministic system to make AI safe, verifiable, auditable.](https://www.reddit.com/r/artificial/comments/1pto9go/i_tried_building_a_deterministic_system_to_make/)**
-
-The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
-
-🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 2h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 23h ago
 
 ---
 
@@ -97,7 +89,7 @@ MIT CSAIL study suggests that neural network architectures considered unsuitable
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 16h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 17h ago
 
 ---
 
@@ -109,11 +101,19 @@ OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1]
 
 ---
 
-**[Are we dismissing AI spend before the 6x compute jump lands?](https://www.reddit.com/r/artificial/comments/1pt0qq1/are_we_dismissing_ai_spend_before_the_6x_compute/)**
+**[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
 
-Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
+AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 19h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 1h ago
+
+---
+
+**[I tried building a deterministic system to make AI safe, verifiable, auditable.](https://www.reddit.com/r/artificial/comments/1pto9go/i_tried_building_a_deterministic_system_to_make/)**
+
+The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
+
+🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 2h ago
 
 ---
 
@@ -137,57 +137,49 @@ The Guardian • 1h ago
 
 ---
 
+**[TikTok’s Chinese owner plans $23bn AI spend to keep pace with US rivals](https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad)**
+
+TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
+
+Financial Times • 9h ago
+
+---
+
+**[AI investors don't use most AI tools. Here are the ones they do use](https://qz.com/ai-investors-tools-agents-chatbots)**
+
+qz.com • 11m ago
+
+---
+
+**[The AI dating arms race: Dating apps are betting millions that you'll fall back in love with them](https://www.businessinsider.com/dating-apps-bet-ai-will-increase-users-2025-12)**
+
+Dating apps like Tinder, Hinge, Bumble, and Grindr are investing in AI-powered matchmaking, hoping to fend off swiping fatigue.
+
+Business Insider • 37m ago
+
+---
+
+**[2 Artificial Intelligence ETFs to Confidently Buy Heading Into 2026](https://www.fool.com/investing/2025/12/23/2-ai-etfs-to-confidently-buy-heading-into-2026/)**
+
+Both of these exchange-traded funds are beating the market in 2025 thanks to their concentrated portfolios of AI stocks.
+
+The Motley Fool • 1h ago
+
+---
+
 **[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)**
 
 Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
 
-blog.google • 15h ago
+blog.google • 16h ago
 
 ---
 
-**[Little-known underground salt caverns could slow the AI boom and its thirst for power](https://fortune.com/2025/12/23/underground-salt-caverns-gas-power-ai-data-centers/)**
+**[Google’s Chess Master Is Working on AI's Killer App](https://www.bloomberg.com/opinion/articles/2025-12-23/google-ai-boss-demis-hassabis-is-working-on-the-next-killer-app)**
 
-Power demand, gas production, and pipeline and power plant construction are soaring, but the storage space for natural gas is running out.
+You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
 
-Fortune • 1h ago
-
----
-
-**[Why Nvidia’s AI Empire Faces a Reckoning in 2026](https://www.eetimes.com/why-nvidias-ai-empire-faces-a-reckoning-in-2026/)**
-
-EE Times • 1h ago
-
----
-
-**[Nvidia aims to start H200 AI chip shipments to China by mid-February: sources](https://www.scmp.com/tech/big-tech/article/3337479/nvidia-aims-start-h200-ai-chip-shipments-china-mid-february-sources-say)**
-
-The US chip designer plans to fulfil initial orders from existing stock, with shipments expected to total 40,000 to 80,000 H200 chips.
-
-South China Morning Post • 1h ago
-
----
-
-**[Prediction: 2 Artificial Intelligence Stocks That Will Be Worth More Than Nvidia by the End of 2026](https://www.fool.com/investing/2025/12/22/prediction-2-artificial-intelligence-stocks-that-w/)**
-
-These companies should have higher earnings power than Nvidia in 2026.
-
-The Motley Fool • 10h ago
-
----
-
-**[Yann LeCun's Advice for Young Students Wanting to Go Into AI](https://www.businessinsider.com/yann-lecun-advice-ai-careers-computer-science-degree-2025-12)**
-
-Former Meta chief AI scientist Yann LeCun said current and prospective CS students need to focus on skills "with a long shelf life."
-
-Business Insider • 1d ago
-
----
-
-**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
-
-As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
-
-CNN • 2d ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -195,7 +187,13 @@ CNN • 2d ago
 
 NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
 
-Air & Space Forces Magazine • 15h ago
+Air & Space Forces Magazine • 16h ago
+
+---
+
+**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -207,7 +205,7 @@ Air & Space Forces Magazine • 15h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 586 • 💬 401 • 17h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 593 • 💬 404 • 17h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -222,12 +220,6 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
 ⬆️ 242 • 💬 191 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
-
----
-
-**[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
-
-⬆️ 238 • 💬 356 • 3d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -274,7 +266,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 133 • 💬 109 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 134 • 💬 109 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -283,6 +275,14 @@ But perhaps this can be resolved by the realization that while cleverness and in
 This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
 
 ⬆️ 128 • 💬 53 • 2d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
+
+---
+
+**[iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://news.ycombinator.com/item?id=46362927)**
+
+The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
+
+⬆️ 98 • 💬 57 • 3h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -296,7 +296,7 @@ Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Reg
 
 📺 IBM Technology
 
-👁️ 21K • 👍 951 • 💬 39 • ⏱️ 11:39 • 21h ago
+👁️ 21K • 👍 951 • 💬 39 • ⏱️ 11:39 • 22h ago
 
 ---
 
@@ -394,18 +394,6 @@ Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf
 
 ## HuggingFace Models: 🔥 Trending
 
-**[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
-
-*Tongyi-MAI*
-
-Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B parameters) offering sub-second inference with 8 NFEs. It excels at photorealistic generation, bilingual text rendering (EN/ZH), and instruction adherence, fitting within 16GB VRAM.
-
-`text-to-image`
-
-⬇️ 373,123 • ❤️ 3,322 • 14d ago
-
----
-
 **[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
 
 *Qwen*
@@ -414,7 +402,19 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 570 • 4d ago
+⬇️ 9,848 • ❤️ 572 • 4d ago
+
+---
+
+**[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
+
+*Tongyi-MAI*
+
+Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B parameters) offering sub-second inference with 8 NFEs. It excels at photorealistic generation, bilingual text rendering (EN/ZH), and instruction adherence, fitting within 16GB VRAM.
+
+`text-to-image`
+
+⬇️ 373,123 • ❤️ 3,323 • 14d ago
 
 ---
 
@@ -426,19 +426,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 491 • 4d ago
-
----
-
-**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
-
-*NVIDIA*
-
-NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling in reasoning and general tasks across multiple languages. It generates reasoning traces before final answers for improved accuracy, supporting commercial use.
-
-`text-generation` `31.6B`
-
-⬇️ 110,376 • ❤️ 447 • 3d ago
+⬇️ 21,058 • ❤️ 492 • 4d ago
 
 ---
 
@@ -450,7 +438,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 10,832 • ❤️ 413 • 5d ago
+⬇️ 10,832 • ❤️ 415 • 5d ago
 
 ---
 
@@ -466,18 +454,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
-**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
-
-*Shakker Labs*
-
-AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
-
-`text-to-image`
-
-⬇️ 6,493 • ❤️ 410 • 9d ago
-
----
-
 **[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
 
 *Microsoft*
@@ -486,7 +462,43 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 362 • 31m ago
+⬇️ 0 • ❤️ 364 • 56m ago
+
+---
+
+**[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
+
+*Shakker Labs*
+
+AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo to produce high-quality, realistic portraits with improved skin texture, controlled lighting, and diverse facial features, ideal for beauty and portrait applications.
+
+`text-to-image`
+
+⬇️ 6,493 • ❤️ 412 • 9d ago
+
+---
+
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 1,148 • ❤️ 350 • 35m ago
+
+---
+
+**[NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16)**
+
+*NVIDIA*
+
+NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mamba architecture, excelling in reasoning and general tasks across multiple languages. It generates reasoning traces before final answers for improved accuracy, supporting commercial use.
+
+`text-generation` `31.6B`
+
+⬇️ 110,376 • ❤️ 447 • 3d ago
 
 ---
 
@@ -499,18 +511,6 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 `text-to-speech`
 
 ⬇️ 0 • ❤️ 339 • 7d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 1,148 • ❤️ 336 • 3h ago
 
 ---
 
@@ -688,7 +688,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 183 • 51m ago
+⭐ 2.5k • 🔱 183 • 1h ago
 
 ---
 

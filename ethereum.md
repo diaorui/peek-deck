@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T09:52:23.474681+00:00'
+updated: '2025-12-23T10:17:10.551735+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 09:52 UTC  
+**Last Updated:** December 23, 2025 at 10:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -2.6%  
-**7d:** +4.6%  
-**30d:** +0.3%  
-**90d:** -23.2%  
-**1y:** -15.2%  
+**7d:** +4.8%  
+**30d:** +0.4%  
+**90d:** -23.0%  
+**1y:** -15.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.89B
+**Market Cap:** $357.96B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.2%
+-40.1%
 
 **All-Time Low:** $0.43
-+682910.0%
++684492.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -170,7 +170,7 @@ AMBCrypto • 3d ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 6h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 13h ago
+Bit Digital • 14h ago
 
 ---
 
@@ -258,7 +258,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 306 • 💬 93 • ⏱️ 17:34 • 17h ago
+👁️ 9K • 👍 306 • 💬 93 • ⏱️ 17:34 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 41 • 💬 26 • ⏱️ 16:54 • 13h ago
+👁️ 2K • 👍 41 • 💬 26 • ⏱️ 16:54 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 45 • 💬 66 • ⏱️ 7:32 • 20h ago
+👁️ 1K • 👍 45 • 💬 66 • ⏱️ 7:32 • 21h ago
 
 ---
 
@@ -298,7 +298,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 526 • 💬 124 • ⏱️ 15:45 • 4h ago
+👁️ 2K • 👍 526 • 💬 124 • ⏱️ 15:45 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 20h ago
+👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 21h ago
 
 ---
 

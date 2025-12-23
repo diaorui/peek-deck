@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T09:52:23.467486+00:00'
+updated: '2025-12-23T10:17:10.546444+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 09:52 UTC  
+**Last Updated:** December 23, 2025 at 10:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,535.25
+### $87,523.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
+**24h:** -2.7%  
 **7d:** +1.5%  
-**30d:** -1.1%  
+**30d:** -1.0%  
 **90d:** -19.6%  
-**1y:** -11.3%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.52B
+**Market Cap:** $1746.90B
 Rank #1
 
 **Circulating Supply:** 19,965,887 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128770.4%
++128916.4%
 
 ---
 
@@ -76,12 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
-
-11h ago
-
----
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
@@ -97,6 +91,12 @@ bitvoin
 
 ---
 
+**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+
+12h ago
+
+---
+
 **[It's NOT over](https://www.reddit.com/r/Bitcoin/comments/1pt1de2/its_not_over/)**
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
@@ -105,27 +105,33 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
+**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
+
+35m ago
+
+---
+
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-20h ago
+21h ago
 
 ---
 
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-13h ago
+14h ago
+
+---
+
+**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
+
+2h ago
 
 ---
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
 15h ago
-
----
-
-**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
-
-1h ago
 
 ---
 
@@ -137,12 +143,6 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 ---
 
-**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1ptcaxi/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
-
-11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,23 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
+
+---
+
+**[Could Bitcoin Finally Break $100,000 This Christmas Week – Or Is A Drop To $70,000 Coming?](https://bitcoinmagazine.com/markets/bitcoin-price-outlook-bulls-target-94000-break-for-momentum-into-new-year)**
+
+After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
+
+Bitcoin Magazine • 14h ago
+
+---
+
+**[Bitcoin holding above $91K will be 'sigh of relief' for bulls](https://finance.yahoo.com/video/bitcoin-holding-above-91k-sigh-163000954.html)**
+
+Bitcoin (BTC-USD) is back above $90,000 per token on Monday morning as investors look back on a highly volatile year for the digital asset, which has seen a broad sell-off since hitting its record high above $126,000 in early October. Marketgauge.com chief strategist Michele Schneider examines the technicals of the cryptocurrency and the price range that crypto bulls would feel most comfortable with bitcoin closing 2025 out at. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+
+Yahoo Finance • 17h ago
 
 ---
 
@@ -159,7 +175,7 @@ CoinDesk • 4h ago
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -177,47 +193,35 @@ Investor's Business Daily • 13h ago
 
 ---
 
+**[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
+
+Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
+
+Seeking Alpha • 22h ago
+
+---
+
+**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
+
+The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
+
+CoinDesk • 18h ago
+
+---
+
 **[BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025](https://finance.yahoo.com/news/blackrock-names-spot-bitcoin-etf-080029020.html)**
 
 BlackRock has placed its spot Bitcoin exchange-traded fund among its three biggest investment themes for 2025, ranking the product alongside Treasury bills and US mega-cap technology stocks. Key Takeaways: BlackRock named its spot Bitcoin ETF a top 2025 investment theme alongside Treasurys and big tech. IBIT attracted over $25 billion ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqfuKuFHqwuPIA9Rg674vP4VxEe40NlOdcCXXV_krOkkc86X-7-nuzQL&gaa_ts=694a65c7&gaa_sig=tVPQAnUlRBdv5tGyk5KRPNfFTxG4TYc63mAWdmDOFVHf2_5sz6trmmrlVKi3s-WcvlTLdRSLhZpYid28_7mv6g%3D%3D)**
+**[Bitcoin trails polar opposites, Gold and Copper, as the 'fear and AI' trade lifts tangible assets](https://www.coindesk.com/markets/2025/12/23/bitcoin-trails-polar-opposites-gold-and-copper-as-the-fear-and-ai-trade-lifts-tangible-assets)**
 
-Barron's • 19h ago
+Gold and copper have outperformed other major assets this year, with gold rallying more than copper.
 
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
-
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
-
-Nasdaq • 1d ago
-
----
-
-**[XRP vs. Bitcoin: Which Cryptocurrency Will Perform Better in 2026?](https://www.fool.com/investing/2025/12/20/xrp-vs-bitcoin-which-cryptocurrency-will-perform-b/)**
-
-Both digital assets have been struggling of late, but both also have catalysts that could help drive their prices higher next year.
-
-The Motley Fool • 2d ago
-
----
-
-**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
-
-Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
-
-VanEck • 15h ago
-
----
-
-**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
-
-The Block • 3h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -247,19 +251,11 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 ---
 
-**[Bitcoin-Gold Flippening – Flip.gold](https://news.ycombinator.com/item?id=46286571)**
-
-Current flip point: $1,505,587 per bitcoin - 5.87% progress
-
-⬆️ 1 • 💬 0 • 7d ago • [flip.gold](https://flip.gold/)
-
----
-
 **[Federal Prison for Writing Code](https://news.ycombinator.com/item?id=46354699)**
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 18h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 19h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -275,13 +271,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 13h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 14h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 1 • 💬 0 • 3h ago
 
 ---
 
@@ -295,7 +291,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 120 • ⏱️ 11:35 • 9h ago
+👁️ 17K • 👍 2K • 💬 120 • ⏱️ 11:35 • 10h ago
 
 ---
 
@@ -335,7 +331,7 @@ In this video, we break down the hidden liquidity trap locking billions of dolla
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 145 • 💬 12 • ⏱️ 6:04 • 9h ago
+👁️ 3K • 👍 145 • 💬 12 • ⏱️ 6:04 • 10h ago
 
 ---
 
@@ -375,7 +371,7 @@ Jeff Ross joins the show for a breakdown of why the global financial system is c
 
 📺 What Bitcoin Did
 
-👁️ 12K • 👍 587 • 💬 136 • ⏱️ 1:04:00 • 21h ago
+👁️ 12K • 👍 587 • 💬 136 • ⏱️ 1:04:00 • 22h ago
 
 ---
 
