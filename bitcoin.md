@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T23:42:04.780532+00:00'
+updated: '2025-12-23T23:53:25.881435+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 23:42 UTC  
+**Last Updated:** December 23, 2025 at 23:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +1.5%  
-**30d:** -1.0%  
-**90d:** -19.6%  
-**1y:** -11.2%  
+**24h:** -1.7%  
+**7d:** +1.2%  
+**30d:** -1.3%  
+**90d:** -19.8%  
+**1y:** -11.5%  
 
 ---
 
@@ -127,7 +127,7 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-10h ago
+11h ago
 
 ---
 
@@ -377,7 +377,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 14K • 👍 659 • 💬 57 • ⏱️ 10:08 • 14h ago
+👁️ 14K • 👍 659 • 💬 57 • ⏱️ 10:08 • 15h ago
 
 ---
 

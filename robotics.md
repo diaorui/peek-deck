@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T23:42:04.789804+00:00'
+updated: '2025-12-23T23:53:25.890964+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 23:42 UTC  
+**Last Updated:** December 23, 2025 at 23:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 While it might sound like a weapon of oceanic destruction in the hands of Aquaman’s arch enemies, the new “stingraybot” from a team at ETH Zurich (the Federal Institute of Technology of Switzerland) offers enormous promise for surgery, medical care, wildlife biology, robotics, and more, thanks to…
 
-New Atlas • 3h ago
+New Atlas • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 36K • 💬 4 • ⏱️ 0:26 • 21h ago
+👁️ 36K • 💬 4 • ⏱️ 0:26 • 22h ago
 
 ---
 
