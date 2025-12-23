@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T04:10:31.910834+00:00'
+updated: '2025-12-23T04:50:43.456321+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 04:10 UTC  
+**Last Updated:** December 23, 2025 at 04:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 5h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Uh oh…
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 7h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ Game called "Humanize Robotics". I’m building a community of people like me - 
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 13h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 14h ago
 
 ---
 
@@ -89,7 +89,7 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-22h ago
+23h ago
 
 ---
 
@@ -105,7 +105,7 @@ Intel engineers as part of the OPEA Project today released the Generative AI Exa
 
 OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 18h ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 19h ago
 
 ---
 
@@ -113,7 +113,7 @@ OpenAI's compute margin is has hit 70%, according to The Information, which said
 
 Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
 
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 22h ago
+🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 23h ago
 
 ---
 
@@ -125,7 +125,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 20h ago
+ABC News • 21h ago
 
 ---
 
@@ -137,37 +137,15 @@ blog.google • 10h ago
 
 ---
 
-**[Citi Downgrades China Stocks, Lifts Taiwan on AI and Earnings](https://www.bloomberg.com/news/articles/2025-12-23/citi-downgrades-china-stocks-lifts-taiwan-on-earnings-outlook)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Alphabet Stock Has Surged on AI Momentum. Is It Still a Buy?](https://www.morningstar.com/stocks/alphabet-stock-has-surged-ai-momentum-is-it-still-buy)**
-
-Alphabet’s new Gemini 3 model and in-house TPU put the company ahead in the AI race, but risks remain.
-
-Morningstar • 17h ago
-
----
-
-**[What Is One of the Best AI Stocks to Buy and Hold in 2026 and Beyond?](https://finance.yahoo.com/news/one-best-ai-stocks-buy-102000039.html)**
-
-Alphabet's cash flows allow it to continue funding AI build-outs as it desires.
-
-Yahoo Finance • 17h ago
-
----
-
-**[The AI Boom Is Making Real-Estate Investors Rich—and Exposing Them to Risk](https://www.wsj.com/real-estate/the-ai-boom-is-making-real-estate-investors-richand-exposing-them-to-risk-b6e65b0c?gaa_at=eafs&gaa_n=AWEtsqfNp3_tTWAjiM5fENosb4LbPvC8i5ECimDnUn6seJpQ3IvQ1hF73rpl&gaa_ts=694a1986&gaa_sig=KzVZxOXfz3EmWui_FnkZNGdtkqUo8AdHAi4IQAuamwVuUdcfW1OmkT_eRNT1gaeHTXrqkQDdktsgOgUltGoADw%3D%3D)**
-
-The Wall Street Journal • 2h ago
-
----
-
 **[President Trump signs executive order to curb state-level AI laws](https://fox59.com/news/politics/president-trump-signs-executive-order-to-curb-state-level-ai-laws/)**
 
-Fox 59 • 5h ago
+Fox 59 • 6h ago
+
+---
+
+**[Trump signed an order blocking ‘onerous’ AI laws. What will it mean for Idaho?](https://www.idahostatesman.com/news/politics-government/state-politics/article313845906.html)**
+
+Idaho Statesman • 17h ago
 
 ---
 
@@ -179,9 +157,11 @@ The Daily Beast • 1h ago
 
 ---
 
-**[Trump signed an order blocking ‘onerous’ AI laws. What will it mean for Idaho?](https://www.idahostatesman.com/news/politics-government/state-politics/article313845906.html)**
+**[After-school employee accused of making AI-generated child pornography](https://www.nbclosangeles.com/news/local/after-school-employee-accused-of-making-ai-generated-child-pornography/3819847/)**
 
-Idaho Statesman • 17h ago
+Police believe there may be other victims after an after-school employee was arrested on suspicion of making AI-generated child pornography.
+
+NBC Los Angeles • 12m ago
 
 ---
 
@@ -190,6 +170,28 @@ Idaho Statesman • 17h ago
 At a New York City training session, educators explored how artificial intelligence could support teaching while also discussing their concerns around the technology.
 
 NBC News • 6h ago
+
+---
+
+**[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
+
+As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
+
+CNN • 1d ago
+
+---
+
+**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
+
+The New York Times • 8h ago
+
+---
+
+**[Air Force Shutting Down AI Chatbot NIPRGPT](https://www.airandspaceforces.com/air-force-shutting-down-ai-chatbot-niprgpt/)**
+
+NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
+
+Air & Space Forces Magazine • 10h ago
 
 ---
 
@@ -209,7 +211,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 463 • 💬 371 • 11h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 482 • 💬 374 • 12h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -217,13 +219,13 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 262 • 💬 164 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 262 • 💬 165 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 241 • 💬 189 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 241 • 💬 190 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -237,7 +239,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 180 • 💬 399 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 180 • 💬 398 • 1d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -248,7 +250,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 161 • 💬 81 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 162 • 💬 81 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -262,7 +264,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 135 • 💬 159 • 20h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 135 • 💬 161 • 21h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -370,7 +372,7 @@ Use Nano Banana inside Arcads https://roboverse-ai.com/ai-advertising (affiliate
 
 📺 Roboverse
 
-👁️ 5K • 💬 10 • ⏱️ 12:29 • 12h ago
+👁️ 5K • 💬 10 • ⏱️ 12:29 • 13h ago
 
 ---
 
@@ -396,7 +398,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,307 • 14d ago
+⬇️ 363,445 • ❤️ 3,308 • 14d ago
 
 ---
 
@@ -420,7 +422,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 484 • 4d ago
+⬇️ 14,346 • ❤️ 486 • 4d ago
 
 ---
 
@@ -444,7 +446,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 401 • 5d ago
+⬇️ 8,830 • ❤️ 402 • 5d ago
 
 ---
 
@@ -456,7 +458,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,187 • ❤️ 397 • 4d ago
+⬇️ 3,187 • ❤️ 398 • 4d ago
 
 ---
 
@@ -480,7 +482,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 354 • 6d ago
+⬇️ 0 • ❤️ 355 • 6d ago
 
 ---
 
@@ -504,7 +506,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 770 • ❤️ 276 • 5d ago
+⬇️ 770 • ❤️ 277 • 5d ago
 
 ---
 
@@ -611,21 +613,9 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 80 • 💬 6 • ⭐ 56 • 4d ago
+▲ 83 • 💬 6 • ⭐ 56 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
-
----
-
-**[3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://huggingface.co/papers/2512.17459)**
-
-*Tobias Sautter, Jan-Niklas Dihlmann, Hendrik P. A. Lensch*
-
-3D-RE-GEN reconstructs single images into modifiable 3D textured mesh scenes with comprehensive backgrounds, achieving top performance through compositional generation and scene optimization.
-
-▲ 4 • 💬 1 • ⭐ 33 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.17459) • [💻 code](https://github.com/cgtuebingen/3D-RE-GEN) • [🔗 project](https://3dregen.jdihlmann.com/)
 
 ---
 
@@ -638,6 +628,18 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 ▲ 61 • 💬 3 • ⭐ 673 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14614) • [💻 code](https://github.com/Tencent-Hunyuan/HY-WorldPlay) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
+
+---
+
+**[3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://huggingface.co/papers/2512.17459)**
+
+*Tobias Sautter, Jan-Niklas Dihlmann, Hendrik P. A. Lensch*
+
+3D-RE-GEN reconstructs single images into modifiable 3D textured mesh scenes with comprehensive backgrounds, achieving top performance through compositional generation and scene optimization.
+
+▲ 5 • 💬 1 • ⭐ 50 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.17459) • [💻 code](https://github.com/cgtuebingen/3D-RE-GEN) • [🔗 project](https://3dregen.jdihlmann.com/)
 
 ---
 
@@ -661,7 +663,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 636 • 12h ago
+⭐ 5.8k • 🔱 636 • 37m ago
 
 ---
 
@@ -671,7 +673,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 1h ago
+⭐ 2.4k • 🔱 181 • 2h ago
 
 ---
 
@@ -681,7 +683,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 313 • 4h ago
+⭐ 2.2k • 🔱 320 • 5h ago
 
 ---
 
@@ -691,7 +693,17 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.7k • 🔱 360 • 16d ago
+⭐ 1.7k • 🔱 361 • 16d ago
+
+---
+
+**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
+
+一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
+
+`JavaScript`
+
+⭐ 1.1k • 🔱 184 • 5h ago
 
 ---
 
@@ -705,23 +717,23 @@ Google Antigravity AI模型配额监控插件
 
 ---
 
-**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
-
-一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
-
-`JavaScript`
-
-⭐ 1.1k • 🔱 181 • 4h ago
-
----
-
 **[datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)**
 
 首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 925 • 🔱 89 • 17h ago
+⭐ 930 • 🔱 89 • 18h ago
+
+---
+
+**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
+
+A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+
+`JavaScript`
+
+⭐ 929 • 🔱 86 • 2h ago
 
 ---
 
@@ -732,16 +744,6 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
 ⭐ 918 • 🔱 25 • 15d ago
-
----
-
-**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
-
-A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-`JavaScript`
-
-⭐ 916 • 🔱 85 • 1h ago
 
 ---
 

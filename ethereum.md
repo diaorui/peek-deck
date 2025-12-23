@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T04:10:31.925255+00:00'
+updated: '2025-12-23T04:50:43.470977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 04:10 UTC  
+**Last Updated:** December 23, 2025 at 04:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,008.21
+### $2,989.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +5.5%  
+**24h:** -1.4%  
+**7d:** +5.6%  
 **30d:** +1.2%  
-**90d:** -22.5%  
-**1y:** -14.5%  
+**90d:** -22.4%  
+**1y:** -14.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $360.75B
+**Market Cap:** $360.65B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
@@ -62,7 +62,7 @@ No max supply
 -39.6%
 
 **All-Time Low:** $0.43
-+690286.8%
++690062.8%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 11h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 12h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-21h ago
+22h ago
 
 ---
 
@@ -154,53 +154,7 @@ I live in Indonesia. Trust funds basically don’t exist here, and investing in 
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 17h ago
-
----
-
-**[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
-
-The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
-
-CoinDesk • 2d ago
-
----
-
-**[$270 Million From BlackRock Wallets Hit Coinbase; Bitcoin and Ethereum at Risk of Sell-Off](https://www.tradingview.com/news/u_today:ac09f76e3094b:0-270-million-from-blackrock-wallets-hit-coinbase-bitcoin-and-ethereum-at-risk-of-sell-off/)**
-
-BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
-
-TradingView — Track All Markets • 14h ago
-
----
-
-**[Ethereum Leverage Hits Record Highs: Why Your ETH Now Sits on a Time Bomb](https://99bitcoins.com/news/altcoins/ethereum-leverage-hits-record-highs-why-your-eth-now-sits-on-a-time-bomb/)**
-
-99Bitcoins • 2d ago
-
----
-
-**[Bit Digital Announces Appointment of Amanda Cassatt to Board of Directors](https://bit-digital.com/press-releases/bit-digital-announces-appointment-of-amanda-cassatt-to-board-of-directors/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
-
-Bit Digital • 8h ago
-
----
-
-**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
-
-As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
-
-Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
-
-ZyCrypto • 2d ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -212,11 +166,49 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum whales move in! $644 mln ETH ETF outflows drain the market](https://ambcrypto.com/ethereum-whales-move-in-644-mln-eth-etf-outflows-drain-the-market/)**
+**[Ethereum treasury news: ETHZills (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
 
-Large holders are buying like never before while ETF numbers collapse.
+This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-AMBCrypto • 20h ago
+CoinDesk • 11h ago
+
+---
+
+**[$270 Million From BlackRock Wallets Hit Coinbase; Bitcoin and Ethereum at Risk of Sell-Off](https://www.tradingview.com/news/u_today:ac09f76e3094b:0-270-million-from-blackrock-wallets-hit-coinbase-bitcoin-and-ethereum-at-risk-of-sell-off/)**
+
+BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
+
+TradingView — Track All Markets • 15h ago
+
+---
+
+**[Ethereum Leverage Hits Record Highs: Why Your ETH Now Sits on a Time Bomb](https://99bitcoins.com/news/altcoins/ethereum-leverage-hits-record-highs-why-your-eth-now-sits-on-a-time-bomb/)**
+
+99Bitcoins • 2d ago
+
+---
+
+**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
+
+As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bit Digital Announces Appointment of Amanda Cassatt to Board of Directors](https://bit-digital.com/press-releases/bit-digital-announces-appointment-of-amanda-cassatt-to-board-of-directors/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
+
+Bit Digital • 8h ago
+
+---
+
+**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
+
+Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
+
+ZyCrypto • 2d ago
 
 ---
 
@@ -225,6 +217,14 @@ AMBCrypto • 20h ago
 Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
 
 CryptoSlate • 2d ago
+
+---
+
+**[ETHE: What You Need To Know About This Ethereum ETF](https://seekingalpha.com/article/4854984-ethe-what-you-need-to-know-about-this-ethereum-etf)**
+
+ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
+
+Seeking Alpha • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 282 • 💬 104 • ⏱️ 17:34 • 11h ago
+👁️ 8K • 👍 282 • 💬 104 • ⏱️ 17:34 • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 43 • 💬 68 • ⏱️ 7:32 • 14h ago
+👁️ 1K • 👍 43 • 💬 68 • ⏱️ 7:32 • 15h ago
 
 ---
 
@@ -288,7 +288,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 378 • 👍 18 • 💬 32 • ⏱️ 5:29 • 7h ago
+👁️ 378 • 👍 18 • 💬 32 • ⏱️ 5:29 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 432 • 👍 34 • 💬 43 • ⏱️ 5:02 • 9h ago
+👁️ 432 • 👍 34 • 💬 43 • ⏱️ 5:02 • 10h ago
 
 ---
 
