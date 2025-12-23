@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T13:21:29.557957+00:00'
+updated: '2025-12-23T13:50:44.685254+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 13:21 UTC  
+**Last Updated:** December 23, 2025 at 13:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,656.14
+### $87,477.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.9%  
-**30d:** -0.7%  
-**90d:** -19.3%  
-**1y:** -10.9%  
+**24h:** -2.8%  
+**7d:** +1.6%  
+**30d:** -0.9%  
+**90d:** -19.5%  
+**1y:** -11.1%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-5h ago
+6h ago
 
 ---
 
 **[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ bitvoin
 
 Like the question asks
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ Like the question asks
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-22h ago
+23h ago
 
 ---
 
@@ -137,7 +137,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issuance is slow and predictable Why supply is capped under 21 million How ownership and transfers work without intermediaries No hype. No price talk. Just pure fundamentals. Fast forward to today: ✔ Halvings happened exactly as described ✔ Network secured trillions in value ✔ Institutions, ETFs, and corporations are now competing for supply Bitcoin didn’t change. The world finally caught up. This is why long-term conviction beats short-term noise.
 
-2h ago
+3h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 23h ago
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investor's Business Daily • 16h ago
 
 Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 16h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 20h ago
+Al Jazeera • 21h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 3h ago
 
 Hut 8 and other AI-focused firms led a recovery for bitcoin mining stocks on Monday.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance • 22h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 17h ago
+The Verge • 18h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Verge • 17h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 10h ago
+WCVB • 11h ago
 
 ---
 
@@ -293,17 +293,17 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:35 • 13h ago
+👁️ 21K • 👍 2K • 💬 171 • ⏱️ 11:35 • 13h ago
 
 ---
 
-**[Is the Bitcoin Santa Rally Starting This Week?](https://www.youtube.com/watch?v=kUx2ypdiIAQ)**
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 21h ago
+👁️ 37K • 👍 3K • 💬 162 • ⏱️ 10:16 • 14h ago
 
 ---
 
@@ -313,7 +313,17 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 201 • ⏱️ 15:15 • 1d ago
+👁️ 29K • 👍 2K • 💬 203 • ⏱️ 15:15 • 1d ago
+
+---
+
+**[Is the Bitcoin Santa Rally Starting This Week?](https://www.youtube.com/watch?v=kUx2ypdiIAQ)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 22h ago
 
 ---
 
@@ -323,7 +333,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 3K • 👍 32 • 💬 63 • ⏱️ 3:19 • 14h ago
+👁️ 4K • 👍 42 • 💬 42 • ⏱️ 3:19 • 15h ago
 
 ---
 
@@ -337,43 +347,33 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 ---
 
+**[BITCOIN HOLDERS... THIS $23B MOVE HAPPENS IN 3 DAYS](https://www.youtube.com/watch?v=G39n83gzneM)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 7K • 👍 505 • 💬 50 • ⏱️ 10:08 • 5h ago
+
+---
+
 **[Serious Investors Think Bitcoin Is Going Here By JANUARY](https://www.youtube.com/watch?v=13_C9qFzuIk)**
 
 FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
 
 📺 Crypto Tips
 
-👁️ 17K • 👍 871 • 💬 140 • ⏱️ 6:08 • 20h ago
+👁️ 18K • 👍 895 • 💬 113 • ⏱️ 6:08 • 20h ago
 
 ---
 
-**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Mqq407BGxxY)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Altcoin Daily
+📺 Sportskeeda Wrestling
 
-👁️ 33K • 👍 2K • 💬 160 • ⏱️ 10:16 • 13h ago
-
----
-
-**[Bitcoin BREAKS $90K As Gold &amp; Silver SMASH ATHs! Santa Rally Inbound?](https://www.youtube.com/watch?v=jA3a0HRv_fE)**
-
-Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash warning signs: Hong Kong unveils new crypto ...
-
-📺 The Wolf Of All Streets
-
-👁️ 19K • 👍 1K • 💬 302 • ⏱️ 1:04:41 • 21h ago
-
----
-
-**[Bitcoin, Liquidity, And The Coming Inflection Point | Jeff Ross](https://www.youtube.com/watch?v=0h5gLtzS1_M)**
-
-Jeff Ross joins the show for a breakdown of why the global financial system is cracking and why Bitcoin's recent weakness may be ...
-
-📺 What Bitcoin Did
-
-👁️ 12K • 👍 598 • 💬 138 • ⏱️ 1:04:00 • 1d ago
+👁️ 1K • 👍 4K • 11m ago
 
 ---
 
@@ -383,7 +383,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 458 • 💬 116 • ⏱️ 1:11:22 • 17h ago
+👁️ 10K • 👍 465 • 💬 114 • ⏱️ 1:11:22 • 18h ago
 
 ---
 

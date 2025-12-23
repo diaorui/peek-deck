@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T13:21:29.563948+00:00'
+updated: '2025-12-23T13:50:44.691325+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 13:21 UTC  
+**Last Updated:** December 23, 2025 at 13:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,962.91
+### $2,948.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** +4.7%  
-**30d:** +0.4%  
-**90d:** -23.1%  
-**1y:** -15.2%  
+**24h:** -3.8%  
+**7d:** +4.0%  
+**30d:** -0.3%  
+**90d:** -23.6%  
+**1y:** -15.7%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 20h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 21h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Motley Fool • 1d ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -230,23 +230,23 @@ AMBCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 291 • 👍 24 • 💬 3 • ⏱️ 5:30 • 3h ago
+
+---
+
 **[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 744 • 💬 79 • ⏱️ 15:49 • 1d ago
-
----
-
-**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
-
-Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
-
-📺 The Modern Investor
-
-👁️ 1K • 👍 202 • 💬 69 • ⏱️ 22:25 • 3h ago
+👁️ 23K • 👍 752 • 💬 80 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -256,27 +256,27 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 10 • ⏱️ 8:07 • 10h ago
+👁️ 2K • 👍 115 • 💬 10 • ⏱️ 8:07 • 11h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Ausführliches Setup SeMario für den Bitcoin Short, WENN DAS passiert!](https://www.youtube.com/watch?v=fvISK2c9pZw)**
+**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
 
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
 
-📺 Krypto Trading & Investing
+📺 Trading Jip
 
-👁️ 3K • 👍 631 • 💬 164 • ⏱️ 15:45 • 8h ago
+👁️ 204 • 👍 18 • 💬 3 • ⏱️ 9:42 • 36m ago
 
 ---
 
-**[Crypto - WTF Do We Even Do Now?](https://www.youtube.com/watch?v=3V-NHrUUgw4)**
+**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
 
-BTC, SOL, ETH, stocks, and space trade! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
 
-📺 Lark Davis
+📺 The Modern Investor
 
-👁️ 1K • 👍 97 • 4h ago
+👁️ 3K • 👍 460 • 💬 103 • ⏱️ 22:25 • 4h ago
 
 ---
 
@@ -286,17 +286,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 309 • 💬 76 • ⏱️ 17:34 • 21h ago
-
----
-
-**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 533 • 👍 38 • 💬 39 • ⏱️ 5:02 • 18h ago
+👁️ 10K • 👍 309 • 💬 77 • ⏱️ 17:34 • 21h ago
 
 ---
 
@@ -306,7 +296,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 45 • 💬 58 • ⏱️ 7:32 • 1d ago
+👁️ 1K • 👍 45 • 💬 53 • ⏱️ 7:32 • 1d ago
 
 ---
 
@@ -316,7 +306,17 @@ Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does
 
 📺 Schwab Network
 
-👁️ 4K • 👍 68 • 💬 8 • ⏱️ 8:22 • 1d ago
+👁️ 4K • 👍 71 • 💬 8 • ⏱️ 8:22 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 22nd Of December](https://www.youtube.com/watch?v=nDUm4G5qRso)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 19h ago
 
 ---
 
@@ -326,7 +326,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 44 • 💬 24 • ⏱️ 16:54 • 17h ago
+👁️ 2K • 👍 45 • 💬 24 • ⏱️ 16:54 • 17h ago
 
 ---
 

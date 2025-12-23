@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T13:21:29.549435+00:00'
+updated: '2025-12-23T13:50:44.676825+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 13:21 UTC  
+**Last Updated:** December 23, 2025 at 13:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 14h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hello there! I'm new in this subreddit. The first thing that i want to say is th
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ ABC News • 1d ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -147,19 +147,19 @@ The New York Times • 8h ago
 
 Christian leaders are speaking out against AI accelerationism and putting pressure on lawmakers to impose guardrails.
 
-Time Magazine • 19m ago
+Time Magazine • 48m ago
 
 ---
 
 **[New AI Tool May Help ICU Patients Get the Nutrition They Need](https://www.usnews.com/news/health-news/articles/2025-12-23/new-ai-tool-may-help-icu-patients-get-the-nutrition-they-need)**
 
-U.S. News & World Report • 40m ago
+U.S. News & World Report • 1h ago
 
 ---
 
 **[Opinion: Quantum stocks are where AI was five years ago. These bets could be big winners.](https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?gaa_at=eafs&gaa_n=AWEtsqdsQc0upgAaPQh8_FryWcVuR6E43F9o8il2eu_KUlf6IFTh-tb24wne&gaa_ts=694a9aa1&gaa_sig=HCRsCLO2HyI-CO1jEsI5qHq5ZI2ambS7M12TjEjACGuzZW8iMeJwTv7ZstgwdpYirboobszNN7dfqwouqidT8w%3D%3D)**
 
-MarketWatch • 31m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ MarketWatch • 31m ago
 
 A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -183,13 +183,13 @@ CBS News • 22h ago
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-The Verge • 20h ago
+The Verge • 21h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 20m ago
+The Washington Post • 49m ago
 
 ---
 
@@ -201,7 +201,7 @@ The Washington Post • 20m ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 642 • 💬 412 • 20h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 642 • 💬 412 • 21h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -278,7 +278,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 121 • 💬 84 • 6h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 121 • 💬 84 • 7h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -286,43 +286,23 @@ The European Commission today praised the interoperability changes that Apple is
 
 ## YouTube Videos: "ai"
 
-**[AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation](https://www.youtube.com/watch?v=zt0JA5rxdfM)**
-
-Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...
-
-📺 IBM Technology
-
-👁️ 23K • 👍 1K • 💬 39 • ⏱️ 11:39 • 1d ago
-
----
-
-**[I Made the Same Animation in Every AI Video Generator](https://www.youtube.com/watch?v=UKp_zXdxVTI)**
-
-I made the same AI Animation in every AI video generator Best All In One AI Video Generator ...
-
-📺 Dan Kieft
-
-👁️ 21K • 💬 50 • ⏱️ 44:39 • 20h ago
-
----
-
-**[The Truth About The AI Bubble](https://www.youtube.com/watch?v=cqrJzG03ENE)**
-
-2025 was the year AI stopped feeling chaotic and started feeling buildable. In this Lightcone episode, the YC partners break down ...
-
-📺 Y Combinator
-
-👁️ 25K • 👍 665 • 💬 43 • ⏱️ 30:23 • 22h ago
-
----
-
 **[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
 
 Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
 
 📺 Fox News
 
-👁️ 28K • 👍 351 • 💬 218 • ⏱️ 4:26 • 1d ago
+👁️ 28K • 👍 351 • 💬 240 • ⏱️ 4:26 • 1d ago
+
+---
+
+**[AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation](https://www.youtube.com/watch?v=zt0JA5rxdfM)**
+
+Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...
+
+📺 IBM Technology
+
+👁️ 26K • 👍 1K • 💬 39 • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -332,37 +312,27 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 1.1M • 👍 6K • 💬 241 • ⏱️ 8:24 • 2d ago
+👁️ 1.2M • 👍 6K • 💬 245 • ⏱️ 8:24 • 2d ago
 
 ---
 
-**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
+**[The Truth About The AI Bubble](https://www.youtube.com/watch?v=cqrJzG03ENE)**
 
-welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
+2025 was the year AI stopped feeling chaotic and started feeling buildable. In this Lightcone episode, the YC partners break down ...
 
-📺 Fads
+📺 Y Combinator
 
-👁️ 240K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
-
----
-
-**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
-
-AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
-
-📺 The Diary Of A CEO
-
-👁️ 103K • 👍 3K • 💬 136 • ⏱️ 1:29 • 1d ago
+👁️ 28K • 👍 716 • 💬 47 • ⏱️ 30:23 • 22h ago
 
 ---
 
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
 
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
 
-📺 Matt Wolfe
+📺 Sasha Yanshin
 
-👁️ 67K • 👍 3K • 💬 209 • ⏱️ 37:38 • 2d ago
+👁️ 158K • 👍 7K • 💬 2K • ⏱️ 16:44 • 1d ago
 
 ---
 
@@ -372,17 +342,47 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 9K • 👍 282 • 💬 32 • ⏱️ 18:48 • 15h ago
+👁️ 10K • 👍 302 • 💬 44 • ⏱️ 18:48 • 15h ago
 
 ---
 
-**[How AI has transformed in 2025](https://www.youtube.com/watch?v=bL7Rrd7N5Ho)**
+**[The Exact Moment The AI Bubble Burst…](https://www.youtube.com/watch?v=rrsZ0k7FPss)**
 
-Artificial intelligence has impacted industries and people around the world this year, from producing music to relationships.
+welcome to this month's episode of techbros vs basic care and consideration for the world around them. the techbros are winning.
 
-📺 CBS Mornings
+📺 Fads
 
-👁️ 19K • 👍 344 • 💬 45 • ⏱️ 1:03:20 • 2d ago
+👁️ 241K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
+
+---
+
+**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+
+Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+
+📺 Matt Wolfe
+
+👁️ 68K • 👍 3K • 💬 212 • ⏱️ 37:38 • 2d ago
+
+---
+
+**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
+
+AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
+
+📺 The Diary Of A CEO
+
+👁️ 105K • 👍 3K • 💬 136 • ⏱️ 1:29 • 1d ago
+
+---
+
+**[How China Won (2025 State of AI report)](https://www.youtube.com/watch?v=3_71Nog8JZw)**
+
+With GPT-5, Claude 4.5 Opus, Gemini 3.0 Pro and so many more, it's been a wild year. Thank you WorkOS for sponsoring!
+
+📺 Theo - t3․gg
+
+👁️ 27K • 👍 947 • 💬 106 • ⏱️ 45:40 • 14h ago
 
 ---
 
@@ -458,7 +458,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 382 • 3h ago
+⬇️ 1,148 • ❤️ 382 • 4h ago
 
 ---
 
@@ -587,7 +587,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,680 • 25d ago
+▲ 27 • 💬 2 • ⭐ 7,680 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -619,18 +619,6 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 ---
 
-**[3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://huggingface.co/papers/2512.17459)**
-
-*Tobias Sautter, Jan-Niklas Dihlmann, Hendrik P. A. Lensch*
-
-3D-RE-GEN reconstructs single images into modifiable 3D textured mesh scenes with comprehensive backgrounds, achieving top performance through compositional generation and scene optimization.
-
-▲ 5 • 💬 1 • ⭐ 50 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.17459) • [💻 code](https://github.com/cgtuebingen/3D-RE-GEN) • [🔗 project](https://3dregen.jdihlmann.com/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -641,6 +629,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 26 • 💬 1 • ⭐ 65,975 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://huggingface.co/papers/2512.16969)**
+
+*Wanghan Xu, Yuhao Zhou, Yifan Zhou et al. (107 authors)*
+
+A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
+
+▲ 93 • 💬 6 • ⭐ 68 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.9k • 🔱 655 • 4h ago
+⭐ 5.9k • 🔱 659 • 5h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 347 • 1h ago
+⭐ 2.6k • 🔱 353 • 22m ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 183 • 4h ago
+⭐ 2.5k • 🔱 184 • 4h ago
 
 ---
 
@@ -694,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.7k • 🔱 363 • 17d ago
+⭐ 1.7k • 🔱 365 • 17d ago
 
 ---
 
@@ -704,7 +704,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 191 • 13h ago
+⭐ 1.2k • 🔱 193 • 14h ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 997 • 🔱 94 • 1h ago
+⭐ 1.0k • 🔱 94 • 2h ago
 
 ---
 
@@ -734,7 +734,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 944 • 🔱 91 • 1d ago
+⭐ 947 • 🔱 91 • 1d ago
 
 ---
 

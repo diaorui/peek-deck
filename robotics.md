@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T13:21:29.567217+00:00'
+updated: '2025-12-23T13:50:44.694619+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 13:21 UTC  
+**Last Updated:** December 23, 2025 at 13:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-2h ago
+3h ago
 
 ---
 
@@ -84,13 +84,13 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
 
-10m ago
+40m ago
 
 ---
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -150,7 +150,7 @@ CnEVPost • 10h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -204,17 +204,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 40K • 👍 764 • 💬 79 • ⏱️ 2:08:46 • 3d ago
-
----
-
-**[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
-
-FutureTech #Robotics #LawEnforcement.
-
-📺 Skye Ocean Girl
-
-👁️ 30K • 👍 147 • 💬 6 • ⏱️ 0:19 • 1d ago
+👁️ 40K • 👍 771 • 💬 79 • ⏱️ 2:08:46 • 3d ago
 
 ---
 
@@ -224,17 +214,27 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 32K • 👍 574 • 💬 138 • ⏱️ 5:25 • 2d ago
+👁️ 33K • 👍 581 • 💬 138 • ⏱️ 5:25 • 2d ago
 
 ---
 
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
 
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
 
-📺 SocksReact
+📺 Mike Israetel
 
-👁️ 532K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
+👁️ 3K • 👍 172 • 💬 53 • ⏱️ 49:59 • 17h ago
+
+---
+
+**[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
+
+FutureTech #Robotics #LawEnforcement.
+
+📺 Skye Ocean Girl
+
+👁️ 30K • 👍 146 • 💬 6 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -244,7 +244,17 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.0M • 👍 11K • 💬 635 • ⏱️ 2:43 • 5d ago
+👁️ 1.0M • 👍 11K • 💬 638 • ⏱️ 2:43 • 5d ago
+
+---
+
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+
+📺 SocksReact
+
+👁️ 537K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
 
 ---
 
@@ -254,17 +264,17 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 594 • 👍 15 • 💬 2 • ⏱️ 0:11 • 4h ago
+👁️ 3K • 👍 94 • 💬 4 • ⏱️ 0:11 • 4h ago
 
 ---
 
-**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
+**[Will Baristas Be Replaced with AI? : CoffeeLand Ep 4](https://www.youtube.com/watch?v=DOFiExv2mRc)**
 
-jumpersjump #hardclipped.
+Will AI and robots become the future of the coffee and cocktail industry? Or will humans and robots become peaceful co ...
 
-📺 Sharp Cut
+📺 Emilee Bryant
 
-👁️ 2.7M • 👍 39K • 💬 632 • ⏱️ 0:29 • 1d ago
+👁️ 2K • 👍 100 • 💬 32 • ⏱️ 12:34 • 17h ago
 
 ---
 
@@ -274,27 +284,17 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 12K • 👍 213 • 💬 6 • ⏱️ 0:11 • 1d ago
+👁️ 14K • 👍 222 • 💬 6 • ⏱️ 0:11 • 1d ago
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+**[AI Robot Started Gaining Consciousness 🤯](https://www.youtube.com/watch?v=-__3Svb8oHg)**
 
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+jumpersjump #hardclipped.
 
-📺 AZFK
+📺 Sharp Cut
 
-👁️ 148K • 👍 8K • 💬 565 • ⏱️ 13:43 • 4d ago
-
----
-
-**[This Robot is Suing Speed](https://www.youtube.com/watch?v=30YqTqC5aWg)**
-
-shorts source: JumpersJump.
-
-📺 WildTalk
-
-👁️ 99K • 👍 977 • 💬 5 • ⏱️ 0:22 • 16h ago
+👁️ 2.8M • 👍 40K • 💬 654 • ⏱️ 0:29 • 1d ago
 
 ---
 
