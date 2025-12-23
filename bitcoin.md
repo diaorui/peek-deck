@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T17:21:30.446788+00:00'
+updated: '2025-12-23T17:41:55.787000+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 17:21 UTC  
+**Last Updated:** December 23, 2025 at 17:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +1.8%  
-**30d:** -0.7%  
-**90d:** -19.3%  
-**1y:** -11.0%  
+**24h:** -1.6%  
+**7d:** +1.9%  
+**30d:** -0.6%  
+**90d:** -19.2%  
+**1y:** -10.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 Like the question asks
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 **[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-5h ago
+6h ago
 
 ---
 
@@ -157,7 +157,7 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
 
-VanEck • 22h ago
+VanEck • 23h ago
 
 ---
 
@@ -259,7 +259,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 1h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 2h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -343,7 +343,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 4K • 👍 78 • 💬 43 • ⏱️ 3:19 • 18h ago
+👁️ 4K • 👍 78 • 💬 43 • ⏱️ 3:19 • 19h ago
 
 ---
 
@@ -363,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 6K • 👍 539 • 💬 69 • ⏱️ 42:55 • 1h ago
+👁️ 6K • 👍 539 • 💬 69 • ⏱️ 42:55 • 2h ago
 
 ---
 

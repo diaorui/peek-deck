@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T17:21:30.438454+00:00'
+updated: '2025-12-23T17:41:55.778540+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 17:21 UTC  
+**Last Updated:** December 23, 2025 at 17:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 18h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 19h ago
 
 ---
 
@@ -73,7 +73,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 Recently I heard a bit about Glance AI while reading about AI shopping, and it got me curious about the AI Twin concept. From what I understand AI Twin is about creating a digital version of a user to personalize recommendations and experiences. Not sure how deeply Glance AI is using this idea specially for shopping or fashion use cases. Would be interesting to hear thoughts from anyone who’s looked into this.
 
-22m ago
+42m ago
 
 ---
 
@@ -81,7 +81,7 @@ Recently I heard a bit about Glance AI while reading about AI shopping, and it g
 
 Last week a request for comments (RFC) was issued around establishing an LLVM AI Tool Use Policy
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Last week a request for comments (RFC) was issued around establishing an LLVM AI
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 1h ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ ABC News • 1d ago
 
 **[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 1d ago
 
 U.S. electricity consumption is growing for the first time in a decade l due to AI, so why are we stunting renewable energy development?
 
-Gizmodo • 35m ago
+Gizmodo • 56m ago
 
 ---
 
@@ -179,13 +179,13 @@ The Verge • 1h ago
 
 While many Gen Zers are struggling to land entry-level jobs thanks to AI, the same technology is also fueling a new wave of young billionaires.
 
-Fortune • 43m ago
+Fortune • 1h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 36m ago
+The Washington Post • 57m ago
 
 ---
 
@@ -274,7 +274,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 132 • 💬 100 • 10h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 132 • 💬 100 • 11h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -450,7 +450,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 407 • 7h ago
+⬇️ 1,148 • ❤️ 407 • 8h ago
 
 ---
 
@@ -668,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 665 • 8h ago
+⭐ 6.0k • 🔱 665 • 9h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 365 • 18m ago
+⭐ 2.7k • 🔱 365 • 39m ago
 
 ---
 
@@ -688,7 +688,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 185 • 11m ago
+⭐ 2.5k • 🔱 185 • 31m ago
 
 ---
 
@@ -728,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 95 • 5h ago
+⭐ 1.0k • 🔱 95 • 6h ago
 
 ---
 
