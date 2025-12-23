@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T17:41:55.793054+00:00'
+updated: '2025-12-23T17:53:49.540900+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 17:41 UTC  
+**Last Updated:** December 23, 2025 at 17:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +3.7%  
-**30d:** -0.6%  
-**90d:** -23.8%  
-**1y:** -16.0%  
+**24h:** -3.0%  
+**7d:** +3.2%  
+**30d:** -1.0%  
+**90d:** -24.2%  
+**1y:** -16.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.19B
+**Market Cap:** $354.03B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.8%
 
 **All-Time Low:** $0.43
-+681418.0%
++676574.9%
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 11h ago
+
+---
+
+**[Introducing EIP-8105 Universal Enshrined Encrypted Mempool](https://www.reddit.com/r/ethereum/comments/1ptzq99/introducing_eip8105_universal_enshrined_encrypted/)**
+
+Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
+
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 26m ago
 
 ---
 
@@ -138,14 +146,6 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 ---
 
-**[Daily General Discussion December 20, 2025](https://www.reddit.com/r/ethereum/comments/1pr76mk/daily_general_discussion_december_20_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -172,17 +172,17 @@ CCN.com • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqcn-73bEx3BQyLjRbPdx_14xqOSQsi-E7G4g__VdV8GZzAdTceHj1jI&gaa_ts=694ad301&gaa_sig=sBSlxtEkHhIvnNL4i4OuK4YLlPLLP5T2v_nmCYtpu0FtgQNvcgHg43oaFzS341PR5UjByf-lrjceP3MsvoyZBQ%3D%3D)**
-
-Barron's • 5h ago
-
----
-
 **[Ethereum treasury news: ETHZills (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
 CoinDesk • 1d ago
+
+---
+
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqdO85Yw7VU4deCHq1jrHQ_rN2Z_L-ONXpvZLYnyK-JLa_h0dHDA4AJa&gaa_ts=694ada98&gaa_sig=W862Gao9tkwuPzKb6tS2pyXIpb6ayMFTOE_9Bx0O8YlRAGOKKKTgFr73GU3mdp6_hft25F6gbPc2hPGWguvRcA%3D%3D)**
+
+Barron's • 5h ago
 
 ---
 
@@ -254,7 +254,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 10 • ⏱️ 8:07 • 14h ago
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 8:07 • 15h ago
 
 ---
 
@@ -314,7 +314,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 22h ago
+👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 23h ago
 
 ---
 

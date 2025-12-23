@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T17:41:55.797365+00:00'
+updated: '2025-12-23T17:53:49.544148+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 17:41 UTC  
+**Last Updated:** December 23, 2025 at 17:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,6 +78,12 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ---
 
+**[The TRUMP We Should Have Known](https://www.reddit.com/r/robotics/comments/1ptzs6e/the_trump_we_should_have_known/)**
+
+23m ago
+
+---
+
 **[UBTECH ASTROBOT KITS](https://www.reddit.com/r/robotics/comments/1pttjve/ubtech_astrobot_kits/)**
 
 been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
@@ -100,17 +106,17 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[Christmas video with our lab robots! 🎄🤖](https://www.reddit.com/r/robotics/comments/1ptna5y/christmas_video_with_our_lab_robots/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
+
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
+
+hyundai.com • 1d ago
+
+---
 
 **[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
 
@@ -120,11 +126,11 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
 
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Interesting Engineering • 2d ago
+Stock Titan • 1d ago
 
 ---
 
@@ -136,27 +142,11 @@ The Verge • 2d ago
 
 ---
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 1d ago
-
----
-
 **[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
 CnEVPost • 14h ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 1d ago
 
 ---
 
@@ -181,6 +171,14 @@ Sifted • 1d ago
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
 The Daily Beast • 14h ago
+
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 1d ago
 
 ---
 

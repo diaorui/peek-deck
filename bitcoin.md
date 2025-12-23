@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T17:41:55.787000+00:00'
+updated: '2025-12-23T17:53:49.534876+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 17:41 UTC  
+**Last Updated:** December 23, 2025 at 17:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +1.9%  
-**30d:** -0.6%  
-**90d:** -19.2%  
-**1y:** -10.9%  
+**24h:** -2.0%  
+**7d:** +1.5%  
+**30d:** -1.0%  
+**90d:** -19.6%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1759.17B
+**Market Cap:** $1750.47B
 Rank #1
 
-**Circulating Supply:** 19,966,056 BTC
+**Circulating Supply:** 19,966,068 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.6%
 
 **All-Time Low:** $67.81
-+129550.5%
++128996.0%
 
 ---
 
@@ -99,22 +99,6 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 ---
 
-**[Is this a good option for storing bitcoin for cold storage?](https://www.reddit.com/r/Bitcoin/comments/1ptrtvi/is_this_a_good_option_for_storing_bitcoin_for/)**
-
-Like the question asks
-
-6h ago
-
----
-
-**[DCA for the win](https://www.reddit.com/r/Bitcoin/comments/1ptt50f/dca_for_the_win/)**
-
-Entry points of your average DCA. “Zoom out” comments incoming.
-
-4h ago
-
----
-
 **[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
@@ -123,15 +107,25 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 ---
 
-**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
+**[DCA for the win](https://www.reddit.com/r/Bitcoin/comments/1ptt50f/dca_for_the_win/)**
 
-4h ago
+Entry points of your average DCA. “Zoom out” comments incoming.
+
+5h ago
 
 ---
 
-**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
+**[Is this a good option for storing bitcoin for cold storage?](https://www.reddit.com/r/Bitcoin/comments/1ptrtvi/is_this_a_good_option_for_storing_bitcoin_for/)**
 
-9h ago
+Like the question asks
+
+6h ago
+
+---
+
+**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
+
+4h ago
 
 ---
 
@@ -143,9 +137,15 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 ---
 
+**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
+
+9h ago
+
+---
+
 **[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -169,11 +169,19 @@ CoinDesk • 12h ago
 
 ---
 
-**[Bitcoin’s $1M Price Advocate 'Fires' Analyst Who Predicted $60,000, Claims Bearish Targets Not Real Despite Price Drop](https://finance.yahoo.com/news/bitcoin-1m-price-advocate-fires-114903652.html)**
+**[Bitcoin 2025 Recap: BTC Up 80% YTD Despite 30% Pullback From $126K Peak](https://finance.yahoo.com/news/bitcoin-2025-recap-btc-80-162909822.html)**
 
-Samson Mow argues that Bitcoin has already reached its cyclical bottom and rejects bearish forecasts. Mow sparked debate after claiming he fired an analyst for ...
+Bitcoin’s (CRYPTO: BTC) 2025 rally wasn’t a straight line, which is what made it important. The year was characterized by strong gains, sharp reversals, and a fundamental shift in market drivers. Although the media focused on the decline from the October peak, the full picture tells a different story. The Bitcoin 2025 price performance showed ... Bitcoin 2025 Recap: BTC Up 80% YTD Despite 30% Pullback From $126K Peak
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
+
+Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
+
+Bitcoin Magazine • 20m ago
 
 ---
 
@@ -193,9 +201,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+**[Strategy Raises Cash Reserves to $2.19 Billion, Skips Bitcoin Purchases in Latest Filing](https://finance.yahoo.com/news/strategy-raises-cash-reserves-2-161226870.html)**
 
-Investor's Business Daily • 6h ago
+Company reports $2.19 billion in US dollar reserves as of Dec. 21, with no bitcoin bought during the week.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -207,12 +217,6 @@ Al Jazeera • 1d ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcm5fCu4xrUDKbXb9yhI1MlxNWKvmTwgEt7NKeejMAX34lMrcJlcH5O&gaa_ts=694ad300&gaa_sig=vPERfFEK4lXixAi7Pf8CLIzxDoWiQ8SQvpCr93EdMzIwDPCVrwNLEBU6kv4GI8PZZ6wtI2kARoB2jPZRDkGi4A%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
 
 The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
@@ -221,11 +225,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
+**[The Answer to This 1 Question Will Determine Whether You Should Buy Bitcoin in 2026](https://www.fool.com/investing/2025/12/23/answer-to-this-question-determine-buy-bitcoin/)**
 
-Pubkey wants to “soften” Bitcoin’s rough public image in DC.
+Bitcoin's four-year cycle could be the key to understanding its performance next year.
 
-The Verge • 21h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -373,7 +377,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 3K • 💬 168 • ⏱️ 10:16 • 17h ago
+👁️ 40K • 👍 3K • 💬 168 • ⏱️ 10:16 • 18h ago
 
 ---
 
@@ -393,7 +397,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 586 • 💬 53 • ⏱️ 10:08 • 8h ago
+👁️ 10K • 👍 586 • 💬 53 • ⏱️ 10:08 • 9h ago
 
 ---
 

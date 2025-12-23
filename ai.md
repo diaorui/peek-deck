@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T17:41:55.778540+00:00'
+updated: '2025-12-23T17:53:49.526336+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 17:41 UTC  
+**Last Updated:** December 23, 2025 at 17:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,14 +53,6 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 ---
 
-**[Displace Wireless Pro 2 TVs will feature local AI to enhance privacy](https://www.reddit.com/r/artificial/comments/1ptx654/displace_wireless_pro_2_tvs_will_feature_local_ai/)**
-
-The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
-
-🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 1h ago
-
----
-
 **[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
@@ -69,11 +61,19 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 ---
 
+**[Displace Wireless Pro 2 TVs will feature local AI to enhance privacy](https://www.reddit.com/r/artificial/comments/1ptx654/displace_wireless_pro_2_tvs_will_feature_local_ai/)**
+
+The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
+
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 2h ago
+
+---
+
 **[Anyone explored how Glance AI approaches AI Twin?](https://www.reddit.com/r/artificial/comments/1ptyznr/anyone_explored_how_glance_ai_approaches_ai_twin/)**
 
 Recently I heard a bit about Glance AI while reading about AI shopping, and it got me curious about the AI Twin concept. From what I understand AI Twin is about creating a digital version of a user to personalize recommendations and experiences. Not sure how deeply Glance AI is using this idea specially for shopping or fashion use cases. Would be interesting to hear thoughts from anyone who’s looked into this.
 
-42m ago
+54m ago
 
 ---
 
@@ -97,7 +97,7 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 Google recently shipped an API that handles conversation history, context management, and background execution server-side for agent deployments (the new Interactions API in Gemini). From what we can tell, this eliminates most of the infrastructure work that typically goes into building agents. No vector DB setup, no custom context engineering, no session state management. It's all handled by Google. We've been prototyping with it for a couple weeks now. The difference in development velocity is pretty significant. What used to take days of setting up memory architecture now just works out of the box. The trade-off seems obvious though. You're locked into Google's infrastructure. You lose control over how context is stored and retrieved. Model switching becomes harder. Cost optimization gets more opaque. But from a practical standpoint, it removes what we'd estimate was 60-80% of the grunt work in agent development. You can focus entirely on the business logic and prompt engineering instead of building plumbing. A few things we're curious about from people who've worked with this or similar patterns. How does this compare to building with LangChain or LangGraph memory solutions? Is the convenience worth the vendor lock-in? For production deployments, does server-side state management create any issues around auditability or debugging? With custom implementations you can inspect everything. Here it's more of a black box. What's the failure mode if Google's state management has issues? With self-hosted solutions you at least have control. Here you're dependent on their uptime. Is there a reasonable path to migrate off this if needed? Or once you build on it, you're committed? From an architecture perspective, this feels like Google positioning infrastructure as the moat. Similar to how AWS won by solving undifferentiated heavy lifting. But in ML workloads, control over the full stack has typically been important. For context, we're working across several businesses (e-commerce, SaaS) building management-layer agents. Planning systems, decision analysis, that kind of thing. Not doing anything cutting-edge from a research standpoint, just trying to ship production systems that work. The ease of prototyping with this API has been valuable. But we're trying to think through whether we're setting ourselves up for problems down the road by outsourcing this much of the stack. Curious what others think about this pattern. Is server-side state management the future for agent development? Or are we trading too much control for convenience?
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Google recently shipped an API that handles conversation history, context manage
 
 OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-2h ago
+3h ago
 
 ---
 
@@ -151,11 +151,9 @@ The Guardian • 2h ago
 
 ---
 
-**[Instacart ends AI-driven pricing tests that pushed up costs for some shoppers](https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html)**
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-A study earlier this month showed that Instacart's algorithmic pricing tools caused shoppers to pay different prices for identical items from the same store.
-
-CNBC • 1d ago
+The Washington Post • 22m ago
 
 ---
 
@@ -163,29 +161,19 @@ CNBC • 1d ago
 
 U.S. electricity consumption is growing for the first time in a decade l due to AI, so why are we stunting renewable energy development?
 
-Gizmodo • 56m ago
+Gizmodo • 1h ago
 
 ---
 
-**[New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act)**
+**[AI ads are here — and they're invisible](https://qz.com/ai-ads-advertising-meta-google-openai-privacy)**
 
-A group including Big Tech players and major universities fought against the RAISE Act, which got a last-minute rewrite.
-
-The Verge • 1h ago
+qz.com • 45m ago
 
 ---
 
-**[There are more self-made billionaires under 30 than ever before—11 of them have made the ultra-wealthy club in the last 3 months thanks to AI](https://fortune.com/2025/12/23/more-self-made-billionaires-under-30-than-ever-before-11-made-ultra-wealthy-club-last-3-months-ai-unemployment-entry-level-jobs-also-creating-wealth-tech-startups/)**
+**[Eden Prairie’s C.H. Robinson, a logistics stalwart, disrupting industry with AI](https://www.startribune.com/ai-disruption-ch-robinson-logistics-industry-leader-dave-bozeman-shipping/601498776)**
 
-While many Gen Zers are struggling to land entry-level jobs thanks to AI, the same technology is also fueling a new wave of young billionaires.
-
-Fortune • 1h ago
-
----
-
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
-
-The Washington Post • 57m ago
+Star Tribune • 19m ago
 
 ---
 
@@ -197,6 +185,12 @@ BBC • 5h ago
 
 ---
 
+**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqdtN5ABw5papTTnBv4WPefW4x_o4FIRpegrW7-pMGOAS1eLGZ46oZ4i&gaa_ts=694ada95&gaa_sig=eRQcvEAAP-5pInoHoerbKdxfjFD7pEL2pZkd0qfKnb3qlwuFyJksPQvz-pxGUssX_KRXEqTsx0r2WWq3NEXiJw%3D%3D)**
+
+The Wall Street Journal • 6h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +199,7 @@ BBC • 5h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 736 • 💬 447 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 744 • 💬 451 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -238,13 +232,13 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 178 • 💬 91 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 180 • 💬 91 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 162 • 💬 190 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 168 • 💬 191 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -274,7 +268,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 132 • 💬 100 • 11h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 133 • 💬 102 • 11h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -402,7 +396,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 608 • 4d ago
+⬇️ 9,848 • ❤️ 611 • 4d ago
 
 ---
 
@@ -414,7 +408,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,341 • 15d ago
+⬇️ 373,123 • ❤️ 3,342 • 15d ago
 
 ---
 
@@ -426,7 +420,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 505 • 4d ago
+⬇️ 21,058 • ❤️ 507 • 4d ago
 
 ---
 
@@ -438,7 +432,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 10,832 • ❤️ 424 • 5d ago
+⬇️ 10,832 • ❤️ 425 • 5d ago
 
 ---
 
@@ -450,7 +444,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 407 • 8h ago
+⬇️ 1,148 • ❤️ 410 • 8h ago
 
 ---
 
@@ -462,7 +456,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 404 • 5d ago
+⬇️ 3,313 • ❤️ 405 • 5d ago
 
 ---
 
@@ -678,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 365 • 39m ago
+⭐ 2.7k • 🔱 365 • 51m ago
 
 ---
 
@@ -688,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 185 • 31m ago
+⭐ 2.5k • 🔱 185 • 43m ago
 
 ---
 
@@ -708,7 +702,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 197 • 17h ago
+⭐ 1.2k • 🔱 197 • 18h ago
 
 ---
 
