@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T19:17:26.977807+00:00'
+updated: '2025-12-23T19:31:54.713763+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 19:17 UTC  
+**Last Updated:** December 23, 2025 at 19:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,857.92
+### $87,767.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +2.1%  
-**30d:** -0.5%  
-**90d:** -19.1%  
-**1y:** -10.8%  
+**24h:** -0.5%  
+**7d:** +1.9%  
+**30d:** -0.7%  
+**90d:** -19.3%  
+**1y:** -10.9%  
 
 ---
 
@@ -103,7 +103,7 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 **[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Like the question asks
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -261,7 +261,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 3h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 4h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -375,7 +375,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 5K • 👍 79 • 💬 82 • ⏱️ 3:19 • 20h ago
+👁️ 5K • 👍 79 • 💬 82 • ⏱️ 3:19 • 21h ago
 
 ---
 

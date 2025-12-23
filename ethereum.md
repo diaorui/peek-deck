@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T19:17:26.983826+00:00'
+updated: '2025-12-23T19:31:54.719883+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 19:17 UTC  
+**Last Updated:** December 23, 2025 at 19:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +4.1%  
-**30d:** -0.2%  
-**90d:** -23.5%  
-**1y:** -15.6%  
+**24h:** -1.3%  
+**7d:** +3.8%  
+**30d:** -0.4%  
+**90d:** -23.7%  
+**1y:** -15.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 1h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ CCN.com • 6h ago
 
 Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -222,7 +222,7 @@ Bit Digital • 23h ago
 
 New Dune Analytics charts show heavy weekly staked Ethereum withdrawal activity from major providers, with over 1 million withdrawn.
 
-AMBCrypto • 30m ago
+AMBCrypto • 45m ago
 
 ---
 
@@ -306,7 +306,7 @@ Get ready for whats probably going to be one of the craziest years in crypto in 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 679 • 💬 210 • ⏱️ 22:25 • 9h ago
+👁️ 6K • 👍 679 • 💬 210 • ⏱️ 22:25 • 10h ago
 
 ---
 

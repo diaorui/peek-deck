@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T19:17:26.969405+00:00'
+updated: '2025-12-23T19:31:54.705073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 19:17 UTC  
+**Last Updated:** December 23, 2025 at 19:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 3h ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 4h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Washington Post • 1h ago
 
 **[Follow the money: AI, wealth and private-markets plumbing](https://www.axios.com/pro/all-deals/2025/12/23/ai-wealth-private-markets-plumbing)**
 
-Axios • 14m ago
+Axios • 29m ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 14m ago
 
 Nvidia, OpenAI and other major artificial intelligence companies all invest in one another. This carries some risks, as Bloomberg’s Joe Weisenthal explains on “The Ezra Klein Show.”
 
-The New York Times • 39m ago
+The New York Times • 53m ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 39m ago
 
 In 2025, if you wanted to do layoffs, AI was a great option for pinning the blame.
 
-Gizmodo • 11m ago
+Gizmodo • 26m ago
 
 ---
 
@@ -167,7 +167,7 @@ Gizmodo • 11m ago
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 1h ago
+blog.google • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ TODAY.com • 5h ago
 
 The moves comes after reports of the FTC looking into the pricing tests. The agency said it was 'disturbed' by what it had read about Instacart's AI testing.
 
-PCMag • 7h ago
+PCMag • 8h ago
 
 ---
 
@@ -272,7 +272,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 136 • 💬 106 • 12h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 136 • 💬 106 • 13h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -294,7 +294,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 12K • 👍 343 • 💬 48 • ⏱️ 18:48 • 20h ago
+👁️ 12K • 👍 343 • 💬 48 • ⏱️ 18:48 • 21h ago
 
 ---
 
@@ -374,7 +374,7 @@ While wandering around, this cat found a dried pomegranate in the desert   #ai #
 
 📺 Quick ai86
 
-👁️ 377K • 💬 6 • ⏱️ 0:34 • 16h ago
+👁️ 377K • 💬 6 • ⏱️ 0:34 • 17h ago
 
 ---
 
@@ -472,7 +472,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 372 • 9h ago
+⬇️ 0 • ❤️ 372 • 10h ago
 
 ---
 
@@ -666,7 +666,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 665 • 10h ago
+⭐ 6.0k • 🔱 665 • 11h ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 367 • 1h ago
+⭐ 2.8k • 🔱 369 • 6m ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 95 • 7h ago
+⭐ 1.0k • 🔱 96 • 7h ago
 
 ---
 
