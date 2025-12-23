@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T07:59:35.918294+00:00'
+updated: '2025-12-23T08:40:44.899164+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 07:59 UTC  
+**Last Updated:** December 23, 2025 at 08:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 9h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 10h ago
 
 ---
 
@@ -49,7 +49,23 @@ Uh oh…
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 11h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 12h ago
+
+---
+
+**[I tried building a deterministic system to make AI safe, verifiable, auditable.](https://www.reddit.com/r/artificial/comments/1pto9go/i_tried_building_a_deterministic_system_to_make/)**
+
+The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
+
+🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 48m ago
+
+---
+
+**[Google's server-side state management API - thoughts on the architecture?](https://www.reddit.com/r/artificial/comments/1pto8yn/googles_serverside_state_management_api_thoughts/)**
+
+Google recently shipped an API that handles conversation history, context management, and background execution server-side for agent deployments (the new Interactions API in Gemini). From what we can tell, this eliminates most of the infrastructure work that typically goes into building agents. No vector DB setup, no custom context engineering, no session state management. It's all handled by Google. We've been prototyping with it for a couple weeks now. The difference in development velocity is pretty significant. What used to take days of setting up memory architecture now just works out of the box. The trade-off seems obvious though. You're locked into Google's infrastructure. You lose control over how context is stored and retrieved. Model switching becomes harder. Cost optimization gets more opaque. But from a practical standpoint, it removes what we'd estimate was 60-80% of the grunt work in agent development. You can focus entirely on the business logic and prompt engineering instead of building plumbing. A few things we're curious about from people who've worked with this or similar patterns. How does this compare to building with LangChain or LangGraph memory solutions? Is the convenience worth the vendor lock-in? For production deployments, does server-side state management create any issues around auditability or debugging? With custom implementations you can inspect everything. Here it's more of a black box. What's the failure mode if Google's state management has issues? With self-hosted solutions you at least have control. Here you're dependent on their uptime. Is there a reasonable path to migrate off this if needed? Or once you build on it, you're committed? From an architecture perspective, this feels like Google positioning infrastructure as the moat. Similar to how AWS won by solving undifferentiated heavy lifting. But in ML workloads, control over the full stack has typically been important. For context, we're working across several businesses (e-commerce, SaaS) building management-layer agents. Planning systems, decision analysis, that kind of thing. Not doing anything cutting-edge from a research standpoint, just trying to ship production systems that work. The ease of prototyping with this API has been valuable. But we're trying to think through whether we're setting ourselves up for problems down the road by outsourcing this much of the stack. Curious what others think about this pattern. Is server-side state management the future for agent development? Or are we trading too much control for convenience?
+
+49m ago
 
 ---
 
@@ -57,7 +73,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 20h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 21h ago
 
 ---
 
@@ -65,7 +81,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 MIT CSAIL study suggests that neural network architectures considered unsuitable for modern tasks can improve with short-term guidance. The method encourages a target network to match a guide network’s internal representations, improving its starting point and making machine learning easier.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 2h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 3h ago
 
 ---
 
@@ -73,15 +89,7 @@ MIT CSAIL study suggests that neural network architectures considered unsuitable
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 14h ago
-
----
-
-**[ChatGPT introduces a Spotify Wrapped-style year-end recap for users](https://www.reddit.com/r/artificial/comments/1ptmdhs/chatgpt_introduces_a_spotify_wrappedstyle_yearend/)**
-
-OpenAI has added a year-end recap feature to ChatGPT that summarizes how users interacted with the AI over the year. The format is very similar to Spotify Wrapped, but focused on AI conversations rather than entertainment. What stood out to me is less the feature itself and more what it signals: AI tools are starting to frame usage as something worth reflecting on, not just consuming. It’s also rolling out selectively by country and account type, which raises some questions around data handling and regional differences. More details here if anyone wants them: https://techputs.com/chatgpt-year-end-review-spotify-wrapped/ Do you think features like this actually help users understand their AI usage better?
-
-2h ago
+🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 15h ago
 
 ---
 
@@ -89,7 +97,15 @@ OpenAI has added a year-end recap feature to ChatGPT that summarizes how users i
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
 
-2h ago
+3h ago
+
+---
+
+**[When the rich talk of AI it’s a game. When the middle class talk about it, it’s our livelihoods](https://www.reddit.com/r/artificial/comments/1ptoyk5/when_the_rich_talk_of_ai_its_a_game_when_the/)**
+
+And when the working poor talk about it, it’s also a game…. What’s your profession and how will ai affect it? If at all? Short-term and long-term effects
+
+4m ago
 
 ---
 
@@ -97,23 +113,7 @@ OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1]
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 17h ago
-
----
-
-**[Robot training process + gameplay. I'm making a physics-based game where you command AI robot through levels - not just pointing the path, but also by controlling limb power and decision speed.](https://www.reddit.com/r/artificial/comments/1pt8xgm/robot_training_process_gameplay_im_making_a/)**
-
-Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
-
-12h ago
-
----
-
-**[I don't understand the point of AI based web browsers.](https://www.reddit.com/r/artificial/comments/1psrm4h/i_dont_understand_the_point_of_ai_based_web/)**
-
-I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
-
-1d ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 18h ago
 
 ---
 
@@ -121,43 +121,33 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 ## Google News: "ai"
 
-**[Year in a word: AI bubble](https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f)**
-
-The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
-
-Financial Times • 2h ago
-
----
-
-**[While everyone talks about an AI bubble, Salesforce quietly added 6,000 enterprise customers in 3 months](https://venturebeat.com/technology/while-everyone-talks-about-an-ai-bubble-salesforce-quietly-added-6-000)**
-
-Salesforce added 6,000 Agentforce customers in one quarter, hitting $540M in revenue—challenging the AI bubble narrative with real enterprise adoption and ROI.
-
-VentureBeat • 17h ago
-
----
-
 **[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
-**[TikTok’s Chinese owner plans $23bn AI spend to keep pace with US rivals](https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad)**
+**[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)**
 
-TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
+Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
 
-Financial Times • 6h ago
+blog.google • 14h ago
 
 ---
 
-**[One of the AI godfathers says he lies to AI chatbots to get better responses from them](https://www.businessinsider.com/ai-godfather-yoshua-bengio-lies-ai-chatbots-responses-2025-12)**
+**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
 
-Yoshua Bengio, one of the "AI godfathers," said AI technology has a sycophancy problem, so he lies to chatbots to get better responses.
+Reuters • 1h ago
 
-Business Insider • 52m ago
+---
+
+**[Why Analysts See Applied Digital’s Story Evolving as AI Power Deals Reshape Its Valuation](https://finance.yahoo.com/news/why-analysts-see-applied-digital-081119628.html)**
+
+Applied Digital’s latest narrative update leaves its fair value estimate unchanged at $43.70 per share, even as a slightly higher discount rate edges up the perceived risk tied to its long dated AI infrastructure buildout. With revenue growth assumptions holding steady near 79.93 and the market rewarding the company’s expanding 4GW pipeline and marquee AI contracts, analysts see room for multiple expansion without rewriting the core growth story. Stay tuned to see how investors can track...
+
+Yahoo Finance • 29m ago
 
 ---
 
@@ -169,11 +159,11 @@ ABC News • 1d ago
 
 ---
 
-**[60 of our biggest AI announcements in 2025](https://blog.google/technology/ai/google-ai-news-recap-2025/)**
+**[Yann LeCun's Advice for Young Students Wanting to Go Into AI](https://www.businessinsider.com/yann-lecun-advice-ai-careers-computer-science-degree-2025-12)**
 
-Look back on Google AI news in 2025 across Gemini, Search, Pixel and more products.
+Former Meta chief AI scientist Yann LeCun said current and prospective CS students need to focus on skills "with a long shelf life."
 
-blog.google • 13h ago
+Business Insider • 23h ago
 
 ---
 
@@ -181,7 +171,7 @@ blog.google • 13h ago
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
 
-CNN • 1d ago
+CNN • 2d ago
 
 ---
 
@@ -189,13 +179,21 @@ CNN • 1d ago
 
 NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
 
-Air & Space Forces Magazine • 13h ago
+Air & Space Forces Magazine • 14h ago
+
+---
+
+**[TikTok’s Chinese owner plans $23bn AI spend to keep pace with US rivals](https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad)**
+
+TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
+
+Financial Times • 7h ago
 
 ---
 
 **[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
 
-The New York Times • 11h ago
+The New York Times • 22h ago
 
 ---
 
@@ -207,15 +205,7 @@ The New York Times • 11h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 544 • 💬 395 • 15h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
-
----
-
-**[Airbus to migrate critical apps to a sovereign Euro cloud](https://news.ycombinator.com/item?id=46334533)**
-
-Exclusive: Tech exec admits not dead cert it'll find the right solution
-
-⬆️ 514 • 💬 489 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/)
+⬆️ 568 • 💬 398 • 16h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -223,7 +213,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 263 • 💬 165 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 266 • 💬 170 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -243,7 +233,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 181 • 💬 398 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 181 • 💬 399 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -254,7 +244,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 165 • 💬 81 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 166 • 💬 84 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -268,7 +258,7 @@ Personal Musings and Transcripts
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 138 • 💬 161 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 138 • 💬 163 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -282,7 +272,15 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 132 • 💬 107 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 133 • 💬 107 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+
+---
+
+**[MIRA – An open-source persistent AI entity with memory](https://news.ycombinator.com/item?id=46339537)**
+
+This is the public release of MIRA OS. Discrete memories decay through momentum loss, tools auto-configure when dropped into tools/ folder, and the system prompt composes from modular trinkets. I w...
+
+⬆️ 128 • 💬 53 • 2d ago • [GitHub](https://github.com/taylorsatula/mira-OSS)
 
 ---
 
@@ -296,7 +294,7 @@ I made the same AI Animation in every AI video generator Best All In One AI Vide
 
 📺 Dan Kieft
 
-👁️ 17K • 💬 37 • ⏱️ 44:39 • 14h ago
+👁️ 17K • 💬 37 • ⏱️ 44:39 • 15h ago
 
 ---
 
@@ -346,7 +344,7 @@ Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Reg
 
 📺 IBM Technology
 
-👁️ 19K • 👍 879 • 💬 39 • ⏱️ 11:39 • 19h ago
+👁️ 19K • 👍 879 • 💬 39 • ⏱️ 11:39 • 20h ago
 
 ---
 
@@ -376,7 +374,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 25K • 👍 2K • 💬 306 • ⏱️ 15:25 • 17h ago
+👁️ 25K • 👍 2K • 💬 306 • ⏱️ 15:25 • 18h ago
 
 ---
 
@@ -386,7 +384,7 @@ Use Nano Banana inside Arcads https://roboverse-ai.com/ai-advertising (affiliate
 
 📺 Roboverse
 
-👁️ 5K • 💬 10 • ⏱️ 12:29 • 16h ago
+👁️ 5K • 💬 10 • ⏱️ 12:29 • 17h ago
 
 ---
 
@@ -402,7 +400,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,316 • 14d ago
+⬇️ 373,123 • ❤️ 3,319 • 14d ago
 
 ---
 
@@ -414,7 +412,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 564 • 3d ago
+⬇️ 9,848 • ❤️ 568 • 3d ago
 
 ---
 
@@ -426,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 487 • 4d ago
+⬇️ 21,058 • ❤️ 490 • 4d ago
 
 ---
 
@@ -438,7 +436,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 86,205 • ❤️ 447 • 3d ago
+⬇️ 110,376 • ❤️ 447 • 3d ago
 
 ---
 
@@ -450,7 +448,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 409 • 5d ago
+⬇️ 10,832 • ❤️ 411 • 5d ago
 
 ---
 
@@ -462,7 +460,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,187 • ❤️ 401 • 4d ago
+⬇️ 3,313 • ❤️ 401 • 4d ago
 
 ---
 
@@ -474,7 +472,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 5,349 • ❤️ 409 • 9d ago
+⬇️ 6,493 • ❤️ 410 • 9d ago
 
 ---
 
@@ -498,7 +496,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 337 • 7d ago
+⬇️ 0 • ❤️ 338 • 7d ago
 
 ---
 
@@ -510,7 +508,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 0 • ❤️ 302 • 1h ago
+⬇️ 1,148 • ❤️ 328 • 2h ago
 
 ---
 
@@ -538,7 +536,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 12,931 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 12,979 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -563,7 +561,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,504 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,541 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -577,23 +575,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 136 • 💬 6 • ⭐ 18,908 • 3mo ago
+▲ 137 • 💬 6 • ⭐ 18,908 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 207 • 💬 5 • ⭐ 7,668 • 25d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -605,21 +589,23 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 27 • 💬 2 • ⭐ 7,641 • 25d ago
+▲ 27 • 💬 2 • ⭐ 7,680 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
-**[Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows](https://huggingface.co/papers/2512.16969)**
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
-*Wanghan Xu, Yuhao Zhou, Yifan Zhou et al. (107 authors)*
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
 
-A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
+🏢 Tongyi-MAI
 
-▲ 87 • 💬 6 • ⭐ 56 • 5d ago
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-[🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
+▲ 208 • 💬 5 • ⭐ 7,668 • 25d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -647,6 +633,18 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 ---
 
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 30 • 💬 2 • ⭐ 12,972 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -665,9 +663,9 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
-`TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
+`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 641 • 1h ago
+⭐ 5.8k • 🔱 645 • 18m ago
 
 ---
 
@@ -677,7 +675,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 1h ago
+⭐ 2.4k • 🔱 181 • 13m ago
 
 ---
 
@@ -687,7 +685,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 327 • 8h ago
+⭐ 2.4k • 🔱 332 • 9h ago
 
 ---
 
@@ -707,7 +705,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 186 • 8h ago
+⭐ 1.1k • 🔱 189 • 8h ago
 
 ---
 
@@ -717,7 +715,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 54 • 5d ago
+⭐ 1.1k • 🔱 55 • 5d ago
 
 ---
 
@@ -727,7 +725,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 956 • 🔱 87 • 5h ago
+⭐ 969 • 🔱 89 • 6h ago
 
 ---
 
@@ -737,7 +735,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 935 • 🔱 90 • 21h ago
+⭐ 939 • 🔱 91 • 21h ago
 
 ---
 
@@ -747,7 +745,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 918 • 🔱 25 • 15d ago
+⭐ 919 • 🔱 25 • 15d ago
 
 ---
 

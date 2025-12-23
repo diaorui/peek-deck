@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T07:59:35.927048+00:00'
+updated: '2025-12-23T08:40:44.907828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 07:59 UTC  
+**Last Updated:** December 23, 2025 at 08:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
+**24h:** -2.4%  
 **7d:** +1.6%  
-**30d:** -1.0%  
+**30d:** -0.9%  
 **90d:** -19.5%  
-**1y:** -11.2%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.42B
+**Market Cap:** $1749.12B
 Rank #1
 
 **Circulating Supply:** 19,965,887 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.5%
 
 **All-Time Low:** $67.81
-+129007.8%
++129091.9%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-9h ago
-
----
-
-**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
-
-11h ago
+10h ago
 
 ---
 
@@ -93,7 +87,7 @@ Rank #1
 
 bitvoin
 
-19h ago
+20h ago
 
 ---
 
@@ -105,9 +99,21 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 ---
 
+**[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
+
+59m ago
+
+---
+
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-18h ago
+19h ago
+
+---
+
+**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
+
+12h ago
 
 ---
 
@@ -125,27 +131,45 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 ---
 
+**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
+
+45m ago
+
+---
+
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1ptcaxi/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
-9h ago
-
----
-
-**[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
-
-17h ago
-
----
-
-**[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
-
-19h ago
+10h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin price news: BTC's heads to its worst quarter since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
+
+Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin price news: BTC gives up early Monday gains, falling back below $88,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-slip-further-as-traders-brace-for-usd28-5b-deribit-expiry)**
+
+Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
+
+CoinDesk • 11h ago
+
+---
+
+**[Bitcoin holding above $91K will be 'sigh of relief' for bulls](https://finance.yahoo.com/video/bitcoin-holding-above-91k-sigh-163000954.html)**
+
+Bitcoin (BTC-USD) is back above $90,000 per token on Monday morning as investors look back on a highly volatile year for the digital asset, which has seen a broad sell-off since hitting its record high above $126,000 in early October. Marketgauge.com chief strategist Michele Schneider examines the technicals of the cryptocurrency and the price range that crypto bulls would feel most comfortable with bitcoin closing 2025 out at. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
+
+Yahoo Finance • 16h ago
+
+---
 
 **[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
@@ -159,7 +183,7 @@ Bloomberg.com • 10h ago
 
 Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -169,55 +193,35 @@ Investor's Business Daily • 11h ago
 
 ---
 
-**[Bitcoin price news: BTC's heads to its worst year since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
+**[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
 
-Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
+Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
 
-CoinDesk • 2h ago
-
----
-
-**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
-
-The Block • 1h ago
+Seeking Alpha • 20h ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqdOo3xWKvcGKUuGohiYPwGvy0FLUAj4_K9QonHhkM-azKAw09XF6H4a&gaa_ts=694a492d&gaa_sig=eQux792qbpYIC1NV8j1NdMKRCdnuYrhmWphQgzvAHOi0WVAlcif_2qv0ki2TX68yn_77Gkq_t4rV1f20_apD7w%3D%3D)**
+**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
 
-Barron's • 17h ago
+The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
 
----
-
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
-
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
-
-Yahoo Finance • 5h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
+**[BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025](https://finance.yahoo.com/news/blackrock-names-spot-bitcoin-etf-080029020.html)**
 
-Waltham and Gloucester have banned the machines
+BlackRock has placed its spot Bitcoin exchange-traded fund among its three biggest investment themes for 2025, ranking the product alongside Treasury bills and US mega-cap technology stocks. Key Takeaways: BlackRock named its spot Bitcoin ETF a top 2025 investment theme alongside Treasurys and big tech. IBIT attracted over $25 billion ...
 
-WCVB • 5h ago
-
----
-
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
-
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
-
-Al Jazeera • 15h ago
+Yahoo Finance • 40m ago
 
 ---
 
-**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
+**[Bitcoin trails polar opposites, Gold and Copper, as the 'fear and AI' trade lifts tangible assets](https://www.coindesk.com/markets/2025/12/23/bitcoin-trails-polar-opposites-gold-and-copper-as-the-fear-and-ai-trade-lifts-tangible-assets)**
 
-Pubkey wants to “soften” Bitcoin’s rough public image in DC.
+Gold and copper have outperformed other major assets this year, with gold rallying more than copper.
 
-The Verge • 12h ago
+CoinDesk • 43m ago
 
 ---
 
@@ -259,7 +263,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 16h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 17h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -281,7 +285,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 57m ago
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
@@ -305,7 +309,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 224 • ⏱️ 39:10 • 16h ago
+👁️ 24K • 👍 1K • 💬 224 • ⏱️ 39:10 • 17h ago
 
 ---
 
@@ -315,7 +319,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 26 • 💬 44 • ⏱️ 3:19 • 9h ago
+👁️ 2K • 👍 26 • 💬 44 • ⏱️ 3:19 • 10h ago
 
 ---
 
@@ -335,7 +339,7 @@ Things continue to chop sideways with a little run. But let's be honest - moment
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 487 • 💬 73 • ⏱️ 27:45 • 12h ago
+👁️ 7K • 👍 487 • 💬 73 • ⏱️ 27:45 • 13h ago
 
 ---
 
@@ -355,7 +359,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 15K • 👍 813 • 💬 120 • ⏱️ 6:08 • 14h ago
+👁️ 15K • 👍 813 • 💬 120 • ⏱️ 6:08 • 15h ago
 
 ---
 
@@ -365,7 +369,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 209 • 💬 107 • ⏱️ 8:51 • 12h ago
+👁️ 3K • 👍 209 • 💬 107 • ⏱️ 8:51 • 13h ago
 
 ---
 
