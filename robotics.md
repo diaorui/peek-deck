@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T09:35:36.749553+00:00'
+updated: '2025-12-23T09:52:23.478147+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 09:35 UTC  
+**Last Updated:** December 23, 2025 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-22h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 3h ago
 
 ---
 
@@ -106,7 +106,7 @@ Making some good progress on the automatic tool-changing mechanism for my SCARA 
 
 I am building a robotic hand, which is very compact and direct-driven. So, I am trying to find some motors (w/o gearbox) having a very small size, but high torque (and low speed). The torque and speed requirement is similar to the gimbal motor (0.07 N-m) in the below link. https://store.tmotor.com/product/gb2208-gimbal-type.html But the size is an issue for my project. I want to use a motor with a 16 mm smaller diameter, which shape is similar to the ones in the following link. https://www.portescap.com/en/products/brushless-dc-motors/all-bldc-motors The sizes of those motors are good for me, but they are designed for the high speed applications (higher than 10,000 rpm). To accomplish this requirement, I think that the motors should have high resistance compared to high-speed motors used for the drone. Please share your opinion and any comment for my project!!
 
-9h ago
+10h ago
 
 ---
 
@@ -158,7 +158,7 @@ hyundai.com • 1d ago
 
 Affluent Medical recently announced agreements to acquire Caranx Medical and Artedrone to form a new medtech company called Carvolix.
 
-MassDevice • 20h ago
+MassDevice • 21h ago
 
 ---
 
@@ -166,7 +166,7 @@ MassDevice • 20h ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 21h ago
+Phoronix • 22h ago
 
 ---
 

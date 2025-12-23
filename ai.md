@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T09:35:36.731988+00:00'
+updated: '2025-12-23T09:52:23.458576+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 09:35 UTC  
+**Last Updated:** December 23, 2025 at 09:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 10h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Uh oh…
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 19m ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 36m ago
 
 ---
 
@@ -73,7 +73,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
 
-🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 1h ago
+🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI c
 
 Google recently shipped an API that handles conversation history, context management, and background execution server-side for agent deployments (the new Interactions API in Gemini). From what we can tell, this eliminates most of the infrastructure work that typically goes into building agents. No vector DB setup, no custom context engineering, no session state management. It's all handled by Google. We've been prototyping with it for a couple weeks now. The difference in development velocity is pretty significant. What used to take days of setting up memory architecture now just works out of the box. The trade-off seems obvious though. You're locked into Google's infrastructure. You lose control over how context is stored and retrieved. Model switching becomes harder. Cost optimization gets more opaque. But from a practical standpoint, it removes what we'd estimate was 60-80% of the grunt work in agent development. You can focus entirely on the business logic and prompt engineering instead of building plumbing. A few things we're curious about from people who've worked with this or similar patterns. How does this compare to building with LangChain or LangGraph memory solutions? Is the convenience worth the vendor lock-in? For production deployments, does server-side state management create any issues around auditability or debugging? With custom implementations you can inspect everything. Here it's more of a black box. What's the failure mode if Google's state management has issues? With self-hosted solutions you at least have control. Here you're dependent on their uptime. Is there a reasonable path to migrate off this if needed? Or once you build on it, you're committed? From an architecture perspective, this feels like Google positioning infrastructure as the moat. Similar to how AWS won by solving undifferentiated heavy lifting. But in ML workloads, control over the full stack has typically been important. For context, we're working across several businesses (e-commerce, SaaS) building management-layer agents. Planning systems, decision analysis, that kind of thing. Not doing anything cutting-edge from a research standpoint, just trying to ship production systems that work. The ease of prototyping with this API has been valuable. But we're trying to think through whether we're setting ourselves up for problems down the road by outsourcing this much of the stack. Curious what others think about this pattern. Is server-side state management the future for agent development? Or are we trading too much control for convenience?
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ ABC News • 1d ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 59m ago
+The Guardian • 1h ago
 
 ---
 
@@ -227,7 +227,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 238 • 💬 356 • 2d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 238 • 💬 356 • 3d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -486,7 +486,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 362 • 14m ago
+⬇️ 0 • ❤️ 362 • 31m ago
 
 ---
 
@@ -635,15 +635,16 @@ WorldPlay is a streaming video diffusion model that achieves real-time, interact
 
 ---
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 30 • 💬 2 • ⭐ 12,972 • 14d ago
+▲ 26 • 💬 1 • ⭐ 65,975 • 27mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -667,17 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 645 • 1h ago
-
----
-
-**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
-
-#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
-
-`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
-
-⭐ 2.4k • 🔱 181 • 1h ago
+⭐ 5.8k • 🔱 646 • 1h ago
 
 ---
 
@@ -687,7 +678,17 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 332 • 10h ago
+⭐ 2.5k • 🔱 336 • 10h ago
+
+---
+
+**[code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)**
+
+#1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
+
+`TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
+
+⭐ 2.5k • 🔱 183 • 51m ago
 
 ---
 
@@ -707,7 +708,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 189 • 9h ago
+⭐ 1.2k • 🔱 189 • 10h ago
 
 ---
 
@@ -727,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 969 • 🔱 89 • 7h ago
+⭐ 987 • 🔱 91 • 7h ago
 
 ---
 
@@ -737,7 +738,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 939 • 🔱 91 • 22h ago
+⭐ 939 • 🔱 91 • 23h ago
 
 ---
 

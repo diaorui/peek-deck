@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T09:35:36.740324+00:00'
+updated: '2025-12-23T09:52:23.467486+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 09:35 UTC  
+**Last Updated:** December 23, 2025 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +1.6%  
-**30d:** -1.0%  
-**90d:** -19.5%  
-**1y:** -11.2%  
+**24h:** -2.3%  
+**7d:** +1.5%  
+**30d:** -1.1%  
+**90d:** -19.6%  
+**1y:** -11.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-13h ago
+14h ago
 
 ---
 
@@ -167,13 +167,13 @@ Bloomberg.com • 11h ago
 
 Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -251,7 +251,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
-⬆️ 1 • 💬 0 • 6d ago • [flip.gold](https://flip.gold/)
+⬆️ 1 • 💬 0 • 7d ago • [flip.gold](https://flip.gold/)
 
 ---
 
@@ -355,7 +355,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 149 • ⏱️ 10:16 • 9h ago
+👁️ 28K • 👍 2K • 💬 149 • ⏱️ 10:16 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 305 • ⏱️ 1:04:41 • 17h ago
+👁️ 19K • 👍 1K • 💬 305 • ⏱️ 1:04:41 • 18h ago
 
 ---
 

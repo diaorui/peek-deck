@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T09:35:36.746299+00:00'
+updated: '2025-12-23T09:52:23.474681+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 09:35 UTC  
+**Last Updated:** December 23, 2025 at 09:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** +4.4%  
-**30d:** +0.1%  
-**90d:** -23.3%  
-**1y:** -15.4%  
+**24h:** -2.6%  
+**7d:** +4.6%  
+**30d:** +0.3%  
+**90d:** -23.2%  
+**1y:** -15.2%  
 
 ---
 
@@ -154,7 +154,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ CryptoSlate • 21h ago
 
 BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
 
-Crypto Briefing • 20h ago
+Crypto Briefing • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 9 • ⏱️ 8:07 • 6h ago
+👁️ 1K • 👍 95 • 💬 9 • ⏱️ 8:07 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 501 • 👍 37 • 💬 39 • ⏱️ 5:02 • 14h ago
+👁️ 501 • 👍 37 • 💬 39 • ⏱️ 5:02 • 15h ago
 
 ---
 
