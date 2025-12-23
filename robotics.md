@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T13:50:44.694619+00:00'
+updated: '2025-12-23T14:12:12.489089+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 13:50 UTC  
+**Last Updated:** December 23, 2025 at 14:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-1h ago
+2h ago
 
 ---
 
@@ -72,6 +72,20 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 ---
 
+**[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
+
+1h ago
+
+---
+
+**[UBTECH ASTROBOT KITS](https://www.reddit.com/r/robotics/comments/1pttjve/ubtech_astrobot_kits/)**
+
+been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
+
+1h ago
+
+---
+
 **[GITAI's rovers and robotic arms deploy solar panels and weld in a construction field test](https://www.reddit.com/r/robotics/comments/1pswpjv/gitais_rovers_and_robotic_arms_deploy_solar/)**
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
@@ -80,25 +94,11 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[UBTECH ASTROBOT KITS](https://www.reddit.com/r/robotics/comments/1pttjve/ubtech_astrobot_kits/)**
-
-been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
-
-40m ago
-
----
-
-**[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
-
-1h ago
-
----
-
 **[Christmas video with our lab robots! 🎄🤖](https://www.reddit.com/r/robotics/comments/1ptna5y/christmas_video_with_our_lab_robots/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 7h ago
 
 ---
 
@@ -138,11 +138,19 @@ The Verge • 2d ago
 
 ---
 
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 1d ago
+
+---
+
 **[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 10h ago
+CnEVPost • 11h ago
 
 ---
 
@@ -162,6 +170,14 @@ hyundai.com • 1d ago
 
 ---
 
+**[MSU Mankato hosts 75-team Vex Robotics competition](https://www.keyc.com/2025/12/19/msu-mankato-hosts-75-team-vex-robotics-competition/)**
+
+Local robotics teams gathered in Mankato Friday to show off their knowledge and skills.
+
+KEYC News Now • 3d ago
+
+---
+
 **[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
 
 Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
@@ -170,27 +186,9 @@ Sifted • 1d ago
 
 ---
 
-**[Affluent Medical to acquire Caranx, Artedrone to form new heart valve, robotics, AI company](https://www.massdevice.com/affluent-medical-acquire-caranx-artedrone/)**
+**[Robot Makers Wrestle With How to Safely Pull the Plug on Humanoids](https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids)**
 
-Affluent Medical recently announced agreements to acquire Caranx Medical and Artedrone to form a new medtech company called Carvolix.
-
-MassDevice • 1d ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 1d ago
-
----
-
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
-
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
-
-Phoronix • 1d ago
+The Information • 19h ago
 
 ---
 
@@ -224,7 +222,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 3K • 👍 172 • 💬 53 • ⏱️ 49:59 • 17h ago
+👁️ 3K • 👍 172 • 💬 53 • ⏱️ 49:59 • 18h ago
 
 ---
 
@@ -264,7 +262,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 3K • 👍 94 • 💬 4 • ⏱️ 0:11 • 4h ago
+👁️ 3K • 👍 94 • 💬 4 • ⏱️ 0:11 • 5h ago
 
 ---
 
@@ -274,7 +272,7 @@ Will AI and robots become the future of the coffee and cocktail industry? Or wil
 
 📺 Emilee Bryant
 
-👁️ 2K • 👍 100 • 💬 32 • ⏱️ 12:34 • 17h ago
+👁️ 2K • 👍 100 • 💬 32 • ⏱️ 12:34 • 18h ago
 
 ---
 
