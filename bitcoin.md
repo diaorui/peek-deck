@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T18:54:28.478960+00:00'
+updated: '2025-12-23T19:17:26.977807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 18:54 UTC  
+**Last Updated:** December 23, 2025 at 19:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,102.11
+### $87,857.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** -0.3%  
-**90d:** -18.9%  
-**1y:** -10.6%  
+**24h:** -0.4%  
+**7d:** +2.1%  
+**30d:** -0.5%  
+**90d:** -19.1%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.52B
+**Market Cap:** $1756.36B
 Rank #1
 
-**Circulating Supply:** 19,966,068 BTC
+**Circulating Supply:** 19,966,093 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.3%
 
 **All-Time Low:** $67.81
-+129211.3%
++129463.5%
 
 ---
 
@@ -83,14 +83,6 @@ Rank #1
 
 ---
 
-**[Gold and copper are screaming in 2025… and Bitcoin is kinda getting ghosted. That feels important.](https://www.reddit.com/r/Bitcoin/comments/1ptqesf/gold_and_copper_are_screaming_in_2025_and_bitcoin/)**
-
-2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
-
-8h ago
-
----
-
 **[One of my worst financial decisions](https://www.reddit.com/r/Bitcoin/comments/1ptwxn7/one_of_my_worst_financial_decisions/)**
 
 One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
@@ -99,11 +91,27 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 ---
 
+**[Gold and copper are screaming in 2025… and Bitcoin is kinda getting ghosted. That feels important.](https://www.reddit.com/r/Bitcoin/comments/1ptqesf/gold_and_copper_are_screaming_in_2025_and_bitcoin/)**
+
+2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
+
+9h ago
+
+---
+
+**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
+
+Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
+
+1h ago
+
+---
+
 **[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,17 +145,9 @@ Like the question asks
 
 ---
 
-**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
-
-Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
-
-1h ago
-
----
-
 **[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -163,23 +163,9 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Price Struggles at $90,000 as Christmas Trading Looms](https://bitcoinmagazine.com/news/bitcoin-price-struggles-at-90000)**
-
-The bitcoin price briefly climbed above $90,000 after rising from $88,000 during Asian and European hours, before retreating toward $88,000 again during U.S. trading.
-
-Bitcoin Magazine • 21h ago
-
----
-
-**[Bitcoin price today: drops below $88k as rebound stalls ahead of key US data](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-below-88k-as-rebound-stalls-ahead-of-key-us-data-4420559)**
-
-Investing.com • 12h ago
-
----
-
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -187,7 +173,7 @@ Investor's Business Daily • 7h ago
 
 The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -199,33 +185,49 @@ The Motley Fool • 2d ago
 
 ---
 
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
+**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
 
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
+Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
 
-The Motley Fool • 1h ago
-
----
-
-**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
-
-Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
-
-Bitcoin Magazine • 1h ago
+VanEck • 1d ago
 
 ---
 
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
 
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Yahoo Finance • 16h ago
+Al Jazeera • 1d ago
 
 ---
 
-**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqeBo8GB3m1rMXEZ78t2jAkS-7al7XcB2V6-mFtoRwu8hUkHrOTGurKF&gaa_ts=694ae249&gaa_sig=_B9tsuwh4aF8EeixFBvMMmydAerCv2Nn5zBh7aLRYTF_Wdc0xr49KUykkfOCA0b9NjSYLOSz-shfKF5-6UZ37w%3D%3D)**
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqdBA7ROspNL2qlZRjAR9-p-oaeavQrE2Y99YIK6-omRUqb5jecIMVF9&gaa_ts=694aee32&gaa_sig=2gJyKxLylcPvXMlZ1WnPsPd9982uVJjUJnVRsOZTl9V98xUQ1n6Ru2SOSePaJ_K5F3HpiDzS4ZlxoZ8RQbaIUA%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 1d ago
+
+---
+
+**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
+
+Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
+
+The Guardian • 1h ago
+
+---
+
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
+
+The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+
+Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
+
+Nasdaq • 3d ago
 
 ---
 
@@ -283,13 +285,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 22h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 23h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 11h ago
+⬆️ 1 • 💬 0 • 12h ago
 
 ---
 
@@ -303,7 +305,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 204 • ⏱️ 11:35 • 18h ago
+👁️ 25K • 👍 2K • 💬 204 • ⏱️ 11:35 • 19h ago
 
 ---
 

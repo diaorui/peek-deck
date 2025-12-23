@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T18:54:28.470584+00:00'
+updated: '2025-12-23T19:17:26.969405+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 18:54 UTC  
+**Last Updated:** December 23, 2025 at 19:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 59m ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 1h ago
 
 ---
 
@@ -55,7 +55,7 @@ Uh oh…
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 9h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 10h ago
 
 ---
 
@@ -79,7 +79,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 43m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las V
 
 Recently I heard a bit about Glance AI while reading about AI shopping, and it got me curious about the AI Twin concept. From what I understand AI Twin is about creating a digital version of a user to personalize recommendations and experiences. Not sure how deeply Glance AI is using this idea specially for shopping or fashion use cases. Would be interesting to hear thoughts from anyone who’s looked into this.
 
-1h ago
+2h ago
 
 ---
 
@@ -127,61 +127,47 @@ ABC News • 1d ago
 
 ---
 
-**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
-
-This year saw new AI models, transformative products and new breakthroughs in science and robotics.
-
-blog.google • 1h ago
-
----
-
-**[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
-
-The New York Times • 6h ago
-
----
-
-**[Year in a word: AI bubble](https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f)**
-
-The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
-
-Financial Times • 13h ago
-
----
-
 **[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 3h ago
-
----
-
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-Fortune • 58m ago
-
----
-
-**[Trump's AI hiring campaign draws interest from 25,000 hopefuls](https://www.reuters.com/business/media-telecom/trumps-ai-hiring-campaign-draws-interest-25000-hopefuls-2025-12-23/)**
-
-Reuters • 38m ago
-
----
-
-**[Maduro seen dancing with humanoid AI-robot](https://www.nbcnews.com/video/shorts/maduro-seen-dancing-with-humanoid-ai-robot-254920261687)**
-
-Maduro seen dancing with humanoid AI-robot
-
-NBC News • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
 The Washington Post • 1h ago
+
+---
+
+**[Follow the money: AI, wealth and private-markets plumbing](https://www.axios.com/pro/all-deals/2025/12/23/ai-wealth-private-markets-plumbing)**
+
+Axios • 14m ago
+
+---
+
+**[Video: Opinion | A.I.’s ‘Circular Money Machine’](https://www.nytimes.com/video/opinion/100000010591211/ais-circular-money-machine.html)**
+
+Nvidia, OpenAI and other major artificial intelligence companies all invest in one another. This carries some risks, as Bloomberg’s Joe Weisenthal explains on “The Ezra Klein Show.”
+
+The New York Times • 39m ago
+
+---
+
+**[AI Gets the Blame for 55,000 Layoffs in 2025](https://gizmodo.com/ai-gets-the-blame-for-55000-layoffs-in-2025-2000703011)**
+
+In 2025, if you wanted to do layoffs, AI was a great option for pinning the blame.
+
+Gizmodo • 11m ago
+
+---
+
+**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
+
+This year saw new AI models, transformative products and new breakthroughs in science and robotics.
+
+blog.google • 1h ago
 
 ---
 
@@ -193,6 +179,22 @@ CNBC • 1d ago
 
 ---
 
+**[Instacart Ends Controversial AI-Driven Pricing Program](https://www.today.com/video/instacart-ends-controversial-ai-driven-pricing-program-254906437989)**
+
+Instacart says it’s ending a controversial dynamic pricing program that faced criticism for charging shoppers different prices for the same items at the same store. Some customers were paying up to seven percent more.
+
+TODAY.com • 5h ago
+
+---
+
+**[Instacart Ends AI Pricing Tests Showing Different Prices for the Same Items](https://www.pcmag.com/news/instacart-ends-ai-pricing-tests-showing-different-prices-for-the-same-items)**
+
+The moves comes after reports of the FTC looking into the pricing tests. The agency said it was 'disturbed' by what it had read about Instacart's AI testing.
+
+PCMag • 7h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +203,7 @@ CNBC • 1d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 756 • 💬 453 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 757 • 💬 456 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -234,13 +236,13 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 180 • 💬 91 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 180 • 💬 92 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 171 • 💬 194 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 171 • 💬 196 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -262,7 +264,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 136 • 💬 110 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 136 • 💬 111 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -270,7 +272,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 135 • 💬 105 • 12h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 136 • 💬 106 • 12h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -302,7 +304,7 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 130K • 👍 8K • 💬 2K • ⏱️ 21:43 • 16h ago
+👁️ 130K • 👍 8K • 💬 2K • ⏱️ 21:43 • 17h ago
 
 ---
 
@@ -398,7 +400,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 615 • 4d ago
+⬇️ 9,848 • ❤️ 618 • 4d ago
 
 ---
 
@@ -410,7 +412,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,344 • 15d ago
+⬇️ 373,123 • ❤️ 3,345 • 15d ago
 
 ---
 
@@ -422,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 509 • 4d ago
+⬇️ 21,058 • ❤️ 511 • 4d ago
 
 ---
 
@@ -446,7 +448,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 416 • 9h ago
+⬇️ 1,148 • ❤️ 425 • 9h ago
 
 ---
 
@@ -458,7 +460,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 405 • 5d ago
+⬇️ 3,313 • ❤️ 406 • 5d ago
 
 ---
 
@@ -494,7 +496,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 110,376 • ❤️ 452 • 3d ago
+⬇️ 110,376 • ❤️ 454 • 3d ago
 
 ---
 
@@ -506,7 +508,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 349 • 8d ago
+⬇️ 0 • ❤️ 353 • 8d ago
 
 ---
 
@@ -684,7 +686,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 185 • 1h ago
+⭐ 2.5k • 🔱 185 • 2h ago
 
 ---
 

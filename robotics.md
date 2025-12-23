@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T18:54:28.488229+00:00'
+updated: '2025-12-23T19:17:26.987116+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 18:54 UTC  
+**Last Updated:** December 23, 2025 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-8h ago
+9h ago
 
 ---
 
@@ -78,6 +78,12 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ---
 
+**[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
+
+45m ago
+
+---
+
 **[GITAI's rovers and robotic arms deploy solar panels and weld in a construction field test](https://www.reddit.com/r/robotics/comments/1pswpjv/gitais_rovers_and_robotic_arms_deploy_solar/)**
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
@@ -90,13 +96,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
 
-5h ago
-
----
-
-**[The TRUMP We Should Have Known](https://www.reddit.com/r/robotics/comments/1ptzs6e/the_trump_we_should_have_known/)**
-
-1h ago
+6h ago
 
 ---
 
@@ -128,11 +128,11 @@ El Adelantado • 1d ago
 
 ---
 
-**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
 
-In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
 
-Stock Titan • 1d ago
+Interesting Engineering • 3d ago
 
 ---
 
@@ -152,6 +152,14 @@ hyundai.com • 1d ago
 
 ---
 
+**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
+
+Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
+
+LancasterOnline • 4h ago
+
+---
+
 **[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
 Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
@@ -164,15 +172,7 @@ Good Morning Wilton • 1d ago
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 15h ago
-
----
-
-**[Millersville University robotics program receives grant from Lancaster County Workforce Development Board](https://lancasteronline.com/news/local/millersville-university-robotics-program-receives-grant-from-lancaster-county-workforce-development-board/article_0838648c-18ca-44cb-8560-4c433b2f12e7.html)**
-
-Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
-
-LancasterOnline • 3h ago
+CnEVPost • 16h ago
 
 ---
 
@@ -232,7 +232,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 6K • 👍 123 • 💬 4 • ⏱️ 0:11 • 9h ago
+👁️ 6K • 👍 123 • 💬 4 • ⏱️ 0:11 • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full bu
 
 📺 Roll No 36
 
-👁️ 833 • 👍 27 • 💬 4 • ⏱️ 0:31 • 4h ago
+👁️ 833 • 👍 27 • 💬 4 • ⏱️ 0:31 • 5h ago
 
 ---
 
@@ -252,7 +252,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 3K • 👍 192 • 💬 55 • ⏱️ 49:59 • 22h ago
+👁️ 3K • 👍 192 • 💬 55 • ⏱️ 49:59 • 23h ago
 
 ---
 
