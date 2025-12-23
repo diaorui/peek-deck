@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T05:43:51.600354+00:00'
+updated: '2025-12-23T05:56:36.958510+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 05:43 UTC  
+**Last Updated:** December 23, 2025 at 05:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 MIT CSAIL study suggests that neural network architectures considered unsuitable for modern tasks can improve with short-term guidance. The method encourages a target network to match a guide network’s internal representations, improving its starting point and making machine learning easier.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 13m ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 26m ago
 
 ---
 
@@ -105,7 +105,7 @@ I have tried to use comet, chatgpt atlas and all of the so called "automation" s
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
 
-10m ago
+22m ago
 
 ---
 
@@ -113,7 +113,7 @@ OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1]
 
 Intel engineers as part of the OPEA Project today released the Generative AI Examples v1.5 update
 
-🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/GenAI-Examples-v1.5) • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ blog.google • 11h ago
 
 **[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
 
-The New York Times • 42m ago
+The New York Times • 55m ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 42m ago
 
 Despite agentic AI boosting content creation speed, human oversight remains critical due to concerns over hallucination, brand consistency.
 
-Digiday • 38m ago
+Digiday • 51m ago
 
 ---
 
@@ -155,7 +155,7 @@ Digiday • 38m ago
 
 You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 56m ago
 
 ---
 
@@ -474,7 +474,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 5,349 • ❤️ 406 • 8d ago
+⬇️ 5,349 • ❤️ 406 • 9d ago
 
 ---
 
@@ -591,7 +591,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 207 • 💬 5 • ⭐ 7,639 • 25d ago
+▲ 207 • 💬 5 • ⭐ 7,668 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -617,7 +617,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 83 • 💬 6 • ⭐ 56 • 4d ago
+▲ 86 • 💬 6 • ⭐ 56 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 636 • 1h ago
+⭐ 5.8k • 🔱 638 • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 2h ago
+⭐ 2.4k • 🔱 181 • 3h ago
 
 ---
 
@@ -687,7 +687,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 320 • 6h ago
+⭐ 2.2k • 🔱 324 • 6h ago
 
 ---
 
@@ -697,7 +697,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.7k • 🔱 361 • 16d ago
+⭐ 1.7k • 🔱 362 • 16d ago
 
 ---
 
@@ -707,7 +707,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 184 • 5h ago
+⭐ 1.1k • 🔱 185 • 6h ago
 
 ---
 
@@ -721,23 +721,23 @@ Google Antigravity AI模型配额监控插件
 
 ---
 
-**[datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)**
-
-首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
-
-`agent` `agentic-ai` `ai` `coding-assistant` `programming`
-
-⭐ 930 • 🔱 89 • 18h ago
-
----
-
 **[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
 
 A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 
 `JavaScript`
 
-⭐ 929 • 🔱 86 • 3h ago
+⭐ 943 • 🔱 87 • 3h ago
+
+---
+
+**[datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)**
+
+首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
+
+`agent` `agentic-ai` `ai` `coding-assistant` `programming`
+
+⭐ 933 • 🔱 90 • 19h ago
 
 ---
 

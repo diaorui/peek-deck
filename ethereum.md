@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T05:43:51.614855+00:00'
+updated: '2025-12-23T05:56:36.971627+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 05:43 UTC  
+**Last Updated:** December 23, 2025 at 05:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,7 +45,7 @@ Live Ethereum monitoring dashboard
 **24h:** -1.7%  
 **7d:** +5.0%  
 **30d:** +0.7%  
-**90d:** -22.8%  
+**90d:** -22.9%  
 **1y:** -14.9%  
 
 ---
@@ -154,7 +154,7 @@ I live in Indonesia. Trust funds basically don’t exist here, and investing in 
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
