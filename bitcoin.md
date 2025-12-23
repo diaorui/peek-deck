@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T10:17:10.546444+00:00'
+updated: '2025-12-23T10:44:39.313203+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 10:17 UTC  
+**Last Updated:** December 23, 2025 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** +1.5%  
-**30d:** -1.0%  
-**90d:** -19.6%  
-**1y:** -11.2%  
+**24h:** -2.6%  
+**7d:** +1.6%  
+**30d:** -0.9%  
+**90d:** -19.5%  
+**1y:** -11.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 bitvoin
 
-21h ago
+22h ago
 
 ---
 
@@ -107,7 +107,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 5h ago
 
 After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bitcoin Magazine • 14h ago
 
 Bitcoin (BTC-USD) is back above $90,000 per token on Monday morning as investors look back on a highly volatile year for the digital asset, which has seen a broad sell-off since hitting its record high above $126,000 in early October. Marketgauge.com chief strategist Michele Schneider examines the technicals of the cryptocurrency and the price range that crypto bulls would feel most comfortable with bitcoin closing 2025 out at. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 12h ago
 
 Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -301,7 +301,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 219 • ⏱️ 39:10 • 18h ago
+👁️ 25K • 👍 1K • 💬 219 • ⏱️ 39:10 • 19h ago
 
 ---
 
@@ -321,7 +321,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 3K • 👍 29 • 💬 45 • ⏱️ 3:19 • 11h ago
+👁️ 3K • 👍 29 • 💬 45 • ⏱️ 3:19 • 12h ago
 
 ---
 
@@ -351,7 +351,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 149 • ⏱️ 10:16 • 10h ago
+👁️ 28K • 👍 2K • 💬 149 • ⏱️ 10:16 • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 448 • 💬 118 • ⏱️ 1:11:22 • 14h ago
+👁️ 9K • 👍 448 • 💬 118 • ⏱️ 1:11:22 • 15h ago
 
 ---
 
