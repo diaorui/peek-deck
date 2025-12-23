@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T15:56:09.929664+00:00'
+updated: '2025-12-23T16:32:15.654068+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 15:56 UTC  
+**Last Updated:** December 23, 2025 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,283.05
+### $87,745.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** +1.4%  
-**30d:** -1.2%  
-**90d:** -19.7%  
-**1y:** -11.4%  
+**24h:** -1.7%  
+**7d:** +2.0%  
+**30d:** -0.6%  
+**90d:** -19.2%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.39B
+**Market Cap:** $1753.16B
 Rank #1
 
-**Circulating Supply:** 19,966,021 BTC
+**Circulating Supply:** 19,966,056 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.3%
 
 **All-Time Low:** $67.81
-+128816.1%
++129416.3%
 
 ---
 
@@ -87,21 +87,7 @@ Rank #1
 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
-5h ago
-
----
-
-**[fidelity predicted $1B bitcoin by 2038.](https://www.reddit.com/r/Bitcoin/comments/1ptront/fidelity_predicted_1b_bitcoin_by_2038/)**
-
-fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
-
-4h ago
-
----
-
-**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
-
-8h ago
+6h ago
 
 ---
 
@@ -113,9 +99,31 @@ Like the question asks
 
 ---
 
-**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
+**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-6h ago
+8h ago
+
+---
+
+**[fidelity predicted $1B bitcoin by 2038.](https://www.reddit.com/r/Bitcoin/comments/1ptront/fidelity_predicted_1b_bitcoin_by_2038/)**
+
+fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
+
+5h ago
+
+---
+
+**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
+
+3h ago
+
+---
+
+**[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
+
+The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
+
+2h ago
 
 ---
 
@@ -127,59 +135,23 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 ---
 
-**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
+**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-2h ago
-
----
-
-**[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
-
-The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
-
-1h ago
+6h ago
 
 ---
 
-**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+**[One of my worst financial decisions](https://www.reddit.com/r/Bitcoin/comments/1ptwxn7/one_of_my_worst_financial_decisions/)**
 
-17h ago
+One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
+
+54m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin price news: BTC heads to its worst quarter since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
-
-Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
-
-CoinDesk • 10h ago
-
----
-
-**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
-
-The Block • 9h ago
-
----
-
-**[Miner capitulation is a contrarian signal, indicates renewed bitcoin momentum, VanEck says](https://www.coindesk.com/markets/2025/12/23/miner-capitulation-is-a-contrarian-signal-indicates-renewed-bitcoin-momentum-vaneck-says)**
-
-VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
-
-CoinDesk • 5h ago
-
----
-
-**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
-
-Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
-
-VanEck • 21h ago
-
----
 
 **[Bitcoin price analysis: Struggling dollar hasn't yet boosted BTC](https://www.coindesk.com/markets/2025/12/23/bitcoin-bulls-eye-possible-tailwind-as-u-s-dollar-index-continues-to-leg-lower)**
 
@@ -189,25 +161,19 @@ CoinDesk • 1h ago
 
 ---
 
-**[Russia Opens the Door to Bitcoin and Crypto for Retail Investors](https://bitcoinmagazine.com/featured/russia-moves-to-open-bitcoin-access)**
+**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
 
-Russia’s central bank has proposed new rules that would allow retail investors limited access to cryptocurrencies while granting professional investors broader rights.
+Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 4h ago
+VanEck • 22h ago
 
 ---
 
-**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
+**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
 
-Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
+The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
 
-Bloomberg.com • 18h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -219,11 +185,47 @@ Yahoo Finance • 23h ago
 
 ---
 
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 5h ago
+
+---
+
+**[Bitcoin’s $1M Price Advocate 'Fires' Analyst Who Predicted $60,000, Claims Bearish Targets Not Real Despite Price Drop](https://finance.yahoo.com/news/bitcoin-1m-price-advocate-fires-114903652.html)**
+
+Samson Mow argues that Bitcoin has already reached its cyclical bottom and rejects bearish forecasts. Mow sparked debate after claiming he fired an analyst for ...
+
+Yahoo Finance • 4h ago
+
+---
+
 **[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
 Al Jazeera • 23h ago
+
+---
+
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
+
+The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
+
+The Motley Fool • 1d ago
+
+---
+
+**[How to Explain Bitcoin to Your Family at Christmas Dinner](https://www.ccn.com/education/crypto/bitcoin-christmas-dinner-awkward-question/)**
+
+CCN.com • 1h ago
+
+---
+
+**[Bitcoin vs. Dogecoin: What's the Better Long-Term Play?](https://www.nasdaq.com/articles/bitcoin-vs-dogecoin-whats-better-long-term-play)**
+
+Key PointsBitcoin's fixed supply cap makes for a superior setup to Dogecoin’s unlimited supply.
+
+Nasdaq • 2d ago
 
 ---
 
@@ -235,7 +237,7 @@ Al Jazeera • 23h ago
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 4d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 5d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 
@@ -250,6 +252,14 @@ How much of a resource hog is AI?
 ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
 
 ⬆️ 1 • 💬 0 • 5d ago • [zetacrush.com](https://zetacrush.com)
+
+---
+
+**[Show HN: I Built a US Grid Telemetry API Using Azure Functions and Python](https://news.ycombinator.com/item?id=46366037)**
+
+Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
+
+⬆️ 3 • 💬 0 • 1h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -273,13 +283,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 19h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 20h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 8h ago
+⬆️ 1 • 💬 0 • 9h ago
 
 ---
 
@@ -293,7 +303,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 181 • ⏱️ 11:35 • 15h ago
+👁️ 23K • 👍 2K • 💬 181 • ⏱️ 11:35 • 16h ago
 
 ---
 
@@ -303,7 +313,7 @@ In this episode of Coin Stories, Natalie Brunell and Strategy CEO Phong Le discu
 
 📺 Natalie Brunell
 
-👁️ 1K • 👍 143 • 💬 1 • ⏱️ 1:07:05 • 1h ago
+👁️ 1K • 👍 143 • 💬 1 • ⏱️ 1:07:05 • 2h ago
 
 ---
 
@@ -333,7 +343,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 4K • 👍 78 • 💬 43 • ⏱️ 3:19 • 17h ago
+👁️ 4K • 👍 78 • 💬 43 • ⏱️ 3:19 • 18h ago
 
 ---
 
@@ -353,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 6K • 👍 539 • 💬 69 • ⏱️ 42:55 • 18m ago
+👁️ 6K • 👍 539 • 💬 69 • ⏱️ 42:55 • 54m ago
 
 ---
 
@@ -373,7 +383,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 19K • 👍 910 • 💬 117 • ⏱️ 6:08 • 22h ago
+👁️ 19K • 👍 910 • 💬 117 • ⏱️ 6:08 • 23h ago
 
 ---
 

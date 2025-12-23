@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T15:56:09.921231+00:00'
+updated: '2025-12-23T16:32:15.645715+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 15:56 UTC  
+**Last Updated:** December 23, 2025 at 16:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ Uh oh…
 
 ---
 
+**[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
+
+AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
+
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 7h ago
+
+---
+
 **[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-5h ago
+6h ago
+
+---
+
+**[Displace Wireless Pro 2 TVs will feature local AI to enhance privacy](https://www.reddit.com/r/artificial/comments/1ptx654/displace_wireless_pro_2_tvs_will_feature_local_ai/)**
+
+The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
+
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 45m ago
 
 ---
 
@@ -61,19 +77,11 @@ OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment
 
 ---
 
-**[ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”](https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/)**
-
-AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
-
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 6h ago
-
----
-
 **[LLVM considering an AI tool policy, AI bot for fixing build system breakage proposed](https://www.reddit.com/r/artificial/comments/1ptwu05/llvm_considering_an_ai_tool_policy_ai_bot_for/)**
 
 Last week a request for comments (RFC) was issued around establishing an LLVM AI Tool Use Policy
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 22m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 59m ago
 
 ---
 
@@ -81,7 +89,7 @@ Last week a request for comments (RFC) was issued around establishing an LLVM AI
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 27m ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 1h ago
 
 ---
 
@@ -97,7 +105,7 @@ Google recently shipped an API that handles conversation history, context manage
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 19h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 20h ago
 
 ---
 
@@ -106,14 +114,6 @@ Prices may still vary on a store-by-store basis, Instacart says.
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
 🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 1d ago
-
----
-
-**[I tried building a deterministic system to make AI safe, verifiable, auditable.](https://www.reddit.com/r/artificial/comments/1pto9go/i_tried_building_a_deterministic_system_to_make/)**
-
-The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
-
-🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 8h ago
 
 ---
 
@@ -131,7 +131,15 @@ ABC News • 1d ago
 
 **[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
+
+---
+
+**[Year in a word: AI bubble](https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f)**
+
+The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
+
+Financial Times • 11h ago
 
 ---
 
@@ -139,7 +147,15 @@ The New York Times • 3h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 41m ago
+The Guardian • 1h ago
+
+---
+
+**[The next AI pivot will be toward efficiency and lowering costs, ex-Facebook privacy chief says](https://www.cnbc.com/2025/12/23/ai-cost-efficiency-facebook-privacy.html)**
+
+Former Facebook privacy chief Chris Kelly said that AI companies will focus on creating efficiencies for training models.
+
+CNBC • 1h ago
 
 ---
 
@@ -147,15 +163,7 @@ The Guardian • 41m ago
 
 Google's AI bounced back in a big way in 2025.
 
-Yahoo Finance • 52m ago
-
----
-
-**[AI spending is expected to stay strong in 2026. Barclays thinks these stocks will benefit](https://www.cnbc.com/2025/12/23/ai-spending-is-expected-to-stay-strong-in-2026-barclays-thinks-these-stocks-will-benefit.html)**
-
-Barclays analysts highlighted a dozen overweight-rated stocks that it views as best-positioned to capitalize on higher-than-expected AI spending next year.
-
-CNBC • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -163,13 +171,13 @@ CNBC • 53m ago
 
 The company behind ChatGPT says prompt injection vulnerabilities will likely never be fully âsolved.â
 
-Gizmodo • 30m ago
+Gizmodo • 1h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 1h ago
+The Washington Post • 31m ago
 
 ---
 
@@ -177,21 +185,13 @@ The Washington Post • 1h ago
 
 An AI-powered app called CrimeRadar has apologised for the distress caused by false crime alerts issued to local US communities after a BBC Verify investigation.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
 **[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
 
-Reuters • 8h ago
-
----
-
-**[Google’s Chess Master Is Working on AI's Killer App](https://www.bloomberg.com/opinion/articles/2025-12-23/google-ai-boss-demis-hassabis-is-working-on-the-next-killer-app)**
-
-You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
-
-Bloomberg.com • 10h ago
+Reuters • 9h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 10h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 704 • 💬 429 • 23h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 719 • 💬 438 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,7 +211,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 270 • 💬 172 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 271 • 💬 173 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -236,13 +236,13 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 176 • 💬 91 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 177 • 💬 91 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 147 • 💬 176 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 156 • 💬 186 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -272,7 +272,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 130 • 💬 96 • 9h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 132 • 💬 97 • 10h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -314,7 +314,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 11K • 👍 321 • 💬 48 • ⏱️ 18:48 • 17h ago
+👁️ 11K • 👍 321 • 💬 48 • ⏱️ 18:48 • 18h ago
 
 ---
 
@@ -344,7 +344,7 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 110K • 👍 7K • 💬 1K • ⏱️ 21:43 • 13h ago
+👁️ 110K • 👍 7K • 💬 1K • ⏱️ 21:43 • 14h ago
 
 ---
 
@@ -364,7 +364,7 @@ Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf
 
 📺 PrestonReacts
 
-👁️ 169K • 👍 2K • 💬 444 • ⏱️ 15:32 • 2d ago
+👁️ 169K • 👍 2K • 💬 444 • ⏱️ 15:32 • 3d ago
 
 ---
 
@@ -400,7 +400,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 604 • 4d ago
+⬇️ 9,848 • ❤️ 608 • 4d ago
 
 ---
 
@@ -412,7 +412,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,335 • 14d ago
+⬇️ 373,123 • ❤️ 3,339 • 14d ago
 
 ---
 
@@ -424,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 502 • 4d ago
+⬇️ 21,058 • ❤️ 504 • 4d ago
 
 ---
 
@@ -436,7 +436,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 10,832 • ❤️ 422 • 5d ago
+⬇️ 10,832 • ❤️ 423 • 5d ago
 
 ---
 
@@ -460,7 +460,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 398 • 6h ago
+⬇️ 1,148 • ❤️ 403 • 6h ago
 
 ---
 
@@ -472,7 +472,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 370 • 6h ago
+⬇️ 0 • ❤️ 370 • 7h ago
 
 ---
 
@@ -496,7 +496,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 110,376 • ❤️ 451 • 3d ago
+⬇️ 110,376 • ❤️ 452 • 3d ago
 
 ---
 
@@ -508,7 +508,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 345 • 7d ago
+⬇️ 0 • ❤️ 347 • 8d ago
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 664 • 7h ago
+⭐ 6.0k • 🔱 664 • 8h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 363 • 22m ago
+⭐ 2.7k • 🔱 363 • 58m ago
 
 ---
 
