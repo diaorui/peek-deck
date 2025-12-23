@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T07:01:47.210160+00:00'
+updated: '2025-12-23T07:33:25.837994+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 07:01 UTC  
+**Last Updated:** December 23, 2025 at 07:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,440.85
+### $87,592.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +1.4%  
-**30d:** -1.2%  
-**90d:** -19.7%  
-**1y:** -11.4%  
+**24h:** -2.1%  
+**7d:** +1.5%  
+**30d:** -1.0%  
+**90d:** -19.6%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1740.28B
+**Market Cap:** $1747.42B
 Rank #1
 
-**Circulating Supply:** 19,965,790 BTC
+**Circulating Supply:** 19,965,887 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.9%
+-30.6%
 
 **All-Time Low:** $67.81
-+128373.7%
++129007.8%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-8h ago
+9h ago
 
 ---
 
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-10h ago
-
----
-
-**[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
-
-12h ago
+11h ago
 
 ---
 
@@ -99,7 +93,7 @@ Rank #1
 
 bitvoin
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +107,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-17h ago
+18h ago
+
+---
+
+**[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
+
+12h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg • 9h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -173,29 +173,27 @@ Investor's Business Daily • 10h ago
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[IMF, El Salvador Talks Continue Over Bitcoin Project, Chivo e-Wallet Sales](https://finance.yahoo.com/news/imf-el-salvador-talks-continue-052417790.html)**
+**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
 
-The International Monetary Fund (IMF) said Tuesday that discussions regarding El Salvador’s Bitcoin project continue “centered on enhancing transparency, safeguarding public resources, and mitigating risks.”The international agency is also in advanced talks, negotiating for the sale of the government-run Chivo crypto wallet. The first Bitcoin-focused government wallet reportedly saw widespread ...
-
-Yahoo Finance • 1h ago
+The Block • 1h ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqf-NPaYVUkGpq5DYqUHy5gYwI7nMpmFQqoV00dZGvu5dzc2YH5k0kbg&gaa_ts=694a3ce4&gaa_sig=JR1XgCeT3UiZNoOyGFgsqUhG99Z9luCbVnS6xh3-U-bdPkp42r9AobSx2HXwQt2PhBOFgzTXtqPzMnlbiLvAlg%3D%3D)**
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqdOo3xWKvcGKUuGohiYPwGvy0FLUAj4_K9QonHhkM-azKAw09XF6H4a&gaa_ts=694a492d&gaa_sig=eQux792qbpYIC1NV8j1NdMKRCdnuYrhmWphQgzvAHOi0WVAlcif_2qv0ki2TX68yn_77Gkq_t4rV1f20_apD7w%3D%3D)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
-**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
 
-The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
 
-The Motley Fool • 19h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -203,7 +201,7 @@ The Motley Fool • 19h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 4h ago
+WCVB • 5h ago
 
 ---
 
@@ -261,7 +259,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 15h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 16h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -278,6 +276,12 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
 ⬆️ 2 • 💬 0 • 11h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+
+---
+
+**[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
+
+⬆️ 1 • 💬 0 • 31m ago
 
 ---
 
@@ -301,7 +305,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 224 • ⏱️ 39:10 • 15h ago
+👁️ 24K • 👍 1K • 💬 224 • ⏱️ 39:10 • 16h ago
 
 ---
 
@@ -311,7 +315,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 26 • 💬 44 • ⏱️ 3:19 • 8h ago
+👁️ 2K • 👍 26 • 💬 44 • ⏱️ 3:19 • 9h ago
 
 ---
 
@@ -331,7 +335,7 @@ Things continue to chop sideways with a little run. But let's be honest - moment
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 487 • 💬 73 • ⏱️ 27:45 • 11h ago
+👁️ 7K • 👍 487 • 💬 73 • ⏱️ 27:45 • 12h ago
 
 ---
 
@@ -361,7 +365,7 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 209 • 💬 107 • ⏱️ 8:51 • 11h ago
+👁️ 3K • 👍 209 • 💬 107 • ⏱️ 8:51 • 12h ago
 
 ---
 

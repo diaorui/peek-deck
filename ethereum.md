@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T07:01:47.216141+00:00'
+updated: '2025-12-23T07:33:25.843967+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 07:01 UTC  
+**Last Updated:** December 23, 2025 at 07:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +4.5%  
-**30d:** +0.2%  
-**90d:** -23.2%  
-**1y:** -15.3%  
+**24h:** -2.0%  
+**7d:** +4.8%  
+**30d:** +0.4%  
+**90d:** -23.0%  
+**1y:** -15.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.50B
+**Market Cap:** $357.61B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.1%
 
 **All-Time Low:** $0.43
-+682157.1%
++684626.0%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 14h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 15h ago
 
 ---
 
@@ -174,11 +174,11 @@ CoinDesk • 14h ago
 
 ---
 
-**[$270 Million From BlackRock Wallets Hit Coinbase; Bitcoin and Ethereum at Risk of Sell-Off](https://www.tradingview.com/news/u_today:ac09f76e3094b:0-270-million-from-blackrock-wallets-hit-coinbase-bitcoin-and-ethereum-at-risk-of-sell-off/)**
+**[Ethereum Price Presses Resistance, but Can The Recovery Survive?](https://www.tradingview.com/news/newsbtc:b1dd9f8c5094b:0-ethereum-price-presses-resistance-but-can-the-recovery-survive/)**
 
-BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
+Ethereum price started a recovery wave above $2,980. ETH is now consolidating and faces a key barrier near the $3,080 level.Ethereum Price Faces Important ResistanceEthereum price started a decent increase above $2,880, like Bitcoin. ETH price was able to surpass the $2,920 and $2,950 resistance le…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -204,19 +204,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[BlackRock moves $182M in Bitcoin and $91M in Ethereum to Coinbase Prime](https://cryptobriefing.com/blackrock-crypto-deposits-bitcoin-ethereum-coinbase/)**
+
+BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
+
+Crypto Briefing • 18h ago
+
+---
+
 **[These two financial giants just set Ethereum's on-chain schedule, but Wall Street relies on a controversial “undo” button](https://cryptoslate.com/tokenization-gets-real-when-cash-meets-settlement-dtcc-jpmorgan-on-eth/)**
 
 DTCC’s 2026 pilot and JPMorgan’s MONY fund show how tokenized securities and on-chain cash could meet on Ethereum, and who gets access first.
 
 CryptoSlate • 18h ago
-
----
-
-**[ETHE: What You Need To Know About This Ethereum ETF](https://seekingalpha.com/article/4854984-ethe-what-you-need-to-know-about-this-ethereum-etf)**
-
-ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
-
-Seeking Alpha • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 100 • ⏱️ 17:34 • 14h ago
+👁️ 8K • 👍 298 • 💬 100 • ⏱️ 17:34 • 15h ago
 
 ---
 
@@ -258,7 +258,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 44 • 💬 67 • ⏱️ 7:32 • 17h ago
+👁️ 1K • 👍 44 • 💬 67 • ⏱️ 7:32 • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 947 • 👍 264 • 💬 88 • ⏱️ 15:45 • 1h ago
+👁️ 947 • 👍 264 • 💬 88 • ⏱️ 15:45 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 17h ago
+👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 408 • 👍 19 • 💬 30 • ⏱️ 5:29 • 10h ago
+👁️ 408 • 👍 19 • 💬 30 • ⏱️ 5:29 • 11h ago
 
 ---
 
