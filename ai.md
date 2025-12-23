@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T22:46:46.783817+00:00'
+updated: '2025-12-23T22:57:44.746146+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 22:46 UTC  
+**Last Updated:** December 23, 2025 at 22:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 4h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 5h ago
 
 ---
 
@@ -79,7 +79,7 @@ Uh oh…
 
 The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
 
-🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 6h ago
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 7h ago
 
 ---
 
@@ -87,7 +87,7 @@ The next generation of the truly wireless TV boasts on-device AI. Displace TV wi
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 4h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ Financial Times • 17h ago
 
 **[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 5h ago
 
 Despite Gen Z increasingly demanding work-life balance, many Fortune 500 bosses doubled down on overtime in 2025 to compete in the AI race.
 
-Fortune • 21m ago
+Fortune • 32m ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1h ago
 
 Raleigh is testing AI-powered traffic cameras to fine-tune signal timing, improve safety, and reduce congestion at busy intersections as the city continues to grow.
 
-WRAL • 54m ago
+WRAL • 1h ago
 
 ---
 
@@ -312,7 +312,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 260K • 👍 11K • 💬 2K • ⏱️ 19:40 • 8h ago
+👁️ 260K • 👍 11K • 💬 2K • ⏱️ 19:40 • 9h ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 373 • 3h ago
+⭐ 2.9k • 🔱 376 • 3h ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 185 • 5h ago
+⭐ 2.6k • 🔱 186 • 5h ago
 
 ---
 
@@ -702,7 +702,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 197 • 22h ago
+⭐ 1.2k • 🔱 197 • 23h ago
 
 ---
 

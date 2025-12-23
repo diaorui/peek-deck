@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T22:46:46.801663+00:00'
+updated: '2025-12-23T22:57:44.763677+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 22:46 UTC  
+**Last Updated:** December 23, 2025 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-42m ago
+53m ago
 
 ---
 
@@ -136,7 +136,7 @@ The Verge • 2d ago
 
 While it might sound like a weapon of oceanic destruction in the hands of Aquaman’s arch enemies, the new “stingraybot” from a team at ETH Zurich (the Federal Institute of Technology of Switzerland) offers enormous promise for surgery, medical care, wildlife biology, robotics, and more, thanks to…
 
-New Atlas • 2h ago
+New Atlas • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 36K • 💬 4 • ⏱️ 0:26 • 20h ago
+👁️ 36K • 💬 4 • ⏱️ 0:26 • 21h ago
 
 ---
 

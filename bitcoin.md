@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T22:46:46.792423+00:00'
+updated: '2025-12-23T22:57:44.754576+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 22:46 UTC  
+**Last Updated:** December 23, 2025 at 22:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.7%  
 **7d:** +1.6%  
-**30d:** -0.9%  
+**30d:** -1.0%  
 **90d:** -19.5%  
 **1y:** -11.2%  
 
@@ -127,7 +127,7 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-9h ago
+10h ago
 
 ---
 
@@ -337,7 +337,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 209 • ⏱️ 11:35 • 22h ago
+👁️ 27K • 👍 2K • 💬 209 • ⏱️ 11:35 • 23h ago
 
 ---
 
@@ -347,7 +347,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 976 • 👍 38 • 💬 22 • ⏱️ 17:16 • 6h ago
+👁️ 976 • 👍 38 • 💬 22 • ⏱️ 17:16 • 7h ago
 
 ---
 
