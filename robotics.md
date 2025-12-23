@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T03:17:35.597462+00:00'
+updated: '2025-12-23T04:10:31.928525+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 03:17 UTC  
+**Last Updated:** December 23, 2025 at 04:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/ https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/
 
-16h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 I keep coming back to this thought, especially when I look at how much home robotics has progressed over the last few years. We’ve had social robots like Jibo and Anki Vector. We’ve seen Amazon Astro. None of them really stuck. And it doesn’t feel like they failed because the tech was bad. More like… they never found a natural place in daily life. What still feels missing to me is a very specific kind of robot. Not a humanoid. Not another appliance on wheels. I’m thinking about something small, maybe pet-sized, that just lives in the house with you. It moves between rooms. Goes upstairs and downstairs. Checks on the cat napping in the sun. Notices when the toddler is too quiet, or suddenly way too loud. Maybe it picks up small stuff, fetches things, or just keeps an eye on what’s going on. Not built around one killer feature. More around presence. The weird part is that most of the building blocks feel… good enough now. Indoor navigation mostly works. Cameras are cheap. Perception models are way better than they used to be. Small mobile robots aren’t exactly new tech. And yet, this category basically doesn’t exist. Which makes me think the blocker isn’t really technical anymore. It’s more about how people are supposed to relate to a thing like this. A few reasons that might explain it: Nobody can quite agree on what a “non-task” home robot is actually for A moving thing in your house feels stranger than a fixed device, even if it does less It’s hard to sell something that doesn’t replace a clear chore Homes are messy, emotional, and inconsistent in very human ways If it’s too capable, people get uneasy; if it’s too dumb, it feels pointless So we’re kind of stuck without a mental model for a robot that’s somewhere between an appliance, a pet, and a background presence. Maybe personal robots don’t fail because they’re not useful enough, but because we keep trying to frame them as tools. Maybe they need to be framed more like ambient companions that adapt to the rhythms of people, kids, and pets, instead of optimizing a single task. Feels like the tech is close. We just don’t know what role this thing is supposed to play yet.
 
-16h ago
+17h ago
 
 ---
 
@@ -60,7 +60,7 @@ I keep coming back to this thought, especially when I look at how much home robo
 
 Hey guys, how much time do you usually spend on your feet in a given work day? I’ve recently injured my back and it doesn’t look like it’s going to get healed anytime soon. I’m relegated to a chair for the most part I think, but this is an industry I’m pretty interested in. I would love to get your feedback so I can decide if I can actually do this work in a professional setting. Thanks! 🤖
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey guys, how much time do you usually spend on your feet in a given work day? I
 
 Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting human motion to diverse robot embodiments. Most retargeting methods suffer from physical inconsistencies. SPIDER is physics-informed, ensuring dynamically feasible motions without artifacts like ghosting or floating. Key Features: General: Supports both humanoids (G1, H1, etc.) and dexterous hands (Allegro, Shadow, etc.). Physics-Based: GPU-accelerated optimization for clean, stable motion. Sim2Real-ready: Ready for deployment, from human video to real-world robot actions. Links: 📦 Code: https://github.com/facebookresearch/spider 📓 Tutorial: Notebook 🌐 Project Page: http://jc-bao.github.io/spider-project/ Would love to hear your feedback or help with any integration questions!
 
-10h ago
+11h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hi everyone, we’re open-sourcing SPIDER, a general framework for retargeting h
 
 I am building a robotic hand, which is very compact and direct-driven. So, I am trying to find some motors (w/o gearbox) having a very small size, but high torque (and low speed). The torque and speed requirement is similar to the gimbal motor (0.07 N-m) in the below link. https://store.tmotor.com/product/gb2208-gimbal-type.html But the size is an issue for my project. I want to use a motor with a 16 mm smaller diameter, which shape is similar to the ones in the following link. https://www.portescap.com/en/products/brushless-dc-motors/all-bldc-motors The sizes of those motors are good for me, but they are designed for the high speed applications (higher than 10,000 rpm). To accomplish this requirement, I think that the motors should have high resistance compared to high-speed motors used for the drone. Please share your opinion and any comment for my project!!
 
-3h ago
+4h ago
 
 ---
 
@@ -84,13 +84,13 @@ I am building a robotic hand, which is very compact and direct-driven. So, I am 
 
 Making some good progress on the automatic tool-changing mechanism for my SCARA arm. I got it wired and assembled to the Z-compensation module and made it grip and release when pushing against the tool. I made a tool pocket that fits on a 2020 extrusion so I can stack a few of them in a row once I make more tools and added a little magnet to have it sit in a fixed position. The tools are connected by a magnetic pogo pin connector to power and control them and I want one of the pins to serve as a connection verification signal, and later, tool identification. I am still considering what is the best and simplest method to do it. I am considering wiring different resistors or capacitors in each tool and measuring the voltage/charge time when connected. If anyone has tried these methods before or has a better one I would really appreciate your advice. For more details on this project check out my hackaday page: https://hackaday.io/project/204557-pr3-scara
 
-10h ago
+11h ago
 
 ---
 
 **[M5Stack’s Open-Source Kawaii Robot — Pre-Orders Are Now Open!](https://www.reddit.com/r/robotics/comments/1pthpfw/m5stacks_opensource_kawaii_robot_preorders_are/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -106,7 +106,7 @@ This setup uses two single-axis (pitch-only) gimbals stacked in series. When com
 
 new modified version with a better camera. Patrolling on demand or on schedule. record video at move forward. excellent navigation avoiding obstacles. no vacuum brushes removed. Just video patrolling.
 
-12h ago
+13h ago
 
 ---
 
@@ -114,19 +114,19 @@ new modified version with a better camera. Patrolling on demand or on schedule. 
 
 ## Google News: "robotics"
 
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+
+Interesting Engineering • 2d ago
+
+---
+
 **[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
 
 In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
 
-Stock Titan • 18h ago
-
----
-
-**[Elon Musk shares video of Unitree G1 humanoid robots pulling off backflips at concert](https://technode.com/2025/12/20/elon-musk-shares-video-of-unitree-g1-humanoid-robots-pulling-off-backflips-at-concert/)**
-
-Tesla CEO Elon Musk today reposted a video of a Chinese concert performance on social media platform X, captioning it “Impressive,” a move that quickly
-
-TechNode • 2d ago
+Stock Titan • 19h ago
 
 ---
 
@@ -138,11 +138,11 @@ The Verge • 1d ago
 
 ---
 
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
-Good Morning Wilton • 23h ago
+hyundai.com • 22h ago
 
 ---
 
@@ -150,15 +150,29 @@ Good Morning Wilton • 23h ago
 
 Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
 
-Sifted • 22h ago
+Sifted • 23h ago
 
 ---
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
+**[Robot Makers Wrestle With How to Safely Pull the Plug on Humanoids](https://www.theinformation.com/articles/robot-makers-wrestle-safely-pull-plug-humanoids)**
 
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
+The Information • 9h ago
 
-hyundai.com • 21h ago
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 1d ago
+
+---
+
+**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
+
+NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
+
+Phoronix • 16h ago
 
 ---
 
@@ -170,27 +184,11 @@ KEYC News Now • 3d ago
 
 ---
 
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
-
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
-
-Phoronix • 15h ago
-
----
-
 **[Ghost Team Up with FeedLA & Serve Robotics to Give Out Food in Los Angeles](https://www.metalsucks.net/2025/12/20/ghost-team-up-with-feedla-serve-robotics-to-give-out-food-in-los-angeles/)**
 
 Ghost, FeedLA and Serve Robotics joined forces December 19 to deliver food to residents of the Inglewood neighborhood in Los Angeles.
 
 MetalSucks • 2d ago
-
----
-
-**[Bernie Sanders Questions Elon Musk's Universal High Income, Free Housing Claims Amid AI, Robotics Push: 'How Will This Utopia Come…'](https://finance.yahoo.com/news/bernie-sanders-questions-elon-musks-193106106.html)**
-
-Sen. Bernie Sanders (I-VT) has slammed Tesla Inc. (NASDAQ:TSLA) CEO Elon Musk amid an AI and Robotics push. How Will This Utopia Come About, Bernie Sanders Asks In a post on the social media platform X on Thursday, Sanders shared a video directed at Musk. "Just a couple of questions for you," Sanders captioned the video. In the video, the Senator asked Musk questions about his artificial intelligence and robotics efforts, which will bring about a "utopia" in the world. "You have told us poverty
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 38K • 👍 736 • 💬 77 • ⏱️ 2:08:46 • 3d ago
+👁️ 38K • 👍 739 • 💬 77 • ⏱️ 2:08:46 • 3d ago
 
 ---
 
@@ -214,17 +212,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 3K • 👍 250 • 💬 80 • ⏱️ 11:02 • 4h ago
-
----
-
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
-
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
-
-📺 CNET
-
-👁️ 26K • 👍 533 • 💬 119 • ⏱️ 5:25 • 1d ago
+👁️ 6K • 👍 380 • 💬 105 • ⏱️ 11:02 • 5h ago
 
 ---
 
@@ -238,13 +226,23 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 28K • 👍 543 • 💬 126 • ⏱️ 5:25 • 1d ago
+
+---
+
 **[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
 
 Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
 
 📺 LimX Dynamics
 
-👁️ 928K • 👍 11K • 💬 614 • ⏱️ 2:43 • 4d ago
+👁️ 939K • 👍 11K • 💬 618 • ⏱️ 2:43 • 4d ago
 
 ---
 
@@ -254,7 +252,17 @@ LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult fo
 
 📺 AZFK
 
-👁️ 136K • 👍 7K • 💬 535 • ⏱️ 13:43 • 4d ago
+👁️ 140K • 👍 7K • 💬 542 • ⏱️ 13:43 • 4d ago
+
+---
+
+**[THIS SELF AWARE ROBOT ESCAPED AND WANTS TO END HUMANITY](https://www.youtube.com/watch?v=TeE8Bz8JOLI)**
+
+Channels: https://www.youtube.com/@vibingleaf youtube.com/watch?v=b-vx4v_iVPw&pp=0gcJCTwKAYcqIYzv @j-gems ...
+
+📺 Baz
+
+👁️ 23K • 👍 1K • 💬 94 • ⏱️ 26:19 • 1d ago
 
 ---
 
@@ -264,7 +272,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 509K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
+👁️ 517K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
 
 ---
 
@@ -274,17 +282,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 11K • 👍 168 • 💬 6 • ⏱️ 0:11 • 18h ago
-
----
-
-**[Introduction to Physical AI &amp; Robotics at NVIDIA](https://www.youtube.com/watch?v=p8yhD0JnScM)**
-
-This session will provide a high-level overview of NVIDIA's comprehensive approach to robotics, emphasizing how our open ...
-
-📺 NVIDIA Developer
-
-👁️ 2K • 👍 92 • 💬 1 • ⏱️ 55:42 • 2d ago
+👁️ 11K • 👍 168 • 💬 6 • ⏱️ 0:11 • 19h ago
 
 ---
 
@@ -294,7 +292,7 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 2.4M • 👍 34K • 💬 559 • ⏱️ 0:29 • 1d ago
+👁️ 2.5M • 👍 35K • 💬 573 • ⏱️ 0:29 • 1d ago
 
 ---
 
