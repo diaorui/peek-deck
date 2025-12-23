@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T06:40:58.914283+00:00'
+updated: '2025-12-23T07:01:47.201762+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 06:40 UTC  
+**Last Updated:** December 23, 2025 at 07:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old students surveyed said they felt like they were always being watched. In focus groups run by the ACLU, students said they felt less comfortable alerting educators to mental health issues and physical abuse. Marlow argues that’s a lousy tradeoff. “Because kids don't trust people they view as spying on them, it ruptures trust and actually makes things less safe,” he said.
 
-🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 19h ago
+🔗 [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/) • 20h ago
 
 ---
 
@@ -97,7 +97,7 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Game called "Humanize Robotics". I’m building a community of people like me - 
 
 OpenAI has added a year-end recap feature to ChatGPT that summarizes how users interacted with the AI over the year. The format is very similar to Spotify Wrapped, but focused on AI conversations rather than entertainment. What stood out to me is less the feature itself and more what it signals: AI tools are starting to frame usage as something worth reflecting on, not just consuming. It’s also rolling out selectively by country and account type, which raises some questions around data handling and regional differences. More details here if anyone wants them: https://techputs.com/chatgpt-year-end-review-spotify-wrapped/ Do you think features like this actually help users understand their AI usage better?
 
-42m ago
+1h ago
 
 ---
 
@@ -139,13 +139,13 @@ blog.google • 12h ago
 
 **[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[Vodafone CEO Among UK Bosses Who See AI, Cyberattacks as Top 2026 Risks](https://www.bloomberg.com/news/articles/2025-12-23/vodafone-ceo-among-uk-bosses-who-see-ai-cyberattacks-as-top-2026-risks)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ Business Insider • 21h ago
 
 **[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ Air & Space Forces Magazine • 12h ago
 
 **[I correctly predicted ChatGPT. Here are my 6 AI predictions for 2026](https://www.fastcompany.com/91461250/i-correctly-predicted-chatgpt-my-6-ai-predictions-2026)**
 
-Fast Company • 13h ago
+Fast Company • 14h ago
 
 ---
 
@@ -370,7 +370,7 @@ Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_y
 
 📺 Keith D
 
-👁️ 25K • 👍 2K • 💬 306 • ⏱️ 15:25 • 16h ago
+👁️ 25K • 👍 2K • 💬 306 • ⏱️ 15:25 • 17h ago
 
 ---
 
@@ -504,7 +504,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 0 • ❤️ 278 • 25m ago
+⬇️ 0 • ❤️ 278 • 46m ago
 
 ---
 
@@ -611,7 +611,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 86 • 💬 6 • ⭐ 56 • 4d ago
+▲ 87 • 💬 6 • ⭐ 56 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 18.8k • 🔱 3.0k • 1d ago
+⭐ 18.9k • 🔱 3.0k • 1d ago
 
 ---
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 638 • 2h ago
+⭐ 5.8k • 🔱 641 • 3m ago
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 3h ago
+⭐ 2.4k • 🔱 181 • 22m ago
 
 ---
 
@@ -681,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 324 • 7h ago
+⭐ 2.3k • 🔱 327 • 7h ago
 
 ---
 
@@ -691,7 +691,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.7k • 🔱 362 • 16d ago
+⭐ 1.7k • 🔱 363 • 16d ago
 
 ---
 
@@ -701,7 +701,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 185 • 6h ago
+⭐ 1.1k • 🔱 186 • 7h ago
 
 ---
 
@@ -711,7 +711,7 @@ Google Antigravity AI模型配额监控插件
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 53 • 5d ago
+⭐ 1.1k • 🔱 54 • 5d ago
 
 ---
 
@@ -721,7 +721,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 943 • 🔱 87 • 4h ago
+⭐ 956 • 🔱 87 • 4h ago
 
 ---
 
@@ -731,7 +731,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 933 • 🔱 90 • 19h ago
+⭐ 935 • 🔱 90 • 20h ago
 
 ---
 

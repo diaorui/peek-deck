@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T06:40:58.928623+00:00'
+updated: '2025-12-23T07:01:47.216141+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 06:40 UTC  
+**Last Updated:** December 23, 2025 at 07:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +4.3%  
-**30d:** +0.0%  
-**90d:** -23.4%  
-**1y:** -15.5%  
+**24h:** -2.3%  
+**7d:** +4.5%  
+**30d:** +0.2%  
+**90d:** -23.2%  
+**1y:** -15.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-39m ago
+1h ago
 
 ---
 
@@ -154,7 +154,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -170,7 +170,7 @@ FXStreet • 1d ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 17h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 10h ago
+Bit Digital • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 39 • 💬 26 • ⏱️ 16:54 • 10h ago
+👁️ 1K • 👍 39 • 💬 26 • ⏱️ 16:54 • 11h ago
 
 ---
 
@@ -298,7 +298,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 468 • 👍 36 • 💬 41 • ⏱️ 5:02 • 11h ago
+👁️ 468 • 👍 36 • 💬 41 • ⏱️ 5:02 • 12h ago
 
 ---
 

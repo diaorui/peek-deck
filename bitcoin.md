@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T06:40:58.922636+00:00'
+updated: '2025-12-23T07:01:47.210160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 06:40 UTC  
+**Last Updated:** December 23, 2025 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,397.71
+### $87,440.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.2%  
-**30d:** -1.3%  
-**90d:** -19.8%  
-**1y:** -11.5%  
+**24h:** -2.2%  
+**7d:** +1.4%  
+**30d:** -1.2%  
+**90d:** -19.7%  
+**1y:** -11.4%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -107,7 +107,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-15h ago
+16h ago
 
 ---
 
@@ -121,13 +121,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-10h ago
+11h ago
 
 ---
 
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1ptcaxi/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg • 8h ago
+Bloomberg • 9h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 14h ago
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -211,7 +211,7 @@ WCVB • 4h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 13h ago
+Al Jazeera • 14h ago
 
 ---
 
@@ -219,7 +219,7 @@ Al Jazeera • 13h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 10h ago
+The Verge • 11h ago
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 2 • 💬 0 • 10h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 11h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -291,7 +291,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 117 • ⏱️ 11:35 • 6h ago
+👁️ 14K • 👍 1K • 💬 117 • ⏱️ 11:35 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 293 • ⏱️ 1:04:41 • 14h ago
+👁️ 19K • 👍 1K • 💬 293 • ⏱️ 1:04:41 • 15h ago
 
 ---
 
@@ -351,7 +351,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 15K • 👍 813 • 💬 120 • ⏱️ 6:08 • 13h ago
+👁️ 15K • 👍 813 • 💬 120 • ⏱️ 6:08 • 14h ago
 
 ---
 
@@ -371,7 +371,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 136 • ⏱️ 10:16 • 6h ago
+👁️ 22K • 👍 2K • 💬 136 • ⏱️ 10:16 • 7h ago
 
 ---
 
