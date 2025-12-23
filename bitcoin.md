@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T19:55:48.829984+00:00'
+updated: '2025-12-23T20:25:08.809002+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 19:55 UTC  
+**Last Updated:** December 23, 2025 at 20:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,767.20
+### $87,824.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +1.5%  
-**30d:** -1.0%  
-**90d:** -19.6%  
-**1y:** -11.2%  
+**24h:** -0.4%  
+**7d:** +1.9%  
+**30d:** -0.7%  
+**90d:** -19.3%  
+**1y:** -10.9%  
 
 ---
 
@@ -89,7 +89,7 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ One of my worst financial decisions was purchasing Bitcoin this summer near its 
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 **[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ Like the question asks
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 1h ago
 
 Gold and copper have outperformed other major assets this year, with gold rallying more than copper.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -191,7 +191,7 @@ VanEck • 1d ago
 
 Learn how to buy Bitcoin Hyper (HYPER). Find out the safest ways to purchase, store, and invest in BTC Hyper today.
 
-Business Insider • 22m ago
+Business Insider • 52m ago
 
 ---
 
@@ -199,7 +199,7 @@ Business Insider • 22m ago
 
 Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -215,7 +215,7 @@ CoinDesk • 5h ago
 
 The Bitcoin price could experience major swings this Friday as billions of dollars in options are set to expire. A crypto market expert has warned that the scale of this event could trigger “something big,” potentially affecting both volatility and the actions of retail and institutional investors…
 
-TradingView — Track All Markets • 55m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ Yahoo Finance • 17h ago
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -263,7 +263,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 4h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 5h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 23h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 1d ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -295,13 +295,13 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 Analytics reimagined. Watch visitors on a 3D globe, explore AI-powered insights, and chat with your data.
 
-⬆️ 1 • 💬 1 • 1m ago • [prysmhq.com](https://prysmhq.com)
+⬆️ 1 • 💬 1 • 30m ago • [prysmhq.com](https://prysmhq.com)
 
 ---
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 12h ago
+⬆️ 1 • 💬 0 • 13h ago
 
 ---
 
@@ -315,7 +315,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 204 • ⏱️ 11:35 • 19h ago
+👁️ 25K • 👍 2K • 💬 204 • ⏱️ 11:35 • 20h ago
 
 ---
 

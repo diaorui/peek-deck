@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T19:55:48.836022+00:00'
+updated: '2025-12-23T20:25:08.815088+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 19:55 UTC  
+**Last Updated:** December 23, 2025 at 20:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +3.7%  
-**30d:** -0.6%  
-**90d:** -23.8%  
-**1y:** -15.9%  
+**24h:** -1.1%  
+**7d:** +4.5%  
+**30d:** +0.2%  
+**90d:** -23.3%  
+**1y:** -15.3%  
 
 ---
 
@@ -80,13 +80,13 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
 **[ETHZilla still owns about $200M ETH](https://www.reddit.com/r/ethereum/comments/1pu32ay/ethzilla_still_owns_about_200m_eth/)**
 
-14m ago
+43m ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am very interested in scaling what Ethereum started in 2013/2014, and I have followed Ethereum since (I used to work with an organization that ENS gave a dedicated name, for example, reserved it as one of few they reserved for organizations...) This organization was very controversial though. I solved proof-of-unique-human in the ideal way by 2018 (together with that controversial organization...), and it is quite well known (an analogous approach but worse version game theoretically is currently being approached by the individual who single-handedly built the first version of Ethereum in 2013/2014, he calls it "proof-of-video-interaction"), but it requires extreme parallelization. Hundreds of thousands of transactions per second. Polygon seems to have solved part of parallelization with "transaction dependency graph". Another problem, scaling the consensus, I am forbidden to mention here as an Edmund with support from a Ligi threatened to ban me if I did (this seems counter-productive still? Would be good if it was over-ruled by the other moderators and I was informed of this). And a third problem, is data structures. In my proof-of-unique-human I need to operate in parallel on something like an array. A very generalized and quite simple mapping that is a bit like a mapping in Golang could allow for that. I think this is a valid idea, and relevant. It is a topic that needs to be solved. Ethereum in 2014 was a revolution, Bitcoin in 2008 before that a revolution too, but everyone here will live many decades more, and just like ENIAC was one of first computers, the computer continued to advance, and 70 years later it continues still to advance. It is a living system, and growth is change.
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 8h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 9h ago
 
 ---
 
@@ -140,7 +140,7 @@ Edit: The "deferred ordering" array does not need deferred ordering. Nodes can k
 
 **[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Edit: The "deferred ordering" array does not need deferred ordering. Nodes can k
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Motley Fool • 2h ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -182,7 +182,7 @@ CCN.com • 6h ago
 
 Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -198,7 +198,7 @@ Yahoo Finance • 3d ago
 
 Bitcoin, Ethereum and XRP are trading lower today as crypto markets react to strong U.S. economic data and selling pressure from crypto investment funds.
 
-Coinpedia Fintech News • 3h ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
@@ -206,13 +206,13 @@ Coinpedia Fintech News • 3h ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -220,7 +220,7 @@ The Block • 12h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 23h ago
+Bit Digital • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 627 • 👍 31 • 💬 77 • ⏱️ 5:30 • 9h ago
+👁️ 627 • 👍 31 • 💬 77 • ⏱️ 5:30 • 10h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 832 • 👍 82 • 💬 14 • ⏱️ 4:22 • 3h ago
+👁️ 832 • 👍 82 • 💬 14 • ⏱️ 4:22 • 4h ago
 
 ---
 
@@ -254,7 +254,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 354 • 👍 31 • 💬 36 • ⏱️ 9:42 • 6h ago
+👁️ 354 • 👍 31 • 💬 36 • ⏱️ 9:42 • 7h ago
 
 ---
 
@@ -284,7 +284,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 86 • 💬 346 • ⏱️ 14:58 • 13h ago
+👁️ 3K • 👍 86 • 💬 346 • ⏱️ 14:58 • 14h ago
 
 ---
 
@@ -324,7 +324,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 682 • 💬 217 • ⏱️ 15:45 • 14h ago
+👁️ 4K • 👍 682 • 💬 217 • ⏱️ 15:45 • 15h ago
 
 ---
 

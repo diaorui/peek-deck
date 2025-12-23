@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T19:55:48.821230+00:00'
+updated: '2025-12-23T20:25:08.800462+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 19:55 UTC  
+**Last Updated:** December 23, 2025 at 20:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Uh oh…
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 10h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 1h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 Recently I heard a bit about Glance AI while reading about AI shopping, and it got me curious about the AI Twin concept. From what I understand AI Twin is about creating a digital version of a user to personalize recommendations and experiences. Not sure how deeply Glance AI is using this idea specially for shopping or fashion use cases. Would be interesting to hear thoughts from anyone who’s looked into this.
 
-2h ago
+3h ago
 
 ---
 
@@ -131,19 +131,19 @@ ABC News • 1d ago
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
 **[Follow the money: AI, wealth and private-markets plumbing](https://www.axios.com/pro/all-deals/2025/12/23/ai-wealth-private-markets-plumbing)**
 
-Axios • 53m ago
+Axios • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 1h ago
 
 In 2025, if you wanted to do layoffs, AI was a great option for pinning the blame.
 
-Gizmodo • 50m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ Gizmodo • 50m ago
 
 The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
 **[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 7h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ But perhaps this can be resolved by the realization that while cleverness and in
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 136 • 💬 107 • 13h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 136 • 💬 107 • 14h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -292,7 +292,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 12K • 👍 343 • 💬 48 • ⏱️ 18:48 • 21h ago
+👁️ 12K • 👍 343 • 💬 48 • ⏱️ 18:48 • 22h ago
 
 ---
 
@@ -302,7 +302,7 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 130K • 👍 8K • 💬 2K • ⏱️ 21:43 • 17h ago
+👁️ 130K • 👍 8K • 💬 2K • ⏱️ 21:43 • 18h ago
 
 ---
 
@@ -470,7 +470,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 373 • 10h ago
+⬇️ 0 • ❤️ 373 • 11h ago
 
 ---
 
@@ -494,7 +494,7 @@ NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 is a 30B parameter LLM with a hybrid MoE/Mam
 
 `text-generation` `31.6B`
 
-⬇️ 110,376 • ❤️ 454 • 3d ago
+⬇️ 110,376 • ❤️ 454 • 4d ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 665 • 11h ago
+⭐ 6.0k • 🔱 665 • 12h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 369 • 29m ago
+⭐ 2.8k • 🔱 369 • 59m ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 185 • 2h ago
+⭐ 2.5k • 🔱 185 • 3h ago
 
 ---
 

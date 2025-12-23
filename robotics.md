@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T19:55:48.839268+00:00'
+updated: '2025-12-23T20:25:08.818328+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 19:55 UTC  
+**Last Updated:** December 23, 2025 at 20:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-9h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 Hello. I'm considering creating a robotics product for a certain trade. I'm currently side hustling as a representative of the trade, and I also have AI & robotics background (as a student). Anyway. I have an design in mind that requires equipping a quadruped with a tool on it's back. I have a design decision - either buy an expensive (for this, everything is expensive) quadruped, where even the cheapest Unitree Go2 is $1600+shipping OR design a custom one. I can design a quadruped myself, no big deal, but what scares me is the software part of it. While I intend to fully teleoperate the robot, something as simple as walking... I don't know if I can adapt it to a rough terrain. Of course, general VLA policies already exist, which can be used for just walking, but still, I'm scared of the software/AI part with walking. How can you teleoperate a quadruped to walk? On a rough terrain? is there any model that allows this? Anyway, designing my own quadruped might boost margins of this business, as the off-the-shelf quadruped costs $1600, and making a custom one with simpler actuators can be around $800. Or is it stupid? For the reference, the average employee of this trade costs the business on average $3-4k monthly in the US. The robot will be retailed for initial price + subscription. So we don't have high margins here.
 
-34m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 been looking for the right sub, i dont even know if its the right one , pls dont ban me if its not, (if anyone knows what sub i can sell this, just comment or dm me , that would be much appreciated) so i just won this at my work, UBTECH JIMU ASTROBOT KITS, if anyones interested just hit me up , offer me anything and we can talk about it. thank u admin/ everyone, have a blessed upcoming christmas!!
 
-6h ago
+7h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Information • 1d ago
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 16h ago
+CnEVPost • 17h ago
 
 ---
 
@@ -162,7 +162,7 @@ Good Morning Wilton • 1d ago
 
 Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
 
-LancasterOnline • 4h ago
+LancasterOnline • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ Sifted • 1d ago
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
-The Daily Beast • 16h ago
+The Daily Beast • 17h ago
 
 ---
 
@@ -230,7 +230,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 6K • 👍 123 • 💬 4 • ⏱️ 0:11 • 10h ago
+👁️ 6K • 👍 123 • 💬 4 • ⏱️ 0:11 • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full bu
 
 📺 Roll No 36
 
-👁️ 833 • 👍 27 • 💬 4 • ⏱️ 0:31 • 5h ago
+👁️ 833 • 👍 27 • 💬 4 • ⏱️ 0:31 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 3K • 👍 192 • 💬 55 • ⏱️ 49:59 • 23h ago
+👁️ 3K • 👍 192 • 💬 55 • ⏱️ 49:59 • 1d ago
 
 ---
 
