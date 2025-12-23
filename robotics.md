@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T23:26:42.053201+00:00'
+updated: '2025-12-23T23:42:04.789804+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 23:26 UTC  
+**Last Updated:** December 23, 2025 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-12h ago
+13h ago
 
 ---
 
@@ -74,7 +74,7 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -100,7 +100,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -152,7 +152,7 @@ Good Morning Wilton • 1d ago
 
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
-Futura, Le média qui explore le monde • 10h ago
+Futura, Le média qui explore le monde • 11h ago
 
 ---
 
@@ -160,7 +160,7 @@ Futura, Le média qui explore le monde • 10h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 

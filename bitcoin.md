@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T23:26:42.045237+00:00'
+updated: '2025-12-23T23:42:04.780532+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 23:26 UTC  
+**Last Updated:** December 23, 2025 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +1.0%  
-**30d:** -1.5%  
-**90d:** -19.7%  
-**1y:** -11.4%  
+**24h:** -1.4%  
+**7d:** +1.5%  
+**30d:** -1.0%  
+**90d:** -19.6%  
+**1y:** -11.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 3h ago
 
 VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 1d ago
 
 Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 154 • ⏱️ 42:55 • 7h ago
+👁️ 17K • 👍 1K • 💬 154 • ⏱️ 42:55 • 8h ago
 
 ---
 
@@ -357,7 +357,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 225 • ⏱️ 10:16 • 23h ago
+👁️ 47K • 👍 3K • 💬 225 • ⏱️ 10:16 • 1d ago
 
 ---
 

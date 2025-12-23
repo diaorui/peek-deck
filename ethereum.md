@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T23:26:42.050440+00:00'
+updated: '2025-12-23T23:42:04.786575+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 23:26 UTC  
+**Last Updated:** December 23, 2025 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
+**24h:** -2.0%  
 **7d:** +4.7%  
 **30d:** +0.4%  
 **90d:** -23.1%  
-**1y:** -15.2%  
+**1y:** -15.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 5h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ Get ready for whats probably going to be one of the craziest years in crypto in 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 743 • 💬 156 • ⏱️ 22:25 • 13h ago
+👁️ 6K • 👍 743 • 💬 156 • ⏱️ 22:25 • 14h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum Price Prediction — 40% More Dump Pending Is ETH about to crash anothe
 
 📺 Adam coins
 
-👁️ 52 • 👍 3 • 💬 8 • ⏱️ 3:30 • 4h ago
+👁️ 52 • 👍 3 • 💬 8 • ⏱️ 3:30 • 5h ago
 
 ---
 

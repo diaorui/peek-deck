@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T23:26:42.037789+00:00'
+updated: '2025-12-23T23:42:04.772077+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 23:26 UTC  
+**Last Updated:** December 23, 2025 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -111,7 +111,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 7h ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 19K • 👍 1K • 💬 206 • ⏱️ 33:27 • 5h ago
+👁️ 19K • 👍 1K • 💬 206 • ⏱️ 33:27 • 6h ago
 
 ---
 
@@ -436,7 +436,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 440 • 13h ago
+⬇️ 1,148 • ❤️ 440 • 14h ago
 
 ---
 
@@ -506,7 +506,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 8,076 • ❤️ 254 • 8h ago
+⬇️ 8,076 • ❤️ 254 • 9h ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 96 • 11h ago
+⭐ 1.0k • 🔱 96 • 12h ago
 
 ---
 
