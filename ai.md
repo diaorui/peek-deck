@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T14:12:12.471384+00:00'
+updated: '2025-12-23T14:39:32.692143+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 14:12 UTC  
+**Last Updated:** December 23, 2025 at 14:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 15h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ Google recently shipped an API that handles conversation history, context manage
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 17h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Prices may still vary on a store-by-store basis, Instacart says.
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 4h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hello there! I'm new in this subreddit. The first thing that i want to say is th
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1]
 
 MIT CSAIL study suggests that neural network architectures considered unsuitable for modern tasks can improve with short-term guidance. The method encourages a target network to match a guide network’s internal representations, improving its starting point and making machine learning easier.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 8h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 9h ago
 
 ---
 
@@ -133,7 +133,7 @@ ABC News • 1d ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 9h ago
 
 Companies across the US and Europe are preparing to sell a record amount of high-grade bonds in 2026, testing investors’ appetite as yields drift lower.
 
-Bloomberg.com • 36m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 36m ago
 
 Why AI hasn’t made the smart home smarter
 
-The Verge • 42m ago
+The Verge • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Verge • 42m ago
 
 SportsLine's self-learning AI reveals picks for each game on the Week 17 NFL schedule
 
-CBS Sports • 29m ago
+CBS Sports • 56m ago
 
 ---
 
@@ -187,13 +187,13 @@ CBS News • 23h ago
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-The Verge • 21h ago
+The Verge • 22h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 28m ago
+The Washington Post • 56m ago
 
 ---
 
@@ -205,7 +205,7 @@ The Washington Post • 28m ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 661 • 💬 417 • 21h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 661 • 💬 417 • 22h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -282,7 +282,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 127 • 💬 92 • 7h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 127 • 💬 92 • 8h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -316,7 +316,7 @@ Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https
 
 📺 Satisfy Hub ASMR
 
-👁️ 1.2M • 👍 6K • 💬 245 • ⏱️ 8:24 • 2d ago
+👁️ 1.2M • 👍 6K • 💬 245 • ⏱️ 8:24 • 3d ago
 
 ---
 
@@ -346,7 +346,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 10K • 👍 302 • 💬 44 • ⏱️ 18:48 • 15h ago
+👁️ 10K • 👍 302 • 💬 44 • ⏱️ 18:48 • 16h ago
 
 ---
 
@@ -386,7 +386,7 @@ With GPT-5, Claude 4.5 Opus, Gemini 3.0 Pro and so many more, it's been a wild y
 
 📺 Theo - t3․gg
 
-👁️ 27K • 👍 947 • 💬 106 • ⏱️ 45:40 • 14h ago
+👁️ 27K • 👍 947 • 💬 106 • ⏱️ 45:40 • 15h ago
 
 ---
 
@@ -474,7 +474,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 368 • 4h ago
+⬇️ 0 • ❤️ 368 • 5h ago
 
 ---
 
@@ -668,7 +668,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.9k • 🔱 659 • 5h ago
+⭐ 5.9k • 🔱 659 • 6h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 353 • 43m ago
+⭐ 2.6k • 🔱 353 • 1h ago
 
 ---
 
@@ -728,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 94 • 2h ago
+⭐ 1.0k • 🔱 94 • 3h ago
 
 ---
 

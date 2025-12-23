@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T14:12:12.479879+00:00'
+updated: '2025-12-23T14:39:32.700567+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 14:12 UTC  
+**Last Updated:** December 23, 2025 at 14:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,619.21
+### $87,663.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.8%  
-**30d:** -0.8%  
-**90d:** -19.3%  
-**1y:** -11.0%  
+**24h:** -2.6%  
+**7d:** +1.3%  
+**30d:** -1.2%  
+**90d:** -19.7%  
+**1y:** -11.4%  
 
 ---
 
@@ -113,7 +113,7 @@ Like the question asks
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ Like the question asks
 
 fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ bitvoin
 
 Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issuance is slow and predictable Why supply is capped under 21 million How ownership and transfers work without intermediaries No hype. No price talk. Just pure fundamentals. Fast forward to today: ✔ Halvings happened exactly as described ✔ Network secured trillions in value ✔ Institutions, ETFs, and corporations are now competing for supply Bitcoin didn’t change. The world finally caught up. This is why long-term conviction beats short-term noise.
 
-3h ago
+4h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 4h ago
 
 Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
 
-VanEck • 19h ago
+VanEck • 20h ago
 
 ---
 
@@ -217,7 +217,7 @@ CoinDesk • 9h ago
 
 Russia’s central bank has proposed new rules that would allow retail investors limited access to cryptocurrencies while granting professional investors broader rights.
 
-Bitcoin Magazine • 9m ago
+Bitcoin Magazine • 36m ago
 
 ---
 
@@ -323,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 22h ago
+👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 23h ago
 
 ---
 
@@ -333,7 +333,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 4K • 👍 42 • 💬 42 • ⏱️ 3:19 • 15h ago
+👁️ 4K • 👍 42 • 💬 42 • ⏱️ 3:19 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sportskeeda Wrestling
 
-👁️ 1K • 👍 4K • 32m ago
+👁️ 1K • 👍 4K • 1h ago
 
 ---
 
@@ -383,7 +383,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 465 • 💬 114 • ⏱️ 1:11:22 • 18h ago
+👁️ 10K • 👍 465 • 💬 114 • ⏱️ 1:11:22 • 19h ago
 
 ---
 
