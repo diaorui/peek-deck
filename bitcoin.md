@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T11:25:12.533093+00:00'
+updated: '2025-12-23T11:41:16.910633+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 11:25 UTC  
+**Last Updated:** December 23, 2025 at 11:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.9%  
-**7d:** +1.5%  
-**30d:** -1.0%  
-**90d:** -19.6%  
-**1y:** -11.2%  
+**24h:** -2.6%  
+**7d:** +1.9%  
+**30d:** -0.7%  
+**90d:** -19.3%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.99B
+**Market Cap:** $1750.39B
 Rank #1
 
 **Circulating Supply:** 19,965,887 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.5%
 
 **All-Time Low:** $67.81
-+128978.3%
++129177.4%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
 13h ago
+
+---
+
+**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
+
+1h ago
 
 ---
 
@@ -97,9 +103,9 @@ bitvoin
 
 ---
 
-**[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
+**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -108,12 +114,6 @@ bitvoin
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
 20h ago
-
----
-
-**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
-
-3h ago
 
 ---
 
@@ -147,27 +147,11 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC's heads to its worst quarter since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
+**[Bitcoin price news: BTC heads to its worst quarter since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
 CoinDesk • 6h ago
-
----
-
-**[Bitcoin price news: BTC gives up early Monday gains, falling back below $88,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-slip-further-as-traders-brace-for-usd28-5b-deribit-expiry)**
-
-Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
-
-CoinDesk • 14h ago
-
----
-
-**[Could Bitcoin Finally Break $100,000 This Christmas Week – Or Is A Drop To $70,000 Coming?](https://bitcoinmagazine.com/markets/bitcoin-price-outlook-bulls-target-94000-break-for-momentum-into-new-year)**
-
-After holding off a breakdown last week, Bitcoin is teasing a big push toward $100,000 just in time for the holidays – but one wrong move could send it crashing to the $70,000s. Are you ready for the ride?
-
-Bitcoin Magazine • 16h ago
 
 ---
 
@@ -193,15 +177,15 @@ Investor's Business Daily • 14h ago
 
 ---
 
-**[Waiting for the Bitcoin Santa Rally This Christmas? Analysts Sound Alarm on Incoming Bears](https://finance.yahoo.com/news/waiting-bitcoin-santa-rally-christmas-100012630.html)**
+**[Hyperscale Data Bitcoin Treasury at 514.9655 Bitcoin and Exceeds 100% of Market Capitalization](https://www.prnewswire.com/news-releases/hyperscale-data-bitcoin-treasury-at-514-9655-bitcoin-and-exceeds-100-of-market-capitalization-302648482.html)**
 
-The long-anticipated Bitcoin “Santa rally” may be delayed until after the New Year. Billions of dollars in Bitcoin options expiring on Dec. 26 could amplify ...
+/PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence ("AI") data center company anchored by Bitcoin ("Hyperscale Data" or...
 
-Yahoo Finance • 1h ago
+PR Newswire • 41m ago
 
 ---
 
-**[Miner capitulation is a contrarian signal, indicates renewed BTC price momentum, VanEck says](https://www.coindesk.com/markets/2025/12/23/miner-capitulation-is-a-contrarian-signal-indicates-renewed-bitcoin-momentum-vaneck-says)**
+**[Miner capitulation is a contrarian signal, indicates renewed bitcoin momentum, VanEck says](https://www.coindesk.com/markets/2025/12/23/miner-capitulation-is-a-contrarian-signal-indicates-renewed-bitcoin-momentum-vaneck-says)**
 
 VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
 
@@ -209,9 +193,17 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqcwNCS9Dns4LUBX1PeO84qZhtJP8qvG45Hlihp4H2JaYtU8SbmSTIvn&gaa_ts=694a7904&gaa_sig=LfFag0mnKFLMag8OJFjmu-5e27-ZdGh-VutnKcBtWGlif33KA5AJaYV962hZiQotlIogQ8FLBj5MbKbwnVbOBw%3D%3D)**
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqehzrI_ZVLNtmCsA8FenWfNkk3Z6zb3KQJJC8zVzRRYu48t6Ud7ahL3&gaa_ts=694a8347&gaa_sig=AFAfJG2iaTR7UBsDNGIDVKCZF6y24cZ9XiCM8MMXwJkfap_r50_hHpbn-BBAAT6BWkrEPk3GGP1y1V_qJi3ang%3D%3D)**
 
 Barron's • 21h ago
+
+---
+
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
+
+The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -220,6 +212,14 @@ Barron's • 21h ago
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
 The Verge • 15h ago
+
+---
+
+**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
+
+Waltham and Gloucester have banned the machines
+
+WCVB • 9h ago
 
 ---
 
@@ -299,7 +299,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 19h ago
+👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 3K • 👍 32 • 💬 63 • ⏱️ 3:19 • 12h ago
+👁️ 3K • 👍 32 • 💬 63 • ⏱️ 3:19 • 13h ago
 
 ---
 
@@ -379,7 +379,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 458 • 💬 116 • ⏱️ 1:11:22 • 15h ago
+👁️ 10K • 👍 458 • 💬 116 • ⏱️ 1:11:22 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T11:25:12.525538+00:00'
+updated: '2025-12-23T11:41:16.902315+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - videos
 - repositories
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 11:25 UTC  
+**Last Updated:** December 23, 2025 at 11:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 12h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 13h ago
 
 ---
 
@@ -73,7 +73,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1]
 
 MIT CSAIL study suggests that neural network architectures considered unsuitable for modern tasks can improve with short-term guidance. The method encourages a target network to match a guide network’s internal representations, improving its starting point and making machine learning easier.
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 5h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 6h ago
 
 ---
 
@@ -90,6 +90,14 @@ MIT CSAIL study suggests that neural network architectures considered unsuitable
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
 🔗 [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/) • 18h ago
+
+---
+
+**[Thoughts on AI Ugc video ads](https://www.reddit.com/r/artificial/comments/1ptr7ic/thoughts_on_ai_ugc_video_ads/)**
+
+Hello there! I'm new in this subreddit. The first thing that i want to say is that the deep interventions and the quality of the discussions here is remarkable, so thanks for creating this space. I want to discuss with you a topic or more precisely a workflow that i have adopted recently, because i think here i could get a nice feedback. So, to give you context, recently i had the need to promote and scale a bit the quantity of video ads for my business of spare parts and accessories of bycicles. My size is not enough to plan a budget for hiring real actors, real directors and scouting real places. So i discovered a platform for video ads that lets you produce, edit and test video ads, in particular UGC videos (ai ugc). For now, after a research on how to do them, the results are not bad, even if my lack of technical ability in video producing is present. Be aware that i am the one to set the tone of the adv, the script of the adv and to do all the market research for the psycographical segmentation and the product to promote. What are your thoughts on this practice? Do you see benefits on using ai ugc or not?
+
+38m ago
 
 ---
 
@@ -109,14 +117,6 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 ---
 
-**[I tried building a deterministic system to make AI safe, verifiable, auditable.](https://www.reddit.com/r/artificial/comments/1pto9go/i_tried_building_a_deterministic_system_to_make/)**
-
-The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
-
-🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 3h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -133,7 +133,7 @@ ABC News • 1d ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -145,17 +145,31 @@ Financial Times • 10h ago
 
 ---
 
-**[As AI investors fret over ROI, these startups attracted serious cash from customers in 2025](https://fortune.com/2025/12/23/as-ai-investors-fret-over-roi-these-startups-attracted-serious-cash-customers-2025/)**
+**[ByteDance plans to spend $23 billion towards AI infrastructure in 2026, FT reports](https://www.reuters.com/world/asia-pacific/bytedance-plans-spend-23-billion-towards-ai-infrastructure-2026-ft-reports-2025-12-23/)**
 
-A Brex survey shows that coding and video are reaping big customer gains.
-
-Fortune • 49m ago
+Reuters • 10h ago
 
 ---
 
-**[AI investors don't use most AI tools. Here are the ones they do use](https://qz.com/ai-investors-tools-agents-chatbots)**
+**[ByteDance to increase AI spending in 2026, aiming to challenge US](https://www.fudzilla.com/news/ai/62259-bytedance-to-increase-ai-spending-in-2026-aiming-to-challenge-us)**
 
-qz.com • 1h ago
+AI expansion goes global as ByteDance aims to compete ByteDance, the parent company of TikTok, is set to ramp up its AI investments significantly next year. The company plans to allocate Rmb160bn ($23bn) in 2026 as part of its cunning plan to keep up with US tech giants in the fast-paced AI race. Ar...
+
+Fudzilla.com • 3h ago
+
+---
+
+**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqeLkC_dzdx6F7hITtFQ3_iI2j41rRdb-ct3RWIH52EwamxeJXGlVwEW&gaa_ts=694a8345&gaa_sig=AVkYZGR3uVAVhwgrMMiCNg8VAvLsH8Uvj0W6nvXnM_8wWTkjP9x6pn_vjaW-xeNkeyLozL7avYpegl2TI9fD3Q%3D%3D)**
+
+The Wall Street Journal • 41m ago
+
+---
+
+**[Say welcome back to the blue book: How AI is reshaping higher education in Syracuse](https://www.syracuse.com/education/2025/12/say-welcome-back-to-the-blue-book-ai-is-roiling-higher-education-in-syracuse.html)**
+
+Artificial intelligence has forced quick change among Syracuse higher education, a system that often moves slow.
+
+Syracuse.com • 41m ago
 
 ---
 
@@ -167,33 +181,17 @@ blog.google • 17h ago
 
 ---
 
+**[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
+
+The New York Times • 6h ago
+
+---
+
 **[Google’s Chess Master Is Working on AI's Killer App](https://www.bloomberg.com/opinion/articles/2025-12-23/google-ai-boss-demis-hassabis-is-working-on-the-next-killer-app)**
 
 You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
 
 Bloomberg.com • 6h ago
-
----
-
-**[Air Force Shutting Down AI Chatbot NIPRGPT](https://www.airandspaceforces.com/air-force-shutting-down-ai-chatbot-niprgpt/)**
-
-NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
-
-Air & Space Forces Magazine • 17h ago
-
----
-
-**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
-
-The New York Times • 1d ago
-
----
-
-**[One of the AI godfathers says he lies to AI chatbots to get better responses from them](https://www.businessinsider.com/ai-godfather-yoshua-bengio-lies-ai-chatbots-responses-2025-12)**
-
-Yoshua Bengio, one of the "AI godfathers," said AI technology has a sycophancy problem, so he lies to chatbots to get better responses.
-
-Business Insider • 4h ago
 
 ---
 
@@ -205,7 +203,7 @@ Business Insider • 4h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 600 • 💬 408 • 18h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 611 • 💬 411 • 19h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -227,7 +225,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 181 • 💬 399 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 182 • 💬 399 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -238,7 +236,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 168 • 💬 85 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 170 • 💬 89 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -282,7 +280,7 @@ This is the public release of MIRA OS. Discrete memories decay through momentum 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 108 • 💬 73 • 5h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 113 • 💬 76 • 5h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -402,7 +400,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 576 • 4d ago
+⬇️ 9,848 • ❤️ 582 • 4d ago
 
 ---
 
@@ -414,7 +412,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,324 • 14d ago
+⬇️ 373,123 • ❤️ 3,327 • 14d ago
 
 ---
 
@@ -426,7 +424,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 493 • 4d ago
+⬇️ 21,058 • ❤️ 495 • 4d ago
 
 ---
 
@@ -438,7 +436,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 10,832 • ❤️ 416 • 5d ago
+⬇️ 10,832 • ❤️ 417 • 5d ago
 
 ---
 
@@ -450,7 +448,19 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 401 • 4d ago
+⬇️ 3,313 • ❤️ 402 • 4d ago
+
+---
+
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 1,148 • ❤️ 372 • 2h ago
 
 ---
 
@@ -463,18 +473,6 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 `image-to-3d`
 
 ⬇️ 0 • ❤️ 365 • 2h ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 1,148 • ❤️ 361 • 1h ago
 
 ---
 
@@ -728,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 992 • 🔱 93 • 8h ago
+⭐ 992 • 🔱 93 • 9h ago
 
 ---
 
