@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T21:49:32.701231+00:00'
+updated: '2025-12-23T22:00:46.828356+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 21:49 UTC  
+**Last Updated:** December 23, 2025 at 22:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
+**24h:** -1.2%  
 **7d:** +5.0%  
 **30d:** +0.6%  
 **90d:** -22.9%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.26B
+**Market Cap:** $358.81B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.0%
+-39.9%
 
 **All-Time Low:** $0.43
-+685693.1%
++686425.2%
 
 ---
 
@@ -170,11 +170,11 @@ CCN.com • 8h ago
 
 ---
 
-**[How Wall Street is using Ethereum without talking about Ethereum](https://www.tradingview.com/news/cointelegraph:0d7efe672094b:0-how-wall-street-is-using-ethereum-without-talking-about-ethereum/)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Falling Today?](https://www.tradingview.com/news/coinpedia:f761da136094b:0-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
 
-Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
+Bitcoin, Ethereum and XRP are trading lower today as crypto markets react to strong U.S. economic data and selling pressure from crypto investment funds. For now, BTC is holding near the $87,000 level, ETH is trading below $3,000, and XRP is hovering around $1.88. Dogecoin, Solana and Cardano are a…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -194,6 +194,12 @@ CryptoSlate • 6h ago
 
 ---
 
+**[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
+
+The Block • 14h ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
@@ -202,25 +208,17 @@ FXStreet • 1d ago
 
 ---
 
-**[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
-
-The Block • 14h ago
-
----
-
-**[BlackRock moves $182M in Bitcoin and $91M in Ethereum to Coinbase Prime](https://cryptobriefing.com/blackrock-crypto-deposits-bitcoin-ethereum-coinbase/)**
-
-BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
-
-Crypto Briefing • 1d ago
-
----
-
 **[Is Ethereum undervalued? These 2 on-chain signals say…](https://ambcrypto.com/is-ethereum-undervalued-these-2-on-chain-signals-say/)**
 
 Ethereum’s utility matters more than its chart.
 
 AMBCrypto • 2d ago
+
+---
+
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+
+TipRanks • 6h ago
 
 ---
 
@@ -244,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 8 • ⏱️ 4:22 • 5h ago
+👁️ 1K • 👍 114 • 💬 8 • ⏱️ 4:22 • 6h ago
 
 ---
 

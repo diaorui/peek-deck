@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T21:49:32.686501+00:00'
+updated: '2025-12-23T22:00:46.814032+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 21:49 UTC  
+**Last Updated:** December 23, 2025 at 22:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,23 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 3h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 4h ago
+
+---
+
+**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
+
+Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
+
+40m ago
+
+---
+
+**[Intel NPU firmware published for Panther Lake - completing the Linux driver support](https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/)**
+
+Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 3h ago
 
 ---
 
@@ -67,35 +83,11 @@ The next generation of the truly wireless TV boasts on-device AI. Displace TV wi
 
 ---
 
-**[Intel NPU firmware published for Panther Lake - completing the Linux driver support](https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/)**
-
-Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 3h ago
-
----
-
 **[Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act](https://www.reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/)**
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 3h ago
-
----
-
-**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
-
-Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
-
-28m ago
-
----
-
-**[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1ptvuif/its_been_a_big_week_for_ai_here_are_10_massive/)**
-
-OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
-
-6h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 4h ago
 
 ---
 
@@ -115,6 +107,14 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 ---
 
+**[It's been a big week for AI ; Here are 10 massive updates you might've missed:](https://www.reddit.com/r/artificial/comments/1ptvuif/its_been_a_big_week_for_ai_here_are_10_massive/)**
+
+OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -131,15 +131,15 @@ blog.google • 4h ago
 
 The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
-**[2026 will be 'fast' investment environment for AI: VC outlook](https://finance.yahoo.com/video/2026-fast-investment-environment-ai-193008060.html)**
+**[The AI Bubble Burst Phase One: Here's What's Coming Next](https://seekingalpha.com/article/4855212-the-ai-bubble-burst-phase-one-heres-whats-coming-next)**
 
-Wall Street experts are anticipating a "robust" year for the IPO market in 2026, with added bullishness when AI companies are thrown into the mix. Kyle Stanford, the PitchBook Director of Research, US Venture, speaks with Ines Ferré on Market Catalysts about IPO and venture capital forecasts for the coming year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+Explore how the failed Oracle-Blue Own deal signals the first phase of the AI and S&P500 bubble burst.
 
-Yahoo Finance • 2h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -151,23 +151,39 @@ The Guardian • 4h ago
 
 ---
 
-**[Romantasy Fatigue, Even More Special Editions and AI: Bookish Trends For 2026](https://people.com/bookish-trends-for-2026-11875511)**
+**[Apple spent 2025 setting itself up for the future — and its biggest moves weren't about AI](https://finance.yahoo.com/news/apple-spent-2025-setting-itself-up-for-the-future--and-its-biggest-moves-werent-about-ai-211525196.html)**
 
-According to this year's second-annual Everand State of Reading Report, bookish trends for 2026 might include a cooling of the viral romantasy genre, the rise of AI and digital storytelling, and the continued popularity of special editions.
+Apple's 2025 helped set up its future.
 
-People.com • 1h ago
+Yahoo Finance • 45m ago
+
+---
+
+**[Google One discounting annual 2 TB and AI Pro plans by 50%](https://9to5google.com/2025/12/23/google-one-2026-offer/)**
+
+Google One is running a “limited time” discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.
+
+9to5Google • 55m ago
 
 ---
 
 **[The A In AI Is For Anxiety, And There’s Nothing Artificial About It](https://www.forbes.com/sites/annkirschner/2025/12/23/the-a-in-ai-is-for-anxiety-and-theres-nothing-artificial-about-it/)**
 
-Forbes • 45m ago
+Forbes • 57m ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
+
+---
+
+**[Instacart Ends Controversial AI-Driven Pricing Program](https://www.today.com/video/instacart-ends-controversial-ai-driven-pricing-program-254906437989)**
+
+Instacart says it’s ending a controversial dynamic pricing program that faced criticism for charging shoppers different prices for the same items at the same store. Some customers were paying up to seven percent more.
+
+TODAY.com • 7h ago
 
 ---
 
@@ -179,20 +195,6 @@ CNBC • 1d ago
 
 ---
 
-**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqeyLw_iShXO7nxv4AByRZLcT1sB8cIZST1-Fb5ilalMMuwx-5Ua_KCs&gaa_ts=694b0b6b&gaa_sig=BlfeiUs3Mz_JraoZcUiOULi6SRmD7ASB3PlGyPsRL9t7tRvIASo0GyTGKnNcFBh1DGMJ4OY53ggCYfxT-3NgSA%3D%3D)**
-
-The Wall Street Journal • 10h ago
-
----
-
-**[AI app apologises over false crime alerts across US](https://www.bbc.com/news/videos/c4g4v3yd28yo)**
-
-An AI-powered app called CrimeRadar has apologised for the distress caused by false crime alerts issued to local US communities after a BBC Verify investigation.
-
-BBC • 9h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +203,7 @@ BBC • 9h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 765 • 💬 458 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 769 • 💬 459 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -209,7 +211,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 274 • 💬 178 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 274 • 💬 179 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -223,7 +225,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 184 • 💬 400 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 184 • 💬 401 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
 
 ---
 
@@ -234,13 +236,13 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 181 • 💬 92 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 182 • 💬 93 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 174 • 💬 197 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 177 • 💬 200 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -248,7 +250,15 @@ friction.
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 162 • 💬 123 • 15h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 175 • 💬 137 • 15h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+
+---
+
+**[Local AI is driving the biggest change in laptops in decades](https://news.ycombinator.com/item?id=46360856)**
+
+The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
+
+⬆️ 140 • 💬 143 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -270,15 +280,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 136 • 💬 111 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
-
----
-
-**[Local AI is driving the biggest change in laptops in decades](https://news.ycombinator.com/item?id=46360856)**
-
-The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
-
-⬆️ 133 • 💬 123 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 136 • 💬 112 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -292,7 +294,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 208K • 👍 9K • 💬 2K • ⏱️ 19:40 • 7h ago
+👁️ 208K • 👍 9K • 💬 2K • ⏱️ 19:40 • 8h ago
 
 ---
 
@@ -410,7 +412,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,347 • 15d ago
+⬇️ 373,123 • ❤️ 3,350 • 15d ago
 
 ---
 
@@ -434,7 +436,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 433 • 12h ago
+⬇️ 1,148 • ❤️ 435 • 12h ago
 
 ---
 
@@ -458,7 +460,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 406 • 5d ago
+⬇️ 3,313 • ❤️ 407 • 5d ago
 
 ---
 

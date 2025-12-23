@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T21:49:32.704557+00:00'
+updated: '2025-12-23T22:00:46.831516+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 21:49 UTC  
+**Last Updated:** December 23, 2025 at 22:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-9h ago
+10h ago
 
 ---
 
 **[Bio-hybrid Robots: Turns Food waste into High-Performance Functional Machines](https://www.reddit.com/r/robotics/comments/1ptqsal/biohybrid_robots_turns_food_waste_into/)**
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
+
+11h ago
+
+---
+
+**[Most days building a humanoid robot look like this](https://www.reddit.com/r/robotics/comments/1ptqfy6/most_days_building_a_humanoid_robot_look_like_this/)**
+
+Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
 11h ago
 
@@ -56,11 +64,9 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 ---
 
-**[Most days building a humanoid robot look like this](https://www.reddit.com/r/robotics/comments/1ptqfy6/most_days_building_a_humanoid_robot_look_like_this/)**
+**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
-
-11h ago
+1h ago
 
 ---
 
@@ -78,15 +84,9 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ---
 
-**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
-
-50m ago
-
----
-
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -108,35 +108,11 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ## Google News: "robotics"
 
-**[Building a humanoid robot without China? Then you better bring a bigger wallet](https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots)**
-
-China has issued five times the number of patents related to humanoid robots than the US, says Morgan Stanley.
-
-South China Morning Post • 2d ago
-
----
-
-**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
-
-In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
-
-Stock Titan • 1d ago
-
----
-
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
-
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
-
-The Verge • 2d ago
-
----
-
 **["Stingraybot" uses microbubble muscles controlled by ultrasound](https://newatlas.com/robotics/stingraybot-microbubble-muscles-ultrasound/)**
 
 While it might sound like a weapon of oceanic destruction in the hands of Aquaman’s arch enemies, the new “stingraybot” from a team at ETH Zurich (the Federal Institute of Technology of Switzerland) offers enormous promise for surgery, medical care, wildlife biology, robotics, and more, thanks to…
 
-New Atlas • 1h ago
+New Atlas • 2h ago
 
 ---
 
@@ -148,11 +124,27 @@ hyundai.com • 1d ago
 
 ---
 
+**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+
+Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+
+Interesting Engineering • 3d ago
+
+---
+
 **[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
 CnEVPost • 18h ago
+
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 1d ago
 
 ---
 
@@ -164,14 +156,6 @@ Futura, Le média qui explore le monde • 9h ago
 
 ---
 
-**[Top 5 Viral Humanoid Moments That Made 2025 The Year Of Robotics](https://seekingalpha.com/article/4855343-top-5-viral-humanoid-moments-made-2025-year-of-robotics)**
-
-The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
-
-Seeking Alpha • 10h ago
-
----
-
 **[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
@@ -180,11 +164,27 @@ The Daily Beast • 1h ago
 
 ---
 
+**[Top 5 Viral Humanoid Moments That Made 2025 The Year Of Robotics](https://seekingalpha.com/article/4855343-top-5-viral-humanoid-moments-made-2025-year-of-robotics)**
+
+The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
+
+Seeking Alpha • 10h ago
+
+---
+
 **[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
 The Robot Report • 1h ago
+
+---
+
+**[Underwater robotics firm keeps its place on Nasdaq after equity review](https://www.stocktitan.net/news/KITT/nauticus-robotics-tm-regains-compliance-with-nasdaq-listing-kx9h4z3rwfoa.html)**
+
+Nasdaq confirms Nauticus met the equity rule on Dec. 19, 2025 and must stay compliant through Apr. 14, 2026 under panel monitoring to Dec. 19, 2026.
+
+Stock Titan • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 10K • 👍 175 • 💬 4 • ⏱️ 0:11 • 12h ago
+👁️ 10K • 👍 175 • 💬 4 • ⏱️ 0:11 • 13h ago
 
 ---
 

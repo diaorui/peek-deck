@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T21:49:32.695088+00:00'
+updated: '2025-12-23T22:00:46.822431+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 21:49 UTC  
+**Last Updated:** December 23, 2025 at 22:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,683.66
+### $87,673.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
+**24h:** -0.5%  
 **7d:** +1.8%  
 **30d:** -0.8%  
-**90d:** -19.3%  
+**90d:** -19.4%  
 **1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.43B
+**Market Cap:** $1749.77B
 Rank #1
 
-**Circulating Supply:** 19,966,118 BTC
+**Circulating Supply:** 19,966,140 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.5%
 
 **All-Time Low:** $67.81
-+129258.5%
++129195.1%
 
 ---
 
@@ -76,14 +76,6 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
-
-**[One of my worst financial decisions](https://www.reddit.com/r/Bitcoin/comments/1ptwxn7/one_of_my_worst_financial_decisions/)**
-
-One of my worst financial decisions was purchasing Bitcoin this summer near its all-time high. To compound the mistake, I sold a significant portion of my gold holdings and reallocated that capital into Bitcoin. Shortly thereafter, gold surged and still surging while Bitcoin declined sharply. The timing could not have been worse. Bitcoin has increasingly become a playground for large market participants who manipulate the market for profit. I initially believed Bitcoin would behave more like gold, serving as a store of value, but in practice it has traded more like a high-risk equity. While I am not selling at this point, my confidence has steadily eroded. There is no question that Bitcoin is an outstanding technology with the potential to address fundamental issues inherent in fiat monetary systems. However, the market is now dominated by powerful institutional players, and that reality is unlikely to change. As Bitcoin approaches valuations such as $100,000, retail investors are effectively sidelined, leaving institutions free to pursue profit-driven strategies—including market manipulation. Also not getting why BTC price goes down even though companies like Strategy are buying like crazy. Where is the supply / demand logic here?? If the argument is that these violent price swings are necessary to liquidate leveraged traders, one has to ask why other asset classes do not experience comparable volatility. Why is gold rising parabolically? Why are most assets incl risky ones like equities appreciating while Bitcoin has declined more than 30% since summer? I hope Bitcoin recovers so that I can meaningfully reduce my exposure before the next major downturn—one that may again be driven by manipulative actions from market makers.
-
-6h ago
-
----
 
 **[Gold and copper are screaming in 2025… and Bitcoin is kinda getting ghosted. That feels important.](https://www.reddit.com/r/Bitcoin/comments/1ptqesf/gold_and_copper_are_screaming_in_2025_and_bitcoin/)**
 
@@ -101,17 +93,17 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 ---
 
-**[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
-
-14h ago
-
----
-
 **[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
 4h ago
+
+---
+
+**[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
+
+14h ago
 
 ---
 
@@ -127,7 +119,15 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-8h ago
+9h ago
+
+---
+
+**[Is never too late to Accumulate Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptwisd/is_never_too_late_to_accumulate_bitcoin/)**
+
+This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
+
+6h ago
 
 ---
 
@@ -137,19 +137,17 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 ---
 
-**[Is this a good option for storing bitcoin for cold storage?](https://www.reddit.com/r/Bitcoin/comments/1ptrtvi/is_this_a_good_option_for_storing_bitcoin_for/)**
+**[On the wall at an old pub in London. Thoughts…?](https://www.reddit.com/r/Bitcoin/comments/1pu24bd/on_the_wall_at_an_old_pub_in_london_thoughts/)**
 
-Like the question asks
-
-10h ago
+2h ago
 
 ---
 
-**[Is never too late to Accumulate Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptwisd/is_never_too_late_to_accumulate_bitcoin/)**
+**[The American Dream: One House and 0.21 Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptzcx3/the_american_dream_one_house_and_021_bitcoin/)**
 
-This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
+Renting your primary residence is not the American Dream and Bitcoin being better than fiat doesn't change that. https://www.youtube.com/watch?v=5LZYYCgaA0E
 
-6h ago
+4h ago
 
 ---
 
@@ -189,11 +187,11 @@ VanEck • 1d ago
 
 ---
 
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+**[The Best Performing Bitcoin and Crypto Stocks of 2025](https://finance.yahoo.com/news/best-performing-bitcoin-crypto-stocks-210103627.html)**
 
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+Crypto-linked stocks had a banner start to 2025, then spent the rest of the year learning that narrative alone doesn’t compound.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -201,7 +199,7 @@ Yahoo Finance • 19h ago
 
 The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -215,23 +213,23 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
-**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
+**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
 
-Waltham and Gloucester have banned the machines
+The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-WCVB • 19h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
 
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
 
-Al Jazeera • 1d ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -319,7 +317,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 216 • ⏱️ 11:35 • 21h ago
+👁️ 26K • 👍 2K • 💬 216 • ⏱️ 11:35 • 22h ago
 
 ---
 
@@ -339,7 +337,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 8K • 👍 791 • 💬 114 • ⏱️ 20:46 • 3h ago
+👁️ 8K • 👍 791 • 💬 114 • ⏱️ 20:46 • 4h ago
 
 ---
 
@@ -379,7 +377,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 502 • 👍 19 • 💬 40 • ⏱️ 17:16 • 5h ago
+👁️ 502 • 👍 19 • 💬 40 • ⏱️ 17:16 • 6h ago
 
 ---
 
