@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T14:39:32.700567+00:00'
+updated: '2025-12-23T14:55:14.343212+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 14:39 UTC  
+**Last Updated:** December 23, 2025 at 14:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,663.46
+### $86,969.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +1.3%  
-**30d:** -1.2%  
-**90d:** -19.7%  
-**1y:** -11.4%  
+**24h:** -3.1%  
+**7d:** +0.8%  
+**30d:** -1.8%  
+**90d:** -20.2%  
+**1y:** -11.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.01B
+**Market Cap:** $1739.75B
 Rank #1
 
 **Circulating Supply:** 19,966,003 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.9%
 
 **All-Time Low:** $67.81
-+129203.9%
++128441.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -91,15 +91,23 @@ Rank #1
 
 ---
 
+**[fidelity predicted $1B bitcoin by 2038.](https://www.reddit.com/r/Bitcoin/comments/1ptront/fidelity_predicted_1b_bitcoin_by_2038/)**
+
+fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
+
+3h ago
+
+---
+
 **[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-4h ago
+5h ago
 
 ---
 
 **[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +115,7 @@ Rank #1
 
 Like the question asks
 
-2h ago
+3h ago
 
 ---
 
@@ -117,19 +125,11 @@ Like the question asks
 
 ---
 
-**[fidelity predicted $1B bitcoin by 2038.](https://www.reddit.com/r/Bitcoin/comments/1ptront/fidelity_predicted_1b_bitcoin_by_2038/)**
+**[DCA for the win](https://www.reddit.com/r/Bitcoin/comments/1ptt50f/dca_for_the_win/)**
 
-fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, but they missed the math: he wasn't predicting bitcoin's rise, he was predicting the dollar's total collapse. just as $1 in the 1700s became $4 billion in stocks today, the "price" goes up only because the currency melts. it’s the shrinking ruler effect. if your ruler gets shorter every year, the building looks like it’s growing, but the roof isn't any closer to the stars. $1 billion per coin isn't "moon math"...it’s what happens when the floor of the fiat system drops into the basement while bitcoin’s fixed supply stands firm. i keep reminding myself: stop measuring your wealth in a currency designed to make savers losers. the question isn't whether bitcoin can hit an absurd number; it's whether the dollar can hold itself together long enough for that number to even matter. what are you actually measuring?
+Entry points of your average DCA. “Zoom out” comments incoming.
 
-3h ago
-
----
-
-**[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1psyack/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
-
-bitvoin
-
-1d ago
+2h ago
 
 ---
 
@@ -141,31 +141,15 @@ Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issu
 
 ---
 
-**[It's NOT over](https://www.reddit.com/r/Bitcoin/comments/1pt1de2/its_not_over/)**
+**[lets hope today is the last😅](https://www.reddit.com/r/Bitcoin/comments/1pttu5q/lets_hope_today_is_the_last/)**
 
-I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
-
-23h ago
+1h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
-
-The Block • 8h ago
-
----
-
-**[Miner capitulation is a contrarian signal, indicates renewed bitcoin momentum, VanEck says](https://www.coindesk.com/markets/2025/12/23/miner-capitulation-is-a-contrarian-signal-indicates-renewed-bitcoin-momentum-vaneck-says)**
-
-VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
-
-CoinDesk • 4h ago
-
----
 
 **[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
 
@@ -197,14 +181,6 @@ Investor's Business Daily • 3h ago
 
 ---
 
-**[Bitcoin’s $1M Price Advocate 'Fires' Analyst Who Predicted $60,000, Claims Bearish Targets Not Real Despite Price Drop](https://finance.yahoo.com/news/bitcoin-1m-price-advocate-fires-114903652.html)**
-
-Samson Mow argues that Bitcoin has already reached its cyclical bottom and rejects bearish forecasts. Mow sparked debate after claiming he fired an analyst for ...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Bitcoin price news: BTC heads to its worst quarter since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
 
 Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
@@ -217,13 +193,35 @@ CoinDesk • 9h ago
 
 Russia’s central bank has proposed new rules that would allow retail investors limited access to cryptocurrencies while granting professional investors broader rights.
 
-Bitcoin Magazine • 36m ago
+Bitcoin Magazine • 52m ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqfvqsX3cya93NgWaVLvm0a490gkALHs7iGDTbWmSTZy21Srs0seBFgl&gaa_ts=694aa69e&gaa_sig=pnzqPXtklp76UC51u5HZNP4as6r3TdOjow9gQr_5urONSFjWaWYbCwTPyCOuAQbzEAjMY1eijorQJDb1y2S7ug%3D%3D)**
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
 
-Barron's • 1d ago
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+
+Al Jazeera • 22h ago
+
+---
+
+**[Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)**
+
+Pubkey wants to “soften” Bitcoin’s rough public image in DC.
+
+The Verge • 19h ago
+
+---
+
+**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
+
+The Block • 8h ago
+
+---
+
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqeesNDbqotuN1Z01SSg55b0Vu_Pw28MbiYRavqTGSw4OZZu2puggsCt&gaa_ts=694ab0bd&gaa_sig=45nuIoGq1Mq9WZu-y7j035B1fhJnbKIWdwWgWMzDXoAweb0vo4GTHJ7qmWSJUg6MqJWnSF7IdcY6pzjA82NZPQ%3D%3D)**
+
+Barron's • 2h ago
 
 ---
 
@@ -303,7 +301,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 3K • 💬 162 • ⏱️ 10:16 • 14h ago
+👁️ 37K • 👍 3K • 💬 162 • ⏱️ 10:16 • 15h ago
 
 ---
 
@@ -353,7 +351,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 505 • 💬 50 • ⏱️ 10:08 • 5h ago
+👁️ 7K • 👍 505 • 💬 50 • ⏱️ 10:08 • 6h ago
 
 ---
 

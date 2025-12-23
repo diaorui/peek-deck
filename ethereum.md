@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T14:39:32.706558+00:00'
+updated: '2025-12-23T14:55:14.349250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 14:39 UTC  
+**Last Updated:** December 23, 2025 at 14:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** +3.4%  
-**30d:** -0.9%  
-**90d:** -24.1%  
-**1y:** -16.2%  
+**24h:** -4.6%  
+**7d:** +2.8%  
+**30d:** -1.5%  
+**90d:** -24.5%  
+**1y:** -16.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.49B
+**Market Cap:** $353.27B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.8%
 
 **All-Time Low:** $0.43
-+680133.9%
++675992.8%
 
 ---
 
@@ -158,23 +158,7 @@ The Motley Fool • 1d ago
 
 ---
 
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://finance.yahoo.com/news/ethereum-2025-institutions-embrace-eth-140103929.html)**
-
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
-
-Yahoo Finance • 38m ago
-
----
-
-**[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
-
-Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqet25WF58X8rvvfGOsx1B-EHAKI581ZWuzmsoalZpSrf6BLXMBn6dyb&gaa_ts=694aa6a0&gaa_sig=YiWHnRICNIZaBFDD2FwyG7MTtBW3uwRo4SWwiC9SQDnNzuGC98griQ72z7o-hKx_3PMyamxtV0QF9Q4wSPqsog%3D%3D)**
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqeqw5vIcpgQl3BTF8VDiasM4a36bzX4PdE6lNlAybhCZX5L_Z9bITHx&gaa_ts=694ab0bf&gaa_sig=W9VurA6_1pQfZIZk25hiZcQWltMDYKPHIMExoIH80YIxT5kG-cjQJO_qHhhwdpOrJ3TVE0IPavErhZ4ZzsSEGA%3D%3D)**
 
 Barron's • 2h ago
 
@@ -190,7 +174,15 @@ CCN.com • 1h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
+
+---
+
+**[Ethereum Leads Wall Street Tokenization Race as Mass Adoption Looms](https://finance.yahoo.com/news/ethereum-leads-wall-street-tokenization-120215998.html)**
+
+As Wall Street embraces tokenization, institutions are converging around Ethereum. Some of the largest tokenized assets today include money market funds issued on Ethereum. With ...
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -199,12 +191,6 @@ CoinDesk • 21h ago
 Ethereum price started a recovery wave above $2,980. ETH is now consolidating and faces a key barrier near the $3,080 level.Ethereum Price Faces Important ResistanceEthereum price started a decent increase above $2,880, like Bitcoin. ETH price was able to surpass the $2,920 and $2,950 resistance le…
 
 TradingView — Track All Markets • 11h ago
-
----
-
-**[Ethereum Leverage Hits Record Highs: Why Your ETH Now Sits on a Time Bomb](https://99bitcoins.com/news/altcoins/ethereum-leverage-hits-record-highs-why-your-eth-now-sits-on-a-time-bomb/)**
-
-99Bitcoins • 2d ago
 
 ---
 
@@ -221,6 +207,22 @@ Bit Digital • 18h ago
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
 FXStreet • 1d ago
+
+---
+
+**[Is Ethereum undervalued? These 2 on-chain signals say…](https://ambcrypto.com/is-ethereum-undervalued-these-2-on-chain-signals-say/)**
+
+Ethereum’s utility matters more than its chart.
+
+AMBCrypto • 1d ago
+
+---
+
+**[BlackRock moves $182M in Bitcoin and $91M in Ethereum to Coinbase Prime](https://cryptobriefing.com/blackrock-crypto-deposits-bitcoin-ethereum-coinbase/)**
+
+BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -254,7 +256,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 10 • ⏱️ 8:07 • 11h ago
+👁️ 2K • 👍 115 • 💬 10 • ⏱️ 8:07 • 12h ago
 
 ---
 
@@ -314,7 +316,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 19h ago
+👁️ 549 • 👍 39 • 💬 43 • ⏱️ 5:02 • 20h ago
 
 ---
 
