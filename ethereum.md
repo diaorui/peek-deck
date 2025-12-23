@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T12:29:19.586580+00:00'
+updated: '2025-12-23T13:21:29.563948+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 12:29 UTC  
+**Last Updated:** December 23, 2025 at 13:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +4.4%  
-**30d:** +0.1%  
-**90d:** -23.3%  
-**1y:** -15.4%  
+**24h:** -3.2%  
+**7d:** +4.7%  
+**30d:** +0.4%  
+**90d:** -23.1%  
+**1y:** -15.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.29B
+**Market Cap:** $356.79B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.2%
 
 **All-Time Low:** $0.43
-+683392.7%
++683085.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I am very interested in scaling what Ethereum started in 2013/2014, and I have followed Ethereum since (I used to work with an organization that ENS gave a dedicated name, for example, reserved it as one of few they reserved for organizations...) This organization was very controversial though. I solved proof-of-unique-human in the ideal way by 2018 (together with that controversial organization...), and it is quite well known (an analogous approach but worse version game theoretically is currently being approached by the individual who single-handedly built the first version of Ethereum in 2013/2014, he calls it "proof-of-video-interaction"), but it requires extreme parallelization. Hundreds of thousands of transactions per second. Polygon seems to have solved part of parallelization with "transaction dependency graph". Another problem, scaling the consensus, I am forbidden to mention here as an Edmund with support from a Ligi threatened to ban me if I did (this seems counter-productive still? Would be good if it was over-ruled by the other moderators and I was informed of this). And a third problem, is data structures. In my proof-of-unique-human I need to operate in parallel on something like an array. A very generalized and quite simple mapping that is a bit like a mapping in Golang could allow for that. I think this is a valid idea, and relevant. It is a topic that needs to be solved. Ethereum in 2014 was a revolution, Bitcoin in 2008 before that a revolution too, but everyone here will live many decades more, and just like ENIAC was one of first computers, the computer continued to advance, and 70 years later it continues still to advance. It is a living system, and growth is change.
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 1h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/data-type-for-massively-parallelized-ethereum-like-platform-mapping-with-order-and-a-form-of-mutex-reminiscent-of-golang-mappings/27291) • 2h ago
 
 ---
 
@@ -158,17 +158,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqdWYDTTn_Ldyjm3oJZOjFGGXIq542pSLd_g6bOwZYbOg7CrmYd8wmYv&gaa_ts=694a8e89&gaa_sig=boerMCJiwd_yayoe1HUA8e0ApcLl57DPwvSQxJj7xWSRJP0K-oadsyz0aBJGoRwNEfICWfVkDm-gy2EhJd7NMQ%3D%3D)**
-
-Barron's • 9m ago
-
----
-
 **[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqfr4aVBI27PUtDeut0CHxtqySvoswmTbGPywPM2gbor0EGjfzW3-56V&gaa_ts=694a9aa4&gaa_sig=x_kD3-a5p1F0jmwl-RdOsePifTbqocsplqWVU0_Gs4SmlcLAomeEDR7f6mWbA3aN7I46eT0j_WA3O8K2wh4OTg%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 19h ago
 
 Ethereum price started a recovery wave above $2,980. ETH is now consolidating and faces a key barrier near the $3,080 level.Ethereum Price Faces Important ResistanceEthereum price started a decent increase above $2,880, like Bitcoin. ETH price was able to surpass the $2,920 and $2,950 resistance le…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 9h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 16h ago
+Bit Digital • 17h ago
 
 ---
 
@@ -214,7 +214,7 @@ FXStreet • 1d ago
 
 DTCC’s 2026 pilot and JPMorgan’s MONY fund show how tokenized securities and on-chain cash could meet on Ethereum, and who gets access first.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Get ready for whats probably going to be one of the craziest years in crypto in 
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 202 • 💬 69 • ⏱️ 22:25 • 2h ago
+👁️ 1K • 👍 202 • 💬 69 • ⏱️ 22:25 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 10 • ⏱️ 8:07 • 9h ago
+👁️ 2K • 👍 108 • 💬 10 • ⏱️ 8:07 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 631 • 💬 164 • ⏱️ 15:45 • 7h ago
+👁️ 3K • 👍 631 • 💬 164 • ⏱️ 15:45 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ BTC, SOL, ETH, stocks, and space trade! BITUNIX TRADE THE TOP COINS (available e
 
 📺 Lark Davis
 
-👁️ 1K • 👍 97 • 3h ago
+👁️ 1K • 👍 97 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 9K • 👍 309 • 💬 76 • ⏱️ 17:34 • 20h ago
+👁️ 9K • 👍 309 • 💬 76 • ⏱️ 17:34 • 21h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 533 • 👍 38 • 💬 39 • ⏱️ 5:02 • 17h ago
+👁️ 533 • 👍 38 • 💬 39 • ⏱️ 5:02 • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 45 • 💬 58 • ⏱️ 7:32 • 23h ago
+👁️ 1K • 👍 45 • 💬 58 • ⏱️ 7:32 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 44 • 💬 24 • ⏱️ 16:54 • 16h ago
+👁️ 2K • 👍 44 • 💬 24 • ⏱️ 16:54 • 17h ago
 
 ---
 

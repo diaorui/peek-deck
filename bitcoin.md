@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T12:29:19.580478+00:00'
+updated: '2025-12-23T13:21:29.557957+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 12:29 UTC  
+**Last Updated:** December 23, 2025 at 13:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,523.91
+### $87,656.14
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.6%  
-**7d:** +1.6%  
-**30d:** -1.0%  
-**90d:** -19.5%  
-**1y:** -11.2%  
+**7d:** +1.9%  
+**30d:** -0.7%  
+**90d:** -19.3%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1750.72B
+**Market Cap:** $1750.24B
 Rank #1
 
-**Circulating Supply:** 19,965,887 BTC
+**Circulating Supply:** 19,965,971 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129147.9%
++129227.5%
 
 ---
 
@@ -79,19 +79,25 @@ Rank #1
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-4h ago
-
----
-
-**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
-
-14h ago
+5h ago
 
 ---
 
 **[What Do You Think?](https://www.reddit.com/r/Bitcoin/comments/1ptpygu/what_do_you_think/)**
 
-2h ago
+3h ago
+
+---
+
+**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+
+15h ago
+
+---
+
+**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
+
+5h ago
 
 ---
 
@@ -103,9 +109,11 @@ bitvoin
 
 ---
 
-**[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
+**[Is this a good option for storing bitcoin for cold storage?](https://www.reddit.com/r/Bitcoin/comments/1ptrtvi/is_this_a_good_option_for_storing_bitcoin_for/)**
 
-4h ago
+Like the question asks
+
+1h ago
 
 ---
 
@@ -113,25 +121,15 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-21h ago
+22h ago
 
 ---
 
-**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
+**[Gold and copper are screaming in 2025… and Bitcoin is kinda getting ghosted. That feels important.](https://www.reddit.com/r/Bitcoin/comments/1ptqesf/gold_and_copper_are_screaming_in_2025_and_bitcoin/)**
 
-23h ago
+2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
----
-
-**[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
-
-16h ago
-
----
-
-**[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
-
-17h ago
+3h ago
 
 ---
 
@@ -139,7 +137,13 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issuance is slow and predictable Why supply is capped under 21 million How ownership and transfers work without intermediaries No hype. No price talk. Just pure fundamentals. Fast forward to today: ✔ Halvings happened exactly as described ✔ Network secured trillions in value ✔ Institutions, ETFs, and corporations are now competing for supply Bitcoin didn’t change. The world finally caught up. This is why long-term conviction beats short-term noise.
 
-1h ago
+2h ago
+
+---
+
+**[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
+
+1d ago
 
 ---
 
@@ -147,19 +151,11 @@ Flashback to 2011. Hal Finney calmly explaining: How Bitcoin is created Why issu
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC heads to its worst quarter since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
-
-Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
-
-CoinDesk • 7h ago
-
----
-
 **[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -167,19 +163,35 @@ Bloomberg.com • 14h ago
 
 Led by Executive Chairman Michael Saylor, the company raised the funds entirely by sales of common stock.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum Fall. No Crypto Rally as Coinbase, Strategy Stocks Suffer.](https://www.barrons.com/articles/bitcoin-ethereum-crypto-coinbase-strategy-stock-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqcXshFUmHKO09a3xhz2QB4K5OjukJOmHv2jcPleEfEGdPsWUTwi-9lU&gaa_ts=694a8e87&gaa_sig=pObweXy_9utdIy8Yelz4QTvlPkJQ1EH8kWMgndmMTPHDqzZpXTiQ3kym-cLpKHkgmgZDV6BmPw_adfoQB4J2Fw%3D%3D)**
+**[Bitcoin price news: BTC gives up early Monday gains, falling back below $88,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-slip-further-as-traders-brace-for-usd28-5b-deribit-expiry)**
 
-Barron's • 9m ago
+Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
+
+CoinDesk • 16h ago
+
+---
+
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+
+Al Jazeera • 20h ago
+
+---
+
+**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
+
+The Block • 7h ago
 
 ---
 
@@ -187,23 +199,15 @@ Barron's • 9m ago
 
 VanEck data shows declining bitcoin mining activity has historically preceded strong returns in bitcoin.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
+**[Bitcoin mining stock prices rally, led by AI firms as bitcoin reclaims $90,000](https://finance.yahoo.com/news/bitcoin-mining-stock-prices-rally-144548975.html)**
 
-The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
+Hut 8 and other AI-focused firms led a recovery for bitcoin mining stocks on Monday.
 
-The Motley Fool • 1d ago
-
----
-
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
-
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
-
-Yahoo Finance • 9h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -211,7 +215,7 @@ Yahoo Finance • 9h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 16h ago
+The Verge • 17h ago
 
 ---
 
@@ -253,7 +257,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 21h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 22h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -269,13 +273,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 3 • 💬 0 • 16h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 3 • 💬 0 • 17h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 5h ago
+⬆️ 1 • 💬 0 • 6h ago
 
 ---
 
@@ -289,7 +293,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:35 • 12h ago
+👁️ 19K • 👍 2K • 💬 146 • ⏱️ 11:35 • 13h ago
 
 ---
 
@@ -339,7 +343,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 17K • 👍 871 • 💬 140 • ⏱️ 6:08 • 19h ago
+👁️ 17K • 👍 871 • 💬 140 • ⏱️ 6:08 • 20h ago
 
 ---
 
@@ -349,7 +353,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 160 • ⏱️ 10:16 • 12h ago
+👁️ 33K • 👍 2K • 💬 160 • ⏱️ 10:16 • 13h ago
 
 ---
 
@@ -359,7 +363,7 @@ Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 1K • 💬 302 • ⏱️ 1:04:41 • 20h ago
+👁️ 19K • 👍 1K • 💬 302 • ⏱️ 1:04:41 • 21h ago
 
 ---
 
@@ -379,7 +383,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 458 • 💬 116 • ⏱️ 1:11:22 • 16h ago
+👁️ 10K • 👍 458 • 💬 116 • ⏱️ 1:11:22 • 17h ago
 
 ---
 
