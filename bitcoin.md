@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T05:56:36.966241+00:00'
+updated: '2025-12-23T06:40:58.922636+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 05:56 UTC  
+**Last Updated:** December 23, 2025 at 06:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,269.41
+### $87,397.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +1.9%  
-**30d:** -0.7%  
-**90d:** -19.3%  
-**1y:** -10.9%  
+**24h:** -2.1%  
+**7d:** +1.2%  
+**30d:** -1.3%  
+**90d:** -19.8%  
+**1y:** -11.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.45B
+**Market Cap:** $1740.28B
 Rank #1
 
 **Circulating Supply:** 19,965,790 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.9%
 
 **All-Time Low:** $67.81
-+129261.5%
++128373.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
 
-7h ago
+8h ago
 
 ---
 
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 bitvoin
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[We weren’t locked in enough 😭😭](https://www.reddit.com/r/Bitcoin/comments/1psz8kd/we_werent_locked_in_enough/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -127,19 +127,19 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 **[Me in 2011 instead of claiming 5 #Bitcoin for free](https://www.reddit.com/r/Bitcoin/comments/1ptcaxi/me_in_2011_instead_of_claiming_5_bitcoin_for_free/)**
 
-7h ago
+8h ago
 
 ---
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -151,7 +151,7 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 8h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 8h ago
 
 Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -169,25 +169,33 @@ Investor's Business Daily • 9h ago
 
 ---
 
-**[Bitcoin Price Struggles at $90,000 as Christmas Trading Looms](https://bitcoinmagazine.com/news/bitcoin-price-struggles-at-90000)**
+**[Bitcoin price news: BTC's heads to its worst year since 2018, pressuring altcoins](https://www.coindesk.com/markets/2025/12/23/bitcoin-heads-for-its-worst-year-since-2018-as-traders-see-further-fatigue)**
 
-The bitcoin price briefly climbed above $90,000 after rising from $88,000 during Asian and European hours, before retreating toward $88,000 again during U.S. trading.
+Data from CoinGlass shows bitcoin is down more than 22% so far in the fourth quarter, making 2025 one of the weakest year-end periods outside of major bear markets.
 
-Bitcoin Magazine • 8h ago
+CoinDesk • 1h ago
 
 ---
 
-**[PNC’s Early Move Into Direct Bitcoin Trading Might Change The Case For Investing In PNC (PNC)](https://finance.yahoo.com/news/pnc-early-move-direct-bitcoin-042207623.html)**
+**[IMF, El Salvador Talks Continue Over Bitcoin Project, Chivo e-Wallet Sales](https://finance.yahoo.com/news/imf-el-salvador-talks-continue-052417790.html)**
 
-Earlier in December 2025, PNC Bank became the first major U.S. bank to enable eligible PNC Private Bank clients to buy, hold and sell spot bitcoin directly through its own digital platform, using Coinbase’s Crypto-as-a-Service infrastructure. This move meaningfully expands PNC’s digital asset capabilities for high- and ultra-high-net-worth clients, tightening the link between traditional private banking services and the crypto market. We’ll now explore how this early move into direct bitcoin...
+The International Monetary Fund (IMF) said Tuesday that discussions regarding El Salvador’s Bitcoin project continue “centered on enhancing transparency, safeguarding public resources, and mitigating risks.”The international agency is also in advanced talks, negotiating for the sale of the government-run Chivo crypto wallet. The first Bitcoin-focused government wallet reportedly saw widespread ...
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqet4WLUoGXsusMrmuIyxE-D3I-kdCYD086Pkqu8n1K4tiBiicF1dHIw&gaa_ts=694a2f85&gaa_sig=1LmxrKI12EVf5WfsdWvgSi05TcT_83pXG9HMwemZX5qBbmJcWQkePbJbRLHOCxTfA_s21sSunLceQmNqdEFUzw%3D%3D)**
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqf-NPaYVUkGpq5DYqUHy5gYwI7nMpmFQqoV00dZGvu5dzc2YH5k0kbg&gaa_ts=694a3ce4&gaa_sig=JR1XgCeT3UiZNoOyGFgsqUhG99Z9luCbVnS6xh3-U-bdPkp42r9AobSx2HXwQt2PhBOFgzTXtqPzMnlbiLvAlg%3D%3D)**
 
-Barron's • 15h ago
+Barron's • 16h ago
+
+---
+
+**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
+
+The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
+
+The Motley Fool • 19h ago
 
 ---
 
@@ -195,7 +203,7 @@ Barron's • 15h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 3h ago
+WCVB • 4h ago
 
 ---
 
@@ -212,14 +220,6 @@ Al Jazeera • 13h ago
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
 The Verge • 10h ago
-
----
-
-**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
-
-One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -261,7 +261,7 @@ Current flip point: $1,505,587 per bitcoin - 5.87% progress
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 14h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 15h ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -277,7 +277,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
 
-⬆️ 2 • 💬 0 • 9h ago • [notsoaaa.com](https://www.notsoaaa.com/)
+⬆️ 2 • 💬 0 • 10h ago • [notsoaaa.com](https://www.notsoaaa.com/)
 
 ---
 
@@ -285,43 +285,23 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 ## YouTube Videos: "bitcoin"
 
-**[Is the Bitcoin Santa Rally Starting This Week?](https://www.youtube.com/watch?v=kUx2ypdiIAQ)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 1K • 💬 226 • ⏱️ 39:10 • 14h ago
-
----
-
 **[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
 
 Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 1K • 💬 111 • ⏱️ 11:35 • 5h ago
+👁️ 14K • 👍 1K • 💬 117 • ⏱️ 11:35 • 6h ago
 
 ---
 
-**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
+**[Is the Bitcoin Santa Rally Starting This Week?](https://www.youtube.com/watch?v=kUx2ypdiIAQ)**
 
-Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 27K • 👍 2K • 💬 205 • ⏱️ 15:15 • 1d ago
-
----
-
-**[Bitcoin Crypto Prices Are Falling for a Reason No One Likes to Admit.](https://www.youtube.com/watch?v=KIPJtth6K7s)**
-
-Things continue to chop sideways with a little run. But let's be honest - momentum is gone and sentiment is in the toilet. The links ...
-
-📺 Digital Asset News
-
-👁️ 6K • 👍 452 • 💬 59 • ⏱️ 27:45 • 10h ago
+👁️ 24K • 👍 1K • 💬 224 • ⏱️ 39:10 • 15h ago
 
 ---
 
@@ -331,37 +311,47 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 25 • 💬 42 • ⏱️ 3:19 • 7h ago
+👁️ 2K • 👍 26 • 💬 44 • ⏱️ 3:19 • 8h ago
 
 ---
 
-**[My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED)](https://www.youtube.com/watch?v=e1ozMqOYANY)**
+**[The REAL Signal Behind Bitcoin’s Weird Price Action!](https://www.youtube.com/watch?v=OzTbq45IEsw)**
 
-My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 37K • 👍 2K • 💬 175 • ⏱️ 16:18 • 1d ago
-
----
-
-**[Why Elon Musk Understands Bitcoin—but Won’t Choose It](https://www.youtube.com/watch?v=EyKFQ3hIWtU)**
-
-Bitcoin isn't competing with the financial system—it's replacing it. In this clip, Jeff Booth explores why even Elon Musk understands ...
-
-📺 Swan Bitcoin
-
-👁️ 4K • 👍 121 • 💬 5 • ⏱️ 0:53 • 16h ago
-
----
-
-**[Should You Buy Bitcoin Now or Wait for a Better Price?](https://www.youtube.com/watch?v=VJi0gXP14_o)**
-
-Is buying Bitcoin at $85K insane—or the smartest move you'll ever make? In this video, we break down the real risks of waiting for ...
+Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. But buried in a recent institutional leak is the real ...
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 157 • ⏱️ 14:31 • 2d ago
+👁️ 28K • 👍 2K • 💬 202 • ⏱️ 15:15 • 1d ago
+
+---
+
+**[Bitcoin Crypto Prices Are Falling for a Reason No One Likes to Admit.](https://www.youtube.com/watch?v=KIPJtth6K7s)**
+
+Things continue to chop sideways with a little run. But let's be honest - momentum is gone and sentiment is in the toilet. The links ...
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 487 • 💬 73 • ⏱️ 27:45 • 11h ago
+
+---
+
+**[Bitcoin BREAKS $90K As Gold &amp; Silver SMASH ATHs! Santa Rally Inbound?](https://www.youtube.com/watch?v=jA3a0HRv_fE)**
+
+Bitcoin #Crypto #Finance Bitcoin enters the week on edge as global markets flash warning signs: Hong Kong unveils new crypto ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 1K • 💬 293 • ⏱️ 1:04:41 • 14h ago
+
+---
+
+**[Serious Investors Think Bitcoin Is Going Here By JANUARY](https://www.youtube.com/watch?v=13_C9qFzuIk)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 15K • 👍 813 • 💬 120 • ⏱️ 6:08 • 13h ago
 
 ---
 
@@ -371,17 +361,27 @@ A MAJOR RALLY COULD BE DAYS AWAY! SANTA RALLY? Are you ready? Sign Up For Phemex
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 202 • 💬 107 • ⏱️ 8:51 • 10h ago
+👁️ 3K • 👍 209 • 💬 107 • ⏱️ 8:51 • 11h ago
 
 ---
 
-**[This CONFIRMS America will never Buy Bitcoin?! | EP 1403](https://www.youtube.com/watch?v=-ZPeUgVP-ZU)**
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
 
-In a strange turns of fate, it looks like the main supporter of America buying bitcoin in Washington DC is out - what does this mean ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 9K • 👍 427 • 💬 134 • ⏱️ 1:11:22 • 10h ago
+👁️ 22K • 👍 2K • 💬 136 • ⏱️ 10:16 • 6h ago
+
+---
+
+**[My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED)](https://www.youtube.com/watch?v=e1ozMqOYANY)**
+
+My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 175 • ⏱️ 16:18 • 1d ago
 
 ---
 

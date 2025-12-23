@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T05:56:36.971627+00:00'
+updated: '2025-12-23T06:40:58.928623+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 05:56 UTC  
+**Last Updated:** December 23, 2025 at 06:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +5.0%  
-**30d:** +0.7%  
-**90d:** -22.9%  
-**1y:** -14.9%  
+**24h:** -2.4%  
+**7d:** +4.3%  
+**30d:** +0.0%  
+**90d:** -23.4%  
+**1y:** -15.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.70B
+**Market Cap:** $356.50B
 Rank #2
 
 **Circulating Supply:** 120,694,996 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-40.3%
 
 **All-Time Low:** $0.43
-+686480.6%
++682157.1%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 23, 2025](https://www.reddit.com/r/ethereum/comments/1ptmezj/daily_general_discussion_december_23_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+39m ago
+
+---
+
 **[Daily General Discussion December 22, 2025](https://www.reddit.com/r/ethereum/comments/1pss4f5/daily_general_discussion_december_22_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 13h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 14h ago
 
 ---
 
@@ -88,7 +96,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +104,7 @@ A lot of builders mention OWASP, but not everyone really knows what it stands fo
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -126,7 +134,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -135,14 +143,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
 
 🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 2d ago
-
----
-
-**[Trust funds don’t exist where I live, can I substitute it with crypto?](https://www.reddit.com/r/ethereum/comments/1pqv5m1/trust_funds_dont_exist_where_i_live_can_i/)**
-
-I live in Indonesia. Trust funds basically don’t exist here, and investing in foreign ETFs is messy (brokers, FX, income tax, reporting).Crypto is weirdly simpler. Trades here are taxed with a final tax (~0.1–0.2%) buy/sell and you’re done.That made me wonder: could smart contracts act like a low-cost “trust fund”? Rule-based investing (tokenized ETFs/T-bills), auto-rebalancing, monthly cash-outs to local currency, no banks or trustees. But maybe I’m missing something: - wallet loss / key management - smart contract risk - regulation catching up? Is there already a service for this use case?
-
-3d ago
 
 ---
 
@@ -158,11 +158,19 @@ The Motley Fool • 19h ago
 
 ---
 
-**[ETH news: Ethereum’s ‘Glamsterdam’ upgrade aims to fix MEV fairness](https://www.coindesk.com/tech/2025/12/20/ethereum-s-glamsterdam-upgrade-aims-to-fix-mev-fairness)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
 
-The full scope of Glamsterdam has not yet been finalized, but developers are targeting it to go live in 2026.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
 
-CoinDesk • 2d ago
+FXStreet • 1d ago
+
+---
+
+**[Ethereum treasury news: ETHZills (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
+
+This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
+
+CoinDesk • 13h ago
 
 ---
 
@@ -170,7 +178,7 @@ CoinDesk • 2d ago
 
 BlackRock-linked wallets sent about $270 million in Bitcoin and Ethereum to Coinbase Prime, according to the on-chain transfer screenshots from Lookonchain and Arkham. The transfers add up to 2,019 BTC valued at around $181.7 million and 29,928 ETH worth about $91.3 million. Instead of one big pack…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -184,7 +192,7 @@ TradingView — Track All Markets • 16h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced the appointment of Amanda Cassatt, founder and and Chief Executive Officer of Serotonin, to its Board of Directors effective January 1, 2026.
 
-Bit Digital • 9h ago
+Bit Digital • 10h ago
 
 ---
 
@@ -196,27 +204,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Vitalik Warned of TRON Overtaking Ethereum—6 years Later, Here’s ETH vs. Tron](https://zycrypto.com/vitalik-warned-of-tron-overtaking-ethereum-6-years-later-heres-eth-vs-tron/)**
+**[These two financial giants just set Ethereum's on-chain schedule, but Wall Street relies on a controversial “undo” button](https://cryptoslate.com/tokenization-gets-real-when-cash-meets-settlement-dtcc-jpmorgan-on-eth/)**
 
-Six years ago, Ethereum co-founder Vitalik Buterin said he would respect a technically competent rival overtaking Ethereum.
+DTCC’s 2026 pilot and JPMorgan’s MONY fund show how tokenized securities and on-chain cash could meet on Ethereum, and who gets access first.
 
-ZyCrypto • 2d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP eye breakout for fresh recovery](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-eye-breakout-for-fresh-recovery-202512220400)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are approaching key technical levels at the time of writing on Monday as the broader crypto market stabilizes.
-
-FXStreet • 1d ago
-
----
-
-**[Ethereum Foundation refocuses to security over speed – sets strict 128-bit rule for 2026](https://cryptoslate.com/ethereum-foundation-refocuses-to-security-over-speed-sets-strict-128-bit-rule-for-2026/)**
-
-Speed is no longer enough: The Foundation warns that without formally verified soundness, attackers could rewrite state, rendering high-speed proving a critical liability.
-
-CryptoSlate • 2d ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -224,7 +216,15 @@ CryptoSlate • 2d ago
 
 ETHE had structural issues before the uplisting, which, after July 2024, have been limited. See why the fund is a volatile solution linked to ETH-USD and the crypto market
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-update-insider-sale-filing-analyst-forecasts-and-what-comes-next-dec-19-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Update, Insider Sale Filing, Analyst Forecasts, and What Comes Next (Dec. 19, 2025) - TechStock²
+
+ts2.tech • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 734 • 💬 74 • ⏱️ 15:49 • 1d ago
+👁️ 22K • 👍 738 • 💬 75 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -248,17 +248,7 @@ THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 282 • 💬 104 • ⏱️ 17:34 • 13h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HXb6p0wUQt0)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 157 • 💬 6 • ⏱️ 4:52 • 16h ago
+👁️ 8K • 👍 298 • 💬 100 • ⏱️ 17:34 • 14h ago
 
 ---
 
@@ -268,7 +258,27 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 43 • 💬 68 • ⏱️ 7:32 • 16h ago
+👁️ 1K • 👍 44 • 💬 67 • ⏱️ 7:32 • 17h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Ausführliches Setup SeMario für den Bitcoin Short, WENN DAS passiert!](https://www.youtube.com/watch?v=fvISK2c9pZw)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 947 • 👍 264 • 💬 88 • ⏱️ 15:45 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HXb6p0wUQt0)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 159 • 💬 6 • ⏱️ 4:52 • 17h ago
 
 ---
 
@@ -278,17 +288,7 @@ BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the tota
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 34 • 💬 31 • ⏱️ 16:54 • 9h ago
-
----
-
-**[Ethereum’s Setup Signals Volatility Ahead Into 2026](https://www.youtube.com/watch?v=LNC18lqDyPs)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 378 • 👍 18 • 💬 32 • ⏱️ 5:29 • 9h ago
+👁️ 1K • 👍 39 • 💬 26 • ⏱️ 16:54 • 10h ago
 
 ---
 
@@ -298,27 +298,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 432 • 👍 34 • 💬 43 • ⏱️ 5:02 • 11h ago
+👁️ 468 • 👍 36 • 💬 41 • ⏱️ 5:02 • 11h ago
 
 ---
 
-**[A Digital Asset Treasury that is Diversified! Bitcoin, Ethereum, Solana, and XRP | Jamie Leverton](https://www.youtube.com/watch?v=XXpiEfypm4s)**
+**[Ethereum’s Setup Signals Volatility Ahead Into 2026](https://www.youtube.com/watch?v=LNC18lqDyPs)**
 
-Jamie Leverton, CEO of ReserveOne, joined me to discuss how the firm is taking a unique approach to their digital asset treasury ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
-📺 Thinking Crypto
+📺 Trade Confident
 
-👁️ 2K • 👍 126 • 💬 67 • ⏱️ 31:48 • 16h ago
-
----
-
-**[Is Ethereum Massively Overvalued? w/ Haseeb Qureshi](https://www.youtube.com/watch?v=DzS0ldchsps)**
-
-In this episode, Haseeb Qureshi breaks down the viral debate that split Crypto Twitter: Should blockchains be valued like ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 228 • 💬 112 • ⏱️ 11:26 • 2d ago
+👁️ 408 • 👍 19 • 💬 30 • ⏱️ 5:29 • 10h ago
 
 ---
 
@@ -328,7 +318,17 @@ Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does
 
 📺 Schwab Network
 
-👁️ 3K • 👍 62 • 💬 8 • ⏱️ 8:22 • 1d ago
+👁️ 3K • 👍 64 • 💬 8 • ⏱️ 8:22 • 1d ago
+
+---
+
+**[Tom Lee&#39;s Fundstrat Sees $60K BTC $1.8k ETH and $50 SOL In H1 2026... Stablecoin Battle, BTC ETF...](https://www.youtube.com/watch?v=PrjHeXsAGfE)**
+
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
+
+📺 AllinCrypto
+
+👁️ 14K • 👍 685 • 💬 412 • ⏱️ 11:34 • 1d ago
 
 ---
 
