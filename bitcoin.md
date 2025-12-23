@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T15:42:56.142626+00:00'
+updated: '2025-12-23T15:56:09.929664+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 15:42 UTC  
+**Last Updated:** December 23, 2025 at 15:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,969.34
+### $87,283.05
 
 ---
 
@@ -101,7 +101,7 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 **[maybe tomorrow😅](https://www.reddit.com/r/Bitcoin/comments/1ptoazr/maybe_tomorrow/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Like the question asks
 
 Entry points of your average DCA. “Zoom out” comments incoming.
 
-2h ago
+3h ago
 
 ---
 
@@ -185,7 +185,7 @@ VanEck • 21h ago
 
 Metals and other hard assets continue their surge to new records as the greenback stumbles, but crypto has not responded.
 
-CoinDesk • 55m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ Investor's Business Daily • 4h ago
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -223,7 +223,7 @@ Yahoo Finance • 23h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 22h ago
+Al Jazeera • 23h ago
 
 ---
 
@@ -293,17 +293,17 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 171 • ⏱️ 11:35 • 15h ago
+👁️ 23K • 👍 2K • 💬 181 • ⏱️ 11:35 • 15h ago
 
 ---
 
-**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
+**[Inside Strategy’s Bitcoin Treasury: Phong Le on Yield, Risk &amp; the Future of Money](https://www.youtube.com/watch?v=8rYl8wEotZk)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+In this episode of Coin Stories, Natalie Brunell and Strategy CEO Phong Le discuss why Bitcoin adoption is accelerating, even as ...
 
-📺 Altcoin Daily
+📺 Natalie Brunell
 
-👁️ 37K • 👍 3K • 💬 162 • ⏱️ 10:16 • 16h ago
+👁️ 1K • 👍 143 • 💬 1 • ⏱️ 1:07:05 • 1h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's been acting weird, stuck between $85K–$90K with no real breakout. Bu
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 203 • ⏱️ 15:15 • 1d ago
+👁️ 29K • 👍 2K • 💬 205 • ⏱️ 15:15 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 209 • ⏱️ 39:10 • 1d ago
+👁️ 27K • 👍 1K • 💬 210 • ⏱️ 39:10 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 4K • 👍 42 • 💬 42 • ⏱️ 3:19 • 17h ago
+👁️ 4K • 👍 78 • 💬 43 • ⏱️ 3:19 • 17h ago
 
 ---
 
@@ -343,17 +343,27 @@ My Worst Case Scenario For Crypto in 2026… (FINALLY REVEALED) Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 186 • ⏱️ 16:18 • 1d ago
+👁️ 39K • 👍 2K • 💬 186 • ⏱️ 16:18 • 1d ago
 
 ---
 
-**[BITCOIN HOLDERS... THIS $23B MOVE HAPPENS IN 3 DAYS](https://www.youtube.com/watch?v=G39n83gzneM)**
+**[When Does Bitcoin Bounce Back? Key Levels to Watch](https://www.youtube.com/watch?v=TnwtU0k4tEs)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Satoshi Stacker
+📺 CryptosRUs
 
-👁️ 7K • 👍 505 • 💬 50 • ⏱️ 10:08 • 6h ago
+👁️ 6K • 👍 539 • 💬 69 • ⏱️ 42:55 • 18m ago
+
+---
+
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 3K • 💬 168 • ⏱️ 10:16 • 16h ago
 
 ---
 
@@ -363,27 +373,17 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 18K • 👍 895 • 💬 113 • ⏱️ 6:08 • 22h ago
+👁️ 19K • 👍 910 • 💬 117 • ⏱️ 6:08 • 22h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Mqq407BGxxY)**
+**[BITCOIN HOLDERS... THIS $23B MOVE HAPPENS IN 3 DAYS](https://www.youtube.com/watch?v=G39n83gzneM)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Sportskeeda Wrestling
+📺 Satoshi Stacker
 
-👁️ 1K • 👍 4K • 2h ago
-
----
-
-**[This CONFIRMS America will never Buy Bitcoin?! | EP 1403](https://www.youtube.com/watch?v=-ZPeUgVP-ZU)**
-
-In a strange turns of fate, it looks like the main supporter of America buying bitcoin in Washington DC is out - what does this mean ...
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 465 • 💬 114 • ⏱️ 1:11:22 • 20h ago
+👁️ 10K • 👍 586 • 💬 53 • ⏱️ 10:08 • 7h ago
 
 ---
 

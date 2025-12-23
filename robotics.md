@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T15:42:56.151850+00:00'
+updated: '2025-12-23T15:56:09.938838+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 15:42 UTC  
+**Last Updated:** December 23, 2025 at 15:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-3h ago
+4h ago
 
 ---
 
@@ -98,7 +98,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=_6Pg47Ordgo) • 9h ago
 
 ---
 
@@ -166,7 +166,7 @@ CnEVPost • 12h ago
 
 Millersville University and a Lititz-based automation company will receive a nearly $350,000 grant from the Lancaster County Workforce Development Board to create a new robotics technician pre-apprenticeship training program.
 
-LancasterOnline • 39m ago
+LancasterOnline • 53m ago
 
 ---
 
@@ -188,7 +188,7 @@ MassDevice • 1d ago
 
 **[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
-Tech Xplore • 59m ago
+Tech Xplore • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 40K • 👍 771 • 💬 79 • ⏱️ 2:08:46 • 3d ago
+👁️ 41K • 👍 776 • 💬 80 • ⏱️ 2:08:46 • 3d ago
 
 ---
 
@@ -212,7 +212,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 33K • 👍 581 • 💬 138 • ⏱️ 5:25 • 2d ago
+👁️ 34K • 👍 588 • 💬 139 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -222,7 +222,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 3K • 👍 172 • 💬 53 • ⏱️ 49:59 • 19h ago
+👁️ 3K • 👍 180 • 💬 55 • ⏱️ 49:59 • 19h ago
 
 ---
 
@@ -232,7 +232,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 30K • 👍 146 • 💬 6 • ⏱️ 0:19 • 1d ago
+👁️ 30K • 👍 147 • 💬 6 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.0M • 👍 11K • 💬 638 • ⏱️ 2:43 • 5d ago
+👁️ 1.0M • 👍 11K • 💬 640 • ⏱️ 2:43 • 5d ago
 
 ---
 
@@ -252,17 +252,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 537K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=eFeyyTAyxMI)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 3K • 👍 94 • 💬 4 • ⏱️ 0:11 • 6h ago
+👁️ 542K • 👍 10K • 💬 1K • ⏱️ 18:35 • 2d ago
 
 ---
 
@@ -272,7 +262,7 @@ Will AI and robots become the future of the coffee and cocktail industry? Or wil
 
 📺 Emilee Bryant
 
-👁️ 2K • 👍 100 • 💬 32 • ⏱️ 12:34 • 19h ago
+👁️ 2K • 👍 103 • 💬 33 • ⏱️ 12:34 • 19h ago
 
 ---
 
@@ -282,7 +272,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 14K • 👍 222 • 💬 6 • ⏱️ 0:11 • 1d ago
+👁️ 15K • 👍 242 • 💬 6 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -292,7 +282,17 @@ jumpersjump #hardclipped.
 
 📺 Sharp Cut
 
-👁️ 2.8M • 👍 40K • 💬 654 • ⏱️ 0:29 • 1d ago
+👁️ 2.9M • 👍 42K • 💬 678 • ⏱️ 0:29 • 1d ago
+
+---
+
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=eFeyyTAyxMI)**
+
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
+
+📺 Ai BOOF
+
+👁️ 5K • 👍 91 • 💬 4 • ⏱️ 0:11 • 6h ago
 
 ---
 

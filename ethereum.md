@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T15:42:56.148616+00:00'
+updated: '2025-12-23T15:56:09.935649+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 15:42 UTC  
+**Last Updated:** December 23, 2025 at 15:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -4.1%  
-**7d:** +3.2%  
+**7d:** +3.1%  
 **30d:** -1.1%  
 **90d:** -24.2%  
 **1y:** -16.4%  
@@ -174,7 +174,7 @@ Barron's • 3h ago
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 291 • 👍 24 • 💬 3 • ⏱️ 5:30 • 5h ago
+👁️ 436 • 👍 31 • 💬 3 • ⏱️ 5:30 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 23K • 👍 752 • 💬 80 • ⏱️ 15:49 • 2d ago
+👁️ 23K • 👍 761 • 💬 81 • ⏱️ 15:49 • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 10 • ⏱️ 8:07 • 12h ago
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 8:07 • 13h ago
 
 ---
 
@@ -266,27 +266,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 204 • 👍 18 • 💬 3 • ⏱️ 9:42 • 2h ago
-
----
-
-**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
-
-Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
-
-📺 The Modern Investor
-
-👁️ 3K • 👍 460 • 💬 103 • ⏱️ 22:25 • 6h ago
-
----
-
-**[THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ryb8qPUZCUc)**
-
-THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 309 • 💬 77 • ⏱️ 17:34 • 23h ago
+👁️ 280 • 👍 27 • 💬 4 • ⏱️ 9:42 • 2h ago
 
 ---
 
@@ -296,17 +276,37 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 45 • 💬 53 • ⏱️ 7:32 • 1d ago
+👁️ 2K • 👍 46 • 💬 53 • ⏱️ 7:32 • 1d ago
 
 ---
 
-**[Bitcoin &quot;Digital Gold&quot; &amp; Ethereum &quot;Digital Oil:&quot; Crypto&#39;s Path to Commoditization](https://www.youtube.com/watch?v=kZzRkG5IlXk)**
+**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
 
-Andrew Gibb is a long-term bull when it comes to cryptocurrencies. Not only does he see institutional investing adding long-term ...
+Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
 
-📺 Schwab Network
+📺 The Modern Investor
 
-👁️ 4K • 👍 71 • 💬 8 • ⏱️ 8:22 • 1d ago
+👁️ 4K • 👍 607 • 💬 119 • ⏱️ 22:25 • 6h ago
+
+---
+
+**[THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Ryb8qPUZCUc)**
+
+THE BITCOIN SQUEEZE JUST STARTED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 315 • 💬 76 • ⏱️ 17:34 • 23h ago
+
+---
+
+**[XRP BITCOIN ETHEREUM ‼️ KNOW THIS BEFORE TOMORROW!](https://www.youtube.com/watch?v=bBU6oHVTtXQ)**
+
+1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 13K • 👍 897 • 💬 18 • ⏱️ 11:18 • 1d ago
 
 ---
 
@@ -320,13 +320,13 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 ---
 
-**[BMNR Owns 3.37% of Ethereum — Why $60+ Is the Next Technical Target](https://www.youtube.com/watch?v=GR9JlQ34Z8Y)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Jl1i1NAoWBw)**
 
-BitMine Immersion Technologies ($BMNR) has officially secured ~3.37% of the total Ethereum supply, holding over 4 million ETH ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 CryptoStock Lab
+📺 DReam A Level
 
-👁️ 2K • 👍 45 • 💬 24 • ⏱️ 16:54 • 19h ago
+👁️ 3K • 👍 1K • 24m ago
 
 ---
 

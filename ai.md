@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T15:42:56.134133+00:00'
+updated: '2025-12-23T15:56:09.921231+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 15:42 UTC  
+**Last Updated:** December 23, 2025 at 15:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-50m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 Last week a request for comments (RFC) was issued around establishing an LLVM AI Tool Use Policy
 
-🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 9m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/LLVM-AI-Tool-Policy-RFC) • 22m ago
 
 ---
 
@@ -81,7 +81,7 @@ Last week a request for comments (RFC) was issued around establishing an LLVM AI
 
 Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
 
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 14m ago
+🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 27m ago
 
 ---
 
@@ -89,7 +89,7 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 Google recently shipped an API that handles conversation history, context management, and background execution server-side for agent deployments (the new Interactions API in Gemini). From what we can tell, this eliminates most of the infrastructure work that typically goes into building agents. No vector DB setup, no custom context engineering, no session state management. It's all handled by Google. We've been prototyping with it for a couple weeks now. The difference in development velocity is pretty significant. What used to take days of setting up memory architecture now just works out of the box. The trade-off seems obvious though. You're locked into Google's infrastructure. You lose control over how context is stored and retrieved. Model switching becomes harder. Cost optimization gets more opaque. But from a practical standpoint, it removes what we'd estimate was 60-80% of the grunt work in agent development. You can focus entirely on the business logic and prompt engineering instead of building plumbing. A few things we're curious about from people who've worked with this or similar patterns. How does this compare to building with LangChain or LangGraph memory solutions? Is the convenience worth the vendor lock-in? For production deployments, does server-side state management create any issues around auditability or debugging? With custom implementations you can inspect everything. Here it's more of a black box. What's the failure mode if Google's state management has issues? With self-hosted solutions you at least have control. Here you're dependent on their uptime. Is there a reasonable path to migrate off this if needed? Or once you build on it, you're committed? From an architecture perspective, this feels like Google positioning infrastructure as the moat. Similar to how AWS won by solving undifferentiated heavy lifting. But in ML workloads, control over the full stack has typically been important. For context, we're working across several businesses (e-commerce, SaaS) building management-layer agents. Planning systems, decision analysis, that kind of thing. Not doing anything cutting-edge from a research standpoint, just trying to ship production systems that work. The ease of prototyping with this API has been valuable. But we're trying to think through whether we're setting ourselves up for problems down the road by outsourcing this much of the stack. Curious what others think about this pattern. Is server-side state management the future for agent development? Or are we trading too much control for convenience?
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ The surveillance fostered an atmosphere of distrust: 32% of 14 to 18-year-old st
 
 The idea is simple: LLMs guess. Businesses want proves. Instead of trusting AI confidence scores, I tried building a system that verifies outputs using SymPy (math), Z3 (logic), and AST (code). If you believe in determinism and think that it is the necessity and want to contribute, you are welcome to contribute, find and help me fix bugs which I must have failed in.
 
-🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 7h ago
+🔗 [GitHub](https://github.com/QWED-AI/qwed-verification) • 8h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 3h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 27m ago
+The Guardian • 41m ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 27m ago
 
 Google's AI bounced back in a big way in 2025.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 39m ago
 
 Barclays analysts highlighted a dozen overweight-rated stocks that it views as best-positioned to capitalize on higher-than-expected AI spending next year.
 
-CNBC • 39m ago
+CNBC • 53m ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 39m ago
 
 The company behind ChatGPT says prompt injection vulnerabilities will likely never be fully âsolved.â
 
-Gizmodo • 17m ago
+Gizmodo • 30m ago
 
 ---
 
@@ -294,7 +294,7 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 28K • 👍 351 • 💬 240 • ⏱️ 4:26 • 1d ago
+👁️ 29K • 👍 352 • 💬 240 • ⏱️ 4:26 • 1d ago
 
 ---
 
@@ -304,37 +304,7 @@ Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Reg
 
 📺 IBM Technology
 
-👁️ 26K • 👍 1K • 💬 39 • ⏱️ 11:39 • 1d ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=IJYkIQQsIw8)**
-
-Which Crazy Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/IJYkIQQsIw8 Which crazy bed ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 1.2M • 👍 6K • 💬 245 • ⏱️ 8:24 • 3d ago
-
----
-
-**[The Truth About The AI Bubble](https://www.youtube.com/watch?v=cqrJzG03ENE)**
-
-2025 was the year AI stopped feeling chaotic and started feeling buildable. In this Lightcone episode, the YC partners break down ...
-
-📺 Y Combinator
-
-👁️ 28K • 👍 716 • 💬 47 • ⏱️ 30:23 • 1d ago
-
----
-
-**[AI Isn’t Working](https://www.youtube.com/watch?v=4Xjx5c0z7io)**
-
-Get Your Free US Stock Worth $50 From eToro - https://bit.ly/etoro-free-stock Oracle stock has collapsed by over 40% as investors ...
-
-📺 Sasha Yanshin
-
-👁️ 158K • 👍 7K • 💬 2K • ⏱️ 16:44 • 1d ago
+👁️ 29K • 👍 1K • 💬 40 • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -344,7 +314,17 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 10K • 👍 302 • 💬 44 • ⏱️ 18:48 • 17h ago
+👁️ 11K • 👍 321 • 💬 48 • ⏱️ 18:48 • 17h ago
+
+---
+
+**[The Truth About The AI Bubble](https://www.youtube.com/watch?v=cqrJzG03ENE)**
+
+2025 was the year AI stopped feeling chaotic and started feeling buildable. In this Lightcone episode, the YC partners break down ...
+
+📺 Y Combinator
+
+👁️ 30K • 👍 754 • 💬 47 • ⏱️ 30:23 • 1d ago
 
 ---
 
@@ -354,17 +334,17 @@ welcome to this month's episode of techbros vs basic care and consideration for 
 
 📺 Fads
 
-👁️ 241K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
+👁️ 243K • 👍 13K • 💬 2K • ⏱️ 19:40 • 2d ago
 
 ---
 
-**[AI News: 28 Headlines No One Expected](https://www.youtube.com/watch?v=IT8LbiACH_g)**
+**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
 
-Click here to learn more about VibeCode and Get your first 3 apps free using code “Wolfe”: https://vibecode.go.link/9G72M This ...
+How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
 
-📺 Matt Wolfe
+📺 Maxinomics
 
-👁️ 68K • 👍 3K • 💬 212 • ⏱️ 37:38 • 3d ago
+👁️ 110K • 👍 7K • 💬 1K • ⏱️ 21:43 • 13h ago
 
 ---
 
@@ -374,17 +354,37 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 105K • 👍 3K • 💬 136 • ⏱️ 1:29 • 1d ago
+👁️ 108K • 👍 3K • 💬 142 • ⏱️ 1:29 • 1d ago
 
 ---
 
-**[How China Won (2025 State of AI report)](https://www.youtube.com/watch?v=3_71Nog8JZw)**
+**[Real vs AI Videos!](https://www.youtube.com/watch?v=BdBGTLJekWE)**
 
-With GPT-5, Claude 4.5 Opus, Gemini 3.0 Pro and so many more, it's been a wild year. Thank you WorkOS for sponsoring!
+Need new glasses? Check out our partner Zenni Optical: https://zennipartners.pxf.io/PrestonReacts For 10% off your purchase at ...
 
-📺 Theo - t3․gg
+📺 PrestonReacts
 
-👁️ 27K • 👍 947 • 💬 106 • ⏱️ 45:40 • 16h ago
+👁️ 169K • 👍 2K • 💬 444 • ⏱️ 15:32 • 2d ago
+
+---
+
+**[Nancy Pelosi Just Went All-In On This AI Stock](https://www.youtube.com/watch?v=wUHsZl8oYNo)**
+
+Subscribe to Memes and Markets: https://www.youtube.com/@UCpDHJbeyWBab2qr6y2d6_yQ All Sponsorship & Business ...
+
+📺 Keith D
+
+👁️ 28K • 👍 2K • 💬 314 • ⏱️ 15:25 • 1d ago
+
+---
+
+**[This is How We Beat AI](https://www.youtube.com/watch?v=_rdSl3CpiCg)**
+
+A lot of people in the creative industries are worried about AI. Could it take their jobs? Could it destroy the arts? Have we already ...
+
+📺 Rowan J Coleman
+
+👁️ 39K • 👍 4K • 💬 935 • ⏱️ 12:03 • 1d ago
 
 ---
 
@@ -572,7 +572,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
 
-▲ 49 • 💬 2 • ⭐ 47 • 1d ago
+▲ 51 • 💬 2 • ⭐ 47 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
 
@@ -588,6 +588,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 120 • 💬 18 • ⭐ 47,541 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 208 • 💬 5 • ⭐ 7,711 • 26d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -616,20 +630,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 27 • 💬 2 • ⭐ 7,680 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 208 • 💬 5 • ⭐ 7,668 • 26d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.9k • 🔱 661 • 7h ago
+⭐ 6.0k • 🔱 664 • 7h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 357 • 1h ago
+⭐ 2.7k • 🔱 363 • 22m ago
 
 ---
 
@@ -685,7 +685,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 184 • 58m ago
+⭐ 2.5k • 🔱 184 • 1h ago
 
 ---
 
@@ -705,7 +705,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 194 • 15h ago
+⭐ 1.2k • 🔱 196 • 16h ago
 
 ---
 
@@ -735,7 +735,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 952 • 🔱 91 • 1d ago
+⭐ 953 • 🔱 92 • 1d ago
 
 ---
 
