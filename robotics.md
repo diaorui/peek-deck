@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T21:38:13.308818+00:00'
+updated: '2025-12-23T21:49:32.704557+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 21:38 UTC  
+**Last Updated:** December 23, 2025 at 21:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,19 +74,19 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-39m ago
+50m ago
 
 ---
 
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-39m ago
+50m ago
 
 ---
 
@@ -278,7 +278,7 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 35K • 💬 4 • ⏱️ 0:26 • 19h ago
+👁️ 35K • 💬 4 • ⏱️ 0:26 • 20h ago
 
 ---
 

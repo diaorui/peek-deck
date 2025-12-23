@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T21:38:13.291290+00:00'
+updated: '2025-12-23T21:49:32.686501+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 21:38 UTC  
+**Last Updated:** December 23, 2025 at 21:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
 
-🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 5h ago
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-17m ago
+28m ago
 
 ---
 
@@ -161,7 +161,7 @@ People.com • 1h ago
 
 **[The A In AI Is For Anxiety, And There’s Nothing Artificial About It](https://www.forbes.com/sites/annkirschner/2025/12/23/the-a-in-ai-is-for-anxiety-and-theres-nothing-artificial-about-it/)**
 
-Forbes • 34m ago
+Forbes • 45m ago
 
 ---
 
@@ -312,7 +312,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 10K • 👍 1K • 💬 138 • ⏱️ 33:27 • 3h ago
+👁️ 10K • 👍 1K • 💬 138 • ⏱️ 33:27 • 4h ago
 
 ---
 
@@ -434,7 +434,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 433 • 11h ago
+⬇️ 1,148 • ❤️ 433 • 12h ago
 
 ---
 
@@ -504,7 +504,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 8,076 • ❤️ 253 • 6h ago
+⬇️ 8,076 • ❤️ 253 • 7h ago
 
 ---
 
@@ -520,7 +520,7 @@ SAM-Audio is a foundation model for segmenting and isolating any sound within au
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 11 • 💬 2 • ⭐ 4,839 • 12d ago
+▲ 11 • 💬 2 • ⭐ 4,898 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -538,18 +538,6 @@ A novel framework, Robust-R1, enhances multimodal large language models' robustn
 
 ---
 
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 4 • 💬 0 • ⭐ 61,378 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -559,6 +547,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 10 • 💬 2 • ⭐ 13,024 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 4 • 💬 0 • ⭐ 61,409 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -623,7 +623,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 137 • 💬 6 • ⭐ 18,931 • 3mo ago
+▲ 137 • 💬 6 • ⭐ 18,939 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 371 • 2h ago
+⭐ 2.9k • 🔱 373 • 2h ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.5k • 🔱 185 • 4h ago
+⭐ 2.6k • 🔱 185 • 4h ago
 
 ---
 
@@ -702,7 +702,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 197 • 21h ago
+⭐ 1.2k • 🔱 197 • 22h ago
 
 ---
 
@@ -742,7 +742,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 920 • 🔱 25 • 16d ago
+⭐ 921 • 🔱 25 • 16d ago
 
 ---
 

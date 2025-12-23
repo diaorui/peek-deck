@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T21:38:13.305600+00:00'
+updated: '2025-12-23T21:49:32.701231+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 21:38 UTC  
+**Last Updated:** December 23, 2025 at 21:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ETHZilla still owns about $200M ETH](https://www.reddit.com/r/ethereum/comments/1pu32ay/ethzilla_still_owns_about_200m_eth/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -294,7 +294,7 @@ As part of the MCO partnership with Bybit, here's a quick overview of a currentl
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 18 • ⏱️ 8:07 • 18h ago
+👁️ 2K • 👍 126 • 💬 18 • ⏱️ 8:07 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T21:38:13.299676+00:00'
+updated: '2025-12-23T21:49:32.695088+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 21:38 UTC  
+**Last Updated:** December 23, 2025 at 21:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,177.76
+### $87,683.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +1.6%  
-**30d:** -1.0%  
-**90d:** -19.5%  
-**1y:** -11.2%  
+**24h:** -1.1%  
+**7d:** +1.8%  
+**30d:** -0.8%  
+**90d:** -19.3%  
+**1y:** -11.0%  
 
 ---
 
@@ -103,7 +103,7 @@ fidelity's jurrien timmer predicted $1 billion bitcoin by 2038. people laughed, 
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ Entry points of your average DCA. “Zoom out” comments incoming.
 
 Like the question asks
 
-9h ago
+10h ago
 
 ---
 
@@ -359,7 +359,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 13K • 👍 652 • 💬 78 • ⏱️ 10:08 • 12h ago
+👁️ 13K • 👍 652 • 💬 78 • ⏱️ 10:08 • 13h ago
 
 ---
 
@@ -399,7 +399,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 214 • ⏱️ 10:16 • 21h ago
+👁️ 46K • 👍 3K • 💬 214 • ⏱️ 10:16 • 22h ago
 
 ---
 
