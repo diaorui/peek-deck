@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T05:15:39.503956+00:00'
+updated: '2025-12-23T05:43:51.600354+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 05:15 UTC  
+**Last Updated:** December 23, 2025 at 05:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 6h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Uh oh…
 
 Prices may still vary on a store-by-store basis, Instacart says.
 
-🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 8h ago
+🔗 [The Verge](https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight) • 9h ago
 
 ---
 
@@ -69,11 +69,19 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 ---
 
+**[Guided learning lets “untrainable” neural networks realize their potential](https://www.reddit.com/r/artificial/comments/1ptlus7/guided_learning_lets_untrainable_neural_networks/)**
+
+MIT CSAIL study suggests that neural network architectures considered unsuitable for modern tasks can improve with short-term guidance. The method encourages a target network to match a guide network’s internal representations, improving its starting point and making machine learning easier.
+
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218) • 13m ago
+
+---
+
 **[Robot training process + gameplay. I'm making a physics-based game where you command AI robot through levels - not just pointing the path, but also by controlling limb power and decision speed.](https://www.reddit.com/r/artificial/comments/1pt8xgm/robot_training_process_gameplay_im_making_a/)**
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +89,7 @@ Game called "Humanize Robotics". I’m building a community of people like me - 
 
 Critics are judging models trained on last-gen hardware. There's a 6x wave of compute already allocated - and it's just starting to produce results.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 14h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/are-we-dismissing-ai-spend-before-the-6x-lands/) • 15h ago
 
 ---
 
@@ -89,7 +97,15 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 I have tried to use comet, chatgpt atlas and all of the so called "automation" seems dumb and takes way too much time anyway, for some reason comet makes my macbook struggle and overall the idea I think is to allow teams or companies "automate" data extraction or whatever but it failed to do any complex tasks I gave it, what are your thoughts?
 
-23h ago
+1d ago
+
+---
+
+**[One-Minute Daily AI News 12/22/2025](https://www.reddit.com/r/artificial/comments/1ptlxdk/oneminute_daily_ai_news_12222025/)**
+
+OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
+
+10m ago
 
 ---
 
@@ -101,22 +117,6 @@ Intel engineers as part of the OPEA Project today released the Generative AI Exa
 
 ---
 
-**[OpenAI’s profit potential improves as compute margins near 70%](https://www.reddit.com/r/artificial/comments/1psvd24/openais_profit_potential_improves_as_compute/)**
-
-OpenAI's compute margin is has hit 70%, according to The Information, which said the number rose from 52% at the end of 2024 and was roughly half of today…
-
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/openai-compute-margins-near-70/) • 19h ago
-
----
-
-**[Nvidia wants to create universal AI agents for all worlds with NitroGen](https://www.reddit.com/r/artificial/comments/1psrkcs/nvidia_wants_to_create_universal_ai_agents_for/)**
-
-Nvidia has released a new base model for gaming agents. NitroGen is a vision-action model that has been trained on 40,000 hours of gameplay videos from more than 1,000 games.
-
-🔗 [The Decoder](https://the-decoder.com/nvidia-wants-to-create-universal-ai-agents-for-all-worlds-with-nitrogen/) • 23h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ Nvidia has released a new base model for gaming agents. NitroGen is a vision-act
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 21h ago
+ABC News • 22h ago
 
 ---
 
@@ -137,31 +137,25 @@ blog.google • 11h ago
 
 ---
 
-**[President Trump signs executive order to curb state-level AI laws](https://fox59.com/news/politics/president-trump-signs-executive-order-to-curb-state-level-ai-laws/)**
+**[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
 
-Fox 59 • 6h ago
-
----
-
-**[Trump signed an order blocking ‘onerous’ AI laws. What will it mean for Idaho?](https://www.idahostatesman.com/news/politics-government/state-politics/article313845906.html)**
-
-Idaho Statesman • 18h ago
+The New York Times • 42m ago
 
 ---
 
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+**[Despite the hype, agentic AI isn’t ready to take the brand controls just yet](https://digiday.com/marketing/despite-the-hype-agentic-ai-isnt-ready-to-take-the-brand-controls-just-yet/)**
 
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
+Despite agentic AI boosting content creation speed, human oversight remains critical due to concerns over hallucination, brand consistency.
 
-The Daily Beast • 2h ago
+Digiday • 38m ago
 
 ---
 
-**[After-school employee accused of making AI-generated child pornography](https://www.nbclosangeles.com/news/local/after-school-employee-accused-of-making-ai-generated-child-pornography/3819847/)**
+**[Google’s Chess Master Is Working on AI's Killer App](https://www.bloomberg.com/opinion/articles/2025-12-23/google-ai-boss-demis-hassabis-is-working-on-the-next-killer-app)**
 
-Police believe there may be other victims after an after-school employee was arrested on suspicion of making AI-generated child pornography.
+You may have only recently heard about Demis Hassabis. He’s been named one of Time magazine’s “AI architects,” won a Nobel Prize for using the technology to predict protein folding and runs Google’s AI efforts. When the search giant acquired his company DeepMind in 2014, he embraced his new employer’s vast resources to build machines that surpassed human brainpower, so-called artificial general intelligence.
 
-NBC Los Angeles • 37m ago
+Bloomberg.com • 43m ago
 
 ---
 
@@ -173,6 +167,14 @@ NBC News • 7h ago
 
 ---
 
+**[Yann LeCun's Advice for Young Students Wanting to Go Into AI](https://www.businessinsider.com/yann-lecun-advice-ai-careers-computer-science-degree-2025-12)**
+
+Former Meta chief AI scientist Yann LeCun said current and prospective CS students need to focus on skills "with a long shelf life."
+
+Business Insider • 20h ago
+
+---
+
 **[AI hiring is here. It’s making companies — and job seekers — miserable](https://www.cnn.com/2025/12/21/economy/ai-hiring-complication)**
 
 As America’s labor market slows, AI-led interviews and auto-generated cover letters are dramatically changing the process of getting a job. And maybe not for the better.
@@ -181,17 +183,19 @@ CNN • 1d ago
 
 ---
 
-**[She Fell in Love With ChatGPT. Then She Ghosted It.](https://www.nytimes.com/2025/12/22/technology/ai-boyfriend-chatgpt.html)**
-
-The New York Times • 8h ago
-
----
-
 **[Air Force Shutting Down AI Chatbot NIPRGPT](https://www.airandspaceforces.com/air-force-shutting-down-ai-chatbot-niprgpt/)**
 
 NIPRGPT, the Air Force’s generative artificial intelligence chatbot, will shut down to make way for the new GenAI.mil platform.
 
 Air & Space Forces Magazine • 11h ago
+
+---
+
+**[ByteDance plans $23bn AI spending spree to keep pace with US rivals](https://www.ft.com/content/9f550bb6-5708-41e3-aef6-ce8d7bb405ad)**
+
+TikTok’s Chinese owner set to increase capital expenditure next year in effort to further build AI infrastructure
+
+Financial Times • 4h ago
 
 ---
 
@@ -211,7 +215,7 @@ Exclusive: Tech exec admits not dead cert it'll find the right solution
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 482 • 💬 374 • 12h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 497 • 💬 388 • 13h ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -219,19 +223,19 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 262 • 💬 165 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 263 • 💬 165 • 1d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 241 • 💬 190 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 241 • 💬 191 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
 **[Reflections on AI at the End of 2025](https://news.ycombinator.com/item?id=46334819)**
 
-⬆️ 238 • 💬 353 • 2d ago • [antirez.com](https://antirez.com/news/157)
+⬆️ 238 • 💬 354 • 2d ago • [antirez.com](https://antirez.com/news/157)
 
 ---
 
@@ -250,7 +254,13 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 162 • 💬 81 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 164 • 💬 81 • 1d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+
+---
+
+**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
+
+⬆️ 137 • 💬 161 • 22h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -259,12 +269,6 @@ friction.
 Personal Musings and Transcripts
 
 ⬆️ 137 • 💬 63 • 1d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
-
----
-
-**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
-
-⬆️ 135 • 💬 161 • 22h ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -278,7 +282,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 128 • 💬 107 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 129 • 💬 107 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -372,7 +376,7 @@ Use Nano Banana inside Arcads https://roboverse-ai.com/ai-advertising (affiliate
 
 📺 Roboverse
 
-👁️ 5K • 💬 10 • ⏱️ 12:29 • 13h ago
+👁️ 5K • 💬 10 • ⏱️ 12:29 • 14h ago
 
 ---
 
@@ -398,7 +402,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 363,445 • ❤️ 3,308 • 14d ago
+⬇️ 363,445 • ❤️ 3,312 • 14d ago
 
 ---
 
@@ -410,7 +414,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 5,379 • ❤️ 556 • 3d ago
+⬇️ 5,379 • ❤️ 558 • 3d ago
 
 ---
 
@@ -422,7 +426,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 14,346 • ❤️ 486 • 4d ago
+⬇️ 14,346 • ❤️ 487 • 4d ago
 
 ---
 
@@ -446,7 +450,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 8,830 • ❤️ 402 • 5d ago
+⬇️ 8,830 • ❤️ 404 • 5d ago
 
 ---
 
@@ -458,7 +462,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,187 • ❤️ 398 • 4d ago
+⬇️ 3,187 • ❤️ 399 • 4d ago
 
 ---
 
@@ -470,7 +474,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 5,349 • ❤️ 404 • 8d ago
+⬇️ 5,349 • ❤️ 406 • 8d ago
 
 ---
 
@@ -482,7 +486,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 355 • 6d ago
+⬇️ 0 • ❤️ 358 • 6d ago
 
 ---
 
@@ -494,7 +498,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 335 • 7d ago
+⬇️ 0 • ❤️ 336 • 7d ago
 
 ---
 
@@ -506,7 +510,7 @@ Fun-CosyVoice3-0.5B-2512 is a multilingual text-to-speech model supporting 9 lan
 
 `text-to-speech`
 
-⬇️ 770 • ❤️ 277 • 5d ago
+⬇️ 770 • ❤️ 278 • 5d ago
 
 ---
 
@@ -683,7 +687,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 320 • 5h ago
+⭐ 2.2k • 🔱 320 • 6h ago
 
 ---
 
@@ -733,7 +737,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 929 • 🔱 86 • 2h ago
+⭐ 929 • 🔱 86 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T05:15:39.512307+00:00'
+updated: '2025-12-23T05:43:51.608802+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 05:15 UTC  
+**Last Updated:** December 23, 2025 at 05:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +2.1%  
-**30d:** -0.4%  
-**90d:** -19.1%  
-**1y:** -10.7%  
+**24h:** -1.2%  
+**7d:** +1.9%  
+**30d:** -0.7%  
+**90d:** -19.3%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.28B
+**Market Cap:** $1751.45B
 Rank #1
 
 **Circulating Supply:** 19,965,790 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.4%
 
 **All-Time Low:** $67.81
-+129770.2%
++129261.5%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
+
+7h ago
+
+---
+
 **[They were happy buying Bitcoin at $126K… but suddenly $84K is too risky](https://www.reddit.com/r/Bitcoin/comments/1pt9msk/they_were_happy_buying_bitcoin_at_126k_but/)**
 
 9h ago
@@ -85,7 +91,7 @@ Rank #1
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,13 +99,7 @@ Rank #1
 
 bitvoin
 
-16h ago
-
----
-
-**[Not trying to offend anyone. Take it in Jest.](https://www.reddit.com/r/Bitcoin/comments/1ptco79/not_trying_to_offend_anyone_take_it_in_jest/)**
-
-6h ago
+17h ago
 
 ---
 
@@ -133,13 +133,13 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -151,31 +151,43 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Bloomberg • 7h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[Bitcoin price news: BTC gives up early Monday gains, falling back below $88,000](https://www.coindesk.com/markets/2025/12/22/crypto-markets-slip-further-as-traders-brace-for-usd28-5b-deribit-expiry)**
+**[Michael Saylor's Strategy expands dollar reserve instead of Bitcoin](https://finance.yahoo.com/news/michael-saylors-strategy-expands-dollar-163854674.html)**
 
-Crypto continues to lose ground ahead of this week's record options expiration, while defensive positioning and thinning liquidity suggest caution into 2026.
+Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-CoinDesk • 8h ago
-
----
-
-**[How Bitcoin Could Help You Retire a Multimillionaire](https://www.fool.com/investing/2025/12/22/how-bitcoin-could-help-you-retire-a-multimillionai/)**
-
-The flagship cryptocurrency could add considerable upside to your savings if wielded responsibly.
-
-The Motley Fool • 18h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+**[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+Investor's Business Daily • 8h ago
 
-Al Jazeera • 12h ago
+---
+
+**[Bitcoin Price Struggles at $90,000 as Christmas Trading Looms](https://bitcoinmagazine.com/news/bitcoin-price-struggles-at-90000)**
+
+The bitcoin price briefly climbed above $90,000 after rising from $88,000 during Asian and European hours, before retreating toward $88,000 again during U.S. trading.
+
+Bitcoin Magazine • 8h ago
+
+---
+
+**[PNC’s Early Move Into Direct Bitcoin Trading Might Change The Case For Investing In PNC (PNC)](https://finance.yahoo.com/news/pnc-early-move-direct-bitcoin-042207623.html)**
+
+Earlier in December 2025, PNC Bank became the first major U.S. bank to enable eligible PNC Private Bank clients to buy, hold and sell spot bitcoin directly through its own digital platform, using Coinbase’s Crypto-as-a-Service infrastructure. This move meaningfully expands PNC’s digital asset capabilities for high- and ultra-high-net-worth clients, tightening the link between traditional private banking services and the crypto market. We’ll now explore how this early move into direct bitcoin...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqet4WLUoGXsusMrmuIyxE-D3I-kdCYD086Pkqu8n1K4tiBiicF1dHIw&gaa_ts=694a2f85&gaa_sig=1LmxrKI12EVf5WfsdWvgSi05TcT_83pXG9HMwemZX5qBbmJcWQkePbJbRLHOCxTfA_s21sSunLceQmNqdEFUzw%3D%3D)**
+
+Barron's • 15h ago
 
 ---
 
@@ -183,7 +195,15 @@ Al Jazeera • 12h ago
 
 Waltham and Gloucester have banned the machines
 
-WCVB • 2h ago
+WCVB • 3h ago
+
+---
+
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+
+Al Jazeera • 13h ago
 
 ---
 
@@ -191,37 +211,15 @@ WCVB • 2h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
-**[Bitcoin Price Rises. Traders Are Betting on a 5% Crypto Christmas Rally.](https://www.barrons.com/articles/bitcoin-price-rally-ethereum-xrp-crypto-52d2771f?gaa_at=eafs&gaa_n=AWEtsqe38FiKPbxr5EemN2FkPcLvyENNRBppolP_quovSmm6AV2xNbFrWoBO&gaa_ts=694a2310&gaa_sig=iQggqneckytnap9I_H8boc_OLTjSMClBcX7xvxuhmOUzBuQ05vhf3NJyVdTw4KF-3hpRvu8jTld5T77zM2X-fA%3D%3D)**
+**[Shiba Inu vs. Bitcoin: The Better Long-Term Play?](https://www.fool.com/investing/2025/12/21/shiba-inu-vs-bitcoin-the-better-long-term-play/)**
 
-Barron's • 15h ago
+One of these cryptocurrencies is a major global asset. The other has a cartoon dog as a mascot.
 
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.nasdaq.com/articles/better-crypto-buy-bitcoin-vs-xrp-1)**
-
-Key PointsBitcoin, the world's largest cryptocurrency, had been on a monster run, at one point topping $126,000 per token.
-
-Nasdaq • 1d ago
-
----
-
-**[IBIT: The Risk Of Bitcoin’s Decline To $30K (NASDAQ:IBIT)](https://seekingalpha.com/article/4855084-ibit-the-risk-of-bitcoins-decline-to-30k)**
-
-Bitcoin may face a decline to $30,000 amid stable money supply and limited QE prospects. Click here to find out what this means for BTC-USD ETFs.
-
-Seeking Alpha • 17h ago
-
----
-
-**[Trump Media Bitcoin Holdings Hit 11,542 BTC](https://bitbo.io/news/trump-media-bitcoin-holdings/)**
-
-Trump Media added 451 BTC worth about $40.3 million, taking its bitcoin holdings to 11,542 BTC as BlackRock highlighted bitcoin as a major 2025 investment theme.
-
-Bitbo • 10h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -293,7 +291,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 226 • ⏱️ 39:10 • 13h ago
+👁️ 23K • 👍 1K • 💬 226 • ⏱️ 39:10 • 14h ago
 
 ---
 
@@ -323,7 +321,7 @@ Things continue to chop sideways with a little run. But let's be honest - moment
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 452 • 💬 59 • ⏱️ 27:45 • 9h ago
+👁️ 6K • 👍 452 • 💬 59 • ⏱️ 27:45 • 10h ago
 
 ---
 
@@ -333,7 +331,7 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 25 • 💬 42 • ⏱️ 3:19 • 6h ago
+👁️ 2K • 👍 25 • 💬 42 • ⏱️ 3:19 • 7h ago
 
 ---
 
@@ -353,7 +351,7 @@ Bitcoin isn't competing with the financial system—it's replacing it. In this c
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 121 • 💬 5 • ⏱️ 0:53 • 15h ago
+👁️ 4K • 👍 121 • 💬 5 • ⏱️ 0:53 • 16h ago
 
 ---
 
@@ -383,7 +381,7 @@ In a strange turns of fate, it looks like the main supporter of America buying b
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 427 • 💬 134 • ⏱️ 1:11:22 • 9h ago
+👁️ 9K • 👍 427 • 💬 134 • ⏱️ 1:11:22 • 10h ago
 
 ---
 
