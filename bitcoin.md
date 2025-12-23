@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-23T07:33:25.837994+00:00'
+updated: '2025-12-23T07:48:33.481127+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 07:33 UTC  
+**Last Updated:** December 23, 2025 at 07:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,592.91
+### $87,535.25
 
 ---
 
@@ -101,7 +101,7 @@ bitvoin
 
 I feel like a lot of people on this sub start to lose hope on Bitcoin. This is just a dip, take this opportunity to buy more and DCA. HODL!
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 **[Show me the incentives](https://www.reddit.com/r/Bitcoin/comments/1pt7dzs/show_me_the_incentives/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ I feel like a lot of people on this sub start to lose hope on Bitcoin. This is j
 
 Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
-11h ago
+12h ago
 
 ---
 
@@ -133,13 +133,13 @@ Sauce: https://en.macromicro.me/charts/29045/bitcoin-exchange-balance-total
 
 **[2024 vs. 2025 😅](https://www.reddit.com/r/Bitcoin/comments/1pt11n5/2024_vs_2025/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Don’t buy now. Wait till it hits $99K. then FOMO in 🤡](https://www.reddit.com/r/Bitcoin/comments/1psyiri/dont_buy_now_wait_till_it_hits_99k_then_fomo_in/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -159,13 +159,13 @@ Bloomberg.com • 9h ago
 
 Michael Saylor’s Bitcoin (BTC) treasury company, Strategy (Nasdaq: MSTR), increased its U.S. Dollar Reserve by $747.8 million last week. The company used the proceeds from the sale of its MSTR common stock during the period to fund the cash raise. With the latest accumulation, Strategy's ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
 **[Bitcoin Fades After Strategy Sells Stock To Brace For Winter](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -209,7 +209,7 @@ WCVB • 5h ago
 
 A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
 
-Al Jazeera • 14h ago
+Al Jazeera • 15h ago
 
 ---
 
@@ -217,7 +217,7 @@ Al Jazeera • 14h ago
 
 Pubkey wants to “soften” Bitcoin’s rough public image in DC.
 
-The Verge • 11h ago
+The Verge • 12h ago
 
 ---
 
@@ -281,7 +281,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 31m ago
+⬆️ 1 • 💬 0 • 46m ago
 
 ---
 
@@ -375,7 +375,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 136 • ⏱️ 10:16 • 7h ago
+👁️ 22K • 👍 2K • 💬 136 • ⏱️ 10:16 • 8h ago
 
 ---
 

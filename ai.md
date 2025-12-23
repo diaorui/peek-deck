@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T07:33:25.829605+00:00'
+updated: '2025-12-23T07:48:33.472651+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 07:33 UTC  
+**Last Updated:** December 23, 2025 at 07:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Uh oh…
 
-🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 8h ago
+🔗 [GamesRadar+](https://www.gamesradar.com/games/steam-games-that-openly-use-generative-ai-earned-usd660-million-this-year-including-call-of-duty-black-ops-6-stellaris-and-more-as-studios-continue-to-rely-on-the-technology/) • 9h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI has added a year-end recap feature to ChatGPT that summarizes how users i
 
 OpenAI says AI browsers may always be vulnerable to prompt injection attacks.[1] AI has become the norm for students. Teachers are playing catch-up.[2] Google DeepMind Researchers Release Gemma Scope 2 as a Full Stack Interpretability Suite for Gemma 3 Models.[3] OpenAI introduces evaluations for chain-of-thought monitorability and studies how it scales with test-time compute, reinforcement learning, and pretraining.[4] Sources: [1] https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/ [2] https://www.nbcnews.com/tech/tech-news/ai-school-teacher-student-train-chatgpt-rcna248726 [3] https://www.marktechpost.com/2025/12/22/google-deepmind-researchers-release-gemma-scope-2-as-a-full-stack-interpretability-suite-for-gemma-3-models/ [4] https://openai.com/index/evaluating-chain-of-thought-monitorability/
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Critics are judging models trained on last-gen hardware. There's a 6x wave of co
 
 Game called "Humanize Robotics". I’m building a community of people like me - people who love artificial intelligence and playing games. That’s actually why I decided to make this kind of game 🙂 Classic reinforcement learning with lovely PPO
 
-11h ago
+12h ago
 
 ---
 
@@ -157,7 +157,7 @@ Financial Times • 6h ago
 
 Yoshua Bengio, one of the "AI godfathers," said AI technology has a sycophancy problem, so he lies to chatbots to get better responses.
 
-Business Insider • 26m ago
+Business Insider • 41m ago
 
 ---
 
@@ -165,7 +165,7 @@ Business Insider • 26m ago
 
 A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
 
-ABC News • 23h ago
+ABC News • 1d ago
 
 ---
 
@@ -486,7 +486,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 362 • 48m ago
+⬇️ 0 • ❤️ 362 • 1h ago
 
 ---
 
@@ -617,7 +617,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 A framework for Scientific General Intelligence (SGI) is presented, evaluated using SGI-Bench, and improved with Test-Time Reinforcement Learning, highlighting gaps in existing models' scientific capabilities.
 
-▲ 87 • 💬 6 • ⭐ 56 • 4d ago
+▲ 87 • 💬 6 • ⭐ 56 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16969) • [💻 code](https://github.com/InternScience/SGI-Bench) • [🔗 project](https://internscience.github.io/SGI-Page/)
 
@@ -667,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 5.8k • 🔱 641 • 35m ago
+⭐ 5.8k • 🔱 641 • 50m ago
 
 ---
 
@@ -677,7 +677,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.4k • 🔱 181 • 54m ago
+⭐ 2.4k • 🔱 181 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 186 • 7h ago
+⭐ 1.1k • 🔱 186 • 8h ago
 
 ---
 
@@ -727,7 +727,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 956 • 🔱 87 • 4h ago
+⭐ 956 • 🔱 87 • 5h ago
 
 ---
 
@@ -737,7 +737,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 935 • 🔱 90 • 20h ago
+⭐ 935 • 🔱 90 • 21h ago
 
 ---
 

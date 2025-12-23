@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-23T07:33:25.843967+00:00'
+updated: '2025-12-23T07:48:33.487219+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 23, 2025 at 07:33 UTC  
+**Last Updated:** December 23, 2025 at 07:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -154,7 +154,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 2d ago
 
 BlackRock deposits $182 million worth of Bitcoin and $91 million in Ethereum into Coinbase as Bitcoin surpassed $90,000.
 
-Crypto Briefing • 18h ago
+Crypto Briefing • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ Crypto Briefing • 18h ago
 
 DTCC’s 2026 pilot and JPMorgan’s MONY fund show how tokenized securities and on-chain cash could meet on Ethereum, and who gets access first.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -298,7 +298,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 468 • 👍 36 • 💬 41 • ⏱️ 5:02 • 12h ago
+👁️ 468 • 👍 36 • 💬 41 • ⏱️ 5:02 • 13h ago
 
 ---
 
