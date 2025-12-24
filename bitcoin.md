@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T07:59:15.598439+00:00'
+updated: '2025-12-24T08:40:30.566493+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 07:59 UTC  
+**Last Updated:** December 24, 2025 at 08:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,150.00
+### $86,901.34
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.5%  
-**7d:** +2.3%  
-**30d:** -0.4%  
-**90d:** -20.5%  
-**1y:** -12.1%  
+**7d:** +1.8%  
+**30d:** -0.9%  
+**90d:** -20.9%  
+**1y:** -12.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1735.71B
+**Market Cap:** $1732.51B
 Rank #1
 
-**Circulating Supply:** 19,966,328 BTC
+**Circulating Supply:** 19,966,340 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-31.2%
 
 **All-Time Low:** $67.81
-+128105.3%
++127881.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-2h ago
+3h ago
 
 ---
 
-**[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-8h ago
+3h ago
 
 ---
 
@@ -93,21 +93,13 @@ Rank #1
 
 SLAYER RIDING THE BEAR #BITCOIN
 
-5h ago
+6h ago
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
+**[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-2h ago
-
----
-
-**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
-
-Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
-
-14h ago
+8h ago
 
 ---
 
@@ -121,7 +113,23 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
 
-2h ago
+3h ago
+
+---
+
+**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
+
+Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
+
+15h ago
+
+---
+
+**[Is never too late to Accumulate Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptwisd/is_never_too_late_to_accumulate_bitcoin/)**
+
+This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
+
+17h ago
 
 ---
 
@@ -131,19 +139,11 @@ Hi I am new to bitcoin, but so far only the exchange is making money. There are 
 
 ---
 
-**[Is never too late to Accumulate Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptwisd/is_never_too_late_to_accumulate_bitcoin/)**
+**[How diversified should I be](https://www.reddit.com/r/Bitcoin/comments/1pu8k2k/how_diversified_should_i_be/)**
 
-This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
+Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
-16h ago
-
----
-
-**[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
-
-The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
-
-17h ago
+9h ago
 
 ---
 
@@ -155,7 +155,7 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -163,23 +163,15 @@ The Guardian • 11h ago
 
 Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
-**[VanEck Manager Predicts Strong Bitcoin Comeback in 2026 Despite Its Current ‘Lag’](https://finance.yahoo.com/news/vaneck-manager-predicts-strong-bitcoin-053754695.html)**
+**[Bitcoin’s $100K Milestone Still Unreached When Inflation Is Considered: Galaxy Research](https://finance.yahoo.com/news/bitcoin-100k-milestone-still-unreached-064746521.html)**
 
-David Schassler, head of multi-asset solutions at VanEck, presented a constructive outlook on Bitcoin, projecting that the largest crypto would recoup next year despite its current “lag.”“Bitcoin is lagging the Nasdaq 100 Index by roughly 50% year-to-date, and that dislocation is setting it up to be a top performer in ...
+Bitcoin may have printed new highs in nominal terms, but it has yet to truly clear the $100,000 mark once inflation is taken into account, according to Galaxy Research. Key Takeaways: Bitcoin has yet to break $100,000 when adjusted for inflation, Galaxy Research says. Dollar purchasing power has fallen roughly ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
-
-Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,21 +179,13 @@ Bloomberg.com • 1d ago
 
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 10h ago
-
----
-
-**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
-
-Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
-
-Bitcoin Magazine • 14h ago
+Investopedia • 11h ago
 
 ---
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -213,6 +197,20 @@ VanEck • 1d ago
 
 ---
 
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+
+The Block • 16h ago
+
+---
+
+**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
+
+Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
 
 Waltham and Gloucester have banned the machines
@@ -221,9 +219,9 @@ WCVB • 1d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfpxcqfJJswCgWoiQUrhv6Y4WHF0_zx1xl0KUCmI9OVX4aFbVUxEKTF&gaa_ts=694b9a9f&gaa_sig=_pzZz9w16wgtAcidp8W6cd1KqANmdDaWZloU3veaWYkLdR6NPosMhWvdIR1kvfqUcQKwfd57Nqw891klOEmHFA%3D%3D)**
+**[‘The Biggest Merger In History’—U.S. Treasury Secretary Reveals Price Game-Changer As Wall Street Leans Into Bitcoin And Crypto](https://www.forbes.com/sites/digital-assets/2025/12/23/the-biggest-merger-in-history-us-treasury-secretary-reveals-price-game-changer-as-wall-street-leans-into-bitcoin-and-crypto/)**
 
-The Wall Street Journal • 4h ago
+Forbes • 19h ago
 
 ---
 
@@ -257,7 +255,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -281,7 +279,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 7h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 8h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -309,27 +307,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 49K • 👍 2K • 💬 284 • ⏱️ 20:46 • 13h ago
-
----
-
-**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
-
-Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
-
-📺 CNBC Television
-
-👁️ 23K • 👍 311 • 💬 166 • ⏱️ 5:23 • 17h ago
-
----
-
-**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
-
-Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
-
-📺 Swan Bitcoin
-
-👁️ 17K • 👍 1K • 💬 108 • ⏱️ 20:00 • 9h ago
+👁️ 54K • 👍 3K • 💬 297 • ⏱️ 20:46 • 14h ago
 
 ---
 
@@ -339,7 +317,27 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 95 • ⏱️ 13:26 • 9h ago
+👁️ 18K • 👍 1K • 💬 105 • ⏱️ 13:26 • 10h ago
+
+---
+
+**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
+
+Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
+
+📺 CNBC Television
+
+👁️ 24K • 👍 316 • 💬 174 • ⏱️ 5:23 • 18h ago
+
+---
+
+**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
+
+Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
+
+📺 Swan Bitcoin
+
+👁️ 20K • 👍 1K • 💬 115 • ⏱️ 20:00 • 10h ago
 
 ---
 
@@ -349,37 +347,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 2K • 💬 352 • ⏱️ 10:51 • 8h ago
-
----
-
-**[Why Arthur Hayes Says Bitcoin Will Reach $750K by 2027](https://www.youtube.com/watch?v=w5UyqDjNm9E)**
-
-BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk's 50 Most Influential People. He joins ...
-
-📺 CoinDesk
-
-👁️ 3K • 👍 113 • 💬 22 • ⏱️ 17:16 • 16h ago
-
----
-
-**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
-
-CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
-
-📺 CNBC Television
-
-👁️ 6K • 👍 91 • 💬 56 • ⏱️ 3:19 • 1d ago
-
----
-
-**[BTC Christmas:  Bitcoin is in Trouble - MSTR is in Serious Trouble - Altcoins are in Dire Straights](https://www.youtube.com/watch?v=BUrquhLZQYU)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 3K • 👍 342 • ⏱️ 30:53 • 10h ago
+👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 9h ago
 
 ---
 
@@ -399,7 +367,37 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 206 • ⏱️ 10:16 • 1d ago
+👁️ 51K • 👍 3K • 💬 206 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[BTC Christmas:  Bitcoin is in Trouble - MSTR is in Serious Trouble - Altcoins are in Dire Straights](https://www.youtube.com/watch?v=BUrquhLZQYU)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 4K • 👍 360 • ⏱️ 30:53 • 11h ago
+
+---
+
+**[Why Arthur Hayes Says Bitcoin Will Reach $750K by 2027](https://www.youtube.com/watch?v=w5UyqDjNm9E)**
+
+BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk's 50 Most Influential People. He joins ...
+
+📺 CoinDesk
+
+👁️ 4K • 👍 118 • 💬 25 • ⏱️ 17:16 • 16h ago
+
+---
+
+**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
+
+CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
+
+📺 CNBC Television
+
+👁️ 6K • 👍 91 • 💬 56 • ⏱️ 3:19 • 1d ago
 
 ---
 
