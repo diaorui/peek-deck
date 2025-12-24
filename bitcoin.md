@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T22:47:04.373580+00:00'
+updated: '2025-12-24T22:58:07.766717+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 22:47 UTC  
+**Last Updated:** December 24, 2025 at 22:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Motley Fool • 3h ago
 
 Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 92 • 💬 70 • ⏱️ 1:12 • 1h ago
+👁️ 2K • 👍 92 • 💬 70 • ⏱️ 1:12 • 2h ago
 
 ---
 
@@ -367,7 +367,7 @@ Happy Holidays! Into The Cryptoverse Premium SALE (ENDS EOY!): https://intothecr
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 3K • 💬 245 • ⏱️ 21:06 • 19h ago
+👁️ 56K • 👍 3K • 💬 245 • ⏱️ 21:06 • 20h ago
 
 ---
 

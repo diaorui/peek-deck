@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T22:47:04.382918+00:00'
+updated: '2025-12-24T22:58:07.775947+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 22:47 UTC  
+**Last Updated:** December 24, 2025 at 22:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Torque = k × current Heat = current² × R At stall or high-load, adjusting pos
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -90,7 +90,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 2h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 1d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 8h ago
+New Atlas • 9h ago
 
 ---
 

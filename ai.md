@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T22:47:04.364888+00:00'
+updated: '2025-12-24T22:58:07.758212+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 22:47 UTC  
+**Last Updated:** December 24, 2025 at 22:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 13h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 14h ago
 
 ---
 
@@ -323,7 +323,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -339,7 +339,7 @@ Yahoo Finance • 1h ago
 
 With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
 
-TechCrunch • 43m ago
+TechCrunch • 54m ago
 
 ---
 
@@ -375,7 +375,7 @@ blog.google • 1d ago
 
 2025 has seen an explosion in AI-generated slop. NPR's Geoff Brumfiel and Shannon Bond discuss how AI-generated videos are shaping reality online.
 
-NPR • 24m ago
+NPR • 35m ago
 
 ---
 
@@ -449,7 +449,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 157 • 💬 65 • 4h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 157 • 💬 65 • 5h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -872,7 +872,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 198 • 49m ago
+⭐ 2.8k • 🔱 198 • 1h ago
 
 ---
 
@@ -892,7 +892,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 211 • 16h ago
+⭐ 1.3k • 🔱 211 • 17h ago
 
 ---
 
