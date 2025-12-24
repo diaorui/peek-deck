@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T19:56:00.787270+00:00'
+updated: '2025-12-24T20:25:54.370254+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 19:56 UTC  
+**Last Updated:** December 24, 2025 at 20:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.7%  
-**30d:** -0.0%  
-**90d:** -20.2%  
-**1y:** -11.8%  
+**24h:** -0.1%  
+**7d:** +2.8%  
+**30d:** +0.2%  
+**90d:** -20.1%  
+**1y:** -11.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.87B
+**Market Cap:** $1748.48B
 Rank #1
 
 **Circulating Supply:** 19,966,587 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.5%
 
 **All-Time Low:** $67.81
-+128919.3%
++129047.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -153,7 +153,7 @@ CoinDesk • 7h ago
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 26m ago
+The Motley Fool • 55m ago
 
 ---
 
@@ -199,7 +199,7 @@ KRON4 • 13h ago
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
@@ -233,7 +233,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 4 • 💬 2 • 5h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 6h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -263,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 48 • 💬 30 • 3h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 56 • 💬 30 • 4h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -303,7 +303,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 199 • ⏱️ 13:26 • 21h ago
+👁️ 24K • 👍 1K • 💬 199 • ⏱️ 13:26 • 22h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 20h ago
+👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 20:00 • 21h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 20:00 • 22h ago
 
 ---
 
@@ -383,7 +383,7 @@ BULLMANIA WAITLIST: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): h
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 1K • 💬 130 • ⏱️ 20:24 • 8h ago
+👁️ 13K • 👍 1K • 💬 130 • ⏱️ 20:24 • 9h ago
 
 ---
 

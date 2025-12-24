@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T19:56:00.778669+00:00'
+updated: '2025-12-24T20:25:54.361710+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 19:56 UTC  
+**Last Updated:** December 24, 2025 at 20:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 19h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 20h ago
 
 ---
 
@@ -67,19 +67,19 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 ---
 
-**[The AI feels random stopped being a mystery once I wrote a tiny eval](https://www.reddit.com/r/artificial/comments/1puuzsb/the_ai_feels_random_stopped_being_a_mystery_once/)**
-
-Before, when someone said it’s inconsistent, I couldn’t act on it. It wasn’t one bug, it was a pattern: sometimes it ignored details, sometimes it sounded confident but wrong, sometimes it broke format. Hard to pin down, easy to dismiss. After, I wrote down the top must-not-fail moments from real usage and turned them into a small set of repeatable checks I run after changes. Impact: the system still isn’t perfect, but now I can catch the worst regressions early and improve the same weak spots over time instead of guessing. What part of eval still feels the most subjective to you?
-
-41m ago
-
----
-
 **[130 AI apps for visual creation in 11 categories](https://www.reddit.com/r/artificial/comments/1pusg4k/130_ai_apps_for_visual_creation_in_11_categories/)**
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 2h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 3h ago
+
+---
+
+**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
+
+Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
+
+23h ago
 
 ---
 
@@ -291,14 +291,6 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 ---
 
-**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
-
-Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
-
-22h ago
-
----
-
 **[Can AI ever be funny? Some comedians embrace AI tools but they're still running the show](https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/)**
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
@@ -315,13 +307,21 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 ---
 
+**[One-Minute Daily AI News 12/23/2025](https://www.reddit.com/r/artificial/comments/1pufppb/oneminute_daily_ai_news_12232025/)**
+
+Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
+
+14h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -335,7 +335,7 @@ Pittsburgh Post-Gazette • 1h ago
 
 **[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
 
-France 24 • 9h ago
+France 24 • 10h ago
 
 ---
 
@@ -343,7 +343,7 @@ France 24 • 9h ago
 
 Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -351,7 +351,7 @@ CNBC • 7h ago
 
 What once required teams of engineers can now be built in minutes.
 
-USA Today • 29m ago
+USA Today • 58m ago
 
 ---
 
@@ -367,7 +367,7 @@ Yahoo Finance • 1h ago
 
 : AI goes off the rails … because of shoddy guardrails
 
-theregister.com • 1h ago
+theregister.com • 2h ago
 
 ---
 
@@ -383,7 +383,7 @@ blog.google • 1d ago
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-Los Angeles Times • 8h ago
+Los Angeles Times • 9h ago
 
 ---
 
@@ -419,7 +419,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 239 • 💬 239 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 239 • 💬 241 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -433,7 +433,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 192 • 💬 218 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 193 • 💬 218 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -447,7 +447,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 72 • 💬 33 • 2h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 88 • 💬 43 • 2h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -493,7 +493,7 @@ Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 115 • 💬 11 • ⏱️ 8:29 • 10h ago
+👁️ 4K • 👍 115 • 💬 11 • ⏱️ 8:29 • 11h ago
 
 ---
 
@@ -503,7 +503,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 9K • 👍 169 • 💬 38 • ⏱️ 7:50 • 14h ago
+👁️ 9K • 👍 169 • 💬 38 • ⏱️ 7:50 • 15h ago
 
 ---
 
@@ -573,7 +573,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 19K • 👍 953 • 💬 504 • ⏱️ 11:28 • 19h ago
+👁️ 19K • 👍 953 • 💬 504 • ⏱️ 11:28 • 20h ago
 
 ---
 
@@ -863,7 +863,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 415 • 2h ago
+⭐ 3.3k • 🔱 415 • 3h ago
 
 ---
 
@@ -873,7 +873,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 196 • 48m ago
+⭐ 2.8k • 🔱 196 • 1h ago
 
 ---
 
