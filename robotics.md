@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T19:44:38.554288+00:00'
+updated: '2025-12-24T19:56:00.796547+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 19:44 UTC  
+**Last Updated:** December 24, 2025 at 19:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-5h ago
+6h ago
 
 ---
 
@@ -44,21 +44,13 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-49m ago
+1h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-10h ago
-
----
-
-**[Disney: Olaf: Bringing an Animated Character to Life in the Physical World (Demo - Paper)](https://www.reddit.com/r/robotics/comments/1pts3ka/disney_olaf_bringing_an_animated_character_to/)**
-
-Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
-
-1d ago
+11h ago
 
 ---
 
@@ -67,6 +59,14 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
 4h ago
+
+---
+
+**[Disney: Olaf: Bringing an Animated Character to Life in the Physical World (Demo - Paper)](https://www.reddit.com/r/robotics/comments/1pts3ka/disney_olaf_bringing_an_animated_character_to/)**
+
+Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
+
+1d ago
 
 ---
 
@@ -108,11 +108,11 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 ## Google News: "robotics"
 
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
-Interesting Engineering • 21h ago
+Earth.com • 4h ago
 
 ---
 
@@ -124,11 +124,11 @@ El Adelantado • 2d ago
 
 ---
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-Earth.com • 4h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -144,15 +144,7 @@ hyundai.com • 2d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 5h ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 2d ago
+New Atlas • 6h ago
 
 ---
 
@@ -179,6 +171,14 @@ The Robot Report • 23h ago
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
 Phys.org • 1d ago
+
+---
+
+**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
+
+Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -232,7 +232,7 @@ Join us for a festive, fun-filled ARPO Christmas livestream packed with holiday 
 
 📺 ARPO The Robot
 
-👁️ 14K • 👍 27 • 8h ago
+👁️ 14K • 👍 27 • 9h ago
 
 ---
 

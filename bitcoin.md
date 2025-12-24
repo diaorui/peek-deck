@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T19:44:38.545008+00:00'
+updated: '2025-12-24T19:56:00.787270+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 19:44 UTC  
+**Last Updated:** December 24, 2025 at 19:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +2.6%  
+**24h:** +0.0%  
+**7d:** +2.7%  
 **30d:** -0.0%  
 **90d:** -20.2%  
-**1y:** -11.9%  
+**1y:** -11.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.61B
+**Market Cap:** $1746.87B
 Rank #1
 
-**Circulating Supply:** 19,966,559 BTC
+**Circulating Supply:** 19,966,587 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128708.4%
++128919.3%
 
 ---
 
@@ -89,9 +89,9 @@ Rank #1
 
 ---
 
-**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-14h ago
+1h ago
 
 ---
 
@@ -103,15 +103,15 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 ---
 
-**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
+**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-6h ago
+14h ago
 
 ---
 
-**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
+**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-55m ago
+7h ago
 
 ---
 
@@ -133,11 +133,9 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 ---
 
-**[Should i invest all my money to BTC](https://www.reddit.com/r/Bitcoin/comments/1puk3hg/should_i_invest_all_my_money_to_btc/)**
+**[Home](https://www.reddit.com/r/Bitcoin/comments/1puqh4x/home/)**
 
-Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
-
-9h ago
+4h ago
 
 ---
 
@@ -149,7 +147,7 @@ Hello, I’m a high school student and I’m thinking about investing my money i
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -159,31 +157,41 @@ The Block • 10h ago
 
 ---
 
-**[Bitcoin Lags Stocks and Gold as Year-End Rally Bypasses Crypto](https://finance.yahoo.com/news/bitcoin-lags-stocks-gold-end-182154682.html)**
+**[BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025](https://finance.yahoo.com/news/blackrock-names-spot-bitcoin-etf-080029020.html)**
 
-Bitcoin trades near $87,370, stuck in a tight range as equities hit records and gold climbs to all-time highs.
+BlackRock has placed its spot Bitcoin exchange-traded fund among its three biggest investment themes for 2025, ranking the product alongside Treasury bills and US mega-cap technology stocks. Key Takeaways: BlackRock named its spot Bitcoin ETF a top 2025 investment theme alongside Treasurys and big tech. IBIT attracted over $25 billion ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqcFbfmGeLirJRS4Byb2GuVlh7otm8mwPDq-GjBbwMclXGKhR3UUKuIO&gaa_ts=694c4093&gaa_sig=DZJxRnyafw5JnlLxrqBE1jtY4NpJ2Z8BidGnNLV5g66mJPY7V9QcvLh6f7VGtoCh-W5tnq6HDWaZLDosTucWoQ%3D%3D)**
-
-Barron's • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
 
-A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-CoinDesk • 9h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
+
+Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+
+Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
+
+The Motley Fool • 26m ago
 
 ---
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 12h ago
+KRON4 • 13h ago
 
 ---
 
@@ -192,14 +200,6 @@ KRON4 • 12h ago
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
 The Guardian • 23h ago
-
----
-
-**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
-
-Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
-
-Bitcoin Magazine • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ Inquirer.com • 1d ago
 
 Galaxy Research head Alex Thorn said bitcoin’s October peak above $126,000 equates to $99,848 in 2020 dollars after adjusting for inflation.
 
-Bitbo • 7h ago
+Bitbo • 8h ago
 
 ---
 
@@ -263,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 42 • 💬 24 • 3h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 48 • 💬 30 • 3h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 

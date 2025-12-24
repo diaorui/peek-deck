@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T19:44:38.536552+00:00'
+updated: '2025-12-24T19:56:00.778669+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 19:44 UTC  
+**Last Updated:** December 24, 2025 at 19:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 10h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 11h ago
 
 ---
 
@@ -71,7 +71,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Before, when someone said it’s inconsistent, I couldn’t act on it. It wasn’t one bug, it was a pattern: sometimes it ignored details, sometimes it sounded confident but wrong, sometimes it broke format. Hard to pin down, easy to dismiss. After, I wrote down the top must-not-fail moments from real usage and turned them into a small set of repeatable checks I run after changes. Impact: the system still isn’t perfect, but now I can catch the worst regressions early and improve the same weak spots over time instead of guessing. What part of eval still feels the most subjective to you?
 
-30m ago
+41m ago
 
 ---
 
@@ -287,7 +287,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 2h ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 3h ago
 
 ---
 
@@ -347,9 +347,11 @@ CNBC • 7h ago
 
 ---
 
-**[Watch AI Demand Top of Mind for PC, Hardware Giants in 2026](https://www.bloomberg.com/news/videos/2025-12-24/ai-demand-top-of-mind-for-pc-hardware-giants-in-2026-video)**
+**[Famous AI Is Opening the Door to Instant App Creation](https://www.usatoday.com/story/special/contributor-content/2025/12/24/famous-ai-is-opening-the-door-to-instant-app-creation/87910055007/)**
 
-Bloomberg.com • 1h ago
+What once required teams of engineers can now be built in minutes.
+
+USA Today • 29m ago
 
 ---
 
@@ -361,6 +363,14 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Pen testers accused of 'blackmail' over Eurostar AI flaws](https://www.theregister.com/2025/12/24/pentesters_reported_eurostar_chatbot_flaws/)**
+
+: AI goes off the rails … because of shoddy guardrails
+
+theregister.com • 1h ago
+
+---
+
 **[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
@@ -369,25 +379,19 @@ blog.google • 1d ago
 
 ---
 
-**[Google One's AI Pro Plan With 2TB Storage Is Now Over 50% Off](https://www.pcmag.com/news/google-ones-ai-pro-plan-with-2tb-storage-is-now-over-50-off)**
+**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
 
-Alongside ample storage for all your photos and files, the plan unlocks higher limits for both video and image generation tools.
+Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-PCMag • 8h ago
-
----
-
-**[Purdue trustee committee OKs Google partnership for AI for $35K](https://www.jconline.com/story/news/local/purdue/2025/12/24/purdue-trustee-committee-oks-google-partnership-for-ai-for-nearly-15k/87894228007/)**
-
-The trustees' finance committee approved a partnership with Google, setting up Purdue students and researchers to have top-shelf access to AI.
-
-Journal & Courier • 5h ago
+Los Angeles Times • 8h ago
 
 ---
 
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
 
-The Washington Post • 1d ago
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+Fortune • 1d ago
 
 ---
 
@@ -399,7 +403,7 @@ The Washington Post • 1d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 796 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 797 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -423,7 +427,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 216 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 217 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -443,7 +447,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 33 • 💬 20 • 1h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 72 • 💬 33 • 2h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -585,7 +589,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 766 • 1d ago
+⬇️ 2,719 • ❤️ 767 • 1d ago
 
 ---
 
@@ -669,7 +673,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 293 • 1d ago
+⬇️ 1,152 • ❤️ 294 • 1d ago
 
 ---
 
@@ -849,7 +853,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 695 • 16h ago
+⭐ 6.2k • 🔱 695 • 17h ago
 
 ---
 
@@ -869,7 +873,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 196 • 36m ago
+⭐ 2.8k • 🔱 196 • 48m ago
 
 ---
 
@@ -889,7 +893,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 211 • 13h ago
+⭐ 1.3k • 🔱 211 • 14h ago
 
 ---
 

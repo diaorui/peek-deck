@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T19:44:38.551016+00:00'
+updated: '2025-12-24T19:56:00.793285+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 19:44 UTC  
+**Last Updated:** December 24, 2025 at 19:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +4.3%  
-**30d:** -0.5%  
-**90d:** -26.9%  
-**1y:** -15.8%  
+**24h:** -0.8%  
+**7d:** +4.4%  
+**30d:** -0.4%  
+**90d:** -26.8%  
+**1y:** -15.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.90B
+**Market Cap:** $355.29B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.5%
 
 **All-Time Low:** $0.43
-+678256.2%
++679764.4%
 
 ---
 
@@ -76,17 +76,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 5h ago
-
----
-
 **[Could a crypto / defi "antivirus" really work? An interview with the co-founder of Zircuit, an Eth L2](https://www.reddit.com/r/ethereum/comments/1purw1r/could_a_crypto_defi_antivirus_really_work_an/)**
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
 🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 2h ago
+
+---
+
+**[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 5h ago
 
 ---
 
