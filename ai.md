@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T21:37:14.692342+00:00'
+updated: '2025-12-24T21:48:38.289234+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 21:37 UTC  
+**Last Updated:** December 24, 2025 at 21:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-29m ago
+41m ago
 
 ---
 
@@ -295,7 +295,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 4h ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 5h ago
 
 ---
 
@@ -303,7 +303,7 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 4h ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 5h ago
 
 ---
 
@@ -455,7 +455,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 31 • 💬 6 • 34m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 31 • 💬 6 • 46m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -483,7 +483,7 @@ AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 100K • 👍 7K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 116K • 👍 8K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -493,7 +493,7 @@ Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 115 • 💬 11 • ⏱️ 8:29 • 12h ago
+👁️ 4K • 👍 124 • 💬 14 • ⏱️ 8:29 • 12h ago
 
 ---
 
@@ -503,27 +503,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 9K • 👍 169 • 💬 38 • ⏱️ 7:50 • 16h ago
-
----
-
-**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
-
-Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
-
-📺 Greg Isenberg
-
-👁️ 17K • 👍 470 • 💬 60 • ⏱️ 18:48 • 1d ago
-
----
-
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
-
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
-
-📺 AI Explained
-
-👁️ 52K • 👍 3K • 💬 347 • ⏱️ 33:27 • 1d ago
+👁️ 10K • 👍 178 • 💬 37 • ⏱️ 7:50 • 16h ago
 
 ---
 
@@ -533,17 +513,17 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 61K • 👍 3K • 💬 314 • ⏱️ 30:43 • 18h ago
+👁️ 65K • 👍 3K • 💬 338 • ⏱️ 30:43 • 18h ago
 
 ---
 
-**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
+**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
 
-To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
+Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
 
-📺 How Money Works
+📺 Greg Isenberg
 
-👁️ 451K • 👍 15K • 💬 3K • ⏱️ 19:40 • 1d ago
+👁️ 17K • 👍 472 • 💬 61 • ⏱️ 18:48 • 1d ago
 
 ---
 
@@ -553,17 +533,17 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 226K • 👍 13K • 💬 2K • ⏱️ 21:43 • 1d ago
+👁️ 232K • 👍 13K • 💬 2K • ⏱️ 21:43 • 1d ago
 
 ---
 
-**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
+**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
 
-Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
+To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
 
-📺 Fox News
+📺 How Money Works
 
-👁️ 32K • 👍 364 • 💬 254 • ⏱️ 4:26 • 2d ago
+👁️ 461K • 👍 15K • 💬 3K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -573,7 +553,27 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 19K • 👍 953 • 💬 504 • ⏱️ 11:28 • 21h ago
+👁️ 20K • 👍 985 • 💬 528 • ⏱️ 11:28 • 21h ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 54K • 👍 3K • 💬 350 • ⏱️ 33:27 • 1d ago
+
+---
+
+**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
+
+Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
+
+📺 Fox News
+
+👁️ 32K • 👍 365 • 💬 255 • ⏱️ 4:26 • 2d ago
 
 ---
 
@@ -683,7 +683,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 279 • 5d ago
+⬇️ 0 • ❤️ 279 • 6d ago
 
 ---
 
@@ -893,7 +893,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 211 • 15h ago
+⭐ 1.3k • 🔱 211 • 16h ago
 
 ---
 

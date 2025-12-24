@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T21:37:14.710297+00:00'
+updated: '2025-12-24T21:48:38.307656+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 21:37 UTC  
+**Last Updated:** December 24, 2025 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 46m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 58m ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Minimal VL53L0X Time-of-Flight driver for bare-metal MCUs (feedback wanted)](https://www.reddit.com/r/robotics/comments/1purka8/minimal_vl53l0x_timeofflight_driver_for_baremetal/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -120,7 +120,7 @@ hyundai.com • 2d ago
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
-Earth.com • 5h ago
+Earth.com • 6h ago
 
 ---
 
@@ -192,7 +192,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 47K • 👍 813 • 💬 84 • ⏱️ 2:08:46 • 4d ago
+👁️ 48K • 👍 815 • 💬 84 • ⏱️ 2:08:46 • 4d ago
 
 ---
 
@@ -212,7 +212,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 31K • 👍 906 • 💬 248 • ⏱️ 11:02 • 1d ago
+👁️ 32K • 👍 926 • 💬 250 • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -222,17 +222,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 8K • 👍 177 • 💬 19 • ⏱️ 13:55 • 1d ago
+👁️ 10K • 👍 199 • 💬 22 • ⏱️ 13:55 • 1d ago
 
 ---
 
-**[🔴 ARPO The Robot&#39;s Messy Holiday Season: Christmas, Santa &amp; Holiday Fun! ❄️🎄 #christmas](https://www.youtube.com/watch?v=BYRQ1xSCsbE)**
+**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
 
-Join us for a festive, fun-filled ARPO Christmas livestream packed with holiday cheer, robot antics, and plenty of surprises!
+Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
 
-📺 ARPO The Robot
+📺 The Capital AI
 
-👁️ 14K • 👍 27 • 10h ago
+👁️ 159K • 👍 3K • 💬 608 • ⏱️ 2:23 • 4d ago
 
 ---
 
@@ -242,7 +242,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.2M • 👍 11K • 💬 671 • ⏱️ 2:43 • 6d ago
+👁️ 1.2M • 👍 11K • 💬 674 • ⏱️ 2:43 • 6d ago
 
 ---
 
@@ -252,7 +252,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 5K • 👍 258 • 💬 73 • ⏱️ 49:59 • 2d ago
+👁️ 5K • 👍 260 • 💬 74 • ⏱️ 49:59 • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 XRoboHub
 
-👁️ 213K • 👍 4K • 💬 497 • ⏱️ 0:51 • 4d ago
+👁️ 213K • 👍 4K • 💬 498 • ⏱️ 0:51 • 4d ago
 
 ---
 
@@ -274,13 +274,11 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 ---
 
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+**[Chinese robots perform at a concert 🤯](https://www.youtube.com/watch?v=i1AVS1Mh650)**
 
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+📺 Aevy TV
 
-📺 SocksReact
-
-👁️ 616K • 👍 11K • 💬 1K • ⏱️ 18:35 • 4d ago
+👁️ 155K • 👍 8K • 💬 341 • ⏱️ 1:18 • 4d ago
 
 ---
 

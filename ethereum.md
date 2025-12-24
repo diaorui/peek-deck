@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T21:37:14.707039+00:00'
+updated: '2025-12-24T21:48:38.304321+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 21:37 UTC  
+**Last Updated:** December 24, 2025 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +4.4%  
-**30d:** -0.4%  
-**90d:** -26.8%  
-**1y:** -15.7%  
+**24h:** -0.3%  
+**7d:** +4.6%  
+**30d:** -0.3%  
+**90d:** -26.7%  
+**1y:** -15.6%  
 
 ---
 
@@ -226,17 +226,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 157 • 💬 105 • ⏱️ 19:06 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 83 • 💬 6 • ⏱️ 3:51 • 7h ago
+👁️ 3K • 👍 198 • 💬 104 • ⏱️ 19:06 • 5h ago
 
 ---
 
@@ -246,7 +236,17 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 79 • 💬 25 • ⏱️ 13:41 • 9h ago
+👁️ 2K • 👍 84 • 💬 43 • ⏱️ 13:41 • 9h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 95 • 💬 6 • ⏱️ 3:51 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 210 • 👍 10 • 💬 27 • ⏱️ 5:15 • 7h ago
+👁️ 272 • 👍 10 • 💬 26 • ⏱️ 5:15 • 7h ago
 
 ---
 
@@ -266,17 +266,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 205 • 👍 8 • 💬 12 • ⏱️ 7:49 • 7h ago
-
----
-
-**[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 991 • 👍 38 • 💬 18 • ⏱️ 5:30 • 1d ago
+👁️ 228 • 👍 8 • 💬 8 • ⏱️ 7:49 • 7h ago
 
 ---
 
@@ -290,23 +280,23 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 ---
 
+**[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 997 • 👍 38 • 💬 17 • ⏱️ 5:30 • 1d ago
+
+---
+
 **[Kevin O’Leary Dumps Most Crypto, Bets on Bitcoin and Ethereum as Regulation Era Nears](https://www.youtube.com/watch?v=v5l12wU45qc)**
 
 Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while sticking with Bitcoin and Ethereum as he bets ...
 
 📺 What's Trending
 
-👁️ 528 • 👍 1 • ⏱️ 0:31 • 5h ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 22h ago
+👁️ 737 • 👍 2 • ⏱️ 0:31 • 5h ago
 
 ---
 
@@ -317,6 +307,16 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 📺 Wall Street Stockcast
 
 👁️ 2K • 👍 46 • 💬 46 • ⏱️ 7:32 • 2d ago
+
+---
+
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 565 • ⏱️ 10:51 • 22h ago
 
 ---
 
