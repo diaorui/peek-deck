@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T11:44:31.688197+00:00'
+updated: '2025-12-24T11:55:07.356273+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 11:44 UTC  
+**Last Updated:** December 24, 2025 at 11:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +2.4%  
-**30d:** -0.3%  
-**90d:** -20.4%  
-**1y:** -12.1%  
+**24h:** -0.9%  
+**7d:** +2.1%  
+**30d:** -0.5%  
+**90d:** -20.6%  
+**1y:** -12.3%  
 
 ---
 
@@ -111,7 +111,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investopedia • 1h ago
 
 Bitcoin dominance continues its relentless climb as markets consolidate into year-end, leaving altcoins trapped under heavy supply pressure and an unforgiving token unlock schedule.Wintermute’s latest market update confirms what many traders feared. Retail investors are rotating out of altcoins and back into major assets, signaling the end of the anticipated ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ Investor's Business Daily • 1d ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 4h ago
+KRON4 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 4K • 👍 122 • 💬 58 • ⏱️ 17:16 • 19h ago
+👁️ 4K • 👍 122 • 💬 58 • ⏱️ 17:16 • 20h ago
 
 ---
 

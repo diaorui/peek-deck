@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T11:44:31.694342+00:00'
+updated: '2025-12-24T11:55:07.362214+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 11:44 UTC  
+**Last Updated:** December 24, 2025 at 11:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
+**24h:** -1.0%  
 **7d:** +4.0%  
 **30d:** -0.9%  
 **90d:** -27.1%  
@@ -218,7 +218,7 @@ CryptoSlate • 20h ago
 
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-TipRanks • 19h ago
+TipRanks • 20h ago
 
 ---
 

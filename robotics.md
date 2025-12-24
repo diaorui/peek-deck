@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T11:44:31.697701+00:00'
+updated: '2025-12-24T11:55:07.365411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 11:44 UTC  
+**Last Updated:** December 24, 2025 at 11:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-23h ago
+1d ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-2h ago
+3h ago
 
 ---
 

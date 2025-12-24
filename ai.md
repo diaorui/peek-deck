@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T11:44:31.679390+00:00'
+updated: '2025-12-24T11:55:07.347924+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 11:44 UTC  
+**Last Updated:** December 24, 2025 at 11:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 17h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 18h ago
 
 ---
 
@@ -87,7 +87,7 @@ All of these game developers have used, or are still using, AI to accelerate pro
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 17h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 18h ago
 
 ---
 
@@ -145,13 +145,13 @@ The New York Times • 1h ago
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-Los Angeles Times • 44m ago
+Los Angeles Times • 55m ago
 
 ---
 
 **[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqdgpx02MBQS51q7np5JspgsVRdvOSUTfHmBbsAAviNeTq6rEj9afhjr&gaa_ts=694bd58c&gaa_sig=4isnlO4911WXc8wZ4zfmCh6-K5mWS9FyRWjLxElSPPHsFTx6u7x-sNoHbR4Nc1miX3i_04cdyuqi-9EYEm8pQQ%3D%3D)**
 
-The Wall Street Journal • 44m ago
+The Wall Street Journal • 55m ago
 
 ---
 
@@ -316,7 +316,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 392K • 👍 14K • 💬 3K • ⏱️ 19:40 • 21h ago
+👁️ 392K • 👍 14K • 💬 3K • ⏱️ 19:40 • 22h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 687 • 8h ago
+⭐ 6.1k • 🔱 687 • 9h ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 193 • 38m ago
+⭐ 2.6k • 🔱 193 • 49m ago
 
 ---
 
@@ -696,7 +696,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 203 • 5h ago
+⭐ 1.3k • 🔱 203 • 6h ago
 
 ---
 
