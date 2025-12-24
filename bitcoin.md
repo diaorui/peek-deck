@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T09:49:14.972116+00:00'
+updated: '2025-12-24T10:00:21.869604+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 09:49 UTC  
+**Last Updated:** December 24, 2025 at 10:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +1.7%  
-**30d:** -0.9%  
-**90d:** -20.9%  
-**1y:** -12.6%  
+**24h:** -1.1%  
+**7d:** +1.9%  
+**30d:** -0.7%  
+**90d:** -20.8%  
+**1y:** -12.5%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 V2
 
-1h ago
+2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
@@ -293,7 +293,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 105 • ⏱️ 13:26 • 11h ago
+👁️ 18K • 👍 1K • 💬 105 • ⏱️ 13:26 • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 4K • 👍 118 • 💬 25 • ⏱️ 17:16 • 17h ago
+👁️ 4K • 👍 118 • 💬 25 • ⏱️ 17:16 • 18h ago
 
 ---
 

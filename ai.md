@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T09:49:14.963792+00:00'
+updated: '2025-12-24T10:00:21.861227+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 09:49 UTC  
+**Last Updated:** December 24, 2025 at 10:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 15h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 16h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 53m ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 1h ago
 
 ---
 
@@ -95,7 +95,7 @@ Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 15h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 16h ago
 
 ---
 
@@ -139,13 +139,13 @@ CNBC • 7h ago
 
 More than a dozen finance chiefs predict how AI will continue to shape finance.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
 **[Italy Watchdog Orders Meta to Suspend Exclusion of Rival AI Chatbots From WhatsApp](https://www.wsj.com/tech/italy-watchdog-orders-meta-to-suspend-exclusion-of-rival-ai-chatbots-from-whatsapp-9f1aac96?gaa_at=eafs&gaa_n=AWEtsqd1smsrwf1-BGBtF6hbgFdDLaKBME7fr3R0Ienhr17XWfy3fkuGWmQP&gaa_ts=694bb6d2&gaa_sig=OYmEIOQ0VgWjDzfEfq9GckfSnKvOE2Szvbg1iBKugMxR1OoW_qePV-4dkDz2L7DZEJeUvsnzvIrRqhSJ4SdRUA%3D%3D)**
 
-The Wall Street Journal • 55m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 1h ago
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 15h ago
+The Washington Post • 16h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Guardian • 16h ago
 
 Context matters as much as content in determining whether text is machine generated or not
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
@@ -304,7 +304,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 378K • 👍 14K • 💬 3K • ⏱️ 19:40 • 19h ago
+👁️ 378K • 👍 14K • 💬 3K • ⏱️ 19:40 • 20h ago
 
 ---
 
@@ -524,7 +524,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 58 • 💬 2 • ⭐ 95 • 5d ago
+▲ 58 • 💬 2 • ⭐ 118 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
@@ -551,18 +551,6 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 ▲ 4 • 💬 0 • ⭐ 61,445 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
-**[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693)**
-
-*Weichen Fan, Haiwen Diao, Quan Wang et al. (5 authors)*
-
-Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
-
-▲ 55 • 💬 3 • ⭐ 56 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
 
 ---
 
@@ -604,6 +592,18 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 209 • 💬 5 • ⭐ 7,744 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693)**
+
+*Weichen Fan, Haiwen Diao, Quan Wang et al. (5 authors)*
+
+Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
+
+▲ 56 • 💬 3 • ⭐ 66 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 686 • 6h ago
+⭐ 6.1k • 🔱 686 • 7h ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 407 • 3h ago
+⭐ 3.2k • 🔱 412 • 3h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 192 • 1h ago
+⭐ 2.6k • 🔱 193 • 4m ago
 
 ---
 
@@ -684,7 +684,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 375 • 18d ago
+⭐ 2.0k • 🔱 376 • 18d ago
 
 ---
 
@@ -694,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 202 • 4h ago
+⭐ 1.3k • 🔱 202 • 4h ago
 
 ---
 
@@ -704,7 +704,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 105 • 22h ago
+⭐ 1.1k • 🔱 107 • 22h ago
 
 ---
 
@@ -714,7 +714,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.1k • 🔱 96 • 1d ago
+⭐ 1.1k • 🔱 97 • 1d ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 848 • 🔱 123 • 6d ago
+⭐ 854 • 🔱 124 • 6d ago
 
 ---
 
@@ -734,7 +734,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 811 • 🔱 66 • 21d ago
+⭐ 814 • 🔱 66 • 21d ago
 
 ---
 
