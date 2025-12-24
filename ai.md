@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T17:47:16.742793+00:00'
+updated: '2025-12-24T17:57:44.608799+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 17:47 UTC  
+**Last Updated:** December 24, 2025 at 17:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 8h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 We Let AI Run a Vending Machine. It Lost All the Money (Twice) - WSJ https://www.youtube.com/watch?v=SpPhm7S9vsQ Vs. Claude ran a business in our office - Anthropic https://www.youtube.com/watch?v=5KTHvKCrQ00
 
-58m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 23h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 1d ago
 
 ---
 
@@ -79,7 +79,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 25m ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 36m ago
 
 ---
 
@@ -311,7 +311,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 23h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 1d ago
 
 ---
 
@@ -349,7 +349,7 @@ blog.google • 1d ago
 
 Is there a way to revive the nostalgia of Vine without any of the modern AI slop? This tech expert trying to make that dream a reality.
 
-Rolling Stone • 47m ago
+Rolling Stone • 57m ago
 
 ---
 
@@ -373,7 +373,7 @@ Financial Times • 12h ago
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -435,7 +435,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 **[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://news.ycombinator.com/item?id=46356603)**
 
-⬆️ 94 • 💬 131 • 1d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+⬆️ 94 • 💬 131 • 2d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
 
 ---
 
@@ -849,7 +849,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 695 • 14h ago
+⭐ 6.2k • 🔱 695 • 15h ago
 
 ---
 
@@ -859,7 +859,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 416 • 36m ago
+⭐ 3.3k • 🔱 416 • 47m ago
 
 ---
 
@@ -869,7 +869,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 195 • 23m ago
+⭐ 2.7k • 🔱 195 • 33m ago
 
 ---
 

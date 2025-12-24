@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T17:47:16.751268+00:00'
+updated: '2025-12-24T17:57:44.617340+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 17:47 UTC  
+**Last Updated:** December 24, 2025 at 17:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +2.7%  
-**30d:** +0.0%  
-**90d:** -20.2%  
-**1y:** -11.8%  
+**24h:** -1.1%  
+**7d:** +2.3%  
+**30d:** -0.4%  
+**90d:** -20.5%  
+**1y:** -12.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hello, I’m a high school student and I’m thinking about investing my money i
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Block • 8h ago
 
 Bitcoin’s Christmas Eve price history underscores extreme volatility. 2017 marked Bitcoin’s first true mainstream breakout — and its risks. Analysts believe holiday trading rarely changes ...
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 55m ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 45m ago
 
 Gold is rallying on rate cut expectations and geopolitical risk, while bitcoin has struggled to hold key psychological levels and remains sensitive to the same forces that tend to hit equities and other risk assets.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin is missing out on the Christmas cheer.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ Claim your bonus on Lbank ↳ https://www.lbank.com/event/2907-transfer-tradewin
 
 📺 Crypto Goos
 
-👁️ 707 • 👍 44 • 💬 74 • ⏱️ 10:33 • 7h ago
+👁️ 707 • 👍 44 • 💬 74 • ⏱️ 10:33 • 8h ago
 
 ---
 

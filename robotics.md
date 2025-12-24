@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T17:47:16.760475+00:00'
+updated: '2025-12-24T17:57:44.626618+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 17:47 UTC  
+**Last Updated:** December 24, 2025 at 17:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-3h ago
+4h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -120,7 +120,7 @@ IEEE Spectrum • 1d ago
 
 Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -152,7 +152,7 @@ Good Morning Wilton • 2d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 3h ago
+New Atlas • 4h ago
 
 ---
 
