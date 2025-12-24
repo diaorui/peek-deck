@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T15:30:30.166516+00:00'
+updated: '2025-12-24T15:46:47.557004+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 15:30 UTC  
+**Last Updated:** December 24, 2025 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-9h ago
+10h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Washington Post • 21h ago
 
 Italy has ordered Meta to suspend its policy that bans companies from using WhatsApp's business tools to offer their own AI chatbots on the popular chat app.
 
-TechCrunch • 49m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ Yahoo Finance • 6h ago
 
 The trustees' finance committee approved a partnership with Google, setting up Purdue students and researchers to have top-shelf access to AI.
 
-Journal & Courier • 5h ago
+Journal & Courier • 6h ago
 
 ---
 
 **[Why the EU’s Google Antitrust Case Is Misplaced in the AI Era](https://nationalinterest.org/blog/techland/why-the-eus-google-antitrust-case-is-misplaced-in-the-ai-era)**
 
-The National Interest • 57m ago
+The National Interest • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The National Interest • 57m ago
 
 Vanguard CIO Nitin Tandon says AI can be used to hyper-personalize guidance for customers.
 
-Fortune • 33m ago
+Fortune • 49m ago
 
 ---
 
@@ -301,7 +301,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 48K • 👍 3K • 💬 331 • ⏱️ 33:27 • 21h ago
+👁️ 48K • 👍 3K • 💬 331 • ⏱️ 33:27 • 22h ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 195 • 1h ago
+⭐ 2.7k • 🔱 195 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T15:30:30.181123+00:00'
+updated: '2025-12-24T15:46:47.571547+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 15:30 UTC  
+**Last Updated:** December 24, 2025 at 15:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +3.3%  
-**30d:** -1.6%  
-**90d:** -27.6%  
-**1y:** -16.7%  
+**24h:** -1.1%  
+**7d:** +3.7%  
+**30d:** -1.1%  
+**90d:** -27.3%  
+**1y:** -16.3%  
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello Everyone I am following the Ethereum pricing for the last few weeks and I see the price is gradually sliding downward. So I queried Google Gemini for the forecast market for 2026 and shared a forcast trend between $4,900 - $7,500. Are there any possible reasons for the price of ether will be around that range from 2026?
 
-19m ago
+35m ago
 
 ---
 
@@ -240,7 +240,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 70 • 👍 6 • ⏱️ 7:49 • 59m ago
+👁️ 70 • 👍 6 • ⏱️ 7:49 • 1h ago
 
 ---
 
@@ -300,7 +300,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 365 • 24m ago
+👁️ 2K • 👍 365 • 40m ago
 
 ---
 
@@ -310,7 +310,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 82 • 💬 78 • ⏱️ 22:51 • 20h ago
+👁️ 4K • 👍 82 • 💬 78 • ⏱️ 22:51 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T15:30:30.175032+00:00'
+updated: '2025-12-24T15:46:47.565483+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 15:30 UTC  
+**Last Updated:** December 24, 2025 at 15:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,908.47
+### $87,034.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +1.9%  
-**30d:** -0.7%  
-**90d:** -20.8%  
-**1y:** -12.5%  
+**24h:** -1.0%  
+**7d:** +2.2%  
+**30d:** -0.5%  
+**90d:** -20.6%  
+**1y:** -12.2%  
 
 ---
 
@@ -97,25 +97,25 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
-40m ago
+56m ago
 
 ---
 
@@ -193,7 +193,7 @@ Investopedia • 5h ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 8h ago
+KRON4 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin price action has been rough, but something bigger may be forming. Profes
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 196 • 💬 13 • ⏱️ 1:41 • 13h ago
+👁️ 5K • 👍 196 • 💬 13 • ⏱️ 1:41 • 14h ago
 
 ---
 
