@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T13:59:35.467005+00:00'
+updated: '2025-12-24T14:29:30.429313+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 13:59 UTC  
+**Last Updated:** December 24, 2025 at 14:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.5%  
-**30d:** -0.2%  
-**90d:** -20.3%  
-**1y:** -12.0%  
+**24h:** +0.2%  
+**7d:** +2.2%  
+**30d:** -0.4%  
+**90d:** -20.5%  
+**1y:** -12.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.68B
+**Market Cap:** $1742.50B
 Rank #1
 
 **Circulating Supply:** 19,966,475 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.8%
 
 **All-Time Low:** $67.81
-+128578.7%
++128540.3%
 
 ---
 
@@ -91,21 +91,13 @@ Rank #1
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
 8h ago
-
----
-
-**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
-
-SLAYER RIDING THE BEAR #BITCOIN
-
-11h ago
 
 ---
 
@@ -125,7 +117,15 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
-3h ago
+4h ago
+
+---
+
+**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
+
+SLAYER RIDING THE BEAR #BITCOIN
+
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ Hello, I’m a high school student and I’m thinking about investing my money i
 
 V2
 
-5h ago
+6h ago
 
 ---
 
@@ -151,7 +151,7 @@ V2
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Guardian • 17h ago
 
 VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 1h ago
 
 **[Bitcoin Is Not Set for a Happy Holidays. Why It’s Down to Silver and Gold.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-silver-gold-prices-dbe32141?gaa_at=eafs&gaa_n=AWEtsqeHrbUxcGtCuOthUjJw4OefZuV4A_Ddn8LezRc5hWzxreMuM3jLEG8l&gaa_ts=694bf52d&gaa_sig=MGvZkPSj5laXiWjOdbQHYxjG-Hq1lrPSSWoSAfWCk45A6i6EFT3OF8taXeEhOG9MM7SsOmsszFSFhJ8CnaAPwg%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
 
-Investopedia • 3h ago
+Investopedia • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ VanEck • 1d ago
 
 **[What Is Bitcoin’s ‘Cat’ Proposal and Why It Could Change Ordinals Forever](https://www.ccn.com/news/technology/bitcoin-developers-debate-utxo-bloat/)**
 
-CCN.com • 57m ago
+CCN.com • 1h ago
 
 ---
 
@@ -233,6 +233,12 @@ How much of a resource hog is AI?
 
 ---
 
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
+
+⬆️ 2 • 💬 2 • 26m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+
+---
+
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
 ⬆️ 1 • 💬 1 • 4d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
@@ -251,7 +257,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 23h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -281,7 +287,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 26K • 👍 329 • 💬 189 • ⏱️ 5:23 • 23h ago
+👁️ 26K • 👍 329 • 💬 189 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -291,7 +297,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 25K • 👍 1K • 💬 166 • ⏱️ 20:00 • 15h ago
+👁️ 25K • 👍 1K • 💬 166 • ⏱️ 20:00 • 16h ago
 
 ---
 
@@ -301,7 +307,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 63K • 👍 3K • 💬 381 • ⏱️ 20:46 • 19h ago
+👁️ 63K • 👍 3K • 💬 381 • ⏱️ 20:46 • 20h ago
 
 ---
 
@@ -311,7 +317,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 154 • ⏱️ 13:26 • 15h ago
+👁️ 21K • 👍 1K • 💬 154 • ⏱️ 13:26 • 16h ago
 
 ---
 
@@ -321,7 +327,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 14h ago
+👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 15h ago
 
 ---
 
@@ -361,7 +367,7 @@ Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AI
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 57 • ⏱️ 6:23 • 3h ago
+👁️ 3K • 👍 2K • 💬 57 • ⏱️ 6:23 • 4h ago
 
 ---
 
@@ -371,7 +377,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 31K • 👍 2K • 💬 130 • ⏱️ 4:03 • 23h ago
+👁️ 31K • 👍 2K • 💬 130 • ⏱️ 4:03 • 1d ago
 
 ---
 

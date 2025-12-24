@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T13:59:35.474940+00:00'
+updated: '2025-12-24T14:29:30.438554+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 13:59 UTC  
+**Last Updated:** December 24, 2025 at 14:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Figure running fully autonomously, no teleop. Helix can interact with people. You can ask it questions and tell it what to do.](https://www.reddit.com/r/robotics/comments/1punrb9/figure_running_fully_autonomously_no_teleop_helix/)**
+
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
+
+42m ago
+
+---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
@@ -46,25 +54,9 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
-**[Figure running fully autonomously, no teleop. Helix can interact with people. You can ask it questions and tell it what to do.](https://www.reddit.com/r/robotics/comments/1punrb9/figure_running_fully_autonomously_no_teleop_helix/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
-
-12m ago
-
----
-
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
 17h ago
-
----
-
-**[SO-101 control using meta quest](https://www.reddit.com/r/robotics/comments/1pumlnn/so101_control_using_meta_quest/)**
-
-I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
-
-1h ago
 
 ---
 
@@ -76,11 +68,19 @@ Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspir
 
 ---
 
+**[SO-101 control using meta quest](https://www.reddit.com/r/robotics/comments/1pumlnn/so101_control_using_meta_quest/)**
+
+I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
+
+1h ago
+
+---
+
 **[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-15h ago
+16h ago
 
 ---
 
@@ -116,7 +116,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 10m ago
+New Atlas • 40m ago
 
 ---
 
@@ -132,7 +132,7 @@ hyundai.com • 2d ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 17h ago
+The Robot Report • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consi
 
 📺 Aimin
 
-👁️ 1.1M • 👍 22K • 💬 4K • ⏱️ 14:27 • 3d ago
+👁️ 1.1M • 👍 22K • 💬 4K • ⏱️ 14:27 • 4d ago
 
 ---
 

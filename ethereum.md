@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T13:59:35.472215+00:00'
+updated: '2025-12-24T14:29:30.435306+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 13:59 UTC  
+**Last Updated:** December 24, 2025 at 14:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,919.23
+### $2,930.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +4.0%  
-**30d:** -0.8%  
-**90d:** -27.1%  
-**1y:** -16.0%  
+**24h:** +0.2%  
+**7d:** +3.8%  
+**30d:** -1.0%  
+**90d:** -27.2%  
+**1y:** -16.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.47B
+**Market Cap:** $353.63B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676623.4%
++676494.0%
 
 ---
 
@@ -72,7 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
+
+---
+
+**[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 23m ago
+
+---
+
+**[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
+
+6m ago
 
 ---
 
@@ -80,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 6h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 7h ago
 
 ---
 
@@ -88,7 +100,7 @@ This branch contains a rewrite of some core features of Echidna to transform wor
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 20h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 21h ago
 
 ---
 
@@ -132,20 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ever wanted to send an EIP-4844 blob?](https://www.reddit.com/r/ethereum/comments/1prnppx/ever_wanted_to_send_an_eip4844_blob/)**
-
-3d ago
-
----
-
-**[Recovering old, mined ETH](https://www.reddit.com/r/ethereum/comments/1prob1d/recovering_old_mined_eth/)**
-
-Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I haven't been following the developments around ETH for a while. I started looking into it recently and was wondering if anybody has up to date advice on how best to recover the funds in my account? I found a backup folder on my PC that has a binary file starting with "UTC--" and also a doc where I had just saved a long hex value in it. I think the hex value is the wallet address which I used to access with nanopool, so I looked it up on etherscan and can see it still has some value in it. Is there anything else that I need? If a password is needed to decrypt the binary file, I'm not sure if I remember what that is, but if possible I could try to guess a few passwords I used to use...
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +152,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -168,7 +166,7 @@ The Motley Fool • 2d ago
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -196,7 +194,7 @@ The Block • 1d ago
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -204,7 +202,7 @@ TradingView — Track All Markets • 10h ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -252,7 +250,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 14h ago
+👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 15h ago
 
 ---
 
@@ -292,7 +290,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 REKHA MAHESHWARI
 
-👁️ 3K • 👍 1K • 55m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
@@ -302,7 +300,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 335 • 👍 10 • 💬 4 • ⏱️ 6:09 • 16h ago
+👁️ 335 • 👍 10 • 💬 4 • ⏱️ 6:09 • 17h ago
 
 ---
 
