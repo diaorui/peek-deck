@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T22:29:30.349127+00:00'
+updated: '2025-12-24T22:47:04.364888+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 22:29 UTC  
+**Last Updated:** December 24, 2025 at 22:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 5h ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 6h ago
 
 ---
 
@@ -303,7 +303,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 5h ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 6h ago
 
 ---
 
@@ -327,29 +327,39 @@ CNBC • 1h ago
 
 ---
 
+**[Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports](https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html)**
+
+Nvidia has agreed to license chip technology from startup Groq and hire away its CEO, a veteran of Alphabet's Google, Groq said ​in a blog post on Wednesday.  Groq specializes in what is known as inference, ‌where artificial intelligence models that have already been trained respond to requests from users.  While Nvidia dominates the market for ‌training AI models, it faces much more competition in inference, where traditional rivals such as Advanced Micro Devices have aimed to challenge it as well as startups such as Groq and Cerebras Systems.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Nvidia acquires AI chip challenger Groq for $20B, report says](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)**
+
+With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
+
+TechCrunch • 43m ago
+
+---
+
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
 The New York Times • 12h ago
 
 ---
 
-**[Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports](https://www.reuters.com/business/nvidia-buy-ai-chip-startup-groq-about-20-billion-cnbc-reports-2025-12-24/)**
+**[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
 
-Reuters • 1h ago
-
----
-
-**[Can teacher wisdom steer the AI transition in education?](https://www.fastcompany.com/91464977/can-teacher-wisdom-steer-the-ai-transition-in-education)**
-
-Fast Company • 1h ago
+France 24 • 12h ago
 
 ---
 
-**[The 2 Best AI ETFs To Invest $1,000 in Right Now](https://finance.yahoo.com/news/2-best-ai-etfs-invest-211000481.html)**
+**[‘We’re not stopping’: Pa. lawmakers rankled by Trump order on states and AI](https://www.post-gazette.com/news/politics-state/2025/12/24/pennsylvania-trump-ai-ciresi-pisciottano/stories/202512240068)**
 
-These two funds offer a good way to get exposure to artificial intelligence.
+HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Yahoo Finance • 1h ago
+Pittsburgh Post-Gazette • 4h ago
 
 ---
 
@@ -361,6 +371,14 @@ blog.google • 1d ago
 
 ---
 
+**[2025 has seen an explosion of AI-generated slop](https://www.npr.org/2025/12/24/nx-s1-5629169/2025-has-seen-an-explosion-of-ai-generated-slop)**
+
+2025 has seen an explosion in AI-generated slop. NPR's Geoff Brumfiel and Shannon Bond discuss how AI-generated videos are shaping reality online.
+
+NPR • 24m ago
+
+---
+
 **[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
@@ -369,27 +387,11 @@ Fortune • 1d ago
 
 ---
 
-**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
-
-Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
-
-Los Angeles Times • 11h ago
-
----
-
 **[The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/)**
 
 Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.
 
 WIRED • 11h ago
-
----
-
-**[No, you can’t tell when something was written by AI](https://www.ft.com/content/b2ebb99a-cfea-465f-93ff-0ea8ed6bfac5)**
-
-Context matters as much as content in determining whether text is machine generated or not
-
-Financial Times • 17h ago
 
 ---
 
@@ -511,7 +513,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 65K • 👍 3K • 💬 338 • ⏱️ 30:43 • 18h ago
+👁️ 65K • 👍 3K • 💬 338 • ⏱️ 30:43 • 19h ago
 
 ---
 
@@ -587,7 +589,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 773 • 1d ago
+⬇️ 2,719 • ❤️ 774 • 1d ago
 
 ---
 
@@ -611,7 +613,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,394 • 16d ago
+⬇️ 384,826 • ❤️ 3,396 • 16d ago
 
 ---
 
@@ -671,7 +673,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 299 • 1d ago
+⬇️ 1,152 • ❤️ 300 • 1d ago
 
 ---
 
@@ -870,7 +872,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 198 • 31m ago
+⭐ 2.8k • 🔱 198 • 49m ago
 
 ---
 

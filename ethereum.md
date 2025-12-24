@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T22:29:30.361974+00:00'
+updated: '2025-12-24T22:47:04.379680+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 22:29 UTC  
+**Last Updated:** December 24, 2025 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +4.7%  
-**30d:** -0.2%  
-**90d:** -26.6%  
-**1y:** -15.5%  
+**24h:** -0.1%  
+**7d:** +4.9%  
+**30d:** +0.0%  
+**90d:** -26.5%  
+**1y:** -15.4%  
 
 ---
 
@@ -210,9 +210,11 @@ TipRanks • 1d ago
 
 ---
 
-**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
+**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
 
-Binance • 13h ago
+Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -226,7 +228,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 3K • 👍 198 • 💬 104 • ⏱️ 19:06 • 5h ago
+👁️ 3K • 👍 198 • 💬 104 • ⏱️ 19:06 • 6h ago
 
 ---
 
@@ -256,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 272 • 👍 10 • 💬 26 • ⏱️ 5:15 • 7h ago
+👁️ 272 • 👍 10 • 💬 26 • ⏱️ 5:15 • 8h ago
 
 ---
 
@@ -266,7 +268,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 228 • 👍 8 • 💬 8 • ⏱️ 7:49 • 7h ago
+👁️ 228 • 👍 8 • 💬 8 • ⏱️ 7:49 • 8h ago
 
 ---
 
@@ -296,7 +298,7 @@ Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while stic
 
 📺 What's Trending
 
-👁️ 737 • 👍 2 • ⏱️ 0:31 • 5h ago
+👁️ 737 • 👍 2 • ⏱️ 0:31 • 6h ago
 
 ---
 

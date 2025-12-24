@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T22:29:30.356585+00:00'
+updated: '2025-12-24T22:47:04.373580+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 22:29 UTC  
+**Last Updated:** December 24, 2025 at 22:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.8%  
-**30d:** +0.1%  
-**90d:** -20.1%  
-**1y:** -11.7%  
+**24h:** +0.9%  
+**7d:** +3.3%  
+**30d:** +0.6%  
+**90d:** -19.7%  
+**1y:** -11.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -153,33 +153,35 @@ CoinDesk • 9h ago
 
 ---
 
-**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
 
-The Block • 13h ago
+Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
----
-
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
-
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
-
-The Motley Fool • 1d ago
+The Motley Fool • 3h ago
 
 ---
 
-**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.nasdaq.com/articles/crypto-thats-outperforming-bitcoin-501)**
 
-The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
+Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
 
-CoinDesk • 2d ago
+Nasdaq • 2h ago
 
 ---
 
-**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
+**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today)**
 
-Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
+Key PointsBitcoin has gained nearly 20,000% during the past 10 years, far more than the stock market.
 
-Yahoo Finance • 1d ago
+Nasdaq • 10h ago
+
+---
+
+**[Gold knocks on a door that's been shut for 50 years as bitcoin tests a defining support](https://www.coindesk.com/markets/2025/12/24/gold-knocks-on-a-door-that-s-been-shut-for-50-years-as-bitcoin-tests-a-defining-support)**
+
+Measured against U.S. money supply, gold is back at levels that marked major historical peaks, while bitcoin retraces toward a key cycle floor.
+
+CoinDesk • 10h ago
 
 ---
 
@@ -193,15 +195,7 @@ Yahoo Finance • 2d ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 15h ago
-
----
-
-**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
-
-Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
-
-Inquirer.com • 1d ago
+KRON4 • 16h ago
 
 ---
 
@@ -213,11 +207,17 @@ The Guardian • 1d ago
 
 ---
 
-**[Galaxy Says Bitcoin Never Hit $100K After Inflation](https://bitbo.io/news/bitcoin-100k-inflation-adjusted/)**
+**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-Galaxy Research head Alex Thorn said bitcoin’s October peak above $126,000 equates to $99,848 in 2020 dollars after adjusting for inflation.
+The Block • 13h ago
 
-Bitbo • 10h ago
+---
+
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
+
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin price action has been rough, but something bigger may be forming. Profes
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 259 • 💬 19 • ⏱️ 1:41 • 20h ago
+👁️ 8K • 👍 259 • 💬 19 • ⏱️ 1:41 • 21h ago
 
 ---
 
