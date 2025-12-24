@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T06:40:06.251684+00:00'
+updated: '2025-12-24T07:01:19.462553+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 06:40 UTC  
+**Last Updated:** December 24, 2025 at 07:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +1.8%  
-**30d:** -0.8%  
-**90d:** -20.9%  
-**1y:** -12.6%  
+**24h:** -0.6%  
+**7d:** +2.2%  
+**30d:** -0.5%  
+**90d:** -20.6%  
+**1y:** -12.2%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -127,7 +127,7 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Investopedia • 9h ago
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -215,13 +215,13 @@ WCVB • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeKnTZYy9yIJlWqvCjxemG-hBfsezj-CR6kt5A_bTUUVUbsymKsQBtZ&gaa_ts=694b8e34&gaa_sig=lABZ7H5Y6xd4s0CMbtUletn97nLEI_rzTaVjsCNeH2IrmBFSGo-ODTWENEOPo4-BJV208oIRJFw5kKBxQT9Itg%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -307,7 +307,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 49K • 👍 2K • 💬 284 • ⏱️ 20:46 • 12h ago
+👁️ 49K • 👍 2K • 💬 284 • ⏱️ 20:46 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 95 • ⏱️ 13:26 • 8h ago
+👁️ 16K • 👍 1K • 💬 95 • ⏱️ 13:26 • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 3K • 👍 113 • 💬 22 • ⏱️ 17:16 • 14h ago
+👁️ 3K • 👍 113 • 💬 22 • ⏱️ 17:16 • 15h ago
 
 ---
 

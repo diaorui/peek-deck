@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T06:40:06.243233+00:00'
+updated: '2025-12-24T07:01:19.454184+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 06:40 UTC  
+**Last Updated:** December 24, 2025 at 07:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 12h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 13h ago
 
 ---
 
@@ -71,7 +71,7 @@ Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 12h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 13h ago
 
 ---
 
@@ -129,7 +129,7 @@ blog.google • 13h ago
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Washington Post • 12h ago
 
 Creative financing helps insulate Big Tech while binding Wall Street to a future boom or bust
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Digiday • 1h ago
 
 Context matters as much as content in determining whether text is machine generated or not
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 13h ago
 
 Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 38K • 👍 2K • 💬 293 • ⏱️ 33:27 • 12h ago
+👁️ 38K • 👍 2K • 💬 293 • ⏱️ 33:27 • 13h ago
 
 ---
 
@@ -306,7 +306,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 364K • 👍 13K • 💬 3K • ⏱️ 19:40 • 16h ago
+👁️ 364K • 👍 13K • 💬 3K • ⏱️ 19:40 • 17h ago
 
 ---
 
@@ -404,7 +404,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 622 • 20h ago
+⬇️ 1,148 • ❤️ 622 • 21h ago
 
 ---
 
@@ -498,7 +498,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 8,076 • ❤️ 256 • 15h ago
+⬇️ 8,076 • ❤️ 256 • 16h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 683 • 3h ago
+⭐ 6.1k • 🔱 683 • 4h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 397 • 27m ago
+⭐ 3.1k • 🔱 397 • 49m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 190 • 49m ago
+⭐ 2.6k • 🔱 190 • 1h ago
 
 ---
 
@@ -696,7 +696,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 202 • 52m ago
+⭐ 1.2k • 🔱 202 • 1h ago
 
 ---
 

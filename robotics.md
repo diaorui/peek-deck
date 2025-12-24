@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T06:40:06.261225+00:00'
+updated: '2025-12-24T07:01:19.471760+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 06:40 UTC  
+**Last Updated:** December 24, 2025 at 07:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-18h ago
+19h ago
 
 ---
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-1m ago
+23m ago
 
 ---
 
@@ -104,7 +104,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -164,7 +164,7 @@ CnEVPost • 1d ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 10h ago
+The Robot Report • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 23K • 👍 241 • 💬 4 • ⏱️ 0:11 • 21h ago
+👁️ 23K • 👍 241 • 💬 4 • ⏱️ 0:11 • 22h ago
 
 ---
 
