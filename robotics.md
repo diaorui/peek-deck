@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T21:21:07.652205+00:00'
+updated: '2025-12-24T21:37:14.710297+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 21:21 UTC  
+**Last Updated:** December 24, 2025 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
 
-54m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Torque = k × current Heat = current² × R At stall or high-load, adjusting pos
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-5h ago
+6h ago
 
 ---
 
@@ -82,7 +82,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 30m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 46m ago
 
 ---
 

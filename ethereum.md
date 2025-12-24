@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T21:21:07.649013+00:00'
+updated: '2025-12-24T21:37:14.707039+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 21:21 UTC  
+**Last Updated:** December 24, 2025 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.4%  
-**7d:** +4.5%  
+**7d:** +4.4%  
 **30d:** -0.4%  
 **90d:** -26.8%  
 **1y:** -15.7%  
@@ -94,13 +94,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-4h ago
+5h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -226,7 +226,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 157 • 💬 105 • ⏱️ 19:06 • 4h ago
+👁️ 2K • 👍 157 • 💬 105 • ⏱️ 19:06 • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 83 • 💬 6 • ⏱️ 3:51 • 6h ago
+👁️ 1K • 👍 83 • 💬 6 • ⏱️ 3:51 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 210 • 👍 10 • 💬 27 • ⏱️ 5:15 • 6h ago
+👁️ 210 • 👍 10 • 💬 27 • ⏱️ 5:15 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 205 • 👍 8 • 💬 12 • ⏱️ 7:49 • 6h ago
+👁️ 205 • 👍 8 • 💬 12 • ⏱️ 7:49 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while stic
 
 📺 What's Trending
 
-👁️ 528 • 👍 1 • ⏱️ 0:31 • 4h ago
+👁️ 528 • 👍 1 • ⏱️ 0:31 • 5h ago
 
 ---
 

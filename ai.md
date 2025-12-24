@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T21:21:07.634330+00:00'
+updated: '2025-12-24T21:37:14.692342+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 21:21 UTC  
+**Last Updated:** December 24, 2025 at 21:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 13h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-13m ago
+29m ago
 
 ---
 
@@ -79,7 +79,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 3h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 4h ago
 
 ---
 
@@ -337,7 +337,7 @@ The New York Times • 11h ago
 
 What once required teams of engineers can now be built in minutes.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -353,13 +353,13 @@ The Motley Fool • 10h ago
 
 The best AI stocks to hold in 2026 are well positioned to grow through the next phase of the artificial intelligence revolution. Click here to see 3 top stocks.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
 **[Broadcom, Bloom Energy, and Other AI Bargains Appeal to This Tech Investor](https://www.barrons.com/articles/ai-tech-broadcom-bloom-energy-8223b02a?gaa_at=eafs&gaa_n=AWEtsqdE9dGsqrjwB2T69ACZq9ec04P9_Z8gps6k60XR8j0i9PoOdHo_yMKO&gaa_ts=694c5cb2&gaa_sig=NjsB_DyO7xxXqTrPZ0tnKVPCwH-j_WNt4_jaMR6Tl44-tGvVeYMm_X2NwciXwwgWugmou33w7UkGJNoiLBnK9Q%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -455,7 +455,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 31 • 💬 6 • 18m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 31 • 💬 6 • 34m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -533,7 +533,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 61K • 👍 3K • 💬 314 • ⏱️ 30:43 • 17h ago
+👁️ 61K • 👍 3K • 💬 314 • ⏱️ 30:43 • 18h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T21:21:07.642763+00:00'
+updated: '2025-12-24T21:37:14.700938+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 21:21 UTC  
+**Last Updated:** December 24, 2025 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,698.76
+### $87,745.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.9%  
-**30d:** +0.2%  
-**90d:** -20.0%  
-**1y:** -11.6%  
+**24h:** +0.0%  
+**7d:** +2.8%  
+**30d:** +0.1%  
+**90d:** -20.1%  
+**1y:** -11.7%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -251,7 +251,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 62 • 💬 34 • 4h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 62 • 💬 34 • 5h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -281,7 +281,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 8K • 👍 183 • 💬 122 • ⏱️ 8:19 • 7h ago
+👁️ 8K • 👍 183 • 💬 122 • ⏱️ 8:19 • 8h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin price action has been rough, but something bigger may be forming. Profes
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 240 • 💬 18 • ⏱️ 1:41 • 19h ago
+👁️ 7K • 👍 240 • 💬 18 • ⏱️ 1:41 • 20h ago
 
 ---
 
