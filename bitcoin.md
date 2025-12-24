@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T16:34:46.398651+00:00'
+updated: '2025-12-24T16:53:37.560244+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 16:34 UTC  
+**Last Updated:** December 24, 2025 at 16:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.6%  
-**30d:** -0.0%  
-**90d:** -20.2%  
-**1y:** -11.9%  
+**24h:** +0.0%  
+**7d:** +2.3%  
+**30d:** -0.3%  
+**90d:** -20.4%  
+**1y:** -12.1%  
 
 ---
 
@@ -97,25 +97,25 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Rank #1
 
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Investor's Business Daily • 1d ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 9h ago
+KRON4 • 10h ago
 
 ---
 
@@ -275,7 +275,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 2 • 💬 0 • 13m ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 2 • 💬 0 • 32m ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -369,7 +369,7 @@ Bitcoin price action has been rough, but something bigger may be forming. Profes
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 196 • 💬 13 • ⏱️ 1:41 • 14h ago
+👁️ 5K • 👍 196 • 💬 13 • ⏱️ 1:41 • 15h ago
 
 ---
 
