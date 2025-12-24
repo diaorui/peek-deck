@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T11:11:25.960046+00:00'
+updated: '2025-12-24T11:30:38.938824+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 11:11 UTC  
+**Last Updated:** December 24, 2025 at 11:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +2.1%  
-**30d:** -0.6%  
-**90d:** -20.6%  
-**1y:** -12.3%  
+**24h:** -0.7%  
+**7d:** +2.4%  
+**30d:** -0.3%  
+**90d:** -20.4%  
+**1y:** -12.1%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi I am new to bitcoin, but so far only the exchange is making money. There are 
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
-58m ago
+1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Investor's Business Daily • 1d ago
 
 XRP and Bitcoin are currently on track to end 2025 in the red.
 
-The Motley Fool • 56m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -253,7 +253,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 19h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 20h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -283,7 +283,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 25K • 👍 320 • 💬 197 • ⏱️ 5:23 • 20h ago
+👁️ 25K • 👍 320 • 💬 197 • ⏱️ 5:23 • 21h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 22K • 👍 1K • 💬 153 • ⏱️ 20:00 • 12h ago
+👁️ 22K • 👍 1K • 💬 153 • ⏱️ 20:00 • 13h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 530 • ⏱️ 10:51 • 11h ago
+👁️ 28K • 👍 2K • 💬 530 • ⏱️ 10:51 • 12h ago
 
 ---
 

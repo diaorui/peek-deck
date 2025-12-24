@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T11:11:25.969360+00:00'
+updated: '2025-12-24T11:30:38.948156+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 11:11 UTC  
+**Last Updated:** December 24, 2025 at 11:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Robotics Datasets – Hugging Face (29,464): https://huggingface.co/datasets?task_categories=task_categories:robotics&sort=downloads From Pierre-Alexandre Balland on 𝕏: https://x.com/pa_balland/status/2003461164781428931 Something big is happening in robotics - and it’s hiding in plain sight. This post is not about dancing robots but in the data that powers them. Open robotics datasets have exploded this year, turning the field into a more scalable and collaborative ecosystem. In just two years, Hugging Face datasets grew from 11k to over 600k - and robotics is by far the fastest-growing segment. We went from 1k robotics datasets in 2024 to 27k in 2025! For comparison, text generation, the second-largest category, has only around 5k datasets in 2025. That gap is massive.
 
-24m ago
+44m ago
 
 ---
 
@@ -104,7 +104,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
 
-10h ago
+11h ago
 
 ---
 
@@ -154,7 +154,7 @@ Phys.org • 1d ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 

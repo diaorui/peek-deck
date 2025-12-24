@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T11:11:25.951548+00:00'
+updated: '2025-12-24T11:30:38.930351+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 11:11 UTC  
+**Last Updated:** December 24, 2025 at 11:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 3h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 4h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 10h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 11h ago
 
 ---
 
@@ -71,7 +71,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 All of these game developers have used, or are still using, AI to accelerate production and development, including the most highly awarded game in the history of The Game Awards ❗️ GOTY — Clair Obscur: Expedition 33 Kingdom Come: Deliverance II Cyberpunk TCG The Witcher 4 Divinity https://www.thegamer.com/cd-projekt-red-the-witcher-4-ai/#thread
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ All of these game developers have used, or are still using, AI to accelerate pro
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 17h ago
+blog.google • 18h ago
 
 ---
 
@@ -139,7 +139,7 @@ Yahoo Finance • 2h ago
 
 While Google used to abstain from using AI-generated content, new advancements in AI tools have been too compelling for the tech giant to ignore.
 
-Ad Age • 14h ago
+Ad Age • 15h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 1h ago
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-Los Angeles Times • 11m ago
+Los Angeles Times • 30m ago
 
 ---
 
@@ -284,7 +284,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 3K • 👍 71 • 💬 10 • ⏱️ 7:50 • 5h ago
+👁️ 3K • 👍 71 • 💬 10 • ⏱️ 7:50 • 6h ago
 
 ---
 
@@ -294,7 +294,7 @@ AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 74K • 👍 5K • 💬 753 • ⏱️ 16:24 • 16h ago
+👁️ 74K • 👍 5K • 💬 753 • ⏱️ 16:24 • 17h ago
 
 ---
 
@@ -304,7 +304,7 @@ A wandering boy found a ripe mango fruit      . #ai #aivideo #women#calf #rain #
 
 📺 Ai story 4.0
 
-👁️ 179K • 👍 4K • 💬 2 • ⏱️ 0:41 • 10h ago
+👁️ 179K • 👍 4K • 💬 2 • ⏱️ 0:41 • 11h ago
 
 ---
 
@@ -496,7 +496,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 246 • 21h ago
+⬇️ 1,152 • ❤️ 246 • 22h ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 414 • 4h ago
+⭐ 3.3k • 🔱 414 • 5h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 193 • 5m ago
+⭐ 2.6k • 🔱 193 • 25m ago
 
 ---
 
