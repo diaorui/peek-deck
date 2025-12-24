@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-24T05:13:07.751330+00:00"
+          "dateModified": "2025-12-24T05:42:42.951369+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -818,20 +818,22 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pu9cke/built_a_tool_that_uses_ai_to_catch_urdf_errors/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NmtoenhpejI4eThnMZ2mqTSZd29WKNnlU4dLuedNFlNh_28qJGcPir5WqXHo.png?width=640&crop=smart&auto=webp&s=36e2899216f4f4c8e97bf67000973cbe4da4401a" alt="The dumbest smart robot ever" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/" target="_blank" onclick="event.stopPropagation();">The dumbest smart robot ever</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1pu9cke/built_a_tool_that_uses_ai_to_catch_urdf_errors/" target="_blank" onclick="event.stopPropagation();">Built a tool that uses AI to catch URDF errors visually - looking for honest feedback</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -839,7 +841,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1766493523.0"></span>
+                                    <span data-timestamp="1766535208.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -884,39 +886,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pu9cke/built_a_tool_that_uses_ai_to_catch_urdf_errors/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1pu9cke/built_a_tool_that_uses_ai_to_catch_urdf_errors/" target="_blank" onclick="event.stopPropagation();">Built a tool that uses AI to catch URDF errors visually - looking for honest feedback</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766535208.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -937,6 +906,35 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1766523531.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/" target="_blank" onclick="event.stopPropagation();">I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766514743.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -969,7 +967,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-24T04:46:14.758872+00:00">Updated 2025-12-24T04:46:14.758872+00:00</small>
+        <small data-timestamp="2025-12-24T05:42:34.306550+00:00">Updated 2025-12-24T05:42:34.306550+00:00</small>
     </div>
 </div>
 

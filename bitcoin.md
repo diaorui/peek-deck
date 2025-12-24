@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T05:13:08.121341+00:00'
+updated: '2025-12-24T05:42:43.323441+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 05:13 UTC  
+**Last Updated:** December 24, 2025 at 05:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** -0.0%  
 **7d:** +2.4%  
 **30d:** -0.3%  
 **90d:** -20.4%  
-**1y:** -12.0%  
+**1y:** -12.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.16B
+**Market Cap:** $1736.97B
 Rank #1
 
-**Circulating Supply:** 19,966,262 BTC
+**Circulating Supply:** 19,966,281 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-31.0%
 
 **All-Time Low:** $67.81
-+128569.8%
++128167.2%
 
 ---
 
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
+**[Cats getting intrest in bitcoin 💥](https://www.reddit.com/r/Bitcoin/comments/1pue5xd/cats_getting_intrest_in_bitcoin/)**
 
-Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
-
-11h ago
+1h ago
 
 ---
 
@@ -99,15 +97,23 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 ---
 
-**[Cats getting intrest in bitcoin 💥](https://www.reddit.com/r/Bitcoin/comments/1pue5xd/cats_getting_intrest_in_bitcoin/)**
+**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
 
-58m ago
+Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
+
+12h ago
+
+---
+
+**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+
+26m ago
 
 ---
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -115,7 +121,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
 
-13h ago
+14h ago
 
 ---
 
@@ -131,21 +137,13 @@ The implications of the growing "digital credit" market are immense. Saylor boy 
 
 Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
-5h ago
-
----
-
-**[Gold and copper are screaming in 2025… and Bitcoin is kinda getting ghosted. That feels important.](https://www.reddit.com/r/Bitcoin/comments/1ptqesf/gold_and_copper_are_screaming_in_2025_and_bitcoin/)**
-
-2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
-
-19h ago
+6h ago
 
 ---
 
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +155,7 @@ Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -219,7 +217,7 @@ WCVB • 1d ago
 
 Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
 
-Inquirer.com • 9h ago
+Inquirer.com • 10h ago
 
 ---
 
@@ -259,7 +257,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -311,7 +309,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 21K • 👍 294 • 💬 166 • ⏱️ 5:23 • 14h ago
+👁️ 21K • 👍 294 • 💬 166 • ⏱️ 5:23 • 15h ago
 
 ---
 
@@ -341,7 +339,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 866 • 💬 87 • ⏱️ 20:00 • 6h ago
+👁️ 12K • 👍 866 • 💬 87 • ⏱️ 20:00 • 7h ago
 
 ---
 
@@ -351,7 +349,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 5h ago
+👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 6h ago
 
 ---
 

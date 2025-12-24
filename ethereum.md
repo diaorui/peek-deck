@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T05:13:08.127393+00:00'
+updated: '2025-12-24T05:42:43.329541+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 05:13 UTC  
+**Last Updated:** December 24, 2025 at 05:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.23B
+**Market Cap:** $353.20B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.8%
 
 **All-Time Low:** $0.43
-+679417.9%
++675708.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 11h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 12h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Block • 13h ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 15h ago
+CCN.com • 16h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 22h ago
 
 Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -262,7 +262,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 684 • 👍 36 • 💬 8 • ⏱️ 9:42 • 15h ago
+👁️ 684 • 👍 36 • 💬 8 • ⏱️ 9:42 • 16h ago
 
 ---
 
@@ -272,7 +272,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 5h ago
+👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Bloomberg Television
 
-👁️ 3K • 👍 55 • 💬 8 • ⏱️ 22:51 • 10h ago
+👁️ 3K • 👍 55 • 💬 8 • ⏱️ 22:51 • 11h ago
 
 ---
 
