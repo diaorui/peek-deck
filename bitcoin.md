@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T10:51:01.204965+00:00'
+updated: '2025-12-24T11:11:25.960046+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 10:51 UTC  
+**Last Updated:** December 24, 2025 at 11:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,901.34
+### $87,300.00
 
 ---
 
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.9%  
 **7d:** +2.1%  
 **30d:** -0.6%  
-**90d:** -20.7%  
+**90d:** -20.6%  
 **1y:** -12.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1736.90B
+**Market Cap:** $1740.53B
 Rank #1
 
-**Circulating Supply:** 19,966,409 BTC
+**Circulating Supply:** 19,966,425 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.8%
 
 **All-Time Low:** $67.81
-+128208.5%
++128509.3%
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+
+2h ago
+
+---
+
 **[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -89,15 +95,17 @@ Rank #1
 
 ---
 
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
-
-1h ago
-
----
-
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
 5h ago
+
+---
+
+**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
+
+SLAYER RIDING THE BEAR #BITCOIN
+
+9h ago
 
 ---
 
@@ -107,17 +115,17 @@ Rank #1
 
 ---
 
-**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
-
-SLAYER RIDING THE BEAR #BITCOIN
-
-8h ago
-
----
-
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
 7h ago
+
+---
+
+**[My v2🤩🤩](https://www.reddit.com/r/Bitcoin/comments/1pui1ej/my_v2/)**
+
+V2
+
+3h ago
 
 ---
 
@@ -129,19 +137,11 @@ Hi I am new to bitcoin, but so far only the exchange is making money. There are 
 
 ---
 
-**[My v2🤩🤩](https://www.reddit.com/r/Bitcoin/comments/1pui1ej/my_v2/)**
+**[Should i invest all my money to BTC](https://www.reddit.com/r/Bitcoin/comments/1puk3hg/should_i_invest_all_my_money_to_btc/)**
 
-V2
+Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
-2h ago
-
----
-
-**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
-
-Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
-
-17h ago
+58m ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -165,19 +165,19 @@ CoinDesk • 16h ago
 
 ---
 
+**[Wintermute Warns: Altcoin Season Is Dead as Bitcoin Dominance Soars](https://finance.yahoo.com/news/wintermute-warns-altcoin-season-dead-094459536.html)**
+
+Bitcoin dominance continues its relentless climb as markets consolidate into year-end, leaving altcoins trapped under heavy supply pressure and an unforgiving token unlock schedule.Wintermute’s latest market update confirms what many traders feared. Retail investors are rotating out of altcoins and back into major assets, signaling the end of the anticipated ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
 Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
 Bloomberg.com • 1d ago
-
----
-
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
-
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -191,13 +191,21 @@ VanEck • 1d ago
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 23h ago
+Investor's Business Daily • 1d ago
 
 ---
 
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+**[Better Buy in 2026: XRP (Ripple) or Bitcoin?](https://www.fool.com/investing/2025/12/24/better-buy-in-2026-xrp-ripple-or-bitcoin/)**
 
-The Block • 18h ago
+XRP and Bitcoin are currently on track to end 2025 in the red.
+
+The Motley Fool • 56m ago
+
+---
+
+**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
+
+The Block • 1d ago
 
 ---
 
@@ -212,14 +220,6 @@ WCVB • 1d ago
 **[‘The Biggest Merger In History’—U.S. Treasury Secretary Reveals Price Game-Changer As Wall Street Leans Into Bitcoin And Crypto](https://www.forbes.com/sites/digital-assets/2025/12/23/the-biggest-merger-in-history-us-treasury-secretary-reveals-price-game-changer-as-wall-street-leans-into-bitcoin-and-crypto/)**
 
 Forbes • 22h ago
-
----
-
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
-
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
-
-Al Jazeera • 1d ago
 
 ---
 
@@ -269,7 +269,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 2d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 3d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -293,7 +293,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 58K • 👍 3K • 💬 361 • ⏱️ 20:46 • 16h ago
+👁️ 58K • 👍 3K • 💬 361 • ⏱️ 20:46 • 17h ago
 
 ---
 
@@ -303,7 +303,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 145 • ⏱️ 13:26 • 12h ago
+👁️ 19K • 👍 1K • 💬 145 • ⏱️ 13:26 • 13h ago
 
 ---
 
@@ -343,7 +343,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 4K • 👍 122 • 💬 58 • ⏱️ 17:16 • 18h ago
+👁️ 4K • 👍 122 • 💬 58 • ⏱️ 17:16 • 19h ago
 
 ---
 
@@ -373,7 +373,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 12K • 👍 991 • 💬 122 • ⏱️ 7:14 • 17h ago
+👁️ 12K • 👍 991 • 💬 122 • ⏱️ 7:14 • 18h ago
 
 ---
 

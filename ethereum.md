@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T10:51:01.211419+00:00'
+updated: '2025-12-24T11:11:25.966088+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 10:51 UTC  
+**Last Updated:** December 24, 2025 at 11:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +3.9%  
+**24h:** -0.9%  
+**7d:** +4.0%  
 **30d:** -0.9%  
 **90d:** -27.1%  
-**1y:** -16.2%  
+**1y:** -16.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.15B
+**Market Cap:** $353.83B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.7%
 
 **All-Time Low:** $0.43
-+676207.6%
++677154.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -166,17 +166,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum’s $4,400 Breakout Target Finds One Critical On-Chain Support](https://finance.yahoo.com/news/ethereum-4-400-breakout-target-080000867.html)**
-
-Ethereum price trades flat, but collapsing long-term selling and a breakout pattern hint at a larger move forming.
-
-Yahoo Finance • 2h ago
-
----
-
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -220,7 +212,13 @@ CoinDesk • 1d ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
+
+---
+
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+
+TipRanks • 19h ago
 
 ---
 
@@ -284,7 +282,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 365 • 👍 21 • 💬 50 • ⏱️ 7:44 • 16h ago
+👁️ 365 • 👍 21 • 💬 50 • ⏱️ 7:44 • 17h ago
 
 ---
 
@@ -294,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 2 • ⏱️ 4:22 • 18h ago
+👁️ 2K • 👍 146 • 💬 2 • ⏱️ 4:22 • 19h ago
 
 ---
 
@@ -314,7 +312,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 415 • 💬 65 • ⏱️ 14:56 • 23h ago
+👁️ 7K • 👍 415 • 💬 65 • ⏱️ 14:56 • 1d ago
 
 ---
 
