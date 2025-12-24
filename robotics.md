@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T10:00:21.878796+00:00'
+updated: '2025-12-24T10:33:20.704103+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 10:00 UTC  
+**Last Updated:** December 24, 2025 at 10:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,15 +40,15 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
-**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
-
-13h ago
-
----
-
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
 1h ago
+
+---
+
+**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
+
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
 
-9h ago
+10h ago
 
 ---
 
@@ -112,30 +112,6 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ## Google News: "robotics"
 
-**[The Tech Review 2025: China sees breakthroughs in AI and robotics](https://news.cgtn.com/news/2025-12-23/The-Tech-Review-2025-China-sees-breakthroughs-in-AI-and-robotics-1JkPp0QUWl2/p.html)**
-
-The year 2025 has been defined by a wave of transformative advances in China's artificial intelligence (AI) and robotics sectors, marking a decisive shift from laboratory research toward deep industrial integration and real-world application.The year
-
-news.cgtn.com • 1d ago
-
----
-
-**[Duquesne Light is studying ways that AI could improve the grid and reliability](https://www.post-gazette.com/business/powersource/2025/12/24/duquesne-light-ai-grid-drones-artificial-intelligence-pittsburgh/stories/202512170041)**
-
-As artificial intelligence usage continues to expand across industries, Allegheny County’s primary utilities company is putting a charge into the...
-
-Pittsburgh Post-Gazette • 1h ago
-
----
-
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
-
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 13h ago
-
----
-
 **[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
@@ -144,11 +120,11 @@ hyundai.com • 2d ago
 
 ---
 
-**[China’s Deep Robotics joins IPO rush as embodied intelligence sector heats up](https://www.scmp.com/business/china-business/article/3337615/chinas-deep-robotics-joins-ipo-rush-embodied-intelligence-sector-heats)**
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
-The Hangzhou robot maker has entered the IPO ‘guidance’ phase, becoming the latest embodied intelligence start-up to eye an A-share listing.
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
 
-South China Morning Post • 1h ago
+Good Morning Wilton • 2d ago
 
 ---
 
@@ -164,13 +140,37 @@ CnEVPost • 1d ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 13h ago
+The Robot Report • 14h ago
 
 ---
 
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
-Phys.org • 23h ago
+Phys.org • 1d ago
+
+---
+
+**[Duquesne Light is studying ways that AI could improve the grid and reliability](https://www.post-gazette.com/business/powersource/2025/12/24/duquesne-light-ai-grid-drones-artificial-intelligence-pittsburgh/stories/202512170041)**
+
+As artificial intelligence usage continues to expand across industries, Allegheny County’s primary utilities company is putting a charge into the...
+
+Pittsburgh Post-Gazette • 1h ago
+
+---
+
+**[The Tech Review 2025: China sees breakthroughs in AI and robotics](https://news.cgtn.com/news/2025-12-23/The-Tech-Review-2025-China-sees-breakthroughs-in-AI-and-robotics-1JkPp0QUWl2/p.html)**
+
+The year 2025 has been defined by a wave of transformative advances in China's artificial intelligence (AI) and robotics sectors, marking a decisive shift from laboratory research toward deep industrial integration and real-world application.The year
+
+news.cgtn.com • 1d ago
+
+---
+
+**[Training a robot to replace you? Local startup Tutor Intelligence says it could happen.](https://www.bostonglobe.com/2025/12/22/business/tutor-intelligence-ai-robotics-employment/)**
+
+Tutor’s first product, Cassie, is designed for a relatively simple task — loading and unloading shipping pallets laden with boxes of merchandise.
+
+The Boston Globe • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Phys.org • 23h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T10:00:21.869604+00:00'
+updated: '2025-12-24T10:33:20.694680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 10:00 UTC  
+**Last Updated:** December 24, 2025 at 10:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +1.9%  
-**30d:** -0.7%  
-**90d:** -20.8%  
-**1y:** -12.5%  
+**24h:** -0.9%  
+**7d:** +2.1%  
+**30d:** -0.6%  
+**90d:** -20.7%  
+**1y:** -12.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1732.26B
+**Market Cap:** $1736.90B
 Rank #1
 
-**Circulating Supply:** 19,966,371 BTC
+**Circulating Supply:** 19,966,409 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.2%
+-31.0%
 
 **All-Time Low:** $67.81
-+127869.3%
++128208.5%
 
 ---
 
@@ -77,13 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+**[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-4h ago
+1h ago
 
 ---
 
-**[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
+**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+
+5h ago
+
+---
+
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
 1h ago
 
@@ -95,23 +101,17 @@ Rank #1
 
 ---
 
-**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
-
-SLAYER RIDING THE BEAR #BITCOIN
-
-7h ago
-
----
-
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
 10h ago
 
 ---
 
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
 
-1h ago
+SLAYER RIDING THE BEAR #BITCOIN
+
+8h ago
 
 ---
 
@@ -129,19 +129,19 @@ Hi I am new to bitcoin, but so far only the exchange is making money. There are 
 
 ---
 
-**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
-
-Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
-
-16h ago
-
----
-
 **[My v2🤩🤩](https://www.reddit.com/r/Bitcoin/comments/1pui1ej/my_v2/)**
 
 V2
 
 2h ago
+
+---
+
+**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
+
+Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
+
+17h ago
 
 ---
 
@@ -153,23 +153,23 @@ V2
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
-**[Bitcoin Price news: BTC slips from day's highs during U.S. trading session](https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance)**
+**[Bitcoin price news: BTC slips below $88,000, but Strategy, Circle, Gemini among those sharply lower](https://www.coindesk.com/markets/2025/12/23/bitcoin-slips-crypto-stocks-suffer-steep-declines-as-tax-loss-selling-drives-action-analysts-say)**
 
-Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
+Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 1d ago
+CoinDesk • 15h ago
 
 ---
 
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Investopedia • 12h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -181,12 +181,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 23h ago
-
----
-
 **[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
 
 Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
@@ -195,17 +189,15 @@ VanEck • 1d ago
 
 ---
 
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-The Block • 17h ago
+Investor's Business Daily • 23h ago
 
 ---
 
-**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
-
-Bloomberg.com • 1d ago
+The Block • 18h ago
 
 ---
 
@@ -220,6 +212,14 @@ WCVB • 1d ago
 **[‘The Biggest Merger In History’—U.S. Treasury Secretary Reveals Price Game-Changer As Wall Street Leans Into Bitcoin And Crypto](https://www.forbes.com/sites/digital-assets/2025/12/23/the-biggest-merger-in-history-us-treasury-secretary-reveals-price-game-changer-as-wall-street-leans-into-bitcoin-and-crypto/)**
 
 Forbes • 21h ago
+
+---
+
+**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+
+A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
+
+Al Jazeera • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 19h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -283,7 +283,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 54K • 👍 3K • 💬 297 • ⏱️ 20:46 • 15h ago
+👁️ 54K • 👍 3K • 💬 297 • ⏱️ 20:46 • 16h ago
 
 ---
 
@@ -303,7 +303,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 24K • 👍 316 • 💬 174 • ⏱️ 5:23 • 19h ago
+👁️ 24K • 👍 316 • 💬 174 • ⏱️ 5:23 • 20h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 115 • ⏱️ 20:00 • 11h ago
+👁️ 20K • 👍 1K • 💬 115 • ⏱️ 20:00 • 12h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 10h ago
+👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 11h ago
 
 ---
 

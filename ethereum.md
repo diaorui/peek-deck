@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T10:00:21.875572+00:00'
+updated: '2025-12-24T10:33:20.700814+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 10:00 UTC  
+**Last Updated:** December 24, 2025 at 10:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +3.5%  
-**30d:** -1.3%  
-**90d:** -27.5%  
-**1y:** -16.5%  
+**24h:** -1.4%  
+**7d:** +3.8%  
+**30d:** -1.0%  
+**90d:** -27.2%  
+**1y:** -16.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.56B
+**Market Cap:** $353.15B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.8%
 
 **All-Time Low:** $0.43
-+674570.1%
++676207.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 2h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ This branch contains a rewrite of some core features of Echidna to transform wor
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 16h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2h ago
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -184,13 +184,13 @@ The Block • 17h ago
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 20h ago
+CCN.com • 21h ago
 
 ---
 
@@ -220,7 +220,7 @@ CoinDesk • 1d ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -234,7 +234,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 10h ago
+👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 11h ago
 
 ---
 
@@ -244,7 +244,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 918 • 👍 36 • 💬 4 • ⏱️ 5:30 • 23h ago
+👁️ 918 • 👍 36 • 💬 4 • ⏱️ 5:30 • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 346 • 👍 19 • 💬 8 • ⏱️ 7:44 • 15h ago
+👁️ 346 • 👍 19 • 💬 8 • ⏱️ 7:44 • 16h ago
 
 ---
 
@@ -314,7 +314,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 744 • 👍 37 • 💬 8 • ⏱️ 9:42 • 20h ago
+👁️ 744 • 👍 37 • 💬 8 • ⏱️ 9:42 • 21h ago
 
 ---
 
@@ -324,7 +324,7 @@ Ethereum Price Prediction — 40% More Dump Pending Is ETH about to crash anothe
 
 📺 Adam coins
 
-👁️ 108 • 👍 4 • 💬 1 • ⏱️ 3:30 • 15h ago
+👁️ 108 • 👍 4 • 💬 1 • ⏱️ 3:30 • 16h ago
 
 ---
 

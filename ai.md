@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T10:00:21.861227+00:00'
+updated: '2025-12-24T10:33:20.686217+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 10:00 UTC  
+**Last Updated:** December 24, 2025 at 10:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 9h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 10h ago
+
+---
+
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 3h ago
 
 ---
 
@@ -55,7 +63,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 All of these game developers have used, or are still using, AI to accelerate production and development, including the most highly awarded game in the history of The Game Awards ❗️ GOTY — Clair Obscur: Expedition 33 Kingdom Come: Deliverance II Cyberpunk TCG The Witcher 4 Divinity https://www.thegamer.com/cd-projekt-red-the-witcher-4-ai/#thread
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +71,7 @@ All of these game developers have used, or are still using, AI to accelerate pro
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-12h ago
+13h ago
 
 ---
 
@@ -75,11 +83,11 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 ---
 
-**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+**[Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act](https://www.reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/)**
 
-“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 2h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 16h ago
 
 ---
 
@@ -91,19 +99,11 @@ Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1
 
 ---
 
-**[Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act](https://www.reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/)**
-
-Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
-
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 16h ago
-
----
-
 **[Intel NPU firmware published for Panther Lake - completing the Linux driver support](https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/)**
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 16h ago
 
 ---
 
@@ -123,7 +123,23 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 16h ago
+blog.google • 17h ago
+
+---
+
+**[Google started the year behind in the AI race. It ended 2025 on top.](https://finance.yahoo.com/news/google-started-the-year-behind-in-the-ai-race-it-ended-2025-on-top-150352574.html)**
+
+Google's AI bounced back in a big way in 2025.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[How Google embraced AI generated ads—a case study for brands](https://adage.com/technology/ai/aa-google-makes-ai-generated-ads-case-study-for-marketers/)**
+
+While Google used to abstain from using AI-generated content, new advancements in AI tools have been too compelling for the tech giant to ignore.
+
+Ad Age • 14h ago
 
 ---
 
@@ -135,6 +151,26 @@ CNBC • 7h ago
 
 ---
 
+**[Chasing an Economic Boom, White House Dismisses Risks of A.I.](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
+
+The New York Times • 30m ago
+
+---
+
+**[Trump's AI hiring campaign draws interest from 25,000 hopefuls](https://www.reuters.com/business/media-telecom/trumps-ai-hiring-campaign-draws-interest-25000-hopefuls-2025-12-23/)**
+
+Reuters • 12h ago
+
+---
+
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
+
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+
+The Guardian • 6d ago
+
+---
+
 **[In 2026, CFOs predict AI transformation, not just efficiency gains](https://fortune.com/2025/12/24/ai-in-2026-cfos-predict-transformation-not-just-efficiency-gains/)**
 
 More than a dozen finance chiefs predict how AI will continue to shape finance.
@@ -143,29 +179,11 @@ Fortune • 2h ago
 
 ---
 
-**[Italy Watchdog Orders Meta to Suspend Exclusion of Rival AI Chatbots From WhatsApp](https://www.wsj.com/tech/italy-watchdog-orders-meta-to-suspend-exclusion-of-rival-ai-chatbots-from-whatsapp-9f1aac96?gaa_at=eafs&gaa_n=AWEtsqd1smsrwf1-BGBtF6hbgFdDLaKBME7fr3R0Ienhr17XWfy3fkuGWmQP&gaa_ts=694bb6d2&gaa_sig=OYmEIOQ0VgWjDzfEfq9GckfSnKvOE2Szvbg1iBKugMxR1OoW_qePV-4dkDz2L7DZEJeUvsnzvIrRqhSJ4SdRUA%3D%3D)**
+**[People Love This Porsche Christmas Ad Because It Doesn’t Look Like AI Was Involved](https://gizmodo.com/people-love-this-porsche-christmas-ad-because-it-doesnt-look-like-ai-was-involved-2000703180)**
 
-The Wall Street Journal • 1h ago
+The McDonald's Christmas AI monstrosity has left people desperate for something to like.
 
----
-
-**[Europe’s Media Giants Face Double Threat From AI, Low Ad Demand](https://www.bloomberg.com/news/articles/2025-12-24/europe-s-media-giants-face-double-threat-from-ai-low-ad-demand)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
-
-The Washington Post • 16h ago
-
----
-
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
-
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
-
-The Guardian • 16h ago
+Gizmodo • 32m ago
 
 ---
 
@@ -174,20 +192,6 @@ The Guardian • 16h ago
 Context matters as much as content in determining whether text is machine generated or not
 
 Financial Times • 5h ago
-
----
-
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
-
-A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
-
-ABC News • 2d ago
-
----
-
-**[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
-
-The New York Times • 19h ago
 
 ---
 
@@ -207,7 +211,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 292 • 💬 255 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 292 • 💬 259 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -223,7 +227,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 220 • 💬 220 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 229 • 💬 226 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -231,13 +235,13 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 193 • 💬 58 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 198 • 💬 60 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 189 • 💬 214 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 190 • 💬 215 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -284,7 +288,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 2K • 👍 59 • 💬 9 • ⏱️ 7:50 • 4h ago
+👁️ 2K • 👍 59 • 💬 9 • ⏱️ 7:50 • 5h ago
 
 ---
 
@@ -390,7 +394,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 703 • 1d ago
+⬇️ 2,719 • ❤️ 721 • 1d ago
 
 ---
 
@@ -402,7 +406,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 662 • 5d ago
+⬇️ 11,944 • ❤️ 664 • 5d ago
 
 ---
 
@@ -414,7 +418,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,379 • 15d ago
+⬇️ 384,826 • ❤️ 3,381 • 15d ago
 
 ---
 
@@ -426,19 +430,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 540 • 5d ago
-
----
-
-**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
-
-*Xiaomi MiMo*
-
-MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
-
-`text-generation` `309.8B`
-
-⬇️ 14,184 • ❤️ 432 • 6d ago
+⬇️ 24,883 • ❤️ 542 • 5d ago
 
 ---
 
@@ -454,18 +446,6 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
-**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
-
-*Microsoft*
-
-TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
-
-`image-to-3d`
-
-⬇️ 0 • ❤️ 382 • 1d ago
-
----
-
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -478,25 +458,49 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[chatterbox-turbo](https://huggingface.co/ResembleAI/chatterbox-turbo)**
+**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
 
-*Resemble AI*
+*Microsoft*
 
-Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M parameters) optimized for low-latency voice agents and narration. It features single-step mel-decoder generation and supports paralinguistic tags like [cough] and [laugh] for enhanced realism.
+TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
 
-`text-to-speech`
+`image-to-3d`
 
-⬇️ 0 • ❤️ 363 • 8d ago
+⬇️ 0 • ❤️ 384 • 1d ago
 
 ---
 
-**[sam-audio-large](https://huggingface.co/facebook/sam-audio-large)**
+**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
 
-*AI at Meta*
+*NVIDIA*
 
-SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
+NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 9,000 • ❤️ 259 • 19h ago
+⬇️ 0 • ❤️ 256 • 5d ago
+
+---
+
+**[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
+
+*Xiaomi MiMo*
+
+MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active parameters, optimized for high-speed reasoning and agentic workflows. It features a hybrid attention architecture and Multi-Token Prediction (MTP) for efficient long-context processing (up to 256k) and accelerated inference, excelling in complex reasoning and coding tasks.
+
+`text-generation` `309.8B`
+
+⬇️ 14,184 • ❤️ 432 • 6d ago
+
+---
+
+**[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
+
+*Qwen*
+
+Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances character consistency, supports integrated LoRA capabilities, and improves geometric reasoning for applications like industrial design and multi-person image editing.
+
+`image-to-image`
+
+⬇️ 1,152 • ❤️ 244 • 21h ago
 
 ---
 
@@ -664,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 412 • 3h ago
+⭐ 3.2k • 🔱 412 • 4h ago
 
 ---
 
@@ -674,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 193 • 4m ago
+⭐ 2.6k • 🔱 193 • 37m ago
 
 ---
 
