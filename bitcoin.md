@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T18:39:24.931774+00:00'
+updated: '2025-12-24T18:57:03.878031+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 18:39 UTC  
+**Last Updated:** December 24, 2025 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.6%  
-**30d:** -0.1%  
-**90d:** -20.3%  
-**1y:** -11.9%  
+**24h:** -0.0%  
+**7d:** +2.7%  
+**30d:** -0.0%  
+**90d:** -20.2%  
+**1y:** -11.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -117,13 +117,13 @@ Rank #1
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-59m ago
+1h ago
 
 ---
 
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 11h ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 11h ago
+KRON4 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Claim your bonus on Lbank ↳ https://www.lbank.com/event/2907-transfer-tradewin
 
 📺 Crypto Goos
 
-👁️ 707 • 👍 44 • 💬 74 • ⏱️ 10:33 • 8h ago
+👁️ 707 • 👍 44 • 💬 74 • ⏱️ 10:33 • 9h ago
 
 ---
 

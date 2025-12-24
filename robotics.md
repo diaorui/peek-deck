@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T18:39:24.940962+00:00'
+updated: '2025-12-24T18:57:03.887287+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 18:39 UTC  
+**Last Updated:** December 24, 2025 at 18:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-4h ago
+5h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -70,7 +70,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 **[Minimal VL53L0X Time-of-Flight driver for bare-metal MCUs (feedback wanted)](https://www.reddit.com/r/robotics/comments/1purka8/minimal_vl53l0x_timeofflight_driver_for_baremetal/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -100,7 +100,7 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
 
-5h ago
+6h ago
 
 ---
 
@@ -120,7 +120,7 @@ IEEE Spectrum • 1d ago
 
 Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -144,7 +144,7 @@ hyundai.com • 2d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 4h ago
+New Atlas • 5h ago
 
 ---
 
