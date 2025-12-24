@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T08:59:48.683938+00:00'
+updated: '2025-12-24T09:33:27.452967+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 08:59 UTC  
+**Last Updated:** December 24, 2025 at 09:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +1.8%  
-**30d:** -0.9%  
-**90d:** -20.9%  
-**1y:** -12.6%  
+**24h:** -0.6%  
+**7d:** +2.0%  
+**30d:** -0.7%  
+**90d:** -20.7%  
+**1y:** -12.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1732.51B
+**Market Cap:** $1732.26B
 Rank #1
 
-**Circulating Supply:** 19,966,340 BTC
+**Circulating Supply:** 19,966,371 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -31.2%
 
 **All-Time Low:** $67.81
-+127881.1%
++127869.3%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-3h ago
+4h ago
+
+---
+
+**[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
+
+35m ago
 
 ---
 
@@ -93,13 +99,19 @@ Rank #1
 
 SLAYER RIDING THE BEAR #BITCOIN
 
-6h ago
+7h ago
 
 ---
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
 9h ago
+
+---
+
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+
+37m ago
 
 ---
 
@@ -113,7 +125,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
 
-3h ago
+4h ago
 
 ---
 
@@ -121,29 +133,15 @@ Hi I am new to bitcoin, but so far only the exchange is making money. There are 
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-15h ago
+16h ago
 
 ---
 
-**[Is never too late to Accumulate Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ptwisd/is_never_too_late_to_accumulate_bitcoin/)**
+**[My v2🤩🤩](https://www.reddit.com/r/Bitcoin/comments/1pui1ej/my_v2/)**
 
-This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
+V2
 
-17h ago
-
----
-
-**[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
-
-1d ago
-
----
-
-**[How diversified should I be](https://www.reddit.com/r/Bitcoin/comments/1pu8k2k/how_diversified_should_i_be/)**
-
-Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
-
-9h ago
+1h ago
 
 ---
 
@@ -155,23 +153,15 @@ Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
-**[Bitcoin price news: BTC slips below $88,000, but Strategy, Circle, Gemini among those sharply lower](https://www.coindesk.com/markets/2025/12/23/bitcoin-slips-crypto-stocks-suffer-steep-declines-as-tax-loss-selling-drives-action-analysts-say)**
+**[Bitcoin Price news: BTC slips from day's highs during U.S. trading session](https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance)**
 
-Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
+Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
 
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin’s $100K Milestone Still Unreached When Inflation Is Considered: Galaxy Research](https://finance.yahoo.com/news/bitcoin-100k-milestone-still-unreached-064746521.html)**
-
-Bitcoin may have printed new highs in nominal terms, but it has yet to truly clear the $100,000 mark once inflation is taken into account, according to Galaxy Research. Key Takeaways: Bitcoin has yet to break $100,000 when adjusted for inflation, Galaxy Research says. Dollar purchasing power has fallen roughly ...
-
-Yahoo Finance • 2h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -179,13 +169,21 @@ Yahoo Finance • 2h ago
 
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 11h ago
+Investopedia • 12h ago
+
+---
+
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -199,7 +197,7 @@ VanEck • 1d ago
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -255,7 +253,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -275,28 +273,6 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
-**[Token-Count-Based Batching: Faster, Cheaper Embedding Inference for Queries](https://news.ycombinator.com/item?id=46370962)**
-
-Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
-
-⬆️ 1 • 💬 0 • 8h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
-
----
-
-**[Show HN: Find games with few -but positive- reviews based on games that you like](https://news.ycombinator.com/item?id=46358236)**
-
-Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems that didn't make it big.
-
-⬆️ 3 • 💬 0 • 1d ago • [notsoaaa.com](https://www.notsoaaa.com/)
-
----
-
-**[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
-
-⬆️ 1 • 💬 0 • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,7 +283,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 54K • 👍 3K • 💬 297 • ⏱️ 20:46 • 14h ago
+👁️ 54K • 👍 3K • 💬 297 • ⏱️ 20:46 • 15h ago
 
 ---
 
@@ -317,7 +293,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 105 • ⏱️ 13:26 • 10h ago
+👁️ 18K • 👍 1K • 💬 105 • ⏱️ 13:26 • 11h ago
 
 ---
 
@@ -327,7 +303,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 24K • 👍 316 • 💬 174 • ⏱️ 5:23 • 18h ago
+👁️ 24K • 👍 316 • 💬 174 • ⏱️ 5:23 • 19h ago
 
 ---
 
@@ -337,7 +313,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 115 • ⏱️ 20:00 • 10h ago
+👁️ 20K • 👍 1K • 💬 115 • ⏱️ 20:00 • 11h ago
 
 ---
 
@@ -347,7 +323,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 9h ago
+👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 10h ago
 
 ---
 
