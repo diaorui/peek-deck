@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T05:42:43.329541+00:00'
+updated: '2025-12-24T05:56:34.115918+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 05:42 UTC  
+**Last Updated:** December 24, 2025 at 05:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** +4.1%  
-**30d:** -0.8%  
-**90d:** -27.0%  
-**1y:** -16.0%  
+**24h:** -1.1%  
+**7d:** +3.8%  
+**30d:** -1.1%  
+**90d:** -27.2%  
+**1y:** -16.3%  
 
 ---
 
@@ -182,7 +182,7 @@ CCN.com • 16h ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -210,7 +210,7 @@ CoinDesk • 1d ago
 
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-TipRanks • 13h ago
+TipRanks • 14h ago
 
 ---
 

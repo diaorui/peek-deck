@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T05:42:43.323441+00:00'
+updated: '2025-12-24T05:56:34.109394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 05:42 UTC  
+**Last Updated:** December 24, 2025 at 05:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +2.4%  
-**30d:** -0.3%  
-**90d:** -20.4%  
-**1y:** -12.1%  
+**24h:** -0.3%  
+**7d:** +2.1%  
+**30d:** -0.6%  
+**90d:** -20.6%  
+**1y:** -12.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-26m ago
+40m ago
 
 ---
 
@@ -151,11 +151,11 @@ Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+**[Bitcoin price news: BTC slips below $88,000, but Strategy, Circle, Gemini among those sharply lower](https://www.coindesk.com/markets/2025/12/23/bitcoin-slips-crypto-stocks-suffer-steep-declines-as-tax-loss-selling-drives-action-analysts-say)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 13h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -189,11 +189,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[The Best Performing Bitcoin and Crypto Stocks of 2025](https://finance.yahoo.com/news/best-performing-bitcoin-crypto-stocks-210103627.html)**
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
 
-Crypto-linked stocks had a banner start to 2025, then spent the rest of the year learning that narrative alone doesn’t compound.
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -221,7 +221,7 @@ Inquirer.com • 10h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfu1h-1VV8KzNNMhsPdAG_OBQVTUKNf-P6Olf5uAu5BfcZVso1wZreX&gaa_ts=694b79d1&gaa_sig=AJCDIPISS79bVQlAZ4kDM9IgZwNxXotw2m9_3KI0R2zr9FA11Mjs4b1WziEkraceiuLjy5Z3vEu-xnCgmQeDQA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqd7iwFMfBpC4n0vPvObKw0JsTQyLMNaftXieg12Z4YGEGsFmXMHESX_&gaa_ts=694b83f8&gaa_sig=mCJbVDaFgxK4HEeaG81hXuNk4gZaWmirHE9POI7S2v6Bmk3aGlcLPbITd64G2MtBp7pkelntBrxZhk5PYDjBXQ%3D%3D)**
 
 The Wall Street Journal • 2h ago
 
@@ -359,7 +359,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 3K • 👍 98 • 💬 16 • ⏱️ 17:16 • 13h ago
+👁️ 3K • 👍 98 • 💬 16 • ⏱️ 17:16 • 14h ago
 
 ---
 

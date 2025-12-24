@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T05:42:43.314666+00:00'
+updated: '2025-12-24T05:56:34.100128+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 05:42 UTC  
+**Last Updated:** December 24, 2025 at 05:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 11h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 12h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-2m ago
+16m ago
 
 ---
 
@@ -71,7 +71,7 @@ Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 11h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 12h ago
 
 ---
 
@@ -127,9 +127,43 @@ blog.google • 12h ago
 
 ---
 
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+
+The Washington Post • 11h ago
+
+---
+
+**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
+
+Reuters • 22h ago
+
+---
+
+**[Why China can’t win the AI-led industrial revolution](https://www.japantimes.co.jp/commentary/2025/12/23/world/china-ai-industrial-revolution/)**
+
+No industrial revolution has ever emerged outside advanced democratic capitalism, and that is no accident.
+
+The Japan Times • 23h ago
+
+---
+
+**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqfhoQfAtsXoku4Qwz9h8DhlpmQoUBqwU4hl6SmZOtI97t1ashY1cnwP&gaa_ts=694b83fe&gaa_sig=w8ISY7OJJDlXHrHC9SHki0fBF_rtjQ0QuG32KjIgL0a5tLeAYra9WpY4DrAjtcsZZZMgZZTFra0eL4zSa6Ao4w%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[Marketers are keen to use generative AI in ad campaigns, but hidden costs lurk](https://digiday.com/marketing/marketers-are-keen-to-use-generative-ai-in-ad-campaigns-but-hidden-costs-lurk/)**
+
+Marketers across the industry want to use AI to cut down on time spent in creative production. It's not so simple in practice.
+
+Digiday • 54m ago
+
+---
+
 **[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -149,47 +183,11 @@ The Guardian • 12h ago
 
 ---
 
-**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
+**[The next AI pivot will be toward efficiency and lowering costs, ex-Facebook privacy chief says](https://www.cnbc.com/2025/12/23/ai-cost-efficiency-facebook-privacy.html)**
 
-Reuters • 22h ago
+Former Facebook privacy chief Chris Kelly said that AI companies will focus on creating efficiencies for training models.
 
----
-
-**[Why China can’t win the AI-led industrial revolution](https://www.japantimes.co.jp/commentary/2025/12/23/world/china-ai-industrial-revolution/)**
-
-No industrial revolution has ever emerged outside advanced democratic capitalism, and that is no accident.
-
-The Japan Times • 23h ago
-
----
-
-**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqcIdnAg6GOI-Luwk9ZPcQc0pXxgCOYO5d7MufIvp3kv_uyVom0mX7kM&gaa_ts=694b79bc&gaa_sig=w8Pua9cCO2ZuJRaOwnYN-4oah1MA_wewCoGOeNuo0XBw72ZdGJ0yEE9Lurf-U8EhYAwi9_3VVjsDHKtctnEivw%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[Marketers are keen to use generative AI in ad campaigns, but hidden costs lurk](https://digiday.com/marketing/marketers-are-keen-to-use-generative-ai-in-ad-campaigns-but-hidden-costs-lurk/)**
-
-Marketers across the industry want to use AI to cut down on time spent in creative production. It's not so simple in practice.
-
-Digiday • 41m ago
-
----
-
-**[Rebellions AI Puts Together An HBM And Arm Alliance To Take On Nvidia](https://www.nextplatform.com/2025/12/23/rebellions-ai-puts-together-an-hbm-and-arm-alliance-to-take-on-nvidia/)**
-
-The number of AI inference chip startups in the world is gross – literally gross, as in a dozen dozens. But there is only one that is funded by two of the
-
-The Next Platform • 10h ago
-
----
-
-**[Where Will Nvidia Stock Be in 10 Years?](https://www.fool.com/investing/2025/12/23/where-will-nvidia-stock-be-in-10-years/)**
-
-Generative AI is still booming. But what comes next?
-
-The Motley Fool • 2h ago
+CNBC • 14h ago
 
 ---
 
@@ -296,7 +294,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 341K • 👍 13K • 💬 3K • ⏱️ 19:40 • 15h ago
+👁️ 341K • 👍 13K • 💬 3K • ⏱️ 19:40 • 16h ago
 
 ---
 
@@ -474,7 +472,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,493 • ❤️ 426 • 9d ago
+⬇️ 6,493 • ❤️ 426 • 10d ago
 
 ---
 
@@ -654,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 680 • 2h ago
+⭐ 6.1k • 🔱 680 • 3h ago
 
 ---
 
