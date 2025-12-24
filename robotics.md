@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T15:46:47.574848+00:00'
+updated: '2025-12-24T15:57:40.959527+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 15:46 UTC  
+**Last Updated:** December 24, 2025 at 15:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-1h ago
+2h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -62,7 +62,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 **[Pirates of the Caribbean maintenance manual with full exploded views of animatronics](https://www.reddit.com/r/robotics/comments/1puplo2/pirates_of_the_caribbean_maintenance_manual_with/)**
 
-🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 32m ago
+🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 43m ago
 
 ---
 
@@ -114,7 +114,7 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 1h ago
+New Atlas • 2h ago
 
 ---
 
@@ -142,7 +142,7 @@ Phys.org • 1d ago
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-Investor's Business Daily • 45m ago
+Investor's Business Daily • 56m ago
 
 ---
 
@@ -158,7 +158,7 @@ The Robot Report • 19h ago
 
 Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 18h ago
 
 ---
 

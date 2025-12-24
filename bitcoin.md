@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T15:46:47.565483+00:00'
+updated: '2025-12-24T15:57:40.950294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 15:46 UTC  
+**Last Updated:** December 24, 2025 at 15:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,034.87
+### $87,084.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
+**24h:** -1.1%  
 **7d:** +2.2%  
 **30d:** -0.5%  
 **90d:** -20.6%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Guardian • 19h ago
 
 Bitcoin is missing out on the Christmas cheer.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 5h ago
 
 How much of a resource hog is AI?
 
-⬆️ 5 • 💬 1 • 5d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
+⬆️ 5 • 💬 1 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
 
 ---
 

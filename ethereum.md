@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T15:46:47.571547+00:00'
+updated: '2025-12-24T15:57:40.956249+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 15:46 UTC  
+**Last Updated:** December 24, 2025 at 15:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +3.7%  
-**30d:** -1.1%  
-**90d:** -27.3%  
-**1y:** -16.3%  
+**24h:** -1.3%  
+**7d:** +3.5%  
+**30d:** -1.3%  
+**90d:** -27.4%  
+**1y:** -16.5%  
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello Everyone I am following the Ethereum pricing for the last few weeks and I see the price is gradually sliding downward. So I queried Google Gemini for the forecast market for 2026 and shared a forcast trend between $4,900 - $7,500. Are there any possible reasons for the price of ether will be around that range from 2026?
 
-35m ago
+46m ago
 
 ---
 
@@ -216,7 +216,7 @@ CoinDesk • 1d ago
 
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-TipRanks • 23h ago
+TipRanks • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 365 • 40m ago
+👁️ 2K • 👍 365 • 51m ago
 
 ---
 
