@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T07:01:19.454184+00:00'
+updated: '2025-12-24T07:33:04.628481+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 07:01 UTC  
+**Last Updated:** December 24, 2025 at 07:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 6h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 7h ago
+
+---
+
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 3m ago
 
 ---
 
@@ -55,7 +63,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-9h ago
+10h ago
 
 ---
 
@@ -79,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 12h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 13h ago
 
 ---
 
@@ -87,7 +95,7 @@ Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las V
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 21h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 22h ago
 
 ---
 
@@ -95,7 +103,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 Before you all say go for the 5060TI hear me out. I play games occasionally, watch videos streaming, and basic stuff. My 67xt is serving me well except for one thing, AI. Now I use backyardAI a lot for my stories. I am getting about 15-20 tokens/sec on a 9gb LLM I am also wanting to try Stable Diffusion one day to generate photos and other things I dont know about yet. I attn span is as long as my pinky so I dont know how long I am going to be into this I can sell my 6700xt for about $240 and grab the 5060Ti 16gb PNY for $480 after tax. Is it really necessary?? Is AMD support going to catch up soon as far as software support for AI generation? Is there going to be progress? Happy Holidays
 
-5h ago
+6h ago
 
 ---
 
@@ -107,14 +115,6 @@ Uh oh…
 
 ---
 
-**[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
-
-There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
-
-20h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,65 +123,21 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 13h ago
+blog.google • 14h ago
 
 ---
 
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+**[Google started the year behind in the AI race. It ended 2025 on top.](https://finance.yahoo.com/news/google-started-the-year-behind-in-the-ai-race-it-ended-2025-on-top-150352574.html)**
 
-The Washington Post • 13h ago
+Google's AI bounced back in a big way in 2025.
 
----
-
-**[Tech groups shift $120bn of AI data centre debt off balance sheets](https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83)**
-
-Creative financing helps insulate Big Tech while binding Wall Street to a future boom or bust
-
-Financial Times • 2h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Marketers are keen to use generative AI in ad campaigns, but hidden costs lurk](https://digiday.com/marketing/marketers-are-keen-to-use-generative-ai-in-ad-campaigns-but-hidden-costs-lurk/)**
+**[Google looks to buy its way out of the AI power crunch with $4.75B Intersect acquisition](https://www.geekwire.com/2025/google-looks-to-buy-its-way-out-of-ai-power-crunch-with-4-75b-intersect-acquisition/)**
 
-Marketers across the industry want to use AI to cut down on time spent in creative production. It's not so simple in practice.
-
-Digiday • 1h ago
-
----
-
-**[No, you can’t tell when something was written by AI](https://www.ft.com/content/b2ebb99a-cfea-465f-93ff-0ea8ed6bfac5)**
-
-Context matters as much as content in determining whether text is machine generated or not
-
-Financial Times • 2h ago
-
----
-
-**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
-
-Reuters • 23h ago
-
----
-
-**[Why China can’t win the AI-led industrial revolution](https://www.japantimes.co.jp/commentary/2025/12/23/world/china-ai-industrial-revolution/)**
-
-No industrial revolution has ever emerged outside advanced democratic capitalism, and that is no accident.
-
-The Japan Times • 1d ago
-
----
-
-**[The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.](https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html)**
-
-The New York Times • 1d ago
-
----
-
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
-
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
-
-The Guardian • 13h ago
+GeekWire • 13h ago
 
 ---
 
@@ -193,6 +149,48 @@ CNBC • 4h ago
 
 ---
 
+**[Tech groups shift $120bn of AI data centre debt off balance sheets](https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83)**
+
+Creative financing helps insulate Big Tech while binding Wall Street to a future boom or bust
+
+Financial Times • 2h ago
+
+---
+
+**[No, you can’t tell when something was written by AI](https://www.ft.com/content/b2ebb99a-cfea-465f-93ff-0ea8ed6bfac5)**
+
+Context matters as much as content in determining whether text is machine generated or not
+
+Financial Times • 2h ago
+
+---
+
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+
+The Washington Post • 13h ago
+
+---
+
+**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
+
+The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
+
+The Guardian • 14h ago
+
+---
+
+**[Global investors turn to Chinese AI as Wall Street fears bubble](https://www.reuters.com/world/china/global-investors-turn-chinese-ai-wall-street-fears-bubble-2025-12-23/)**
+
+Reuters • 1d ago
+
+---
+
+**[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
+
+The New York Times • 19h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +199,15 @@ CNBC • 4h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 786 • 💬 467 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 788 • 💬 467 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+
+---
+
+**[iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://news.ycombinator.com/item?id=46362927)**
+
+The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
+
+⬆️ 278 • 💬 239 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -213,33 +219,25 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 ---
 
-**[iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://news.ycombinator.com/item?id=46362927)**
-
-The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
-
-⬆️ 268 • 💬 223 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
-
----
-
 **[Local AI is driving the biggest change in laptops in decades](https://news.ycombinator.com/item?id=46360856)**
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 207 • 💬 213 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 209 • 💬 214 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 188 • 💬 212 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 188 • 💬 212 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
-**[Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://news.ycombinator.com/item?id=46342902)**
+**[Toad is a unified experience for AI in the terminal](https://news.ycombinator.com/item?id=46354737)**
 
-The Indie Game Awards presented the award last night, only to strip it hours later.
+My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 185 • 💬 401 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 186 • 💬 53 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -251,14 +249,6 @@ down my instance while still serving most people with minimal amount of
 friction.
 
 ⬆️ 184 • 💬 93 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
-
----
-
-**[Toad is a unified experience for AI in the terminal](https://news.ycombinator.com/item?id=46354737)**
-
-My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
-
-⬆️ 181 • 💬 51 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -276,6 +266,14 @@ Personal Musings and Transcripts
 
 ---
 
+**[Google's healthcare AI made up a body part – what if doctors don't notice?](https://news.ycombinator.com/item?id=46359643)**
+
+The basilar ganglia does not exist.
+
+⬆️ 28 • 💬 11 • 1d ago • [The Verge](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -286,7 +284,7 @@ AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 62K • 👍 5K • 💬 668 • ⏱️ 16:24 • 12h ago
+👁️ 62K • 👍 5K • 💬 668 • ⏱️ 16:24 • 13h ago
 
 ---
 
@@ -376,25 +374,13 @@ Kurt 'CyberGuy' Knutsson breaks down the AI race with China, concerns about the 
 
 📺 Fox News Clips
 
-👁️ 5K • 👍 114 • 💬 65 • ⏱️ 4:38 • 14h ago
+👁️ 5K • 👍 114 • 💬 65 • ⏱️ 4:38 • 15h ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
-
-*Qwen*
-
-Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
-
-`image-text-to-image`
-
-⬇️ 9,848 • ❤️ 655 • 4d ago
-
----
 
 **[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
 
@@ -404,7 +390,19 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 622 • 21h ago
+⬇️ 1,148 • ❤️ 671 • 21h ago
+
+---
+
+**[Qwen-Image-Layered](https://huggingface.co/Qwen/Qwen-Image-Layered)**
+
+*Qwen*
+
+Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, enabling high-fidelity manipulation like resizing, recoloring, and object replacement. It supports variable and recursive layer decomposition for flexible image editing.
+
+`image-text-to-image`
+
+⬇️ 9,848 • ❤️ 657 • 4d ago
 
 ---
 
@@ -416,7 +414,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,375 • 15d ago
+⬇️ 373,123 • ❤️ 3,376 • 15d ago
 
 ---
 
@@ -428,7 +426,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 537 • 5d ago
+⬇️ 21,058 • ❤️ 538 • 5d ago
 
 ---
 
@@ -452,7 +450,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 411 • 5d ago
+⬇️ 3,313 • ❤️ 412 • 5d ago
 
 ---
 
@@ -464,7 +462,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 381 • 21h ago
+⬇️ 0 • ❤️ 382 • 22h ago
 
 ---
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 397 • 49m ago
+⭐ 3.1k • 🔱 397 • 1h ago
 
 ---
 
@@ -686,7 +684,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.9k • 🔱 375 • 17d ago
+⭐ 1.9k • 🔱 375 • 18d ago
 
 ---
 

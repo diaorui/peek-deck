@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T07:01:19.462553+00:00'
+updated: '2025-12-24T07:33:04.636939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 07:01 UTC  
+**Last Updated:** December 24, 2025 at 07:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,23 +48,23 @@ Live Bitcoin monitoring dashboard
 **7d:** +2.2%  
 **30d:** -0.5%  
 **90d:** -20.6%  
-**1y:** -12.2%  
+**1y:** -12.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1735.04B
+**Market Cap:** $1735.71B
 Rank #1
 
-**Circulating Supply:** 19,966,296 BTC
+**Circulating Supply:** 19,966,328 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.1%
+-31.0%
 
 **All-Time Low:** $67.81
-+128055.1%
++128105.3%
 
 ---
 
@@ -77,15 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Cats getting intrest in bitcoin 💥](https://www.reddit.com/r/Bitcoin/comments/1pue5xd/cats_getting_intrest_in_bitcoin/)**
-
-2h ago
-
----
-
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +93,13 @@ Rank #1
 
 SLAYER RIDING THE BEAR #BITCOIN
 
-4h ago
+5h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
+
+1h ago
 
 ---
 
@@ -107,7 +107,21 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-13h ago
+14h ago
+
+---
+
+**[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
+
+3h ago
+
+---
+
+**[I am new to BITCOIN but so far...](https://www.reddit.com/r/Bitcoin/comments/1puflp8/i_am_new_to_bitcoin_but_so_far/)**
+
+Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
+
+1h ago
 
 ---
 
@@ -121,13 +135,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
 
-15h ago
-
----
-
-**[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
-
-3h ago
+16h ago
 
 ---
 
@@ -135,15 +143,7 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
-16h ago
-
----
-
-**[How diversified should I be](https://www.reddit.com/r/Bitcoin/comments/1pu8k2k/how_diversified_should_i_be/)**
-
-Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
-
-7h ago
+17h ago
 
 ---
 
@@ -155,15 +155,15 @@ Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
-**[Bitcoin Price news: BTC slips from day's highs during U.S. trading session](https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance)**
+**[Bitcoin price news: BTC slips below $88,000, but Strategy, Circle, Gemini among those sharply lower](https://www.coindesk.com/markets/2025/12/23/bitcoin-slips-crypto-stocks-suffer-steep-declines-as-tax-loss-selling-drives-action-analysts-say)**
 
-Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
+Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 1d ago
+CoinDesk • 12h ago
 
 ---
 
@@ -175,25 +175,33 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
+
+Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
 
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 9h ago
+Investopedia • 10h ago
+
+---
+
+**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
+
+Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
+
+Bitcoin Magazine • 13h ago
 
 ---
 
 **[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
 Investor's Business Daily • 20h ago
-
----
-
-**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
-
-Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -213,15 +221,9 @@ WCVB • 1d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeKnTZYy9yIJlWqvCjxemG-hBfsezj-CR6kt5A_bTUUVUbsymKsQBtZ&gaa_ts=694b8e34&gaa_sig=lABZ7H5Y6xd4s0CMbtUletn97nLEI_rzTaVjsCNeH2IrmBFSGo-ODTWENEOPo4-BJV208oIRJFw5kKBxQT9Itg%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfpxcqfJJswCgWoiQUrhv6Y4WHF0_zx1xl0KUCmI9OVX4aFbVUxEKTF&gaa_ts=694b9a9f&gaa_sig=_pzZz9w16wgtAcidp8W6cd1KqANmdDaWZloU3veaWYkLdR6NPosMhWvdIR1kvfqUcQKwfd57Nqw891klOEmHFA%3D%3D)**
 
 The Wall Street Journal • 4h ago
-
----
-
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 15h ago
 
 ---
 
@@ -255,7 +257,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -279,7 +281,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 6h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 7h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -293,7 +295,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 23h ago
+⬆️ 1 • 💬 0 • 1d ago
 
 ---
 
@@ -317,7 +319,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 23K • 👍 311 • 💬 166 • ⏱️ 5:23 • 16h ago
+👁️ 23K • 👍 311 • 💬 166 • ⏱️ 5:23 • 17h ago
 
 ---
 
@@ -327,7 +329,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 17K • 👍 1K • 💬 108 • ⏱️ 20:00 • 8h ago
+👁️ 17K • 👍 1K • 💬 108 • ⏱️ 20:00 • 9h ago
 
 ---
 
@@ -347,7 +349,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 2K • 💬 352 • ⏱️ 10:51 • 7h ago
+👁️ 20K • 👍 2K • 💬 352 • ⏱️ 10:51 • 8h ago
 
 ---
 

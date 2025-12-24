@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T07:01:19.471760+00:00'
+updated: '2025-12-24T07:33:04.646113+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 07:01 UTC  
+**Last Updated:** December 24, 2025 at 07:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-20h ago
+21h ago
 
 ---
 
@@ -80,9 +80,9 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 **[I’m building a small expressive desk robot — would love honest feedback & ideas](https://www.reddit.com/r/robotics/comments/1pugpsi/im_building_a_small_expressive_desk_robot_would/)**
 
-Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
+Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-23m ago
+54m ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspir
 
 I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
 
-6h ago
+7h ago
 
 ---
 
@@ -120,35 +120,11 @@ hyundai.com • 2d ago
 
 ---
 
-**[Video: China’s six humanoid robots steal the show at concert, perform synchronized dance](https://interestingengineering.com/ai-robotics/china-humanoid-robots-dance-chengdu-concert)**
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
-Six humanoid robots performed a synchronized dance alongside Wang Leehom at a concert in Chengdu.
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
 
-Interesting Engineering • 3d ago
-
----
-
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
-
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
-
-El Adelantado • 1d ago
-
----
-
-**[Humanoid robots head to chip factories in global deal with Oversonic](https://www.stocktitan.net/news/STM/oversonic-robotics-signs-humanoid-robots-supply-agreement-with-st-yc3ygdinwizf.html)**
-
-In 2025, STMicroelectronics will deploy Oversonic RoBee humanoids across plants, starting at its Malta fab, and show collaboration with live demos at CES.
-
-Stock Titan • 1d ago
-
----
-
-**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
-
-China sees humanoids as an economic engine and Musk wants a ‘robot army.’
-
-The Verge • 2d ago
+Good Morning Wilton • 2d ago
 
 ---
 
@@ -170,7 +146,15 @@ The Robot Report • 11h ago
 
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
-Phys.org • 20h ago
+Phys.org • 21h ago
+
+---
+
+**[Training a robot to replace you? Local startup Tutor Intelligence says it could happen.](https://www.bostonglobe.com/2025/12/22/business/tutor-intelligence-ai-robotics-employment/)**
+
+Tutor’s first product, Cassie, is designed for a relatively simple task — loading and unloading shipping pallets laden with boxes of merchandise.
+
+The Boston Globe • 1d ago
 
 ---
 
@@ -178,15 +162,29 @@ Phys.org • 20h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
-**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
 
-Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
 
-Futura, Le média qui explore le monde • 18h ago
+El Adelantado • 1d ago
+
+---
+
+**[Hyundai's Boston Dynamics to debut new Atlas humanoid robots at CES](https://www.reuters.com/business/retail-consumer/hyundais-boston-dynamics-debut-new-atlas-humanoid-robots-ces-2025-12-22/)**
+
+Reuters • 2d ago
+
+---
+
+**[European firm to deploy humanoid robots in semiconductor production for first time](https://interestingengineering.com/ai-robotics/humanoid-robots-to-join-chip-production-factories)**
+
+Swiss semiconductor firm STMicroelectronics has signed an agreement with Oversonic Robotics to deploy cognitive robots in factories.
+
+Interesting Engineering • 19h ago
 
 ---
 

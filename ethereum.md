@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T07:01:19.468535+00:00'
+updated: '2025-12-24T07:33:04.642918+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 07:01 UTC  
+**Last Updated:** December 24, 2025 at 07:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.61B
+**Market Cap:** $353.83B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.7%
 
 **All-Time Low:** $0.43
-+676572.5%
++677110.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-59m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 13h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 14h ago
 
 ---
 
@@ -89,6 +89,14 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[[RFC] Full support for MCP commands during fuzzing campaigns in Echidna](https://www.reddit.com/r/ethereum/comments/1puhf3e/rfc_full_support_for_mcp_commands_during_fuzzing/)**
+
+This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
+
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 12m ago
 
 ---
 
@@ -138,14 +146,6 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 ---
 
-**[Daily General Discussion December 20, 2025](https://www.reddit.com/r/ethereum/comments/1pr76mk/daily_general_discussion_december_20_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -172,12 +172,6 @@ The Block • 15h ago
 
 ---
 
-**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
-
-CCN.com • 17h ago
-
----
-
 **[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
@@ -186,9 +180,15 @@ Yahoo Finance • 20h ago
 
 ---
 
+**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
+
+CCN.com • 18h ago
+
+---
+
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 23h ago
 
 Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -232,7 +232,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 2K • 💬 352 • ⏱️ 10:51 • 7h ago
+👁️ 20K • 👍 2K • 💬 352 • ⏱️ 10:51 • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 916 • 👍 36 • 💬 4 • ⏱️ 5:30 • 20h ago
+👁️ 916 • 👍 36 • 💬 4 • ⏱️ 5:30 • 21h ago
 
 ---
 
@@ -282,7 +282,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 316 • 👍 19 • 💬 6 • ⏱️ 7:44 • 12h ago
+👁️ 316 • 👍 19 • 💬 6 • ⏱️ 7:44 • 13h ago
 
 ---
 
@@ -302,7 +302,7 @@ Get ready for whats probably going to be one of the craziest years in crypto in 
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 778 • 💬 172 • ⏱️ 22:25 • 21h ago
+👁️ 7K • 👍 778 • 💬 172 • ⏱️ 22:25 • 22h ago
 
 ---
 
@@ -322,7 +322,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 708 • 👍 37 • 💬 8 • ⏱️ 9:42 • 17h ago
+👁️ 708 • 👍 37 • 💬 8 • ⏱️ 9:42 • 18h ago
 
 ---
 
