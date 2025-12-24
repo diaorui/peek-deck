@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T21:48:38.289234+00:00'
+updated: '2025-12-24T21:59:24.661651+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 21:48 UTC  
+**Last Updated:** December 24, 2025 at 21:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 12h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-41m ago
+52m ago
 
 ---
 
@@ -80,6 +80,14 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 4h ago
+
+---
+
+**[Can AI ever be funny? Some comedians embrace AI tools but they're still running the show](https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/)**
+
+Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
+
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 5h ago
 
 ---
 
@@ -299,14 +307,6 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 ---
 
-**[Can AI ever be funny? Some comedians embrace AI tools but they're still running the show](https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/)**
-
-Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
-
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 5h ago
-
----
-
 **[Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act](https://www.reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/)**
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
@@ -319,11 +319,11 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 ## Google News: "ai"
 
-**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
+**[Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
-While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 8h ago
+CNBC • 1h ago
 
 ---
 
@@ -333,41 +333,23 @@ The New York Times • 11h ago
 
 ---
 
-**[Famous AI Is Opening the Door to Instant App Creation](https://www.usatoday.com/story/special/contributor-content/2025/12/24/famous-ai-is-opening-the-door-to-instant-app-creation/87910055007/)**
+**[Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports](https://www.reuters.com/business/nvidia-buy-ai-chip-startup-groq-about-20-billion-cnbc-reports-2025-12-24/)**
 
-What once required teams of engineers can now be built in minutes.
-
-USA Today • 2h ago
+Reuters • 48m ago
 
 ---
 
-**[Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Big Winners Again in 2026](https://www.fool.com/investing/2025/12/24/best-ai-stocks-buy-now-2026/)**
+**[Can teacher wisdom steer the AI transition in education?](https://www.fastcompany.com/91464977/can-teacher-wisdom-steer-the-ai-transition-in-education)**
 
-Nvidia (NVDA), Broadcom (AVGO), and Taiwan Semiconductor Manufacturing (TSM) stocks are the top three artificial intelligence (AI) stocks to buy now and into 2026.
-
-The Motley Fool • 10h ago
+Fast Company • 54m ago
 
 ---
 
-**[Nebius, Nvidia Lead the Best AI Stocks to Hold in 2026](https://seekingalpha.com/article/4855470-nebius-nvidia-lead-the-best-ai-stocks-to-hold)**
+**[The 2 Best AI ETFs To Invest $1,000 in Right Now](https://finance.yahoo.com/news/2-best-ai-etfs-invest-211000481.html)**
 
-The best AI stocks to hold in 2026 are well positioned to grow through the next phase of the artificial intelligence revolution. Click here to see 3 top stocks.
+These two funds offer a good way to get exposure to artificial intelligence.
 
-Seeking Alpha • 23h ago
-
----
-
-**[Broadcom, Bloom Energy, and Other AI Bargains Appeal to This Tech Investor](https://www.barrons.com/articles/ai-tech-broadcom-bloom-energy-8223b02a?gaa_at=eafs&gaa_n=AWEtsqdE9dGsqrjwB2T69ACZq9ec04P9_Z8gps6k60XR8j0i9PoOdHo_yMKO&gaa_ts=694c5cb2&gaa_sig=NjsB_DyO7xxXqTrPZ0tnKVPCwH-j_WNt4_jaMR6Tl44-tGvVeYMm_X2NwciXwwgWugmou33w7UkGJNoiLBnK9Q%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[An AI bubble may be here, but the bubble is bigger for 'fad trades'](https://finance.yahoo.com/video/ai-bubble-may-bubble-bigger-190000752.html)**
-
-While artificial intelligence dominated market themes in 2025, all Wall Street can talk about now is whether the market (^DJI, ^IXIC, ^GSPC) is already in or about to enter an AI bubble. Annandale Capital founder and chairman George Seay and CFRA Research chief investment strategist Sam Stovall share their thoughts on whether an AI bubble is forming or already here, and the areas displaying the most exuberance. Also catch Sam Stovall discuss Wall Street's Santa Claus rally optimism and George Seay's comments on small-cap stocks in 2026. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -379,6 +361,14 @@ blog.google • 1d ago
 
 ---
 
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
+
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+Fortune • 1d ago
+
+---
+
 **[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
@@ -387,11 +377,19 @@ Los Angeles Times • 10h ago
 
 ---
 
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
+**[The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/)**
 
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.
 
-Fortune • 1d ago
+WIRED • 10h ago
+
+---
+
+**[No, you can’t tell when something was written by AI](https://www.ft.com/content/b2ebb99a-cfea-465f-93ff-0ea8ed6bfac5)**
+
+Context matters as much as content in determining whether text is machine generated or not
+
+Financial Times • 16h ago
 
 ---
 
@@ -403,7 +401,7 @@ Fortune • 1d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 798 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 799 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -411,7 +409,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 306 • 💬 289 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 306 • 💬 290 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -433,7 +431,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 193 • 💬 218 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 193 • 💬 216 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -441,13 +439,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 122 • 💬 60 • 3h ago • [GitHub](https://github.com/VibiumDev/vibium)
-
----
-
-**[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://news.ycombinator.com/item?id=46356603)**
-
-⬆️ 94 • 💬 133 • 2d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+⬆️ 147 • 💬 63 • 4h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -455,7 +447,13 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 31 • 💬 6 • 46m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 116 • 💬 46 • 57m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+
+---
+
+**[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://news.ycombinator.com/item?id=46356603)**
+
+⬆️ 94 • 💬 133 • 2d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
 
 ---
 
@@ -589,7 +587,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 772 • 1d ago
+⬇️ 2,719 • ❤️ 773 • 1d ago
 
 ---
 
@@ -613,7 +611,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,393 • 16d ago
+⬇️ 384,826 • ❤️ 3,394 • 16d ago
 
 ---
 
@@ -673,7 +671,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 298 • 1d ago
+⬇️ 1,152 • ❤️ 299 • 1d ago
 
 ---
 
@@ -683,7 +681,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 279 • 6d ago
+⬇️ 0 • ❤️ 281 • 6d ago
 
 ---
 
@@ -808,19 +806,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 26 • 💬 1 • ⭐ 66,091 • 27mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -830,6 +815,18 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 26 • 💬 0 • ⭐ 26,479 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693)**
+
+*Weichen Fan, Haiwen Diao, Quan Wang et al. (5 authors)*
+
+Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
+
+▲ 59 • 💬 3 • ⭐ 74 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
 
 ---
 
@@ -863,7 +860,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 417 • 1h ago
+⭐ 3.3k • 🔱 418 • 1h ago
 
 ---
 
@@ -873,7 +870,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 197 • 1h ago
+⭐ 2.8k • 🔱 198 • 1m ago
 
 ---
 
@@ -923,7 +920,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 883 • 🔱 128 • 7d ago
+⭐ 886 • 🔱 128 • 7d ago
 
 ---
 
@@ -933,7 +930,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 819 • 🔱 66 • 21d ago
+⭐ 820 • 🔱 66 • 21d ago
 
 ---
 
