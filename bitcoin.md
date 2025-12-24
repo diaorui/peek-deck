@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T17:35:09.857135+00:00'
+updated: '2025-12-24T17:47:16.751268+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 17:35 UTC  
+**Last Updated:** December 24, 2025 at 17:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
+**24h:** -0.7%  
 **7d:** +2.7%  
-**30d:** +0.1%  
-**90d:** -20.1%  
+**30d:** +0.0%  
+**90d:** -20.2%  
 **1y:** -11.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1743.02B
+**Market Cap:** $1743.18B
 Rank #1
 
 **Circulating Supply:** 19,966,515 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.7%
 
 **All-Time Low:** $67.81
-+128640.6%
++128684.8%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,39 +95,39 @@ Rank #1
 
 ---
 
-**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
-
-12h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
-
-12h ago
-
----
-
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
 2h ago
 
 ---
 
+**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+
+12h ago
+
+---
+
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-4h ago
+5h ago
 
 ---
 
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
-1h ago
+2h ago
 
 ---
 
 **[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
 
 3h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
+
+12h ago
 
 ---
 
@@ -157,53 +157,41 @@ The Block • 8h ago
 
 ---
 
-**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
+**[Here's What Bitcoin Was Worth on Every Christmas Eve Since Its Inception — 2017 Will Shock You](https://finance.yahoo.com/news/heres-bitcoin-worth-every-christmas-170215797.html)**
 
-A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
+Bitcoin’s Christmas Eve price history underscores extreme volatility. 2017 marked Bitcoin’s first true mainstream breakout — and its risks. Analysts believe holiday trading rarely changes ...
 
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqecbsCBRNbPKdagY5neHbu24u90N1EVQOVJaayQaKuyiKXItbi-AMg3&gaa_ts=694c2317&gaa_sig=aJ248S7GrGwY3hHtkNTrvqq8gwDxn_Ix3ocYRWqlq879JQJ69zE6r76VIwO2bACSqK8j_efPjZeEiwuK3-yUkg%3D%3D)**
-
-Barron's • 1d ago
+Yahoo Finance • 45m ago
 
 ---
 
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
+**[Bitcoin news: BTC vs. gold tilts in the metal's favor](https://www.coindesk.com/markets/2025/12/24/bitcoin-continues-to-slip-against-gold-testing-the-safe-haven-trade)**
 
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+Gold is rallying on rate cut expectations and geopolitical risk, while bitcoin has struggled to hold key psychological levels and remains sensitive to the same forces that tend to hit equities and other risk assets.
 
-Investopedia • 7h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
+**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
 
-The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
+Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
 
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+Bitcoin is missing out on the Christmas cheer.
 
-Investopedia • 20h ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqfigZjbTpOxY0lqaZsi88KJOSIs3l5_H3KNz5pymdsZhsmBP2FyUzCK&gaa_ts=694c2a91&gaa_sig=LEVT8Sfj5r4SMjbrDdT0dN4JHfew6ciFK_IB_a7a_FEDeVrYD1Ta3dmdaNX8aAgfo34RaA4-vgT8fdghEtxpBA%3D%3D)**
 
-KRON4 • 10h ago
+Barron's • 1d ago
 
 ---
 
@@ -212,6 +200,20 @@ KRON4 • 10h ago
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
 The Guardian • 21h ago
+
+---
+
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 11h ago
+
+---
+
+**[Despite Being Volatile, Bitcoin Is Looking Strong](https://bitcoinmagazine.com/news/bitcoin-bullish-signals-are-emerging)**
+
+Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -259,7 +261,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 19 • 💬 5 • 1h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 26 • 💬 10 • 1h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 

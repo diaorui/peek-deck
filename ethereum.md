@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T17:35:09.863098+00:00'
+updated: '2025-12-24T17:47:16.757266+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 17:35 UTC  
+**Last Updated:** December 24, 2025 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +4.5%  
-**30d:** -0.4%  
-**90d:** -26.8%  
-**1y:** -15.7%  
+**24h:** -0.1%  
+**7d:** +4.2%  
+**30d:** -0.6%  
+**90d:** -26.9%  
+**1y:** -15.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.76B
+**Market Cap:** $354.66B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.6%
 
 **All-Time Low:** $0.43
-+679154.7%
++678676.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
-🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 38m ago
+🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 50m ago
 
 ---
 
@@ -146,19 +146,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
-
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
-
-Decrypt • 1d ago
-
----
-
 **[Where Will Cryptocurrency Ethereum Be in 5 Years?](https://www.fool.com/investing/2025/12/22/where-will-cryptocurrency-ethereum-be-in-5-years/)**
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
 The Motley Fool • 2d ago
+
+---
+
+**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
+
+Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
+
+Crypto Briefing • 1d ago
 
 ---
 
@@ -173,6 +173,20 @@ The Block • 1d ago
 Leading cryptocurrencies consolidated, while stocks climbed higher on Monday, as investors looked for clues on the “Santa Claus Rally.” Cryptocurrency Gains +/- Price (Recorded at 8:20 p.m. ET) Bitcoin (CRYPTO: ...
 
 Yahoo Finance • 13h ago
+
+---
+
+**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
+
+Binance • 8h ago
+
+---
+
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
+
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
+
+Decrypt • 1d ago
 
 ---
 
@@ -201,20 +215,6 @@ CCN.com • 1d ago
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
 The Block • 1d ago
-
----
-
-**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
-
-Binance • 8h ago
-
----
-
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
-
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
-
-CryptoSlate • 1d ago
 
 ---
 

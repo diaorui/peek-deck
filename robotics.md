@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T17:35:09.866297+00:00'
+updated: '2025-12-24T17:47:16.760475+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 17:35 UTC  
+**Last Updated:** December 24, 2025 at 17:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 **[Minimal VL53L0X Time-of-Flight driver for bare-metal MCUs (feedback wanted)](https://www.reddit.com/r/robotics/comments/1purka8/minimal_vl53l0x_timeofflight_driver_for_baremetal/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-10h ago
+11h ago
 
 ---
 
@@ -100,7 +100,7 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
 
-4h ago
+5h ago
 
 ---
 
@@ -116,11 +116,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
+**[Robot school in China trains humanoids for factories and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
 
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
+Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
 
-El Adelantado • 2d ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -128,7 +128,7 @@ El Adelantado • 2d ago
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
-Earth.com • 1h ago
+Earth.com • 2h ago
 
 ---
 
@@ -162,17 +162,17 @@ Investor's Business Daily • 2h ago
 
 ---
 
-**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
-
-Phys.org • 1d ago
-
----
-
 **[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
 The Robot Report • 21h ago
+
+---
+
+**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
+
+Phys.org • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T17:35:09.848585+00:00'
+updated: '2025-12-24T17:47:16.742793+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 17:35 UTC  
+**Last Updated:** December 24, 2025 at 17:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 We Let AI Run a Vending Machine. It Lost All the Money (Twice) - WSJ https://www.youtube.com/watch?v=SpPhm7S9vsQ Vs. Claude ran a business in our office - Anthropic https://www.youtube.com/watch?v=5KTHvKCrQ00
 
-46m ago
+58m ago
 
 ---
 
@@ -72,6 +72,14 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
 🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 23h ago
+
+---
+
+**[130 AI apps for visual creation in 11 categories](https://www.reddit.com/r/artificial/comments/1pusg4k/130_ai_apps_for_visual_creation_in_11_categories/)**
+
+updated regularly! GitHub Gist: instantly share code, notes, and snippets.
+
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 25m ago
 
 ---
 
@@ -279,7 +287,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 48m ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 1h ago
 
 ---
 
@@ -287,7 +295,7 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 57m ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 1h ago
 
 ---
 
@@ -307,14 +315,6 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 ---
 
-**[One-Minute Daily AI News 12/23/2025](https://www.reddit.com/r/artificial/comments/1pufppb/oneminute_daily_ai_news_12232025/)**
-
-Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
-
-11h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -331,11 +331,9 @@ France 24 • 7h ago
 
 ---
 
-**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
+**[Trump's AI hiring campaign draws interest from 25,000 hopefuls](https://www.reuters.com/business/media-telecom/trumps-ai-hiring-campaign-draws-interest-25000-hopefuls-2025-12-23/)**
 
-Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
-
-The Guardian • 6d ago
+Reuters • 19h ago
 
 ---
 
@@ -347,25 +345,19 @@ blog.google • 1d ago
 
 ---
 
-**[The blowout AI trades that surprised Wall Street in 2025](https://www.cnbc.com/2025/12/24/the-blowout-ai-trades-that-surprised-wall-street-in-2025.html)**
+**[There’s a New Vine Reboot That Wants to Ban AI Content](https://www.rollingstone.com/culture/culture-features/vine-reboot-devine-jack-dorsey-tech-1235488715/)**
 
-We lay out the AI trades that captured the market's attention, from Google's unexpected growth to the boom in rocket companies and self-driving cars.
+Is there a way to revive the nostalgia of Vine without any of the modern AI slop? This tech expert trying to make that dream a reality.
 
-CNBC • 2h ago
-
----
-
-**[AI model training needs are changing, with subject experts pushing aside generalist data labelers](https://www.businessinsider.com/ai-data-labeling-annotators-pay-subject-experts-generalists-gig-workers-2025-12)**
-
-HireArt's 2025 compensation report took a deep look at how much data annotators get paid. It's a fascinating window into how AI models are changing.
-
-Business Insider • 2h ago
+Rolling Stone • 47m ago
 
 ---
 
-**[It’s Christmas Magic: Banks Embrace Crypto and Praise AI](https://www.bloomberg.com/news/newsletters/2025-12-24/jpmorgan-explores-cryptocurrency-trading-services-bank-of-america-embraces-ai)**
+**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
 
-Bloomberg.com • 2h ago
+While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
+
+CNBC • 4h ago
 
 ---
 
@@ -393,6 +385,12 @@ Los Angeles Times • 6h ago
 
 ---
 
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+
+The Washington Post • 23h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -409,7 +407,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 301 • 💬 279 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 301 • 💬 281 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -417,7 +415,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 238 • 💬 235 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 239 • 💬 236 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -425,21 +423,13 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 214 • 💬 74 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 215 • 💬 74 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
 ⬆️ 192 • 💬 218 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
-
----
-
-**[Get an AI code review in 10 seconds](https://news.ycombinator.com/item?id=46346391)**
-
-Personal Musings and Transcripts
-
-⬆️ 139 • 💬 63 • 3d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -468,6 +458,14 @@ The basilar ganglia does not exist.
 I was catching up on Acquired episodes this week and listened to the spectacular “Google: The AI Company” episode that Ben and David put together. What the two of them have created with their podcast fascinates me in the inevitability of its success. I think Acquired proves that if you are smart and work your […]
 
 ⬆️ 24 • 💬 1 • 22h ago • [markmaunder.com](https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/)
+
+---
+
+**[Nebula Awards Yelled at Until They Ban Use of AI by Nominees](https://news.ycombinator.com/item?id=46369590)**
+
+GenAI and LLMs almost got a soft pass to enter the Nebula Awards, but the sci-fi/fantasy writing community shut that down.
+
+⬆️ 15 • 💬 2 • 20h ago • [Gizmodo](https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137)
 
 ---
 
@@ -551,7 +549,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 50K • 👍 3K • 💬 340 • ⏱️ 33:27 • 23h ago
+👁️ 50K • 👍 3K • 💬 340 • ⏱️ 33:27 • 1d ago
 
 ---
 
@@ -587,7 +585,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 756 • 1d ago
+⬇️ 2,719 • ❤️ 757 • 1d ago
 
 ---
 
@@ -611,7 +609,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,389 • 16d ago
+⬇️ 384,826 • ❤️ 3,390 • 16d ago
 
 ---
 
@@ -623,7 +621,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 554 • 5d ago
+⬇️ 24,883 • ❤️ 555 • 5d ago
 
 ---
 
@@ -861,7 +859,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 416 • 24m ago
+⭐ 3.3k • 🔱 416 • 36m ago
 
 ---
 
@@ -871,7 +869,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 195 • 11m ago
+⭐ 2.7k • 🔱 195 • 23m ago
 
 ---
 
@@ -891,7 +889,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 211 • 11h ago
+⭐ 1.3k • 🔱 211 • 12h ago
 
 ---
 
