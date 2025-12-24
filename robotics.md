@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T14:58:36.396059+00:00'
+updated: '2025-12-24T15:30:30.184360+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 14:58 UTC  
+**Last Updated:** December 24, 2025 at 15:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,13 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-17h ago
+18h ago
+
+---
+
+**[Pirates of the Caribbean maintenance manual with full exploded views of animatronics](https://www.reddit.com/r/robotics/comments/1puplo2/pirates_of_the_caribbean_maintenance_manual_with/)**
+
+🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 16m ago
 
 ---
 
@@ -80,7 +86,7 @@ I think the phopho pro app isnt available in india, are there any alternatives t
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-16h ago
+17h ago
 
 ---
 
@@ -100,14 +106,6 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 ---
 
-**[Sunday Robotics Memo: "Pick Up Anything" test](https://www.reddit.com/r/robotics/comments/1ptkti2/sunday_robotics_memo_pick_up_anything_test/)**
-
-From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,14 +118,6 @@ New Atlas • 1h ago
 
 ---
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 2d ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
@@ -136,11 +126,31 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
-El Adelantado • 1d ago
+hyundai.com • 2d ago
+
+---
+
+**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
+
+Phys.org • 1d ago
+
+---
+
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+
+Investor's Business Daily • 29m ago
+
+---
+
+**[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
+
+The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
+
+The Robot Report • 19h ago
 
 ---
 
@@ -152,17 +162,19 @@ Interesting Engineering • 17h ago
 
 ---
 
-**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
+**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
 
-Phys.org • 1d ago
+NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
+
+Phoronix • 2d ago
 
 ---
 
-**[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
 
-The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
 
-The Robot Report • 18h ago
+El Adelantado • 2d ago
 
 ---
 
@@ -171,22 +183,6 @@ The Robot Report • 18h ago
 Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
 
 Yahoo Finance • 2d ago
-
----
-
-**[Building and losing iRobot: Why Colin Angle thinks the FTC is to blame](https://techcrunch.com/podcast/building-and-losing-irobot-why-colin-angle-thinks-the-ftc-is-to-blame/)**
-
-This week on StrictlyVC Download, Connie Loizos spoke with Colin Angle, the founder and former CEO of iRobot. From his living room into a household name, Angle spent 30 years turning iRobot into one of the most pioneering companies in the robotics industry, stepping down as CEO following the failed Amazon acquisition. In this conversation, he unpacks why he considers iRobot’s bankruptcy “avoidable and […]
-
-TechCrunch • 20h ago
-
----
-
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
-
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
-
-Phoronix • 2d ago
 
 ---
 
@@ -200,7 +196,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 46K • 👍 806 • 💬 83 • ⏱️ 2:08:46 • 4d ago
+👁️ 46K • 👍 808 • 💬 84 • ⏱️ 2:08:46 • 4d ago
 
 ---
 
@@ -210,7 +206,27 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 37K • 👍 625 • 💬 150 • ⏱️ 5:25 • 3d ago
+👁️ 38K • 👍 630 • 💬 151 • ⏱️ 5:25 • 3d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 28K • 👍 864 • 💬 235 • ⏱️ 11:02 • 1d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 4K • 👍 113 • 💬 15 • ⏱️ 13:55 • 19h ago
 
 ---
 
@@ -230,17 +246,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 4K • 👍 253 • 💬 73 • ⏱️ 49:59 • 1d ago
-
----
-
-**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
-
-Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
-
-📺 LimX Dynamics
-
-👁️ 1.2M • 👍 11K • 💬 662 • ⏱️ 2:43 • 6d ago
+👁️ 4K • 👍 254 • 💬 73 • ⏱️ 49:59 • 1d ago
 
 ---
 
@@ -250,47 +256,33 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 24K • 👍 243 • 💬 4 • ⏱️ 0:11 • 1d ago
+👁️ 24K • 👍 244 • 💬 4 • ⏱️ 0:11 • 1d ago
 
 ---
 
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
 
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+📺 XRoboHub
 
-📺 SocksReact
-
-👁️ 597K • 👍 11K • 💬 1K • ⏱️ 18:35 • 3d ago
+👁️ 210K • 👍 4K • 💬 494 • ⏱️ 0:51 • 3d ago
 
 ---
 
-**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
+**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
 
-Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
+Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
 
-📺 Aimin
+📺 LimX Dynamics
 
-👁️ 1.1M • 👍 22K • 💬 4K • ⏱️ 14:27 • 4d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 22K • 👍 335 • 💬 8 • ⏱️ 0:11 • 2d ago
+👁️ 1.2M • 👍 11K • 💬 665 • ⏱️ 2:43 • 6d ago
 
 ---
 
-**[Futuristic dancing robot&#39;s in china.....#dance](https://www.youtube.com/watch?v=7drSENm6rpQ)**
+**[Chinese robots perform at a concert 🤯](https://www.youtube.com/watch?v=i1AVS1Mh650)**
 
-future stick dancing robots in China robots can dance like a human robots dance leke better than human China's robots that ...
+📺 Aevy TV
 
-📺 Santoshgian
-
-👁️ 61K • 💬 5 • ⏱️ 0:26 • 1d ago
+👁️ 154K • 👍 8K • 💬 341 • ⏱️ 1:18 • 3d ago
 
 ---
 

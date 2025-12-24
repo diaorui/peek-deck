@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T14:58:36.386885+00:00'
+updated: '2025-12-24T15:30:30.175032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 14:58 UTC  
+**Last Updated:** December 24, 2025 at 15:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,500.00
+### $86,908.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.1%  
-**30d:** -0.5%  
-**90d:** -20.6%  
-**1y:** -12.3%  
+**24h:** -1.3%  
+**7d:** +1.9%  
+**30d:** -0.7%  
+**90d:** -20.8%  
+**1y:** -12.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.50B
+**Market Cap:** $1730.92B
 Rank #1
 
-**Circulating Supply:** 19,966,475 BTC
+**Circulating Supply:** 19,966,493 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-31.2%
 
 **All-Time Low:** $67.81
-+128540.3%
++127864.9%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -113,11 +113,23 @@ Rank #1
 
 ---
 
+**[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
+
+40m ago
+
+---
+
+**[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
+
+1h ago
+
+---
+
 **[Should i invest all my money to BTC](https://www.reddit.com/r/Bitcoin/comments/1puk3hg/should_i_invest_all_my_money_to_btc/)**
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
-4h ago
+5h ago
 
 ---
 
@@ -125,21 +137,7 @@ Hello, I’m a high school student and I’m thinking about investing my money i
 
 SLAYER RIDING THE BEAR #BITCOIN
 
-12h ago
-
----
-
-**[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
-
-15h ago
-
----
-
-**[My v2🤩🤩](https://www.reddit.com/r/Bitcoin/comments/1pui1ej/my_v2/)**
-
-V2
-
-6h ago
+13h ago
 
 ---
 
@@ -147,11 +145,11 @@ V2
 
 ## Google News: "bitcoin"
 
-**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
+**[BTC News: Donald Trump owned media firm moves 2,000 bitcoin, worth $174 million](https://www.coindesk.com/business/2025/12/24/trump-media-shuffles-2-000-btc-after-fresh-bitcoin-inflows)**
 
-A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
+The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 4h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -159,7 +157,21 @@ CoinDesk • 4h ago
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 18h ago
+The Guardian • 19h ago
+
+---
+
+**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
+
+Bitcoin is missing out on the Christmas cheer.
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqey-4aqdfMKu4i3_RKqX2SEvP0xly7pgoRSTJkTy6e1hm2NEjdfAmDV&gaa_ts=694c0a7f&gaa_sig=WZkg6eRV0hZvzEahgk9Fhf0JjBcvByJzJ3FvDl0WuOcB21K6OIGV9TOspJWOFd0jVhVUON1E6qAVpwH6zmoGzA%3D%3D)**
+
+Barron's • 22h ago
 
 ---
 
@@ -171,17 +183,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
 
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
 
-Investopedia • 17h ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
+Investopedia • 5h ago
 
 ---
 
@@ -201,21 +207,15 @@ VanEck • 1d ago
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
-**[What Is Bitcoin’s ‘Cat’ Proposal and Why It Could Change Ordinals Forever](https://www.ccn.com/news/technology/bitcoin-developers-debate-utxo-bloat/)**
+**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
 
-CCN.com • 1h ago
+A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
 
----
-
-**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2025/12/24/if-youd-invested-100-in-bitcoin-10-years-ago-heres/)**
-
-Even a small investment in Bitcoin would have delivered incredible returns.
-
-The Motley Fool • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -233,13 +233,13 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 2 • 💬 2 • 55m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 1h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 4d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 5d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -255,7 +255,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 23h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -263,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 1d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 2d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -279,43 +279,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
-**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
-
-Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
-
-📺 CNBC Television
-
-👁️ 26K • 👍 329 • 💬 189 • ⏱️ 5:23 • 1d ago
-
----
-
-**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
-
-Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
-
-📺 Swan Bitcoin
-
-👁️ 25K • 👍 1K • 💬 166 • ⏱️ 20:00 • 16h ago
-
----
-
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
-
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 63K • 👍 3K • 💬 381 • ⏱️ 20:46 • 20h ago
-
----
-
 **[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
 
 2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 154 • ⏱️ 13:26 • 16h ago
+👁️ 22K • 👍 1K • 💬 195 • ⏱️ 13:26 • 17h ago
 
 ---
 
@@ -325,7 +295,47 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 15h ago
+👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 16h ago
+
+---
+
+**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
+
+Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
+
+📺 CNBC Television
+
+👁️ 2K • 👍 77 • 💬 99 • ⏱️ 8:19 • 2h ago
+
+---
+
+**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
+
+Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
+
+📺 Swan Bitcoin
+
+👁️ 27K • 👍 1K • 💬 175 • ⏱️ 20:00 • 17h ago
+
+---
+
+**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
+
+Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
+
+📺 CNBC Television
+
+👁️ 26K • 👍 337 • 💬 206 • ⏱️ 5:23 • 1d ago
+
+---
+
+**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
+
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
+
+📺 Mark Moss
+
+👁️ 67K • 👍 3K • 💬 407 • ⏱️ 20:46 • 21h ago
 
 ---
 
@@ -339,43 +349,33 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 ---
 
-**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
-
-CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
-
-📺 CNBC Television
-
-👁️ 7K • 👍 93 • 💬 56 • ⏱️ 3:19 • 1d ago
-
----
-
 **[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
 
 LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 207 • ⏱️ 10:16 • 1d ago
+👁️ 52K • 👍 3K • 💬 208 • ⏱️ 10:16 • 1d ago
 
 ---
 
-**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
+**[Why Fidelity Thinks This is the Start of a Bitcoin SuperCycle](https://www.youtube.com/watch?v=qyPB6TE9WJ8)**
 
-Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
+Bitcoin price action has been rough, but something bigger may be forming. Professor B breaks down Fidelity's new research, ...
 
-📺 Thomas Kralow
+📺 Swan Bitcoin
 
-👁️ 3K • 👍 2K • 💬 57 • ⏱️ 6:23 • 4h ago
+👁️ 5K • 👍 196 • 💬 13 • ⏱️ 1:41 • 13h ago
 
 ---
 
-**[WARNING: BITCOIN WORST NIGHTMARE](https://www.youtube.com/watch?v=nvXVmzgTnCU)**
+**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
 
-📺 Crypto Crew University
+📺 CNBC Television
 
-👁️ 31K • 👍 2K • 💬 130 • ⏱️ 4:03 • 1d ago
+👁️ 7K • 👍 96 • 💬 57 • ⏱️ 3:19 • 1d ago
 
 ---
 

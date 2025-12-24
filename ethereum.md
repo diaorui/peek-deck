@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T14:58:36.392817+00:00'
+updated: '2025-12-24T15:30:30.181123+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 14:58 UTC  
+**Last Updated:** December 24, 2025 at 15:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +3.4%  
-**30d:** -1.4%  
-**90d:** -27.5%  
-**1y:** -16.6%  
+**24h:** -1.5%  
+**7d:** +3.3%  
+**30d:** -1.6%  
+**90d:** -27.6%  
+**1y:** -16.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.63B
+**Market Cap:** $351.01B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-41.2%
 
 **All-Time Low:** $0.43
-+676494.0%
++671800.9%
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 52m ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 1h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -92,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 7h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 8h ago
 
 ---
 
@@ -100,7 +100,7 @@ This branch contains a rewrite of some core features of Echidna to transform wor
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 21h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 22h ago
 
 ---
 
@@ -109,6 +109,14 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Frustrating price thrend](https://www.reddit.com/r/ethereum/comments/1pupj6i/frustrating_price_thrend/)**
+
+Hello Everyone I am following the Ethereum pricing for the last few weeks and I see the price is gradually sliding downward. So I queried Google Gemini for the forecast market for 2026 and shared a forcast trend between $4,900 - $7,500. Are there any possible reasons for the price of ether will be around that range from 2026?
+
+19m ago
 
 ---
 
@@ -136,14 +144,6 @@ A lot of builders mention OWASP, but not everyone really knows what it stands fo
 
 ---
 
-**[Daily General Discussion December 21, 2025](https://www.reddit.com/r/ethereum/comments/1przbh3/daily_general_discussion_december_21_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -166,7 +166,7 @@ The Motley Fool • 2d ago
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 1d ago
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView — Track All Markets • 11h ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -224,23 +224,43 @@ TipRanks • 23h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 440 • 👍 53 • 💬 7 • ⏱️ 3:51 • 1h ago
+
+---
+
+**[Will BMNR Become The &quot;Ethereum BlackRock&quot;? (The 5% Plan)](https://www.youtube.com/watch?v=pUFERdwaduM)**
+
+BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETFs, BitMine Immersion ($BMNR) is trying to ...
+
+📺 Wall Street Stockcast
+
+👁️ 70 • 👍 6 • ⏱️ 7:49 • 59m ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=Su2Wu0j5U6I)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Demat Account Dhan ...
+
+📺 Trade with Burner
+
+👁️ 5K • 👍 1K • 1h ago
+
+---
+
 **[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
 
 ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 950 • 👍 36 • 💬 24 • ⏱️ 5:30 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_eXjY58zpCM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 152 • 💬 2 • ⏱️ 4:22 • 22h ago
+👁️ 969 • 👍 36 • 💬 23 • ⏱️ 5:30 • 1d ago
 
 ---
 
@@ -250,7 +270,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 15h ago
+👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 16h ago
 
 ---
 
@@ -260,7 +280,27 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 98 • 💬 309 • ⏱️ 14:58 • 1d ago
+👁️ 4K • 👍 99 • 💬 311 • ⏱️ 14:58 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_eXjY58zpCM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 152 • 💬 2 • ⏱️ 4:22 • 23h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 24 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=IBAXNmWesy8)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 2K • 👍 365 • 24m ago
 
 ---
 
@@ -270,7 +310,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 80 • 💬 68 • ⏱️ 22:51 • 20h ago
+👁️ 4K • 👍 82 • 💬 78 • ⏱️ 22:51 • 20h ago
 
 ---
 
@@ -281,46 +321,6 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 📺 Wall Street Stockcast
 
 👁️ 2K • 👍 46 • 💬 50 • ⏱️ 7:32 • 2d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=z7f8xTQ7KXs)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 REKHA MAHESHWARI
-
-👁️ 3K • 👍 1K • 1h ago
-
----
-
-**[Ethereum Could Crash Into 2026… Here’s How We Time The Bottom Perfectly](https://www.youtube.com/watch?v=2mE9JBSr6gY)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 335 • 👍 10 • 💬 4 • ⏱️ 6:09 • 17h ago
-
----
-
-**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
-
-Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 3K • 👍 111 • 💬 60 • ⏱️ 11:00 • 10h ago
-
----
-
-**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
-
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
-
-📺 Trading Jip
-
-👁️ 818 • 👍 40 • 💬 20 • ⏱️ 9:42 • 1d ago
 
 ---
 
