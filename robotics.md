@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T19:21:12.911959+00:00'
+updated: '2025-12-24T19:33:15.194998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 19:21 UTC  
+**Last Updated:** December 24, 2025 at 19:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-26m ago
+38m ago
 
 ---
 
@@ -66,7 +66,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-3h ago
+4h ago
 
 ---
 
@@ -202,7 +202,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 6K • 👍 154 • 💬 17 • ⏱️ 13:55 • 22h ago
+👁️ 6K • 👍 154 • 💬 17 • ⏱️ 13:55 • 23h ago
 
 ---
 

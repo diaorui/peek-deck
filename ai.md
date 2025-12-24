@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T19:21:12.893790+00:00'
+updated: '2025-12-24T19:33:15.177314+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 19:21 UTC  
+**Last Updated:** December 24, 2025 at 19:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 11h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 12h ago
 
 ---
 
@@ -71,7 +71,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Before, when someone said it’s inconsistent, I couldn’t act on it. It wasn’t one bug, it was a pattern: sometimes it ignored details, sometimes it sounded confident but wrong, sometimes it broke format. Hard to pin down, easy to dismiss. After, I wrote down the top must-not-fail moments from real usage and turned them into a small set of repeatable checks I run after changes. Impact: the system still isn’t perfect, but now I can catch the worst regressions early and improve the same weak spots over time instead of guessing. What part of eval still feels the most subjective to you?
 
-7m ago
+19m ago
 
 ---
 
@@ -79,7 +79,7 @@ Before, when someone said it’s inconsistent, I couldn’t act on it. It wasn�
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 1h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 2h ago
 
 ---
 
@@ -329,7 +329,7 @@ The New York Times • 9h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 44m ago
+Pittsburgh Post-Gazette • 56m ago
 
 ---
 
@@ -357,7 +357,7 @@ Bloomberg.com • 1h ago
 
 Rainwater Equity founder and portfolio manager Joseph Shaposhnik discusses what he expects from the AI trade in 2026 — highlighting underlying conditions like the interest rate environment and the state of the US economy — and why semiconductor manufacturer Broadcom (AVGO) is among his top stock picks for 2026. Also catch Joseph Shaposhnik explain why he expects the S&P 493 to benefit from outsized returns in 2026. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -373,7 +373,7 @@ blog.google • 1d ago
 
 Alongside ample storage for all your photos and files, the plan unlocks higher limits for both video and image generation tools.
 
-PCMag • 7h ago
+PCMag • 8h ago
 
 ---
 
@@ -559,7 +559,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 56K • 👍 3K • 💬 289 • ⏱️ 30:43 • 15h ago
+👁️ 56K • 👍 3K • 💬 289 • ⏱️ 30:43 • 16h ago
 
 ---
 
@@ -569,7 +569,7 @@ A lot of people in the creative industries are worried about AI. Could it take t
 
 📺 Rowan J Coleman
 
-👁️ 48K • 👍 4K • 💬 1K • ⏱️ 12:03 • 2d ago
+👁️ 48K • 👍 4K • 💬 1K • ⏱️ 12:03 • 3d ago
 
 ---
 
@@ -869,7 +869,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 195 • 44m ago
+⭐ 2.8k • 🔱 195 • 56m ago
 
 ---
 

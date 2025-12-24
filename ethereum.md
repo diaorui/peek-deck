@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T19:21:12.908721+00:00'
+updated: '2025-12-24T19:33:15.191770+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 19:21 UTC  
+**Last Updated:** December 24, 2025 at 19:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,9 +44,9 @@ Live Ethereum monitoring dashboard
 
 **24h:** -0.9%  
 **7d:** +4.3%  
-**30d:** -0.6%  
+**30d:** -0.5%  
 **90d:** -26.9%  
-**1y:** -15.9%  
+**1y:** -15.8%  
 
 ---
 
@@ -94,13 +94,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-2h ago
+3h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -228,7 +228,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 796 • 👍 75 • 💬 6 • ⏱️ 3:51 • 4h ago
+👁️ 796 • 👍 75 • 💬 6 • ⏱️ 3:51 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 149 • 👍 7 • 💬 16 • ⏱️ 7:49 • 4h ago
+👁️ 149 • 👍 7 • 💬 16 • ⏱️ 7:49 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while stic
 
 📺 What's Trending
 
-👁️ 236 • ⏱️ 0:31 • 2h ago
+👁️ 236 • ⏱️ 0:31 • 3h ago
 
 ---
 

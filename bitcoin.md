@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T19:21:12.902717+00:00'
+updated: '2025-12-24T19:33:15.185729+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 19:21 UTC  
+**Last Updated:** December 24, 2025 at 19:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,554.05
+### $87,428.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** -0.0%  
 **7d:** +2.6%  
 **30d:** -0.0%  
 **90d:** -20.2%  
@@ -111,7 +111,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-32m ago
+44m ago
 
 ---
 
@@ -123,7 +123,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 10h ago
 
 Bitcoin trades near $87,370, stuck in a tight range as equities hit records and gold climbs to all-time highs.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -313,7 +313,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 5K • 👍 146 • 💬 108 • ⏱️ 8:19 • 5h ago
+👁️ 5K • 👍 146 • 💬 108 • ⏱️ 8:19 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 366 • 💬 62 • ⏱️ 13:14 • 6h ago
+👁️ 5K • 👍 366 • 💬 62 • ⏱️ 13:14 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ Quick update for bitcoin price with what I'm expecting and watching. I show what
 
 📺 OPTICALARTdotCOM
 
-👁️ 468 • 👍 88 • 💬 19 • ⏱️ 11:23 • 2h ago
+👁️ 468 • 👍 88 • 💬 19 • ⏱️ 11:23 • 3h ago
 
 ---
 
