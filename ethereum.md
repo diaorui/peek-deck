@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T23:27:09.351868+00:00'
+updated: '2025-12-24T23:42:26.222671+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 23:27 UTC  
+**Last Updated:** December 24, 2025 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** -0.4%  
 **7d:** +4.5%  
 **30d:** -0.4%  
-**90d:** -26.7%  
+**90d:** -26.8%  
 **1y:** -15.7%  
 
 ---
@@ -230,7 +230,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 3K • 👍 198 • 💬 104 • ⏱️ 19:06 • 6h ago
+👁️ 3K • 👍 198 • 💬 104 • ⏱️ 19:06 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 272 • 👍 10 • 💬 26 • ⏱️ 5:15 • 8h ago
+👁️ 272 • 👍 10 • 💬 26 • ⏱️ 5:15 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 228 • 👍 8 • 💬 8 • ⏱️ 7:49 • 8h ago
+👁️ 228 • 👍 8 • 💬 8 • ⏱️ 7:49 • 9h ago
 
 ---
 
@@ -300,7 +300,7 @@ Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while stic
 
 📺 What's Trending
 
-👁️ 737 • 👍 2 • ⏱️ 0:31 • 6h ago
+👁️ 737 • 👍 2 • ⏱️ 0:31 • 7h ago
 
 ---
 

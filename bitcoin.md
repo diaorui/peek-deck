@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T23:27:09.345570+00:00'
+updated: '2025-12-24T23:42:26.216625+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 23:27 UTC  
+**Last Updated:** December 24, 2025 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +3.2%  
-**30d:** +0.5%  
-**90d:** -19.8%  
-**1y:** -11.3%  
+**24h:** -0.1%  
+**7d:** +2.8%  
+**30d:** +0.1%  
+**90d:** -20.1%  
+**1y:** -11.7%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-47m ago
+1h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin price action has been rough, but something bigger may be forming. Profes
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 259 • 💬 19 • ⏱️ 1:41 • 21h ago
+👁️ 8K • 👍 259 • 💬 19 • ⏱️ 1:41 • 22h ago
 
 ---
 
