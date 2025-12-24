@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-23T23:53:25.872622+00:00'
+updated: '2025-12-24T01:19:30.264354+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 23, 2025 at 23:53 UTC  
+**Last Updated:** December 24, 2025 at 01:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 5h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 7h ago
+
+---
+
+**[Ashley MacIsaac concert cancelled after AI wrongly accuses him of being sex offender. AI-generated content confused the Cape Breton musician with someone else](https://www.reddit.com/r/artificial/comments/1pu9ddt/ashley_macisaac_concert_cancelled_after_ai/)**
+
+Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
+
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 1h ago
 
 ---
 
@@ -47,7 +55,15 @@ AI news, discussions, and developments
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-2h ago
+3h ago
+
+---
+
+**[Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act](https://www.reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/)**
+
+Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
+
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 7h ago
 
 ---
 
@@ -55,7 +71,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 7h ago
 
 ---
 
@@ -63,7 +79,15 @@ Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las V
 
 AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
 
-🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 14h ago
+🔗 [404 Media](https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/) • 16h ago
+
+---
+
+**[6700XT vs 5060Ti 16gb](https://www.reddit.com/r/artificial/comments/1puajmk/6700xt_vs_5060ti_16gb/)**
+
+Before you all say go for the 5060TI hear me out. I play games occasionally, watch videos streaming, and basic stuff. My 67xt is serving me well except for one thing, AI. Now I use backyardAI a lot for my stories. I am getting about 15-20 tokens/sec on a 9gb LLM I am also wanting to try Stable Diffusion one day to generate photos and other things I dont know about yet. I attn span is as long as my pinky so I dont know how long I am going to be into this I can sell my 6700xt for about $240 and grab the 5060Ti 16gb PNY for $480 after tax. Is it really necessary?? Is AMD support going to catch up soon as far as software support for AI generation? Is there going to be progress? Happy Holidays
+
+9m ago
 
 ---
 
@@ -79,15 +103,7 @@ Uh oh…
 
 The next generation of the truly wireless TV boasts on-device AI. Displace TV will also bring its unique tech to third-party TVs via the Displace Hub.
 
-🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 8h ago
-
----
-
-**[Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act](https://www.reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/)**
-
-Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
-
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 6h ago
+🔗 [PCWorld](https://www.pcworld.com/article/3010031/displace-wireless-pro-2-tvs-will-feature-local-ai-to-enhance-privacy.html) • 9h ago
 
 ---
 
@@ -95,23 +111,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-9h ago
-
----
-
-**[AI will neutralize the power of a general strike](https://www.reddit.com/r/artificial/comments/1ptqb64/ai_will_neutralize_the_power_of_a_general_strike/)**
-
-There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
-
-13h ago
-
----
-
-**[Asia markets edge higher on AI-led global rally](https://www.reddit.com/r/artificial/comments/1ptwpz5/asia_markets_edge_higher_on_ailed_global_rally/)**
-
-Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street overnight, where technology and artificial intelligence-linked shares provided
-
-🔗 [mettisglobal.news](https://mettisglobal.news/Asia-markets-edge-higher-on-AIled-global-rally-57420) • 8h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Asia markets mostly traded higher on Tuesday, tracking gains on Wall Street over
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 6h ago
+blog.google • 8h ago
 
 ---
 
@@ -131,37 +131,7 @@ blog.google • 6h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 6h ago
-
----
-
-**[As Raleigh grows, the city uses AI to rethink traffic management](https://www.wral.com/news/local/ai-rethinks-raleigh-traffic-management-december-2025/)**
-
-Raleigh is testing AI-powered traffic cameras to fine-tune signal timing, improve safety, and reduce congestion at busy intersections as the city continues to grow.
-
-WRAL • 2h ago
-
----
-
-**[AI picks the ‘perfect’ baby name — but would you dare use it?](https://nypost.com/2025/12/23/lifestyle/ais-baby-name-pick-is-elara-the-next-big-thing/)**
-
-Move over, Emma and Liam — AI has suggested a new favorite baby name, and it has parents buzzing.
-
-New York Post • 1h ago
-
----
-
-**[Hoping AI will give you more work-life balance in 2026? Fortune 500 CEOs warn otherwise](https://fortune.com/2025/12/23/work-life-balance-recap-2025-fortune-500-ceos-productivity-grind-secrets-for-success/)**
-
-Despite Gen Z increasingly demanding work-life balance, many Fortune 500 bosses doubled down on overtime in 2025 to compete in the AI race.
-
-Fortune • 1h ago
-
----
-
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
-
-The Washington Post • 5h ago
+The Guardian • 8h ago
 
 ---
 
@@ -173,17 +143,23 @@ CNBC • 1d ago
 
 ---
 
-**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqdF0FjalGDw28LB6pKq4kq-_sTyv2FPuPGEUOhFDNifN3HUjI6sSdBk&gaa_ts=694b289e&gaa_sig=C3IHk_8zAihXKa83NHaEZbXcC_XYlHJzp3if4fx8b1TJfw3EpGgckxrl-d7xOVIgwOaD6w8auLo3sBaxtGt0UQ%3D%3D)**
+**[Why Instacart Backtracked on an AI-Pricing Experiment](https://www.bloomberg.com/news/articles/2025-12-23/instacart-s-ai-pricing-experiment-that-sparked-consumer-regulator-and-lawmaker)**
 
-The Wall Street Journal • 12h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[AI app apologises over false crime alerts across US](https://www.bbc.com/news/videos/c4g4v3yd28yo)**
+**[Instacart Ends Controversial AI-Driven Pricing Program](https://www.today.com/video/instacart-ends-controversial-ai-driven-pricing-program-254906437989)**
 
-An AI-powered app called CrimeRadar has apologised for the distress caused by false crime alerts issued to local US communities after a BBC Verify investigation.
+Instacart says it’s ending a controversial dynamic pricing program that faced criticism for charging shoppers different prices for the same items at the same store. Some customers were paying up to seven percent more.
 
-BBC • 11h ago
+TODAY.com • 11h ago
+
+---
+
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+
+The Washington Post • 7h ago
 
 ---
 
@@ -195,6 +171,28 @@ ABC News • 1d ago
 
 ---
 
+**[The next AI pivot will be toward efficiency and lowering costs, ex-Facebook privacy chief says](https://www.cnbc.com/2025/12/23/ai-cost-efficiency-facebook-privacy.html)**
+
+Former Facebook privacy chief Chris Kelly said that AI companies will focus on creating efficiencies for training models.
+
+CNBC • 9h ago
+
+---
+
+**[Exclusive | Layoffs Expected as Marketers Face Pressure Over AI Savings, Survey Finds](https://www.wsj.com/articles/layoffs-expected-as-marketers-face-pressure-over-ai-savings-survey-finds-e896b64b?gaa_at=eafs&gaa_n=AWEtsqe6j-x1ZGTtZQSHSo5RHKV_V6LCD1XVeWS3-uUp990h9JB9DgdE-O6l&gaa_ts=694b430a&gaa_sig=ft9U5izgiQM49H5rC4IoZ0NPMsxBuJZcvQSruXlY-u9vzOEnXUzR-NBG3dp1GE6Mk-0_BrSyA8Y5DTb4iJESPQ%3D%3D)**
+
+The Wall Street Journal • 14h ago
+
+---
+
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
+
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+Fortune • 7h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +201,7 @@ ABC News • 1d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 772 • 💬 462 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 774 • 💬 466 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,13 +209,13 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 274 • 💬 180 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 274 • 💬 181 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
 **[Measuring AI Ability to Complete Long Tasks](https://news.ycombinator.com/item?id=46342166)**
 
-⬆️ 242 • 💬 192 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+⬆️ 243 • 💬 192 • 2d ago • [metr.org](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 
 ---
 
@@ -225,7 +223,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 193 • 💬 149 • 17h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 218 • 💬 185 • 18h ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -233,7 +231,13 @@ The European Commission today praised the interoperability changes that Apple is
 
 The Indie Game Awards presented the award last night, only to strip it hours later.
 
-⬆️ 184 • 💬 401 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+⬆️ 185 • 💬 401 • 2d ago • [TheGamer](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+
+---
+
+**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
+
+⬆️ 183 • 💬 212 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -248,17 +252,19 @@ friction.
 
 ---
 
-**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
-
-⬆️ 180 • 💬 203 • 1d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
-
----
-
 **[Local AI is driving the biggest change in laptops in decades](https://news.ycombinator.com/item?id=46360856)**
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 163 • 💬 163 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 172 • 💬 180 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+
+---
+
+**[Toad is a unified experience for AI in the terminal](https://news.ycombinator.com/item?id=46354737)**
+
+My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
+
+⬆️ 150 • 💬 39 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -270,23 +276,19 @@ Personal Musings and Transcripts
 
 ---
 
-**[I doubt that anything resembling genuine AGI is within reach of current AI tools](https://news.ycombinator.com/item?id=46342380)**
-
-I doubt that anything resembling genuine "artificial general intelligence" is within reach of current #AI tools.  However, I think a weaker, but still quite valuable, type of "artificial general cleverness" is becoming a reality in various ways.
-
-By "general cleverness", I mean the ability to solve broad classes of complex problems via somewhat ad hoc means.  These means may be stochastic or the result of brute force computation; they may be ungrounded or fallible; and they may be either uninterpretable, or traceable back to similar tricks found in an AI's training data.  So they would not qualify as the result of any true "intelligence".  And yet, they can have a non-trivial success rate at achieving an increasingly wide spectrum of tasks, particularly when coupled with stringent verification procedures to filter out incorrect or unpromising approaches, at scales beyond what individual humans could achieve.
-
-This results in the somewhat unintuitive combination of a technology that can be very useful and impressive, while simultaneously being fundamentally unsatisfying and disappointing - somewhat akin to how one's awe at an amazingly clever magic trick can dissipate (or transform to technical respect) once one learns how the trick was performed.  
-
-But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
-
-⬆️ 136 • 💬 112 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[AI Broke the Reality Filter and Its Freaking People Out](https://www.youtube.com/watch?v=25oVREyFqXw)**
+
+Something quietly changed over the last year. AI content stopped announcing itself. It stopped feeling stitched together. Motion ...
+
+📺 AI Revolution
+
+👁️ 2K • 👍 215 • 💬 21 • ⏱️ 9:31 • 2h ago
+
+---
 
 **[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
 
@@ -294,17 +296,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 19K • 👍 1K • 💬 206 • ⏱️ 33:27 • 6h ago
-
----
-
-**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
-
-How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
-
-📺 Maxinomics
-
-👁️ 160K • 👍 10K • 💬 2K • ⏱️ 21:43 • 21h ago
+👁️ 28K • 👍 2K • 💬 255 • ⏱️ 33:27 • 7h ago
 
 ---
 
@@ -314,7 +306,17 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 260K • 👍 11K • 💬 2K • ⏱️ 19:40 • 10h ago
+👁️ 310K • 👍 12K • 💬 2K • ⏱️ 19:40 • 11h ago
+
+---
+
+**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
+
+How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
+
+📺 Maxinomics
+
+👁️ 177K • 👍 11K • 💬 2K • ⏱️ 21:43 • 23h ago
 
 ---
 
@@ -328,43 +330,23 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 ---
 
-**[AI News Roundup: GPT Image Breakthrough, Grok Voice AI &amp; Google’s New AI Agents](https://www.youtube.com/watch?v=lihhUtK-NkM)**
-
-Newsletter Link: https://bitbiased.ai/ The AI world just had one of its most important weeks of the year — and most people ...
-
-📺 BitBiasedAI
-
-👁️ 1K • 👍 40 • 💬 5 • ⏱️ 12:55 • 6h ago
-
----
-
-**[I Made the Same Animation in Every AI Video Generator](https://www.youtube.com/watch?v=UKp_zXdxVTI)**
-
-I made the same AI Animation in every AI video generator Best All In One AI Video Generator ...
-
-📺 Dan Kieft
-
-👁️ 27K • 💬 57 • ⏱️ 44:39 • 1d ago
-
----
-
 **[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
 
 Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
 
 📺 Greg Isenberg
 
-👁️ 14K • 👍 391 • 💬 51 • ⏱️ 18:48 • 1d ago
+👁️ 14K • 👍 406 • 💬 51 • ⏱️ 18:48 • 1d ago
 
 ---
 
-**[AI Trends 2026: Quantum, Agentic AI &amp; Smarter Automation](https://www.youtube.com/watch?v=zt0JA5rxdfM)**
+**[AI News Roundup: GPT Image Breakthrough, Grok Voice AI &amp; Google’s New AI Agents](https://www.youtube.com/watch?v=lihhUtK-NkM)**
 
-Ready to become a certified watsonx AI Assistant Engineer v1 - Professional? Register now and use code IBMTechYT20 for 20% ...
+Newsletter Link: https://bitbiased.ai/ The AI world just had one of its most important weeks of the year — and most people ...
 
-📺 IBM Technology
+📺 BitBiasedAI
 
-👁️ 38K • 👍 1K • 💬 40 • ⏱️ 11:39 • 1d ago
+👁️ 2K • 👍 53 • 💬 5 • ⏱️ 12:55 • 8h ago
 
 ---
 
@@ -374,7 +356,7 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 The Diary Of A CEO
 
-👁️ 115K • 👍 3K • 💬 149 • ⏱️ 1:29 • 2d ago
+👁️ 117K • 👍 3K • 💬 152 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -384,7 +366,17 @@ AI progress is outpacing our ability to control it… because control ISN'T keep
 
 📺 Y Combinator
 
-👁️ 36K • 👍 852 • 💬 60 • ⏱️ 30:23 • 1d ago
+👁️ 37K • 👍 873 • 💬 62 • ⏱️ 30:23 • 1d ago
+
+---
+
+**[A wandering boy found a ripe mango fruit😭😭😭. #ai #aivideo #women#calf #rain #popular #army #train](https://www.youtube.com/watch?v=XVf3GJFxYIk)**
+
+A wandering boy found a ripe mango fruit      . #ai #aivideo #women#calf #rain #popular #army #train.
+
+📺 Ai story 4.0
+
+👁️ 4K • 👍 162 • ⏱️ 0:41 • 49m ago
 
 ---
 
@@ -400,7 +392,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 9,848 • ❤️ 622 • 4d ago
+⬇️ 9,848 • ❤️ 625 • 4d ago
 
 ---
 
@@ -412,7 +404,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 373,123 • ❤️ 3,351 • 15d ago
+⬇️ 373,123 • ❤️ 3,353 • 15d ago
 
 ---
 
@@ -424,7 +416,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 21,058 • ❤️ 515 • 5d ago
+⬇️ 21,058 • ❤️ 518 • 5d ago
 
 ---
 
@@ -436,7 +428,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 440 • 14h ago
+⬇️ 1,148 • ❤️ 452 • 15h ago
 
 ---
 
@@ -448,7 +440,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 10,832 • ❤️ 426 • 5d ago
+⬇️ 10,832 • ❤️ 427 • 5d ago
 
 ---
 
@@ -460,7 +452,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,313 • ❤️ 408 • 5d ago
+⬇️ 3,313 • ❤️ 409 • 5d ago
 
 ---
 
@@ -472,7 +464,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 375 • 14h ago
+⬇️ 0 • ❤️ 375 • 15h ago
 
 ---
 
@@ -484,7 +476,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,493 • ❤️ 415 • 9d ago
+⬇️ 6,493 • ❤️ 418 • 9d ago
 
 ---
 
@@ -496,7 +488,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 `text-to-speech`
 
-⬇️ 0 • ❤️ 354 • 8d ago
+⬇️ 0 • ❤️ 356 • 8d ago
 
 ---
 
@@ -506,7 +498,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 8,076 • ❤️ 254 • 9h ago
+⬇️ 8,076 • ❤️ 255 • 10h ago
 
 ---
 
@@ -534,7 +526,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 53 • 💬 2 • ⭐ 73 • 4d ago
+▲ 53 • 💬 2 • ⭐ 95 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
@@ -570,7 +562,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
 
-▲ 51 • 💬 3 • ⭐ 47 • 1d ago
+▲ 53 • 💬 3 • ⭐ 56 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
 
@@ -611,7 +603,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 208 • 💬 5 • ⭐ 7,711 • 26d ago
+▲ 208 • 💬 5 • ⭐ 7,744 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -664,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 665 • 15h ago
+⭐ 6.0k • 🔱 671 • 16h ago
 
 ---
 
@@ -674,7 +666,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 376 • 4h ago
+⭐ 3.0k • 🔱 381 • 5h ago
 
 ---
 
@@ -684,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 186 • 6h ago
+⭐ 2.6k • 🔱 187 • 8h ago
 
 ---
 
@@ -694,7 +686,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.8k • 🔱 374 • 17d ago
+⭐ 1.9k • 🔱 374 • 17d ago
 
 ---
 
@@ -704,17 +696,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 197 • 1d ago
-
----
-
-**[wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher)**
-
-Google Antigravity AI模型配额监控插件
-
-`TypeScript`
-
-⭐ 1.1k • 🔱 57 • 5d ago
+⭐ 1.2k • 🔱 198 • 1d ago
 
 ---
 
@@ -724,7 +706,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.0k • 🔱 96 • 12h ago
+⭐ 1.0k • 🔱 99 • 13h ago
 
 ---
 
@@ -734,17 +716,27 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 957 • 🔱 92 • 1d ago
+⭐ 964 • 🔱 92 • 1d ago
 
 ---
 
-**[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
+**[firecrawl/open-scouts](https://github.com/firecrawl/open-scouts)**
 
-A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
+  AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for. 
 
-`Rust` `game-development` `gamedev` `image-processing` `pixel-art`
+`TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 921 • 🔱 25 • 16d ago
+⭐ 828 • 🔱 122 • 6d ago
+
+---
+
+**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
+
+GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+
+`Python`
+
+⭐ 802 • 🔱 65 • 20d ago
 
 ---
 

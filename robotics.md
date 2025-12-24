@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-23T23:53:25.890964+00:00'
+updated: '2025-12-24T01:19:30.280992+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 23, 2025 at 23:53 UTC  
+**Last Updated:** December 24, 2025 at 01:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-11h ago
+13h ago
+
+---
+
+**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
+
+4h ago
 
 ---
 
@@ -44,13 +50,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-13h ago
-
----
-
-**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
-
-2h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-1h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-13h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
-19h ago
+20h ago
 
 ---
 
@@ -88,19 +88,21 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
 
-11h ago
+12h ago
+
+---
+
+**[Built a tool that uses AI to catch URDF errors visually - looking for honest feedback](https://www.reddit.com/r/robotics/comments/1pu9cke/built_a_tool_that_uses_ai_to_catch_urdf_errors/)**
+
+I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
+
+1h ago
 
 ---
 
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-2h ago
-
----
-
-**[I built the MVP for the block-based ROS2 IDE. Here is the Rviz integration in action!](https://www.reddit.com/r/robotics/comments/1pu1dco/i_built_the_mvp_for_the_blockbased_ros2_ide_here/)**
-
-5h ago
+4h ago
 
 ---
 
@@ -108,11 +110,27 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 ## Google News: "robotics"
 
-**['Stingraybot' uses microbubble muscles controlled by ultrasound](https://newatlas.com/robotics/stingraybot-microbubble-muscles-ultrasound/)**
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
 
-While it might sound like a weapon of oceanic destruction in the hands of Aquaman’s arch enemies, the new “stingraybot” from a team at ETH Zurich (the Federal Institute of Technology of Switzerland) offers enormous promise for surgery, medical care, wildlife biology, robotics, and more, thanks to…
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
 
-New Atlas • 4h ago
+El Adelantado • 1d ago
+
+---
+
+**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
+
+Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
+
+South China Morning Post • 2h ago
+
+---
+
+**[Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype)**
+
+China sees humanoids as an economic engine and Musk wants a ‘robot army.’
+
+The Verge • 2d ago
 
 ---
 
@@ -124,11 +142,19 @@ hyundai.com • 1d ago
 
 ---
 
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 1d ago
+
+---
+
 **[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
 
 Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
 
-CnEVPost • 20h ago
+CnEVPost • 22h ago
 
 ---
 
@@ -140,19 +166,11 @@ Interesting Engineering • 3d ago
 
 ---
 
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 1d ago
-
----
-
 **[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
 
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
-Futura, Le média qui explore le monde • 11h ago
+Futura, Le média qui explore le monde • 12h ago
 
 ---
 
@@ -160,15 +178,7 @@ Futura, Le média qui explore le monde • 11h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 12h ago
-
----
-
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
-
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 3h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -176,15 +186,7 @@ The Daily Beast • 3h ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 3h ago
-
----
-
-**[Underwater robotics firm keeps its place on Nasdaq after equity review](https://www.stocktitan.net/news/KITT/nauticus-robotics-tm-regains-compliance-with-nasdaq-listing-kx9h4z3rwfoa.html)**
-
-Nasdaq confirms Nauticus met the equity rule on Dec. 19, 2025 and must stay compliant through Apr. 14, 2026 under panel monitoring to Dec. 19, 2026.
-
-Stock Titan • 11h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -198,7 +200,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 43K • 👍 791 • 💬 80 • ⏱️ 2:08:46 • 3d ago
+👁️ 43K • 👍 795 • 💬 80 • ⏱️ 2:08:46 • 4d ago
 
 ---
 
@@ -208,7 +210,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 23K • 👍 771 • 💬 210 • ⏱️ 11:02 • 1d ago
+👁️ 24K • 👍 793 • 💬 221 • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -228,17 +230,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 36K • 👍 599 • 💬 147 • ⏱️ 5:25 • 2d ago
-
----
-
-**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
-
-Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
-
-📺 Mike Israetel
-
-👁️ 3K • 👍 221 • 💬 64 • ⏱️ 49:59 • 1d ago
+👁️ 36K • 👍 606 • 💬 148 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -248,17 +240,17 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 13K • 👍 203 • 💬 4 • ⏱️ 0:11 • 14h ago
+👁️ 18K • 👍 216 • 💬 4 • ⏱️ 0:11 • 16h ago
 
 ---
 
-**[Futuristic dancing robot&#39;s in china.....#dance](https://www.youtube.com/watch?v=7drSENm6rpQ)**
+**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
 
-future stick dancing robots in China robots can dance like a human robots dance leke better than human China's robots that ...
+Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
 
-📺 Santoshgian
+📺 Mike Israetel
 
-👁️ 36K • 💬 4 • ⏱️ 0:26 • 22h ago
+👁️ 4K • 👍 230 • 💬 68 • ⏱️ 49:59 • 1d ago
 
 ---
 
@@ -268,27 +260,37 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 564K • 👍 10K • 💬 1K • ⏱️ 18:35 • 3d ago
+👁️ 572K • 👍 10K • 💬 1K • ⏱️ 18:35 • 3d ago
 
 ---
 
-**[InMoov Robotic Hand 🦾🤖 #3dprinting #lego #arduino #stem #robot](https://www.youtube.com/watch?v=Y9TXBEBjrSo)**
+**[Futuristic dancing robot&#39;s in china.....#dance](https://www.youtube.com/watch?v=7drSENm6rpQ)**
 
-This robotic hand moves like a HUMAN Motors, code, and pure engineering. Full builds & learning on my YouTube channel!
+future stick dancing robots in China robots can dance like a human robots dance leke better than human China's robots that ...
 
-📺 Roll No 36
+📺 Santoshgian
 
-👁️ 1K • 👍 27 • 💬 4 • ⏱️ 0:31 • 9h ago
+👁️ 37K • 💬 4 • ⏱️ 0:26 • 23h ago
 
 ---
 
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=8PfHGA1Rjt8)**
 
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
 
-📺 AZFK
+📺 Ai BOOF
 
-👁️ 164K • 👍 9K • 💬 598 • ⏱️ 13:43 • 5d ago
+👁️ 3K • 👍 47 • 💬 2 • ⏱️ 0:11 • 8h ago
+
+---
+
+**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
+
+Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
+
+📺 LimX Dynamics
+
+👁️ 1.1M • 👍 11K • 💬 654 • ⏱️ 2:43 • 5d ago
 
 ---
 
