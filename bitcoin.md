@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T21:59:24.670208+00:00'
+updated: '2025-12-24T22:29:30.356585+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 21:59 UTC  
+**Last Updated:** December 24, 2025 at 22:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +3.0%  
-**30d:** +0.4%  
-**90d:** -19.9%  
-**1y:** -11.5%  
+**24h:** +0.4%  
+**7d:** +2.8%  
+**30d:** +0.1%  
+**90d:** -20.1%  
+**1y:** -11.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.81B
+**Market Cap:** $1751.40B
 Rank #1
 
 **Circulating Supply:** 19,966,612 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129134.6%
++129276.2%
 
 ---
 
@@ -105,7 +105,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -115,27 +115,29 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 ---
 
+**[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
+
+1h ago
+
+---
+
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
 6h ago
 
 ---
 
-**[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
-
-51m ago
-
----
-
 **[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
 
-7h ago
+8h ago
 
 ---
 
-**[Home](https://www.reddit.com/r/Bitcoin/comments/1puqh4x/home/)**
+**[[Technical] I successfully reconstructed the 80-byte Raw Preimage of the Genesis Block (Block 0)](https://www.reddit.com/r/Bitcoin/comments/1puxm61/technical_i_successfully_reconstructed_the_80byte/)**
 
-6h ago
+Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
+
+1h ago
 
 ---
 
@@ -153,7 +155,7 @@ CoinDesk • 9h ago
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -233,7 +235,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 4 • 💬 2 • 7h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 8h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -255,7 +257,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 64 • 💬 36 • 5h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 65 • 💬 36 • 6h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -285,7 +287,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 10K • 👍 205 • 💬 160 • ⏱️ 8:19 • 8h ago
+👁️ 10K • 👍 205 • 💬 160 • ⏱️ 8:19 • 9h ago
 
 ---
 
@@ -295,7 +297,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 219 • ⏱️ 13:26 • 23h ago
+👁️ 25K • 👍 1K • 💬 219 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -305,7 +307,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 565 • ⏱️ 10:51 • 22h ago
+👁️ 38K • 👍 2K • 💬 565 • ⏱️ 10:51 • 23h ago
 
 ---
 
@@ -355,7 +357,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 199 • ⏱️ 20:00 • 23h ago
+👁️ 34K • 👍 2K • 💬 199 • ⏱️ 20:00 • 1d ago
 
 ---
 

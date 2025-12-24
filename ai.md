@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T21:59:24.661651+00:00'
+updated: '2025-12-24T22:29:30.349127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 21:59 UTC  
+**Last Updated:** December 24, 2025 at 22:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 14h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 21h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 22h ago
 
 ---
 
@@ -65,7 +65,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-52m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 4h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 5h ago
 
 ---
 
@@ -329,19 +329,19 @@ CNBC • 1h ago
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
 **[Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports](https://www.reuters.com/business/nvidia-buy-ai-chip-startup-groq-about-20-billion-cnbc-reports-2025-12-24/)**
 
-Reuters • 48m ago
+Reuters • 1h ago
 
 ---
 
 **[Can teacher wisdom steer the AI transition in education?](https://www.fastcompany.com/91464977/can-teacher-wisdom-steer-the-ai-transition-in-education)**
 
-Fast Company • 54m ago
+Fast Company • 1h ago
 
 ---
 
@@ -349,7 +349,7 @@ Fast Company • 54m ago
 
 These two funds offer a good way to get exposure to artificial intelligence.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -373,7 +373,7 @@ Fortune • 1d ago
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-Los Angeles Times • 10h ago
+Los Angeles Times • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ Los Angeles Times • 10h ago
 
 Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.
 
-WIRED • 10h ago
+WIRED • 11h ago
 
 ---
 
@@ -389,7 +389,7 @@ WIRED • 10h ago
 
 Context matters as much as content in determining whether text is machine generated or not
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -401,7 +401,7 @@ Financial Times • 16h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 799 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 800 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -409,7 +409,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 306 • 💬 290 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 306 • 💬 291 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -417,7 +417,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 239 • 💬 241 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 239 • 💬 244 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -425,7 +425,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 218 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 219 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -435,19 +435,19 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 ---
 
-**[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
-
-Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
-
-⬆️ 147 • 💬 63 • 4h ago • [GitHub](https://github.com/VibiumDev/vibium)
-
----
-
 **[Nvidia buying AI chip startup Groq for about $20B in cash](https://news.ycombinator.com/item?id=46379183)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 116 • 💬 46 • 57m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 164 • 💬 80 • 1h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+
+---
+
+**[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
+
+Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
+
+⬆️ 157 • 💬 65 • 4h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -461,7 +461,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The basilar ganglia does not exist.
 
-⬆️ 29 • 💬 11 • 1d ago • [The Verge](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
+⬆️ 29 • 💬 11 • 2d ago • [The Verge](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
 
 ---
 
@@ -491,7 +491,7 @@ Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 124 • 💬 14 • ⏱️ 8:29 • 12h ago
+👁️ 4K • 👍 124 • 💬 14 • ⏱️ 8:29 • 13h ago
 
 ---
 
@@ -501,7 +501,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 10K • 👍 178 • 💬 37 • ⏱️ 7:50 • 16h ago
+👁️ 10K • 👍 178 • 💬 37 • ⏱️ 7:50 • 17h ago
 
 ---
 
@@ -521,7 +521,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 17K • 👍 472 • 💬 61 • ⏱️ 18:48 • 1d ago
+👁️ 17K • 👍 472 • 💬 61 • ⏱️ 18:48 • 2d ago
 
 ---
 
@@ -551,7 +551,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 20K • 👍 985 • 💬 528 • ⏱️ 11:28 • 21h ago
+👁️ 20K • 👍 985 • 💬 528 • ⏱️ 11:28 • 22h ago
 
 ---
 
@@ -850,7 +850,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 695 • 1h ago
+⭐ 6.2k • 🔱 695 • 2h ago
 
 ---
 
@@ -860,7 +860,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 418 • 1h ago
+⭐ 3.3k • 🔱 418 • 2h ago
 
 ---
 
@@ -870,7 +870,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 198 • 1m ago
+⭐ 2.8k • 🔱 198 • 31m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T21:59:24.679528+00:00'
+updated: '2025-12-24T22:29:30.364694+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 21:59 UTC  
+**Last Updated:** December 24, 2025 at 22:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Since DJI is getting banned, I decided to build an "evolution" of the drone (Ardupilot + Pi)](https://www.reddit.com/r/robotics/comments/1puxvyk/since_dji_is_getting_banned_i_decided_to_build_an/)**
+
+Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
+
+57m ago
+
+---
+
 **[Figure running fully autonomously, no teleop. Helix can interact with people. You can ask it questions and tell it what to do.](https://www.reddit.com/r/robotics/comments/1punrb9/figure_running_fully_autonomously_no_teleop_helix/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
@@ -40,11 +48,11 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 ---
 
-**[Since DJI is getting banned, I decided to build an "evolution" of the drone (Ardupilot + Pi)](https://www.reddit.com/r/robotics/comments/1puxvyk/since_dji_is_getting_banned_i_decided_to_build_an/)**
+**[Are there any building systems with the same modularity as aluminum extrusions, but made of rods and screws?](https://www.reddit.com/r/robotics/comments/1puuk7h/are_there_any_building_systems_with_the_same/)**
 
-Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
+I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-27m ago
+3h ago
 
 ---
 
@@ -52,15 +60,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
 
-1h ago
-
----
-
-**[Are there any building systems with the same modularity as aluminum extrusions, but made of rods and screws?](https://www.reddit.com/r/robotics/comments/1puuk7h/are_there_any_building_systems_with_the_same/)**
-
-I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
-
-3h ago
+2h ago
 
 ---
 
@@ -158,7 +158,7 @@ Tech Xplore • 1d ago
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
