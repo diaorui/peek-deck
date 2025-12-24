@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T20:44:30.831783+00:00'
+updated: '2025-12-24T20:55:47.823537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 20:44 UTC  
+**Last Updated:** December 24, 2025 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 11h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 12h ago
 
 ---
 
@@ -287,7 +287,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 3h ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 4h ago
 
 ---
 
@@ -447,7 +447,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 88 • 💬 43 • 2h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 88 • 💬 43 • 3h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -766,20 +766,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 209 • 💬 5 • ⭐ 7,792 • 27d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[SAM Audio: Segment Anything in Audio](https://huggingface.co/papers/2512.18099)**
 
 *Bowen Shi, Andros Tjandra, John Hoffman et al. (14 authors)*
@@ -788,7 +774,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 SAM Audio, a diffusion transformer-based foundation model, achieves superior performance in general audio separation using unified text, visual, and temporal span prompts across various audio types.
 
-▲ 9 • 💬 0 • ⭐ 2,482 • 5d ago
+▲ 10 • 💬 0 • ⭐ 2,482 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.18099) • [💻 code](https://github.com/facebookresearch/sam-audio) • [🔗 project](https://ai.meta.com/samaudio/)
 
@@ -805,6 +791,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 28 • 💬 2 • ⭐ 7,799 • 27d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 209 • 💬 5 • ⭐ 7,818 • 27d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -853,7 +853,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 695 • 17h ago
+⭐ 6.2k • 🔱 695 • 38m ago
 
 ---
 
@@ -863,7 +863,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 415 • 3h ago
+⭐ 3.3k • 🔱 417 • 47m ago
 
 ---
 
@@ -873,7 +873,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 196 • 1h ago
+⭐ 2.8k • 🔱 197 • 35m ago
 
 ---
 
@@ -883,7 +883,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 380 • 18d ago
+⭐ 2.0k • 🔱 381 • 18d ago
 
 ---
 
@@ -893,7 +893,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 211 • 14h ago
+⭐ 1.3k • 🔱 211 • 15h ago
 
 ---
 
@@ -923,7 +923,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 877 • 🔱 126 • 7d ago
+⭐ 883 • 🔱 128 • 7d ago
 
 ---
 

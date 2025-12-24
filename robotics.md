@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T20:44:30.852324+00:00'
+updated: '2025-12-24T20:55:47.841178+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 20:44 UTC  
+**Last Updated:** December 24, 2025 at 20:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-6h ago
+7h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-1h ago
+2h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
 
-17m ago
+29m ago
 
 ---
 
@@ -152,7 +152,7 @@ Good Morning Wilton • 2d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 6h ago
+New Atlas • 7h ago
 
 ---
 
@@ -232,7 +232,7 @@ Join us for a festive, fun-filled ARPO Christmas livestream packed with holiday 
 
 📺 ARPO The Robot
 
-👁️ 14K • 👍 27 • 9h ago
+👁️ 14K • 👍 27 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T20:44:30.841580+00:00'
+updated: '2025-12-24T20:55:47.832016+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 20:44 UTC  
+**Last Updated:** December 24, 2025 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -91,7 +91,7 @@ Rank #1
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Home](https://www.reddit.com/r/Bitcoin/comments/1puqh4x/home/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -147,7 +147,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ Investopedia • 10h ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 13h ago
+KRON4 • 14h ago
 
 ---
 
