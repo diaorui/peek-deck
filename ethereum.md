@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T04:02:44.533829+00:00'
+updated: '2025-12-24T04:47:51.237235+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 04:02 UTC  
+**Last Updated:** December 24, 2025 at 04:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -1.0%  
-**7d:** +4.4%  
+**7d:** +4.3%  
 **30d:** -0.5%  
-**90d:** -26.8%  
+**90d:** -26.9%  
 **1y:** -15.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.47B
+**Market Cap:** $355.23B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.5%
 
 **All-Time Low:** $0.43
-+680000.0%
++679417.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 10h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 11h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Motley Fool • 1d ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 14h ago
+CCN.com • 15h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 17h ago
 
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -204,7 +204,7 @@ CoinDesk • 1d ago
 
 Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -218,7 +218,7 @@ TipRanks • 12h ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 872 • 👍 36 • 💬 4 • ⏱️ 5:30 • 17h ago
+👁️ 872 • 👍 36 • 💬 4 • ⏱️ 5:30 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 95 • 💬 310 • ⏱️ 14:58 • 21h ago
+👁️ 3K • 👍 95 • 💬 310 • ⏱️ 14:58 • 22h ago
 
 ---
 
@@ -262,7 +262,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC an
 
 📺 Trading Jip
 
-👁️ 684 • 👍 36 • 💬 8 • ⏱️ 9:42 • 14h ago
+👁️ 684 • 👍 36 • 💬 8 • ⏱️ 9:42 • 15h ago
 
 ---
 
@@ -272,7 +272,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 4h ago
+👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 5h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Bloomberg Television
 
-👁️ 3K • 👍 55 • 💬 8 • ⏱️ 22:51 • 9h ago
+👁️ 3K • 👍 55 • 💬 8 • ⏱️ 22:51 • 10h ago
 
 ---
 
@@ -302,7 +302,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 403 • 💬 22 • ⏱️ 14:56 • 16h ago
+👁️ 7K • 👍 403 • 💬 22 • ⏱️ 14:56 • 17h ago
 
 ---
 
@@ -312,7 +312,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 292 • 👍 18 • 💬 6 • ⏱️ 7:44 • 9h ago
+👁️ 292 • 👍 18 • 💬 6 • ⏱️ 7:44 • 10h ago
 
 ---
 

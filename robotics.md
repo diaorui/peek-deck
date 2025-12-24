@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T04:02:44.537149+00:00'
+updated: '2025-12-24T04:47:51.240440+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 04:02 UTC  
+**Last Updated:** December 24, 2025 at 04:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,13 @@ Emre from Menlo Research here. What you're seeing is how we learn to make humano
 
 From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Website: https://www.sunday.ai/
 
-23h ago
+1d ago
+
+---
+
+**[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
+
+16h ago
 
 ---
 
@@ -90,13 +96,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
 
-3h ago
-
----
-
-**[The dumbest smart robot ever](https://www.reddit.com/r/robotics/comments/1ptsxb3/the_dumbest_smart_robot_ever/)**
-
-15h ago
+4h ago
 
 ---
 
@@ -152,7 +152,7 @@ Phys.org • 18h ago
 
 The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -160,7 +160,7 @@ Seeking Alpha • 16h ago
 
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
-Futura, Le média qui explore le monde • 15h ago
+Futura, Le média qui explore le monde • 16h ago
 
 ---
 
@@ -276,7 +276,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 4K • 👍 49 • 💬 2 • ⏱️ 0:11 • 11h ago
+👁️ 4K • 👍 49 • 💬 2 • ⏱️ 0:11 • 12h ago
 
 ---
 
