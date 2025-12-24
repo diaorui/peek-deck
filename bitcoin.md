@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T05:56:34.109394+00:00'
+updated: '2025-12-24T06:40:06.251684+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 05:56 UTC  
+**Last Updated:** December 24, 2025 at 06:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,102.91
+### $87,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.1%  
-**30d:** -0.6%  
-**90d:** -20.6%  
-**1y:** -12.3%  
+**24h:** -0.9%  
+**7d:** +1.8%  
+**30d:** -0.8%  
+**90d:** -20.9%  
+**1y:** -12.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1736.97B
+**Market Cap:** $1735.04B
 Rank #1
 
-**Circulating Supply:** 19,966,281 BTC
+**Circulating Supply:** 19,966,296 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-31.1%
 
 **All-Time Low:** $67.81
-+128167.2%
++128055.1%
 
 ---
 
@@ -78,6 +78,12 @@ Rank #1
 ## Reddit: r/Bitcoin
 
 **[Cats getting intrest in bitcoin 💥](https://www.reddit.com/r/Bitcoin/comments/1pue5xd/cats_getting_intrest_in_bitcoin/)**
+
+2h ago
+
+---
+
+**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
 1h ago
 
@@ -93,7 +99,7 @@ Rank #1
 
 SLAYER RIDING THE BEAR #BITCOIN
 
-3h ago
+4h ago
 
 ---
 
@@ -101,13 +107,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
 
-12h ago
-
----
-
-**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
-
-40m ago
+13h ago
 
 ---
 
@@ -121,23 +121,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 This is a chart of Bitcoin price on christmas day from 2010 till date and is amazing how the chart keeps going up and setting a new ath
 
-14h ago
-
----
-
-**[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
-
-The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
-
 15h ago
-
----
-
-**[How diversified should I be](https://www.reddit.com/r/Bitcoin/comments/1pu8k2k/how_diversified_should_i_be/)**
-
-Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
-
-6h ago
 
 ---
 
@@ -147,29 +131,47 @@ Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
 ---
 
+**[They're trying to frustrate you out of BTC](https://www.reddit.com/r/Bitcoin/comments/1ptux5c/theyre_trying_to_frustrate_you_out_of_btc/)**
+
+The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
+
+16h ago
+
+---
+
+**[How diversified should I be](https://www.reddit.com/r/Bitcoin/comments/1pu8k2k/how_diversified_should_i_be/)**
+
+Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin price news: BTC slips below $88,000, but Strategy, Circle, Gemini among those sharply lower](https://www.coindesk.com/markets/2025/12/23/bitcoin-slips-crypto-stocks-suffer-steep-declines-as-tax-loss-selling-drives-action-analysts-say)**
-
-Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
-
-CoinDesk • 9h ago
-
----
 
 **[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+**[Bitcoin Price news: BTC slips from day's highs during U.S. trading session](https://www.coindesk.com/markets/2025/12/22/crypto-prices-again-muted-as-gold-surges-to-new-record-u-s-stocks-advance)**
 
-Investor's Business Daily • 18h ago
+Bitcoin for the moment was unable to hold the $90,000 level reached prior to the U.S. market open.
+
+CoinDesk • 1d ago
+
+---
+
+**[VanEck Manager Predicts Strong Bitcoin Comeback in 2026 Despite Its Current ‘Lag’](https://finance.yahoo.com/news/vaneck-manager-predicts-strong-bitcoin-053754695.html)**
+
+David Schassler, head of multi-asset solutions at VanEck, presented a constructive outlook on Bitcoin, projecting that the largest crypto would recoup next year despite its current “lag.”“Bitcoin is lagging the Nasdaq 100 Index by roughly 50% year-to-date, and that dislocation is setting it up to be a top performer in ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,23 +179,21 @@ Investor's Business Daily • 18h ago
 
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 8h ago
+Investopedia • 9h ago
 
 ---
 
-**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
-
-Yahoo Finance • 1d ago
+Investor's Business Daily • 19h ago
 
 ---
 
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
 
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
 
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -213,17 +213,15 @@ WCVB • 1d ago
 
 ---
 
-**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeKnTZYy9yIJlWqvCjxemG-hBfsezj-CR6kt5A_bTUUVUbsymKsQBtZ&gaa_ts=694b8e34&gaa_sig=lABZ7H5Y6xd4s0CMbtUletn97nLEI_rzTaVjsCNeH2IrmBFSGo-ODTWENEOPo4-BJV208oIRJFw5kKBxQT9Itg%3D%3D)**
 
-Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
-
-Inquirer.com • 10h ago
+The Wall Street Journal • 3h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqd7iwFMfBpC4n0vPvObKw0JsTQyLMNaftXieg12Z4YGEGsFmXMHESX_&gaa_ts=694b83f8&gaa_sig=mCJbVDaFgxK4HEeaG81hXuNk4gZaWmirHE9POI7S2v6Bmk3aGlcLPbITd64G2MtBp7pkelntBrxZhk5PYDjBXQ%3D%3D)**
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Wall Street Journal • 2h ago
+The Block • 14h ago
 
 ---
 
@@ -257,7 +255,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -281,7 +279,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 5h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 6h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -295,7 +293,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 22h ago
+⬆️ 1 • 💬 0 • 23h ago
 
 ---
 
@@ -303,33 +301,23 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 ## YouTube Videos: "bitcoin"
 
-**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
-
-Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
-
-📺 CNBC Television
-
-👁️ 21K • 👍 294 • 💬 166 • ⏱️ 5:23 • 15h ago
-
----
-
 **[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
 
 Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
 
 📺 Mark Moss
 
-👁️ 42K • 👍 2K • 💬 236 • ⏱️ 20:46 • 11h ago
+👁️ 49K • 👍 2K • 💬 284 • ⏱️ 20:46 • 12h ago
 
 ---
 
-**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
 
-2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
 
-📺 Simply Bitcoin
+📺 CNBC Television
 
-👁️ 12K • 👍 975 • 💬 81 • ⏱️ 13:26 • 7h ago
+👁️ 23K • 👍 311 • 💬 166 • ⏱️ 5:23 • 16h ago
 
 ---
 
@@ -339,7 +327,17 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 866 • 💬 87 • ⏱️ 20:00 • 7h ago
+👁️ 17K • 👍 1K • 💬 108 • ⏱️ 20:00 • 8h ago
+
+---
+
+**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+
+2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+
+📺 Simply Bitcoin
+
+👁️ 16K • 👍 1K • 💬 95 • ⏱️ 13:26 • 8h ago
 
 ---
 
@@ -349,7 +347,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 6h ago
+👁️ 20K • 👍 2K • 💬 352 • ⏱️ 10:51 • 7h ago
 
 ---
 
@@ -359,17 +357,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 3K • 👍 98 • 💬 16 • ⏱️ 17:16 • 14h ago
-
----
-
-**[Cathie Wood&#39;s New Bitcoin Price Prediction is INSANE](https://www.youtube.com/watch?v=YEFQI8qwrt0)**
-
-Kathy Wood walks through the numbers behind one of the most controversial Bitcoin forecasts on Wall Street. While her official ...
-
-📺 The Bitcoin Revolution
-
-👁️ 7K • 👍 133 • 💬 48 • ⏱️ 11:47 • 1d ago
+👁️ 3K • 👍 113 • 💬 22 • ⏱️ 17:16 • 14h ago
 
 ---
 
@@ -379,17 +367,27 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 6K • 👍 89 • 💬 57 • ⏱️ 3:19 • 1d ago
+👁️ 6K • 👍 91 • 💬 56 • ⏱️ 3:19 • 1d ago
 
 ---
 
-**[The Great Bitcoin Depression Is Happening (I&#39;m Preparing RIGHT NOW)](https://www.youtube.com/watch?v=_b9ncMJWkDQ)**
+**[BTC Christmas:  Bitcoin is in Trouble - MSTR is in Serious Trouble - Altcoins are in Dire Straights](https://www.youtube.com/watch?v=BUrquhLZQYU)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Crypto Tips
+📺 Doctor of Pump & Dump
 
-👁️ 9K • 👍 837 • 💬 102 • ⏱️ 7:14 • 12h ago
+👁️ 3K • 👍 342 • ⏱️ 30:53 • 9h ago
+
+---
+
+**[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
+
+Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 195 • ⏱️ 11:35 • 1d ago
 
 ---
 
@@ -399,7 +397,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 205 • ⏱️ 10:16 • 1d ago
+👁️ 50K • 👍 3K • 💬 206 • ⏱️ 10:16 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T05:56:34.115918+00:00'
+updated: '2025-12-24T06:40:06.257764+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 05:56 UTC  
+**Last Updated:** December 24, 2025 at 06:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +3.8%  
-**30d:** -1.1%  
+**24h:** -1.2%  
+**7d:** +3.9%  
+**30d:** -1.0%  
 **90d:** -27.2%  
-**1y:** -16.3%  
+**1y:** -16.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.20B
+**Market Cap:** $353.61B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
@@ -62,17 +62,25 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+675708.8%
++676572.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 24, 2025](https://www.reddit.com/r/ethereum/comments/1pug32l/daily_general_discussion_december_24_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+38m ago
+
+---
+
 **[Introducing EIP-8105 Universal Enshrined Encrypted Mempool](https://www.reddit.com/r/ethereum/comments/1ptzq99/introducing_eip8105_universal_enshrined_encrypted/)**
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 12h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 13h ago
 
 ---
 
@@ -80,7 +88,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +112,7 @@ I just published a walkthrough on sending EIP-4844 blob transactions with ethers
 
 A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +120,7 @@ A lot of builders mention OWASP, but not everyone really knows what it stands fo
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -134,15 +142,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
-
----
-
-**[DTCC processed $3.7 quadrillion in 2024?? and they’re tokenizing U.S. treasuries now?? ON F*CKING CANTON???](https://www.reddit.com/r/ethereum/comments/1prnc2q/dtcc_processed_37_quadrillion_in_2024_and_theyre/)**
-
-why tf is the biggest post-trade player picking a private-by-default network instead of Ethereum that everyone already uses?
-
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/dtcc-tokenizes-us-treasuries-canton-network/) • 3d ago
+4d ago
 
 ---
 
@@ -154,7 +154,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -168,13 +168,13 @@ The Motley Fool • 1d ago
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 16h ago
+CCN.com • 17h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 19h ago
 
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 22h ago
 
 Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -208,12 +208,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
-
-TipRanks • 14h ago
-
----
-
 **[Ethereum Price is Overheated Due to New Holders Hitting 5-Month High](https://finance.yahoo.com/news/ethereum-price-overheated-due-holders-013000574.html)**
 
 Ethereum price risks overheating as new holder growth hits a five-month high while on-chain activity lags behind valuation.
@@ -222,17 +216,23 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+
+TipRanks • 14h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: The 2026 Crypto Bull Run Has CHANGED (New Prediction)](https://www.youtube.com/watch?v=MiobwJAGZ-g)**
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
-📺 Crypto Nutshell
+📺 Altcoin Daily
 
-👁️ 25K • 👍 771 • 💬 82 • ⏱️ 15:49 • 2d ago
+👁️ 20K • 👍 2K • 💬 352 • ⏱️ 10:51 • 7h ago
 
 ---
 
@@ -242,37 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 872 • 👍 36 • 💬 4 • ⏱️ 5:30 • 19h ago
-
----
-
-**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 3K • 👍 95 • 💬 310 • ⏱️ 14:58 • 23h ago
-
----
-
-**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
-
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
-
-📺 Trading Jip
-
-👁️ 684 • 👍 36 • 💬 8 • ⏱️ 9:42 • 16h ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 6h ago
+👁️ 916 • 👍 36 • 💬 4 • ⏱️ 5:30 • 20h ago
 
 ---
 
@@ -282,7 +252,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Bloomberg Television
 
-👁️ 3K • 👍 55 • 💬 8 • ⏱️ 22:51 • 11h ago
+👁️ 3K • 👍 63 • 💬 55 • ⏱️ 22:51 • 12h ago
+
+---
+
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 96 • 💬 309 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -292,17 +272,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 2 • ⏱️ 4:22 • 13h ago
-
----
-
-**[BITCOIN: The Breakout Failed! (bad news) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=ER1MOjuN54o)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 7K • 👍 403 • 💬 22 • ⏱️ 14:56 • 18h ago
+👁️ 2K • 👍 143 • 💬 2 • ⏱️ 4:22 • 14h ago
 
 ---
 
@@ -312,7 +282,27 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 292 • 👍 18 • 💬 6 • ⏱️ 7:44 • 11h ago
+👁️ 316 • 👍 19 • 💬 6 • ⏱️ 7:44 • 12h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 24 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=g-RgzjG-OtQ)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 692 • 2h ago
+
+---
+
+**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
+
+Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 778 • 💬 172 • ⏱️ 22:25 • 21h ago
 
 ---
 
@@ -323,6 +313,16 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 📺 Wall Street Stockcast
 
 👁️ 2K • 👍 46 • 💬 50 • ⏱️ 7:32 • 1d ago
+
+---
+
+**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
+
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
+
+📺 Trading Jip
+
+👁️ 708 • 👍 37 • 💬 8 • ⏱️ 9:42 • 17h ago
 
 ---
 
