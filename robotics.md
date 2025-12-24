@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T15:57:40.959527+00:00'
+updated: '2025-12-24T16:34:46.408044+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 15:57 UTC  
+**Last Updated:** December 24, 2025 at 16:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,15 +54,23 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
+**[RealSense Beta 57.5 Released](https://www.reddit.com/r/robotics/comments/1pupztd/realsense_beta_575_released/)**
+
+https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
+
+1h ago
+
+---
+
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Pirates of the Caribbean maintenance manual with full exploded views of animatronics](https://www.reddit.com/r/robotics/comments/1puplo2/pirates_of_the_caribbean_maintenance_manual_with/)**
 
-🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 43m ago
+🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 1h ago
 
 ---
 
@@ -74,6 +82,14 @@ Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspir
 
 ---
 
+**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
+
+The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
+
+18h ago
+
+---
+
 **[SO-101 control using meta quest](https://www.reddit.com/r/robotics/comments/1pumlnn/so101_control_using_meta_quest/)**
 
 I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
@@ -82,25 +98,9 @@ I think the phopho pro app isnt available in india, are there any alternatives t
 
 ---
 
-**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
-
-The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
-
-17h ago
-
----
-
 **[Bio-hybrid Robots: Turns Food waste into High-Performance Functional Machines](https://www.reddit.com/r/robotics/comments/1ptqsal/biohybrid_robots_turns_food_waste_into/)**
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
-
-1d ago
-
----
-
-**[Most days building a humanoid robot look like this](https://www.reddit.com/r/robotics/comments/1ptqfy6/most_days_building_a_humanoid_robot_look_like_this/)**
-
-Emre from Menlo Research here. What you're seeing is how we learn to make humanoids walk. It's called Asimov and will be an open-source humanoid. We're building a pair of humanoid legs from scratch, no upper body yet. Only enough structure to explore balance, control, and motion, and to see where things break. Some days they work, some days don't. We iterate quickly, change policies, play with the hardware and watch how it behaves. Each version is a little different. Over time, those differences add up. We'll be sharing docs soon once the website is ready. We're documenting the journey day by day on. If you're curious to follow along, please join our community to be part of it: https://discord.gg/HzDfGN7kUw
 
 1d ago
 
@@ -126,11 +126,41 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
+
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
+
+El Adelantado • 2d ago
+
+---
+
+**[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
+
+Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
 hyundai.com • 2d ago
+
+---
+
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+
+Investor's Business Daily • 1h ago
+
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 2d ago
 
 ---
 
@@ -140,49 +170,19 @@ Phys.org • 1d ago
 
 ---
 
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
-
-Investor's Business Daily • 56m ago
-
----
-
 **[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+**[Building and losing iRobot: Why Colin Angle thinks the FTC is to blame](https://techcrunch.com/podcast/building-and-losing-irobot-why-colin-angle-thinks-the-ftc-is-to-blame/)**
 
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+This week on StrictlyVC Download, Connie Loizos spoke with Colin Angle, the founder and former CEO of iRobot. From his living room into a household name, Angle spent 30 years turning iRobot into one of the most pioneering companies in the robotics industry, stepping down as CEO following the failed Amazon acquisition. In this conversation, he unpacks why he considers iRobot’s bankruptcy “avoidable and […]
 
-Interesting Engineering • 18h ago
-
----
-
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
-
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
-
-Phoronix • 2d ago
-
----
-
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
-
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
-
-El Adelantado • 2d ago
-
----
-
-**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
-
-Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
-
-Yahoo Finance • 2d ago
+TechCrunch • 22h ago
 
 ---
 
@@ -226,7 +226,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 4K • 👍 113 • 💬 15 • ⏱️ 13:55 • 19h ago
+👁️ 4K • 👍 113 • 💬 15 • ⏱️ 13:55 • 20h ago
 
 ---
 

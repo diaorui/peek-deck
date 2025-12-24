@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T15:57:40.956249+00:00'
+updated: '2025-12-24T16:34:46.404612+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 15:57 UTC  
+**Last Updated:** December 24, 2025 at 16:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +3.5%  
-**30d:** -1.3%  
-**90d:** -27.4%  
-**1y:** -16.5%  
+**24h:** +1.3%  
+**7d:** +4.4%  
+**30d:** -0.4%  
+**90d:** -26.8%  
+**1y:** -15.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $351.01B
+**Market Cap:** $352.59B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.2%
+-40.9%
 
 **All-Time Low:** $0.43
-+671800.9%
++675549.4%
 
 ---
 
@@ -72,19 +72,33 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 1h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 2h ago
+
+---
+
+**[[Open Source] Rust EVM indexer → Elasticsearch (blocks + txs, backfill + live sync)](https://www.reddit.com/r/ethereum/comments/1pur68f/open_source_rust_evm_indexer_elasticsearch_blocks/)**
+
+Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
+
+10m ago
+
+---
+
+**[Join leftinmadness on Farcaster](https://www.reddit.com/r/ethereum/comments/1puqnxh/join_leftinmadness_on_farcaster/)**
+
+🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 33m ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -92,7 +106,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 8h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 9h ago
 
 ---
 
@@ -100,7 +114,7 @@ This branch contains a rewrite of some core features of Echidna to transform wor
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 22h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 23h ago
 
 ---
 
@@ -109,14 +123,6 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Frustrating price thrend](https://www.reddit.com/r/ethereum/comments/1pupj6i/frustrating_price_thrend/)**
-
-Hello Everyone I am following the Ethereum pricing for the last few weeks and I see the price is gradually sliding downward. So I queried Google Gemini for the forecast market for 2026 and shared a forcast trend between $4,900 - $7,500. Are there any possible reasons for the price of ether will be around that range from 2026?
-
-46m ago
 
 ---
 
@@ -132,15 +138,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a walkthrough on sending EIP-4844 blob transactions with ethers.js and kzg-wasm! If you’re curious about: How to send blobs on Ethereum today Working Sepolia RPC endpoints Using KZG commitments and proofs Attaching blobs to contract calls This guide takes you from setup to a full working example, including a TypeScript repo I built: https://github.com/0xKurt/eip-4844-ethers-examples
 
-🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 1d ago
-
----
-
-**[Many Web3 devs hear “OWASP” but what does it actually mean for smart contracts?](https://www.reddit.com/r/ethereum/comments/1psshj9/many_web3_devs_hear_owasp_but_what_does_it/)**
-
-A lot of builders mention OWASP, but not everyone really knows what it stands for in a smart contract context. At a high level, the OWASP Smart Contract Top 10 is a security awareness standard that highlights the most common and most exploited vulnerabilities in production smart contracts. It’s not theoretical it’s based on what attackers actually use in the wild. Why it’s useful for devs > Helps identify common smart contract failure patterns > Acts as a prevention guide during development > Works as a checklist before audits or deployments > Gives teams a shared security baseline The 2025 OWASP Smart Contract Top 10 i covers issues like access control flaws, oracle manipulation, logic errors, reentrancy, flash loan attacks, insecure randomness, DoS, and more the same classes of bugs responsible for $1.4B+ in losses across 149 incidents in 2024. What makes the list solid is that it’s backed by real exploit data (loss reports, attack research, incident databases), not just best-guess rankings. Curious how many teams here actively reference OWASP during development or only look at it during audits? https://preview.redd.it/6zw9wba58p8g1.jpg?width=1280&format=pjpg&auto=webp&s=1a5a35edfaac83fed2c847383abb31793a8c273e
-
-2d ago
+🔗 [medium.com](https://medium.com/@Kurt0x/sending-eip-4844-blob-transactions-using-ethers-js-and-kzg-wasm-d84224be6b81) • 2d ago
 
 ---
 
@@ -166,7 +164,7 @@ The Motley Fool • 2d ago
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -194,7 +192,13 @@ The Block • 1d ago
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
+
+---
+
+**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
+
+Binance • 7h ago
 
 ---
 
@@ -214,12 +218,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
-
-TipRanks • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -230,7 +228,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 440 • 👍 53 • 💬 7 • ⏱️ 3:51 • 1h ago
+👁️ 440 • 👍 53 • 💬 7 • ⏱️ 3:51 • 2h ago
 
 ---
 
@@ -240,7 +238,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 70 • 👍 6 • ⏱️ 7:49 • 1h ago
+👁️ 70 • 👍 6 • ⏱️ 7:49 • 2h ago
 
 ---
 
@@ -250,7 +248,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 5K • 👍 1K • 1h ago
+👁️ 5K • 👍 1K • 2h ago
 
 ---
 
@@ -270,7 +268,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 16h ago
+👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 17h ago
 
 ---
 
@@ -290,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 152 • 💬 2 • ⏱️ 4:22 • 23h ago
+👁️ 2K • 👍 152 • 💬 2 • ⏱️ 4:22 • 1d ago
 
 ---
 
@@ -300,7 +298,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 365 • 51m ago
+👁️ 2K • 👍 365 • 1h ago
 
 ---
 

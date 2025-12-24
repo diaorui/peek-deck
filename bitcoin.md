@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T15:57:40.950294+00:00'
+updated: '2025-12-24T16:34:46.398651+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 15:57 UTC  
+**Last Updated:** December 24, 2025 at 16:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,084.81
+### $87,315.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +2.2%  
-**30d:** -0.5%  
-**90d:** -20.6%  
-**1y:** -12.2%  
+**24h:** +0.3%  
+**7d:** +2.6%  
+**30d:** -0.0%  
+**90d:** -20.2%  
+**1y:** -11.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1730.92B
+**Market Cap:** $1736.44B
 Rank #1
 
-**Circulating Supply:** 19,966,493 BTC
+**Circulating Supply:** 19,966,503 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.2%
+-31.0%
 
 **All-Time Low:** $67.81
-+127864.9%
++128221.8%
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-6h ago
+7h ago
 
 ---
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -107,21 +107,27 @@ Rank #1
 
 ---
 
-**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
-
-3h ago
-
----
-
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
 1h ago
 
 ---
 
+**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
+
+3h ago
+
+---
+
 **[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
 
-1h ago
+2h ago
+
+---
+
+**[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
+
+51m ago
 
 ---
 
@@ -129,15 +135,7 @@ Rank #1
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
-5h ago
-
----
-
-**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
-
-SLAYER RIDING THE BEAR #BITCOIN
-
-13h ago
+6h ago
 
 ---
 
@@ -153,11 +151,9 @@ CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
+**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
-
-The Guardian • 19h ago
+The Block • 7h ago
 
 ---
 
@@ -169,9 +165,17 @@ Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqey-4aqdfMKu4i3_RKqX2SEvP0xly7pgoRSTJkTy6e1hm2NEjdfAmDV&gaa_ts=694c0a7f&gaa_sig=WZkg6eRV0hZvzEahgk9Fhf0JjBcvByJzJ3FvDl0WuOcB21K6OIGV9TOspJWOFd0jVhVUON1E6qAVpwH6zmoGzA%3D%3D)**
+**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
 
-Barron's • 22h ago
+Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+
+Investopedia • 6h ago
+
+---
+
+**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqdfbD_HPv3Puf_eTvxRgFMi19-F_U45OuNVetjbfeChRqC0sajjr5Ys&gaa_ts=694c1992&gaa_sig=sTSq_BWm7UB2sdjjMkpis80Uevyq_ywNvH-f0zCJ8d0aq9KrDAfuxkd6t4dAUraXG2GhckfFP1OrdlTBHPTGYA%3D%3D)**
+
+Barron's • 23h ago
 
 ---
 
@@ -183,11 +187,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
 
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 5h ago
+Investopedia • 19h ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -197,25 +207,11 @@ KRON4 • 9h ago
 
 ---
 
-**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
+**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
 
-Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
+Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-VanEck • 1d ago
-
----
-
-**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
-
-The Block • 6h ago
-
----
-
-**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
-
-A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
-
-CoinDesk • 5h ago
+The Guardian • 20h ago
 
 ---
 
@@ -233,7 +229,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 4 • 💬 2 • 1h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 2h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -275,6 +271,14 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
+**[Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://news.ycombinator.com/item?id=46376848)**
+
+The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
+
+⬆️ 2 • 💬 0 • 13m ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -285,7 +289,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 195 • ⏱️ 13:26 • 17h ago
+👁️ 22K • 👍 1K • 💬 195 • ⏱️ 13:26 • 18h ago
 
 ---
 
@@ -295,7 +299,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 16h ago
+👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 17h ago
 
 ---
 
@@ -305,7 +309,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 2K • 👍 77 • 💬 99 • ⏱️ 8:19 • 2h ago
+👁️ 2K • 👍 77 • 💬 99 • ⏱️ 8:19 • 3h ago
 
 ---
 
@@ -315,7 +319,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 175 • ⏱️ 20:00 • 17h ago
+👁️ 27K • 👍 1K • 💬 175 • ⏱️ 20:00 • 18h ago
 
 ---
 
@@ -335,7 +339,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 67K • 👍 3K • 💬 407 • ⏱️ 20:46 • 21h ago
+👁️ 67K • 👍 3K • 💬 407 • ⏱️ 20:46 • 22h ago
 
 ---
 
