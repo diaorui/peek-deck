@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T11:30:38.948156+00:00'
+updated: '2025-12-24T11:44:31.697701+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 11:30 UTC  
+**Last Updated:** December 24, 2025 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,14 +46,6 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
-**[Something big is happening in robotics: open robotics datasets have exploded this year.](https://www.reddit.com/r/robotics/comments/1pukmbh/something_big_is_happening_in_robotics_open/)**
-
-Robotics Datasets – Hugging Face (29,464): https://huggingface.co/datasets?task_categories=task_categories:robotics&sort=downloads From Pierre-Alexandre Balland on 𝕏: https://x.com/pa_balland/status/2003461164781428931 Something big is happening in robotics - and it’s hiding in plain sight. This post is not about dancing robots but in the data that powers them. Open robotics datasets have exploded this year, turning the field into a more scalable and collaborative ecosystem. In just two years, Hugging Face datasets grew from 11k to over 600k - and robotics is by far the fastest-growing segment. We went from 1k robotics datasets in 2024 to 27k in 2025! For comparison, text generation, the second-largest category, has only around 5k datasets in 2025. That gap is massive.
-
-44m ago
-
----
-
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
 14h ago
@@ -64,7 +56,7 @@ Robotics Datasets – Hugging Face (29,464): https://huggingface.co/datasets?tas
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-4h ago
+5h ago
 
 ---
 
@@ -108,6 +100,14 @@ I've been working on a desktop app called Artifex for generating robot descripti
 
 ---
 
+**[Physical Intelligence (π) launches the "Robot Olympics": 5 autonomous events demonstrating the new π0.6 generalist model](https://www.reddit.com/r/robotics/comments/1pt6ouz/physical_intelligence_π_launches_the_robot/)**
+
+Physical Intelligence just released a series of "Robot Olympics" events to showcase their latest π0.6 model. Unlike standard benchmarks, these tasks are designed to illustrate Moravec’s Paradox which are everyday physical actions that are trivial for humans but represent the "gold standard" of difficulty for modern robotics. All tasks shown are fully autonomous, demonstrating high-level task decomposition and fine motor control. The 5 Olympic Events: Event 1 (Gold) - Door Entry: The robot successfully navigates a self-closing lever-handle door. This is technically challenging because it requires the model to apply force to keep the door open while simultaneously moving its base through the frame. Event 2 (Silver) - Textile Manipulation: The model successfully turns a sock right-side-out. They attempted the Gold medal task (hanging an inside-out dress shirt), but the current hardware gripper was too wide for the sleeves. Event 3 (Gold) - Fine Tool Use: A major win here,the robot used a small key to unlock a padlock. This requires extreme precision to align the key and enough torque to turn the tumbler. (Silver was making a peanut butter sandwich, involving long-horizon steps like spreading and cutting triangles). Event 4 (Silver) - Deformable Objects: The robot successfully opened a dog poop bag. This is notoriously difficult because the thin plastic blinds the wrist cameras during manipulation. They attempted to peel an orange for Gold but were "disqualified" for needing a sharper tool. Event 5 (Gold) - Complex Cleaning: The robot washed a frying pan in a sink using soap and water, scrubbing both sides. They also cleared the Silver (cleaning the grippers) and Bronze (wiping the counter) tasks for this category. The Tech Behind It: The π0.6 model is a Vision-Language-Action (VLA) generalist policy. It moves away from simple "behavior cloning" and instead focuses on agentic coding and task completion, allowing it to recover from errors and handle diverse, "messy" real-world environments. Official Blog: pi.website/blog/olympics Source Video: Physical Intelligence on X
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -125,14 +125,6 @@ hyundai.com • 2d ago
 Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
 
 Good Morning Wilton • 2d ago
-
----
-
-**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
-
-Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
-
-CnEVPost • 1d ago
 
 ---
 
@@ -158,14 +150,6 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
-
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
-
-El Adelantado • 1d ago
-
----
-
 **[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
 
 Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
@@ -174,9 +158,11 @@ Interesting Engineering • 13h ago
 
 ---
 
-**[Hyundai's Boston Dynamics to debut new Atlas humanoid robots at CES](https://www.reuters.com/business/retail-consumer/hyundais-boston-dynamics-debut-new-atlas-humanoid-robots-ces-2025-12-22/)**
+**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
 
-Reuters • 2d ago
+NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
+
+Phoronix • 2d ago
 
 ---
 
@@ -185,6 +171,22 @@ Reuters • 2d ago
 As artificial intelligence usage continues to expand across industries, Allegheny County’s primary utilities company is putting a charge into the...
 
 Pittsburgh Post-Gazette • 2h ago
+
+---
+
+**[The Tech Review 2025: China sees breakthroughs in AI and robotics](https://news.cgtn.com/news/2025-12-23/The-Tech-Review-2025-China-sees-breakthroughs-in-AI-and-robotics-1JkPp0QUWl2/p.html)**
+
+The year 2025 has been defined by a wave of transformative advances in China's artificial intelligence (AI) and robotics sectors, marking a decisive shift from laboratory research toward deep industrial integration and real-world application.The year
+
+news.cgtn.com • 1d ago
+
+---
+
+**[Training a robot to replace you? Local startup Tutor Intelligence says it could happen.](https://www.bostonglobe.com/2025/12/22/business/tutor-intelligence-ai-robotics-employment/)**
+
+Tutor’s first product, Cassie, is designed for a relatively simple task — loading and unloading shipping pallets laden with boxes of merchandise.
+
+The Boston Globe • 1d ago
 
 ---
 

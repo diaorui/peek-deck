@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T11:30:38.930351+00:00'
+updated: '2025-12-24T11:44:31.679390+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 11:30 UTC  
+**Last Updated:** December 24, 2025 at 11:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -67,19 +67,19 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 ---
 
-**[The most highly awarded games embrace AI in development and production](https://www.reddit.com/r/artificial/comments/1pui8x8/the_most_highly_awarded_games_embrace_ai_in/)**
-
-All of these game developers have used, or are still using, AI to accelerate production and development, including the most highly awarded game in the history of The Game Awards ❗️ GOTY — Clair Obscur: Expedition 33 Kingdom Come: Deliverance II Cyberpunk TCG The Witcher 4 Divinity https://www.thegamer.com/cd-projekt-red-the-witcher-4-ai/#thread
-
-3h ago
-
----
-
 **[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
 14h ago
+
+---
+
+**[The most highly awarded games embrace AI in development and production](https://www.reddit.com/r/artificial/comments/1pui8x8/the_most_highly_awarded_games_embrace_ai_in/)**
+
+All of these game developers have used, or are still using, AI to accelerate production and development, including the most highly awarded game in the history of The Game Awards ❗️ GOTY — Clair Obscur: Expedition 33 Kingdom Come: Deliverance II Cyberpunk TCG The Witcher 4 Divinity https://www.thegamer.com/cd-projekt-red-the-witcher-4-ai/#thread
+
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-5h ago
+6h ago
 
 ---
 
@@ -127,25 +127,11 @@ blog.google • 18h ago
 
 ---
 
-**[Google started the year behind in the AI race. It ended 2025 on top.](https://finance.yahoo.com/news/google-started-the-year-behind-in-the-ai-race-it-ended-2025-on-top-150352574.html)**
+**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
 
-Google's AI bounced back in a big way in 2025.
+The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-Yahoo Finance • 2h ago
-
----
-
-**[How Google embraced AI generated ads—a case study for brands](https://adage.com/technology/ai/aa-google-makes-ai-generated-ads-case-study-for-marketers/)**
-
-While Google used to abstain from using AI-generated content, new advancements in AI tools have been too compelling for the tech giant to ignore.
-
-Ad Age • 15h ago
-
----
-
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
-
-The Washington Post • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -159,13 +145,13 @@ The New York Times • 1h ago
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-Los Angeles Times • 30m ago
+Los Angeles Times • 44m ago
 
 ---
 
-**[Italy watchdog orders Meta to halt WhatsApp terms barring rival AI chatbots](https://www.reuters.com/sustainability/boards-policy-regulation/italy-watchdog-orders-meta-halt-whatsapp-terms-barring-rival-ai-chatbots-2025-12-24/)**
+**[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqdgpx02MBQS51q7np5JspgsVRdvOSUTfHmBbsAAviNeTq6rEj9afhjr&gaa_ts=694bd58c&gaa_sig=4isnlO4911WXc8wZ4zfmCh6-K5mWS9FyRWjLxElSPPHsFTx6u7x-sNoHbR4Nc1miX3i_04cdyuqi-9EYEm8pQQ%3D%3D)**
 
-Reuters • 1h ago
+The Wall Street Journal • 44m ago
 
 ---
 
@@ -177,17 +163,33 @@ Financial Times • 6h ago
 
 ---
 
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
-
-The Guardian • 18h ago
+The Washington Post • 17h ago
 
 ---
 
-**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqfkf6QNRHGtgpZtfBeYXGGT93ErhDw7UDrpSn6o4IUUjD7XssDRvCz3&gaa_ts=694bcdc8&gaa_sig=tjpsVkNr0cRjpSj6mlws55WEXd0PbWbUnu53mJ-KxvDHi9DfbFNiP8qdppevJSJ0OU5ZWaEMiI5tv4M60rn9Mw%3D%3D)**
+**[This ex-doctor faced ‘incredible burnout’ and left medicine to build an AI tool – now, it’s worth over $460 million](https://www.cnbc.com/2025/12/24/he-left-medicine-to-build-an-ai-tool-now-its-worth-460-million.html)**
 
-The Wall Street Journal • 7h ago
+Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
+
+CNBC • 9h ago
+
+---
+
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
+
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+Fortune • 17h ago
+
+---
+
+**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
+
+A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
+
+ABC News • 2d ago
 
 ---
 
@@ -207,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 293 • 💬 262 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 293 • 💬 264 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -223,7 +225,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 231 • 💬 227 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 232 • 💬 227 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -231,7 +233,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 201 • 💬 64 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 203 • 💬 65 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -364,7 +366,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 43K • 👍 2K • 💬 311 • ⏱️ 33:27 • 17h ago
+👁️ 43K • 👍 2K • 💬 311 • ⏱️ 33:27 • 18h ago
 
 ---
 
@@ -374,7 +376,7 @@ Woman leaves baby kangaroo with mother kangaroo  #ai #kangaroo #woman.
 
 📺 MindOfPower
 
-👁️ 21K • 👍 680 • 💬 2 • ⏱️ 0:33 • 1h ago
+👁️ 21K • 👍 680 • 💬 2 • ⏱️ 0:33 • 2h ago
 
 ---
 
@@ -390,7 +392,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 724 • 1d ago
+⬇️ 2,719 • ❤️ 726 • 1d ago
 
 ---
 
@@ -402,7 +404,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 664 • 5d ago
+⬇️ 11,944 • ❤️ 665 • 5d ago
 
 ---
 
@@ -414,7 +416,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,381 • 15d ago
+⬇️ 384,826 • ❤️ 3,383 • 15d ago
 
 ---
 
@@ -472,7 +474,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 256 • 5d ago
+⬇️ 0 • ❤️ 258 • 5d ago
 
 ---
 
@@ -496,7 +498,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 246 • 22h ago
+⬇️ 1,152 • ❤️ 252 • 22h ago
 
 ---
 
@@ -674,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 193 • 25m ago
+⭐ 2.6k • 🔱 193 • 38m ago
 
 ---
 
@@ -714,7 +716,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 107 • 23h ago
+⭐ 1.1k • 🔱 107 • 1d ago
 
 ---
 

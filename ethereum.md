@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T11:30:38.944806+00:00'
+updated: '2025-12-24T11:44:31.694342+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 11:30 UTC  
+**Last Updated:** December 24, 2025 at 11:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** -0.9%  
 **7d:** +4.0%  
-**30d:** -0.8%  
+**30d:** -0.9%  
 **90d:** -27.1%  
 **1y:** -16.1%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.83B
+**Market Cap:** $353.43B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677154.6%
++676233.0%
 
 ---
 
@@ -262,7 +262,7 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 3K • 👍 113 • 💬 97 • ⏱️ 11:00 • 6h ago
+👁️ 3K • 👍 113 • 💬 97 • ⏱️ 11:00 • 7h ago
 
 ---
 
@@ -272,7 +272,7 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 73 • 💬 96 • ⏱️ 22:51 • 16h ago
+👁️ 4K • 👍 73 • 💬 96 • ⏱️ 22:51 • 17h ago
 
 ---
 

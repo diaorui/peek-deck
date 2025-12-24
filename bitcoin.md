@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T11:30:38.938824+00:00'
+updated: '2025-12-24T11:44:31.688197+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 11:30 UTC  
+**Last Updated:** December 24, 2025 at 11:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1740.53B
+**Market Cap:** $1740.82B
 Rank #1
 
 **Circulating Supply:** 19,966,425 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.8%
 
 **All-Time Low:** $67.81
-+128509.3%
++128475.4%
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -129,19 +129,19 @@ V2
 
 ---
 
-**[I am new to BITCOIN but so far...](https://www.reddit.com/r/Bitcoin/comments/1puflp8/i_am_new_to_bitcoin_but_so_far/)**
-
-Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
-
-5h ago
-
----
-
 **[Should i invest all my money to BTC](https://www.reddit.com/r/Bitcoin/comments/1puk3hg/should_i_invest_all_my_money_to_btc/)**
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
 1h ago
+
+---
+
+**[I am new to BITCOIN but so far...](https://www.reddit.com/r/Bitcoin/comments/1puflp8/i_am_new_to_bitcoin_but_so_far/)**
+
+Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
+
+6h ago
 
 ---
 
@@ -161,7 +161,15 @@ The Guardian • 15h ago
 
 Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
+
+---
+
+**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
+
+Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+
+Investopedia • 1h ago
 
 ---
 
@@ -195,31 +203,23 @@ Investor's Business Daily • 1d ago
 
 ---
 
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 4h ago
+
+---
+
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+
+The Block • 19h ago
+
+---
+
 **[Better Buy in 2026: XRP (Ripple) or Bitcoin?](https://www.fool.com/investing/2025/12/24/better-buy-in-2026-xrp-ripple-or-bitcoin/)**
 
 XRP and Bitcoin are currently on track to end 2025 in the red.
 
 The Motley Fool • 1h ago
-
----
-
-**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
-
-The Block • 1d ago
-
----
-
-**[Some Massachusetts cities ban Bitcoin ATMs, but is it enough to prevent scams?](https://www.wcvb.com/article/mass-cities-ban-bitcoin-atms-amid-scams/69800530)**
-
-Waltham and Gloucester have banned the machines
-
-WCVB • 1d ago
-
----
-
-**[‘The Biggest Merger In History’—U.S. Treasury Secretary Reveals Price Game-Changer As Wall Street Leans Into Bitcoin And Crypto](https://www.forbes.com/sites/digital-assets/2025/12/23/the-biggest-merger-in-history-us-treasury-secretary-reveals-price-game-changer-as-wall-street-leans-into-bitcoin-and-crypto/)**
-
-Forbes • 22h ago
 
 ---
 
