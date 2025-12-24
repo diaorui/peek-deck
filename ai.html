@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2025-12-24T16:53:37.026951+00:00"
+          "dateModified": "2025-12-24T17:15:18.729813+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -714,6 +714,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1purppz/i_thought_it_was_a_disaster_but_not_anthropic_wsj/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1purppz/i_thought_it_was_a_disaster_but_not_anthropic_wsj/" target="_blank" onclick="event.stopPropagation();">"I thought it was a disaster, but not Anthropic." WSJ mentions bankrupting Claude AI twice, Anthropic does not mention it at all.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            We Let AI Run a Vending Machine. It Lost All the Money (Twice) - WSJ https://www.youtube.com/watch?v=SpPhm7S9vsQ Vs. Claude ran a business in our office - Anthropic https://www.youtube.com/watch?v=5KTHvKCrQ00
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766594914.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pu9ddt/ashley_macisaac_concert_cancelled_after_ai/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -801,6 +834,304 @@
                                             
                                         
                                         <span>techspot.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1purnyi/its_not_the_model_its_the_tool/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1purnyi/its_not_the_model_its_the_tool/" target="_blank" onclick="event.stopPropagation();">It's not the model, it's the tool</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Every week, a new “SOTA” (State of the Art) model is announced, promising higher reasoning capabilities and (often) lower costs. We could be led to think that we are entering an era of infinite, frictionless productivity. But the reality is messier. While the models are getting smarter, the gap between “intelligence on tap” and “completing a task” is managed by our tools and right now, that tooling interface is becoming a major source of friction.
+
+As we will see, this isn’t just a developer’s dilemma in the context of new AI assisted coding interfaces. It is a preview of the “retooling tax” that every professional domain must soon learn to navigate.
+
+The paradox is simple: as models improve, productivity bottlenecks increasingly shift away from intelligence itself and toward the tools that mediate access to it.
+
+The race for better models
+This is the popular meme reflecting the merry-go-round of weekly improvements of AI models:
+
+
+
+(source. other versions of this meme do include Anthropic’s Claude, if you wonder)
+
+LLMs become more capable, cheaper, and available on tap, to the point that the new best performing model can be indistinguishable from the previous one, simply because models are now so smart that the tasks we perform are not complex enough to clearly differentiate between “a great model” and an “even greater model”: both perform equally well on the tests.
+
+This is the experience of Simon Willison when testing a preview of Claude Opus 4.5 on November 24, 2025:
+
+
+  It’s clearly an excellent new model, but I did run into a catch. My preview expired at 8pm on Sunday when I still had a few remaining issues in the milestone for the alpha [of his coding project]. I switched back to Claude Sonnet 4.5 and… kept on working at the same pace I’d been achieving with the new model. With hindsight, production coding like this is a less effective way of evaluating the strengths of a new model than I had expected. I’m not saying the new model isn’t an improvement on Sonnet 4.5—but I can’t say with confidence that the challenges I posed it were able to identify a meaningful difference in capabilities between the two.
+
+
+This experience reflects that for some tasks, we have seemingly reached a plateau: models are already “clever enough”. Model providers continue the race the bottom for costs and hallucination rates, while constantly reaching new heights for task completion duration and overall performance.
+
+From the user’s perspective, however, the experience still falls short of the promise of effortless productivity: intelligence may be abundant, but friction remains pervasive. I will illustrate this with the case of coding tasks, before returning to the broader picture.
+
+The tooling paradox
+Making use of generative AI in a coding task is actually not as straightforward as just asking “solve this problem / respond to this difficult question” and then just collecting the answer.
+Here are some essential milestones in the short history of tools that have been evolved to ease this process.
+
+
+  
+    
+      #
+      Name
+      Owning company
+      First public release
+      Interface type
+      Key features (1 line)
+      Cost model
+    
+  
+  
+    
+      1
+      GitHub Copilot
+      GitHub (Microsoft)
+      2021
+      IDE extension (VS Code, JetBrains…)
+      Inline code completion and chat powered by LLMs
+      Subscription (individual / business)
+    
+    
+      2
+      Cursor
+      Anysphere
+      2022
+      Stand-alone IDE
+      AI-native IDE with conversational editing across the codebase
+      Freemium + subscription
+    
+    
+      3
+      Aider
+      Open source (community)
+      2023
+      CLI
+      Git-aware conversational code editing from the terminal
+      Free (API usage paid separately)
+    
+    
+      4
+      Zed
+      Zed Industries
+      2024
+      Stand-alone IDE
+      High-performance collaborative editor with built-in AI agents
+      Freemium + paid AI features
+    
+    
+      5
+      ChatGPT Canvas
+      OpenAI
+      2024
+      Web UI (chat interface)
+      Editable documents and live frontend rendering inside chat
+      Freemium + ChatGPT Plus / Team
+    
+    
+      6
+      Gemini Canvas
+      Google
+      2025
+      Web UI (chat interface)
+      Collaborative canvas with live code and document rendering
+      Included in Gemini Advanced plans
+    
+    
+      7
+      Claude Code
+      Anthropic
+      2025
+      CLI
+      Agent-based CLI introducing the notion of skills (Claude only)
+      Paid (Anthropic API)
+    
+    
+      8
+      Codex (CLI)
+      OpenAI
+      2025
+      CLI
+      Autonomous coding agents for repo-level tasks (OpenAI only)
+      Paid (usage-based)
+    
+    
+      9
+      Antigravity
+      Google
+      2025 (November)
+      Stand-alone IDE
+      AI-native IDE with conversational editing across the codebase. Direct competitor to Cursor.
+      Free for a limited period. Likely subscription (enterprise-oriented)
+    
+  
+
+
+Each of these tools come with various features, pricing models, degrees of vendor lock-in, and maturity. They all try to reduce the friction in AI assisted coding.
+
+For the developer, the cognitive overhead of evaluating, adopting, and eventually abandoning these tools creates a ‘productivity tax’ that can temporarily outweigh the gains of the AI itself.
+
+Exploration and adoption of AI tools: a cost inducing process
+
+My own journey using AI for coding is illustrative of the tortuous, time consuming process of exploration and learning costs associated with the adoption of new tools:
+
+
+  2010-2022: NetBeans only. Very happy with it.
+  2023: NetBeans + copy pasting of code snippets in Barde (now Gemini), Claude and ChatGPT. Feels weird and broken to resort to Ctrl+C and Ctrl +V but this is still very useful.
+  2024: same as 2023. Weak attempts at exploring Jeddict, a plugin for LLM assistance integrated in NetBeans. I did not adopt it because copy pasting to Claude, Gemini or ChatGPT is more flexible.
+  2025
+    
+      (Spring): still copy pasting code in Gemini, Claude and ChatGPT. Using the new canvas features of Gemini and ChatGPT to render / edit frontend files. This causes friction with my tech stack because it makes use of xhtml files, not html files. That obliges me to do some manual and AI assisted file edits between the two formats.
+      (Summer): bored by the back and forth between .xhtml and .html formats, and by the copy pasting. I heard of Cursor of course but the 20$ monthly subscription makes me hesitate, as I already spend 20$ for OpenAI and 20$ for Gemini (plus my server costs etc). So I try  Aider, a free and open source solution to finally have in-place AI assisted editing of my files. Far from good enough, I don’t adopt it.
+      (Fall): I try Zed, a kind of free and open source Cursor. The results are disappointing: slow and imprecise.
+      (Fall): fed up with the broken process of previewing my xhtml files as html files in the canvases. I change my tech stack largely because of that. The copy pasting continues.
+      (Fall): I finally have a try at Cursor. Fantastic results. I virtually stop coding in NetBeans and use it only to launch services and test them in debugging mode. Big positive impact on my stack: I can remove a large framework (that I used for the last 10 years!) and I come back to a simpler code base.
+    
+  
+  2026: will try Claude Code. Late 2025 I pushed Cursor to its limits by trying to make it interact with the services I launch: it can’t properly read their error logs and integrate them back in the conversation to iterate further. I’ve read that Claude Code does it very well. Claude’s notion of ‘skills’ is also very promising. The only issue is that Claude Code is not Windows friendly yet, so I must switch to a Linux based development environment to adopt it (this switch to Linux is overdue of course but that’s a different story).
+
+
+As can be seen from the above, I have changed from a 13-year period of complete stability in tool use to a year exploration and trial and error. The opportunity cost is real: because I spent 2025 chasing the ‘perfect’ workflow, feature development on my primary app (nocodefunctions.com) essentially froze. I traded immediate output for a total architectural and workflow refactor. A new version of the app is slowly emerging, derived from a completely renewed code base.
+
+This is me as a solo developer, I can’t imagine what the process looks like at the scale of an organization which simply can’t pause, stop or refactor things in such a way. My guess is that:
+
+
+  in large organizations, teams will stick with their traditional IDE and just wait for it to evolve or for useful plugins for AI assistance to appear. Switching costs are just too high.
+  in medium sized oganizations / startups, teams will switch to Cursor (many already have). Switching again to Claude Code is a bridge too far, and in any case Claude Code is too strong a vendor lock-in. They’ll wait a couple of months for Cursor to catch up to Claude Code.
+  and companies that have a strong connivence with Anthropic, or the solo devs like myself who have very low switching costs, will try Claude Code.
+
+
+So the profusion of AI assisting tools gives this picture:
+
+
+
+(source: generated by the author with Gemini)
+
+What looks like a tooling problem in software development is, in fact, an early signal of a much broader phenomenon.
+
+Not just coding: the broader lesson about reskilling
+The story above shows that:
+
+
+  paradoxically, progress in AI can cause a temporary decrease in productivity because of the retooling it invites to do. Switching costs of all sorts are incurred and production has to slow or stop to make time for the exploration of these new tools. Discovery process, learning of the UI, evaluation…
+  retooling has strong bandwagon effects. New tools are not just about a “better or lower performance”: they open new opportunities and have specific limits which invite to rethink the material that is worked on by the tool, and even aspects of the general environment where we are operating.
+  it is not just a story about coding. The same is happening in visual creation, for example. Look at this list of 100+ tools for AI assisted visual creation I maintain: it would be foolish to think that the potential of these tools is simply measurable in terms of “is the result better or worse, is productivity higher or lower?” Workflows, aesthetics, domains of expression, cost models, team work, methodologies, skillsets, pace of production, … in a word, the entire domain and industry is turned upside down.
+
+
+What to make of it?
+This is a pretty long blog post to arrive at this simple conclusion: the endless competition between AI models providers can give the false impression that as professionals, we can rest in our armchairs and just wait and benefit from this continuous stream of improvements. This is a very false sense of comfort.
+
+We are moving from an era of tool mastery (learning one category of desktop app for a decade) to an era of tool fluidity. The competitive advantage is no longer just knowing how to master a set of professional skills, but how quickly one can integrate these skills in new AI-native workflows without breaking momentum.
+
+From the perspective of a professional in higher education, this means that the often repeated:
+
+
+  “we don’t train our students for a particular tool, we train them in fundamental skills”
+
+
+… has a renewed sense of relevance and urgency. Because in practice, we do tend to rely on the obvious workhorses of the trade. Just pick an IDE for coding, learn the Adobe Creative Cloud for visual creation, and choose Blender or Maya for 3D modelling - obviously, right? Well, it might be time for a rethink and train students in the art and craft of resetting their fundamental tooling suite on a regular basis.
+
+In a world where tools now have a half-life measured in years, not decades, learning to retool quickly is no longer a support skill — it is a core professional competence.
+
+
+About Me
+
+I’m an academic and independent web app developer. I created nocode functions, a free, point-and-click tool for exploring texts and networks. It’s fully open source. Try it out and let me know what you think. I’d love your feedback!
+
+
+  Email: analysis@exploreyourdata.com
+  Bluesky: @seinecle
+  Blog: Read more articles on app development and data exploration.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766594778.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://nocodefunctions.com/assets/image/favicon-57x57.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>nocodefunctions.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/64mJszOSbjMrhbJ7QdtIa1xnQsveTUNAn5KM7woEPsc.jpeg?width=640&crop=smart&auto=webp&s=9b50eab72a095d23ac8ee1586d304cb5a3db3e29" alt="Can AI ever be funny? Some comedians embrace AI tools but they're still running the show" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/" target="_blank" onclick="event.stopPropagation();">Can AI ever be funny? Some comedians embrace AI tools but they're still running the show</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1766594253.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://apnews.com/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>AP News</span>
                                     </a>
                                 </div>
                                 
@@ -925,139 +1256,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/M27_tK2iQE7dayn_YVjGkf1sRgJVaOAGDXcoz7bSsPg.jpeg?width=640&crop=smart&auto=webp&s=b4d34ebe12110648187bfd21443ffe71db8de0ed" alt="Intel NPU firmware published for Panther Lake - completing the Linux driver support" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1pu0two/intel_npu_firmware_published_for_panther_lake/" target="_blank" onclick="event.stopPropagation();">Intel NPU firmware published for Panther Lake - completing the Linux driver support</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766513443.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.phoronix.com/apple-touch-icon-57x57.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>phoronix.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/Uwe4Owb1X0791SuGo73PJpwngCmxG3o1NZah6-HsYfQ.jpeg?width=640&crop=smart&auto=webp&s=6c372c32f431c6774f4f1ad4e8a1f98f122ba131" alt="ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ptpkc5/ice_contracts_company_making_bounty_hunter_ai/" target="_blank" onclick="event.stopPropagation();">ICE Contracts Company Making Bounty Hunter AI Agents | AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            AI Solutions 87 says on its website its AI agents “deliver rapid acceleration in finding persons of interest and mapping their entire network.”
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766481358.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.404media.co/ice-contracts-company-making-bounty-hunter-ai-agents/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.404media.co/content/images/size/w256h256/format/png/2023/08/favicon-3.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>404 Media</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1puajmk/6700xt_vs_5060ti_16gb/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1puajmk/6700xt_vs_5060ti_16gb/" target="_blank" onclick="event.stopPropagation();">6700XT vs 5060Ti 16gb</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Before you all say go for the 5060TI hear me out. I play games occasionally, watch videos streaming, and basic stuff. My 67xt is serving me well except for one thing, AI. Now I use backyardAI a lot for my stories. I am getting about 15-20 tokens/sec on a 9gb LLM I am also wanting to try Stable Diffusion one day to generate photos and other things I dont know about yet. I attn span is as long as my pinky so I dont know how long I am going to be into this I can sell my 6700xt for about $240 and grab the 5060Ti 16gb PNY for $480 after tax. Is it really necessary?? Is AMD support going to catch up soon as far as software support for AI generation? Is there going to be progress? Happy Holidays
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1766538615.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1081,7 +1279,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-24T16:34:21.571030+00:00">Updated 2025-12-24T16:34:21.571030+00:00</small>
+        <small data-timestamp="2025-12-24T17:15:02.851311+00:00">Updated 2025-12-24T17:15:02.851311+00:00</small>
     </div>
 </div>
 
@@ -1267,6 +1465,121 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html" target="_blank" onclick="event.stopPropagation();">Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766570551.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence" target="_blank" onclick="event.stopPropagation();">How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.france24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="France 24" class="news-favicon">
+                                    <a href="https://www.france24.com" target="_blank" onclick="event.stopPropagation();">France 24</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1766570381.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/f3c5945bf000f1a831b643986588a8d2fb63555a/559_511_1300_1041/master/1300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=338d5fdc77095b2cd007fe0c3041b583');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu" target="_blank" onclick="event.stopPropagation();">This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1765993020.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://blog.google/technology/ai/2025-research-breakthroughs/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/end-of-year-blog_keyword_social_share_light_1.width-1300.png');"></div>
@@ -1308,20 +1621,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/24/he-left-medicine-to-build-an-ai-tool-now-its-worth-460-million.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/12/24/the-blowout-ai-trades-that-surprised-wall-street-in-2025.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108245048-1766467884365-PRGroup_Heidi_9854_F.jpg?v=1766468004&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108197831-1757624736424-IMG_7481.jpg?v=1757624963&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2025/12/24/he-left-medicine-to-build-an-ai-tool-now-its-worth-460-million.html" target="_blank" onclick="event.stopPropagation();">This ex-doctor faced ‘incredible burnout’ and left medicine to build an AI tool – now, it’s worth over $460 million</a>
+                            <a href="https://www.cnbc.com/2025/12/24/the-blowout-ai-trades-that-surprised-wall-street-in-2025.html" target="_blank" onclick="event.stopPropagation();">The blowout AI trades that surprised Wall Street in 2025</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
+                            We lay out the AI trades that captured the market's attention, from Google's unexpected growth to the boom in rocket companies and self-driving cars.
                         </div>
                         
 
@@ -1341,7 +1654,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766544120.0"></span>
+                                    <span data-timestamp="1766588401.0"></span>
                                 </div>
                                 
                             </div>
@@ -1427,121 +1740,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://fortune.com/2025/12/24/vanguards-cio-niti-tandon-ai-digital-advisor/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/12/Tandon_Nitin_24_b-3.jpg?resize=1200,600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://fortune.com/2025/12/24/vanguards-cio-niti-tandon-ai-digital-advisor/" target="_blank" onclick="event.stopPropagation();">How investment giant Vanguard’s CIO is placing big tech bets today to create the AI digital advisor of tomorrow</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Vanguard CIO Nitin Tandon says AI can be used to hyper-personalize guidance for customers.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766588220.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html" target="_blank" onclick="event.stopPropagation();">Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766570551.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/" target="_blank" onclick="event.stopPropagation();">Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1766512806.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.ft.com/content/b2ebb99a-cfea-465f-93ff-0ea8ed6bfac5', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe888c12e-8916-4853-a63e-2ab682e78b47.jpg?source=next-barrier-page');"></div>
@@ -1575,7 +1773,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766552420.0"></span>
+                                    <span data-timestamp="1766552438.0"></span>
                                 </div>
                                 
                             </div>
@@ -1583,17 +1781,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqeTu08yZ1hDIkgWbeNz8jq5xrAk7_ZC1A3Z1m1cFTyjNgL18yoY0S6j&gaa_ts=694c1990&gaa_sig=VUis7iMMNFGkZjDC8yJamO2JSXPxikdlMbb0w6lTLlJ-0Ndf6dkQquZ4XAk6Iw6aJWZ4oTww43vZseEOatv6vQ%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2236544323_ce1755-e1766508826353.jpg?resize=1200,600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqeTu08yZ1hDIkgWbeNz8jq5xrAk7_ZC1A3Z1m1cFTyjNgL18yoY0S6j&gaa_ts=694c1990&gaa_sig=VUis7iMMNFGkZjDC8yJamO2JSXPxikdlMbb0w6lTLlJ-0Ndf6dkQquZ4XAk6Iw6aJWZ4oTww43vZseEOatv6vQ%3D%3D" target="_blank" onclick="event.stopPropagation();">AI Construction Costs Can Be an Accounting ‘Black Box’</a>
+                            <a href="https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/" target="_blank" onclick="event.stopPropagation();">Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1602,9 +1804,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Wall Street Journal" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
                                     
                                 </div>
                                 
@@ -1612,7 +1814,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1766574000.0"></span>
+                                    <span data-timestamp="1766512560.0"></span>
                                 </div>
                                 
                             </div>
@@ -1681,7 +1883,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-24T16:34:44.278805+00:00">Updated 2025-12-24T16:34:44.278805+00:00</small>
+        <small data-timestamp="2025-12-24T17:15:16.674832+00:00">Updated 2025-12-24T17:15:16.674832+00:00</small>
     </div>
 </div>
 
@@ -1906,10 +2108,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 794</span>
+                                    <span class="post-points">▲ 795</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 468</span>
+                                    <span style="color: #9ca3af;">💬 469</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1955,10 +2157,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 300</span>
+                                    <span class="post-points">▲ 301</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 277</span>
+                                    <span style="color: #9ca3af;">💬 279</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1975,55 +2177,6 @@
                                             
                                         
                                         <span>MacRumors</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46346214', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://avbrief.com/wp-content/uploads/2025/12/autoland-save-N479BR.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46346214" target="_blank" onclick="event.stopPropagation();">Autoland saves King Air, everyone reported safe</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 277</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 184</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2025-12-21T16:57:57Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://avbrief.com/wp-content/uploads/2025/08/AvBrief.com-favicon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>AvBrief.com</span>
                                     </a>
                                 </div>
                                 
@@ -2053,7 +2206,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 236</span>
+                                    <span class="post-points">▲ 238</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 235</span>
@@ -2102,7 +2255,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 212</span>
+                                    <span class="post-points">▲ 214</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 74</span>
@@ -2369,6 +2522,55 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46368263', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46368263" target="_blank" onclick="event.stopPropagation();">Nature Is Laughing at the AI Build Out</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I was catching up on Acquired episodes this week and listened to the spectacular “Google: The AI Company” episode that Ben and David put together. What the two of them have created with their podcast fascinates me in the inevitability of its success. I think Acquired proves that if you are smart and work your […]
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 24</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 1</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2025-12-23T19:07:01Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://markmaunder.com/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>markmaunder.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2389,7 +2591,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-24T16:34:21.424864+00:00">Updated 2025-12-24T16:34:21.424864+00:00</small>
+        <small data-timestamp="2025-12-24T17:14:59.890243+00:00">Updated 2025-12-24T17:14:59.890243+00:00</small>
     </div>
 </div>
 
@@ -3525,7 +3727,7 @@
                                     <span class="model-stats">⬇️ 2,719</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 754</span>
+                                    <span class="model-stats">❤️ 756</span>
                                 </div>
                             </div>
                             
@@ -3751,7 +3953,7 @@
                                     <span class="model-stats">⬇️ 3,398</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 416</span>
+                                    <span class="model-stats">❤️ 417</span>
                                 </div>
                             </div>
                             
@@ -3919,7 +4121,7 @@
                                     <span class="model-stats">⬇️ 1,152</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 288</span>
+                                    <span class="model-stats">❤️ 289</span>
                                 </div>
                             </div>
                             
@@ -3973,7 +4175,7 @@
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 271</span>
+                                    <span class="model-stats">❤️ 272</span>
                                 </div>
                             </div>
                             
@@ -4065,7 +4267,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-12-24T16:34:33.222412+00:00">Updated 2025-12-24T16:34:33.222412+00:00</small>
+        <small data-timestamp="2025-12-24T17:15:09.183475+00:00">Updated 2025-12-24T17:15:09.183475+00:00</small>
     </div>
 </div>
 

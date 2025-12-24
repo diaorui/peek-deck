@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T16:53:37.560244+00:00'
+updated: '2025-12-24T17:15:19.216084+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 16:53 UTC  
+**Last Updated:** December 24, 2025 at 17:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,315.48
+### $87,400.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.3%  
-**30d:** -0.3%  
-**90d:** -20.4%  
-**1y:** -12.1%  
+**24h:** -0.8%  
+**7d:** +2.6%  
+**30d:** -0.1%  
+**90d:** -20.3%  
+**1y:** -11.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1736.44B
+**Market Cap:** $1743.02B
 Rank #1
 
-**Circulating Supply:** 19,966,503 BTC
+**Circulating Supply:** 19,966,515 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.8%
 
 **All-Time Low:** $67.81
-+128221.8%
++128640.6%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-7h ago
+8h ago
+
+---
+
+**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
+
+4h ago
 
 ---
 
 **[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,12 +107,6 @@ Rank #1
 
 ---
 
-**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
-
-4h ago
-
----
-
 **[Fomo](https://www.reddit.com/r/Bitcoin/comments/1pup2if/fomo/)**
 
 2h ago
@@ -119,15 +119,15 @@ Rank #1
 
 ---
 
-**[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
-
-2h ago
-
----
-
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
 1h ago
+
+---
+
+**[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
+
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Rank #1
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
-6h ago
+7h ago
 
 ---
 
@@ -147,21 +147,27 @@ Hello, I’m a high school student and I’m thinking about investing my money i
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
+**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
 
-Bitcoin is missing out on the Christmas cheer.
+A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
 
-Bloomberg.com • 3h ago
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqecbsCBRNbPKdagY5neHbu24u90N1EVQOVJaayQaKuyiKXItbi-AMg3&gaa_ts=694c2317&gaa_sig=aJ248S7GrGwY3hHtkNTrvqq8gwDxn_Ix3ocYRWqlq879JQJ69zE6r76VIwO2bACSqK8j_efPjZeEiwuK3-yUkg%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -169,13 +175,7 @@ Bloomberg.com • 3h ago
 
 Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
 
-Investopedia • 6h ago
-
----
-
-**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqdfbD_HPv3Puf_eTvxRgFMi19-F_U45OuNVetjbfeChRqC0sajjr5Ys&gaa_ts=694c1992&gaa_sig=sTSq_BWm7UB2sdjjMkpis80Uevyq_ywNvH-f0zCJ8d0aq9KrDAfuxkd6t4dAUraXG2GhckfFP1OrdlTBHPTGYA%3D%3D)**
-
-Barron's • 23h ago
+Investopedia • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1d ago
 
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 19h ago
+Investopedia • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ KRON4 • 10h ago
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -229,7 +229,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 4 • 💬 2 • 2h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 3h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -255,6 +255,14 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 ---
 
+**[Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://news.ycombinator.com/item?id=46376848)**
+
+The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
+
+⬆️ 19 • 💬 5 • 54m ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+
+---
+
 **[Federal Prison for Writing Code](https://news.ycombinator.com/item?id=46354699)**
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
@@ -271,14 +279,6 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
-**[Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://news.ycombinator.com/item?id=46376848)**
-
-The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
-
-⬆️ 2 • 💬 0 • 32m ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -289,7 +289,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 195 • ⏱️ 13:26 • 18h ago
+👁️ 22K • 👍 1K • 💬 195 • ⏱️ 13:26 • 19h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 17h ago
+👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 18h ago
 
 ---
 
@@ -339,7 +339,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 67K • 👍 3K • 💬 407 • ⏱️ 20:46 • 22h ago
+👁️ 67K • 👍 3K • 💬 407 • ⏱️ 20:46 • 23h ago
 
 ---
 
