@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T12:44:15.163076+00:00'
+updated: '2025-12-24T13:23:01.420180+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 12:44 UTC  
+**Last Updated:** December 24, 2025 at 13:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.5%  
-**30d:** -0.1%  
-**90d:** -20.3%  
-**1y:** -12.0%  
+**24h:** +0.4%  
+**7d:** +2.3%  
+**30d:** -0.4%  
+**90d:** -20.5%  
+**1y:** -12.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.37B
+**Market Cap:** $1742.14B
 Rank #1
 
-**Circulating Supply:** 19,966,437 BTC
+**Circulating Supply:** 19,966,456 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.8%
 
 **All-Time Low:** $67.81
-+128730.6%
++128589.0%
 
 ---
 
@@ -79,19 +79,27 @@ Rank #1
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-3h ago
+4h ago
 
 ---
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-7h ago
+8h ago
+
+---
+
+**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
+
+SLAYER RIDING THE BEAR #BITCOIN
+
+11h ago
 
 ---
 
@@ -101,17 +109,21 @@ Rank #1
 
 ---
 
-**[Are you BULLISH 🐂 2026](https://www.reddit.com/r/Bitcoin/comments/1pubqtc/are_you_bullish_2026/)**
+**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-SLAYER RIDING THE BEAR #BITCOIN
+47m ago
 
-10h ago
+---
+
+**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
+
+37m ago
 
 ---
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +131,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
-2h ago
+3h ago
 
 ---
 
@@ -127,23 +139,7 @@ Hello, I’m a high school student and I’m thinking about investing my money i
 
 V2
 
-4h ago
-
----
-
-**[I am new to BITCOIN but so far...](https://www.reddit.com/r/Bitcoin/comments/1puflp8/i_am_new_to_bitcoin_but_so_far/)**
-
-Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
-
-7h ago
-
----
-
-**[Bitcoin Consolidates After ~$94.6K Rejection Key Levels to Watch](https://www.reddit.com/r/Bitcoin/comments/1ptzm4w/bitcoin_consolidates_after_946k_rejection_key/)**
-
-Bitcoin is currently in a corrective phase, trading within the $86K–$90K range after being rejected near $94.6K. This type of price action is a normal part of market structure, but the current consolidation seems to be creating uncertainty among participants. Focusing purely on the chart and price action. Does the $86K–$90K zone represent strong accumulation and support, or does it look more like a temporary consolidation before further downside? What would define a clear and valid breakout from this corrective structure, either to the upside or downside, based on technical levels and volume? How are you interpreting this range from a technical perspective?
-
-19h ago
+5h ago
 
 ---
 
@@ -155,7 +151,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -167,9 +163,17 @@ CoinDesk • 16h ago
 
 ---
 
-**[Bitcoin Is Not Set for a Happy Holidays. Why It’s Down to Silver and Gold.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-silver-gold-prices-dbe32141?gaa_at=eafs&gaa_n=AWEtsqeXTVDiBZk_fU_Syh5xNV_wMYS6OMA_lWPCkQ6Orti0qVvvGnuBasFz&gaa_ts=694be38a&gaa_sig=b-4iIS3VaJDEV43NU3T_O95wrqnIavL5fThX-u2wOyZseu65oF-UsXZloJZDU4sLhiF3QQIQTY2ygk_RvMcAcg%3D%3D)**
+**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
 
-Barron's • 19m ago
+Bitcoin is missing out on the Christmas cheer.
+
+Bloomberg.com • 26m ago
+
+---
+
+**[Bitcoin Is Not Set for a Happy Holidays. Blame Silver and Gold.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-silver-gold-prices-dbe32141?gaa_at=eafs&gaa_n=AWEtsqf90VXoKFqP_Lk0HFBbCtyMDjvoe0uOLt-lu5ImjbSgyFsKTiwdCZeF&gaa_ts=694bec9d&gaa_sig=p6Z6yhFq1FFyJVR8Ozs5_c0aembcZQCSoSEZX6DoYmgxvEyw-ugdRBbhNRF1mcYAN-2Vgkxxd-UoWHMMKx005g%3D%3D)**
+
+Barron's • 58m ago
 
 ---
 
@@ -181,11 +185,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
 
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
 
-Investopedia • 15h ago
+Investopedia • 3h ago
+
+---
+
+**[What Is Bitcoin’s ‘Cat’ Proposal and Why It Could Change Ordinals Forever](https://www.ccn.com/news/technology/bitcoin-developers-debate-utxo-bloat/)**
+
+CCN.com • 20m ago
 
 ---
 
@@ -201,25 +211,13 @@ VanEck • 1d ago
 
 Even a small investment in Bitcoin would have delivered incredible returns.
 
-The Motley Fool • 59m ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 5h ago
-
----
-
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 20h ago
+KRON4 • 6h ago
 
 ---
 
@@ -283,27 +281,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 25K • 👍 320 • 💬 197 • ⏱️ 5:23 • 22h ago
-
----
-
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
-
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 58K • 👍 3K • 💬 361 • ⏱️ 20:46 • 18h ago
-
----
-
-**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
-
-2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 1K • 💬 145 • ⏱️ 13:26 • 14h ago
+👁️ 26K • 👍 329 • 💬 189 • ⏱️ 5:23 • 23h ago
 
 ---
 
@@ -313,7 +291,27 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 22K • 👍 1K • 💬 153 • ⏱️ 20:00 • 14h ago
+👁️ 25K • 👍 1K • 💬 166 • ⏱️ 20:00 • 15h ago
+
+---
+
+**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
+
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
+
+📺 Mark Moss
+
+👁️ 63K • 👍 3K • 💬 381 • ⏱️ 20:46 • 19h ago
+
+---
+
+**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+
+2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 1K • 💬 154 • ⏱️ 13:26 • 15h ago
 
 ---
 
@@ -323,7 +321,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 530 • ⏱️ 10:51 • 13h ago
+👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 14h ago
 
 ---
 
@@ -333,27 +331,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 194 • ⏱️ 11:35 • 1d ago
-
----
-
-**[Why Arthur Hayes Says Bitcoin Will Reach $750K by 2027](https://www.youtube.com/watch?v=w5UyqDjNm9E)**
-
-BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk's 50 Most Influential People. He joins ...
-
-📺 CoinDesk
-
-👁️ 4K • 👍 122 • 💬 58 • ⏱️ 17:16 • 20h ago
-
----
-
-**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 51K • 👍 3K • 💬 206 • ⏱️ 10:16 • 1d ago
+👁️ 29K • 👍 2K • 💬 194 • ⏱️ 11:35 • 1d ago
 
 ---
 
@@ -363,17 +341,37 @@ CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 92 • 💬 56 • ⏱️ 3:19 • 1d ago
+👁️ 7K • 👍 93 • 💬 56 • ⏱️ 3:19 • 1d ago
 
 ---
 
-**[The Great Bitcoin Depression Is Happening (I&#39;m Preparing RIGHT NOW)](https://www.youtube.com/watch?v=_b9ncMJWkDQ)**
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 Crypto Tips
+📺 Altcoin Daily
 
-👁️ 12K • 👍 991 • 💬 122 • ⏱️ 7:14 • 19h ago
+👁️ 51K • 👍 3K • 💬 207 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
+
+Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
+
+📺 Thomas Kralow
+
+👁️ 3K • 👍 2K • 💬 57 • ⏱️ 6:23 • 3h ago
+
+---
+
+**[WARNING: BITCOIN WORST NIGHTMARE](https://www.youtube.com/watch?v=nvXVmzgTnCU)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 31K • 👍 2K • 💬 130 • ⏱️ 4:03 • 23h ago
 
 ---
 

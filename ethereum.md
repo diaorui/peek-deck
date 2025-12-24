@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T12:44:15.169166+00:00'
+updated: '2025-12-24T13:23:01.426244+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 12:44 UTC  
+**Last Updated:** December 24, 2025 at 13:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +4.0%  
-**30d:** -0.8%  
-**90d:** -27.1%  
-**1y:** -16.1%  
+**24h:** +0.6%  
+**7d:** +3.9%  
+**30d:** -0.9%  
+**90d:** -27.2%  
+**1y:** -16.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.07B
+**Market Cap:** $353.49B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+677586.4%
++676554.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 5h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 6h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hi! I mined some ETH around 2018 but I haven't touched it in a long time and I h
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Motley Fool • 2d ago
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1d ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 23h ago
+CCN.com • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 1d ago
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -204,21 +204,21 @@ TradingView — Track All Markets • 9h ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 21h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP face downside risks as breakout attempts falter](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-face-downside-risks-as-breakout-attempts-falter-202512240407)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) continue to trade in red on Wednesday as recent breakout attempts lose momentum near key resistance levels. BTC failed to reclaim the $90,000, ETH slipped below $3,000, while XRP faced rejection near $1.96.
-
-FXStreet • 8h ago
+CryptoSlate • 22h ago
 
 ---
 
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-TipRanks • 20h ago
+TipRanks • 21h ago
+
+---
+
+**[Ethereum treasury news: ETHZilla (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
+
+This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -226,63 +226,13 @@ TipRanks • 20h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 28K • 👍 2K • 💬 530 • ⏱️ 10:51 • 13h ago
-
----
-
 **[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
 
 ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 943 • 👍 36 • 💬 44 • ⏱️ 5:30 • 1d ago
-
----
-
-**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 97 • 💬 309 • ⏱️ 14:58 • 1d ago
-
----
-
-**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
-
-Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 3K • 👍 113 • 💬 97 • ⏱️ 11:00 • 8h ago
-
----
-
-**[ETHZilla Makes Second Ether Sale, 2026 Crypto Regulation Expectations | Bloomberg Crypto 12/23/2025](https://www.youtube.com/watch?v=GkyLObXM9Og)**
-
-"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
-
-📺 Bloomberg Television
-
-👁️ 4K • 👍 73 • 💬 96 • ⏱️ 22:51 • 18h ago
-
----
-
-**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 365 • 👍 21 • 💬 50 • ⏱️ 7:44 • 18h ago
+👁️ 950 • 👍 36 • 💬 24 • ⏱️ 5:30 • 1d ago
 
 ---
 
@@ -292,7 +242,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 2 • ⏱️ 4:22 • 20h ago
+👁️ 2K • 👍 152 • 💬 2 • ⏱️ 4:22 • 21h ago
+
+---
+
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 531 • ⏱️ 10:51 • 14h ago
+
+---
+
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 98 • 💬 309 • ⏱️ 14:58 • 1d ago
+
+---
+
+**[ETHZilla Makes Second Ether Sale, 2026 Crypto Regulation Expectations | Bloomberg Crypto 12/23/2025](https://www.youtube.com/watch?v=GkyLObXM9Og)**
+
+"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
+
+📺 Bloomberg Television
+
+👁️ 4K • 👍 80 • 💬 68 • ⏱️ 22:51 • 18h ago
 
 ---
 
@@ -302,17 +282,17 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 46 • 💬 50 • ⏱️ 7:32 • 1d ago
+👁️ 2K • 👍 46 • 💬 50 • ⏱️ 7:32 • 2d ago
 
 ---
 
-**[BITCOIN: The Breakout Failed! (bad news) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=ER1MOjuN54o)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=z7f8xTQ7KXs)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 BitcoinHyper
+📺 REKHA MAHESHWARI
 
-👁️ 7K • 👍 415 • 💬 65 • ⏱️ 14:56 • 1d ago
+👁️ 3K • 👍 1K • 18m ago
 
 ---
 
@@ -322,7 +302,27 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 333 • 👍 10 • 💬 7 • ⏱️ 6:09 • 15h ago
+👁️ 335 • 👍 10 • 💬 4 • ⏱️ 6:09 • 15h ago
+
+---
+
+**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
+
+Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 3K • 👍 111 • 💬 60 • ⏱️ 11:00 • 8h ago
+
+---
+
+**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
+
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
+
+📺 Trading Jip
+
+👁️ 818 • 👍 40 • 💬 20 • ⏱️ 9:42 • 1d ago
 
 ---
 
