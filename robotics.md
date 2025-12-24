@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T17:15:19.225437+00:00'
+updated: '2025-12-24T17:35:09.866297+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 17:15 UTC  
+**Last Updated:** December 24, 2025 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +70,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 **[Minimal VL53L0X Time-of-Flight driver for bare-metal MCUs (feedback wanted)](https://www.reddit.com/r/robotics/comments/1purka8/minimal_vl53l0x_timeofflight_driver_for_baremetal/)**
 
-33m ago
+53m ago
 
 ---
 
@@ -180,7 +180,7 @@ The Robot Report • 21h ago
 
 This week on StrictlyVC Download, Connie Loizos spoke with Colin Angle, the founder and former CEO of iRobot. From his living room into a household name, Angle spent 30 years turning iRobot into one of the most pioneering companies in the robotics industry, stepping down as CEO following the failed Amazon acquisition. In this conversation, he unpacks why he considers iRobot’s bankruptcy “avoidable and […]
 
-TechCrunch • 22h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -194,27 +194,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 46K • 👍 808 • 💬 84 • ⏱️ 2:08:46 • 4d ago
-
----
-
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
-
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
-
-📺 CNET
-
-👁️ 38K • 👍 630 • 💬 151 • ⏱️ 5:25 • 3d ago
-
----
-
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 28K • 👍 864 • 💬 235 • ⏱️ 11:02 • 1d ago
+👁️ 47K • 👍 811 • 💬 84 • ⏱️ 2:08:46 • 4d ago
 
 ---
 
@@ -224,7 +204,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 4K • 👍 113 • 💬 15 • ⏱️ 13:55 • 20h ago
+👁️ 6K • 👍 154 • 💬 17 • ⏱️ 13:55 • 21h ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 29K • 👍 887 • 💬 242 • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -238,13 +228,41 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
+**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+
+Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+
+📺 The Capital AI
+
+👁️ 150K • 👍 3K • 💬 587 • ⏱️ 2:23 • 4d ago
+
+---
+
+**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
+
+Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
+
+📺 LimX Dynamics
+
+👁️ 1.2M • 👍 11K • 💬 668 • ⏱️ 2:43 • 6d ago
+
+---
+
 **[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
 
 Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
 
 📺 Mike Israetel
 
-👁️ 4K • 👍 254 • 💬 73 • ⏱️ 49:59 • 1d ago
+👁️ 5K • 👍 258 • 💬 73 • ⏱️ 49:59 • 1d ago
+
+---
+
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+
+📺 XRoboHub
+
+👁️ 212K • 👍 4K • 💬 497 • ⏱️ 0:51 • 4d ago
 
 ---
 
@@ -255,24 +273,6 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 📺 Ai BOOF
 
 👁️ 24K • 👍 244 • 💬 4 • ⏱️ 0:11 • 1d ago
-
----
-
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
-
-📺 XRoboHub
-
-👁️ 210K • 👍 4K • 💬 494 • ⏱️ 0:51 • 4d ago
-
----
-
-**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
-
-Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
-
-📺 LimX Dynamics
-
-👁️ 1.2M • 👍 11K • 💬 665 • ⏱️ 2:43 • 6d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T17:15:19.216084+00:00'
+updated: '2025-12-24T17:35:09.857135+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 17:15 UTC  
+**Last Updated:** December 24, 2025 at 17:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,400.98
+### $87,331.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +2.6%  
-**30d:** -0.1%  
-**90d:** -20.3%  
-**1y:** -11.9%  
+**24h:** -0.6%  
+**7d:** +2.7%  
+**30d:** +0.1%  
+**90d:** -20.1%  
+**1y:** -11.8%  
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -127,7 +127,7 @@ Rank #1
 
 **[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -259,7 +259,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 19 • 💬 5 • 54m ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 19 • 💬 5 • 1h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -283,13 +283,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
 
-2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
 
-📺 Simply Bitcoin
+📺 Thomas Kralow
 
-👁️ 22K • 👍 1K • 💬 195 • ⏱️ 13:26 • 19h ago
+👁️ 9K • 👍 2K • 💬 36 • ⏱️ 6:23 • 7h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 589 • ⏱️ 10:51 • 18h ago
+👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 18h ago
 
 ---
 
@@ -309,7 +309,47 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 2K • 👍 77 • 💬 99 • ⏱️ 8:19 • 3h ago
+👁️ 5K • 👍 146 • 💬 108 • ⏱️ 8:19 • 4h ago
+
+---
+
+**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+
+2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 1K • 💬 199 • ⏱️ 13:26 • 19h ago
+
+---
+
+**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 5K • 👍 366 • 💬 62 • ⏱️ 13:14 • 5h ago
+
+---
+
+**[BITCOIN: 2026 PREDICTIONS (MERRY CHRISTMAS!!)](https://www.youtube.com/watch?v=z54jD_DrrdA)**
+
+BULLMANIA WAITLIST: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
+
+📺 Ivan on Tech
+
+👁️ 11K • 👍 1K • 💬 125 • ⏱️ 20:24 • 6h ago
+
+---
+
+**[Bitcoin price update! If trading with CoinCatch watch this video ASAP.](https://www.youtube.com/watch?v=GtJG1fxDNAI)**
+
+Quick update for bitcoin price with what I'm expecting and watching. I show what levels we need to hold above on the weekly to ...
+
+📺 OPTICALARTdotCOM
+
+👁️ 468 • 👍 88 • 💬 19 • ⏱️ 11:23 • 1h ago
 
 ---
 
@@ -319,67 +359,27 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 27K • 👍 1K • 💬 175 • ⏱️ 20:00 • 18h ago
+👁️ 30K • 👍 2K • 💬 187 • ⏱️ 20:00 • 19h ago
 
 ---
 
-**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
+**[This Signal Predicted Every Bitcoin Bottom... (Prepare Accordingly)](https://www.youtube.com/watch?v=sy3IRNzcs88)**
 
-Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
+Claim your bonus on Lbank ↳ https://www.lbank.com/event/2907-transfer-tradewinrolex-allusers?icode=5D2I0 VIP TG Group ...
 
-📺 CNBC Television
+📺 Crypto Goos
 
-👁️ 26K • 👍 337 • 💬 206 • ⏱️ 5:23 • 1d ago
-
----
-
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
-
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 67K • 👍 3K • 💬 407 • ⏱️ 20:46 • 23h ago
+👁️ 707 • 👍 44 • 💬 74 • ⏱️ 10:33 • 7h ago
 
 ---
 
-**[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
+**[BITCOIN ABOUT TO DUMP?🚨 | BITCOIN (BTC) PRICE PREDICTION &amp; NEWS 2025!](https://www.youtube.com/watch?v=pgLBABuUUHs)**
 
-Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
+BITCOIN BTC PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community focused ...
 
-📺 Simply Bitcoin
+📺 Cilinix Crypto
 
-👁️ 29K • 👍 2K • 💬 194 • ⏱️ 11:35 • 1d ago
-
----
-
-**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
-
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
-
-📺 Altcoin Daily
-
-👁️ 52K • 👍 3K • 💬 208 • ⏱️ 10:16 • 1d ago
-
----
-
-**[Why Fidelity Thinks This is the Start of a Bitcoin SuperCycle](https://www.youtube.com/watch?v=qyPB6TE9WJ8)**
-
-Bitcoin price action has been rough, but something bigger may be forming. Professor B breaks down Fidelity's new research, ...
-
-📺 Swan Bitcoin
-
-👁️ 5K • 👍 196 • 💬 13 • ⏱️ 1:41 • 15h ago
-
----
-
-**[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
-
-CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
-
-📺 CNBC Television
-
-👁️ 7K • 👍 96 • 💬 57 • ⏱️ 3:19 • 1d ago
+👁️ 414 • 👍 44 • 💬 35 • ⏱️ 5:22 • 3h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T17:15:19.207550+00:00'
+updated: '2025-12-24T17:35:09.848585+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 17:15 UTC  
+**Last Updated:** December 24, 2025 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 9h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 We Let AI Run a Vending Machine. It Lost All the Money (Twice) - WSJ https://www.youtube.com/watch?v=SpPhm7S9vsQ Vs. Claude ran a business in our office - Anthropic https://www.youtube.com/watch?v=5KTHvKCrQ00
 
-26m ago
+46m ago
 
 ---
 
@@ -279,7 +279,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 29m ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 48m ago
 
 ---
 
@@ -287,7 +287,7 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 37m ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 57m ago
 
 ---
 
@@ -295,7 +295,7 @@ Comedians like Jon Lajoie and King Willonius are embracing artificial intelligen
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-19h ago
+20h ago
 
 ---
 
@@ -343,7 +343,7 @@ The Guardian • 6d ago
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 23h ago
+blog.google • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 Personal Musings and Transcripts
 
-⬆️ 139 • 💬 63 • 2d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
+⬆️ 139 • 💬 63 • 3d ago • [Oldmanrahul](https://oldmanrahul.com/2025/12/19/ai-code-review-trick/)
 
 ---
 
@@ -481,65 +481,27 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 5K • 👍 131 • 💬 18 • ⏱️ 7:50 • 12h ago
+👁️ 7K • 👍 153 • 💬 27 • ⏱️ 7:50 • 12h ago
 
 ---
 
-**[Painful AI robot date &amp; new evidence we&#39;re approaching extinction.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
 
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
 
-📺 InsideAI
+📺 Jack Morgan RLP 2.0
 
-👁️ 84K • 👍 6K • 💬 835 • ⏱️ 16:24 • 22h ago
-
----
-
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
-
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
-
-📺 AI Explained
-
-👁️ 48K • 👍 3K • 💬 331 • ⏱️ 33:27 • 23h ago
+👁️ 17K • 👍 897 • 💬 477 • ⏱️ 11:28 • 17h ago
 
 ---
 
-**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
+**[NEW NotebookLM + Gemini AI SEO Update Is INSANE!](https://www.youtube.com/watch?v=QROtGb88yEA)**
 
-To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
+Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to make money and save time with AI? Get AI ...
 
-📺 How Money Works
+📺 Julian Goldie SEO
 
-👁️ 420K • 👍 14K • 💬 3K • ⏱️ 19:40 • 1d ago
-
----
-
-**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
-
-How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
-
-📺 Maxinomics
-
-👁️ 215K • 👍 12K • 💬 2K • ⏱️ 21:43 • 1d ago
-
----
-
-**[Ai Videos be like 😂 @keviscap2589](https://www.youtube.com/watch?v=XLCNgdSy2ro)**
-
-📺 Onevilage
-
-👁️ 947K • 👍 30K • 💬 386 • ⏱️ 0:12 • 2d ago
-
----
-
-**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
-
-Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
-
-📺 Fox News
-
-👁️ 31K • 👍 364 • 💬 254 • ⏱️ 4:26 • 2d ago
+👁️ 3K • 👍 103 • 💬 11 • ⏱️ 8:29 • 8h ago
 
 ---
 
@@ -549,27 +511,67 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 16K • 👍 457 • 💬 66 • ⏱️ 18:48 • 1d ago
+👁️ 17K • 👍 459 • 💬 62 • ⏱️ 18:48 • 1d ago
 
 ---
 
-**[PRANK PISTOL AIR ‼️FIELD EDITION ‼️🤣 PER4NG AIR AI TEAM ‼️](https://www.youtube.com/watch?v=RkzWSgD7oaE)**
+**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
 
-roadto2million #teamriss #elriss #aiteam Ig : @El Riss Tiktok : @el_riss_.
+To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
 
-📺 AI El Riss
+📺 How Money Works
 
-👁️ 77K • 👍 6K • 💬 228 • ⏱️ 24:36 • 7h ago
+👁️ 436K • 👍 15K • 💬 3K • ⏱️ 19:40 • 1d ago
 
 ---
 
-**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
+**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
 
-AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
+Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
 
-📺 The Diary Of A CEO
+📺 Fox News
 
-👁️ 126K • 👍 4K • 💬 163 • ⏱️ 1:29 • 2d ago
+👁️ 32K • 👍 364 • 💬 254 • ⏱️ 4:26 • 2d ago
+
+---
+
+**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
+
+How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
+
+📺 Maxinomics
+
+👁️ 221K • 👍 13K • 💬 2K • ⏱️ 21:43 • 1d ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 50K • 👍 3K • 💬 340 • ⏱️ 33:27 • 23h ago
+
+---
+
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
+
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
+
+📺 AI Search
+
+👁️ 56K • 👍 3K • 💬 289 • ⏱️ 30:43 • 14h ago
+
+---
+
+**[This is How We Beat AI](https://www.youtube.com/watch?v=_rdSl3CpiCg)**
+
+A lot of people in the creative industries are worried about AI. Could it take their jobs? Could it destroy the arts? Have we already ...
+
+📺 Rowan J Coleman
+
+👁️ 48K • 👍 4K • 💬 1K • ⏱️ 12:03 • 2d ago
 
 ---
 
@@ -719,21 +721,9 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 59 • 💬 2 • ⭐ 118 • 5d ago
+▲ 60 • 💬 2 • ⭐ 118 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
-
----
-
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 4 • 💬 0 • ⭐ 61,445 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -746,6 +736,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 10 • 💬 2 • ⭐ 13,089 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 4 • 💬 0 • ⭐ 61,488 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -859,7 +861,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 415 • 42m ago
+⭐ 3.3k • 🔱 416 • 24m ago
 
 ---
 
@@ -869,7 +871,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 195 • 1h ago
+⭐ 2.7k • 🔱 195 • 11m ago
 
 ---
 
@@ -895,7 +897,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 **[datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe)**
 
-首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
+The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack, Empowering Everyone to Build Products with AI | Live at: www.vibevibe.cn   ；首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能用 AI 开发产品 | 在线地址：www.vibevibe.cn
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
@@ -919,7 +921,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 870 • 🔱 125 • 7d ago
+⭐ 872 • 🔱 126 • 7d ago
 
 ---
 
@@ -929,7 +931,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 816 • 🔱 66 • 21d ago
+⭐ 817 • 🔱 66 • 21d ago
 
 ---
 
