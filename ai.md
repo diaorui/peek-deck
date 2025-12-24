@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T23:42:26.208184+00:00'
+updated: '2025-12-24T23:53:10.723941+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 23:42 UTC  
+**Last Updated:** December 24, 2025 at 23:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -303,7 +303,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 6h ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 7h ago
 
 ---
 
@@ -447,7 +447,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 187 • 💬 67 • 5h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 187 • 💬 67 • 6h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -475,33 +475,23 @@ The basilar ganglia does not exist.
 
 ## YouTube Videos: "ai"
 
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
 
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
 
-📺 InsideAI
+📺 Kelly Boesch AI Art
 
-👁️ 116K • 👍 8K • 💬 1K • ⏱️ 16:24 • 1d ago
-
----
-
-**[NEW NotebookLM + Gemini AI SEO Update Is INSANE!](https://www.youtube.com/watch?v=QROtGb88yEA)**
-
-Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to make money and save time with AI? Get AI ...
-
-📺 Julian Goldie SEO
-
-👁️ 4K • 👍 124 • 💬 14 • ⏱️ 8:29 • 14h ago
+👁️ 15K • 👍 1K • 💬 57 • ⏱️ 3:00 • 9h ago
 
 ---
 
-**[VanEck CEO Jan Van Eck says the ‘AI bubble already popped’](https://www.youtube.com/watch?v=2Si2XN_zWGY)**
+**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
 
-VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market and how companies are missing large macro ...
+The robot uprising has already happened, and its just boring slush destroying everything Links: My Patreon: ...
 
-📺 Fox Business
+📺 Lily Simpson
 
-👁️ 10K • 👍 178 • 💬 37 • ⏱️ 7:50 • 18h ago
+👁️ 4K • 👍 737 • 💬 133 • ⏱️ 24:19 • 8h ago
 
 ---
 
@@ -511,37 +501,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 65K • 👍 3K • 💬 338 • ⏱️ 30:43 • 20h ago
-
----
-
-**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
-
-Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
-
-📺 Greg Isenberg
-
-👁️ 17K • 👍 472 • 💬 61 • ⏱️ 18:48 • 2d ago
-
----
-
-**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
-
-How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
-
-📺 Maxinomics
-
-👁️ 232K • 👍 13K • 💬 2K • ⏱️ 21:43 • 1d ago
-
----
-
-**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
-
-To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
-
-📺 How Money Works
-
-👁️ 461K • 👍 15K • 💬 3K • ⏱️ 19:40 • 1d ago
+👁️ 68K • 👍 3K • 💬 350 • ⏱️ 30:43 • 20h ago
 
 ---
 
@@ -551,17 +511,27 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 20K • 👍 985 • 💬 528 • ⏱️ 11:28 • 23h ago
+👁️ 21K • 👍 1K • 💬 543 • ⏱️ 11:28 • 23h ago
 
 ---
 
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
 
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
 
-📺 AI Explained
+📺 Greg Isenberg
 
-👁️ 54K • 👍 3K • 💬 350 • ⏱️ 33:27 • 1d ago
+👁️ 18K • 👍 473 • 💬 60 • ⏱️ 18:48 • 2d ago
+
+---
+
+**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
+
+How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
+
+📺 Maxinomics
+
+👁️ 237K • 👍 14K • 💬 2K • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -571,7 +541,37 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 📺 Fox News
 
-👁️ 32K • 👍 365 • 💬 255 • ⏱️ 4:26 • 2d ago
+👁️ 32K • 👍 366 • 💬 255 • ⏱️ 4:26 • 2d ago
+
+---
+
+**[Ranking The Most Diabolical SORA AI Disney Trailers😱](https://www.youtube.com/watch?v=eI4N9f-CvQk)**
+
+Ranking The Most Diabolical SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips ...
+
+📺 Bigfoot Feed
+
+👁️ 1K • 👍 73 • 💬 5 • ⏱️ 0:53 • 1h ago
+
+---
+
+**[VanEck CEO Jan Van Eck says the ‘AI bubble already popped’](https://www.youtube.com/watch?v=2Si2XN_zWGY)**
+
+VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market and how companies are missing large macro ...
+
+📺 Fox Business
+
+👁️ 10K • 👍 181 • 💬 40 • ⏱️ 7:50 • 18h ago
+
+---
+
+**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
+
+To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
+
+📺 How Money Works
+
+👁️ 469K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -860,7 +860,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 422 • 55m ago
+⭐ 3.3k • 🔱 422 • 1h ago
 
 ---
 
@@ -890,7 +890,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 211 • 17h ago
+⭐ 1.3k • 🔱 211 • 18h ago
 
 ---
 

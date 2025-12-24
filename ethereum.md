@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T23:42:26.222671+00:00'
+updated: '2025-12-24T23:53:10.738326+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 23:42 UTC  
+**Last Updated:** December 24, 2025 at 23:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -230,7 +230,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 3K • 👍 198 • 💬 104 • ⏱️ 19:06 • 7h ago
+👁️ 4K • 👍 224 • 💬 101 • ⏱️ 19:06 • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 84 • 💬 43 • ⏱️ 13:41 • 11h ago
+👁️ 3K • 👍 87 • 💬 46 • ⏱️ 13:41 • 11h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 6 • ⏱️ 3:51 • 9h ago
+👁️ 1K • 👍 99 • 💬 6 • ⏱️ 3:51 • 9h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 272 • 👍 10 • 💬 26 • ⏱️ 5:15 • 9h ago
+👁️ 320 • 👍 12 • 💬 25 • ⏱️ 5:15 • 9h ago
 
 ---
 
@@ -270,7 +270,17 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 228 • 👍 8 • 💬 8 • ⏱️ 7:49 • 9h ago
+👁️ 267 • 👍 10 • 💬 8 • ⏱️ 7:49 • 9h ago
+
+---
+
+**[THE SHIFT IS HAPPENING Ethereum And Bitcoin Are Going HEAD TO HEAD This Is ABOUT To Launch](https://www.youtube.com/watch?v=5RoQPcf_p6Q)**
+
+These institutions will not stop... the amount of Bitcoin and Ethereum being accumulated within the last year needs to be tallied ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 640 • 💬 147 • ⏱️ 17:59 • 14h ago
 
 ---
 
@@ -284,43 +294,33 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 ---
 
-**[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 997 • 👍 38 • 💬 17 • ⏱️ 5:30 • 1d ago
-
----
-
-**[Kevin O’Leary Dumps Most Crypto, Bets on Bitcoin and Ethereum as Regulation Era Nears](https://www.youtube.com/watch?v=v5l12wU45qc)**
-
-Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while sticking with Bitcoin and Ethereum as he bets ...
-
-📺 What's Trending
-
-👁️ 737 • 👍 2 • ⏱️ 0:31 • 7h ago
-
----
-
-**[TOM LEE JUST DROPPED $40M ON ETH! (Whale Alert)](https://www.youtube.com/watch?v=iNSNWJAiXX0)**
-
-Today's Whale Buy Alert The wallet just activated. And the size of the buy is staggering. According to on-chain data, BitMine ...
-
-📺 Wall Street Stockcast
-
-👁️ 2K • 👍 46 • 💬 46 • ⏱️ 7:32 • 2d ago
-
----
-
 **[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
 
 Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 565 • ⏱️ 10:51 • 1d ago
+👁️ 39K • 👍 2K • 💬 513 • ⏱️ 10:51 • 1d ago
+
+---
+
+**[The FINAL Trigger Before The Bitcoin Bull Run Begins! ETH Price! - Raoul Pal](https://www.youtube.com/watch?v=eUmV5B8vifI)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell -------- The FINAL Trigger Before The ...
+
+📺 Library Of Wealth
+
+👁️ 3K • 👍 107 • 💬 241 • ⏱️ 15:38 • 17h ago
+
+---
+
+**[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 1K • 👍 38 • 💬 15 • ⏱️ 5:30 • 1d ago
 
 ---
 

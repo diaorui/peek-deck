@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T23:42:26.225909+00:00'
+updated: '2025-12-24T23:53:10.741554+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 23:42 UTC  
+**Last Updated:** December 24, 2025 at 23:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ Torque = k × current Heat = current² × R At stall or high-load, adjusting pos
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -90,7 +90,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 3h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 1d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 9h ago
+New Atlas • 10h ago
 
 ---
 
@@ -188,16 +188,6 @@ Investor's Business Daily • 8h ago
 
 ## YouTube Videos: "robotics"
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 815 • 💬 84 • ⏱️ 2:08:46 • 4d ago
-
----
-
 **[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
 
 FutureTech #Robotics #LawEnforcement.
@@ -208,13 +198,23 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+
+📺 AI Revolution
+
+👁️ 48K • 👍 816 • 💬 84 • ⏱️ 2:08:46 • 4d ago
+
+---
+
 **[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
 
 My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
 
 📺 Its Nenaa
 
-👁️ 32K • 👍 926 • 💬 250 • ⏱️ 11:02 • 2d ago
+👁️ 33K • 👍 930 • 💬 255 • ⏱️ 11:02 • 2d ago
 
 ---
 
@@ -224,27 +224,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 10K • 👍 199 • 💬 22 • ⏱️ 13:55 • 1d ago
+👁️ 12K • 👍 222 • 💬 28 • ⏱️ 13:55 • 1d ago
 
 ---
 
-**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
 
-Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
 
-📺 The Capital AI
+📺 Ai Hypex
 
-👁️ 159K • 👍 3K • 💬 608 • ⏱️ 2:23 • 4d ago
-
----
-
-**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
-
-Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
-
-📺 LimX Dynamics
-
-👁️ 1.2M • 👍 11K • 💬 674 • ⏱️ 2:43 • 6d ago
+👁️ 22K • 👍 153 • 💬 1 • ⏱️ 0:10 • 6h ago
 
 ---
 
@@ -258,11 +248,13 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 ---
 
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
 
-📺 XRoboHub
+Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
 
-👁️ 213K • 👍 4K • 💬 498 • ⏱️ 0:51 • 4d ago
+📺 The Capital AI
+
+👁️ 164K • 👍 3K • 💬 615 • ⏱️ 2:23 • 4d ago
 
 ---
 
@@ -276,11 +268,21 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 ---
 
-**[Chinese robots perform at a concert 🤯](https://www.youtube.com/watch?v=i1AVS1Mh650)**
+**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
 
-📺 Aevy TV
+Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
 
-👁️ 155K • 👍 8K • 💬 341 • ⏱️ 1:18 • 4d ago
+📺 LimX Dynamics
+
+👁️ 1.2M • 👍 11K • 💬 676 • ⏱️ 2:43 • 6d ago
+
+---
+
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+
+📺 XRoboHub
+
+👁️ 214K • 👍 4K • 💬 501 • ⏱️ 0:51 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T23:42:26.216625+00:00'
+updated: '2025-12-24T23:53:10.732394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 23:42 UTC  
+**Last Updated:** December 24, 2025 at 23:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.8%  
-**30d:** +0.1%  
-**90d:** -20.1%  
-**1y:** -11.7%  
+**24h:** +0.1%  
+**7d:** +3.0%  
+**30d:** +0.3%  
+**90d:** -20.0%  
+**1y:** -11.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 11h ago
 
 Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 1d ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 16h ago
+KRON4 • 17h ago
 
 ---
 
@@ -285,7 +285,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 10K • 👍 205 • 💬 160 • ⏱️ 8:19 • 10h ago
+👁️ 12K • 👍 218 • 💬 131 • ⏱️ 8:19 • 10h ago
 
 ---
 
@@ -295,17 +295,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 219 • ⏱️ 13:26 • 1d ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 565 • ⏱️ 10:51 • 1d ago
+👁️ 25K • 👍 2K • 💬 203 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -315,7 +305,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 92 • 💬 70 • ⏱️ 1:12 • 2h ago
+👁️ 4K • 👍 158 • 💬 45 • ⏱️ 1:12 • 3h ago
+
+---
+
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 39K • 👍 2K • 💬 513 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -325,7 +325,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 81K • 👍 3K • 💬 418 • ⏱️ 20:46 • 1d ago
+👁️ 84K • 👍 4K • 💬 423 • ⏱️ 20:46 • 1d ago
 
 ---
 
@@ -335,17 +335,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 28K • 👍 349 • 💬 244 • ⏱️ 5:23 • 1d ago
-
----
-
-**[Why Fidelity Thinks This is the Start of a Bitcoin SuperCycle](https://www.youtube.com/watch?v=qyPB6TE9WJ8)**
-
-Bitcoin price action has been rough, but something bigger may be forming. Professor B breaks down Fidelity's new research, ...
-
-📺 Swan Bitcoin
-
-👁️ 8K • 👍 259 • 💬 19 • ⏱️ 1:41 • 22h ago
+👁️ 29K • 👍 352 • 💬 214 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -355,17 +345,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 34K • 👍 2K • 💬 199 • ⏱️ 20:00 • 1d ago
-
----
-
-**[Bitcoin: Dubious Holiday Speculation](https://www.youtube.com/watch?v=jlAWRXcdN2w)**
-
-Happy Holidays! Into The Cryptoverse Premium SALE (ENDS EOY!): https://intothecryptoverse.com Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 56K • 👍 3K • 💬 245 • ⏱️ 21:06 • 20h ago
+👁️ 35K • 👍 2K • 💬 200 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -375,7 +355,27 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 189 • ⏱️ 11:35 • 1d ago
+👁️ 30K • 👍 2K • 💬 190 • ⏱️ 11:35 • 1d ago
+
+---
+
+**[Why Fidelity Thinks This is the Start of a Bitcoin SuperCycle](https://www.youtube.com/watch?v=qyPB6TE9WJ8)**
+
+Bitcoin price action has been rough, but something bigger may be forming. Professor B breaks down Fidelity's new research, ...
+
+📺 Swan Bitcoin
+
+👁️ 9K • 👍 279 • 💬 42 • ⏱️ 1:41 • 22h ago
+
+---
+
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
+
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 210 • ⏱️ 10:16 • 2d ago
 
 ---
 
