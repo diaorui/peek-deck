@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T13:47:58.372754+00:00'
+updated: '2025-12-24T13:59:35.472215+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 13:47 UTC  
+**Last Updated:** December 24, 2025 at 13:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,15 +44,15 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.7%  
 **7d:** +4.0%  
-**30d:** -0.9%  
+**30d:** -0.8%  
 **90d:** -27.1%  
-**1y:** -16.1%  
+**1y:** -16.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.49B
+**Market Cap:** $353.47B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676554.1%
++676623.4%
 
 ---
 
@@ -208,17 +208,17 @@ CryptoSlate • 22h ago
 
 ---
 
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
-
-TipRanks • 21h ago
-
----
-
 **[Ethereum treasury news: ETHZilla (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
 
 This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
 
 CoinDesk • 1d ago
+
+---
+
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+
+TipRanks • 22h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 152 • 💬 2 • ⏱️ 4:22 • 21h ago
+👁️ 2K • 👍 152 • 💬 2 • ⏱️ 4:22 • 22h ago
 
 ---
 
@@ -292,7 +292,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 REKHA MAHESHWARI
 
-👁️ 3K • 👍 1K • 43m ago
+👁️ 3K • 👍 1K • 55m ago
 
 ---
 

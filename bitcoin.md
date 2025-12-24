@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T13:47:58.366630+00:00'
+updated: '2025-12-24T13:59:35.467005+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 13:47 UTC  
+**Last Updated:** December 24, 2025 at 13:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.1%  
-**30d:** -0.6%  
-**90d:** -20.7%  
-**1y:** -12.3%  
+**24h:** +0.6%  
+**7d:** +2.5%  
+**30d:** -0.2%  
+**90d:** -20.3%  
+**1y:** -12.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.14B
+**Market Cap:** $1741.68B
 Rank #1
 
-**Circulating Supply:** 19,966,456 BTC
+**Circulating Supply:** 19,966,475 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.8%
 
 **All-Time Low:** $67.81
-+128589.0%
++128578.7%
 
 ---
 
@@ -79,17 +79,23 @@ Rank #1
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-4h ago
+5h ago
 
 ---
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+
+8h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
 8h ago
 
@@ -100,12 +106,6 @@ Rank #1
 SLAYER RIDING THE BEAR #BITCOIN
 
 11h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
-
-8h ago
 
 ---
 
@@ -121,17 +121,17 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 ---
 
-**[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
-
-13h ago
-
----
-
 **[Should i invest all my money to BTC](https://www.reddit.com/r/Bitcoin/comments/1puk3hg/should_i_invest_all_my_money_to_btc/)**
 
 Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
 
 3h ago
+
+---
+
+**[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
+
+14h ago
 
 ---
 
@@ -167,11 +167,11 @@ CoinDesk • 17h ago
 
 Bitcoin is missing out on the Christmas cheer.
 
-Bloomberg.com • 51m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin Is Not Set for a Happy Holidays. Blame Silver and Gold.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-silver-gold-prices-dbe32141?gaa_at=eafs&gaa_n=AWEtsqf90VXoKFqP_Lk0HFBbCtyMDjvoe0uOLt-lu5ImjbSgyFsKTiwdCZeF&gaa_ts=694bec9d&gaa_sig=p6Z6yhFq1FFyJVR8Ozs5_c0aembcZQCSoSEZX6DoYmgxvEyw-ugdRBbhNRF1mcYAN-2Vgkxxd-UoWHMMKx005g%3D%3D)**
+**[Bitcoin Is Not Set for a Happy Holidays. Why It’s Down to Silver and Gold.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-silver-gold-prices-dbe32141?gaa_at=eafs&gaa_n=AWEtsqeHrbUxcGtCuOthUjJw4OefZuV4A_Ddn8LezRc5hWzxreMuM3jLEG8l&gaa_ts=694bf52d&gaa_sig=MGvZkPSj5laXiWjOdbQHYxjG-Hq1lrPSSWoSAfWCk45A6i6EFT3OF8taXeEhOG9MM7SsOmsszFSFhJ8CnaAPwg%3D%3D)**
 
 Barron's • 1h ago
 
@@ -193,17 +193,17 @@ Investopedia • 3h ago
 
 ---
 
-**[What Is Bitcoin’s ‘Cat’ Proposal and Why It Could Change Ordinals Forever](https://www.ccn.com/news/technology/bitcoin-developers-debate-utxo-bloat/)**
-
-CCN.com • 45m ago
-
----
-
 **[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
 
 Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
 
 VanEck • 1d ago
+
+---
+
+**[What Is Bitcoin’s ‘Cat’ Proposal and Why It Could Change Ordinals Forever](https://www.ccn.com/news/technology/bitcoin-developers-debate-utxo-bloat/)**
+
+CCN.com • 57m ago
 
 ---
 
@@ -215,9 +215,9 @@ The Motley Fool • 2h ago
 
 ---
 
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-KRON4 • 7h ago
+Investor's Business Daily • 1d ago
 
 ---
 

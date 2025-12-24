@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T13:47:58.358173+00:00'
+updated: '2025-12-24T13:59:35.459590+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 13:47 UTC  
+**Last Updated:** December 24, 2025 at 13:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 4h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 5h ago
 
 ---
 
@@ -55,7 +55,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 19h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 20h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 19h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 20h ago
 
 ---
 
@@ -127,39 +127,45 @@ blog.google • 20h ago
 
 ---
 
-**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqf2vpgeukT3XvfEO97xaZyYrXXrA7wkbWlth7NAGapb0lGsqAaALjLM&gaa_ts=694bec9c&gaa_sig=ZJ8n4XUGWh929SyMQusoUNArwyQzFQN_Pw9XhBERndTYjPWfntKc2c88A2DYhJTMMGmdAi81YpmPszdKjMB96w%3D%3D)**
+**[Pinterest Users Are Tired of All the AI Slop](https://www.wired.com/story/pinterst-ai-slop-content/)**
 
-The Wall Street Journal • 9h ago
+A surge of AI-generated content is frustrating Pinterest users and left some questioning whether the platform still works at all.
 
----
-
-**[Amazon faces 'leader's dilemma' — fight AI shopping bots or join them](https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html)**
-
-Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
-
-CNBC • 1h ago
+WIRED • 3h ago
 
 ---
 
-**[PSA: Please Do Not Buy This Dubious ‘AI Translator’](https://gizmodo.com/psa-do-not-buy-innaio-t10-ai-translator-2000701432)**
+**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
 
-We were asked not to write this review for the InnAIO T10, so naturally, we wrote this review.
+While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
 
-Gizmodo • 1h ago
-
----
-
-**[A Nobel Prize-winning physicist explains how to use AI without letting it replace your thinking](https://www.businessinsider.com/how-to-use-ai-without-losing-critical-thinking-leading-physicist-2025-12)**
-
-Leading physicist Saul Perlmutter warns AI can create a false sense of confidence, urging skepticism and constant error-checking.
-
-Business Insider • 1h ago
+CNBC • 59m ago
 
 ---
 
-**[Chasing an Economic Boom, White House Dismisses Risks of A.I.](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
+**[As AI expands, parents of high schoolers mull college and job training](https://www.usatoday.com/story/money/economy/2025/12/24/college-or-training-ai-future/87898126007/)**
+
+As AI usage proliferates, parents trying to guide their teenagers to smart decisions in college and beyond have an even tougher job.
+
+USA Today • 31m ago
+
+---
+
+**[3 reasons why bad AI is so prevalent](https://www.fastcompany.com/91466064/3-reasons-why-bad-ai-is-so-prevalent)**
+
+Fast Company • 51m ago
+
+---
+
+**[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
 The New York Times • 3h ago
+
+---
+
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+
+The Washington Post • 19h ago
 
 ---
 
@@ -171,25 +177,17 @@ Financial Times • 8h ago
 
 ---
 
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+**[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqc0pFRJVnpETasOlX6lmsl1JBCTV-iM7Ev33OJ8kwDYmo_kLfZ97Z-J&gaa_ts=694bf52c&gaa_sig=0yOCpt9dZuqYhXe6Zncz3-DDm0FPXc2JSXH7S1Gkw80V-UrT48S-dNNjBsy_9hCPkLE3DH5J2XvoW3MJMgjq2w%3D%3D)**
 
-The Washington Post • 19h ago
-
----
-
-**[Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Big Winners Again in 2026](https://www.fool.com/investing/2025/12/24/best-ai-stocks-buy-now-2026/)**
-
-Nvidia (NVDA), Broadcom (AVGO), and Taiwan Semiconductor Manufacturing (TSM) stocks are the top three artificial intelligence (AI) stocks to buy now and into 2026.
-
-The Motley Fool • 2h ago
+The Wall Street Journal • 2h ago
 
 ---
 
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
 
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-The Guardian • 20h ago
+Fortune • 20h ago
 
 ---
 
@@ -209,7 +207,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 296 • 💬 268 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 297 • 💬 268 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -217,7 +215,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 276 • 💬 183 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 277 • 💬 183 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -225,7 +223,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 233 • 💬 227 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 233 • 💬 229 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -264,7 +262,7 @@ Personal Musings and Transcripts
 
 **[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://news.ycombinator.com/item?id=46356603)**
 
-⬆️ 94 • 💬 129 • 1d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+⬆️ 94 • 💬 131 • 1d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
 
 ---
 
@@ -336,7 +334,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 407K • 👍 14K • 💬 3K • ⏱️ 19:40 • 23h ago
+👁️ 407K • 👍 14K • 💬 3K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -392,7 +390,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 740 • 1d ago
+⬇️ 2,719 • ❤️ 745 • 1d ago
 
 ---
 
@@ -404,7 +402,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 666 • 5d ago
+⬇️ 11,944 • ❤️ 667 • 5d ago
 
 ---
 
@@ -428,7 +426,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 546 • 5d ago
+⬇️ 24,883 • ❤️ 547 • 5d ago
 
 ---
 
@@ -464,7 +462,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 388 • 1d ago
+⬇️ 0 • ❤️ 389 • 1d ago
 
 ---
 
@@ -476,7 +474,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 270 • 1d ago
+⬇️ 1,152 • ❤️ 274 • 1d ago
 
 ---
 
@@ -498,7 +496,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 14,184 • ❤️ 433 • 6d ago
+⬇️ 14,184 • ❤️ 435 • 6d ago
 
 ---
 
@@ -577,7 +575,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 209 • 💬 5 • ⭐ 7,792 • 26d ago
+▲ 209 • 💬 5 • ⭐ 7,792 • 27d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 691 • 10h ago
+⭐ 6.1k • 🔱 691 • 11h ago
 
 ---
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 414 • 44m ago
+⭐ 3.3k • 🔱 414 • 55m ago
 
 ---
 
@@ -676,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 194 • 14m ago
+⭐ 2.7k • 🔱 194 • 25m ago
 
 ---
 
