@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T20:55:47.823537+00:00'
+updated: '2025-12-24T21:21:07.634330+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 20:55 UTC  
+**Last Updated:** December 24, 2025 at 21:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,15 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 20h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 21h ago
+
+---
+
+**[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
+
+Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
+
+13m ago
 
 ---
 
@@ -79,7 +87,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-23h ago
+1d ago
 
 ---
 
@@ -307,61 +315,21 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 ---
 
-**[One-Minute Daily AI News 12/23/2025](https://www.reddit.com/r/artificial/comments/1pufppb/oneminute_daily_ai_news_12232025/)**
-
-Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
-
-15h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
-
-The New York Times • 10h ago
-
----
-
-**[‘We’re not stopping’: Pa. lawmakers rankled by Trump order on states and AI](https://www.post-gazette.com/news/politics-state/2025/12/24/pennsylvania-trump-ai-ciresi-pisciottano/stories/202512240068)**
-
-HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
-
-Pittsburgh Post-Gazette • 2h ago
-
----
-
-**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
-
-Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
-
-The Guardian • 7d ago
-
----
 
 **[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
 
 While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Big Winners Again in 2026](https://www.fool.com/investing/2025/12/24/best-ai-stocks-buy-now-2026/)**
+**[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-Nvidia (NVDA), Broadcom (AVGO), and Taiwan Semiconductor Manufacturing (TSM) stocks are the top three artificial intelligence (AI) stocks to buy now and into 2026.
-
-The Motley Fool • 9h ago
-
----
-
-**[Nebius, Nvidia Lead the Best AI Stocks to Hold in 2026](https://seekingalpha.com/article/4855470-nebius-nvidia-lead-the-best-ai-stocks-to-hold)**
-
-The best AI stocks to hold in 2026 are well positioned to grow through the next phase of the artificial intelligence revolution. Click here to see 3 top stocks.
-
-Seeking Alpha • 22h ago
+The New York Times • 11h ago
 
 ---
 
@@ -373,7 +341,23 @@ USA Today • 1h ago
 
 ---
 
-**[Broadcom, Bloom Energy, and Other AI Bargains Appeal to This Tech Investor](https://www.barrons.com/articles/ai-tech-broadcom-bloom-energy-8223b02a?gaa_at=eafs&gaa_n=AWEtsqcdKL_MqBwAIVUyPW_3KushlwyTny7zbCvfuriem_ghIrrGGOi9gkHu&gaa_ts=694c541b&gaa_sig=kvEiiesvKfB9v15upE5po6-ya4jWvhmdPJDroWAw7ovigQg3FCKtrFGzB4RDFyt9wa_sfgND6ZDS4xAvWeStTw%3D%3D)**
+**[Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Big Winners Again in 2026](https://www.fool.com/investing/2025/12/24/best-ai-stocks-buy-now-2026/)**
+
+Nvidia (NVDA), Broadcom (AVGO), and Taiwan Semiconductor Manufacturing (TSM) stocks are the top three artificial intelligence (AI) stocks to buy now and into 2026.
+
+The Motley Fool • 10h ago
+
+---
+
+**[Nebius, Nvidia Lead the Best AI Stocks to Hold in 2026](https://seekingalpha.com/article/4855470-nebius-nvidia-lead-the-best-ai-stocks-to-hold)**
+
+The best AI stocks to hold in 2026 are well positioned to grow through the next phase of the artificial intelligence revolution. Click here to see 3 top stocks.
+
+Seeking Alpha • 22h ago
+
+---
+
+**[Broadcom, Bloom Energy, and Other AI Bargains Appeal to This Tech Investor](https://www.barrons.com/articles/ai-tech-broadcom-bloom-energy-8223b02a?gaa_at=eafs&gaa_n=AWEtsqdE9dGsqrjwB2T69ACZq9ec04P9_Z8gps6k60XR8j0i9PoOdHo_yMKO&gaa_ts=694c5cb2&gaa_sig=NjsB_DyO7xxXqTrPZ0tnKVPCwH-j_WNt4_jaMR6Tl44-tGvVeYMm_X2NwciXwwgWugmou33w7UkGJNoiLBnK9Q%3D%3D)**
 
 Barron's • 1h ago
 
@@ -383,7 +367,7 @@ Barron's • 1h ago
 
 While artificial intelligence dominated market themes in 2025, all Wall Street can talk about now is whether the market (^DJI, ^IXIC, ^GSPC) is already in or about to enter an AI bubble. Annandale Capital founder and chairman George Seay and CFRA Research chief investment strategist Sam Stovall share their thoughts on whether an AI bubble is forming or already here, and the areas displaying the most exuberance. Also catch Sam Stovall discuss Wall Street's Santa Claus rally optimism and George Seay's comments on small-cap stocks in 2026. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -395,6 +379,22 @@ blog.google • 1d ago
 
 ---
 
+**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
+
+Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
+
+Los Angeles Times • 10h ago
+
+---
+
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
+
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+Fortune • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -403,7 +403,7 @@ blog.google • 1d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 797 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 798 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -411,7 +411,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 304 • 💬 286 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 306 • 💬 289 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -427,7 +427,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 217 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 218 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -437,17 +437,25 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 ---
 
+**[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
+
+Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
+
+⬆️ 122 • 💬 60 • 3h ago • [GitHub](https://github.com/VibiumDev/vibium)
+
+---
+
 **[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://news.ycombinator.com/item?id=46356603)**
 
 ⬆️ 94 • 💬 133 • 2d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
 
 ---
 
-**[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
+**[Nvidia buying AI chip startup Groq for about $20B in cash](https://news.ycombinator.com/item?id=46379183)**
 
-Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 88 • 💬 43 • 3h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 31 • 💬 6 • 18m ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -462,14 +470,6 @@ The basilar ganglia does not exist.
 **[What Is (AI) Glaze?](https://news.ycombinator.com/item?id=46364338)**
 
 ⬆️ 24 • 💬 23 • 1d ago • [glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu/what-is-glaze.html)
-
----
-
-**[Nature Is Laughing at the AI Build Out](https://news.ycombinator.com/item?id=46368263)**
-
-I was catching up on Acquired episodes this week and listened to the spectacular “Google: The AI Company” episode that Ben and David put together. What the two of them have created with their podcast fascinates me in the inevitability of its success. I think Acquired proves that if you are smart and work your […]
-
-⬆️ 24 • 💬 1 • 1d ago • [markmaunder.com](https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/)
 
 ---
 
@@ -493,7 +493,7 @@ Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 115 • 💬 11 • ⏱️ 8:29 • 11h ago
+👁️ 4K • 👍 115 • 💬 11 • ⏱️ 8:29 • 12h ago
 
 ---
 
@@ -503,7 +503,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 9K • 👍 169 • 💬 38 • ⏱️ 7:50 • 15h ago
+👁️ 9K • 👍 169 • 💬 38 • ⏱️ 7:50 • 16h ago
 
 ---
 
@@ -573,7 +573,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 19K • 👍 953 • 💬 504 • ⏱️ 11:28 • 20h ago
+👁️ 19K • 👍 953 • 💬 504 • ⏱️ 11:28 • 21h ago
 
 ---
 
@@ -589,7 +589,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 770 • 1d ago
+⬇️ 2,719 • ❤️ 772 • 1d ago
 
 ---
 
@@ -625,7 +625,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 557 • 6d ago
+⬇️ 24,883 • ❤️ 558 • 6d ago
 
 ---
 
@@ -649,7 +649,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,729 • ❤️ 427 • 10d ago
+⬇️ 6,729 • ❤️ 428 • 10d ago
 
 ---
 
@@ -661,7 +661,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 392 • 1d ago
+⬇️ 0 • ❤️ 393 • 1d ago
 
 ---
 
@@ -673,7 +673,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 295 • 1d ago
+⬇️ 1,152 • ❤️ 298 • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 277 • 5d ago
+⬇️ 0 • ❤️ 279 • 5d ago
 
 ---
 
@@ -695,7 +695,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 14,184 • ❤️ 437 • 6d ago
+⬇️ 14,184 • ❤️ 438 • 6d ago
 
 ---
 
@@ -853,7 +853,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 695 • 38m ago
+⭐ 6.2k • 🔱 695 • 1h ago
 
 ---
 
@@ -863,7 +863,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 417 • 47m ago
+⭐ 3.3k • 🔱 417 • 1h ago
 
 ---
 
@@ -873,7 +873,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 197 • 35m ago
+⭐ 2.8k • 🔱 197 • 1h ago
 
 ---
 

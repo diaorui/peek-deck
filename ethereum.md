@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T20:55:47.837973+00:00'
+updated: '2025-12-24T21:21:07.649013+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 20:55 UTC  
+**Last Updated:** December 24, 2025 at 21:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +4.3%  
-**30d:** -0.6%  
-**90d:** -26.9%  
-**1y:** -15.9%  
+**24h:** -0.4%  
+**7d:** +4.5%  
+**30d:** -0.4%  
+**90d:** -26.8%  
+**1y:** -15.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.75B
+**Market Cap:** $355.36B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.4%
+-40.5%
 
 **All-Time Low:** $0.43
-+680667.4%
++680006.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
-🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 3h ago
+🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 4h ago
 
 ---
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 6h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 7h ago
 
 ---
 
@@ -104,14 +104,6 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 ---
 
-**[[RFC] Full support for MCP commands during fuzzing campaigns in Echidna](https://www.reddit.com/r/ethereum/comments/1puhf3e/rfc_full_support_for_mcp_commands_during_fuzzing/)**
-
-This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
-
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 13h ago
-
----
-
 **[Introducing EIP-8105 Universal Enshrined Encrypted Mempool](https://www.reddit.com/r/ethereum/comments/1ptzq99/introducing_eip8105_universal_enshrined_encrypted/)**
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
@@ -120,9 +112,17 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 ---
 
+**[[RFC] Full support for MCP commands during fuzzing campaigns in Echidna](https://www.reddit.com/r/ethereum/comments/1puhf3e/rfc_full_support_for_mcp_commands_during_fuzzing/)**
+
+This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
+
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 14h ago
+
+---
+
 **[Join leftinmadness on Farcaster](https://www.reddit.com/r/ethereum/comments/1puqnxh/join_leftinmadness_on_farcaster/)**
 
-🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 4h ago
+🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Decrypt • 1d ago
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -212,7 +212,7 @@ TipRanks • 1d ago
 
 **[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
 
-Binance • 11h ago
+Binance • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 79 • 💬 25 • ⏱️ 13:41 • 8h ago
+👁️ 2K • 👍 79 • 💬 25 • ⏱️ 13:41 • 9h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 21h ago
+👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 22h ago
 
 ---
 

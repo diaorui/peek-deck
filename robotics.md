@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T20:55:47.841178+00:00'
+updated: '2025-12-24T21:21:07.652205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 20:55 UTC  
+**Last Updated:** December 24, 2025 at 21:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,6 +48,14 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 ---
 
+**[Adjusting Posture at Stall or High Load Cuts Torque and Slashes Motor Heat](https://www.reddit.com/r/robotics/comments/1puwjh1/adjusting_posture_at_stall_or_high_load_cuts/)**
+
+Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
+
+54m ago
+
+---
+
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
 12h ago
@@ -62,14 +70,6 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 ---
 
-**[Adjusting Posture at Stall or High Load Cuts Torque and Slashes Motor Heat](https://www.reddit.com/r/robotics/comments/1puwjh1/adjusting_posture_at_stall_or_high_load_cuts/)**
-
-Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
-
-29m ago
-
----
-
 **[Disney: Olaf: Bringing an Animated Character to Life in the Physical World (Demo - Paper)](https://www.reddit.com/r/robotics/comments/1pts3ka/disney_olaf_bringing_an_animated_character_to/)**
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
@@ -78,9 +78,17 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
+**[Optimizing a PID controller for a self-balancing robot, first time](https://www.reddit.com/r/robotics/comments/1pux135/optimizing_a_pid_controller_for_a_selfbalancing/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 30m ago
+
+---
+
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -92,21 +100,21 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 **[Pirates of the Caribbean maintenance manual with full exploded views of animatronics](https://www.reddit.com/r/robotics/comments/1puplo2/pirates_of_the_caribbean_maintenance_manual_with/)**
 
-🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 5h ago
-
----
-
-**[I’m building a small expressive desk robot — would love honest feedback & ideas](https://www.reddit.com/r/robotics/comments/1pugpsi/im_building_a_small_expressive_desk_robot_would/)**
-
-Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
-
-14h ago
+🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 6h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
+
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
+
+hyundai.com • 2d ago
+
+---
 
 **[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
@@ -132,22 +140,6 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 2d ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 2d ago
-
----
-
 **[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
@@ -156,15 +148,23 @@ New Atlas • 7h ago
 
 ---
 
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
-
-Investor's Business Daily • 5h ago
-
----
-
 **[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+
+Investor's Business Daily • 6h ago
+
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 616K • 👍 11K • 💬 1K • ⏱️ 18:35 • 3d ago
+👁️ 616K • 👍 11K • 💬 1K • ⏱️ 18:35 • 4d ago
 
 ---
 

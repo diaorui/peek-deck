@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T20:55:47.832016+00:00'
+updated: '2025-12-24T21:21:07.642763+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 20:55 UTC  
+**Last Updated:** December 24, 2025 at 21:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,428.80
+### $87,698.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.8%  
-**30d:** +0.1%  
-**90d:** -20.1%  
-**1y:** -11.7%  
+**24h:** +0.1%  
+**7d:** +2.9%  
+**30d:** +0.2%  
+**90d:** -20.0%  
+**1y:** -11.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.48B
+**Market Cap:** $1748.46B
 Rank #1
 
-**Circulating Supply:** 19,966,587 BTC
+**Circulating Supply:** 19,966,593 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129047.6%
++129062.4%
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-11h ago
+2h ago
 
 ---
 
@@ -89,9 +89,9 @@ Rank #1
 
 ---
 
-**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-2h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -127,15 +127,15 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
-
-15h ago
-
----
-
 **[Home](https://www.reddit.com/r/Bitcoin/comments/1puqh4x/home/)**
 
 5h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
+
+15h ago
 
 ---
 
@@ -153,31 +153,51 @@ CoinDesk • 8h ago
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
-**[Jim Cramer Turns Fully Bearish on Bitcoin and Traders are Watching Closely](https://finance.yahoo.com/news/jim-cramer-turns-fully-bearish-191056543.html)**
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-Jim Cramer turns fully bearish on Bitcoin as prices stall near $85K. Traders debate whether the inverse Cramer effect is back.
-
-Yahoo Finance • 1h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
 
-Bitcoin is missing out on the Christmas cheer.
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-Bloomberg.com • 7h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
+**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
 
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
 
-Investopedia • 10h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+
+Investopedia • 1d ago
+
+---
+
+**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
+
+The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -195,28 +215,6 @@ Inquirer.com • 1d ago
 
 ---
 
-**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
-
-The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
-
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
-
-Investopedia • 23h ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -231,21 +229,13 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 4 • 💬 2 • 6h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 7h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
 ⬆️ 1 • 💬 1 • 5d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
-
----
-
-**[Show HN: ZetaCrush: LLM Bitcoin Mining Competition](https://news.ycombinator.com/item?id=46305491)**
-
-ZetaCrush provides world class benchmarking for leading AI models including Gemini, ChatGPT, Claude, Grok, Deepseek, and more
-
-⬆️ 1 • 💬 0 • 6d ago • [zetacrush.com](https://zetacrush.com)
 
 ---
 
@@ -261,7 +251,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 56 • 💬 30 • 4h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 62 • 💬 34 • 4h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -301,7 +291,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 199 • ⏱️ 13:26 • 22h ago
+👁️ 24K • 👍 1K • 💬 199 • ⏱️ 13:26 • 23h ago
 
 ---
 
@@ -311,7 +301,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 21h ago
+👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 22h ago
 
 ---
 
@@ -341,7 +331,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 32K • 👍 2K • 💬 187 • ⏱️ 20:00 • 22h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 20:00 • 23h ago
 
 ---
 
@@ -381,7 +371,7 @@ BULLMANIA WAITLIST: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): h
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 1K • 💬 130 • ⏱️ 20:24 • 9h ago
+👁️ 13K • 👍 1K • 💬 130 • ⏱️ 20:24 • 10h ago
 
 ---
 
