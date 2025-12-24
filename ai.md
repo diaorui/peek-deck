@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T14:47:36.579814+00:00'
+updated: '2025-12-24T14:58:36.378567+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 14:47 UTC  
+**Last Updated:** December 24, 2025 at 14:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 5h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 6h ago
 
 ---
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 20h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 21h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 20h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 21h ago
 
 ---
 
@@ -145,7 +145,7 @@ theregister.com • 1h ago
 
 **[4 strategies to boost agentic AI success in your supply chain](https://www.fastcompany.com/91466057/4-strategies-to-boost-agentic-ai-success-in-your-supply-chain)**
 
-Fast Company • 35m ago
+Fast Company • 46m ago
 
 ---
 
@@ -153,7 +153,7 @@ Fast Company • 35m ago
 
 Italy has ordered Meta to suspend its policy that bans companies from using WhatsApp's business tools to offer their own AI chatbots on the popular chat app.
 
-TechCrunch • 7m ago
+TechCrunch • 18m ago
 
 ---
 
@@ -512,7 +512,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 12 • 💬 2 • ⭐ 4,951 • 13d ago
+▲ 13 • 💬 2 • ⭐ 4,951 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 691 • 11h ago
+⭐ 6.2k • 🔱 691 • 12h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 194 • 1h ago
+⭐ 2.7k • 🔱 195 • 1h ago
 
 ---
 
@@ -684,7 +684,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 379 • 18d ago
+⭐ 2.0k • 🔱 380 • 18d ago
 
 ---
 
@@ -694,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 205 • 9h ago
+⭐ 1.3k • 🔱 207 • 9h ago
 
 ---
 
@@ -714,7 +714,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 109 • 1d ago
+⭐ 1.1k • 🔱 110 • 1d ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 862 • 🔱 124 • 6d ago
+⭐ 867 • 🔱 124 • 6d ago
 
 ---
 
@@ -734,7 +734,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 815 • 🔱 66 • 21d ago
+⭐ 816 • 🔱 66 • 21d ago
 
 ---
 
