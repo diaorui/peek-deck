@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T19:33:15.191770+00:00'
+updated: '2025-12-24T19:44:38.551016+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 19:33 UTC  
+**Last Updated:** December 24, 2025 at 19:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -222,23 +222,23 @@ CryptoSlate • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 796 • 👍 75 • 💬 6 • ⏱️ 3:51 • 5h ago
-
----
-
 **[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
 
 BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
 📺 Crypto World
 
-👁️ 905 • 👍 79 • 💬 45 • ⏱️ 19:06 • 2h ago
+👁️ 2K • 👍 157 • 💬 105 • ⏱️ 19:06 • 3h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 83 • 💬 6 • ⏱️ 3:51 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 65 • 💬 33 • ⏱️ 13:41 • 7h ago
+👁️ 2K • 👍 79 • 💬 25 • ⏱️ 13:41 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 152 • 👍 11 • 💬 29 • ⏱️ 5:15 • 4h ago
+👁️ 210 • 👍 10 • 💬 27 • ⏱️ 5:15 • 5h ago
 
 ---
 
@@ -268,17 +268,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 149 • 👍 7 • 💬 16 • ⏱️ 7:49 • 5h ago
-
----
-
-**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 99 • 💬 311 • ⏱️ 14:58 • 1d ago
+👁️ 205 • 👍 8 • 💬 12 • ⏱️ 7:49 • 5h ago
 
 ---
 
@@ -288,7 +278,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 982 • 👍 38 • 💬 21 • ⏱️ 5:30 • 1d ago
+👁️ 991 • 👍 38 • 💬 18 • ⏱️ 5:30 • 1d ago
+
+---
+
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 99 • 💬 309 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while stic
 
 📺 What's Trending
 
-👁️ 236 • ⏱️ 0:31 • 3h ago
+👁️ 528 • 👍 1 • ⏱️ 0:31 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 20h ago
+👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 46 • 💬 50 • ⏱️ 7:32 • 2d ago
+👁️ 2K • 👍 46 • 💬 46 • ⏱️ 7:32 • 2d ago
 
 ---
 

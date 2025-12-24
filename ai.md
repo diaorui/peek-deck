@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T19:33:15.177314+00:00'
+updated: '2025-12-24T19:44:38.536552+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 19:33 UTC  
+**Last Updated:** December 24, 2025 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Before, when someone said it’s inconsistent, I couldn’t act on it. It wasn’t one bug, it was a pattern: sometimes it ignored details, sometimes it sounded confident but wrong, sometimes it broke format. Hard to pin down, easy to dismiss. After, I wrote down the top must-not-fail moments from real usage and turned them into a small set of repeatable checks I run after changes. Impact: the system still isn’t perfect, but now I can catch the worst regressions early and improve the same weak spots over time instead of guessing. What part of eval still feels the most subjective to you?
 
-19m ago
+30m ago
 
 ---
 
@@ -303,7 +303,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 2h ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 3h ago
 
 ---
 
@@ -329,7 +329,7 @@ The New York Times • 9h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 56m ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -473,23 +473,13 @@ I was catching up on Acquired episodes this week and listened to the spectacular
 
 ## YouTube Videos: "ai"
 
-**[VanEck CEO Jan Van Eck says the ‘AI bubble already popped’](https://www.youtube.com/watch?v=2Si2XN_zWGY)**
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
-VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market and how companies are missing large macro ...
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
 
-📺 Fox Business
+📺 InsideAI
 
-👁️ 7K • 👍 153 • 💬 27 • ⏱️ 7:50 • 14h ago
-
----
-
-**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
-
-Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
-
-📺 Jack Morgan RLP 2.0
-
-👁️ 17K • 👍 897 • 💬 477 • ⏱️ 11:28 • 19h ago
+👁️ 100K • 👍 7K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -499,7 +489,17 @@ Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 103 • 💬 11 • ⏱️ 8:29 • 10h ago
+👁️ 4K • 👍 115 • 💬 11 • ⏱️ 8:29 • 10h ago
+
+---
+
+**[VanEck CEO Jan Van Eck says the ‘AI bubble already popped’](https://www.youtube.com/watch?v=2Si2XN_zWGY)**
+
+VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market and how companies are missing large macro ...
+
+📺 Fox Business
+
+👁️ 9K • 👍 169 • 💬 38 • ⏱️ 7:50 • 14h ago
 
 ---
 
@@ -509,7 +509,27 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 17K • 👍 459 • 💬 62 • ⏱️ 18:48 • 1d ago
+👁️ 17K • 👍 470 • 💬 60 • ⏱️ 18:48 • 1d ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 52K • 👍 3K • 💬 347 • ⏱️ 33:27 • 1d ago
+
+---
+
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
+
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
+
+📺 AI Search
+
+👁️ 61K • 👍 3K • 💬 314 • ⏱️ 30:43 • 16h ago
 
 ---
 
@@ -519,7 +539,17 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 436K • 👍 15K • 💬 3K • ⏱️ 19:40 • 1d ago
+👁️ 451K • 👍 15K • 💬 3K • ⏱️ 19:40 • 1d ago
+
+---
+
+**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
+
+How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
+
+📺 Maxinomics
+
+👁️ 226K • 👍 13K • 💬 2K • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -533,43 +563,13 @@ Royal Hansen, vice president of privacy, safety and security engineering at Goog
 
 ---
 
-**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
+**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
 
-How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
+Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
 
-📺 Maxinomics
+📺 Jack Morgan RLP 2.0
 
-👁️ 221K • 👍 13K • 💬 2K • ⏱️ 21:43 • 1d ago
-
----
-
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
-
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
-
-📺 AI Explained
-
-👁️ 50K • 👍 3K • 💬 340 • ⏱️ 33:27 • 1d ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 56K • 👍 3K • 💬 289 • ⏱️ 30:43 • 16h ago
-
----
-
-**[This is How We Beat AI](https://www.youtube.com/watch?v=_rdSl3CpiCg)**
-
-A lot of people in the creative industries are worried about AI. Could it take their jobs? Could it destroy the arts? Have we already ...
-
-📺 Rowan J Coleman
-
-👁️ 48K • 👍 4K • 💬 1K • ⏱️ 12:03 • 3d ago
+👁️ 19K • 👍 953 • 💬 504 • ⏱️ 11:28 • 19h ago
 
 ---
 
@@ -713,18 +713,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding](https://huggingface.co/papers/2512.17532)**
-
-*Jiaqi Tang, Jianmin Chen, Wei Wei et al. (10 authors)*
-
-A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
-
-▲ 60 • 💬 2 • ⭐ 118 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
-
----
-
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -746,6 +734,18 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 ▲ 4 • 💬 0 • ⭐ 61,488 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
+
+---
+
+**[Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding](https://huggingface.co/papers/2512.17532)**
+
+*Jiaqi Tang, Jianmin Chen, Wei Wei et al. (10 authors)*
+
+A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
+
+▲ 60 • 💬 2 • ⭐ 137 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
 ---
 
@@ -784,7 +784,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 SAM Audio, a diffusion transformer-based foundation model, achieves superior performance in general audio separation using unified text, visual, and temporal span prompts across various audio types.
 
-▲ 8 • 💬 0 • ⭐ 2,482 • 5d ago
+▲ 9 • 💬 0 • ⭐ 2,482 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.18099) • [💻 code](https://github.com/facebookresearch/sam-audio) • [🔗 project](https://ai.meta.com/samaudio/)
 
@@ -804,18 +804,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693)**
-
-*Weichen Fan, Haiwen Diao, Quan Wang et al. (5 authors)*
-
-Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
-
-▲ 58 • 💬 3 • ⭐ 66 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -826,6 +814,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 26 • 💬 1 • ⭐ 66,091 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 26 • 💬 0 • ⭐ 26,479 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -859,7 +859,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 416 • 2h ago
+⭐ 3.3k • 🔱 415 • 2h ago
 
 ---
 
@@ -869,7 +869,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 195 • 56m ago
+⭐ 2.8k • 🔱 196 • 36m ago
 
 ---
 
@@ -919,7 +919,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 876 • 🔱 126 • 7d ago
+⭐ 877 • 🔱 126 • 7d ago
 
 ---
 
@@ -929,7 +929,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 817 • 🔱 66 • 21d ago
+⭐ 819 • 🔱 66 • 21d ago
 
 ---
 

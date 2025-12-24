@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T19:33:15.185729+00:00'
+updated: '2025-12-24T19:44:38.545008+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 19:33 UTC  
+**Last Updated:** December 24, 2025 at 19:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** +2.6%  
 **30d:** -0.0%  
 **90d:** -20.2%  
-**1y:** -11.8%  
+**1y:** -11.9%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-1h ago
+2h ago
 
 ---
 
@@ -111,13 +111,13 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-44m ago
+55m ago
 
 ---
 
 **[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bitcoin Magazine • 1d ago
 
 Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
 
-Inquirer.com • 23h ago
+Inquirer.com • 1d ago
 
 ---
 
@@ -287,33 +287,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
-**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
-
-Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
-
-📺 Thomas Kralow
-
-👁️ 9K • 👍 2K • 💬 36 • ⏱️ 6:23 • 9h ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 20h ago
-
----
-
 **[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
 
 Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
 
 📺 CNBC Television
 
-👁️ 5K • 👍 146 • 💬 108 • ⏱️ 8:19 • 6h ago
+👁️ 8K • 👍 183 • 💬 122 • ⏱️ 8:19 • 6h ago
 
 ---
 
@@ -323,37 +303,37 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 199 • ⏱️ 13:26 • 21h ago
+👁️ 24K • 👍 1K • 💬 199 • ⏱️ 13:26 • 21h ago
 
 ---
 
-**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
-📺 BitcoinHyper
+📺 Altcoin Daily
 
-👁️ 5K • 👍 366 • 💬 62 • ⏱️ 13:14 • 7h ago
-
----
-
-**[BITCOIN: 2026 PREDICTIONS (MERRY CHRISTMAS!!)](https://www.youtube.com/watch?v=z54jD_DrrdA)**
-
-BULLMANIA WAITLIST: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
-
-📺 Ivan on Tech
-
-👁️ 11K • 👍 1K • 💬 125 • ⏱️ 20:24 • 8h ago
+👁️ 37K • 👍 2K • 💬 606 • ⏱️ 10:51 • 20h ago
 
 ---
 
-**[Bitcoin price update! If trading with CoinCatch watch this video ASAP.](https://www.youtube.com/watch?v=GtJG1fxDNAI)**
+**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
 
-Quick update for bitcoin price with what I'm expecting and watching. I show what levels we need to hold above on the weekly to ...
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
 
-📺 OPTICALARTdotCOM
+📺 Mark Moss
 
-👁️ 468 • 👍 88 • 💬 19 • ⏱️ 11:23 • 3h ago
+👁️ 76K • 👍 3K • 💬 405 • ⏱️ 20:46 • 1d ago
+
+---
+
+**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
+
+Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
+
+📺 CNBC Television
+
+👁️ 28K • 👍 347 • 💬 245 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -363,27 +343,47 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 30K • 👍 2K • 💬 187 • ⏱️ 20:00 • 21h ago
+👁️ 32K • 👍 2K • 💬 187 • ⏱️ 20:00 • 21h ago
 
 ---
 
-**[This Signal Predicted Every Bitcoin Bottom... (Prepare Accordingly)](https://www.youtube.com/watch?v=sy3IRNzcs88)**
+**[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
 
-Claim your bonus on Lbank ↳ https://www.lbank.com/event/2907-transfer-tradewinrolex-allusers?icode=5D2I0 VIP TG Group ...
+Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
 
-📺 Crypto Goos
+📺 Simply Bitcoin
 
-👁️ 707 • 👍 44 • 💬 74 • ⏱️ 10:33 • 9h ago
+👁️ 29K • 👍 2K • 💬 189 • ⏱️ 11:35 • 1d ago
 
 ---
 
-**[BITCOIN ABOUT TO DUMP?🚨 | BITCOIN (BTC) PRICE PREDICTION &amp; NEWS 2025!](https://www.youtube.com/watch?v=pgLBABuUUHs)**
+**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
 
-BITCOIN BTC PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community focused ...
+LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
 
-📺 Cilinix Crypto
+📺 Altcoin Daily
 
-👁️ 414 • 👍 44 • 💬 35 • ⏱️ 5:22 • 4h ago
+👁️ 53K • 👍 3K • 💬 211 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[Why Fidelity Thinks This is the Start of a Bitcoin SuperCycle](https://www.youtube.com/watch?v=qyPB6TE9WJ8)**
+
+Bitcoin price action has been rough, but something bigger may be forming. Professor B breaks down Fidelity's new research, ...
+
+📺 Swan Bitcoin
+
+👁️ 7K • 👍 240 • 💬 18 • ⏱️ 1:41 • 18h ago
+
+---
+
+**[BITCOIN: 2026 PREDICTIONS (MERRY CHRISTMAS!!)](https://www.youtube.com/watch?v=z54jD_DrrdA)**
+
+BULLMANIA WAITLIST: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
+
+📺 Ivan on Tech
+
+👁️ 13K • 👍 1K • 💬 130 • ⏱️ 20:24 • 8h ago
 
 ---
 

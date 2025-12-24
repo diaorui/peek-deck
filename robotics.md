@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T19:33:15.194998+00:00'
+updated: '2025-12-24T19:44:38.554288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 19:33 UTC  
+**Last Updated:** December 24, 2025 at 19:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-38m ago
+49m ago
 
 ---
 
@@ -78,7 +78,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 **[Minimal VL53L0X Time-of-Flight driver for bare-metal MCUs (feedback wanted)](https://www.reddit.com/r/robotics/comments/1purka8/minimal_vl53l0x_timeofflight_driver_for_baremetal/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-12h ago
+13h ago
 
 ---
 
@@ -128,7 +128,7 @@ El Adelantado • 2d ago
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
-Earth.com • 3h ago
+Earth.com • 4h ago
 
 ---
 
@@ -192,27 +192,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 47K • 👍 811 • 💬 84 • ⏱️ 2:08:46 • 4d ago
-
----
-
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
-
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
-
-📺 AI Tech Academy
-
-👁️ 6K • 👍 154 • 💬 17 • ⏱️ 13:55 • 23h ago
-
----
-
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 29K • 👍 887 • 💬 242 • ⏱️ 11:02 • 1d ago
+👁️ 47K • 👍 813 • 💬 84 • ⏱️ 2:08:46 • 4d ago
 
 ---
 
@@ -226,13 +206,33 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
 
-Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
 
-📺 The Capital AI
+📺 Its Nenaa
 
-👁️ 150K • 👍 3K • 💬 587 • ⏱️ 2:23 • 4d ago
+👁️ 31K • 👍 906 • 💬 248 • ⏱️ 11:02 • 1d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 8K • 👍 177 • 💬 19 • ⏱️ 13:55 • 23h ago
+
+---
+
+**[🔴 ARPO The Robot&#39;s Messy Holiday Season: Christmas, Santa &amp; Holiday Fun! ❄️🎄 #christmas](https://www.youtube.com/watch?v=BYRQ1xSCsbE)**
+
+Join us for a festive, fun-filled ARPO Christmas livestream packed with holiday cheer, robot antics, and plenty of surprises!
+
+📺 ARPO The Robot
+
+👁️ 14K • 👍 27 • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.2M • 👍 11K • 💬 668 • ⏱️ 2:43 • 6d ago
+👁️ 1.2M • 👍 11K • 💬 671 • ⏱️ 2:43 • 6d ago
 
 ---
 
@@ -260,7 +260,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 XRoboHub
 
-👁️ 212K • 👍 4K • 💬 497 • ⏱️ 0:51 • 4d ago
+👁️ 213K • 👍 4K • 💬 497 • ⏱️ 0:51 • 4d ago
 
 ---
 
@@ -274,11 +274,13 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 ---
 
-**[Chinese robots perform at a concert 🤯](https://www.youtube.com/watch?v=i1AVS1Mh650)**
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
 
-📺 Aevy TV
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
 
-👁️ 154K • 👍 8K • 💬 341 • ⏱️ 1:18 • 4d ago
+📺 SocksReact
+
+👁️ 616K • 👍 11K • 💬 1K • ⏱️ 18:35 • 3d ago
 
 ---
 
