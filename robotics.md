@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T18:57:03.887287+00:00'
+updated: '2025-12-24T19:21:12.911959+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 18:57 UTC  
+**Last Updated:** December 24, 2025 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -37,6 +37,14 @@ Robotics research and industry news
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 5h ago
+
+---
+
+**[Are there any building systems with the same modularity as aluminum extrusions, but made of rods and screws?](https://www.reddit.com/r/robotics/comments/1puuk7h/are_there_any_building_systems_with_the_same/)**
+
+I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
+
+26m ago
 
 ---
 
@@ -64,7 +72,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +84,7 @@ https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c
 
 **[Pirates of the Caribbean maintenance manual with full exploded views of animatronics](https://www.reddit.com/r/robotics/comments/1puplo2/pirates_of_the_caribbean_maintenance_manual_with/)**
 
-🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 3h ago
+🔗 [Disney Docs](https://www.disneydocs.net/pirates-manual) • 4h ago
 
 ---
 
@@ -92,15 +100,7 @@ Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspir
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-20h ago
-
----
-
-**[SO-101 control using meta quest](https://www.reddit.com/r/robotics/comments/1pumlnn/so101_control_using_meta_quest/)**
-
-I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
-
-6h ago
+21h ago
 
 ---
 
@@ -108,19 +108,19 @@ I think the phopho pro app isnt available in india, are there any alternatives t
 
 ## Google News: "robotics"
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Robot school in China trains humanoids for factories and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
 
 Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
 
 Interesting Engineering • 21h ago
+
+---
+
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
+
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
+
+El Adelantado • 2d ago
 
 ---
 
@@ -158,7 +158,13 @@ Good Morning Wilton • 2d ago
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
+
+---
+
+**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -166,21 +172,13 @@ Investor's Business Daily • 3h ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
 
 ---
 
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
 Phys.org • 1d ago
-
----
-
-**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
-
-Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
-
-Yahoo Finance • 2d ago
 
 ---
 

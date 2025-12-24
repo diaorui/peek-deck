@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T18:57:03.884059+00:00'
+updated: '2025-12-24T19:21:12.908721+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 18:57 UTC  
+**Last Updated:** December 24, 2025 at 19:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
+**24h:** -0.9%  
 **7d:** +4.3%  
-**30d:** -0.5%  
+**30d:** -0.6%  
 **90d:** -26.9%  
-**1y:** -15.8%  
+**1y:** -15.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.57B
+**Market Cap:** $354.90B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.6%
 
 **All-Time Low:** $0.43
-+678671.9%
++678256.2%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
+
+---
+
+**[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 5h ago
 
 ---
 
@@ -81,12 +87,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
 🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 2h ago
-
----
-
-**[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 4h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 **[Join leftinmadness on Farcaster](https://www.reddit.com/r/ethereum/comments/1puqnxh/join_leftinmadness_on_farcaster/)**
 
-🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 2h ago
+🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 11h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 12h ago
 
 ---
 
@@ -168,22 +168,6 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Trade Flat, While XRP Slides: Popular Analyst Predicts $37,500 Market Bottom For Bitcoin In 2026](https://finance.yahoo.com/news/bitcoin-ethereum-dogecoin-trade-flat-043007648.html)**
-
-Leading cryptocurrencies consolidated, while stocks climbed higher on Monday, as investors looked for clues on the “Santa Claus Rally.” Cryptocurrency Gains +/- Price (Recorded at 8:20 p.m. ET) Bitcoin (CRYPTO: ...
-
-Yahoo Finance • 14h ago
-
----
-
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
-
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
-
-Decrypt • 1d ago
-
----
-
 **[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
@@ -204,17 +188,33 @@ The Block • 1d ago
 
 ---
 
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
+
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
+
+Decrypt • 1d ago
+
+---
+
 **[Ethereum Price Flashes Bearish Bias, Bulls Lose Short-Term Control](https://www.tradingview.com/news/newsbtc:3279429cd094b:0-ethereum-price-flashes-bearish-bias-bulls-lose-short-term-control/)**
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
 **[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
 
-Binance • 9h ago
+Binance • 10h ago
+
+---
+
+**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+
+Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 65 • 💬 33 • ⏱️ 13:41 • 6h ago
+👁️ 1K • 👍 65 • 💬 33 • ⏱️ 13:41 • 7h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 19h ago
+👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 20h ago
 
 ---
 

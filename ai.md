@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T18:57:03.869541+00:00'
+updated: '2025-12-24T19:21:12.893790+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- repositories
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 18:57 UTC  
+**Last Updated:** December 24, 2025 at 19:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,13 +57,21 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 18h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 19h ago
 
 ---
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
 🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 1d ago
+
+---
+
+**[The AI feels random stopped being a mystery once I wrote a tiny eval](https://www.reddit.com/r/artificial/comments/1puuzsb/the_ai_feels_random_stopped_being_a_mystery_once/)**
+
+Before, when someone said it’s inconsistent, I couldn’t act on it. It wasn’t one bug, it was a pattern: sometimes it ignored details, sometimes it sounded confident but wrong, sometimes it broke format. Hard to pin down, easy to dismiss. After, I wrote down the top must-not-fail moments from real usage and turned them into a small set of repeatable checks I run after changes. Impact: the system still isn’t perfect, but now I can catch the worst regressions early and improve the same weak spots over time instead of guessing. What part of eval still feels the most subjective to you?
+
+7m ago
 
 ---
 
@@ -287,7 +295,7 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-21h ago
+22h ago
 
 ---
 
@@ -307,21 +315,27 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 ---
 
-**[One-Minute Daily AI News 12/23/2025](https://www.reddit.com/r/artificial/comments/1pufppb/oneminute_daily_ai_news_12232025/)**
-
-Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
-
-13h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
+
+---
+
+**[‘We’re not stopping’: Pa. lawmakers rankled by Trump order on states and AI](https://www.post-gazette.com/news/politics-state/2025/12/24/pennsylvania-trump-ai-ciresi-pisciottano/stories/202512240068)**
+
+HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
+
+Pittsburgh Post-Gazette • 44m ago
+
+---
+
+**[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
+
+France 24 • 9h ago
 
 ---
 
@@ -329,13 +343,21 @@ The New York Times • 8h ago
 
 Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Watch AI Demand Top of Mind for PC, Hardware Giants in 2026](https://www.bloomberg.com/news/videos/2025-12-24/ai-demand-top-of-mind-for-pc-hardware-giants-in-2026-video)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
+
+---
+
+**[AI trade: Broadcom has 'one of the great' recurring revenues in tech](https://finance.yahoo.com/video/ai-trade-broadcom-one-great-183000079.html)**
+
+Rainwater Equity founder and portfolio manager Joseph Shaposhnik discusses what he expects from the AI trade in 2026 — highlighting underlying conditions like the interest rate environment and the state of the US economy — and why semiconductor manufacturer Broadcom (AVGO) is among his top stock picks for 2026. Also catch Joseph Shaposhnik explain why he expects the S&P 493 to benefit from outsized returns in 2026. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
+
+Yahoo Finance • 51m ago
 
 ---
 
@@ -347,47 +369,25 @@ blog.google • 1d ago
 
 ---
 
-**[No, you can’t tell when something was written by AI](https://www.ft.com/content/b2ebb99a-cfea-465f-93ff-0ea8ed6bfac5)**
+**[Google One's AI Pro Plan With 2TB Storage Is Now Over 50% Off](https://www.pcmag.com/news/google-ones-ai-pro-plan-with-2tb-storage-is-now-over-50-off)**
 
-Context matters as much as content in determining whether text is machine generated or not
+Alongside ample storage for all your photos and files, the plan unlocks higher limits for both video and image generation tools.
 
-Financial Times • 13h ago
+PCMag • 7h ago
+
+---
+
+**[Purdue trustee committee OKs Google partnership for AI for $35K](https://www.jconline.com/story/news/local/purdue/2025/12/24/purdue-trustee-committee-oks-google-partnership-for-ai-for-nearly-15k/87894228007/)**
+
+The trustees' finance committee approved a partnership with Google, setting up Purdue students and researchers to have top-shelf access to AI.
+
+Journal & Courier • 5h ago
 
 ---
 
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
 The Washington Post • 1d ago
-
----
-
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-Fortune • 1d ago
-
----
-
-**[When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr](https://www.theguardian.com/commentisfree/2025/dec/23/artificial-intelligence-ai-bubble-bursts-humans-take-back-control)**
-
-The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
-
-The Guardian • 1d ago
-
----
-
-**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
-
-Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
-
-Los Angeles Times • 7h ago
-
----
-
-**[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqeCM-ZMDCo-9qIKOf1LahI-p6CNVCo1ej7luMOWjm3Ge3z6-CBdurzH&gaa_ts=694c36c8&gaa_sig=zqfMySb0Icuf-gh0t_rA7eNQINecdO9zCNiMpxu3eOT32mtIcHVirxxfcSYU7lA8JghxYPseKivGbMWaWULDqg%3D%3D)**
-
-The Wall Street Journal • 7h ago
 
 ---
 
@@ -399,7 +399,7 @@ The Wall Street Journal • 7h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 795 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 796 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -407,7 +407,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 303 • 💬 282 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 304 • 💬 286 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -415,7 +415,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 239 • 💬 238 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 239 • 💬 239 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -435,7 +435,15 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 **[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://news.ycombinator.com/item?id=46356603)**
 
-⬆️ 94 • 💬 131 • 2d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+⬆️ 94 • 💬 133 • 2d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+
+---
+
+**[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
+
+Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
+
+⬆️ 33 • 💬 20 • 1h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -457,15 +465,7 @@ The basilar ganglia does not exist.
 
 I was catching up on Acquired episodes this week and listened to the spectacular “Google: The AI Company” episode that Ben and David put together. What the two of them have created with their podcast fascinates me in the inevitability of its success. I think Acquired proves that if you are smart and work your […]
 
-⬆️ 24 • 💬 1 • 23h ago • [markmaunder.com](https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/)
-
----
-
-**[Nebula Awards Yelled at Until They Ban Use of AI by Nominees](https://news.ycombinator.com/item?id=46369590)**
-
-GenAI and LLMs almost got a soft pass to enter the Nebula Awards, but the sci-fi/fantasy writing community shut that down.
-
-⬆️ 15 • 💬 2 • 21h ago • [Gizmodo](https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137)
+⬆️ 24 • 💬 1 • 1d ago • [markmaunder.com](https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/)
 
 ---
 
@@ -479,7 +479,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 7K • 👍 153 • 💬 27 • ⏱️ 7:50 • 13h ago
+👁️ 7K • 👍 153 • 💬 27 • ⏱️ 7:50 • 14h ago
 
 ---
 
@@ -489,7 +489,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 17K • 👍 897 • 💬 477 • ⏱️ 11:28 • 18h ago
+👁️ 17K • 👍 897 • 💬 477 • ⏱️ 11:28 • 19h ago
 
 ---
 
@@ -499,7 +499,7 @@ Rank #1 with AI SEO here → https://go.juliangoldie.com/backlink-portal Want to
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 103 • 💬 11 • ⏱️ 8:29 • 9h ago
+👁️ 3K • 👍 103 • 💬 11 • ⏱️ 8:29 • 10h ago
 
 ---
 
@@ -585,7 +585,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 761 • 1d ago
+⬇️ 2,719 • ❤️ 766 • 1d ago
 
 ---
 
@@ -621,7 +621,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 556 • 5d ago
+⬇️ 24,883 • ❤️ 557 • 5d ago
 
 ---
 
@@ -669,7 +669,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 291 • 1d ago
+⬇️ 1,152 • ❤️ 293 • 1d ago
 
 ---
 
@@ -679,7 +679,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 274 • 5d ago
+⬇️ 0 • ❤️ 276 • 5d ago
 
 ---
 
@@ -859,7 +859,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 416 • 1h ago
+⭐ 3.3k • 🔱 416 • 2h ago
 
 ---
 
@@ -869,7 +869,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 195 • 20m ago
+⭐ 2.8k • 🔱 195 • 44m ago
 
 ---
 
