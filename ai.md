@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T20:25:54.361710+00:00'
+updated: '2025-12-24T20:44:30.831783+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 20:25 UTC  
+**Last Updated:** December 24, 2025 at 20:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 12h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 13h ago
 
 ---
 
@@ -295,7 +295,7 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 3h ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 4h ago
 
 ---
 
@@ -311,7 +311,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-14h ago
+15h ago
 
 ---
 
@@ -329,21 +329,39 @@ The New York Times • 10h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 1h ago
+Pittsburgh Post-Gazette • 2h ago
 
 ---
 
-**[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
 
-France 24 • 10h ago
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+
+The Guardian • 7d ago
 
 ---
 
-**[Amazon faces 'leader's dilemma' — fight AI shopping bots or join them](https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html)**
+**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
 
-Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
+While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
 
-CNBC • 8h ago
+CNBC • 7h ago
+
+---
+
+**[Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Big Winners Again in 2026](https://www.fool.com/investing/2025/12/24/best-ai-stocks-buy-now-2026/)**
+
+Nvidia (NVDA), Broadcom (AVGO), and Taiwan Semiconductor Manufacturing (TSM) stocks are the top three artificial intelligence (AI) stocks to buy now and into 2026.
+
+The Motley Fool • 9h ago
+
+---
+
+**[Nebius, Nvidia Lead the Best AI Stocks to Hold in 2026](https://seekingalpha.com/article/4855470-nebius-nvidia-lead-the-best-ai-stocks-to-hold)**
+
+The best AI stocks to hold in 2026 are well positioned to grow through the next phase of the artificial intelligence revolution. Click here to see 3 top stocks.
+
+Seeking Alpha • 22h ago
 
 ---
 
@@ -351,23 +369,21 @@ CNBC • 8h ago
 
 What once required teams of engineers can now be built in minutes.
 
-USA Today • 58m ago
+USA Today • 1h ago
 
 ---
 
-**[AI trade: Broadcom has 'one of the great' recurring revenues in tech](https://finance.yahoo.com/video/ai-trade-broadcom-one-great-183000079.html)**
+**[Broadcom, Bloom Energy, and Other AI Bargains Appeal to This Tech Investor](https://www.barrons.com/articles/ai-tech-broadcom-bloom-energy-8223b02a?gaa_at=eafs&gaa_n=AWEtsqcdKL_MqBwAIVUyPW_3KushlwyTny7zbCvfuriem_ghIrrGGOi9gkHu&gaa_ts=694c541b&gaa_sig=kvEiiesvKfB9v15upE5po6-ya4jWvhmdPJDroWAw7ovigQg3FCKtrFGzB4RDFyt9wa_sfgND6ZDS4xAvWeStTw%3D%3D)**
 
-Rainwater Equity founder and portfolio manager Joseph Shaposhnik discusses what he expects from the AI trade in 2026 — highlighting underlying conditions like the interest rate environment and the state of the US economy — and why semiconductor manufacturer Broadcom (AVGO) is among his top stock picks for 2026. Also catch Joseph Shaposhnik explain why he expects the S&P 493 to benefit from outsized returns in 2026. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination.
+Barron's • 1h ago
+
+---
+
+**[An AI bubble may be here, but the bubble is bigger for 'fad trades'](https://finance.yahoo.com/video/ai-bubble-may-bubble-bigger-190000752.html)**
+
+While artificial intelligence dominated market themes in 2025, all Wall Street can talk about now is whether the market (^DJI, ^IXIC, ^GSPC) is already in or about to enter an AI bubble. Annandale Capital founder and chairman George Seay and CFRA Research chief investment strategist Sam Stovall share their thoughts on whether an AI bubble is forming or already here, and the areas displaying the most exuberance. Also catch Sam Stovall discuss Wall Street's Santa Claus rally optimism and George Seay's comments on small-cap stocks in 2026. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
 
 Yahoo Finance • 1h ago
-
----
-
-**[Pen testers accused of 'blackmail' over Eurostar AI flaws](https://www.theregister.com/2025/12/24/pentesters_reported_eurostar_chatbot_flaws/)**
-
-: AI goes off the rails … because of shoddy guardrails
-
-theregister.com • 2h ago
 
 ---
 
@@ -376,22 +392,6 @@ theregister.com • 2h ago
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
 blog.google • 1d ago
-
----
-
-**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
-
-Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
-
-Los Angeles Times • 9h ago
-
----
-
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-Fortune • 1d ago
 
 ---
 
@@ -533,7 +533,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 61K • 👍 3K • 💬 314 • ⏱️ 30:43 • 16h ago
+👁️ 61K • 👍 3K • 💬 314 • ⏱️ 30:43 • 17h ago
 
 ---
 
@@ -589,7 +589,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 767 • 1d ago
+⬇️ 2,719 • ❤️ 770 • 1d ago
 
 ---
 
@@ -601,7 +601,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 675 • 5d ago
+⬇️ 11,944 • ❤️ 676 • 5d ago
 
 ---
 
@@ -613,7 +613,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,391 • 16d ago
+⬇️ 384,826 • ❤️ 3,393 • 16d ago
 
 ---
 
@@ -625,7 +625,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 557 • 5d ago
+⬇️ 24,883 • ❤️ 557 • 6d ago
 
 ---
 
@@ -661,7 +661,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 391 • 1d ago
+⬇️ 0 • ❤️ 392 • 1d ago
 
 ---
 
@@ -673,7 +673,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 294 • 1d ago
+⬇️ 1,152 • ❤️ 295 • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 276 • 5d ago
+⬇️ 0 • ❤️ 277 • 5d ago
 
 ---
 

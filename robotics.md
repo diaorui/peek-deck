@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T20:25:54.379575+00:00'
+updated: '2025-12-24T20:44:30.852324+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 20:25 UTC  
+**Last Updated:** December 24, 2025 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,15 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-4h ago
+5h ago
+
+---
+
+**[Adjusting Posture at Stall or High Load Cuts Torque and Slashes Motor Heat](https://www.reddit.com/r/robotics/comments/1puwjh1/adjusting_posture_at_stall_or_high_load_cuts/)**
+
+Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
+
+17m ago
 
 ---
 
@@ -78,7 +86,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 **[Minimal VL53L0X Time-of-Flight driver for bare-metal MCUs (feedback wanted)](https://www.reddit.com/r/robotics/comments/1purka8/minimal_vl53l0x_timeofflight_driver_for_baremetal/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -92,15 +100,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-13h ago
-
----
-
-**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
-
-The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
-
-22h ago
+14h ago
 
 ---
 
@@ -112,7 +112,7 @@ The great revelation I had at the beginning of my robotics career (circa 1982) w
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
-Earth.com • 4h ago
+Earth.com • 5h ago
 
 ---
 
@@ -137,6 +137,14 @@ IEEE Spectrum • 1d ago
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
 hyundai.com • 2d ago
+
+---
+
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
+
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 2d ago
 
 ---
 
@@ -171,14 +179,6 @@ The Robot Report • 1d ago
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
 Phys.org • 1d ago
-
----
-
-**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
-
-Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
-
-Yahoo Finance • 2d ago
 
 ---
 

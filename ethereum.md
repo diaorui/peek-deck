@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T20:25:54.376277+00:00'
+updated: '2025-12-24T20:44:30.848716+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 20:25 UTC  
+**Last Updated:** December 24, 2025 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,909.57
+### $2,947.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +4.6%  
-**30d:** -0.3%  
-**90d:** -26.7%  
-**1y:** -15.6%  
+**24h:** -0.9%  
+**7d:** +4.4%  
+**30d:** -0.4%  
+**90d:** -26.8%  
+**1y:** -15.7%  
 
 ---
 
@@ -104,12 +104,6 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 ---
 
-**[Join leftinmadness on Farcaster](https://www.reddit.com/r/ethereum/comments/1puqnxh/join_leftinmadness_on_farcaster/)**
-
-🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 4h ago
-
----
-
 **[[RFC] Full support for MCP commands during fuzzing campaigns in Echidna](https://www.reddit.com/r/ethereum/comments/1puhf3e/rfc_full_support_for_mcp_commands_during_fuzzing/)**
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
@@ -123,6 +117,12 @@ This branch contains a rewrite of some core features of Echidna to transform wor
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
 🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 1d ago
+
+---
+
+**[Join leftinmadness on Farcaster](https://www.reddit.com/r/ethereum/comments/1puqnxh/join_leftinmadness_on_farcaster/)**
+
+🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 4h ago
 
 ---
 
@@ -204,17 +204,15 @@ TradingView — Track All Markets • 17h ago
 
 ---
 
-**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-Binance • 11h ago
+TipRanks • 1d ago
 
 ---
 
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
 
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
-
-CryptoSlate • 1d ago
+Binance • 11h ago
 
 ---
 
@@ -228,7 +226,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 157 • 💬 105 • ⏱️ 19:06 • 3h ago
+👁️ 2K • 👍 157 • 💬 105 • ⏱️ 19:06 • 4h ago
 
 ---
 
@@ -258,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 210 • 👍 10 • 💬 27 • ⏱️ 5:15 • 5h ago
+👁️ 210 • 👍 10 • 💬 27 • ⏱️ 5:15 • 6h ago
 
 ---
 
@@ -268,7 +266,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 205 • 👍 8 • 💬 12 • ⏱️ 7:49 • 5h ago
+👁️ 205 • 👍 8 • 💬 12 • ⏱️ 7:49 • 6h ago
 
 ---
 
@@ -298,7 +296,7 @@ Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while stic
 
 📺 What's Trending
 
-👁️ 528 • 👍 1 • ⏱️ 0:31 • 3h ago
+👁️ 528 • 👍 1 • ⏱️ 0:31 • 4h ago
 
 ---
 
