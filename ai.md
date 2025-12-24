@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T07:33:04.628481+00:00'
+updated: '2025-12-24T07:48:19.667984+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 07:33 UTC  
+**Last Updated:** December 24, 2025 at 07:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 3m ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 18m ago
 
 ---
 
@@ -71,7 +71,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-1h ago
+2h ago
 
 ---
 
@@ -145,7 +145,7 @@ GeekWire • 13h ago
 
 Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -294,7 +294,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 38K • 👍 2K • 💬 293 • ⏱️ 33:27 • 13h ago
+👁️ 38K • 👍 2K • 💬 293 • ⏱️ 33:27 • 14h ago
 
 ---
 
@@ -390,7 +390,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 1,148 • ❤️ 671 • 21h ago
+⬇️ 1,148 • ❤️ 671 • 22h ago
 
 ---
 
@@ -496,7 +496,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 8,076 • ❤️ 256 • 16h ago
+⬇️ 8,076 • ❤️ 256 • 17h ago
 
 ---
 
@@ -524,21 +524,9 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 56 • 💬 2 • ⭐ 95 • 4d ago
+▲ 58 • 💬 2 • ⭐ 95 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
-
----
-
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 4 • 💬 0 • ⭐ 61,409 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -551,6 +539,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 10 • 💬 2 • ⭐ 13,049 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 4 • 💬 0 • ⭐ 61,445 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -615,7 +615,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 137 • 💬 6 • ⭐ 18,939 • 3mo ago
+▲ 137 • 💬 6 • ⭐ 18,963 • 3mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 397 • 1h ago
+⭐ 3.2k • 🔱 401 • 1h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 190 • 1h ago
+⭐ 2.6k • 🔱 192 • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 202 • 1h ago
+⭐ 1.2k • 🔱 202 • 2h ago
 
 ---
 
@@ -704,7 +704,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 105 • 19h ago
+⭐ 1.1k • 🔱 105 • 20h ago
 
 ---
 
@@ -714,7 +714,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 980 • 🔱 92 • 1d ago
+⭐ 1.0k • 🔱 94 • 1d ago
 
 ---
 
@@ -724,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 830 • 🔱 122 • 6d ago
+⭐ 837 • 🔱 122 • 6d ago
 
 ---
 

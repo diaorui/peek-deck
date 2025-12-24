@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T07:33:04.646113+00:00'
+updated: '2025-12-24T07:48:19.685634+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 07:33 UTC  
+**Last Updated:** December 24, 2025 at 07:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-20h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-54m ago
+1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T07:33:04.642918+00:00'
+updated: '2025-12-24T07:48:19.682382+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 07:33 UTC  
+**Last Updated:** December 24, 2025 at 07:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,950.27
+### $2,942.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +3.9%  
-**30d:** -1.0%  
-**90d:** -27.2%  
-**1y:** -16.2%  
+**24h:** -0.8%  
+**7d:** +4.3%  
+**30d:** -0.6%  
+**90d:** -26.9%  
+**1y:** -15.9%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 12m ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 27m ago
 
 ---
 
@@ -252,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Bloomberg Television
 
-👁️ 3K • 👍 63 • 💬 55 • ⏱️ 22:51 • 12h ago
+👁️ 3K • 👍 63 • 💬 55 • ⏱️ 22:51 • 13h ago
 
 ---
 
@@ -292,7 +292,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 692 • 2h ago
+👁️ 4K • 👍 692 • 3h ago
 
 ---
 

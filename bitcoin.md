@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T07:33:04.636939+00:00'
+updated: '2025-12-24T07:48:19.676375+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 07:33 UTC  
+**Last Updated:** December 24, 2025 at 07:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,000.00
+### $87,150.00
 
 ---
 
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** +2.2%  
 **30d:** -0.5%  
 **90d:** -20.6%  
-**1y:** -12.3%  
+**1y:** -12.2%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -121,13 +121,13 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
 
-1h ago
+2h ago
 
 ---
 
 **[Protecting my last bit of money.](https://www.reddit.com/r/Bitcoin/comments/1pto3dl/protecting_my_last_bit_of_money/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 11h ago
 
 Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 12h ago
 
 David Schassler, head of multi-asset solutions at VanEck, presented a constructive outlook on Bitcoin, projecting that the largest crypto would recoup next year despite its current “lag.”“Bitcoin is lagging the Nasdaq 100 Index by roughly 50% year-to-date, and that dislocation is setting it up to be a top performer in ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Investopedia • 10h ago
 
 Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -379,7 +379,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 342 • ⏱️ 30:53 • 9h ago
+👁️ 3K • 👍 342 • ⏱️ 30:53 • 10h ago
 
 ---
 
