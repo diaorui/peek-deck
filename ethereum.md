@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T08:40:30.572461+00:00'
+updated: '2025-12-24T08:59:48.690068+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 08:40 UTC  
+**Last Updated:** December 24, 2025 at 08:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +3.6%  
-**30d:** -1.2%  
-**90d:** -27.3%  
-**1y:** -16.4%  
+**24h:** -1.1%  
+**7d:** +3.9%  
+**30d:** -0.9%  
+**90d:** -27.1%  
+**1y:** -16.1%  
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Ethereum price trades flat, but collapsing long-term selling and a breakout pattern hint at a larger move forming.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -198,7 +198,7 @@ CCN.com • 19h ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -218,7 +218,7 @@ CoinDesk • 1d ago
 
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-TipRanks • 16h ago
+TipRanks • 17h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 2 • ⏱️ 4:22 • 16h ago
+👁️ 2K • 👍 144 • 💬 2 • ⏱️ 4:22 • 17h ago
 
 ---
 

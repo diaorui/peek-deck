@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T08:40:30.575685+00:00'
+updated: '2025-12-24T08:59:48.693406+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 08:40 UTC  
+**Last Updated:** December 24, 2025 at 08:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-20h ago
+21h ago
 
 ---
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Physical Intelligence just released a series of "Robot Olympics" events to showc
 
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -124,7 +124,7 @@ hyundai.com • 2d ago
 
 The Hangzhou robot maker has entered the IPO ‘guidance’ phase, becoming the latest embodied intelligence start-up to eye an A-share listing.
 
-South China Morning Post • 31m ago
+South China Morning Post • 50m ago
 
 ---
 
@@ -240,7 +240,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 23K • 👍 243 • 💬 4 • ⏱️ 0:11 • 23h ago
+👁️ 23K • 👍 243 • 💬 4 • ⏱️ 0:11 • 1d ago
 
 ---
 

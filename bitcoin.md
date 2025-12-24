@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T08:40:30.566493+00:00'
+updated: '2025-12-24T08:59:48.683938+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 08:40 UTC  
+**Last Updated:** December 24, 2025 at 08:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.9%  
 **7d:** +1.8%  
 **30d:** -0.9%  
 **90d:** -20.9%  
@@ -99,13 +99,13 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 14h ago
 
 Bitcoin may have printed new highs in nominal terms, but it has yet to truly clear the $100,000 mark once inflation is taken into account, according to Galaxy Research. Key Takeaways: Bitcoin has yet to break $100,000 when adjusted for inflation, Galaxy Research says. Dollar purchasing power has fallen roughly ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ WCVB • 1d ago
 
 **[‘The Biggest Merger In History’—U.S. Treasury Secretary Reveals Price Game-Changer As Wall Street Leans Into Bitcoin And Crypto](https://www.forbes.com/sites/digital-assets/2025/12/23/the-biggest-merger-in-history-us-treasury-secretary-reveals-price-game-changer-as-wall-street-leans-into-bitcoin-and-crypto/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -387,7 +387,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 4K • 👍 118 • 💬 25 • ⏱️ 17:16 • 16h ago
+👁️ 4K • 👍 118 • 💬 25 • ⏱️ 17:16 • 17h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T08:40:30.558074+00:00'
+updated: '2025-12-24T08:59:48.674821+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 08:40 UTC  
+**Last Updated:** December 24, 2025 at 08:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 14h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 15h ago
 
 ---
 
@@ -55,7 +55,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 All of these game developers have used, or are still using, AI to accelerate production and development, including the most highly awarded game in the history of The Game Awards ❗️ GOTY — Clair Obscur: Expedition 33 Kingdom Come: Deliverance II Cyberpunk TCG The Witcher 4 Divinity https://www.thegamer.com/cd-projekt-red-the-witcher-4-ai/#thread
 
-27m ago
+47m ago
 
 ---
 
@@ -87,7 +87,7 @@ Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 14h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 15h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 18h ago
 
 Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 5h ago
 
 More than a dozen finance chiefs predict how AI will continue to shape finance.
 
-Fortune • 40m ago
+Fortune • 59m ago
 
 ---
 
@@ -308,7 +308,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 378K • 👍 14K • 💬 3K • ⏱️ 19:40 • 18h ago
+👁️ 378K • 👍 14K • 💬 3K • ⏱️ 19:40 • 19h ago
 
 ---
 
@@ -338,7 +338,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 41K • 👍 2K • 💬 298 • ⏱️ 33:27 • 14h ago
+👁️ 41K • 👍 2K • 💬 298 • ⏱️ 33:27 • 15h ago
 
 ---
 
@@ -394,7 +394,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 697 • 22h ago
+⬇️ 2,719 • ❤️ 697 • 23h ago
 
 ---
 
@@ -500,7 +500,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 9,000 • ❤️ 258 • 17h ago
+⬇️ 9,000 • ❤️ 258 • 18h ago
 
 ---
 
@@ -564,7 +564,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
 
-▲ 54 • 💬 3 • ⭐ 56 • 1d ago
+▲ 55 • 💬 3 • ⭐ 56 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.1k • 🔱 3.0k • 2d ago
+⭐ 19.2k • 🔱 3.0k • 2d ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 683 • 5h ago
+⭐ 6.1k • 🔱 686 • 6h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 401 • 2h ago
+⭐ 3.2k • 🔱 407 • 2h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 192 • 2h ago
+⭐ 2.6k • 🔱 192 • 48m ago
 
 ---
 
@@ -688,7 +688,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 1.9k • 🔱 375 • 18d ago
+⭐ 2.0k • 🔱 375 • 18d ago
 
 ---
 
@@ -698,7 +698,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 202 • 2h ago
+⭐ 1.2k • 🔱 202 • 3h ago
 
 ---
 
@@ -718,7 +718,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.0k • 🔱 94 • 1d ago
+⭐ 1.1k • 🔱 96 • 1d ago
 
 ---
 
@@ -728,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 837 • 🔱 122 • 6d ago
+⭐ 848 • 🔱 123 • 6d ago
 
 ---
 
@@ -738,7 +738,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 808 • 🔱 66 • 20d ago
+⭐ 811 • 🔱 66 • 21d ago
 
 ---
 
