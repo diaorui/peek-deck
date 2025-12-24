@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T03:01:09.838850+00:00'
+updated: '2025-12-24T04:02:44.533829+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 03:01 UTC  
+**Last Updated:** December 24, 2025 at 04:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** +4.1%  
-**30d:** -0.8%  
-**90d:** -27.1%  
-**1y:** -16.1%  
+**24h:** -1.0%  
+**7d:** +4.4%  
+**30d:** -0.5%  
+**90d:** -26.8%  
+**1y:** -15.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.37B
+**Market Cap:** $355.47B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.5%
 
 **All-Time Low:** $0.43
-+677701.9%
++680000.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 9h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -152,7 +152,7 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 11h ago
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Motley Fool • 1d ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 13h ago
+CCN.com • 14h ago
 
 ---
 
@@ -182,21 +182,13 @@ CCN.com • 13h ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-The Block • 19h ago
-
----
-
-**[How Wall Street is using Ethereum without talking about Ethereum](https://www.tradingview.com/news/cointelegraph:0d7efe672094b:0-how-wall-street-is-using-ethereum-without-talking-about-ethereum/)**
-
-Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
-
-TradingView — Track All Markets • 13h ago
+The Block • 20h ago
 
 ---
 
@@ -208,9 +200,17 @@ CoinDesk • 1d ago
 
 ---
 
+**[How Wall Street is using Ethereum without talking about Ethereum](https://www.tradingview.com/news/cointelegraph:0d7efe672094b:0-how-wall-street-is-using-ethereum-without-talking-about-ethereum/)**
+
+Key takeawaysFor years, the financial world viewed Ethereum primarily as a playground for digital art and digital assets. By 2025, however, a gradual shift had become clear. Wall Street had largely stopped treating the network as a “crypto” project and had begun using it as a foundational utility.B…
+
+TradingView — Track All Markets • 14h ago
+
+---
+
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-TipRanks • 11h ago
+TipRanks • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ TipRanks • 11h ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 11h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -232,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 770 • 💬 81 • ⏱️ 15:49 • 2d ago
+👁️ 25K • 👍 771 • 💬 82 • ⏱️ 15:49 • 2d ago
 
 ---
 
@@ -242,37 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 826 • 👍 36 • 💬 21 • ⏱️ 5:30 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_eXjY58zpCM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 135 • 💬 3 • ⏱️ 4:22 • 11h ago
-
----
-
-**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
-
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
-
-📺 Trading Jip
-
-👁️ 616 • 👍 35 • 💬 10 • ⏱️ 9:42 • 13h ago
-
----
-
-**[ETHZilla Makes Second Ether Sale, 2026 Crypto Regulation Expectations | Bloomberg Crypto 12/23/2025](https://www.youtube.com/watch?v=GkyLObXM9Og)**
-
-"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
-
-📺 Bloomberg Television
-
-👁️ 2K • 👍 48 • 💬 8 • ⏱️ 22:51 • 8h ago
+👁️ 872 • 👍 36 • 💬 4 • ⏱️ 5:30 • 17h ago
 
 ---
 
@@ -282,27 +252,47 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 94 • 💬 325 • ⏱️ 14:58 • 20h ago
+👁️ 3K • 👍 95 • 💬 310 • ⏱️ 14:58 • 21h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
+**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
 
-📺 C-Zar Gets Crypto 
+📺 Trading Jip
 
-👁️ 234 • 👍 18 • 💬 9 • ⏱️ 7:44 • 8h ago
+👁️ 684 • 👍 36 • 💬 8 • ⏱️ 9:42 • 14h ago
 
 ---
 
-**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
 
-Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
-📺 The Modern Investor
+📺 Altcoin Daily
 
-👁️ 7K • 👍 764 • 💬 194 • ⏱️ 22:25 • 17h ago
+👁️ 14K • 👍 1K • 💬 287 • ⏱️ 10:51 • 4h ago
+
+---
+
+**[ETHZilla Makes Second Ether Sale, 2026 Crypto Regulation Expectations | Bloomberg Crypto 12/23/2025](https://www.youtube.com/watch?v=GkyLObXM9Og)**
+
+"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
+
+📺 Bloomberg Television
+
+👁️ 3K • 👍 55 • 💬 8 • ⏱️ 22:51 • 9h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_eXjY58zpCM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 138 • 💬 2 • ⏱️ 4:22 • 12h ago
 
 ---
 
@@ -312,7 +302,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 401 • 💬 36 • ⏱️ 14:56 • 15h ago
+👁️ 7K • 👍 403 • 💬 22 • ⏱️ 14:56 • 16h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 292 • 👍 18 • 💬 6 • ⏱️ 7:44 • 9h ago
 
 ---
 
