@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T07:48:19.676375+00:00'
+updated: '2025-12-24T07:59:15.598439+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 07:48 UTC  
+**Last Updated:** December 24, 2025 at 07:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +2.2%  
-**30d:** -0.5%  
-**90d:** -20.6%  
-**1y:** -12.2%  
+**24h:** -0.5%  
+**7d:** +2.3%  
+**30d:** -0.4%  
+**90d:** -20.5%  
+**1y:** -12.1%  
 
 ---
 
@@ -359,7 +359,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 3K • 👍 113 • 💬 22 • ⏱️ 17:16 • 15h ago
+👁️ 3K • 👍 113 • 💬 22 • ⏱️ 17:16 • 16h ago
 
 ---
 
