@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T10:33:20.700814+00:00'
+updated: '2025-12-24T10:51:01.211419+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 10:33 UTC  
+**Last Updated:** December 24, 2025 at 10:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +3.8%  
-**30d:** -1.0%  
-**90d:** -27.2%  
+**24h:** -1.3%  
+**7d:** +3.9%  
+**30d:** -0.9%  
+**90d:** -27.1%  
 **1y:** -16.2%  
 
 ---
@@ -162,7 +162,7 @@ Decrypt • 20h ago
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ CCN.com • 21h ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 11h ago
+👁️ 28K • 👍 2K • 💬 530 • ⏱️ 10:51 • 11h ago
 
 ---
 
@@ -244,27 +244,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 918 • 👍 36 • 💬 4 • ⏱️ 5:30 • 1d ago
-
----
-
-**[ETHZilla Makes Second Ether Sale, 2026 Crypto Regulation Expectations | Bloomberg Crypto 12/23/2025](https://www.youtube.com/watch?v=GkyLObXM9Og)**
-
-"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
-
-📺 Bloomberg Television
-
-👁️ 3K • 👍 71 • 💬 55 • ⏱️ 22:51 • 15h ago
-
----
-
-**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 346 • 👍 19 • 💬 8 • ⏱️ 7:44 • 16h ago
+👁️ 943 • 👍 36 • 💬 44 • ⏱️ 5:30 • 1d ago
 
 ---
 
@@ -278,13 +258,43 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 ---
 
+**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
+
+Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 3K • 👍 113 • 💬 97 • ⏱️ 11:00 • 6h ago
+
+---
+
+**[ETHZilla Makes Second Ether Sale, 2026 Crypto Regulation Expectations | Bloomberg Crypto 12/23/2025](https://www.youtube.com/watch?v=GkyLObXM9Og)**
+
+"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
+
+📺 Bloomberg Television
+
+👁️ 4K • 👍 73 • 💬 96 • ⏱️ 22:51 • 16h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 365 • 👍 21 • 💬 50 • ⏱️ 7:44 • 16h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_eXjY58zpCM)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 2 • ⏱️ 4:22 • 18h ago
+👁️ 2K • 👍 146 • 💬 2 • ⏱️ 4:22 • 18h ago
 
 ---
 
@@ -298,33 +308,23 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 ---
 
-**[Ethereum Will &quot;FLIP&quot; Bitcoin And Become The Number One Cryptocurrency On The Market In 2026](https://www.youtube.com/watch?v=uiCBHN-OmJg)**
+**[BITCOIN: The Breakout Failed! (bad news) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=ER1MOjuN54o)**
 
-Get ready for whats probably going to be one of the craziest years in crypto in a very very long time. 2026 is expected to be THE ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 The Modern Investor
+📺 BitcoinHyper
 
-👁️ 7K • 👍 783 • 💬 182 • ⏱️ 22:25 • 1d ago
-
----
-
-**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
-
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
-
-📺 Trading Jip
-
-👁️ 744 • 👍 37 • 💬 8 • ⏱️ 9:42 • 21h ago
+👁️ 7K • 👍 415 • 💬 65 • ⏱️ 14:56 • 23h ago
 
 ---
 
-**[Ethereum Price Prediction : WEDNESDAY !](https://www.youtube.com/watch?v=V49-k0uTm5s)**
+**[Ethereum Could Crash Into 2026… Here’s How We Time The Bottom Perfectly](https://www.youtube.com/watch?v=2mE9JBSr6gY)**
 
-Ethereum Price Prediction — 40% More Dump Pending Is ETH about to crash another 40% before rebounding? In this video we ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
-📺 Adam coins
+📺 Trade Confident
 
-👁️ 108 • 👍 4 • 💬 1 • ⏱️ 3:30 • 16h ago
+👁️ 333 • 👍 10 • 💬 7 • ⏱️ 6:09 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T10:33:20.686217+00:00'
+updated: '2025-12-24T10:51:01.196124+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 10:33 UTC  
+**Last Updated:** December 24, 2025 at 10:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 16h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-4h ago
+5h ago
 
 ---
 
@@ -147,13 +147,13 @@ Ad Age • 14h ago
 
 Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Chasing an Economic Boom, White House Dismisses Risks of A.I.](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 30m ago
+The New York Times • 48m ago
 
 ---
 
@@ -183,7 +183,7 @@ Fortune • 2h ago
 
 The McDonald's Christmas AI monstrosity has left people desperate for something to like.
 
-Gizmodo • 32m ago
+Gizmodo • 50m ago
 
 ---
 
@@ -288,17 +288,27 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 2K • 👍 59 • 💬 9 • ⏱️ 7:50 • 5h ago
+👁️ 3K • 👍 71 • 💬 10 • ⏱️ 7:50 • 5h ago
 
 ---
 
-**[Ranking Craziest SORA AI Disney Trailers💀](https://www.youtube.com/watch?v=yinjptHfeVg)**
+**[Painful AI robot date &amp; new evidence we&#39;re approaching extinction.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
-Ranking Craziest SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme ...
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
 
-📺 Bigfoot Feed
+📺 InsideAI
 
-👁️ 225K • 👍 3K • 💬 46 • ⏱️ 0:56 • 2d ago
+👁️ 74K • 👍 5K • 💬 753 • ⏱️ 16:24 • 16h ago
+
+---
+
+**[A wandering boy found a ripe mango fruit😭😭😭. #ai #aivideo #women#calf #rain #popular #army #train](https://www.youtube.com/watch?v=XVf3GJFxYIk)**
+
+A wandering boy found a ripe mango fruit      . #ai #aivideo #women#calf #rain #popular #army #train.
+
+📺 Ai story 4.0
+
+👁️ 179K • 👍 4K • 💬 2 • ⏱️ 0:41 • 10h ago
 
 ---
 
@@ -308,7 +318,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 378K • 👍 14K • 💬 3K • ⏱️ 19:40 • 20h ago
+👁️ 392K • 👍 14K • 💬 3K • ⏱️ 19:40 • 20h ago
 
 ---
 
@@ -318,27 +328,7 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 201K • 👍 12K • 💬 2K • ⏱️ 21:43 • 1d ago
-
----
-
-**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
-
-Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
-
-📺 Fox News
-
-👁️ 31K • 👍 363 • 💬 254 • ⏱️ 4:26 • 2d ago
-
----
-
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
-
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
-
-📺 AI Explained
-
-👁️ 41K • 👍 2K • 💬 298 • ⏱️ 33:27 • 16h ago
+👁️ 206K • 👍 12K • 💬 2K • ⏱️ 21:43 • 1d ago
 
 ---
 
@@ -348,37 +338,47 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 16K • 👍 429 • 💬 53 • ⏱️ 18:48 • 1d ago
+👁️ 16K • 👍 437 • 💬 53 • ⏱️ 18:48 • 1d ago
 
 ---
 
-**[&quot;I CREATED AI AND I&#39;M HERE TO WARN YOU&quot;](https://www.youtube.com/watch?v=BFy4nIqaVLQ)**
+**[While wandering around, this cat found a dried pomegranate in the desert😭 #ai #cat #pomegranate](https://www.youtube.com/watch?v=SnzQTnrxtgA)**
 
-AI progress is outpacing our ability to control it… because control ISN'T keeping up with capability. One of the people raising that ...
+While wandering around, this cat found a dried pomegranate in the desert   #ai #cat #pomegranate #youtubeshorts.
 
-📺 The Diary Of A CEO
+📺 Quick ai86
 
-👁️ 122K • 👍 3K • 💬 155 • ⏱️ 1:29 • 2d ago
-
----
-
-**[Reflecting on AI in 2025](https://www.youtube.com/watch?v=3_71Nog8JZw)**
-
-With GPT-5, Claude 4.5 Opus, Gemini 3.0 Pro and so many more, it's been a wild year. Thank you WorkOS for sponsoring!
-
-📺 Theo - t3․gg
-
-👁️ 38K • 👍 1K • 💬 126 • ⏱️ 45:40 • 1d ago
+👁️ 952K • 💬 9 • ⏱️ 0:34 • 1d ago
 
 ---
 
-**[The Truth About The AI Bubble](https://www.youtube.com/watch?v=cqrJzG03ENE)**
+**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
 
-2025 was the year AI stopped feeling chaotic and started feeling buildable. In this Lightcone episode, the YC partners break down ...
+Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
 
-📺 Y Combinator
+📺 Fox News
 
-👁️ 41K • 👍 927 • 💬 64 • ⏱️ 30:23 • 1d ago
+👁️ 31K • 👍 364 • 💬 254 • ⏱️ 4:26 • 2d ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 43K • 👍 2K • 💬 311 • ⏱️ 33:27 • 17h ago
+
+---
+
+**[Woman leaves baby kangaroo with mother kangaroo😭#ai #kangaroo #woman](https://www.youtube.com/watch?v=WNlxv7vdDPE)**
+
+Woman leaves baby kangaroo with mother kangaroo  #ai #kangaroo #woman.
+
+📺 MindOfPower
+
+👁️ 21K • 👍 680 • 💬 2 • ⏱️ 0:33 • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 193 • 37m ago
+⭐ 2.6k • 🔱 193 • 55m ago
 
 ---
 
@@ -698,7 +698,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 202 • 4h ago
+⭐ 1.3k • 🔱 202 • 5h ago
 
 ---
 
@@ -708,7 +708,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 107 • 22h ago
+⭐ 1.1k • 🔱 107 • 23h ago
 
 ---
 
@@ -718,7 +718,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.1k • 🔱 97 • 1d ago
+⭐ 1.1k • 🔱 97 • 2d ago
 
 ---
 

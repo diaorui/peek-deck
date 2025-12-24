@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T10:33:20.694680+00:00'
+updated: '2025-12-24T10:51:01.204965+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 10:33 UTC  
+**Last Updated:** December 24, 2025 at 10:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,13 +97,13 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 Hi I am new to bitcoin, but so far only the exchange is making money. There are fees to buy, fees to move. and then when i sell there will be even more fees. I feel that youtubers and people that already have lots of BTC wants more people to buy BTC so that they become wealthy Mean while, somebody like me that just decided to start buying BTC. I making profits for everybody else. And not me. I dont evend see the "privacy" statement made about BTC. I have to register, they have to know even the color of my underwear so I can buy. If I use my credit card, the bank and the exchange know. If I use Wire transfer... The bank and the exchange know. I might be dumb. Can anybody explain to me why is BTC advertised as "privacy" I dont see it. Also, to me it feels like going to the casino and placing a bet. In my house everybody is saying that this thinkg will crash and will be worthless, I am giving it a try. But so far, I am not that hopeful or positive. Please dont start to downvote me, just for explaining my thoughts and opinions, I said I am new to BTC. I bouhgt a Ledger NANO X to store... just to learn that people are not really happy with Ledger... I am learning... so please dont get upset at me. I hope I dont lose my money.. but if you look back.. just a merely 3-4 years ago a BTC was 16-17k. So if BTC at 120 k or even 80 k .. is not a ballon waiting to pop... I will be happy.. if it goes POP.. I will still buy some more and see what happens. But I am still not convinced... I have not drank the cool aid yet. Thank you all for your time.
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Guardian • 14h ago
 
 Digital asset treasury companies — the year's worst performers — were also hardest hit on Tuesday.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -211,7 +211,7 @@ WCVB • 1d ago
 
 **[‘The Biggest Merger In History’—U.S. Treasury Secretary Reveals Price Game-Changer As Wall Street Leans Into Bitcoin And Crypto](https://www.forbes.com/sites/digital-assets/2025/12/23/the-biggest-merger-in-history-us-treasury-secretary-reveals-price-game-changer-as-wall-street-leans-into-bitcoin-and-crypto/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -277,13 +277,23 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
+**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
+
+Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
+
+📺 CNBC Television
+
+👁️ 25K • 👍 320 • 💬 197 • ⏱️ 5:23 • 20h ago
+
+---
+
 **[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
 
 Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
 
 📺 Mark Moss
 
-👁️ 54K • 👍 3K • 💬 297 • ⏱️ 20:46 • 16h ago
+👁️ 58K • 👍 3K • 💬 361 • ⏱️ 20:46 • 16h ago
 
 ---
 
@@ -293,17 +303,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 105 • ⏱️ 13:26 • 12h ago
-
----
-
-**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
-
-Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
-
-📺 CNBC Television
-
-👁️ 24K • 👍 316 • 💬 174 • ⏱️ 5:23 • 20h ago
+👁️ 19K • 👍 1K • 💬 145 • ⏱️ 13:26 • 12h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 115 • ⏱️ 20:00 • 12h ago
+👁️ 22K • 👍 1K • 💬 153 • ⏱️ 20:00 • 12h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 393 • ⏱️ 10:51 • 11h ago
+👁️ 28K • 👍 2K • 💬 530 • ⏱️ 10:51 • 11h ago
 
 ---
 
@@ -333,7 +333,17 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 195 • ⏱️ 11:35 • 1d ago
+👁️ 28K • 👍 2K • 💬 194 • ⏱️ 11:35 • 1d ago
+
+---
+
+**[Why Arthur Hayes Says Bitcoin Will Reach $750K by 2027](https://www.youtube.com/watch?v=w5UyqDjNm9E)**
+
+BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk's 50 Most Influential People. He joins ...
+
+📺 CoinDesk
+
+👁️ 4K • 👍 122 • 💬 58 • ⏱️ 17:16 • 18h ago
 
 ---
 
@@ -347,33 +357,23 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 ---
 
-**[BTC Christmas:  Bitcoin is in Trouble - MSTR is in Serious Trouble - Altcoins are in Dire Straights](https://www.youtube.com/watch?v=BUrquhLZQYU)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 4K • 👍 360 • ⏱️ 30:53 • 12h ago
-
----
-
-**[Why Arthur Hayes Says Bitcoin Will Reach $750K by 2027](https://www.youtube.com/watch?v=w5UyqDjNm9E)**
-
-BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk's 50 Most Influential People. He joins ...
-
-📺 CoinDesk
-
-👁️ 4K • 👍 118 • 💬 25 • ⏱️ 17:16 • 18h ago
-
----
-
 **[I think Bitcoin will go back over 100,000: KKM Financial&#39;s Kilburg](https://www.youtube.com/watch?v=rGNHEZdrl3o)**
 
 CNBC's “Closing Bell Overtime” team discusses the AI trade and bitcoin with Jeff Kilburg, founder and CEO of KKM Financial.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 91 • 💬 56 • ⏱️ 3:19 • 1d ago
+👁️ 7K • 👍 92 • 💬 56 • ⏱️ 3:19 • 1d ago
+
+---
+
+**[The Great Bitcoin Depression Is Happening (I&#39;m Preparing RIGHT NOW)](https://www.youtube.com/watch?v=_b9ncMJWkDQ)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 12K • 👍 991 • 💬 122 • ⏱️ 7:14 • 17h ago
 
 ---
 

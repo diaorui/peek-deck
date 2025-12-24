@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T10:33:20.704103+00:00'
+updated: '2025-12-24T10:51:01.214991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 10:33 UTC  
+**Last Updated:** December 24, 2025 at 10:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspir
 
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
-23h ago
+1d ago
 
 ---
 
@@ -200,7 +200,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 45K • 👍 803 • 💬 81 • ⏱️ 2:08:46 • 4d ago
+👁️ 45K • 👍 805 • 💬 81 • ⏱️ 2:08:46 • 4d ago
 
 ---
 
@@ -210,7 +210,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 26K • 👍 820 • 💬 231 • ⏱️ 11:02 • 1d ago
+👁️ 27K • 👍 827 • 💬 235 • ⏱️ 11:02 • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 37K • 👍 616 • 💬 150 • ⏱️ 5:25 • 2d ago
+👁️ 37K • 👍 621 • 💬 150 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 23K • 👍 243 • 💬 4 • ⏱️ 0:11 • 1d ago
+👁️ 24K • 👍 243 • 💬 4 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 4K • 👍 246 • 💬 72 • ⏱️ 49:59 • 1d ago
+👁️ 4K • 👍 247 • 💬 73 • ⏱️ 49:59 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTS
 
 📺 SocksReact
 
-👁️ 589K • 👍 11K • 💬 1K • ⏱️ 18:35 • 3d ago
+👁️ 593K • 👍 11K • 💬 1K • ⏱️ 18:35 • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.1M • 👍 11K • 💬 656 • ⏱️ 2:43 • 5d ago
+👁️ 1.2M • 👍 11K • 💬 658 • ⏱️ 2:43 • 5d ago
 
 ---
 
@@ -290,7 +290,7 @@ future stick dancing robots in China robots can dance like a human robots dance 
 
 📺 Santoshgian
 
-👁️ 55K • 💬 5 • ⏱️ 0:26 • 1d ago
+👁️ 58K • 💬 5 • ⏱️ 0:26 • 1d ago
 
 ---
 
