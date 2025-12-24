@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T17:57:44.617340+00:00'
+updated: '2025-12-24T18:39:24.931774+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 17:57 UTC  
+**Last Updated:** December 24, 2025 at 18:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,331.99
+### $87,451.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +2.3%  
-**30d:** -0.4%  
-**90d:** -20.5%  
-**1y:** -12.2%  
+**24h:** -0.1%  
+**7d:** +2.6%  
+**30d:** -0.1%  
+**90d:** -20.3%  
+**1y:** -11.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1743.18B
+**Market Cap:** $1744.15B
 Rank #1
 
-**Circulating Supply:** 19,966,515 BTC
+**Circulating Supply:** 19,966,537 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.7%
 
 **All-Time Low:** $67.81
-+128684.8%
++128760.1%
 
 ---
 
@@ -85,13 +85,7 @@ Rank #1
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-5h ago
-
----
-
-**[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
-
-8h ago
+6h ago
 
 ---
 
@@ -101,15 +95,29 @@ Rank #1
 
 ---
 
+**[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
+
+9h ago
+
+---
+
 **[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
 5h ago
+
+---
+
+**[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
+
+Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
+
+59m ago
 
 ---
 
@@ -121,21 +129,13 @@ Rank #1
 
 **[The BEST advice I've heard😅](https://www.reddit.com/r/Bitcoin/comments/1puoml8/the_best_advice_ive_heard/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-12h ago
-
----
-
-**[Should i invest all my money to BTC](https://www.reddit.com/r/Bitcoin/comments/1puk3hg/should_i_invest_all_my_money_to_btc/)**
-
-Hello, I’m a high school student and I’m thinking about investing my money into BTC. My plan is an initial investment of about $170 and a recurring investment of maybe $30/month. I’m thinking of doing this for 10 years, and I may increase the recurring investment once I start earning a salary/get a job. Since I’m just a student right now, I can’t really commit to increasing it yet, maybe can i get an advice for a newbie here :)
-
-7h ago
+13h ago
 
 ---
 
@@ -153,15 +153,23 @@ CoinDesk • 5h ago
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[Here's What Bitcoin Was Worth on Every Christmas Eve Since Its Inception — 2017 Will Shock You](https://finance.yahoo.com/news/heres-bitcoin-worth-every-christmas-170215797.html)**
+**[BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025](https://finance.yahoo.com/news/blackrock-names-spot-bitcoin-etf-080029020.html)**
 
-Bitcoin’s Christmas Eve price history underscores extreme volatility. 2017 marked Bitcoin’s first true mainstream breakout — and its risks. Analysts believe holiday trading rarely changes ...
+BlackRock has placed its spot Bitcoin exchange-traded fund among its three biggest investment themes for 2025, ranking the product alongside Treasury bills and US mega-cap technology stocks. Key Takeaways: BlackRock named its spot Bitcoin ETF a top 2025 investment theme alongside Treasurys and big tech. IBIT attracted over $25 billion ...
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1d ago
+
+---
+
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
+
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -173,25 +181,9 @@ CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin Trapped Until 2026 as Holiday Trading Drains Market Liquidity: QCP](https://finance.yahoo.com/news/bitcoin-trapped-until-2026-holiday-140731041.html)**
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-Bitcoin remains range-bound heading into Christmas as thinning liquidity and year-end de-risking push traders to the sidelines, with perpetual open interest dropping $3 billion for BTC and $2 billion for ETH overnight, leaving markets vulnerable to sharp moves in either direction despite reduced leverage, according to QCP Capital. While gold ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
-
-Bitcoin is missing out on the Christmas cheer.
-
-Bloomberg.com • 5h ago
-
----
-
-**[Bitcoin Price, Crypto Stocks Fall. There’s No Crypto Rally in Sight.](https://www.barrons.com/articles/bitcoin-crypto-coinbase-strategy-stock-price-fc34e7f5?gaa_at=eafs&gaa_n=AWEtsqfigZjbTpOxY0lqaZsi88KJOSIs3l5_H3KNz5pymdsZhsmBP2FyUzCK&gaa_ts=694c2a91&gaa_sig=LEVT8Sfj5r4SMjbrDdT0dN4JHfew6ciFK_IB_a7a_FEDeVrYD1Ta3dmdaNX8aAgfo34RaA4-vgT8fdghEtxpBA%3D%3D)**
-
-Barron's • 1d ago
+KRON4 • 11h ago
 
 ---
 
@@ -199,13 +191,7 @@ Barron's • 1d ago
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 21h ago
-
----
-
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
-
-KRON4 • 11h ago
+The Guardian • 22h ago
 
 ---
 
@@ -214,6 +200,22 @@ KRON4 • 11h ago
 Bitcoin faced a turbulent Q4 in 2025, with December seeing a nearly 9% drop and record volatility since April, yet VanEck’s mid-December “ChainCheck” report notes improving liquidity and resetting speculative leverage, providing cautious optimism for long-term holders.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
+
+The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+
+Investopedia • 21h ago
 
 ---
 
@@ -231,7 +233,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 4 • 💬 2 • 3h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 4h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -261,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 26 • 💬 10 • 1h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 38 • 💬 19 • 2h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -291,7 +293,7 @@ Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AI
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 2K • 💬 36 • ⏱️ 6:23 • 7h ago
+👁️ 9K • 👍 2K • 💬 36 • ⏱️ 6:23 • 8h ago
 
 ---
 
@@ -301,7 +303,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 18h ago
+👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 19h ago
 
 ---
 
@@ -311,7 +313,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 5K • 👍 146 • 💬 108 • ⏱️ 8:19 • 4h ago
+👁️ 5K • 👍 146 • 💬 108 • ⏱️ 8:19 • 5h ago
 
 ---
 
@@ -321,7 +323,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 199 • ⏱️ 13:26 • 19h ago
+👁️ 23K • 👍 1K • 💬 199 • ⏱️ 13:26 • 20h ago
 
 ---
 
@@ -331,7 +333,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 366 • 💬 62 • ⏱️ 13:14 • 5h ago
+👁️ 5K • 👍 366 • 💬 62 • ⏱️ 13:14 • 6h ago
 
 ---
 
@@ -341,7 +343,7 @@ BULLMANIA WAITLIST: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): h
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 1K • 💬 125 • ⏱️ 20:24 • 6h ago
+👁️ 11K • 👍 1K • 💬 125 • ⏱️ 20:24 • 7h ago
 
 ---
 
@@ -351,7 +353,7 @@ Quick update for bitcoin price with what I'm expecting and watching. I show what
 
 📺 OPTICALARTdotCOM
 
-👁️ 468 • 👍 88 • 💬 19 • ⏱️ 11:23 • 1h ago
+👁️ 468 • 👍 88 • 💬 19 • ⏱️ 11:23 • 2h ago
 
 ---
 
@@ -361,7 +363,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 30K • 👍 2K • 💬 187 • ⏱️ 20:00 • 19h ago
+👁️ 30K • 👍 2K • 💬 187 • ⏱️ 20:00 • 20h ago
 
 ---
 
@@ -381,7 +383,7 @@ BITCOIN BTC PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups
 
 📺 Cilinix Crypto
 
-👁️ 414 • 👍 44 • 💬 35 • ⏱️ 5:22 • 3h ago
+👁️ 414 • 👍 44 • 💬 35 • ⏱️ 5:22 • 4h ago
 
 ---
 

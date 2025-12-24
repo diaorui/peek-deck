@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T17:57:44.623373+00:00'
+updated: '2025-12-24T18:39:24.937757+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 17:57 UTC  
+**Last Updated:** December 24, 2025 at 18:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +4.1%  
+**24h:** -0.1%  
+**7d:** +4.2%  
 **30d:** -0.7%  
 **90d:** -27.0%  
-**1y:** -16.0%  
+**1y:** -15.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.66B
+**Market Cap:** $354.57B
 Rank #2
 
 **Circulating Supply:** 120,694,987 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.6%
 
 **All-Time Low:** $0.43
-+678676.6%
++678671.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 3h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 4h ago
 
 ---
 
@@ -94,19 +94,19 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-1h ago
-
----
-
-**[Join leftinmadness on Farcaster](https://www.reddit.com/r/ethereum/comments/1puqnxh/join_leftinmadness_on_farcaster/)**
-
-🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 1h ago
+2h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-3h ago
+4h ago
+
+---
+
+**[Join leftinmadness on Farcaster](https://www.reddit.com/r/ethereum/comments/1puqnxh/join_leftinmadness_on_farcaster/)**
+
+🔗 [farcaster.xyz](https://farcaster.xyz/~/code/QHG2L6) • 2h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 10h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 11h ago
 
 ---
 
@@ -172,13 +172,7 @@ The Block • 1d ago
 
 Leading cryptocurrencies consolidated, while stocks climbed higher on Monday, as investors looked for clues on the “Santa Claus Rally.” Cryptocurrency Gains +/- Price (Recorded at 8:20 p.m. ET) Bitcoin (CRYPTO: ...
 
-Yahoo Finance • 13h ago
-
----
-
-**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
-
-Binance • 8h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -187,14 +181,6 @@ Binance • 8h ago
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
 Decrypt • 1d ago
-
----
-
-**[Ethereum Price Flashes Bearish Bias, Bulls Lose Short-Term Control](https://www.tradingview.com/news/newsbtc:3279429cd094b:0-ethereum-price-flashes-bearish-bias-bulls-lose-short-term-control/)**
-
-Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
-
-TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -218,6 +204,20 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum Price Flashes Bearish Bias, Bulls Lose Short-Term Control](https://www.tradingview.com/news/newsbtc:3279429cd094b:0-ethereum-price-flashes-bearish-bias-bulls-lose-short-term-control/)**
+
+Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
+
+TradingView — Track All Markets • 15h ago
+
+---
+
+**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
+
+Binance • 9h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -228,7 +228,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 796 • 👍 75 • 💬 6 • ⏱️ 3:51 • 3h ago
+👁️ 796 • 👍 75 • 💬 6 • ⏱️ 3:51 • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 905 • 👍 79 • 💬 45 • ⏱️ 19:06 • 1h ago
+👁️ 905 • 👍 79 • 💬 45 • ⏱️ 19:06 • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 65 • 💬 33 • ⏱️ 13:41 • 5h ago
+👁️ 1K • 👍 65 • 💬 33 • ⏱️ 13:41 • 6h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 152 • 👍 11 • 💬 29 • ⏱️ 5:15 • 3h ago
+👁️ 152 • 👍 11 • 💬 29 • ⏱️ 5:15 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETF
 
 📺 Wall Street Stockcast
 
-👁️ 149 • 👍 7 • 💬 16 • ⏱️ 7:49 • 3h ago
+👁️ 149 • 👍 7 • 💬 16 • ⏱️ 7:49 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ Kevin O'Leary has slashed his crypto portfolio, unloading most tokens while stic
 
 📺 What's Trending
 
-👁️ 236 • ⏱️ 0:31 • 1h ago
+👁️ 236 • ⏱️ 0:31 • 2h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 18h ago
+👁️ 35K • 👍 2K • 💬 608 • ⏱️ 10:51 • 19h ago
 
 ---
 
