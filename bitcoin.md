@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T14:29:30.429313+00:00'
+updated: '2025-12-24T14:47:36.592149+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 14:29 UTC  
+**Last Updated:** December 24, 2025 at 14:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,134.96
+### $86,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.2%  
-**30d:** -0.4%  
-**90d:** -20.5%  
-**1y:** -12.2%  
+**24h:** -0.5%  
+**7d:** +1.8%  
+**30d:** -0.8%  
+**90d:** -20.9%  
+**1y:** -12.6%  
 
 ---
 
@@ -97,19 +97,19 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -147,33 +147,19 @@ V2
 
 ## Google News: "bitcoin"
 
+**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
+
+A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
+
+CoinDesk • 4h ago
+
+---
+
 **[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
 The Guardian • 18h ago
-
----
-
-**[Bitcoin will be 'top performer' in 2026 after getting crushed this year, says VanEck](https://www.coindesk.com/markets/2025/12/23/bitcoin-to-rebound-sharply-as-gold-hits-usd5-000-in-2026-vaneck-manager-says)**
-
-VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
-
-CoinDesk • 18h ago
-
----
-
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
-
-Bitcoin is missing out on the Christmas cheer.
-
-Bloomberg.com • 1h ago
-
----
-
-**[Bitcoin Is Not Set for a Happy Holidays. Why It’s Down to Silver and Gold.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-silver-gold-prices-dbe32141?gaa_at=eafs&gaa_n=AWEtsqeHrbUxcGtCuOthUjJw4OefZuV4A_Ddn8LezRc5hWzxreMuM3jLEG8l&gaa_ts=694bf52d&gaa_sig=MGvZkPSj5laXiWjOdbQHYxjG-Hq1lrPSSWoSAfWCk45A6i6EFT3OF8taXeEhOG9MM7SsOmsszFSFhJ8CnaAPwg%3D%3D)**
-
-Barron's • 2h ago
 
 ---
 
@@ -185,11 +171,23 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
 
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 4h ago
+Investopedia • 17h ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 8h ago
 
 ---
 
@@ -198,6 +196,12 @@ Investopedia • 4h ago
 Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
 
 VanEck • 1d ago
+
+---
+
+**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
+
+The Block • 5h ago
 
 ---
 
@@ -211,13 +215,7 @@ CCN.com • 1h ago
 
 Even a small investment in Bitcoin would have delivered incredible returns.
 
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -235,7 +233,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 2 • 💬 2 • 26m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 2 • 44m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 

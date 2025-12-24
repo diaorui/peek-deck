@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T14:29:30.435306+00:00'
+updated: '2025-12-24T14:47:36.598156+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 14:29 UTC  
+**Last Updated:** December 24, 2025 at 14:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,930.74
+### $2,909.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +3.8%  
-**30d:** -1.0%  
-**90d:** -27.2%  
-**1y:** -16.2%  
+**24h:** -0.6%  
+**7d:** +3.0%  
+**30d:** -1.8%  
+**90d:** -27.8%  
+**1y:** -16.9%  
 
 ---
 
@@ -78,13 +78,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 23m ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 41m ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-6m ago
+24m ago
 
 ---
 
@@ -270,7 +270,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 80 • 💬 68 • ⏱️ 22:51 • 19h ago
+👁️ 4K • 👍 80 • 💬 68 • ⏱️ 22:51 • 20h ago
 
 ---
 
@@ -310,7 +310,7 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 3K • 👍 111 • 💬 60 • ⏱️ 11:00 • 9h ago
+👁️ 3K • 👍 111 • 💬 60 • ⏱️ 11:00 • 10h ago
 
 ---
 

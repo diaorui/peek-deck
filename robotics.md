@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T14:29:30.438554+00:00'
+updated: '2025-12-24T14:47:36.601391+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 14:29 UTC  
+**Last Updated:** December 24, 2025 at 14:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-42m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspir
 
 I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
 
-1h ago
+2h ago
 
 ---
 
@@ -116,7 +116,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 40m ago
+New Atlas • 58m ago
 
 ---
 
@@ -128,33 +128,11 @@ hyundai.com • 2d ago
 
 ---
 
-**[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-The Robot Report • 18h ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 2d ago
-
----
-
-**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
-
-Phys.org • 1d ago
-
----
-
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
-
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
-
-Interesting Engineering • 16h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -166,17 +144,41 @@ El Adelantado • 1d ago
 
 ---
 
-**[Hyundai's Boston Dynamics to debut new Atlas humanoid robots at CES](https://www.reuters.com/business/retail-consumer/hyundais-boston-dynamics-debut-new-atlas-humanoid-robots-ces-2025-12-22/)**
+**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
 
-Reuters • 2d ago
+Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+
+Interesting Engineering • 16h ago
 
 ---
 
-**[Top 5 Viral Humanoid Moments That Made 2025 The Year Of Robotics](https://seekingalpha.com/article/4855343-top-5-viral-humanoid-moments-made-2025-year-of-robotics)**
+**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
-The KOID ETF is designed to capture the broad opportunity in the robotics and embodied intelligence ecosystem. Read more here.
+Phys.org • 1d ago
 
-Seeking Alpha • 1d ago
+---
+
+**[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
+
+The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
+
+The Robot Report • 18h ago
+
+---
+
+**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
+
+Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Building and losing iRobot: Why Colin Angle thinks the FTC is to blame](https://techcrunch.com/podcast/building-and-losing-irobot-why-colin-angle-thinks-the-ftc-is-to-blame/)**
+
+This week on StrictlyVC Download, Connie Loizos spoke with Colin Angle, the founder and former CEO of iRobot. From his living room into a household name, Angle spent 30 years turning iRobot into one of the most pioneering companies in the robotics industry, stepping down as CEO following the failed Amazon acquisition. In this conversation, he unpacks why he considers iRobot’s bankruptcy “avoidable and […]
+
+TechCrunch • 20h ago
 
 ---
 

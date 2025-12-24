@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T14:29:30.420858+00:00'
+updated: '2025-12-24T14:47:36.579814+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 14:29 UTC  
+**Last Updated:** December 24, 2025 at 14:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-8h ago
+9h ago
 
 ---
 
@@ -131,7 +131,35 @@ blog.google • 21h ago
 
 A surge of AI-generated content is frustrating Pinterest users and left some questioning whether the platform still works at all.
 
-WIRED • 3h ago
+WIRED • 4h ago
+
+---
+
+**[One real reason AI isn't delivering: Meatbags in manglement](https://www.theregister.com/2025/12/24/reason_ai_isnt_delivering/)**
+
+Feature: Stuck in pilot purgatory? Confused about returns? You're not alone
+
+theregister.com • 1h ago
+
+---
+
+**[4 strategies to boost agentic AI success in your supply chain](https://www.fastcompany.com/91466057/4-strategies-to-boost-agentic-ai-success-in-your-supply-chain)**
+
+Fast Company • 35m ago
+
+---
+
+**[Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp](https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/)**
+
+Italy has ordered Meta to suspend its policy that bans companies from using WhatsApp's business tools to offer their own AI chatbots on the popular chat app.
+
+TechCrunch • 7m ago
+
+---
+
+**[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
+
+The New York Times • 4h ago
 
 ---
 
@@ -143,29 +171,15 @@ CNBC • 1h ago
 
 ---
 
-**[As AI expands, parents of high schoolers mull college and job training](https://www.usatoday.com/story/money/economy/2025/12/24/college-or-training-ai-future/87898126007/)**
-
-As AI usage proliferates, parents trying to guide their teenagers to smart decisions in college and beyond have an even tougher job.
-
-USA Today • 1h ago
-
----
-
-**[3 reasons why bad AI is so prevalent](https://www.fastcompany.com/91466064/3-reasons-why-bad-ai-is-so-prevalent)**
-
-Fast Company • 1h ago
-
----
-
-**[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
-
-The New York Times • 4h ago
-
----
-
 **[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
 
 The Washington Post • 20h ago
+
+---
+
+**[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqcd_LJLRJiiNG90OMb_phJAgzT659fU5zoLozOkKC7519lActn3QCgX&gaa_ts=694c0072&gaa_sig=yGH-T95VJDecJFH_2oyCKeeR9KISerX_jJVlYN42qKlGGnGF3cXo390Xe1T60aT-viT9d1v8_uIX70sXzXmszg%3D%3D)**
+
+The Wall Street Journal • 3h ago
 
 ---
 
@@ -174,20 +188,6 @@ The Washington Post • 20h ago
 Context matters as much as content in determining whether text is machine generated or not
 
 Financial Times • 9h ago
-
----
-
-**[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqc0pFRJVnpETasOlX6lmsl1JBCTV-iM7Ev33OJ8kwDYmo_kLfZ97Z-J&gaa_ts=694bf52c&gaa_sig=0yOCpt9dZuqYhXe6Zncz3-DDm0FPXc2JSXH7S1Gkw80V-UrT48S-dNNjBsy_9hCPkLE3DH5J2XvoW3MJMgjq2w%3D%3D)**
-
-The Wall Street Journal • 3h ago
-
----
-
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-Fortune • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ configuration and strategy on how to prevent web crawlers from putting
 down my instance while still serving most people with minimal amount of
 friction.
 
-⬆️ 184 • 💬 93 • 2d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
+⬆️ 184 • 💬 93 • 3d ago • [her.esy.fun](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 
 ---
 
@@ -294,7 +294,7 @@ Try Emergent AI today - https://app.emergent.sh/landing/v2/?via=78d236 More from
 
 📺 Futurepedia
 
-👁️ 6K • 👍 213 • 💬 13 • ⏱️ 19:03 • 21h ago
+👁️ 6K • 👍 213 • 💬 13 • ⏱️ 19:03 • 22h ago
 
 ---
 
@@ -314,7 +314,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 46K • 👍 3K • 💬 320 • ⏱️ 33:27 • 20h ago
+👁️ 46K • 👍 3K • 💬 320 • ⏱️ 33:27 • 21h ago
 
 ---
 
@@ -374,7 +374,7 @@ Woman leaves baby kangaroo with mother kangaroo  #ai #kangaroo #woman.
 
 📺 MindOfPower
 
-👁️ 114K • 👍 4K • 💬 3 • ⏱️ 0:33 • 4h ago
+👁️ 114K • 👍 4K • 💬 3 • ⏱️ 0:33 • 5h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 194 • 55m ago
+⭐ 2.7k • 🔱 194 • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 205 • 8h ago
+⭐ 1.3k • 🔱 205 • 9h ago
 
 ---
 
