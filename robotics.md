@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T11:55:07.365411+00:00'
+updated: '2025-12-24T12:44:15.172527+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 11:55 UTC  
+**Last Updated:** December 24, 2025 at 12:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,12 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
+
+3h ago
+
+---
+
 **[Disney: Olaf: Bringing an Animated Character to Life in the Physical World (Demo - Paper)](https://www.reddit.com/r/robotics/comments/1pts3ka/disney_olaf_bringing_an_animated_character_to/)**
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
@@ -40,15 +46,9 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
-**[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
-
-3h ago
-
----
-
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,15 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-5h ago
+6h ago
+
+---
+
+**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
+
+The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
+
+14h ago
 
 ---
 
@@ -65,14 +73,6 @@ Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspir
 Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons to build high-performance, biodegradable robots. By combining these natural shells with artificial tendons and soft rubber, they have created a new class of sustainable bio-hybrid machines. Extreme Strength: These actuators can lift over 100 times their own mass without structural failure. High Frequency: The shells function as high-speed bending actuators operating at up to 8 Hz. Versatile Locomotion: Testing includes robotic grippers for delicate tasks (like cherries) and swimming robots that reach speeds of 11 cm/s. This approach solves the difficulty of replicating complex biological joints with synthetic materials while using waste from the food industry to create fully biodegradable components. Sources: Full Article: https://robohub.org/bio-hybrid-robots-turn-food-waste-into-functional-machines/ Demonstration: https://youtu.be/VfTn-1KY61Q
 
 1d ago
-
----
-
-**[Will humanoid robots outshine the alternatives?](https://www.reddit.com/r/robotics/comments/1pu6h78/will_humanoid_robots_outshine_the_alternatives/)**
-
-The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
-
-13h ago
 
 ---
 
@@ -96,7 +96,7 @@ From Sunday on 𝕏: https://x.com/sundayrobotics/status/2003294087236190623 Web
 
 I've been working on a desktop app called Artifex for generating robot descriptions from natural language. The part I'm most interested in feedback on is the visual verification loop: **How it works:** 1. User describes a robot in plain English 2. AI generates the URDF (using structured output with Zod schemas for validation) 3. The 3D viewport renders the robot using React Three Fiber 4. AI takes a screenshot of the render via MCP tool call 5. AI analyzes the image for errors - wrong joint axes, scale mismatches, parts facing the wrong way 6. AI fixes what it finds and re-renders 7. Export to a colcon-ready ROS2 package The "AI looking at its own output" loop is the part I'm genuinely unsure about. In my testing it catches things like cameras mounted upside-down or wheel axes pointing the wrong direction. But I don't know if this is solving a real problem or just a gimmick. **Questions for this community:** - Does the visual verification seem useful, or is it solving a problem that doesn't really exist? - What URDF errors do you actually run into that are hard to catch? - Any obvious gaps in this workflow? **Disclosure:** I'm the developer. This is a commercial project but the tool is free to download. Happy to share a link if anyone wants to try it, but mainly here because I don't know if I'm building something people actually need. Roast away - honest feedback is more valuable than polite encouragement.
 
-11h ago
+12h ago
 
 ---
 
@@ -132,13 +132,21 @@ Good Morning Wilton • 2d ago
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 15h ago
+The Robot Report • 16h ago
 
 ---
 
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
 Phys.org • 1d ago
+
+---
+
+**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+
+Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+
+Interesting Engineering • 14h ago
 
 ---
 
@@ -150,14 +158,6 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
-
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
-
-Interesting Engineering • 13h ago
-
----
-
 **[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
@@ -166,11 +166,11 @@ Phoronix • 2d ago
 
 ---
 
-**[Duquesne Light is studying ways that AI could improve the grid and reliability](https://www.post-gazette.com/business/powersource/2025/12/24/duquesne-light-ai-grid-drones-artificial-intelligence-pittsburgh/stories/202512170041)**
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
 
-As artificial intelligence usage continues to expand across industries, Allegheny County’s primary utilities company is putting a charge into the...
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
 
-Pittsburgh Post-Gazette • 2h ago
+El Adelantado • 1d ago
 
 ---
 
@@ -182,11 +182,11 @@ news.cgtn.com • 1d ago
 
 ---
 
-**[Training a robot to replace you? Local startup Tutor Intelligence says it could happen.](https://www.bostonglobe.com/2025/12/22/business/tutor-intelligence-ai-robotics-employment/)**
+**[Solo GP Kevin Costa closes $20m fund to invest in AI, robotics and infrastructure](https://sifted.eu/articles/belief-capital-kevin-costa-solo-gp)**
 
-Tutor’s first product, Cassie, is designed for a relatively simple task — loading and unloading shipping pallets laden with boxes of merchandise.
+Solo GP Kevin Costa has raised his $20m fund from LPs including general partners at VC firms Point Nine, Hummingbird and Adjacent
 
-The Boston Globe • 1d ago
+Sifted • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.2M • 👍 11K • 💬 658 • ⏱️ 2:43 • 5d ago
+👁️ 1.2M • 👍 11K • 💬 658 • ⏱️ 2:43 • 6d ago
 
 ---
 

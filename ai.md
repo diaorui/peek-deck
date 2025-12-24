@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T11:55:07.347924+00:00'
+updated: '2025-12-24T12:44:15.154520+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 11:55 UTC  
+**Last Updated:** December 24, 2025 at 12:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
-
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 18h ago
-
----
-
 **[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 4h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 5h ago
+
+---
+
+**[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 18h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 11h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 12h ago
 
 ---
 
@@ -63,7 +63,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 2h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 3h ago
 
 ---
 
@@ -71,15 +71,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
-14h ago
-
----
-
-**[The most highly awarded games embrace AI in development and production](https://www.reddit.com/r/artificial/comments/1pui8x8/the_most_highly_awarded_games_embrace_ai_in/)**
-
-All of these game developers have used, or are still using, AI to accelerate production and development, including the most highly awarded game in the history of The Game Awards ❗️ GOTY — Clair Obscur: Expedition 33 Kingdom Come: Deliverance II Cyberpunk TCG The Witcher 4 Divinity https://www.thegamer.com/cd-projekt-red-the-witcher-4-ai/#thread
-
-3h ago
+15h ago
 
 ---
 
@@ -95,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +95,7 @@ Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 18h ago
 
 ---
 
@@ -115,6 +107,14 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 ---
 
+**[The most highly awarded games embrace AI in development and production](https://www.reddit.com/r/artificial/comments/1pui8x8/the_most_highly_awarded_games_embrace_ai_in/)**
+
+All of these game developers have used, or are still using, AI to accelerate production and development, including the most highly awarded game in the history of The Game Awards ❗️ GOTY — Clair Obscur: Expedition 33 Kingdom Come: Deliverance II Cyberpunk TCG The Witcher 4 Divinity https://www.thegamer.com/cd-projekt-red-the-witcher-4-ai/#thread
+
+4h ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -123,7 +123,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
@@ -131,27 +131,47 @@ blog.google • 18h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 18h ago
+The Guardian • 19h ago
+
+---
+
+**[Amazon faces 'leader's dilemma' — fight AI shopping bots or join them](https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html)**
+
+Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
+
+CNBC • 44m ago
 
 ---
 
 **[Chasing an Economic Boom, White House Dismisses Risks of A.I.](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
-**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
+**[The Year Ahead: Tariffs, AI and Fed Independence](https://www.bloomberg.com/news/articles/2025-12-24/podcast-the-year-ahead-tariffs-ai-hype-and-fed-independence)**
 
-Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
-
-Los Angeles Times • 55m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqdgpx02MBQS51q7np5JspgsVRdvOSUTfHmBbsAAviNeTq6rEj9afhjr&gaa_ts=694bd58c&gaa_sig=4isnlO4911WXc8wZ4zfmCh6-K5mWS9FyRWjLxElSPPHsFTx6u7x-sNoHbR4Nc1miX3i_04cdyuqi-9EYEm8pQQ%3D%3D)**
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
 
-The Wall Street Journal • 55m ago
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+
+The Guardian • 6d ago
+
+---
+
+**[AI Construction Costs Can Be an Accounting ‘Black Box’](https://www.wsj.com/articles/ai-construction-costs-can-be-an-accounting-black-box-3c197b09?gaa_at=eafs&gaa_n=AWEtsqcrmzQQ1gBsJNoAIkDB3grHhHw6C7Ib1sQiVt0SY9jjk-Por-f7BGUL&gaa_ts=694be388&gaa_sig=S36wBQ3ZK8ceK2T88qx6aLtEcqwpJ1UtuTFSWbo3Fe6TAjStF6wEs4XVH2fYlXpFAPSSj-_emL3QRi4q27utaw%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+
+The Washington Post • 18h ago
 
 ---
 
@@ -159,37 +179,15 @@ The Wall Street Journal • 55m ago
 
 Context matters as much as content in determining whether text is machine generated or not
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
+**[Ashley MacIsaac concert cancelled after AI wrongly accuses him of being sex offender](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786)**
 
-The Washington Post • 17h ago
+Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
----
-
-**[This ex-doctor faced ‘incredible burnout’ and left medicine to build an AI tool – now, it’s worth over $460 million](https://www.cnbc.com/2025/12/24/he-left-medicine-to-build-an-ai-tool-now-its-worth-460-million.html)**
-
-Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
-
-CNBC • 9h ago
-
----
-
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-Fortune • 17h ago
-
----
-
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
-
-A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
-
-ABC News • 2d ago
+CBC • 15h ago
 
 ---
 
@@ -201,7 +199,7 @@ ABC News • 2d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 791 • 💬 468 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 792 • 💬 468 • 1d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -209,7 +207,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 293 • 💬 264 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 295 • 💬 268 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -217,7 +215,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Saturday afternoon.
 
-⬆️ 275 • 💬 183 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
+⬆️ 276 • 💬 183 • 2d ago • [AvBrief.com](https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/)
 
 ---
 
@@ -225,7 +223,7 @@ Aircraft landed safely at Rocky Mountain Metropolitan Airport near Denver on Sat
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 232 • 💬 227 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 233 • 💬 227 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -233,13 +231,13 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 203 • 💬 65 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 206 • 💬 66 • 1d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 190 • 💬 216 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 191 • 💬 217 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -286,7 +284,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 3K • 👍 71 • 💬 10 • ⏱️ 7:50 • 6h ago
+👁️ 3K • 👍 71 • 💬 10 • ⏱️ 7:50 • 7h ago
 
 ---
 
@@ -296,7 +294,7 @@ AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 74K • 👍 5K • 💬 753 • ⏱️ 16:24 • 17h ago
+👁️ 74K • 👍 5K • 💬 753 • ⏱️ 16:24 • 18h ago
 
 ---
 
@@ -306,7 +304,7 @@ A wandering boy found a ripe mango fruit      . #ai #aivideo #women#calf #rain #
 
 📺 Ai story 4.0
 
-👁️ 179K • 👍 4K • 💬 2 • ⏱️ 0:41 • 11h ago
+👁️ 179K • 👍 4K • 💬 2 • ⏱️ 0:41 • 12h ago
 
 ---
 
@@ -366,7 +364,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 43K • 👍 2K • 💬 311 • ⏱️ 33:27 • 18h ago
+👁️ 43K • 👍 2K • 💬 311 • ⏱️ 33:27 • 19h ago
 
 ---
 
@@ -376,7 +374,7 @@ Woman leaves baby kangaroo with mother kangaroo  #ai #kangaroo #woman.
 
 📺 MindOfPower
 
-👁️ 21K • 👍 680 • 💬 2 • ⏱️ 0:33 • 2h ago
+👁️ 21K • 👍 680 • 💬 2 • ⏱️ 0:33 • 3h ago
 
 ---
 
@@ -392,7 +390,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 726 • 1d ago
+⬇️ 2,719 • ❤️ 731 • 1d ago
 
 ---
 
@@ -404,7 +402,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 665 • 5d ago
+⬇️ 11,944 • ❤️ 666 • 5d ago
 
 ---
 
@@ -416,7 +414,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,383 • 15d ago
+⬇️ 384,826 • ❤️ 3,386 • 15d ago
 
 ---
 
@@ -428,7 +426,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 543 • 5d ago
+⬇️ 24,883 • ❤️ 545 • 5d ago
 
 ---
 
@@ -464,7 +462,19 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 385 • 1d ago
+⬇️ 0 • ❤️ 386 • 1d ago
+
+---
+
+**[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
+
+*Qwen*
+
+Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances character consistency, supports integrated LoRA capabilities, and improves geometric reasoning for applications like industrial design and multi-person image editing.
+
+`image-to-image`
+
+⬇️ 1,152 • ❤️ 260 • 23h ago
 
 ---
 
@@ -474,7 +484,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 258 • 5d ago
+⬇️ 0 • ❤️ 260 • 5d ago
 
 ---
 
@@ -487,18 +497,6 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 `text-generation` `309.8B`
 
 ⬇️ 14,184 • ❤️ 432 • 6d ago
-
----
-
-**[Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)**
-
-*Qwen*
-
-Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances character consistency, supports integrated LoRA capabilities, and improves geometric reasoning for applications like industrial design and multi-person image editing.
-
-`image-to-image`
-
-⬇️ 1,152 • ❤️ 252 • 22h ago
 
 ---
 
@@ -532,18 +530,6 @@ A novel framework, Robust-R1, enhances multimodal large language models' robustn
 
 ---
 
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 10 • 💬 2 • ⭐ 13,049 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
 **[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
 
 *Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
@@ -556,6 +542,18 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 10 • 💬 2 • ⭐ 13,089 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -563,7 +561,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,615 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,655 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -580,6 +578,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 209 • 💬 5 • ⭐ 7,792 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[SAM Audio: Segment Anything in Audio](https://huggingface.co/papers/2512.18099)**
+
+*Bowen Shi, Andros Tjandra, John Hoffman et al. (14 authors)*
+
+🏢 AI at Meta
+
+SAM Audio, a diffusion transformer-based foundation model, achieves superior performance in general audio separation using unified text, visual, and temporal span prompts across various audio types.
+
+▲ 8 • 💬 0 • ⭐ 2,482 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.18099) • [💻 code](https://github.com/facebookresearch/sam-audio) • [🔗 project](https://ai.meta.com/samaudio/)
 
 ---
 
@@ -603,23 +615,9 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
 
-▲ 57 • 💬 3 • ⭐ 66 • 1d ago
+▲ 58 • 💬 3 • ⭐ 66 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 137 • 💬 6 • ⭐ 18,963 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -630,7 +628,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,044 • 27mo ago
+▲ 26 • 💬 1 • ⭐ 66,091 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 687 • 9h ago
+⭐ 6.1k • 🔱 689 • 9h ago
 
 ---
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 414 • 5h ago
+⭐ 3.3k • 🔱 414 • 6h ago
 
 ---
 
@@ -676,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 193 • 49m ago
+⭐ 2.7k • 🔱 194 • 5m ago
 
 ---
 
@@ -686,7 +684,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 376 • 18d ago
+⭐ 2.0k • 🔱 377 • 18d ago
 
 ---
 
@@ -696,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 203 • 6h ago
+⭐ 1.3k • 🔱 205 • 6h ago
 
 ---
 
@@ -706,7 +704,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.1k • 🔱 97 • 2d ago
+⭐ 1.1k • 🔱 99 • 2d ago
 
 ---
 
@@ -716,7 +714,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 107 • 1d ago
+⭐ 1.1k • 🔱 108 • 1d ago
 
 ---
 
@@ -726,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 857 • 🔱 124 • 6d ago
+⭐ 859 • 🔱 124 • 6d ago
 
 ---
 
@@ -736,7 +734,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 814 • 🔱 66 • 21d ago
+⭐ 815 • 🔱 66 • 21d ago
 
 ---
 
