@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T09:33:27.458993+00:00'
+updated: '2025-12-24T09:49:14.978017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 09:33 UTC  
+**Last Updated:** December 24, 2025 at 09:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,942.72
+### $2,916.90
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** +3.8%  
-**30d:** -1.1%  
-**90d:** -27.2%  
-**1y:** -16.3%  
+**24h:** -1.6%  
+**7d:** +3.3%  
+**30d:** -1.5%  
+**90d:** -27.5%  
+**1y:** -16.6%  
 
 ---
 
@@ -198,7 +198,7 @@ CCN.com • 20h ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Bloomberg Television
 
-👁️ 3K • 👍 71 • 💬 55 • ⏱️ 22:51 • 14h ago
+👁️ 3K • 👍 71 • 💬 55 • ⏱️ 22:51 • 15h ago
 
 ---
 

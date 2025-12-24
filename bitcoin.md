@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T09:33:27.452967+00:00'
+updated: '2025-12-24T09:49:14.972116+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 09:33 UTC  
+**Last Updated:** December 24, 2025 at 09:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +2.0%  
-**30d:** -0.7%  
-**90d:** -20.7%  
-**1y:** -12.4%  
+**24h:** -0.8%  
+**7d:** +1.7%  
+**30d:** -0.9%  
+**90d:** -20.9%  
+**1y:** -12.6%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Performance so far this year:](https://www.reddit.com/r/Bitcoin/comments/1puiy90/performance_so_far_this_year/)**
 
-35m ago
+50m ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -105,19 +105,19 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-37m ago
+53m ago
 
 ---
 
 **[Ohhh man damnn 🤣](https://www.reddit.com/r/Bitcoin/comments/1puditl/ohhh_man_damnn/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -219,7 +219,7 @@ WCVB • 1d ago
 
 **[‘The Biggest Merger In History’—U.S. Treasury Secretary Reveals Price Game-Changer As Wall Street Leans Into Bitcoin And Crypto](https://www.forbes.com/sites/digital-assets/2025/12/23/the-biggest-merger-in-history-us-treasury-secretary-reveals-price-game-changer-as-wall-street-leans-into-bitcoin-and-crypto/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -353,7 +353,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 360 • ⏱️ 30:53 • 11h ago
+👁️ 4K • 👍 360 • ⏱️ 30:53 • 12h ago
 
 ---
 

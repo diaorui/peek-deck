@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T09:33:27.444467+00:00'
+updated: '2025-12-24T09:49:14.963792+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 09:33 UTC  
+**Last Updated:** December 24, 2025 at 09:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 37m ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 53m ago
 
 ---
 
@@ -87,7 +87,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ blog.google • 16h ago
 
 Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fortune • 1h ago
 
 **[Italy Watchdog Orders Meta to Suspend Exclusion of Rival AI Chatbots From WhatsApp](https://www.wsj.com/tech/italy-watchdog-orders-meta-to-suspend-exclusion-of-rival-ai-chatbots-from-whatsapp-9f1aac96?gaa_at=eafs&gaa_n=AWEtsqd1smsrwf1-BGBtF6hbgFdDLaKBME7fr3R0Ienhr17XWfy3fkuGWmQP&gaa_ts=694bb6d2&gaa_sig=OYmEIOQ0VgWjDzfEfq9GckfSnKvOE2Szvbg1iBKugMxR1OoW_qePV-4dkDz2L7DZEJeUvsnzvIrRqhSJ4SdRUA%3D%3D)**
 
-The Wall Street Journal • 39m ago
+The Wall Street Journal • 55m ago
 
 ---
 
@@ -187,7 +187,7 @@ ABC News • 2d ago
 
 **[Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year](https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -334,7 +334,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 41K • 👍 2K • 💬 298 • ⏱️ 33:27 • 15h ago
+👁️ 41K • 👍 2K • 💬 298 • ⏱️ 33:27 • 16h ago
 
 ---
 
@@ -390,7 +390,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 703 • 23h ago
+⬇️ 2,719 • ❤️ 703 • 1d ago
 
 ---
 
@@ -496,7 +496,7 @@ Chatterbox-Turbo is an efficient, open-source text-to-speech model (350M paramet
 
 SAM-Audio is a foundation model for segmenting and isolating any sound within audio using text, visual, or temporal prompts. It enables precise sound separation from complex mixtures for applications like audio editing, content analysis, and sound event detection.
 
-⬇️ 9,000 • ❤️ 259 • 18h ago
+⬇️ 9,000 • ❤️ 259 • 19h ago
 
 ---
 
@@ -512,7 +512,7 @@ SAM-Audio is a foundation model for segmenting and isolating any sound within au
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 12 • 💬 2 • ⭐ 4,951 • 12d ago
+▲ 12 • 💬 2 • ⭐ 4,951 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -694,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 202 • 3h ago
+⭐ 1.2k • 🔱 202 • 4h ago
 
 ---
 
@@ -704,7 +704,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 105 • 21h ago
+⭐ 1.1k • 🔱 105 • 22h ago
 
 ---
 
