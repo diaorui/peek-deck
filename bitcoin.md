@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T04:47:51.231259+00:00'
+updated: '2025-12-24T05:13:08.121341+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 04:47 UTC  
+**Last Updated:** December 24, 2025 at 05:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,289.65
+### $87,102.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.5%  
-**30d:** -0.2%  
-**90d:** -20.3%  
+**24h:** +0.0%  
+**7d:** +2.4%  
+**30d:** -0.3%  
+**90d:** -20.4%  
 **1y:** -12.0%  
 
 ---
@@ -87,7 +87,7 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 **[Sorry bro](https://www.reddit.com/r/Bitcoin/comments/1pu8sz5/sorry_bro/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,13 +95,13 @@ Bitcoin is currently in a corrective phase, trading within the $86K–$90K range
 
 SLAYER RIDING THE BEAR #BITCOIN
 
-2h ago
+3h ago
 
 ---
 
 **[Cats getting intrest in bitcoin 💥](https://www.reddit.com/r/Bitcoin/comments/1pue5xd/cats_getting_intrest_in_bitcoin/)**
 
-33m ago
+58m ago
 
 ---
 
@@ -123,7 +123,7 @@ This is a chart of Bitcoin price on christmas day from 2010 till date and is ama
 
 The implications of the growing "digital credit" market are immense. Saylor boy alluded to a $30 trillion market. United States national debt clocks in at 38.375 trillion USD shitcoins today. I'm not saying they're connected. My mind just races thinking about possibilities.
 
-14h ago
+15h ago
 
 ---
 
@@ -139,7 +139,7 @@ Do you guys go all in on bitcoin or diversify into stocks, gold and etfs?
 
 2025 is sending a weird signal: gold is up about ~71% YoY, copper is up ~35% YoY, and Bitcoin is down ~6% YTD.[tradingeconomics +2] Gold is being treated as a hedge against debt/fiscal stress, while copper is getting bought as a bet on electrification and infrastructure demand.[tradingeconomics +1] Bitcoin sits in the middle—sold as “digital gold,” but not really embraced by sovereign buyers, and not priced like a core AI/infrastructure input either.[gold +1] So the question is whether BTC is being rejected, or just lagging before a later move.
 
-18h ago
+19h ago
 
 ---
 
@@ -165,13 +165,13 @@ CoinDesk • 12h ago
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqe8QyH8kyNhBqqgTo8XaQ7FsY2nYc5lqbTyFs2631SlosTDeu_4nx4l&gaa_ts=694b691f&gaa_sig=uf0ZDu9QwkKR2x7VNoQwCsz-S3ejwJ_XLH7kXXcviPJWpX_DRLDL4gNb7UeXkdMgeV49I-QaqHczrOQhGawBAQ%3D%3D)**
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-The Wall Street Journal • 1h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -179,21 +179,23 @@ The Wall Street Journal • 1h ago
 
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Investopedia • 7h ago
+Investopedia • 8h ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
 
-Investor's Business Daily • 17h ago
+The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Saylor’s Strategy Raises Cash Reserve, Pauses Bitcoin Purchases](https://www.bloomberg.com/news/articles/2025-12-22/saylor-s-strategy-raises-cash-reserve-pauses-bitcoin-purchases)**
+**[The Best Performing Bitcoin and Crypto Stocks of 2025](https://finance.yahoo.com/news/best-performing-bitcoin-crypto-stocks-210103627.html)**
 
-Michael Saylor’s Strategy Inc. bolstered its cash reserve to $2.19 billion and paused purchases of Bitcoin over the past week as the largest digital asset treasury company appears to be settling in for a long crypto winter.
+Crypto-linked stocks had a banner start to 2025, then spent the rest of the year learning that narrative alone doesn’t compound.
 
-Bloomberg.com • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -213,17 +215,17 @@ WCVB • 1d ago
 
 ---
 
-**[Declining mining activity flashes 'bullish signal' for bitcoin price, VanEck says](https://www.theblock.co/post/383590/bitcoin-mining-hashrate-drop-bullish-vaneck)**
+**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
 
-The Block • 22h ago
+Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
+
+Inquirer.com • 9h ago
 
 ---
 
-**[Texas town battles nonstop noise from bitcoin mine](https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfu1h-1VV8KzNNMhsPdAG_OBQVTUKNf-P6Olf5uAu5BfcZVso1wZreX&gaa_ts=694b79d1&gaa_sig=AJCDIPISS79bVQlAZ4kDM9IgZwNxXotw2m9_3KI0R2zr9FA11Mjs4b1WziEkraceiuLjy5Z3vEu-xnCgmQeDQA%3D%3D)**
 
-A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives.
-
-Al Jazeera • 1d ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -281,7 +283,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 4h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 5h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -295,7 +297,7 @@ Discover Video Games on Steam with Few Reviews. Explore and uncover hidden gems 
 
 **[Ask HN: Is there a market for buying/selling Substack publications?](https://news.ycombinator.com/item?id=46363089)**
 
-⬆️ 1 • 💬 0 • 21h ago
+⬆️ 1 • 💬 0 • 22h ago
 
 ---
 
@@ -319,7 +321,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 42K • 👍 2K • 💬 236 • ⏱️ 20:46 • 10h ago
+👁️ 42K • 👍 2K • 💬 236 • ⏱️ 20:46 • 11h ago
 
 ---
 
@@ -329,7 +331,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 975 • 💬 81 • ⏱️ 13:26 • 6h ago
+👁️ 12K • 👍 975 • 💬 81 • ⏱️ 13:26 • 7h ago
 
 ---
 
@@ -359,7 +361,7 @@ BitMEX Co-founder and Maelstrom CIO, Arthur Hayes has been named one of CoinDesk
 
 📺 CoinDesk
 
-👁️ 3K • 👍 98 • 💬 16 • ⏱️ 17:16 • 12h ago
+👁️ 3K • 👍 98 • 💬 16 • ⏱️ 17:16 • 13h ago
 
 ---
 
@@ -389,7 +391,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 837 • 💬 102 • ⏱️ 7:14 • 11h ago
+👁️ 9K • 👍 837 • 💬 102 • ⏱️ 7:14 • 12h ago
 
 ---
 

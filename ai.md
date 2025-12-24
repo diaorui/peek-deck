@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T04:47:51.222821+00:00'
+updated: '2025-12-24T05:13:08.112910+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 04:47 UTC  
+**Last Updated:** December 24, 2025 at 05:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 10h ago
+🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
 
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 10h ago
+🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 11h ago
 
 ---
 
@@ -71,7 +71,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Ahead of Intel Panther Lake laptops expected to debut next month at CES in Las Vegas, the Linux driver support for the next-gen '50xx' NPU of Panther Lake is now complete
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-Panther-Lake-NPU-Firmware) • 11h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI Solutions 87 says on its website its AI agents “deliver rapid acceleration 
 
 Before you all say go for the 5060TI hear me out. I play games occasionally, watch videos streaming, and basic stuff. My 67xt is serving me well except for one thing, AI. Now I use backyardAI a lot for my stories. I am getting about 15-20 tokens/sec on a 9gb LLM I am also wanting to try Stable Diffusion one day to generate photos and other things I dont know about yet. I attn span is as long as my pinky so I dont know how long I am going to be into this I can sell my 6700xt for about $240 and grab the 5060Ti 16gb PNY for $480 after tax. Is it really necessary?? Is AMD support going to catch up soon as far as software support for AI generation? Is there going to be progress? Happy Holidays
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Uh oh…
 
 There is a scenario I have been thinking about. Wondering what your feedback would be. If you’re like me and you’re paying attention to the political situation in America, it has become clear that electoral politics isn’t going to produce the kind of changes necessary for Americans to thrive going forward. Wages need to go up and costs need to go down. Across the board, people are struggling to survive and it’s only getting worse. Who here thinks that the current politicians or any potential future offerings from the Democrats or Republicans are going to be able to reduce costs and increase wages? Or deal with the consequences of environmental damage caused by pollution? Even if you consider more desperate, awful methods like what Luigi did; that didn’t really help bring medical costs down. Maybe for a day or so here or there but that kind of action won’t bring about substantive changes. Not saying it would be justified if it did, but either way it won’t. The only thing that might work is if Americans en masse decided to shut the country down and stop working until certain demands for better living conditions were met - via a general strike. Getting to the point where one could be organized is another matter, but if, in the highly unlikely event one could be organized, changes to the status quo would become much more likely. Especially if the police joined in. Once AI has replaced millions of jobs, or nearly every job, that will no longer be possible. I sometimes wonder if the only thing “the powers that be“ really are worried about is the possibility of a general strike. once it’s removed, they can lock in a new status quo that erases the old social contract, and create a permanent world of haves and have-nots run by a few wealthy families who have the power to make sure their status never changes. What do you think?
 
-18h ago
+19h ago
 
 ---
 
@@ -111,7 +111,7 @@ There is a scenario I have been thinking about. Wondering what your feedback wou
 
 OpenAI + Google partner with US government Amazon rumored $10B OpenAI investment ChatGPT Images vs Nano Banana A collection of AI Updates! 🧵 1. OpenAI and Google DeepMind Partner with US Department of Energy Expanding collaboration on Genesis Mission to accelerate scientific discovery. Providing National Labs with AI tools for physics, chemistry research. Goal: compress discovery time from years to days. Working together for a better future. 2. Google Releases T5Gemma 2 Encoder-Decoder Model Next generation built on Gemma 3. Features multimodality, extended long context, 140+ languages out of the box, and architectural improvements for efficiency. Advanced language model with multilingual capabilities. 3. Gamma Integrates Nano Banana Pro for Presentations Create presentations with Nano Banana Pro or use Studio Mode for cinematic slides. Available to all Gamma users through end of year. Nano Banana Pro HD (4k edition) available to Ultra users. AI-powered presentation design now available. 4. OpenAI Adds Personalization Controls to ChatGPT Adjust specific characteristics like warmth, enthusiasm, and emoji use. Available in Personalization settings. Addresses user complaints about excessive emoji usage. ChatGPT now customizable to user preferences. 5. Cursor Acquires Graphite Code Review Platform Used by hundreds of thousands of engineers at top organizations. Will continue operating independently. Plans for tighter integrations between local development and pull requests, smarter code review, and more radical features coming. AI coding meets collaborative code review. 6. Amazon Reportedly in Talks to Invest $10B+ in OpenAI Per Financial Times report. Would be major investment from tech giant into leading AI company. Rumored mega-deal could reshape AI landscape. 7. Lovable Raises $330M Series B AI coding platform now used by world's largest enterprises. Apps built with Lovable received 500M+ visits in last 6 months. Team of 120 people. Trusted by millions to build apps with their own data. Major funding for no-code AI development platform. 8. Gemini Now Available in Google Drive Mobile Ask questions about files, summarize entire folders, and get quick facts from your phone. Available on iOS and Android apps. AI file management comes to mobile devices. 9. OpenAI Launches ChatGPT Images with New Generation Model Stronger instruction following, precise editing, detail preservation, 4x faster than before. Available now in ChatGPT for all users and in API as GPT Image 1.5. Major image generation upgrade across all tiers. 10. Gemini Adds Drawing and Annotation for Image Edits Tell Gemini exactly where and how to apply edits by drawing on or annotating images directly in app. Makes it easier to get precise final results with Nano Banana. Visual prompting for image generation now available. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-13h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 14h ago
 
 The high priests of Silicon Valley and Wall Street are beginning to acknowledge the excesses of Big Tech valuations
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
@@ -145,15 +145,7 @@ Financial Times • 23h ago
 
 The US economy is pumped up on tech-bro vanity. The inevitable correction should prompt a global conversation, says Guardian columnist Rafael Behr
 
-The Guardian • 11h ago
-
----
-
-**[This ex-doctor faced ‘incredible burnout’ and left medicine to build an AI tool – Now, it’s worth over $460 million](https://www.cnbc.com/2025/12/24/he-left-medicine-to-build-an-ai-tool-now-its-worth-460-million.html)**
-
-Thomas Kelly, 33, left medicine to build an AI tool to help doctors with their heavy workloads. Today, his company is worth over $460 million.
-
-CNBC • 2h ago
+The Guardian • 12h ago
 
 ---
 
@@ -171,23 +163,33 @@ The Japan Times • 22h ago
 
 ---
 
-**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqdxyq7mQGn4iVwouZhDxkWXcjhToGoZYGprxOVpLC1EDlHAEzwgle5L&gaa_ts=694b694e&gaa_sig=7mMjxUxgjtCFhMREOm6jZghPRy-MUW8C4hPHalkqdR40qAr7dPK8yUDycJPaZQ6_-PK9bvWnqZl-ASjneo2Bpw%3D%3D)**
+**[China Is Worried AI Threatens Party Rule—and Is Trying to Tame It](https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d?gaa_at=eafs&gaa_n=AWEtsqcIdnAg6GOI-Luwk9ZPcQc0pXxgCOYO5d7MufIvp3kv_uyVom0mX7kM&gaa_ts=694b79bc&gaa_sig=w8Pua9cCO2ZuJRaOwnYN-4oah1MA_wewCoGOeNuo0XBw72ZdGJ0yEE9Lurf-U8EhYAwi9_3VVjsDHKtctnEivw%3D%3D)**
 
-The Wall Street Journal • 47m ago
-
----
-
-**[Her daughter was unraveling, and she didn’t know why. Then she found the AI chat logs.](https://www.washingtonpost.com/lifestyle/2025/12/23/children-teens-ai-chatbot-companion/)**
-
-The Washington Post • 10h ago
+The Wall Street Journal • 1h ago
 
 ---
 
-**[Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled](https://abcnews.go.com/US/wireStory/boys-school-shared-ai-generated-nude-images-after-128611202)**
+**[Marketers are keen to use generative AI in ad campaigns, but hidden costs lurk](https://digiday.com/marketing/marketers-are-keen-to-use-generative-ai-in-ad-campaigns-but-hidden-costs-lurk/)**
 
-A 13-year-old girl at a Louisiana middle school got into a fight with classmates who were sharing AI-generated nude images of her
+Marketers across the industry want to use AI to cut down on time spent in creative production. It's not so simple in practice.
 
-ABC News • 1d ago
+Digiday • 11m ago
+
+---
+
+**[Rebellions AI Puts Together An HBM And Arm Alliance To Take On Nvidia](https://www.nextplatform.com/2025/12/23/rebellions-ai-puts-together-an-hbm-and-arm-alliance-to-take-on-nvidia/)**
+
+The number of AI inference chip startups in the world is gross – literally gross, as in a dozen dozens. But there is only one that is funded by two of the
+
+The Next Platform • 9h ago
+
+---
+
+**[Where Will Nvidia Stock Be in 10 Years?](https://www.fool.com/investing/2025/12/23/where-will-nvidia-stock-be-in-10-years/)**
+
+Generative AI is still booming. But what comes next?
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -278,7 +280,7 @@ This results in the somewhat unintuitive combination of a technology that can be
 
 But perhaps this can be resolved by the realization that while cleverness and intelligence are somewhat correlated traits for humans, they are much more decoupled for AI tools (which are often optimized for cleverness), and viewing the current generation of such tools primarily as a stochastic generator of sometimes clever - and often useful - thoughts and outputs may be a more productive perspective when trying to use them to solve difficult problems.
 
-⬆️ 136 • 💬 112 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
+⬆️ 136 • 💬 112 • 3d ago • [Mathstodon](https://mathstodon.xyz/@tao/115722360006034040)
 
 ---
 
@@ -302,7 +304,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 341K • 👍 13K • 💬 3K • ⏱️ 19:40 • 14h ago
+👁️ 341K • 👍 13K • 💬 3K • ⏱️ 19:40 • 15h ago
 
 ---
 
@@ -530,7 +532,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 53 • 💬 2 • ⭐ 95 • 4d ago
+▲ 55 • 💬 2 • ⭐ 95 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
@@ -650,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.1k • 🔱 3.0k • 1d ago
+⭐ 19.1k • 🔱 3.0k • 2d ago
 
 ---
 
@@ -660,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.0k • 🔱 680 • 1h ago
+⭐ 6.1k • 🔱 680 • 2h ago
 
 ---
 
@@ -670,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 389 • 9h ago
+⭐ 3.1k • 🔱 395 • 9h ago
 
 ---
 
@@ -680,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.6k • 🔱 190 • 11h ago
+⭐ 2.6k • 🔱 190 • 12h ago
 
 ---
 
@@ -720,7 +722,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 971 • 🔱 92 • 1d ago
+⭐ 973 • 🔱 92 • 1d ago
 
 ---
 
@@ -740,7 +742,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 804 • 🔱 66 • 20d ago
+⭐ 807 • 🔱 66 • 20d ago
 
 ---
 

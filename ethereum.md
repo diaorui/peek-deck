@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T04:47:51.237235+00:00'
+updated: '2025-12-24T05:13:08.127393+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 04:47 UTC  
+**Last Updated:** December 24, 2025 at 05:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +4.3%  
-**30d:** -0.5%  
-**90d:** -26.9%  
-**1y:** -15.8%  
+**24h:** -0.8%  
+**7d:** +4.1%  
+**30d:** -0.8%  
+**90d:** -27.0%  
+**1y:** -16.0%  
 
 ---
 
@@ -80,7 +80,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -150,17 +150,11 @@ why tf is the biggest post-trade player picking a private-by-default network ins
 
 ## Google News: "ethereum"
 
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 12h ago
-
----
-
 **[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -169,6 +163,12 @@ Decrypt • 14h ago
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
 The Motley Fool • 1d ago
+
+---
+
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+
+The Block • 13h ago
 
 ---
 
@@ -182,21 +182,13 @@ CCN.com • 15h ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
 
-The Block • 21h ago
-
----
-
-**[Ethereum treasury news: ETHZilla (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
-
-This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
-
-CoinDesk • 1d ago
+The Block • 22h ago
 
 ---
 
@@ -208,17 +200,25 @@ TradingView — Track All Markets • 15h ago
 
 ---
 
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+**[Ethereum treasury news: ETHZilla (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
 
-TipRanks • 12h ago
+This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
+
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+TipRanks • 13h ago
 
-CryptoSlate • 13h ago
+---
+
+**[Ethereum Price is Overheated Due to New Holders Hitting 5-Month High](https://finance.yahoo.com/news/ethereum-price-overheated-due-holders-013000574.html)**
+
+Ethereum price risks overheating as new holder growth hits a five-month high while on-chain activity lags behind valuation.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 872 • 👍 36 • 💬 4 • ⏱️ 5:30 • 18h ago
+👁️ 872 • 👍 36 • 💬 4 • ⏱️ 5:30 • 19h ago
 
 ---
 
@@ -252,7 +252,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 95 • 💬 310 • ⏱️ 14:58 • 22h ago
+👁️ 3K • 👍 95 • 💬 310 • ⏱️ 14:58 • 23h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 2 • ⏱️ 4:22 • 12h ago
+👁️ 2K • 👍 138 • 💬 2 • ⏱️ 4:22 • 13h ago
 
 ---
 
@@ -302,7 +302,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 403 • 💬 22 • ⏱️ 14:56 • 17h ago
+👁️ 7K • 👍 403 • 💬 22 • ⏱️ 14:56 • 18h ago
 
 ---
 
@@ -312,7 +312,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 292 • 👍 18 • 💬 6 • ⏱️ 7:44 • 10h ago
+👁️ 292 • 👍 18 • 💬 6 • ⏱️ 7:44 • 11h ago
 
 ---
 

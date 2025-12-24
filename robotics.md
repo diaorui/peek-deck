@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T04:47:51.240440+00:00'
+updated: '2025-12-24T05:13:08.130664+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 04:47 UTC  
+**Last Updated:** December 24, 2025 at 05:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
 
-16h ago
+17h ago
 
 ---
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ Researchers at EPFL’s CREATE Lab are now repurposing langoustine exoskeletons 
 
 The great revelation I had at the beginning of my robotics career (circa 1982) was that roboticists were loving robots to death. “General-purpose” was the watchword of the day and most roboticists aimed to achieve it by lovingly lashing as much technology onto their platforms as they could. The result was no-purpose robots. In controlled situations designers could conduct cool demonstrations but their robots offered no real-world utility, and none succeeded in the marketplace. The Roomba team (I was a member) stood that conventional idea on its head. We deliberately built a robot that had just one function and we stripped out every nonessential bit of technology so we could achieve a price comparable to manual vacuum cleaners. That strategy worked pretty well. Today there seems to be a great resurgence in the quest for general-purpose robots. This time it’s different, or so enthusiasts say, because of AI. But to my ancient sensibilities, focusing on technology and leaving the actual tasks to AI magic sets alarm bells ringing. The critical question isn’t whether a humanoid robot can perform a particular task or set of tasks. Rather, it’s what solution or set of solutions will the marketplace reward? When thinking (and investment) is limited to the solution space of humanoids, creators may find themselves blindsided by bespoke robots or multi-purpose robots that don’t resemble humans. I’m wondering how current practitioners in the field see things. Should humanoids be receiving the lion’s share of effort and cash or do you think their chief talent their ability to seduce money from investors?
 
-6h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ I've been working on a desktop app called Artifex for generating robot descripti
 
 **[Resources to get ready for an Undergraduate Researcher Interview](https://www.reddit.com/r/robotics/comments/1pu4xp0/resources_to_get_ready_for_an_undergraduate/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -118,14 +118,6 @@ hyundai.com • 1d ago
 
 ---
 
-**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
-
-Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
-
-CnEVPost • 1d ago
-
----
-
 **[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
 Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
@@ -134,17 +126,25 @@ Good Morning Wilton • 2d ago
 
 ---
 
+**[Eve Energy breaks ground on sodium battery headquarters and robotics center](https://cnevpost.com/2025/12/23/eve-energy-breaks-ground-sodium-battery-headquarters-robotics-center/)**
+
+Eve Energy will invest about RMB 1 billion ($140 million) in this sodium-ion battery project, with an annual production capacity planned at 2 GWh.
+
+CnEVPost • 1d ago
+
+---
+
 **[Robotics in review: Editors look back at 2025](https://www.therobotreport.com/robotics-in-review-editors-look-back-at-2025/)**
 
 The editorial team reviews 2025’s top robotics stories, including iRobot’s bankruptcy, the humanoid boom, and Waymo’s scaling.
 
-The Robot Report • 8h ago
+The Robot Report • 9h ago
 
 ---
 
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
-Phys.org • 18h ago
+Phys.org • 19h ago
 
 ---
 
@@ -178,11 +178,11 @@ Reuters • 1d ago
 
 ---
 
-**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
+**[European firm to deploy humanoid robots in semiconductor production for first time](https://interestingengineering.com/ai-robotics/humanoid-robots-to-join-chip-production-factories)**
 
-Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+Swiss semiconductor firm STMicroelectronics has signed an agreement with Oversonic Robotics to deploy cognitive robots in factories.
 
-Yahoo Finance • 1d ago
+Interesting Engineering • 16h ago
 
 ---
 
@@ -236,7 +236,7 @@ ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #ha
 
 📺 Ai BOOF
 
-👁️ 21K • 👍 241 • 💬 4 • ⏱️ 0:11 • 19h ago
+👁️ 21K • 👍 241 • 💬 4 • ⏱️ 0:11 • 20h ago
 
 ---
 
