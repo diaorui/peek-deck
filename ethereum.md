@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-24T13:23:01.426244+00:00'
+updated: '2025-12-24T13:47:58.372754+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 13:23 UTC  
+**Last Updated:** December 24, 2025 at 13:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,916.90
+### $2,919.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +3.9%  
+**24h:** +0.7%  
+**7d:** +4.0%  
 **30d:** -0.9%  
-**90d:** -27.2%  
-**1y:** -16.2%  
+**90d:** -27.1%  
+**1y:** -16.1%  
 
 ---
 
@@ -88,7 +88,7 @@ This branch contains a rewrite of some core features of Echidna to transform wor
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 19h ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 20h ago
 
 ---
 
@@ -272,7 +272,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Bloomberg Television
 
-👁️ 4K • 👍 80 • 💬 68 • ⏱️ 22:51 • 18h ago
+👁️ 4K • 👍 80 • 💬 68 • ⏱️ 22:51 • 19h ago
 
 ---
 
@@ -292,7 +292,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 REKHA MAHESHWARI
 
-👁️ 3K • 👍 1K • 18m ago
+👁️ 3K • 👍 1K • 43m ago
 
 ---
 
@@ -302,7 +302,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 335 • 👍 10 • 💬 4 • ⏱️ 6:09 • 15h ago
+👁️ 335 • 👍 10 • 💬 4 • ⏱️ 6:09 • 16h ago
 
 ---
 
@@ -312,7 +312,7 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 3K • 👍 111 • 💬 60 • ⏱️ 11:00 • 8h ago
+👁️ 3K • 👍 111 • 💬 60 • ⏱️ 11:00 • 9h ago
 
 ---
 

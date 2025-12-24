@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T13:23:01.420180+00:00'
+updated: '2025-12-24T13:47:58.366630+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 13:23 UTC  
+**Last Updated:** December 24, 2025 at 13:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,350.87
+### $87,134.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.3%  
-**30d:** -0.4%  
-**90d:** -20.5%  
-**1y:** -12.2%  
+**24h:** +0.2%  
+**7d:** +2.1%  
+**30d:** -0.6%  
+**90d:** -20.7%  
+**1y:** -12.3%  
 
 ---
 
@@ -105,19 +105,19 @@ SLAYER RIDING THE BEAR #BITCOIN
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pufmol/daily_meme_until_100000/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-47m ago
+1h ago
 
 ---
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-37m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Guardian • 17h ago
 
 VanEck's David Schassler expects gold and bitcoin to rebound sharply as investor demand for hard assets is expected to rise.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -167,13 +167,13 @@ CoinDesk • 16h ago
 
 Bitcoin is missing out on the Christmas cheer.
 
-Bloomberg.com • 26m ago
+Bloomberg.com • 51m ago
 
 ---
 
 **[Bitcoin Is Not Set for a Happy Holidays. Blame Silver and Gold.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-silver-gold-prices-dbe32141?gaa_at=eafs&gaa_n=AWEtsqf90VXoKFqP_Lk0HFBbCtyMDjvoe0uOLt-lu5ImjbSgyFsKTiwdCZeF&gaa_ts=694bec9d&gaa_sig=p6Z6yhFq1FFyJVR8Ozs5_c0aembcZQCSoSEZX6DoYmgxvEyw-ugdRBbhNRF1mcYAN-2Vgkxxd-UoWHMMKx005g%3D%3D)**
 
-Barron's • 58m ago
+Barron's • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Investopedia • 3h ago
 
 **[What Is Bitcoin’s ‘Cat’ Proposal and Why It Could Change Ordinals Forever](https://www.ccn.com/news/technology/bitcoin-developers-debate-utxo-bloat/)**
 
-CCN.com • 20m ago
+CCN.com • 45m ago
 
 ---
 
@@ -211,13 +211,13 @@ VanEck • 1d ago
 
 Even a small investment in Bitcoin would have delivered incredible returns.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 6h ago
+KRON4 • 7h ago
 
 ---
 
@@ -251,7 +251,7 @@ ZetaCrush provides world class benchmarking for leading AI models including Gemi
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 

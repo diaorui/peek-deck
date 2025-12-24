@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T13:23:01.429481+00:00'
+updated: '2025-12-24T13:47:58.376325+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 13:23 UTC  
+**Last Updated:** December 24, 2025 at 13:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 I think the phopho pro app isnt available in india, are there any alternatives to that, also is there a way to use the phospho teleoperation app in India, or maybe an alternate
 
-36m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ I think the phopho pro app isnt available in india, are there any alternatives t
 
 Hey everyone 👋 I’m experimenting with a small desktop robot, loosely inspired by things like Dasai Mochi—but the goal isn’t just looks. I want it to actually do useful, fun things on your desk. I’m still very early and deliberately not sharing visuals yet. I want feedback on the concept, not the design. Rough idea of what it can do (not final): Show different expressions / moods Play custom sounds (alerts, reactions, reminders) Sensor-based interactions (presence, touch, motion, etc.) Act as a clock / desk companion Simple navigation cues (like next turn, ETA hints if I make it smaller in size and can be used as a keychain or can sit on car dashboard) Phone notifications for calls & apps (glanceable, not annoying) Constraints I’m working with: Target price: ~₹4,000 INR (~$45–50 USD) Small, desk-friendly, low power Not trying to replace a phone or smart speaker More “ambient & expressive” than voice-heavy Would really love your thoughts on: Which of these sound genuinely useful vs just novelty? What would you remove first to keep costs down? At this price, what would you expect — and what would disappoint you? Any cool interaction ideas you wish desk robots did better? Hardware / UX mistakes you’ve seen others make? Would you rather this be hackable/open or polished & closed? I’m not selling anything—just trying to learn from people who’ve built robots, worked with embedded systems, or owned desk gadgets that got boring after a week 😅 If you have opinions (even harsh ones), I’m all ears. And if there’s a better subreddit for this, please let me know! Thanks 🙏
 
-6h ago
+7h ago
 
 ---
 

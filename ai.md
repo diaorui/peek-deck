@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T13:23:01.411106+00:00'
+updated: '2025-12-24T13:47:58.358173+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 13:23 UTC  
+**Last Updated:** December 24, 2025 at 13:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 5h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp.[1] Google Health AI Releases MedASR: a Conformer Based Medical Speech to Text Model for Clinical Dictation.[2] Google Introduces A2UI (Agent-to-User Interface): An Open Sourc Protocol for Agent Driven Interfaces.[3] Deep-learning electronic structure calculations.[4] Sources: [1] https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/ [2] https://www.marktechpost.com/2025/12/23/google-health-ai-releases-medasr-a-conformer-based-medical-speech-to-text-model-for-clinical-dictation/ [3] https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/ [4] https://www.nature.com/articles/s43588-025-00932-4
 
-7h ago
+8h ago
 
 ---
 
@@ -296,7 +296,7 @@ Try Emergent AI today - https://app.emergent.sh/landing/v2/?via=78d236 More from
 
 📺 Futurepedia
 
-👁️ 6K • 👍 213 • 💬 13 • ⏱️ 19:03 • 20h ago
+👁️ 6K • 👍 213 • 💬 13 • ⏱️ 19:03 • 21h ago
 
 ---
 
@@ -316,7 +316,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 46K • 👍 3K • 💬 320 • ⏱️ 33:27 • 19h ago
+👁️ 46K • 👍 3K • 💬 320 • ⏱️ 33:27 • 20h ago
 
 ---
 
@@ -366,7 +366,7 @@ roadto2million #teamriss #elriss #aiteam Ig : @El Riss Tiktok : @el_riss_.
 
 📺 AI El Riss
 
-👁️ 42K • 👍 4K • 💬 187 • ⏱️ 24:36 • 3h ago
+👁️ 42K • 👍 4K • 💬 187 • ⏱️ 24:36 • 4h ago
 
 ---
 
@@ -376,7 +376,7 @@ Woman leaves baby kangaroo with mother kangaroo  #ai #kangaroo #woman.
 
 📺 MindOfPower
 
-👁️ 114K • 👍 4K • 💬 3 • ⏱️ 0:33 • 3h ago
+👁️ 114K • 👍 4K • 💬 3 • ⏱️ 0:33 • 4h ago
 
 ---
 
@@ -605,7 +605,7 @@ SAM Audio, a diffusion transformer-based foundation model, achieves superior per
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 28 • 💬 2 • ⭐ 7,751 • 26d ago
+▲ 28 • 💬 2 • ⭐ 7,799 • 27d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -646,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.2k • 🔱 3.0k • 2d ago
+⭐ 19.2k • 🔱 3.1k • 2d ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.1k • 🔱 689 • 10h ago
+⭐ 6.1k • 🔱 691 • 10h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 414 • 7h ago
+⭐ 3.3k • 🔱 414 • 44m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.7k • 🔱 194 • 44m ago
+⭐ 2.7k • 🔱 194 • 14m ago
 
 ---
 
@@ -686,7 +686,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 377 • 18d ago
+⭐ 2.0k • 🔱 379 • 18d ago
 
 ---
 
@@ -696,7 +696,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 205 • 7h ago
+⭐ 1.3k • 🔱 205 • 8h ago
 
 ---
 
@@ -706,7 +706,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.1k • 🔱 99 • 2d ago
+⭐ 1.1k • 🔱 100 • 2d ago
 
 ---
 
@@ -716,7 +716,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 108 • 1d ago
+⭐ 1.1k • 🔱 109 • 1d ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 859 • 🔱 124 • 6d ago
+⭐ 862 • 🔱 124 • 6d ago
 
 ---
 
