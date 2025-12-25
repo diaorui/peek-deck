@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T22:56:58.461309+00:00'
+updated: '2025-12-25T23:24:43.339459+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 22:56 UTC  
+**Last Updated:** December 25, 2025 at 23:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,921.62
+### $2,919.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -2.6%  
-**30d:** -3.7%  
-**90d:** -27.5%  
-**1y:** -12.8%  
+**24h:** -0.5%  
+**7d:** -2.0%  
+**30d:** -3.1%  
+**90d:** -27.1%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.79B
+**Market Cap:** $352.34B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-41.0%
 
 **All-Time Low:** $0.43
-+676865.9%
++674073.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-10h ago
+11h ago
 
 ---
 
@@ -160,7 +160,7 @@ Crypto Briefing • 2d ago
 
 Ethereum price may rebound as ETF outflows persist while long-term holders strengthen and $2,798 support retest nears potential recovery.
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 6h ago
+ts2.tech • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ ts2.tech • 6h ago
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Block • 2d ago
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-BeInCrypto • 7h ago
+BeInCrypto • 8h ago
 
 ---
 
@@ -214,7 +214,7 @@ BeInCrypto • 7h ago
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
+👁️ 44K • 👍 3K • 💬 458 • ⏱️ 10:51 • 2d ago
 
 ---
 

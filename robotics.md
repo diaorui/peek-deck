@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T22:56:58.464517+00:00'
+updated: '2025-12-25T23:24:43.342526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 22:56 UTC  
+**Last Updated:** December 25, 2025 at 23:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,15 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-11h ago
+12h ago
+
+---
+
+**[I am planning to make a database for Mechatronics & Robotics topics](https://www.reddit.com/r/robotics/comments/1pvoiv9/i_am_planning_to_make_a_database_for_mechatronics/)**
+
+Hello everyone I am an in enrolled mechatronics engineer I want to share what I learn and how others can learn it, and for them to learn and share tutorials as well (creating a learning environment). I initially considered creating a YouTube channel, but I don't see enough engagement. Therefore, I'm considering creating a forum, and I've heard about the XenForo script. I want the platform to be primarily for Arab engineers, given the limited availability of Arabic educational content. So, I'd like to hear your advice and suggestions.
+
+56m ago
 
 ---
 
@@ -88,7 +96,7 @@ Wishing everyone a happy Christmas holiday.
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-7h ago
+8h ago
 
 ---
 
@@ -100,14 +108,6 @@ Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as C
 
 ---
 
-**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
-
-Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
-
-7h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,7 +116,15 @@ Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de 
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 1d ago
+
+---
+
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -128,43 +136,9 @@ Earth.com • 1d ago
 
 ---
 
-**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
-
-: Investment and interest have outpaced technology and society
-
-theregister.com • 9h ago
-
----
-
-**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
-
-Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
-
-South China Morning Post • 1d ago
-
----
-
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
-
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
-
-Interesting Engineering • 2d ago
-
----
-
-**[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
-
-Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
-
-Interesting Engineering • 2d ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -172,19 +146,45 @@ Interesting Engineering • 2d ago
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-New Atlas • 22h ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 2h ago
+New Atlas • 23h ago
 
 ---
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 1d ago
+
+---
+
+**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
+
+Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
+
+Futura, Le média qui explore le monde • 2d ago
+
+---
+
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
+
+The Daily Beast • 2d ago
+
+---
+
+**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
+
+Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+
+Yahoo Finance • 3d ago
+
+---
+
+**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
+
+Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 222 • 💬 38 • ⏱️ 12:08 • 6h ago
+👁️ 4K • 👍 222 • 💬 38 • ⏱️ 12:08 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 30K • 👍 2K • 💬 2K • ⏱️ 9:57 • 13h ago
+👁️ 30K • 👍 2K • 💬 2K • ⏱️ 9:57 • 14h ago
 
 ---
 

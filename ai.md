@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T22:56:58.446861+00:00'
+updated: '2025-12-25T23:24:43.325401+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 22:56 UTC  
+**Last Updated:** December 25, 2025 at 23:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 8h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 9h ago
 
 ---
 
@@ -61,19 +61,11 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
-**[Trump isn't building a Ballroom. He's building an AI Datacenter.](https://www.reddit.com/r/artificial/comments/1pvoczs/trump_isnt_building_a_ballroom_hes_building_an_ai/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/VbJ4ilDvGyc?si=z6VCKG-3NvOefFfv) • 37m ago
-
----
-
 **[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +81,15 @@ Since it’s Christmas, I ended up thinking through a Christmas-themed use case,
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 2h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 3h ago
+
+---
+
+**[Trump isn't building a Ballroom. He's building an AI Datacenter.](https://www.reddit.com/r/artificial/comments/1pvoczs/trump_isnt_building_a_ballroom_hes_building_an_ai/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/VbJ4ilDvGyc?si=z6VCKG-3NvOefFfv) • 1h ago
 
 ---
 
@@ -121,31 +121,43 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 ## Google News: "ai"
 
+**[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
+
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
+
+CNBC • 1d ago
+
+---
+
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+
+The New York Times • 23h ago
+
+---
+
+**[Nvidia Licenses Groq’s AI Technology as Demand for Cutting-Edge Chips Grows](https://www.wsj.com/tech/ai/nvidia-licenses-ai-inference-technology-from-chip-startup-groq-0a405adb?gaa_at=eafs&gaa_n=AWEtsqdh4KRcoXLri7lhH96sKN_8Y5BVte26PNUPu9yqloj_2h2dNNAFe7jz&gaa_ts=694dcb25&gaa_sig=b-fZu-vq00G2UOifiiNAe0jVyTkXNNeca7Xlzv4x1ZG77zA3QJ6l4B0iLfBQkGnOx3rIeVxfhVduV9AGwIW_2A%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
 **[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 11h ago
-
----
-
-**[Monetizers vs manufactures: How the AI market could splinter in 2026](https://www.cnbc.com/2025/12/25/how-the-ai-market-could-splinter-in-2026-.html)**
-
-AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.
-
-CNBC • 17h ago
+Financial Times • 12h ago
 
 ---
 
 **[Takaichi, AI, Corporate Reform Pave Way for Japan Stocks in 2026](https://www.bloomberg.com/news/articles/2025-12-25/takaichi-ai-corporate-reform-pave-way-for-japan-stocks-in-2026)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -159,33 +171,21 @@ blog.google • 2d ago
 
 **[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 8h ago
-
----
-
-**[Gen Z founder on 'AI anxiety' and being pigeonholed as generation shortcut: that's the 'biggest misconception'](https://fortune.com/2025/12/25/gen-z-founder-ai-anxiety-obsolescence-biggest-misconception-shortcut-lazy/)**
-
-"We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
-
-Fortune • 8h ago
+Axios • 9h ago
 
 ---
 
 **[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
 
-Star Tribune • 11h ago
+Star Tribune • 12h ago
 
 ---
 
-**[AI Santa as ICE agent video blasted online as 'disgusting' and 'evil'](https://www.euronews.com/culture/2025/12/25/us-department-of-homeland-security-turns-santa-into-an-ice-agent-in-digusting-ai-video)**
+**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
 
-Euronews.com • 13h ago
+From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
 
----
-
-**[AI Minted More Than 50 New Billionaires In 2025](https://www.forbes.com/sites/aliciapark/2025/12/25/ai-minted-more-than-50-new-billionaires-in-2025/)**
-
-Forbes • 11h ago
+MIT Technology Review • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ Forbes • 11h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 403 • 💬 113 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 404 • 💬 114 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -221,7 +221,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 179 • 💬 99 • 23h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 183 • 💬 107 • 23h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -229,7 +229,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 163 • 💬 96 • 7h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 164 • 💬 100 • 8h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -239,23 +239,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 139 • 💬 118 • 8h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
-
----
-
-**[Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://news.ycombinator.com/item?id=46380730)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-⬆️ 73 • 💬 26 • 22h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
-
----
-
-**[Microsoft denies rewriting Windows 11 in Rust using AI](https://news.ycombinator.com/item?id=46381813)**
-
-Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
-
-⬆️ 66 • 💬 92 • 19h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 154 • 💬 132 • 9h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -263,13 +247,29 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 46 • 💬 4 • 2h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 84 • 💬 25 • 3h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+
+---
+
+**[Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://news.ycombinator.com/item?id=46380730)**
+
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+⬆️ 73 • 💬 26 • 23h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+
+---
+
+**[Microsoft denies rewriting Windows 11 in Rust using AI](https://news.ycombinator.com/item?id=46381813)**
+
+Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
+
+⬆️ 67 • 💬 94 • 19h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 38 • 💬 23 • 18h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 39 • 💬 23 • 19h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -323,7 +323,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 947 • 👍 24 • 💬 3 • ⏱️ 9:46 • 5h ago
+👁️ 947 • 👍 24 • 💬 3 • ⏱️ 9:46 • 6h ago
 
 ---
 
@@ -373,7 +373,7 @@ Monkey Saved a Strawberry Tree from Dying | Emotional AI Story A monkey saved a 
 
 📺 AI Nature Tales
 
-👁️ 2K • 👍 112 • ⏱️ 0:47 • 5h ago
+👁️ 2K • 👍 112 • ⏱️ 0:47 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 880 • 2d ago
+⬇️ 4,163 • ❤️ 882 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 721 • 6d ago
+⬇️ 13,246 • ❤️ 722 • 6d ago
 
 ---
 
@@ -425,7 +425,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,426 • 17d ago
+⬇️ 395,092 • ❤️ 3,427 • 17d ago
 
 ---
 
@@ -459,7 +459,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 303 • 7d ago
+⬇️ 0 • ❤️ 305 • 7d ago
 
 ---
 
@@ -511,7 +511,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 45 • 💬 1 • ⭐ 1,905 • 8d ago
+▲ 45 • 💬 1 • ⭐ 1,958 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -551,7 +551,7 @@ Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy a
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 61,582 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 61,633 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 451 • 1h ago
+⭐ 3.5k • 🔱 451 • 29m ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 208 • 3h ago
+⭐ 3.0k • 🔱 208 • 30m ago
 
 ---
 
@@ -704,7 +704,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 219 • 7h ago
+⭐ 1.3k • 🔱 219 • 8h ago
 
 ---
 
@@ -714,7 +714,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 108 • 13h ago
+⭐ 1.2k • 🔱 108 • 14h ago
 
 ---
 
@@ -734,7 +734,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 914 • 🔱 128 • 8d ago
+⭐ 915 • 🔱 129 • 8d ago
 
 ---
 

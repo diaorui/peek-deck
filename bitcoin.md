@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T22:56:58.455312+00:00'
+updated: '2025-12-25T23:24:43.333753+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 22:56 UTC  
+**Last Updated:** December 25, 2025 at 23:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,397.71
+### $87,589.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.9%  
-**30d:** -3.6%  
-**90d:** -20.3%  
-**1y:** -8.8%  
+**24h:** -0.2%  
+**7d:** -0.7%  
+**30d:** -3.3%  
+**90d:** -20.1%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.24B
+**Market Cap:** $1748.24B
 Rank #1
 
-**Circulating Supply:** 19,967,075 BTC
+**Circulating Supply:** 19,967,103 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.6%
 
 **All-Time Low:** $67.81
-+129354.4%
++128979.8%
 
 ---
 
@@ -109,6 +109,14 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
+**[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
+
+Video cred: clusk
+
+1h ago
+
+---
+
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
 3h ago
@@ -119,15 +127,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-3h ago
-
----
-
-**[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
-
-Video cred: clusk
-
-57m ago
+4h ago
 
 ---
 
@@ -151,13 +151,31 @@ Video cred: clusk
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcrIXVtiFdUuZJx7Ev5bIfC9mI1iW8BZY3o8hTaZa10pI2xHgA0H_Tm&gaa_ts=694dc21a&gaa_sig=B46xSPOfbcgrx2SpAgyOUzL-kE3SS5yZjRoD0SXoJOCjCHI47tg3Jrl69sl4ersbvYc0LRjFPv1u_7XIa4xD0A%3D%3D)**
+**[Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook](https://ts2.tech/en/bitcoin-price-today-dec-25-2025-btc-holds-near-88000-as-etf-outflows-thin-holiday-liquidity-and-a-record-options-expiry-shape-the-outlook/)**
 
-The Wall Street Journal • 1d ago
+Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook - TechStock²
+
+ts2.tech • 5h ago
+
+---
+
+**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
+
+Bitcoin is missing out on the Christmas cheer.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -165,27 +183,25 @@ The Wall Street Journal • 1d ago
 
 In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdjVS6adEpAuwByE2gAK3XtQtmbP88tBSHw0d-iptGyoPOta35Oc7-o&gaa_ts=694dcb26&gaa_sig=JP9vcPrVfiuhaH5VqQD1v5z5bX_Sn9k6iCLQqGdfYvV2hi3MIf_RZa-VJDF8gDlCov4invbB0YNOJc247oF9yg%3D%3D)**
 
-Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
-
-The Motley Fool • 1d ago
+The Wall Street Journal • 1d ago
 
 ---
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 5h ago
+thestreet.com • 6h ago
 
 ---
 
@@ -197,23 +213,11 @@ Investopedia • 2d ago
 
 ---
 
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
-
-KRON4 • 1d ago
-
----
-
 **[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
 KITCO • 23h ago
-
----
-
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
-
-Reuters • 1d ago
 
 ---
 
@@ -237,7 +241,7 @@ Reuters • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 6h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 7h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -299,7 +303,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 2K • 👍 171 • 💬 15 • ⏱️ 4:31 • 2h ago
+👁️ 2K • 👍 171 • 💬 15 • ⏱️ 4:31 • 3h ago
 
 ---
 
@@ -339,7 +343,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 340 • 💬 37 • ⏱️ 7:13 • 22h ago
+👁️ 6K • 👍 340 • 💬 37 • ⏱️ 7:13 • 23h ago
 
 ---
 
@@ -369,7 +373,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
+👁️ 44K • 👍 3K • 💬 458 • ⏱️ 10:51 • 2d ago
 
 ---
 
