@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T13:57:06.661357+00:00'
+updated: '2025-12-25T14:26:26.254409+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 13:57 UTC  
+**Last Updated:** December 25, 2025 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,25 +40,17 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 ---
 
-**[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
-
-Source: https://x.com/M5Stack/status/2003453052276343161?s=20
-
-12h ago
-
----
-
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
 2h ago
 
 ---
 
-**[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
+**[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
 
-Wishing everyone a happy Christmas holiday.
+Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-2h ago
+12h ago
 
 ---
 
@@ -68,11 +60,19 @@ Wishing everyone a happy Christmas holiday.
 
 ---
 
+**[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
+
+Wishing everyone a happy Christmas holiday.
+
+3h ago
+
+---
+
 **[How to write a software for this Delta Robot?](https://www.reddit.com/r/robotics/comments/1pv54zb/how_to_write_a_software_for_this_delta_robot/)**
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-9h ago
+10h ago
 
 ---
 
@@ -81,6 +81,14 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 1d ago
+
+---
+
+**[AgiBot tests before delivering to customers](https://www.reddit.com/r/robotics/comments/1pvdsgy/agibot_tests_before_delivering_to_customers/)**
+
+https://www.youtube.com/live/d17f_5dVW7I?si=USQGlzptSG_OAvI-
+
+35m ago
 
 ---
 
@@ -97,12 +105,6 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 The Speed controller needed to have solder placed on it, as beforehand, the left stick moved in a straight line at channel 1 (left to right motion on the stick), and jolted at channel 2 (up and down motion on the stick), when it should move in a straight line when the stick moves up and down. Now I have added the solder, it spins both when I move the left stick up and down, and left and right, and moves straight only when I move the remote diagonally. Changing Elevation mode hasn’t worked yet. What else should be done for the motion to be as it should? By the way, I have a different robot with the same type of speed controller and remote that doesn’t have these particular problems. So why does this specific issue occur with this controller.
 
 3h ago
-
----
-
-**[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
-
-1d ago
 
 ---
 
@@ -158,29 +160,29 @@ South China Morning Post • 1d ago
 
 ---
 
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+
+Investor's Business Daily • 23h ago
+
+---
+
 **[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
 Tech Xplore • 1d ago
 
 ---
 
-**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
-
-NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
-
-Phoronix • 3d ago
-
----
-
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
-
-Investor's Business Daily • 22h ago
-
----
-
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
 Phys.org • 2d ago
+
+---
+
+**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
+
+Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
+
+Futura, Le média qui explore le monde • 2d ago
 
 ---
 
@@ -274,7 +276,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 6K • 👍 602 • 💬 801 • ⏱️ 9:57 • 4h ago
+👁️ 6K • 👍 602 • 💬 801 • ⏱️ 9:57 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T13:57:06.651979+00:00'
+updated: '2025-12-25T14:26:26.244780+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 13:57 UTC  
+**Last Updated:** December 25, 2025 at 14:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.9%  
-**30d:** -3.5%  
-**90d:** -20.2%  
-**1y:** -8.8%  
+**24h:** +0.7%  
+**7d:** -0.5%  
+**30d:** -3.1%  
+**90d:** -19.9%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.51B
+**Market Cap:** $1748.86B
 Rank #1
 
-**Circulating Supply:** 19,966,906 BTC
+**Circulating Supply:** 19,966,959 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.5%
 
 **All-Time Low:** $67.81
-+128892.8%
++129049.1%
 
 ---
 
@@ -79,19 +79,7 @@ Rank #1
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-5h ago
-
----
-
-**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
-
-11h ago
-
----
-
-**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
-
-19h ago
+6h ago
 
 ---
 
@@ -101,11 +89,31 @@ Rank #1
 
 ---
 
+**[🇺🇸 SENATOR LUMMIS SAID ENCOURAGE PEOPLE TO SAVE $BTC FOR THEIR RETIREMENT AND FUTURE](https://www.reddit.com/r/Bitcoin/comments/1pvdjg5/senator_lummis_said_encourage_people_to_save_btc/)**
+
+Bitcoin #BTC #Crypto #Cryptocurrency #Retirement #Investing #FinancialFreedom #HODL #BitcoinForFuture #CryptoInvesting #BTCInvestment #Blockchain
+
+49m ago
+
+---
+
 **[india just printed $32 billion out of thin air.](https://www.reddit.com/r/Bitcoin/comments/1pvcn4j/india_just_printed_32_billion_out_of_thin_air/)**
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
 1h ago
+
+---
+
+**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
+
+19h ago
+
+---
+
+**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
+
+12h ago
 
 ---
 
@@ -121,13 +129,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
 
-8h ago
-
----
-
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
-
-12h ago
+9h ago
 
 ---
 
@@ -139,9 +141,9 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 ---
 
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-1d ago
+13h ago
 
 ---
 
@@ -149,11 +151,11 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 ## Google News: "bitcoin"
 
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 9h ago
+CoinDesk • 24m ago
 
 ---
 
@@ -165,23 +167,9 @@ The Motley Fool • 18h ago
 
 ---
 
-**[Crypto News Today: Latest Updates for 25 Dec 2025, Bitcoin Hovers at $87.4k as Metaplanet Wins Approval for Ambitious BTC Accumulation Plan](https://finance.yahoo.com/news/crypto-news-today-latest-updates-113037464.html)**
-
-Bitcoin has clearly endured a challenging 2025. It fell short of the bullish expectations that dominated the market sentiment at the same time last year. However, the world’s leading asset management firm, VanEck, issued a rather optimistic forecast for 2026. Is there a case for a 2026 comeback? According to ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeVA_MgwCwNXlu4l13OcTpkDUHkRH3ROrO2KEt_me4_Q4qBcQl1Nvcv&gaa_ts=694d4346&gaa_sig=h3jlXqxkQKUbmfjlUiDlUwhngsvrv85s0RhnMKLBgDgQMt0U9QENiV_PzUElMhkvZ2nDWj0kX0cn07ijR_wMZA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqc1aoZnCGZ2XsY7qCHLzr6rRdapkNpy9J0i1pvYgZLiemI37g_Oj4yL&gaa_ts=694d4cfd&gaa_sig=qJ6OvnivCdSuL4Vyr9U9u8-Al61Cv0WK-zGzXMu1evhKnJiaeQuxbZHtKAU5Iyee0qVD6ahTU2OOCmhnIxIzmQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Bitcoin or Coal: How Getting Coal In Your Stocking This Year Beat Getting Crypto](https://www.ccn.com/news/crypto/bitcoin-coal-getting-coal-in-stocking-this-year-beat-crypto/)**
-
-CCN.com • 54m ago
 
 ---
 
@@ -193,23 +181,23 @@ Investopedia • 1d ago
 
 ---
 
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 19m ago
+
+---
+
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
 Reuters • 23h ago
 
 ---
 
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
 
-KRON4 • 1d ago
+Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
 
----
-
-**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 17h ago
+Inquirer.com • 1d ago
 
 ---
 
@@ -219,13 +207,27 @@ Investor's Business Daily • 2d ago
 
 ---
 
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 1d ago
+
+---
+
+**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
+
+Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
+
+VanEck • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 23h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -261,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 81 • 💬 36 • 21h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 81 • 💬 36 • 22h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -291,7 +293,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 183 • ⏱️ 37:34 • 16h ago
+👁️ 32K • 👍 2K • 💬 183 • ⏱️ 37:34 • 17h ago
 
 ---
 
@@ -311,7 +313,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 278 • 💬 34 • ⏱️ 7:13 • 13h ago
+👁️ 5K • 👍 278 • 💬 34 • ⏱️ 7:13 • 14h ago
 
 ---
 
@@ -371,7 +373,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 28K • 👍 3K • 💬 207 • ⏱️ 19:10 • 16h ago
+👁️ 28K • 👍 3K • 💬 207 • ⏱️ 19:10 • 17h ago
 
 ---
 

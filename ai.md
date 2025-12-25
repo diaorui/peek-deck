@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T13:57:06.643597+00:00'
+updated: '2025-12-25T14:26:26.236074+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 13:57 UTC  
+**Last Updated:** December 25, 2025 at 14:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[US military adds Elon Musk’s controversial Grok to its ‘AI arsenal’](https://www.reddit.com/r/artificial/comments/1pve6qv/us_military_adds_elon_musks_controversial_grok_to/)**
+
+The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
+
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 14m ago
+
+---
+
 **[Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record, according to Alex Davis, CEO of Disruptive, which led the startup’s latest financing round in September.](https://www.reddit.com/r/artificial/comments/1pv3jlg/nvidia_buying_ai_chip_startup_groqs_assets_for/)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
@@ -49,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +103,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 I cant find a single thing it does better
 
-10h ago
+11h ago
 
 ---
 
@@ -103,15 +111,7 @@ I cant find a single thing it does better
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 20h ago
-
----
-
-**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
-
-Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
-
-1d ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 21h ago
 
 ---
 
@@ -137,7 +137,7 @@ Financial Times • 14h ago
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -151,7 +151,13 @@ The New York Times • 1d ago
 
 Hollywood bet big on generative AI slop in 2025.
 
-The Verge • 57m ago
+The Verge • 1h ago
+
+---
+
+**[China’s AI Controls Contrast With the U.S. Free Market Approach](https://www.tipranks.com/news/chinas-ai-controls-contrast-with-the-u-s-free-market-approach)**
+
+TipRanks • 56m ago
 
 ---
 
@@ -159,21 +165,13 @@ The Verge • 57m ago
 
 Microsoft's one-hour lesson in Bellevue aimed to introduce kids to fast-evolving AI and helping them use it responsibly.
 
-The Seattle Times • 27m ago
+The Seattle Times • 56m ago
 
 ---
 
 **[How should you use AI? Here are tips and tricks on how not to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 54m ago
-
----
-
-**[Amazon adds controversial AI facial recognition to Ring](https://www.foxnews.com/tech/amazon-adds-controversial-ai-facial-recognition-ring)**
-
-Amazon Ring's new facial recognition feature sparks privacy controversy as Electronic Frontier Foundation critics argue the AI upgrade expands surveillance risks.
-
-Fox News • 1h ago
+Axios • 1h ago
 
 ---
 
@@ -185,11 +183,11 @@ blog.google • 1d ago
 
 ---
 
-**[AI's Big Red Button Doesn't Work, And The Reason Is Even More Troubling](https://www.sciencealert.com/ais-big-red-button-doesnt-work-and-the-reason-is-even-more-troubling)**
+**[AI upheaval shows little sign of lessening](https://www.ft.com/content/728b03a4-cef3-4ee9-a421-d681998ef7d8)**
 
-It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
+If the boom continues its blistering pace through 2026, the stresses could start to show
 
-ScienceAlert • 1d ago
+Financial Times • 9h ago
 
 ---
 
@@ -209,7 +207,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 344 • 💬 100 • 20h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 348 • 💬 102 • 20h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -217,7 +215,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 318 • 💬 307 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 318 • 💬 308 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -225,7 +223,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 242 • 💬 251 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 243 • 💬 251 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -241,7 +239,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 137 • 💬 56 • 14h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 139 • 💬 60 • 15h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -255,7 +253,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 61 • 💬 79 • 10h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 62 • 💬 79 • 10h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -263,13 +261,13 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 61 • 💬 15 • 13h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 61 • 💬 15 • 14h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 33 • 💬 17 • 9h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 33 • 💬 18 • 10h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -313,7 +311,7 @@ Grandfather Creates Magical Helicopter Surprise for Cute Baby #ai #cutebaby #kin
 
 📺 ETC BackLol Facts
 
-👁️ 59K • ⏱️ 0:21 • 26m ago
+👁️ 59K • ⏱️ 0:21 • 55m ago
 
 ---
 
@@ -343,7 +341,7 @@ Nandi stops the bus not to harm but to protect #ai #nandi #viral #shorts.
 
 📺 NexoLoop Ai
 
-👁️ 2K • 💬 1 • ⏱️ 0:22 • 55m ago
+👁️ 2K • 💬 1 • ⏱️ 0:22 • 1h ago
 
 ---
 
@@ -387,7 +385,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 859 • 2d ago
+⬇️ 4,163 • ❤️ 860 • 2d ago
 
 ---
 
@@ -411,7 +409,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 28,171 • ❤️ 588 • 6d ago
+⬇️ 28,171 • ❤️ 589 • 6d ago
 
 ---
 
@@ -423,7 +421,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,415 • 16d ago
+⬇️ 395,092 • ❤️ 3,416 • 16d ago
 
 ---
 
@@ -435,7 +433,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 342 • 2d ago
+⬇️ 6,617 • ❤️ 344 • 2d ago
 
 ---
 
@@ -493,7 +491,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 16,751 • ❤️ 442 • 7d ago
+⬇️ 16,751 • ❤️ 443 • 7d ago
 
 ---
 
@@ -652,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 711 • 37m ago
+⭐ 6.3k • 🔱 711 • 1h ago
 
 ---
 
@@ -672,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 206 • 20m ago
+⭐ 3.0k • 🔱 206 • 50m ago
 
 ---
 
@@ -702,7 +700,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 107 • 4h ago
+⭐ 1.2k • 🔱 107 • 5h ago
 
 ---
 
@@ -722,7 +720,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.1k • 🔱 47 • 20h ago
+⭐ 1.1k • 🔱 47 • 21h ago
 
 ---
 
