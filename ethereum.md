@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T14:45:03.528167+00:00'
+updated: '2025-12-25T14:56:02.825819+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 14:45 UTC  
+**Last Updated:** December 25, 2025 at 14:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.0%  
-**30d:** -3.1%  
-**90d:** -27.1%  
-**1y:** -12.2%  
+**24h:** +0.4%  
+**7d:** -1.8%  
+**30d:** -2.9%  
+**90d:** -26.9%  
+**1y:** -12.0%  
 
 ---
 
@@ -166,7 +166,7 @@ Crypto Briefing • 1d ago
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 37m ago
+CCN.com • 48m ago
 
 ---
 
@@ -174,7 +174,7 @@ CCN.com • 37m ago
 
 Venture firm Dragonfly says Ethereum and Solana will share, not fight over, the growing market for tokenized assets, arguing that “you can’t just have one blockchain.” ETH and SOL traded in a tight range after the comments, as both chains already attract heavy real-world asset and stablecoin activity. Behind this ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T14:45:03.522264+00:00'
+updated: '2025-12-25T14:56:02.819778+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 14:45 UTC  
+**Last Updated:** December 25, 2025 at 14:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,907.72
+### $87,710.37
 
 ---
 
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** -0.5%  
 **30d:** -3.1%  
 **90d:** -19.9%  
-**1y:** -8.4%  
+**1y:** -8.5%  
 
 ---
 
@@ -107,7 +107,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
 
-9h ago
+10h ago
 
 ---
 
@@ -155,7 +155,7 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 42m ago
+CoinDesk • 53m ago
 
 ---
 
@@ -183,7 +183,7 @@ Investopedia • 1d ago
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 37m ago
+CCN.com • 48m ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 333 • 💬 67 • ⏱️ 1:12 • 17h ago
+👁️ 14K • 👍 333 • 💬 67 • ⏱️ 1:12 • 18h ago
 
 ---
 
@@ -383,7 +383,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 188 • 💬 102 • ⏱️ 5:52 • 16h ago
+👁️ 4K • 👍 188 • 💬 102 • ⏱️ 5:52 • 17h ago
 
 ---
 

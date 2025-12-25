@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T14:45:03.531331+00:00'
+updated: '2025-12-25T14:56:02.829013+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 14:45 UTC  
+**Last Updated:** December 25, 2025 at 14:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 https://www.youtube.com/live/d17f_5dVW7I?si=USQGlzptSG_OAvI-
 
-54m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://www.youtube.com/live/d17f_5dVW7I?si=USQGlzptSG_OAvI-
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-19h ago
+20h ago
 
 ---
 

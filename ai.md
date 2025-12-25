@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T14:45:03.513865+00:00'
+updated: '2025-12-25T14:56:02.811382+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 14:45 UTC  
+**Last Updated:** December 25, 2025 at 14:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 32m ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 43m ago
 
 ---
 
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 11h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 12h ago
 
 ---
 
@@ -123,7 +123,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -207,7 +207,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 348 • 💬 102 • 20h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 348 • 💬 102 • 21h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -690,7 +690,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 218 • 14m ago
+⭐ 1.3k • 🔱 218 • 25m ago
 
 ---
 
