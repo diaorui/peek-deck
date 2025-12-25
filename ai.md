@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T16:21:00.326102+00:00'
+updated: '2025-12-25T16:46:01.261132+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 16:21 UTC  
+**Last Updated:** December 25, 2025 at 16:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
 
-7m ago
+32m ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Pl
 
 I'm not commenting on whether a high school or not. I'm demonstrating what can be done.... Regardless of what you have or where you've come from.
 
-11m ago
+36m ago
 
 ---
 
@@ -89,7 +89,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 You can share your Al influencers' accounts, and we can discuss how to grow them faster.
 
-40m ago
+1h ago
 
 ---
 
@@ -139,13 +139,13 @@ CNBC • 19h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
 **[How not to use AI](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 5h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 807 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 807 • 💬 469 • 3d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -235,7 +235,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 152 • 💬 78 • 16h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 152 • 💬 78 • 17h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -249,7 +249,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 65 • 💬 83 • 12h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 65 • 💬 83 • 13h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -427,7 +427,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,419 • 16d ago
+⬇️ 395,092 • ❤️ 3,419 • 17d ago
 
 ---
 
@@ -451,7 +451,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,469 • ❤️ 435 • 6d ago
+⬇️ 3,469 • ❤️ 435 • 7d ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 443 • 41m ago
+⭐ 3.5k • 🔱 443 • 1h ago
 
 ---
 

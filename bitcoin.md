@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T16:21:00.334619+00:00'
+updated: '2025-12-25T16:46:01.268634+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 16:21 UTC  
+**Last Updated:** December 25, 2025 at 16:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,280.32
+### $88,412.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +0.3%  
+**24h:** +1.2%  
+**7d:** +0.4%  
 **30d:** -2.3%  
-**90d:** -19.3%  
-**1y:** -7.7%  
+**90d:** -19.2%  
+**1y:** -7.6%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Bitcoin #BTC #Crypto #Cryptocurrency #Retirement #Investing #FinancialFreedom #HODL #BitcoinForFuture #CryptoInvesting #BTCInvestment #Blockchain
 
-2h ago
+3h ago
 
 ---
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-7h ago
+8h ago
 
 ---
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ Bitcoin #BTC #Crypto #Cryptocurrency #Retirement #Investing #FinancialFreedom #H
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -127,13 +127,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-17h ago
+18h ago
 
 ---
 
 **[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -177,7 +177,7 @@ TradingView — Track All Markets • 7h ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -237,7 +237,7 @@ Reuters • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 11h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 12h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -245,7 +245,7 @@ Reuters • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 7m ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 32m ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -267,7 +267,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 81 • 💬 36 • 23h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 81 • 💬 36 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -387,7 +387,7 @@ BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward *W
 
 📺 The Moon Show
 
-👁️ 7K • 👍 594 • 💬 86 • ⏱️ 5:03 • 6h ago
+👁️ 7K • 👍 594 • 💬 86 • ⏱️ 5:03 • 7h ago
 
 ---
 
