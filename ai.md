@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T15:41:38.404238+00:00'
+updated: '2025-12-25T15:53:16.101298+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 15:41 UTC  
+**Last Updated:** December 25, 2025 at 15:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 12h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Financial Times • 16h ago
 
 **[How not to use AI](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Fortune • 1h ago
 
 Tesla's FSD Summon feature, AI technology, and computer vision helped an owner avoid towing and save $400.
 
-Business Insider • 41m ago
+Business Insider • 53m ago
 
 ---
 
@@ -167,7 +167,7 @@ Business Insider • 41m ago
 
 Tracy Bannon's QCon AI NY 2025 talk revealed how the rise of AI agents risks amplifying common architectural failures. She emphasized the distinctions between bots, assistants, and agents, highlighting the need for governance, clear identity controls, and disciplined decision-making to address “agentic debt.” Bannon called for architects to apply foundational principles amid rapid AI adoption.
 
-infoq.com • 29m ago
+infoq.com • 41m ago
 
 ---
 
@@ -207,7 +207,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 353 • 💬 103 • 21h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 353 • 💬 103 • 22h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -265,7 +265,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 **[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
 
-⬆️ 31 • 💬 10 • 22h ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
+⬆️ 31 • 💬 10 • 23h ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 
 ---
 
@@ -505,7 +505,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 38 • 💬 1 • ⭐ 1,905 • 7d ago
+▲ 39 • 💬 1 • ⭐ 1,905 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -586,20 +586,6 @@ A novel framework, Robust-R1, enhances multimodal large language models' robustn
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 212 • 💬 5 • ⭐ 7,847 • 28d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -611,6 +597,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 28 • 💬 2 • ⭐ 7,853 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 212 • 💬 5 • ⭐ 7,877 • 28d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 713 • 2h ago
+⭐ 6.3k • 🔱 714 • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 440 • 3h ago
+⭐ 3.5k • 🔱 443 • 13m ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 206 • 2h ago
+⭐ 3.0k • 🔱 207 • 37m ago
 
 ---
 
@@ -688,7 +688,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 218 • 1h ago
+⭐ 1.3k • 🔱 218 • 35m ago
 
 ---
 
@@ -702,23 +702,23 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 ---
 
-**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
-
-A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
-
-`JavaScript`
-
-⭐ 1.2k • 🔱 119 • 2d ago
-
----
-
 **[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
 
 Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.1k • 🔱 49 • 22h ago
+⭐ 1.2k • 🔱 50 • 22h ago
+
+---
+
+**[journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover)**
+
+A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+
+`JavaScript`
+
+⭐ 1.2k • 🔱 120 • 2d ago
 
 ---
 
@@ -728,7 +728,7 @@ Browser automation for AI agents and humans
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 908 • 🔱 128 • 8d ago
+⭐ 910 • 🔱 128 • 8d ago
 
 ---
 

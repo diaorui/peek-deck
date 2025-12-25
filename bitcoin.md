@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T15:41:38.412870+00:00'
+updated: '2025-12-25T15:53:16.109811+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 15:41 UTC  
+**Last Updated:** December 25, 2025 at 15:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,177.76
+### $88,547.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.0%  
-**30d:** -2.6%  
-**90d:** -19.5%  
-**1y:** -7.9%  
+**24h:** +1.2%  
+**7d:** +0.4%  
+**30d:** -2.2%  
+**90d:** -19.1%  
+**1y:** -7.6%  
 
 ---
 
@@ -101,13 +101,13 @@ Bitcoin #BTC #Crypto #Cryptocurrency #Retirement #Investing #FinancialFreedom #H
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-2h ago
+3h ago
 
 ---
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -241,7 +241,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 10h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 11h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 333 • 💬 67 • ⏱️ 1:12 • 18h ago
+👁️ 14K • 👍 333 • 💬 67 • ⏱️ 1:12 • 19h ago
 
 ---
 
@@ -383,7 +383,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 188 • 💬 102 • ⏱️ 5:52 • 17h ago
+👁️ 4K • 👍 188 • 💬 102 • ⏱️ 5:52 • 18h ago
 
 ---
 

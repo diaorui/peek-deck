@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T15:41:38.422202+00:00'
+updated: '2025-12-25T15:53:16.119181+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 15:41 UTC  
+**Last Updated:** December 25, 2025 at 15:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 https://www.youtube.com/live/d17f_5dVW7I?si=USQGlzptSG_OAvI-
 
-1h ago
+2h ago
 
 ---
 
@@ -132,7 +132,7 @@ New Atlas • 1d ago
 
 These are the top 7 humanoid robot stories on Interesting Engineering in 2025
 
-Interesting Engineering • 43m ago
+Interesting Engineering • 55m ago
 
 ---
 
@@ -234,7 +234,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 59K • 💬 4 • ⏱️ 0:27 • 11h ago
+👁️ 59K • 💬 4 • ⏱️ 0:27 • 12h ago
 
 ---
 
