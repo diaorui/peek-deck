@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T14:26:26.236074+00:00'
+updated: '2025-12-25T14:45:03.513865+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 14:26 UTC  
+**Last Updated:** December 25, 2025 at 14:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 14m ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 32m ago
 
 ---
 
@@ -73,7 +73,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-9h ago
+10h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 17h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Verge • 1h ago
 
 **[China’s AI Controls Contrast With the U.S. Free Market Approach](https://www.tipranks.com/news/chinas-ai-controls-contrast-with-the-u-s-free-market-approach)**
 
-TipRanks • 56m ago
+TipRanks • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ TipRanks • 56m ago
 
 Microsoft's one-hour lesson in Bellevue aimed to introduce kids to fast-evolving AI and helping them use it responsibly.
 
-The Seattle Times • 56m ago
+The Seattle Times • 1h ago
 
 ---
 
@@ -253,7 +253,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 62 • 💬 79 • 10h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 62 • 💬 79 • 11h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -311,7 +311,7 @@ Grandfather Creates Magical Helicopter Surprise for Cute Baby #ai #cutebaby #kin
 
 📺 ETC BackLol Facts
 
-👁️ 59K • ⏱️ 0:21 • 55m ago
+👁️ 59K • ⏱️ 0:21 • 1h ago
 
 ---
 
@@ -507,7 +507,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 37 • 💬 1 • ⭐ 1,905 • 7d ago
+▲ 38 • 💬 1 • ⭐ 1,905 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -551,18 +551,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding](https://huggingface.co/papers/2512.17532)**
-
-*Jiaqi Tang, Jianmin Chen, Wei Wei et al. (10 authors)*
-
-A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
-
-▲ 61 • 💬 2 • ⭐ 154 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -585,6 +573,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 120 • 💬 18 • ⭐ 47,722 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding](https://huggingface.co/papers/2512.17532)**
+
+*Jiaqi Tang, Jianmin Chen, Wei Wei et al. (10 authors)*
+
+A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
+
+▲ 61 • 💬 2 • ⭐ 169 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 711 • 1h ago
+⭐ 6.3k • 🔱 713 • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 438 • 1h ago
+⭐ 3.4k • 🔱 440 • 2h ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 206 • 50m ago
+⭐ 3.0k • 🔱 206 • 1h ago
 
 ---
 
@@ -680,7 +680,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.1k • 🔱 386 • 19d ago
+⭐ 2.1k • 🔱 387 • 19d ago
 
 ---
 
@@ -690,7 +690,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 217 • 1d ago
+⭐ 1.3k • 🔱 218 • 14m ago
 
 ---
 
@@ -700,7 +700,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 107 • 5h ago
+⭐ 1.2k • 🔱 108 • 5h ago
 
 ---
 
@@ -710,7 +710,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 118 • 2d ago
+⭐ 1.2k • 🔱 119 • 2d ago
 
 ---
 
@@ -720,7 +720,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.1k • 🔱 47 • 21h ago
+⭐ 1.1k • 🔱 49 • 21h ago
 
 ---
 
@@ -730,7 +730,7 @@ Browser automation for AI agents and humans
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 906 • 🔱 128 • 7d ago
+⭐ 908 • 🔱 128 • 7d ago
 
 ---
 

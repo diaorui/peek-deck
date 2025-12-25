@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T14:26:26.251047+00:00'
+updated: '2025-12-25T14:45:03.528167+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 14:26 UTC  
+**Last Updated:** December 25, 2025 at 14:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,7 +43,7 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** -1.9%  
+**7d:** -2.0%  
 **30d:** -3.1%  
 **90d:** -27.1%  
 **1y:** -12.2%  
@@ -166,7 +166,7 @@ Crypto Briefing • 1d ago
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 19m ago
+CCN.com • 37m ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 267 • 💬 177 • ⏱️ 19:06 • 21h ago
+👁️ 7K • 👍 267 • 💬 177 • ⏱️ 19:06 • 22h ago
 
 ---
 
@@ -322,7 +322,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 485 • 💬 82 • ⏱️ 13:58 • 9h ago
+👁️ 3K • 👍 485 • 💬 82 • ⏱️ 13:58 • 10h ago
 
 ---
 
