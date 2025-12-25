@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T07:56:32.034928+00:00'
+updated: '2025-12-25T08:34:45.454248+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 07:56 UTC  
+**Last Updated:** December 25, 2025 at 08:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-10h ago
+11h ago
 
 ---
 
@@ -48,19 +48,25 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 ---
 
+**[How to write a software for this Delta Robot?](https://www.reddit.com/r/robotics/comments/1pv54zb/how_to_write_a_software_for_this_delta_robot/)**
+
+All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
+
+4h ago
+
+---
+
+**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
+
+1h ago
+
+---
+
 **[Figure running fully autonomously, no teleop. Helix can interact with people. You can ask it questions and tell it what to do.](https://www.reddit.com/r/robotics/comments/1punrb9/figure_running_fully_autonomously_no_teleop_helix/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 18h ago
-
----
-
-**[How to write a software for this Delta Robot?](https://www.reddit.com/r/robotics/comments/1pv54zb/how_to_write_a_software_for_this_delta_robot/)**
-
-All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
-
-3h ago
 
 ---
 
@@ -82,7 +88,7 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-16h ago
+17h ago
 
 ---
 
@@ -98,15 +104,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Not sure if this is the right place but I thought I'd ask. Does anyone have a URDF for this robot arm: https://www.waveshare.com/robot-arm-for-pi.htm? I thought I'd look around before trying to make one but I haven't found anything yet.
 
-8h ago
-
----
-
-**[Optimizing a PID controller for a self-balancing robot, first time](https://www.reddit.com/r/robotics/comments/1pux135/optimizing_a_pid_controller_for_a_selfbalancing/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 11h ago
+9h ago
 
 ---
 
@@ -118,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -160,19 +158,19 @@ El Adelantado • 2d ago
 
 ---
 
+**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+Interesting Engineering • 19h ago
+
+---
+
 **[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
 
 Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
 
 Interesting Engineering • 1d ago
-
----
-
-**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 18h ago
 
 ---
 
@@ -290,7 +288,7 @@ War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over wh
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 246 • 💬 57 • ⏱️ 16:20 • 17h ago
+👁️ 4K • 👍 246 • 💬 57 • ⏱️ 16:20 • 18h ago
 
 ---
 

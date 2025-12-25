@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T07:56:32.025507+00:00'
+updated: '2025-12-25T08:34:45.444999+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 07:56 UTC  
+**Last Updated:** December 25, 2025 at 08:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.3%  
-**30d:** -3.0%  
-**90d:** -19.8%  
-**1y:** -8.3%  
+**24h:** +0.8%  
+**7d:** -0.6%  
+**30d:** -3.3%  
+**90d:** -20.0%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.84B
+**Market Cap:** $1744.53B
 Rank #1
 
 **Circulating Supply:** 19,966,834 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.7%
 
 **All-Time Low:** $67.81
-+129307.2%
++128783.6%
 
 ---
 
@@ -93,13 +93,13 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-5h ago
+6h ago
 
 ---
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,15 +111,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-6h ago
-
----
-
-**[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
-
-Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
-
-14h ago
+7h ago
 
 ---
 
@@ -131,17 +123,25 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 ---
 
-**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
+**[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
 
-19h ago
+Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
+
+14h ago
 
 ---
 
-**[[Technical] I successfully reconstructed the 80-byte Raw Preimage of the Genesis Block (Block 0)](https://www.reddit.com/r/Bitcoin/comments/1puxm61/technical_i_successfully_reconstructed_the_80byte/)**
+**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
 
-Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
+I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
 
-10h ago
+3h ago
+
+---
+
+**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
+
+19h ago
 
 ---
 
@@ -161,21 +161,21 @@ CoinDesk • 3h ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Bitcoin Bulls Eye Rebound after Elon Musk Predicts US Economic Surge](https://finance.yahoo.com/news/bitcoin-bulls-eye-rebound-elon-064239571.html)**
+
+Bitcoin investors are watching macro signals closely after billionaire Elon Musk said the US economy could enter a period of rapid expansion as soon as late 2026, reviving hopes of another leg higher for the cryptocurrency. Key Takeaways: Elon Musk’s US growth forecast has reignited Bitcoin optimism as traders look ...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 22h ago
-
----
-
-**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
-
-The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
-
-CoinDesk • 59m ago
+The Block • 23h ago
 
 ---
 
@@ -187,9 +187,17 @@ The Motley Fool • 1d ago
 
 ---
 
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+CoinDesk • 1h ago
+
+---
+
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -207,12 +215,6 @@ KRON4 • 1d ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 **[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
 
 Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
@@ -227,7 +229,7 @@ Inquirer.com • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 17h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 18h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -263,7 +265,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 79 • 💬 36 • 15h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 79 • 💬 36 • 16h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -313,7 +315,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 17K • 👍 264 • 💬 179 • ⏱️ 8:19 • 18h ago
+👁️ 17K • 👍 264 • 💬 179 • ⏱️ 8:19 • 19h ago
 
 ---
 
@@ -323,7 +325,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 211 • 💬 44 • ⏱️ 7:13 • 7h ago
+👁️ 3K • 👍 211 • 💬 44 • ⏱️ 7:13 • 8h ago
 
 ---
 
@@ -353,7 +355,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 108 • ⏱️ 37:34 • 10h ago
+👁️ 20K • 👍 1K • 💬 108 • ⏱️ 37:34 • 11h ago
 
 ---
 
@@ -383,7 +385,7 @@ Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the cryp
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 329 • 💬 33 • ⏱️ 58:02 • 15h ago
+👁️ 5K • 👍 329 • 💬 33 • ⏱️ 58:02 • 16h ago
 
 ---
 

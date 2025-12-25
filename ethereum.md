@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T07:56:32.031652+00:00'
+updated: '2025-12-25T08:34:45.451041+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 07:56 UTC  
+**Last Updated:** December 25, 2025 at 08:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,947.37
+### $2,928.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -1.4%  
-**30d:** -2.6%  
-**90d:** -26.7%  
-**1y:** -11.8%  
+**24h:** +0.1%  
+**7d:** -2.0%  
+**30d:** -3.2%  
+**90d:** -27.1%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.67B
+**Market Cap:** $352.51B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.9%
 
 **All-Time Low:** $0.43
-+678628.1%
++674900.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 17h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 18h ago
 
 ---
 
@@ -102,13 +102,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-15h ago
+16h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -184,17 +184,11 @@ The Block • 2d ago
 
 ---
 
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 1d ago
-
----
-
 **[Can Ethereum leap out of its four-year shadow in 2026?](https://www.fxstreet.com/cryptocurrencies/news/ethereum-annual-price-forecast-eth-poised-for-growth-in-2026-amid-regulatory-clarity-and-institutional-adoption-202512241600)**
 
 Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -206,17 +200,23 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Flashes Bearish Bias, Bulls Lose Short-Term Control](https://www.tradingview.com/news/newsbtc:3279429cd094b:0-ethereum-price-flashes-bearish-bias-bulls-lose-short-term-control/)**
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
-
-TradingView — Track All Markets • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+**[Ethereum Fails To Surpass $3,000: Predictions For The Final Days Of The Year](https://www.tradingview.com/news/newsbtc:c6119d173094b:0-ethereum-fails-to-surpass-3-000-predictions-for-the-final-days-of-the-year/)**
 
-TipRanks • 1d ago
+The Ethereum price has struggled to reclaim the critical $3,000 mark for the past 48 hours, raising concerns about potential declines in the cryptocurrency’s value if this essential support level is not regained by the end of the week.Analyst Predicts Further DownsideMarket analyst Ted Pillows poin…
+
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
+
+Binance • 23h ago
 
 ---
 
@@ -230,7 +230,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 103 • 💬 67 • ⏱️ 13:41 • 19h ago
+👁️ 3K • 👍 103 • 💬 67 • ⏱️ 13:41 • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 6 • ⏱️ 3:51 • 17h ago
+👁️ 2K • 👍 108 • 💬 6 • ⏱️ 3:51 • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ One company is folding, the other is doubling down. Is this a warning sign? In t
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 58 • 💬 78 • ⏱️ 13:29 • 7h ago
+👁️ 2K • 👍 58 • 💬 78 • ⏱️ 13:29 • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 254 • 💬 148 • ⏱️ 19:06 • 15h ago
+👁️ 6K • 👍 254 • 💬 148 • ⏱️ 19:06 • 16h ago
 
 ---
 
@@ -310,7 +310,7 @@ These institutions will not stop... the amount of Bitcoin and Ethereum being acc
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 668 • 💬 178 • ⏱️ 17:59 • 22h ago
+👁️ 6K • 👍 668 • 💬 178 • ⏱️ 17:59 • 23h ago
 
 ---
 
