@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T15:24:16.854757+00:00'
+updated: '2025-12-25T15:41:38.404238+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 15:24 UTC  
+**Last Updated:** December 25, 2025 at 15:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 15h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -159,7 +159,7 @@ Fortune • 1h ago
 
 Tesla's FSD Summon feature, AI technology, and computer vision helped an owner avoid towing and save $400.
 
-Business Insider • 24m ago
+Business Insider • 41m ago
 
 ---
 
@@ -167,7 +167,7 @@ Business Insider • 24m ago
 
 Tracy Bannon's QCon AI NY 2025 talk revealed how the rise of AI agents risks amplifying common architectural failures. She emphasized the distinctions between bots, assistants, and agents, highlighting the need for governance, clear identity controls, and disciplined decision-making to address “agentic debt.” Bannon called for architects to apply foundational principles amid rapid AI adoption.
 
-infoq.com • 12m ago
+infoq.com • 29m ago
 
 ---
 
@@ -231,7 +231,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 146 • 💬 65 • 15h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 146 • 💬 65 • 16h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -245,7 +245,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 63 • 💬 83 • 11h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 63 • 💬 83 • 12h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -309,7 +309,7 @@ Grandfather Creates Magical Helicopter Surprise for Cute Baby #ai #cutebaby #kin
 
 📺 ETC BackLol Facts
 
-👁️ 59K • ⏱️ 0:21 • 1h ago
+👁️ 59K • ⏱️ 0:21 • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 440 • 2h ago
+⭐ 3.4k • 🔱 440 • 3h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 206 • 1h ago
+⭐ 3.0k • 🔱 206 • 2h ago
 
 ---
 
@@ -688,7 +688,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 218 • 54m ago
+⭐ 1.3k • 🔱 218 • 1h ago
 
 ---
 

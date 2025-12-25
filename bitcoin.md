@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T15:24:16.863182+00:00'
+updated: '2025-12-25T15:41:38.412870+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 15:24 UTC  
+**Last Updated:** December 25, 2025 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,710.37
+### $88,177.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.4%  
-**30d:** -3.0%  
-**90d:** -19.8%  
-**1y:** -8.3%  
+**24h:** +0.8%  
+**7d:** +0.0%  
+**30d:** -2.6%  
+**90d:** -19.5%  
+**1y:** -7.9%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-6h ago
+7h ago
 
 ---
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Bitcoin #BTC #Crypto #Cryptocurrency #Retirement #Investing #FinancialFreedom #HODL #BitcoinForFuture #CryptoInvesting #BTCInvestment #Blockchain
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -121,13 +121,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-16h ago
+17h ago
 
 ---
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-36m ago
+54m ago
 
 ---
 
@@ -143,7 +143,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 At some point, you stop laughing. And you just nod.
 
-1h ago
+2h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1h ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
