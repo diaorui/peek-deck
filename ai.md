@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T20:54:29.283176+00:00'
+updated: '2025-12-25T21:18:20.830804+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 20:54 UTC  
+**Last Updated:** December 25, 2025 at 21:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 6h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 7h ago
 
 ---
 
@@ -49,15 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 3h ago
-
----
-
-**[Using a Christmas-themed use case to think through agent design 🎄😊](https://www.reddit.com/r/artificial/comments/1pvm2yu/using_a_christmasthemed_use_case_to_think_through/)**
-
-Since it’s Christmas, I ended up thinking through a Christmas-themed use case, mostly as a way to explain how I approach agent design beyond the foundational layer. The theme itself doesn’t matter much. It just gives you a nice mix of: vague, emotional intent (“I just want this sorted”) hard constraints (budget, deadlines) multiple domains at once When I think about designing an agent here, I’m less focused on responses and more on what components are actually required. For example: an analyzer that turns messy input into something structured (e.g., “budget-sensitive,” “family of 5,” “fixed deadline”) a planner that converts that into a concrete workflow (gift planning, reminders, budget tracking) small, focused workers (one that suggests gifts under a price cap, another that tracks cumulative spend) a validator that can say “this doesn’t work” before anything is shown What’s been interesting for me is how much value you get from automating the build of these components, like prompt scaffolding, baseline RAG setup, and eval wiring. It removes a lot of boring glue work while keeping the system structured and easier to trust. What would be your Christmas themed Agent 😁😉 and how would you approach it?
-
-26m ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 4h ago
 
 ---
 
@@ -69,11 +61,19 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
+**[Using a Christmas-themed use case to think through agent design 🎄😊](https://www.reddit.com/r/artificial/comments/1pvm2yu/using_a_christmasthemed_use_case_to_think_through/)**
+
+Since it’s Christmas, I ended up thinking through a Christmas-themed use case, mostly as a way to explain how I approach agent design beyond the foundational layer. The theme itself doesn’t matter much. It just gives you a nice mix of: vague, emotional intent (“I just want this sorted”) hard constraints (budget, deadlines) multiple domains at once When I think about designing an agent here, I’m less focused on responses and more on what components are actually required. For example: an analyzer that turns messy input into something structured (e.g., “budget-sensitive,” “family of 5,” “fixed deadline”) a planner that converts that into a concrete workflow (gift planning, reminders, budget tracking) small, focused workers (one that suggests gifts under a price cap, another that tracks cumulative spend) a validator that can say “this doesn’t work” before anything is shown What’s been interesting for me is how much value you get from automating the build of these components, like prompt scaffolding, baseline RAG setup, and eval wiring. It removes a lot of boring glue work while keeping the system structured and easier to trust. What would be your Christmas themed Agent 😁😉 and how would you approach it?
+
+50m ago
+
+---
+
 **[AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces](https://www.reddit.com/r/artificial/comments/1pvlexa/aipowered_police_body_cameras_once_taboo_get/)**
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 57m ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-23h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
 
-4h ago
+5h ago
 
 ---
 
@@ -129,6 +129,12 @@ CNBC • 1d ago
 
 ---
 
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+
+The New York Times • 21h ago
+
+---
+
 **[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
@@ -137,17 +143,11 @@ Financial Times • 21h ago
 
 ---
 
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
-
-The New York Times • 20h ago
-
----
-
 **[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -161,7 +161,7 @@ blog.google • 2d ago
 
 **[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 1d ago
 
 **[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
 
-Star Tribune • 9h ago
+Star Tribune • 10h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 2d ago
 
 **[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Washington Post • 2h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 392 • 💬 112 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 396 • 💬 113 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -231,7 +231,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 161 • 💬 95 • 5h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 161 • 💬 96 • 6h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 116 • 💬 83 • 6h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 127 • 💬 98 • 6h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -249,7 +249,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 71 • 💬 23 • 20h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 71 • 💬 24 • 21h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -257,7 +257,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 66 • 💬 90 • 17h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 66 • 💬 91 • 17h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -303,7 +303,7 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 131K • 👍 4K • 💬 85 • ⏱️ 10:06 • 7h ago
+👁️ 131K • 👍 4K • 💬 85 • ⏱️ 10:06 • 8h ago
 
 ---
 
@@ -313,7 +313,7 @@ A wave of #AI-powered children's #toys has hit shelves this #holiday season, cla
 
 📺 NBC News
 
-👁️ 10K • 👍 263 • 💬 32 • ⏱️ 2:05 • 7h ago
+👁️ 10K • 👍 263 • 💬 32 • ⏱️ 2:05 • 8h ago
 
 ---
 
@@ -373,7 +373,7 @@ REALISTIC AI CLONE / AI AVATAR VIDEO — Step-by-Step Guide In this video, I sho
 
 📺 Raj Photo Editing and Much More
 
-👁️ 9K • 👍 774 • 💬 42 • ⏱️ 3:50 • 8h ago
+👁️ 9K • 👍 774 • 💬 42 • ⏱️ 3:50 • 9h ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 873 • 2d ago
+⬇️ 4,163 • ❤️ 877 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 718 • 6d ago
+⬇️ 13,246 • ❤️ 719 • 6d ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 452 • 4m ago
+⭐ 3.5k • 🔱 452 • 28m ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 208 • 1h ago
+⭐ 3.0k • 🔱 208 • 2h ago
 
 ---
 
@@ -704,7 +704,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 219 • 5h ago
+⭐ 1.3k • 🔱 219 • 6h ago
 
 ---
 

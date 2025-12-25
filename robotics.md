@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T20:54:29.300766+00:00'
+updated: '2025-12-25T21:18:20.850800+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 20:54 UTC  
+**Last Updated:** December 25, 2025 at 21:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,6 +60,14 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 ---
 
+**[How do I connect my hiwonder somatosensory glove to my hiwonder robotic hand](https://www.reddit.com/r/robotics/comments/1pvlra3/how_do_i_connect_my_hiwonder_somatosensory_glove/)**
+
+I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
+
+1h ago
+
+---
+
 **[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
@@ -68,19 +76,11 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 ---
 
-**[How do I connect my hiwonder somatosensory glove to my hiwonder robotic hand](https://www.reddit.com/r/robotics/comments/1pvlra3/how_do_i_connect_my_hiwonder_somatosensory_glove/)**
-
-I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
-
-41m ago
-
----
-
 **[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
 
 Wishing everyone a happy Christmas holiday.
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ The US government have just banned imported drones and critical drone parts as "
 
 Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
 
-4h ago
+5h ago
 
 ---
 
@@ -116,7 +116,15 @@ Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as C
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 1d ago
+
+---
+
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -128,27 +136,17 @@ Earth.com • 1d ago
 
 ---
 
-**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Advancing with animals: Standout biomimicry of 2025](https://newatlas.com/science/biomimicry-developments-2025/)**
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-New Atlas • 20h ago
+New Atlas • 21h ago
 
 ---
 
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-: Investment and interest have outpaced technology and society
-
-theregister.com • 7h ago
+Tech Xplore • 27m ago
 
 ---
 
@@ -166,14 +164,6 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
-
-Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
-
-South China Morning Post • 1d ago
-
----
-
 **[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
@@ -182,9 +172,19 @@ The Daily Beast • 2d ago
 
 ---
 
-**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
 
-Tech Xplore • 2d ago
+Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+
+Yahoo Finance • 3d ago
+
+---
+
+**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
+
+Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 26K • 👍 1K • 💬 2K • ⏱️ 9:57 • 11h ago
+👁️ 26K • 👍 1K • 💬 2K • ⏱️ 9:57 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T20:54:29.297520+00:00'
+updated: '2025-12-25T21:18:20.848015+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 20:54 UTC  
+**Last Updated:** December 25, 2025 at 21:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -1.2%  
-**30d:** -2.3%  
-**90d:** -26.5%  
-**1y:** -11.5%  
+**24h:** -0.2%  
+**7d:** -1.0%  
+**30d:** -2.2%  
+**90d:** -26.4%  
+**1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.66B
+**Market Cap:** $356.13B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.4%
 
 **All-Time Low:** $0.43
-+680424.9%
++681274.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-8h ago
+9h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Motley Fool • 3d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 4h ago
+ts2.tech • 5h ago
 
 ---
 
@@ -176,13 +176,13 @@ Yahoo Finance • 2d ago
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
-**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-CCN.com • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -190,19 +190,7 @@ CCN.com • 2d ago
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-BeInCrypto • 5h ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 6h ago
-
----
-
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 2d ago
+BeInCrypto • 6h ago
 
 ---
 
@@ -214,11 +202,25 @@ FXStreet • 1d ago
 
 ---
 
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 7h ago
+
+---
+
 **[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
+
+---
+
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
+
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
+
+Decrypt • 2d ago
 
 ---
 
@@ -242,7 +244,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 2K • 👍 157 • 💬 26 • ⏱️ 16:26 • 2h ago
+👁️ 2K • 👍 157 • 💬 26 • ⏱️ 16:26 • 3h ago
 
 ---
 
@@ -302,7 +304,7 @@ One company is folding, the other is doubling down. Is this a warning sign? In t
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 78 • 💬 83 • ⏱️ 13:29 • 20h ago
+👁️ 3K • 👍 78 • 💬 83 • ⏱️ 13:29 • 21h ago
 
 ---
 

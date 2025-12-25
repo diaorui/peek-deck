@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T20:54:29.291535+00:00'
+updated: '2025-12-25T21:18:20.842622+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 20:54 UTC  
+**Last Updated:** December 25, 2025 at 21:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.2%  
-**30d:** -2.8%  
-**90d:** -19.7%  
-**1y:** -8.2%  
+**24h:** +0.0%  
+**7d:** -0.1%  
+**30d:** -2.7%  
+**90d:** -19.6%  
+**1y:** -8.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.93B
+**Market Cap:** $1755.31B
 Rank #1
 
-**Circulating Supply:** 19,967,043 BTC
+**Circulating Supply:** 19,967,056 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.3%
 
 **All-Time Low:** $67.81
-+129283.6%
++129541.6%
 
 ---
 
@@ -103,11 +103,9 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
-**[What satoshi said.](https://www.reddit.com/r/Bitcoin/comments/1pvk72y/what_satoshi_said/)**
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
-
-1h ago
+48m ago
 
 ---
 
@@ -117,21 +115,17 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 ---
 
+**[What satoshi said.](https://www.reddit.com/r/Bitcoin/comments/1pvk72y/what_satoshi_said/)**
+
+If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
+
+2h ago
+
+---
+
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
 6h ago
-
----
-
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
-
-24m ago
-
----
-
-**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
-
-18h ago
 
 ---
 
@@ -141,19 +135,25 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 ---
 
+**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
+
+18h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 6h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqda82WPKi58sDCV1fBjyt0HMqRx9-e9D8smI__62s-TX1H5hXB_a91q&gaa_ts=694da494&gaa_sig=zOtrZNB2j5cVTY2g7H0CY1xnflN3QYRnMALTRnPRpIeuLEgr-wjysUD2ZvNaE4QHujmlqEsKrvgi6WzI8ns1yw%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqecaxPfNUM-fMQp7hLEbuziHvnixKhdsf49QKS2uwFLS40D0_9Okglu&gaa_ts=694dad86&gaa_sig=6vIchkKSgvEbACGwjFekZBQbathFvSb-YNkITWYsI7Q2MmeV_ldbVo0M0asfOrq5fZS6LBitq-6tTqFlG7KlsQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -163,15 +163,15 @@ The Wall Street Journal • 1d ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 27m ago
+The Motley Fool • 51m ago
 
 ---
 
-**[We Asked ChatGPT Where Bitcoin Will Be in 30 Christmases — The Answer May Shock You](https://finance.yahoo.com/news/asked-chatgpt-where-bitcoin-30-160715236.html)**
+**[Silver Hits Record Prices in China as Bitcoin Stalls on Christmas](https://finance.yahoo.com/news/silver-hits-record-prices-china-202901523.html)**
 
-In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
+Silver hit record prices in China on Christmas Day as physical supply tightened, while Bitcoin traded flat, raising safe-haven questions.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -187,13 +187,13 @@ Bloomberg.com • 1d ago
 
 Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 3h ago
+thestreet.com • 4h ago
 
 ---
 
@@ -213,11 +213,9 @@ TradingView — Track All Markets • 8h ago
 
 ---
 
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
-
-Investopedia • 1d ago
+KRON4 • 1d ago
 
 ---
 
@@ -241,7 +239,7 @@ Investopedia • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 4h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 5h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -293,7 +291,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 203 • ⏱️ 37:34 • 23h ago
+👁️ 43K • 👍 2K • 💬 203 • ⏱️ 37:34 • 1d ago
 
 ---
 
@@ -353,7 +351,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 329 • 💬 55 • ⏱️ 7:13 • 20h ago
+👁️ 6K • 👍 329 • 💬 55 • ⏱️ 7:13 • 21h ago
 
 ---
 
@@ -383,7 +381,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 33K • 👍 4K • 💬 220 • ⏱️ 19:10 • 23h ago
+👁️ 33K • 👍 4K • 💬 220 • ⏱️ 19:10 • 1d ago
 
 ---
 
