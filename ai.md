@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T19:54:27.496459+00:00'
+updated: '2025-12-25T20:21:27.728663+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 19:54 UTC  
+**Last Updated:** December 25, 2025 at 20:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 5h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 2h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-22h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
 
-3h ago
+4h ago
 
 ---
 
@@ -139,13 +139,13 @@ Financial Times • 20h ago
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
 **[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ blog.google • 2d ago
 
 "We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 5h ago
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 1d ago
 
 **[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
 
-Star Tribune • 8h ago
+Star Tribune • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ Star Tribune • 8h ago
 
 From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
 
-MIT Technology Review • 9h ago
+MIT Technology Review • 10h ago
 
 ---
 
@@ -233,7 +233,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 159 • 💬 96 • 4h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 159 • 💬 96 • 5h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -243,7 +243,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 99 • 💬 58 • 5h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 99 • 💬 58 • 6h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -251,7 +251,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 70 • 💬 23 • 19h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 70 • 💬 23 • 20h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -265,7 +265,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 37 • 💬 22 • 15h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 37 • 💬 22 • 16h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -375,7 +375,7 @@ The cow saves bus from accident #ai​ #cow​ #rescue​ #viral Disclaimer: Thi
 
 📺 NexoLoop Ai
 
-👁️ 75K • 💬 6 • ⏱️ 0:20 • 18h ago
+👁️ 75K • 💬 6 • ⏱️ 0:20 • 19h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 449 • 13m ago
+⭐ 3.5k • 🔱 449 • 40m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 208 • 42m ago
+⭐ 3.0k • 🔱 208 • 1h ago
 
 ---
 
@@ -696,7 +696,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 219 • 4h ago
+⭐ 1.3k • 🔱 219 • 5h ago
 
 ---
 
@@ -716,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 108 • 10h ago
+⭐ 1.2k • 🔱 108 • 11h ago
 
 ---
 

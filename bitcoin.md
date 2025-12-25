@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T19:54:27.504796+00:00'
+updated: '2025-12-25T20:21:27.737451+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 19:54 UTC  
+**Last Updated:** December 25, 2025 at 20:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
+**24h:** +0.4%  
 **7d:** +0.1%  
 **30d:** -2.6%  
-**90d:** -19.4%  
+**90d:** -19.5%  
 **1y:** -7.9%  
 
 ---
@@ -107,7 +107,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-53m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ At some point, you stop laughing. And you just nod.
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Wall Street Journal • 1d ago
 
 Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 12h ago
 
 Bitcoin turned a $10,000 starting investment into $2 million over the past decade, a gain that isn't going to repeat.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 2h ago
+thestreet.com • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ TradingView — Track All Markets • 7h ago
 
 Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -243,7 +243,7 @@ Investopedia • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 3h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 4h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -295,7 +295,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 197 • ⏱️ 37:34 • 22h ago
+👁️ 39K • 👍 2K • 💬 197 • ⏱️ 37:34 • 23h ago
 
 ---
 
@@ -315,7 +315,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 314 • 💬 34 • ⏱️ 7:13 • 19h ago
+👁️ 6K • 👍 314 • 💬 34 • ⏱️ 7:13 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 31K • 👍 3K • 💬 219 • ⏱️ 19:10 • 22h ago
+👁️ 31K • 👍 3K • 💬 219 • ⏱️ 19:10 • 23h ago
 
 ---
 
@@ -385,7 +385,7 @@ Yes, Bitcoin is currently experiencing significant volatility and price drops (a
 
 📺 Ricky Gutierrez
 
-👁️ 11K • 👍 514 • 💬 196 • ⏱️ 9:15 • 23h ago
+👁️ 11K • 👍 514 • 💬 196 • ⏱️ 9:15 • 1d ago
 
 ---
 

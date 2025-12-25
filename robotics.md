@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T19:54:27.514031+00:00'
+updated: '2025-12-25T20:21:27.746890+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 19:54 UTC  
+**Last Updated:** December 25, 2025 at 20:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ The US government have just banned imported drones and critical drone parts as "
 
 Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 4m ago
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 31m ago
 
 ---
 
@@ -140,7 +140,7 @@ Interesting Engineering • 1d ago
 
 : Investment and interest have outpaced technology and society
 
-theregister.com • 6h ago
+theregister.com • 7h ago
 
 ---
 
@@ -172,7 +172,7 @@ Interesting Engineering • 2d ago
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-New Atlas • 19h ago
+New Atlas • 20h ago
 
 ---
 
@@ -230,7 +230,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 20K • 👍 1K • 💬 2K • ⏱️ 9:57 • 10h ago
+👁️ 20K • 👍 1K • 💬 2K • ⏱️ 9:57 • 11h ago
 
 ---
 
@@ -260,7 +260,7 @@ War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #
 
 📺 Manni-Gaming
 
-👁️ 1K • 👍 131 • 💬 26 • ⏱️ 12:08 • 3h ago
+👁️ 1K • 👍 131 • 💬 26 • ⏱️ 12:08 • 4h ago
 
 ---
 
