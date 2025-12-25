@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T18:31:32.643247+00:00'
+updated: '2025-12-25T18:54:35.639131+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 18:31 UTC  
+**Last Updated:** December 25, 2025 at 18:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.1%  
-**30d:** -2.5%  
-**90d:** -19.4%  
-**1y:** -7.9%  
+**24h:** +0.9%  
+**7d:** +0.2%  
+**30d:** -2.4%  
+**90d:** -19.3%  
+**1y:** -7.8%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -117,13 +117,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Bitcoin hasn’t built much structure between $70K and $80K. Five years of CME futures data show BTC spent just 28 trading days in that zone. Compared to hundreds of days below $70K, that means far fewer positions were built there and much weaker historical support. On-chain data from Glassnode sho](https://www.reddit.com/r/Bitcoin/comments/1pvhf6d/bitcoin_hasnt_built_much_structure_between_70k/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ At some point, you stop laughing. And you just nod.
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -193,7 +193,7 @@ Reuters • 1d ago
 
 Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
@@ -229,7 +229,7 @@ CCN.com • 4h ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 13h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 14h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 359 • 💬 70 • ⏱️ 1:12 • 21h ago
+👁️ 16K • 👍 359 • 💬 70 • ⏱️ 1:12 • 22h ago
 
 ---
 

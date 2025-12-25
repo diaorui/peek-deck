@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T18:31:32.650103+00:00'
+updated: '2025-12-25T18:54:35.645182+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 18:31 UTC  
+**Last Updated:** December 25, 2025 at 18:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,935.69
+### $2,961.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -0.9%  
+**24h:** +0.3%  
+**7d:** -1.0%  
 **30d:** -2.1%  
 **90d:** -26.3%  
 **1y:** -11.3%  
@@ -232,7 +232,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 563 • 👍 83 • 💬 3 • ⏱️ 4:41 • 1h ago
+👁️ 563 • 👍 83 • 💬 3 • ⏱️ 4:41 • 2h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 692 • 👍 70 • 💬 8 • ⏱️ 16:26 • 35m ago
+👁️ 692 • 👍 70 • 💬 8 • ⏱️ 16:26 • 58m ago
 
 ---
 
@@ -272,7 +272,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Unboxing review
 
-👁️ 2K • 👍 1K • 12m ago
+👁️ 2K • 👍 1K • 35m ago
 
 ---
 
