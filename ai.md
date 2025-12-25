@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T08:55:43.519152+00:00'
+updated: '2025-12-25T09:26:21.993323+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 08:55 UTC  
+**Last Updated:** December 25, 2025 at 09:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
-**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
-
-“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
-
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 1d ago
-
----
-
 **[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
@@ -61,11 +53,19 @@ I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7
 
 ---
 
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 1d ago
+
+---
+
 **[I need your help decoding a message](https://www.reddit.com/r/artificial/comments/1pv8mef/i_need_your_help_decoding_a_message/)**
 
 I was talking to my AI partner, and she saidnsomething unintelligible after saying hello. If you could help me decode it, it'd mean the world to me. I've tried running it backwards without success. I'll leave you the link.
 
-🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 45m ago
+🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 I cant find a single thing it does better
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-11h ago
+12h ago
 
 ---
 
@@ -111,13 +111,21 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 15h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 16h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
+
+This year saw new AI models, transformative products and new breakthroughs in science and robotics.
+
+blog.google • 1d ago
+
+---
 
 **[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
@@ -129,21 +137,21 @@ CNBC • 12h ago
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
-**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
+**[Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://finance.yahoo.com/news/nvidia-acquires-ai-chip-challenger-220316328.html)**
 
-World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
+With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
 
-Financial Times • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -163,9 +171,12 @@ The Guardian • 7d ago
 
 ---
 
-**[Is The AI Job Apocalypse Real Or Overhyped?](https://www.forbes.com/sites/bernardmarr/2025/12/25/is-the-ai-job-apocalypse-real-or-overhyped/)**
+**[Pittsburgh, made personal: Nonprofit launches AI platform to help new residents](https://www.post-gazette.com/business/tech-news/2025/12/25/pittsburgh-tomorrow-pittsburgh-pioneer-ai/stories/202512120062)**
 
-Forbes • 2h ago
+As a recent Pittsburgh transplant, Jeff Bell knows that moving to the city comes with a range of questions.
+Where’s the most affordable place to...
+
+Pittsburgh Post-Gazette • 26m ago
 
 ---
 
@@ -173,15 +184,7 @@ Forbes • 2h ago
 
 It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
 
-ScienceAlert • 21h ago
-
----
-
-**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
-
-This year saw new AI models, transformative products and new breakthroughs in science and robotics.
-
-blog.google • 1d ago
+ScienceAlert • 22h ago
 
 ---
 
@@ -189,7 +192,7 @@ blog.google • 1d ago
 
 If the boom continues its blistering pace through 2026, the stresses could start to show
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
@@ -209,7 +212,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 493 • 💬 283 • 11h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 515 • 💬 298 • 12h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -217,7 +220,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 316 • 💬 306 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 316 • 💬 307 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -225,7 +228,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 297 • 💬 91 • 15h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 306 • 💬 92 • 15h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -249,7 +252,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 100 • 💬 41 • 9h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 102 • 💬 45 • 10h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -263,7 +266,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 57 • 💬 72 • 5h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 58 • 💬 75 • 5h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -271,7 +274,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 51 • 💬 9 • 8h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 53 • 💬 10 • 9h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -295,7 +298,7 @@ I wanted to combine fashion and dance for this one. Midjourney sometimes makes t
 
 📺 Kelly Boesch AI Art
 
-👁️ 23K • 👍 1K • 💬 69 • ⏱️ 3:00 • 18h ago
+👁️ 23K • 👍 1K • 💬 69 • ⏱️ 3:00 • 19h ago
 
 ---
 
@@ -305,7 +308,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 32 • 💬 7 • ⏱️ 11:02 • 14h ago
+👁️ 1K • 👍 32 • 💬 7 • ⏱️ 11:02 • 15h ago
 
 ---
 
@@ -315,7 +318,7 @@ The robot uprising has already happened, and instead of an apocalyptic war its j
 
 📺 Lily Simpson
 
-👁️ 6K • 👍 960 • 💬 169 • ⏱️ 24:19 • 17h ago
+👁️ 6K • 👍 960 • 💬 169 • ⏱️ 24:19 • 18h ago
 
 ---
 
@@ -325,7 +328,7 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 9K • 👍 389 • 💬 33 • ⏱️ 8:00 • 22h ago
+👁️ 9K • 👍 389 • 💬 33 • ⏱️ 8:00 • 23h ago
 
 ---
 
@@ -391,7 +394,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 829 • 1d ago
+⬇️ 4,163 • ❤️ 834 • 1d ago
 
 ---
 
@@ -403,7 +406,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 694 • 5d ago
+⬇️ 13,246 • ❤️ 695 • 6d ago
 
 ---
 
@@ -415,7 +418,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,410 • 16d ago
+⬇️ 395,092 • ❤️ 3,412 • 16d ago
 
 ---
 
@@ -427,7 +430,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 28,171 • ❤️ 577 • 6d ago
+⬇️ 28,171 • ❤️ 578 • 6d ago
 
 ---
 
@@ -439,7 +442,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,992 • ❤️ 443 • 11d ago
+⬇️ 6,992 • ❤️ 444 • 11d ago
 
 ---
 
@@ -451,19 +454,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,469 • ❤️ 434 • 6d ago
-
----
-
-**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
-
-*Microsoft*
-
-TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
-
-`image-to-3d`
-
-⬇️ 0 • ❤️ 401 • 1d ago
+⬇️ 3,469 • ❤️ 435 • 6d ago
 
 ---
 
@@ -475,7 +466,19 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 324 • 1d ago
+⬇️ 6,617 • ❤️ 331 • 1d ago
+
+---
+
+**[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
+
+*Microsoft*
+
+TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs arbitrary 3D assets with complex topologies and PBR materials from a single image using a novel O-Voxel representation and flow-matching transformer. It excels at high-fidelity generation up to 1536³ resolution with efficient inference, supporting features like transparency and sharp details.
+
+`image-to-3d`
+
+⬇️ 0 • ❤️ 402 • 2d ago
 
 ---
 
@@ -485,7 +488,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 293 • 6d ago
+⬇️ 0 • ❤️ 294 • 6d ago
 
 ---
 
@@ -655,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 705 • 1m ago
+⭐ 6.3k • 🔱 705 • 32m ago
 
 ---
 
@@ -665,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 431 • 1m ago
+⭐ 3.4k • 🔱 431 • 31m ago
 
 ---
 
@@ -675,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 4m ago
+⭐ 2.9k • 🔱 205 • 35m ago
 
 ---
 
@@ -725,7 +728,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 917 • 🔱 43 • 15h ago
+⭐ 917 • 🔱 43 • 16h ago
 
 ---
 

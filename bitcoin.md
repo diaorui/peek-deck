@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T08:55:43.527768+00:00'
+updated: '2025-12-25T09:26:22.001997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 08:55 UTC  
+**Last Updated:** December 25, 2025 at 09:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.7%  
-**30d:** -3.3%  
-**90d:** -20.0%  
-**1y:** -8.6%  
+**24h:** +0.5%  
+**7d:** -0.8%  
+**30d:** -3.4%  
+**90d:** -20.2%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.53B
+**Market Cap:** $1746.42B
 Rank #1
 
 **Circulating Supply:** 19,966,834 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.7%
 
 **All-Time Low:** $67.81
-+128783.6%
++128824.9%
 
 ---
 
@@ -93,7 +93,13 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-6h ago
+7h ago
+
+---
+
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+
+1h ago
 
 ---
 
@@ -105,13 +111,13 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-23h ago
+1d ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -123,25 +129,19 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 ---
 
+**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
+
+I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
+
+4h ago
+
+---
+
 **[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
 15h ago
-
----
-
-**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
-
-I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
-
-3h ago
-
----
-
-**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
-
-20h ago
 
 ---
 
@@ -175,15 +175,7 @@ Yahoo Finance • 2h ago
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 23h ago
-
----
-
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
-
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
-
-The Motley Fool • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -191,7 +183,15 @@ The Motley Fool • 1d ago
 
 The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin and ether ETFs see outflows ahead of Christmas, led by IBIT and ETHE](https://finance.yahoo.com/news/bitcoin-ether-etfs-see-outflows-065703674.html)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -229,7 +229,7 @@ Inquirer.com • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 18h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 19h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -265,7 +265,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 79 • 💬 36 • 16h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 79 • 💬 36 • 17h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -325,7 +325,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 211 • 💬 44 • ⏱️ 7:13 • 8h ago
+👁️ 3K • 👍 211 • 💬 44 • ⏱️ 7:13 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 108 • ⏱️ 37:34 • 11h ago
+👁️ 20K • 👍 1K • 💬 108 • ⏱️ 37:34 • 12h ago
 
 ---
 

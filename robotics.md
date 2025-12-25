@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T08:55:43.537045+00:00'
+updated: '2025-12-25T09:26:22.011415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 08:55 UTC  
+**Last Updated:** December 25, 2025 at 09:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,17 +48,17 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 ---
 
+**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
+
+1h ago
+
+---
+
 **[How to write a software for this Delta Robot?](https://www.reddit.com/r/robotics/comments/1pv54zb/how_to_write_a_software_for_this_delta_robot/)**
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-4h ago
-
----
-
-**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
-
-1h ago
+5h ago
 
 ---
 
@@ -136,11 +136,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -158,17 +158,17 @@ El Adelantado • 2d ago
 
 ---
 
-**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 19h ago
-
----
-
 **[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
 
 Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+
+Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
 
 Interesting Engineering • 1d ago
 
@@ -288,7 +288,7 @@ War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over wh
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 246 • 💬 57 • ⏱️ 16:20 • 18h ago
+👁️ 4K • 👍 246 • 💬 57 • ⏱️ 16:20 • 19h ago
 
 ---
 
