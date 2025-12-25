@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T09:26:22.011415+00:00'
+updated: '2025-12-25T09:45:44.377908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 09:26 UTC  
+**Last Updated:** December 25, 2025 at 09:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-11h ago
+12h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-7h ago
+8h ago
 
 ---
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Not sure if this is the right place but I thought I'd ask. Does anyone have a URDF for this robot arm: https://www.waveshare.com/robot-arm-for-pi.htm? I thought I'd look around before trying to make one but I haven't found anything yet.
 
-9h ago
+10h ago
 
 ---
 
@@ -124,7 +124,7 @@ IEEE Spectrum • 2d ago
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
-Earth.com • 17h ago
+Earth.com • 18h ago
 
 ---
 
@@ -194,6 +194,16 @@ hyundai.com • 3d ago
 
 ## YouTube Videos: "robotics"
 
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+
+📺 AI Revolution
+
+👁️ 49K • 👍 831 • 💬 93 • ⏱️ 2:08:46 • 5d ago
+
+---
+
 **[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
 
 FutureTech #Robotics #LawEnforcement.
@@ -204,13 +214,13 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+She Bought Two Robots    #shorts#trending.
 
-📺 AI Revolution
+📺 Facto_Satish
 
-👁️ 49K • 👍 828 • 💬 93 • ⏱️ 2:08:46 • 5d ago
+👁️ 36K • 💬 2 • ⏱️ 0:27 • 6h ago
 
 ---
 
@@ -220,7 +230,7 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 65K • 👍 946 • 💬 260 • ⏱️ 31:49 • 6d ago
+👁️ 65K • 👍 958 • 💬 262 • ⏱️ 31:49 • 6d ago
 
 ---
 
@@ -230,7 +240,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 5K • 👍 268 • 💬 78 • ⏱️ 49:59 • 2d ago
+👁️ 5K • 👍 270 • 💬 78 • ⏱️ 49:59 • 2d ago
 
 ---
 
@@ -240,17 +250,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 181K • 👍 3K • 💬 670 • ⏱️ 2:23 • 4d ago
-
----
-
-**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
-
-LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
-
-📺 AZFK
-
-👁️ 214K • 👍 11K • 💬 670 • ⏱️ 13:43 • 6d ago
+👁️ 186K • 👍 3K • 💬 678 • ⏱️ 2:23 • 4d ago
 
 ---
 
@@ -264,21 +264,13 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 ---
 
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
-
-📺 XRoboHub
-
-👁️ 216K • 👍 4K • 💬 505 • ⏱️ 0:51 • 4d ago
-
----
-
 **[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
 
 What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
 
 📺 AI Tech Academy
 
-👁️ 17K • 👍 303 • 💬 35 • ⏱️ 13:55 • 1d ago
+👁️ 18K • 👍 328 • 💬 36 • ⏱️ 13:55 • 1d ago
 
 ---
 
@@ -288,7 +280,15 @@ War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over wh
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 246 • 💬 57 • ⏱️ 16:20 • 19h ago
+👁️ 4K • 👍 252 • 💬 59 • ⏱️ 16:20 • 19h ago
+
+---
+
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+
+📺 XRoboHub
+
+👁️ 216K • 👍 4K • 💬 505 • ⏱️ 0:51 • 4d ago
 
 ---
 

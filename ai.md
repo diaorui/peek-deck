@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T09:26:21.993323+00:00'
+updated: '2025-12-25T09:45:44.360256+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 09:26 UTC  
+**Last Updated:** December 25, 2025 at 09:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 23h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 14h ago
+Pittsburgh Post-Gazette • 15h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Guardian • 7d ago
 As a recent Pittsburgh transplant, Jeff Bell knows that moving to the city comes with a range of questions.
 Where’s the most affordable place to...
 
-Pittsburgh Post-Gazette • 26m ago
+Pittsburgh Post-Gazette • 45m ago
 
 ---
 
@@ -266,7 +266,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 58 • 💬 75 • 5h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 58 • 💬 75 • 6h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -288,7 +288,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 24K • 👍 1K • 💬 561 • ⏱️ 11:28 • 1d ago
+👁️ 25K • 👍 1K • 💬 577 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -298,27 +298,7 @@ I wanted to combine fashion and dance for this one. Midjourney sometimes makes t
 
 📺 Kelly Boesch AI Art
 
-👁️ 23K • 👍 1K • 💬 69 • ⏱️ 3:00 • 19h ago
-
----
-
-**[Google Gemini: New FREE Ai Agent is INSANE!](https://www.youtube.com/watch?v=FK5Pn9VXfQE)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 1K • 👍 32 • 💬 7 • ⏱️ 11:02 • 15h ago
-
----
-
-**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
-
-The robot uprising has already happened, and instead of an apocalyptic war its just boring sludge everywhere. Links: My Patreon: ...
-
-📺 Lily Simpson
-
-👁️ 6K • 👍 960 • 💬 169 • ⏱️ 24:19 • 18h ago
+👁️ 25K • 👍 1K • 💬 74 • ⏱️ 3:00 • 19h ago
 
 ---
 
@@ -328,7 +308,7 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 9K • 👍 389 • 💬 33 • ⏱️ 8:00 • 23h ago
+👁️ 11K • 👍 394 • 💬 38 • ⏱️ 8:00 • 23h ago
 
 ---
 
@@ -338,17 +318,17 @@ Why should we assume that AI is safe? As the technology has grown at an alarming
 
 📺 Adam Conover
 
-👁️ 11K • 👍 668 • 💬 304 • ⏱️ 1:37:17 • 17h ago
+👁️ 12K • 👍 718 • 💬 322 • ⏱️ 1:37:17 • 18h ago
 
 ---
 
-**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
+**[How Coders Can Actually Survive the AI Takeover in 2026](https://www.youtube.com/watch?v=Gbi5vFc-7WM)**
 
-How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
+AI is changing software engineering faster than most people expected, and I see a lot of students stuck between two extremes.
 
-📺 Maxinomics
+📺 Sajjaad Khader
 
-👁️ 250K • 👍 14K • 💬 3K • ⏱️ 21:43 • 2d ago
+👁️ 10K • 👍 431 • 💬 75 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -358,17 +338,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 18K • 👍 483 • 💬 60 • ⏱️ 18:48 • 2d ago
-
----
-
-**[A.I. 2Pac - Held You High [A.I. Voice Conversion]](https://www.youtube.com/watch?v=YuBs20pu7Bg)**
-
-Original (non voice-transformed) on all platforms: Written by: dopfunk Produced by: dopfunk Sung and Performed by: Liam A.I. ...
-
-📺 dopfunk
-
-👁️ 6K • 👍 596 • 💬 65 • ⏱️ 3:53 • 1d ago
+👁️ 18K • 👍 486 • 💬 60 • ⏱️ 18:48 • 2d ago
 
 ---
 
@@ -378,7 +348,35 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 58K • 👍 3K • 💬 365 • ⏱️ 33:27 • 1d ago
+👁️ 59K • 👍 3K • 💬 367 • ⏱️ 33:27 • 1d ago
+
+---
+
+**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
+
+📺 Maggie McGaugh
+
+👁️ 213K • 👍 9K • 💬 62 • ⏱️ 1:07 • 1d ago
+
+---
+
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
+
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
+
+📺 AI Search
+
+👁️ 79K • 👍 3K • 💬 381 • ⏱️ 30:43 • 1d ago
+
+---
+
+**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
+
+To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
+
+📺 How Money Works
+
+👁️ 492K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -394,7 +392,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 834 • 1d ago
+⬇️ 4,163 • ❤️ 834 • 2d ago
 
 ---
 
@@ -516,7 +514,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 13 • 💬 2 • ⭐ 5,041 • 13d ago
+▲ 13 • 💬 2 • ⭐ 5,041 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -658,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 705 • 32m ago
+⭐ 6.3k • 🔱 705 • 51m ago
 
 ---
 
@@ -668,7 +666,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 431 • 31m ago
+⭐ 3.4k • 🔱 431 • 51m ago
 
 ---
 
@@ -678,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 35m ago
+⭐ 2.9k • 🔱 205 • 54m ago
 
 ---
 

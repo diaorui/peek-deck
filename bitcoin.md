@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T09:26:22.001997+00:00'
+updated: '2025-12-25T09:45:44.368680+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 09:26 UTC  
+**Last Updated:** December 25, 2025 at 09:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-15h ago
+16h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 4h ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 13h ago
 
 Bitcoin investors are watching macro signals closely after billionaire Elon Musk said the US economy could enter a period of rapid expansion as soon as late 2026, reviving hopes of another leg higher for the cryptocurrency. Key Takeaways: Elon Musk’s US growth forecast has reignited Bitcoin optimism as traders look ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 2h ago
 
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -243,7 +243,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 4h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 5h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -299,23 +299,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 10K • 👍 281 • 💬 50 • ⏱️ 1:12 • 12h ago
-
----
-
 **[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
 
 Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
 
 📺 CNBC Television
 
-👁️ 17K • 👍 264 • 💬 179 • ⏱️ 8:19 • 19h ago
+👁️ 18K • 👍 269 • 💬 179 • ⏱️ 8:19 • 20h ago
 
 ---
 
@@ -325,7 +315,27 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 211 • 💬 44 • ⏱️ 7:13 • 9h ago
+👁️ 4K • 👍 244 • 💬 32 • ⏱️ 7:13 • 9h ago
+
+---
+
+**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 12K • 👍 302 • 💬 65 • ⏱️ 1:12 • 12h ago
+
+---
+
+**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+
+Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
+
+📺 Altcoin Daily
+
+👁️ 25K • 👍 1K • 💬 163 • ⏱️ 37:34 • 12h ago
 
 ---
 
@@ -335,7 +345,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 92K • 👍 4K • 💬 420 • ⏱️ 20:46 • 1d ago
+👁️ 94K • 👍 4K • 💬 422 • ⏱️ 20:46 • 1d ago
 
 ---
 
@@ -349,23 +359,13 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 ---
 
-**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
-
-Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
-
-📺 Altcoin Daily
-
-👁️ 20K • 👍 1K • 💬 108 • ⏱️ 37:34 • 12h ago
-
----
-
 **[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
 
 Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 202 • ⏱️ 20:00 • 1d ago
+👁️ 39K • 👍 2K • 💬 207 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -375,17 +375,17 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 162 • 💬 71 • ⏱️ 5:52 • 11h ago
+👁️ 3K • 👍 172 • 💬 72 • ⏱️ 5:52 • 11h ago
 
 ---
 
-**[2026 Bitcoin Warning: The New Price Floor Revealed](https://www.youtube.com/watch?v=OV9nYbOB0wQ)**
+**[DOES This CONFIRM America will never Buy Bitcoin?!](https://www.youtube.com/watch?v=iZj6p5aYwz4)**
 
-Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the crypto landscape has fundamentally shifted. In today's ...
+The U.S. Strategic Bitcoin Reserve was once a near-certainty—backed by powerful voices like Bo Hines and Senator Cynthia ...
 
-📺 Discover Crypto
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 329 • 💬 33 • ⏱️ 58:02 • 16h ago
+👁️ 7K • 👍 338 • 💬 147 • ⏱️ 25:23 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T09:26:22.008128+00:00'
+updated: '2025-12-25T09:45:44.374677+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 09:26 UTC  
+**Last Updated:** December 25, 2025 at 09:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -230,7 +230,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 103 • 💬 67 • ⏱️ 13:41 • 21h ago
+👁️ 3K • 👍 104 • 💬 48 • ⏱️ 13:41 • 21h ago
 
 ---
 
@@ -250,7 +250,17 @@ One company is folding, the other is doubling down. Is this a warning sign? In t
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 58 • 💬 78 • ⏱️ 13:29 • 9h ago
+👁️ 2K • 👍 65 • 💬 60 • ⏱️ 13:29 • 9h ago
+
+---
+
+**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 9K • 👍 458 • 💬 57 • ⏱️ 13:14 • 21h ago
 
 ---
 
@@ -260,7 +270,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 254 • 💬 148 • ⏱️ 19:06 • 16h ago
+👁️ 6K • 👍 260 • 💬 181 • ⏱️ 19:06 • 17h ago
 
 ---
 
@@ -270,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 426 • 👍 17 • 💬 44 • ⏱️ 5:15 • 18h ago
+👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 19h ago
 
 ---
 
@@ -284,16 +294,6 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 ---
 
-**[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 1K • 👍 38 • 💬 15 • ⏱️ 5:30 • 1d ago
-
----
-
 **[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
 
 Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
@@ -304,23 +304,23 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 ---
 
-**[THE SHIFT IS HAPPENING Ethereum And Bitcoin Are Going HEAD TO HEAD This Is ABOUT To Launch](https://www.youtube.com/watch?v=5RoQPcf_p6Q)**
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
 
-These institutions will not stop... the amount of Bitcoin and Ethereum being accumulated within the last year needs to be tallied ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 The Modern Investor
+📺 Library Of Wealth
 
-👁️ 6K • 👍 668 • 💬 178 • ⏱️ 17:59 • 23h ago
+👁️ 4K • 👍 102 • 💬 304 • ⏱️ 14:58 • 2d ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
+**[TOM LEE JUST DROPPED $40M ON ETH! (Whale Alert)](https://www.youtube.com/watch?v=iNSNWJAiXX0)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Today's Whale Buy Alert The wallet just activated. And the size of the buy is staggering. According to on-chain data, BitMine ...
 
-📺 C-Zar Gets Crypto 
+📺 Wall Street Stockcast
 
-👁️ 498 • 👍 21 • 💬 22 • ⏱️ 7:44 • 1d ago
+👁️ 2K • 👍 46 • 💬 46 • ⏱️ 7:32 • 2d ago
 
 ---
 
