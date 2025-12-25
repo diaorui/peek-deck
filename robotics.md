@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T23:24:43.342526+00:00'
+updated: '2025-12-25T23:40:34.667519+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 23:24 UTC  
+**Last Updated:** December 25, 2025 at 23:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Wishing everyone a happy Christmas holiday.
 
 Hello everyone I am an in enrolled mechatronics engineer I want to share what I learn and how others can learn it, and for them to learn and share tutorials as well (creating a learning environment). I initially considered creating a YouTube channel, but I don't see enough engagement. Therefore, I'm considering creating a forum, and I've heard about the XenForo script. I want the platform to be primarily for Arab engineers, given the limited availability of Arabic educational content. So, I'd like to hear your advice and suggestions.
 
-56m ago
+1h ago
 
 ---
 
@@ -288,7 +288,7 @@ Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the 
 
 📺 Defense Digest
 
-👁️ 3K • 👍 115 • ⏱️ 0:22 • 5h ago
+👁️ 3K • 👍 115 • ⏱️ 0:22 • 6h ago
 
 ---
 

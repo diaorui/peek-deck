@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T23:24:43.333753+00:00'
+updated: '2025-12-25T23:40:34.658347+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 23:24 UTC  
+**Last Updated:** December 25, 2025 at 23:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.7%  
-**30d:** -3.3%  
-**90d:** -20.1%  
-**1y:** -8.6%  
+**24h:** -0.5%  
+**7d:** -1.0%  
+**30d:** -3.6%  
+**90d:** -20.3%  
+**1y:** -8.9%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-2h ago
+3h ago
 
 ---
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-4h ago
+5h ago
 
 ---
 
 **[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -313,7 +313,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 293 • 💬 11 • ⏱️ 19:55 • 6h ago
+👁️ 6K • 👍 293 • 💬 11 • ⏱️ 19:55 • 7h ago
 
 ---
 
