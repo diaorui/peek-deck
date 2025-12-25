@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T21:47:18.092806+00:00'
+updated: '2025-12-25T21:58:11.539837+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 21:47 UTC  
+**Last Updated:** December 25, 2025 at 21:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.0%  
-**30d:** -2.2%  
-**90d:** -26.4%  
-**1y:** -11.4%  
+**24h:** -0.4%  
+**7d:** -1.2%  
+**30d:** -2.4%  
+**90d:** -26.5%  
+**1y:** -11.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.13B
+**Market Cap:** $355.51B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.4%
+-40.5%
 
 **All-Time Low:** $0.43
-+681274.8%
++679872.9%
 
 ---
 
@@ -148,11 +148,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Where Will Cryptocurrency Ethereum Be in 5 Years?](https://www.fool.com/investing/2025/12/22/where-will-cryptocurrency-ethereum-be-in-5-years/)**
+**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
 
-Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
+Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
 
-The Motley Fool • 3d ago
+Crypto Briefing • 2d ago
 
 ---
 
@@ -180,9 +180,11 @@ AMBCrypto • 12h ago
 
 ---
 
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+**[Can Ethereum leap out of its four-year shadow in 2026?](https://www.fxstreet.com/cryptocurrencies/news/ethereum-annual-price-forecast-eth-poised-for-growth-in-2026-amid-regulatory-clarity-and-institutional-adoption-202512241600)**
 
-The Block • 2d ago
+Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
+
+FXStreet • 1d ago
 
 ---
 
@@ -194,11 +196,9 @@ BeInCrypto • 6h ago
 
 ---
 
-**[Can Ethereum leap out of its four-year shadow in 2026?](https://www.fxstreet.com/cryptocurrencies/news/ethereum-annual-price-forecast-eth-poised-for-growth-in-2026-amid-regulatory-clarity-and-institutional-adoption-202512241600)**
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
-
-FXStreet • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 2K • 👍 157 • 💬 26 • ⏱️ 16:26 • 3h ago
+👁️ 2K • 👍 157 • 💬 26 • ⏱️ 16:26 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T21:47:18.086914+00:00'
+updated: '2025-12-25T21:58:11.533893+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 21:47 UTC  
+**Last Updated:** December 25, 2025 at 21:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.0%  
 **7d:** -0.1%  
-**30d:** -2.7%  
+**30d:** -2.8%  
 **90d:** -19.6%  
 **1y:** -8.1%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1755.31B
+**Market Cap:** $1754.65B
 Rank #1
 
-**Circulating Supply:** 19,967,056 BTC
+**Circulating Supply:** 19,967,075 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.3%
 
 **All-Time Low:** $67.81
-+129541.6%
++129429.6%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+
+1h ago
+
+---
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
@@ -103,15 +109,9 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
-
-1h ago
-
----
-
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,9 +135,9 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 ---
 
-**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
+**[Apparently Bitcoin days were not numbered after all lol](https://www.reddit.com/r/Bitcoin/comments/1pvjsbq/apparently_bitcoin_days_were_not_numbered_after/)**
 
-19h ago
+3h ago
 
 ---
 
@@ -149,11 +149,11 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqecaxPfNUM-fMQp7hLEbuziHvnixKhdsf49QKS2uwFLS40D0_9Okglu&gaa_ts=694dad86&gaa_sig=6vIchkKSgvEbACGwjFekZBQbathFvSb-YNkITWYsI7Q2MmeV_ldbVo0M0asfOrq5fZS6LBitq-6tTqFlG7KlsQ%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeBDWh5yhnidNrnPU-qwUHnI2hGiHCd72_DI1PmxjCwfbeFp_qOrDFf&gaa_ts=694db6e1&gaa_sig=FKeIWAKbkZd-RhfckpSMqjbwp-jaxs_4aom9GDzmxM-hbsVnU-YgznylMzhflxMYiOWQzjlsYtb0fZ5zq_pN3Q%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -175,19 +175,19 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Bitcoin suffered a flash crash on Christmas Eve, missing out on the "Santa Claus rally," and is set to record its worst quarterly performance in three years.](https://news.futunn.com/en/post/66648951/bitcoin-suffered-a-flash-crash-on-christmas-eve-missing-out)**
+
+Thecurrent price of Bitcoin is hovering around $87,000, constrained within the range of $85,000 to $90,000, with a year-to-date decline exceeding 7%. Since retreating from its all-time high in October, Bitcoin has dropped approximately 30%, marking its worst quarterly performance since the second quarter of 2022 when TerraUSD and Three Arrows Capital collapsed.
+
+富途牛牛 • 1h ago
+
+---
+
 **[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
 
 Bitcoin is missing out on the Christmas cheer.
 
 Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
-
-Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
-
-TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -261,7 +261,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 84 • 💬 36 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 84 • 💬 35 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
