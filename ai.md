@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-24T23:53:10.723941+00:00'
+updated: '2025-12-25T01:17:34.515511+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 24, 2025 at 23:53 UTC  
+**Last Updated:** December 25, 2025 at 01:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 16h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 14h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 16h ago
 
 ---
 
@@ -57,15 +57,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
 
-🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 23h ago
-
----
-
-**[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
-
-Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
-
-2h ago
+🔗 [CBC](https://www.cbc.ca/news/entertainment/ashley-macisaac-ai-accusation-9.7026786) • 1d ago
 
 ---
 
@@ -75,11 +67,19 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 ---
 
+**[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
+
+Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
+
+4h ago
+
+---
+
 **[130 AI apps for visual creation in 11 categories](https://www.reddit.com/r/artificial/comments/1pusg4k/130_ai_apps_for_visual_creation_in_11_categories/)**
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 6h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 7h ago
 
 ---
 
@@ -87,7 +87,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 7h ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 8h ago
 
 ---
 
@@ -303,7 +303,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 7h ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 8h ago
 
 ---
 
@@ -319,37 +319,37 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 ## Google News: "ai"
 
-**[Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
+**[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 2h ago
+CNBC • 4h ago
 
 ---
 
-**[Nvidia to license Groq technology, hire executives](https://www.reuters.com/business/nvidia-buy-ai-chip-startup-groq-about-20-billion-cnbc-reports-2025-12-24/)**
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-Reuters • 1h ago
+The New York Times • 1h ago
 
 ---
 
-**[Nvidia acquires AI chip challenger Groq for $20B, report says](https://finance.yahoo.com/news/nvidia-acquires-ai-chip-challenger-220316328.html)**
+**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
-With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
+World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Yahoo Finance • 1h ago
+Financial Times • 1h ago
 
 ---
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
 
 ---
 
 **[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
 
-France 24 • 13h ago
+France 24 • 15h ago
 
 ---
 
@@ -361,35 +361,33 @@ The Guardian • 7d ago
 
 ---
 
+**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
+
+While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
+
+CNBC • 12h ago
+
+---
+
+**[Is Marvell Technology Attractively Priced After Recent AI Driven Share Price Rebound?](https://finance.yahoo.com/news/marvell-technology-attractively-priced-recent-001945502.html)**
+
+If you are wondering whether Marvell Technology is a bargain or a value trap at around $86 a share, you are not alone. This stock sits right at the crossroads of AI excitement and real cash flow expectations. Over the last week the stock is up 5.9%, adding to a 3.2% gain over the past month. Those shorter term moves sit against a tougher backdrop of a -23.8% year to date return and -25.2% over the last year, even after a 147.4% gain over three years and 85.6% over five. Recently, investors...
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth](https://www.investors.com/news/technology/microsoft-stock-msft-core-winner-in-ai/)**
+
+Investor's Business Daily • 6h ago
+
+---
+
 **[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
 blog.google • 1d ago
-
----
-
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-Fortune • 1d ago
-
----
-
-**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
-
-Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
-
-Los Angeles Times • 12h ago
-
----
-
-**[2025 has seen an explosion of AI-generated slop](https://www.npr.org/2025/12/24/nx-s1-5629169/2025-has-seen-an-explosion-of-ai-generated-slop)**
-
-2025 has seen an explosion in AI-generated slop. NPR's Geoff Brumfiel and Shannon Bond discuss how AI-generated videos are shaping reality online.
-
-NPR • 1h ago
 
 ---
 
@@ -405,19 +403,19 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 ---
 
-**[iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://news.ycombinator.com/item?id=46362927)**
-
-The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
-
-⬆️ 308 • 💬 293 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
-
----
-
 **[Nvidia buying AI chip startup Groq for about $20B in cash](https://news.ycombinator.com/item?id=46379183)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 246 • 💬 145 • 2h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 322 • 💬 203 • 4h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+
+---
+
+**[iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://news.ycombinator.com/item?id=46362927)**
+
+The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
+
+⬆️ 310 • 💬 296 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -425,7 +423,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 239 • 💬 244 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 239 • 💬 244 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -437,17 +435,17 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 ---
 
-**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
-
-⬆️ 193 • 💬 216 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
-
----
-
 **[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 187 • 💬 67 • 6h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 215 • 💬 76 • 7h ago • [GitHub](https://github.com/VibiumDev/vibium)
+
+---
+
+**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
+
+⬆️ 193 • 💬 216 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -481,7 +479,7 @@ I wanted to combine fashion and dance for this one. Midjourney sometimes makes t
 
 📺 Kelly Boesch AI Art
 
-👁️ 15K • 👍 1K • 💬 57 • ⏱️ 3:00 • 9h ago
+👁️ 15K • 👍 1K • 💬 57 • ⏱️ 3:00 • 11h ago
 
 ---
 
@@ -491,7 +489,7 @@ The robot uprising has already happened, and its just boring slush destroying ev
 
 📺 Lily Simpson
 
-👁️ 4K • 👍 737 • 💬 133 • ⏱️ 24:19 • 8h ago
+👁️ 4K • 👍 737 • 💬 133 • ⏱️ 24:19 • 10h ago
 
 ---
 
@@ -501,7 +499,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 68K • 👍 3K • 💬 350 • ⏱️ 30:43 • 20h ago
+👁️ 68K • 👍 3K • 💬 350 • ⏱️ 30:43 • 21h ago
 
 ---
 
@@ -511,7 +509,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 21K • 👍 1K • 💬 543 • ⏱️ 11:28 • 23h ago
+👁️ 21K • 👍 1K • 💬 543 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -551,7 +549,7 @@ Ranking The Most Diabolical SORA AI Disney Trailers   #funny #funnyvideos #viral
 
 📺 Bigfoot Feed
 
-👁️ 1K • 👍 73 • 💬 5 • ⏱️ 0:53 • 1h ago
+👁️ 1K • 👍 73 • 💬 5 • ⏱️ 0:53 • 2h ago
 
 ---
 
@@ -561,7 +559,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 10K • 👍 181 • 💬 40 • ⏱️ 7:50 • 18h ago
+👁️ 10K • 👍 181 • 💬 40 • ⏱️ 7:50 • 20h ago
 
 ---
 
@@ -587,7 +585,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 776 • 1d ago
+⬇️ 2,719 • ❤️ 784 • 1d ago
 
 ---
 
@@ -611,7 +609,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,397 • 16d ago
+⬇️ 384,826 • ❤️ 3,398 • 16d ago
 
 ---
 
@@ -623,19 +621,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 559 • 6d ago
-
----
-
-**[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
-
-*Tencent*
-
-HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modeling with long-term geometric consistency. It uses a streaming video diffusion approach with novel memory management and RL post-training for applications like 3D reconstruction and scene generation.
-
-`image-to-video`
-
-⬇️ 3,398 • ❤️ 418 • 6d ago
+⬇️ 24,883 • ❤️ 562 • 6d ago
 
 ---
 
@@ -651,6 +637,18 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
+**[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
+
+*Tencent*
+
+HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modeling with long-term geometric consistency. It uses a streaming video diffusion approach with novel memory management and RL post-training for applications like 3D reconstruction and scene generation.
+
+`image-to-video`
+
+⬇️ 3,398 • ❤️ 418 • 6d ago
+
+---
+
 **[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
 
 *Microsoft*
@@ -659,7 +657,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 393 • 1d ago
+⬇️ 0 • ❤️ 394 • 1d ago
 
 ---
 
@@ -671,7 +669,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 301 • 1d ago
+⬇️ 1,152 • ❤️ 304 • 1d ago
 
 ---
 
@@ -681,7 +679,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 281 • 6d ago
+⬇️ 0 • ❤️ 282 • 6d ago
 
 ---
 
@@ -850,7 +848,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 695 • 3h ago
+⭐ 6.2k • 🔱 696 • 5h ago
 
 ---
 
@@ -860,7 +858,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 422 • 1h ago
+⭐ 3.3k • 🔱 424 • 2h ago
 
 ---
 
@@ -870,7 +868,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 198 • 1h ago
+⭐ 2.8k • 🔱 202 • 1h ago
 
 ---
 
@@ -890,7 +888,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 211 • 18h ago
+⭐ 1.3k • 🔱 212 • 19h ago
 
 ---
 
@@ -900,7 +898,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.1k • 🔱 100 • 2d ago
+⭐ 1.1k • 🔱 101 • 2d ago
 
 ---
 
@@ -920,17 +918,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 890 • 🔱 128 • 7d ago
+⭐ 896 • 🔱 128 • 7d ago
 
 ---
 
-**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
+**[Turbo1123/roubao](https://github.com/Turbo1123/roubao)**
 
-GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+Android Automation Tool Based on Vision-Language Models
 
-`Python`
+`Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
 
-⭐ 821 • 🔱 66 • 21d ago
+⭐ 713 • 🔱 78 • 6d ago
 
 ---
 

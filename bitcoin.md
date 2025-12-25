@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-24T23:53:10.732394+00:00'
+updated: '2025-12-25T01:17:34.524123+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 24, 2025 at 23:53 UTC  
+**Last Updated:** December 25, 2025 at 01:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,739.58
+### $87,420.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +3.0%  
-**30d:** +0.3%  
-**90d:** -20.0%  
-**1y:** -11.6%  
+**24h:** +0.6%  
+**7d:** -0.5%  
+**30d:** -3.1%  
+**90d:** -19.9%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.96B
+**Market Cap:** $1748.02B
 Rank #1
 
-**Circulating Supply:** 19,966,643 BTC
+**Circulating Supply:** 19,966,687 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129099.2%
++129088.9%
 
 ---
 
@@ -79,19 +79,7 @@ Rank #1
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-5h ago
-
----
-
-**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
-
-11h ago
-
----
-
-**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
-
-11h ago
+6h ago
 
 ---
 
@@ -99,13 +87,13 @@ Rank #1
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-6h ago
+7h ago
 
 ---
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -113,25 +101,19 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-1h ago
+2h ago
+
+---
+
+**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
+
+12h ago
 
 ---
 
 **[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
 
-2h ago
-
----
-
-**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
-
-18h ago
-
----
-
-**[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
-
-8h ago
+4h ago
 
 ---
 
@@ -139,7 +121,25 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
 
-2h ago
+3h ago
+
+---
+
+**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+
+20h ago
+
+---
+
+**[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
+
+9h ago
+
+---
+
+**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
+
+12h ago
 
 ---
 
@@ -151,23 +151,7 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 Measured against U.S. money supply, gold is back at levels that marked major historical peaks, while bitcoin retraces toward a key cycle floor.
 
-CoinDesk • 11h ago
-
----
-
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.nasdaq.com/articles/crypto-thats-outperforming-bitcoin-501)**
-
-Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
-
-Nasdaq • 4h ago
-
----
-
-**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
-
-The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
-
-Yahoo Finance • 2d ago
+CoinDesk • 13h ago
 
 ---
 
@@ -179,21 +163,31 @@ The Guardian • 1d ago
 
 ---
 
+**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
+
+The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+
+Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
+
+The Motley Fool • 5h ago
+
+---
+
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 17h ago
+KRON4 • 18h ago
 
 ---
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 14h ago
-
----
-
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 1d ago
+The Block • 16h ago
 
 ---
 
@@ -205,17 +199,25 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
 
-Investor's Business Daily • 1d ago
+The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
+
+CoinDesk • 2d ago
 
 ---
 
-**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
 
-Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Inquirer.com • 1d ago
+Investopedia • 1d ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -233,7 +235,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 4 • 💬 2 • 9h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 4 • 💬 2 • 11h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -255,7 +257,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 66 • 💬 36 • 7h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 70 • 💬 36 • 8h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -285,7 +287,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 12K • 👍 218 • 💬 131 • ⏱️ 8:19 • 10h ago
+👁️ 12K • 👍 218 • 💬 131 • ⏱️ 8:19 • 11h ago
 
 ---
 
@@ -305,7 +307,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 158 • 💬 45 • ⏱️ 1:12 • 3h ago
+👁️ 4K • 👍 158 • 💬 45 • ⏱️ 1:12 • 4h ago
 
 ---
 
@@ -355,7 +357,7 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 190 • ⏱️ 11:35 • 1d ago
+👁️ 30K • 👍 2K • 💬 190 • ⏱️ 11:35 • 2d ago
 
 ---
 
@@ -365,7 +367,7 @@ Bitcoin price action has been rough, but something bigger may be forming. Profes
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 279 • 💬 42 • ⏱️ 1:41 • 22h ago
+👁️ 9K • 👍 279 • 💬 42 • ⏱️ 1:41 • 23h ago
 
 ---
 

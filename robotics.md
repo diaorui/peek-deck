@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-24T23:53:10.741554+00:00'
+updated: '2025-12-25T01:17:34.533466+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 24, 2025 at 23:53 UTC  
+**Last Updated:** December 25, 2025 at 01:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-2h ago
+3h ago
 
 ---
 
@@ -44,15 +44,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-10h ago
-
----
-
-**[Are there any building systems with the same modularity as aluminum extrusions, but made of rods and screws?](https://www.reddit.com/r/robotics/comments/1puuk7h/are_there_any_building_systems_with_the_same/)**
-
-I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
-
-4h ago
+11h ago
 
 ---
 
@@ -60,13 +52,21 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
 
-3h ago
+4h ago
+
+---
+
+**[Are there any building systems with the same modularity as aluminum extrusions, but made of rods and screws?](https://www.reddit.com/r/robotics/comments/1puuk7h/are_there_any_building_systems_with_the_same/)**
+
+I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
+
+6h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ Torque = k × current Heat = current² × R At stall or high-load, adjusting pos
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-8h ago
+9h ago
 
 ---
 
@@ -86,23 +86,25 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
+**[Looking for a URDF for the 4 DOF Waveshare robot arm](https://www.reddit.com/r/robotics/comments/1pv04db/looking_for_a_urdf_for_the_4_dof_waveshare_robot/)**
+
+Not sure if this is the right place but I thought I'd ask. Does anyone have a URDF for this robot arm: https://www.waveshare.com/robot-arm-for-pi.htm? I thought I'd look around before trying to make one but I haven't found anything yet.
+
+1h ago
+
+---
+
 **[Optimizing a PID controller for a self-balancing robot, first time](https://www.reddit.com/r/robotics/comments/1pux135/optimizing_a_pid_controller_for_a_selfbalancing/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 4h ago
 
 ---
 
 **[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
 
 1d ago
-
----
-
-**[Minimal VL53L0X Time-of-Flight driver for bare-metal MCUs (feedback wanted)](https://www.reddit.com/r/robotics/comments/1purka8/minimal_vl53l0x_timeofflight_driver_for_baremetal/)**
-
-7h ago
 
 ---
 
@@ -118,22 +120,6 @@ hyundai.com • 2d ago
 
 ---
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
-
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
-
-Earth.com • 8h ago
-
----
-
-**[Robot school in China trains humanoids for factories and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
-
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
-
-Interesting Engineering • 1d ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
@@ -142,25 +128,41 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+
+Earth.com • 9h ago
+
+---
+
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
+
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
+
+El Adelantado • 2d ago
+
+---
+
+**[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
+
+Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 10h ago
+New Atlas • 11h ago
 
 ---
 
 **[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
-
-Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
-
-Good Morning Wilton • 2d ago
 
 ---
 
@@ -178,9 +180,11 @@ Phys.org • 1d ago
 
 ---
 
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+**[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
-Investor's Business Daily • 8h ago
+Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
+
+Good Morning Wilton • 2d ago
 
 ---
 
@@ -204,7 +208,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 48K • 👍 816 • 💬 84 • ⏱️ 2:08:46 • 4d ago
+👁️ 48K • 👍 816 • 💬 84 • ⏱️ 2:08:46 • 5d ago
 
 ---
 
@@ -234,7 +238,7 @@ Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Ai Hypex
 
-👁️ 22K • 👍 153 • 💬 1 • ⏱️ 0:10 • 6h ago
+👁️ 22K • 👍 153 • 💬 1 • ⏱️ 0:10 • 7h ago
 
 ---
 
