@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T11:52:01.970894+00:00'
+updated: '2025-12-25T12:27:39.163183+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 11:52 UTC  
+**Last Updated:** December 25, 2025 at 12:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -0.9%  
-**30d:** -3.5%  
-**90d:** -20.2%  
-**1y:** -8.8%  
+**24h:** +0.2%  
+**7d:** -0.7%  
+**30d:** -3.3%  
+**90d:** -20.0%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.32B
+**Market Cap:** $1746.56B
 Rank #1
 
-**Circulating Supply:** 19,966,834 BTC
+**Circulating Supply:** 19,966,906 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128886.9%
++128892.8%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-9h ago
+4h ago
 
 ---
 
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-3h ago
+10h ago
 
 ---
 
@@ -113,19 +113,13 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
 
-6h ago
+7h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-10h ago
-
----
-
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
-
-1d ago
+11h ago
 
 ---
 
@@ -137,11 +131,15 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 ---
 
-**[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
+1d ago
 
-18h ago
+---
+
+**[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
+
+4h ago
 
 ---
 
@@ -175,7 +173,7 @@ The Block • 1d ago
 
 The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -187,21 +185,21 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqerEAZBG6AwgYZwulF_pEBP_OOuhzQKstMXxp31Sc4wEMAJgn2xyyif&gaa_ts=694d263f&gaa_sig=YvWUOXw9NEXlwa6vZIgbd9wiG8E8ZU0qPo9pxEJ7bS0cW7bOPrEQIVq17bfkiBjW0Iim-f2OzvrsYqUK4Lt9KA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcEdvKe6C73KII-Vpo6Q277gSRUxRo7fVJX8sXQdFoEh6zugkvnhyf-&gaa_ts=694d312a&gaa_sig=aDIbjFYpQHHKvBz4a5Pv94y12X_EZoepfxSo8mp1sboOWqzUbgWHWIcicF6uT2u_MB4RXZqto3AI_iFQTemRgA%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
-
-KRON4 • 1d ago
 
 ---
 
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
 Reuters • 21h ago
+
+---
+
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 1d ago
 
 ---
 
@@ -227,7 +225,7 @@ Inquirer.com • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 21h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 22h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -263,7 +261,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 79 • 💬 36 • 19h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 79 • 💬 36 • 20h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -293,7 +291,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 168 • ⏱️ 37:34 • 14h ago
+👁️ 28K • 👍 1K • 💬 168 • ⏱️ 37:34 • 15h ago
 
 ---
 
@@ -313,7 +311,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 19K • 👍 275 • 💬 196 • ⏱️ 8:19 • 22h ago
+👁️ 19K • 👍 275 • 💬 196 • ⏱️ 8:19 • 23h ago
 
 ---
 
@@ -323,7 +321,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 260 • 💬 32 • ⏱️ 7:13 • 11h ago
+👁️ 5K • 👍 260 • 💬 32 • ⏱️ 7:13 • 12h ago
 
 ---
 
@@ -383,7 +381,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 27K • 👍 3K • 💬 196 • ⏱️ 19:10 • 14h ago
+👁️ 27K • 👍 3K • 💬 196 • ⏱️ 19:10 • 15h ago
 
 ---
 
