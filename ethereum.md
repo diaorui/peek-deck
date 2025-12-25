@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T05:13:38.904382+00:00'
+updated: '2025-12-25T05:42:47.331059+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 05:13 UTC  
+**Last Updated:** December 25, 2025 at 05:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.13B
+**Market Cap:** $354.68B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.6%
 
 **All-Time Low:** $0.43
-+679457.2%
++678741.2%
 
 ---
 
@@ -94,13 +94,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-12h ago
+13h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -116,7 +116,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 21h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 22h ago
 
 ---
 
@@ -156,14 +156,6 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
-
-Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
-
-Crypto Briefing • 1d ago
-
----
-
 **[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
@@ -179,12 +171,6 @@ CCN.com • 1d ago
 ---
 
 **[Tom Lee's BitMine adds another $88 million worth of ETH to growing treasury](https://www.theblock.co/post/383595/tom-lees-bitmine-88-million-eth)**
-
-The Block • 1d ago
-
----
-
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
 The Block • 1d ago
 
@@ -206,6 +192,12 @@ Decrypt • 1d ago
 
 ---
 
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+
+The Block • 1d ago
+
+---
+
 **[Ethereum Price Flashes Bearish Bias, Bulls Lose Short-Term Control](https://www.tradingview.com/news/newsbtc:3279429cd094b:0-ethereum-price-flashes-bearish-bias-bulls-lose-short-term-control/)**
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
@@ -217,6 +209,14 @@ TradingView — Track All Markets • 1d ago
 **[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
 
 TipRanks • 1d ago
+
+---
+
+**[Ethereum treasury news: ETHZilla (ETHZ) sells $74.5 million in ETH to pare liabilities](https://www.coindesk.com/business/2025/12/22/ethzilla-sells-usd74-5-million-of-ether-in-effort-to-trim-debt-load)**
+
+This is the second time the firm sold a part of its crypto treasury, following a $40 million ether sale in October to buy back its stock.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:51 • 14h ago
+👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:51 • 15h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 248 • 💬 145 • ⏱️ 19:06 • 12h ago
+👁️ 6K • 👍 248 • 💬 145 • ⏱️ 19:06 • 13h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 369 • 👍 16 • 💬 24 • ⏱️ 5:15 • 14h ago
+👁️ 369 • 👍 16 • 💬 24 • ⏱️ 5:15 • 15h ago
 
 ---
 
@@ -280,7 +280,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 376 • 47m ago
+👁️ 2K • 👍 376 • 1h ago
 
 ---
 
@@ -290,7 +290,7 @@ These institutions will not stop... the amount of Bitcoin and Ethereum being acc
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 660 • 💬 155 • ⏱️ 17:59 • 19h ago
+👁️ 6K • 👍 660 • 💬 155 • ⏱️ 17:59 • 20h ago
 
 ---
 

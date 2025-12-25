@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T05:13:38.898272+00:00'
+updated: '2025-12-25T05:42:47.324366+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 05:13 UTC  
+**Last Updated:** December 25, 2025 at 05:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,677.96
+### $88,073.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
+**24h:** +1.0%  
 **7d:** -0.6%  
 **30d:** -3.2%  
-**90d:** -20.0%  
+**90d:** -19.9%  
 **1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.57B
+**Market Cap:** $1750.70B
 Rank #1
 
-**Circulating Supply:** 19,966,718 BTC
+**Circulating Supply:** 19,966,771 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.4%
+-30.5%
 
 **All-Time Low:** $67.81
-+129288.0%
++129208.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-6h ago
+7h ago
 
 ---
 
@@ -91,31 +91,15 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 ---
 
-**[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
-
-Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
-
-11h ago
-
----
-
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
 20h ago
 
 ---
 
-**[india just passed 93 million bitcoin holders. heres why that changes everything.](https://www.reddit.com/r/Bitcoin/comments/1pv3vjj/india_just_passed_93_million_bitcoin_holders/)**
-
-the numbers dropped this week and nobody seems to get what theyre looking at. india now has 93 million people holding bitcoin. thats double the united states. and the country is just getting started. heres what most people miss about why this matters. india sends $100 billion in remittances home every single year. workers in dubai and toronto and london sending money back to their families. every transfer gets eaten by fees. western union and the banks skim off the top while adding nothing. bitcoin fixes this overnight. one transaction. done. the 93 million people who figured this out arent speculating.... theyre solving a real problem. but theres something deeper happening here. india is a gold culture. has been for 5,000 years. weddings revolve around gold. families pass it down through generations. its not just investment there.... its identity. its trust. its how you protect your family across time. now imagine that same culture discovering digital gold. scarce. portable. transferable. seizure resistant. unseizable by governments that have frozen assets before. of course they get it. and then theres the tech angle. india produces more software engineers than anywhere on earth. silicon valley runs on indian talent. these arent people who need bitcoin explained slowly. they read the whitepaper. they understood the math. they saw what it means. 800 million smartphone users. median age 28. more english speakers than the uk. the largest democracy on earth. and now the largest bitcoin adopting nation. the west sees bitcoin as a trade. india sees it as infrastructure. when i helped build one of the first bitcoin exchanges there back in 2013.... we got shut down. banks froze our accounts. the government called us criminals. we took it all the way to the supreme court. and we won. because you cant stop 93 million people who understand what sovereignty actually means. everyone keeps asking wheres the next wave coming from. its not institutions. its not etfs. its a billion people who just realized bitcoin is gold you can send through a phone. what does this mean long term? the worlds largest population. youngest demographics. english speaking. tech native. gold obsessed. mobile first. democratic. aligned with the west but building their own future. bitcoin wasnt designed for wall street. it was designed for exactly this.
-
-2h ago
-
----
-
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,9 +109,23 @@ the numbers dropped this week and nobody seems to get what theyre looking at. in
 
 ---
 
+**[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
+
+Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
+
+12h ago
+
+---
+
+**[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
+
+1h ago
+
+---
+
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +133,7 @@ the numbers dropped this week and nobody seems to get what theyre looking at. in
 
 Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +157,7 @@ CoinDesk • 16h ago
 
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -171,19 +169,11 @@ CoinDesk • 19h ago
 
 ---
 
-**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
-
-Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
-
-Yahoo Finance • 2d ago
-
----
-
 **[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -209,15 +199,25 @@ KRON4 • 22h ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
 The Block • 20h ago
+
+---
+
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
+
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
+
+The Motley Fool • 1d ago
+
+---
+
+**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
+
+The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -239,15 +239,15 @@ How much of a resource hog is AI?
 
 ---
 
-**[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 1 • 💬 1 • 5d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 2 • 💬 0 • 58m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
+**[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 0 • 28m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 1 • 💬 1 • 5d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -263,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 76 • 💬 36 • 12h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 78 • 💬 36 • 13h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -313,7 +313,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 15K • 👍 250 • 💬 150 • ⏱️ 8:19 • 15h ago
+👁️ 15K • 👍 250 • 💬 150 • ⏱️ 8:19 • 16h ago
 
 ---
 
@@ -383,7 +383,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 91 • ⏱️ 37:34 • 7h ago
+👁️ 16K • 👍 1K • 💬 91 • ⏱️ 37:34 • 8h ago
 
 ---
 

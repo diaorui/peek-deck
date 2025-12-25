@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T05:13:38.889872+00:00'
+updated: '2025-12-25T05:42:47.314734+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 05:13 UTC  
+**Last Updated:** December 25, 2025 at 05:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,27 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
-**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
-
-“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
-
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 21h ago
-
----
-
 **[GPT 5.1 Is Dumber Than 4 Was](https://www.reddit.com/r/artificial/comments/1pv45az/gpt_51_is_dumber_than_4_was/)**
 
 I cant find a single thing it does better
 
+2h ago
+
+---
+
+**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
+
+I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
+
 1h ago
+
+---
+
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 22h ago
 
 ---
 
@@ -66,14 +74,6 @@ I cant find a single thing it does better
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
 🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 20h ago
-
----
-
-**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
-
-I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
-
-32m ago
 
 ---
 
@@ -103,7 +103,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 11h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 12h ago
 
 ---
 
@@ -133,11 +133,11 @@ The New York Times • 5h ago
 
 ---
 
-**[Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)**
+**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
-With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
+World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-TechCrunch • 7h ago
+Financial Times • 6h ago
 
 ---
 
@@ -157,15 +157,23 @@ France 24 • 19h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 10h ago
+Pittsburgh Post-Gazette • 11h ago
 
 ---
 
-**[Posts claiming Thailand army staged troop pictures share AI images](https://www.yahoo.com/news/articles/posts-claiming-thailand-army-staged-025349042.html)**
+**[Monetizers vs manufactures: How the AI market could splinter in 2026](https://www.cnbc.com/2025/12/25/how-the-ai-market-could-splinter-in-2026-.html)**
 
-After Thai media reported the country's army had retaken a temple on the disputed border with Cambodia, images were shared in Khmer-language posts falsely claiming Thailand's military had staged pictures of their troops using a studio and green screen. The images were flagged as having been made with Google's AI tools, and contain visual errors indicative of fabricated content.
+AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.
 
-Yahoo • 2h ago
+CNBC • 36m ago
+
+---
+
+**[Video: What Parents in China See in A.I. Toys](https://www.nytimes.com/video/world/asia/100000010595407/china-ai-toy-chatbot.html)**
+
+A video of a child crying over her broken A.I. chatbot stirred up conversation in China, with some viewers questioning whether the gadgets are good for children. But the girl’s father says it’s more than a toy; it’s a family member.
+
+The New York Times • 41m ago
 
 ---
 
@@ -185,14 +193,6 @@ blog.google • 1d ago
 
 ---
 
-**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
-
-Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
-
-Los Angeles Times • 18h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -209,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 428 • 💬 248 • 8h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 444 • 💬 258 • 8h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -217,7 +217,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 313 • 💬 302 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 315 • 💬 303 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -225,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 254 • 💬 83 • 11h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 265 • 💬 84 • 11h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -261,15 +261,15 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 64 • 💬 32 • 5h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 72 • 💬 36 • 6h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
-**[Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://news.ycombinator.com/item?id=46380730)**
+**[Microsoft denies rewriting Windows 11 in Rust using AI](https://news.ycombinator.com/item?id=46381813)**
 
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 42 • 💬 4 • 5h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 51 • 💬 40 • 2h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 812 • 1d ago
+⬇️ 2,719 • ❤️ 817 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 686 • 5d ago
+⬇️ 11,944 • ❤️ 687 • 5d ago
 
 ---
 
@@ -411,7 +411,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,403 • 16d ago
+⬇️ 384,826 • ❤️ 3,404 • 16d ago
 
 ---
 
@@ -423,7 +423,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 570 • 6d ago
+⬇️ 24,883 • ❤️ 572 • 6d ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 314 • 1d ago
+⬇️ 1,152 • ❤️ 315 • 1d ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 285 • 6d ago
+⬇️ 0 • ❤️ 286 • 6d ago
 
 ---
 
@@ -493,7 +493,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 14,184 • ❤️ 438 • 7d ago
+⬇️ 14,184 • ❤️ 439 • 7d ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 204 • 44m ago
+⭐ 2.9k • 🔱 204 • 1h ago
 
 ---
 
@@ -730,7 +730,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 808 • 🔱 41 • 11h ago
+⭐ 808 • 🔱 41 • 12h ago
 
 ---
 
