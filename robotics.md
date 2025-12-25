@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T21:35:22.680158+00:00'
+updated: '2025-12-25T21:47:18.096019+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 21:35 UTC  
+**Last Updated:** December 25, 2025 at 21:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-19h ago
+20h ago
 
 ---
 
@@ -146,7 +146,7 @@ New Atlas • 21h ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 44m ago
+Tech Xplore • 56m ago
 
 ---
 
@@ -228,7 +228,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 70K • 💬 4 • ⏱️ 0:27 • 17h ago
+👁️ 70K • 💬 4 • ⏱️ 0:27 • 18h ago
 
 ---
 
