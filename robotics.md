@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T20:41:31.273824+00:00'
+updated: '2025-12-25T20:54:29.300766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 20:41 UTC  
+**Last Updated:** December 25, 2025 at 20:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -72,7 +72,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-28m ago
+41m ago
 
 ---
 
@@ -104,7 +104,7 @@ Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de 
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 51m ago
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 1h ago
 
 ---
 
@@ -228,7 +228,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 70K • 💬 4 • ⏱️ 0:27 • 16h ago
+👁️ 70K • 💬 4 • ⏱️ 0:27 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T20:41:31.257927+00:00'
+updated: '2025-12-25T20:54:29.283176+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - social
 - repositories
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 20:41 UTC  
+**Last Updated:** December 25, 2025 at 20:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 Since it’s Christmas, I ended up thinking through a Christmas-themed use case, mostly as a way to explain how I approach agent design beyond the foundational layer. The theme itself doesn’t matter much. It just gives you a nice mix of: vague, emotional intent (“I just want this sorted”) hard constraints (budget, deadlines) multiple domains at once When I think about designing an agent here, I’m less focused on responses and more on what components are actually required. For example: an analyzer that turns messy input into something structured (e.g., “budget-sensitive,” “family of 5,” “fixed deadline”) a planner that converts that into a concrete workflow (gift planning, reminders, budget tracking) small, focused workers (one that suggests gifts under a price cap, another that tracks cumulative spend) a validator that can say “this doesn’t work” before anything is shown What’s been interesting for me is how much value you get from automating the build of these components, like prompt scaffolding, baseline RAG setup, and eval wiring. It removes a lot of boring glue work while keeping the system structured and easier to trust. What would be your Christmas themed Agent 😁😉 and how would you approach it?
 
-13m ago
+26m ago
 
 ---
 
@@ -65,7 +65,7 @@ Since it’s Christmas, I ended up thinking through a Christmas-themed use case,
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 17h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 44m ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 57m ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Pl
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -539,7 +539,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
 
-▲ 48 • 💬 5 • ⭐ 141 • 2d ago
+▲ 49 • 💬 5 • ⭐ 141 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 449 • 1h ago
+⭐ 3.5k • 🔱 452 • 4m ago
 
 ---
 
@@ -688,6 +688,16 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 ---
 
+**[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
+
+Browser automation for AI agents and humans
+
+`Go`
+
+⭐ 1.3k • 🔱 57 • 1d ago
+
+---
+
 **[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
 
 一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
@@ -695,16 +705,6 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 `JavaScript`
 
 ⭐ 1.3k • 🔱 219 • 5h ago
-
----
-
-**[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
-
-Browser automation for AI agents and humans
-
-`Go`
-
-⭐ 1.3k • 🔱 55 • 1d ago
 
 ---
 
@@ -734,7 +734,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 913 • 🔱 128 • 8d ago
+⭐ 914 • 🔱 128 • 8d ago
 
 ---
 
