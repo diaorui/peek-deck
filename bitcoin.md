@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T03:05:46.962253+00:00'
+updated: '2025-12-25T04:06:16.219871+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 03:05 UTC  
+**Last Updated:** December 25, 2025 at 04:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,42 +44,50 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.1%  
-**30d:** -2.8%  
-**90d:** -19.6%  
-**1y:** -8.1%  
+**24h:** +1.0%  
+**7d:** -0.2%  
+**30d:** -2.9%  
+**90d:** -19.7%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1753.75B
+**Market Cap:** $1752.05B
 Rank #1
 
 **Circulating Supply:** 19,966,718 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.4%
 
 **All-Time Low:** $67.81
-+129451.7%
++129251.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 24
+### 23
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[Just a reminder: On this day 2 years ago, BTC was under $45k. If you’re panicking at $86k, you haven't been paying attention.](https://www.reddit.com/r/Bitcoin/comments/1puz7ru/just_a_reminder_on_this_day_2_years_ago_btc_was/)**
+
+Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
+
+5h ago
+
+---
+
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,33 +95,39 @@ Rank #1
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-9h ago
-
----
-
-**[Just a reminder: On this day 2 years ago, BTC was under $45k. If you’re panicking at $86k, you haven't been paying attention.](https://www.reddit.com/r/Bitcoin/comments/1puz7ru/just_a_reminder_on_this_day_2_years_ago_btc_was/)**
-
-Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
-
-4h ago
+10h ago
 
 ---
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-18h ago
+19h ago
+
+---
+
+**[india just passed 93 million bitcoin holders. heres why that changes everything.](https://www.reddit.com/r/Bitcoin/comments/1pv3vjj/india_just_passed_93_million_bitcoin_holders/)**
+
+the numbers dropped this week and nobody seems to get what theyre looking at. india now has 93 million people holding bitcoin. thats double the united states. and the country is just getting started. heres what most people miss about why this matters. india sends $100 billion in remittances home every single year. workers in dubai and toronto and london sending money back to their families. every transfer gets eaten by fees. western union and the banks skim off the top while adding nothing. bitcoin fixes this overnight. one transaction. done. the 93 million people who figured this out arent speculating.... theyre solving a real problem. but theres something deeper happening here. india is a gold culture. has been for 5,000 years. weddings revolve around gold. families pass it down through generations. its not just investment there.... its identity. its trust. its how you protect your family across time. now imagine that same culture discovering digital gold. scarce. portable. transferable. seizure resistant. unseizable by governments that have frozen assets before. of course they get it. and then theres the tech angle. india produces more software engineers than anywhere on earth. silicon valley runs on indian talent. these arent people who need bitcoin explained slowly. they read the whitepaper. they understood the math. they saw what it means. 800 million smartphone users. median age 28. more english speakers than the uk. the largest democracy on earth. and now the largest bitcoin adopting nation. the west sees bitcoin as a trade. india sees it as infrastructure. when i helped build one of the first bitcoin exchanges there back in 2013.... we got shut down. banks froze our accounts. the government called us criminals. we took it all the way to the supreme court. and we won. because you cant stop 93 million people who understand what sovereignty actually means. everyone keeps asking wheres the next wave coming from. its not institutions. its not etfs. its a billion people who just realized bitcoin is gold you can send through a phone. what does this mean long term? the worlds largest population. youngest demographics. english speaking. tech native. gold obsessed. mobile first. democratic. aligned with the west but building their own future. bitcoin wasnt designed for wall street. it was designed for exactly this.
+
+59m ago
+
+---
+
+**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
+
+1h ago
 
 ---
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-14h ago
+15h ago
 
 ---
 
-**[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-5h ago
+2h ago
 
 ---
 
@@ -121,25 +135,13 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
 
-5h ago
+6h ago
 
 ---
 
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
+**[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
 
-1h ago
-
----
-
-**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
-
-40m ago
-
----
-
-**[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
-
-14h ago
+6h ago
 
 ---
 
@@ -151,13 +153,13 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -169,11 +171,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Tom Lee Addresses Fundstrat's Diverging Bitcoin Predictions Amid Controversy On X](https://finance.yahoo.com/news/tom-lee-addresses-fundstrats-diverging-023125960.html)**
+
+Fundstrat co-founder and BitMine Immersion Technologies Inc. (NYSE:BMNR) executive chairman Tom Lee on Saturday responded to a controversy around seemingly mixed signals being sent by Fundstrat's analysts on Bitcoin (CRYPTO: BTC). Conflicting ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -195,29 +205,19 @@ Investopedia • 1d ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 20h ago
+KRON4 • 21h ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 18h ago
-
----
-
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
-
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
-
-The Motley Fool • 1d ago
-
----
-
-**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
-
-The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
-
-CoinDesk • 2d ago
+The Block • 19h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 2d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 13h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 14h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -257,7 +257,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 73 • 💬 36 • 10h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 76 • 💬 36 • 11h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -287,7 +287,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 14K • 👍 241 • 💬 148 • ⏱️ 8:19 • 13h ago
+👁️ 14K • 👍 241 • 💬 148 • ⏱️ 8:19 • 14h ago
 
 ---
 
@@ -307,7 +307,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 215 • 💬 45 • ⏱️ 1:12 • 6h ago
+👁️ 7K • 👍 215 • 💬 45 • ⏱️ 1:12 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the cryp
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 322 • 💬 13 • ⏱️ 58:02 • 10h ago
+👁️ 5K • 👍 322 • 💬 13 • ⏱️ 58:02 • 11h ago
 
 ---
 
@@ -377,7 +377,7 @@ Yes, Bitcoin is currently experiencing significant volatility and price drops (a
 
 📺 Ricky Gutierrez
 
-👁️ 7K • 👍 394 • 💬 125 • ⏱️ 9:15 • 7h ago
+👁️ 7K • 👍 394 • 💬 125 • ⏱️ 9:15 • 8h ago
 
 ---
 

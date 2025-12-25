@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T03:05:46.953884+00:00'
+updated: '2025-12-25T04:06:16.211442+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 03:05 UTC  
+**Last Updated:** December 25, 2025 at 04:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 19m ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 1h ago
 
 ---
 
@@ -49,7 +49,15 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 19h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 20h ago
+
+---
+
+**[GPT 5.1 Is Dumber Than 4 Was](https://www.reddit.com/r/artificial/comments/1pv45az/gpt_51_is_dumber_than_4_was/)**
+
+I cant find a single thing it does better
+
+43m ago
 
 ---
 
@@ -57,7 +65,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 18h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 19h ago
 
 ---
 
@@ -79,7 +87,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-5h ago
+6h ago
 
 ---
 
@@ -87,15 +95,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 9h ago
-
----
-
-**[Can AI ever be funny? Some comedians embrace AI tools but they're still running the show](https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/)**
-
-Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
-
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 10h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 10h ago
 
 ---
 
@@ -107,211 +107,11 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 ---
 
-**[It's not the model, it's the tool](https://www.reddit.com/r/artificial/comments/1purnyi/its_not_the_model_its_the_tool/)**
+**[Can AI ever be funny? Some comedians embrace AI tools but they're still running the show](https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/)**
 
-Every week, a new “SOTA” (State of the Art) model is announced, promising higher reasoning capabilities and (often) lower costs. We could be led to think that we are entering an era of infinite, frictionless productivity. But the reality is messier. While the models are getting smarter, the gap between “intelligence on tap” and “completing a task” is managed by our tools and right now, that tooling interface is becoming a major source of friction.
+Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-As we will see, this isn’t just a developer’s dilemma in the context of new AI assisted coding interfaces. It is a preview of the “retooling tax” that every professional domain must soon learn to navigate.
-
-The paradox is simple: as models improve, productivity bottlenecks increasingly shift away from intelligence itself and toward the tools that mediate access to it.
-
-The race for better models
-This is the popular meme reflecting the merry-go-round of weekly improvements of AI models:
-
-
-
-(source. other versions of this meme do include Anthropic’s Claude, if you wonder)
-
-LLMs become more capable, cheaper, and available on tap, to the point that the new best performing model can be indistinguishable from the previous one, simply because models are now so smart that the tasks we perform are not complex enough to clearly differentiate between “a great model” and an “even greater model”: both perform equally well on the tests.
-
-This is the experience of Simon Willison when testing a preview of Claude Opus 4.5 on November 24, 2025:
-
-
-  It’s clearly an excellent new model, but I did run into a catch. My preview expired at 8pm on Sunday when I still had a few remaining issues in the milestone for the alpha [of his coding project]. I switched back to Claude Sonnet 4.5 and… kept on working at the same pace I’d been achieving with the new model. With hindsight, production coding like this is a less effective way of evaluating the strengths of a new model than I had expected. I’m not saying the new model isn’t an improvement on Sonnet 4.5—but I can’t say with confidence that the challenges I posed it were able to identify a meaningful difference in capabilities between the two.
-
-
-This experience reflects that for some tasks, we have seemingly reached a plateau: models are already “clever enough”. Model providers continue the race the bottom for costs and hallucination rates, while constantly reaching new heights for task completion duration and overall performance.
-
-From the user’s perspective, however, the experience still falls short of the promise of effortless productivity: intelligence may be abundant, but friction remains pervasive. I will illustrate this with the case of coding tasks, before returning to the broader picture.
-
-The tooling paradox
-Making use of generative AI in a coding task is actually not as straightforward as just asking “solve this problem / respond to this difficult question” and then just collecting the answer.
-Here are some essential milestones in the short history of tools that have been evolved to ease this process.
-
-
-  
-    
-      #
-      Name
-      Owning company
-      First public release
-      Interface type
-      Key features (1 line)
-      Cost model
-    
-  
-  
-    
-      1
-      GitHub Copilot
-      GitHub (Microsoft)
-      2021
-      IDE extension (VS Code, JetBrains…)
-      Inline code completion and chat powered by LLMs
-      Subscription (individual / business)
-    
-    
-      2
-      Cursor
-      Anysphere
-      2022
-      Stand-alone IDE
-      AI-native IDE with conversational editing across the codebase
-      Freemium + subscription
-    
-    
-      3
-      Aider
-      Open source (community)
-      2023
-      CLI
-      Git-aware conversational code editing from the terminal
-      Free (API usage paid separately)
-    
-    
-      4
-      Zed
-      Zed Industries
-      2024
-      Stand-alone IDE
-      High-performance collaborative editor with built-in AI agents
-      Freemium + paid AI features
-    
-    
-      5
-      ChatGPT Canvas
-      OpenAI
-      2024
-      Web UI (chat interface)
-      Editable documents and live frontend rendering inside chat
-      Freemium + ChatGPT Plus / Team
-    
-    
-      6
-      Gemini Canvas
-      Google
-      2025
-      Web UI (chat interface)
-      Collaborative canvas with live code and document rendering
-      Included in Gemini Advanced plans
-    
-    
-      7
-      Claude Code
-      Anthropic
-      2025
-      CLI
-      Agent-based CLI introducing the notion of skills (Claude only)
-      Paid (Anthropic API)
-    
-    
-      8
-      Codex (CLI)
-      OpenAI
-      2025
-      CLI
-      Autonomous coding agents for repo-level tasks (OpenAI only)
-      Paid (usage-based)
-    
-    
-      9
-      Antigravity
-      Google
-      2025 (November)
-      Stand-alone IDE
-      AI-native IDE with conversational editing across the codebase. Direct competitor to Cursor.
-      Free for a limited period. Likely subscription (enterprise-oriented)
-    
-  
-
-
-Each of these tools come with various features, pricing models, degrees of vendor lock-in, and maturity. They all try to reduce the friction in AI assisted coding.
-
-For the developer, the cognitive overhead of evaluating, adopting, and eventually abandoning these tools creates a ‘productivity tax’ that can temporarily outweigh the gains of the AI itself.
-
-Exploration and adoption of AI tools: a cost inducing process
-
-My own journey using AI for coding is illustrative of the tortuous, time consuming process of exploration and learning costs associated with the adoption of new tools:
-
-
-  2010-2022: NetBeans only. Very happy with it.
-  2023: NetBeans + copy pasting of code snippets in Barde (now Gemini), Claude and ChatGPT. Feels weird and broken to resort to Ctrl+C and Ctrl +V but this is still very useful.
-  2024: same as 2023. Weak attempts at exploring Jeddict, a plugin for LLM assistance integrated in NetBeans. I did not adopt it because copy pasting to Claude, Gemini or ChatGPT is more flexible.
-  2025
-    
-      (Spring): still copy pasting code in Gemini, Claude and ChatGPT. Using the new canvas features of Gemini and ChatGPT to render / edit frontend files. This causes friction with my tech stack because it makes use of xhtml files, not html files. That obliges me to do some manual and AI assisted file edits between the two formats.
-      (Summer): bored by the back and forth between .xhtml and .html formats, and by the copy pasting. I heard of Cursor of course but the 20$ monthly subscription makes me hesitate, as I already spend 20$ for OpenAI and 20$ for Gemini (plus my server costs etc). So I try  Aider, a free and open source solution to finally have in-place AI assisted editing of my files. Far from good enough, I don’t adopt it.
-      (Fall): I try Zed, a kind of free and open source Cursor. The results are disappointing: slow and imprecise.
-      (Fall): fed up with the broken process of previewing my xhtml files as html files in the canvases. I change my tech stack largely because of that. The copy pasting continues.
-      (Fall): I finally have a try at Cursor. Fantastic results. I virtually stop coding in NetBeans and use it only to launch services and test them in debugging mode. Big positive impact on my stack: I can remove a large framework (that I used for the last 10 years!) and I come back to a simpler code base.
-    
-  
-  2026: will try Claude Code. Late 2025 I pushed Cursor to its limits by trying to make it interact with the services I launch: it can’t properly read their error logs and integrate them back in the conversation to iterate further. I’ve read that Claude Code does it very well. Claude’s notion of ‘skills’ is also very promising. The only issue is that Claude Code is not Windows friendly yet, so I must switch to a Linux based development environment to adopt it (this switch to Linux is overdue of course but that’s a different story).
-
-
-As can be seen from the above, I have changed from a 13-year period of complete stability in tool use to a year exploration and trial and error. The opportunity cost is real: because I spent 2025 chasing the ‘perfect’ workflow, feature development on my primary app (nocodefunctions.com) essentially froze. I traded immediate output for a total architectural and workflow refactor. A new version of the app is slowly emerging, derived from a completely renewed code base.
-
-This is me as a solo developer, I can’t imagine what the process looks like at the scale of an organization which simply can’t pause, stop or refactor things in such a way. My guess is that:
-
-
-  in large organizations, teams will stick with their traditional IDE and just wait for it to evolve or for useful plugins for AI assistance to appear. Switching costs are just too high.
-  in medium sized oganizations / startups, teams will switch to Cursor (many already have). Switching again to Claude Code is a bridge too far, and in any case Claude Code is too strong a vendor lock-in. They’ll wait a couple of months for Cursor to catch up to Claude Code.
-  and companies that have a strong connivence with Anthropic, or the solo devs like myself who have very low switching costs, will try Claude Code.
-
-
-So the profusion of AI assisting tools gives this picture:
-
-
-
-(source: generated by the author with Gemini)
-
-What looks like a tooling problem in software development is, in fact, an early signal of a much broader phenomenon.
-
-Not just coding: the broader lesson about reskilling
-The story above shows that:
-
-
-  paradoxically, progress in AI can cause a temporary decrease in productivity because of the retooling it invites to do. Switching costs of all sorts are incurred and production has to slow or stop to make time for the exploration of these new tools. Discovery process, learning of the UI, evaluation…
-  retooling has strong bandwagon effects. New tools are not just about a “better or lower performance”: they open new opportunities and have specific limits which invite to rethink the material that is worked on by the tool, and even aspects of the general environment where we are operating.
-  it is not just a story about coding. The same is happening in visual creation, for example. Look at this list of 100+ tools for AI assisted visual creation I maintain: it would be foolish to think that the potential of these tools is simply measurable in terms of “is the result better or worse, is productivity higher or lower?” Workflows, aesthetics, domains of expression, cost models, team work, methodologies, skillsets, pace of production, … in a word, the entire domain and industry is turned upside down.
-
-
-What to make of it?
-This is a pretty long blog post to arrive at this simple conclusion: the endless competition between AI models providers can give the false impression that as professionals, we can rest in our armchairs and just wait and benefit from this continuous stream of improvements. This is a very false sense of comfort.
-
-We are moving from an era of tool mastery (learning one category of desktop app for a decade) to an era of tool fluidity. The competitive advantage is no longer just knowing how to master a set of professional skills, but how quickly one can integrate these skills in new AI-native workflows without breaking momentum.
-
-From the perspective of a professional in higher education, this means that the often repeated:
-
-
-  “we don’t train our students for a particular tool, we train them in fundamental skills”
-
-
-… has a renewed sense of relevance and urgency. Because in practice, we do tend to rely on the obvious workhorses of the trade. Just pick an IDE for coding, learn the Adobe Creative Cloud for visual creation, and choose Blender or Maya for 3D modelling - obviously, right? Well, it might be time for a rethink and train students in the art and craft of resetting their fundamental tooling suite on a regular basis.
-
-In a world where tools now have a half-life measured in years, not decades, learning to retool quickly is no longer a support skill — it is a core professional competence.
-
-
-About Me
-
-I’m an academic and independent web app developer. I created nocode functions, a free, point-and-click tool for exploring texts and networks. It’s fully open source. Try it out and let me know what you think. I’d love your feedback!
-
-
-  Email: analysis@exploreyourdata.com
-  Bluesky: @seinecle
-  Blog: Read more articles on app development and data exploration.
-
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 10h ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 11h ago
 
 ---
 
@@ -323,27 +123,33 @@ I’m an academic and independent web app developer. I created nocode functions,
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
-**[Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports](https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html)**
+**[Nvidia expands AI empire with Groq licensing deal, poaching startup’s top execs](https://nypost.com/2025/12/24/business/nvidia-expands-ai-empire-with-groq-licensing-deal-poaching-startups-top-execs/)**
 
-Nvidia has agreed to license chip technology from startup Groq and hire away its CEO, a veteran of Alphabet's Google, Groq said ​in a blog post on Wednesday.  Groq specializes in what is known as inference, ‌where artificial intelligence models that have already been trained respond to requests from users.  While Nvidia dominates the market for ‌training AI models, it faces much more competition in inference, where traditional rivals such as Advanced Micro Devices have aimed to challenge it as well as startups such as Groq and Cerebras Systems.
+Groq more than doubled its valuation to $6.9 billion, from $2.8 billion in August last year, following a $750 million funding round in September.
 
-Yahoo Finance • 5h ago
+New York Post • 4h ago
 
 ---
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
+
+---
+
+**[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
+
+France 24 • 18h ago
 
 ---
 
@@ -351,15 +157,7 @@ The New York Times • 17h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 8h ago
-
----
-
-**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
-
-Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
-
-The Guardian • 7d ago
+Pittsburgh Post-Gazette • 9h ago
 
 ---
 
@@ -367,7 +165,7 @@ The Guardian • 7d ago
 
 It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
 
-ScienceAlert • 16h ago
+ScienceAlert • 17h ago
 
 ---
 
@@ -391,7 +189,7 @@ Fortune • 1d ago
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-Los Angeles Times • 16h ago
+Los Angeles Times • 17h ago
 
 ---
 
@@ -411,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 388 • 💬 236 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 415 • 💬 248 • 7h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -419,15 +217,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 312 • 💬 301 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
-
----
-
-**[Local AI is driving the biggest change in laptops in decades](https://news.ycombinator.com/item?id=46360856)**
-
-The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
-
-⬆️ 240 • 💬 245 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 313 • 💬 302 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -435,7 +225,15 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 236 • 💬 77 • 9h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 249 • 💬 81 • 10h ago • [GitHub](https://github.com/VibiumDev/vibium)
+
+---
+
+**[Local AI is driving the biggest change in laptops in decades](https://news.ycombinator.com/item?id=46360856)**
+
+The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
+
+⬆️ 240 • 💬 249 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -463,15 +261,15 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 46 • 💬 19 • 3h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 55 • 💬 25 • 4h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
-**[Google's healthcare AI made up a body part – what if doctors don't notice?](https://news.ycombinator.com/item?id=46359643)**
+**[Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://news.ycombinator.com/item?id=46380730)**
 
-The basilar ganglia does not exist.
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 29 • 💬 11 • 2d ago • [The Verge](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
+⬆️ 34 • 💬 2 • 3h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -495,7 +293,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 28 • 💬 6 • ⏱️ 11:02 • 9h ago
+👁️ 1K • 👍 28 • 💬 6 • ⏱️ 11:02 • 10h ago
 
 ---
 
@@ -505,7 +303,7 @@ I wanted to combine fashion and dance for this one. Midjourney sometimes makes t
 
 📺 Kelly Boesch AI Art
 
-👁️ 19K • 👍 1K • 💬 65 • ⏱️ 3:00 • 13h ago
+👁️ 19K • 👍 1K • 💬 65 • ⏱️ 3:00 • 14h ago
 
 ---
 
@@ -543,7 +341,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 72K • 👍 3K • 💬 364 • ⏱️ 30:43 • 23h ago
+👁️ 72K • 👍 3K • 💬 364 • ⏱️ 30:43 • 1d ago
 
 ---
 
@@ -553,7 +351,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 12K • 👍 198 • 💬 43 • ⏱️ 7:50 • 21h ago
+👁️ 12K • 👍 198 • 💬 43 • ⏱️ 7:50 • 22h ago
 
 ---
 
@@ -589,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 802 • 1d ago
+⬇️ 2,719 • ❤️ 811 • 1d ago
 
 ---
 
@@ -601,7 +399,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 681 • 5d ago
+⬇️ 11,944 • ❤️ 685 • 5d ago
 
 ---
 
@@ -613,7 +411,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,400 • 16d ago
+⬇️ 384,826 • ❤️ 3,403 • 16d ago
 
 ---
 
@@ -625,7 +423,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 568 • 6d ago
+⬇️ 24,883 • ❤️ 569 • 6d ago
 
 ---
 
@@ -637,7 +435,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,729 • ❤️ 435 • 10d ago
+⬇️ 6,729 • ❤️ 442 • 10d ago
 
 ---
 
@@ -649,7 +447,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,398 • ❤️ 425 • 6d ago
+⬇️ 3,398 • ❤️ 431 • 6d ago
 
 ---
 
@@ -661,7 +459,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 397 • 1d ago
+⬇️ 0 • ❤️ 398 • 1d ago
 
 ---
 
@@ -673,7 +471,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 309 • 1d ago
+⬇️ 1,152 • ❤️ 310 • 1d ago
 
 ---
 
@@ -683,7 +481,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 283 • 6d ago
+⬇️ 0 • ❤️ 284 • 6d ago
 
 ---
 
@@ -695,7 +493,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 14,184 • ❤️ 438 • 6d ago
+⬇️ 14,184 • ❤️ 438 • 7d ago
 
 ---
 
@@ -852,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 697 • 6m ago
+⭐ 6.2k • 🔱 699 • 1h ago
 
 ---
 
@@ -862,7 +660,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 426 • 4h ago
+⭐ 3.4k • 🔱 426 • 5h ago
 
 ---
 
@@ -872,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 203 • 2h ago
+⭐ 2.9k • 🔱 204 • 3h ago
 
 ---
 
@@ -892,7 +690,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 213 • 21h ago
+⭐ 1.3k • 🔱 213 • 22h ago
 
 ---
 
@@ -902,7 +700,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 101 • 2d ago
+⭐ 1.2k • 🔱 102 • 2d ago
 
 ---
 
@@ -912,7 +710,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 111 • 1d ago
+⭐ 1.1k • 🔱 112 • 1d ago
 
 ---
 
@@ -932,7 +730,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 755 • 🔱 39 • 9h ago
+⭐ 785 • 🔱 39 • 10h ago
 
 ---
 
