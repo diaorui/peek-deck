@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T01:17:34.524123+00:00'
+updated: '2025-12-25T03:05:46.962253+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 01:17 UTC  
+**Last Updated:** December 25, 2025 at 03:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,420.87
+### $88,065.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.5%  
-**30d:** -3.1%  
-**90d:** -19.9%  
-**1y:** -8.5%  
+**24h:** +0.8%  
+**7d:** -0.1%  
+**30d:** -2.8%  
+**90d:** -19.6%  
+**1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.02B
+**Market Cap:** $1753.75B
 Rank #1
 
-**Circulating Supply:** 19,966,687 BTC
+**Circulating Supply:** 19,966,718 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.3%
 
 **All-Time Low:** $67.81
-+129088.9%
++129451.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -87,13 +87,7 @@ Rank #1
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-7h ago
-
----
-
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
-
-16h ago
+9h ago
 
 ---
 
@@ -101,19 +95,25 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-2h ago
+4h ago
+
+---
+
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+
+18h ago
 
 ---
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-12h ago
+14h ago
 
 ---
 
 **[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -121,25 +121,25 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
 
-3h ago
+5h ago
 
 ---
 
-**[BTC since the 10/10](https://www.reddit.com/r/Bitcoin/comments/1pufanx/btc_since_the_1010/)**
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-20h ago
+1h ago
 
 ---
 
-**[xmas dinner tm: "so hows your bitcoin doing?"](https://www.reddit.com/r/Bitcoin/comments/1puq9b3/xmas_dinner_tm_so_hows_your_bitcoin_doing/)**
+**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-9h ago
+40m ago
 
 ---
 
 **[Are You Remember These Times?](https://www.reddit.com/r/Bitcoin/comments/1puml7s/are_you_remember_these_times/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -147,11 +147,33 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 ## Google News: "bitcoin"
 
-**[Gold knocks on a door that's been shut for 50 years as bitcoin tests a defining support](https://www.coindesk.com/markets/2025/12/24/gold-knocks-on-a-door-that-s-been-shut-for-50-years-as-bitcoin-tests-a-defining-support)**
+**[BTC News: Donald Trump owned media firm moves 2,000 bitcoin, worth $174 million](https://www.coindesk.com/business/2025/12/24/trump-media-shuffles-2-000-btc-after-fresh-bitcoin-inflows)**
 
-Measured against U.S. money supply, gold is back at levels that marked major historical peaks, while bitcoin retraces toward a key cycle floor.
+The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+
+Reuters • 12h ago
+
+---
+
+**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+
+The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+
+CoinDesk • 1d ago
+
+---
+
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+
+Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
+
+The Motley Fool • 7h ago
 
 ---
 
@@ -163,31 +185,23 @@ The Guardian • 1d ago
 
 ---
 
-**[Saylor’s Strategy Raises Reserve, Pauses Bitcoin Purchases](https://finance.yahoo.com/news/saylor-strategy-raises-cash-pauses-160128728.html)**
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
 
-The Tysons Corner, Virginia-based firm raised $748 million through the sale of common shares in the seven days ended Dec. 21, according to a filing Monday with the US Securities and Exchange Commission.  It had purchased about $2 billion in Bitcoin over the previous two weeks, bringing its total holdings to around $60 billion.  Earlier this month, Strategy created a $1.4 billion reserve to fund future dividend and interest payments in a bid to temper fears that the it may be forced to sell Bitcoin if token prices continue to fall.
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-Yahoo Finance • 2d ago
-
----
-
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
-
-Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
-
-The Motley Fool • 5h ago
+Investopedia • 1d ago
 
 ---
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 18h ago
+KRON4 • 20h ago
 
 ---
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 16h ago
+The Block • 18h ago
 
 ---
 
@@ -207,35 +221,21 @@ CoinDesk • 2d ago
 
 ---
 
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
-
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
-
-Investopedia • 1d ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
+
+⬆️ 5 • 💬 2 • 13h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+
+---
 
 **[AI surpasses 2024 Bitcoin mining in energy usage](https://news.ycombinator.com/item?id=46314300)**
 
 How much of a resource hog is AI?
 
 ⬆️ 5 • 💬 1 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-surpasses-2024-bitcoin-mining-in-energy-usage-uses-more-h20-than-the-bottles-of-water-people-drink-globally-study-claims-says-ai-demand-could-hit-23gw-and-up-to-764-billion-liters-of-water-in-2025)
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
-
-⬆️ 4 • 💬 2 • 11h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -257,7 +257,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 70 • 💬 36 • 8h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 73 • 💬 36 • 10h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -287,7 +287,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 12K • 👍 218 • 💬 131 • ⏱️ 8:19 • 11h ago
+👁️ 14K • 👍 241 • 💬 148 • ⏱️ 8:19 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 203 • ⏱️ 13:26 • 1d ago
+👁️ 26K • 👍 2K • 💬 199 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -307,17 +307,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 158 • 💬 45 • ⏱️ 1:12 • 4h ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 513 • ⏱️ 10:51 • 1d ago
+👁️ 7K • 👍 215 • 💬 45 • ⏱️ 1:12 • 6h ago
 
 ---
 
@@ -327,7 +317,17 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 84K • 👍 4K • 💬 423 • ⏱️ 20:46 • 1d ago
+👁️ 88K • 👍 4K • 💬 406 • ⏱️ 20:46 • 1d ago
+
+---
+
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 2K • 💬 455 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -337,17 +337,7 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 29K • 👍 352 • 💬 214 • ⏱️ 5:23 • 1d ago
-
----
-
-**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
-
-Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
-
-📺 Swan Bitcoin
-
-👁️ 35K • 👍 2K • 💬 200 • ⏱️ 20:00 • 1d ago
+👁️ 29K • 👍 356 • 💬 215 • ⏱️ 5:23 • 1d ago
 
 ---
 
@@ -357,27 +347,37 @@ Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't f
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 190 • ⏱️ 11:35 • 2d ago
+👁️ 30K • 👍 2K • 💬 193 • ⏱️ 11:35 • 2d ago
 
 ---
 
-**[Why Fidelity Thinks This is the Start of a Bitcoin SuperCycle](https://www.youtube.com/watch?v=qyPB6TE9WJ8)**
+**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
 
-Bitcoin price action has been rough, but something bigger may be forming. Professor B breaks down Fidelity's new research, ...
+Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 279 • 💬 42 • ⏱️ 1:41 • 23h ago
+👁️ 37K • 👍 2K • 💬 201 • ⏱️ 20:00 • 1d ago
 
 ---
 
-**[HOLY SMOKES! Prepare For What Comes Next for Bitcoin](https://www.youtube.com/watch?v=WcDZD8L_e_M)**
+**[2026 Bitcoin Warning: The New Price Floor Revealed](https://www.youtube.com/watch?v=OV9nYbOB0wQ)**
 
-LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.weex.com/events/welcome-event?
+Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the crypto landscape has fundamentally shifted. In today's ...
 
-📺 Altcoin Daily
+📺 Discover Crypto
 
-👁️ 53K • 👍 3K • 💬 210 • ⏱️ 10:16 • 2d ago
+👁️ 5K • 👍 322 • 💬 13 • ⏱️ 58:02 • 10h ago
+
+---
+
+**[Alert: Bloomberg Admits Bitcoin Crash Is Coming...](https://www.youtube.com/watch?v=5r_qBUtdAb8)**
+
+Yes, Bitcoin is currently experiencing significant volatility and price drops (a "crash" or deep pullback), with analysts citing factors ...
+
+📺 Ricky Gutierrez
+
+👁️ 7K • 👍 394 • 💬 125 • ⏱️ 9:15 • 7h ago
 
 ---
 

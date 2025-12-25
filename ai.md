@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T01:17:34.515511+00:00'
+updated: '2025-12-25T03:05:46.953884+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 01:17 UTC  
+**Last Updated:** December 25, 2025 at 03:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record, according to Alex Davis, CEO of Disruptive, which led the startup’s latest financing round in September.](https://www.reddit.com/r/artificial/comments/1pv3jlg/nvidia_buying_ai_chip_startup_groqs_assets_for/)**
+
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 19m ago
+
+---
+
 **[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 17h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 19h ago
 
 ---
 
@@ -49,7 +57,7 @@ AI news, discussions, and developments
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 16h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 18h ago
 
 ---
 
@@ -71,7 +79,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +87,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 7h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 9h ago
 
 ---
 
@@ -87,7 +95,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
 
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 8h ago
+🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 10h ago
 
 ---
 
@@ -303,15 +311,7 @@ I’m an academic and independent web app developer. I created nocode functions,
   Bluesky: @seinecle
   Blog: Read more articles on app development and data exploration.
 
-🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 8h ago
-
----
-
-**[Scientists create 0.2mm programmable autonomous microrobots that can sense, decide and act](https://www.reddit.com/r/artificial/comments/1pu0bc3/scientists_create_02mm_programmable_autonomous/)**
-
-Robots keep getting smaller, but until now there has been a stubborn lower limit. Once you go below a millimeter, autonomy usually disappears. Tiny machines
-
-🔗 [ScienceClock](https://scienceclock.com/worlds-smallest-programmable-autonomous-robots/) • 1d ago
+🔗 [nocodefunctions.com](https://nocodefunctions.com/blog/ai-coding-tool-productivity-paradox/) • 10h ago
 
 ---
 
@@ -323,33 +323,35 @@ Robots keep getting smaller, but until now there has been a stubborn lower limit
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 1h ago
+The New York Times • 3h ago
 
 ---
 
-**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
+**[Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports](https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html)**
 
-World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
+Nvidia has agreed to license chip technology from startup Groq and hire away its CEO, a veteran of Alphabet's Google, Groq said ​in a blog post on Wednesday.  Groq specializes in what is known as inference, ‌where artificial intelligence models that have already been trained respond to requests from users.  While Nvidia dominates the market for ‌training AI models, it faces much more competition in inference, where traditional rivals such as Advanced Micro Devices have aimed to challenge it as well as startups such as Groq and Cerebras Systems.
 
-Financial Times • 1h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 15h ago
+The New York Times • 17h ago
 
 ---
 
-**[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
+**[‘We’re not stopping’: Pa. lawmakers rankled by Trump order on states and AI](https://www.post-gazette.com/news/politics-state/2025/12/24/pennsylvania-trump-ai-ciresi-pisciottano/stories/202512240068)**
 
-France 24 • 15h ago
+HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
+
+Pittsburgh Post-Gazette • 8h ago
 
 ---
 
@@ -361,25 +363,11 @@ The Guardian • 7d ago
 
 ---
 
-**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
+**[AI's Big Red Button Doesn't Work, And The Reason Is Even More Troubling](https://www.sciencealert.com/ais-big-red-button-doesnt-work-and-the-reason-is-even-more-troubling)**
 
-While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
+It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
 
-CNBC • 12h ago
-
----
-
-**[Is Marvell Technology Attractively Priced After Recent AI Driven Share Price Rebound?](https://finance.yahoo.com/news/marvell-technology-attractively-priced-recent-001945502.html)**
-
-If you are wondering whether Marvell Technology is a bargain or a value trap at around $86 a share, you are not alone. This stock sits right at the crossroads of AI excitement and real cash flow expectations. Over the last week the stock is up 5.9%, adding to a 3.2% gain over the past month. Those shorter term moves sit against a tougher backdrop of a -23.8% year to date return and -25.2% over the last year, even after a 147.4% gain over three years and 85.6% over five. Recently, investors...
-
-Yahoo Finance • 58m ago
-
----
-
-**[Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth](https://www.investors.com/news/technology/microsoft-stock-msft-core-winner-in-ai/)**
-
-Investor's Business Daily • 6h ago
+ScienceAlert • 16h ago
 
 ---
 
@@ -391,6 +379,22 @@ blog.google • 1d ago
 
 ---
 
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
+
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+Fortune • 1d ago
+
+---
+
+**[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
+
+Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
+
+Los Angeles Times • 16h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -399,7 +403,7 @@ blog.google • 1d ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 801 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 802 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -407,7 +411,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 322 • 💬 203 • 4h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 388 • 💬 236 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -415,7 +419,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 310 • 💬 296 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 312 • 💬 301 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -423,15 +427,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 239 • 💬 244 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
-
----
-
-**[Toad is a unified experience for AI in the terminal](https://news.ycombinator.com/item?id=46354737)**
-
-My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
-
-⬆️ 219 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 240 • 💬 245 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -439,19 +435,35 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 215 • 💬 76 • 7h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 236 • 💬 77 • 9h ago • [GitHub](https://github.com/VibiumDev/vibium)
+
+---
+
+**[Toad is a unified experience for AI in the terminal](https://news.ycombinator.com/item?id=46354737)**
+
+My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
+
+⬆️ 223 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
 **[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
 
-⬆️ 193 • 💬 216 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
+⬆️ 195 • 💬 216 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
 **[AI Bathroom Monitors? Welcome to America's New Surveillance High Schools](https://news.ycombinator.com/item?id=46356603)**
 
 ⬆️ 94 • 💬 133 • 2d ago • [forbes.com](https://www.forbes.com/sites/thomasbrewster/2025/12/16/ai-bathroom-monitors-welcome-to-americas-new-surveillance-high-schools/)
+
+---
+
+**[Asterisk AI Voice Agent](https://news.ycombinator.com/item?id=46380399)**
+
+An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
+
+⬆️ 46 • 💬 19 • 3h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -463,45 +475,9 @@ The basilar ganglia does not exist.
 
 ---
 
-**[What Is (AI) Glaze?](https://news.ycombinator.com/item?id=46364338)**
-
-⬆️ 24 • 💬 23 • 1d ago • [glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu/what-is-glaze.html)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
-
-I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 15K • 👍 1K • 💬 57 • ⏱️ 3:00 • 11h ago
-
----
-
-**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
-
-The robot uprising has already happened, and its just boring slush destroying everything Links: My Patreon: ...
-
-📺 Lily Simpson
-
-👁️ 4K • 👍 737 • 💬 133 • ⏱️ 24:19 • 10h ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 68K • 👍 3K • 💬 350 • ⏱️ 30:43 • 21h ago
-
----
 
 **[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
 
@@ -509,7 +485,27 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 21K • 👍 1K • 💬 543 • ⏱️ 11:28 • 1d ago
+👁️ 22K • 👍 1K • 💬 559 • ⏱️ 11:28 • 1d ago
+
+---
+
+**[Google Gemini: New FREE Ai Agent is INSANE!](https://www.youtube.com/watch?v=FK5Pn9VXfQE)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 1K • 👍 28 • 💬 6 • ⏱️ 11:02 • 9h ago
+
+---
+
+**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
+
+I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 19K • 👍 1K • 💬 65 • ⏱️ 3:00 • 13h ago
 
 ---
 
@@ -519,7 +515,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 18K • 👍 473 • 💬 60 • ⏱️ 18:48 • 2d ago
+👁️ 18K • 👍 477 • 💬 60 • ⏱️ 18:48 • 2d ago
 
 ---
 
@@ -529,27 +525,25 @@ How technology hype actually forms, what people get wrong about AI, and why the 
 
 📺 Maxinomics
 
-👁️ 237K • 👍 14K • 💬 2K • ⏱️ 21:43 • 1d ago
+👁️ 244K • 👍 14K • 💬 2K • ⏱️ 21:43 • 2d ago
 
 ---
 
-**[Google executive reveals if slowing AI is still possible](https://www.youtube.com/watch?v=Y1z2-Q8QRkM)**
+**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
 
-Royal Hansen, vice president of privacy, safety and security engineering at Google, weighs in on the push to slow AI development ...
+📺 Maggie McGaugh
 
-📺 Fox News
-
-👁️ 32K • 👍 366 • 💬 255 • ⏱️ 4:26 • 2d ago
+👁️ 192K • 👍 8K • 💬 61 • ⏱️ 1:07 • 1d ago
 
 ---
 
-**[Ranking The Most Diabolical SORA AI Disney Trailers😱](https://www.youtube.com/watch?v=eI4N9f-CvQk)**
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
 
-Ranking The Most Diabolical SORA AI Disney Trailers   #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips ...
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
 
-📺 Bigfoot Feed
+📺 AI Search
 
-👁️ 1K • 👍 73 • 💬 5 • ⏱️ 0:53 • 2h ago
+👁️ 72K • 👍 3K • 💬 364 • ⏱️ 30:43 • 23h ago
 
 ---
 
@@ -559,7 +553,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 10K • 👍 181 • 💬 40 • ⏱️ 7:50 • 20h ago
+👁️ 12K • 👍 198 • 💬 43 • ⏱️ 7:50 • 21h ago
 
 ---
 
@@ -569,7 +563,17 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 469K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
+👁️ 479K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 56K • 👍 3K • 💬 358 • ⏱️ 33:27 • 1d ago
 
 ---
 
@@ -585,7 +589,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 784 • 1d ago
+⬇️ 2,719 • ❤️ 802 • 1d ago
 
 ---
 
@@ -597,7 +601,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 677 • 5d ago
+⬇️ 11,944 • ❤️ 681 • 5d ago
 
 ---
 
@@ -609,7 +613,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,398 • 16d ago
+⬇️ 384,826 • ❤️ 3,400 • 16d ago
 
 ---
 
@@ -621,7 +625,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 562 • 6d ago
+⬇️ 24,883 • ❤️ 568 • 6d ago
 
 ---
 
@@ -633,7 +637,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,729 • ❤️ 428 • 10d ago
+⬇️ 6,729 • ❤️ 435 • 10d ago
 
 ---
 
@@ -645,7 +649,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,398 • ❤️ 418 • 6d ago
+⬇️ 3,398 • ❤️ 425 • 6d ago
 
 ---
 
@@ -657,7 +661,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 394 • 1d ago
+⬇️ 0 • ❤️ 397 • 1d ago
 
 ---
 
@@ -669,7 +673,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 304 • 1d ago
+⬇️ 1,152 • ❤️ 309 • 1d ago
 
 ---
 
@@ -679,7 +683,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 282 • 6d ago
+⬇️ 0 • ❤️ 283 • 6d ago
 
 ---
 
@@ -707,21 +711,9 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 13 • 💬 2 • ⭐ 5,006 • 13d ago
+▲ 13 • 💬 2 • ⭐ 5,041 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
-
----
-
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 4 • 💬 0 • ⭐ 61,488 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -734,6 +726,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 10 • 💬 2 • ⭐ 13,128 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 4 • 💬 0 • ⭐ 61,518 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -790,6 +794,18 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 26 • 💬 0 • ⭐ 26,522 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[SAM Audio: Segment Anything in Audio](https://huggingface.co/papers/2512.18099)**
 
 *Bowen Shi, Andros Tjandra, John Hoffman et al. (14 authors)*
@@ -801,18 +817,6 @@ SAM Audio, a diffusion transformer-based foundation model, achieves superior per
 ▲ 10 • 💬 0 • ⭐ 2,494 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.18099) • [💻 code](https://github.com/facebookresearch/sam-audio) • [🔗 project](https://ai.meta.com/samaudio/)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 26 • 💬 0 • ⭐ 26,479 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -838,7 +842,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.2k • 🔱 3.1k • 2d ago
+⭐ 19.3k • 🔱 3.1k • 2d ago
 
 ---
 
@@ -848,7 +852,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 696 • 5h ago
+⭐ 6.2k • 🔱 697 • 6m ago
 
 ---
 
@@ -858,7 +862,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 424 • 2h ago
+⭐ 3.4k • 🔱 426 • 4h ago
 
 ---
 
@@ -868,7 +872,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.8k • 🔱 202 • 1h ago
+⭐ 2.9k • 🔱 203 • 2h ago
 
 ---
 
@@ -888,7 +892,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 212 • 19h ago
+⭐ 1.3k • 🔱 213 • 21h ago
 
 ---
 
@@ -898,7 +902,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.1k • 🔱 101 • 2d ago
+⭐ 1.2k • 🔱 101 • 2d ago
 
 ---
 
@@ -918,17 +922,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 896 • 🔱 128 • 7d ago
+⭐ 897 • 🔱 128 • 7d ago
 
 ---
 
-**[Turbo1123/roubao](https://github.com/Turbo1123/roubao)**
+**[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
 
-Android Automation Tool Based on Vision-Language Models
+Browser automation for AI agents and humans
 
-`Kotlin` `ai` `ai-agents` `android` `android-automation` `kotlin`
+`Go`
 
-⭐ 713 • 🔱 78 • 6d ago
+⭐ 755 • 🔱 39 • 9h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T01:17:34.533466+00:00'
+updated: '2025-12-25T03:05:46.971449+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 01:17 UTC  
+**Last Updated:** December 25, 2025 at 03:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-3h ago
+5h ago
+
+---
+
+**[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
+
+Source: https://x.com/M5Stack/status/2003453052276343161?s=20
+
+1h ago
 
 ---
 
@@ -44,7 +52,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-11h ago
+13h ago
 
 ---
 
@@ -52,7 +60,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 Torque = k × current Heat = current² × R At stall or high-load, adjusting posture lowers torque and drastically reduces motor heat. Disney and Tesla used the same idea Full video: https://youtu.be/v3KDNKeU624?si=ZGtpggA1gvWu4ifH
 
-4h ago
+6h ago
 
 ---
 
@@ -60,13 +68,21 @@ Torque = k × current Heat = current² × R At stall or high-load, adjusting pos
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-6h ago
+8h ago
+
+---
+
+**[Software Engineer with 14 years of industry experience who would like to pivot into Robotics](https://www.reddit.com/r/robotics/comments/1pv2dx9/software_engineer_with_14_years_of_industry/)**
+
+’m a software/data engineer (cloud, Python, Scala, SQL, APIs, infra, etc.) who’s been getting deeply interested in robotics, electronics, and embedded systems lately — microcontrollers, sensors, motor control, firmware, ROS2, the whole stack. I’ve started going more into Arduino/ESP32, basic electronics, C/C++, PWM, interrupts, SPI/I2C, and playing with motors/servos/sensors. My question is: What is realistically the best path for a software engineer to pivot into robotics / embedded / firmware work professionally? Maybe focusing robotic software engineer? Specifically: • What skills actually matter most in hiring? • How deep into electronics/math do you really need to go? • Are personal robotics projects respected, or is formal schooling almost required? I have a CompSci degree. • Should I focus on firmware, ROS, perception, controls, or something else first? • What would you do differently if you were starting today? I’m in my early 30s and not afraid of learning — just trying to optimize the time it will take to get my first position. Would love to hear from anyone who has made this transition or works in robotics/embedded professionally.
+
+1h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -74,7 +90,7 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-9h ago
+11h ago
 
 ---
 
@@ -90,21 +106,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Not sure if this is the right place but I thought I'd ask. Does anyone have a URDF for this robot arm: https://www.waveshare.com/robot-arm-for-pi.htm? I thought I'd look around before trying to make one but I haven't found anything yet.
 
-1h ago
-
----
-
-**[Optimizing a PID controller for a self-balancing robot, first time](https://www.reddit.com/r/robotics/comments/1pux135/optimizing_a_pid_controller_for_a_selfbalancing/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 4h ago
-
----
-
-**[Deep dive into Disney’s Self-Roaming Olaf Robot](https://www.reddit.com/r/robotics/comments/1pu4xx9/deep_dive_into_disneys_selfroaming_olaf_robot/)**
-
-1d ago
+3h ago
 
 ---
 
@@ -112,35 +114,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "robotics"
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 2d ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 1d ago
-
----
-
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
-
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
-
-Earth.com • 9h ago
-
----
-
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
-
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
-
-El Adelantado • 2d ago
 
 ---
 
@@ -152,11 +130,35 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
-New Atlas • 11h ago
+hyundai.com • 2d ago
+
+---
+
+**[Advancing with animals: Standout biomimicry of 2025](https://newatlas.com/science/biomimicry-developments-2025/)**
+
+From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
+
+New Atlas • 3h ago
+
+---
+
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+
+Earth.com • 11h ago
+
+---
+
+**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
+
+Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -174,12 +176,6 @@ The Robot Report • 1d ago
 
 ---
 
-**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
-
-Phys.org • 1d ago
-
----
-
 **[Wilton Dominates State Championship in Robotics, Again Ascends to World Competition](https://goodmorningwilton.com/wilton-robotics-teams-win-state-championship-dec-2025/)**
 
 Wilton teams shine at the FIRST Lego League Robotics State Championships. Allied Algorithms won the championship and Singularity Technology Juniors earning the Motivate Award.
@@ -188,9 +184,27 @@ Good Morning Wilton • 2d ago
 
 ---
 
+**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
+
+Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+
+Yahoo Finance • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+
+📺 AI Revolution
+
+👁️ 48K • 👍 823 • 💬 84 • ⏱️ 2:08:46 • 5d ago
+
+---
 
 **[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
 
@@ -202,43 +216,13 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 816 • 💬 84 • ⏱️ 2:08:46 • 5d ago
-
----
-
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 33K • 👍 930 • 💬 255 • ⏱️ 11:02 • 2d ago
-
----
-
 **[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
 
 What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
 
 📺 AI Tech Academy
 
-👁️ 12K • 👍 222 • 💬 28 • ⏱️ 13:55 • 1d ago
-
----
-
-**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
-
-Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
-
-📺 Ai Hypex
-
-👁️ 22K • 👍 153 • 💬 1 • ⏱️ 0:10 • 7h ago
+👁️ 15K • 👍 267 • 💬 32 • ⏱️ 13:55 • 1d ago
 
 ---
 
@@ -248,7 +232,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 5K • 👍 260 • 💬 74 • ⏱️ 49:59 • 2d ago
+👁️ 5K • 👍 266 • 💬 76 • ⏱️ 49:59 • 2d ago
 
 ---
 
@@ -258,17 +242,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 164K • 👍 3K • 💬 615 • ⏱️ 2:23 • 4d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=eFeyyTAyxMI)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 24K • 👍 244 • 💬 4 • ⏱️ 0:11 • 1d ago
+👁️ 170K • 👍 3K • 💬 644 • ⏱️ 2:23 • 4d ago
 
 ---
 
@@ -286,7 +260,37 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 XRoboHub
 
-👁️ 214K • 👍 4K • 💬 501 • ⏱️ 0:51 • 4d ago
+👁️ 214K • 👍 4K • 💬 503 • ⏱️ 0:51 • 4d ago
+
+---
+
+**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
+
+Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
+
+📺 Aimin
+
+👁️ 1.1M • 👍 22K • 💬 4K • ⏱️ 14:27 • 4d ago
+
+---
+
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
+
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
+
+📺 Ai BOOF
+
+👁️ 24K • 👍 342 • 💬 8 • ⏱️ 0:11 • 2d ago
+
+---
+
+**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
+
+I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
+
+📺 SocksReact
+
+👁️ 635K • 👍 11K • 💬 1K • ⏱️ 18:35 • 4d ago
 
 ---
 

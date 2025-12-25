@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T01:17:34.530165+00:00'
+updated: '2025-12-25T03:05:46.968232+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 01:17 UTC  
+**Last Updated:** December 25, 2025 at 03:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -1.4%  
-**30d:** -2.6%  
-**90d:** -26.7%  
-**1y:** -11.7%  
+**24h:** +0.6%  
+**7d:** -1.0%  
+**30d:** -2.1%  
+**90d:** -26.3%  
+**1y:** -11.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $354.83B
+**Market Cap:** $356.12B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.3%
 
 **All-Time Low:** $0.43
-+679267.8%
++681383.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
-🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 8h ago
+🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 10h ago
 
 ---
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 11h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 12h ago
 
 ---
 
@@ -94,13 +94,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-8h ago
+10h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -116,7 +116,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 17h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 19h ago
 
 ---
 
@@ -190,6 +190,14 @@ The Block • 1d ago
 
 ---
 
+**[Can Ethereum leap out of its four-year shadow in 2026?](https://www.fxstreet.com/cryptocurrencies/news/ethereum-annual-price-forecast-eth-poised-for-growth-in-2026-amid-regulatory-clarity-and-institutional-adoption-202512241600)**
+
+Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
+
+FXStreet • 11h ago
+
+---
+
 **[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
 
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
@@ -208,13 +216,7 @@ TipRanks • 1d ago
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
-TradingView — Track All Markets • 21h ago
-
----
-
-**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
-
-Binance • 16h ago
+TradingView — Track All Markets • 23h ago
 
 ---
 
@@ -222,23 +224,13 @@ Binance • 16h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
-
-BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 224 • 💬 101 • ⏱️ 19:06 • 8h ago
-
----
-
 **[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
 
 The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 87 • 💬 46 • ⏱️ 13:41 • 13h ago
+👁️ 3K • 👍 98 • 💬 45 • ⏱️ 13:41 • 15h ago
 
 ---
 
@@ -248,7 +240,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 6 • ⏱️ 3:51 • 10h ago
+👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:51 • 12h ago
+
+---
+
+**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
+
+One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
+
+📺 CryptoStock Lab
+
+👁️ 528 • 👍 29 • 💬 42 • ⏱️ 13:29 • 3h ago
+
+---
+
+**[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
+
+BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 240 • 💬 145 • ⏱️ 19:06 • 10h ago
 
 ---
 
@@ -258,17 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 320 • 👍 12 • 💬 25 • ⏱️ 5:15 • 10h ago
-
----
-
-**[Will BMNR Become The &quot;Ethereum BlackRock&quot;? (The 5% Plan)](https://www.youtube.com/watch?v=pUFERdwaduM)**
-
-BlackRock Owns The ETF... BMNR Owns The Network. If BlackRock is the king of ETFs, BitMine Immersion ($BMNR) is trying to ...
-
-📺 Wall Street Stockcast
-
-👁️ 267 • 👍 10 • 💬 8 • ⏱️ 7:49 • 10h ago
+👁️ 369 • 👍 16 • 💬 24 • ⏱️ 5:15 • 12h ago
 
 ---
 
@@ -278,37 +280,7 @@ These institutions will not stop... the amount of Bitcoin and Ethereum being acc
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 640 • 💬 147 • ⏱️ 17:59 • 15h ago
-
----
-
-**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 99 • 💬 309 • ⏱️ 14:58 • 1d ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 513 • ⏱️ 10:51 • 1d ago
-
----
-
-**[The FINAL Trigger Before The Bitcoin Bull Run Begins! ETH Price! - Raoul Pal](https://www.youtube.com/watch?v=eUmV5B8vifI)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell -------- The FINAL Trigger Before The ...
-
-📺 Library Of Wealth
-
-👁️ 3K • 👍 107 • 💬 241 • ⏱️ 15:38 • 19h ago
+👁️ 6K • 👍 654 • 💬 147 • ⏱️ 17:59 • 17h ago
 
 ---
 
@@ -319,6 +291,36 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 📺 Cilinix Crypto
 
 👁️ 1K • 👍 38 • 💬 15 • ⏱️ 5:30 • 1d ago
+
+---
+
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 100 • 💬 309 • ⏱️ 14:58 • 1d ago
+
+---
+
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 2K • 💬 455 • ⏱️ 10:51 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 23rd of December](https://www.youtube.com/watch?v=-GJuFFl8610)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 482 • 👍 20 • 💬 22 • ⏱️ 7:44 • 1d ago
 
 ---
 
