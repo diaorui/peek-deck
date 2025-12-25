@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T09:57:13.021947+00:00'
+updated: '2025-12-25T10:28:34.335124+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 09:57 UTC  
+**Last Updated:** December 25, 2025 at 10:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Not sure if this is the right place but I thought I'd ask. Does anyone have a URDF for this robot arm: https://www.waveshare.com/robot-arm-for-pi.htm? I thought I'd look around before trying to make one but I haven't found anything yet.
 
-10h ago
+11h ago
 
 ---
 
@@ -132,7 +132,7 @@ Earth.com • 18h ago
 
 A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -280,7 +280,7 @@ War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over wh
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 252 • 💬 59 • ⏱️ 16:20 • 19h ago
+👁️ 4K • 👍 252 • 💬 59 • ⏱️ 16:20 • 20h ago
 
 ---
 

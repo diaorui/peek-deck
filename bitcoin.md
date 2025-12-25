@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T09:57:13.012775+00:00'
+updated: '2025-12-25T10:28:34.325621+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 09:57 UTC  
+**Last Updated:** December 25, 2025 at 10:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.8%  
-**30d:** -3.4%  
-**90d:** -20.2%  
-**1y:** -8.7%  
+**24h:** +0.6%  
+**7d:** -0.6%  
+**30d:** -3.3%  
+**90d:** -20.0%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.24B
+**Market Cap:** $1744.77B
 Rank #1
 
 **Circulating Supply:** 19,966,834 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.7%
 
 **All-Time Low:** $67.81
-+128885.4%
++128764.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,15 +91,15 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 ---
 
-**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-15h ago
+2h ago
 
 ---
 
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-1h ago
+15h ago
 
 ---
 
@@ -109,15 +109,15 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 ---
 
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-1d ago
+9h ago
 
 ---
 
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-8h ago
+1d ago
 
 ---
 
@@ -133,7 +133,7 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
 
-4h ago
+5h ago
 
 ---
 
@@ -149,17 +149,11 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdMx66gSDPY5OfFnbg62Sx6GTXE_si1LkR_HfXwaDR3ZKtMtiB8gwuH&gaa_ts=694d0de6&gaa_sig=y4LgJgaoTvdu_Ts4SRyq6au8rP2T_G9F1XF1hOkZUI1WGnrWSYCQFdDOZEU1uXl00IxX9EnfMHytPFXO48zZ0g%3D%3D)**
-
-The Wall Street Journal • 1d ago
+CoinDesk • 5h ago
 
 ---
 
@@ -171,15 +165,17 @@ The Motley Fool • 14h ago
 
 ---
 
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+**[Gold’s Rally Could Be Bitcoin’s Next Catalyst, But Risks Still Linger](https://finance.yahoo.com/news/gold-rally-could-bitcoin-next-082908663.html)**
 
-Reuters • 19h ago
+Bitcoin price may rally before 2026 if gold’s strength persists, though rising exchange inflows signal cautious investor sentiment.
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-KRON4 • 1d ago
+Reuters • 19h ago
 
 ---
 
@@ -191,6 +187,14 @@ Investopedia • 1d ago
 
 ---
 
+**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
+
+Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
+
+Inquirer.com • 1d ago
+
+---
+
 **[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
 
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
@@ -199,25 +203,23 @@ The Guardian • 1d ago
 
 ---
 
-**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
 
-The Block • 1d ago
-
----
-
-**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
-
-The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
-
-CoinDesk • 2h ago
+Investor's Business Daily • 1d ago
 
 ---
 
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
+KRON4 • 1d ago
 
-The Motley Fool • 1d ago
+---
+
+**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
+
+Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
+
+VanEck • 2d ago
 
 ---
 
@@ -227,7 +229,7 @@ The Motley Fool • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 19h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 20h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -263,7 +265,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 79 • 💬 36 • 17h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 79 • 💬 36 • 18h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -303,7 +305,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 18K • 👍 269 • 💬 179 • ⏱️ 8:19 • 20h ago
+👁️ 18K • 👍 269 • 💬 179 • ⏱️ 8:19 • 21h ago
 
 ---
 
@@ -313,7 +315,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 244 • 💬 32 • ⏱️ 7:13 • 9h ago
+👁️ 4K • 👍 244 • 💬 32 • ⏱️ 7:13 • 10h ago
 
 ---
 
@@ -333,7 +335,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 163 • ⏱️ 37:34 • 12h ago
+👁️ 25K • 👍 1K • 💬 163 • ⏱️ 37:34 • 13h ago
 
 ---
 
@@ -383,7 +385,7 @@ The U.S. Strategic Bitcoin Reserve was once a near-certainty—backed by powerfu
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 338 • 💬 147 • ⏱️ 25:23 • 11h ago
+👁️ 7K • 👍 338 • 💬 147 • ⏱️ 25:23 • 12h ago
 
 ---
 
