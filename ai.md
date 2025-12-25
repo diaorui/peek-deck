@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T13:10:21.921912+00:00'
+updated: '2025-12-25T13:45:01.391752+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 13:10 UTC  
+**Last Updated:** December 25, 2025 at 13:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 I cant find a single thing it does better
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ I cant find a single thing it does better
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 19h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 20h ago
 
 ---
 
@@ -127,17 +127,17 @@ CNBC • 16h ago
 
 ---
 
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
-
-The New York Times • 13h ago
-
----
-
 **[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 13h ago
+Financial Times • 14h ago
+
+---
+
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+
+The New York Times • 13h ago
 
 ---
 
@@ -147,19 +147,25 @@ The New York Times • 1d ago
 
 ---
 
-**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
-
-Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
-
-Financial Times • 2h ago
-
----
-
-**[In 2025, Hollywood cozied up to AI and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)**
+**[Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)**
 
 Hollywood bet big on generative AI slop in 2025.
 
-The Verge • 10m ago
+The Verge • 45m ago
+
+---
+
+**[WA students try out new tech at 'Hour of AI'](https://www.seattletimes.com/education-lab/wa-students-try-out-new-tech-at-hour-of-ai/)**
+
+Microsoft's one-hour lesson in Bellevue aimed to introduce kids to fast-evolving AI and helping them use it responsibly.
+
+The Seattle Times • 15m ago
+
+---
+
+**[How should you use AI? Here are tips and tricks on how not to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+
+Axios • 42m ago
 
 ---
 
@@ -187,12 +193,6 @@ ScienceAlert • 1d ago
 
 ---
 
-**[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
-
-The Washington Post • 8m ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -209,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 341 • 💬 99 • 19h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 344 • 💬 100 • 19h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -225,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 242 • 💬 250 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 242 • 💬 251 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -241,7 +241,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 134 • 💬 54 • 13h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 137 • 💬 56 • 14h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -255,7 +255,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 61 • 💬 78 • 9h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 61 • 💬 79 • 10h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -263,13 +263,13 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 59 • 💬 15 • 13h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 61 • 💬 15 • 13h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 33 • 💬 17 • 8h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 33 • 💬 17 • 9h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -293,7 +293,7 @@ Why should we assume that AI is safe? As the technology has grown at an alarming
 
 📺 Adam Conover
 
-👁️ 13K • 👍 753 • 💬 335 • ⏱️ 1:37:17 • 21h ago
+👁️ 13K • 👍 753 • 💬 335 • ⏱️ 1:37:17 • 22h ago
 
 ---
 
@@ -363,7 +363,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 84K • 👍 3K • 💬 109 • ⏱️ 16:26 • 1d ago
+👁️ 84K • 👍 3K • 💬 109 • ⏱️ 16:26 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 855 • 2d ago
+⬇️ 4,163 • ❤️ 859 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 706 • 6d ago
+⬇️ 13,246 • ❤️ 710 • 6d ago
 
 ---
 
@@ -413,7 +413,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 28,171 • ❤️ 585 • 6d ago
+⬇️ 28,171 • ❤️ 588 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 340 • 1d ago
+⬇️ 6,617 • ❤️ 342 • 2d ago
 
 ---
 
@@ -471,7 +471,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 296 • 6d ago
+⬇️ 0 • ❤️ 297 • 6d ago
 
 ---
 
@@ -502,6 +502,20 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times](https://huggingface.co/papers/2512.16093)**
+
+*Jintao Zhang, Kaiwen Zheng, Kai Jiang et al. (8 authors)*
+
+🏢 University of California, Berkeley
+
+TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
+
+▲ 37 • 💬 1 • ⭐ 1,905 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
+
+---
 
 **[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
 
@@ -600,7 +614,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 28 • 💬 2 • ⭐ 7,853 • 27d ago
+▲ 28 • 💬 2 • ⭐ 7,853 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -617,19 +631,6 @@ SAM Audio, a diffusion transformer-based foundation model, achieves superior per
 ▲ 11 • 💬 0 • ⭐ 2,512 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.18099) • [💻 code](https://github.com/facebookresearch/sam-audio) • [🔗 project](https://ai.meta.com/samaudio/)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 26 • 💬 1 • ⭐ 66,141 • 27mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -653,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 707 • 3h ago
+⭐ 6.3k • 🔱 711 • 25m ago
 
 ---
 
@@ -663,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 437 • 49m ago
+⭐ 3.4k • 🔱 438 • 1h ago
 
 ---
 
@@ -673,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 206 • 47m ago
+⭐ 3.0k • 🔱 206 • 8m ago
 
 ---
 
@@ -693,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 216 • 1d ago
+⭐ 1.3k • 🔱 217 • 1d ago
 
 ---
 
@@ -703,7 +704,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 107 • 3h ago
+⭐ 1.2k • 🔱 107 • 4h ago
 
 ---
 
@@ -723,7 +724,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.0k • 🔱 45 • 19h ago
+⭐ 1.1k • 🔱 47 • 20h ago
 
 ---
 
@@ -733,7 +734,7 @@ Browser automation for AI agents and humans
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 902 • 🔱 128 • 7d ago
+⭐ 906 • 🔱 128 • 7d ago
 
 ---
 

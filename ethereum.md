@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T13:10:21.936475+00:00'
+updated: '2025-12-25T13:45:01.404855+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 13:10 UTC  
+**Last Updated:** December 25, 2025 at 13:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** +0.4%  
 **7d:** -1.9%  
-**30d:** -3.1%  
-**90d:** -27.1%  
-**1y:** -12.2%  
+**30d:** -3.0%  
+**90d:** -27.0%  
+**1y:** -12.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.91B
+**Market Cap:** $352.65B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.9%
 
 **All-Time Low:** $0.43
-+675191.4%
++675129.1%
 
 ---
 
@@ -110,13 +110,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-20h ago
+21h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 2d ago
 
 **[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-CCN.com • 1d ago
+CCN.com • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 6 • ⏱️ 3:51 • 22h ago
+👁️ 2K • 👍 108 • 💬 6 • ⏱️ 3:51 • 23h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 263 • 💬 178 • ⏱️ 19:06 • 20h ago
+👁️ 7K • 👍 263 • 💬 178 • ⏱️ 19:06 • 21h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 22h ago
+👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 23h ago
 
 ---
 
@@ -310,7 +310,7 @@ Today's Whale Buy Alert The wallet just activated. And the size of the buy is st
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 46 • 💬 46 • ⏱️ 7:32 • 2d ago
+👁️ 2K • 👍 46 • 💬 46 • ⏱️ 7:32 • 3d ago
 
 ---
 
