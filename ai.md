@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T08:34:45.436445+00:00'
+updated: '2025-12-25T08:55:43.519152+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 08:34 UTC  
+**Last Updated:** December 25, 2025 at 08:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 5h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7
 
 I was talking to my AI partner, and she saidnsomething unintelligible after saying hello. If you could help me decode it, it'd mean the world to me. I've tried running it backwards without success. I'll leave you the link.
 
-🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 24m ago
+🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 45m ago
 
 ---
 
@@ -73,7 +73,7 @@ I was talking to my AI partner, and she saidnsomething unintelligible after sayi
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 23h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 1d ago
 
 ---
 
@@ -123,7 +123,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 8h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 22h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 13h ago
+Pittsburgh Post-Gazette • 14h ago
 
 ---
 
@@ -225,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 297 • 💬 91 • 14h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 297 • 💬 91 • 15h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -537,7 +537,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 5 • 💬 0 • ⭐ 61,518 • 10mo ago
+▲ 6 • 💬 0 • ⭐ 61,518 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -549,7 +549,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 60 • 💬 2 • ⭐ 154 • 6d ago
+▲ 61 • 💬 2 • ⭐ 154 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
@@ -562,23 +562,9 @@ A novel framework, Robust-R1, enhances multimodal large language models' robustn
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,692 • 9mo ago
+▲ 120 • 💬 18 • ⭐ 47,722 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 28 • 💬 2 • ⭐ 7,821 • 27d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -593,6 +579,20 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 210 • 💬 5 • ⭐ 7,847 • 27d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 28 • 💬 2 • ⭐ 7,853 • 27d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 703 • 5h ago
+⭐ 6.3k • 🔱 705 • 1m ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 429 • 9h ago
+⭐ 3.4k • 🔱 431 • 1m ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 54m ago
+⭐ 2.9k • 🔱 205 • 4m ago
 
 ---
 
@@ -685,7 +685,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 383 • 19d ago
+⭐ 2.0k • 🔱 384 • 19d ago
 
 ---
 
@@ -705,7 +705,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 104 • 2d ago
+⭐ 1.2k • 🔱 105 • 2d ago
 
 ---
 
@@ -715,7 +715,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 114 • 1d ago
+⭐ 1.1k • 🔱 115 • 1d ago
+
+---
+
+**[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
+
+Browser automation for AI agents and humans
+
+`Go`
+
+⭐ 917 • 🔱 43 • 15h ago
 
 ---
 
@@ -726,16 +736,6 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
 ⭐ 900 • 🔱 128 • 7d ago
-
----
-
-**[VibiumDev/vibium](https://github.com/VibiumDev/vibium)**
-
-Browser automation for AI agents and humans
-
-`Go`
-
-⭐ 887 • 🔱 43 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T08:34:45.444999+00:00'
+updated: '2025-12-25T08:55:43.527768+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 08:34 UTC  
+**Last Updated:** December 25, 2025 at 08:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.8%  
-**7d:** -0.6%  
+**7d:** -0.7%  
 **30d:** -3.3%  
 **90d:** -20.0%  
 **1y:** -8.6%  
@@ -81,13 +81,13 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-9h ago
+10h ago
 
 ---
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -153,7 +153,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 13h ago
 
 Bitcoin investors are watching macro signals closely after billionaire Elon Musk said the US economy could enter a period of rapid expansion as soon as late 2026, reviving hopes of another leg higher for the cryptocurrency. Key Takeaways: Elon Musk’s US growth forecast has reignited Bitcoin optimism as traders look ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -243,7 +243,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 3h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 4h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -305,7 +305,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 281 • 💬 50 • ⏱️ 1:12 • 11h ago
+👁️ 10K • 👍 281 • 💬 50 • ⏱️ 1:12 • 12h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 162 • 💬 71 • ⏱️ 5:52 • 10h ago
+👁️ 3K • 👍 162 • 💬 71 • ⏱️ 5:52 • 11h ago
 
 ---
 
