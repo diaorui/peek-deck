@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T13:45:01.391752+00:00'
+updated: '2025-12-25T13:57:06.643597+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 13:45 UTC  
+**Last Updated:** December 25, 2025 at 13:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 10h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 11h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 1d ago
 
 Hollywood bet big on generative AI slop in 2025.
 
-The Verge • 45m ago
+The Verge • 57m ago
 
 ---
 
@@ -159,13 +159,13 @@ The Verge • 45m ago
 
 Microsoft's one-hour lesson in Bellevue aimed to introduce kids to fast-evolving AI and helping them use it responsibly.
 
-The Seattle Times • 15m ago
+The Seattle Times • 27m ago
 
 ---
 
 **[How should you use AI? Here are tips and tricks on how not to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 42m ago
+Axios • 54m ago
 
 ---
 
@@ -209,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 344 • 💬 100 • 19h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 344 • 💬 100 • 20h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -283,27 +283,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 25K • 👍 1K • 💬 580 • ⏱️ 11:28 • 1d ago
-
----
-
-**[Former OpenAI Safety Researcher Blows Whistle on AI Psychosis](https://www.youtube.com/watch?v=W8kHdG5ldmo)**
-
-Why should we assume that AI is safe? As the technology has grown at an alarming rate, companies like OpenAI have seen ...
-
-📺 Adam Conover
-
-👁️ 13K • 👍 753 • 💬 335 • ⏱️ 1:37:17 • 22h ago
-
----
-
-**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
-
-Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
-
-📺 Greg Isenberg
-
-👁️ 18K • 👍 488 • 💬 60 • ⏱️ 18:48 • 2d ago
+👁️ 26K • 👍 1K • 💬 586 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -313,17 +293,27 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 15K • 👍 399 • 💬 38 • ⏱️ 8:00 • 1d ago
+👁️ 18K • 👍 368 • 💬 38 • ⏱️ 8:00 • 1d ago
 
 ---
 
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
+**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
 
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
+Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
 
-📺 AI Search
+📺 Greg Isenberg
 
-👁️ 82K • 👍 4K • 💬 386 • ⏱️ 30:43 • 1d ago
+👁️ 18K • 👍 491 • 💬 60 • ⏱️ 18:48 • 2d ago
+
+---
+
+**[Grandfather Creates Magical Helicopter Surprise for Cute Baby 🚁🎁 #ai #cutebaby #kindness](https://www.youtube.com/watch?v=pkSoo8ge49U)**
+
+Grandfather Creates Magical Helicopter Surprise for Cute Baby #ai #cutebaby #kindness #cutebaby #trendingshorts This ...
+
+📺 ETC BackLol Facts
+
+👁️ 59K • ⏱️ 0:21 • 26m ago
 
 ---
 
@@ -333,7 +323,27 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 497K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
+👁️ 501K • 👍 16K • 💬 3K • ⏱️ 19:40 • 2d ago
+
+---
+
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
+
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
+
+📺 AI Search
+
+👁️ 84K • 👍 4K • 💬 387 • ⏱️ 30:43 • 1d ago
+
+---
+
+**[Nandi stops the bus not to harm but to protect 😭#ai #nandi #viral #shorts](https://www.youtube.com/watch?v=dVaA3e3i-ug)**
+
+Nandi stops the bus not to harm but to protect #ai #nandi #viral #shorts.
+
+📺 NexoLoop Ai
+
+👁️ 2K • 💬 1 • ⏱️ 0:22 • 55m ago
 
 ---
 
@@ -343,27 +353,15 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 13K • 👍 211 • 💬 53 • ⏱️ 7:50 • 1d ago
+👁️ 14K • 👍 217 • 💬 54 • ⏱️ 7:50 • 1d ago
 
 ---
 
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
 
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+📺 Maggie McGaugh
 
-📺 AI Explained
-
-👁️ 59K • 👍 3K • 💬 370 • ⏱️ 33:27 • 1d ago
-
----
-
-**[Google&#39;s FREE Tool Just DESTROYED 10 AI Subscriptions (NotebookLM Mastery)](https://www.youtube.com/watch?v=WJtnH0G8G1g)**
-
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://dub.sh/ai-updates-vs ...
-
-📺 Vaibhav Sisinty
-
-👁️ 84K • 👍 3K • 💬 109 • ⏱️ 16:26 • 2d ago
+👁️ 230K • 👍 9K • 💬 64 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -373,7 +371,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 92K • 👍 3K • 💬 888 • ⏱️ 6:53 • 1d ago
+👁️ 95K • 👍 3K • 💬 910 • ⏱️ 6:53 • 1d ago
 
 ---
 
@@ -600,7 +598,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 212 • 💬 5 • ⭐ 7,847 • 27d ago
+▲ 212 • 💬 5 • ⭐ 7,847 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -654,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 711 • 25m ago
+⭐ 6.3k • 🔱 711 • 37m ago
 
 ---
 
@@ -674,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 206 • 8m ago
+⭐ 3.0k • 🔱 206 • 20m ago
 
 ---
 

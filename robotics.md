@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T13:45:01.407781+00:00'
+updated: '2025-12-25T13:57:06.661357+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 13:45 UTC  
+**Last Updated:** December 25, 2025 at 13:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-18h ago
+19h ago
 
 ---
 
@@ -122,7 +122,7 @@ IEEE Spectrum • 2d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 23h ago
+New Atlas • 1d ago
 
 ---
 
@@ -188,13 +188,23 @@ Phys.org • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
 
-She Bought Two Robots    #shorts#trending.
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
 
-📺 Facto_Satish
+📺 AI Revolution
 
-👁️ 51K • 💬 4 • ⏱️ 0:27 • 10h ago
+👁️ 50K • 👍 833 • 💬 93 • ⏱️ 2:08:46 • 5d ago
+
+---
+
+**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
+
+Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
+
+📺 Ai Hypex
+
+👁️ 774K • 👍 5K • 💬 12 • ⏱️ 0:10 • 20h ago
 
 ---
 
@@ -208,53 +218,23 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
-
-📺 AI Revolution
-
-👁️ 50K • 👍 833 • 💬 93 • ⏱️ 2:08:46 • 5d ago
-
----
-
-**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
-
-Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
-
-📺 War Robots [WR]
-
-👁️ 3K • 👍 427 • 💬 519 • ⏱️ 9:57 • 4h ago
-
----
-
-**[An exclusive look inside China&#39;s humanoid robot mass-production factory in Shanghai](https://www.youtube.com/watch?v=d17f_5dVW7I)**
-
-China's leading robotics company, AgiBot, recently unveiled its 5000th mass-produced humanoid robot. How are humanoid ...
-
-📺 New China TV
-
-👁️ 65K • 👍 968 • 💬 271 • ⏱️ 31:49 • 6d ago
-
----
-
 **[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
 
 China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
 
 📺 CNET
 
-👁️ 39K • 👍 646 • 💬 153 • ⏱️ 5:25 • 4d ago
+👁️ 39K • 👍 648 • 💬 153 • ⏱️ 5:25 • 4d ago
 
 ---
 
-**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
-Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
+She Bought Two Robots    #shorts#trending.
 
-📺 Mike Israetel
+📺 Facto_Satish
 
-👁️ 5K • 👍 271 • 💬 80 • ⏱️ 49:59 • 2d ago
+👁️ 59K • 💬 4 • ⏱️ 0:27 • 10h ago
 
 ---
 
@@ -264,17 +244,37 @@ This ultra-realistic humanoid head demonstrates how far robotics and AI have com
 
 📺 Deepen
 
-👁️ 42K • 👍 231 • 💬 10 • ⏱️ 0:08 • 4d ago
+👁️ 42K • 👍 236 • 💬 12 • ⏱️ 0:08 • 4d ago
 
 ---
 
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
+**[An exclusive look inside China&#39;s humanoid robot mass-production factory in Shanghai](https://www.youtube.com/watch?v=d17f_5dVW7I)**
 
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
+China's leading robotics company, AgiBot, recently unveiled its 5000th mass-produced humanoid robot. How are humanoid ...
 
-📺 Ai BOOF
+📺 New China TV
 
-👁️ 24K • 👍 342 • 💬 8 • ⏱️ 0:11 • 3d ago
+👁️ 66K • 👍 979 • 💬 273 • ⏱️ 31:49 • 6d ago
+
+---
+
+**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
+
+Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
+
+📺 Mike Israetel
+
+👁️ 5K • 👍 270 • 💬 83 • ⏱️ 49:59 • 2d ago
+
+---
+
+**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
+
+Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
+
+📺 War Robots [WR]
+
+👁️ 6K • 👍 602 • 💬 801 • ⏱️ 9:57 • 4h ago
 
 ---
 
@@ -284,7 +284,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 190K • 👍 3K • 💬 689 • ⏱️ 2:23 • 4d ago
+👁️ 194K • 👍 3K • 💬 697 • ⏱️ 2:23 • 4d ago
 
 ---
 

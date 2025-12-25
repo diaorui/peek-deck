@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T13:45:01.399468+00:00'
+updated: '2025-12-25T13:57:06.651979+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 13:45 UTC  
+**Last Updated:** December 25, 2025 at 13:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.7%  
-**30d:** -3.3%  
-**90d:** -20.1%  
-**1y:** -8.6%  
+**24h:** +0.3%  
+**7d:** -0.9%  
+**30d:** -3.5%  
+**90d:** -20.2%  
+**1y:** -8.8%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -135,7 +135,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
 
-8h ago
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Wall Street Journal • 1d ago
 
 **[Bitcoin or Coal: How Getting Coal In Your Stocking This Year Beat Getting Crypto](https://www.ccn.com/news/crypto/bitcoin-coal-getting-coal-in-stocking-this-year-beat-crypto/)**
 
-CCN.com • 42m ago
+CCN.com • 54m ago
 
 ---
 
@@ -291,17 +291,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 168 • ⏱️ 37:34 • 16h ago
-
----
-
-**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
-
-2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 202 • ⏱️ 13:26 • 1d ago
+👁️ 32K • 👍 2K • 💬 183 • ⏱️ 37:34 • 16h ago
 
 ---
 
@@ -311,7 +301,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 19K • 👍 275 • 💬 196 • ⏱️ 8:19 • 1d ago
+👁️ 19K • 👍 279 • 💬 201 • ⏱️ 8:19 • 1d ago
 
 ---
 
@@ -321,7 +311,17 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 260 • 💬 32 • ⏱️ 7:13 • 13h ago
+👁️ 5K • 👍 278 • 💬 34 • ⏱️ 7:13 • 13h ago
+
+---
+
+**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+
+2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 202 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 13K • 👍 317 • 💬 66 • ⏱️ 1:12 • 16h ago
+👁️ 14K • 👍 333 • 💬 67 • ⏱️ 1:12 • 17h ago
 
 ---
 
@@ -341,7 +341,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 96K • 👍 4K • 💬 426 • ⏱️ 20:46 • 1d ago
+👁️ 98K • 👍 4K • 💬 430 • ⏱️ 20:46 • 1d ago
 
 ---
 
@@ -361,17 +361,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 39K • 👍 2K • 💬 208 • ⏱️ 20:00 • 1d ago
-
----
-
-**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=UgLJaiGy5-o)**
-
-00:00 In this video 00:12 Bitcoin: Bearish Market Structure 01:26 Bitcoin: Bullish Divergence 02:31 Bitcoin: Support & Resistance ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 182 • 💬 103 • ⏱️ 5:52 • 15h ago
+👁️ 40K • 👍 2K • 💬 210 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -381,7 +371,17 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 27K • 👍 3K • 💬 196 • ⏱️ 19:10 • 16h ago
+👁️ 28K • 👍 3K • 💬 207 • ⏱️ 19:10 • 16h ago
+
+---
+
+**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=UgLJaiGy5-o)**
+
+00:00 In this video 00:12 Bitcoin: Bearish Market Structure 01:26 Bitcoin: Bullish Divergence 02:31 Bitcoin: Support & Resistance ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 188 • 💬 102 • ⏱️ 5:52 • 16h ago
 
 ---
 

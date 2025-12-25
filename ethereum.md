@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T13:45:01.404855+00:00'
+updated: '2025-12-25T13:57:06.658082+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 13:45 UTC  
+**Last Updated:** December 25, 2025 at 13:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.9%  
-**30d:** -3.0%  
-**90d:** -27.0%  
-**1y:** -12.1%  
+**24h:** +0.5%  
+**7d:** -1.8%  
+**30d:** -2.9%  
+**90d:** -26.9%  
+**1y:** -12.0%  
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
-🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 20h ago
+🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 21h ago
 
 ---
 
@@ -224,6 +224,16 @@ TradingView — Track All Markets • 11h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
+
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
+
+📺 Trading Jip
+
+👁️ 253 • 👍 19 • 💬 13 • ⏱️ 7:57 • 2h ago
+
+---
+
 **[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
 
 The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
@@ -234,43 +244,23 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 ---
 
-**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
-
-One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
-
-📺 CryptoStock Lab
-
-👁️ 2K • 👍 66 • 💬 61 • ⏱️ 13:29 • 13h ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 6 • ⏱️ 3:51 • 23h ago
+👁️ 2K • 👍 109 • 💬 6 • ⏱️ 3:51 • 23h ago
 
 ---
 
-**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
+**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
 
-📺 BitcoinHyper
+📺 CryptoStock Lab
 
-👁️ 9K • 👍 464 • 💬 77 • ⏱️ 13:14 • 1d ago
-
----
-
-**[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
-
-BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 263 • 💬 178 • ⏱️ 19:06 • 21h ago
+👁️ 2K • 👍 71 • 💬 75 • ⏱️ 13:29 • 13h ago
 
 ---
 
@@ -284,6 +274,26 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 ---
 
+**[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
+
+BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 267 • 💬 177 • ⏱️ 19:06 • 21h ago
+
+---
+
+**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 9K • 👍 461 • 💬 77 • ⏱️ 13:14 • 1d ago
+
+---
+
 **[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
 
 Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
@@ -294,33 +304,23 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 ---
 
-**[ETHEREUM FLUSH WARNING!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=h7YahpZL6P0)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Cilinix Crypto
+📺 Brilliance Academy
 
-👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 23h ago
-
----
-
-**[TOM LEE JUST DROPPED $40M ON ETH! (Whale Alert)](https://www.youtube.com/watch?v=iNSNWJAiXX0)**
-
-Today's Whale Buy Alert The wallet just activated. And the size of the buy is staggering. According to on-chain data, BitMine ...
-
-📺 Wall Street Stockcast
-
-👁️ 2K • 👍 46 • 💬 46 • ⏱️ 7:32 • 3d ago
+👁️ 5K • 👍 1K • 22h ago
 
 ---
 
-**[WATCH THIS LEVEL NOW!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=88giBIDTBiw)**
+**[Bitcoin &amp; Ethereum. Achte auf diesen Steuer Trick! Was dann letztes Jahr passiert ist!](https://www.youtube.com/watch?v=0WsUd7UfF3o)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
 
-📺 Cilinix Crypto
+📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 38 • 💬 15 • ⏱️ 5:30 • 2d ago
+👁️ 3K • 👍 485 • 💬 82 • ⏱️ 13:58 • 9h ago
 
 ---
 
