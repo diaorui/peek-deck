@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T19:30:31.463705+00:00'
+updated: '2025-12-25T19:42:58.298166+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 19:30 UTC  
+**Last Updated:** December 25, 2025 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,094.92
+### $88,093.40
 
 ---
 
@@ -99,7 +99,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -117,7 +117,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-29m ago
+42m ago
 
 ---
 

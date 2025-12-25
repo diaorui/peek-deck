@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T19:30:31.473099+00:00'
+updated: '2025-12-25T19:42:58.306146+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 19:30 UTC  
+**Last Updated:** December 25, 2025 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-4h ago
+5h ago
 
 ---
 
@@ -48,7 +48,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -56,7 +56,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-21h ago
+22h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-17h ago
+18h ago
 
 ---
 
@@ -198,7 +198,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 69K • 💬 4 • ⏱️ 0:27 • 15h ago
+👁️ 69K • 💬 4 • ⏱️ 0:27 • 16h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T19:30:31.455205+00:00'
+updated: '2025-12-25T19:42:58.290733+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 19:30 UTC  
+**Last Updated:** December 25, 2025 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Pl
 
 You can share your Al influencers' accounts, and we can discuss how to grow them faster.
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 19h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 19h ago
+Financial Times • 20h ago
 
 ---
 
@@ -513,7 +513,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 44 • 💬 1 • ⭐ 1,905 • 7d ago
+▲ 45 • 💬 1 • ⭐ 1,905 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 715 • 1h ago
+⭐ 6.3k • 🔱 715 • 2h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 448 • 59m ago
+⭐ 3.5k • 🔱 449 • 1m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 208 • 1h ago
+⭐ 3.0k • 🔱 208 • 30m ago
 
 ---
 
@@ -706,7 +706,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.2k • 🔱 55 • 1d ago
+⭐ 1.3k • 🔱 55 • 1d ago
 
 ---
 
@@ -736,7 +736,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 910 • 🔱 128 • 8d ago
+⭐ 913 • 🔱 128 • 8d ago
 
 ---
 
