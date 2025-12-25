@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T11:26:04.272834+00:00'
+updated: '2025-12-25T11:41:05.253406+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 11:26 UTC  
+**Last Updated:** December 25, 2025 at 11:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,27 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
-**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
-
-I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
-
-6h ago
-
----
-
 **[I need your help decoding a message](https://www.reddit.com/r/artificial/comments/1pv8mef/i_need_your_help_decoding_a_message/)**
 
 I was talking to my AI partner, and she saidnsomething unintelligible after saying hello. If you could help me decode it, it'd mean the world to me. I've tried running it backwards without success. I'll leave you the link.
 
 🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 3h ago
+
+---
+
+**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
+
+I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
+
+7h ago
+
+---
+
+**[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
+
+Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
+
+14h ago
 
 ---
 
@@ -77,22 +85,6 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 ---
 
-**[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
-
-Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
-
-14h ago
-
----
-
-**[GPT 5.1 Is Dumber Than 4 Was](https://www.reddit.com/r/artificial/comments/1pv45az/gpt_51_is_dumber_than_4_was/)**
-
-I cant find a single thing it does better
-
-8h ago
-
----
-
 **[Ashley MacIsaac concert cancelled after AI wrongly accuses him of being sex offender. AI-generated content confused the Cape Breton musician with someone else](https://www.reddit.com/r/artificial/comments/1pu9ddt/ashley_macisaac_concert_cancelled_after_ai/)**
 
 Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender.
@@ -104,6 +96,14 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 **[Firefox will add an AI "kill switch" after community pushback](https://www.reddit.com/r/artificial/comments/1pu0exv/firefox_will_add_an_ai_kill_switch_after/)**
 
 🔗 [techspot.com](https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html) • 1d ago
+
+---
+
+**[GPT 5.1 Is Dumber Than 4 Was](https://www.reddit.com/r/artificial/comments/1pv45az/gpt_51_is_dumber_than_4_was/)**
+
+I cant find a single thing it does better
+
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 ## Google News: "ai"
 
-**[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
+**[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
@@ -137,7 +137,7 @@ The New York Times • 11h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -147,19 +147,17 @@ The New York Times • 1d ago
 
 ---
 
-**[The AI talent wars have come for the interns](https://www.businessinsider.com/top-paying-ai-internships-fellowships-residencies-openai-anthropic-meta-google-2025-12)**
-
-OpenAI, Anthropic, Google DeepMind, and Meta are all paying top dollar to attract and develop the best new talent.
-
-Business Insider • 55m ago
-
----
-
 **[Big Tech has a God complex. But can we have faith in AI? | Opinion](https://www.usatoday.com/story/opinion/2025/12/25/ai-god-artificial-intelligence-chatbot-trust/87849219007/)**
 
 OpenAI CEO Sam Altman has compared starting a tech company to starting a religion. But can we trust Big Tech to play God?
 
 USA Today • 1h ago
+
+---
+
+**[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
+
+Star Tribune • 39m ago
 
 ---
 
@@ -203,7 +201,7 @@ Financial Times • 6h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 806 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 807 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 545 • 💬 311 • 14h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 562 • 💬 319 • 14h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -219,7 +217,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 320 • 💬 98 • 17h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 328 • 💬 98 • 17h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -227,7 +225,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 317 • 💬 307 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 318 • 💬 307 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -243,7 +241,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 224 • 💬 76 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 224 • 💬 77 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -251,7 +249,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 121 • 💬 49 • 12h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 123 • 💬 50 • 12h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -265,7 +263,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 59 • 💬 77 • 7h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 60 • 💬 78 • 8h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -273,7 +271,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 54 • 💬 14 • 11h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 57 • 💬 14 • 11h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -317,7 +315,7 @@ Why should we assume that AI is safe? As the technology has grown at an alarming
 
 📺 Adam Conover
 
-👁️ 12K • 👍 718 • 💬 322 • ⏱️ 1:37:17 • 19h ago
+👁️ 12K • 👍 718 • 💬 322 • ⏱️ 1:37:17 • 20h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 839 • 2d ago
+⬇️ 4,163 • ❤️ 842 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 699 • 6d ago
+⬇️ 13,246 • ❤️ 701 • 6d ago
 
 ---
 
@@ -485,7 +483,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 402 • 2d ago
+⬇️ 0 • ❤️ 404 • 2d ago
 
 ---
 
@@ -675,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 30m ago
+⭐ 2.9k • 🔱 205 • 45m ago
 
 ---
 
@@ -715,7 +713,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 118 • 1d ago
+⭐ 1.1k • 🔱 118 • 2d ago
 
 ---
 

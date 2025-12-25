@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T11:26:04.291046+00:00'
+updated: '2025-12-25T11:41:05.271349+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 11:26 UTC  
+**Last Updated:** December 25, 2025 at 11:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-13h ago
+14h ago
 
 ---
 
@@ -44,13 +44,21 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-9h ago
+10h ago
 
 ---
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-3h ago
+4h ago
+
+---
+
+**[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
+
+Wishing everyone a happy Christmas holiday.
+
+25m ago
 
 ---
 
@@ -82,7 +90,7 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 The Speed controller needed to have solder placed on it, as beforehand, the left stick moved in a straight line at channel 1 (left to right motion on the stick), and jolted at channel 2 (up and down motion on the stick), when it should move in a straight line when the stick moves up and down. Now I have added the solder, it spins both when I move the left stick up and down, and left and right, and moves straight only when I move the remote diagonally. Changing Elevation mode hasn’t worked yet. What else should be done for the motion to be as it should? By the way, I have a different robot with the same type of speed controller and remote that doesn’t have these particular problems. So why does this specific issue occur with this controller.
 
-48m ago
+1h ago
 
 ---
 
@@ -96,15 +104,7 @@ The Speed controller needed to have solder placed on it, as beforehand, the left
 
 https://preview.redd.it/pyhtbldp769g1.png?width=1065&format=png&auto=webp&s=a55c4acefd9e00b6c31b56ad1196a0006fcee103 Happy Holidays! RealSense Beta 57.5 released with D555 features updates: - Supporting Decimation Embedded Filter to optimize depth Z16 data density - New FW released (see FW table below), with improved support for Native ROS2, now directly exposes standard ROS2 services and parameters - Enabled JPEG compression for RGB streams - Ethernet DFU: Firmware updates can now be performed directly over the Ethernet connection - Enabled Depth Advanced Control parameters via DDS - Traffic Shaping improved, enables configuration of MTU size and delay, which can help in multiple cameras scenario More info: https://github.com/realsenseai/librealsense/releases/tag/v2.57.5
 
-19h ago
-
----
-
-**[Disney: Olaf: Bringing an Animated Character to Life in the Physical World (Demo - Paper)](https://www.reddit.com/r/robotics/comments/1pts3ka/disney_olaf_bringing_an_animated_character_to/)**
-
-Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:2512.16705 [cs.RO]: https://arxiv.org/abs/2512.16705
-
-1d ago
+20h ago
 
 ---
 
@@ -136,19 +136,19 @@ hyundai.com • 3d ago
 
 ---
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
-
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
-
-Earth.com • 19h ago
-
----
-
 **[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
 A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
 Interesting Engineering • 22h ago
+
+---
+
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+
+Earth.com • 20h ago
 
 ---
 
@@ -166,17 +166,17 @@ Tech Xplore • 1d ago
 
 ---
 
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+
+Investor's Business Daily • 20h ago
+
+---
+
 **[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
 Phoronix • 2d ago
-
----
-
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
-
-Investor's Business Daily • 20h ago
 
 ---
 

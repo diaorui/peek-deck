@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T11:26:04.287817+00:00'
+updated: '2025-12-25T11:41:05.268098+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 11:26 UTC  
+**Last Updated:** December 25, 2025 at 11:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,25 +44,25 @@ Live Ethereum monitoring dashboard
 
 **24h:** -0.4%  
 **7d:** -2.0%  
-**30d:** -3.2%  
+**30d:** -3.1%  
 **90d:** -27.1%  
-**1y:** -12.3%  
+**1y:** -12.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.14B
+**Market Cap:** $352.81B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.0%
+-40.9%
 
 **All-Time Low:** $0.43
-+673812.6%
++675004.3%
 
 ---
 
@@ -214,9 +214,9 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Fails To Surpass $3,000: Predictions For The Final Days Of The Year](https://www.tradingview.com/news/newsbtc:c6119d173094b:0-ethereum-fails-to-surpass-3-000-predictions-for-the-final-days-of-the-year/)**
+**[Solana and Ethereum can coexist in tokenization race: Dragonfly VC](https://www.tradingview.com/news/cointelegraph:ba77585bb094b:0-solana-and-ethereum-can-coexist-in-tokenization-race-dragonfly-vc/)**
 
-The Ethereum price has struggled to reclaim the critical $3,000 mark for the past 48 hours, raising concerns about potential declines in the cryptocurrency’s value if this essential support level is not regained by the end of the week.Analyst Predicts Further DownsideMarket analyst Ted Pillows poin…
+Solana and Ethereum will both thrive in the tokenization race and neither blockchain will push the other out of the space, says Dragonfly general partner Rob Hadick.“They are both Facebook,” Hadick told CNBC’s “Squawk Box” on Wednesday, when asked which blockchain will gain market dominance like so…
 
 TradingView — Track All Markets • 9h ago
 
@@ -272,7 +272,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 260 • 💬 181 • ⏱️ 19:06 • 18h ago
+👁️ 6K • 👍 260 • 💬 181 • ⏱️ 19:06 • 19h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 20h ago
+👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 21h ago
 
 ---
 

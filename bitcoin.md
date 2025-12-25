@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T11:26:04.281673+00:00'
+updated: '2025-12-25T11:41:05.262044+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 11:26 UTC  
+**Last Updated:** December 25, 2025 at 11:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.0%  
-**30d:** -3.6%  
-**90d:** -20.3%  
-**1y:** -8.9%  
+**24h:** +0.2%  
+**7d:** -0.7%  
+**30d:** -3.3%  
+**90d:** -20.0%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1743.58B
+**Market Cap:** $1746.32B
 Rank #1
 
 **Circulating Supply:** 19,966,834 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128692.2%
++128886.9%
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,15 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-12h ago
+13h ago
+
+---
+
+**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
+
+I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
+
+6h ago
 
 ---
 
@@ -129,19 +137,11 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 ---
 
-**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
-
-I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
-
-6h ago
-
----
-
 **[I invested 1000 euros in Bitcoin, today, at 87,000](https://www.reddit.com/r/Bitcoin/comments/1pusvef/i_invested_1000_euros_in_bitcoin_today_at_87000/)**
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-17h ago
+18h ago
 
 ---
 
@@ -161,15 +161,7 @@ CoinDesk • 6h ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 15h ago
-
----
-
-**[Gold’s Rally Could Be Bitcoin’s Next Catalyst, But Risks Still Linger](https://finance.yahoo.com/news/gold-rally-could-bitcoin-next-082908663.html)**
-
-Bitcoin price may rally before 2026 if gold’s strength persists, though rising exchange inflows signal cautious investor sentiment.
-
-Yahoo Finance • 2h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -179,7 +171,7 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin and ether ETFs see outflows ahead of Christmas, led by IBIT and ETHE](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
 
 The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
@@ -195,9 +187,21 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqerEAZBG6AwgYZwulF_pEBP_OOuhzQKstMXxp31Sc4wEMAJgn2xyyif&gaa_ts=694d263f&gaa_sig=YvWUOXw9NEXlwa6vZIgbd9wiG8E8ZU0qPo9pxEJ7bS0cW7bOPrEQIVq17bfkiBjW0Iim-f2OzvrsYqUK4Lt9KA%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 1d ago
+
+---
+
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -214,14 +218,6 @@ Investopedia • 1d ago
 Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
 
 Inquirer.com • 1d ago
-
----
-
-**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
-
-Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
-
-The Guardian • 1d ago
 
 ---
 
@@ -307,7 +303,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 18K • 👍 269 • 💬 179 • ⏱️ 8:19 • 21h ago
+👁️ 18K • 👍 269 • 💬 179 • ⏱️ 8:19 • 22h ago
 
 ---
 
