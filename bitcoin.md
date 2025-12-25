@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T10:59:07.302796+00:00'
+updated: '2025-12-25T11:26:04.281673+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 10:59 UTC  
+**Last Updated:** December 25, 2025 at 11:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** -0.1%  
 **7d:** -1.0%  
 **30d:** -3.6%  
 **90d:** -20.3%  
@@ -79,13 +79,13 @@ Rank #1
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-8h ago
+9h ago
 
 ---
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
 
-5h ago
+6h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Guardian • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 20h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 21h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -267,7 +267,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 79 • 💬 36 • 18h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 79 • 💬 36 • 19h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -317,7 +317,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 244 • 💬 32 • ⏱️ 7:13 • 10h ago
+👁️ 4K • 👍 244 • 💬 32 • ⏱️ 7:13 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 163 • ⏱️ 37:34 • 13h ago
+👁️ 25K • 👍 1K • 💬 163 • ⏱️ 37:34 • 14h ago
 
 ---
 
@@ -387,7 +387,7 @@ The U.S. Strategic Bitcoin Reserve was once a near-certainty—backed by powerfu
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 338 • 💬 147 • ⏱️ 25:23 • 12h ago
+👁️ 7K • 👍 338 • 💬 147 • ⏱️ 25:23 • 13h ago
 
 ---
 

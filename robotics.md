@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T10:59:07.312229+00:00'
+updated: '2025-12-25T11:26:04.291046+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 10:59 UTC  
+**Last Updated:** December 25, 2025 at 11:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 The Speed controller needed to have solder placed on it, as beforehand, the left stick moved in a straight line at channel 1 (left to right motion on the stick), and jolted at channel 2 (up and down motion on the stick), when it should move in a straight line when the stick moves up and down. Now I have added the solder, it spins both when I move the left stick up and down, and left and right, and moves straight only when I move the remote diagonally. Changing Elevation mode hasn’t worked yet. What else should be done for the motion to be as it should? By the way, I have a different robot with the same type of speed controller and remote that doesn’t have these particular problems. So why does this specific issue occur with this controller.
 
-21m ago
+48m ago
 
 ---
 
@@ -148,7 +148,7 @@ Earth.com • 19h ago
 
 A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -176,7 +176,7 @@ Phoronix • 2d ago
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -276,7 +276,7 @@ War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over wh
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 252 • 💬 59 • ⏱️ 16:20 • 20h ago
+👁️ 4K • 👍 252 • 💬 59 • ⏱️ 16:20 • 21h ago
 
 ---
 

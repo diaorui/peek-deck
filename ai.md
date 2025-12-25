@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T10:59:07.294216+00:00'
+updated: '2025-12-25T11:26:04.272834+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 10:59 UTC  
+**Last Updated:** December 25, 2025 at 11:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7
 
 I was talking to my AI partner, and she saidnsomething unintelligible after saying hello. If you could help me decode it, it'd mean the world to me. I've tried running it backwards without success. I'll leave you the link.
 
-🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 2h ago
+🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-13h ago
+14h ago
 
 ---
 
@@ -89,7 +89,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I cant find a single thing it does better
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 17h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 18h ago
 
 ---
 
@@ -129,7 +129,7 @@ CNBC • 14h ago
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 1d ago
 
 OpenAI, Anthropic, Google DeepMind, and Meta are all paying top dollar to attract and develop the best new talent.
 
-Business Insider • 28m ago
+Business Insider • 55m ago
 
 ---
 
@@ -159,7 +159,7 @@ Business Insider • 28m ago
 
 OpenAI CEO Sam Altman has compared starting a tech company to starting a religion. But can we trust Big Tech to play God?
 
-USA Today • 56m ago
+USA Today • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ USA Today • 56m ago
 
 What he describes is an ugly case of AI-generated mistaken identity.
 
-Gizmodo • 58m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ blog.google • 1d ago
 
 It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
 
-ScienceAlert • 23h ago
+ScienceAlert • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ ScienceAlert • 23h ago
 
 If the boom continues its blistering pace through 2026, the stresses could start to show
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 545 • 💬 311 • 13h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 545 • 💬 311 • 14h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -251,7 +251,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 121 • 💬 49 • 11h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 121 • 💬 49 • 12h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -273,7 +273,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 54 • 💬 14 • 10h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 54 • 💬 14 • 11h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -297,7 +297,7 @@ I wanted to combine fashion and dance for this one. Midjourney sometimes makes t
 
 📺 Kelly Boesch AI Art
 
-👁️ 25K • 👍 1K • 💬 74 • ⏱️ 3:00 • 20h ago
+👁️ 25K • 👍 1K • 💬 74 • ⏱️ 3:00 • 21h ago
 
 ---
 
@@ -655,7 +655,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 706 • 52m ago
+⭐ 6.3k • 🔱 706 • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 435 • 40m ago
+⭐ 3.4k • 🔱 435 • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 3m ago
+⭐ 2.9k • 🔱 205 • 30m ago
 
 ---
 
@@ -705,7 +705,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 106 • 1h ago
+⭐ 1.2k • 🔱 106 • 2h ago
 
 ---
 
@@ -725,7 +725,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 981 • 🔱 43 • 17h ago
+⭐ 981 • 🔱 43 • 18h ago
 
 ---
 

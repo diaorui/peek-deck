@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T10:59:07.308916+00:00'
+updated: '2025-12-25T11:26:04.287817+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 10:59 UTC  
+**Last Updated:** December 25, 2025 at 11:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -2.2%  
-**30d:** -3.4%  
-**90d:** -27.3%  
-**1y:** -12.5%  
+**24h:** -0.4%  
+**7d:** -2.0%  
+**30d:** -3.2%  
+**90d:** -27.1%  
+**1y:** -12.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 20h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 21h ago
 
 ---
 
@@ -102,13 +102,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-18h ago
+19h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 1d ago
 
 Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Block • 2d ago
 
 The Ethereum price has struggled to reclaim the critical $3,000 mark for the past 48 hours, raising concerns about potential declines in the cryptocurrency’s value if this essential support level is not regained by the end of the week.Analyst Predicts Further DownsideMarket analyst Ted Pillows poin…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -232,7 +232,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 104 • 💬 48 • ⏱️ 13:41 • 22h ago
+👁️ 3K • 👍 104 • 💬 48 • ⏱️ 13:41 • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 6 • ⏱️ 3:51 • 20h ago
+👁️ 2K • 👍 108 • 💬 6 • ⏱️ 3:51 • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ One company is folding, the other is doubling down. Is this a warning sign? In t
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 65 • 💬 60 • ⏱️ 13:29 • 10h ago
+👁️ 2K • 👍 65 • 💬 60 • ⏱️ 13:29 • 11h ago
 
 ---
 
@@ -262,7 +262,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 458 • 💬 57 • ⏱️ 13:14 • 22h ago
+👁️ 9K • 👍 458 • 💬 57 • ⏱️ 13:14 • 23h ago
 
 ---
 
