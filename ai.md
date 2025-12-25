@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T06:38:42.399608+00:00'
+updated: '2025-12-25T07:00:16.361132+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 06:38 UTC  
+**Last Updated:** December 25, 2025 at 07:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 3h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 21h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 22h ago
 
 ---
 
@@ -65,7 +65,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Reddit has been my inspiration for many years. While I’m still learning the ropes of building a public website, I created DreyX.com out of a simple necessity: I wanted a better way to track AI news without all the fluff. Literally a tool built by a curious reader, for curious readers. Thoughts? Suggestions?
 
-21m ago
+42m ago
 
 ---
 
@@ -73,7 +73,7 @@ Reddit has been my inspiration for many years. While I’m still learning the ro
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -139,7 +139,7 @@ Financial Times • 7h ago
 
 Groq more than doubled its valuation to $6.9 billion, from $2.8 billion in August last year, following a $750 million funding round in September.
 
-New York Post • 6h ago
+New York Post • 7h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 20h ago
 
 **[Is The AI Job Apocalypse Real Or Overhyped?](https://www.forbes.com/sites/bernardmarr/2025/12/25/is-the-ai-job-apocalypse-real-or-overhyped/)**
 
-Forbes • 8m ago
+Forbes • 30m ago
 
 ---
 
@@ -191,7 +191,7 @@ blog.google • 1d ago
 
 Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.
 
-WIRED • 19h ago
+WIRED • 20h ago
 
 ---
 
@@ -227,7 +227,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 273 • 💬 87 • 12h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 273 • 💬 87 • 13h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -295,7 +295,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 31 • 💬 6 • ⏱️ 11:02 • 12h ago
+👁️ 1K • 👍 31 • 💬 6 • ⏱️ 11:02 • 13h ago
 
 ---
 
@@ -653,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 703 • 3h ago
+⭐ 6.3k • 🔱 703 • 4h ago
 
 ---
 
@@ -663,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 428 • 7h ago
+⭐ 3.4k • 🔱 428 • 8h ago
 
 ---
 
@@ -673,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 52s ago
+⭐ 2.9k • 🔱 205 • 22m ago
 
 ---
 

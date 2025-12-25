@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T06:38:42.408106+00:00'
+updated: '2025-12-25T07:00:16.369473+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 06:38 UTC  
+**Last Updated:** December 25, 2025 at 07:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.6%  
-**30d:** -3.2%  
-**90d:** -20.0%  
+**24h:** +1.1%  
+**7d:** -0.5%  
+**30d:** -3.1%  
+**90d:** -19.9%  
 **1y:** -8.5%  
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-7h ago
+8h ago
 
 ---
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -99,7 +99,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -119,7 +119,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-12h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 11h ago
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Guardian • 1d ago
 
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 23h ago
+KRON4 • 1d ago
 
 ---
 
@@ -241,7 +241,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 1h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 2h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 248 • 💬 50 • ⏱️ 1:12 • 9h ago
+👁️ 8K • 👍 248 • 💬 50 • ⏱️ 1:12 • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 145 • 💬 50 • ⏱️ 5:52 • 8h ago
+👁️ 2K • 👍 145 • 💬 50 • ⏱️ 5:52 • 9h ago
 
 ---
 

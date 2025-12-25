@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T06:38:42.417413+00:00'
+updated: '2025-12-25T07:00:16.378696+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 06:38 UTC  
+**Last Updated:** December 25, 2025 at 07:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-16h ago
+17h ago
 
 ---
 
@@ -68,13 +68,13 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-11h ago
+12h ago
 
 ---
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -106,7 +106,7 @@ Not sure if this is the right place but I thought I'd ask. Does anyone have a UR
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ES03YULi3qo) • 10h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 1d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 16h ago
+New Atlas • 17h ago
 
 ---
 
@@ -220,7 +220,7 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 64K • 👍 939 • 💬 263 • ⏱️ 31:49 • 5d ago
+👁️ 64K • 👍 939 • 💬 263 • ⏱️ 31:49 • 6d ago
 
 ---
 
@@ -240,7 +240,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 14K • 💬 2 • ⏱️ 0:27 • 2h ago
+👁️ 14K • 💬 2 • ⏱️ 0:27 • 3h ago
 
 ---
 
