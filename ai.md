@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T22:46:08.267365+00:00'
+updated: '2025-12-25T22:56:58.446861+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 22:46 UTC  
+**Last Updated:** December 25, 2025 at 22:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 5h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 19h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 20h ago
 
 ---
 
@@ -65,7 +65,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/VbJ4ilDvGyc?si=z6VCKG-3NvOefFfv) • 26m ago
+🔗 [youtu.be](https://youtu.be/VbJ4ilDvGyc?si=z6VCKG-3NvOefFfv) • 37m ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 17h ago
 
 **[Takaichi, AI, Corporate Reform Pave Way for Japan Stocks in 2026](https://www.bloomberg.com/news/articles/2025-12-25/takaichi-ai-corporate-reform-pave-way-for-japan-stocks-in-2026)**
 
-Bloomberg.com • 46m ago
+Bloomberg.com • 56m ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 451 • 50m ago
+⭐ 3.5k • 🔱 451 • 1h ago
 
 ---
 

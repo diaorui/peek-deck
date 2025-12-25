@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T22:46:08.281726+00:00'
+updated: '2025-12-25T22:56:58.461309+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 22:46 UTC  
+**Last Updated:** December 25, 2025 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,921.89
+### $2,921.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -2.0%  
-**30d:** -3.2%  
-**90d:** -27.1%  
-**1y:** -12.3%  
+**24h:** -1.3%  
+**7d:** -2.6%  
+**30d:** -3.7%  
+**90d:** -27.5%  
+**1y:** -12.8%  
 
 ---
 
@@ -160,7 +160,7 @@ Crypto Briefing • 2d ago
 
 Ethereum price may rebound as ETF outflows persist while long-term holders strengthen and $2,798 support retest nears potential recovery.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 56m ago
 
 ---
 
@@ -236,7 +236,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 4K • 👍 206 • 💬 45 • ⏱️ 16:26 • 4h ago
+👁️ 4K • 👍 206 • 💬 45 • ⏱️ 16:26 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video:
 
 📺 Trading Jip
 
-👁️ 468 • 👍 33 • 💬 14 • ⏱️ 7:57 • 10h ago
+👁️ 468 • 👍 33 • 💬 14 • ⏱️ 7:57 • 11h ago
 
 ---
 

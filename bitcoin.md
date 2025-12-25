@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T22:46:08.275806+00:00'
+updated: '2025-12-25T22:56:58.455312+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 22:46 UTC  
+**Last Updated:** December 25, 2025 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,887.84
+### $87,397.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.3%  
-**30d:** -2.9%  
-**90d:** -19.7%  
-**1y:** -8.2%  
+**24h:** -0.5%  
+**7d:** -0.9%  
+**30d:** -3.6%  
+**90d:** -20.3%  
+**1y:** -8.8%  
 
 ---
 
@@ -111,7 +111,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -127,13 +127,13 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 Video cred: clusk
 
-47m ago
+57m ago
 
 ---
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -207,7 +207,7 @@ KRON4 • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 22h ago
+KITCO • 23h ago
 
 ---
 

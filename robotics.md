@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T22:46:08.284941+00:00'
+updated: '2025-12-25T22:56:58.464517+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 22:46 UTC  
+**Last Updated:** December 25, 2025 at 22:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ The US government have just banned imported drones and critical drone parts as "
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 2h ago
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as C
 
 Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
 
-6h ago
+7h ago
 
 ---
 
@@ -178,7 +178,7 @@ New Atlas • 22h ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 2h ago
 
 ---
 
