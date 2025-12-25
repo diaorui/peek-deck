@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T05:42:47.314734+00:00'
+updated: '2025-12-25T05:56:10.543641+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 05:42 UTC  
+**Last Updated:** December 25, 2025 at 05:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 2h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 20h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 21h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -165,7 +165,7 @@ Pittsburgh Post-Gazette • 11h ago
 
 AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.
 
-CNBC • 36m ago
+CNBC • 49m ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 36m ago
 
 A video of a child crying over her broken A.I. chatbot stirred up conversation in China, with some viewers questioning whether the gadgets are good for children. But the girl’s father says it’s more than a toy; it’s a family member.
 
-The New York Times • 41m ago
+The New York Times • 54m ago
 
 ---
 
@@ -225,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 265 • 💬 84 • 11h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 265 • 💬 84 • 12h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -435,7 +435,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,729 • ❤️ 443 • 10d ago
+⬇️ 6,729 • ❤️ 443 • 11d ago
 
 ---
 
@@ -660,7 +660,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 426 • 6h ago
+⭐ 3.4k • 🔱 426 • 7h ago
 
 ---
 
@@ -690,7 +690,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 215 • 23h ago
+⭐ 1.3k • 🔱 215 • 1d ago
 
 ---
 
