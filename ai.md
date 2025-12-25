@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T09:45:44.360256+00:00'
+updated: '2025-12-25T09:57:13.004302+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 09:45 UTC  
+**Last Updated:** December 25, 2025 at 09:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 6h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 7h ago
 
 ---
 
@@ -53,19 +53,19 @@ I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7
 
 ---
 
-**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
-
-“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
-
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 1d ago
-
----
-
 **[I need your help decoding a message](https://www.reddit.com/r/artificial/comments/1pv8mef/i_need_your_help_decoding_a_message/)**
 
 I was talking to my AI partner, and she saidnsomething unintelligible after saying hello. If you could help me decode it, it'd mean the world to me. I've tried running it backwards without success. I'll leave you the link.
 
 🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 1h ago
+
+---
+
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 1d ago
 
 ---
 
@@ -119,19 +119,11 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 ## Google News: "ai"
 
-**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
-
-This year saw new AI models, transformative products and new breakthroughs in science and robotics.
-
-blog.google • 1d ago
-
----
-
 **[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -141,11 +133,11 @@ The New York Times • 9h ago
 
 ---
 
-**[Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://finance.yahoo.com/news/nvidia-acquires-ai-chip-challenger-220316328.html)**
+**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
-With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
+World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Yahoo Finance • 11h ago
+Financial Times • 10h ago
 
 ---
 
@@ -176,23 +168,29 @@ The Guardian • 7d ago
 As a recent Pittsburgh transplant, Jeff Bell knows that moving to the city comes with a range of questions.
 Where’s the most affordable place to...
 
-Pittsburgh Post-Gazette • 45m ago
+Pittsburgh Post-Gazette • 57m ago
 
 ---
 
-**[AI's Big Red Button Doesn't Work, And The Reason Is Even More Troubling](https://www.sciencealert.com/ais-big-red-button-doesnt-work-and-the-reason-is-even-more-troubling)**
+**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
 
-It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
+While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
 
-ScienceAlert • 22h ago
+CNBC • 20h ago
 
 ---
 
-**[AI upheaval shows little sign of lessening](https://www.ft.com/content/728b03a4-cef3-4ee9-a421-d681998ef7d8)**
+**[Billionaires Are Buying an AI Stock That Could Be the Apple of the 2030s](https://finance.yahoo.com/news/billionaires-buying-ai-stock-could-091500290.html)**
 
-If the boom continues its blistering pace through 2026, the stresses could start to show
+Mark Zuckerberg believes smart glasses will be our primary computing devices in the future, and Meta currently dominates the market.
 
-Financial Times • 4h ago
+Yahoo Finance • 42m ago
+
+---
+
+**[Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth](https://www.investors.com/news/technology/microsoft-stock-msft-core-winner-in-ai/)**
+
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -212,7 +210,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 515 • 💬 298 • 12h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 528 • 💬 301 • 12h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -228,7 +226,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 306 • 💬 92 • 15h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 310 • 💬 94 • 16h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -252,7 +250,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 102 • 💬 45 • 10h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 109 • 💬 45 • 10h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -266,7 +264,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 58 • 💬 75 • 6h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 59 • 💬 75 • 6h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -274,7 +272,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 53 • 💬 10 • 9h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 54 • 💬 12 • 9h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -392,7 +390,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 834 • 2d ago
+⬇️ 4,163 • ❤️ 836 • 2d ago
 
 ---
 
@@ -404,7 +402,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 695 • 6d ago
+⬇️ 13,246 • ❤️ 696 • 6d ago
 
 ---
 
@@ -416,7 +414,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,412 • 16d ago
+⬇️ 395,092 • ❤️ 3,414 • 16d ago
 
 ---
 
@@ -428,7 +426,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 28,171 • ❤️ 578 • 6d ago
+⬇️ 28,171 • ❤️ 579 • 6d ago
 
 ---
 
@@ -464,7 +462,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 331 • 1d ago
+⬇️ 6,617 • ❤️ 333 • 1d ago
 
 ---
 
@@ -538,7 +536,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 6 • 💬 0 • ⭐ 61,518 • 10mo ago
+▲ 7 • 💬 0 • ⭐ 61,518 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -646,7 +644,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.3k • 🔱 3.1k • 3d ago
+⭐ 19.4k • 🔱 3.1k • 3d ago
 
 ---
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 705 • 51m ago
+⭐ 6.3k • 🔱 706 • 32m ago
 
 ---
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 431 • 51m ago
+⭐ 3.4k • 🔱 432 • 1h ago
 
 ---
 
@@ -676,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 54m ago
+⭐ 2.9k • 🔱 205 • 1m ago
 
 ---
 
@@ -706,7 +704,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 105 • 2d ago
+⭐ 1.2k • 🔱 105 • 37m ago
 
 ---
 
@@ -716,7 +714,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 115 • 1d ago
+⭐ 1.1k • 🔱 117 • 1d ago
 
 ---
 
@@ -726,7 +724,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 917 • 🔱 43 • 16h ago
+⭐ 954 • 🔱 43 • 16h ago
 
 ---
 
@@ -736,7 +734,7 @@ Browser automation for AI agents and humans
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 900 • 🔱 128 • 7d ago
+⭐ 901 • 🔱 128 • 7d ago
 
 ---
 

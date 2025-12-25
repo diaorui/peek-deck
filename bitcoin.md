@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T09:45:44.368680+00:00'
+updated: '2025-12-25T09:57:13.012775+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 09:45 UTC  
+**Last Updated:** December 25, 2025 at 09:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.42B
+**Market Cap:** $1746.24B
 Rank #1
 
 **Circulating Supply:** 19,966,834 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128824.9%
++128885.4%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
+
+7h ago
+
+---
+
 **[Just a reminder: On this day 2 years ago, BTC was under $45k. If you’re panicking at $86k, you haven't been paying attention.](https://www.reddit.com/r/Bitcoin/comments/1puz7ru/just_a_reminder_on_this_day_2_years_ago_btc_was/)**
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
@@ -87,13 +93,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-14h ago
-
----
-
-**[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
-
-7h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
 
-4h ago
+5h ago
 
 ---
 
@@ -149,11 +149,17 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 ## Google News: "bitcoin"
 
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
 
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-CoinDesk • 4h ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdMx66gSDPY5OfFnbg62Sx6GTXE_si1LkR_HfXwaDR3ZKtMtiB8gwuH&gaa_ts=694d0de6&gaa_sig=y4LgJgaoTvdu_Ts4SRyq6au8rP2T_G9F1XF1hOkZUI1WGnrWSYCQFdDOZEU1uXl00IxX9EnfMHytPFXO48zZ0g%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -165,11 +171,31 @@ The Motley Fool • 14h ago
 
 ---
 
-**[Bitcoin Bulls Eye Rebound after Elon Musk Predicts US Economic Surge](https://finance.yahoo.com/news/bitcoin-bulls-eye-rebound-elon-064239571.html)**
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Bitcoin investors are watching macro signals closely after billionaire Elon Musk said the US economy could enter a period of rapid expansion as soon as late 2026, reviving hopes of another leg higher for the cryptocurrency. Key Takeaways: Elon Musk’s US growth forecast has reignited Bitcoin optimism as traders look ...
+Reuters • 19h ago
 
-Yahoo Finance • 3h ago
+---
+
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 1d ago
+
+---
+
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+
+Investopedia • 1d ago
+
+---
+
+**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
+
+Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
+
+The Guardian • 1d ago
 
 ---
 
@@ -187,39 +213,11 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin and ether ETFs see outflows ahead of Christmas, led by IBIT and ETHE](https://finance.yahoo.com/news/bitcoin-ether-etfs-see-outflows-065703674.html)**
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
 
-The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
-
-Reuters • 19h ago
-
----
-
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
-
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
-
-Investopedia • 1d ago
-
----
-
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
-
-KRON4 • 1d ago
-
----
-
-**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
-
-Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
-
-Inquirer.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 302 • 💬 65 • ⏱️ 1:12 • 12h ago
+👁️ 12K • 👍 302 • 💬 65 • ⏱️ 1:12 • 13h ago
 
 ---
 
@@ -375,7 +373,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 172 • 💬 72 • ⏱️ 5:52 • 11h ago
+👁️ 3K • 👍 172 • 💬 72 • ⏱️ 5:52 • 12h ago
 
 ---
 
