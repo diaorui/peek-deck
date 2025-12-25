@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T10:48:19.659223+00:00'
+updated: '2025-12-25T10:59:07.302796+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 10:48 UTC  
+**Last Updated:** December 25, 2025 at 10:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.77B
+**Market Cap:** $1743.58B
 Rank #1
 
 **Circulating Supply:** 19,966,834 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.7%
 
 **All-Time Low:** $67.81
-+128764.5%
++128692.2%
 
 ---
 
@@ -83,14 +83,6 @@ Rank #1
 
 ---
 
-**[Just a reminder: On this day 2 years ago, BTC was under $45k. If you’re panicking at $86k, you haven't been paying attention.](https://www.reddit.com/r/Bitcoin/comments/1puz7ru/just_a_reminder_on_this_day_2_years_ago_btc_was/)**
-
-Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
-
-12h ago
-
----
-
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
 2h ago
@@ -99,13 +91,21 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-15h ago
+16h ago
 
 ---
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
 6h ago
+
+---
+
+**[Just a reminder: On this day 2 years ago, BTC was under $45k. If you’re panicking at $86k, you haven't been paying attention.](https://www.reddit.com/r/Bitcoin/comments/1puz7ru/just_a_reminder_on_this_day_2_years_ago_btc_was/)**
+
+Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
+
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -170,6 +170,28 @@ The Motley Fool • 15h ago
 Bitcoin price may rally before 2026 if gold’s strength persists, though rising exchange inflows signal cautious investor sentiment.
 
 Yahoo Finance • 2h ago
+
+---
+
+**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin and ether ETFs see outflows ahead of Christmas, led by IBIT and ETHE](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+CoinDesk • 4h ago
+
+---
+
+**[“Tax Loss Harvesting” Drives $825M Outflow From Bitcoin ETFs This Week: Analyst](https://finance.yahoo.com/news/tax-loss-harvesting-drives-825m-094935038.html)**
+
+U.S. spot Bitcoin ETFs have recorded eight consecutive days of institutional selling, with total outflows reaching approximately $825 million as year-end tax strategies dominate market behavior.According to analyst Alek, the sustained selling pressure stems primarily from tax loss harvesting. He claimed it is a temporary phenomenon expected to conclude within ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -200,26 +222,6 @@ Inquirer.com • 1d ago
 Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
 
 The Guardian • 1d ago
-
----
-
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
-
-Investor's Business Daily • 1d ago
-
----
-
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
-
-KRON4 • 1d ago
-
----
-
-**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
-
-Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
-
-VanEck • 2d ago
 
 ---
 
@@ -281,7 +283,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 3d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 4d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
@@ -325,7 +327,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 302 • 💬 65 • ⏱️ 1:12 • 13h ago
+👁️ 12K • 👍 302 • 💬 65 • ⏱️ 1:12 • 14h ago
 
 ---
 
@@ -375,7 +377,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 172 • 💬 72 • ⏱️ 5:52 • 12h ago
+👁️ 3K • 👍 172 • 💬 72 • ⏱️ 5:52 • 13h ago
 
 ---
 

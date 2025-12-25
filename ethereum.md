@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T10:48:19.665163+00:00'
+updated: '2025-12-25T10:59:07.308916+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 10:48 UTC  
+**Last Updated:** December 25, 2025 at 10:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.44B
+**Market Cap:** $352.14B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
@@ -62,7 +62,7 @@ No max supply
 -41.0%
 
 **All-Time Low:** $0.43
-+674304.5%
++673812.6%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
-🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 17h ago
+🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Crypto Briefing • 1d ago
 
 The cryptocurrency market continues to surprise investors with mixed price movements, strong Ethereum ETH $2 925 24h volatility: 0.3% Market cap: $353.00 B Vol. 24h: $12.16 B accumulation, and consecutive outflows from crypto-related exchange-traded funds. The global crypto market cap rose by 0.9% in the past 24 hours to $2.96 ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 1d ago
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 

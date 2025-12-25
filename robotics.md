@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T10:48:19.668347+00:00'
+updated: '2025-12-25T10:59:07.312229+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 10:48 UTC  
+**Last Updated:** December 25, 2025 at 10:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,15 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-15h ago
+16h ago
+
+---
+
+**[Fly sky left stick needs to move diagonally for straight motion](https://www.reddit.com/r/robotics/comments/1pvaqzj/fly_sky_left_stick_needs_to_move_diagonally_for/)**
+
+The Speed controller needed to have solder placed on it, as beforehand, the left stick moved in a straight line at channel 1 (left to right motion on the stick), and jolted at channel 2 (up and down motion on the stick), when it should move in a straight line when the stick moves up and down. Now I have added the solder, it spins both when I move the left stick up and down, and left and right, and moves straight only when I move the remote diagonally. Changing Elevation mode hasn’t worked yet. What else should be done for the motion to be as it should? By the way, I have a different robot with the same type of speed controller and remote that doesn’t have these particular problems. So why does this specific issue occur with this controller.
+
+21m ago
 
 ---
 
@@ -100,14 +108,6 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 ---
 
-**[Looking for a URDF for the 4 DOF Waveshare robot arm](https://www.reddit.com/r/robotics/comments/1pv04db/looking_for_a_urdf_for_the_4_dof_waveshare_robot/)**
-
-Not sure if this is the right place but I thought I'd ask. Does anyone have a URDF for this robot arm: https://www.waveshare.com/robot-arm-for-pi.htm? I thought I'd look around before trying to make one but I haven't found anything yet.
-
-11h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -117,6 +117,22 @@ Not sure if this is the right place but I thought I'd ask. Does anyone have a UR
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 2d ago
+
+---
+
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+
+New Atlas • 21h ago
+
+---
+
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
+
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
+
+hyundai.com • 3d ago
 
 ---
 
@@ -144,49 +160,29 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Hyundai's Boston Dynamics to debut new Atlas humanoid robots at CES](https://www.reuters.com/business/retail-consumer/hyundais-boston-dynamics-debut-new-atlas-humanoid-robots-ces-2025-12-22/)**
+**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
-Reuters • 3d ago
-
----
-
-**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
-
-China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
-
-El Adelantado • 2d ago
+Tech Xplore • 1d ago
 
 ---
 
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+**[NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics](https://www.phoronix.com/news/NVIDIA-ASIL-B-Linux-Kernel)**
 
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Interesting Engineering • 1d ago
-
----
-
-**[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
-
-Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
-
-Interesting Engineering • 1d ago
+Phoronix • 2d ago
 
 ---
 
-**[European firm to deploy humanoid robots in semiconductor production for first time](https://interestingengineering.com/ai-robotics/humanoid-robots-to-join-chip-production-factories)**
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-Swiss semiconductor firm STMicroelectronics has signed an agreement with Oversonic Robotics to deploy cognitive robots in factories.
-
-Interesting Engineering • 1d ago
+Investor's Business Daily • 19h ago
 
 ---
 
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
+**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 3d ago
+Phys.org • 2d ago
 
 ---
 
