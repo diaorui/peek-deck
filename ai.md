@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T14:56:02.811382+00:00'
+updated: '2025-12-25T15:24:16.854757+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 14:56 UTC  
+**Last Updated:** December 25, 2025 at 15:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 43m ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 I cant find a single thing it does better
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ I cant find a single thing it does better
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 21h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 22h ago
 
 ---
 
@@ -127,6 +127,12 @@ CNBC • 18h ago
 
 ---
 
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+
+The New York Times • 15h ago
+
+---
+
 **[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
@@ -135,43 +141,33 @@ Financial Times • 15h ago
 
 ---
 
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+**[How not to use AI](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-The New York Times • 14h ago
-
----
-
-**[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
-
-The New York Times • 1d ago
+Axios • 2h ago
 
 ---
 
-**[Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)**
+**[Gen Z founder on 'AI anxiety' and being pigeonholed as generation shortcut: that's the 'biggest misconception'](https://fortune.com/2025/12/25/gen-z-founder-ai-anxiety-obsolescence-biggest-misconception-shortcut-lazy/)**
 
-Hollywood bet big on generative AI slop in 2025.
+"We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
 
-The Verge • 1h ago
-
----
-
-**[China’s AI Controls Contrast With the U.S. Free Market Approach](https://www.tipranks.com/news/chinas-ai-controls-contrast-with-the-u-s-free-market-approach)**
-
-TipRanks • 1h ago
+Fortune • 1h ago
 
 ---
 
-**[WA students try out new tech at 'Hour of AI'](https://www.seattletimes.com/education-lab/wa-students-try-out-new-tech-at-hour-of-ai/)**
+**[Using AI to Avoid Getting Your Car Towed](https://www.businessinsider.com/tesla-fsd-using-ai-avoid-getting-your-car-towed-2025-12)**
 
-Microsoft's one-hour lesson in Bellevue aimed to introduce kids to fast-evolving AI and helping them use it responsibly.
+Tesla's FSD Summon feature, AI technology, and computer vision helped an owner avoid towing and save $400.
 
-The Seattle Times • 1h ago
+Business Insider • 24m ago
 
 ---
 
-**[How should you use AI? Here are tips and tricks on how not to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+**[QCon AI NY 2025 - Becoming AI-Native Without Losing Our Minds To Architectural Amnesia](https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/)**
 
-Axios • 1h ago
+Tracy Bannon's QCon AI NY 2025 talk revealed how the rise of AI agents risks amplifying common architectural failures. She emphasized the distinctions between bots, assistants, and agents, highlighting the need for governance, clear identity controls, and disciplined decision-making to address “agentic debt.” Bannon called for architects to apply foundational principles amid rapid AI adoption.
+
+infoq.com • 12m ago
 
 ---
 
@@ -183,11 +179,15 @@ blog.google • 1d ago
 
 ---
 
-**[AI upheaval shows little sign of lessening](https://www.ft.com/content/728b03a4-cef3-4ee9-a421-d681998ef7d8)**
+**[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-If the boom continues its blistering pace through 2026, the stresses could start to show
+The New York Times • 1d ago
 
-Financial Times • 9h ago
+---
+
+**[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
+
+Star Tribune • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 348 • 💬 102 • 21h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 353 • 💬 103 • 21h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -223,15 +223,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 243 • 💬 251 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
-
----
-
-**[Toad is a unified experience for AI in the terminal](https://news.ycombinator.com/item?id=46354737)**
-
-My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
-
-⬆️ 224 • 💬 77 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 244 • 💬 252 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -239,7 +231,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 139 • 💬 60 • 15h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 146 • 💬 65 • 15h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -253,7 +245,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 62 • 💬 79 • 11h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 63 • 💬 83 • 11h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -261,13 +253,19 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 61 • 💬 15 • 14h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 63 • 💬 16 • 15h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 33 • 💬 18 • 10h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 35 • 💬 19 • 11h ago • [substack.com](https://substack.com/home/post/p-182524207)
+
+---
+
+**[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
+
+⬆️ 31 • 💬 10 • 22h ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 
 ---
 
@@ -341,7 +339,7 @@ Nandi stops the bus not to harm but to protect #ai #nandi #viral #shorts.
 
 📺 NexoLoop Ai
 
-👁️ 2K • 💬 1 • ⏱️ 0:22 • 1h ago
+👁️ 2K • 💬 1 • ⏱️ 0:22 • 2h ago
 
 ---
 
@@ -385,7 +383,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 860 • 2d ago
+⬇️ 4,163 • ❤️ 864 • 2d ago
 
 ---
 
@@ -397,7 +395,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 710 • 6d ago
+⬇️ 13,246 • ❤️ 713 • 6d ago
 
 ---
 
@@ -409,7 +407,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 28,171 • ❤️ 589 • 6d ago
+⬇️ 28,171 • ❤️ 592 • 6d ago
 
 ---
 
@@ -421,7 +419,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,416 • 16d ago
+⬇️ 395,092 • ❤️ 3,417 • 16d ago
 
 ---
 
@@ -433,7 +431,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 344 • 2d ago
+⬇️ 6,617 • ❤️ 348 • 2d ago
 
 ---
 
@@ -457,7 +455,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,992 • ❤️ 445 • 11d ago
+⬇️ 6,992 • ❤️ 446 • 11d ago
 
 ---
 
@@ -467,7 +465,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 297 • 6d ago
+⬇️ 0 • ❤️ 298 • 6d ago
 
 ---
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 713 • 1h ago
+⭐ 6.3k • 🔱 713 • 2h ago
 
 ---
 
@@ -690,7 +688,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 218 • 25m ago
+⭐ 1.3k • 🔱 218 • 54m ago
 
 ---
 
@@ -700,7 +698,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 108 • 5h ago
+⭐ 1.2k • 🔱 108 • 6h ago
 
 ---
 
@@ -720,7 +718,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.1k • 🔱 49 • 21h ago
+⭐ 1.1k • 🔱 49 • 22h ago
 
 ---
 
@@ -730,7 +728,7 @@ Browser automation for AI agents and humans
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 908 • 🔱 128 • 7d ago
+⭐ 908 • 🔱 128 • 8d ago
 
 ---
 

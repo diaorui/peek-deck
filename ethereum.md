@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T14:56:02.825819+00:00'
+updated: '2025-12-25T15:24:16.869182+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 14:56 UTC  
+**Last Updated:** December 25, 2025 at 15:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,928.54
+### $2,935.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.8%  
-**30d:** -2.9%  
-**90d:** -26.9%  
-**1y:** -12.0%  
+**24h:** +0.0%  
+**7d:** -1.6%  
+**30d:** -2.8%  
+**90d:** -26.8%  
+**1y:** -11.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.49B
+**Market Cap:** $353.92B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.6%
 
 **All-Time Low:** $0.43
-+676152.2%
++678115.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
-🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 21h ago
+🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ Crypto Briefing • 1d ago
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 48m ago
+CCN.com • 1h ago
 
 ---
 
@@ -175,6 +175,14 @@ CCN.com • 48m ago
 Venture firm Dragonfly says Ethereum and Solana will share, not fight over, the growing market for tokenized assets, arguing that “you can’t just have one blockchain.” ETH and SOL traded in a tight range after the comments, as both chains already attract heavy real-world asset and stablecoin activity. Behind this ...
 
 Yahoo Finance • 4h ago
+
+---
+
+**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+
+Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -190,7 +198,13 @@ Decrypt • 2d ago
 
 Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
 
-FXStreet • 22h ago
+FXStreet • 23h ago
+
+---
+
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+
+The Block • 1d ago
 
 ---
 
@@ -206,19 +220,7 @@ Yahoo Finance • 2d ago
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
-AMBCrypto • 5h ago
-
----
-
-**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
-
-CCN.com • 2d ago
-
----
-
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 1d ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -232,7 +234,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video:
 
 📺 Trading Jip
 
-👁️ 253 • 👍 19 • 💬 13 • ⏱️ 7:57 • 2h ago
+👁️ 253 • 👍 19 • 💬 13 • ⏱️ 7:57 • 3h ago
 
 ---
 
@@ -262,7 +264,7 @@ One company is folding, the other is doubling down. Is this a warning sign? In t
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 71 • 💬 75 • ⏱️ 13:29 • 14h ago
+👁️ 2K • 👍 71 • 💬 75 • ⏱️ 13:29 • 15h ago
 
 ---
 
@@ -312,7 +314,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Brilliance Academy
 
-👁️ 5K • 👍 1K • 23h ago
+👁️ 5K • 👍 1K • 1d ago
 
 ---
 

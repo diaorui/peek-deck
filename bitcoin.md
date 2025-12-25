@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T14:56:02.819778+00:00'
+updated: '2025-12-25T15:24:16.863182+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 14:56 UTC  
+**Last Updated:** December 25, 2025 at 15:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.5%  
-**30d:** -3.1%  
-**90d:** -19.9%  
-**1y:** -8.5%  
+**24h:** +0.4%  
+**7d:** -0.4%  
+**30d:** -3.0%  
+**90d:** -19.8%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.86B
+**Market Cap:** $1751.33B
 Rank #1
 
 **Circulating Supply:** 19,966,959 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.4%
 
 **All-Time Low:** $67.81
-+129049.1%
++129357.3%
 
 ---
 
@@ -125,25 +125,25 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 ---
 
-**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
+**[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
-
-9h ago
+36m ago
 
 ---
 
-**[So you’re telling me Bitcoin is seriously capped at ~7 TPS?](https://www.reddit.com/r/Bitcoin/comments/1pv5kde/so_youre_telling_me_bitcoin_is_seriously_capped/)**
+**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
 
-Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
+I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
 
 10h ago
 
 ---
 
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
+**[At some point, it stops being a joke.](https://www.reddit.com/r/Bitcoin/comments/1pvdc6l/at_some_point_it_stops_being_a_joke/)**
 
-13h ago
+At some point, you stop laughing. And you just nod.
+
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -167,7 +167,13 @@ The Motley Fool • 19h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqc1aoZnCGZ2XsY7qCHLzr6rRdapkNpy9J0i1pvYgZLiemI37g_Oj4yL&gaa_ts=694d4cfd&gaa_sig=qJ6OvnivCdSuL4Vyr9U9u8-Al61Cv0WK-zGzXMu1evhKnJiaeQuxbZHtKAU5Iyee0qVD6ahTU2OOCmhnIxIzmQ%3D%3D)**
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 1h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfySRRkxy5YyZPajmRwxlMnfVLfBQAkSXIolv_V_rMPr4xgt4EYE31s&gaa_ts=694d5a8d&gaa_sig=vCCsl_Hs2Wpj3TmJnAsX2M4tTbdt2Rvyl4WE3OuJAxsWBDanJUQLqswdXj9XzgJ5NdUM0QXX3yuye1Rw9f_0ig%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -181,9 +187,9 @@ Investopedia • 1d ago
 
 ---
 
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-CCN.com • 48m ago
+KRON4 • 1d ago
 
 ---
 
@@ -193,31 +199,25 @@ Reuters • 1d ago
 
 ---
 
-**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
+**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
-
-Inquirer.com • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
 
-Investor's Business Daily • 2d ago
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
----
-
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
-
-KRON4 • 1d ago
+CoinDesk • 8h ago
 
 ---
 
-**[VanEck Mid-December 2025 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-december-2025-bitcoin-chaincheck/)**
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
 
-Under our GEO framework, Bitcoin shows weak onchain activity but improving liquidity conditions and a reset in speculative leverage, pointing to cautious optimism beneath the selloff.
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-VanEck • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -247,7 +247,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin: A Peer-to-Peer Electronic Cash System (2009) [pdf]](https://news.ycombinator.com/item?id=46326790)**
 
-⬆️ 1 • 💬 1 • 5d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+⬆️ 1 • 💬 1 • 6d ago • [bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ---
 
@@ -255,7 +255,7 @@ How much of a resource hog is AI?
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
+⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/Norris-Eng/gridwatch-kill-switch)
 
 ---
 
@@ -263,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 81 • 💬 36 • 22h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 81 • 💬 36 • 23h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -271,7 +271,7 @@ The French coder who accidentally hosted Silk Road domains and inherited a hacke
 
 The Samourai Wallet founder explains why he built a bitcoin privacy tool, and warns that his case could redefine the legal boundaries of financial privacy.
 
-⬆️ 3 • 💬 5 • 2d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
+⬆️ 3 • 💬 5 • 3d ago • [Reason.com](https://reason.com/podcast/2025/12/19/hes-serving-5-years-in-prison-for-bitcoin-privacy-software/)
 
 ---
 
@@ -293,7 +293,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 183 • ⏱️ 37:34 • 17h ago
+👁️ 32K • 👍 2K • 💬 183 • ⏱️ 37:34 • 18h ago
 
 ---
 
@@ -313,7 +313,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 278 • 💬 34 • ⏱️ 7:13 • 14h ago
+👁️ 5K • 👍 278 • 💬 34 • ⏱️ 7:13 • 15h ago
 
 ---
 
@@ -373,7 +373,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 28K • 👍 3K • 💬 207 • ⏱️ 19:10 • 17h ago
+👁️ 28K • 👍 3K • 💬 207 • ⏱️ 19:10 • 18h ago
 
 ---
 

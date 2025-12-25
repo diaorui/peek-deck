@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T14:56:02.829013+00:00'
+updated: '2025-12-25T15:24:16.872411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 14:56 UTC  
+**Last Updated:** December 25, 2025 at 15:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
+
+51m ago
+
+---
 
 **[Since DJI is getting banned, I decided to build an "evolution" of the drone (Ardupilot + Pi)](https://www.reddit.com/r/robotics/comments/1puxvyk/since_dji_is_getting_banned_i_decided_to_build_an/)**
 
@@ -46,6 +54,12 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 ---
 
+**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
+
+7h ago
+
+---
+
 **[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
@@ -54,17 +68,11 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 ---
 
-**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
-
-7h ago
-
----
-
 **[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
 
 Wishing everyone a happy Christmas holiday.
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +80,7 @@ Wishing everyone a happy Christmas holiday.
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-10h ago
+11h ago
 
 ---
 
@@ -84,14 +92,6 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 ---
 
-**[AgiBot tests before delivering to customers](https://www.reddit.com/r/robotics/comments/1pvdsgy/agibot_tests_before_delivering_to_customers/)**
-
-https://www.youtube.com/live/d17f_5dVW7I?si=USQGlzptSG_OAvI-
-
-1h ago
-
----
-
 **[Are there any building systems with the same modularity as aluminum extrusions, but made of rods and screws?](https://www.reddit.com/r/robotics/comments/1puuk7h/are_there_any_building_systems_with_the_same/)**
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
@@ -100,11 +100,11 @@ I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever
 
 ---
 
-**[Fly sky left stick needs to move diagonally for straight motion](https://www.reddit.com/r/robotics/comments/1pvaqzj/fly_sky_left_stick_needs_to_move_diagonally_for/)**
+**[AgiBot tests before delivering to customers](https://www.reddit.com/r/robotics/comments/1pvdsgy/agibot_tests_before_delivering_to_customers/)**
 
-The Speed controller needed to have solder placed on it, as beforehand, the left stick moved in a straight line at channel 1 (left to right motion on the stick), and jolted at channel 2 (up and down motion on the stick), when it should move in a straight line when the stick moves up and down. Now I have added the solder, it spins both when I move the left stick up and down, and left and right, and moves straight only when I move the remote diagonally. Changing Elevation mode hasn’t worked yet. What else should be done for the motion to be as it should? By the way, I have a different robot with the same type of speed controller and remote that doesn’t have these particular problems. So why does this specific issue occur with this controller.
+https://www.youtube.com/live/d17f_5dVW7I?si=USQGlzptSG_OAvI-
 
-4h ago
+1h ago
 
 ---
 
@@ -128,19 +128,19 @@ New Atlas • 1d ago
 
 ---
 
+**[The Biggest Stories in Humanoid Robotics](https://interestingengineering.com/videos/the-biggest-stories-in-humanoid-robotics)**
+
+These are the top 7 humanoid robot stories on Interesting Engineering in 2025
+
+Interesting Engineering • 26m ago
+
+---
+
 **[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
 
 hyundai.com • 3d ago
-
----
-
-**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ South China Morning Post • 1d ago
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-Investor's Business Daily • 23h ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -172,17 +172,15 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
+**[Robotics looks towards league championship](http://clreporter.com/content/robotics-looks-towards-league-championship)**
 
-Phys.org • 2d ago
+Clear Lake Mirror Reporter • 23h ago
 
 ---
 
-**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
+**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
-Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
-
-Futura, Le média qui explore le monde • 2d ago
+Phys.org • 2d ago
 
 ---
 
@@ -276,7 +274,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 6K • 👍 602 • 💬 801 • ⏱️ 9:57 • 5h ago
+👁️ 6K • 👍 602 • 💬 801 • ⏱️ 9:57 • 6h ago
 
 ---
 
