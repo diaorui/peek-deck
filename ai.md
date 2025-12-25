@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T05:56:10.543641+00:00'
+updated: '2025-12-25T06:38:42.399608+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 05:56 UTC  
+**Last Updated:** December 25, 2025 at 06:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
-**[GPT 5.1 Is Dumber Than 4 Was](https://www.reddit.com/r/artificial/comments/1pv45az/gpt_51_is_dumber_than_4_was/)**
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
 
-I cant find a single thing it does better
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-2h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 23h ago
+
+---
+
+**[New Evidence Reveals Halo Studios Going All In On GenAI, Xbox Studios Hiring ML Experts for Gears and Forza As Well](https://www.reddit.com/r/artificial/comments/1puiwp6/new_evidence_reveals_halo_studios_going_all_in_on/)**
+
+Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
+
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 21h ago
+
+---
+
+**[Created a page with the latest AI news scraped from all over the world](https://www.reddit.com/r/artificial/comments/1pv6y8v/created_a_page_with_the_latest_ai_news_scraped/)**
+
+Reddit has been my inspiration for many years. While I’m still learning the ropes of building a public website, I created DreyX.com out of a simple necessity: I wanted a better way to track AI news without all the fluff. Literally a tool built by a curious reader, for curious readers. Thoughts? Suggestions?
+
+21m ago
 
 ---
 
@@ -61,19 +77,11 @@ I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7
 
 ---
 
-**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+**[GPT 5.1 Is Dumber Than 4 Was](https://www.reddit.com/r/artificial/comments/1pv45az/gpt_51_is_dumber_than_4_was/)**
 
-“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+I cant find a single thing it does better
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 22h ago
-
----
-
-**[New Evidence Reveals Halo Studios Going All In On GenAI, Xbox Studios Hiring ML Experts for Gears and Forza As Well](https://www.reddit.com/r/artificial/comments/1puiwp6/new_evidence_reveals_halo_studios_going_all_in_on/)**
-
-Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
-
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 21h ago
+3h ago
 
 ---
 
@@ -95,7 +103,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-8h ago
+9h ago
 
 ---
 
@@ -103,15 +111,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 12h ago
-
----
-
-**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
-
-Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
-
-1d ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 13h ago
 
 ---
 
@@ -127,37 +127,31 @@ CNBC • 9h ago
 
 ---
 
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
-
-The New York Times • 5h ago
-
----
-
 **[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 6h ago
+Financial Times • 7h ago
+
+---
+
+**[Nvidia expands AI empire with Groq licensing deal, poaching startup’s top execs](https://nypost.com/2025/12/24/business/nvidia-expands-ai-empire-with-groq-licensing-deal-poaching-startups-top-execs/)**
+
+Groq more than doubled its valuation to $6.9 billion, from $2.8 billion in August last year, following a $750 million funding round in September.
+
+New York Post • 6h ago
 
 ---
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
-**[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
+**[Is The AI Job Apocalypse Real Or Overhyped?](https://www.forbes.com/sites/bernardmarr/2025/12/25/is-the-ai-job-apocalypse-real-or-overhyped/)**
 
-France 24 • 19h ago
-
----
-
-**[‘We’re not stopping’: Pa. lawmakers rankled by Trump order on states and AI](https://www.post-gazette.com/news/politics-state/2025/12/24/pennsylvania-trump-ai-ciresi-pisciottano/stories/202512240068)**
-
-HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
-
-Pittsburgh Post-Gazette • 11h ago
+Forbes • 8m ago
 
 ---
 
@@ -165,7 +159,7 @@ Pittsburgh Post-Gazette • 11h ago
 
 AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.
 
-CNBC • 49m ago
+CNBC • 1h ago
 
 ---
 
@@ -173,7 +167,7 @@ CNBC • 49m ago
 
 A video of a child crying over her broken A.I. chatbot stirred up conversation in China, with some viewers questioning whether the gadgets are good for children. But the girl’s father says it’s more than a toy; it’s a family member.
 
-The New York Times • 54m ago
+The New York Times • 1h ago
 
 ---
 
@@ -181,7 +175,7 @@ The New York Times • 54m ago
 
 It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
 
-ScienceAlert • 18h ago
+ScienceAlert • 19h ago
 
 ---
 
@@ -190,6 +184,14 @@ ScienceAlert • 18h ago
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
 blog.google • 1d ago
+
+---
+
+**[The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/)**
+
+Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.
+
+WIRED • 19h ago
 
 ---
 
@@ -209,7 +211,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 444 • 💬 258 • 8h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 456 • 💬 268 • 9h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -217,7 +219,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 315 • 💬 303 • 1d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 315 • 💬 306 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -225,7 +227,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 265 • 💬 84 • 12h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 273 • 💬 87 • 12h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -233,7 +235,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 240 • 💬 249 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 241 • 💬 249 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -261,7 +263,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 72 • 💬 36 • 6h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 77 • 💬 37 • 7h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -269,7 +271,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 51 • 💬 40 • 2h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 56 • 💬 58 • 3h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -283,7 +285,7 @@ I wanted to combine fashion and dance for this one. Midjourney sometimes makes t
 
 📺 Kelly Boesch AI Art
 
-👁️ 21K • 👍 1K • 💬 69 • ⏱️ 3:00 • 15h ago
+👁️ 21K • 👍 1K • 💬 69 • ⏱️ 3:00 • 16h ago
 
 ---
 
@@ -293,7 +295,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 31 • 💬 6 • ⏱️ 11:02 • 11h ago
+👁️ 1K • 👍 31 • 💬 6 • ⏱️ 11:02 • 12h ago
 
 ---
 
@@ -371,7 +373,7 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 7K • 👍 378 • 💬 31 • ⏱️ 8:00 • 19h ago
+👁️ 7K • 👍 378 • 💬 31 • ⏱️ 8:00 • 20h ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 817 • 1d ago
+⬇️ 2,719 • ❤️ 820 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 687 • 5d ago
+⬇️ 11,944 • ❤️ 688 • 5d ago
 
 ---
 
@@ -411,7 +413,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,404 • 16d ago
+⬇️ 384,826 • ❤️ 3,405 • 16d ago
 
 ---
 
@@ -423,7 +425,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 572 • 6d ago
+⬇️ 24,883 • ❤️ 573 • 6d ago
 
 ---
 
@@ -447,7 +449,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,398 • ❤️ 431 • 6d ago
+⬇️ 3,398 • ❤️ 433 • 6d ago
 
 ---
 
@@ -471,7 +473,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 315 • 1d ago
+⬇️ 1,152 • ❤️ 318 • 1d ago
 
 ---
 
@@ -481,7 +483,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 286 • 6d ago
+⬇️ 0 • ❤️ 287 • 6d ago
 
 ---
 
@@ -545,7 +547,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 60 • 💬 2 • ⭐ 137 • 5d ago
+▲ 60 • 💬 2 • ⭐ 154 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
@@ -564,20 +566,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 210 • 💬 5 • ⭐ 7,818 • 27d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -589,6 +577,20 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 28 • 💬 2 • ⭐ 7,821 • 27d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 210 • 💬 5 • ⭐ 7,847 • 27d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -618,15 +620,16 @@ SAM Audio, a diffusion transformer-based foundation model, achieves superior per
 
 ---
 
-**[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://huggingface.co/papers/2512.19693)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Weichen Fan, Haiwen Diao, Quan Wang et al. (5 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 60 • 💬 3 • ⭐ 74 • 2d ago
+▲ 26 • 💬 1 • ⭐ 66,109 • 27mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -650,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 702 • 2h ago
+⭐ 6.3k • 🔱 703 • 3h ago
 
 ---
 
@@ -660,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 426 • 7h ago
+⭐ 3.4k • 🔱 428 • 7h ago
 
 ---
 
@@ -670,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 204 • 1h ago
+⭐ 2.9k • 🔱 205 • 52s ago
 
 ---
 
@@ -680,7 +683,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 381 • 18d ago
+⭐ 2.0k • 🔱 382 • 18d ago
 
 ---
 
@@ -700,7 +703,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 102 • 2d ago
+⭐ 1.2k • 🔱 103 • 2d ago
 
 ---
 
@@ -720,7 +723,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 898 • 🔱 128 • 7d ago
+⭐ 899 • 🔱 128 • 7d ago
 
 ---
 
@@ -730,7 +733,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 808 • 🔱 41 • 12h ago
+⭐ 855 • 🔱 41 • 13h ago
 
 ---
 
