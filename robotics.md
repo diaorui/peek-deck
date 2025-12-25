@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T19:42:58.306146+00:00'
+updated: '2025-12-25T19:54:27.514031+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 19:42 UTC  
+**Last Updated:** December 25, 2025 at 19:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -100,11 +100,11 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 
 ---
 
-**[Figure running fully autonomously, no teleop. Helix can interact with people. You can ask it questions and tell it what to do.](https://www.reddit.com/r/robotics/comments/1punrb9/figure_running_fully_autonomously_no_teleop_helix/)**
+**[UBTech secures $237M fenglong partnership to fortify humanoid robot supply chain.](https://www.reddit.com/r/robotics/comments/1pvl9n1/ubtech_secures_237m_fenglong_partnership_to/)**
 
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
+Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-1d ago
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 4m ago
 
 ---
 
@@ -120,7 +120,15 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+
+Earth.com • 1d ago
+
+---
+
+**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
 A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
@@ -128,11 +136,35 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
 
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+: Investment and interest have outpaced technology and society
 
-Earth.com • 1d ago
+theregister.com • 6h ago
+
+---
+
+**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
+
+Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
+
+South China Morning Post • 1d ago
+
+---
+
+**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
+
+Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
+
+Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -155,36 +187,6 @@ Investor's Business Daily • 1d ago
 Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
 Futura, Le média qui explore le monde • 2d ago
-
----
-
-**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
-
-Tech Xplore • 2d ago
-
----
-
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
-
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 1d ago
-
----
-
-**[Kids Robotics STEM Workshop at Linden Library Saturday, December 27th](https://www.tapinto.net/towns/linden/sections/arts-and-entertainment/articles/kids-robotics-stem-workshop-at-linden-library-saturday-december-27th)**
-
-Don’t miss Linden Public Library s hands-on Robotics STEM workshop for kids this Saturday , December 27th! Register via QR code or online—spots are limited!
-
-TAPinto • 1d ago
-
----
-
-**[Wellsboro robotics clubs score at competition](https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/news/local/wellsboro-robotics-clubs-score-at-competition/article_9bd2c5d2-d349-4683-8da8-50aea3248c42.html)**
-
-WELLSBORO — Wellsboro’s high school robotics team demonstrated their growing skills at a recent competition.
-
-Tioga Publishing • 1d ago
 
 ---
 

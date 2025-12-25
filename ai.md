@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T19:42:58.290733+00:00'
+updated: '2025-12-25T19:54:27.496459+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 19:42 UTC  
+**Last Updated:** December 25, 2025 at 19:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 16h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 17h ago
 
 ---
 
@@ -85,14 +85,6 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 ---
 
-**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
-
-I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
-
-15h ago
-
----
-
 **[New Evidence Reveals Halo Studios Going All In On GenAI, Xbox Studios Hiring ML Experts for Gears and Forza As Well](https://www.reddit.com/r/artificial/comments/1puiwp6/new_evidence_reveals_halo_studios_going_all_in_on/)**
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
@@ -117,6 +109,14 @@ You can share your Al influencers' accounts, and we can discuss how to grow them
 
 ---
 
+**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
+
+I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
+
+15h ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -125,13 +125,7 @@ You can share your Al influencers' accounts, and we can discuss how to grow them
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 22h ago
-
----
-
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
-
-The New York Times • 19h ago
+CNBC • 23h ago
 
 ---
 
@@ -143,17 +137,15 @@ Financial Times • 20h ago
 
 ---
 
-**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-Axios • 6h ago
+The New York Times • 19h ago
 
 ---
 
-**[NFL Week 17 predictions by Microsoft Copilot AI for every game](https://www.usatoday.com/story/sports/nfl/2025/12/25/nfl-week-17-picks-predictions-ai/87909937007/)**
+**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Microsoft Copilot picks all of the NFL Week 17 games after going 12-4 predicting the results of the previous week's contests.
-
-USA Today • 2h ago
+Axios • 6h ago
 
 ---
 
@@ -165,19 +157,19 @@ blog.google • 2d ago
 
 ---
 
-**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
-
-Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
-
-Financial Times • 8h ago
-
----
-
 **[Gen Z founder on 'AI anxiety' and being pigeonholed as generation shortcut: that's the 'biggest misconception'](https://fortune.com/2025/12/25/gen-z-founder-ai-anxiety-obsolescence-biggest-misconception-shortcut-lazy/)**
 
 "We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
 
 Fortune • 5h ago
+
+---
+
+**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
+
+Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
+
+Financial Times • 8h ago
 
 ---
 
@@ -193,6 +185,14 @@ Star Tribune • 8h ago
 
 ---
 
+**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
+
+From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
+
+MIT Technology Review • 9h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ Star Tribune • 8h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 385 • 💬 109 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 389 • 💬 110 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -209,7 +209,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 318 • 💬 309 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 318 • 💬 310 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -225,7 +225,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 166 • 💬 94 • 20h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 170 • 💬 97 • 20h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -233,7 +233,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 157 • 💬 94 • 4h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 159 • 💬 96 • 4h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -243,7 +243,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 82 • 💬 42 • 5h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 99 • 💬 58 • 5h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -251,7 +251,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 67 • 💬 23 • 19h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 70 • 💬 23 • 19h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 868 • 2d ago
+⬇️ 4,163 • ❤️ 870 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 717 • 6d ago
+⬇️ 13,246 • ❤️ 718 • 6d ago
 
 ---
 
@@ -427,7 +427,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,423 • 17d ago
+⬇️ 395,092 • ❤️ 3,425 • 17d ago
 
 ---
 
@@ -451,7 +451,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,469 • ❤️ 435 • 7d ago
+⬇️ 3,469 • ❤️ 436 • 7d ago
 
 ---
 
@@ -473,7 +473,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,992 • ❤️ 447 • 11d ago
+⬇️ 6,992 • ❤️ 448 • 11d ago
 
 ---
 
@@ -485,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 409 • 2d ago
+⬇️ 0 • ❤️ 410 • 2d ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 449 • 1m ago
+⭐ 3.5k • 🔱 449 • 13m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 208 • 30m ago
+⭐ 3.0k • 🔱 208 • 42m ago
 
 ---
 

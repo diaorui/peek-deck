@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T19:42:58.303375+00:00'
+updated: '2025-12-25T19:54:27.510804+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 19:42 UTC  
+**Last Updated:** December 25, 2025 at 19:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -0.9%  
-**30d:** -2.1%  
-**90d:** -26.3%  
-**1y:** -11.3%  
+**24h:** +0.5%  
+**7d:** -1.0%  
+**30d:** -2.2%  
+**90d:** -26.4%  
+**1y:** -11.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.36B
+**Market Cap:** $356.45B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.3%
 
 **All-Time Low:** $0.43
-+681746.0%
++682041.6%
 
 ---
 
@@ -156,6 +156,14 @@ The Motley Fool • 3d ago
 
 ---
 
+**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
+
+Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
+
+Crypto Briefing • 2d ago
+
+---
+
 **[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
@@ -211,14 +219,6 @@ The Block • 2d ago
 This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
 Decrypt • 2d ago
-
----
-
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
-
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
-
-CryptoSlate • 2d ago
 
 ---
 
