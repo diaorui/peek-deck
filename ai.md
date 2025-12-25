@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T04:48:47.661815+00:00'
+updated: '2025-12-25T05:13:38.889872+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 04:48 UTC  
+**Last Updated:** December 25, 2025 at 05:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ I cant find a single thing it does better
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 19h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 20h ago
 
 ---
 
@@ -73,7 +73,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-7m ago
+32m ago
 
 ---
 
@@ -95,7 +95,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-7h ago
+8h ago
 
 ---
 
@@ -123,13 +123,13 @@ Hi everyone, I wanted to share a project I’ve been working on called Rendrflow
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -137,19 +137,19 @@ The New York Times • 4h ago
 
 With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
 **[How a real photo of Donald Trump linked to Jeffrey Epstein was doctored using AI](https://www.france24.com/en/americas/20251224-real-photo-donald-trump-jeffrey-epstein-doctored-artificial-intelligence)**
 
-France 24 • 18h ago
+France 24 • 19h ago
 
 ---
 
@@ -165,7 +165,7 @@ Pittsburgh Post-Gazette • 10h ago
 
 After Thai media reported the country's army had retaken a temple on the disputed border with Cambodia, images were shared in Khmer-language posts falsely claiming Thailand's military had staged pictures of their troops using a studio and green screen. The images were flagged as having been made with Google's AI tools, and contain visual errors indicative of fabricated content.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo • 1h ago
 
 It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
 
-ScienceAlert • 17h ago
+ScienceAlert • 18h ago
 
 ---
 
@@ -189,7 +189,7 @@ blog.google • 1d ago
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
 
-Los Angeles Times • 17h ago
+Los Angeles Times • 18h ago
 
 ---
 
@@ -209,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 428 • 💬 248 • 7h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 428 • 💬 248 • 8h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -225,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 254 • 💬 83 • 10h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 254 • 💬 83 • 11h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -269,7 +269,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 42 • 💬 4 • 4h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 42 • 💬 4 • 5h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -277,13 +277,13 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 ## YouTube Videos: "ai"
 
-**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
+**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
 
-Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
+I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
 
-📺 Jack Morgan RLP 2.0
+📺 Kelly Boesch AI Art
 
-👁️ 22K • 👍 1K • 💬 559 • ⏱️ 11:28 • 1d ago
+👁️ 21K • 👍 1K • 💬 69 • ⏱️ 3:00 • 15h ago
 
 ---
 
@@ -293,17 +293,17 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 28 • 💬 6 • ⏱️ 11:02 • 10h ago
+👁️ 1K • 👍 31 • 💬 6 • ⏱️ 11:02 • 11h ago
 
 ---
 
-**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
+**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
 
-I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
+Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
 
-📺 Kelly Boesch AI Art
+📺 Jack Morgan RLP 2.0
 
-👁️ 19K • 👍 1K • 💬 65 • ⏱️ 3:00 • 14h ago
+👁️ 23K • 👍 1K • 💬 563 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -313,45 +313,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 18K • 👍 477 • 💬 60 • ⏱️ 18:48 • 2d ago
-
----
-
-**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
-
-How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
-
-📺 Maxinomics
-
-👁️ 244K • 👍 14K • 💬 2K • ⏱️ 21:43 • 2d ago
-
----
-
-**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
-
-📺 Maggie McGaugh
-
-👁️ 192K • 👍 8K • 💬 61 • ⏱️ 1:07 • 1d ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 72K • 👍 3K • 💬 364 • ⏱️ 30:43 • 1d ago
-
----
-
-**[VanEck CEO Jan Van Eck says the ‘AI bubble already popped’](https://www.youtube.com/watch?v=2Si2XN_zWGY)**
-
-VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market and how companies are missing large macro ...
-
-📺 Fox Business
-
-👁️ 12K • 👍 198 • 💬 43 • ⏱️ 7:50 • 23h ago
+👁️ 18K • 👍 479 • 💬 60 • ⏱️ 18:48 • 2d ago
 
 ---
 
@@ -361,7 +323,35 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 479K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
+👁️ 483K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
+
+---
+
+**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
+
+📺 Maggie McGaugh
+
+👁️ 199K • 👍 8K • 💬 61 • ⏱️ 1:07 • 1d ago
+
+---
+
+**[A.I. 2Pac - Held You High [A.I. Voice Conversion]](https://www.youtube.com/watch?v=YuBs20pu7Bg)**
+
+Original (non voice-transformed) on all platforms: Written by: dopfunk Produced by: dopfunk Sung and Performed by: Liam A.I. ...
+
+📺 dopfunk
+
+👁️ 6K • 👍 590 • 💬 64 • ⏱️ 3:53 • 1d ago
+
+---
+
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
+
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
+
+📺 AI Search
+
+👁️ 74K • 👍 3K • 💬 372 • ⏱️ 30:43 • 1d ago
 
 ---
 
@@ -371,7 +361,17 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 56K • 👍 3K • 💬 358 • ⏱️ 33:27 • 1d ago
+👁️ 57K • 👍 3K • 💬 362 • ⏱️ 33:27 • 1d ago
+
+---
+
+**[Which Crazy Bed Would You Choose? 🦋 Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=n0ESecL3Lc8)**
+
+Which crazy bed would you choose? Relax your mind with this ultimate oddly satisfying AI ASMR experience. #WhichCrazyBed ...
+
+📺 Tina ASMR ALs
+
+👁️ 7K • 👍 378 • 💬 31 • ⏱️ 8:00 • 19h ago
 
 ---
 
@@ -624,7 +624,7 @@ SAM Audio, a diffusion transformer-based foundation model, achieves superior per
 
 Unified Autoencoding combines semantic and pixel-level information through a frequency-band modulator, resulting in a latent space with state-of-the-art performance on image benchmarks.
 
-▲ 59 • 💬 3 • ⭐ 74 • 2d ago
+▲ 60 • 💬 3 • ⭐ 74 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.19693) • [💻 code](https://github.com/WeichenFan/UAE)
 
@@ -640,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.3k • 🔱 3.1k • 2d ago
+⭐ 19.3k • 🔱 3.1k • 3d ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.2k • 🔱 699 • 1h ago
+⭐ 6.2k • 🔱 702 • 2h ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 204 • 4h ago
+⭐ 2.9k • 🔱 204 • 44m ago
 
 ---
 
@@ -690,7 +690,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 213 • 23h ago
+⭐ 1.3k • 🔱 215 • 23h ago
 
 ---
 
@@ -710,7 +710,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 112 • 1d ago
+⭐ 1.1k • 🔱 113 • 1d ago
 
 ---
 
@@ -720,7 +720,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 897 • 🔱 128 • 7d ago
+⭐ 898 • 🔱 128 • 7d ago
 
 ---
 
@@ -730,7 +730,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 785 • 🔱 39 • 11h ago
+⭐ 808 • 🔱 41 • 11h ago
 
 ---
 

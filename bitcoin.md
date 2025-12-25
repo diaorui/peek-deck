@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T04:48:47.670802+00:00'
+updated: '2025-12-25T05:13:38.898272+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 04:48 UTC  
+**Last Updated:** December 25, 2025 at 05:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.3%  
-**30d:** -2.9%  
-**90d:** -19.7%  
-**1y:** -8.2%  
+**24h:** +0.9%  
+**7d:** -0.6%  
+**30d:** -3.2%  
+**90d:** -20.0%  
+**1y:** -8.5%  
 
 ---
 
@@ -101,7 +101,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 the numbers dropped this week and nobody seems to get what theyre looking at. india now has 93 million people holding bitcoin. thats double the united states. and the country is just getting started. heres what most people miss about why this matters. india sends $100 billion in remittances home every single year. workers in dubai and toronto and london sending money back to their families. every transfer gets eaten by fees. western union and the banks skim off the top while adding nothing. bitcoin fixes this overnight. one transaction. done. the 93 million people who figured this out arent speculating.... theyre solving a real problem. but theres something deeper happening here. india is a gold culture. has been for 5,000 years. weddings revolve around gold. families pass it down through generations. its not just investment there.... its identity. its trust. its how you protect your family across time. now imagine that same culture discovering digital gold. scarce. portable. transferable. seizure resistant. unseizable by governments that have frozen assets before. of course they get it. and then theres the tech angle. india produces more software engineers than anywhere on earth. silicon valley runs on indian talent. these arent people who need bitcoin explained slowly. they read the whitepaper. they understood the math. they saw what it means. 800 million smartphone users. median age 28. more english speakers than the uk. the largest democracy on earth. and now the largest bitcoin adopting nation. the west sees bitcoin as a trade. india sees it as infrastructure. when i helped build one of the first bitcoin exchanges there back in 2013.... we got shut down. banks froze our accounts. the government called us criminals. we took it all the way to the supreme court. and we won. because you cant stop 93 million people who understand what sovereignty actually means. everyone keeps asking wheres the next wave coming from. its not institutions. its not etfs. its a billion people who just realized bitcoin is gold you can send through a phone. what does this mean long term? the worlds largest population. youngest demographics. english speaking. tech native. gold obsessed. mobile first. democratic. aligned with the west but building their own future. bitcoin wasnt designed for wall street. it was designed for exactly this.
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ the numbers dropped this week and nobody seems to get what theyre looking at. in
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 **[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -167,7 +167,7 @@ Reuters • 14h ago
 
 A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investor's Business Daily • 1d ago
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Block • 19h ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 14h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 15h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -247,7 +247,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 1 • 💬 0 • 4m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 1 • 💬 0 • 28m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -287,23 +287,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
-**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
-
-Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
-
-📺 CNBC Television
-
-👁️ 14K • 👍 241 • 💬 148 • ⏱️ 8:19 • 15h ago
-
----
-
 **[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
 
 2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 199 • ⏱️ 13:26 • 1d ago
+👁️ 26K • 👍 2K • 💬 201 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -313,7 +303,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 215 • 💬 45 • ⏱️ 1:12 • 7h ago
+👁️ 8K • 👍 248 • 💬 50 • ⏱️ 1:12 • 8h ago
+
+---
+
+**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
+
+Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
+
+📺 CNBC Television
+
+👁️ 15K • 👍 250 • 💬 150 • ⏱️ 8:19 • 15h ago
 
 ---
 
@@ -323,7 +323,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 88K • 👍 4K • 💬 406 • ⏱️ 20:46 • 1d ago
+👁️ 90K • 👍 4K • 💬 414 • ⏱️ 20:46 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 455 • ⏱️ 10:51 • 1d ago
+👁️ 41K • 👍 2K • 💬 455 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -343,17 +343,27 @@ Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squaw
 
 📺 CNBC Television
 
-👁️ 29K • 👍 356 • 💬 215 • ⏱️ 5:23 • 1d ago
+👁️ 30K • 👍 357 • 💬 215 • ⏱️ 5:23 • 1d ago
 
 ---
 
-**[Why Bitcoin’s BIGGEST MOVE Could Be NEXT!](https://www.youtube.com/watch?v=VPveG-Q_Ono)**
+**[🚨 Institutional Bitcoin TRAP Ends FRIDAY (Max Altcoin Volatility Inbound)](https://www.youtube.com/watch?v=tyvqRvGNUV8)**
 
-Gold and silver are hitting record highs. Bitcoin? Stuck in a cage. This isn't fear or fundamentals—it's pure manipulation.
+Are institutions setting up the final Bitcoin trap before a massive move? This Friday marks a critical deadline that could unleash ...
 
-📺 Simply Bitcoin
+📺 Discover Crypto
 
-👁️ 30K • 👍 2K • 💬 193 • ⏱️ 11:35 • 2d ago
+👁️ 2K • 👍 168 • 💬 25 • ⏱️ 7:13 • 5h ago
+
+---
+
+**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=UgLJaiGy5-o)**
+
+00:00 In this video 00:12 Bitcoin: Bearish Market Structure 01:26 Bitcoin: Bullish Divergence 02:31 Bitcoin: Support & Resistance ...
+
+📺 Road To $1 Million USD
+
+👁️ 2K • 👍 145 • 💬 50 • ⏱️ 5:52 • 7h ago
 
 ---
 
@@ -363,27 +373,17 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 37K • 👍 2K • 💬 201 • ⏱️ 20:00 • 1d ago
+👁️ 37K • 👍 2K • 💬 202 • ⏱️ 20:00 • 1d ago
 
 ---
 
-**[2026 Bitcoin Warning: The New Price Floor Revealed](https://www.youtube.com/watch?v=OV9nYbOB0wQ)**
+**[2026 Midterms Could Push Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
 
-Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the crypto landscape has fundamentally shifted. In today's ...
+Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
 
-📺 Discover Crypto
+📺 Altcoin Daily
 
-👁️ 5K • 👍 322 • 💬 13 • ⏱️ 58:02 • 12h ago
-
----
-
-**[Alert: Bloomberg Admits Bitcoin Crash Is Coming...](https://www.youtube.com/watch?v=5r_qBUtdAb8)**
-
-Yes, Bitcoin is currently experiencing significant volatility and price drops (a "crash" or deep pullback), with analysts citing factors ...
-
-📺 Ricky Gutierrez
-
-👁️ 7K • 👍 394 • 💬 125 • ⏱️ 9:15 • 8h ago
+👁️ 16K • 👍 1K • 💬 91 • ⏱️ 37:34 • 7h ago
 
 ---
 

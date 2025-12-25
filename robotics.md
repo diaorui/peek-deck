@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T04:48:47.680445+00:00'
+updated: '2025-12-25T05:13:38.907661+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 04:48 UTC  
+**Last Updated:** December 25, 2025 at 05:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ Torque = k × current Heat = current² × R At stall or high-load, adjusting pos
 
 **[Day 93 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1puiuwk/day_93_of_building_asimov_an_opensource_humanoid/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ Torque = k × current Heat = current² × R At stall or high-load, adjusting pos
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-26m ago
+50m ago
 
 ---
 
@@ -150,7 +150,7 @@ Earth.com • 13h ago
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-New Atlas • 4h ago
+New Atlas • 5h ago
 
 ---
 
@@ -170,7 +170,7 @@ Tech Xplore • 1d ago
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -192,16 +192,6 @@ Phys.org • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 823 • 💬 84 • ⏱️ 2:08:46 • 5d ago
-
----
-
 **[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
 
 FutureTech #Robotics #LawEnforcement.
@@ -212,13 +202,23 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
 
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
 
-📺 AI Tech Academy
+📺 AI Revolution
 
-👁️ 15K • 👍 267 • 💬 32 • ⏱️ 13:55 • 1d ago
+👁️ 49K • 👍 826 • 💬 85 • ⏱️ 2:08:46 • 5d ago
+
+---
+
+**[An exclusive look inside China&#39;s humanoid robot mass-production factory in Shanghai](https://www.youtube.com/watch?v=d17f_5dVW7I)**
+
+China's leading robotics company, AgiBot, recently unveiled its 5000th mass-produced humanoid robot. How are humanoid ...
+
+📺 New China TV
+
+👁️ 64K • 👍 939 • 💬 263 • ⏱️ 31:49 • 5d ago
 
 ---
 
@@ -228,17 +228,17 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 5K • 👍 266 • 💬 76 • ⏱️ 49:59 • 2d ago
+👁️ 5K • 👍 267 • 💬 76 • ⏱️ 49:59 • 2d ago
 
 ---
 
-**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
-Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+She Bought Two Robots    #shorts#trending.
 
-📺 The Capital AI
+📺 Facto_Satish
 
-👁️ 170K • 👍 3K • 💬 644 • ⏱️ 2:23 • 4d ago
+👁️ 14K • 💬 2 • ⏱️ 0:27 • 1h ago
 
 ---
 
@@ -248,7 +248,37 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 LimX Dynamics
 
-👁️ 1.2M • 👍 11K • 💬 676 • ⏱️ 2:43 • 6d ago
+👁️ 1.3M • 👍 11K • 💬 676 • ⏱️ 2:43 • 6d ago
+
+---
+
+**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+
+Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+
+📺 The Capital AI
+
+👁️ 176K • 👍 3K • 💬 654 • ⏱️ 2:23 • 4d ago
+
+---
+
+**[War Robots - Pathfinder Secrets Revealed! WR Pathfinder Guide](https://www.youtube.com/watch?v=ivde5tlMMds)**
+
+War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over what Specialization track I use with Pathfinder along ...
+
+📺 Adrian Chong
+
+👁️ 3K • 👍 236 • 💬 54 • ⏱️ 16:20 • 15h ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 16K • 👍 289 • 💬 34 • ⏱️ 13:55 • 1d ago
 
 ---
 
@@ -256,37 +286,7 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 📺 XRoboHub
 
-👁️ 214K • 👍 4K • 💬 503 • ⏱️ 0:51 • 4d ago
-
----
-
-**[The Robot That ESCAPED...](https://www.youtube.com/watch?v=eYAprc8mGvQ)**
-
-Disturbing Robot Thinks It's Human.. Hope yall enjoyed the vid! If you did consider liking and subscribing for more ...
-
-📺 Aimin
-
-👁️ 1.1M • 👍 22K • 💬 4K • ⏱️ 14:27 • 4d ago
-
----
-
-**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
-
-ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
-
-📺 Ai BOOF
-
-👁️ 24K • 👍 342 • 💬 8 • ⏱️ 0:11 • 2d ago
-
----
-
-**[His Self-Aware Robot Escaped ...](https://www.youtube.com/watch?v=e7fkeontbaE)**
-
-I got a little bit bored so His Self-Aware Robot Escaped SUBSCRIBE TO OG @LIGHTSAREOFF New Merch https://socks.store/ ...
-
-📺 SocksReact
-
-👁️ 635K • 👍 11K • 💬 1K • ⏱️ 18:35 • 4d ago
+👁️ 215K • 👍 4K • 💬 505 • ⏱️ 0:51 • 4d ago
 
 ---
 
