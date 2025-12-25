@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T21:18:20.848015+00:00'
+updated: '2025-12-25T21:35:22.677419+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 21:18 UTC  
+**Last Updated:** December 25, 2025 at 21:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 109 • 💬 5 • ⏱️ 4:41 • 4h ago
+👁️ 1K • 👍 109 • 💬 5 • ⏱️ 4:41 • 5h ago
 
 ---
 
@@ -294,7 +294,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Unboxing review
 
-👁️ 5K • 👍 1K • 2h ago
+👁️ 5K • 👍 1K • 3h ago
 
 ---
 

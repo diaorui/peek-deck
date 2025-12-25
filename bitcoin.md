@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T21:18:20.842622+00:00'
+updated: '2025-12-25T21:35:22.672246+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 21:18 UTC  
+**Last Updated:** December 25, 2025 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.1%  
-**30d:** -2.7%  
-**90d:** -19.6%  
-**1y:** -8.0%  
+**24h:** -0.4%  
+**7d:** -0.5%  
+**30d:** -3.1%  
+**90d:** -19.9%  
+**1y:** -8.5%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-2h ago
+3h ago
 
 ---
 
 **[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,13 +99,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -131,13 +131,13 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-16h ago
+17h ago
 
 ---
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Wall Street Journal • 1d ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 51m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 51m ago
 
 Silver hit record prices in China on Christmas Day as physical supply tightened, while Bitcoin traded flat, raising safe-haven questions.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -321,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 208 • 💬 8 • ⏱️ 19:55 • 4h ago
+👁️ 3K • 👍 208 • 💬 8 • ⏱️ 19:55 • 5h ago
 
 ---
 
