@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T21:58:11.533893+00:00'
+updated: '2025-12-25T22:28:02.424925+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 21:58 UTC  
+**Last Updated:** December 25, 2025 at 22:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -0.1%  
+**24h:** +0.2%  
+**7d:** -0.2%  
 **30d:** -2.8%  
-**90d:** -19.6%  
-**1y:** -8.1%  
+**90d:** -19.7%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1754.65B
+**Market Cap:** $1753.24B
 Rank #1
 
 **Circulating Supply:** 19,967,075 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.3%
+-30.4%
 
 **All-Time Low:** $67.81
-+129429.6%
++129354.4%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-2h ago
+3h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Wall Street Journal • 1d ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 1d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 4h ago
+thestreet.com • 5h ago
 
 ---
 
@@ -239,7 +239,7 @@ KRON4 • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 5h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 6h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -301,7 +301,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 203 • ⏱️ 13:26 • 1d ago
+👁️ 29K • 👍 2K • 💬 203 • ⏱️ 13:26 • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 208 • 💬 8 • ⏱️ 19:55 • 5h ago
+👁️ 3K • 👍 208 • 💬 8 • ⏱️ 19:55 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 329 • 💬 55 • ⏱️ 7:13 • 21h ago
+👁️ 6K • 👍 329 • 💬 55 • ⏱️ 7:13 • 22h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 222 • ⏱️ 20:00 • 1d ago
+👁️ 42K • 👍 2K • 💬 222 • ⏱️ 20:00 • 2d ago
 
 ---
 

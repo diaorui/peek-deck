@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T21:58:11.543014+00:00'
+updated: '2025-12-25T22:28:02.434470+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 21:58 UTC  
+**Last Updated:** December 25, 2025 at 22:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Wishing everyone a happy Christmas holiday.
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-6h ago
+7h ago
 
 ---
 
@@ -140,7 +140,7 @@ Interesting Engineering • 1d ago
 
 : Investment and interest have outpaced technology and society
 
-theregister.com • 8h ago
+theregister.com • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ Interesting Engineering • 2d ago
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-New Atlas • 21h ago
+New Atlas • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 26K • 👍 1K • 💬 2K • ⏱️ 9:57 • 12h ago
+👁️ 26K • 👍 1K • 💬 2K • ⏱️ 9:57 • 13h ago
 
 ---
 

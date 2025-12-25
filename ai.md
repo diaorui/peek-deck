@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T21:58:11.525400+00:00'
+updated: '2025-12-25T22:28:02.416456+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 21:58 UTC  
+**Last Updated:** December 25, 2025 at 22:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 7h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 8h ago
 
 ---
 
@@ -61,6 +61,22 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
+**[Trump isn't building a Ballroom. He's building an AI Datacenter.](https://www.reddit.com/r/artificial/comments/1pvoczs/trump_isnt_building_a_ballroom_hes_building_an_ai/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/VbJ4ilDvGyc?si=z6VCKG-3NvOefFfv) • 8m ago
+
+---
+
+**[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
+
+It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
+
+4h ago
+
+---
+
 **[Using a Christmas-themed use case to think through agent design 🎄😊](https://www.reddit.com/r/artificial/comments/1pvm2yu/using_a_christmasthemed_use_case_to_think_through/)**
 
 Since it’s Christmas, I ended up thinking through a Christmas-themed use case, mostly as a way to explain how I approach agent design beyond the foundational layer. The theme itself doesn’t matter much. It just gives you a nice mix of: vague, emotional intent (“I just want this sorted”) hard constraints (budget, deadlines) multiple domains at once When I think about designing an agent here, I’m less focused on responses and more on what components are actually required. For example: an analyzer that turns messy input into something structured (e.g., “budget-sensitive,” “family of 5,” “fixed deadline”) a planner that converts that into a concrete workflow (gift planning, reminders, budget tracking) small, focused workers (one that suggests gifts under a price cap, another that tracks cumulative spend) a validator that can say “this doesn’t work” before anything is shown What’s been interesting for me is how much value you get from automating the build of these components, like prompt scaffolding, baseline RAG setup, and eval wiring. It removes a lot of boring glue work while keeping the system structured and easier to trust. What would be your Christmas themed Agent 😁😉 and how would you approach it?
@@ -74,14 +90,6 @@ Since it’s Christmas, I ended up thinking through a Christmas-themed use case,
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
 🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 2h ago
-
----
-
-**[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
-
-It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
-
-3h ago
 
 ---
 
@@ -109,14 +117,6 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 ---
 
-**[Launching unlimited Veo 3.1 / Sora 2 access, giving out some free codes](https://www.reddit.com/r/artificial/comments/1pvgkuc/launching_unlimited_veo_31_sora_2_access_giving/)**
-
-Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
-
-5h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Pl
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ Financial Times • 10h ago
 
 AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -147,7 +147,7 @@ blog.google • 2d ago
 
 **[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -161,19 +161,19 @@ Axios • 8h ago
 
 "We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
 **[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
 
-Star Tribune • 10h ago
+Star Tribune • 11h ago
 
 ---
 
 **[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
@@ -181,13 +181,13 @@ The Washington Post • 3h ago
 
 From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
 
-MIT Technology Review • 11h ago
+MIT Technology Review • 12h ago
 
 ---
 
 **[AI Santa as ICE agent video blasted online as 'disgusting' and 'evil'](https://www.euronews.com/culture/2025/12/25/us-department-of-homeland-security-turns-santa-into-an-ice-agent-in-digusting-ai-video)**
 
-Euronews.com • 12h ago
+Euronews.com • 13h ago
 
 ---
 
@@ -199,7 +199,7 @@ Euronews.com • 12h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 399 • 💬 113 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 403 • 💬 113 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -223,7 +223,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 176 • 💬 99 • 22h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 179 • 💬 99 • 23h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -231,7 +231,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 163 • 💬 96 • 6h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 163 • 💬 96 • 7h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 136 • 💬 111 • 7h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 139 • 💬 118 • 8h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -249,7 +249,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 71 • 💬 26 • 21h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 73 • 💬 26 • 22h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -257,19 +257,21 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 66 • 💬 91 • 18h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 66 • 💬 92 • 19h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+
+---
+
+**[UBlockOrigin and UBlacklist AI Blocklist](https://news.ycombinator.com/item?id=46386761)**
+
+A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
+
+⬆️ 46 • 💬 4 • 2h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 37 • 💬 23 • 17h ago • [substack.com](https://substack.com/home/post/p-182524207)
-
----
-
-**[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
-
-⬆️ 34 • 💬 11 • 1d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
+⬆️ 38 • 💬 23 • 18h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -303,7 +305,7 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 131K • 👍 4K • 💬 85 • ⏱️ 10:06 • 8h ago
+👁️ 131K • 👍 4K • 💬 85 • ⏱️ 10:06 • 9h ago
 
 ---
 
@@ -313,7 +315,7 @@ A wave of #AI-powered children's #toys has hit shelves this #holiday season, cla
 
 📺 NBC News
 
-👁️ 10K • 👍 263 • 💬 32 • ⏱️ 2:05 • 8h ago
+👁️ 10K • 👍 263 • 💬 32 • ⏱️ 2:05 • 9h ago
 
 ---
 
@@ -363,7 +365,7 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 19K • 👍 496 • 💬 60 • ⏱️ 18:48 • 2d ago
+👁️ 19K • 👍 496 • 💬 60 • ⏱️ 18:48 • 3d ago
 
 ---
 
@@ -373,7 +375,7 @@ REALISTIC AI CLONE / AI AVATAR VIDEO — Step-by-Step Guide In this video, I sho
 
 📺 Raj Photo Editing and Much More
 
-👁️ 9K • 👍 774 • 💬 42 • ⏱️ 3:50 • 9h ago
+👁️ 9K • 👍 774 • 💬 42 • ⏱️ 3:50 • 10h ago
 
 ---
 
@@ -664,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 451 • 2m ago
+⭐ 3.5k • 🔱 451 • 32m ago
 
 ---
 
@@ -674,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 208 • 2h ago
+⭐ 3.0k • 🔱 208 • 3h ago
 
 ---
 
@@ -704,7 +706,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 219 • 6h ago
+⭐ 1.3k • 🔱 219 • 7h ago
 
 ---
 
@@ -714,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 108 • 12h ago
+⭐ 1.2k • 🔱 108 • 13h ago
 
 ---
 
