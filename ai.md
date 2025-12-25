@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T04:06:16.211442+00:00'
+updated: '2025-12-25T04:48:47.661815+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 04:06 UTC  
+**Last Updated:** December 25, 2025 at 04:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 20h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 I cant find a single thing it does better
 
-43m ago
+1h ago
 
 ---
 
@@ -66,6 +66,14 @@ I cant find a single thing it does better
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
 🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 19h ago
+
+---
+
+**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
+
+I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
+
+7m ago
 
 ---
 
@@ -87,7 +95,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +103,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 10h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 11h ago
 
 ---
 
@@ -104,14 +112,6 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
 
 1d ago
-
----
-
-**[Can AI ever be funny? Some comedians embrace AI tools but they're still running the show](https://www.reddit.com/r/artificial/comments/1purgw2/can_ai_ever_be_funny_some_comedians_embrace_ai/)**
-
-Comedians like Jon Lajoie and King Willonius are embracing artificial intelligence tools to help them create humor. They just don't think AI is inherently funny.
-
-🔗 [AP News](https://apnews.com/article/ai-comedy-talking-baby-podcast-lajoie-king-willonius-6fe65423131d6de796206c5f38455b08) • 11h ago
 
 ---
 
@@ -133,11 +133,11 @@ The New York Times • 4h ago
 
 ---
 
-**[Nvidia expands AI empire with Groq licensing deal, poaching startup’s top execs](https://nypost.com/2025/12/24/business/nvidia-expands-ai-empire-with-groq-licensing-deal-poaching-startups-top-execs/)**
+**[Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)**
 
-Groq more than doubled its valuation to $6.9 billion, from $2.8 billion in August last year, following a $750 million funding round in September.
+With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
 
-New York Post • 4h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -157,7 +157,15 @@ France 24 • 18h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 9h ago
+Pittsburgh Post-Gazette • 10h ago
+
+---
+
+**[Posts claiming Thailand army staged troop pictures share AI images](https://www.yahoo.com/news/articles/posts-claiming-thailand-army-staged-025349042.html)**
+
+After Thai media reported the country's army had retaken a temple on the disputed border with Cambodia, images were shared in Khmer-language posts falsely claiming Thailand's military had staged pictures of their troops using a studio and green screen. The images were flagged as having been made with Google's AI tools, and contain visual errors indicative of fabricated content.
+
+Yahoo • 1h ago
 
 ---
 
@@ -177,14 +185,6 @@ blog.google • 1d ago
 
 ---
 
-**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
-
-AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
-
-Fortune • 1d ago
-
----
-
 **[Toys are talking back thanks to AI, but are they safe around kids?](https://www.latimes.com/business/story/2025-12-24/toys-are-talking-back-thanks-to-ai-but-are-they-safe-around-kids)**
 
 Mattel and other toy companies have been working on AI toys that are expected to be unveiled in 2026, but child safety groups have raised concerns about products already being sold.
@@ -201,7 +201,7 @@ Los Angeles Times • 17h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 802 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 803 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -209,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 415 • 💬 248 • 7h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 428 • 💬 248 • 7h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -225,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 249 • 💬 81 • 10h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 254 • 💬 83 • 10h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -241,7 +241,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
-⬆️ 223 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
+⬆️ 224 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
 
 ---
 
@@ -261,7 +261,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 55 • 💬 25 • 4h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 64 • 💬 32 • 5h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -269,7 +269,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 34 • 💬 2 • 3h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 42 • 💬 4 • 4h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -351,7 +351,7 @@ VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market
 
 📺 Fox Business
 
-👁️ 12K • 👍 198 • 💬 43 • ⏱️ 7:50 • 22h ago
+👁️ 12K • 👍 198 • 💬 43 • ⏱️ 7:50 • 23h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 811 • 1d ago
+⬇️ 2,719 • ❤️ 812 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 685 • 5d ago
+⬇️ 11,944 • ❤️ 686 • 5d ago
 
 ---
 
@@ -423,7 +423,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 569 • 6d ago
+⬇️ 24,883 • ❤️ 570 • 6d ago
 
 ---
 
@@ -435,7 +435,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,729 • ❤️ 442 • 10d ago
+⬇️ 6,729 • ❤️ 443 • 10d ago
 
 ---
 
@@ -459,7 +459,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 398 • 1d ago
+⬇️ 0 • ❤️ 399 • 1d ago
 
 ---
 
@@ -471,7 +471,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 1,152 • ❤️ 310 • 1d ago
+⬇️ 1,152 • ❤️ 314 • 1d ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 284 • 6d ago
+⬇️ 0 • ❤️ 285 • 6d ago
 
 ---
 
@@ -660,7 +660,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 426 • 5h ago
+⭐ 3.4k • 🔱 426 • 6h ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 204 • 3h ago
+⭐ 2.9k • 🔱 204 • 4h ago
 
 ---
 
@@ -690,7 +690,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 213 • 22h ago
+⭐ 1.3k • 🔱 213 • 23h ago
 
 ---
 
@@ -730,7 +730,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 785 • 🔱 39 • 10h ago
+⭐ 785 • 🔱 39 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T04:06:16.225925+00:00'
+updated: '2025-12-25T04:48:47.677136+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 04:06 UTC  
+**Last Updated:** December 25, 2025 at 04:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -1.2%  
-**30d:** -2.3%  
-**90d:** -26.5%  
-**1y:** -11.5%  
+**24h:** +0.5%  
+**7d:** -1.3%  
+**30d:** -2.5%  
+**90d:** -26.6%  
+**1y:** -11.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.44B
+**Market Cap:** $355.13B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.5%
 
 **All-Time Low:** $0.43
-+679831.4%
++679457.2%
 
 ---
 
@@ -86,7 +86,7 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 **[Devcon 8 is coming to Mumbai, India in November 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1puo5hv/devcon_8_is_coming_to_mumbai_india_in_november/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 13h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2025/12/23/devcon-mumbai) • 14h ago
 
 ---
 
@@ -94,13 +94,13 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-11h ago
+12h ago
 
 ---
 
 **[Profit-left licenses: revenue-share to your open source dependencies](https://www.reddit.com/r/ethereum/comments/1puohxh/profitleft_licenses_revenueshare_to_your_open/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -116,7 +116,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 20h ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 21h ago
 
 ---
 
@@ -206,17 +206,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
-
-TipRanks • 1d ago
-
----
-
 **[Ethereum Price Flashes Bearish Bias, Bulls Lose Short-Term Control](https://www.tradingview.com/news/newsbtc:3279429cd094b:0-ethereum-price-flashes-bearish-bias-bulls-lose-short-term-control/)**
 
 Ethereum price failed to continue higher above $3,000 and dipped. ETH is now showing bearish signs and might slide further below $2,880.Ethereum Price Faces RejectionEthereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin. ETH price dipped below $2,980 t…
 
 TradingView — Track All Markets • 1d ago
+
+---
+
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+
+TipRanks • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:51 • 13h ago
+👁️ 2K • 👍 105 • 💬 6 • ⏱️ 3:51 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 5K • 👍 240 • 💬 145 • ⏱️ 19:06 • 11h ago
+👁️ 5K • 👍 240 • 💬 145 • ⏱️ 19:06 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 369 • 👍 16 • 💬 24 • ⏱️ 5:15 • 13h ago
+👁️ 369 • 👍 16 • 💬 24 • ⏱️ 5:15 • 14h ago
 
 ---
 
@@ -280,7 +280,7 @@ These institutions will not stop... the amount of Bitcoin and Ethereum being acc
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 654 • 💬 147 • ⏱️ 17:59 • 18h ago
+👁️ 6K • 👍 654 • 💬 147 • ⏱️ 17:59 • 19h ago
 
 ---
 

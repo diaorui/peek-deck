@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T04:06:16.219871+00:00'
+updated: '2025-12-25T04:48:47.670802+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 04:06 UTC  
+**Last Updated:** December 25, 2025 at 04:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,065.87
+### $87,677.96
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.0%  
-**7d:** -0.2%  
+**7d:** -0.3%  
 **30d:** -2.9%  
 **90d:** -19.7%  
 **1y:** -8.2%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1752.05B
+**Market Cap:** $1751.57B
 Rank #1
 
 **Circulating Supply:** 19,966,718 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.4%
 
 **All-Time Low:** $67.81
-+129251.1%
++129288.0%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-5h ago
+6h ago
 
 ---
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-10h ago
+11h ago
 
 ---
 
@@ -109,25 +109,25 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 the numbers dropped this week and nobody seems to get what theyre looking at. india now has 93 million people holding bitcoin. thats double the united states. and the country is just getting started. heres what most people miss about why this matters. india sends $100 billion in remittances home every single year. workers in dubai and toronto and london sending money back to their families. every transfer gets eaten by fees. western union and the banks skim off the top while adding nothing. bitcoin fixes this overnight. one transaction. done. the 93 million people who figured this out arent speculating.... theyre solving a real problem. but theres something deeper happening here. india is a gold culture. has been for 5,000 years. weddings revolve around gold. families pass it down through generations. its not just investment there.... its identity. its trust. its how you protect your family across time. now imagine that same culture discovering digital gold. scarce. portable. transferable. seizure resistant. unseizable by governments that have frozen assets before. of course they get it. and then theres the tech angle. india produces more software engineers than anywhere on earth. silicon valley runs on indian talent. these arent people who need bitcoin explained slowly. they read the whitepaper. they understood the math. they saw what it means. 800 million smartphone users. median age 28. more english speakers than the uk. the largest democracy on earth. and now the largest bitcoin adopting nation. the west sees bitcoin as a trade. india sees it as infrastructure. when i helped build one of the first bitcoin exchanges there back in 2013.... we got shut down. banks froze our accounts. the government called us criminals. we took it all the way to the supreme court. and we won. because you cant stop 93 million people who understand what sovereignty actually means. everyone keeps asking wheres the next wave coming from. its not institutions. its not etfs. its a billion people who just realized bitcoin is gold you can send through a phone. what does this mean long term? the worlds largest population. youngest demographics. english speaking. tech native. gold obsessed. mobile first. democratic. aligned with the west but building their own future. bitcoin wasnt designed for wall street. it was designed for exactly this.
 
-59m ago
+1h ago
 
 ---
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-1h ago
-
----
-
-**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
-
-15h ago
+2h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-2h ago
+3h ago
+
+---
+
+**[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
+
+16h ago
 
 ---
 
@@ -135,13 +135,13 @@ the numbers dropped this week and nobody seems to get what theyre looking at. in
 
 Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
 
-6h ago
+7h ago
 
 ---
 
 **[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -159,15 +159,15 @@ CoinDesk • 15h ago
 
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
-**[Bitcoin price news: BTC's inflation-adjusted peak this year less impressive than thought](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)**
+**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
 
-CoinDesk • 1d ago
+CoinDesk • 18h ago
 
 ---
 
@@ -183,15 +183,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 8h ago
-
----
-
-**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
-
-Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
-
-The Guardian • 1d ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -203,9 +195,17 @@ Investopedia • 1d ago
 
 ---
 
+**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
+
+Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
+
+The Guardian • 1d ago
+
+---
+
 **[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
 
-KRON4 • 21h ago
+KRON4 • 22h ago
 
 ---
 
@@ -245,6 +245,12 @@ How much of a resource hog is AI?
 
 ---
 
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
+
+⬆️ 1 • 💬 0 • 4m ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+
+---
+
 **[Show HN: I Built a US Grid Telemetry API Using Azure Functions and Python](https://news.ycombinator.com/item?id=46366037)**
 
 Contribute to Norris-Eng/gridwatch-kill-switch development by creating an account on GitHub.
@@ -257,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 76 • 💬 36 • 11h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 76 • 💬 36 • 12h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -287,7 +293,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 14K • 👍 241 • 💬 148 • ⏱️ 8:19 • 14h ago
+👁️ 14K • 👍 241 • 💬 148 • ⏱️ 8:19 • 15h ago
 
 ---
 
@@ -367,7 +373,7 @@ Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the cryp
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 322 • 💬 13 • ⏱️ 58:02 • 11h ago
+👁️ 5K • 👍 322 • 💬 13 • ⏱️ 58:02 • 12h ago
 
 ---
 
