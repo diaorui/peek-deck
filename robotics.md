@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T19:16:13.258843+00:00'
+updated: '2025-12-25T19:30:31.473099+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 19:16 UTC  
+**Last Updated:** December 25, 2025 at 19:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ Wishing everyone a happy Christmas holiday.
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de 
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-14h ago
+15h ago
 
 ---
 
@@ -218,7 +218,7 @@ Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the 
 
 📺 Defense Digest
 
-👁️ 619 • 👍 25 • ⏱️ 0:22 • 1h ago
+👁️ 619 • 👍 25 • ⏱️ 0:22 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #
 
 📺 Manni-Gaming
 
-👁️ 1K • 👍 131 • 💬 26 • ⏱️ 12:08 • 2h ago
+👁️ 1K • 👍 131 • 💬 26 • ⏱️ 12:08 • 3h ago
 
 ---
 

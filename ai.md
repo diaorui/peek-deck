@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T19:16:13.241018+00:00'
+updated: '2025-12-25T19:30:31.455205+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- social
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 19:16 UTC  
+**Last Updated:** December 25, 2025 at 19:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -153,7 +153,7 @@ Axios • 6h ago
 
 Microsoft Copilot picks all of the NFL Week 17 games after going 12-4 predicting the results of the previous week's contests.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 166 • 💬 94 • 19h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 166 • 💬 94 • 20h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -243,7 +243,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 82 • 💬 42 • 4h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 82 • 💬 42 • 5h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -259,13 +259,13 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 66 • 💬 90 • 15h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 66 • 💬 90 • 16h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 37 • 💬 22 • 14h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 37 • 💬 22 • 15h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -375,7 +375,7 @@ The cow saves bus from accident #ai​ #cow​ #rescue​ #viral Disclaimer: Thi
 
 📺 NexoLoop Ai
 
-👁️ 75K • 💬 6 • ⏱️ 0:20 • 17h ago
+👁️ 75K • 💬 6 • ⏱️ 0:20 • 18h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 448 • 45m ago
+⭐ 3.5k • 🔱 448 • 59m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 208 • 56m ago
+⭐ 3.0k • 🔱 208 • 1h ago
 
 ---
 
@@ -696,7 +696,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 219 • 3h ago
+⭐ 1.3k • 🔱 219 • 4h ago
 
 ---
 
@@ -716,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 108 • 9h ago
+⭐ 1.2k • 🔱 108 • 10h ago
 
 ---
 

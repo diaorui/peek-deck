@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T19:16:13.249521+00:00'
+updated: '2025-12-25T19:30:31.463705+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 19:16 UTC  
+**Last Updated:** December 25, 2025 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.2%  
-**30d:** -2.5%  
-**90d:** -19.4%  
-**1y:** -7.8%  
+**24h:** +0.6%  
+**7d:** -0.1%  
+**30d:** -2.7%  
+**90d:** -19.6%  
+**1y:** -8.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,13 +93,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
 
-1h ago
+2h ago
 
 ---
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-45m ago
+59m ago
 
 ---
 
@@ -111,7 +111,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-15m ago
+29m ago
 
 ---
 
@@ -139,7 +139,7 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 At some point, you stop laughing. And you just nod.
 
-5h ago
+6h ago
 
 ---
 
@@ -151,13 +151,13 @@ At some point, you stop laughing. And you just nod.
 
 Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
 
-CCN.com • 48m ago
+CCN.com • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ Investopedia • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 22h ago
+KITCO • 23h ago
 
 ---
 
