@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T07:00:16.369473+00:00'
+updated: '2025-12-25T07:30:41.126194+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 07:00 UTC  
+**Last Updated:** December 25, 2025 at 07:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,073.39
+### $87,611.94
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -0.5%  
-**30d:** -3.1%  
-**90d:** -19.9%  
-**1y:** -8.5%  
+**24h:** +1.3%  
+**7d:** -0.3%  
+**30d:** -2.9%  
+**90d:** -19.7%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1751.48B
+**Market Cap:** $1751.84B
 Rank #1
 
-**Circulating Supply:** 19,966,771 BTC
+**Circulating Supply:** 19,966,834 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.4%
 
 **All-Time Low:** $67.81
-+129283.6%
++129307.2%
 
 ---
 
@@ -93,13 +93,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-4h ago
-
----
-
-**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
-
-22h ago
+5h ago
 
 ---
 
@@ -109,9 +103,15 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 ---
 
+**[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
+
+22h ago
+
+---
+
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1pv1yfc/iykyk/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -120,6 +120,14 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
 13h ago
+
+---
+
+**[So you’re telling me Bitcoin is seriously capped at ~7 TPS?](https://www.reddit.com/r/Bitcoin/comments/1pv5kde/so_youre_telling_me_bitcoin_is_seriously_capped/)**
+
+Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
+
+2h ago
 
 ---
 
@@ -133,35 +141,13 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 Hi everyone, As a Christmas gift to the community, I wanted to share a project I've been working on: The complete algebraic reconstruction of the Genesis Block Preimage. While everyone knows the hash 000000000019d6..., few have looked at the raw 80-byte header as a mathematical system. Using a constraint-based solver (The Kaoru Bridge Solver), I have mapped out the internal message schedule ($W_0$ to $W_{63}$) that leads to that legendary hash. The "Satoshi DNA" (80-byte Hex): 0100000000000000000000000000000000000000000000000000000000000000000000003ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f49ffff001d1dac2b7c Verification: If you run this through a double SHA-256 (Little Endian), it yields the exact Genesis Hash with its 10 leading zeros. Why is this interesting? It's a deep dive into the entropy Satoshi chose. It confirms the exact structure of the first 512 bits of the blockchain and proves that the message schedule can be unwound using bitwise consistency analysis. Open Source Proof: Notebook & Solver:https://osf.io/f2gd8 Hash Collision Proof:https://osf.io/8x6un/files/fqazs Bitcoin’s math is beautiful and, as it turns out, fully reconstructible if you know where to look. Happy Holidays!
 
-9h ago
-
----
-
-**[Waiting for the Christmas Rally Be Like](https://www.reddit.com/r/Bitcoin/comments/1puxdyp/waiting_for_the_christmas_rally_be_like/)**
-
-9h ago
+10h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[BTC News: Donald Trump owned media firm moves 2,000 bitcoin, worth $174 million](https://www.coindesk.com/business/2025/12/24/trump-media-shuffles-2-000-btc-after-fresh-bitcoin-inflows)**
-
-The movement follows inflows into wallets tied to Trump Media, implying the company is actively managing its bitcoin position rather than leaving it static.
-
-CoinDesk • 18h ago
-
----
-
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
-
-Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
-
-The Motley Fool • 11h ago
-
----
 
 **[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
@@ -171,37 +157,25 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
 
-Reuters • 16h ago
+Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
----
-
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
-
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
-
-Investopedia • 1d ago
-
----
-
-**[Bitcoin’s buzz is gone. Investors chose real gold in 2025 | Nils Pratley](https://www.theguardian.com/business/nils-pratley-on-finance/2025/dec/23/bitcoin-buzz-gone-investors-chose-real-gold-in-2025)**
-
-Gold is up 70% while the cryptocurrency is down 6% after it failed to bounce back from a rapid October sell-off
-
-The Guardian • 1d ago
-
----
-
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
-
-KRON4 • 1d ago
+The Motley Fool • 12h ago
 
 ---
 
 **[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-The Block • 21h ago
+The Block • 22h ago
+
+---
+
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+
+CoinDesk • 33m ago
 
 ---
 
@@ -213,11 +187,37 @@ The Motley Fool • 1d ago
 
 ---
 
-**[BlackRock names bitcoin ETF a top 2025 theme despite price slump](https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump)**
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.
+Reuters • 17h ago
 
-CoinDesk • 2d ago
+---
+
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+
+Investopedia • 1d ago
+
+---
+
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 1d ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[CEO of South Philadelphia Bitcoin mining company defrauded investors out of $48.5 million, regulators say](https://www.inquirer.com/crime/vbit-technologies-bitcoin-mining-sec-fraud-dahn-vo-20251223.html)**
+
+Dahn C. Vo, founder of the now-defunct VBit Technologies Corp. based in South Philly, was accused by the SEC of misappropriating more than $48 million of investor funds in a nationwide scheme.
+
+Inquirer.com • 1d ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 2d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 16h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 17h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -263,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 78 • 💬 36 • 14h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 79 • 💬 36 • 15h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 201 • ⏱️ 13:26 • 1d ago
+👁️ 27K • 👍 2K • 💬 201 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 248 • 💬 50 • ⏱️ 1:12 • 10h ago
+👁️ 10K • 👍 281 • 💬 50 • ⏱️ 1:12 • 10h ago
 
 ---
 
@@ -313,37 +313,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 15K • 👍 250 • 💬 150 • ⏱️ 8:19 • 17h ago
-
----
-
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
-
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 90K • 👍 4K • 💬 414 • ⏱️ 20:46 • 1d ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 41K • 👍 2K • 💬 455 • ⏱️ 10:51 • 1d ago
-
----
-
-**[The volatility of bitcoin has actually been coming down, says Anthony Pompliano](https://www.youtube.com/watch?v=7AB9Fnqe_Sw)**
-
-Anthony Pompliano, Professional Capital Management founder and CEO, joins 'Squawk Box' to discuss the latest bitcoin price ...
-
-📺 CNBC Television
-
-👁️ 30K • 👍 357 • 💬 215 • ⏱️ 5:23 • 1d ago
+👁️ 17K • 👍 264 • 💬 179 • ⏱️ 8:19 • 18h ago
 
 ---
 
@@ -353,17 +323,37 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 168 • 💬 25 • ⏱️ 7:13 • 6h ago
+👁️ 3K • 👍 211 • 💬 44 • ⏱️ 7:13 • 7h ago
 
 ---
 
-**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=UgLJaiGy5-o)**
+**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
 
-00:00 In this video 00:12 Bitcoin: Bearish Market Structure 01:26 Bitcoin: Bullish Divergence 02:31 Bitcoin: Support & Resistance ...
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
 
-📺 Road To $1 Million USD
+📺 Mark Moss
 
-👁️ 2K • 👍 145 • 💬 50 • ⏱️ 5:52 • 9h ago
+👁️ 92K • 👍 4K • 💬 420 • ⏱️ 20:46 • 1d ago
+
+---
+
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 3K • 💬 457 • ⏱️ 10:51 • 1d ago
+
+---
+
+**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+
+Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
+
+📺 Altcoin Daily
+
+👁️ 20K • 👍 1K • 💬 108 • ⏱️ 37:34 • 10h ago
 
 ---
 
@@ -373,17 +363,27 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 37K • 👍 2K • 💬 202 • ⏱️ 20:00 • 1d ago
+👁️ 38K • 👍 2K • 💬 202 • ⏱️ 20:00 • 1d ago
 
 ---
 
-**[2026 Midterms Could Push Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=UgLJaiGy5-o)**
 
-Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
+00:00 In this video 00:12 Bitcoin: Bearish Market Structure 01:26 Bitcoin: Bullish Divergence 02:31 Bitcoin: Support & Resistance ...
 
-📺 Altcoin Daily
+📺 Road To $1 Million USD
 
-👁️ 16K • 👍 1K • 💬 91 • ⏱️ 37:34 • 9h ago
+👁️ 3K • 👍 162 • 💬 71 • ⏱️ 5:52 • 9h ago
+
+---
+
+**[2026 Bitcoin Warning: The New Price Floor Revealed](https://www.youtube.com/watch?v=OV9nYbOB0wQ)**
+
+Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the crypto landscape has fundamentally shifted. In today's ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 329 • 💬 33 • ⏱️ 58:02 • 14h ago
 
 ---
 

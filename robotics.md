@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T07:00:16.378696+00:00'
+updated: '2025-12-25T07:30:41.135535+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 07:00 UTC  
+**Last Updated:** December 25, 2025 at 07:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ Paper: Olaf: Bringing an Animated Character to Life in the Physical World arXiv:
 
 Not sure if this is the right place but I thought I'd ask. Does anyone have a URDF for this robot arm: https://www.waveshare.com/robot-arm-for-pi.htm? I thought I'd look around before trying to make one but I haven't found anything yet.
 
-7h ago
+8h ago
 
 ---
 
@@ -122,22 +122,6 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
-
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
-
-New Atlas • 17h ago
-
----
-
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 3d ago
-
----
-
 **[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
@@ -154,9 +138,25 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
 
-Tech Xplore • 1d ago
+Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Hyundai's Boston Dynamics to debut new Atlas humanoid robots at CES](https://www.reuters.com/business/retail-consumer/hyundais-boston-dynamics-debut-new-atlas-humanoid-robots-ces-2025-12-22/)**
+
+Reuters • 3d ago
+
+---
+
+**[It's official—China deploys humanoid robots at border crossings and commits to round-the-clock surveillance and logistics](https://eladelantado.com/en/humanoid-robot-china/)**
+
+China has been teaching humanoid robots in its country's decision-making rooms for years. Now they have been taken to a much more practical, albeit dystopian,
+
+El Adelantado • 2d ago
 
 ---
 
@@ -168,25 +168,27 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
-Investor's Business Daily • 15h ago
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
----
-
-**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
-
-Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
-
-Yahoo Finance • 2d ago
+Interesting Engineering • 18h ago
 
 ---
 
-**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
+**[European firm to deploy humanoid robots in semiconductor production for first time](https://interestingengineering.com/ai-robotics/humanoid-robots-to-join-chip-production-factories)**
 
-Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
+Swiss semiconductor firm STMicroelectronics has signed an agreement with Oversonic Robotics to deploy cognitive robots in factories.
 
-Futura, Le média qui explore le monde • 1d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
+
+Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
+
+hyundai.com • 3d ago
 
 ---
 
@@ -210,7 +212,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 49K • 👍 826 • 💬 85 • ⏱️ 2:08:46 • 5d ago
+👁️ 49K • 👍 828 • 💬 93 • ⏱️ 2:08:46 • 5d ago
 
 ---
 
@@ -220,7 +222,7 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 64K • 👍 939 • 💬 263 • ⏱️ 31:49 • 6d ago
+👁️ 65K • 👍 946 • 💬 260 • ⏱️ 31:49 • 6d ago
 
 ---
 
@@ -230,17 +232,27 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 5K • 👍 267 • 💬 76 • ⏱️ 49:59 • 2d ago
+👁️ 5K • 👍 268 • 💬 78 • ⏱️ 49:59 • 2d ago
 
 ---
 
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
+**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
 
-She Bought Two Robots    #shorts#trending.
+Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
 
-📺 Facto_Satish
+📺 The Capital AI
 
-👁️ 14K • 💬 2 • ⏱️ 0:27 • 3h ago
+👁️ 181K • 👍 3K • 💬 670 • ⏱️ 2:23 • 4d ago
+
+---
+
+**[I Made a Self Aware Robot - EXPLAINED](https://www.youtube.com/watch?v=EQEkwqvkyFI)**
+
+LIGHTSAREOFF AZFK MERCH! https://azfk-shop.fourthwall.com/ Donate to the Cult for exclusive behind the Scenes Access ...
+
+📺 AZFK
+
+👁️ 214K • 👍 11K • 💬 670 • ⏱️ 13:43 • 6d ago
 
 ---
 
@@ -254,23 +266,11 @@ Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynam
 
 ---
 
-**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
 
-Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+📺 XRoboHub
 
-📺 The Capital AI
-
-👁️ 176K • 👍 3K • 💬 654 • ⏱️ 2:23 • 4d ago
-
----
-
-**[War Robots - Pathfinder Secrets Revealed! WR Pathfinder Guide](https://www.youtube.com/watch?v=ivde5tlMMds)**
-
-War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over what Specialization track I use with Pathfinder along ...
-
-📺 Adrian Chong
-
-👁️ 3K • 👍 236 • 💬 54 • ⏱️ 16:20 • 16h ago
+👁️ 216K • 👍 4K • 💬 505 • ⏱️ 0:51 • 4d ago
 
 ---
 
@@ -280,15 +280,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 16K • 👍 289 • 💬 34 • ⏱️ 13:55 • 1d ago
+👁️ 17K • 👍 303 • 💬 35 • ⏱️ 13:55 • 1d ago
 
 ---
 
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+**[War Robots - Pathfinder Secrets Revealed! WR Pathfinder Guide](https://www.youtube.com/watch?v=ivde5tlMMds)**
 
-📺 XRoboHub
+War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over what Specialization track I use with Pathfinder along ...
 
-👁️ 215K • 👍 4K • 💬 505 • ⏱️ 0:51 • 4d ago
+📺 Adrian Chong
+
+👁️ 4K • 👍 246 • 💬 57 • ⏱️ 16:20 • 17h ago
 
 ---
 

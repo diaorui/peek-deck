@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T07:00:16.361132+00:00'
+updated: '2025-12-25T07:30:41.117819+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- repositories
 - videos
 - news
-- repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 07:00 UTC  
+**Last Updated:** December 25, 2025 at 07:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 “All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
 
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 23h ago
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 1d ago
 
 ---
 
@@ -65,7 +65,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 Reddit has been my inspiration for many years. While I’m still learning the ropes of building a public website, I created DreyX.com out of a simple necessity: I wanted a better way to track AI news without all the fluff. Literally a tool built by a curious reader, for curious readers. Thoughts? Suggestions?
 
-42m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7
 
 I cant find a single thing it does better
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
-🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 13h ago
+🔗 [Gist](https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940) • 14h ago
 
 ---
 
@@ -127,31 +127,45 @@ CNBC • 10h ago
 
 ---
 
-**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
-
-Financial Times • 7h ago
+The New York Times • 7h ago
 
 ---
 
-**[Nvidia expands AI empire with Groq licensing deal, poaching startup’s top execs](https://nypost.com/2025/12/24/business/nvidia-expands-ai-empire-with-groq-licensing-deal-poaching-startups-top-execs/)**
+**[Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)**
 
-Groq more than doubled its valuation to $6.9 billion, from $2.8 billion in August last year, following a $750 million funding round in September.
+With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
 
-New York Post • 7h ago
+TechCrunch • 9h ago
 
 ---
 
 **[Trump Administration Downplays A.I. Risks, Ignoring Economists’ Concerns](https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
+
+---
+
+**[‘We’re not stopping’: Pa. lawmakers rankled by Trump order on states and AI](https://www.post-gazette.com/news/politics-state/2025/12/24/pennsylvania-trump-ai-ciresi-pisciottano/stories/202512240068)**
+
+HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
+
+Pittsburgh Post-Gazette • 12h ago
+
+---
+
+**[This is Europe’s secret weapon against Trump: it could burst his AI bubble | Johnny Ryan](https://www.theguardian.com/commentisfree/2025/dec/17/europe-donald-trump-ai-bubble-us-economy-eu)**
+
+Growth in the US economy – and the president’s political survival – rest on AI. The EU must use its leverage and stand up to him, says the Irish Council for Civil Liberties’ Johnny Ryan
+
+The Guardian • 7d ago
 
 ---
 
 **[Is The AI Job Apocalypse Real Or Overhyped?](https://www.forbes.com/sites/bernardmarr/2025/12/25/is-the-ai-job-apocalypse-real-or-overhyped/)**
 
-Forbes • 30m ago
+Forbes • 1h ago
 
 ---
 
@@ -159,7 +173,7 @@ Forbes • 30m ago
 
 AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -167,7 +181,7 @@ CNBC • 1h ago
 
 A video of a child crying over her broken A.I. chatbot stirred up conversation in China, with some viewers questioning whether the gadgets are good for children. But the girl’s father says it’s more than a toy; it’s a family member.
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -175,23 +189,7 @@ The New York Times • 1h ago
 
 It's one of humanity's scariest what-ifs – that the technology we develop to make our lives better develops a will of its own.
 
-ScienceAlert • 19h ago
-
----
-
-**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
-
-This year saw new AI models, transformative products and new breakthroughs in science and robotics.
-
-blog.google • 1d ago
-
----
-
-**[The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/)**
-
-Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.
-
-WIRED • 20h ago
+ScienceAlert • 20h ago
 
 ---
 
@@ -203,7 +201,7 @@ WIRED • 20h ago
 
 Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
 
-⬆️ 803 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
+⬆️ 804 • 💬 469 • 2d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
 
 ---
 
@@ -211,7 +209,7 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-⬆️ 456 • 💬 268 • 9h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
+⬆️ 469 • 💬 272 • 10h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
 
 ---
 
@@ -219,7 +217,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 315 • 💬 306 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 316 • 💬 306 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -227,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 273 • 💬 87 • 13h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 287 • 💬 91 • 13h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -235,7 +233,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 241 • 💬 249 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 242 • 💬 249 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -244,12 +242,6 @@ The quest to run large AI models locally on an individual's machine are driving 
 My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don’t have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career convincing terminals they are actually GUIs.
 
 ⬆️ 224 • 💬 75 • 2d ago • [Will McGugan](https://willmcgugan.github.io/toad-released/)
-
----
-
-**[I announced my divorce on Instagram and then AI impersonated me](https://news.ycombinator.com/item?id=46352004)**
-
-⬆️ 195 • 💬 216 • 2d ago • [eiratansey.com](https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/)
 
 ---
 
@@ -263,7 +255,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 77 • 💬 37 • 7h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 87 • 💬 39 • 8h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -271,7 +263,15 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 56 • 💬 58 • 3h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 56 • 💬 66 • 4h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+
+---
+
+**[Silicon Valley's tone-deaf take on the AI backlash will matter in 2026](https://news.ycombinator.com/item?id=46380730)**
+
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
+
+⬆️ 49 • 💬 7 • 7h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -279,13 +279,23 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 ## YouTube Videos: "ai"
 
+**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
+
+Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
+
+📺 Jack Morgan RLP 2.0
+
+👁️ 24K • 👍 1K • 💬 561 • ⏱️ 11:28 • 1d ago
+
+---
+
 **[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
 
 I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
 
 📺 Kelly Boesch AI Art
 
-👁️ 21K • 👍 1K • 💬 69 • ⏱️ 3:00 • 16h ago
+👁️ 23K • 👍 1K • 💬 69 • ⏱️ 3:00 • 17h ago
 
 ---
 
@@ -295,75 +305,17 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 31 • 💬 6 • ⏱️ 11:02 • 13h ago
+👁️ 1K • 👍 32 • 💬 7 • ⏱️ 11:02 • 13h ago
 
 ---
 
-**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
+**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
 
-Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
+The robot uprising has already happened, and instead of an apocalyptic war its just boring sludge everywhere. Links: My Patreon: ...
 
-📺 Jack Morgan RLP 2.0
+📺 Lily Simpson
 
-👁️ 23K • 👍 1K • 💬 563 • ⏱️ 11:28 • 1d ago
-
----
-
-**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
-
-Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
-
-📺 Greg Isenberg
-
-👁️ 18K • 👍 479 • 💬 60 • ⏱️ 18:48 • 2d ago
-
----
-
-**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
-
-To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
-
-📺 How Money Works
-
-👁️ 483K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
-
----
-
-**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
-
-📺 Maggie McGaugh
-
-👁️ 199K • 👍 8K • 💬 61 • ⏱️ 1:07 • 1d ago
-
----
-
-**[A.I. 2Pac - Held You High [A.I. Voice Conversion]](https://www.youtube.com/watch?v=YuBs20pu7Bg)**
-
-Original (non voice-transformed) on all platforms: Written by: dopfunk Produced by: dopfunk Sung and Performed by: Liam A.I. ...
-
-📺 dopfunk
-
-👁️ 6K • 👍 590 • 💬 64 • ⏱️ 3:53 • 1d ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 74K • 👍 3K • 💬 372 • ⏱️ 30:43 • 1d ago
-
----
-
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
-
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
-
-📺 AI Explained
-
-👁️ 57K • 👍 3K • 💬 362 • ⏱️ 33:27 • 1d ago
+👁️ 6K • 👍 960 • 💬 169 • ⏱️ 24:19 • 16h ago
 
 ---
 
@@ -373,7 +325,57 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 7K • 👍 378 • 💬 31 • ⏱️ 8:00 • 20h ago
+👁️ 9K • 👍 389 • 💬 33 • ⏱️ 8:00 • 21h ago
+
+---
+
+**[Former OpenAI Safety Researcher Blows Whistle on AI Psychosis](https://www.youtube.com/watch?v=W8kHdG5ldmo)**
+
+Why should we assume that AI is safe? As the technology has grown at an alarming rate, companies like OpenAI have seen ...
+
+📺 Adam Conover
+
+👁️ 11K • 👍 668 • 💬 304 • ⏱️ 1:37:17 • 16h ago
+
+---
+
+**[What Everyone Gets Wrong About the AI Bubble](https://www.youtube.com/watch?v=Wcv0600V5q4)**
+
+How technology hype actually forms, what people get wrong about AI, and why the question isn't “is AI a bubble?” but whether the ...
+
+📺 Maxinomics
+
+👁️ 250K • 👍 14K • 💬 3K • ⏱️ 21:43 • 2d ago
+
+---
+
+**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
+
+Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
+
+📺 Greg Isenberg
+
+👁️ 18K • 👍 483 • 💬 60 • ⏱️ 18:48 • 2d ago
+
+---
+
+**[A.I. 2Pac - Held You High [A.I. Voice Conversion]](https://www.youtube.com/watch?v=YuBs20pu7Bg)**
+
+Original (non voice-transformed) on all platforms: Written by: dopfunk Produced by: dopfunk Sung and Performed by: Liam A.I. ...
+
+📺 dopfunk
+
+👁️ 6K • 👍 596 • 💬 65 • ⏱️ 3:53 • 1d ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 58K • 👍 3K • 💬 365 • ⏱️ 33:27 • 1d ago
 
 ---
 
@@ -389,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 2,719 • ❤️ 820 • 1d ago
+⬇️ 2,719 • ❤️ 824 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 11,944 • ❤️ 688 • 5d ago
+⬇️ 11,944 • ❤️ 690 • 5d ago
 
 ---
 
@@ -413,7 +415,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 384,826 • ❤️ 3,405 • 16d ago
+⬇️ 384,826 • ❤️ 3,408 • 16d ago
 
 ---
 
@@ -425,7 +427,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 24,883 • ❤️ 573 • 6d ago
+⬇️ 24,883 • ❤️ 575 • 6d ago
 
 ---
 
@@ -449,7 +451,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,398 • ❤️ 433 • 6d ago
+⬇️ 3,398 • ❤️ 434 • 6d ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 287 • 6d ago
+⬇️ 0 • ❤️ 290 • 6d ago
 
 ---
 
@@ -495,7 +497,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 14,184 • ❤️ 439 • 7d ago
+⬇️ 14,184 • ❤️ 441 • 7d ago
 
 ---
 
@@ -673,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 22m ago
+⭐ 2.9k • 🔱 205 • 52m ago
 
 ---
 
@@ -683,7 +685,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 382 • 18d ago
+⭐ 2.0k • 🔱 382 • 19d ago
 
 ---
 
@@ -733,7 +735,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 855 • 🔱 41 • 13h ago
+⭐ 855 • 🔱 41 • 14h ago
 
 ---
 
