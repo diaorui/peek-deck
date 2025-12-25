@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T17:27:11.209231+00:00'
+updated: '2025-12-25T17:44:09.594241+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 17:27 UTC  
+**Last Updated:** December 25, 2025 at 17:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.1%  
-**30d:** -2.6%  
-**90d:** -19.4%  
-**1y:** -7.9%  
+**24h:** +0.5%  
+**7d:** -0.2%  
+**30d:** -2.8%  
+**90d:** -19.7%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.38B
+**Market Cap:** $1756.83B
 Rank #1
 
-**Circulating Supply:** 19,966,996 BTC
+**Circulating Supply:** 19,967,006 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.2%
 
 **All-Time Low:** $67.81
-+129770.2%
++129664.0%
 
 ---
 
@@ -87,19 +87,13 @@ Rank #1
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-4h ago
+5h ago
 
 ---
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
 2h ago
-
----
-
-**[Daily bitcoin memes until bitcoin hit’s $200k](https://www.reddit.com/r/Bitcoin/comments/1pvgob3/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
-
-1h ago
 
 ---
 
@@ -117,7 +111,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-12h ago
+13h ago
+
+---
+
+**[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
+
+16m ago
 
 ---
 
@@ -131,7 +131,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-18h ago
+19h ago
 
 ---
 
@@ -155,11 +155,9 @@ CoinDesk • 12h ago
 
 ---
 
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdLJdrdjW5_qz_7R91HaEFMSiogAT4fBV6UCRj5gNVWcTjcAmqfJl2c&gaa_ts=694d7b58&gaa_sig=rielgpM8rHNm3p24K0_cM_LzJ8etkqYncpRJFsFHzTAJcue778zbwIcWP2gjNHM6RFQRnJdUhkpeydq0-bQIpQ%3D%3D)**
 
-Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
-
-The Motley Fool • 21h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -171,17 +169,19 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-CoinDesk • 3h ago
+The Motley Fool • 22h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqebKiPNquq_-P55pKsn397gzsaMtNGY0mO-cPjXnpE212LxlbjJ3Lxe&gaa_ts=694d70f8&gaa_sig=WrWh-tp8E1NSIPeqbPEWoG2SwguLNBny31Z1NS9ZWN3vNFiif8kbUgWRmE7Q7Q2tO3XPv2TRxEicc6Xp_qUIgg%3D%3D)**
+**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
 
-The Wall Street Journal • 1d ago
+Bitcoin is missing out on the Christmas cheer.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -193,9 +193,11 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
 
-Reuters • 1d ago
+Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
+
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -205,15 +207,17 @@ KRON4 • 1d ago
 
 ---
 
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-CCN.com • 3h ago
+Reuters • 1d ago
 
 ---
 
-**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
 
-Investor's Business Daily • 2d ago
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 21h ago
 
 ---
 
@@ -259,7 +263,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 81 • 💬 36 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 82 • 💬 36 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 

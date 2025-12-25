@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T17:27:11.215188+00:00'
+updated: '2025-12-25T17:44:09.600129+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 17:27 UTC  
+**Last Updated:** December 25, 2025 at 17:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -1.1%  
+**24h:** +0.2%  
+**7d:** -1.2%  
 **30d:** -2.3%  
-**90d:** -26.4%  
-**1y:** -11.4%  
+**90d:** -26.5%  
+**1y:** -11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.74B
+**Market Cap:** $355.49B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.4%
+-40.5%
 
 **All-Time Low:** $0.43
-+680651.3%
++680099.3%
 
 ---
 
@@ -124,7 +124,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Ethereum EIP-8105 introduces a native encrypted mempool to protect users from front running, sandwich attacks, and censorship at the protocol level.
 
-🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 1d ago
+🔗 [Shutter Blog](https://blog.shutter.network/introducing-the-universal-enshrined-encrypted-mempool-eip/) • 2d ago
 
 ---
 
@@ -164,17 +164,17 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
+
+CCN.com • 2d ago
+
+---
+
 **[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
 AMBCrypto • 8h ago
-
----
-
-**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
-
-CCN.com • 2d ago
 
 ---
 
@@ -192,14 +192,6 @@ TradingView — Track All Markets • 5h ago
 
 ---
 
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
-
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
-
-Decrypt • 2d ago
-
----
-
 **[Can Ethereum leap out of its four-year shadow in 2026?](https://www.fxstreet.com/cryptocurrencies/news/ethereum-annual-price-forecast-eth-poised-for-growth-in-2026-amid-regulatory-clarity-and-institutional-adoption-202512241600)**
 
 Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
@@ -214,11 +206,17 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
 
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-CryptoSlate • 2d ago
+Decrypt • 2d ago
+
+---
+
+**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
+
+TipRanks • 2d ago
 
 ---
 

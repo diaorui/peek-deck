@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T17:27:11.200868+00:00'
+updated: '2025-12-25T17:44:09.585946+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 17:27 UTC  
+**Last Updated:** December 25, 2025 at 17:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,27 +45,19 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 ---
 
+**[CEO Swen Vincke promises an AMA to clear up Larian Studios's use of generative AI: "You’ll get the opportunity to ask us any questions you have about Divinity and our dev process directly" | Vincke kicked off an uproar earlier when he said that Larian makes use of generative AI "to explore ideas."](https://www.reddit.com/r/artificial/comments/1pvhhbg/ceo_swen_vincke_promises_an_ama_to_clear_up/)**
+
+Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
+
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 47m ago
+
+---
+
 **[Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record, according to Alex Davis, CEO of Disruptive, which led the startup’s latest financing round in September.](https://www.reddit.com/r/artificial/comments/1pv3jlg/nvidia_buying_ai_chip_startup_groqs_assets_for/)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
 🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 14h ago
-
----
-
-**[CEO Swen Vincke promises an AMA to clear up Larian Studios's use of generative AI: "You’ll get the opportunity to ask us any questions you have about Divinity and our dev process directly" | Vincke kicked off an uproar earlier when he said that Larian makes use of generative AI "to explore ideas."](https://www.reddit.com/r/artificial/comments/1pvhhbg/ceo_swen_vincke_promises_an_ama_to_clear_up/)**
-
-Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
-
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 30m ago
-
----
-
-**[Launching unlimited Veo 3.1 / Sora 2 access, giving out some free codes](https://www.reddit.com/r/artificial/comments/1pvgkuc/launching_unlimited_veo_31_sora_2_access_giving/)**
-
-Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
-
-1h ago
 
 ---
 
@@ -89,7 +81,15 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-12h ago
+13h ago
+
+---
+
+**[Launching unlimited Veo 3.1 / Sora 2 access, giving out some free codes](https://www.reddit.com/r/artificial/comments/1pvgkuc/launching_unlimited_veo_31_sora_2_access_giving/)**
+
+Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
+
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Halo Studios' recent hirings show that the team is heavily invested in generativ
 
 You can share your Al influencers' accounts, and we can discuss how to grow them faster.
 
-1h ago
+2h ago
 
 ---
 
@@ -129,23 +129,31 @@ CNBC • 20h ago
 
 ---
 
+**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
+
+World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
+
+Financial Times • 18h ago
+
+---
+
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
 The New York Times • 17h ago
 
 ---
 
-**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
+**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
-
-Financial Times • 17h ago
+Axios • 4h ago
 
 ---
 
-**[How not to use AI](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+**[NFL Week 17 predictions by Microsoft Copilot AI for every game](https://www.usatoday.com/story/sports/nfl/2025/12/25/nfl-week-17-picks-predictions-ai/87909937007/)**
 
-Axios • 4h ago
+Microsoft Copilot picks all of the NFL Week 17 games after going 12-4 predicting the results of the previous week's contests.
+
+USA Today • 26m ago
 
 ---
 
@@ -163,20 +171,6 @@ The New York Times • 1d ago
 
 ---
 
-**[Gen Z founder on 'AI anxiety' and being pigeonholed as generation shortcut: that's the 'biggest misconception'](https://fortune.com/2025/12/25/gen-z-founder-ai-anxiety-obsolescence-biggest-misconception-shortcut-lazy/)**
-
-"We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
-
-Fortune • 3h ago
-
----
-
-**[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
-
-Star Tribune • 6h ago
-
----
-
 **[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
@@ -185,11 +179,19 @@ Financial Times • 6h ago
 
 ---
 
-**[Amazon adds controversial AI facial recognition to Ring](https://www.foxnews.com/tech/amazon-adds-controversial-ai-facial-recognition-ring)**
+**[Gen Z founder on 'AI anxiety' and being pigeonholed as generation shortcut: that's the 'biggest misconception'](https://fortune.com/2025/12/25/gen-z-founder-ai-anxiety-obsolescence-biggest-misconception-shortcut-lazy/)**
 
-Amazon Ring's new facial recognition feature sparks privacy controversy as Electronic Frontier Foundation critics argue the AI upgrade expands surveillance risks.
+"We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
 
-Fox News • 5h ago
+Fortune • 3h ago
+
+---
+
+**[The AI talent wars have come for the interns](https://www.businessinsider.com/top-paying-ai-internships-fellowships-residencies-openai-anthropic-meta-google-2025-12)**
+
+OpenAI, Anthropic, Google DeepMind, and Meta are all paying top dollar to attract and develop the best new talent.
+
+Business Insider • 7h ago
 
 ---
 
@@ -201,7 +203,7 @@ Fox News • 5h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 364 • 💬 105 • 23h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 372 • 💬 105 • 23h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -209,7 +211,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 318 • 💬 308 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 318 • 💬 309 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -225,7 +227,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 159 • 💬 82 • 18h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 159 • 💬 85 • 18h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -233,7 +235,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 133 • 💬 75 • 2h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 142 • 💬 89 • 2h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -247,7 +249,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 65 • 💬 85 • 14h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 66 • 💬 87 • 14h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -255,7 +257,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 64 • 💬 19 • 17h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 66 • 💬 20 • 17h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -265,9 +267,13 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 ---
 
-**[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
+**[Asahi Linux with Sway on the MacBook Air M2](https://news.ycombinator.com/item?id=46384565)**
 
-⬆️ 31 • 💬 10 • 1d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
+I bought a MacBook Air M2.
+As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
+As of writing, also Asahi Linux doesn't support anything newer than M2.
+
+⬆️ 34 • 💬 10 • 3h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -361,7 +367,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 61K • 👍 3K • 💬 370 • ⏱️ 33:27 • 1d ago
+👁️ 61K • 👍 3K • 💬 370 • ⏱️ 33:27 • 2d ago
 
 ---
 
@@ -423,7 +429,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,421 • 17d ago
+⬇️ 395,092 • ❤️ 3,422 • 17d ago
 
 ---
 
@@ -435,7 +441,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 353 • 2d ago
+⬇️ 6,617 • ❤️ 355 • 2d ago
 
 ---
 
@@ -661,7 +667,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 445 • 1h ago
+⭐ 3.5k • 🔱 445 • 2h ago
 
 ---
 
@@ -671,7 +677,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 207 • 28m ago
+⭐ 3.0k • 🔱 207 • 45m ago
 
 ---
 

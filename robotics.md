@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T17:27:11.218348+00:00'
+updated: '2025-12-25T17:44:09.603364+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 17:27 UTC  
+**Last Updated:** December 25, 2025 at 17:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-2h ago
+3h ago
 
 ---
 
@@ -46,17 +46,17 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
+**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
+
+10h ago
+
+---
+
 **[Since DJI is getting banned, I decided to build an "evolution" of the drone (Ardupilot + Pi)](https://www.reddit.com/r/robotics/comments/1puxvyk/since_dji_is_getting_banned_i_decided_to_build_an/)**
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-19h ago
-
----
-
-**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
-
-9h ago
+20h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-15h ago
+16h ago
 
 ---
 
@@ -158,31 +158,33 @@ Investor's Business Daily • 1d ago
 
 ---
 
+**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
+
+Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
+
+Futura, Le média qui explore le monde • 2d ago
+
+---
+
 **[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
 
 Tech Xplore • 2d ago
 
 ---
 
-**[Kids Robotics STEM Workshop at Linden Library Saturday, December 27th](https://www.tapinto.net/towns/linden/sections/arts-and-entertainment/articles/kids-robotics-stem-workshop-at-linden-library-saturday-december-27th)**
+**[Pine Lake Prep Jr. Robotics Team advances to world competition](https://mooresvilletribune.com/news/local/education/article_5f3e02b9-d42f-4582-8f56-fdc9fce96409.html)**
 
-Don’t miss Linden Public Library s hands-on Robotics STEM workshop for kids this Saturday , December 27th! Register via QR code or online—spots are limited!
+FIRST LEGO League (FLL) is a friendly, competitive robotics program designed for students ages 9-14.
 
-TAPinto • 22h ago
-
----
-
-**[Wellsboro robotics clubs score at competition](https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/news/local/wellsboro-robotics-clubs-score-at-competition/article_9bd2c5d2-d349-4683-8da8-50aea3248c42.html)**
-
-WELLSBORO — Wellsboro’s high school robotics team demonstrated their growing skills at a recent competition.
-
-Tioga Publishing • 1d ago
+Mooresville Tribune • 1d ago
 
 ---
 
-**[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
+**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
 
-Phys.org • 2d ago
+Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -216,7 +218,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 67K • 💬 4 • ⏱️ 0:27 • 13h ago
+👁️ 67K • 💬 4 • ⏱️ 0:27 • 14h ago
 
 ---
 
@@ -266,7 +268,7 @@ Ukraine is revolutionizing the battlefield with a massive fleet of Unmanned Grou
 
 📺 Defense Digest
 
-👁️ 4K • 👍 208 • 💬 1 • ⏱️ 0:37 • 6h ago
+👁️ 4K • 👍 208 • 💬 1 • ⏱️ 0:37 • 7h ago
 
 ---
 
