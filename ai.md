@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T11:41:05.253406+00:00'
+updated: '2025-12-25T11:52:01.962355+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 11:41 UTC  
+**Last Updated:** December 25, 2025 at 11:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 9h ago
 
 ---
 
@@ -157,7 +157,7 @@ USA Today • 1h ago
 
 **[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
 
-Star Tribune • 39m ago
+Star Tribune • 50m ago
 
 ---
 
@@ -217,7 +217,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 328 • 💬 98 • 17h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 328 • 💬 98 • 18h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -285,27 +285,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 25K • 👍 1K • 💬 577 • ⏱️ 11:28 • 1d ago
-
----
-
-**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
-
-I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 25K • 👍 1K • 💬 74 • ⏱️ 3:00 • 21h ago
-
----
-
-**[Which Crazy Bed Would You Choose? 🦋 Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=n0ESecL3Lc8)**
-
-Which crazy bed would you choose? Relax your mind with this ultimate oddly satisfying AI ASMR experience. #WhichCrazyBed ...
-
-📺 Tina ASMR ALs
-
-👁️ 11K • 👍 394 • 💬 38 • ⏱️ 8:00 • 1d ago
+👁️ 25K • 👍 1K • 💬 580 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -315,17 +295,7 @@ Why should we assume that AI is safe? As the technology has grown at an alarming
 
 📺 Adam Conover
 
-👁️ 12K • 👍 718 • 💬 322 • ⏱️ 1:37:17 • 20h ago
-
----
-
-**[How Coders Can Actually Survive the AI Takeover in 2026](https://www.youtube.com/watch?v=Gbi5vFc-7WM)**
-
-AI is changing software engineering faster than most people expected, and I see a lot of students stuck between two extremes.
-
-📺 Sajjaad Khader
-
-👁️ 10K • 👍 431 • 💬 75 • ⏱️ 14:18 • 1d ago
+👁️ 13K • 👍 753 • 💬 335 • ⏱️ 1:37:17 • 20h ago
 
 ---
 
@@ -335,25 +305,17 @@ Today I break down a big news item I think is flying under the radar: OpenAI qui
 
 📺 Greg Isenberg
 
-👁️ 18K • 👍 486 • 💬 60 • ⏱️ 18:48 • 2d ago
+👁️ 18K • 👍 488 • 💬 60 • ⏱️ 18:48 • 2d ago
 
 ---
 
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+**[Which Crazy Bed Would You Choose? 🦋 Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=n0ESecL3Lc8)**
 
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+Which crazy bed would you choose? Relax your mind with this ultimate oddly satisfying AI ASMR experience. #WhichCrazyBed ...
 
-📺 AI Explained
+📺 Tina ASMR ALs
 
-👁️ 59K • 👍 3K • 💬 367 • ⏱️ 33:27 • 1d ago
-
----
-
-**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
-
-📺 Maggie McGaugh
-
-👁️ 213K • 👍 9K • 💬 62 • ⏱️ 1:07 • 1d ago
+👁️ 15K • 👍 399 • 💬 38 • ⏱️ 8:00 • 1d ago
 
 ---
 
@@ -363,7 +325,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 79K • 👍 3K • 💬 381 • ⏱️ 30:43 • 1d ago
+👁️ 82K • 👍 4K • 💬 386 • ⏱️ 30:43 • 1d ago
 
 ---
 
@@ -373,7 +335,47 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 492K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
+👁️ 497K • 👍 16K • 💬 3K • ⏱️ 19:40 • 1d ago
+
+---
+
+**[VanEck CEO Jan Van Eck says the ‘AI bubble already popped’](https://www.youtube.com/watch?v=2Si2XN_zWGY)**
+
+VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market and how companies are missing large macro ...
+
+📺 Fox Business
+
+👁️ 13K • 👍 211 • 💬 53 • ⏱️ 7:50 • 1d ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 59K • 👍 3K • 💬 370 • ⏱️ 33:27 • 1d ago
+
+---
+
+**[Google&#39;s FREE Tool Just DESTROYED 10 AI Subscriptions (NotebookLM Mastery)](https://www.youtube.com/watch?v=WJtnH0G8G1g)**
+
+Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://dub.sh/ai-updates-vs ...
+
+📺 Vaibhav Sisinty
+
+👁️ 84K • 👍 3K • 💬 109 • ⏱️ 16:26 • 1d ago
+
+---
+
+**[Why AI Billionaires Are Building Bunkers (2026 Warning)](https://www.youtube.com/watch?v=L96iBFXMsTE)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 92K • 👍 3K • 💬 888 • ⏱️ 6:53 • 1d ago
 
 ---
 
@@ -673,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 45m ago
+⭐ 2.9k • 🔱 205 • 56m ago
 
 ---
 

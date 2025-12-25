@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T11:41:05.262044+00:00'
+updated: '2025-12-25T11:52:01.970894+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 11:41 UTC  
+**Last Updated:** December 25, 2025 at 11:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.7%  
-**30d:** -3.3%  
-**90d:** -20.0%  
-**1y:** -8.6%  
+**24h:** -0.0%  
+**7d:** -0.9%  
+**30d:** -3.5%  
+**90d:** -20.2%  
+**1y:** -8.8%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
 
-6h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 4h ago
 
 U.S. spot Bitcoin ETFs have recorded eight consecutive days of institutional selling, with total outflows reaching approximately $825 million as year-end tax strategies dominate market behavior.According to analyst Alek, the sustained selling pressure stems primarily from tax loss harvesting. He claimed it is a temporary phenomenon expected to conclude within ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -241,7 +241,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 6h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 7h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -287,13 +287,23 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
+**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+
+Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
+
+📺 Altcoin Daily
+
+👁️ 28K • 👍 1K • 💬 168 • ⏱️ 37:34 • 14h ago
+
+---
+
 **[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
 
 2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 201 • ⏱️ 13:26 • 1d ago
+👁️ 27K • 👍 2K • 💬 202 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -303,7 +313,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 18K • 👍 269 • 💬 179 • ⏱️ 8:19 • 22h ago
+👁️ 19K • 👍 275 • 💬 196 • ⏱️ 8:19 • 22h ago
 
 ---
 
@@ -313,7 +323,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 244 • 💬 32 • ⏱️ 7:13 • 11h ago
+👁️ 5K • 👍 260 • 💬 32 • ⏱️ 7:13 • 11h ago
 
 ---
 
@@ -323,17 +333,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 302 • 💬 65 • ⏱️ 1:12 • 14h ago
-
----
-
-**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
-
-Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
-
-📺 Altcoin Daily
-
-👁️ 25K • 👍 1K • 💬 163 • ⏱️ 37:34 • 14h ago
+👁️ 13K • 👍 317 • 💬 66 • ⏱️ 1:12 • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 94K • 👍 4K • 💬 422 • ⏱️ 20:46 • 1d ago
+👁️ 96K • 👍 4K • 💬 426 • ⏱️ 20:46 • 1d ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 3K • 💬 457 • ⏱️ 10:51 • 1d ago
+👁️ 42K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 39K • 👍 2K • 💬 207 • ⏱️ 20:00 • 1d ago
+👁️ 39K • 👍 2K • 💬 208 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -373,17 +373,17 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 172 • 💬 72 • ⏱️ 5:52 • 13h ago
+👁️ 4K • 👍 182 • 💬 103 • ⏱️ 5:52 • 14h ago
 
 ---
 
-**[DOES This CONFIRM America will never Buy Bitcoin?!](https://www.youtube.com/watch?v=iZj6p5aYwz4)**
+**[Bitcoin’s Doji Moment ⏸️: Volatility Now, Breakout Into 2026🔓?](https://www.youtube.com/watch?v=YTwqB3kVWxI)**
 
-The U.S. Strategic Bitcoin Reserve was once a near-certainty—backed by powerful voices like Bo Hines and Senator Cynthia ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
 
-📺 Simply Bitcoin
+📺 InvestAnswers
 
-👁️ 7K • 👍 338 • 💬 147 • ⏱️ 25:23 • 13h ago
+👁️ 27K • 👍 3K • 💬 196 • ⏱️ 19:10 • 14h ago
 
 ---
 

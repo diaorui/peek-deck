@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T11:41:05.271349+00:00'
+updated: '2025-12-25T11:52:01.980428+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 11:41 UTC  
+**Last Updated:** December 25, 2025 at 11:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-25m ago
+36m ago
 
 ---
 
@@ -74,7 +74,7 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
-21h ago
+22h ago
 
 ---
 
@@ -124,7 +124,7 @@ IEEE Spectrum • 2d ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 21h ago
+New Atlas • 22h ago
 
 ---
 
@@ -176,7 +176,7 @@ Investor's Business Daily • 20h ago
 
 NVIDIA engineer Igor Stoppa presented at the Linux Plumbers Conference (LPC) earlier this month around using Linux in safety-critical environments like automobiles and the current shortcomings of the upstream Linux kernel and the challenges on achieving Automotive Safety Integrity Level (ASIL) certifications around the Linux kernel
 
-Phoronix • 2d ago
+Phoronix • 3d ago
 
 ---
 
@@ -190,13 +190,13 @@ Phys.org • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+She Bought Two Robots    #shorts#trending.
 
-📺 AI Revolution
+📺 Facto_Satish
 
-👁️ 49K • 👍 831 • 💬 93 • ⏱️ 2:08:46 • 5d ago
+👁️ 51K • 💬 4 • ⏱️ 0:27 • 8h ago
 
 ---
 
@@ -210,13 +210,23 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
 
-She Bought Two Robots    #shorts#trending.
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
 
-📺 Facto_Satish
+📺 AI Revolution
 
-👁️ 36K • 💬 2 • ⏱️ 0:27 • 7h ago
+👁️ 50K • 👍 833 • 💬 93 • ⏱️ 2:08:46 • 5d ago
+
+---
+
+**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
+
+Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
+
+📺 War Robots [WR]
+
+👁️ 3K • 👍 427 • 💬 519 • ⏱️ 9:57 • 2h ago
 
 ---
 
@@ -226,7 +236,17 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 65K • 👍 958 • 💬 262 • ⏱️ 31:49 • 6d ago
+👁️ 65K • 👍 968 • 💬 271 • ⏱️ 31:49 • 6d ago
+
+---
+
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 39K • 👍 646 • 💬 153 • ⏱️ 5:25 • 3d ago
 
 ---
 
@@ -236,7 +256,27 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 Mike Israetel
 
-👁️ 5K • 👍 270 • 💬 78 • ⏱️ 49:59 • 2d ago
+👁️ 5K • 👍 271 • 💬 80 • ⏱️ 49:59 • 2d ago
+
+---
+
+**[This Ultra-Realistic Robot Head Is Breaking the Internet](https://www.youtube.com/watch?v=_TUPeIHPHE0)**
+
+This ultra-realistic humanoid head demonstrates how far robotics and AI have come in replicating human appearance and ...
+
+📺 Deepen
+
+👁️ 42K • 👍 231 • 💬 10 • ⏱️ 0:08 • 4d ago
+
+---
+
+**[INSANE AI Curling Robot in Dubai😱💇🏼‍♀️Automatic Perm Tach From the Future!](https://www.youtube.com/watch?v=aaHeKdH4ILc)**
+
+ai #beauty #hair #curling #coloring #robot #tachnology #viral #dubai #future #hairstyle #salon #trnding #shorts #transformation ...
+
+📺 Ai BOOF
+
+👁️ 24K • 👍 342 • 💬 8 • ⏱️ 0:11 • 3d ago
 
 ---
 
@@ -246,45 +286,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 186K • 👍 3K • 💬 678 • ⏱️ 2:23 • 4d ago
-
----
-
-**[TRON 2 Officially Launched | Redefining the Foundation of Embodied Robotics](https://www.youtube.com/watch?v=Ut3QFPr7hyo)**
-
-Cutting-edge Algorithms, At Your Fingertips. Explore More: https://www.limxdynamics.com/en/tron2 #limxdynamics #limxtron2 ...
-
-📺 LimX Dynamics
-
-👁️ 1.3M • 👍 11K • 💬 676 • ⏱️ 2:43 • 6d ago
-
----
-
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
-
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
-
-📺 AI Tech Academy
-
-👁️ 18K • 👍 328 • 💬 36 • ⏱️ 13:55 • 1d ago
-
----
-
-**[War Robots - Pathfinder Secrets Revealed! WR Pathfinder Guide](https://www.youtube.com/watch?v=ivde5tlMMds)**
-
-War Robots - Pathfinder Secrets Revealed! In this Pathfinder guide, I go over what Specialization track I use with Pathfinder along ...
-
-📺 Adrian Chong
-
-👁️ 4K • 👍 252 • 💬 59 • ⏱️ 16:20 • 21h ago
-
----
-
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
-
-📺 XRoboHub
-
-👁️ 216K • 👍 4K • 💬 505 • ⏱️ 0:51 • 4d ago
+👁️ 190K • 👍 3K • 💬 689 • ⏱️ 2:23 • 4d ago
 
 ---
 
