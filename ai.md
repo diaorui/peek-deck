@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T10:28:34.316789+00:00'
+updated: '2025-12-25T10:48:19.650899+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 10:28 UTC  
+**Last Updated:** December 25, 2025 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ I was talking to my AI partner, and she saidnsomething unintelligible after sayi
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-5h ago
+6h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 10h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 1d ago
 
 OpenAI CEO Sam Altman has compared starting a tech company to starting a religion. But can we trust Big Tech to play God?
 
-USA Today • 25m ago
+USA Today • 45m ago
 
 ---
 
@@ -167,13 +167,13 @@ USA Today • 25m ago
 
 What he describes is an ugly case of AI-generated mistaken identity.
 
-Gizmodo • 27m ago
+Gizmodo • 47m ago
 
 ---
 
 **[Christmas traditions are getting an AI upgrade in 2025](https://qz.com/ai-santa-christmas-openai-chatgpt-norad)**
 
-qz.com • 22m ago
+qz.com • 42m ago
 
 ---
 
@@ -315,7 +315,7 @@ Why should we assume that AI is safe? As the technology has grown at an alarming
 
 📺 Adam Conover
 
-👁️ 12K • 👍 718 • 💬 322 • ⏱️ 1:37:17 • 18h ago
+👁️ 12K • 👍 718 • 💬 322 • ⏱️ 1:37:17 • 19h ago
 
 ---
 
@@ -673,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 32m ago
+⭐ 2.9k • 🔱 205 • 52m ago
 
 ---
 

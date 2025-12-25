@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T10:28:34.331796+00:00'
+updated: '2025-12-25T10:48:19.665163+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 10:28 UTC  
+**Last Updated:** December 25, 2025 at 10:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,9 +44,9 @@ Live Ethereum monitoring dashboard
 
 **24h:** -0.3%  
 **7d:** -2.2%  
-**30d:** -3.3%  
-**90d:** -27.2%  
-**1y:** -12.4%  
+**30d:** -3.4%  
+**90d:** -27.3%  
+**1y:** -12.5%  
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum is a long way from the high mark it reached in August, but it still has a strong case as an investment.
 
-The Motley Fool • 2d ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 260 • 💬 181 • ⏱️ 19:06 • 17h ago
+👁️ 6K • 👍 260 • 💬 181 • ⏱️ 19:06 • 18h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 19h ago
+👁️ 442 • 👍 17 • 💬 29 • ⏱️ 5:15 • 20h ago
 
 ---
 

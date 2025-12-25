@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T10:28:34.325621+00:00'
+updated: '2025-12-25T10:48:19.659223+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 10:28 UTC  
+**Last Updated:** December 25, 2025 at 10:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.6%  
-**30d:** -3.3%  
-**90d:** -20.0%  
-**1y:** -8.6%  
+**24h:** +0.2%  
+**7d:** -1.0%  
+**30d:** -3.6%  
+**90d:** -20.3%  
+**1y:** -8.9%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-16h ago
+17h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 5h ago
 
 Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -169,13 +169,13 @@ The Motley Fool • 14h ago
 
 Bitcoin price may rally before 2026 if gold’s strength persists, though rising exchange inflows signal cautious investor sentiment.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -243,7 +243,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 5h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 6h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
