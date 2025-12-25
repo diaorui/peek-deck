@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T16:46:01.268634+00:00'
+updated: '2025-12-25T16:59:54.390701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 16:46 UTC  
+**Last Updated:** December 25, 2025 at 16:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,412.25
+### $88,094.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.4%  
-**30d:** -2.3%  
-**90d:** -19.2%  
-**1y:** -7.6%  
+**24h:** +0.9%  
+**7d:** +0.1%  
+**30d:** -2.5%  
+**90d:** -19.4%  
+**1y:** -7.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.85B
+**Market Cap:** $1758.38B
 Rank #1
 
-**Circulating Supply:** 19,966,978 BTC
+**Circulating Supply:** 19,966,996 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.0%
+-30.2%
 
 **All-Time Low:** $67.81
-+130136.0%
++129770.2%
 
 ---
 
@@ -77,23 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[🇺🇸 SENATOR LUMMIS SAID ENCOURAGE PEOPLE TO SAVE $BTC FOR THEIR RETIREMENT AND FUTURE](https://www.reddit.com/r/Bitcoin/comments/1pvdjg5/senator_lummis_said_encourage_people_to_save_btc/)**
-
-Bitcoin #BTC #Crypto #Cryptocurrency #Retirement #Investing #FinancialFreedom #HODL #BitcoinForFuture #CryptoInvesting #BTCInvestment #Blockchain
-
-3h ago
-
----
-
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
 8h ago
-
----
-
-**[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
-
-12h ago
 
 ---
 
@@ -107,19 +93,37 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
-**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
+**[Daily bitcoin memes until bitcoin hit’s $200k](https://www.reddit.com/r/Bitcoin/comments/1pvgob3/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-21h ago
+41m ago
 
 ---
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
 14h ago
+
+---
+
+**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
+
+22h ago
+
+---
+
+**[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
+
+12h ago
+
+---
+
+**[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
+
+8h ago
 
 ---
 
@@ -131,17 +135,11 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 ---
 
-**[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
+**[At some point, it stops being a joke.](https://www.reddit.com/r/Bitcoin/comments/1pvdc6l/at_some_point_it_stops_being_a_joke/)**
 
-8h ago
+At some point, you stop laughing. And you just nod.
 
----
-
-**[Retirement](https://www.reddit.com/r/Bitcoin/comments/1pv5rtf/retirement/)**
-
-I'm not counting on the government's 70-year-old Ponzi scheme that's already paying out more than it takes in... I'm betting on magic internet money invented by a ghost in 2009. Merry Christmas, keep stacking
-
-11h ago
+3h ago
 
 ---
 
@@ -153,23 +151,7 @@ I'm not counting on the government's 70-year-old Ponzi scheme that's already pay
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
-
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 9h ago
-
----
-
-**[Binance Founder CZ Reveals Brutal Truth Behind Every 'Perfect' Bitcoin Buy](https://www.tradingview.com/news/u_today:db78ec47a094b:0-binance-founder-cz-reveals-brutal-truth-behind-every-perfect-bitcoin-buy/)**
-
-Binance Founder Changpeng Zhao has reminded crypto traders of something nobody likes to admit: the "perfect Bitcoin buy" usually feels bad at the time because it occurs when the market is characterized by fear, uncertainty and doubt, rather than when everyone is celebrating new highs.Zhao's holiday…
-
-TradingView — Track All Markets • 7h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -181,31 +163,23 @@ The Motley Fool • 21h ago
 
 ---
 
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.nasdaq.com/articles/crypto-thats-outperforming-bitcoin-501)**
+**[We Asked ChatGPT Where Bitcoin Will Be in 30 Christmases — The Answer May Shock You](https://finance.yahoo.com/news/asked-chatgpt-where-bitcoin-30-160715236.html)**
 
-Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
+In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
 
-Nasdaq • 20h ago
-
----
-
-**[The Best Performing Bitcoin and Crypto Stocks of 2025](https://finance.yahoo.com/news/best-performing-bitcoin-crypto-stocks-210103627.html)**
-
-Crypto-linked stocks had a banner start to 2025, then spent the rest of the year learning that narrative alone doesn’t compound.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 52m ago
 
 ---
 
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://finance.yahoo.com/news/bitcoin-misses-wall-street-cheer-125655514.html)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-As traditional markets move into the final days of the year with a burst of seasonal optimism, the world’s largest cryptocurrency has barely stirred.  Bitcoin is trading around $87,370, pinned in a $85,000 to $90,000 range and showing little sign of life — an asset built on hype, volatility and disruption ending the year in a standstill.  A sharp selloff in October knocked Bitcoin from records, draining momentum and leaving prices stranded.
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-Yahoo Finance • 1d ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdMVfiMaeSjJ4SlN_MHVwMgVe3EheEKH8E6ONaHf1tlXu517XvlCEio&gaa_ts=694d67d5&gaa_sig=j3Jb3BUEYphwwo2j1aHCLPUUIrsnT_GJ1Qw6k4lOI1fKxxhlCH1R3xtwDX7c6D78eM8jMzbdGQp6n5oEwhPaHA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqebKiPNquq_-P55pKsn397gzsaMtNGY0mO-cPjXnpE212LxlbjJ3Lxe&gaa_ts=694d70f8&gaa_sig=WrWh-tp8E1NSIPeqbPEWoG2SwguLNBny31Z1NS9ZWN3vNFiif8kbUgWRmE7Q7Q2tO3XPv2TRxEicc6Xp_qUIgg%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -222,6 +196,24 @@ Investopedia • 1d ago
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
 Reuters • 1d ago
+
+---
+
+**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+
+KRON4 • 1d ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 2h ago
+
+---
+
+**[Bitcoin Snubbed By Santa Rally As Strategy Braces For Storm](https://www.investors.com/news/bitcoin-price-strategy-mstr-stock-sale-crypto-buying/)**
+
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -245,7 +237,7 @@ Reuters • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 32m ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 46m ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -327,7 +319,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 349 • 💬 70 • ⏱️ 1:12 • 19h ago
+👁️ 15K • 👍 349 • 💬 70 • ⏱️ 1:12 • 20h ago
 
 ---
 

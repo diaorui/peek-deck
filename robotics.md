@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T16:46:01.276623+00:00'
+updated: '2025-12-25T16:59:54.400199+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 16:46 UTC  
+**Last Updated:** December 25, 2025 at 16:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Wishing everyone a happy Christmas holiday.
 
 Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
 
-49m ago
+1h ago
 
 ---
 
@@ -92,19 +92,19 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 
 ---
 
-**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
-
-The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
-
-1h ago
-
----
-
 **[Figure running fully autonomously, no teleop. Helix can interact with people. You can ask it questions and tell it what to do.](https://www.reddit.com/r/robotics/comments/1punrb9/figure_running_fully_autonomously_no_teleop_helix/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 1d ago
+
+---
+
+**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
+
+The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
+
+1h ago
 
 ---
 
@@ -128,11 +128,11 @@ Earth.com • 1d ago
 
 ---
 
-**[The Biggest Stories in Humanoid Robotics](https://interestingengineering.com/videos/the-biggest-stories-in-humanoid-robotics)**
+**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
-These are the top 7 humanoid robot stories on Interesting Engineering in 2025
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
-Interesting Engineering • 1h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -164,23 +164,25 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Robotics looks towards league championship](http://clreporter.com/content/robotics-looks-towards-league-championship)**
+**[Kids Robotics STEM Workshop at Linden Library Saturday, December 27th](https://www.tapinto.net/towns/linden/sections/arts-and-entertainment/articles/kids-robotics-stem-workshop-at-linden-library-saturday-december-27th)**
 
-Clear Lake Mirror Reporter • 1d ago
+Don’t miss Linden Public Library s hands-on Robotics STEM workshop for kids this Saturday , December 27th! Register via QR code or online—spots are limited!
+
+TAPinto • 21h ago
+
+---
+
+**[Wellsboro robotics clubs score at competition](https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/news/local/wellsboro-robotics-clubs-score-at-competition/article_9bd2c5d2-d349-4683-8da8-50aea3248c42.html)**
+
+WELLSBORO — Wellsboro’s high school robotics team demonstrated their growing skills at a recent competition.
+
+Tioga Publishing • 1d ago
 
 ---
 
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
 Phys.org • 2d ago
-
----
-
-**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
-
-Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
-
-Futura, Le média qui explore le monde • 2d ago
 
 ---
 
@@ -224,7 +226,7 @@ FutureTech #Robotics #LawEnforcement.
 
 📺 Skye Ocean Girl
 
-👁️ 30K • 👍 147 • 💬 6 • ⏱️ 0:19 • 3d ago
+👁️ 30K • 👍 147 • 💬 6 • ⏱️ 0:19 • 4d ago
 
 ---
 
@@ -282,7 +284,7 @@ Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all thin
 
 📺 XRoboHub
 
-👁️ 218K • 👍 4K • 💬 506 • ⏱️ 0:51 • 4d ago
+👁️ 218K • 👍 4K • 💬 506 • ⏱️ 0:51 • 5d ago
 
 ---
 

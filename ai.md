@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T16:46:01.261132+00:00'
+updated: '2025-12-25T16:59:54.382013+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - videos
 - news
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 16:46 UTC  
+**Last Updated:** December 25, 2025 at 16:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,15 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 13h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 14h ago
+
+---
+
+**[CEO Swen Vincke promises an AMA to clear up Larian Studios's use of generative AI: "You’ll get the opportunity to ask us any questions you have about Divinity and our dev process directly" | Vincke kicked off an uproar earlier when he said that Larian makes use of generative AI "to explore ideas."](https://www.reddit.com/r/artificial/comments/1pvhhbg/ceo_swen_vincke_promises_an_ama_to_clear_up/)**
+
+Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
+
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 3m ago
 
 ---
 
@@ -57,15 +65,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
 
-32m ago
-
----
-
-**[Dropped out of HS and have zero tech training](https://www.reddit.com/r/artificial/comments/1pvghln/dropped_out_of_hs_and_have_zero_tech_training/)**
-
-I'm not commenting on whether a high school or not. I'm demonstrating what can be done.... Regardless of what you have or where you've come from.
-
-36m ago
+46m ago
 
 ---
 
@@ -121,17 +121,17 @@ Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google afte
 
 ## Google News: "ai"
 
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
-
-The New York Times • 16h ago
-
----
-
 **[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 19h ago
+CNBC • 20h ago
+
+---
+
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+
+The New York Times • 16h ago
 
 ---
 
@@ -146,22 +146,6 @@ Financial Times • 17h ago
 **[How not to use AI](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
 Axios • 4h ago
-
----
-
-**[QCon AI NY 2025 - Becoming AI-Native Without Losing Our Minds To Architectural Amnesia](https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/)**
-
-Tracy Bannon's QCon AI NY 2025 talk revealed how the rise of AI agents risks amplifying common architectural failures. She emphasized the distinctions between bots, assistants, and agents, highlighting the need for governance, clear identity controls, and disciplined decision-making to address “agentic debt.” Bannon called for architects to apply foundational principles amid rapid AI adoption.
-
-infoq.com • 1h ago
-
----
-
-**[I Asked ChatGPT What Will Happen To the Stock Market If the AI Bubble Bursts](https://finance.yahoo.com/news/asked-chatgpt-happen-stock-market-145705424.html)**
-
-While no one can predict the future, I asked ChatGPT to look more deeply into the history of stock market bubbles and what might happen if the AI bubble bursts.
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -187,6 +171,12 @@ Fortune • 2h ago
 
 ---
 
+**[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
+
+Star Tribune • 5h ago
+
+---
+
 **[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
@@ -195,23 +185,23 @@ Financial Times • 5h ago
 
 ---
 
+**[Amazon adds controversial AI facial recognition to Ring](https://www.foxnews.com/tech/amazon-adds-controversial-ai-facial-recognition-ring)**
+
+Amazon Ring's new facial recognition feature sparks privacy controversy as Electronic Frontier Foundation critics argue the AI upgrade expands surveillance risks.
+
+Fox News • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
-
-**[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves](https://news.ycombinator.com/item?id=46355548)**
-
-Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming and exposed to the open internet.
-
-⬆️ 807 • 💬 469 • 3d ago • [404 Media](https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/)
-
----
 
 **[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 362 • 💬 103 • 22h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 364 • 💬 105 • 23h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -235,7 +225,15 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 152 • 💬 78 • 17h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 159 • 💬 82 • 17h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+
+---
+
+**[Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://news.ycombinator.com/item?id=46384781)**
+
+Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
+
+⬆️ 133 • 💬 75 • 2h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -249,7 +247,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 65 • 💬 83 • 13h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 65 • 💬 85 • 13h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -257,21 +255,19 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 64 • 💬 18 • 16h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 64 • 💬 19 • 16h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 36 • 💬 20 • 12h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 37 • 💬 22 • 12h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
-**[Salesforce regrets firing 4000 experienced staff and replacing them with AI](https://news.ycombinator.com/item?id=46384781)**
+**[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
 
-Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
-
-⬆️ 33 • 💬 13 • 1h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 31 • 💬 10 • 1d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 
 ---
 
@@ -427,7 +423,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,419 • 17d ago
+⬇️ 395,092 • ❤️ 3,421 • 17d ago
 
 ---
 
@@ -439,7 +435,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 352 • 2d ago
+⬇️ 6,617 • ❤️ 353 • 2d ago
 
 ---
 
@@ -455,6 +451,16 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 ---
 
+**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
+
+*NVIDIA*
+
+NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
+
+⬇️ 0 • ❤️ 300 • 6d ago
+
+---
+
 **[AWPortrait-Z](https://huggingface.co/Shakker-Labs/AWPortrait-Z)**
 
 *Shakker Labs*
@@ -467,16 +473,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 ---
 
-**[NitroGen](https://huggingface.co/nvidia/NitroGen)**
-
-*NVIDIA*
-
-NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
-
-⬇️ 0 • ❤️ 298 • 6d ago
-
----
-
 **[TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B)**
 
 *Microsoft*
@@ -485,7 +481,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 406 • 2d ago
+⬇️ 0 • ❤️ 409 • 2d ago
 
 ---
 
@@ -513,7 +509,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 39 • 💬 1 • ⭐ 1,905 • 7d ago
+▲ 42 • 💬 1 • ⭐ 1,905 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -576,7 +572,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 120 • 💬 18 • ⭐ 47,722 • 9mo ago
+▲ 121 • 💬 18 • ⭐ 47,722 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -622,17 +618,16 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[SAM Audio: Segment Anything in Audio](https://huggingface.co/papers/2512.18099)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Bowen Shi, Andros Tjandra, John Hoffman et al. (14 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-🏢 AI at Meta
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-SAM Audio, a diffusion transformer-based foundation model, achieves superior performance in general audio separation using unified text, visual, and temporal span prompts across various audio types.
+▲ 26 • 💬 1 • ⭐ 66,175 • 27mo ago
 
-▲ 11 • 💬 0 • ⭐ 2,512 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.18099) • [💻 code](https://github.com/facebookresearch/sam-audio) • [🔗 project](https://ai.meta.com/samaudio/)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -656,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 714 • 3h ago
+⭐ 6.3k • 🔱 715 • 52m ago
 
 ---
 
@@ -666,7 +661,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 443 • 1h ago
+⭐ 3.5k • 🔱 445 • 1h ago
 
 ---
 
@@ -676,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 207 • 1h ago
+⭐ 3.0k • 🔱 207 • 1m ago
 
 ---
 
@@ -686,7 +681,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.1k • 🔱 387 • 19d ago
+⭐ 2.1k • 🔱 386 • 19d ago
 
 ---
 
@@ -696,7 +691,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 218 • 1h ago
+⭐ 1.3k • 🔱 219 • 1h ago
 
 ---
 
@@ -716,7 +711,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.2k • 🔱 50 • 23h ago
+⭐ 1.2k • 🔱 52 • 23h ago
 
 ---
 
@@ -726,7 +721,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 120 • 2d ago
+⭐ 1.2k • 🔱 121 • 2d ago
 
 ---
 
