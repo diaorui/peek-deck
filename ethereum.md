@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T15:53:16.115887+00:00'
+updated: '2025-12-25T16:21:00.340704+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 15:53 UTC  
+**Last Updated:** December 25, 2025 at 16:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -0.5%  
-**30d:** -1.7%  
-**90d:** -26.0%  
-**1y:** -10.9%  
+**24h:** +0.8%  
+**7d:** -0.7%  
+**30d:** -1.9%  
+**90d:** -26.1%  
+**1y:** -11.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.92B
+**Market Cap:** $356.63B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.6%
+-40.1%
 
 **All-Time Low:** $0.43
-+678115.3%
++683921.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey friends! Phishing drainers and exploits are part and parcel of the crypto experience — so when Martinet Lee, co-founder of the Ethereum L2 Zircuit, mentioned how their chain is “an L2 with antivirus”, I was genuinely intrigued. What if it *was* possible to stop or prevent hacks before they occur? Martinet and I walked and talked about their approach to building a safer L2 for everyone: grandmas and institutions-inclusive. In the past, when people have mentioned “AI” and “crypto” in the same breath, I usually get stricken with immediate recalcitrance. But this was different. Martinet is a good friend and a respected builder in the Taiwan crypto community, so I was super stoked he wanted to spend time with me to cover: How Zircuit uses AI at the sequencer level to detect and block malicious transactions before they hit your wallet Why he sees crypto as an exit from centralized AI risks Upcoming products like gud trading engine and Zircuit Finance (cross-chain yield with no network headaches) The bigger picture: RWAs going mainstream (Bank of Taiwan integrations) and why 2026 DeFi might feel way safer Watch the full interview here: https://youtu.be/Sz1osrNYcgk Could sequencer-level AI security become some sort of standard for L2s? Or is it smokes, mirrors, and hype? Looking forward to the discussion! ——— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! <3
 
-🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 22h ago
+🔗 [youtu.be](https://youtu.be/Sz1osrNYcgk) • 23h ago
 
 ---
 
@@ -164,17 +164,31 @@ Crypto Briefing • 1d ago
 
 ---
 
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+**[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
-CCN.com • 1h ago
+Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
+
+Yahoo Finance • 2d ago
 
 ---
 
-**[Solana vs Ethereum in Tokenization: Why It’s Not Winner-Takes-All](https://finance.yahoo.com/news/solana-vs-ethereum-tokenization-why-104541706.html)**
+**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
 
-Venture firm Dragonfly says Ethereum and Solana will share, not fight over, the growing market for tokenized assets, arguing that “you can’t just have one blockchain.” ETH and SOL traded in a tight range after the comments, as both chains already attract heavy real-world asset and stablecoin activity. Behind this ...
+If history repeats, ETH could front a 45% rally in the mid-term.
 
-Yahoo Finance • 5h ago
+AMBCrypto • 7h ago
+
+---
+
+**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
+
+CCN.com • 2d ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 2h ago
 
 ---
 
@@ -182,7 +196,7 @@ Yahoo Finance • 5h ago
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -198,29 +212,13 @@ Decrypt • 2d ago
 
 Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-The Block • 1d ago
-
----
-
-**[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
-
-Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
-
-Yahoo Finance • 2d ago
-
----
-
-**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
-
-If history repeats, ETH could front a 45% rally in the mid-term.
-
-AMBCrypto • 6h ago
+The Block • 2d ago
 
 ---
 
@@ -228,23 +226,13 @@ AMBCrypto • 6h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
-
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
-
-📺 Trading Jip
-
-👁️ 253 • 👍 19 • 💬 13 • ⏱️ 7:57 • 3h ago
-
----
-
 **[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
 
 The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 107 • 💬 48 • ⏱️ 13:41 • 1d ago
+👁️ 3K • 👍 108 • 💬 48 • ⏱️ 13:41 • 1d ago
 
 ---
 
@@ -254,17 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 6 • ⏱️ 3:51 • 1d ago
-
----
-
-**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
-
-One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
-
-📺 CryptoStock Lab
-
-👁️ 2K • 👍 71 • 💬 75 • ⏱️ 13:29 • 15h ago
+👁️ 2K • 👍 111 • 💬 6 • ⏱️ 3:51 • 1d ago
 
 ---
 
@@ -274,27 +252,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
+👁️ 43K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
 
 ---
 
-**[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
 
-BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Crypto World
+📺 Brilliance Academy
 
-👁️ 7K • 👍 267 • 💬 177 • ⏱️ 19:06 • 23h ago
-
----
-
-**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 9K • 👍 461 • 💬 77 • ⏱️ 13:14 • 1d ago
+👁️ 3K • 👍 1K • 1d ago
 
 ---
 
@@ -308,23 +276,53 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
+**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
 
-📺 Brilliance Academy
+📺 CryptoStock Lab
 
-👁️ 5K • 👍 1K • 1d ago
+👁️ 3K • 👍 74 • 💬 75 • ⏱️ 13:29 • 16h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Achte auf diesen Steuer Trick! Was dann letztes Jahr passiert ist!](https://www.youtube.com/watch?v=0WsUd7UfF3o)**
+**[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
 
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 Krypto Trading & Investing
+📺 Crypto World
 
-👁️ 3K • 👍 485 • 💬 82 • ⏱️ 13:58 • 11h ago
+👁️ 7K • 👍 265 • 💬 173 • ⏱️ 19:06 • 23h ago
+
+---
+
+**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 9K • 👍 463 • 💬 71 • ⏱️ 13:14 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
+
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
+
+📺 Trading Jip
+
+👁️ 271 • 👍 24 • 💬 14 • ⏱️ 7:57 • 4h ago
+
+---
+
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 102 • 💬 304 • ⏱️ 14:58 • 2d ago
 
 ---
 

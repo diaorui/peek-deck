@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T15:53:16.119181+00:00'
+updated: '2025-12-25T16:21:00.343940+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 15:53 UTC  
+**Last Updated:** December 25, 2025 at 16:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,17 +40,17 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
+**[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
+
+4h ago
+
+---
+
 **[Since DJI is getting banned, I decided to build an "evolution" of the drone (Ardupilot + Pi)](https://www.reddit.com/r/robotics/comments/1puxvyk/since_dji_is_getting_banned_i_decided_to_build_an/)**
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
 18h ago
-
----
-
-**[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
-
-4h ago
 
 ---
 
@@ -72,7 +72,15 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-4h ago
+5h ago
+
+---
+
+**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
+
+Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
+
+24m ago
 
 ---
 
@@ -84,27 +92,19 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 
 ---
 
+**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
+
+The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
+
+57m ago
+
+---
+
 **[Figure running fully autonomously, no teleop. Helix can interact with people. You can ask it questions and tell it what to do.](https://www.reddit.com/r/robotics/comments/1punrb9/figure_running_fully_autonomously_no_teleop_helix/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 1d ago
-
----
-
-**[Are there any building systems with the same modularity as aluminum extrusions, but made of rods and screws?](https://www.reddit.com/r/robotics/comments/1puuk7h/are_there_any_building_systems_with_the_same/)**
-
-I've been using 20mm and 10mm aluminum extrusions from McMaster Carr for forever, and have been printing custom L and T-brackets to interface with them. But my next project is very tiny, and I would love to be able to join 5 and 3mm rods together nonpermanently. The only other thing I can think of is tiny rope lashings! :) If something doesn't exist and I wanted to make it, I think an additive plastic method would be difficult because I would need the resolution of resin, but the low melting point of filament, for the heat inserts I would inevitably need. What do y'all think?
-
-20h ago
-
----
-
-**[AgiBot tests before delivering to customers](https://www.reddit.com/r/robotics/comments/1pvdsgy/agibot_tests_before_delivering_to_customers/)**
-
-https://www.youtube.com/live/d17f_5dVW7I?si=USQGlzptSG_OAvI-
-
-2h ago
 
 ---
 
@@ -120,11 +120,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
-New Atlas • 1d ago
+Earth.com • 1d ago
 
 ---
 
@@ -132,7 +132,7 @@ New Atlas • 1d ago
 
 These are the top 7 humanoid robot stories on Interesting Engineering in 2025
 
-Interesting Engineering • 55m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -144,19 +144,11 @@ hyundai.com • 3d ago
 
 ---
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+**[Advancing with animals: Standout biomimicry of 2025](https://newatlas.com/science/biomimicry-developments-2025/)**
 
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-Earth.com • 1d ago
-
----
-
-**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
-
-Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
-
-South China Morning Post • 1d ago
+New Atlas • 16h ago
 
 ---
 
@@ -174,13 +166,21 @@ Tech Xplore • 2d ago
 
 **[Robotics looks towards league championship](http://clreporter.com/content/robotics-looks-towards-league-championship)**
 
-Clear Lake Mirror Reporter • 23h ago
+Clear Lake Mirror Reporter • 1d ago
 
 ---
 
 **[Robotic system synthesizes hundreds of metal complexes to find potential new antibiotic](https://phys.org/news/2025-12-robotic-hundreds-metal-complexes-potential.html)**
 
 Phys.org • 2d ago
+
+---
+
+**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
+
+Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
+
+Futura, Le média qui explore le monde • 2d ago
 
 ---
 
@@ -194,17 +194,27 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 50K • 👍 833 • 💬 93 • ⏱️ 2:08:46 • 5d ago
+👁️ 50K • 👍 836 • 💬 95 • ⏱️ 2:08:46 • 5d ago
 
 ---
 
-**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
+**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
 
-Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
+Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
 
-📺 Ai Hypex
+📺 War Robots [WR]
 
-👁️ 774K • 👍 5K • 💬 12 • ⏱️ 0:10 • 22h ago
+👁️ 11K • 👍 1K • 💬 1K • ⏱️ 9:57 • 7h ago
+
+---
+
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
+
+She Bought Two Robots    #shorts#trending.
+
+📺 Facto_Satish
+
+👁️ 67K • 💬 4 • ⏱️ 0:27 • 12h ago
 
 ---
 
@@ -218,33 +228,13 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
-
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
-
-📺 CNET
-
-👁️ 39K • 👍 648 • 💬 153 • ⏱️ 5:25 • 4d ago
-
----
-
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
-
-She Bought Two Robots    #shorts#trending.
-
-📺 Facto_Satish
-
-👁️ 59K • 💬 4 • ⏱️ 0:27 • 12h ago
-
----
-
 **[This Ultra-Realistic Robot Head Is Breaking the Internet](https://www.youtube.com/watch?v=_TUPeIHPHE0)**
 
 This ultra-realistic humanoid head demonstrates how far robotics and AI have come in replicating human appearance and ...
 
 📺 Deepen
 
-👁️ 42K • 👍 236 • 💬 12 • ⏱️ 0:08 • 4d ago
+👁️ 43K • 👍 245 • 💬 13 • ⏱️ 0:08 • 4d ago
 
 ---
 
@@ -254,27 +244,7 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 66K • 👍 979 • 💬 273 • ⏱️ 31:49 • 6d ago
-
----
-
-**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
-
-Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
-
-📺 Mike Israetel
-
-👁️ 5K • 👍 270 • 💬 83 • ⏱️ 49:59 • 2d ago
-
----
-
-**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
-
-Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
-
-📺 War Robots [WR]
-
-👁️ 6K • 👍 602 • 💬 801 • ⏱️ 9:57 • 6h ago
+👁️ 66K • 👍 995 • 💬 278 • ⏱️ 31:49 • 6d ago
 
 ---
 
@@ -284,7 +254,35 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 194K • 👍 3K • 💬 697 • ⏱️ 2:23 • 4d ago
+👁️ 200K • 👍 3K • 💬 697 • ⏱️ 2:23 • 5d ago
+
+---
+
+**[Ukraine’s Robotic Army!](https://www.youtube.com/watch?v=mqfmnNHvlaU)**
+
+Ukraine is revolutionizing the battlefield with a massive fleet of Unmanned Ground Vehicles (UGVs). By 2025, nearly 15000 of ...
+
+📺 Defense Digest
+
+👁️ 4K • 👍 208 • 💬 1 • ⏱️ 0:37 • 5h ago
+
+---
+
+**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
+
+Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
+
+📺 Mike Israetel
+
+👁️ 5K • 👍 272 • 💬 83 • ⏱️ 49:59 • 2d ago
+
+---
+
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+
+📺 XRoboHub
+
+👁️ 218K • 👍 4K • 💬 506 • ⏱️ 0:51 • 4d ago
 
 ---
 
