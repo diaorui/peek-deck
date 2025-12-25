@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T18:54:35.639131+00:00'
+updated: '2025-12-25T19:16:13.249521+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - cryptocurrency
 - videos
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 18:54 UTC  
+**Last Updated:** December 25, 2025 at 19:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
+**24h:** +0.8%  
 **7d:** +0.2%  
-**30d:** -2.4%  
-**90d:** -19.3%  
+**30d:** -2.5%  
+**90d:** -19.4%  
 **1y:** -7.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1760.99B
+**Market Cap:** $1759.48B
 Rank #1
 
-**Circulating Supply:** 19,967,006 BTC
+**Circulating Supply:** 19,967,043 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.1%
 
 **All-Time Low:** $67.81
-+129933.9%
++129864.6%
 
 ---
 
@@ -97,6 +97,12 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
+**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
+
+45m ago
+
+---
+
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
 4h ago
@@ -115,15 +121,17 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
-**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
+**[What satoshi said.](https://www.reddit.com/r/Bitcoin/comments/1pvk72y/what_satoshi_said/)**
 
-1d ago
+If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
+
+15m ago
 
 ---
 
-**[Bitcoin hasn’t built much structure between $70K and $80K. Five years of CME futures data show BTC spent just 28 trading days in that zone. Compared to hundreds of days below $70K, that means far fewer positions were built there and much weaker historical support. On-chain data from Glassnode sho](https://www.reddit.com/r/Bitcoin/comments/1pvhf6d/bitcoin_hasnt_built_much_structure_between_70k/)**
+**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-2h ago
+1d ago
 
 ---
 
@@ -135,15 +143,23 @@ At some point, you stop laughing. And you just nod.
 
 ---
 
-**[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
-
-10h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
+
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+
+Yahoo Finance • 11h ago
+
+---
+
+**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
+
+CCN.com • 48m ago
+
+---
 
 **[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
@@ -153,7 +169,7 @@ CoinDesk • 14h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeX70Rthz_ILSzhpJ-_RmYEZ_rYozpivDU-fdUI-MvzgHQ_-QH84PNk&gaa_ts=694d8674&gaa_sig=287km7pv_C0LXrY5qHWbZ2XtL5vX01WV_3H_pnnNldCMHpx-9pTYKU_ceiZrbUmB4i2G9-XEvHpFEmwO-HrOWw%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfAxTgM7ARSZRbcsGNTqpJaNJMgbadAxQV_SjdKSyw6PbMn_IlhOFV4&gaa_ts=694d90e7&gaa_sig=jgErIn6nYULYRfTh_7EtCYjId5aSBexOf0cHvIAB4IMdXNCAOsVExKD8Nqpty_wA2TH50CfCDq600GoXR6CpaA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -163,7 +179,15 @@ The Wall Street Journal • 1d ago
 
 In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Where Will Bitcoin Be in 10 Years?](https://www.fool.com/investing/2025/12/25/where-will-bitcoin-be-in-10-years/)**
+
+Bitcoin turned a $10,000 starting investment into $2 million over the past decade, a gain that isn't going to repeat.
+
+The Motley Fool • 7h ago
 
 ---
 
@@ -171,7 +195,7 @@ Yahoo Finance • 2h ago
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -183,20 +207,6 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
-
-Reuters • 1d ago
-
----
-
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.nasdaq.com/articles/crypto-thats-outperforming-bitcoin-501)**
-
-Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
-
-Nasdaq • 23h ago
-
----
-
 **[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
@@ -205,15 +215,9 @@ KITCO • 22h ago
 
 ---
 
-**[Grubhub users report real-looking emails, notifications urging them to ‘send bitcoin’](https://www.kron4.com/news/grubhub-users-report-scam-emails-urging-them-to-send-bitcoin/)**
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-KRON4 • 1d ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 4h ago
+Reuters • 1d ago
 
 ---
 
@@ -237,7 +241,7 @@ CCN.com • 4h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 2h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 3h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -289,7 +293,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 197 • ⏱️ 37:34 • 21h ago
+👁️ 39K • 👍 2K • 💬 197 • ⏱️ 37:34 • 22h ago
 
 ---
 
@@ -309,7 +313,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 314 • 💬 34 • ⏱️ 7:13 • 18h ago
+👁️ 6K • 👍 314 • 💬 34 • ⏱️ 7:13 • 19h ago
 
 ---
 
@@ -369,7 +373,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 31K • 👍 3K • 💬 219 • ⏱️ 19:10 • 21h ago
+👁️ 31K • 👍 3K • 💬 219 • ⏱️ 19:10 • 22h ago
 
 ---
 
@@ -379,7 +383,7 @@ Yes, Bitcoin is currently experiencing significant volatility and price drops (a
 
 📺 Ricky Gutierrez
 
-👁️ 11K • 👍 514 • 💬 196 • ⏱️ 9:15 • 22h ago
+👁️ 11K • 👍 514 • 💬 196 • ⏱️ 9:15 • 23h ago
 
 ---
 

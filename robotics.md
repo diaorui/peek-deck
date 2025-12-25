@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T18:54:35.648447+00:00'
+updated: '2025-12-25T19:16:13.258843+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 18:54 UTC  
+**Last Updated:** December 25, 2025 at 19:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,23 +72,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-7h ago
-
----
-
-**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
-
-Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
-
-2h ago
-
----
-
-**[How to write a software for this Delta Robot?](https://www.reddit.com/r/robotics/comments/1pv54zb/how_to_write_a_software_for_this_delta_robot/)**
-
-All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
-
-14h ago
+8h ago
 
 ---
 
@@ -97,6 +81,22 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
 3h ago
+
+---
+
+**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
+
+Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
+
+3h ago
+
+---
+
+**[How to write a software for this Delta Robot?](https://www.reddit.com/r/robotics/comments/1pv54zb/how_to_write_a_software_for_this_delta_robot/)**
+
+All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
+
+14h ago
 
 ---
 
@@ -120,6 +120,14 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
@@ -128,39 +136,17 @@ Earth.com • 1d ago
 
 ---
 
-**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+**[Advancing with animals: Standout biomimicry of 2025](https://newatlas.com/science/biomimicry-developments-2025/)**
 
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-Interesting Engineering • 1d ago
-
----
-
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
-
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
-
-New Atlas • 1d ago
-
----
-
-**[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
-
-Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
-
-hyundai.com • 3d ago
+New Atlas • 19h ago
 
 ---
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 1d ago
-
----
-
-**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
-
-Tech Xplore • 2d ago
 
 ---
 
@@ -172,6 +158,12 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
+**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+
+Tech Xplore • 2d ago
+
+---
+
 **[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
@@ -180,11 +172,19 @@ The Daily Beast • 1d ago
 
 ---
 
-**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
+**[Kids Robotics STEM Workshop at Linden Library Saturday, December 27th](https://www.tapinto.net/towns/linden/sections/arts-and-entertainment/articles/kids-robotics-stem-workshop-at-linden-library-saturday-december-27th)**
 
-Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
+Don’t miss Linden Public Library s hands-on Robotics STEM workshop for kids this Saturday , December 27th! Register via QR code or online—spots are limited!
 
-Yahoo Finance • 3d ago
+TAPinto • 1d ago
+
+---
+
+**[Wellsboro robotics clubs score at competition](https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/news/local/wellsboro-robotics-clubs-score-at-competition/article_9bd2c5d2-d349-4683-8da8-50aea3248c42.html)**
+
+WELLSBORO — Wellsboro’s high school robotics team demonstrated their growing skills at a recent competition.
+
+Tioga Publishing • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 20K • 👍 1K • 💬 2K • ⏱️ 9:57 • 9h ago
+👁️ 20K • 👍 1K • 💬 2K • ⏱️ 9:57 • 10h ago
 
 ---
 
