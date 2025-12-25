@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T20:21:27.746890+00:00'
+updated: '2025-12-25T20:41:31.273824+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 20:21 UTC  
+**Last Updated:** December 25, 2025 at 20:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-5h ago
+6h ago
 
 ---
 
@@ -48,7 +48,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -56,7 +56,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
-22h ago
+23h ago
 
 ---
 
@@ -64,7 +64,15 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-18h ago
+19h ago
+
+---
+
+**[How do I connect my hiwonder somatosensory glove to my hiwonder robotic hand](https://www.reddit.com/r/robotics/comments/1pvlra3/how_do_i_connect_my_hiwonder_somatosensory_glove/)**
+
+I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
+
+28m ago
 
 ---
 
@@ -80,7 +88,7 @@ Wishing everyone a happy Christmas holiday.
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-4h ago
+5h ago
 
 ---
 
@@ -92,19 +100,11 @@ Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de 
 
 ---
 
-**[How to write a software for this Delta Robot?](https://www.reddit.com/r/robotics/comments/1pv54zb/how_to_write_a_software_for_this_delta_robot/)**
-
-All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
-
-15h ago
-
----
-
 **[UBTech secures $237M fenglong partnership to fortify humanoid robot supply chain.](https://www.reddit.com/r/robotics/comments/1pvl9n1/ubtech_secures_237m_fenglong_partnership_to/)**
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 31m ago
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 51m ago
 
 ---
 
@@ -136,43 +136,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
-
-: Investment and interest have outpaced technology and society
-
-theregister.com • 7h ago
-
----
-
-**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
-
-Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
-
-South China Morning Post • 1d ago
-
----
-
-**[China opens robot school to prep humanoids for factory tasks and home chores](https://interestingengineering.com/ai-robotics/china-robot-school-to-prep-humanoids)**
-
-Beijing's Humanoid Robot Data Training Center has been training robots for work using simulations of industrial and daily environments.
-
-Interesting Engineering • 1d ago
-
----
-
-**[China demo shows one whispered command could let hackers seize robots](https://interestingengineering.com/ai-robotics/security-flaw-could-allow-hackers-control-robots)**
-
-Chinese security tests show robots hacked in minutes via voice or wireless flaws, spreading attacks to other machines and raising safety fears.
-
-Interesting Engineering • 2d ago
-
----
-
 **[Advancing with animals: Standout biomimicry of 2025](https://newatlas.com/science/biomimicry-developments-2025/)**
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
 New Atlas • 20h ago
+
+---
+
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 7h ago
 
 ---
 
@@ -190,9 +166,61 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
+**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
+
+Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
+
+South China Morning Post • 1d ago
+
+---
+
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
+
+The Daily Beast • 2d ago
+
+---
+
+**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+
+Tech Xplore • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+
+📺 AI Revolution
+
+👁️ 51K • 👍 843 • 💬 95 • ⏱️ 2:08:46 • 5d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 27K • 👍 467 • 💬 63 • ⏱️ 13:55 • 2d ago
+
+---
+
+**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
+
+Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
+
+📺 Ai Hypex
+
+👁️ 1.3M • 👍 6K • 💬 14 • ⏱️ 0:10 • 1d ago
+
+---
 
 **[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
@@ -200,7 +228,17 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 69K • 💬 4 • ⏱️ 0:27 • 16h ago
+👁️ 70K • 💬 4 • ⏱️ 0:27 • 16h ago
+
+---
+
+**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
+
+Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
+
+📺 War Robots [WR]
+
+👁️ 26K • 👍 1K • 💬 2K • ⏱️ 9:57 • 11h ago
 
 ---
 
@@ -214,53 +252,13 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[Ukraine’s Mobile Drone Base!](https://www.youtube.com/watch?v=zdZObV2t01U)**
-
-Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the frontline! This stealthy robot carries and ...
-
-📺 Defense Digest
-
-👁️ 619 • 👍 25 • ⏱️ 0:22 • 2h ago
-
----
-
-**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
-
-Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
-
-📺 War Robots [WR]
-
-👁️ 20K • 👍 1K • 💬 2K • ⏱️ 9:57 • 11h ago
-
----
-
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
-
-📺 AI Revolution
-
-👁️ 51K • 👍 840 • 💬 95 • ⏱️ 2:08:46 • 5d ago
-
----
-
 **[This Ultra-Realistic Robot Head Is Breaking the Internet](https://www.youtube.com/watch?v=_TUPeIHPHE0)**
 
 This ultra-realistic humanoid head demonstrates how far robotics and AI have come in replicating human appearance and ...
 
 📺 Deepen
 
-👁️ 44K • 👍 253 • 💬 13 • ⏱️ 0:08 • 4d ago
-
----
-
-**[The EASIEST Titan to play in War Robots… NEW WEAPONS!](https://www.youtube.com/watch?v=kMVREd5gVFQ)**
-
-War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #warrobotsgameplay #wr My ...
-
-📺 Manni-Gaming
-
-👁️ 1K • 👍 131 • 💬 26 • ⏱️ 12:08 • 4h ago
+👁️ 45K • 👍 260 • 💬 13 • ⏱️ 0:08 • 4d ago
 
 ---
 
@@ -270,17 +268,17 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 67K • 👍 1K • 💬 286 • ⏱️ 31:49 • 6d ago
+👁️ 68K • 👍 1K • 💬 289 • ⏱️ 31:49 • 6d ago
 
 ---
 
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+**[Ukraine’s Mobile Drone Base!](https://www.youtube.com/watch?v=zdZObV2t01U)**
 
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the frontline! This stealthy robot carries and ...
 
-📺 AI Tech Academy
+📺 Defense Digest
 
-👁️ 24K • 👍 445 • 💬 57 • ⏱️ 13:55 • 1d ago
+👁️ 2K • 👍 65 • ⏱️ 0:22 • 3h ago
 
 ---
 
@@ -290,7 +288,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 206K • 👍 3K • 💬 708 • ⏱️ 2:23 • 5d ago
+👁️ 210K • 👍 3K • 💬 719 • ⏱️ 2:23 • 5d ago
 
 ---
 

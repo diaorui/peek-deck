@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T20:21:27.737451+00:00'
+updated: '2025-12-25T20:41:31.265600+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 20:21 UTC  
+**Last Updated:** December 25, 2025 at 20:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,093.40
+### $87,887.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +0.1%  
-**30d:** -2.6%  
-**90d:** -19.5%  
-**1y:** -7.9%  
+**24h:** +0.1%  
+**7d:** -0.3%  
+**30d:** -2.9%  
+**90d:** -19.7%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1758.24B
+**Market Cap:** $1751.93B
 Rank #1
 
 **Circulating Supply:** 19,967,043 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.4%
 
 **All-Time Low:** $67.81
-+129764.3%
++129283.6%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
+**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
 2h ago
 
 ---
 
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+**[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
 
-11h ago
+3h ago
 
 ---
 
@@ -97,9 +97,9 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
-**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-1h ago
+12h ago
 
 ---
 
@@ -111,35 +111,33 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 ---
 
+**[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
+
+49m ago
+
+---
+
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
 5h ago
 
 ---
 
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+
+11m ago
+
+---
+
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-17h ago
+18h ago
 
 ---
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-15h ago
-
----
-
-**[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
-
-1d ago
-
----
-
-**[At some point, it stops being a joke.](https://www.reddit.com/r/Bitcoin/comments/1pvdc6l/at_some_point_it_stops_being_a_joke/)**
-
-At some point, you stop laughing. And you just nod.
-
-6h ago
+16h ago
 
 ---
 
@@ -155,25 +153,25 @@ CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfEaR2R8fZYnaDWHLvFWQVrhi9oUeHFvslfse50AHE2aXLpit9c6kCs&gaa_ts=694d99dd&gaa_sig=rsOtHLXDXOek8O8cRgdNClfZ749Q1KRyIo6d3CJcmKCDW6OcSbUMvjWyIZp9e9DuObQsLOPYcY5BZAPaSUdQ1Q%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqda82WPKi58sDCV1fBjyt0HMqRx9-e9D8smI__62s-TX1H5hXB_a91q&gaa_ts=694da494&gaa_sig=zOtrZNB2j5cVTY2g7H0CY1xnflN3QYRnMALTRnPRpIeuLEgr-wjysUD2ZvNaE4QHujmlqEsKrvgi6WzI8ns1yw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-Yahoo Finance • 13h ago
+The Motley Fool • 14m ago
 
 ---
 
-**[Where Will Bitcoin Be in 10 Years?](https://www.fool.com/investing/2025/12/25/where-will-bitcoin-be-in-10-years/)**
+**[We Asked ChatGPT Where Bitcoin Will Be in 30 Christmases — The Answer May Shock You](https://finance.yahoo.com/news/asked-chatgpt-where-bitcoin-30-160715236.html)**
 
-Bitcoin turned a $10,000 starting investment into $2 million over the past decade, a gain that isn't going to repeat.
+In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
 
-The Motley Fool • 8h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -182,6 +180,14 @@ The Motley Fool • 8h ago
 Bitcoin is missing out on the Christmas cheer.
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
+
+Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
+
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -203,15 +209,7 @@ Yahoo Finance • 1d ago
 
 CryptoQuant CEO Ki Young Ju just made a key observation that is crucial to Bitcoin's price action as 2025 wraps up.In a tweet, Ki Young Ju noted that CNBC's Mad Money host Jim Cramer is 100% bearish on Bitcoin. Ju shared a chart reflecting Cramer's sentiment, which is now completely bearish.BREAKIN…
 
-TradingView — Track All Markets • 7h ago
-
----
-
-**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
-
-Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
-
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -295,7 +293,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 197 • ⏱️ 37:34 • 23h ago
+👁️ 43K • 👍 2K • 💬 203 • ⏱️ 37:34 • 23h ago
 
 ---
 
@@ -305,27 +303,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 202 • ⏱️ 13:26 • 1d ago
-
----
-
-**[🚨 Institutional Bitcoin TRAP Ends FRIDAY (Max Altcoin Volatility Inbound)](https://www.youtube.com/watch?v=tyvqRvGNUV8)**
-
-Are institutions setting up the final Bitcoin trap before a massive move? This Friday marks a critical deadline that could unleash ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 314 • 💬 34 • ⏱️ 7:13 • 20h ago
-
----
-
-**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
-
-Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
-
-📺 CNBC Television
-
-👁️ 21K • 👍 294 • 💬 199 • ⏱️ 8:19 • 1d ago
+👁️ 29K • 👍 2K • 💬 203 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -335,17 +313,27 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 359 • 💬 70 • ⏱️ 1:12 • 23h ago
+👁️ 17K • 👍 379 • 💬 70 • ⏱️ 1:12 • 23h ago
 
 ---
 
-**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
+**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
 
-Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Swan Bitcoin
+📺 Savvy Finance
 
-👁️ 41K • 👍 2K • 💬 221 • ⏱️ 20:00 • 1d ago
+👁️ 3K • 👍 208 • 💬 8 • ⏱️ 19:55 • 4h ago
+
+---
+
+**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
+
+Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
+
+📺 CNBC Television
+
+👁️ 22K • 👍 303 • 💬 201 • ⏱️ 8:19 • 1d ago
 
 ---
 
@@ -355,7 +343,17 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 104K • 👍 4K • 💬 445 • ⏱️ 20:46 • 2d ago
+👁️ 106K • 👍 4K • 💬 447 • ⏱️ 20:46 • 2d ago
+
+---
+
+**[🚨 Institutional Bitcoin TRAP Ends FRIDAY (Max Altcoin Volatility Inbound)](https://www.youtube.com/watch?v=tyvqRvGNUV8)**
+
+Are institutions setting up the final Bitcoin trap before a massive move? This Friday marks a critical deadline that could unleash ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 329 • 💬 55 • ⏱️ 7:13 • 20h ago
 
 ---
 
@@ -365,7 +363,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
+👁️ 44K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
+
+---
+
+**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
+
+Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
+
+📺 Swan Bitcoin
+
+👁️ 42K • 👍 2K • 💬 222 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -375,17 +383,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 31K • 👍 3K • 💬 219 • ⏱️ 19:10 • 23h ago
-
----
-
-**[Alert: Bloomberg Admits Bitcoin Crash Is Coming...](https://www.youtube.com/watch?v=5r_qBUtdAb8)**
-
-Yes, Bitcoin is currently experiencing significant volatility and price drops (a "crash" or deep pullback), with analysts citing factors ...
-
-📺 Ricky Gutierrez
-
-👁️ 11K • 👍 514 • 💬 196 • ⏱️ 9:15 • 1d ago
+👁️ 33K • 👍 4K • 💬 220 • ⏱️ 19:10 • 23h ago
 
 ---
 

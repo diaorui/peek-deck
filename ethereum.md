@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T20:21:27.743591+00:00'
+updated: '2025-12-25T20:41:31.270953+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 20:21 UTC  
+**Last Updated:** December 25, 2025 at 20:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -1.0%  
-**30d:** -2.1%  
-**90d:** -26.3%  
-**1y:** -11.3%  
+**24h:** +0.0%  
+**7d:** -1.2%  
+**30d:** -2.3%  
+**90d:** -26.5%  
+**1y:** -11.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.45B
+**Market Cap:** $355.66B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.3%
+-40.4%
 
 **All-Time Low:** $0.43
-+682041.6%
++680424.9%
 
 ---
 
@@ -156,11 +156,11 @@ The Motley Fool • 3d ago
 
 ---
 
-**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
 
-Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-Crypto Briefing • 2d ago
+ts2.tech • 4h ago
 
 ---
 
@@ -186,17 +186,23 @@ CCN.com • 2d ago
 
 ---
 
+**[ETH at Risk? Four Indicators Point to More Pain Ahead](https://beincrypto.com/why-eth-price-may-not-recover-soon/)**
+
+Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
+
+BeInCrypto • 5h ago
+
+---
+
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
 CCN.com • 6h ago
 
 ---
 
-**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
-Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
-
-TradingView — Track All Markets • 8h ago
+The Block • 2d ago
 
 ---
 
@@ -208,17 +214,11 @@ FXStreet • 1d ago
 
 ---
 
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
 
-The Block • 2d ago
+Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
----
-
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
-
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
-
-Decrypt • 2d ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -232,7 +232,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 563 • 👍 83 • 💬 3 • ⏱️ 4:41 • 3h ago
+👁️ 1K • 👍 109 • 💬 5 • ⏱️ 4:41 • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 692 • 👍 70 • 💬 8 • ⏱️ 16:26 • 2h ago
+👁️ 2K • 👍 157 • 💬 26 • ⏱️ 16:26 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 4K • 👍 109 • 💬 48 • ⏱️ 13:41 • 1d ago
+👁️ 4K • 👍 111 • 💬 48 • ⏱️ 13:41 • 1d ago
 
 ---
 
@@ -266,53 +266,13 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=hSx4zDNCwpQ)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Unboxing review
-
-👁️ 2K • 👍 1K • 2h ago
-
----
-
 **[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
 
 Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
-
----
-
-**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
-
-One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
-
-📺 CryptoStock Lab
-
-👁️ 3K • 👍 77 • 💬 83 • ⏱️ 13:29 • 20h ago
-
----
-
-**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
-
-Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 15K • 👍 112 • 💬 112 • ⏱️ 11:00 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
-
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
-
-📺 Trading Jip
-
-👁️ 354 • 👍 26 • 💬 14 • ⏱️ 7:57 • 8h ago
+👁️ 44K • 👍 3K • 💬 458 • ⏱️ 10:51 • 1d ago
 
 ---
 
@@ -323,6 +283,46 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 113 • 💬 6 • ⏱️ 3:51 • 1d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=hSx4zDNCwpQ)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Unboxing review
+
+👁️ 5K • 👍 1K • 2h ago
+
+---
+
+**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
+
+One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
+
+📺 CryptoStock Lab
+
+👁️ 3K • 👍 78 • 💬 83 • ⏱️ 13:29 • 20h ago
+
+---
+
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 102 • 💬 304 • ⏱️ 14:58 • 2d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=irv0v8HgYM8)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 KDR Music House
+
+👁️ 4K • 👍 2K • 58m ago
 
 ---
 

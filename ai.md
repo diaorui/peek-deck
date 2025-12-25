@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T20:21:27.728663+00:00'
+updated: '2025-12-25T20:41:31.257927+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 20:21 UTC  
+**Last Updated:** December 25, 2025 at 20:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,11 +53,27 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 ---
 
+**[Using a Christmas-themed use case to think through agent design 🎄😊](https://www.reddit.com/r/artificial/comments/1pvm2yu/using_a_christmasthemed_use_case_to_think_through/)**
+
+Since it’s Christmas, I ended up thinking through a Christmas-themed use case, mostly as a way to explain how I approach agent design beyond the foundational layer. The theme itself doesn’t matter much. It just gives you a nice mix of: vague, emotional intent (“I just want this sorted”) hard constraints (budget, deadlines) multiple domains at once When I think about designing an agent here, I’m less focused on responses and more on what components are actually required. For example: an analyzer that turns messy input into something structured (e.g., “budget-sensitive,” “family of 5,” “fixed deadline”) a planner that converts that into a concrete workflow (gift planning, reminders, budget tracking) small, focused workers (one that suggests gifts under a price cap, another that tracks cumulative spend) a validator that can say “this doesn’t work” before anything is shown What’s been interesting for me is how much value you get from automating the build of these components, like prompt scaffolding, baseline RAG setup, and eval wiring. It removes a lot of boring glue work while keeping the system structured and easier to trust. What would be your Christmas themed Agent 😁😉 and how would you approach it?
+
+13m ago
+
+---
+
 **[Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record, according to Alex Davis, CEO of Disruptive, which led the startup’s latest financing round in September.](https://www.reddit.com/r/artificial/comments/1pv3jlg/nvidia_buying_ai_chip_startup_groqs_assets_for/)**
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
 🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 17h ago
+
+---
+
+**[AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces](https://www.reddit.com/r/artificial/comments/1pvlexa/aipowered_police_body_cameras_once_taboo_get/)**
+
+Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
+
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 44m ago
 
 ---
 
@@ -101,22 +117,6 @@ Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Pl
 
 ---
 
-**[How many of you are running Al influencer accounts on insta? If yes, then your page is growing?](https://www.reddit.com/r/artificial/comments/1pvfw2n/how_many_of_you_are_running_al_influencer/)**
-
-You can share your Al influencers' accounts, and we can discuss how to grow them faster.
-
-4h ago
-
----
-
-**[Do offline open Ai function like chatGPT texting text questions?](https://www.reddit.com/r/artificial/comments/1pv5fl3/do_offline_open_ai_function_like_chatgpt_texting/)**
-
-I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
-
-15h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -133,7 +133,7 @@ CNBC • 23h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -143,9 +143,11 @@ The New York Times • 20h ago
 
 ---
 
-**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
 
-Axios • 7h ago
+Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
+
+Financial Times • 9h ago
 
 ---
 
@@ -157,19 +159,9 @@ blog.google • 2d ago
 
 ---
 
-**[Gen Z founder on 'AI anxiety' and being pigeonholed as generation shortcut: that's the 'biggest misconception'](https://fortune.com/2025/12/25/gen-z-founder-ai-anxiety-obsolescence-biggest-misconception-shortcut-lazy/)**
+**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-"We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
-
-Fortune • 6h ago
-
----
-
-**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
-
-Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
-
-Financial Times • 9h ago
+Axios • 6h ago
 
 ---
 
@@ -185,11 +177,17 @@ Star Tribune • 9h ago
 
 ---
 
-**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
+**[Silicon Valley’s tone-deaf take on the AI backlash will matter in 2026](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)**
 
-From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
+AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-MIT Technology Review • 10h ago
+Fortune • 2d ago
+
+---
+
+**[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
+
+The Washington Post • 2h ago
 
 ---
 
@@ -201,7 +199,7 @@ MIT Technology Review • 10h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 389 • 💬 110 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 392 • 💬 112 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -209,7 +207,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
 
-⬆️ 318 • 💬 310 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 319 • 💬 310 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
 
 ---
 
@@ -217,7 +215,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 The quest to run large AI models locally on an individual's machine are driving the biggest change in laptop architecture in decades.
 
-⬆️ 247 • 💬 252 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
+⬆️ 248 • 💬 252 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-models-locally)
 
 ---
 
@@ -225,7 +223,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 170 • 💬 97 • 20h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 176 • 💬 99 • 21h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -233,7 +231,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 159 • 💬 96 • 5h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 161 • 💬 95 • 5h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -243,7 +241,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 99 • 💬 58 • 6h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 116 • 💬 83 • 6h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -251,7 +249,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 70 • 💬 23 • 20h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 71 • 💬 23 • 20h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -259,7 +257,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 66 • 💬 90 • 16h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 66 • 💬 90 • 17h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -285,17 +283,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 27K • 👍 1K • 💬 639 • ⏱️ 11:28 • 1d ago
-
----
-
-**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
-
-The robot uprising has already happened, and instead of an apocalyptic war its just boring sludge everywhere. Links: My Patreon: ...
-
-📺 Lily Simpson
-
-👁️ 7K • 👍 1K • 💬 214 • ⏱️ 24:19 • 1d ago
+👁️ 28K • 👍 1K • 💬 669 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -305,7 +293,47 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 90K • 👍 4K • 💬 398 • ⏱️ 30:43 • 1d ago
+👁️ 92K • 👍 4K • 💬 401 • ⏱️ 30:43 • 1d ago
+
+---
+
+**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
+
+Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 131K • 👍 4K • 💬 85 • ⏱️ 10:06 • 7h ago
+
+---
+
+**[AI toys say bizarre or sexually explicit things to NBC News](https://www.youtube.com/watch?v=3qkTC-05PnQ)**
+
+A wave of #AI-powered children's #toys has hit shelves this #holiday season, claiming to rely on sophisticated chatbots to animate ...
+
+📺 NBC News
+
+👁️ 10K • 👍 263 • 💬 32 • ⏱️ 2:05 • 7h ago
+
+---
+
+**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
+
+I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 39K • 👍 2K • 💬 84 • ⏱️ 3:00 • 1d ago
+
+---
+
+**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
+
+The robot uprising has already happened, and instead of an apocalyptic war its just boring sludge everywhere. Links: My Patreon: ...
+
+📺 Lily Simpson
+
+👁️ 8K • 👍 1K • 💬 222 • ⏱️ 24:19 • 1d ago
 
 ---
 
@@ -315,37 +343,7 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 22K • 👍 370 • 💬 38 • ⏱️ 8:00 • 1d ago
-
----
-
-**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
-
-Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
-
-📺 Greg Isenberg
-
-👁️ 19K • 👍 494 • 💬 60 • ⏱️ 18:48 • 2d ago
-
----
-
-**[VanEck CEO Jan Van Eck says the ‘AI bubble already popped’](https://www.youtube.com/watch?v=2Si2XN_zWGY)**
-
-VanEck CEO Jan Van Eck gives his expertise on the current state of the AI market and how companies are missing large macro ...
-
-📺 Fox Business
-
-👁️ 15K • 👍 236 • 💬 60 • ⏱️ 7:50 • 1d ago
-
----
-
-**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
-
-To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
-
-📺 How Money Works
-
-👁️ 510K • 👍 17K • 💬 3K • ⏱️ 19:40 • 2d ago
+👁️ 23K • 👍 371 • 💬 38 • ⏱️ 8:00 • 1d ago
 
 ---
 
@@ -355,27 +353,27 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 102K • 👍 4K • 💬 975 • ⏱️ 6:53 • 2d ago
+👁️ 108K • 👍 4K • 💬 1K • ⏱️ 6:53 • 2d ago
 
 ---
 
-**[PRANK PISTOL AIR ‼️FIELD EDITION ‼️🤣 PER4NG AIR AI TEAM ‼️](https://www.youtube.com/watch?v=RkzWSgD7oaE)**
+**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
 
-roadto2million #teamriss #elriss #aiteam Ig : @El Riss Tiktok : @el_riss_.
+Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
 
-📺 AI El Riss
+📺 Greg Isenberg
 
-👁️ 203K • 👍 11K • 💬 300 • ⏱️ 24:36 • 1d ago
+👁️ 19K • 👍 496 • 💬 60 • ⏱️ 18:48 • 2d ago
 
 ---
 
-**[The cow saves bus from accident 😭 #ai #cow #rescue #viral](https://www.youtube.com/watch?v=Vratq2lDdto)**
+**[Realistic AI CLONE 😱 AI Avatar ✅ How to create AI Avatar video #ai](https://www.youtube.com/watch?v=-sp1iH7va6g)**
 
-The cow saves bus from accident #ai​ #cow​ #rescue​ #viral Disclaimer: This video is a fictional, AI-generated story created ...
+REALISTIC AI CLONE / AI AVATAR VIDEO — Step-by-Step Guide In this video, I show you how to create a realistic AI Clone (AI ...
 
-📺 NexoLoop Ai
+📺 Raj Photo Editing and Much More
 
-👁️ 75K • 💬 6 • ⏱️ 0:20 • 19h ago
+👁️ 9K • 👍 774 • 💬 42 • ⏱️ 3:50 • 8h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 870 • 2d ago
+⬇️ 4,163 • ❤️ 873 • 2d ago
 
 ---
 
@@ -415,7 +413,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 28,171 • ❤️ 593 • 6d ago
+⬇️ 28,171 • ❤️ 594 • 7d ago
 
 ---
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 715 • 2h ago
+⭐ 6.3k • 🔱 715 • 3h ago
 
 ---
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 449 • 40m ago
+⭐ 3.5k • 🔱 449 • 1h ago
 
 ---
 
