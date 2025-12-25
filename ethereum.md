@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T17:55:16.150095+00:00'
+updated: '2025-12-25T18:31:32.650103+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 17:55 UTC  
+**Last Updated:** December 25, 2025 at 18:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -1.2%  
-**30d:** -2.3%  
-**90d:** -26.5%  
-**1y:** -11.5%  
+**24h:** +0.4%  
+**7d:** -0.9%  
+**30d:** -2.1%  
+**90d:** -26.3%  
+**1y:** -11.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.49B
+**Market Cap:** $356.41B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.3%
 
 **All-Time Low:** $0.43
-+680099.3%
++681630.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-5h ago
+6h ago
 
 ---
 
@@ -156,11 +156,27 @@ The Motley Fool • 3d ago
 
 ---
 
+**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
+
+Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
+
+Crypto Briefing • 2d ago
+
+---
+
 **[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
+
+If history repeats, ETH could front a 45% rally in the mid-term.
+
+AMBCrypto • 9h ago
 
 ---
 
@@ -170,25 +186,17 @@ CCN.com • 2d ago
 
 ---
 
-**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
+**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
 
-If history repeats, ETH could front a 45% rally in the mid-term.
+Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
-AMBCrypto • 8h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 3h ago
-
----
-
-**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
-
-Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
-
-TradingView — Track All Markets • 5h ago
+CCN.com • 4h ago
 
 ---
 
@@ -214,15 +222,29 @@ Decrypt • 2d ago
 
 ---
 
-**[Wall Street Has Quietly Integrated Ethereum as its Primary Settlement Engine. Here’s Why.](https://www.tipranks.com/news/wall-street-has-quietly-integrated-ethereum-as-its-primary-settlement-engine-heres-why)**
-
-TipRanks • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ON96r6z1Ldw)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 563 • 👍 83 • 💬 3 • ⏱️ 4:41 • 1h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN HOLDERS: IT&#39;S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BaPDXfHioQk)**
+
+BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 692 • 👍 70 • 💬 8 • ⏱️ 16:26 • 35m ago
+
+---
 
 **[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
 
@@ -230,17 +252,27 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 108 • 💬 48 • ⏱️ 13:41 • 1d ago
+👁️ 4K • 👍 109 • 💬 48 • ⏱️ 13:41 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 More Crypto Online
+📺 Brilliance Academy
 
-👁️ 2K • 👍 111 • 💬 6 • ⏱️ 3:51 • 1d ago
+👁️ 4K • 👍 1K • 1d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=hSx4zDNCwpQ)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Unboxing review
+
+👁️ 2K • 👍 1K • 12m ago
 
 ---
 
@@ -254,13 +286,13 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
+**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
 
-📺 Brilliance Academy
+📺 CryptoStock Lab
 
-👁️ 3K • 👍 1K • 1d ago
+👁️ 3K • 👍 77 • 💬 83 • ⏱️ 13:29 • 18h ago
 
 ---
 
@@ -274,53 +306,23 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 ---
 
-**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
-
-One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
-
-📺 CryptoStock Lab
-
-👁️ 3K • 👍 74 • 💬 75 • ⏱️ 13:29 • 17h ago
-
----
-
-**[BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=79yHSfDkC8M)**
-
-BITCOIN: Calm Before the Storm (TIME RUNNING OUT)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 265 • 💬 173 • ⏱️ 19:06 • 1d ago
-
----
-
-**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 9K • 👍 463 • 💬 71 • ⏱️ 13:14 • 1d ago
-
----
-
 **[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
 
 Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
 
 📺 Trading Jip
 
-👁️ 271 • 👍 24 • 💬 14 • ⏱️ 7:57 • 5h ago
+👁️ 354 • 👍 26 • 💬 14 • ⏱️ 7:57 • 6h ago
 
 ---
 
-**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Library Of Wealth
+📺 More Crypto Online
 
-👁️ 4K • 👍 102 • 💬 304 • ⏱️ 14:58 • 2d ago
+👁️ 2K • 👍 113 • 💬 6 • ⏱️ 3:51 • 1d ago
 
 ---
 

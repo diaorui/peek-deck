@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T17:55:16.153320+00:00'
+updated: '2025-12-25T18:31:32.653598+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 17:55 UTC  
+**Last Updated:** December 25, 2025 at 18:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Wishing everyone a happy Christmas holiday.
 
 Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,15 @@ Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de 
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-13h ago
+14h ago
+
+---
+
+**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
+
+The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
+
+3h ago
 
 ---
 
@@ -97,14 +105,6 @@ All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 1d ago
-
----
-
-**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
-
-The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
-
-2h ago
 
 ---
 
@@ -136,6 +136,14 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+
+New Atlas • 1d ago
+
+---
+
 **[Hyundai Motor Group to Unveil AI Robotics Strategy at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001093)**
 
 Hyundai Motor Group released a teaser image previewing its upcoming participation at CES 2026
@@ -144,17 +152,15 @@ hyundai.com • 3d ago
 
 ---
 
-**[Advancing with animals: Standout biomimicry of 2025](https://newatlas.com/science/biomimicry-developments-2025/)**
-
-From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
-
-New Atlas • 17h ago
-
----
-
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 1d ago
+
+---
+
+**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -166,17 +172,11 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[Machine learning helps robots see clearly in total darkness using infrared](https://techxplore.com/news/2025-12-machine-robots-total-darkness-infrared.html)**
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
-Tech Xplore • 2d ago
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
----
-
-**[Pine Lake Prep Jr. Robotics Team advances to world competition](https://mooresvilletribune.com/news/local/education/article_5f3e02b9-d42f-4582-8f56-fdc9fce96409.html)**
-
-FIRST LEGO League (FLL) is a friendly, competitive robotics program designed for students ages 9-14.
-
-Mooresville Tribune • 1d ago
+The Daily Beast • 1d ago
 
 ---
 
@@ -192,33 +192,13 @@ Yahoo Finance • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
-
-📺 AI Revolution
-
-👁️ 50K • 👍 836 • 💬 95 • ⏱️ 2:08:46 • 5d ago
-
----
-
-**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
-
-Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
-
-📺 War Robots [WR]
-
-👁️ 11K • 👍 1K • 💬 1K • ⏱️ 9:57 • 8h ago
-
----
-
 **[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
 She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 67K • 💬 4 • ⏱️ 0:27 • 14h ago
+👁️ 69K • 💬 4 • ⏱️ 0:27 • 14h ago
 
 ---
 
@@ -232,13 +212,53 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
+**[Ukraine’s Mobile Drone Base!](https://www.youtube.com/watch?v=zdZObV2t01U)**
+
+Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the frontline! This stealthy robot carries and ...
+
+📺 Defense Digest
+
+👁️ 619 • 👍 25 • ⏱️ 0:22 • 1h ago
+
+---
+
+**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
+
+Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
+
+📺 War Robots [WR]
+
+👁️ 20K • 👍 1K • 💬 2K • ⏱️ 9:57 • 9h ago
+
+---
+
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+
+📺 AI Revolution
+
+👁️ 51K • 👍 840 • 💬 95 • ⏱️ 2:08:46 • 5d ago
+
+---
+
 **[This Ultra-Realistic Robot Head Is Breaking the Internet](https://www.youtube.com/watch?v=_TUPeIHPHE0)**
 
 This ultra-realistic humanoid head demonstrates how far robotics and AI have come in replicating human appearance and ...
 
 📺 Deepen
 
-👁️ 43K • 👍 245 • 💬 13 • ⏱️ 0:08 • 4d ago
+👁️ 44K • 👍 253 • 💬 13 • ⏱️ 0:08 • 4d ago
+
+---
+
+**[The EASIEST Titan to play in War Robots… NEW WEAPONS!](https://www.youtube.com/watch?v=kMVREd5gVFQ)**
+
+War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #warrobotsgameplay #wr My ...
+
+📺 Manni-Gaming
+
+👁️ 1K • 👍 131 • 💬 26 • ⏱️ 12:08 • 2h ago
 
 ---
 
@@ -248,7 +268,17 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 66K • 👍 995 • 💬 278 • ⏱️ 31:49 • 6d ago
+👁️ 67K • 👍 1K • 💬 286 • ⏱️ 31:49 • 6d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 24K • 👍 445 • 💬 57 • ⏱️ 13:55 • 1d ago
 
 ---
 
@@ -258,35 +288,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 200K • 👍 3K • 💬 697 • ⏱️ 2:23 • 5d ago
-
----
-
-**[Ukraine’s Robotic Army!](https://www.youtube.com/watch?v=mqfmnNHvlaU)**
-
-Ukraine is revolutionizing the battlefield with a massive fleet of Unmanned Ground Vehicles (UGVs). By 2025, nearly 15000 of ...
-
-📺 Defense Digest
-
-👁️ 4K • 👍 208 • 💬 1 • ⏱️ 0:37 • 7h ago
-
----
-
-**[Robotics Could Actually HELP End Poverty?  | Episode #117](https://www.youtube.com/watch?v=jS_wekM_Zvs)**
-
-Waking Up | 30 Day FREE TRIAL- wakingup.com/drmike Dr. Mike chats about all things progress, especially technology, futurism, ...
-
-📺 Mike Israetel
-
-👁️ 5K • 👍 272 • 💬 83 • ⏱️ 49:59 • 2d ago
-
----
-
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
-
-📺 XRoboHub
-
-👁️ 218K • 👍 4K • 💬 506 • ⏱️ 0:51 • 5d ago
+👁️ 206K • 👍 3K • 💬 708 • ⏱️ 2:23 • 5d ago
 
 ---
 

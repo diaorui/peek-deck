@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T17:55:16.143891+00:00'
+updated: '2025-12-25T18:31:32.643247+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 17:55 UTC  
+**Last Updated:** December 25, 2025 at 18:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.2%  
-**30d:** -2.8%  
-**90d:** -19.7%  
-**1y:** -8.2%  
+**24h:** +0.8%  
+**7d:** +0.1%  
+**30d:** -2.5%  
+**90d:** -19.4%  
+**1y:** -7.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1756.83B
+**Market Cap:** $1760.99B
 Rank #1
 
 **Circulating Supply:** 19,967,006 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.2%
+-30.1%
 
 **All-Time Low:** $67.81
-+129664.0%
++129933.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,6 +91,12 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
+**[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
+
+1h ago
+
+---
+
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
 3h ago
@@ -99,7 +105,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-15h ago
+16h ago
+
+---
+
+**[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
+
+14h ago
 
 ---
 
@@ -109,29 +121,9 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 ---
 
-**[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
+**[Bitcoin hasn’t built much structure between $70K and $80K. Five years of CME futures data show BTC spent just 28 trading days in that zone. Compared to hundreds of days below $70K, that means far fewer positions were built there and much weaker historical support. On-chain data from Glassnode sho](https://www.reddit.com/r/Bitcoin/comments/1pvhf6d/bitcoin_hasnt_built_much_structure_between_70k/)**
 
-13h ago
-
----
-
-**[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
-
-27m ago
-
----
-
-**[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
-
-9h ago
-
----
-
-**[Just a reminder: On this day 2 years ago, BTC was under $45k. If you’re panicking at $86k, you haven't been paying attention.](https://www.reddit.com/r/Bitcoin/comments/1puz7ru/just_a_reminder_on_this_day_2_years_ago_btc_was/)**
-
-Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
-
-19h ago
+1h ago
 
 ---
 
@@ -139,7 +131,13 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 At some point, you stop laughing. And you just nod.
 
-4h ago
+5h ago
+
+---
+
+**[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
+
+10h ago
 
 ---
 
@@ -155,7 +153,7 @@ CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdLJdrdjW5_qz_7R91HaEFMSiogAT4fBV6UCRj5gNVWcTjcAmqfJl2c&gaa_ts=694d7b58&gaa_sig=rielgpM8rHNm3p24K0_cM_LzJ8etkqYncpRJFsFHzTAJcue778zbwIcWP2gjNHM6RFQRnJdUhkpeydq0-bQIpQ%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeX70Rthz_ILSzhpJ-_RmYEZ_rYozpivDU-fdUI-MvzgHQ_-QH84PNk&gaa_ts=694d8674&gaa_sig=287km7pv_C0LXrY5qHWbZ2XtL5vX01WV_3H_pnnNldCMHpx-9pTYKU_ceiZrbUmB4i2G9-XEvHpFEmwO-HrOWw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -165,23 +163,15 @@ The Wall Street Journal • 1d ago
 
 In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-The Motley Fool • 22h ago
-
----
-
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
-
-Bitcoin is missing out on the Christmas cheer.
-
-Bloomberg.com • 1d ago
+CoinDesk • 4h ago
 
 ---
 
@@ -193,11 +183,25 @@ Investopedia • 1d ago
 
 ---
 
-**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
+Reuters • 1d ago
 
-TradingView — Track All Markets • 1h ago
+---
+
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.nasdaq.com/articles/crypto-thats-outperforming-bitcoin-501)**
+
+Key PointsSolana is one of the fastest blockchain networks, making it popular with developers and users.
+
+Nasdaq • 22h ago
+
+---
+
+**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 22h ago
 
 ---
 
@@ -207,17 +211,9 @@ KRON4 • 1d ago
 
 ---
 
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-Reuters • 1d ago
-
----
-
-**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 21h ago
+CCN.com • 4h ago
 
 ---
 
@@ -241,7 +237,7 @@ KITCO • 21h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 1h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 2h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -263,7 +259,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 82 • 💬 36 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 84 • 💬 36 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -293,17 +289,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 190 • ⏱️ 37:34 • 20h ago
-
----
-
-**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
-
-Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
-
-📺 CNBC Television
-
-👁️ 20K • 👍 287 • 💬 199 • ⏱️ 8:19 • 1d ago
+👁️ 39K • 👍 2K • 💬 197 • ⏱️ 37:34 • 21h ago
 
 ---
 
@@ -317,23 +303,33 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 ---
 
+**[🚨 Institutional Bitcoin TRAP Ends FRIDAY (Max Altcoin Volatility Inbound)](https://www.youtube.com/watch?v=tyvqRvGNUV8)**
+
+Are institutions setting up the final Bitcoin trap before a massive move? This Friday marks a critical deadline that could unleash ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 314 • 💬 34 • ⏱️ 7:13 • 18h ago
+
+---
+
+**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
+
+Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
+
+📺 CNBC Television
+
+👁️ 21K • 👍 294 • 💬 199 • ⏱️ 8:19 • 1d ago
+
+---
+
 **[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
 
 Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 349 • 💬 70 • ⏱️ 1:12 • 21h ago
-
----
-
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
-
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 101K • 👍 4K • 💬 440 • ⏱️ 20:46 • 1d ago
+👁️ 16K • 👍 359 • 💬 70 • ⏱️ 1:12 • 21h ago
 
 ---
 
@@ -343,7 +339,17 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Swan Bitcoin
 
-👁️ 40K • 👍 2K • 💬 218 • ⏱️ 20:00 • 1d ago
+👁️ 41K • 👍 2K • 💬 221 • ⏱️ 20:00 • 1d ago
+
+---
+
+**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
+
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
+
+📺 Mark Moss
+
+👁️ 104K • 👍 4K • 💬 445 • ⏱️ 20:46 • 2d ago
 
 ---
 
@@ -357,33 +363,23 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 ---
 
-**[🚨 Institutional Bitcoin TRAP Ends FRIDAY (Max Altcoin Volatility Inbound)](https://www.youtube.com/watch?v=tyvqRvGNUV8)**
-
-Are institutions setting up the final Bitcoin trap before a massive move? This Friday marks a critical deadline that could unleash ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 297 • 💬 34 • ⏱️ 7:13 • 17h ago
-
----
-
 **[Bitcoin’s Doji Moment ⏸️: Volatility Now, Breakout Into 2026🔓?](https://www.youtube.com/watch?v=YTwqB3kVWxI)**
 
 JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
 
 📺 InvestAnswers
 
-👁️ 30K • 👍 3K • 💬 212 • ⏱️ 19:10 • 20h ago
+👁️ 31K • 👍 3K • 💬 219 • ⏱️ 19:10 • 21h ago
 
 ---
 
-**[BITCOIN DUMP WITHIN 24 HOURS !!!!](https://www.youtube.com/watch?v=KK9ztKo1WD4)**
+**[Alert: Bloomberg Admits Bitcoin Crash Is Coming...](https://www.youtube.com/watch?v=5r_qBUtdAb8)**
 
-BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward *WEEX is available in ALL COUNTRIES ...
+Yes, Bitcoin is currently experiencing significant volatility and price drops (a "crash" or deep pullback), with analysts citing factors ...
 
-📺 The Moon Show
+📺 Ricky Gutierrez
 
-👁️ 7K • 👍 594 • 💬 86 • ⏱️ 5:03 • 8h ago
+👁️ 11K • 👍 514 • 💬 196 • ⏱️ 9:15 • 22h ago
 
 ---
 
