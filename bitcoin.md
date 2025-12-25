@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T16:59:54.390701+00:00'
+updated: '2025-12-25T17:27:11.209231+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 16:59 UTC  
+**Last Updated:** December 25, 2025 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
+**24h:** +0.8%  
 **7d:** +0.1%  
-**30d:** -2.5%  
+**30d:** -2.6%  
 **90d:** -19.4%  
 **1y:** -7.9%  
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,13 +99,13 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[Daily bitcoin memes until bitcoin hit’s $200k](https://www.reddit.com/r/Bitcoin/comments/1pvgob3/daily_bitcoin_memes_until_bitcoin_hits_200k/)**
 
-41m ago
+1h ago
 
 ---
 
 **[NO Fear guys!](https://www.reddit.com/r/Bitcoin/comments/1pv37as/no_fear_guys/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 **[REAL😭](https://www.reddit.com/r/Bitcoin/comments/1pv8s8q/real/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 At some point, you stop laughing. And you just nod.
 
-3h ago
+4h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 21h ago
 
 In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 52m ago
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ KRON4 • 1d ago
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -237,7 +237,7 @@ Investor's Business Daily • 2d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 46m ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 1h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -289,7 +289,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 190 • ⏱️ 37:34 • 19h ago
+👁️ 36K • 👍 2K • 💬 190 • ⏱️ 37:34 • 20h ago
 
 ---
 
@@ -359,7 +359,7 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 297 • 💬 34 • ⏱️ 7:13 • 16h ago
+👁️ 5K • 👍 297 • 💬 34 • ⏱️ 7:13 • 17h ago
 
 ---
 
@@ -369,7 +369,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 30K • 👍 3K • 💬 212 • ⏱️ 19:10 • 19h ago
+👁️ 30K • 👍 3K • 💬 212 • ⏱️ 19:10 • 20h ago
 
 ---
 
@@ -379,7 +379,7 @@ BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward *W
 
 📺 The Moon Show
 
-👁️ 7K • 👍 594 • 💬 86 • ⏱️ 5:03 • 7h ago
+👁️ 7K • 👍 594 • 💬 86 • ⏱️ 5:03 • 8h ago
 
 ---
 

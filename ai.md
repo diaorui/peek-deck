@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T16:59:54.382013+00:00'
+updated: '2025-12-25T17:27:11.200868+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 16:59 UTC  
+**Last Updated:** December 25, 2025 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 2h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 3m ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 30m ago
 
 ---
 
@@ -65,7 +65,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Plan now includes unlimited generations with Veo 3.1, Sora 2, and Nano Banana – and every code we send out today gives you full unlimited access for 30 days. For the next 12 hours only, comment “Unlimited Plan” below and I’ll DM you a free 30-day access code (as many as we have before they run out). Just something for folks who want to try the models without paying per gen.
 
-46m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey everyone, we just rolled out a big update on swipe[dot]farm The Unlimited Pl
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-19h ago
+20h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 20h ago
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 4h ago
 
 This year saw new AI models, transformative products and new breakthroughs in science and robotics.
 
-blog.google • 1d ago
+blog.google • 2d ago
 
 ---
 
@@ -167,13 +167,13 @@ The New York Times • 1d ago
 
 "We don't really know what to do but we know it's coming and nobody is moving as fast to solve the problem," said Kiara Nirghin. AI or climate anxiety?
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
 **[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
 
-Star Tribune • 5h ago
+Star Tribune • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Star Tribune • 5h ago
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ Financial Times • 5h ago
 
 Amazon Ring's new facial recognition feature sparks privacy controversy as Electronic Frontier Foundation critics argue the AI upgrade expands surveillance risks.
 
-Fox News • 4h ago
+Fox News • 5h ago
 
 ---
 
@@ -225,7 +225,7 @@ The quest to run large AI models locally on an individual's machine are driving 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 159 • 💬 82 • 17h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 159 • 💬 82 • 18h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -247,7 +247,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 65 • 💬 85 • 13h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 65 • 💬 85 • 14h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -255,13 +255,13 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 64 • 💬 19 • 16h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 64 • 💬 19 • 17h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 37 • 💬 22 • 12h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 37 • 💬 22 • 13h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 715 • 52m ago
+⭐ 6.3k • 🔱 715 • 1h ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 207 • 1m ago
+⭐ 3.0k • 🔱 207 • 28m ago
 
 ---
 
@@ -691,7 +691,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 219 • 1h ago
+⭐ 1.3k • 🔱 219 • 2h ago
 
 ---
 
@@ -701,7 +701,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 108 • 7h ago
+⭐ 1.2k • 🔱 108 • 8h ago
 
 ---
 
@@ -711,7 +711,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.2k • 🔱 52 • 23h ago
+⭐ 1.2k • 🔱 52 • 1d ago
 
 ---
 

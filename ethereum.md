@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T16:59:54.396946+00:00'
+updated: '2025-12-25T17:27:11.215188+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 16:59 UTC  
+**Last Updated:** December 25, 2025 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.3%  
-**7d:** -1.3%  
-**30d:** -2.4%  
-**90d:** -26.5%  
-**1y:** -11.6%  
+**7d:** -1.1%  
+**30d:** -2.3%  
+**90d:** -26.4%  
+**1y:** -11.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-4h ago
+5h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 2d ago
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -180,7 +180,7 @@ CCN.com • 2d ago
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ CCN.com • 2h ago
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -282,7 +282,7 @@ One company is folding, the other is doubling down. Is this a warning sign? In t
 
 📺 CryptoStock Lab
 
-👁️ 3K • 👍 74 • 💬 75 • ⏱️ 13:29 • 16h ago
+👁️ 3K • 👍 74 • 💬 75 • ⏱️ 13:29 • 17h ago
 
 ---
 

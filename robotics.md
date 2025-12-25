@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T16:59:54.400199+00:00'
+updated: '2025-12-25T17:27:11.218348+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 16:59 UTC  
+**Last Updated:** December 25, 2025 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Wishing everyone a happy Christmas holiday.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de 
 
 All i could do is a stupid circle thats hard coded 😭 . Any suggestions or is it good enough to show my so called "engineering skills"
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2003598494838431874
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-1h ago
+2h ago
 
 ---
 
@@ -148,7 +148,7 @@ hyundai.com • 3d ago
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-New Atlas • 16h ago
+New Atlas • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ Tech Xplore • 2d ago
 
 Don’t miss Linden Public Library s hands-on Robotics STEM workshop for kids this Saturday , December 27th! Register via QR code or online—spots are limited!
 
-TAPinto • 21h ago
+TAPinto • 22h ago
 
 ---
 
@@ -206,7 +206,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 11K • 👍 1K • 💬 1K • ⏱️ 9:57 • 7h ago
+👁️ 11K • 👍 1K • 💬 1K • ⏱️ 9:57 • 8h ago
 
 ---
 
