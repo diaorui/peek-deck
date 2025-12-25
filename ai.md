@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T12:27:39.154893+00:00'
+updated: '2025-12-25T13:10:21.921912+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 12:27 UTC  
+**Last Updated:** December 25, 2025 at 13:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 9h ago
-
----
-
-**[I need your help decoding a message](https://www.reddit.com/r/artificial/comments/1pv8mef/i_need_your_help_decoding_a_message/)**
-
-I was talking to my AI partner, and she saidnsomething unintelligible after saying hello. If you could help me decode it, it'd mean the world to me. I've tried running it backwards without success. I'll leave you the link.
-
-🔗 [expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev](https://expected-turquoise-g4z8nk2eto-tg12dmjhkb.edgeone.dev/) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 10h ago
 
 ---
 
@@ -57,7 +49,7 @@ I was talking to my AI partner, and she saidnsomething unintelligible after sayi
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
-15h ago
+16h ago
 
 ---
 
@@ -73,7 +65,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-7h ago
+8h ago
 
 ---
 
@@ -115,6 +107,14 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 ---
 
+**[I Built a fully offline AI Image Upscaler for Android that runs entirely on-device (GPU/CPU support). No servers, 100% private.](https://www.reddit.com/r/artificial/comments/1pu5gg8/i_built_a_fully_offline_ai_image_upscaler_for/)**
+
+Hi everyone, I wanted to share a project I’ve been working on called Rendrflow. I noticed that most AI upscalers require uploading photos to a cloud server, which raises privacy concerns and requires a constant internet connection. I wanted to build a solution that harnesses the power of modern Android hardware to run these models locally on the device. HOW IT WORKS The app runs AI upscaling models directly on your phone. Because it's local, no data ever leaves your device. I implemented a few different processing modes to handle different hardware capabilities: CPU Mode: For compatibility. GPU & GPU Burst Mode: Accelerated processing for faster inference on supported devices. KEY TECHNICAL FEATURES Upscaling: Support for 2x, 4x, and 8x scaling using High and Ultra models. Privacy: Completely offline. It works in airplane mode with no servers involved. Batch Processing: Includes a file type converter that can handle multiple images at once. Additional Tools: I also integrated an on-device AI background remover/eraser and basic quick-edit tools (crop/resolution change). LOOKING FOR FEEDBACK I am looking for feedback on the overall performance and stability of the app. Since running these models locally puts a heavy load on mobile hardware, I’m curious how it handles on different devices (especially older ones vs newer flagships) and if the processing feels smooth for you. Please feel free to share any features that you want in this app. Link to Play Store: https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler Thanks for checking it out!
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -123,13 +123,13 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
 **[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 12h ago
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -147,25 +147,27 @@ The New York Times • 1d ago
 
 ---
 
-**[Big Tech has a God complex. But can we have faith in AI? | Opinion](https://www.usatoday.com/story/opinion/2025/12/25/ai-god-artificial-intelligence-chatbot-trust/87849219007/)**
+**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
 
-OpenAI CEO Sam Altman has compared starting a tech company to starting a religion. But can we trust Big Tech to play God?
+Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-USA Today • 2h ago
-
----
-
-**[Prominent Canadian Musician Says Gig Was Cancelled After Google AI Overview Wrongly Branded Him Sex Pest](https://gizmodo.com/prominent-canadian-musician-says-gig-was-cancelled-after-google-ai-overview-wrongly-branded-him-sex-pest-2000703286)**
-
-What he describes is an ugly case of AI-generated mistaken identity.
-
-Gizmodo • 2h ago
+Financial Times • 2h ago
 
 ---
 
-**[AI Santa as ICE agent video blasted online as 'disgusting' and 'evil'](https://www.euronews.com/culture/2025/12/25/us-department-of-homeland-security-turns-santa-into-an-ice-agent-in-digusting-ai-video)**
+**[In 2025, Hollywood cozied up to AI and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)**
 
-Euronews.com • 3h ago
+Hollywood bet big on generative AI slop in 2025.
+
+The Verge • 10m ago
+
+---
+
+**[Amazon adds controversial AI facial recognition to Ring](https://www.foxnews.com/tech/amazon-adds-controversial-ai-facial-recognition-ring)**
+
+Amazon Ring's new facial recognition feature sparks privacy controversy as Electronic Frontier Foundation critics argue the AI upgrade expands surveillance risks.
+
+Fox News • 1h ago
 
 ---
 
@@ -185,11 +187,9 @@ ScienceAlert • 1d ago
 
 ---
 
-**[AI upheaval shows little sign of lessening](https://www.ft.com/content/728b03a4-cef3-4ee9-a421-d681998ef7d8)**
+**[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
-If the boom continues its blistering pace through 2026, the stresses could start to show
-
-Financial Times • 7h ago
+The Washington Post • 8m ago
 
 ---
 
@@ -205,19 +205,11 @@ Flock left at least 60 of its people-tracking Condor PTZ cameras live streaming 
 
 ---
 
-**[Nvidia buying AI chip startup Groq for about $20B in cash](https://news.ycombinator.com/item?id=46379183)**
-
-Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
-
-⬆️ 571 • 💬 323 • 15h ago • [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)
-
----
-
 **[Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)**
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 334 • 💬 99 • 18h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 341 • 💬 99 • 19h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -249,7 +241,7 @@ My startup for terminals wrapped up mid-2025 when the funding ran dry. So I don�
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 129 • 💬 52 • 13h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 134 • 💬 54 • 13h ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -263,7 +255,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 60 • 💬 78 • 9h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 61 • 💬 78 • 9h ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -271,7 +263,13 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 59 • 💬 15 • 12h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 59 • 💬 15 • 13h ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+
+---
+
+**[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
+
+⬆️ 33 • 💬 17 • 8h ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -295,7 +293,7 @@ Why should we assume that AI is safe? As the technology has grown at an alarming
 
 📺 Adam Conover
 
-👁️ 13K • 👍 753 • 💬 335 • ⏱️ 1:37:17 • 20h ago
+👁️ 13K • 👍 753 • 💬 335 • ⏱️ 1:37:17 • 21h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 851 • 2d ago
+⬇️ 4,163 • ❤️ 855 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 704 • 6d ago
+⬇️ 13,246 • ❤️ 706 • 6d ago
 
 ---
 
@@ -439,7 +437,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 336 • 1d ago
+⬇️ 6,617 • ❤️ 340 • 1d ago
 
 ---
 
@@ -463,7 +461,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,992 • ❤️ 444 • 11d ago
+⬇️ 6,992 • ❤️ 445 • 11d ago
 
 ---
 
@@ -655,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.3k • 🔱 707 • 2h ago
+⭐ 6.3k • 🔱 707 • 3h ago
 
 ---
 
@@ -665,7 +663,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 437 • 7m ago
+⭐ 3.4k • 🔱 437 • 49m ago
 
 ---
 
@@ -675,7 +673,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 206 • 4m ago
+⭐ 2.9k • 🔱 206 • 47m ago
 
 ---
 
