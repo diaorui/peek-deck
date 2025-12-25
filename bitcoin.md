@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T07:45:15.584766+00:00'
+updated: '2025-12-25T07:56:32.025507+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 07:45 UTC  
+**Last Updated:** December 25, 2025 at 07:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -0.5%  
-**30d:** -3.1%  
-**90d:** -19.9%  
-**1y:** -8.4%  
+**24h:** +1.2%  
+**7d:** -0.3%  
+**30d:** -3.0%  
+**90d:** -19.8%  
+**1y:** -8.3%  
 
 ---
 
@@ -87,7 +87,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[Same chart, different emotions.](https://www.reddit.com/r/Bitcoin/comments/1puuf26/same_chart_different_emotions/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[Least depressed fiat maxi](https://www.reddit.com/r/Bitcoin/comments/1puiwzh/least_depressed_fiat_maxi/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -127,7 +127,7 @@ Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,00
 
 Chat, can you explain to me how Bitcoin is supposed to become a staple platform of financial transactions, if it caps at 1/9000th of average daily TPS of one bank and it’s now 2025 and this is still the case? Am I missing something, and if so - can you help me find it?
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi everyone, As a Christmas gift to the community, I wanted to share a project I
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 22h ago
 
 The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
-CoinDesk • 47m ago
+CoinDesk • 59m ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 281 • 💬 50 • ⏱️ 1:12 • 10h ago
+👁️ 10K • 👍 281 • 💬 50 • ⏱️ 1:12 • 11h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin price stalled in 2025, but this episode explains why that year wasn't fa
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 162 • 💬 71 • ⏱️ 5:52 • 9h ago
+👁️ 3K • 👍 162 • 💬 71 • ⏱️ 5:52 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T07:45:15.576357+00:00'
+updated: '2025-12-25T07:56:32.017005+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 07:45 UTC  
+**Last Updated:** December 25, 2025 at 07:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Halo Studios' recent hirings show that the team is heavily invested in generative AI for future development at the studio.
 
-🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 22h ago
+🔗 [Clawsomegamer](https://clawsomegamer.com/new-evidence-reveals-halo-studios-going-all-in-on-generative-ai/) • 23h ago
 
 ---
 
@@ -123,7 +123,7 @@ updated regularly! GitHub Gist: instantly share code, notes, and snippets.
 
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -225,7 +225,7 @@ The European Commission today praised the interoperability changes that Apple is
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 287 • 💬 91 • 13h ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 287 • 💬 91 • 14h ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -549,7 +549,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 60 • 💬 2 • ⭐ 154 • 5d ago
+▲ 60 • 💬 2 • ⭐ 154 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 429 • 8h ago
+⭐ 3.4k • 🔱 429 • 9h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 4m ago
+⭐ 2.9k • 🔱 205 • 16m ago
 
 ---
 
