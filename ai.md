@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T22:28:02.416456+00:00'
+updated: '2025-12-25T22:46:08.267365+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 22:28 UTC  
+**Last Updated:** December 25, 2025 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/VbJ4ilDvGyc?si=z6VCKG-3NvOefFfv) • 8m ago
+🔗 [youtu.be](https://youtu.be/VbJ4ilDvGyc?si=z6VCKG-3NvOefFfv) • 26m ago
 
 ---
 
@@ -81,7 +81,7 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 Since it’s Christmas, I ended up thinking through a Christmas-themed use case, mostly as a way to explain how I approach agent design beyond the foundational layer. The theme itself doesn’t matter much. It just gives you a nice mix of: vague, emotional intent (“I just want this sorted”) hard constraints (budget, deadlines) multiple domains at once When I think about designing an agent here, I’m less focused on responses and more on what components are actually required. For example: an analyzer that turns messy input into something structured (e.g., “budget-sensitive,” “family of 5,” “fixed deadline”) a planner that converts that into a concrete workflow (gift planning, reminders, budget tracking) small, focused workers (one that suggests gifts under a price cap, another that tracks cumulative spend) a validator that can say “this doesn’t work” before anything is shown What’s been interesting for me is how much value you get from automating the build of these components, like prompt scaffolding, baseline RAG setup, and eval wiring. It removes a lot of boring glue work while keeping the system structured and easier to trust. What would be your Christmas themed Agent 😁😉 and how would you approach it?
 
-1h ago
+2h ago
 
 ---
 
@@ -137,17 +137,23 @@ CNBC • 17h ago
 
 ---
 
-**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
+**[Takaichi, AI, Corporate Reform Pave Way for Japan Stocks in 2026](https://www.bloomberg.com/news/articles/2025-12-25/takaichi-ai-corporate-reform-pave-way-for-japan-stocks-in-2026)**
 
-This year saw new AI models, transformative products and new breakthroughs in science and robotics.
-
-blog.google • 2d ago
+Bloomberg.com • 46m ago
 
 ---
 
 **[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
 The New York Times • 12h ago
+
+---
+
+**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
+
+This year saw new AI models, transformative products and new breakthroughs in science and robotics.
+
+blog.google • 2d ago
 
 ---
 
@@ -171,23 +177,15 @@ Star Tribune • 11h ago
 
 ---
 
-**[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
-
-The Washington Post • 4h ago
-
----
-
-**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
-
-From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
-
-MIT Technology Review • 12h ago
-
----
-
 **[AI Santa as ICE agent video blasted online as 'disgusting' and 'evil'](https://www.euronews.com/culture/2025/12/25/us-department-of-homeland-security-turns-santa-into-an-ice-agent-in-digusting-ai-video)**
 
 Euronews.com • 13h ago
+
+---
+
+**[AI Minted More Than 50 New Billionaires In 2025](https://www.forbes.com/sites/aliciapark/2025/12/25/ai-minted-more-than-50-new-billionaires-in-2025/)**
+
+Forbes • 11h ago
 
 ---
 
@@ -285,57 +283,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 28K • 👍 1K • 💬 669 • ⏱️ 11:28 • 1d ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 92K • 👍 4K • 💬 401 • ⏱️ 30:43 • 1d ago
-
----
-
-**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
-
-Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 131K • 👍 4K • 💬 85 • ⏱️ 10:06 • 9h ago
-
----
-
-**[AI toys say bizarre or sexually explicit things to NBC News](https://www.youtube.com/watch?v=3qkTC-05PnQ)**
-
-A wave of #AI-powered children's #toys has hit shelves this #holiday season, claiming to rely on sophisticated chatbots to animate ...
-
-📺 NBC News
-
-👁️ 10K • 👍 263 • 💬 32 • ⏱️ 2:05 • 9h ago
-
----
-
-**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
-
-I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 39K • 👍 2K • 💬 84 • ⏱️ 3:00 • 1d ago
-
----
-
-**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
-
-The robot uprising has already happened, and instead of an apocalyptic war its just boring sludge everywhere. Links: My Patreon: ...
-
-📺 Lily Simpson
-
-👁️ 8K • 👍 1K • 💬 222 • ⏱️ 24:19 • 1d ago
+👁️ 29K • 👍 1K • 💬 697 • ⏱️ 11:28 • 1d ago
 
 ---
 
@@ -349,33 +297,83 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 ---
 
-**[Why AI Billionaires Are Building Bunkers (2026 Warning)](https://www.youtube.com/watch?v=L96iBFXMsTE)**
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
 
-📺 Julia McCoy
+📺 AI Search
 
-👁️ 108K • 👍 4K • 💬 1K • ⏱️ 6:53 • 2d ago
-
----
-
-**[OpenAI Releases ChatGPT AI Agent Skills](https://www.youtube.com/watch?v=iHyK-CW3ciI)**
-
-Today I break down a big news item I think is flying under the radar: OpenAI quietly launched Skills for Codex, and I explain what ...
-
-📺 Greg Isenberg
-
-👁️ 19K • 👍 496 • 💬 60 • ⏱️ 18:48 • 3d ago
+👁️ 94K • 👍 4K • 💬 406 • ⏱️ 30:43 • 1d ago
 
 ---
 
-**[Realistic AI CLONE 😱 AI Avatar ✅ How to create AI Avatar video #ai](https://www.youtube.com/watch?v=-sp1iH7va6g)**
+**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
 
-REALISTIC AI CLONE / AI AVATAR VIDEO — Step-by-Step Guide In this video, I show you how to create a realistic AI Clone (AI ...
+The robot uprising has already happened, and instead of an apocalyptic war its just boring sludge everywhere. Links: My Patreon: ...
 
-📺 Raj Photo Editing and Much More
+📺 Lily Simpson
 
-👁️ 9K • 👍 774 • 💬 42 • ⏱️ 3:50 • 10h ago
+👁️ 8K • 👍 1K • 💬 228 • ⏱️ 24:19 • 1d ago
+
+---
+
+**[The Most INSANE AI News This Week! 🤯](https://www.youtube.com/watch?v=OE_Dq8v3J7I)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 947 • 👍 24 • 💬 3 • ⏱️ 9:46 • 5h ago
+
+---
+
+**[AI Short Film | I Love The Dance 4K](https://www.youtube.com/watch?v=4q9exMT4D5M)**
+
+I wanted to combine fashion and dance for this one. Midjourney sometimes makes the same person repeated in scenes. Also ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 42K • 👍 2K • 💬 85 • ⏱️ 3:00 • 1d ago
+
+---
+
+**[Calf brought roti for his mother by working hard 😭 #ai #calf #cow](https://www.youtube.com/watch?v=Sgu7MM_cLyY)**
+
+Calf brought roti for his mother by working hard #ai #calf #cow #EmotionalStory #CowLove #HeartTouching #Inspiration ...
+
+📺 Bhola Mahor Ai 
+
+👁️ 620 • 👍 17 • ⏱️ 0:40 • 6h ago
+
+---
+
+**[Grandfather Creates Magical Helicopter Surprise for Cute Baby 🚁🎁 #ai #cutebaby #kindness](https://www.youtube.com/watch?v=pkSoo8ge49U)**
+
+Grandfather Creates Magical Helicopter Surprise for Cute Baby #ai #cutebaby #kindness #cutebaby #trendingshorts This ...
+
+📺 ETC BackLol Facts
+
+👁️ 2.3M • 💬 8 • ⏱️ 0:21 • 9h ago
+
+---
+
+**[Hulk vs काला पहलवान 🥊🔥 पूरा अखाड़ा गूंज उठा #ai #hulk #shortvideos #aihulk #shorts](https://www.youtube.com/watch?v=EGC6ggEeKng)**
+
+Hulk vs काला पहलवान पूरा अखाड़ा गूंज उठा #ai #hulk #shortvideos #aihulk #shorts .Tags:- Hulk ...
+
+📺 Plane 3
+
+👁️ 5K • 👍 288 • 💬 1 • ⏱️ 1:04 • 7h ago
+
+---
+
+**[Monkey Saved a Strawberry Tree from Dying 😭 | Emotional AI Story #ai #save #tree #monkey](https://www.youtube.com/watch?v=6IzdB1OkCzo)**
+
+Monkey Saved a Strawberry Tree from Dying | Emotional AI Story A monkey saved a strawberry tree in the desert… But the ...
+
+📺 AI Nature Tales
+
+👁️ 2K • 👍 112 • ⏱️ 0:47 • 5h ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 879 • 2d ago
+⬇️ 4,163 • ❤️ 880 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 720 • 6d ago
+⬇️ 13,246 • ❤️ 721 • 6d ago
 
 ---
 
@@ -461,7 +459,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 302 • 7d ago
+⬇️ 0 • ❤️ 303 • 7d ago
 
 ---
 
@@ -656,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.4k • 🔱 716 • 4h ago
+⭐ 6.4k • 🔱 716 • 5h ago
 
 ---
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 451 • 32m ago
+⭐ 3.5k • 🔱 451 • 50m ago
 
 ---
 

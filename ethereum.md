@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-25T22:28:02.431186+00:00'
+updated: '2025-12-25T22:46:08.281726+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 22:28 UTC  
+**Last Updated:** December 25, 2025 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -1.4%  
-**30d:** -2.5%  
-**90d:** -26.6%  
-**1y:** -11.7%  
+**24h:** -0.7%  
+**7d:** -2.0%  
+**30d:** -3.2%  
+**90d:** -27.1%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $355.51B
+**Market Cap:** $353.79B
 Rank #2
 
 **Circulating Supply:** 120,694,980 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.5%
+-40.7%
 
 **All-Time Low:** $0.43
-+679872.9%
++676865.9%
 
 ---
 
@@ -156,11 +156,11 @@ Crypto Briefing • 2d ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+**[Ethereum ETFs Bleed for 2 Weeks, But This Key Level Retest Could Flip the Script](https://finance.yahoo.com/news/ethereum-etfs-bleed-2-weeks-220000480.html)**
 
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+Ethereum price may rebound as ETF outflows persist while long-term holders strengthen and $2,798 support retest nears potential recovery.
 
-ts2.tech • 6h ago
+Yahoo Finance • 46m ago
 
 ---
 
@@ -169,6 +169,14 @@ ts2.tech • 6h ago
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+
+ts2.tech • 6h ago
 
 ---
 
@@ -188,23 +196,17 @@ FXStreet • 1d ago
 
 ---
 
-**[ETH at Risk? Four Indicators Point to More Pain Ahead](https://beincrypto.com/why-eth-price-may-not-recover-soon/)**
-
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
-
-BeInCrypto • 7h ago
-
----
-
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
 The Block • 2d ago
 
 ---
 
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+**[ETH at Risk? Four Indicators Point to More Pain Ahead](https://beincrypto.com/why-eth-price-may-not-recover-soon/)**
 
-CCN.com • 8h ago
+Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
+
+BeInCrypto • 7h ago
 
 ---
 
@@ -228,23 +230,23 @@ Decrypt • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ON96r6z1Ldw)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 109 • 💬 5 • ⏱️ 4:41 • 5h ago
-
----
-
 **[BITCOIN &amp; ALTCOIN HOLDERS: IT&#39;S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BaPDXfHioQk)**
 
 BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 2K • 👍 157 • 💬 26 • ⏱️ 16:26 • 4h ago
+👁️ 4K • 👍 206 • 💬 45 • ⏱️ 16:26 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ON96r6z1Ldw)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 133 • 💬 7 • ⏱️ 4:41 • 6h ago
 
 ---
 
@@ -254,7 +256,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 4K • 👍 111 • 💬 48 • ⏱️ 13:41 • 1d ago
+👁️ 4K • 👍 112 • 💬 48 • ⏱️ 13:41 • 1d ago
 
 ---
 
@@ -278,33 +280,33 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 ---
 
+**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
+
+Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 16K • 👍 112 • 💬 112 • ⏱️ 11:00 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
+
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
+
+📺 Trading Jip
+
+👁️ 468 • 👍 33 • 💬 14 • ⏱️ 7:57 • 10h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 113 • 💬 6 • ⏱️ 3:51 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=hSx4zDNCwpQ)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Unboxing review
-
-👁️ 5K • 👍 1K • 4h ago
-
----
-
-**[ETHZilla Just Dumped $74M of Ethereum... Is BitMine ($BMNR) Next?](https://www.youtube.com/watch?v=xqpkgZFFgwo)**
-
-One company is folding, the other is doubling down. Is this a warning sign? In this video, we break down the breaking news that ...
-
-📺 CryptoStock Lab
-
-👁️ 3K • 👍 78 • 💬 83 • ⏱️ 13:29 • 22h ago
+👁️ 2K • 👍 114 • 💬 6 • ⏱️ 3:51 • 1d ago
 
 ---
 
@@ -318,13 +320,13 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=irv0v8HgYM8)**
+**[Ethereum Price ready for a pump to $5000](https://www.youtube.com/watch?v=LNDMyBhXMpU)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 I am bearish on BTC and bullish on Ethereum for the last week of the ...
 
-📺 KDR Music House
+📺 Trading Jip
 
-👁️ 4K • 👍 2K • 2h ago
+👁️ 979 • 👍 44 • 💬 28 • ⏱️ 9:42 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T22:28:02.434470+00:00'
+updated: '2025-12-25T22:46:08.284941+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 22:28 UTC  
+**Last Updated:** December 25, 2025 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-7h ago
+8h ago
 
 ---
 
@@ -46,17 +46,17 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
-**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
-
-14h ago
-
----
-
 **[How do I connect my hiwonder somatosensory glove to my hiwonder robotic hand](https://www.reddit.com/r/robotics/comments/1pvlra3/how_do_i_connect_my_hiwonder_somatosensory_glove/)**
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
 2h ago
+
+---
+
+**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
+
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-20h ago
+21h ago
 
 ---
 
@@ -92,19 +92,19 @@ The US government have just banned imported drones and critical drone parts as "
 
 ---
 
-**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
-
-Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
-
-6h ago
-
----
-
 **[UBTech secures $237M fenglong partnership to fortify humanoid robot supply chain.](https://www.reddit.com/r/robotics/comments/1pvl9n1/ubtech_secures_237m_fenglong_partnership_to/)**
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
 🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 2h ago
+
+---
+
+**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
+
+Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
+
+6h ago
 
 ---
 
@@ -198,7 +198,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 51K • 👍 843 • 💬 95 • ⏱️ 2:08:46 • 5d ago
+👁️ 52K • 👍 847 • 💬 97 • ⏱️ 2:08:46 • 5d ago
 
 ---
 
@@ -208,7 +208,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 27K • 👍 467 • 💬 63 • ⏱️ 13:55 • 2d ago
+👁️ 29K • 👍 483 • 💬 63 • ⏱️ 13:55 • 2d ago
+
+---
+
+**[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
+
+FutureTech #Robotics #LawEnforcement.
+
+📺 Skye Ocean Girl
+
+👁️ 30K • 👍 147 • 💬 6 • ⏱️ 0:19 • 4d ago
 
 ---
 
@@ -228,27 +238,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 70K • 💬 4 • ⏱️ 0:27 • 18h ago
-
----
-
-**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
-
-Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
-
-📺 War Robots [WR]
-
-👁️ 26K • 👍 1K • 💬 2K • ⏱️ 9:57 • 13h ago
-
----
-
-**[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
-
-FutureTech #Robotics #LawEnforcement.
-
-📺 Skye Ocean Girl
-
-👁️ 30K • 👍 147 • 💬 6 • ⏱️ 0:19 • 4d ago
+👁️ 70K • 💬 4 • ⏱️ 0:27 • 19h ago
 
 ---
 
@@ -258,27 +248,27 @@ This ultra-realistic humanoid head demonstrates how far robotics and AI have com
 
 📺 Deepen
 
-👁️ 45K • 👍 260 • 💬 13 • ⏱️ 0:08 • 4d ago
+👁️ 46K • 👍 263 • 💬 13 • ⏱️ 0:08 • 4d ago
 
 ---
 
-**[An exclusive look inside China&#39;s humanoid robot mass-production factory in Shanghai](https://www.youtube.com/watch?v=d17f_5dVW7I)**
+**[The EASIEST Titan to play in War Robots… NEW WEAPONS!](https://www.youtube.com/watch?v=kMVREd5gVFQ)**
 
-China's leading robotics company, AgiBot, recently unveiled its 5000th mass-produced humanoid robot. How are humanoid ...
+War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #warrobotsgameplay #wr My ...
 
-📺 New China TV
+📺 Manni-Gaming
 
-👁️ 68K • 👍 1K • 💬 289 • ⏱️ 31:49 • 6d ago
+👁️ 4K • 👍 222 • 💬 38 • ⏱️ 12:08 • 6h ago
 
 ---
 
-**[Ukraine’s Mobile Drone Base!](https://www.youtube.com/watch?v=zdZObV2t01U)**
+**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
 
-Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the frontline! This stealthy robot carries and ...
+Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
 
-📺 Defense Digest
+📺 War Robots [WR]
 
-👁️ 2K • 👍 65 • ⏱️ 0:22 • 4h ago
+👁️ 30K • 👍 2K • 💬 2K • ⏱️ 9:57 • 13h ago
 
 ---
 
@@ -288,7 +278,17 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 210K • 👍 3K • 💬 719 • ⏱️ 2:23 • 5d ago
+👁️ 212K • 👍 3K • 💬 727 • ⏱️ 2:23 • 5d ago
+
+---
+
+**[Ukraine’s Mobile Drone Base!](https://www.youtube.com/watch?v=zdZObV2t01U)**
+
+Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the frontline! This stealthy robot carries and ...
+
+📺 Defense Digest
+
+👁️ 3K • 👍 115 • ⏱️ 0:22 • 5h ago
 
 ---
 
