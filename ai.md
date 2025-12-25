@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-25T07:30:41.117819+00:00'
+updated: '2025-12-25T07:45:15.576357+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 25, 2025 at 07:30 UTC  
+**Last Updated:** December 25, 2025 at 07:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Reddit has been my inspiration for many years. While I’m still learning the ro
 
 I'm a pretty simple Gen X'er. I was on windows 3.1 till XP. And was on windows 7 till windows 10. Then right after getting into 10. MS starts forcing 11. So today I gave googles AI a try. I like it. Learning to give more detail in my text questions and information on general DIY projects. I guess I use it like a search engine. But love how it just about... Almost.. kinda brakes down the answer like a MS word document. I'm probably just that old and out dated. My hang up is I cant justify these oddly common $20 monthly fees ChatSTD and other AI outfits. But I think I recently came across how they have AI programs you can run locally? Would openAi type local use, work similar to me asking questions or even idea on types of wood or DIY hand tool project ideas. Online? And yes, I know for responses, I'm sure the local AI would need access to the internet. But I'm really liking how AI seems like a assistant that we need to double check it's work. But it does help bring other thoughts to the surface. I just can't justify the trending $20 mberships. But like how it answers questions and shares ideas. Trippy stuff. Thanks for any insight.
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 21h ago
 
 HARRISBURG — The new reality for Pennsylvania lawmakers who want to make rules for artificial intelligence is that they must fight through partisanship,...
 
-Pittsburgh Post-Gazette • 12h ago
+Pittsburgh Post-Gazette • 13h ago
 
 ---
 
@@ -525,7 +525,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 2 • ⭐ 13,128 • 1mo ago
+▲ 10 • 💬 2 • ⭐ 13,166 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -537,7 +537,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 4 • 💬 0 • ⭐ 61,518 • 10mo ago
+▲ 5 • 💬 0 • ⭐ 61,518 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -616,7 +616,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 SAM Audio, a diffusion transformer-based foundation model, achieves superior performance in general audio separation using unified text, visual, and temporal span prompts across various audio types.
 
-▲ 10 • 💬 0 • ⭐ 2,494 • 5d ago
+▲ 10 • 💬 0 • ⭐ 2,512 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.18099) • [💻 code](https://github.com/facebookresearch/sam-audio) • [🔗 project](https://ai.meta.com/samaudio/)
 
@@ -629,7 +629,7 @@ SAM Audio, a diffusion transformer-based foundation model, achieves superior per
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 26 • 💬 1 • ⭐ 66,109 • 27mo ago
+▲ 26 • 💬 1 • ⭐ 66,141 • 27mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -665,7 +665,7 @@ Autonomous multi-session AI coding
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 428 • 8h ago
+⭐ 3.4k • 🔱 429 • 8h ago
 
 ---
 
@@ -675,7 +675,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 2.9k • 🔱 205 • 52m ago
+⭐ 2.9k • 🔱 205 • 4m ago
 
 ---
 
@@ -685,7 +685,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.0k • 🔱 382 • 19d ago
+⭐ 2.0k • 🔱 383 • 19d ago
 
 ---
 
@@ -695,7 +695,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 215 • 1d ago
+⭐ 1.3k • 🔱 216 • 1d ago
 
 ---
 
@@ -705,7 +705,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.2k • 🔱 103 • 2d ago
+⭐ 1.2k • 🔱 104 • 2d ago
 
 ---
 
@@ -715,7 +715,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.1k • 🔱 113 • 1d ago
+⭐ 1.1k • 🔱 114 • 1d ago
 
 ---
 
@@ -725,7 +725,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 899 • 🔱 128 • 7d ago
+⭐ 900 • 🔱 128 • 7d ago
 
 ---
 
@@ -735,7 +735,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 855 • 🔱 41 • 14h ago
+⭐ 887 • 🔱 43 • 14h ago
 
 ---
 

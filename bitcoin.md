@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T07:30:41.126194+00:00'
+updated: '2025-12-25T07:45:15.584766+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 07:30 UTC  
+**Last Updated:** December 25, 2025 at 07:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.3%  
-**30d:** -2.9%  
-**90d:** -19.7%  
-**1y:** -8.2%  
+**24h:** +1.1%  
+**7d:** -0.5%  
+**30d:** -3.1%  
+**90d:** -19.9%  
+**1y:** -8.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Every cycle feels different, but the fundamentals never change. We’ve seen bigger dips, longer consolidations, and far more FUD. Zoom out, stack sats, and enjoy the ride. The long-term trend is undeniable for anyone with conviction. Happy HODLdays, Bitcoiners! 🚀
 
-8h ago
+9h ago
 
 ---
 
@@ -99,7 +99,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 **[me_irl](https://www.reddit.com/r/Bitcoin/comments/1pv5a5g/me_irl/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Every cycle feels different, but the fundamentals never change. We’ve seen big
 
 Today I invested in Bitcoin for the first time. 1,000 euros. Today it's at 87,000. What do you think? What do you think the trend will be in 2026?
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Chat, can you explain to me how Bitcoin is supposed to become a staple platform 
 
 **[Probably the best Bitcoin ad.](https://www.reddit.com/r/Bitcoin/comments/1pumeum/probably_the_best_bitcoin_ad/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 22h ago
 
 The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
-CoinDesk • 33m ago
+CoinDesk • 47m ago
 
 ---
 
@@ -241,7 +241,7 @@ How much of a resource hog is AI?
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 2h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 3h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -383,7 +383,7 @@ Is the Bitcoin "four-year cycle" officially dead? As we head into 2026, the cryp
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 329 • 💬 33 • ⏱️ 58:02 • 14h ago
+👁️ 5K • 👍 329 • 💬 33 • ⏱️ 58:02 • 15h ago
 
 ---
 
