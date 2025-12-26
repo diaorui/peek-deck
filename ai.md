@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T16:51:19.760743+00:00'
+updated: '2025-12-26T17:10:44.741645+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 16:51 UTC  
+**Last Updated:** December 26, 2025 at 17:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-32m ago
+52m ago
 
 ---
 
@@ -57,7 +57,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
 
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 12h ago
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 23h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 1d ago
 
 ---
 
@@ -73,7 +73,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 16h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 17h ago
 
 ---
 
@@ -81,7 +81,7 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 20h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 21h ago
 
 ---
 
@@ -89,7 +89,7 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
 
-14h ago
+15h ago
 
 ---
 
@@ -97,7 +97,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-22h ago
+23h ago
 
 ---
 
@@ -135,23 +135,23 @@ The Guardian • 2h ago
 
 ---
 
-**[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqd-kfdE98ENpUJk-PECswc5ELtKq-O3tQBoeJ9Xm0GHnjdRnXQkQXSb&gaa_ts=694ebc17&gaa_sig=raHDaWTDJvQ6pXdPwhdvAb0DnVONggSfjSOuEYAi0lqxOxO__HOH1qzEQCcVYYoRWj8RJvdxxmQ4Kn7M46vSPA%3D%3D)**
+**[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqebu_t_jMKdms4KIQRutpHm3OZYTuqH6UH4H_XpveelpG6iolmOv07P&gaa_ts=694ec4fd&gaa_sig=3WFEL1Tw_2gOLGha5SOsYrqFw3S_cnFFbcj4_CBZsBjzWldZ0rNVH2gbFtLOT2KD9apGWcpHhmkdkOmlYcN7lg%3D%3D)**
 
-MarketWatch • 31m ago
-
----
-
-**[How AI Is Making Life Easier for Cybercriminals](https://www.wsj.com/tech/cybersecurity/cybercrime-ai-cyberattacks-5b59627e?gaa_at=eafs&gaa_n=AWEtsqf5vm5TwNf0ygoE60WDhv2OrzTTM9AeQQgbE8U3ydw6qbEgKDOwqDP6&gaa_ts=694ebc17&gaa_sig=qLs4xfN12lLg_jLLaHOZGbbnLKF2B7mNlJmAQdrZGME5GQoWb56yaQiVtNoc3qL1saA45i-HxuX_Ue2agSNuvg%3D%3D)**
-
-The Wall Street Journal • 51m ago
+MarketWatch • 50m ago
 
 ---
 
-**[How health systems can prepare for the next phase of AI adoption](https://www.healthcareitnews.com/news/how-health-systems-can-prepare-next-phase-ai-adoption)**
+**[How 2025 Recalibrated AI Models Race](https://www.forbes.com/sites/geruiwang/2025/12/26/how-2025-recalibrated-ai-models-race/)**
 
-In 2026, healthcare will embrace the model context protocol, deploy better documentation tools that boost reimbursement and patient outcomes, and adopt smaller, domain-specific AI models, one CEO says.
+Forbes • 40m ago
 
-Healthcare IT News • 51m ago
+---
+
+**[GOP lawmaker shredded for posting AI images of himself beating up Santa on Christmas](https://www.independent.co.uk/news/world/americas/us-politics/chris-garten-indiana-christmas-post-b2890729.html)**
+
+Indiana state Sen. Chris Garten acknowledged the backlash and labeled his critics ‘snowflakes’
+
+The Independent • 41m ago
 
 ---
 
@@ -159,7 +159,7 @@ Healthcare IT News • 51m ago
 
 Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -171,19 +171,11 @@ Fox News • 2h ago
 
 ---
 
-**[I spent a year interviewing and listening to over 50 tech leaders talk about AI. Here are the 4 biggest lessons.](https://www.businessinsider.com/tech-leaders-ai-interview-podcast-conference-lessons-workforce-career-tips-2025-12)**
+**[The Rise of the AI Wingman](https://www.businessinsider.com/ai-wingman-dating-helper-tinder-hinge-pickup-lines-chatgpt-2025-12)**
 
-I spent a year listening to tech leaders talk about AI. Here are the biggest lessons on AI, work, superintelligence, and what comes next.
+Daters are using AI to slide into DMs and craft Hinge profiles. A crop of startups and dating apps are fighting for these AI-powered daters.
 
-Business Insider • 9h ago
-
----
-
-**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
-
-Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
-
-Financial Times • 1d ago
+Business Insider • 7h ago
 
 ---
 
@@ -195,6 +187,14 @@ MIT Technology Review • 1d ago
 
 ---
 
+**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
+
+Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
+
+Financial Times • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +203,7 @@ MIT Technology Review • 1d ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 429 • 💬 120 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 430 • 💬 120 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -213,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 249 • 💬 277 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 251 • 💬 286 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -253,7 +253,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 74 • 💬 33 • 9h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 77 • 💬 38 • 9h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -391,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 941 • 3d ago
+⬇️ 4,752 • ❤️ 942 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,171 • ❤️ 759 • 7d ago
+⬇️ 14,171 • ❤️ 764 • 7d ago
 
 ---
 
@@ -461,7 +461,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 280 • 9h ago
+⬇️ 121 • ❤️ 287 • 9h ago
 
 ---
 
@@ -485,7 +485,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 425 • 3d ago
+⬇️ 0 • ❤️ 426 • 3d ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 470 • 33m ago
+⭐ 3.6k • 🔱 470 • 52m ago
 
 ---
 
@@ -704,7 +704,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 116 • 13h ago
+⭐ 1.3k • 🔱 116 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T16:51:19.769182+00:00'
+updated: '2025-12-26T17:10:44.750362+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 16:51 UTC  
+**Last Updated:** December 26, 2025 at 17:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -1.1%  
-**30d:** -4.4%  
-**90d:** -22.0%  
-**1y:** -7.4%  
+**24h:** -1.2%  
+**7d:** -1.4%  
+**30d:** -4.7%  
+**90d:** -22.3%  
+**1y:** -7.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1740.05B
+**Market Cap:** $1735.52B
 Rank #1
 
-**Circulating Supply:** 19,967,403 BTC
+**Circulating Supply:** 19,967,421 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-31.0%
 
 **All-Time Low:** $67.81
-+128521.1%
++128128.9%
 
 ---
 
@@ -89,27 +89,21 @@ Rank #1
 
 ---
 
-**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
-
-9h ago
-
----
-
 **[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
 
 4h ago
 
 ---
 
-**[When gold is measured against the U.S. money supply, it’s back at a level that historically marked major turning points. This ratio was last seen in 2011 and before that in the early 1970s, just ahead of gold’s explosive multi-year run. Today, gold has rallied about 70% this year and is pressing ag](https://www.reddit.com/r/Bitcoin/comments/1pw6205/when_gold_is_measured_against_the_us_money_supply/)**
+**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-1h ago
+9h ago
 
 ---
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -117,13 +111,7 @@ Rank #1
 
 Video cred: clusk
 
-18h ago
-
----
-
-**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
-
-13h ago
+19h ago
 
 ---
 
@@ -135,9 +123,21 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 ---
 
+**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
+
+14h ago
+
+---
+
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
 22h ago
+
+---
+
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+
+1d ago
 
 ---
 
@@ -159,47 +159,7 @@ Forbes • 4h ago
 
 ---
 
-**[Bitcoin (BTC) mining in 2025: Winners and laggards emerge as IREN leads and BTDR falls behind](https://www.coindesk.com/markets/2025/12/26/bitcoin-mining-in-2025-iren-claims-the-crown-as-bitdeer-s-stock-trails-the-pack)**
-
-Diversification into AI and HPC infrastructure drove sharp outperformance for miners, while pure-play bitcoin miners lagged.
-
-CoinDesk • 50m ago
-
----
-
-**[Bitcoin's Pullback Spurs Year-End Crypto Tax-Loss Harvesting](https://finance.yahoo.com/news/bitcoins-pullback-spurs-end-crypto-160023149.html)**
-
-Bitcoin's 30% drop from its peak, alongside strong equity gains, is prompting advisers to highlight tax-loss strategies ahead of Dec. 31.
-
-Yahoo Finance • 50m ago
-
----
-
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 5h ago
-
----
-
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
-
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
-
-CoinDesk • 1d ago
-
----
-
-**[Death Cross Threat Returns for Bitcoin, and $67,000 Is Not Meme Number Anymore](https://www.tradingview.com/news/u_today:6be5ac36d094b:0-death-cross-threat-returns-for-bitcoin-and-67-000-is-not-meme-number-anymore/)**
-
-Bitcoin just got the kind of chart setup that makes even confident dip-buyers check their leverage twice today. On the weekly BINANCE:BTCUSDT chart, the price is around $88,690 and the market participants are better to stare at a death-cross setup with about two days left in the current candle.This…
-
-TradingView — Track All Markets • 1h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdZc3LCxx5z0eO6llt7mJ66AlRCr02Rf6OKRsPfkc6nvIOpR32hlnLR&gaa_ts=694ebc18&gaa_sig=fPhCrnxMbhT5zJmYXxPqpIO3r9xHvpxxnU_bzP0agyTnXsclBgLUg1mKhzwaD3xBvxIuUzEYCQddmB1MMF4faQ%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqd5_mzCVi-GUoqIGtjbwjP6-UvYfQlCNJlI6TlUgbRAyj2X-op3jktQ&gaa_ts=694ec4fc&gaa_sig=wLdOIMPII15waB3pl117PT9JMLfbOeZ8gCdsITi4h_-Mni9Ho-WAOCxbnNXoYsM5tdgFitoGdJVMRxhkjAYFuA%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -215,7 +175,43 @@ Cleveland.com • 3h ago
 
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 22h ago
+The Block • 23h ago
+
+---
+
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+
+CoinDesk • 1d ago
+
+---
+
+**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
+
+CCN.com • 22h ago
+
+---
+
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
+
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+
+Reuters • 2d ago
+
+---
+
+**[World’s oldest Bitcoin Mining Pool celebrates 15th anniversary, has mined 1,311,339 bitcoins worth $115 billion — group has 255 billion times more hash power than at inception](https://www.tomshardware.com/tech-industry/cryptomining/worlds-oldest-bitcoin-mining-pool-celebrates-15th-anniversary-has-mined-1-311-339-bitcoins-worth-usd115-billion-group-has-255-billion-times-more-hash-power-than-at-inception)**
+
+Slush proposed the first cooperative mining operation dubbed Bitcoin CZ, which became Slush Pool, and continues to run as the Braiins Pool.
+
+Tom's Hardware • 2d ago
 
 ---
 
@@ -285,7 +281,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 466 • 💬 120 • ⏱️ 4:31 • 20h ago
+👁️ 12K • 👍 466 • 💬 120 • ⏱️ 4:31 • 21h ago
 
 ---
 
