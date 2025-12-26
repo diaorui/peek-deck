@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T16:32:49.481390+00:00'
+updated: '2025-12-26T16:51:19.769182+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 16:32 UTC  
+**Last Updated:** December 26, 2025 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,112.85
+### $87,343.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -1.3%  
-**30d:** -4.6%  
-**90d:** -22.1%  
-**1y:** -7.5%  
+**24h:** -1.0%  
+**7d:** -1.1%  
+**30d:** -4.4%  
+**90d:** -22.0%  
+**1y:** -7.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 4h ago
 
 Diversification into AI and HPC infrastructure drove sharp outperformance for miners, while pure-play bitcoin miners lagged.
 
-CoinDesk • 32m ago
+CoinDesk • 50m ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 32m ago
 
 Bitcoin's 30% drop from its peak, alongside strong equity gains, is prompting advisers to highlight tax-loss strategies ahead of Dec. 31.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -209,7 +209,7 @@ The Wall Street Journal • 2d ago
 
 In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
 
-Cleveland.com • 2h ago
+Cleveland.com • 3h ago
 
 ---
 
@@ -325,7 +325,7 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 44K • 👍 3K • 💬 251 • ⏱️ 10:10 • 21h ago
+👁️ 44K • 👍 3K • 💬 251 • ⏱️ 10:10 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ crypto #bitcoin #crash On the USD1 pair, it suddenly crashed to $24000 ...
 
 📺 Crypto Angler
 
-👁️ 681 • 👍 45 • 💬 20 • ⏱️ 4:26 • 9h ago
+👁️ 681 • 👍 45 • 💬 20 • ⏱️ 4:26 • 10h ago
 
 ---
 

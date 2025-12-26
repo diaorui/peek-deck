@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T16:32:49.487579+00:00'
+updated: '2025-12-26T16:51:19.775134+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 16:32 UTC  
+**Last Updated:** December 26, 2025 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,923.60
+### $2,919.80
 
 ---
 
@@ -45,7 +45,7 @@ Live Ethereum monitoring dashboard
 **24h:** -1.0%  
 **7d:** -1.9%  
 **30d:** -3.0%  
-**90d:** -29.3%  
+**90d:** -29.4%  
 **1y:** -12.2%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ CryptoSlate • 3d ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 5h ago
+Coinpedia Fintech News • 6h ago
 
 ---
 

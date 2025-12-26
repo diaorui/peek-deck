@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T16:32:49.472805+00:00'
+updated: '2025-12-26T16:51:19.760743+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 16:32 UTC  
+**Last Updated:** December 26, 2025 at 16:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-14m ago
+32m ago
 
 ---
 
@@ -137,13 +137,13 @@ The Guardian • 2h ago
 
 **[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqd-kfdE98ENpUJk-PECswc5ELtKq-O3tQBoeJ9Xm0GHnjdRnXQkQXSb&gaa_ts=694ebc17&gaa_sig=raHDaWTDJvQ6pXdPwhdvAb0DnVONggSfjSOuEYAi0lqxOxO__HOH1qzEQCcVYYoRWj8RJvdxxmQ4Kn7M46vSPA%3D%3D)**
 
-MarketWatch • 12m ago
+MarketWatch • 31m ago
 
 ---
 
 **[How AI Is Making Life Easier for Cybercriminals](https://www.wsj.com/tech/cybersecurity/cybercrime-ai-cyberattacks-5b59627e?gaa_at=eafs&gaa_n=AWEtsqf5vm5TwNf0ygoE60WDhv2OrzTTM9AeQQgbE8U3ydw6qbEgKDOwqDP6&gaa_ts=694ebc17&gaa_sig=qLs4xfN12lLg_jLLaHOZGbbnLKF2B7mNlJmAQdrZGME5GQoWb56yaQiVtNoc3qL1saA45i-HxuX_Ue2agSNuvg%3D%3D)**
 
-The Wall Street Journal • 32m ago
+The Wall Street Journal • 51m ago
 
 ---
 
@@ -151,7 +151,7 @@ The Wall Street Journal • 32m ago
 
 In 2026, healthcare will embrace the model context protocol, deploy better documentation tools that boost reimbursement and patient outcomes, and adopt smaller, domain-specific AI models, one CEO says.
 
-Healthcare IT News • 32m ago
+Healthcare IT News • 51m ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 4h ago
 
 The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -253,7 +253,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 74 • 💬 33 • 8h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 74 • 💬 33 • 9h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -273,7 +273,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 **[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
 
-⬆️ 37 • 💬 13 • 1d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
+⬆️ 37 • 💬 13 • 2d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 
 ---
 
@@ -365,7 +365,7 @@ In this video, I'll be showing you a cheat code workflow that combines Claude 4.
 
 📺 AI AimanJunaidi
 
-👁️ 24K • 👍 3K • 💬 179 • ⏱️ 27:22 • 11h ago
+👁️ 24K • 👍 3K • 💬 179 • ⏱️ 27:22 • 12h ago
 
 ---
 
@@ -427,7 +427,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,448 • 17d ago
+⬇️ 402,987 • ❤️ 3,448 • 18d ago
 
 ---
 
@@ -461,7 +461,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 280 • 8h ago
+⬇️ 121 • ❤️ 280 • 9h ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 748 • 9h ago
+⭐ 6.8k • 🔱 748 • 10h ago
 
 ---
 
@@ -664,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 470 • 14m ago
+⭐ 3.6k • 🔱 470 • 33m ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 1h ago
+⭐ 3.1k • 🔱 214 • 2h ago
 
 ---
 
@@ -714,7 +714,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 227 • 59m ago
+⭐ 1.3k • 🔱 227 • 1h ago
 
 ---
 
