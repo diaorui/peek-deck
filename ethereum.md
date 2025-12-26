@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T04:01:37.288421+00:00'
+updated: '2025-12-26T04:43:19.160971+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 04:01 UTC  
+**Last Updated:** December 26, 2025 at 04:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -0.6%  
-**30d:** -1.8%  
-**90d:** -28.5%  
-**1y:** -11.1%  
+**24h:** +0.8%  
+**7d:** -0.5%  
+**30d:** -1.7%  
+**90d:** -28.4%  
+**1y:** -11.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.50B
+**Market Cap:** $357.30B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.1%
 
 **All-Time Low:** $0.43
-+683951.7%
++684002.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-15h ago
+16h ago
 
 ---
 
@@ -152,19 +152,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 13h ago
+CCN.com • 14h ago
 
 ---
 
-**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
+**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
 
-TradingView — Track All Markets • 3h ago
+Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -180,7 +182,7 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 11h ago
+ts2.tech • 12h ago
 
 ---
 
@@ -188,13 +190,21 @@ ts2.tech • 11h ago
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
 
 ---
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
 The Block • 2d ago
+
+---
+
+**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+
+Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
+
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -214,14 +224,6 @@ Coinpedia • 9h ago
 
 ---
 
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
-
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
-
-The Motley Fool • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +234,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 211 • 👍 16 • 💬 1 • ⏱️ 15:04 • 1h ago
+👁️ 211 • 👍 16 • 💬 1 • ⏱️ 15:04 • 2h ago
 
 ---
 
@@ -252,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 157 • 💬 9 • ⏱️ 4:41 • 11h ago
+👁️ 2K • 👍 157 • 💬 9 • ⏱️ 4:41 • 12h ago
 
 ---
 
@@ -282,7 +284,7 @@ Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin domin
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 17K • 👍 112 • 💬 112 • ⏱️ 11:00 • 1d ago
+👁️ 17K • 👍 112 • 💬 112 • ⏱️ 11:00 • 2d ago
 
 ---
 
@@ -302,7 +304,7 @@ LIVE CRYPTO TRADING / Bitcoin ,Gold and ETH #livetrading #live #gold #cryptotrad
 
 📺 Trade With Rakhi
 
-👁️ 12K • 👍 649 • 9h ago
+👁️ 12K • 👍 649 • 10h ago
 
 ---
 

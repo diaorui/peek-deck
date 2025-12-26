@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T04:01:37.291652+00:00'
+updated: '2025-12-26T04:43:19.164183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 04:01 UTC  
+**Last Updated:** December 26, 2025 at 04:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
-
-13h ago
-
----
-
 **[Is this dancing difficult for a robot?](https://www.reddit.com/r/robotics/comments/1pvum6m/is_this_dancing_difficult_for_a_robot/)**
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-19m ago
+1h ago
+
+---
+
+**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
+
+14h ago
+
+---
+
+**[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
+
+44m ago
 
 ---
 
@@ -58,19 +64,13 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-7h ago
+8h ago
 
 ---
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-20h ago
-
----
-
-**[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
-
-2m ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Wishing everyone a happy Christmas holiday.
 
-16h ago
+17h ago
 
 ---
 
@@ -126,7 +126,7 @@ interestingengineering.com • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf4HdFzuKU4XlNRX601LR3nT6fAhOMHNH39k3x3Mf8JUod-Y_k-NN2s&gaa_ts=694e0c0f&gaa_sig=7h69bOGHiFWlFS4pjynuFCwTGHTW4RJdIclhtGi6taAFDh9Ly4QbxtJOH0ToQYsTP721qygmYSrwHKNCQPyktw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdLy5dWQyiys3dEsGmxgs_8DibpzDW2kStsLUcwqvm8lNIX1pvnU8gB&gaa_ts=694e15d3&gaa_sig=5CZV3tuolJtUzHLK0mdsC_i9zNckTcFcr6P38sjayWQdMd8jrkpC_XhwvXVs2bKPtaERvv11gQ4bUW6RqHhLJg%3D%3D)**
 
 The Wall Street Journal • 2h ago
 
@@ -168,19 +168,19 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[Montville Twp Committee Honors Pathways Mentors and High-Achieving Robotics Teams](https://www.tapinto.net/towns/montville/articles/montville-twp-committee-honors-pathways-mentors-and-high-achieving-robotics-teams)**
-
-MONTVILLE, NJ – Melinda Jennis, President of Pathways for Exceptional Children, and the Montville Township Committee, honored Pathways’ mentors and its robotics teams at the Dec. 9 Montville...
-
-TAPinto • 22m ago
-
----
-
 **[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
 
 Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
 
 South China Morning Post • 2d ago
+
+---
+
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+
+New Atlas • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 15K • 👍 616 • 💬 80 • ⏱️ 12:51 • 4h ago
+👁️ 15K • 👍 616 • 💬 80 • ⏱️ 12:51 • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 2K • 👍 179 • 💬 42 • ⏱️ 21:33 • 3h ago
+👁️ 2K • 👍 179 • 💬 42 • ⏱️ 21:33 • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 36K • 👍 2K • 💬 2K • ⏱️ 9:57 • 18h ago
+👁️ 36K • 👍 2K • 💬 2K • ⏱️ 9:57 • 19h ago
 
 ---
 

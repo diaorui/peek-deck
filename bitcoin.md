@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T04:01:37.282459+00:00'
+updated: '2025-12-26T04:43:19.154908+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 04:01 UTC  
+**Last Updated:** December 26, 2025 at 04:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,145.66
+### $88,740.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
+**24h:** +1.2%  
 **7d:** +0.6%  
-**30d:** -2.7%  
-**90d:** -20.6%  
-**1y:** -5.7%  
+**30d:** -2.8%  
+**90d:** -20.7%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1771.47B
+**Market Cap:** $1772.03B
 Rank #1
 
 **Circulating Supply:** 19,967,181 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.6%
 
 **All-Time Low:** $67.81
-+130765.7%
++130852.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ Video cred: clusk
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Video cred: clusk
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -115,11 +115,9 @@ Video cred: clusk
 
 ---
 
-**[What satoshi said.](https://www.reddit.com/r/Bitcoin/comments/1pvk72y/what_satoshi_said/)**
+**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
-If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
-
-9h ago
+1h ago
 
 ---
 
@@ -127,13 +125,15 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-15h ago
+16h ago
 
 ---
 
-**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
+**[What satoshi said.](https://www.reddit.com/r/Bitcoin/comments/1pvk72y/what_satoshi_said/)**
 
-50m ago
+If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
+
+9h ago
 
 ---
 
@@ -149,27 +149,33 @@ This question was asked on Bitunix earlier today while I was browsing through ma
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
-
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
-
-CoinDesk • 13h ago
-
----
-
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Silver Hits Record Prices in China as Bitcoin Stalls on Christmas](https://finance.yahoo.com/news/silver-hits-record-prices-china-202901523.html)**
+**[Asia Market Open: Bitcoin Steady At $89k As Thin Trading Lifts Stocks, Silver Shines](https://finance.yahoo.com/news/asia-market-open-bitcoin-steady-031631780.html)**
 
-Silver hit record prices in China on Christmas Day as physical supply tightened, while Bitcoin traded flat, raising safe-haven questions.
+Bitcoin held near $89,127 in thin Boxing Day trade as Asian stocks edged higher and silver stayed in the spotlight after notching fresh record highs this week, with investors still leaning into the year-end risk bid.With several Asia Pacific exchanges shut for the holiday, investors took cues from the last ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today)**
+
+Key PointsBitcoin has gained nearly 20,000% during the past 10 years, far more than the stock market.
+
+Nasdaq • 1d ago
+
+---
+
+**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
+
+The Block • 10h ago
 
 ---
 
@@ -181,43 +187,39 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
-The Block • 10h ago
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
+
+BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+
+CoinDesk • 23h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqd9XBD0HXTn6fqX-AWRblY1oFpkwlzjS7lJqT-9_6lZErpsAGj0OV2P&gaa_ts=694e15d0&gaa_sig=BG-0QzqM0PUnIBMsmteIGfnIwB7FoBeXhItpXyq_Xwme9A6UZX8iz6uDyO4HQscrNbaQmYYnXjk7bU9oCPoQ6g%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
 thestreet.com • 11h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdc68e3McACi6Nk_fMz9CF8ieDNgA9EGqkUWn8oPpccy1kXdQFnZGmm&gaa_ts=694e0c08&gaa_sig=w9BbRUvLywarku_uwWmLk_hTG-FyKlwjODdX7IRy0zRFnEqwVz2c046EMWrUOv2oXRFVXMe1gN-Y0UuWlHpkog%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
-
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
-
-Investopedia • 2d ago
-
----
-
-**[Bitcoin Expected to Return to $60,000 According to Tom Lee’s Fund](https://www.tradingview.com/news/zycrypto:49041ee10094b:0-bitcoin-expected-to-return-to-60-000-according-to-tom-lee-s-fund/)**
-
-As 2026 approaches, Fundstrat’s internal forecasts reveal a stark contrast to co-founder Tom Lee’s public optimism.
-
-TradingView — Track All Markets • 6h ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 13h ago
 
 ---
 
@@ -241,7 +243,7 @@ CCN.com • 13h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 11h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 12h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -313,7 +315,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 397 • 💬 18 • ⏱️ 19:55 • 11h ago
+👁️ 10K • 👍 397 • 💬 18 • ⏱️ 19:55 • 12h ago
 
 ---
 
@@ -363,7 +365,7 @@ Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a 
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 139 • 💬 3 • ⏱️ 0:56 • 14h ago
+👁️ 5K • 👍 139 • 💬 3 • ⏱️ 0:56 • 15h ago
 
 ---
 

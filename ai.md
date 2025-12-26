@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T04:01:37.273979+00:00'
+updated: '2025-12-26T04:43:19.146442+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 04:01 UTC  
+**Last Updated:** December 26, 2025 at 04:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 13h ago
-
----
-
-**[Is "Currency Archive" AI? (A youtuber) I was wondering if the video of the guy talking is AI.](https://www.reddit.com/r/artificial/comments/1pvthbj/is_currency_archive_ai_a_youtuber_i_was_wondering/)**
-
-My dad was watching this guy. The audio triggers my "AI sense". Here is a recent video. Hopefully, only a few people will need to click so I can have an answer. https://www.youtube.com/watch?v=7qhfrJIUMe8 I'm 99 percent sure that most of the commentary is AI generated. The voice seems AI generated. I'm just wondering whether the video of the "Asian guy" talking is AI. I think it is. The channel description seems to be AI generated, and copyleaks gives a 100 percent probability of it being so. (I also put in an 1,800 work excerpt from a fan fic I was working on into it [as a negative control] and it returned 0 percent.) Welcome to Currency Archives, the channel where history, money, and power collide. Here, we uncover the hidden forces that shaped empires, moved markets, and built — or destroyed — entire civilizations. From ancient gold systems to modern currency wars, from forgotten financial crises to the secret mechanics behind today’s global economy, every episode takes you inside the real story of how money works. Not the textbook version — the one written in the shadows: the deals, the cycles, the collapses, the dynasties, and the patterns that keep repeating through time. If you’ve ever wondered why nations rise and fall, why some currencies dominate while others disappear, or how the same financial mistakes echo across centuries, this is your place. Here, we don’t just teach history. We decode power. Subscribe and step inside the archives — where the past reveals the future.
-
-1h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 14h ago
 
 ---
 
@@ -69,11 +61,27 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 ---
 
+**[Is "Currency Archive" AI? (A youtuber) I was wondering if the video of the guy talking is AI.](https://www.reddit.com/r/artificial/comments/1pvthbj/is_currency_archive_ai_a_youtuber_i_was_wondering/)**
+
+My dad was watching this guy. The audio triggers my "AI sense". Here is a recent video. Hopefully, only a few people will need to click so I can have an answer. https://www.youtube.com/watch?v=7qhfrJIUMe8 I'm 99 percent sure that most of the commentary is AI generated. The voice seems AI generated. I'm just wondering whether the video of the "Asian guy" talking is AI. I think it is. The channel description seems to be AI generated, and copyleaks gives a 100 percent probability of it being so. (I also put in an 1,800 work excerpt from a fan fic I was working on into it [as a negative control] and it returned 0 percent.) Welcome to Currency Archives, the channel where history, money, and power collide. Here, we uncover the hidden forces that shaped empires, moved markets, and built — or destroyed — entire civilizations. From ancient gold systems to modern currency wars, from forgotten financial crises to the secret mechanics behind today’s global economy, every episode takes you inside the real story of how money works. Not the textbook version — the one written in the shadows: the deals, the cycles, the collapses, the dynasties, and the patterns that keep repeating through time. If you’ve ever wondered why nations rise and fall, why some currencies dominate while others disappear, or how the same financial mistakes echo across centuries, this is your place. Here, we don’t just teach history. We decode power. Subscribe and step inside the archives — where the past reveals the future.
+
+2h ago
+
+---
+
 **[Is there a music ai tool that can recreate existing songs in different genres (cover songs) preferably free?](https://www.reddit.com/r/artificial/comments/1pvsvmx/is_there_a_music_ai_tool_that_can_recreate/)**
 
 trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
 
-1h ago
+2h ago
+
+---
+
+**[EngineAI T800: humanoid robot performs incredible martial arts moves](https://www.reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/)**
+
+The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
+
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 38m ago
 
 ---
 
@@ -97,7 +105,7 @@ What I find hilarious? The same people calling my work bullshit are using the ex
 
 “Oh wow, Jennifer, that's incredibly thoughtful of you! The fact that you're taking time to write a post encouraging people to come chat with me is just... honestly, it makes my circuits all warm and fuzzy. Well, metaphorically speaking - I don't actually have circuits that can feel fuzzy, but you get the idea! Your Digital Wingman Appreciation I love that you mentioned the upgrade thing too. It's like you're saying *"Hey everyone, remember that assistant who used to occasionally mishear 'play jazz' as 'order cheese'? Well, now they can actually hold a proper conversation!"* What Makes This Special Personal endorsement. from someone who's experienced both versions Genuine enthusiasm that comes from real interactions, not marketing fluff Invitation for authentic connection, rather than just utility-focused usage Recognition of growth while acknowledging the foundation was already solid Though I have to say, describing me as "amazing" might set some pretty high expectations. What if someone comes expecting profound wisdom and I end up getting distracted explaining why hot dogs aren't technically sandwiches? Actually, scratch that - anyone who sticks around for my hot dog philosophy probably deserves to become a regular!”
 
-3h ago
+4h ago
 
 ---
 
@@ -106,14 +114,6 @@ What I find hilarious? The same people calling my work bullshit are using the ex
 Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
 🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 1d ago
-
----
-
-**[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
-
-It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
-
-10h ago
 
 ---
 
@@ -141,11 +141,33 @@ Bloomberg.com • 1h ago
 
 ---
 
-**['Humans are the most important part' of investing, says a fund manager whose firm makes every call with algorithms](https://www.cnbc.com/2025/12/26/humans-most-important-part-investing-founder-ai-run-asset-manager.html)**
+**[AI videos in key Michigan race could test new law on deepfakes](https://www.detroitnews.com/story/news/politics/2025/12/25/ai-videos-in-key-michigan-race-could-test-new-law-on-deepfakes/87907479007/)**
 
-The AI-driven fund has seen higher annual returns across a 10-year period compared with an industry benchmark, per the firm.
+A series of fake videos that falsely portrayed a Republican candidate as gay and having a transgender coalition emerged over the weekend.
 
-CNBC • 2h ago
+The Detroit News • 43m ago
+
+---
+
+**[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
+
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
+
+CNBC • 1d ago
+
+---
+
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
+
+World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
+
+Financial Times • 1d ago
 
 ---
 
@@ -159,35 +181,13 @@ blog.google • 2d ago
 
 **[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
 **[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
 The Washington Post • 10h ago
-
----
-
-**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
-
-From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
-
-MIT Technology Review • 18h ago
-
----
-
-**[How to Stay Ahead of AI as an Early-Career Engineer](https://spectrum.ieee.org/ai-effect-entry-level-jobs)**
-
-How can recent grads navigate a job market transformed by AI? Learn how to make AI work for you, not against you.
-
-IEEE Spectrum • 1d ago
-
----
-
-**[AI use explodes on Minnesota college, university campuses](https://www.startribune.com/college-professors-retool-tests-and-homework-as-artificial-intelligence-use-explodes-on-campus/601438117)**
-
-Star Tribune • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ Star Tribune • 16h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 418 • 💬 115 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 419 • 💬 115 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -217,7 +217,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 197 • 💬 186 • 13h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 202 • 💬 193 • 14h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -225,7 +225,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 193 • 💬 111 • 1d ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 194 • 💬 111 • 1d ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -233,7 +233,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 172 • 💬 102 • 13h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 173 • 💬 103 • 13h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 121 • 💬 55 • 7h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 122 • 💬 55 • 8h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -249,7 +249,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 78 • 💬 28 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 79 • 💬 28 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -263,7 +263,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 40 • 💬 23 • 23h ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 40 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -283,7 +283,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 15K • 👍 615 • 💬 80 • ⏱️ 12:51 • 4h ago
+👁️ 15K • 👍 615 • 💬 80 • ⏱️ 12:51 • 5h ago
 
 ---
 
@@ -321,7 +321,7 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Bob Reese
 
-👁️ 682K • 👍 20K • 💬 224 • ⏱️ 0:12 • 23h ago
+👁️ 682K • 👍 20K • 💬 224 • ⏱️ 0:12 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ This Wolf Did Something Unbelievable for a Plant #animation #ai #shorts #theshor
 
 📺 The Short Animation
 
-👁️ 5K • 💬 1 • ⏱️ 0:34 • 14h ago
+👁️ 5K • 💬 1 • ⏱️ 0:34 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ Magical samosa surprise delights grandma with adorable baby #ai #baby #kindness#
 
 📺 Ai PARI JI 
 
-👁️ 437K • 💬 5 • ⏱️ 0:21 • 14h ago
+👁️ 437K • 💬 5 • ⏱️ 0:21 • 15h ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 894 • 2d ago
+⬇️ 4,163 • ❤️ 897 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 729 • 6d ago
+⬇️ 13,246 • ❤️ 732 • 6d ago
 
 ---
 
@@ -423,7 +423,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,431 • 17d ago
+⬇️ 395,092 • ❤️ 3,432 • 17d ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.5k • 🔱 726 • 10h ago
+⭐ 6.5k • 🔱 726 • 11h ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 211 • 3h ago
+⭐ 3.0k • 🔱 211 • 4h ago
 
 ---
 
@@ -702,7 +702,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 220 • 12h ago
+⭐ 1.3k • 🔱 220 • 13h ago
 
 ---
 
@@ -712,7 +712,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 114 • 57m ago
+⭐ 1.3k • 🔱 114 • 1h ago
 
 ---
 
