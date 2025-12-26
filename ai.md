@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T14:58:38.076265+00:00'
+updated: '2025-12-26T15:30:32.071035+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 14:58 UTC  
+**Last Updated:** December 26, 2025 at 15:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 ---
 
+**[Grok's vulgar roast: How far is too far?](https://www.reddit.com/r/artificial/comments/1pw6gmf/groks_vulgar_roast_how_far_is_too_far/)**
+
+I'm all for free speech, but something about this isn't sitting right. There are two sides to this: Grok did exactly what Elon asked it to do. Is it a good thing that it's obeying orders without question? It's too unhinged. When does this become unsafe for general use? How strict should the guardrails be for LLMs? Would love to hear your thoughts.
+
+20m ago
+
+---
+
 **[EngineAI T800: humanoid robot performs incredible martial arts moves](https://www.reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/)**
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
 
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 10h ago
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 11h ago
 
 ---
 
@@ -58,14 +66,6 @@ The name “T800” still triggers an automatic association with the science fic
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
 🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 22h ago
-
----
-
-**[Is there a music ai tool that can recreate existing songs in different genres (cover songs) preferably free?](https://www.reddit.com/r/artificial/comments/1pvsvmx/is_there_a_music_ai_tool_that_can_recreate/)**
-
-trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
-
-12h ago
 
 ---
 
@@ -85,11 +85,19 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 ---
 
+**[Is there a music ai tool that can recreate existing songs in different genres (cover songs) preferably free?](https://www.reddit.com/r/artificial/comments/1pvsvmx/is_there_a_music_ai_tool_that_can_recreate/)**
+
+trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
+
+13h ago
+
+---
+
 **[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-20h ago
+21h ago
 
 ---
 
@@ -109,21 +117,13 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 ---
 
-**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
-
-“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
-
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 4h ago
+The New York Times • 1h ago
 
 ---
 
@@ -131,19 +131,35 @@ The New York Times • 4h ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 47m ago
+The Guardian • 1h ago
 
 ---
 
-**[Here Is How AI Will Help Retailers Brace For $850 Million In Returns](https://www.forbes.com/sites/shelleykohan/2025/12/26/here-is-how-ai-will-help-retailers-brace-for-850-million-in-returns/)**
+**[Soft skills in the AI era](https://www.fastcompany.com/91465041/soft-skills-in-the-ai-era)**
 
-Forbes • 36m ago
+Fast Company • 17m ago
 
 ---
 
-**[Supercharge Your Retail and CPG AI Strategy in 2026](https://www.inc.com/charisma-glassman/supercharge-your-retail-and-cpg-ai-strategy-in-2026/91282758)**
+**[SoundHound AI: Where Will This Stock Be in 5 Years?](https://www.fool.com/investing/2025/12/26/soundhound-ai-where-will-this-stock-be-in-5-years/)**
 
-Inc.com • 50m ago
+SoundHound may reward long-term patient investors with robust returns.
+
+The Motley Fool • 42m ago
+
+---
+
+**[Stocks Touch Record as Nvidia Gains on AI Licensing Deal](https://www.bloomberg.com/news/articles/2025-12-26/stocks-touch-record-as-nvidia-gains-on-ai-licensing-deal)**
+
+Bloomberg.com • 45m ago
+
+---
+
+**[Fox News AI Newsletter: How we can live with AI without losing our humanity](https://www.foxnews.com/tech/ai-newsletter-how-we-can-live-ai-without-losing-our-humanity)**
+
+The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
+
+Fox News • 57m ago
 
 ---
 
@@ -151,23 +167,15 @@ Inc.com • 50m ago
 
 Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Dan Ives Loves This Under-the-Radar AI Stock for 2026](https://finance.yahoo.com/news/dan-ives-loves-under-radar-123002746.html)**
+**[I spent a year interviewing and listening to over 50 tech leaders talk about AI. Here are the 4 biggest lessons.](https://www.businessinsider.com/tech-leaders-ai-interview-podcast-conference-lessons-workforce-career-tips-2025-12)**
 
-Wall Street likes Nebius’s AI scale story, but investors are paying upfront for growth that still needs to prove durable.
+I spent a year listening to tech leaders talk about AI. Here are the biggest lessons on AI, work, superintelligence, and what comes next.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Could January Spark the Next Big Rally in AI Stocks?](https://www.fool.com/investing/2025/12/25/could-january-spark-the-next-big-rally-in-ai-stock/)**
-
-AI stocks can shrug off their recent weakness and start soaring from next month, thanks to a few simple reasons.
-
-The Motley Fool • 22h ago
+Business Insider • 8h ago
 
 ---
 
@@ -179,15 +187,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
 
-Axios • 1d ago
+From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
 
----
-
-**[Why AI Could Make Human Jazz Popular Again](https://www.bloomberg.com/opinion/articles/2025-12-26/why-ai-could-make-human-jazz-popular-again)**
-
-Bloomberg.com • 4h ago
+MIT Technology Review • 1d ago
 
 ---
 
@@ -199,7 +203,7 @@ Bloomberg.com • 4h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 429 • 💬 118 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 429 • 💬 120 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -209,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 243 • 💬 264 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 247 • 💬 274 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -225,7 +229,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 180 • 💬 114 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 181 • 💬 117 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -233,7 +237,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 132 • 💬 64 • 18h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 132 • 💬 64 • 19h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -249,7 +253,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 70 • 💬 102 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 72 • 💬 103 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -257,13 +261,13 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 64 • 💬 25 • 7h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 69 • 💬 30 • 7h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 42 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 43 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -283,7 +287,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 65K • 👍 1K • 💬 156 • ⏱️ 12:51 • 15h ago
+👁️ 74K • 👍 1K • 💬 165 • ⏱️ 12:51 • 16h ago
 
 ---
 
@@ -293,27 +297,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 2K • 👍 97 • 💬 8 • ⏱️ 7:06 • 15h ago
-
----
-
-**[SORA AI Disney Trailers *GONE WRONG*](https://www.youtube.com/watch?v=lJwDsXqwPW8)**
-
-Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing the most cursed SORA Disney Trailers ever ...
-
-📺 Bigfoot Feed
-
-👁️ 4K • 👍 71 • 💬 16 • ⏱️ 8:04 • 16h ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 102K • 👍 4K • 💬 427 • ⏱️ 30:43 • 2d ago
+👁️ 2K • 👍 97 • 💬 8 • ⏱️ 7:06 • 16h ago
 
 ---
 
@@ -323,15 +307,17 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 32K • 👍 1K • 💬 769 • ⏱️ 11:28 • 2d ago
+👁️ 32K • 👍 1K • 💬 771 • ⏱️ 11:28 • 2d ago
 
 ---
 
-**[VIDEO FIRST MANIRA ABG ALIEF TAK BAGI POST ⁉️ PENGENALAN BERSAMA IRA‼️](https://www.youtube.com/watch?v=fGlb3bBpU3U)**
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
 
-📺 AI AimanJunaidi
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
 
-👁️ 20K • 👍 2K • 💬 158 • ⏱️ 27:22 • 10h ago
+📺 AI Search
+
+👁️ 104K • 👍 4K • 💬 429 • ⏱️ 30:43 • 2d ago
 
 ---
 
@@ -341,17 +327,27 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 30K • 👍 393 • 💬 44 • ⏱️ 8:00 • 2d ago
+👁️ 37K • 👍 397 • 💬 44 • ⏱️ 8:00 • 2d ago
 
 ---
 
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+**[YouTube&#39;s AI slop problem is worse than you know](https://www.youtube.com/watch?v=1vd9GISRhPU)**
 
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+This is going to be a real problem... Time Stamps: 0:00 - Intro 0:29 - It's All Over The Place 1:01 - They Actually Get Views 1:28 ...
 
-📺 AI Explained
+📺 ThioJoe
 
-👁️ 68K • 👍 3K • 💬 384 • ⏱️ 33:27 • 2d ago
+👁️ 57K • 👍 6K • 💬 1K • ⏱️ 9:48 • 2d ago
+
+---
+
+**[TẬP 10 - A.I LÀ AI? | SONG TRÙNG &quot;THAO TÚNG&quot; NHẤT !? TRẤN THÀNH, VÕ TẤN PHÁT CÃI NHAU NẢY LỬA VÌ A.I](https://www.youtube.com/watch?v=T5d3OR8Unns)**
+
+AILAAI #ALA #FPTPLAY #FPT #tranthanh #gameshow #fptplayshow #giaitri #songtrung. “A.I LÀ AI?” là chương trình truyền hình ...
+
+📺 FPT Play Show
+
+👁️ 4K • 👍 694 • 💬 72 • 1h ago
 
 ---
 
@@ -361,17 +357,25 @@ In this video, I'll be showing you a cheat code workflow that combines Claude 4.
 
 📺 AICodeKing
 
-👁️ 18K • 👍 749 • 💬 74 • ⏱️ 8:05 • 1d ago
+👁️ 18K • 👍 764 • 💬 74 • ⏱️ 8:05 • 1d ago
 
 ---
 
-**[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)**
+**[VIDEO FIRST MANIRA ABG ALIEF TAK BAGI POST ⁉️ PENGENALAN BERSAMA IRA‼️](https://www.youtube.com/watch?v=fGlb3bBpU3U)**
 
-To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Brilliant's also given our viewers 20% off an annual ...
+📺 AI AimanJunaidi
 
-📺 How Money Works
+👁️ 24K • 👍 3K • 💬 179 • ⏱️ 27:22 • 10h ago
 
-👁️ 535K • 👍 17K • 💬 4K • ⏱️ 19:40 • 3d ago
+---
+
+**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
+
+Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 604K • 👍 5K • 💬 101 • ⏱️ 10:06 • 1d ago
 
 ---
 
@@ -387,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 935 • 3d ago
+⬇️ 4,752 • ❤️ 938 • 3d ago
 
 ---
 
@@ -399,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,171 • ❤️ 755 • 7d ago
+⬇️ 14,171 • ❤️ 756 • 7d ago
 
 ---
 
@@ -411,7 +415,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 30,907 • ❤️ 613 • 7d ago
+⬇️ 30,907 • ❤️ 616 • 7d ago
 
 ---
 
@@ -435,7 +439,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 11,437 • ❤️ 406 • 3d ago
+⬇️ 11,437 • ❤️ 408 • 3d ago
 
 ---
 
@@ -457,7 +461,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 239 • 7h ago
+⬇️ 121 • ❤️ 261 • 7h ago
 
 ---
 
@@ -491,7 +495,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 75,002 • ❤️ 175 • 2d ago
+⬇️ 75,002 • ❤️ 177 • 2d ago
 
 ---
 
@@ -660,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 467 • 37m ago
+⭐ 3.6k • 🔱 468 • 1h ago
 
 ---
 
@@ -670,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 213 • 30m ago
+⭐ 3.1k • 🔱 213 • 50m ago
 
 ---
 
@@ -700,7 +704,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 116 • 11h ago
+⭐ 1.3k • 🔱 116 • 12h ago
 
 ---
 
@@ -710,7 +714,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 224 • 2h ago
+⭐ 1.3k • 🔱 226 • 2h ago
 
 ---
 
@@ -720,7 +724,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 130 • 4h ago
+⭐ 1.3k • 🔱 132 • 5h ago
 
 ---
 
@@ -730,7 +734,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 929 • 🔱 132 • 8d ago
+⭐ 931 • 🔱 132 • 9d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T14:58:38.089103+00:00'
+updated: '2025-12-26T15:30:32.085417+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 14:58 UTC  
+**Last Updated:** December 26, 2025 at 15:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -2.1%  
-**30d:** -3.2%  
+**24h:** -0.9%  
+**7d:** -2.0%  
+**30d:** -3.1%  
 **90d:** -29.5%  
 **1y:** -12.4%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.92B
+**Market Cap:** $351.32B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.7%
+-41.2%
 
 **All-Time Low:** $0.43
-+688196.7%
++672140.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -168,7 +168,7 @@ Crypto Briefing • 2d ago
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 23h ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ CCN.com • 1d ago
 
 **[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -204,7 +204,7 @@ TradingView — Track All Markets • 14h ago
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-CryptoSlate • 2d ago
+CryptoSlate • 3d ago
 
 ---
 
@@ -212,7 +212,7 @@ CryptoSlate • 2d ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia • 4h ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
@@ -220,7 +220,7 @@ Coinpedia • 4h ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 22h ago
+ts2.tech • 23h ago
 
 ---
 
@@ -228,13 +228,33 @@ ts2.tech • 22h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 416 • 👍 62 • 💬 4 • ⏱️ 4:08 • 1h ago
+
+---
+
 **[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
 
 Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 22K • 👍 413 • 💬 112 • ⏱️ 11:00 • 2d ago
+👁️ 22K • 👍 414 • 💬 105 • ⏱️ 11:00 • 2d ago
+
+---
+
+**[Ethereum Fusaka Upgrade – What It Changes and Why It Matters](https://www.youtube.com/watch?v=Dgd6fFEDMqw)**
+
+The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing development. In this video, we explain what the ...
+
+📺 Crypto Nitro
+
+👁️ 3K • ⏱️ 7:27 • 1h ago
 
 ---
 
@@ -244,7 +264,17 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 4K • 👍 102 • 💬 16 • ⏱️ 19:17 • 23h ago
+👁️ 5K • 👍 115 • 💬 18 • ⏱️ 19:17 • 1d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 26 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=AUR4sShpJVQ)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 2K • 👍 282 • 24m ago
 
 ---
 
@@ -254,37 +284,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 52 • 💬 32 • ⏱️ 15:04 • 12h ago
-
----
-
-**[BE READY FOR THIS ETH MOVE!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=yixpJ9hXvHw)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 120 • 👍 7 • 💬 33 • ⏱️ 5:08 • 4h ago
-
----
-
-**[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
-
-The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
-
-📺 CryptoStock Lab
-
-👁️ 4K • 👍 115 • 💬 48 • ⏱️ 13:41 • 2d ago
-
----
-
-**[2025 Ethereum ETH Price RECAP &amp; 2026 Outlook. ](https://www.youtube.com/watch?v=AP81E_TYxoE)**
-
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
-
-📺 Altcoin Doctor
-
-👁️ 7 • 👍 1 • ⏱️ 8:56 • 4h ago
+👁️ 1K • 👍 60 • 💬 31 • ⏱️ 15:04 • 13h ago
 
 ---
 
@@ -294,37 +294,37 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 10K • 👍 307 • 💬 132 • ⏱️ 16:26 • 21h ago
+👁️ 10K • 👍 313 • 💬 153 • ⏱️ 16:26 • 21h ago
 
 ---
 
-**[Tom Lee&#39;s URGENT Message On The Next Rally, WARNING For All Investors](https://www.youtube.com/watch?v=MtJxxYaS9B0)**
+**[BE READY FOR THIS ETH MOVE!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=yixpJ9hXvHw)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Library Of Wealth
+📺 Cilinix Crypto
 
-👁️ 4K • 👍 142 • 💬 212 • ⏱️ 15:41 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ON96r6z1Ldw)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 172 • 💬 8 • ⏱️ 4:41 • 22h ago
+👁️ 176 • 👍 12 • 💬 32 • ⏱️ 5:08 • 5h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
+**[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
+
+The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
+
+📺 CryptoStock Lab
+
+👁️ 4K • 👍 115 • 💬 35 • ⏱️ 13:41 • 2d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=W0jx54dz97w)**
 
 TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Brilliance Academy
+📺 Navigationdisk
 
-👁️ 4K • 👍 1K • 1d ago
+👁️ 4K • 👍 2K • 1h ago
 
 ---
 

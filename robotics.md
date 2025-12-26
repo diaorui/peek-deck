@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T14:58:38.091881+00:00'
+updated: '2025-12-26T15:30:32.088610+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 14:58 UTC  
+**Last Updated:** December 26, 2025 at 15:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-18h ago
+19h ago
 
 ---
 
@@ -102,7 +102,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 Hello everyone! It's the first time I've written here... so I'm in possession of a NAO robot, and to use it with my PC I need to have a specific version of the Choreographe Software. The version of the robot is the V6 so the compatible versions are starting from 2.8.5 onwards... I would really need the latter, since I have a very old version of macos and the newer one does not support it. So I ask if any of you have this specific version, or know how to get it.. thanks in advance ;)
 
-5h ago
+6h ago
 
 ---
 
@@ -110,19 +110,19 @@ Hello everyone! It's the first time I've written here... so I'm in possession of
 
 ## Google News: "robotics"
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 2d ago
-
----
-
 **[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
 Earth.com • 1d ago
+
+---
+
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -144,7 +144,7 @@ Interesting Engineering • 2d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 17h ago
+Tech Xplore • 18h ago
 
 ---
 
@@ -160,7 +160,7 @@ New Atlas • 2d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 53m ago
+Fortune • 1h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fortune • 53m ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 3h ago
+Tom's Hardware • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 65K • 👍 1K • 💬 156 • ⏱️ 12:51 • 15h ago
+👁️ 74K • 👍 1K • 💬 165 • ⏱️ 12:51 • 16h ago
 
 ---
 
@@ -208,17 +208,17 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 4K • 👍 161 • 💬 11 • ⏱️ 1:30 • 9h ago
+👁️ 6K • 👍 187 • 💬 12 • ⏱️ 1:30 • 10h ago
 
 ---
 
-**[Millions of robots deploy in 2026. Set free, they are monsters.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
 AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
 
 📺 InsideAI
 
-👁️ 220K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 223K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 27K • 👍 765 • 💬 190 • ⏱️ 21:33 • 14h ago
+👁️ 31K • 👍 874 • 💬 216 • ⏱️ 21:33 • 15h ago
 
 ---
 
@@ -238,17 +238,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 35K • 👍 559 • 💬 84 • ⏱️ 13:55 • 2d ago
-
----
-
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 39K • 👍 1K • 💬 284 • ⏱️ 11:02 • 3d ago
+👁️ 35K • 👍 570 • 💬 86 • ⏱️ 13:55 • 2d ago
 
 ---
 
@@ -258,15 +248,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 55K • 👍 859 • 💬 99 • ⏱️ 2:08:46 • 6d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
-
-📺 Lin of Brant robot 
-
-👁️ 37K • 👍 184 • ⏱️ 0:19 • 4d ago
+👁️ 56K • 👍 862 • 💬 99 • ⏱️ 2:08:46 • 6d ago
 
 ---
 
@@ -284,7 +266,25 @@ Are you stuck at the last minute for a Christmas gift? Wondering how to “wow�
 
 📺 Romi Pal
 
-👁️ 360K • 👍 7K • 💬 121 • ⏱️ 0:28 • 4d ago
+👁️ 362K • 👍 7K • 💬 121 • ⏱️ 0:28 • 4d ago
+
+---
+
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 39K • 👍 665 • 💬 157 • ⏱️ 5:25 • 5d ago
+
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
+
+📺 Lin of Brant robot 
+
+👁️ 37K • 👍 184 • ⏱️ 0:19 • 4d ago
 
 ---
 
