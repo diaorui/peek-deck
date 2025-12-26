@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T09:57:29.452726+00:00'
+updated: '2025-12-26T10:30:13.674787+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 09:57 UTC  
+**Last Updated:** December 26, 2025 at 10:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
+**24h:** +1.5%  
 **7d:** -0.3%  
 **30d:** -1.4%  
 **90d:** -28.2%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.07B
+**Market Cap:** $357.96B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-39.9%
 
 **All-Time Low:** $0.43
-+684649.1%
++685972.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-21h ago
+22h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 17h ago
+ts2.tech • 18h ago
 
 ---
 
@@ -172,17 +172,29 @@ AMBCrypto • 1d ago
 
 ---
 
-**[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
+**[40% of Ethereum Supply Slips Into Loss as Whales Take Opposing Positions](https://finance.yahoo.com/news/40-ethereum-supply-slips-loss-091645825.html)**
 
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
+Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 19h ago
+CCN.com • 20h ago
+
+---
+
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+
+The Block • 2d ago
+
+---
+
+**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
+
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -194,31 +206,19 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
-
-TradingView — Track All Markets • 9h ago
-
----
-
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 2d ago
-
----
-
-**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
-
-Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
-
-TradingView — Track All Markets • 21h ago
-
----
-
 **[Why Solana Could Grow Faster Than Ethereum, According to Charles Hoskinson](https://coinpedia.org/news/why-solana-could-grow-faster-than-ethereum-according-to-charles-hoskinson/)**
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-Coinpedia Fintech News • 14h ago
+Coinpedia Fintech News • 15h ago
+
+---
+
+**[ETH at Risk? Four Indicators Point to More Pain Ahead](https://beincrypto.com/why-eth-price-may-not-recover-soon/)**
+
+Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
+
+BeInCrypto • 19h ago
 
 ---
 
@@ -232,7 +232,7 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 2K • 👍 67 • 💬 11 • ⏱️ 19:17 • 18h ago
+👁️ 2K • 👍 67 • 💬 11 • ⏱️ 19:17 • 19h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 761 • 👍 40 • ⏱️ 15:04 • 7h ago
+👁️ 761 • 👍 40 • ⏱️ 15:04 • 8h ago
 
 ---
 
@@ -312,7 +312,7 @@ BlackRock's ETH Staking ETF: Institutions Get Yield The "Digital Bond" era has o
 
 📺 Wall Street Stockcast
 
-👁️ 224 • 👍 10 • 💬 4 • ⏱️ 8:29 • 10h ago
+👁️ 224 • 👍 10 • 💬 4 • ⏱️ 8:29 • 11h ago
 
 ---
 

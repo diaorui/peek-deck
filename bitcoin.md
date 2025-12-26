@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T09:57:29.446647+00:00'
+updated: '2025-12-26T10:30:13.668755+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 09:57 UTC  
+**Last Updated:** December 26, 2025 at 10:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,658.00
+### $88,726.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +0.5%  
+**24h:** +1.5%  
+**7d:** +0.6%  
 **30d:** -2.8%  
 **90d:** -20.7%  
 **1y:** -5.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1771.42B
+**Market Cap:** $1770.04B
 Rank #1
 
-**Circulating Supply:** 19,967,271 BTC
+**Circulating Supply:** 19,967,281 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.6%
 
 **All-Time Low:** $67.81
-+130650.6%
++130721.4%
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
-
-Video cred: clusk
-
-11h ago
-
----
-
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
 8h ago
@@ -93,13 +85,21 @@ Video cred: clusk
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-13h ago
+14h ago
+
+---
+
+**[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
+
+Video cred: clusk
+
+12h ago
 
 ---
 
 **[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Video cred: clusk
 
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-14h ago
+15h ago
 
 ---
 
@@ -151,21 +151,37 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
-**[Russia, US Discuss Bitcoin Mining at Zaporizhzhia Nuclear Power Plant, Sidelines Ukraine](https://finance.yahoo.com/news/russia-us-discuss-bitcoin-mining-072557909.html)**
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
-Russian President Putin said that the US and Russia are in talks over the joint management of Zaporizhzhia Nuclear Power Plant, without Ukraine’s participation. He claimed that the US is interested in using the plant’s electricity for Bitcoin mining.During a meeting with business representatives, President Putin unveiled the plan, Russian ...
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
+
+BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Why Bitcoin Briefly Hit $24,000 on Binance — and Why It Didn’t Matter](https://finance.yahoo.com/news/why-bitcoin-briefly-hit-24-101700356.html)**
+
+Bitcoin briefly plunged to $24,000 on Binance’s thinly traded BTC/USD1 pair during holiday trading. A large market sell order wiped out limited buy-side liquidity, triggering ...
+
+Yahoo Finance • 13m ago
 
 ---
 
@@ -173,11 +189,11 @@ Yahoo Finance • 2h ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcBhVlw8vHbXKGgEMsW-PVAdjR8mZ5-vZMJdohNk7GXf_8hvJAiY_pc&gaa_ts=694e58af&gaa_sig=VTCHziraR0wBuWsX0f4JTQKlZVWeAwLdLqi2Zgv3H0IfJQq_TiUqjZhGwQnlVe5CunYuucMlbD38CMgZblMsdw%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdzALJW6mk-92Bw51ZVd-A9-7W8j1jvqPWzmhtxx96GWR0IkSxFcqaI&gaa_ts=694e6721&gaa_sig=QlVM3Cp33ld6-IYUOpaj6044fyV4-vMLE8oqpdkE3OACO47qqggUyZjpYf8j5ZokjJMy6rdBWfKxUM7xYKJjmw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -185,35 +201,21 @@ The Wall Street Journal • 2d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 16h ago
+thestreet.com • 17h ago
+
+---
+
+**[Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO](https://www.tradingview.com/news/cointelegraph:a794872a0094b:0-bitcoin-market-fundamentals-couldn-t-be-better-says-strategy-ceo/)**
+
+Bitcoin’s market fundamentals have stayed strong in 2025, despite the asset’s price and sentiment declining toward the end of the year, says Strategy CEO Phong Le.“The fundamentals of the market this year for Bitcoin couldn’t be better,” Le told the “Coin Stories” podcast on Tuesday, emphasizing th…
+
+TradingView — Track All Markets • 9h ago
 
 ---
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 19h ago
-
----
-
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
-
-Reuters • 1d ago
-
----
-
-**[Bitcoin Expected to Return to $60,000 According to Tom Lee’s Fund](https://www.tradingview.com/news/zycrypto:49041ee10094b:0-bitcoin-expected-to-return-to-60-000-according-to-tom-lee-s-fund/)**
-
-As 2026 approaches, Fundstrat’s internal forecasts reveal a stark contrast to co-founder Tom Lee’s public optimism.
-
-TradingView — Track All Markets • 12h ago
-
----
-
-**[Bitcoin options worth $23.7B expire soon – Why traders expect fireworks](https://ambcrypto.com/bitcoin-options-worth-23-7b-expire-soon-why-traders-expect-fireworks/)**
-
-The Bitcoin Christmas week price action typically fades as liquidity returns in January.
-
-AMBCrypto • 12h ago
+CCN.com • 20h ago
 
 ---
 
@@ -237,7 +239,7 @@ AMBCrypto • 12h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 17h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 18h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -289,7 +291,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 407 • 💬 59 • ⏱️ 4:31 • 13h ago
+👁️ 9K • 👍 407 • 💬 59 • ⏱️ 4:31 • 14h ago
 
 ---
 
@@ -309,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 452 • 💬 13 • ⏱️ 15:49 • 11h ago
+👁️ 10K • 👍 452 • 💬 13 • ⏱️ 15:49 • 12h ago
 
 ---
 
@@ -329,7 +331,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 450 • 💬 22 • ⏱️ 19:55 • 17h ago
+👁️ 12K • 👍 450 • 💬 22 • ⏱️ 19:55 • 18h ago
 
 ---
 
@@ -369,7 +371,7 @@ Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AI
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 85 • ⏱️ 6:23 • 1d ago
+👁️ 24K • 👍 3K • 💬 85 • ⏱️ 6:23 • 2d ago
 
 ---
 
@@ -379,7 +381,7 @@ Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a 
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 170 • 💬 3 • ⏱️ 0:56 • 20h ago
+👁️ 7K • 👍 170 • 💬 3 • ⏱️ 0:56 • 21h ago
 
 ---
 

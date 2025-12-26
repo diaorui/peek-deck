@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T09:57:29.437921+00:00'
+updated: '2025-12-26T10:30:13.660204+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 09:57 UTC  
+**Last Updated:** December 26, 2025 at 10:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 19h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 20h ago
 
 ---
 
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
 
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 5h ago
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-15h ago
+16h ago
 
 ---
 
@@ -125,36 +125,37 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 4h ago
+The Guardian • 2h ago
 
 ---
 
 **[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
-**[Billionaire Ken Griffin Sells Amazon Stock and Buys an AI Stock Up 1,030% Since 2024 (Hint: Not Nvidia)](https://www.fool.com/investing/2025/12/26/ken-griffin-sell-amazon-buy-ai-stock-1030-nvidia/)**
+**[More Than 50 People Became AI Billionaires in 2025](https://gizmodo.com/more-than-50-people-became-ai-billionaires-in-2025-2000703396)**
 
-Top hedge fund manager Ken Griffin sold Amazon and bought Palantir in the third quarter.
+AI hype has lost its luster, but a lot of AI people are super rich now.
 
-The Motley Fool • 1h ago
-
----
-
-**[What Happens When We Insist on Optimizing Fun?](https://www.bloomberg.com/news/features/2025-12-26/how-ai-is-changing-the-games-we-play-from-poker-to-curling)**
-
-Bloomberg.com • 57m ago
+Gizmodo • 30m ago
 
 ---
 
-**[Highmark prepares for the future of health care with AI initiatives](https://www.post-gazette.com/business/healthcare-business/2025/12/26/highmark-ai-healthcare-allegheny-ambient-listening/stories/202512180118)**
+**[Y Combinator founders used these pitch decks to raise millions](https://www.businessinsider.com/how-y-combinator-founders-are-pitching-the-ai-boom-2025-12)**
 
-Highmark Health is preparing for the future by expanding its artificial intelligence capabilities in 2026.
-Highmark’s history with AI reaches back...
+Y Combinator pitch decks raised millions in funding in 2025, as AI reshapes industries and expectations for young founders rise fast.
 
-Pittsburgh Post-Gazette • 57m ago
+Business Insider • 30m ago
+
+---
+
+**[Rickards Programming Club helps seniors navigate AI and misinformation](https://www.tallahassee.com/story/news/education/2025/12/26/tallahassee-seniors-learn-ai-from-unlikely-source-high-school-teens/87814414007/)**
+
+Rickards students hosted workshops covering tech and AI literacy to help seniors thwart any deceptive scams or misinformation spread online by AI.
+
+Tallahassee Democrat • 25m ago
 
 ---
 
@@ -162,7 +163,7 @@ Pittsburgh Post-Gazette • 57m ago
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -188,11 +189,9 @@ Financial Times • 1d ago
 
 ---
 
-**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
+**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-This year saw new AI models, transformative products and new breakthroughs in science and robotics.
-
-blog.google • 2d ago
+Axios • 21h ago
 
 ---
 
@@ -204,7 +203,7 @@ blog.google • 2d ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 424 • 💬 116 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 426 • 💬 116 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -214,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 231 • 💬 225 • 19h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 238 • 💬 234 • 20h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -230,7 +229,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 178 • 💬 106 • 18h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 179 • 💬 107 • 19h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -238,7 +237,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 130 • 💬 63 • 13h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 131 • 💬 63 • 14h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -246,7 +245,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 82 • 💬 28 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 82 • 💬 29 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -254,7 +253,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 70 • 💬 98 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 70 • 💬 101 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -264,15 +263,17 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 ---
 
-**[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
+**[Building an AI agent inside a 7-year-old Rails monolith](https://news.ycombinator.com/item?id=46390055)**
 
-⬆️ 36 • 💬 11 • 1d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
+We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
+
+⬆️ 38 • 💬 10 • 2h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
-**[What Is (AI) Glaze?](https://news.ycombinator.com/item?id=46364338)**
+**[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
 
-⬆️ 24 • 💬 23 • 2d ago • [glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu/what-is-glaze.html)
+⬆️ 36 • 💬 11 • 1d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
 
 ---
 
@@ -286,7 +287,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 10h ago
+👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 11h ago
 
 ---
 
@@ -306,7 +307,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 2K • 👍 89 • 💬 8 • ⏱️ 7:06 • 10h ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 7:06 • 11h ago
 
 ---
 
@@ -336,7 +337,7 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 25K • 👍 379 • 💬 43 • ⏱️ 8:00 • 1d ago
+👁️ 25K • 👍 379 • 💬 43 • ⏱️ 8:00 • 2d ago
 
 ---
 
@@ -356,7 +357,7 @@ Monkey Saved a Strawberry Tree from Dying | Emotional AI Story A monkey saved a 
 
 📺 AI Nature Tales
 
-👁️ 5K • 👍 308 • ⏱️ 0:47 • 16h ago
+👁️ 5K • 👍 308 • ⏱️ 0:47 • 17h ago
 
 ---
 
@@ -366,7 +367,7 @@ The AI Accusations Need To Stop.. JOIN!
 
 📺 Live Speedy
 
-👁️ 150K • 👍 6K • 💬 108 • ⏱️ 0:21 • 16h ago
+👁️ 150K • 👍 6K • 💬 108 • ⏱️ 0:21 • 17h ago
 
 ---
 
@@ -376,7 +377,7 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 478K • 👍 5K • 💬 113 • ⏱️ 10:06 • 20h ago
+👁️ 478K • 👍 5K • 💬 113 • ⏱️ 10:06 • 21h ago
 
 ---
 
@@ -392,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 916 • 3d ago
+⬇️ 4,752 • ❤️ 918 • 3d ago
 
 ---
 
@@ -404,7 +405,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,171 • ❤️ 738 • 7d ago
+⬇️ 14,171 • ❤️ 742 • 7d ago
 
 ---
 
@@ -416,7 +417,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 30,907 • ❤️ 607 • 7d ago
+⬇️ 30,907 • ❤️ 609 • 7d ago
 
 ---
 
@@ -428,7 +429,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,438 • 17d ago
+⬇️ 402,987 • ❤️ 3,439 • 17d ago
 
 ---
 
@@ -440,7 +441,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 11,437 • ❤️ 382 • 2d ago
+⬇️ 11,437 • ❤️ 384 • 2d ago
 
 ---
 
@@ -450,19 +451,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 319 • 7d ago
-
----
-
-**[HY-WorldPlay](https://huggingface.co/tencent/HY-WorldPlay)**
-
-*Tencent*
-
-HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modeling with long-term geometric consistency. It uses a streaming video diffusion approach with novel memory management and RL post-training for applications like 3D reconstruction and scene generation.
-
-`image-to-video`
-
-⬇️ 3,526 • ❤️ 442 • 7d ago
+⬇️ 0 • ❤️ 320 • 7d ago
 
 ---
 
@@ -490,6 +479,16 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 ---
 
+**[Qwen-Image-Edit-2511-Lightning](https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning)**
+
+*Lightx2v*
+
+Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
+
+⬇️ 75,002 • ❤️ 170 • 2d ago
+
+---
+
 **[MiMo-V2-Flash](https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash)**
 
 *Xiaomi MiMo*
@@ -498,7 +497,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 18,035 • ❤️ 448 • 8d ago
+⬇️ 18,035 • ❤️ 449 • 8d ago
 
 ---
 
@@ -603,7 +602,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 62 • 💬 2 • ⭐ 187 • 7d ago
+▲ 62 • 💬 2 • ⭐ 209 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
@@ -647,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.5k • 🔱 3.1k • 4d ago
+⭐ 19.6k • 🔱 3.1k • 4d ago
 
 ---
 
@@ -667,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 462 • 44m ago
+⭐ 3.6k • 🔱 463 • 4m ago
 
 ---
 
@@ -677,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 213 • 2h ago
+⭐ 3.1k • 🔱 213 • 2h ago
 
 ---
 
@@ -687,7 +686,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.1k • 🔱 390 • 20d ago
+⭐ 2.1k • 🔱 393 • 20d ago
 
 ---
 
@@ -697,7 +696,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.5k • 🔱 65 • 1d ago
+⭐ 1.5k • 🔱 66 • 1d ago
 
 ---
 
@@ -707,7 +706,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 223 • 18h ago
+⭐ 1.3k • 🔱 223 • 19h ago
 
 ---
 
@@ -717,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 117 • 6h ago
+⭐ 1.3k • 🔱 117 • 7h ago
 
 ---
 
@@ -727,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 126 • 2d ago
+⭐ 1.3k • 🔱 128 • 8m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T09:57:29.456013+00:00'
+updated: '2025-12-26T10:30:13.678021+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 09:57 UTC  
+**Last Updated:** December 26, 2025 at 10:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,15 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-3h ago
+4h ago
+
+---
+
+**[Drawer opening in simulation](https://www.reddit.com/r/robotics/comments/1pw07mj/drawer_opening_in_simulation/)**
+
+The arm learns where to grasp and how much force to apply by reinforcement learning.
+
+1h ago
 
 ---
 
@@ -80,15 +88,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-13h ago
-
----
-
-**[Drawer opening in simulation](https://www.reddit.com/r/robotics/comments/1pw07mj/drawer_opening_in_simulation/)**
-
-The arm learns where to grasp and how much force to apply by reinforcement learning.
-
-37m ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hello everyone! It's the first time I've written here... so I'm in possession of a NAO robot, and to use it with my PC I need to have a specific version of the Choreographe Software. The version of the robot is the V6 so the compatible versions are starting from 2.8.5 onwards... I would really need the latter, since I have a very old version of macos and the newer one does not support it. So I ask if any of you have this specific version, or know how to get it.. thanks in advance ;)
 
-49m ago
+1h ago
 
 ---
 
@@ -110,14 +110,6 @@ Hello everyone! It's the first time I've written here... so I'm in possession of
 
 ## Google News: "robotics"
 
-**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 1d ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
@@ -126,11 +118,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
-Earth.com • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -148,6 +140,22 @@ New Atlas • 1d ago
 
 ---
 
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+
+Earth.com • 1d ago
+
+---
+
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 21h ago
+
+---
+
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 1d ago
@@ -162,27 +170,19 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
+**[After LLMs and agents, the next AI frontier: video language models](https://www.computerworld.com/article/4106563/after-llms-and-agents-the-next-ai-frontier-video-language-models.html)**
 
-Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
+The next step in the evolution of generative AI technology will rely on ‘world models’ to improve physical outcomes in the real world.
 
-The Robot Report • 1d ago
-
----
-
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
-
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 2d ago
+Computerworld • 3h ago
 
 ---
 
-**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
 
-Fortune • 10d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 10h ago
+👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 2K • 👍 109 • 💬 7 • ⏱️ 1:30 • 4h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 1:30 • 5h ago
 
 ---
 
