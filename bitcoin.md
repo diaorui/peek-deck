@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T20:19:36.347957+00:00'
+updated: '2025-12-26T20:39:16.700095+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 20:19 UTC  
+**Last Updated:** December 26, 2025 at 20:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.1%  
-**30d:** -4.4%  
-**90d:** -22.0%  
-**1y:** -7.3%  
+**24h:** -0.5%  
+**7d:** -0.9%  
+**30d:** -4.2%  
+**90d:** -21.8%  
+**1y:** -7.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.64B
+**Market Cap:** $1747.59B
 Rank #1
 
 **Circulating Supply:** 19,967,506 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.7%
+-30.6%
 
 **All-Time Low:** $67.81
-+128805.8%
++128987.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -91,31 +91,19 @@ Rank #1
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
 
-7h ago
-
----
-
-**[10 Year old decided no gifts this year instead wanted money under the tree to buy BTC.](https://www.reddit.com/r/Bitcoin/comments/1pw9fmk/10_year_old_decided_no_gifts_this_year_instead/)**
-
-3h ago
-
----
-
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
-
-23h ago
+8h ago
 
 ---
 
@@ -127,9 +115,21 @@ give your opinion
 
 ---
 
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+
+1d ago
+
+---
+
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-12h ago
+13h ago
+
+---
+
+**[😁😁😁](https://www.reddit.com/r/Bitcoin/comments/1pwd4wn/_/)**
+
+52m ago
 
 ---
 
@@ -147,7 +147,7 @@ give your opinion
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -175,19 +175,31 @@ Yahoo! Finance Canada • 1h ago
 
 ---
 
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Bitcoin December 26 daily chart alert - Holiday pause continues Friday](https://www.kitco.com/news/article/2025-12-26/bitcoin-december-26-daily-chart-alert-holiday-pause-continues-friday)**
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 6h ago
+KITCO • 7h ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Bitcoin is on pace to end 2025 having lost money for its investors.
+Forbes • 8h ago
 
-The Motley Fool • 9h ago
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfTo24R8m5ogN3jCLCLnvTfqtro85Se3EMxmNKnVdxNw7me50UV300Y&gaa_ts=694ef5e2&gaa_sig=yH-nxVvo9hi-gYjSqw08Rc6WaiPkX4qfab6wXYwOx1oQoQMeK50UgZ___a9Za8cSiREpH4MH8aXbc2dUuZkCHg%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -197,25 +209,11 @@ thestreet.com • 4h ago
 
 ---
 
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
-
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 1d ago
-
----
-
 **[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
 Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqetKMTUAHvIRThCKhchH-gZ3_50BGfH_f0ySZtEzjscCeYVrvsAeK1p&gaa_ts=694eeb4e&gaa_sig=Z36Xfw6NlU0Sa-ZFE3XO9WCzrz2gwgiFgOOe5U_RDNMI4Cfma_Tcf7WMMNNMidjbogROd2XsfAcPKOlSfJdtiQ%3D%3D)**
-
-The Wall Street Journal • 2d ago
 
 ---
 
@@ -283,6 +281,12 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
+**[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
+
+⬆️ 1 • 💬 0 • 29m ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+
+---
+
 **[Apple's M-series chip 5 years later](https://news.ycombinator.com/item?id=46394385)**
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
@@ -311,7 +315,7 @@ In this video, I break down the 5 critical mistakes that cause 97% of retail inv
 
 📺 Thomas Kralow
 
-👁️ 6K • 👍 289 • 💬 39 • ⏱️ 9:31 • 8h ago
+👁️ 6K • 👍 289 • 💬 39 • ⏱️ 9:31 • 9h ago
 
 ---
 

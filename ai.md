@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T20:19:36.337613+00:00'
+updated: '2025-12-26T20:39:16.692381+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 20:19 UTC  
+**Last Updated:** December 26, 2025 at 20:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-2h ago
+3h ago
 
 ---
 
@@ -135,37 +135,19 @@ The Guardian • 6h ago
 
 ---
 
-**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
+**[Oracle’s AI Push Is Leading to Its Worst Quarter Since 2001](https://gizmodo.com/oracles-ai-push-is-leading-to-its-worst-quarter-since-2001-2000703605)**
 
-Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
+Delayed AI infrastructure projects, rising debt, and weaker-than-expected earnings are reviving dot-com-era fears on Wall Street.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
-
-Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
-
-CNBC • 1d ago
+Gizmodo • 18m ago
 
 ---
 
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
+**[Interior Department plans AI Theodore Roosevelt exhibit for America250](https://www.foxnews.com/politics/ai-revolution-bring-teddy-roosevelt-life-america250-namesake-national-park-burgum)**
 
-The New York Times • 1d ago
+Revolutionary AI technology brings Theodore Roosevelt back to life at his North Dakota national park, letting visitors interact with the president.
 
----
-
-**[Securing AI agents is bringing in big money](https://www.axios.com/pro/enterprise-software-deals/2025/12/26/securing-ai-agents-is-bringing-in-big-money)**
-
-Axios • 1h ago
-
----
-
-**[Can AI help solve the power problem it created?](https://www.fastcompany.com/91466299/can-ai-help-solve-the-power-problem-it-created)**
-
-Fast Company • 1h ago
+Fox News • 33m ago
 
 ---
 
@@ -183,11 +165,35 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[2 Cheaper AI Stocks to Buy for 2026](https://finance.yahoo.com/news/2-cheaper-ai-stocks-buy-164920982.html)**
+**[Protect Your Retirement: Avoid These 3 AI Stocks Right Now](https://www.fool.com/investing/2025/12/26/protect-retirement-avoid-ai-stocks-soun-bbai/)**
 
-If you don’t buy the AI bubble fears and think the increased skepticism over some of the names powering the technology, it might be time to get just a bit more greedy to start 2026 off on the right track. Undoubtedly, the broad markets are starting to heat up again (AI stocks included), but there ... 2 Cheaper AI Stocks to Buy for 2026
+Not all AI companies are going to succeed. Here are three of the riskiest.
 
-Yahoo Finance • 3h ago
+The Motley Fool • 49m ago
+
+---
+
+**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
+
+Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
+
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
+
+CNBC • 1d ago
+
+---
+
+**[Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/)**
+
+With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -209,7 +215,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 257 • 💬 299 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 258 • 💬 301 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -218,6 +224,14 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
 ⬆️ 197 • 💬 113 • 1d ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+
+---
+
+**[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
+
+Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
+
+⬆️ 183 • 💬 98 • 1h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -237,19 +251,11 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 ---
 
-**[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
-
-Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
-
-⬆️ 107 • 💬 33 • 1h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
-
----
-
 **[Building an AI agent inside a 7-year-old Rails monolith](https://news.ycombinator.com/item?id=46390055)**
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 96 • 💬 41 • 12h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 97 • 💬 41 • 13h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -295,7 +301,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 20h ago
+👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 21h ago
 
 ---
 
@@ -305,7 +311,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 20h ago
+👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 21h ago
 
 ---
 
@@ -391,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 949 • 3d ago
+⬇️ 4,752 • ❤️ 950 • 3d ago
 
 ---
 
@@ -403,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,171 • ❤️ 767 • 7d ago
+⬇️ 14,171 • ❤️ 771 • 7d ago
 
 ---
 
@@ -415,7 +421,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 30,907 • ❤️ 620 • 7d ago
+⬇️ 30,907 • ❤️ 622 • 8d ago
 
 ---
 
@@ -427,7 +433,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,450 • 18d ago
+⬇️ 402,987 • ❤️ 3,451 • 18d ago
 
 ---
 
@@ -461,7 +467,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 308 • 12h ago
+⬇️ 121 • ❤️ 319 • 13h ago
 
 ---
 
@@ -655,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 749 • 13h ago
+⭐ 6.8k • 🔱 749 • 14h ago
 
 ---
 
@@ -665,7 +671,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 473 • 1h ago
+⭐ 3.7k • 🔱 473 • 2h ago
 
 ---
 
@@ -675,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 14m ago
+⭐ 3.1k • 🔱 214 • 33m ago
 
 ---
 
@@ -715,7 +721,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 227 • 4h ago
+⭐ 1.3k • 🔱 227 • 5h ago
 
 ---
 
@@ -725,7 +731,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 134 • 9h ago
+⭐ 1.3k • 🔱 134 • 10h ago
 
 ---
 

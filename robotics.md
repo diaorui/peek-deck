@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T20:19:36.357731+00:00'
+updated: '2025-12-26T20:39:16.708271+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 20:19 UTC  
+**Last Updated:** December 26, 2025 at 20:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-10h ago
+11h ago
 
 ---
 
@@ -70,19 +70,19 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 ---
 
+**[Invitation to Robot Rave - London, January 17-18, 2026](https://www.reddit.com/r/robotics/comments/1pwcus0/invitation_to_robot_rave_london_january_1718_2026/)**
+
+Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
+
+1h ago
+
+---
+
 **[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
 1d ago
-
----
-
-**[Invitation to Robot Rave - London, January 17-18, 2026](https://www.reddit.com/r/robotics/comments/1pwcus0/invitation_to_robot_rave_london_january_1718_2026/)**
-
-Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
-
-44m ago
 
 ---
 
@@ -154,7 +154,7 @@ Yahoo Finance • 1d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 22h ago
+Tech Xplore • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ New Atlas • 2d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 8h ago
+Tom's Hardware • 9h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 20h ago
+👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 21h ago
 
 ---
 
@@ -226,7 +226,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 37K • 👍 998 • 💬 238 • ⏱️ 21:33 • 19h ago
+👁️ 37K • 👍 998 • 💬 238 • ⏱️ 21:33 • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 36K • 👍 583 • 💬 87 • ⏱️ 13:55 • 2d ago
+👁️ 36K • 👍 583 • 💬 87 • ⏱️ 13:55 • 3d ago
 
 ---
 

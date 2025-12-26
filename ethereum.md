@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T20:19:36.354321+00:00'
+updated: '2025-12-26T20:39:16.705433+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 20:19 UTC  
+**Last Updated:** December 26, 2025 at 20:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,925.93
+### $2,928.11
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.00B
+**Market Cap:** $353.20B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.8%
 
 **All-Time Low:** $0.43
-+675059.8%
++675778.0%
 
 ---
 
@@ -86,7 +86,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 2h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 3h ago
 
 ---
 
@@ -170,6 +170,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+
+Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 **[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
@@ -178,11 +186,11 @@ Yahoo Finance • 6h ago
 
 ---
 
-**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
-Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
+BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-TradingView — Track All Markets • 1d ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -195,14 +203,6 @@ CCN.com • 1d ago
 **[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
 
 TradingView — Track All Markets • 20h ago
-
----
-
-**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
-
-BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
-
-Seeking Alpha • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 92 • 💬 6 • ⏱️ 4:08 • 5h ago
+👁️ 1K • 👍 92 • 💬 6 • ⏱️ 4:08 • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 62 • 💬 32 • ⏱️ 15:04 • 17h ago
+👁️ 2K • 👍 62 • 💬 32 • ⏱️ 15:04 • 18h ago
 
 ---
 
