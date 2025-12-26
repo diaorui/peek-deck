@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T07:48:24.171378+00:00'
+updated: '2025-12-26T07:59:16.821527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 07:48 UTC  
+**Last Updated:** December 26, 2025 at 07:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,500.00
+### $88,695.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +0.5%  
-**30d:** -2.9%  
-**90d:** -20.7%  
-**1y:** -5.8%  
+**24h:** +1.2%  
+**7d:** +0.3%  
+**30d:** -3.1%  
+**90d:** -20.9%  
+**1y:** -6.1%  
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Video cred: clusk
 
-9h ago
+10h ago
 
 ---
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-11h ago
+12h ago
 
 ---
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 13h ago
 
 Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 14h ago
+thestreet.com • 15h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T07:48:24.177402+00:00'
+updated: '2025-12-26T07:59:16.827726+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 07:48 UTC  
+**Last Updated:** December 26, 2025 at 07:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -0.5%  
-**30d:** -1.6%  
-**90d:** -28.3%  
-**1y:** -11.0%  
+**24h:** +1.0%  
+**7d:** -0.8%  
+**30d:** -1.9%  
+**90d:** -28.6%  
+**1y:** -11.2%  
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 2d ago
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-Coinpedia • 12h ago
+Coinpedia • 13h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 8K • 👍 284 • 💬 55 • ⏱️ 16:26 • 13h ago
+👁️ 8K • 👍 284 • 💬 55 • ⏱️ 16:26 • 14h ago
 
 ---
 
@@ -282,7 +282,7 @@ BMNR vs Every ETH ETF: Who Really Owns Ethereum? BitMine Immersion ($BMNR) has o
 
 📺 Wall Street Stockcast
 
-👁️ 244 • 👍 7 • 💬 1 • ⏱️ 7:55 • 18h ago
+👁️ 244 • 👍 7 • 💬 1 • ⏱️ 7:55 • 19h ago
 
 ---
 
@@ -292,7 +292,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video:
 
 📺 Trading Jip
 
-👁️ 582 • 👍 35 • 💬 18 • ⏱️ 7:57 • 19h ago
+👁️ 582 • 👍 35 • 💬 18 • ⏱️ 7:57 • 20h ago
 
 ---
 
