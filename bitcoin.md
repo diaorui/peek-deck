@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T20:51:52.152886+00:00'
+updated: '2025-12-26T21:12:07.885273+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 20:51 UTC  
+**Last Updated:** December 26, 2025 at 21:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.0%  
 **7d:** -0.8%  
-**30d:** -4.1%  
+**30d:** -4.2%  
 **90d:** -21.8%  
 **1y:** -7.1%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.59B
+**Market Cap:** $1747.30B
 Rank #1
 
-**Circulating Supply:** 19,967,506 BTC
+**Circulating Supply:** 19,967,534 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128987.2%
++128966.5%
 
 ---
 
@@ -77,41 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
-
-3h ago
-
----
-
-**[Problems 2026](https://www.reddit.com/r/Bitcoin/comments/1pwc5jm/problems_2026/)**
-
-1h ago
-
----
-
-**[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
-
-10h ago
-
----
-
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
 3h ago
-
----
-
-**[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
-
-8h ago
-
----
-
-**[why is bitcoin going down while gold and silver are at all time high's?](https://www.reddit.com/r/Bitcoin/comments/1pwas1i/why_is_bitcoin_going_down_while_gold_and_silver/)**
-
-give your opinion
-
-2h ago
 
 ---
 
@@ -121,21 +89,55 @@ give your opinion
 
 ---
 
-**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
+**[This Morning’s Liquidation Hunt: Leveraged Tourists Took 98% of the Damage While Long-Term Coins were Silent this Morning.](https://www.reddit.com/r/Bitcoin/comments/1pwbvmb/this_mornings_liquidation_hunt_leveraged_tourists/)**
 
-13h ago
+The chart is from my full node, showing realized PnL by UTXO age band. This morning’s liquidation cascade added up to roughly $416M in realized losses, and almost all of it came from coins held 3–12 months. In other words, this move was not long-term HODLers dumping; it was the usual crowd of recent buyers running 3–12 month coins on leverage and getting wiped out when price was pushed into low-liquidity levels. Older coins (1.5+ years, multi-year) barely moved on-chain. These “liquidation hunts” will keep happening as long as people insist on leveraging short-term positions... there’s no real structural reason for price to stay pinned down here beyond providing fresh liquidation fuel. Same story as always: HODLers sit still, and leverage tourists donate their stack.
 
----
-
-**[😁😁😁](https://www.reddit.com/r/Bitcoin/comments/1pwd4wn/_/)**
-
-1h ago
+2h ago
 
 ---
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-18h ago
+19h ago
+
+---
+
+**[How it started as an idea how it ended as a financial revolution.](https://www.reddit.com/r/Bitcoin/comments/1pw8vlj/how_it_started_as_an_idea_how_it_ended_as_a/)**
+
+4h ago
+
+---
+
+**[How old is bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pw305j/how_old_is_bitcoin/)**
+
+These were the most popular ‘smart’ phones when bitcoin was invented in 2009
+
+8h ago
+
+---
+
+**[Keep calm & stack sats](https://www.reddit.com/r/Bitcoin/comments/1pwdnfr/keep_calm_stack_sats/)**
+
+1h ago
+
+---
+
+**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
+
+1d ago
+
+---
+
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+
+1d ago
+
+---
+
+**[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
+
+1d ago
 
 ---
 
@@ -155,31 +157,53 @@ Bloomberg.com • 7h ago
 
 Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Gold hits new record, bitcoin slips, Apple's China sales](https://finance.yahoo.com/video/gold-hits-record-bitcoin-slips-191003511.html)**
+**[Bitcoin (BTC) Options Expiry Fuels Volatility Spike](https://finance.yahoo.com/news/bitcoin-btc-options-expiry-fuels-120940928.html)**
 
-As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
+Bitcoin price is once again showing volatility. On December 26, it spiked 1.63% to more than $89,100, only to hover around $88,500 later. The latest bounce comes ahead of the $28 billion Friday options expiry. Experts believe that investors should stay vigilant at this point and watch for proper breakout ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://ca.finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
-
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
-
-Yahoo! Finance Canada • 2h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+Forbes • 8h ago
 
-The Motley Fool • 1d ago
+---
+
+**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+
+Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
+
+The Motley Fool • 2d ago
+
+---
+
+**[The Real Reason Bitcoin Dropped Like A Stone From Its $126,000 All-Time High](https://finance.yahoo.com/news/real-reason-bitcoin-dropped-stone-190144386.html)**
+
+Bitcoin (CRYPTO: BTC) is down $40,000 from its peak at the start of October. According to new analysis it wasn’t retail traders or overleveraged longs that did the damage—it was whales who bought around the $126,000 all-time high and panic-sold into ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today)**
+
+Key PointsBitcoin has gained nearly 20,000% during the past 10 years, far more than the stock market.
+
+Nasdaq • 2d ago
+
+---
+
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+
+Bitcoin is on pace to end 2025 having lost money for its investors.
+
+The Motley Fool • 9h ago
 
 ---
 
@@ -191,29 +215,9 @@ KITCO • 7h ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 8h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfTo24R8m5ogN3jCLCLnvTfqtro85Se3EMxmNKnVdxNw7me50UV300Y&gaa_ts=694ef5e2&gaa_sig=yH-nxVvo9hi-gYjSqw08Rc6WaiPkX4qfab6wXYwOx1oQoQMeK50UgZ___a9Za8cSiREpH4MH8aXbc2dUuZkCHg%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeKpeos5L3G9gk5AflijxyU42k1P32S9ihwUNGhwW1O1VVgxg5MFe97&gaa_ts=694efd95&gaa_sig=DtXFzbY14pTyy8JOt62dsXHNYIHoVYbXA6Q2voiSvCQeEO8utRDqYfMQ2hFyipuXtqIE8ZWirUf9YbrpmpvYbw%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
-
-thestreet.com • 5h ago
-
----
-
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
-
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -237,7 +241,7 @@ Yahoo Finance • 1d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 1h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 2h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -283,7 +287,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 1 • 💬 0 • 42m ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 1 • 💬 0 • 1h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -291,7 +295,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
 
-⬆️ 4 • 💬 0 • 2h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+⬆️ 4 • 💬 0 • 3h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
 
 ---
 
@@ -345,7 +349,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 3K • 👍 489 • 💬 54 • ⏱️ 9:31 • 3h ago
+👁️ 3K • 👍 489 • 💬 54 • ⏱️ 9:31 • 4h ago
 
 ---
 
@@ -365,7 +369,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 1K • 👍 166 • 2h ago
+👁️ 1K • 👍 166 • 3h ago
 
 ---
 
