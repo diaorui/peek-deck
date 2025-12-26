@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T06:16:13.824609+00:00'
+updated: '2025-12-26T06:51:03.883371+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 06:16 UTC  
+**Last Updated:** December 26, 2025 at 06:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +0.9%  
-**30d:** -2.5%  
+**24h:** +1.3%  
+**7d:** +0.8%  
+**30d:** -2.6%  
 **90d:** -20.5%  
-**1y:** -5.5%  
+**1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.95B
+**Market Cap:** $1778.77B
 Rank #1
 
 **Circulating Supply:** 19,967,237 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.3%
 
 **All-Time Low:** $67.81
-+131168.2%
++131270.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,21 +91,15 @@ Video cred: clusk
 
 ---
 
-**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
-
-11h ago
-
----
-
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
 4h ago
 
 ---
 
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-21h ago
+12h ago
 
 ---
 
@@ -115,9 +109,23 @@ Video cred: clusk
 
 ---
 
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+
+22h ago
+
+---
+
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
 10h ago
+
+---
+
+**[Physical bitcoin gifts to family](https://www.reddit.com/r/Bitcoin/comments/1pvwokx/physical_bitcoin_gifts_to_family/)**
+
+Words are clearly not a real seed this is for reference in case you wanted to do something similar costed like 15$ on Amazon for all the little trinket tokens inside the plastic containers I made this myself using exodus wallet on my phone would screenshot and crop wallet address airdrop to iMac then put in word size it small and put the 12 word seed below it then print Then cut then fold and fit inside trinket coin now you can load from the qr then open it and unload from seed when needed so I can give to old family and them throw it in there safe untill they need to use it and it not get “hacked” I didn’t save any deleted all keys as I made next one just delete print delete print no saving the doc
+
+1h ago
 
 ---
 
@@ -125,7 +133,7 @@ Video cred: clusk
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-17h ago
+18h ago
 
 ---
 
@@ -134,14 +142,6 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 11h ago
-
----
-
-**[Just won this baby on the forum! Aww](https://www.reddit.com/r/Bitcoin/comments/1pvtb6r/just_won_this_baby_on_the_forum_aww/)**
-
-She was 1 of 3 prizes for a free Christmas drawing! Comes funded with 10,000 sats! Can’t beat free funded Physical Bitcoin by “Finite by Design” to add to the collection! Merry Christmas guys. Hope y’all had a great day!
-
-3h ago
 
 ---
 
@@ -157,11 +157,25 @@ CoinDesk • 16h ago
 
 ---
 
+**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
+
+The Block • 12h ago
+
+---
+
+**[The Biggest Options Expiry Ever—What $27 Billion Means for Bitcoin and Ethereum](https://finance.yahoo.com/news/biggest-options-expiry-ever-27-053511476.html)**
+
+Over $27 billion in Bitcoin and Ethereum options expire on Deribit, marking the largest crypto derivatives reset ever.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -173,37 +187,7 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
-
-The Block • 12h ago
-
----
-
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
-
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
-
-BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
-
-Yahoo Finance • 18h ago
-
----
-
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
-
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdI3-QgV9KHl_PkAoqxo1cu_aVvO-2ydIXipQYN1iTgeWhfH7zssuGk&gaa_ts=694e2b97&gaa_sig=fJzBlHl8aJUS7VWILLMlTHu-hhHxOmWnJOHssBo1C1Z6jaJkij3tQbdDzv7wjhRaD04CP32A3nPf-8Uydf-sZQ%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeiuUgkGHs9O9kfm_-sYr7g0EPTTsG7jCXioduFh_GUTmNdp0HKaLHz&gaa_ts=694e33c5&gaa_sig=Rhn3qAufh_w2CC5eRHmY3IIvPVCAsunz-9_oPjBvsBPraFeMGPEZ8qPihyCaCU_4Mi6GdFT0-yeKaeRH7Nk4Pg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -220,6 +204,20 @@ thestreet.com • 13h ago
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
 Investopedia • 2d ago
+
+---
+
+**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
+
+The Block • 1d ago
+
+---
+
+**[“Tax Loss Harvesting” Drives $825M Outflow From Bitcoin ETFs This Week: Analyst](https://finance.yahoo.com/news/tax-loss-harvesting-drives-825m-094935038.html)**
+
+U.S. spot Bitcoin ETFs have recorded eight consecutive days of institutional selling, with total outflows reaching approximately $825 million as year-end tax strategies dominate market behavior.According to analyst Alek, the sustained selling pressure stems primarily from tax loss harvesting. He claimed it is a temporary phenomenon expected to conclude within ...
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -365,7 +363,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 426 • 💬 19 • ⏱️ 19:55 • 13h ago
+👁️ 11K • 👍 426 • 💬 19 • ⏱️ 19:55 • 14h ago
 
 ---
 

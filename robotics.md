@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T06:16:13.833767+00:00'
+updated: '2025-12-26T06:51:03.892480+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 06:16 UTC  
+**Last Updated:** December 26, 2025 at 06:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-2h ago
-
----
-
-**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
-
-15h ago
+3h ago
 
 ---
 
@@ -54,9 +46,17 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
+**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
+
+16h ago
+
+---
+
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -68,9 +68,17 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 ---
 
+**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
+
+We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
+
+38m ago
+
+---
+
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -79,14 +87,6 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I’m just a 22-year-old recent grad, not a giant company, but I decided to build not just an alternative, but an evolution of the drone. I call it "Mercury." It doesn't just fly—it transforms to drive. The goal was to build a platform that can handle tight spaces and rough terrain where standard drones usually fail (or crash). The Build: Brain: Raspberry Pi running ROS (Robot Operating System) Flight Controller: Orange Cube Mechanics: Custom transformation mechanism for flight-to-drive switching Payload: Internal bay for sensors or hardware expansion Future Plans & Question: Since this runs on an open stack (no black boxes), I’m considering polishing this up and releasing it as a DIY kit for people who want a dev platform they can actually modify. Is there actual interest in a kit like this? And if so, would you prefer a "bring your own Pi/Flight Controller" hardware frame, or a complete kit? I’m building this out of my garage, so I’d love to hear your feedback on the mechanics and if you think the "hybrid" concept is useful for your own projects
 
 1d ago
-
----
-
-**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
-
-We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
-
-3m ago
 
 ---
 
@@ -110,14 +110,6 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 ## Google News: "robotics"
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 1d ago
-
----
-
 **[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
 A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
@@ -126,9 +118,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-Tech Xplore • 8h ago
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -140,17 +134,17 @@ Earth.com • 1d ago
 
 ---
 
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-: Investment and interest have outpaced technology and society
-
-theregister.com • 17h ago
+Tech Xplore • 9h ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqceNR8ILrQLTusHKNGDxLV-0DzaSv23yq5n1rd11We2Fvgm8m-9Z-1w&gaa_ts=694e2b9d&gaa_sig=T268LzingKtyFlybHFG_EZqE9rNnjWg4GQffgIoUA4qVf8OgDxIYT7OH0yCuGyEtOnrmSQqLtAFb5eiib44OPg%3D%3D)**
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
-The Wall Street Journal • 4h ago
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+
+New Atlas • 1d ago
 
 ---
 
@@ -168,19 +162,27 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
-Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
-South China Morning Post • 2d ago
+The Daily Beast • 2d ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
 
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
 
-New Atlas • 1d ago
+The Robot Report • 1d ago
+
+---
+
+**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+
+Fortune • 9d ago
 
 ---
 
@@ -194,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 38K • 👍 816 • 💬 110 • ⏱️ 12:51 • 6h ago
+👁️ 38K • 👍 816 • 💬 110 • ⏱️ 12:51 • 7h ago
 
 ---
 
@@ -214,7 +216,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 8K • 👍 391 • 💬 91 • ⏱️ 21:33 • 5h ago
+👁️ 8K • 👍 391 • 💬 91 • ⏱️ 21:33 • 6h ago
 
 ---
 
@@ -254,7 +256,7 @@ China's leading robotics company, AgiBot, recently unveiled its 5000th mass-prod
 
 📺 New China TV
 
-👁️ 70K • 👍 1K • 💬 299 • ⏱️ 31:49 • 6d ago
+👁️ 70K • 👍 1K • 💬 299 • ⏱️ 31:49 • 7d ago
 
 ---
 

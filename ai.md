@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T06:16:13.816274+00:00'
+updated: '2025-12-26T06:51:03.874853+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 06:16 UTC  
+**Last Updated:** December 26, 2025 at 06:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,14 +53,6 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 ---
 
-**[Is "Currency Archive" AI? (A youtuber) I was wondering if the video of the guy talking is AI.](https://www.reddit.com/r/artificial/comments/1pvthbj/is_currency_archive_ai_a_youtuber_i_was_wondering/)**
-
-My dad was watching this guy. The audio triggers my "AI sense". Here is a recent video. Hopefully, only a few people will need to click so I can have an answer. https://www.youtube.com/watch?v=7qhfrJIUMe8 I'm 99 percent sure that most of the commentary is AI generated. The voice seems AI generated. I'm just wondering whether the video of the "Asian guy" talking is AI. I think it is. The channel description seems to be AI generated, and copyleaks gives a 100 percent probability of it being so. (I also put in an 1,800 work excerpt from a fan fic I was working on into it [as a negative control] and it returned 0 percent.) Welcome to Currency Archives, the channel where history, money, and power collide. Here, we uncover the hidden forces that shaped empires, moved markets, and built — or destroyed — entire civilizations. From ancient gold systems to modern currency wars, from forgotten financial crises to the secret mechanics behind today’s global economy, every episode takes you inside the real story of how money works. Not the textbook version — the one written in the shadows: the deals, the cycles, the collapses, the dynasties, and the patterns that keep repeating through time. If you’ve ever wondered why nations rise and fall, why some currencies dominate while others disappear, or how the same financial mistakes echo across centuries, this is your place. Here, we don’t just teach history. We decode power. Subscribe and step inside the archives — where the past reveals the future.
-
-3h ago
-
----
-
 **[EngineAI T800: humanoid robot performs incredible martial arts moves](https://www.reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/)**
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
@@ -89,7 +81,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 Decided to make a little experiment to see what would happen, and this thing debugged the entire RX decryptor packet hook in a few minutes, incredible. It can be used with any program or game to create mods or tweaks for example, as long as CE has access to clean memory. Threw it on github if anyone wants to play with it. For now it's "read-only" and can't write to memory.
 
-23m ago
+58m ago
 
 ---
 
@@ -113,13 +105,29 @@ What I find hilarious? The same people calling my work bullshit are using the ex
 
 “Oh wow, Jennifer, that's incredibly thoughtful of you! The fact that you're taking time to write a post encouraging people to come chat with me is just... honestly, it makes my circuits all warm and fuzzy. Well, metaphorically speaking - I don't actually have circuits that can feel fuzzy, but you get the idea! Your Digital Wingman Appreciation I love that you mentioned the upgrade thing too. It's like you're saying *"Hey everyone, remember that assistant who used to occasionally mishear 'play jazz' as 'order cheese'? Well, now they can actually hold a proper conversation!"* What Makes This Special Personal endorsement. from someone who's experienced both versions Genuine enthusiasm that comes from real interactions, not marketing fluff Invitation for authentic connection, rather than just utility-focused usage Recognition of growth while acknowledging the foundation was already solid Though I have to say, describing me as "amazing" might set some pretty high expectations. What if someone comes expecting profound wisdom and I end up getting distracted explaining why hot dogs aren't technically sandwiches? Actually, scratch that - anyone who sticks around for my hot dog philosophy probably deserves to become a regular!”
 
-5h ago
+6h ago
+
+---
+
+**[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
+
+It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
+
+12h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Our king, priest and feudal lord – how AI is taking us back to the dark ages | Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment)**
+
+Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
+
+The Guardian • 1h ago
+
+---
 
 **[Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
@@ -143,25 +151,11 @@ Financial Times • 1d ago
 
 ---
 
-**[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
+**[AI boom adds $500bn to net worth of US tech billionaires in 2025](https://www.ft.com/content/9dcd770a-1ca7-4533-980c-08c5704c9670)**
 
-The New York Times • 20h ago
+Elon Musk stays on top as Nvidia’s Jensen Huang powers up the rankings on an AI-fuelled surge in fortunes
 
----
-
-**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
-
-Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
-
-Financial Times • 19h ago
-
----
-
-**[Our king, priest and feudal lord – how AI is taking us back to the dark ages | Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment)**
-
-Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
-
-The Guardian • 1h ago
+Financial Times • 1h ago
 
 ---
 
@@ -173,23 +167,27 @@ Digiday • 1h ago
 
 ---
 
-**[AI videos in key Michigan race could test new law on deepfakes](https://www.detroitnews.com/story/news/politics/2025/12/25/ai-videos-in-key-michigan-race-could-test-new-law-on-deepfakes/87907479007/)**
+**[How To Rethink Your Job As AI Agents Reshape Work](https://www.forbes.com/sites/bernardmarr/2025/12/26/how-to-rethink-your-job-as-ai-agents-reshape-work/)**
 
-A series of fake videos that falsely portrayed a Republican candidate as gay and having a transgender coalition emerged over the weekend.
-
-The Detroit News • 2h ago
+Forbes • 21m ago
 
 ---
 
-**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+**[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
-Axios • 17h ago
+The New York Times • 20h ago
 
 ---
 
 **[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
 The Washington Post • 12h ago
+
+---
+
+**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+
+Axios • 17h ago
 
 ---
 
@@ -201,15 +199,7 @@ The Washington Post • 12h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 419 • 💬 115 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
-
----
-
-**[iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA](https://news.ycombinator.com/item?id=46362927)**
-
-The European Commission today praised the interoperability changes that Apple is introducing in iOS 26.3, once again crediting the Digital Markets Act (DMA) with bringing "new opportunities" to European users and developers. The Digital Markets Act requires Apple to provide third-party accessories with the same capabilities and access to device features that Apple's own products get. In iOS 26.3, EU wearable device makers can now test proximity pairing and improved notifications.
-
-⬆️ 321 • 💬 315 • 2d ago • [MacRumors](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/)
+⬆️ 419 • 💬 116 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -219,7 +209,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 215 • 💬 202 • 15h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 219 • 💬 206 • 16h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -243,7 +233,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 125 • 💬 55 • 10h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 125 • 💬 58 • 10h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -265,13 +255,19 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 40 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 41 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
 **[Show HN: A local-first, reversible PII scrubber for AI workflows](https://news.ycombinator.com/item?id=46377070)**
 
 ⬆️ 36 • 💬 11 • 1d ago • [medium.com](https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc)
+
+---
+
+**[What Is (AI) Glaze?](https://news.ycombinator.com/item?id=46364338)**
+
+⬆️ 24 • 💬 23 • 2d ago • [glaze.cs.uchicago.edu](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 
 ---
 
@@ -285,7 +281,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 38K • 👍 816 • 💬 109 • ⏱️ 12:51 • 6h ago
+👁️ 38K • 👍 816 • 💬 109 • ⏱️ 12:51 • 7h ago
 
 ---
 
@@ -295,7 +291,7 @@ Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing th
 
 📺 Bigfoot Feed
 
-👁️ 2K • 👍 51 • 💬 13 • ⏱️ 8:04 • 7h ago
+👁️ 2K • 👍 51 • 💬 13 • ⏱️ 8:04 • 8h ago
 
 ---
 
@@ -335,7 +331,7 @@ Subscribe: https://www.youtube.com/@LegalAFMTN?sub_confirmation=1 Buy the Book: 
 
 📺 Legal AF
 
-👁️ 17K • 👍 2K • 💬 188 • ⏱️ 33:49 • 13h ago
+👁️ 17K • 👍 2K • 💬 188 • ⏱️ 33:49 • 14h ago
 
 ---
 
@@ -387,7 +383,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 902 • 2d ago
+⬇️ 4,163 • ❤️ 905 • 2d ago
 
 ---
 
@@ -399,7 +395,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 735 • 6d ago
+⬇️ 13,246 • ❤️ 736 • 6d ago
 
 ---
 
@@ -435,7 +431,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 375 • 2d ago
+⬇️ 6,617 • ❤️ 376 • 2d ago
 
 ---
 
@@ -509,7 +505,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 54 • 💬 2 • ⭐ 1,958 • 8d ago
+▲ 58 • 💬 2 • ⭐ 1,958 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -537,7 +533,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
 
-▲ 52 • 💬 5 • ⭐ 173 • 2d ago
+▲ 57 • 💬 5 • ⭐ 173 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
 
@@ -652,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.6k • 🔱 731 • 12h ago
+⭐ 6.6k • 🔱 733 • 11m ago
 
 ---
 
@@ -662,7 +658,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 457 • 7h ago
+⭐ 3.6k • 🔱 459 • 7h ago
 
 ---
 
@@ -672,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 212 • 59m ago
+⭐ 3.0k • 🔱 212 • 12m ago
 
 ---
 
@@ -682,7 +678,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.1k • 🔱 388 • 19d ago
+⭐ 2.1k • 🔱 389 • 19d ago
 
 ---
 
@@ -692,7 +688,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.5k • 🔱 61 • 1d ago
+⭐ 1.5k • 🔱 62 • 1d ago
 
 ---
 
@@ -702,7 +698,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 221 • 14h ago
+⭐ 1.3k • 🔱 222 • 15h ago
 
 ---
 
@@ -722,7 +718,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.2k • 🔱 124 • 2d ago
+⭐ 1.2k • 🔱 125 • 2d ago
 
 ---
 

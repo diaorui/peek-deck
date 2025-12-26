@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T06:16:13.830565+00:00'
+updated: '2025-12-26T06:51:03.889291+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 06:16 UTC  
+**Last Updated:** December 26, 2025 at 06:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,973.11
+### $2,975.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +1.4%  
 **7d:** +0.0%  
 **30d:** -1.1%  
 **90d:** -28.0%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.66B
+**Market Cap:** $359.05B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.8%
+-39.9%
 
 **All-Time Low:** $0.43
-+687129.6%
++686836.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14m ago
+49m ago
 
 ---
 
@@ -148,28 +148,6 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 ## Google News: "ethereum"
 
-**[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
-
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
-
-Yahoo Finance • 15h ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 16h ago
-
----
-
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
-
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
-
-CryptoSlate • 2d ago
-
----
-
 **[Why Tom Lee just bought $421m Ethereum despite the tanking market](https://finance.yahoo.com/news/why-tom-lee-just-bought-104901643.html)**
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
@@ -186,9 +164,39 @@ ts2.tech • 14h ago
 
 ---
 
-**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
+**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
 
-CCN.com • 2d ago
+If history repeats, ETH could front a 45% rally in the mid-term.
+
+AMBCrypto • 21h ago
+
+---
+
+**[The Biggest Options Expiry Ever—What $27 Billion Means for Bitcoin and Ethereum](https://finance.yahoo.com/news/biggest-options-expiry-ever-27-053511476.html)**
+
+Over $27 billion in Bitcoin and Ethereum options expire on Deribit, marking the largest crypto derivatives reset ever.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 16h ago
+
+---
+
+**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
+
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+
+Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -198,27 +206,19 @@ The Block • 2d ago
 
 ---
 
-**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+**[ETH at Risk? Four Indicators Point to More Pain Ahead](https://beincrypto.com/why-eth-price-may-not-recover-soon/)**
 
-Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
+Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-TradingView — Track All Markets • 18h ago
-
----
-
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
-
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
-
-Decrypt • 2d ago
+BeInCrypto • 15h ago
 
 ---
 
-**[Ethereum takes center stage – Liquidity rotates away from Bitcoin](https://ambcrypto.com/ethereum-takes-center-stage-liquidity-rotates-away-from-bitcoin/)**
+**[Why Solana Could Grow Faster Than Ethereum, According to Charles Hoskinson](https://coinpedia.org/news/why-solana-could-grow-faster-than-ethereum-according-to-charles-hoskinson/)**
 
-Ethereum could be taking center stage as liquidity rotates in its favor.
+Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-AMBCrypto • 10h ago
+Coinpedia • 11h ago
 
 ---
 
@@ -232,7 +232,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 484 • 👍 31 • ⏱️ 15:04 • 3h ago
+👁️ 484 • 👍 31 • ⏱️ 15:04 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 7 • ⏱️ 4:41 • 13h ago
+👁️ 2K • 👍 161 • 💬 7 • ⏱️ 4:41 • 14h ago
 
 ---
 
@@ -282,7 +282,7 @@ BMNR vs Every ETH ETF: Who Really Owns Ethereum? BitMine Immersion ($BMNR) has o
 
 📺 Wall Street Stockcast
 
-👁️ 244 • 👍 7 • 💬 1 • ⏱️ 7:55 • 17h ago
+👁️ 244 • 👍 7 • 💬 1 • ⏱️ 7:55 • 18h ago
 
 ---
 
