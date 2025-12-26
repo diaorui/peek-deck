@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T19:54:12.794514+00:00'
+updated: '2025-12-26T20:19:36.347957+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 19:54 UTC  
+**Last Updated:** December 26, 2025 at 20:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,535.39
+### $87,432.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -1.0%  
-**30d:** -4.3%  
-**90d:** -21.9%  
-**1y:** -7.2%  
+**24h:** -0.7%  
+**7d:** -1.1%  
+**30d:** -4.4%  
+**90d:** -22.0%  
+**1y:** -7.3%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Problems 2026](https://www.reddit.com/r/Bitcoin/comments/1pwc5jm/problems_2026/)**
 
-47m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[10 Year old decided no gifts this year instead wanted money under the tree to buy BTC.](https://www.reddit.com/r/Bitcoin/comments/1pw9fmk/10_year_old_decided_no_gifts_this_year_instead/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 give your opinion
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ give your opinion
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 6h ago
 
 Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 3h ago
 
 As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ KITCO • 6h ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -239,7 +239,7 @@ The Wall Street Journal • 2d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 57m ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 1h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
 
-⬆️ 4 • 💬 0 • 1h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+⬆️ 4 • 💬 0 • 2h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
 
 ---
 
@@ -301,7 +301,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 2K • 👍 25 • 💬 56 • ⏱️ 1:52 • 4h ago
+👁️ 2K • 👍 25 • 💬 56 • ⏱️ 1:52 • 5h ago
 
 ---
 
@@ -321,7 +321,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 5K • 👍 423 • 💬 33 • ⏱️ 10:40 • 4h ago
+👁️ 5K • 👍 423 • 💬 33 • ⏱️ 10:40 • 5h ago
 
 ---
 
@@ -331,7 +331,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 490 • 💬 83 • ⏱️ 21:19 • 4h ago
+👁️ 8K • 👍 490 • 💬 83 • ⏱️ 21:19 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 3K • 👍 489 • 💬 54 • ⏱️ 9:31 • 2h ago
+👁️ 3K • 👍 489 • 💬 54 • ⏱️ 9:31 • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 492 • 💬 131 • ⏱️ 4:31 • 23h ago
+👁️ 13K • 👍 492 • 💬 131 • ⏱️ 4:31 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Come look into the next BIG move in crypto! All LIVE analysis, charting, and tra
 
 📺 Tom Crown
 
-👁️ 1K • 👍 166 • 1h ago
+👁️ 1K • 👍 166 • 2h ago
 
 ---
 
@@ -371,7 +371,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 721 • 💬 49 • ⏱️ 15:49 • 21h ago
+👁️ 19K • 👍 721 • 💬 49 • ⏱️ 15:49 • 22h ago
 
 ---
 

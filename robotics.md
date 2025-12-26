@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T19:54:12.802531+00:00'
+updated: '2025-12-26T20:19:36.357731+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 19:54 UTC  
+**Last Updated:** December 26, 2025 at 20:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-13h ago
+14h ago
 
 ---
 
@@ -82,7 +82,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-19m ago
+44m ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 
 Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
 
-3h ago
+4h ago
 
 ---
 
@@ -178,7 +178,7 @@ Tom's Hardware • 8h ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 9K • 👍 232 • 💬 12 • ⏱️ 1:30 • 14h ago
+👁️ 9K • 👍 232 • 💬 12 • ⏱️ 1:30 • 15h ago
 
 ---
 
