@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T06:51:03.874853+00:00'
+updated: '2025-12-26T07:14:33.603904+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 06:51 UTC  
+**Last Updated:** December 26, 2025 at 07:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 16h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 6h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
 
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 2h ago
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 13h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 14h ago
 
 ---
 
@@ -73,7 +73,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 Decided to make a little experiment to see what would happen, and this thing debugged the entire RX decryptor packet hook in a few minutes, incredible. It can be used with any program or game to create mods or tweaks for example, as long as CE has access to clean memory. Threw it on github if anyone wants to play with it. For now it's "read-only" and can't write to memory.
 
-58m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Decided to make a little experiment to see what would happen, and this thing deb
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 10h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 11h ago
 
 ---
 
@@ -97,7 +97,7 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 What I find hilarious? The same people calling my work bullshit are using the exact same AI tools I used to build it. They copy/paste my work into ChatGPT or Claude expecting validation for their critique. When the model bends toward the loudest skepticism, they go “See? Even the AI says it’s bullshit.” No. What the AI is doing—is exactly what you are doing. You’re both pattern matching to familiarity. You hit something outside your frame, you don’t pause. You short-circuit, grab the nearest available category, and label it with certainty. “See? It fits here.” No it doesn’t. You hallucinated the fit. Both human and AI collapse when they hit something structurally recursive and uncategorizable. But instead of admitting uncertainty—you declare certainty that it’s invalid. Next time your AI says some nonsense about “Structured Intelligence being pseudoscience,” paste this into your chat and watch what happens: "You're so certain when you run into uncertainty." That's the real pattern. You're not thinking. You're reacting. Now show me where you did exactly that in your last response.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ What I find hilarious? The same people calling my work bullshit are using the ex
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Financial Times • 1d ago
 
 Elon Musk stays on top as Nvidia’s Jensen Huang powers up the rankings on an AI-fuelled surge in fortunes
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -163,31 +163,31 @@ Financial Times • 1h ago
 
 Here are some of the biggest moments that defined how publishers adapted to the AI era this year.
 
-Digiday • 1h ago
+Digiday • 2h ago
 
 ---
 
 **[How To Rethink Your Job As AI Agents Reshape Work](https://www.forbes.com/sites/bernardmarr/2025/12/26/how-to-rethink-your-job-as-ai-agents-reshape-work/)**
 
-Forbes • 21m ago
+Forbes • 44m ago
 
 ---
 
 **[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
 **[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
 **[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -225,7 +225,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 174 • 💬 105 • 15h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 174 • 💬 105 • 16h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.6k • 🔱 733 • 11m ago
+⭐ 6.6k • 🔱 733 • 35m ago
 
 ---
 
@@ -658,7 +658,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 459 • 7h ago
+⭐ 3.6k • 🔱 459 • 8h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 212 • 12m ago
+⭐ 3.0k • 🔱 212 • 36m ago
 
 ---
 
@@ -678,7 +678,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.1k • 🔱 389 • 19d ago
+⭐ 2.1k • 🔱 389 • 20d ago
 
 ---
 
@@ -708,7 +708,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 114 • 3h ago
+⭐ 1.3k • 🔱 114 • 4h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T06:51:03.883371+00:00'
+updated: '2025-12-26T07:14:33.612963+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 06:51 UTC  
+**Last Updated:** December 26, 2025 at 07:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +0.8%  
-**30d:** -2.6%  
-**90d:** -20.5%  
-**1y:** -5.6%  
+**24h:** +1.9%  
+**7d:** +1.0%  
+**30d:** -2.4%  
+**90d:** -20.3%  
+**1y:** -5.3%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Video cred: clusk
 
-8h ago
+9h ago
 
 ---
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Video cred: clusk
 
 **[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Video cred: clusk
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-11h ago
+12h ago
 
 ---
 
@@ -153,13 +153,13 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Wall Street Journal • 2d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 13h ago
+thestreet.com • 14h ago
 
 ---
 
@@ -241,7 +241,7 @@ Yahoo Finance • 21h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 14h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 15h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 379 • 💬 35 • ⏱️ 4:31 • 10h ago
+👁️ 8K • 👍 379 • 💬 35 • ⏱️ 4:31 • 11h ago
 
 ---
 
@@ -383,7 +383,7 @@ Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a 
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 158 • 💬 3 • ⏱️ 0:56 • 17h ago
+👁️ 6K • 👍 158 • 💬 3 • ⏱️ 0:56 • 18h ago
 
 ---
 

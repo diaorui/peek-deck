@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T06:51:03.889291+00:00'
+updated: '2025-12-26T07:14:33.621608+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 06:51 UTC  
+**Last Updated:** December 26, 2025 at 07:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +0.0%  
-**30d:** -1.1%  
-**90d:** -28.0%  
-**1y:** -10.5%  
+**24h:** +1.9%  
+**7d:** +0.2%  
+**30d:** -1.0%  
+**90d:** -27.9%  
+**1y:** -10.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-49m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-18h ago
+19h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 14h ago
+ts2.tech • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ ts2.tech • 14h ago
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -182,13 +182,13 @@ Yahoo Finance • 1h ago
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 16h ago
+CCN.com • 17h ago
 
 ---
 
 **[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 2d ago
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-BeInCrypto • 15h ago
+BeInCrypto • 16h ago
 
 ---
 
@@ -218,7 +218,7 @@ BeInCrypto • 15h ago
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-Coinpedia • 11h ago
+Coinpedia • 12h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 8K • 👍 284 • 💬 55 • ⏱️ 16:26 • 12h ago
+👁️ 8K • 👍 284 • 💬 55 • ⏱️ 16:26 • 13h ago
 
 ---
 
@@ -292,7 +292,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video:
 
 📺 Trading Jip
 
-👁️ 582 • 👍 35 • 💬 18 • ⏱️ 7:57 • 18h ago
+👁️ 582 • 👍 35 • 💬 18 • ⏱️ 7:57 • 19h ago
 
 ---
 
@@ -302,7 +302,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 352 • 1h ago
+👁️ 2K • 👍 352 • 2h ago
 
 ---
 
@@ -312,7 +312,7 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 790 • 👍 32 • 💬 7 • ⏱️ 19:17 • 15h ago
+👁️ 790 • 👍 32 • 💬 7 • ⏱️ 19:17 • 16h ago
 
 ---
 
