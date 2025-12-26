@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T13:20:50.542055+00:00'
+updated: '2025-12-26T13:47:38.576936+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 13:20 UTC  
+**Last Updated:** December 26, 2025 at 13:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -157,13 +157,13 @@ CNBC • 1d ago
 
 Move strengthens Nvidia's data center strategy amid global surge in AI infrastructure spending.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[What’s ahead for Tesla as it doubles down on AI](https://www.marketwatch.com/story/whats-ahead-for-tesla-as-it-doubles-down-on-ai-8802e001?mod=home_invest&gaa_at=eafs&gaa_n=AWEtsqe-qWo9Sk0xv9o4uEP9YTnce1i-eP5yreEbO4oPLOmglNgSl4Ll_Ajx&gaa_ts=694e8f1b&gaa_sig=clm_ApIsuihMOaq1dvs2f5Nqh7qHl_CaWlIQXCj4ZpDuo_Jp00_Xr8dOlf0fNVEe7SsE_Z5Nwk5tFUxWLvJ_bA%3D%3D)**
 
-MarketWatch • 7m ago
+MarketWatch • 34m ago
 
 ---
 
@@ -263,7 +263,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 59 • 💬 20 • 5h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 59 • 💬 20 • 6h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -289,7 +289,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 65K • 👍 1K • 💬 156 • ⏱️ 12:51 • 13h ago
+👁️ 65K • 👍 1K • 💬 156 • ⏱️ 12:51 • 14h ago
 
 ---
 
@@ -299,7 +299,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 2K • 👍 97 • 💬 8 • ⏱️ 7:06 • 13h ago
+👁️ 2K • 👍 97 • 💬 8 • ⏱️ 7:06 • 14h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing th
 
 📺 Bigfoot Feed
 
-👁️ 4K • 👍 71 • 💬 16 • ⏱️ 8:04 • 14h ago
+👁️ 4K • 👍 71 • 💬 16 • ⏱️ 8:04 • 15h ago
 
 ---
 
@@ -337,7 +337,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 AI AimanJunaidi
 
-👁️ 20K • 👍 2K • 💬 158 • ⏱️ 27:22 • 8h ago
+👁️ 20K • 👍 2K • 💬 158 • ⏱️ 27:22 • 9h ago
 
 ---
 
@@ -367,7 +367,7 @@ In this video, I'll be showing you a cheat code workflow that combines Claude 4.
 
 📺 AICodeKing
 
-👁️ 18K • 👍 749 • 💬 74 • ⏱️ 8:05 • 23h ago
+👁️ 18K • 👍 749 • 💬 74 • ⏱️ 8:05 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 200 • 5h ago
+⬇️ 121 • ❤️ 200 • 6h ago
 
 ---
 
@@ -604,7 +604,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 28 • 💬 2 • ⭐ 7,941 • 28d ago
+▲ 28 • 💬 2 • ⭐ 7,941 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 745 • 6h ago
+⭐ 6.8k • 🔱 745 • 7h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 466 • 2m ago
+⭐ 3.6k • 🔱 466 • 29m ago
 
 ---
 
@@ -716,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 224 • 34m ago
+⭐ 1.3k • 🔱 224 • 1h ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 130 • 2h ago
+⭐ 1.3k • 🔱 130 • 3h ago
 
 ---
 

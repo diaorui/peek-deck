@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T13:20:50.559797+00:00'
+updated: '2025-12-26T13:47:38.594974+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 13:20 UTC  
+**Last Updated:** December 26, 2025 at 13:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-22h ago
+23h ago
 
 ---
 
@@ -86,7 +86,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 **[NEED HELP REGARDING DOBOT M1 SCARA](https://www.reddit.com/r/robotics/comments/1pw29sh/need_help_regarding_dobot_m1_scara/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -136,7 +136,7 @@ Interesting Engineering • 2d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 15h ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -160,7 +160,7 @@ theregister.com • 1d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 1h ago
+Tom's Hardware • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ South China Morning Post • 1d ago
 
 In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 65K • 👍 1K • 💬 156 • ⏱️ 12:51 • 13h ago
+👁️ 65K • 👍 1K • 💬 156 • ⏱️ 12:51 • 14h ago
 
 ---
 
@@ -226,7 +226,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 27K • 👍 765 • 💬 190 • ⏱️ 21:33 • 12h ago
+👁️ 27K • 👍 765 • 💬 190 • ⏱️ 21:33 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T13:20:50.550531+00:00'
+updated: '2025-12-26T13:47:38.585622+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 13:20 UTC  
+**Last Updated:** December 26, 2025 at 13:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,650.00
+### $88,900.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +0.6%  
-**30d:** -2.8%  
-**90d:** -20.7%  
-**1y:** -5.8%  
+**24h:** +1.5%  
+**7d:** +0.7%  
+**30d:** -2.6%  
+**90d:** -20.6%  
+**1y:** -5.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The article from UNILAD: Erik Finman made a decision when he was 12 years old to invest in Bitcoin, something he would be thankful for for the rest of his life. When people speak about going back in time, they think about ways to make themselves rich by normally buying a lotto ticket they already know the numbers for. And that is exactly what this brave 12-year-old did.... okay, not really, but he did make himself a millionaire with one decision at that young age. Erik Finman decided he wasn’t going to splash away his pocket money on the typical stuff, and managed to strike a deal with his parents on a pretty wild idea. The youngster and his parents came to an agreement that he could skip out studying a college degree if he could prove he could make his fortune outside of traditional education. Luckily for him, Bitcoin had just been launched in 2009 and data became available the following year, so after receiving $1,245 from his grandmother, Erik decided to invest in the cryptocurrency. At the time Erik invested, trading was at around $12 - and this gave him about 103 BTC. While I'm sure most kids that age would have likely been lost at how he managed to invest this money on a new emerging online currency phenomenon, it certainly paid off. In December 2017 - when Erik was just 18 - Bitcoin reached a high of around $20,000 and his initial $1,245 investment increased to a staggering $2.07 million. Not bad, eh? Reflecting on his decision that paid off massively as an adult, Erik said ‘people didn’t really get what I was trying to do’. He told the Business of Business: "I really didn't like high school. People didn't really get what I was trying to do, get what I was searching for or what I was dreaming of. "I had one teacher tell me, 'yeah, drop out, work at McDonald’s', since I’ll never amount to anything more in life. "I dropped out of high school and made a bet with my parents: if I make a million dollars by the time I’m 18, I don’t have to go back to school or go to college." And Erik didn't just stop after making his first million either, building the amount of Bitcoins he had to 341, with an estimated worth of more than $4.8 million by mid 2020. However, Erik, now 25, hasn’t been too happy about his claim to fame, and insisted he is 'desperate to get out of crypto' and was 'sick of being the Bitcoin person', so he's recently been putting his finances into aircraft which he said has made 'good money'. Whatever makes you happy, champ. More power to you.
 
-2h ago
+3h ago
 
 ---
 
@@ -93,19 +93,19 @@ The article from UNILAD: Erik Finman made a decision when he was 12 years old to
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Video cred: clusk
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -157,7 +157,7 @@ CoinDesk • 23h ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 **[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
 
-CCN.com • 18h ago
+CCN.com • 19h ago
 
 ---
 
@@ -317,7 +317,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 477 • 💬 42 • ⏱️ 19:55 • 20h ago
+👁️ 13K • 👍 477 • 💬 42 • ⏱️ 19:55 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 43K • 👍 3K • 💬 235 • ⏱️ 10:10 • 18h ago
+👁️ 43K • 👍 3K • 💬 235 • ⏱️ 10:10 • 19h ago
 
 ---
 
@@ -357,7 +357,7 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 28K • 👍 346 • 💬 241 • ⏱️ 8:19 • 1d ago
+👁️ 28K • 👍 346 • 💬 241 • ⏱️ 8:19 • 2d ago
 
 ---
 

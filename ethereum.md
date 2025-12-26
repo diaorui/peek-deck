@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T13:20:50.556568+00:00'
+updated: '2025-12-26T13:47:38.591692+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 13:20 UTC  
+**Last Updated:** December 26, 2025 at 13:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,000.14
+### $2,977.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -0.1%  
-**30d:** -1.2%  
-**90d:** -28.1%  
-**1y:** -10.6%  
+**24h:** +1.6%  
+**7d:** +0.1%  
+**30d:** -1.1%  
+**90d:** -28.0%  
+**1y:** -10.5%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 2h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 3h ago
 
 ---
 
@@ -310,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 172 • 💬 8 • ⏱️ 4:41 • 20h ago
+👁️ 3K • 👍 172 • 💬 8 • ⏱️ 4:41 • 21h ago
 
 ---
 
