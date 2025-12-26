@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T19:43:09.102296+00:00'
+updated: '2025-12-26T19:54:12.787091+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 19:43 UTC  
+**Last Updated:** December 26, 2025 at 19:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,19 +77,19 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 ---
 
-**[[P] Zahaviel Structured Intelligence: A Recursive Cognitive Operating System for Externalized Thought (Paper)](https://www.reddit.com/r/artificial/comments/1pvq9ri/p_zahaviel_structured_intelligence_a_recursive/)**
-
-We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
-
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 19h ago
-
----
-
 **[AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces](https://www.reddit.com/r/artificial/comments/1pvlexa/aipowered_police_body_cameras_once_taboo_get/)**
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
 🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 23h ago
+
+---
+
+**[[P] Zahaviel Structured Intelligence: A Recursive Cognitive Operating System for Externalized Thought (Paper)](https://www.reddit.com/r/artificial/comments/1pvq9ri/p_zahaviel_structured_intelligence_a_recursive/)**
+
+We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
+
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 19h ago
 
 ---
 
@@ -157,39 +157,37 @@ The New York Times • 1d ago
 
 ---
 
-**[AI boom adds $500bn to net worth of US tech billionaires in 2025](https://www.ft.com/content/9dcd770a-1ca7-4533-980c-08c5704c9670)**
+**[Securing AI agents is bringing in big money](https://www.axios.com/pro/enterprise-software-deals/2025/12/26/securing-ai-agents-is-bringing-in-big-money)**
 
-Elon Musk stays on top as Nvidia’s Jensen Huang powers up the rankings on an AI-fuelled surge in fortunes
-
-Financial Times • 14h ago
+Axios • 49m ago
 
 ---
 
-**[Meet the newly minted AI billionaires of 2025](https://qz.com/ai-2025-billionaires-elon-musk-startup-founders)**
+**[Can AI help solve the power problem it created?](https://www.fastcompany.com/91466299/can-ai-help-solve-the-power-problem-it-created)**
 
-qz.com • 41m ago
-
----
-
-**[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqfbAYvXzQ68kyMHToZqOGtN1rwbJH96u8iGBKiPLT6jUfZWdRDjWRUE&gaa_ts=694ee316&gaa_sig=8ZSXvMZ9WJsWKKSVJwMlsIhPqH0PcTCyBdSP33gZAswRYgNYK5qFLgQpWGXawAQfdYRPWzCLBoGvQRhK2ndFjQ%3D%3D)**
-
-MarketWatch • 3h ago
+Fast Company • 39m ago
 
 ---
 
-**[1 in 8 Young People Use AI Chatbots for Mental Health Advice](https://people.com/young-people-use-ai-chatbots-for-mental-health-advice-11864522)**
+**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
 
-A new study found that about 13% of kids and young adults reported using AI for mental health advice. Researchers say those rates are “remarkably high.”
+While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
 
-People.com • 1h ago
+CNBC • 2d ago
 
 ---
 
-**['Artificial stupidity' made AI trading bots spontaneously form cartels when left unsupervised, Wharton study reveals](https://fortune.com/article/what-is-artificial-stupidity-ai-pricing-collusion-study/)**
+**[Stocks Hover Near Record as Nvidia Gains on AI Licensing Deal](https://www.bloomberg.com/news/articles/2025-12-26/stocks-touch-record-as-nvidia-gains-on-ai-licensing-deal)**
 
-AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
+Bloomberg.com • 2h ago
 
-Fortune • 4h ago
+---
+
+**[2 Cheaper AI Stocks to Buy for 2026](https://finance.yahoo.com/news/2-cheaper-ai-stocks-buy-164920982.html)**
+
+If you don’t buy the AI bubble fears and think the increased skepticism over some of the names powering the technology, it might be time to get just a bit more greedy to start 2026 off on the right track. Undoubtedly, the broad markets are starting to heat up again (AI stocks included), but there ... 2 Cheaper AI Stocks to Buy for 2026
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -201,7 +199,7 @@ Fortune • 4h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 432 • 💬 120 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 433 • 💬 120 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -211,7 +209,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 254 • 💬 299 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 257 • 💬 299 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -239,11 +237,19 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 ---
 
+**[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
+
+Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
+
+⬆️ 107 • 💬 33 • 1h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+
+---
+
 **[Building an AI agent inside a 7-year-old Rails monolith](https://news.ycombinator.com/item?id=46390055)**
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 94 • 💬 40 • 12h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 96 • 💬 41 • 12h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -251,7 +257,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 83 • 💬 31 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 83 • 💬 32 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -266,14 +272,6 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
 ⬆️ 43 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
-
----
-
-**[Rob Pike got spammed with an AI slop "act of kindness"](https://news.ycombinator.com/item?id=46394867)**
-
-Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
-
-⬆️ 38 • 💬 11 • 1h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -377,7 +375,7 @@ Made a 2025 highlights reel—here's 20 seconds of my AI avatar progress for cin
 
 📺 Wider Perspective Productions
 
-👁️ 310 • 👍 42 • 💬 4 • ⏱️ 0:34 • 25m ago
+👁️ 310 • 👍 42 • 💬 4 • ⏱️ 0:34 • 36m ago
 
 ---
 
@@ -393,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 947 • 3d ago
+⬇️ 4,752 • ❤️ 949 • 3d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 11,437 • ❤️ 410 • 3d ago
+⬇️ 11,437 • ❤️ 412 • 3d ago
 
 ---
 
@@ -463,7 +461,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 304 • 12h ago
+⬇️ 121 • ❤️ 308 • 12h ago
 
 ---
 

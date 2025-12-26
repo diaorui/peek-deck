@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T19:43:09.111019+00:00'
+updated: '2025-12-26T19:54:12.794514+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 19:43 UTC  
+**Last Updated:** December 26, 2025 at 19:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,398.85
+### $87,535.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.1%  
-**30d:** -4.4%  
-**90d:** -22.0%  
-**1y:** -7.3%  
+**24h:** -0.6%  
+**7d:** -1.0%  
+**30d:** -4.3%  
+**90d:** -21.9%  
+**1y:** -7.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.11B
+**Market Cap:** $1745.64B
 Rank #1
 
-**Circulating Supply:** 19,967,500 BTC
+**Circulating Supply:** 19,967,506 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.8%
+-30.7%
 
 **All-Time Low:** $67.81
-+128569.8%
++128805.8%
 
 ---
 
@@ -77,21 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
+**[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
 
-12h ago
+2h ago
+
+---
+
+**[Problems 2026](https://www.reddit.com/r/Bitcoin/comments/1pwc5jm/problems_2026/)**
+
+47m ago
 
 ---
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
 9h ago
-
----
-
-**[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
-
-2h ago
 
 ---
 
@@ -107,15 +107,15 @@ Rank #1
 
 ---
 
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
-
-23h ago
-
----
-
 **[10 Year old decided no gifts this year instead wanted money under the tree to buy BTC.](https://www.reddit.com/r/Bitcoin/comments/1pw9fmk/10_year_old_decided_no_gifts_this_year_instead/)**
 
 2h ago
+
+---
+
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+
+23h ago
 
 ---
 
@@ -127,9 +127,9 @@ give your opinion
 
 ---
 
-**[Problems 2026](https://www.reddit.com/r/Bitcoin/comments/1pwc5jm/problems_2026/)**
+**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-36m ago
+12h ago
 
 ---
 
@@ -151,11 +151,11 @@ Bloomberg.com • 6h ago
 
 ---
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
-CoinDesk • 1d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1d ago
 
 As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -175,6 +175,14 @@ Yahoo! Finance Canada • 1h ago
 
 ---
 
+**[Bitcoin December 26 daily chart alert - Holiday pause continues Friday](https://www.kitco.com/news/article/2025-12-26/bitcoin-december-26-daily-chart-alert-holiday-pause-continues-friday)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 6h ago
+
+---
+
 **[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
@@ -183,23 +191,9 @@ The Motley Fool • 8h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeKkVp11o1NAZZrQL7JMm0vl1pBSQI8r4wz6GvLx4AfatIxSFNl-s27&gaa_ts=694ee317&gaa_sig=V-6WUltUYL72fbHPN52qb0VjSSqh7gWx_uMXJYcInr6MO1Tk8ToLupoRXpyqogg5jdKKB4_mkm5vFu-rixl2Rg%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
 **[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
 
-thestreet.com • 3h ago
-
----
-
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
-
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 1d ago
+thestreet.com • 4h ago
 
 ---
 
@@ -211,11 +205,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin December 26 daily chart alert - Holiday pause continues Friday](https://www.kitco.com/news/article/2025-12-26/bitcoin-december-26-daily-chart-alert-holiday-pause-continues-friday)**
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
-KITCO • 9h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqetKMTUAHvIRThCKhchH-gZ3_50BGfH_f0ySZtEzjscCeYVrvsAeK1p&gaa_ts=694eeb4e&gaa_sig=Z36Xfw6NlU0Sa-ZFE3XO9WCzrz2gwgiFgOOe5U_RDNMI4Cfma_Tcf7WMMNNMidjbogROd2XsfAcPKOlSfJdtiQ%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -239,7 +239,7 @@ KITCO • 9h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 1 • 46m ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 57m ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
