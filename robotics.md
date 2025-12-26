@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T19:30:58.243345+00:00'
+updated: '2025-12-26T19:43:09.120287+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 19:30 UTC  
+**Last Updated:** December 26, 2025 at 19:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-15h ago
+16h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 1d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 20h ago
+👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 20h ago
 
 ---
 
@@ -208,7 +208,15 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 7K • 👍 213 • 💬 12 • ⏱️ 1:30 • 14h ago
+👁️ 9K • 👍 232 • 💬 12 • ⏱️ 1:30 • 14h ago
+
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
+
+📺 Borunte robot-Lin 
+
+👁️ 118K • 👍 655 • ⏱️ 0:20 • 4d ago
 
 ---
 
@@ -218,27 +226,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 35K • 👍 939 • 💬 229 • ⏱️ 21:33 • 19h ago
-
----
-
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 226K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
-
----
-
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 39K • 👍 1K • 💬 289 • ⏱️ 11:02 • 3d ago
+👁️ 37K • 👍 998 • 💬 238 • ⏱️ 21:33 • 19h ago
 
 ---
 
@@ -248,23 +236,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 36K • 👍 578 • 💬 87 • ⏱️ 13:55 • 2d ago
+👁️ 36K • 👍 583 • 💬 87 • ⏱️ 13:55 • 2d ago
 
 ---
 
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
 
-📺 Lin of Brant robot 
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
 
-👁️ 37K • 👍 184 • ⏱️ 0:19 • 4d ago
+📺 Its Nenaa
 
----
-
-**[He just follows me with this tiny robot 😭❤️#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=2XwCvej7D2E)**
-
-📺 Romi Pal
-
-👁️ 364K • 👍 7K • 💬 122 • ⏱️ 0:28 • 4d ago
+👁️ 40K • 👍 1K • 💬 291 • ⏱️ 11:02 • 3d ago
 
 ---
 
@@ -274,7 +256,27 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 56K • 👍 866 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+👁️ 57K • 👍 870 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+
+---
+
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 39K • 👍 667 • 💬 157 • ⏱️ 5:25 • 5d ago
+
+---
+
+**[Customers fill in to Beijing&#39;s new consumer robot shopping centre • FRANCE 24 English](https://www.youtube.com/watch?v=66MjAQLUjEg)**
+
+Are you stuck at the last minute for a Christmas gift? Wondering how to “wow” your child when they open their presents? Well ...
+
+📺 FRANCE 24 English
+
+👁️ 15K • 👍 195 • 💬 47 • ⏱️ 2:09 • 6d ago
 
 ---
 

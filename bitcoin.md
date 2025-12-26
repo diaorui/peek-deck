@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T19:30:58.234188+00:00'
+updated: '2025-12-26T19:43:09.111019+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 19:30 UTC  
+**Last Updated:** December 26, 2025 at 19:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.3%  
-**30d:** -4.6%  
-**90d:** -22.2%  
-**1y:** -7.5%  
+**24h:** -0.7%  
+**7d:** -1.1%  
+**30d:** -4.4%  
+**90d:** -22.0%  
+**1y:** -7.3%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
 **[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ give your opinion
 
 **[Problems 2026](https://www.reddit.com/r/Bitcoin/comments/1pwc5jm/problems_2026/)**
 
-24m ago
+36m ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1d ago
 
 As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 20m ago
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo! Finance Canada • 50m ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ CoinDesk • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 8h ago
+KITCO • 9h ago
 
 ---
 
@@ -239,7 +239,7 @@ KITCO • 8h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 1 • 34m ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 1 • 46m ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -295,33 +295,33 @@ Apple’s M1 chip changed everything. Here's the inside scoop on how it all came
 
 ## YouTube Videos: "bitcoin"
 
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
+**[Strategy builds cash reserve and pauses Bitcoin purchases](https://www.youtube.com/watch?v=5aGHjcwcIbM)**
 
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
+CNBC's MacKenzie Sigalos reports on Strategy.
 
-📺 Simply Bitcoin
+📺 CNBC Television
 
-👁️ 12K • 👍 483 • 💬 130 • ⏱️ 4:31 • 23h ago
-
----
-
-**[WATCH THIS NOW OR MISS THE NEXT BITCOIN MOVE...(URGENT!)](https://www.youtube.com/watch?v=AO1IEtsdjg4)**
-
-Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
-
-📺 100XClub
-
-👁️ 4K • 👍 759 • 💬 208 • ⏱️ 8:28 • 4h ago
+👁️ 2K • 👍 25 • 💬 56 • ⏱️ 1:52 • 4h ago
 
 ---
 
-**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+**[THIS IS WHY 97% LOSE MONEY IN CRYPTO!!!](https://www.youtube.com/watch?v=r-qaJa9FUwY)**
 
-Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
+In this video, I break down the 5 critical mistakes that cause 97% of retail investors to fail — even during a bull run.
 
-📺 Altcoin Daily
+📺 Thomas Kralow
 
-👁️ 59K • 👍 2K • 💬 201 • ⏱️ 37:34 • 1d ago
+👁️ 6K • 👍 289 • 💬 39 • ⏱️ 9:31 • 8h ago
+
+---
+
+**[SAD NEWS](https://www.youtube.com/watch?v=iK29LM6V9Ug)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100 FREE COUPON WEEX REBATE: ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 423 • 💬 33 • ⏱️ 10:40 • 4h ago
 
 ---
 
@@ -331,17 +331,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 271 • 💬 42 • ⏱️ 21:19 • 4h ago
+👁️ 8K • 👍 490 • 💬 83 • ⏱️ 21:19 • 4h ago
 
 ---
 
-**[MASSIVE Crypto Turning Point in 24 Hours That Will CHANGE EVERYTHING](https://www.youtube.com/watch?v=PSsTNjn4oRU)**
+**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
 
-TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KYC & NO VPN Sign up here ...
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
 
-📺 FireHustle
+📺 Crypto Tips
 
-👁️ 46K • 👍 3K • 💬 226 • ⏱️ 10:10 • 1d ago
+👁️ 3K • 👍 489 • 💬 54 • ⏱️ 9:31 • 2h ago
+
+---
+
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
+
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 492 • 💬 131 • ⏱️ 4:31 • 23h ago
+
+---
+
+**[Live Bitcoin Trading | ROAD TO 200K SUBSCRIBERS](https://www.youtube.com/watch?v=Cw28c1oLhDE)**
+
+Come look into the next BIG move in crypto! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
+
+📺 Tom Crown
+
+👁️ 1K • 👍 166 • 1h ago
 
 ---
 
@@ -351,47 +371,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 686 • 💬 48 • ⏱️ 15:49 • 21h ago
+👁️ 19K • 👍 721 • 💬 49 • ⏱️ 15:49 • 21h ago
 
 ---
 
-**[BITCOIN: NOW NOW NOW (BREAKING NEWS)](https://www.youtube.com/watch?v=54KPG2PU92Y)**
+**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 Coinflare: ...
+Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
 
-📺 Crypto Kid
+📺 Altcoin Daily
 
-👁️ 6K • 👍 328 • 💬 103 • ⏱️ 26:31 • 11h ago
-
----
-
-**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
-
-BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 3h ago
+👁️ 60K • 👍 2K • 💬 204 • ⏱️ 37:34 • 1d ago
 
 ---
 
-**[Bitcoin Flash Crashes to $24,000 on Binance! What just happened?](https://www.youtube.com/watch?v=u33H8-fXAT0)**
+**[MASSIVE Crypto Turning Point Within 12 HOURS That Will CHANGE EVERYTHING](https://www.youtube.com/watch?v=PSsTNjn4oRU)**
 
-crypto #bitcoin #crash On the USD1 pair, it suddenly crashed to $24000 ...
+TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KYC & NO VPN Sign up here ...
 
-📺 Crypto Angler
+📺 FireHustle
 
-👁️ 840 • 👍 51 • 💬 13 • ⏱️ 4:26 • 12h ago
-
----
-
-**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 14K • 👍 521 • 💬 55 • ⏱️ 19:55 • 1d ago
+👁️ 47K • 👍 3K • 💬 233 • ⏱️ 10:10 • 1d ago
 
 ---
 

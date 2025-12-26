@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T19:30:58.225722+00:00'
+updated: '2025-12-26T19:43:09.102296+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 19:30 UTC  
+**Last Updated:** December 26, 2025 at 19:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 5h ago
 
 Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Financial Times • 14h ago
 
 **[Meet the newly minted AI billionaires of 2025](https://qz.com/ai-2025-billionaires-elon-musk-startup-founders)**
 
-qz.com • 29m ago
+qz.com • 41m ago
 
 ---
 
@@ -243,7 +243,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 94 • 💬 40 • 11h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 94 • 💬 40 • 12h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -273,7 +273,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 38 • 💬 11 • 48m ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 38 • 💬 11 • 1h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -287,17 +287,7 @@ Create your AI UGC ads with Arcads https://youricreates.com/UGC-2026 In this vid
 
 📺 Youri van Hofwegen
 
-👁️ 3K • 💬 4 • ⏱️ 10:33 • 3h ago
-
----
-
-**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
-
-Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
-
-📺 AI Revolution
-
-👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 20h ago
+👁️ 5K • 💬 4 • ⏱️ 10:33 • 3h ago
 
 ---
 
@@ -311,13 +301,23 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 ---
 
-**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
-Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
 
-📺 Jack Morgan RLP 2.0
+📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 776 • ⏱️ 11:28 • 2d ago
+👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 20h ago
+
+---
+
+**[AI Broke the Reality Filter and Its Freaking People Out](https://www.youtube.com/watch?v=25oVREyFqXw)**
+
+Something quietly changed over the last year. AI content stopped announcing itself. It stopped feeling stitched together. Motion ...
+
+📺 AI Revolution
+
+👁️ 16K • 👍 663 • 💬 59 • ⏱️ 9:31 • 2d ago
 
 ---
 
@@ -327,7 +327,17 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 105K • 👍 4K • 💬 431 • ⏱️ 30:43 • 2d ago
+👁️ 106K • 👍 4K • 💬 431 • ⏱️ 30:43 • 2d ago
+
+---
+
+**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
+
+Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
+
+📺 Jack Morgan RLP 2.0
+
+👁️ 33K • 👍 1K • 💬 790 • ⏱️ 11:28 • 2d ago
 
 ---
 
@@ -337,27 +347,17 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 43K • 👍 400 • 💬 44 • ⏱️ 8:00 • 2d ago
+👁️ 47K • 👍 401 • 💬 44 • ⏱️ 8:00 • 2d ago
 
 ---
 
-**[SORA AI Disney Trailers *GONE WRONG*](https://www.youtube.com/watch?v=lJwDsXqwPW8)**
+**[A tiny AI supercomputer for your desk](https://www.youtube.com/watch?v=FjRKvKC4ntw)**
 
-Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing the most cursed SORA Disney Trailers ever ...
+Let's see if Nvidia's GB10 "AI Superchip" is all it's hyped up to be... Thanks to Dell for providing the two Dell Pro Max with GB10 ...
 
-📺 Bigfoot Feed
+📺 Jeff Geerling
 
-👁️ 5K • 👍 96 • 💬 18 • ⏱️ 8:04 • 20h ago
-
----
-
-**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
-
-It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
-
-📺 AI Explained
-
-👁️ 70K • 👍 3K • 💬 389 • ⏱️ 33:27 • 3d ago
+👁️ 40K • 👍 3K • 💬 170 • ⏱️ 11:17 • 4h ago
 
 ---
 
@@ -367,17 +367,17 @@ This is going to be a real problem... Time Stamps: 0:00 - Intro 0:29 - It's All 
 
 📺 ThioJoe
 
-👁️ 58K • 👍 7K • 💬 1K • ⏱️ 9:48 • 2d ago
+👁️ 60K • 👍 7K • 💬 1K • ⏱️ 9:48 • 2d ago
 
 ---
 
-**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
+**[Wrapped: My AI Film Progress 2025](https://www.youtube.com/watch?v=brIPChQFUJk)**
 
-Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
+Made a 2025 highlights reel—here's 20 seconds of my AI avatar progress for cinematic Bible scenes. Subscribe for the workflow + ...
 
-📺 Satisfy Hub ASMR
+📺 Wider Perspective Productions
 
-👁️ 636K • 👍 5K • 💬 105 • ⏱️ 10:06 • 1d ago
+👁️ 310 • 👍 42 • 💬 4 • ⏱️ 0:34 • 25m ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 304 • 11h ago
+⬇️ 121 • ❤️ 304 • 12h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 748 • 12h ago
+⭐ 6.8k • 🔱 748 • 13h ago
 
 ---
 
@@ -716,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 227 • 3h ago
+⭐ 1.3k • 🔱 227 • 4h ago
 
 ---
 

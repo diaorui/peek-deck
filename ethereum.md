@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T19:30:58.240157+00:00'
+updated: '2025-12-26T19:43:09.117023+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 19:30 UTC  
+**Last Updated:** December 26, 2025 at 19:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -1.9%  
-**30d:** -3.0%  
-**90d:** -29.4%  
-**1y:** -12.3%  
+**24h:** -0.8%  
+**7d:** -1.7%  
+**30d:** -2.8%  
+**90d:** -29.2%  
+**1y:** -12.1%  
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 9h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 1h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ CCN.com • 1d ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -232,7 +232,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 3h ago
+👁️ 3K • 👍 177 • 💬 78 • ⏱️ 18:00 • 3h ago
 
 ---
 
@@ -242,17 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 831 • 👍 88 • 💬 5 • ⏱️ 4:08 • 5h ago
-
----
-
-**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
-
-Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 22K • 👍 414 • 💬 105 • ⏱️ 11:00 • 2d ago
+👁️ 1K • 👍 92 • 💬 6 • ⏱️ 4:08 • 5h ago
 
 ---
 
@@ -262,17 +252,27 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 4K • ⏱️ 7:27 • 5h ago
+👁️ 5K • ⏱️ 7:27 • 5h ago
 
 ---
 
-**[BE READY FOR THIS ETH MOVE!🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=yixpJ9hXvHw)**
+**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
 
-📺 Cilinix Crypto
+📺 CLOCKWISE CRYPTO 
 
-👁️ 223 • 👍 12 • 💬 31 • ⏱️ 5:08 • 9h ago
+👁️ 22K • 👍 416 • 💬 106 • ⏱️ 11:00 • 2d ago
+
+---
+
+**[📢 ETHEREUM:  FOMO or Wait?! [prediction, strategy, and analysis]👀 Buy ETH now?](https://www.youtube.com/watch?v=I-4bSp-R10w)**
+
+ETH price update: Trade the market to make gains using technical analysis, fundamentals, and news. Looking for good crypto ...
+
+📺 BTDcrypto
+
+👁️ 20 • 👍 5 • 💬 2 • ⏱️ 16:56 • 1h ago
 
 ---
 
@@ -282,7 +282,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 60 • 💬 32 • ⏱️ 15:04 • 17h ago
+👁️ 2K • 👍 62 • 💬 32 • ⏱️ 15:04 • 17h ago
 
 ---
 
@@ -292,27 +292,17 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 6K • 👍 121 • 💬 18 • ⏱️ 19:17 • 1d ago
+👁️ 6K • 👍 123 • 💬 18 • ⏱️ 19:17 • 1d ago
 
 ---
 
-**[2025 Ethereum ETH Price RECAP &amp; 2026 Outlook. ](https://www.youtube.com/watch?v=AP81E_TYxoE)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
 
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Altcoin Doctor
+📺 Brilliance Academy
 
-👁️ 22 • 👍 1 • ⏱️ 8:56 • 8h ago
-
----
-
-**[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
-
-The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
-
-📺 CryptoStock Lab
-
-👁️ 4K • 👍 115 • 💬 35 • ⏱️ 13:41 • 2d ago
+👁️ 4K • 👍 1K • 2d ago
 
 ---
 
@@ -322,7 +312,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 143 • 💬 142 • ⏱️ 15:41 • 1d ago
+👁️ 4K • 👍 144 • 💬 142 • ⏱️ 15:41 • 1d ago
+
+---
+
+**[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
+
+The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
+
+📺 CryptoStock Lab
+
+👁️ 4K • 👍 116 • 💬 35 • ⏱️ 13:41 • 2d ago
 
 ---
 
