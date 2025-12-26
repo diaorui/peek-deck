@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T10:48:38.916392+00:00'
+updated: '2025-12-26T10:59:37.910367+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 10:48 UTC  
+**Last Updated:** December 26, 2025 at 10:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,975.43
+### $2,971.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -0.3%  
-**30d:** -1.4%  
-**90d:** -28.2%  
-**1y:** -10.8%  
+**24h:** +1.6%  
+**7d:** -0.2%  
+**30d:** -1.3%  
+**90d:** -28.1%  
+**1y:** -10.7%  
 
 ---
 
@@ -152,7 +152,7 @@ Ethereum EIP-8105 introduces a native encrypted mempool to protect users from fr
 
 Bitmine now owns 3.4% of Ethereum’s total supply. Its latest purchase comes as the token trades 40% below its record high. DATs are under pressure to prove themselves.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ CryptoSlate • 2d ago
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-Coinpedia Fintech News • 15h ago
+Coinpedia Fintech News • 16h ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 9K • 👍 304 • 💬 138 • ⏱️ 16:26 • 16h ago
+👁️ 9K • 👍 304 • 💬 138 • ⏱️ 16:26 • 17h ago
 
 ---
 
@@ -312,7 +312,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video:
 
 📺 Trading Jip
 
-👁️ 693 • 👍 35 • 💬 46 • ⏱️ 7:57 • 22h ago
+👁️ 693 • 👍 35 • 💬 46 • ⏱️ 7:57 • 23h ago
 
 ---
 

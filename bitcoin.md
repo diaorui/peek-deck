@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T10:48:38.911236+00:00'
+updated: '2025-12-26T10:59:37.904996+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 10:48 UTC  
+**Last Updated:** December 26, 2025 at 10:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.3%  
-**30d:** -3.1%  
-**90d:** -20.9%  
-**1y:** -6.1%  
+**24h:** +1.5%  
+**7d:** +0.6%  
+**30d:** -2.8%  
+**90d:** -20.7%  
+**1y:** -5.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Video cred: clusk
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Video cred: clusk
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin briefly plunged to $24,000 on Binance’s thinly traded BTC/USD1 pair during holiday trading. A large market sell order wiped out limited buy-side liquidity, triggering ...
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -201,7 +201,7 @@ The Wall Street Journal • 2d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 17h ago
+thestreet.com • 18h ago
 
 ---
 
@@ -277,7 +277,7 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 4d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 5d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 

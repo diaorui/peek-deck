@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T10:48:38.903784+00:00'
+updated: '2025-12-26T10:59:37.897327+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - news
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 10:48 UTC  
+**Last Updated:** December 26, 2025 at 10:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 17h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 10h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 14h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 15h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 AI hype has lost its luster, but a lot of AI people are super rich now.
 
-Gizmodo • 48m ago
+Gizmodo • 59m ago
 
 ---
 
@@ -147,7 +147,7 @@ Gizmodo • 48m ago
 
 Y Combinator pitch decks raised millions in funding in 2025, as AI reshapes industries and expectations for young founders rise fast.
 
-Business Insider • 48m ago
+Business Insider • 59m ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 48m ago
 
 Rickards students hosted workshops covering tech and AI literacy to help seniors thwart any deceptive scams or misinformation spread online by AI.
 
-Tallahassee Democrat • 43m ago
+Tallahassee Democrat • 54m ago
 
 ---
 
@@ -229,7 +229,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 179 • 💬 107 • 19h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 179 • 💬 107 • 20h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 463 • 23m ago
+⭐ 3.6k • 🔱 463 • 34m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 213 • 2h ago
+⭐ 3.1k • 🔱 213 • 3h ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 128 • 26m ago
+⭐ 1.3k • 🔱 128 • 37m ago
 
 ---
 
