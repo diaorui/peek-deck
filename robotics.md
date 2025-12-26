@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T05:33:37.410026+00:00'
+updated: '2025-12-26T05:50:16.830817+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 05:33 UTC  
+**Last Updated:** December 26, 2025 at 05:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +70,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -136,7 +136,7 @@ Earth.com • 1d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 7h ago
+Tech Xplore • 8h ago
 
 ---
 

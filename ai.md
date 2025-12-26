@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T05:33:37.394430+00:00'
+updated: '2025-12-26T05:50:16.813389+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 05:33 UTC  
+**Last Updated:** December 26, 2025 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 My dad was watching this guy. The audio triggers my "AI sense". Here is a recent video. Hopefully, only a few people will need to click so I can have an answer. https://www.youtube.com/watch?v=7qhfrJIUMe8 I'm 99 percent sure that most of the commentary is AI generated. The voice seems AI generated. I'm just wondering whether the video of the "Asian guy" talking is AI. I think it is. The channel description seems to be AI generated, and copyleaks gives a 100 percent probability of it being so. (I also put in an 1,800 work excerpt from a fan fic I was working on into it [as a negative control] and it returned 0 percent.) Welcome to Currency Archives, the channel where history, money, and power collide. Here, we uncover the hidden forces that shaped empires, moved markets, and built — or destroyed — entire civilizations. From ancient gold systems to modern currency wars, from forgotten financial crises to the secret mechanics behind today’s global economy, every episode takes you inside the real story of how money works. Not the textbook version — the one written in the shadows: the deals, the cycles, the collapses, the dynasties, and the patterns that keep repeating through time. If you’ve ever wondered why nations rise and fall, why some currencies dominate while others disappear, or how the same financial mistakes echo across centuries, this is your place. Here, we don’t just teach history. We decode power. Subscribe and step inside the archives — where the past reveals the future.
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Financial Times • 18h ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 33m ago
+The Guardian • 50m ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 33m ago
 
 Here are some of the biggest moments that defined how publishers adapted to the AI era this year.
 
-Digiday • 31m ago
+Digiday • 48m ago
 
 ---
 
@@ -333,7 +333,7 @@ Calf brought roti for his mother by working hard #ai #calf #cow #EmotionalStory 
 
 📺 Bhola Mahor Ai 
 
-👁️ 5K • 👍 88 • 💬 1 • ⏱️ 0:40 • 12h ago
+👁️ 5K • 👍 88 • 💬 1 • ⏱️ 0:40 • 13h ago
 
 ---
 
@@ -343,7 +343,7 @@ This Wolf Did Something Unbelievable for a Plant #animation #ai #shorts #theshor
 
 📺 The Short Animation
 
-👁️ 5K • 💬 1 • ⏱️ 0:34 • 15h ago
+👁️ 5K • 💬 1 • ⏱️ 0:34 • 16h ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.6k • 🔱 731 • 11h ago
+⭐ 6.6k • 🔱 731 • 12h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 212 • 17m ago
+⭐ 3.0k • 🔱 212 • 33m ago
 
 ---
 

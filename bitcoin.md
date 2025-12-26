@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T05:33:37.401929+00:00'
+updated: '2025-12-26T05:50:16.821662+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 05:33 UTC  
+**Last Updated:** December 26, 2025 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +0.5%  
-**30d:** -2.8%  
-**90d:** -20.7%  
-**1y:** -5.8%  
+**24h:** +1.5%  
+**7d:** +0.8%  
+**30d:** -2.6%  
+**90d:** -20.5%  
+**1y:** -5.6%  
 
 ---
 
@@ -125,7 +125,7 @@ Video cred: clusk
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 This question was asked on Bitunix earlier today while I was browsing through many posts about market trends and caught my attention. It made me realize how important this level would be for our society. If Bitcoin gets to this level, it will no longer just be a profit opportunity for most individuals. People will weight on when they purchased Bitcoin. Will they acknowledge that they missed the boat, or will they convince themselves that the $1,000,000 was never plausible anyway? Does regret evolve in to denial? Is the trust of people in flexible money gradually replaced by people having trust in strict rules without going through a massive collapse? When I think about this situation, I believe the single greatest disturbing element will not be economic. It will be psychological in nature. The way individuals perceive money, their effort, and look back on their personal choice. I would be interested in what others think. If Bitcoin continues to grow to $1,000,000, what happens first? Does our mindful set change prior to the shift in the financial systems employed to facilitate our lives?
 
-7h ago
+8h ago
 
 ---
 
