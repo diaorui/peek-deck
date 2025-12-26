@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T01:02:50.985979+00:00'
+updated: '2025-12-26T02:59:22.983232+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 01:02 UTC  
+**Last Updated:** December 26, 2025 at 02:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-10h ago
+12h ago
 
 ---
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -50,13 +50,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-4h ago
+6h ago
 
 ---
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Wishing everyone a happy Christmas holiday.
 
-13h ago
+15h ago
 
 ---
 
@@ -80,7 +80,15 @@ Wishing everyone a happy Christmas holiday.
 
 Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
-23h ago
+1d ago
+
+---
+
+**[UBTech secures $237M fenglong partnership to fortify humanoid robot supply chain.](https://www.reddit.com/r/robotics/comments/1pvl9n1/ubtech_secures_237m_fenglong_partnership_to/)**
+
+Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
+
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 7h ago
 
 ---
 
@@ -88,7 +96,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Hello everyone I am an in enrolled mechatronics engineer I want to share what I learn and how others can learn it, and for them to learn and share tutorials as well (creating a learning environment). I initially considered creating a YouTube channel, but I don't see enough engagement. Therefore, I'm considering creating a forum, and I've heard about the XenForo script. I want the platform to be primarily for Arab engineers, given the limited availability of Arabic educational content. So, I'd like to hear your advice and suggestions.
 
-2h ago
+4h ago
 
 ---
 
@@ -96,15 +104,7 @@ Hello everyone I am an in enrolled mechatronics engineer I want to share what I 
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-9h ago
-
----
-
-**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
-
-Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
-
-9h ago
+11h ago
 
 ---
 
@@ -120,6 +120,20 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+interestingengineering.com • 1d ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 6h ago
+
+---
+
 **[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
@@ -128,25 +142,9 @@ Earth.com • 1d ago
 
 ---
 
-**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdy4OBG45TW7ox2K4COCX71ibuNulZIGlqux7HEApmZOZwU-wccNDWR&gaa_ts=694dfd76&gaa_sig=pGY1kGB4adHMckspWIvA0ErFjbri1vf3pMKNZgiWDZYwumtbi2uVvTm1tSf2ND6vc1cX4xJQNzp8MV433Ryq-g%3D%3D)**
 
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 4h ago
-
----
-
-**[Advancing with animals: Standout biomimicry of 2025](https://newatlas.com/science/biomimicry-developments-2025/)**
-
-From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
-
-New Atlas • 1d ago
+The Wall Street Journal • 59m ago
 
 ---
 
@@ -154,7 +152,7 @@ New Atlas • 1d ago
 
 : Investment and interest have outpaced technology and society
 
-theregister.com • 12h ago
+theregister.com • 13h ago
 
 ---
 
@@ -180,11 +178,11 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-The Daily Beast • 2d ago
+New Atlas • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 70K • 💬 4 • ⏱️ 0:27 • 21h ago
+👁️ 70K • 💬 4 • ⏱️ 0:27 • 23h ago
 
 ---
 
@@ -268,7 +266,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 33K • 👍 2K • 💬 2K • ⏱️ 9:57 • 15h ago
+👁️ 33K • 👍 2K • 💬 2K • ⏱️ 9:57 • 17h ago
 
 ---
 
@@ -288,7 +286,7 @@ War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 268 • 💬 41 • ⏱️ 12:08 • 8h ago
+👁️ 5K • 👍 268 • 💬 41 • ⏱️ 12:08 • 10h ago
 
 ---
 

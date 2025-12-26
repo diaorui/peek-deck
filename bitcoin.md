@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T01:02:50.976771+00:00'
+updated: '2025-12-26T02:59:22.974045+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 01:02 UTC  
+**Last Updated:** December 26, 2025 at 02:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,969.34
+### $89,145.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -1.3%  
-**30d:** -4.6%  
-**90d:** -22.1%  
-**1y:** -7.5%  
+**24h:** +1.5%  
+**7d:** +1.0%  
+**30d:** -2.4%  
+**90d:** -20.3%  
+**1y:** -5.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1738.59B
+**Market Cap:** $1780.87B
 Rank #1
 
-**Circulating Supply:** 19,967,134 BTC
+**Circulating Supply:** 19,967,165 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.9%
+-29.3%
 
 **All-Time Low:** $67.81
-+128317.6%
++131393.9%
 
 ---
 
@@ -79,12 +79,6 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-4h ago
-
----
-
-**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
-
 6h ago
 
 ---
@@ -93,27 +87,25 @@ Rank #1
 
 Video cred: clusk
 
-3h ago
+5h ago
+
+---
+
+**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
+
+8h ago
 
 ---
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-16h ago
+18h ago
 
 ---
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-5h ago
-
----
-
-**[india just printed $32 billion out of thin air.](https://www.reddit.com/r/Bitcoin/comments/1pvcn4j/india_just_printed_32_billion_out_of_thin_air/)**
-
-the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
-
-12h ago
+7h ago
 
 ---
 
@@ -121,27 +113,35 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-6h ago
+7h ago
+
+---
+
+**[india just printed $32 billion out of thin air.](https://www.reddit.com/r/Bitcoin/comments/1pvcn4j/india_just_printed_32_billion_out_of_thin_air/)**
+
+the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
+
+14h ago
+
+---
+
+**[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
+
+1h ago
+
+---
+
+**[What do you think actually breaks first if Bitcoin ever reaches $1,000,000?](https://www.reddit.com/r/Bitcoin/comments/1pvnp5k/what_do_you_think_actually_breaks_first_if/)**
+
+This question was asked on Bitunix earlier today while I was browsing through many posts about market trends and caught my attention. It made me realize how important this level would be for our society. If Bitcoin gets to this level, it will no longer just be a profit opportunity for most individuals. People will weight on when they purchased Bitcoin. Will they acknowledge that they missed the boat, or will they convince themselves that the $1,000,000 was never plausible anyway? Does regret evolve in to denial? Is the trust of people in flexible money gradually replaced by people having trust in strict rules without going through a massive collapse? When I think about this situation, I believe the single greatest disturbing element will not be economic. It will be psychological in nature. The way individuals perceive money, their effort, and look back on their personal choice. I would be interested in what others think. If Bitcoin continues to grow to $1,000,000, what happens first? Does our mindful set change prior to the shift in the financial systems employed to facilitate our lives?
+
+5h ago
 
 ---
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-10h ago
-
----
-
-**[Apparently Bitcoin days were not numbered after all lol](https://www.reddit.com/r/Bitcoin/comments/1pvjsbq/apparently_bitcoin_days_were_not_numbered_after/)**
-
-6h ago
-
----
-
-**[So much FUD on here these last weeks.](https://www.reddit.com/r/Bitcoin/comments/1pvo64o/so_much_fud_on_here_these_last_weeks/)**
-
-I’ve followed this sub daily for years, and over the last month I’ve noticed a lot more negative, or faintly negative, posts than usual. What stands out to me is a possible correlation between the sentiment during the 80-90k pullback and the sentiment now. During the pullback, it felt like the dominant narrative was that cycles always repeat, bitcoin winter was starting, and BTC would “inevitably” crash to 40 to 50k. A lot of people seemed confident selling to buy back lower, and anyone suggesting BTC might hold up better than that got heavily pushed back on. Now BTC is holding steady around 85 to 90k, and this may very well be the local bottom, and the sub still feels unusually negative relative to what price is doing. My take is that some of today’s negativity might be connected to that earlier consensus. People who sold expecting 40 to 50k may be frustrated it hasn’t happened, and that frustration is showing up as bearish posting, doom takes, and generally sour sentiment. I’m genuinely curious if others see the same correlation, or if you think the negativity is coming from something else.
-
-2h ago
+12h ago
 
 ---
 
@@ -153,7 +153,21 @@ I’ve followed this sub daily for years, and over the last month I’ve noticed
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
+
+The Block • 8h ago
+
+---
+
+**[4chan Trader Who Nailed Bitcoin’s October All-Time High Calls $250,000 in 2026](https://finance.yahoo.com/news/4chan-trader-nailed-bitcoin-october-012330579.html)**
+
+A 4chan trader who correctly called Bitcoin’s October 2025 ATH now makes a bold 2026 price prediction, despite bearish charts.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -161,31 +175,7 @@ CoinDesk • 11h ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 4h ago
-
----
-
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
-
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 17h ago
-
----
-
-**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
-
-BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
-
-Yahoo Finance • 13h ago
-
----
-
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
-
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 20h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -197,13 +187,7 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
-
-The Block • 7h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdNeFeFFFNfVw43pZvf3JN-EGdg_Jp5jSvHfHu8XmSYWA7-GC9O_Yyy&gaa_ts=694de228&gaa_sig=0DlUCpkEcImIWp4lxqnLNY0HFe3w-KSzdBbttYDiPlH9xKGl4LlQe3eHUtnD5zRdbqcwgpPz078nfq7Xocek8Q%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfdIFEB_CpZyRjpAIJ7K68i1xnmABI3LQOCVuUxEBfUjijmkrmaAMK3&gaa_ts=694dfd73&gaa_sig=695WsxErtqRci007zbilVA6LzuIlB4RECOSkjvP3C4XrXhlDq4gtGbS8eNQ0ENhwEaEo396lUMnCQbX8C4QyOQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -211,7 +195,7 @@ The Wall Street Journal • 1d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 8h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -220,6 +204,22 @@ thestreet.com • 8h ago
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
 Investopedia • 2d ago
+
+---
+
+**[Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook](https://ts2.tech/en/bitcoin-price-today-dec-25-2025-btc-holds-near-88000-as-etf-outflows-thin-holiday-liquidity-and-a-record-options-expiry-shape-the-outlook/)**
+
+Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook - TechStock²
+
+ts2.tech • 9h ago
+
+---
+
+**[BTC set for a volatility shift from the $85k to $90k range as options expiry looms](https://www.coindesk.com/markets/2025/12/24/bitcoin-nears-breakout-from-the-usd85-000-usd90-000-range-as-options-expiry-looms)**
+
+A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -235,7 +235,7 @@ Investopedia • 2d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 20h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 22h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -243,7 +243,7 @@ Investopedia • 2d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 8h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 10h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 265 • 💬 32 • ⏱️ 4:31 • 5h ago
+👁️ 4K • 👍 265 • 💬 32 • ⏱️ 4:31 • 6h ago
 
 ---
 
@@ -305,7 +305,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 340 • 💬 12 • ⏱️ 19:55 • 8h ago
+👁️ 8K • 👍 340 • 💬 12 • ⏱️ 19:55 • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Dr Heather MD
 
-👁️ 3K • 👍 3K • 47m ago
+👁️ 3K • 👍 3K • 2h ago
 
 ---
 
@@ -355,7 +355,7 @@ after 10 years, i am finally moving on from bitcoin and focusing on something el
 
 📺 The Exit Manual
 
-👁️ 20K • 👍 2K • 💬 362 • ⏱️ 9:35 • 10h ago
+👁️ 20K • 👍 2K • 💬 362 • ⏱️ 9:35 • 12h ago
 
 ---
 
@@ -365,7 +365,7 @@ BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward *W
 
 📺 The Moon Show
 
-👁️ 11K • 👍 754 • 💬 98 • ⏱️ 5:03 • 15h ago
+👁️ 11K • 👍 754 • 💬 98 • ⏱️ 5:03 • 17h ago
 
 ---
 
