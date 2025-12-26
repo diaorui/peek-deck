@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T12:36:57.995907+00:00'
+updated: '2025-12-26T13:20:50.559797+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 12:36 UTC  
+**Last Updated:** December 26, 2025 at 13:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-5h ago
+6h ago
 
 ---
 
@@ -44,13 +44,13 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-8h ago
+9h ago
 
 ---
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 Hello everyone! It's the first time I've written here... so I'm in possession of a NAO robot, and to use it with my PC I need to have a specific version of the Choreographe Software. The version of the robot is the V6 so the compatible versions are starting from 2.8.5 onwards... I would really need the latter, since I have a very old version of macos and the newer one does not support it. So I ask if any of you have this specific version, or know how to get it.. thanks in advance ;)
 
-3h ago
+4h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 1d ago
 
 A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -152,15 +152,15 @@ New Atlas • 1d ago
 
 : Investment and interest have outpaced technology and society
 
-theregister.com • 23h ago
+theregister.com • 1d ago
 
 ---
 
-**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
+**[Robots fashioned from dead lobster exoskeletons have awesome strength, light weight, and flexibility — necrobotics advance mixes sustainable food waste with synthetic components](https://www.tomshardware.com/maker-stem/robot-kits/robots-fashioned-from-dead-lobster-exoskeletons-have-awesome-strength-light-weight-and-flexibility-necrobotics-advance-mixes-sustainable-food-waste-with-synthetic-components)**
 
-In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
+Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Yahoo Finance • 59m ago
+Tom's Hardware • 1h ago
 
 ---
 
@@ -172,15 +172,17 @@ South China Morning Post • 1d ago
 
 ---
 
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
 
-Investor's Business Daily • 1d ago
+In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.limaohio.com/top-stories/2025/12/25/how-agility-robotics-uses-artificial-intelligence-from-their-humanoid-digit-to-everyday-workflow/)**
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-LimaOhio.com • 15h ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 56K • 👍 1K • 💬 146 • ⏱️ 12:51 • 13h ago
+👁️ 65K • 👍 1K • 💬 156 • ⏱️ 12:51 • 13h ago
 
 ---
 
@@ -204,17 +206,17 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 3K • 👍 132 • 💬 8 • ⏱️ 1:30 • 7h ago
+👁️ 4K • 👍 161 • 💬 11 • ⏱️ 1:30 • 8h ago
 
 ---
 
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+**[Millions of robots deploy in 2026. Set free, they are monsters.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
 AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
 
 📺 InsideAI
 
-👁️ 216K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 220K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -224,7 +226,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 21K • 👍 648 • 💬 164 • ⏱️ 21:33 • 12h ago
+👁️ 27K • 👍 765 • 💬 190 • ⏱️ 21:33 • 12h ago
 
 ---
 
@@ -234,7 +236,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 34K • 👍 545 • 💬 84 • ⏱️ 13:55 • 2d ago
+👁️ 35K • 👍 559 • 💬 84 • ⏱️ 13:55 • 2d ago
 
 ---
 
@@ -244,7 +246,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 38K • 👍 1K • 💬 284 • ⏱️ 11:02 • 3d ago
+👁️ 39K • 👍 1K • 💬 284 • ⏱️ 11:02 • 3d ago
 
 ---
 
@@ -254,7 +256,15 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 54K • 👍 857 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+👁️ 55K • 👍 859 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
+
+📺 Lin of Brant robot 
+
+👁️ 37K • 👍 184 • ⏱️ 0:19 • 4d ago
 
 ---
 
@@ -268,23 +278,11 @@ Are you stuck at the last minute for a Christmas gift? Wondering how to “wow�
 
 ---
 
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+**[He just follows me with this tiny robot 😭❤️#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=2XwCvej7D2E)**
 
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+📺 Romi Pal
 
-📺 CNET
-
-👁️ 39K • 👍 661 • 💬 155 • ⏱️ 5:25 • 4d ago
-
----
-
-**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
-
-Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
-
-📺 Ai Hypex
-
-👁️ 1.5M • 👍 8K • 💬 14 • ⏱️ 0:10 • 1d ago
+👁️ 360K • 👍 7K • 💬 121 • ⏱️ 0:28 • 4d ago
 
 ---
 

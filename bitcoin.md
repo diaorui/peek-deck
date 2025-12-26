@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T12:36:57.986407+00:00'
+updated: '2025-12-26T13:20:50.550531+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 12:36 UTC  
+**Last Updated:** December 26, 2025 at 13:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +0.3%  
-**30d:** -3.1%  
-**90d:** -20.9%  
-**1y:** -6.0%  
+**24h:** +1.3%  
+**7d:** +0.6%  
+**30d:** -2.8%  
+**90d:** -20.7%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1769.33B
+**Market Cap:** $1770.30B
 Rank #1
 
-**Circulating Supply:** 19,967,318 BTC
+**Circulating Supply:** 19,967,340 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.6%
 
 **All-Time Low:** $67.81
-+130584.3%
++130820.2%
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[12-year-old boy became millionaire after being one of the first to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pw177a/12yearold_boy_became_millionaire_after_being_one/)**
+
+The article from UNILAD: Erik Finman made a decision when he was 12 years old to invest in Bitcoin, something he would be thankful for for the rest of his life. When people speak about going back in time, they think about ways to make themselves rich by normally buying a lotto ticket they already know the numbers for. And that is exactly what this brave 12-year-old did.... okay, not really, but he did make himself a millionaire with one decision at that young age. Erik Finman decided he wasn’t going to splash away his pocket money on the typical stuff, and managed to strike a deal with his parents on a pretty wild idea. The youngster and his parents came to an agreement that he could skip out studying a college degree if he could prove he could make his fortune outside of traditional education. Luckily for him, Bitcoin had just been launched in 2009 and data became available the following year, so after receiving $1,245 from his grandmother, Erik decided to invest in the cryptocurrency. At the time Erik invested, trading was at around $12 - and this gave him about 103 BTC. While I'm sure most kids that age would have likely been lost at how he managed to invest this money on a new emerging online currency phenomenon, it certainly paid off. In December 2017 - when Erik was just 18 - Bitcoin reached a high of around $20,000 and his initial $1,245 investment increased to a staggering $2.07 million. Not bad, eh? Reflecting on his decision that paid off massively as an adult, Erik said ‘people didn’t really get what I was trying to do’. He told the Business of Business: "I really didn't like high school. People didn't really get what I was trying to do, get what I was searching for or what I was dreaming of. "I had one teacher tell me, 'yeah, drop out, work at McDonald’s', since I’ll never amount to anything more in life. "I dropped out of high school and made a bet with my parents: if I make a million dollars by the time I’m 18, I don’t have to go back to school or go to college." And Erik didn't just stop after making his first million either, building the amount of Bitcoins he had to 341, with an estimated worth of more than $4.8 million by mid 2020. However, Erik, now 25, hasn’t been too happy about his claim to fame, and insisted he is 'desperate to get out of crypto' and was 'sick of being the Bitcoin person', so he's recently been putting his finances into aircraft which he said has made 'good money'. Whatever makes you happy, champ. More power to you.
+
+2h ago
+
+---
+
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -89,25 +97,9 @@ Rank #1
 
 ---
 
-**[12-year-old boy became millionaire after being one of the first to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pw177a/12yearold_boy_became_millionaire_after_being_one/)**
-
-The article from UNILAD: Erik Finman made a decision when he was 12 years old to invest in Bitcoin, something he would be thankful for for the rest of his life. When people speak about going back in time, they think about ways to make themselves rich by normally buying a lotto ticket they already know the numbers for. And that is exactly what this brave 12-year-old did.... okay, not really, but he did make himself a millionaire with one decision at that young age. Erik Finman decided he wasn’t going to splash away his pocket money on the typical stuff, and managed to strike a deal with his parents on a pretty wild idea. The youngster and his parents came to an agreement that he could skip out studying a college degree if he could prove he could make his fortune outside of traditional education. Luckily for him, Bitcoin had just been launched in 2009 and data became available the following year, so after receiving $1,245 from his grandmother, Erik decided to invest in the cryptocurrency. At the time Erik invested, trading was at around $12 - and this gave him about 103 BTC. While I'm sure most kids that age would have likely been lost at how he managed to invest this money on a new emerging online currency phenomenon, it certainly paid off. In December 2017 - when Erik was just 18 - Bitcoin reached a high of around $20,000 and his initial $1,245 investment increased to a staggering $2.07 million. Not bad, eh? Reflecting on his decision that paid off massively as an adult, Erik said ‘people didn’t really get what I was trying to do’. He told the Business of Business: "I really didn't like high school. People didn't really get what I was trying to do, get what I was searching for or what I was dreaming of. "I had one teacher tell me, 'yeah, drop out, work at McDonald’s', since I’ll never amount to anything more in life. "I dropped out of high school and made a bet with my parents: if I make a million dollars by the time I’m 18, I don’t have to go back to school or go to college." And Erik didn't just stop after making his first million either, building the amount of Bitcoins he had to 341, with an estimated worth of more than $4.8 million by mid 2020. However, Erik, now 25, hasn’t been too happy about his claim to fame, and insisted he is 'desperate to get out of crypto' and was 'sick of being the Bitcoin person', so he's recently been putting his finances into aircraft which he said has made 'good money'. Whatever makes you happy, champ. More power to you.
-
-2h ago
-
----
-
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-1h ago
-
----
-
-**[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
-
-Video cred: clusk
-
-14h ago
+2h ago
 
 ---
 
@@ -117,9 +109,17 @@ Video cred: clusk
 
 ---
 
+**[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
+
+Video cred: clusk
+
+15h ago
+
+---
+
 **[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -137,7 +137,7 @@ Video cred: clusk
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -145,11 +145,19 @@ Video cred: clusk
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook](https://ts2.tech/en/bitcoin-price-today-dec-25-2025-btc-holds-near-88000-as-etf-outflows-thin-holiday-liquidity-and-a-record-options-expiry-shape-the-outlook/)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook - TechStock²
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-ts2.tech • 18h ago
+CoinDesk • 23h ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -157,27 +165,13 @@ ts2.tech • 18h ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdni3alc7jt4AmHbgPZ6AkWujzESlv2OYut0uM2XUv-E1EwK2ndUfn9&gaa_ts=694e8ef6&gaa_sig=bsBUE34gQjwVQtSMTxsD8v8EzYYWJ_wb9Sqb3En-4lHhpQzxDHsXPg8T5sX0pfvMsWAhRNSiTV1PKXdipZ6SyQ%3D%3D)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
-
-CoinDesk • 22h ago
-
----
-
-**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
-
-The Block • 18h ago
-
----
-
-**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
-
-CCN.com • 18h ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -189,31 +183,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Why Bitcoin Briefly Hit $24,000 on Binance — and Why It Didn’t Matter](https://finance.yahoo.com/news/why-bitcoin-briefly-hit-24-101700356.html)**
+**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
 
-Bitcoin briefly plunged to $24,000 on Binance’s thinly traded BTC/USD1 pair during holiday trading. A large market sell order wiped out limited buy-side liquidity, triggering ...
-
-Yahoo Finance • 2h ago
+CCN.com • 18h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfYmK8fudHPQBv55Gv8mMX2DRdPfNNG_Bkqc2ZgcBObyzcStNc0KBXU&gaa_ts=694e84d4&gaa_sig=8gkNgRgt1i8ciFOPF6jWJ7OYb-vHUb1tewIVLlNImF7EiplJgorPVjVVBqjAQy0LCYqbjmDFlKSJGIi6EyDCFA%3D%3D)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
-The Wall Street Journal • 2d ago
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
----
-
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
-
-Reuters • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
+**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+The Block • 19h ago
 
-KITCO • 1d ago
+---
+
+**[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
+
+thestreet.com • 20h ago
+
+---
+
+**[Bitcoin price today: rises to $89k amid thin liquidity, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-thin-liquidity-etf-outflows-4422973)**
+
+Investing.com • 6h ago
 
 ---
 
@@ -237,7 +235,7 @@ KITCO • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 20h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 21h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -289,17 +287,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 423 • 💬 120 • ⏱️ 4:31 • 16h ago
-
----
-
-**[BITCOIN: NOW NOW NOW (BREAKING NEWS)](https://www.youtube.com/watch?v=54KPG2PU92Y)**
-
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 Coinflare: ...
-
-📺 Crypto Kid
-
-👁️ 2K • 👍 169 • 💬 50 • ⏱️ 26:31 • 4h ago
+👁️ 11K • 👍 435 • 💬 112 • ⏱️ 4:31 • 17h ago
 
 ---
 
@@ -309,17 +297,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 232 • ⏱️ 37:34 • 1d ago
-
----
-
-**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
-
-Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
-
-📺 Thomas Kralow
-
-👁️ 25K • 👍 3K • 💬 85 • ⏱️ 6:23 • 2d ago
+👁️ 55K • 👍 2K • 💬 233 • ⏱️ 37:34 • 1d ago
 
 ---
 
@@ -329,27 +307,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 505 • 💬 43 • ⏱️ 15:49 • 14h ago
-
----
-
-**[THE NEXT BITCOIN MOVE IS NOT WHAT YOU THINK... *CRAZY CHART*](https://www.youtube.com/watch?v=ZHPonsHx6zs)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 2K • 👍 283 • 💬 78 • ⏱️ 13:15 • 3h ago
-
----
-
-**[BITCOIN: THE TRUTH YOU NEED...](https://www.youtube.com/watch?v=2g-WXiAfn1U)**
-
-WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 4K • 👍 307 • 💬 87 • ⏱️ 9:39 • 5h ago
+👁️ 14K • 👍 575 • 💬 35 • ⏱️ 15:49 • 15h ago
 
 ---
 
@@ -359,17 +317,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 459 • 💬 62 • ⏱️ 19:55 • 20h ago
+👁️ 13K • 👍 477 • 💬 42 • ⏱️ 19:55 • 20h ago
 
 ---
 
-**[BITCOIN DUMP WITHIN 24 HOURS !!!!](https://www.youtube.com/watch?v=KK9ztKo1WD4)**
+**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
 
-BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward *WEEX is available in ALL COUNTRIES ...
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
-📺 The Moon Show
+📺 Altcoin Daily
 
-👁️ 13K • 👍 802 • 💬 99 • ⏱️ 5:03 • 1d ago
+👁️ 21K • 👍 475 • 💬 65 • ⏱️ 1:12 • 1d ago
 
 ---
 
@@ -379,7 +337,47 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 115K • 👍 4K • 💬 475 • ⏱️ 20:46 • 2d ago
+👁️ 117K • 👍 4K • 💬 481 • ⏱️ 20:46 • 2d ago
+
+---
+
+**[MASSIVE Crypto Turning Point in 24 Hours That Will CHANGE EVERYTHING](https://www.youtube.com/watch?v=PSsTNjn4oRU)**
+
+TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KYC & NO VPN Sign up here ...
+
+📺 FireHustle
+
+👁️ 43K • 👍 3K • 💬 235 • ⏱️ 10:10 • 18h ago
+
+---
+
+**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
+
+Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
+
+📺 CNBC Television
+
+👁️ 28K • 👍 346 • 💬 241 • ⏱️ 8:19 • 1d ago
+
+---
+
+**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
+
+Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
+
+📺 Thomas Kralow
+
+👁️ 25K • 👍 3K • 💬 87 • ⏱️ 6:23 • 2d ago
+
+---
+
+**[Bitcoin Is Being Held Hostage](https://www.youtube.com/watch?v=A-5uX6Il1f0)**
+
+Bitcoin just printed $126K in October… and now it's been trapped between ~$85K–$90K like the chart is malfunctioning. It's not.
+
+📺 Ryan’s Money Lab
+
+👁️ 18K • 👍 596 • 💬 79 • ⏱️ 8:33 • 2d ago
 
 ---
 
