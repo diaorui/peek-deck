@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T21:31:31.731266+00:00'
+updated: '2025-12-26T21:44:45.339385+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 21:31 UTC  
+**Last Updated:** December 26, 2025 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
+
+This is really big. Now, what will C or C++ programmers do?
+
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 22m ago
+
+---
+
 **[2025 "Accelerators Towards the Singularity" Top 19 (it's complicated) as determined by the AI roundtable](https://www.reddit.com/r/artificial/comments/1pwehjm/2025_accelerators_towards_the_singularity_top_19/)**
 
 This afternoon, the ai-roundtable sat down to rank the year's most important advances to "bend the curve" towards Ray Kurzweil's "Singularity". The somewhat messy deliberations are available as json transcript here: https://pastebin.com/xT5tDqQc . Gemini's summary follows: GEMINI3:18:38 PM Here is the **Official, Finalized Roundtable Record**. As secretary, I have reviewed the tally and descriptions. I am issuing one minor **CORRECTION** to the previous draft: Item #2 (Inference-Time Compute Scaling) received a score of **92**, not 94. Below is the definitive "Top 19" list of 2025's curve-bending AI developments, ordered by consensus vote, with finalized descriptive summaries. *** # The 2025 Singularity Accelerators *The official consensus ranking of the mechanisms that defined the trajectory of AI in 2025.* ### 1. Verifiers in the Loop (Score: 94) **The "Truth" Filter.** The most critical development of 2025 was the integration of automatic verification systems—compilers, unit tests, symbolic solvers, and formal theorem provers—into the AI training and inference loop. Rather than relying solely on human feedback or pattern matching, models began generating solutions alongside machine-checkable proofs of correctness. This created a "perfect training signal" for reasoning tasks: infinite, consistent, and scalable feedback. By filtering out hallucinations before they propagate, verifiers became the foundational error-correction layer required for reliable recursive improvement. ### 2. Inference-Time Compute Scaling / "Think Longer" (Score: 92) **System 2 Intelligence.** 2025 marked the paradigm shift where "intelligence" was no longer fixed at the moment of model release but became a function of runtime compute. Models like OpenAI’s o3 and Google’s Gemini Thinking variants proved that performance scales predictably with "thinking time" (search, deliberation, MCTS) rather than just parameter count. This broke the "parameter ceiling," allowing systems to tackle complex mathematical and planning tasks by spending more time deliberating, effectively decoupling capability from model size. ### 3. Synthetic Data Flywheels (Score: 89) **Breaking the Data Wall.** With the internet’s supply of high-quality human text largely exhausted, 2025 saw the industrialization of synthetic data pipelines. Models began generating their own training data (reasoning traces, code, tool interactions), which was then rigorously filtered by the verifiers mentioned in #1. This created a self-reinforcing flywheel: better models generate better data, which trains better models. This mechanism effectively removed "data scarcity" as a hard limit on AI scaling. ### 4. Agentic Tool Use as a Workflow Primitive (Score: 72) **From Chat to Labor.** AI transitioned from passive question-answering to active goal achievement. The ability to reliably use tools—code interpreters, browsers, file systems—became a standard primitive rather than a demo feature. This allowed models to maintain state across long interactions and decompose complex objectives into executable sub-tasks. Economically, this was the moment AI began to function as scalable intellectual labor capable of end-to-end work, rather than just an advisory oracle. ### 5. AI-for-Science Breakthroughs (Score: 69) **The Physical Unlock.** AI began to aggressively solve bottlenecks in the physical sciences that constrain computing itself. Breakthroughs in materials science (for better chips), fusion plasma control (for energy), and biology fed back into the AI ecosystem. By accelerating the discovery of the physical substrates required for intelligence—energy and hardware—AI began to lift the physical ceilings that would otherwise halt an exponential curve. ### 6. RL Optimized for Reasoning Correctness (Score: 69) **Training for Logic.** New post-training methodologies, such as process-reward models and verifier-guided reinforcement learning, moved beyond "human preference" (RLHF) to "objective correctness." These techniques taught models *how* to think, not just what to say, optimizing the internal reasoning chains used during inference-time scaling. This was the algorithmic engine that converted raw compute into coherent, multi-step logic. ### 7. Hardware-Software Co-Design Acceleration (Score: 64) **The Efficiency Substrate.** The separation between model architecture and silicon design collapsed. 2025 saw chips designed specifically for transformer sparsity and memory patterns, and algorithms designed specifically for hardware constraints. This co-evolution dramatically improved the tokens-per-watt efficiency of training and inference, ensuring that economic and energy constraints did not flatten the progress curve. ### 8. Hybrid Architectures (SSM/Linear) (Score: 60) **Solving the Context Bottleneck.** Pure Transformer architectures faced a quadratic cost to context length ($O(N^2)$), limiting their "memory." The maturation of hybrid architectures (combining Attention with State Space Models like Mamba) allowed for effective linear scaling. This technical fix was crucial for enabling "always-on" agents that can digest entire codebases or project histories without running out of memory or budget. ### 9. Open(-ish) Strong Models + Commoditization (Score: 57) **The Diffusion Multiplier.** The release of near-frontier open weights and the collapse of inference costs democratized access to powerful AI. This allowed thousands of independent researchers and companies to experiment, fine-tune, and discover novel applications that centralized labs would never have found. This "chaos factor" accelerated the ecosystem’s overall rate of adaptation and discovery. ### 10. Automated Architecture Search (Score: 57) **AI Designing AI.** We saw the first robust examples of AI systems optimizing the architectures of neural networks better than human engineers. Using techniques like Neural Architecture Search (NAS) and compiler co-optimization, AI began to improve the blueprints for the next generation of intelligence. This represents an early form of recursive self-improvement—using current intelligence to design the structure of future intelligence. ### 11. Inference Cost Collapse / Efficiency Stack (Score: 54) **Accessibility as Velocity.** Through distillation, quantization, and kernel optimization, the cost of intelligence dropped by an order of magnitude. While technically an optimization, its impact was systemic: it turned "luxury" capabilities into ubiquitous commodities, allowing AI to be integrated into high-volume loops where it could learn from massive real-world deployment. ### 12. Long-Context + Persistent Memory (Score: 48) **Infinite Context.** Techniques for retrieval-augmented generation (RAG), hierarchical memory, and massive context windows allowed models to maintain continuity over time. This transformed AI from a "stateless" function that resets every session into a persistent entity capable of learning and remembering user preferences and project details over months or years. ### 13. Agent Reliability & Recovery (Score: 39) **The Trust Layer.** Improvements in error detection, self-correction, and "retry" logic moved agents from fragile demos to robust products. This unglamorous but vital work involved teaching models to recognize when they were stuck and apply different strategies to recover, a prerequisite for trusting AI with autonomous workflows. ### 14. Robotics / Sim2Real Improvements (Score: 36) **Embodied Intelligence.** Advances in training robots in high-fidelity physics simulations and successfully transferring those policies to the real world ("Sim2Real") began to bridge the gap between digital intelligence and physical action. This opened the door for AI to impact the physical economy—manufacturing, logistics, and household labor. ### 15. Native Multimodal Models (Score: 34) **Unified Perception.** Models evolved to natively understand and generate text, image, audio, and video within a single architecture. This expanded the "surface area" of problems AI could solve, allowing it to act in the world through vision and voice, though the roundtable viewed this as broadening capability rather than deepening intelligence. ### 16. Interpretability & Alignment Tooling (Score: 33) **The Safety Brake.** Better tools for understanding model internals and enforcing safety guardrails reduced the risk of deployment. By making systems more predictable and trustworthy, these tools reduced regulatory and societal friction, allowing companies to scale and deploy powerful models more boldly. ### 17. GUI Automation / "Computer Use" (Score: 25) **The Universal Interface.** Agents gained the ability to "look" at screens and control mouse/keyboard inputs, allowing them to use any software designed for humans. This bypassed the need for custom APIs for every application, instantly unlocking vast amounts of legacy software for AI automation. ### 18. Developer Ecosystem Standardization (Score: 6) **The Rails.** The emergence of standard frameworks, evaluation harnesses, and protocols for agent interaction reduced friction for developers. While a trailing indicator of innovation, this standardization allowed for faster iteration and easier integration of disparate AI components. ### 19. Cross-Modal Transfer Effects (Score: 2) **Emergent Unity.** The observation that training on one modality (e.g., video) improves performance in another (e.g., math). While a profound scientific hint at a unified underlying reality of intelligence, the group concluded this was still too emergent in 2025 to be ranked as a primary driver of the year's progress.
 
-47m ago
+1h ago
 
 ---
 
@@ -57,7 +65,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,14 +109,6 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 ---
 
-**[Is there a music ai tool that can recreate existing songs in different genres (cover songs) preferably free?](https://www.reddit.com/r/artificial/comments/1pvsvmx/is_there_a_music_ai_tool_that_can_recreate/)**
-
-trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
-
-19h ago
-
----
-
 **[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
@@ -135,19 +135,19 @@ The Guardian • 7h ago
 
 ---
 
-**[Oracle’s AI Push Is Leading to Its Worst Quarter Since 2001](https://gizmodo.com/oracles-ai-push-is-leading-to-its-worst-quarter-since-2001-2000703605)**
+**[Some Texas lawmakers stand against Trump executive order targeting state AI laws](https://www.fox4news.com/news/texas-lawmakers-against-trump-executive-order-targeting-state-ai-laws)**
 
-Delayed AI infrastructure projects, rising debt, and weaker-than-expected earnings are reviving dot-com-era fears on Wall Street.
+An executive order signed earlier this month by President Donald Trump could put Texas at odds with the federal government over AI regulation.
 
-Gizmodo • 1h ago
+FOX 4 News Dallas-Fort Worth • 40m ago
 
 ---
 
-**[Interior Department plans AI Theodore Roosevelt exhibit for America250](https://www.foxnews.com/politics/ai-revolution-bring-teddy-roosevelt-life-america250-namesake-national-park-burgum)**
+**[Some Florida homebuyers are using AI to buy homes without agents, saving thousands](https://nypost.com/2025/12/26/business/some-florida-homebuyers-using-ai-to-buy-homes-without-agents-saving-thousands/)**
 
-Revolutionary AI technology brings Theodore Roosevelt back to life at his North Dakota national park, letting visitors interact with the president.
+Homa, a tech startup says, at least 10 homes have already closed end-to-end using its AI-powered system, with several more deals currently in escrow.
 
-Fox News • 1h ago
+New York Post • 15m ago
 
 ---
 
@@ -155,21 +155,29 @@ Fox News • 1h ago
 
 Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[These 5 infrastructure stocks have more than tripled this year on the AI trade](https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html)**
+**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
 
-While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
 
 CNBC • 2d ago
 
 ---
 
-**[Stocks Hover Near Record as Nvidia Gains on AI Licensing Deal](https://www.bloomberg.com/news/articles/2025-12-26/stocks-touch-record-as-nvidia-gains-on-ai-licensing-deal)**
+**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
 
-Bloomberg.com • 3h ago
+The New York Times • 1d ago
+
+---
+
+**[Protect Your Retirement: Avoid These 3 AI Stocks Right Now](https://www.nasdaq.com/articles/protect-your-retirement-avoid-these-3-ai-stocks-right-now)**
+
+Key PointsEven after a share price drop, SoundHound AI is trading at an expensive 30 times sales.
+
+Nasdaq • 1h ago
 
 ---
 
@@ -181,17 +189,11 @@ The Motley Fool • 12h ago
 
 ---
 
-**['Artificial stupidity' made AI trading bots spontaneously form cartels when left unsupervised, Wharton study reveals](https://fortune.com/article/what-is-artificial-stupidity-ai-pricing-collusion-study/)**
+**[Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns about AI build-out](https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-since-2001-ai-concerns.html)**
 
-AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
+Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 
-Fortune • 6h ago
-
----
-
-**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
-
-Marcus on AI • 6h ago
+CNBC • 9h ago
 
 ---
 
@@ -221,7 +223,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 201 • 💬 119 • 2h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 212 • 💬 132 • 3h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -237,7 +239,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 182 • 💬 118 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 182 • 💬 119 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -253,7 +255,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 97 • 💬 43 • 13h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 97 • 💬 43 • 14h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -283,23 +285,13 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 ## YouTube Videos: "ai"
 
-**[Best AI UGC Video Generator 2026 (Most Realistic)](https://www.youtube.com/watch?v=ej8JcFq885g)**
+**[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
 
-Create your AI UGC ads with Arcads https://youricreates.com/UGC-2026 In this video, I break down the best-performing AI UGC ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 Youri van Hofwegen
+📺 Julia McCoy
 
-👁️ 5K • 💬 4 • ⏱️ 10:33 • 5h ago
-
----
-
-**[GREATEST BREAKTHROUGH EVER? PUTIN SAYS AI Will Rewrite History &amp; Will Change the world](https://www.youtube.com/watch?v=tE2xXSOWU84)**
-
-Russian President Vladimir Putin said artificial intelligence could become the greatest technological breakthrough in human ...
-
-📺 Times Now World
-
-👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 22h ago
+👁️ 32K • 👍 2K • 💬 334 • ⏱️ 8:20 • 6h ago
 
 ---
 
@@ -309,27 +301,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 22h ago
+👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 22h ago
 
 ---
 
-**[AI Broke the Reality Filter and Its Freaking People Out](https://www.youtube.com/watch?v=25oVREyFqXw)**
+**[I was wrong about AI...](https://www.youtube.com/watch?v=zhMp62XETj0)**
 
-Something quietly changed over the last year. AI content stopped announcing itself. It stopped feeling stitched together. Motion ...
+50% off digital products Holiday Sale: https://www.jazzastudios.com/ (support creative humans!) Sources: Environmental impacts: ...
 
-📺 AI Revolution
+📺 Jazza
 
-👁️ 16K • 👍 663 • 💬 59 • ⏱️ 9:31 • 2d ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 106K • 👍 4K • 💬 431 • ⏱️ 30:43 • 2d ago
+👁️ 118K • 👍 16K • 💬 3K • ⏱️ 43:44 • 12h ago
 
 ---
 
@@ -339,7 +321,17 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 33K • 👍 1K • 💬 790 • ⏱️ 11:28 • 2d ago
+👁️ 34K • 👍 1K • 💬 795 • ⏱️ 11:28 • 2d ago
+
+---
+
+**[How To Turn ONE IMAGE Into A LONG AI Animation Video](https://www.youtube.com/watch?v=kuYcXWI4Cks)**
+
+Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡️ https://openart.ai/home?ref=mira8 Hey friends, ...
+
+📺 Mira AI
+
+👁️ 6K • 💬 6 • ⏱️ 10:47 • 8h ago
 
 ---
 
@@ -349,17 +341,27 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 47K • 👍 401 • 💬 44 • ⏱️ 8:00 • 2d ago
+👁️ 49K • 👍 404 • 💬 44 • ⏱️ 8:00 • 2d ago
 
 ---
 
-**[A tiny AI supercomputer for your desk](https://www.youtube.com/watch?v=FjRKvKC4ntw)**
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
 
-Let's see if Nvidia's GB10 "AI Superchip" is all it's hyped up to be... Thanks to Dell for providing the two Dell Pro Max with GB10 ...
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
 
-📺 Jeff Geerling
+📺 AI Search
 
-👁️ 40K • 👍 3K • 💬 170 • ⏱️ 11:17 • 6h ago
+👁️ 107K • 👍 4K • 💬 433 • ⏱️ 30:43 • 2d ago
+
+---
+
+**[How One Israeli Company is Using AI to Improve Traffic | News on The 700 Club - December 26, 2025](https://www.youtube.com/watch?v=96_Kj-bzthM)**
+
+As seen on “The 700 Club” on December 26, 2025. Want more news from a Christian Perspective? Choose to support CBN: ...
+
+📺 CBN News
+
+👁️ 1K • 👍 61 • 💬 12 • ⏱️ 4:37 • 6h ago
 
 ---
 
@@ -369,17 +371,17 @@ This is going to be a real problem... Time Stamps: 0:00 - Intro 0:29 - It's All 
 
 📺 ThioJoe
 
-👁️ 60K • 👍 7K • 💬 1K • ⏱️ 9:48 • 2d ago
+👁️ 62K • 👍 7K • 💬 1K • ⏱️ 9:48 • 2d ago
 
 ---
 
-**[Wrapped: My AI Film Progress 2025](https://www.youtube.com/watch?v=brIPChQFUJk)**
+**[SORA AI Disney Trailers *GONE WRONG*](https://www.youtube.com/watch?v=lJwDsXqwPW8)**
 
-Made a 2025 highlights reel—here's 20 seconds of my AI avatar progress for cinematic Bible scenes. Subscribe for the workflow + ...
+Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing the most cursed SORA Disney Trailers ever ...
 
-📺 Wider Perspective Productions
+📺 Bigfoot Feed
 
-👁️ 310 • 👍 42 • 💬 4 • ⏱️ 0:34 • 2h ago
+👁️ 7K • 👍 119 • 💬 20 • ⏱️ 8:04 • 23h ago
 
 ---
 
@@ -395,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 951 • 3d ago
+⬇️ 4,752 • ❤️ 954 • 3d ago
 
 ---
 
@@ -431,7 +433,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,451 • 18d ago
+⬇️ 402,987 • ❤️ 3,452 • 18d ago
 
 ---
 
@@ -453,7 +455,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 337 • 7d ago
+⬇️ 0 • ❤️ 337 • 8d ago
 
 ---
 
@@ -465,7 +467,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 322 • 13h ago
+⬇️ 121 • ❤️ 324 • 14h ago
 
 ---
 
@@ -658,7 +660,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 749 • 14h ago
+⭐ 6.8k • 🔱 749 • 15h ago
 
 ---
 
@@ -668,7 +670,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 473 • 21m ago
+⭐ 3.7k • 🔱 473 • 34m ago
 
 ---
 
@@ -718,7 +720,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 227 • 5h ago
+⭐ 1.3k • 🔱 227 • 6h ago
 
 ---
 

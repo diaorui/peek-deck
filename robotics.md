@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T21:31:31.749010+00:00'
+updated: '2025-12-26T21:44:45.357272+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 21:31 UTC  
+**Last Updated:** December 26, 2025 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-17h ago
+18h ago
 
 ---
 
@@ -62,6 +62,14 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 ---
 
+**[Robot boxing with Hacksmith (and more)](https://www.reddit.com/r/robotics/comments/1pwf51l/robot_boxing_with_hacksmith_and_more/)**
+
+Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
+
+33m ago
+
+---
+
 **[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
@@ -74,7 +82,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-1h ago
+2h ago
 
 ---
 
@@ -83,14 +91,6 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
 1d ago
-
----
-
-**[Robot boxing with Hacksmith (and more)](https://www.reddit.com/r/robotics/comments/1pwf51l/robot_boxing_with_hacksmith_and_more/)**
-
-Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
-
-20m ago
 
 ---
 
@@ -182,11 +182,11 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+**[UCMS Robotics Club traveling competitive road to nationals](https://www.erwinrecord.net/news/ucms-robotics-club-traveling-competitive-road-to-nationals/article_ede13cdd-a063-4ab9-b6d0-8e861a8599d8.html)**
 
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+UCMS Robotics Club students tested drones, rovers and teamwork at sectionals while advancing toward a more competitive national robotics field.
 
-Fortune • 7h ago
+The Erwin Record • 3h ago
 
 ---
 
@@ -200,35 +200,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 22h ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 9K • 👍 232 • 💬 12 • ⏱️ 1:30 • 16h ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
-
-📺 Borunte robot-Lin 
-
-👁️ 118K • 👍 655 • ⏱️ 0:20 • 4d ago
-
----
-
-**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
-
-A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
-
-📺 Beeyond Ideas
-
-👁️ 37K • 👍 998 • 💬 238 • ⏱️ 21:33 • 21h ago
+👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 22h ago
 
 ---
 
@@ -238,7 +210,35 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 36K • 👍 583 • 💬 87 • ⏱️ 13:55 • 3d ago
+👁️ 37K • 👍 587 • 💬 88 • ⏱️ 13:55 • 3d ago
+
+---
+
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 11K • 👍 247 • 💬 13 • ⏱️ 1:30 • 16h ago
+
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=TpiVn9yRhUI)**
+
+📺 Borunte robot-Lin 
+
+👁️ 118K • 👍 654 • ⏱️ 0:20 • 4d ago
+
+---
+
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 39K • 👍 1K • 💬 264 • ⏱️ 21:33 • 21h ago
 
 ---
 
@@ -248,7 +248,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 40K • 👍 1K • 💬 291 • ⏱️ 11:02 • 3d ago
+👁️ 40K • 👍 1K • 💬 294 • ⏱️ 11:02 • 3d ago
 
 ---
 
@@ -258,7 +258,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 57K • 👍 870 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+👁️ 58K • 👍 873 • 💬 99 • ⏱️ 2:08:46 • 6d ago
 
 ---
 
@@ -268,17 +268,15 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 39K • 👍 667 • 💬 157 • ⏱️ 5:25 • 5d ago
+👁️ 39K • 👍 668 • 💬 157 • ⏱️ 5:25 • 5d ago
 
 ---
 
-**[Customers fill in to Beijing&#39;s new consumer robot shopping centre • FRANCE 24 English](https://www.youtube.com/watch?v=66MjAQLUjEg)**
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
 
-Are you stuck at the last minute for a Christmas gift? Wondering how to “wow” your child when they open their presents? Well ...
+📺 Lin of Brant robot 
 
-📺 FRANCE 24 English
-
-👁️ 15K • 👍 195 • 💬 47 • ⏱️ 2:09 • 6d ago
+👁️ 38K • 👍 184 • ⏱️ 0:19 • 4d ago
 
 ---
 

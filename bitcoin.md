@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T21:31:31.739828+00:00'
+updated: '2025-12-26T21:44:45.347928+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 21:31 UTC  
+**Last Updated:** December 26, 2025 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.0%  
-**30d:** -4.3%  
-**90d:** -21.9%  
-**1y:** -7.2%  
+**24h:** -0.0%  
+**7d:** -0.9%  
+**30d:** -4.2%  
+**90d:** -21.8%  
+**1y:** -7.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.30B
+**Market Cap:** $1746.51B
 Rank #1
 
 **Circulating Supply:** 19,967,534 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+128966.5%
++128845.6%
 
 ---
 
@@ -103,6 +103,18 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 ---
 
+**[Keep calm & stack sats](https://www.reddit.com/r/Bitcoin/comments/1pwdnfr/keep_calm_stack_sats/)**
+
+1h ago
+
+---
+
+**[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
+
+2h ago
+
+---
+
 **[How it started as an idea how it ended as a financial revolution.](https://www.reddit.com/r/Bitcoin/comments/1pw8vlj/how_it_started_as_an_idea_how_it_ended_as_a/)**
 
 4h ago
@@ -117,27 +129,19 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 ---
 
-**[Keep calm & stack sats](https://www.reddit.com/r/Bitcoin/comments/1pwdnfr/keep_calm_stack_sats/)**
+**[The Rise of On-Chain Neobanks and Their Potential Impact on Finance](https://www.reddit.com/r/Bitcoin/comments/1pwfd9w/the_rise_of_onchain_neobanks_and_their_potential/)**
+
+Observing macro trends: the neobank market could grow from $149B in 2024 to $4.4T by 2034, with much of that growth coming from on-chain banking. On-chain neobanks run their core systems on blockchains. This enables 24/7 payments, faster cross-border transfers, and fully software-based operations, in contrast to traditional back-office-dependent systems. Adoption of these systems could transform banking itself and serve as a new base layer for global digital finance. What are your thoughts on the future of on-chain neobanks? Will they complement or compete with traditional financial infrastructure?
+
+23m ago
+
+---
+
+**[(ASST)](https://www.reddit.com/r/Bitcoin/comments/1pwedo2/asst/)**
+
+https://www.binance.com/en/square/post/12-23-2025-1480-strive-34099004593034
 
 1h ago
-
----
-
-**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
-
-1d ago
-
----
-
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
-
-1d ago
-
----
-
-**[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
-
-1d ago
 
 ---
 
@@ -161,49 +165,19 @@ CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin (BTC) Options Expiry Fuels Volatility Spike](https://finance.yahoo.com/news/bitcoin-btc-options-expiry-fuels-120940928.html)**
+**[Gold and silver hit new records, bitcoin slips](https://finance.yahoo.com/video/gold-silver-hit-records-bitcoin-204802613.html)**
 
-Bitcoin price is once again showing volatility. On December 26, it spiked 1.63% to more than $89,100, only to hover around $88,500 later. The latest bounce comes ahead of the $28 billion Friday options expiry. Experts believe that investors should stay vigilant at this point and watch for proper breakout ...
+2025 was a huge year for the metals trade, with both gold (GC=F) and silver (SI=F) futures hitting new highs on Dec. 26. Bitcoin (BTC-USD), however, continues to falter. Yahoo Finance Senior Reporter Ines Ferré breaks down the action. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 9h ago
-
----
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 9h ago
+Yahoo Finance • 56m ago
 
 ---
 
-**[The Crypto That's Outperforming Bitcoin by 501%](https://www.fool.com/investing/2025/12/24/the-crypto-thats-outperforming-bitcoin-by-501/)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
-Bitcoin has been a big winner for investors, but one altcoin has more than doubled its returns.
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 2d ago
-
----
-
-**[The Real Reason Bitcoin Dropped Like A Stone From Its $126,000 All-Time High](https://finance.yahoo.com/news/real-reason-bitcoin-dropped-stone-190144386.html)**
-
-Bitcoin (CRYPTO: BTC) is down $40,000 from its peak at the start of October. According to new analysis it wasn’t retail traders or overleveraged longs that did the damage—it was whales who bought around the $126,000 all-time high and panic-sold into ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today)**
-
-Key PointsBitcoin has gained nearly 20,000% during the past 10 years, far more than the stock market.
-
-Nasdaq • 2d ago
-
----
-
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 10h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -211,13 +185,43 @@ The Motley Fool • 10h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 7h ago
+KITCO • 8h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeKpeos5L3G9gk5AflijxyU42k1P32S9ihwUNGhwW1O1VVgxg5MFe97&gaa_ts=694efd95&gaa_sig=DtXFzbY14pTyy8JOt62dsXHNYIHoVYbXA6Q2voiSvCQeEO8utRDqYfMQ2hFyipuXtqIE8ZWirUf9YbrpmpvYbw%3D%3D)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 4h ago
+
+---
+
+**[Scam artist convinces resident to buy $18,000 in bitcoin: Seven Hills Police Blotter](https://www.cleveland.com/community/2025/12/scam-artist-convinces-resident-to-buy-18000-in-bitcoin-seven-hills-police-blotter.html)**
+
+In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
+
+Cleveland.com • 8h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcD-dD0yClT0F4ELxdhMMqp0DpqrIKka1ySKTEEmfVVwO8tLd9FkOib&gaa_ts=694f0535&gaa_sig=8Me9MGCgZOXE8dtl_oUjLiJIe6Yx5-JrhcPCZ8GT7mhTguhhiifZ0gOtFhLATYEtElD9cvNFXLCWv9Hcpp2RPA%3D%3D)**
 
 The Wall Street Journal • 2d ago
+
+---
+
+**[Death Cross Threat Returns for Bitcoin, and $67,000 Is Not Meme Number Anymore](https://www.tradingview.com/news/u_today:6be5ac36d094b:0-death-cross-threat-returns-for-bitcoin-and-67-000-is-not-meme-number-anymore/)**
+
+Bitcoin just got the kind of chart setup that makes even confident dip-buyers check their leverage twice today. On the weekly BINANCE:BTCUSDT chart, the price is around $88,690 and the market participants are better to stare at a death-cross setup with about two days left in the current candle.This…
+
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[The Bitcoin "hard asset" narrative is breaking as silver hits parabolic peaks without taking crypto along for the ride](https://cryptoslate.com/bitcoin-price-lags-silver-gold-all-time-high-2025/)**
+
+Silver hit $72 on industrial demand while Bitcoin remained stuck, and the divergence tells what narrative the market is buying.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -303,53 +307,13 @@ Apple’s M1 chip changed everything. Here's the inside scoop on how it all came
 
 ## YouTube Videos: "bitcoin"
 
-**[Strategy builds cash reserve and pauses Bitcoin purchases](https://www.youtube.com/watch?v=5aGHjcwcIbM)**
+**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
 
-CNBC's MacKenzie Sigalos reports on Strategy.
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 CNBC Television
+📺 Savvy Finance
 
-👁️ 2K • 👍 25 • 💬 56 • ⏱️ 1:52 • 6h ago
-
----
-
-**[THIS IS WHY 97% LOSE MONEY IN CRYPTO!!!](https://www.youtube.com/watch?v=r-qaJa9FUwY)**
-
-In this video, I break down the 5 critical mistakes that cause 97% of retail investors to fail — even during a bull run.
-
-📺 Thomas Kralow
-
-👁️ 6K • 👍 289 • 💬 39 • ⏱️ 9:31 • 9h ago
-
----
-
-**[SAD NEWS](https://www.youtube.com/watch?v=iK29LM6V9Ug)**
-
-WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100 FREE COUPON WEEX REBATE: ...
-
-📺 The Moon Show
-
-👁️ 5K • 👍 423 • 💬 33 • ⏱️ 10:40 • 6h ago
-
----
-
-**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 8K • 👍 490 • 💬 83 • ⏱️ 21:19 • 6h ago
-
----
-
-**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 3K • 👍 489 • 💬 54 • ⏱️ 9:31 • 4h ago
+👁️ 20K • 👍 738 • 💬 54 • ⏱️ 15:49 • 23h ago
 
 ---
 
@@ -359,27 +323,27 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 492 • 💬 131 • ⏱️ 4:31 • 1d ago
+👁️ 13K • 👍 501 • 💬 135 • ⏱️ 4:31 • 1d ago
 
 ---
 
-**[Live Bitcoin Trading | ROAD TO 200K SUBSCRIBERS](https://www.youtube.com/watch?v=Cw28c1oLhDE)**
+**[Strategy builds cash reserve and pauses Bitcoin purchases](https://www.youtube.com/watch?v=5aGHjcwcIbM)**
 
-Come look into the next BIG move in crypto! All LIVE analysis, charting, and trades! 1️⃣ SIGN UP With ANY ...
+CNBC's MacKenzie Sigalos reports on Strategy.
 
-📺 Tom Crown
+📺 CNBC Television
 
-👁️ 1K • 👍 166 • 3h ago
+👁️ 3K • 👍 29 • 💬 52 • ⏱️ 1:52 • 6h ago
 
 ---
 
-**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
+**[Bitcoin Feels Like 2019 Again — Ben Cowen’s Warning for 2026](https://www.youtube.com/watch?v=9o7bqwOtRt4)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold and the S&P 500, why the current cycle feels like ...
 
-📺 Savvy Finance
+📺 Cointelegraph
 
-👁️ 19K • 👍 721 • 💬 49 • ⏱️ 15:49 • 23h ago
+👁️ 4K • 👍 336 • 💬 63 • ⏱️ 25:38 • 5h ago
 
 ---
 
@@ -389,7 +353,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 2K • 💬 204 • ⏱️ 37:34 • 2d ago
+👁️ 62K • 👍 2K • 💬 206 • ⏱️ 37:34 • 2d ago
 
 ---
 
@@ -399,7 +363,47 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 47K • 👍 3K • 💬 233 • ⏱️ 10:10 • 1d ago
+👁️ 48K • 👍 3K • 💬 233 • ⏱️ 10:10 • 1d ago
+
+---
+
+**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 22K • 👍 509 • 💬 51 • ⏱️ 1:12 • 2d ago
+
+---
+
+**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 7K • 👍 720 • 💬 79 • ⏱️ 9:31 • 4h ago
+
+---
+
+**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 15K • 👍 553 • 💬 57 • ⏱️ 19:55 • 1d ago
+
+---
+
+**[We asked two CIOs if the bitcoin four-year price cycle is dead: CNBC Crypto World](https://www.youtube.com/watch?v=nOD0bG4DsdU)**
+
+On today's episode of CNBC Crypto World, Matt Hougan, CIO of Bitwise Asset Management, and Sebastian Bea, CIO of ...
+
+📺 CNBC Television
+
+👁️ 2K • 👍 68 • 💬 66 • ⏱️ 19:19 • 1h ago
 
 ---
 

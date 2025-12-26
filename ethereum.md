@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T21:31:31.745841+00:00'
+updated: '2025-12-26T21:44:45.353973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 21:31 UTC  
+**Last Updated:** December 26, 2025 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -1.5%  
-**30d:** -2.7%  
-**90d:** -29.1%  
-**1y:** -11.9%  
+**24h:** +0.4%  
+**7d:** -1.7%  
+**30d:** -2.8%  
+**90d:** -29.2%  
+**1y:** -12.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.42B
+**Market Cap:** $353.37B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676662.6%
++675734.2%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 10h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 11h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 3h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 4h ago
 
 ---
 
@@ -154,14 +154,6 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
-
-Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
-
-Crypto Briefing • 3d ago
-
----
-
 **[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
@@ -190,7 +182,15 @@ Yahoo Finance • 7h ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
+
+---
+
+**[Why Are Bitcoin, Ethereum, and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:4d4fe0b4c094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
+
+Cryptocurrency prices moved lower as the broader market cooled, even though no major negative news triggered the drop. The total crypto market value slipped to about $2.94 trillion, down roughly 1.5% over the past day. Bitcoin Pulls Back After Recent StrengthBitcoin fell to around $87,100, giving u…
+
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -200,9 +200,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
+**[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
 
-TradingView — Track All Markets • 21h ago
+Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
+
+BeInCrypto • 12h ago
 
 ---
 
@@ -214,11 +216,11 @@ CryptoSlate • 3d ago
 
 ---
 
-**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
 
-Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-Coinpedia Fintech News • 10h ago
+Decrypt • 3d ago
 
 ---
 
@@ -232,17 +234,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 177 • 💬 78 • ⏱️ 18:00 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 92 • 💬 6 • ⏱️ 4:08 • 7h ago
+👁️ 4K • 👍 210 • 💬 126 • ⏱️ 18:00 • 5h ago
 
 ---
 
@@ -256,13 +248,23 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 95 • 💬 6 • ⏱️ 4:08 • 7h ago
+
+---
+
 **[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
 
 Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 22K • 👍 416 • 💬 106 • ⏱️ 11:00 • 2d ago
+👁️ 22K • 👍 418 • 💬 106 • ⏱️ 11:00 • 2d ago
 
 ---
 
@@ -272,7 +274,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 BTDcrypto
 
-👁️ 20 • 👍 5 • 💬 2 • ⏱️ 16:56 • 2h ago
+👁️ 44 • 👍 7 • 💬 43 • ⏱️ 16:56 • 3h ago
 
 ---
 
@@ -292,27 +294,7 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 6K • 👍 123 • 💬 18 • ⏱️ 19:17 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=Kb4YgDSnT68)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Brilliance Academy
-
-👁️ 4K • 👍 1K • 2d ago
-
----
-
-**[Tom Lee&#39;s URGENT Message On The Next Rally, WARNING For All Investors](https://www.youtube.com/watch?v=MtJxxYaS9B0)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 144 • 💬 142 • ⏱️ 15:41 • 1d ago
+👁️ 7K • 👍 125 • 💬 18 • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -323,6 +305,26 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 📺 CryptoStock Lab
 
 👁️ 4K • 👍 116 • 💬 35 • ⏱️ 13:41 • 2d ago
+
+---
+
+**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 3K • 💬 459 • ⏱️ 10:51 • 2d ago
+
+---
+
+**[Tom Lee&#39;s URGENT Message On The Next Rally, WARNING For All Investors](https://www.youtube.com/watch?v=MtJxxYaS9B0)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 144 • 💬 142 • ⏱️ 15:41 • 1d ago
 
 ---
 
