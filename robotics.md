@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T21:12:07.894602+00:00'
+updated: '2025-12-26T21:31:31.749010+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 21:12 UTC  
+**Last Updated:** December 26, 2025 at 21:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-14h ago
+15h ago
 
 ---
 
@@ -90,7 +90,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
 
-1m ago
+20m ago
 
 ---
 
@@ -172,7 +172,7 @@ New Atlas • 2d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 9h ago
+Tom's Hardware • 10h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 21h ago
+👁️ 91K • 👍 1K • 💬 181 • ⏱️ 12:51 • 22h ago
 
 ---
 
@@ -228,7 +228,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 37K • 👍 998 • 💬 238 • ⏱️ 21:33 • 20h ago
+👁️ 37K • 👍 998 • 💬 238 • ⏱️ 21:33 • 21h ago
 
 ---
 

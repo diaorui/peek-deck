@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T21:12:07.885273+00:00'
+updated: '2025-12-26T21:31:31.739828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 21:12 UTC  
+**Last Updated:** December 26, 2025 at 21:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -0.8%  
-**30d:** -4.2%  
-**90d:** -21.8%  
-**1y:** -7.1%  
+**24h:** -0.1%  
+**7d:** -1.0%  
+**30d:** -4.3%  
+**90d:** -21.9%  
+**1y:** -7.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
-8h ago
+9h ago
 
 ---
 
@@ -149,7 +149,7 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 9h ago
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -203,7 +203,7 @@ Nasdaq • 2d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -309,7 +309,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 2K • 👍 25 • 💬 56 • ⏱️ 1:52 • 5h ago
+👁️ 2K • 👍 25 • 💬 56 • ⏱️ 1:52 • 6h ago
 
 ---
 
@@ -329,7 +329,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=g2gb&qrType=activity $10-100
 
 📺 The Moon Show
 
-👁️ 5K • 👍 423 • 💬 33 • ⏱️ 10:40 • 5h ago
+👁️ 5K • 👍 423 • 💬 33 • ⏱️ 10:40 • 6h ago
 
 ---
 
@@ -339,7 +339,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 490 • 💬 83 • ⏱️ 21:19 • 5h ago
+👁️ 8K • 👍 490 • 💬 83 • ⏱️ 21:19 • 6h ago
 
 ---
 
@@ -379,7 +379,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 721 • 💬 49 • ⏱️ 15:49 • 22h ago
+👁️ 19K • 👍 721 • 💬 49 • ⏱️ 15:49 • 23h ago
 
 ---
 
@@ -389,7 +389,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 2K • 💬 204 • ⏱️ 37:34 • 1d ago
+👁️ 60K • 👍 2K • 💬 204 • ⏱️ 37:34 • 2d ago
 
 ---
 
