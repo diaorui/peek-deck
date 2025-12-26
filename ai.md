@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T08:38:35.455692+00:00'
+updated: '2025-12-26T08:56:58.389524+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 08:38 UTC  
+**Last Updated:** December 26, 2025 at 08:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 15h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 16h ago
 
 ---
 
@@ -73,7 +73,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 8h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 22h ago
 
 Nvidia is still one of the best AI stocks available.
 
-The Motley Fool • 8m ago
+The Motley Fool • 26m ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.7k • 🔱 738 • 1h ago
+⭐ 6.7k • 🔱 738 • 2h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 459 • 44m ago
+⭐ 3.6k • 🔱 459 • 1h ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 212 • 45m ago
+⭐ 3.0k • 🔱 212 • 1h ago
 
 ---
 
