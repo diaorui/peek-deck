@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T13:59:24.260750+00:00'
+updated: '2025-12-26T14:30:11.089473+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 13:59 UTC  
+**Last Updated:** December 26, 2025 at 14:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,900.00
+### $88,955.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +0.8%  
+**24h:** +0.9%  
+**7d:** +0.7%  
 **30d:** -2.6%  
 **90d:** -20.5%  
 **1y:** -5.6%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.81B
+**Market Cap:** $1776.04B
 Rank #1
 
 **Circulating Supply:** 19,967,368 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.5%
 
 **All-Time Low:** $67.81
-+131109.3%
++131035.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The article from UNILAD: Erik Finman made a decision when he was 12 years old to invest in Bitcoin, something he would be thankful for for the rest of his life. When people speak about going back in time, they think about ways to make themselves rich by normally buying a lotto ticket they already know the numbers for. And that is exactly what this brave 12-year-old did.... okay, not really, but he did make himself a millionaire with one decision at that young age. Erik Finman decided he wasn’t going to splash away his pocket money on the typical stuff, and managed to strike a deal with his parents on a pretty wild idea. The youngster and his parents came to an agreement that he could skip out studying a college degree if he could prove he could make his fortune outside of traditional education. Luckily for him, Bitcoin had just been launched in 2009 and data became available the following year, so after receiving $1,245 from his grandmother, Erik decided to invest in the cryptocurrency. At the time Erik invested, trading was at around $12 - and this gave him about 103 BTC. While I'm sure most kids that age would have likely been lost at how he managed to invest this money on a new emerging online currency phenomenon, it certainly paid off. In December 2017 - when Erik was just 18 - Bitcoin reached a high of around $20,000 and his initial $1,245 investment increased to a staggering $2.07 million. Not bad, eh? Reflecting on his decision that paid off massively as an adult, Erik said ‘people didn’t really get what I was trying to do’. He told the Business of Business: "I really didn't like high school. People didn't really get what I was trying to do, get what I was searching for or what I was dreaming of. "I had one teacher tell me, 'yeah, drop out, work at McDonald’s', since I’ll never amount to anything more in life. "I dropped out of high school and made a bet with my parents: if I make a million dollars by the time I’m 18, I don’t have to go back to school or go to college." And Erik didn't just stop after making his first million either, building the amount of Bitcoins he had to 341, with an estimated worth of more than $4.8 million by mid 2020. However, Erik, now 25, hasn’t been too happy about his claim to fame, and insisted he is 'desperate to get out of crypto' and was 'sick of being the Bitcoin person', so he's recently been putting his finances into aircraft which he said has made 'good money'. Whatever makes you happy, champ. More power to you.
 
-3h ago
+4h ago
 
 ---
 
@@ -93,13 +93,13 @@ The article from UNILAD: Erik Finman made a decision when he was 12 years old to
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-17h ago
+18h ago
 
 ---
 
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -117,15 +117,15 @@ Video cred: clusk
 
 ---
 
-**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
+**[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
 
-10h ago
+2h ago
 
 ---
 
-**[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
+**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
-1h ago
+11h ago
 
 ---
 
@@ -135,9 +135,11 @@ Video cred: clusk
 
 ---
 
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+**[How old is bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pw305j/how_old_is_bitcoin/)**
 
-1d ago
+These were the most popular ‘smart’ phones when bitcoin was invented in 2009
+
+2h ago
 
 ---
 
@@ -145,11 +147,31 @@ Video cred: clusk
 
 ## Google News: "bitcoin"
 
+**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 2h ago
+
+---
+
 **[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqf50hHwlCu0OdVbNK9ioZeeSncICnDwzlxxwpkStXwD3SOmfHceyR7L&gaa_ts=694e9f5f&gaa_sig=Oqws-SnC4im7EBoL6uFOWV9Nz2r4dvj5xhe6_ftXLQqi43s-t9cpzrwOgi3YJZCww4UEHaU_tdviyAt45CO11g%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -161,26 +183,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 1h ago
-
----
-
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
-
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg.com • 34m ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcU_iYkFr3ziL5Dl_qm2mOy9lfEwWZUirBFFIToxPyt-XPYG4QWK36o&gaa_ts=694e9826&gaa_sig=Tt2LX8U1ECf7BdFQF6uxh0CPA4AzWVgZaNThZpob2IYYKzFRq7cuV6EYCNQW-JhHcFleeuGJeGUGJ3i5biRD9A%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
 **[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
 Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
@@ -189,31 +191,29 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
-
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 1d ago
-
----
-
-**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
-
-CCN.com • 19h ago
-
----
-
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
-KITCO • 1d ago
+Investopedia • 2d ago
+
+---
+
+**[Peter Schiff Warns of Bitcoin ‘Slow Death’ as it Fails to Track Tech Stocks or Gold — Fact or Fear?](https://www.ccn.com/education/crypto/peter-schiff-bitcoin-slow-death-fact-or-fear/)**
+
+CCN.com • 6h ago
+
+---
+
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -223,7 +223,7 @@ KITCO • 1d ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46375655)**
 
-⬆️ 5 • 💬 2 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 5 • 💬 2 • 2d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -237,7 +237,7 @@ KITCO • 1d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 21h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 22h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 435 • 💬 112 • ⏱️ 4:31 • 17h ago
+👁️ 11K • 👍 435 • 💬 112 • ⏱️ 4:31 • 18h ago
 
 ---
 
@@ -309,7 +309,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 575 • 💬 35 • ⏱️ 15:49 • 15h ago
+👁️ 14K • 👍 575 • 💬 35 • ⏱️ 15:49 • 16h ago
 
 ---
 
@@ -319,7 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 477 • 💬 42 • ⏱️ 19:55 • 21h ago
+👁️ 13K • 👍 477 • 💬 42 • ⏱️ 19:55 • 22h ago
 
 ---
 
