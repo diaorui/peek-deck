@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T14:48:02.030405+00:00'
+updated: '2025-12-26T14:58:38.083876+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 14:48 UTC  
+**Last Updated:** December 26, 2025 at 14:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,450.00
+### $87,397.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.0%  
-**30d:** -3.3%  
-**90d:** -21.1%  
-**1y:** -6.3%  
+**24h:** -0.7%  
+**7d:** -0.8%  
+**30d:** -4.1%  
+**90d:** -21.8%  
+**1y:** -7.1%  
 
 ---
 
@@ -105,7 +105,7 @@ The article from UNILAD: Erik Finman made a decision when he was 12 years old to
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-12h ago
+13h ago
 
 ---
 

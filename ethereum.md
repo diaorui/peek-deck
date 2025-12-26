@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T14:48:02.036502+00:00'
+updated: '2025-12-26T14:58:38.089103+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 14:48 UTC  
+**Last Updated:** December 26, 2025 at 14:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,982.46
+### $2,947.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.0%  
-**30d:** -2.1%  
-**90d:** -28.7%  
-**1y:** -11.4%  
+**24h:** -1.4%  
+**7d:** -2.1%  
+**30d:** -3.2%  
+**90d:** -29.5%  
+**1y:** -12.4%  
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 23h ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -284,7 +284,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 7 • 👍 1 • ⏱️ 8:56 • 3h ago
+👁️ 7 • 👍 1 • ⏱️ 8:56 • 4h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 10K • 👍 307 • 💬 132 • ⏱️ 16:26 • 20h ago
+👁️ 10K • 👍 307 • 💬 132 • ⏱️ 16:26 • 21h ago
 
 ---
 
