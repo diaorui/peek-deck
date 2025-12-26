@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T23:33:53.993492+00:00'
+updated: '2025-12-26T23:47:25.872927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 23:33 UTC  
+**Last Updated:** December 26, 2025 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,928.11
+### $2,929.85
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.8%  
 **7d:** -1.7%  
-**30d:** -2.9%  
-**90d:** -29.3%  
+**30d:** -2.8%  
+**90d:** -29.2%  
 **1y:** -12.1%  
 
 ---
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 12h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 13h ago
 
 ---
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 5h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 6h ago
 
 ---
 
@@ -190,7 +190,7 @@ TradingView — Track All Markets • 1d ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -228,13 +228,23 @@ CryptoSlate • 3d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
+
+It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+
+📺 Benjamin Cowen
+
+👁️ 7K • 👍 568 • 💬 46 • ⏱️ 15:00 • 49m ago
+
+---
+
 **[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
 
 BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 4K • 👍 210 • 💬 126 • ⏱️ 18:00 • 7h ago
+👁️ 5K • 👍 238 • 💬 156 • ⏱️ 18:00 • 8h ago
 
 ---
 
@@ -244,7 +254,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 5K • ⏱️ 7:27 • 9h ago
+👁️ 6K • ⏱️ 7:27 • 9h ago
 
 ---
 
@@ -254,17 +264,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 6 • ⏱️ 4:08 • 9h ago
+👁️ 2K • 👍 107 • 💬 7 • ⏱️ 4:08 • 9h ago
 
 ---
 
-**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
+**[ETH Ethereum Price Prediction: 26th of December](https://www.youtube.com/watch?v=pn0pMa2GxUE)**
 
-Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 CLOCKWISE CRYPTO 
+📺 C-Zar Gets Crypto 
 
-👁️ 22K • 👍 418 • 💬 106 • ⏱️ 11:00 • 2d ago
+👁️ 207 • 👍 13 • 💬 85 • ⏱️ 7:57 • 6h ago
 
 ---
 
@@ -274,17 +284,17 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 BTDcrypto
 
-👁️ 44 • 👍 7 • 💬 43 • ⏱️ 16:56 • 4h ago
+👁️ 61 • 👍 10 • 💬 64 • ⏱️ 16:56 • 5h ago
 
 ---
 
-**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
+**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
 
-This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
+Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
 
-📺 CryptoStock Lab
+📺 CLOCKWISE CRYPTO 
 
-👁️ 2K • 👍 62 • 💬 32 • ⏱️ 15:04 • 21h ago
+👁️ 22K • 👍 419 • 💬 106 • ⏱️ 11:00 • 2d ago
 
 ---
 
@@ -294,37 +304,27 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 7K • 👍 125 • 💬 18 • ⏱️ 19:17 • 1d ago
+👁️ 7K • 👍 126 • 💬 18 • ⏱️ 19:17 • 1d ago
 
 ---
 
-**[No More Dilution? How JPMorgan&#39;s New ETH Rule Saves $BMNR](https://www.youtube.com/watch?v=8yTVNTNovW8)**
+**[Ethereum At A Decision Point, Bottom Signals Are Getting Close](https://www.youtube.com/watch?v=ICrPUz8aAQk)**
 
-The wall between Wall Street and Crypto just crumbled. In this video, we discuss the massive strategic shift from JPMorgan Chase ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
+
+📺 Trade Confident
+
+👁️ 145 • 👍 12 • 💬 82 • ⏱️ 4:22 • 2h ago
+
+---
+
+**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
+
+This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
 
 📺 CryptoStock Lab
 
-👁️ 4K • 👍 116 • 💬 35 • ⏱️ 13:41 • 2d ago
-
----
-
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 459 • ⏱️ 10:51 • 3d ago
-
----
-
-**[Tom Lee&#39;s URGENT Message On The Next Rally, WARNING For All Investors](https://www.youtube.com/watch?v=MtJxxYaS9B0)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 144 • 💬 142 • ⏱️ 15:41 • 1d ago
+👁️ 2K • 👍 63 • 💬 52 • ⏱️ 15:04 • 21h ago
 
 ---
 

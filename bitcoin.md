@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T23:33:53.987359+00:00'
+updated: '2025-12-26T23:47:25.866967+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 23:33 UTC  
+**Last Updated:** December 26, 2025 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -1.0%  
-**30d:** -4.3%  
-**90d:** -21.9%  
-**1y:** -7.2%  
+**24h:** +0.5%  
+**7d:** -1.1%  
+**30d:** -4.4%  
+**90d:** -22.0%  
+**1y:** -7.4%  
 
 ---
 
@@ -133,7 +133,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 **[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 10h ago
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-CNBC • 27m ago
+CNBC • 40m ago
 
 ---
 
@@ -215,7 +215,7 @@ Forbes • 11h ago
 
 **[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
 
-thestreet.com • 7h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -307,17 +307,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 20K • 👍 738 • 💬 54 • ⏱️ 15:49 • 1d ago
-
----
-
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 501 • 💬 135 • ⏱️ 4:31 • 1d ago
+👁️ 21K • 👍 760 • 💬 74 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -327,7 +317,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 3K • 👍 29 • 💬 52 • ⏱️ 1:52 • 8h ago
+👁️ 4K • 👍 32 • 💬 74 • ⏱️ 1:52 • 8h ago
 
 ---
 
@@ -337,7 +327,17 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 336 • 💬 63 • ⏱️ 25:38 • 7h ago
+👁️ 8K • 👍 443 • 💬 117 • ⏱️ 25:38 • 7h ago
+
+---
+
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
+
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 507 • 💬 135 • ⏱️ 4:31 • 1d ago
 
 ---
 
@@ -347,37 +347,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 2K • 💬 206 • ⏱️ 37:34 • 2d ago
-
----
-
-**[MASSIVE Crypto Turning Point Within 12 HOURS That Will CHANGE EVERYTHING](https://www.youtube.com/watch?v=PSsTNjn4oRU)**
-
-TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KYC & NO VPN Sign up here ...
-
-📺 FireHustle
-
-👁️ 48K • 👍 3K • 💬 233 • ⏱️ 10:10 • 1d ago
-
----
-
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 509 • 💬 51 • ⏱️ 1:12 • 2d ago
-
----
-
-**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 7K • 👍 720 • 💬 79 • ⏱️ 9:31 • 6h ago
+👁️ 63K • 👍 3K • 💬 209 • ⏱️ 37:34 • 2d ago
 
 ---
 
@@ -387,17 +357,47 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 553 • 💬 57 • ⏱️ 19:55 • 1d ago
+👁️ 15K • 👍 565 • 💬 57 • ⏱️ 19:55 • 1d ago
 
 ---
 
-**[We asked two CIOs if the bitcoin four-year price cycle is dead: CNBC Crypto World](https://www.youtube.com/watch?v=nOD0bG4DsdU)**
+**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
 
-On today's episode of CNBC Crypto World, Matt Hougan, CIO of Bitwise Asset Management, and Sebastian Bea, CIO of ...
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
-📺 CNBC Television
+📺 Altcoin Daily
 
-👁️ 2K • 👍 68 • 💬 66 • ⏱️ 19:19 • 3h ago
+👁️ 23K • 👍 516 • 💬 51 • ⏱️ 1:12 • 2d ago
+
+---
+
+**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 9K • 👍 881 • 💬 100 • ⏱️ 9:31 • 6h ago
+
+---
+
+**[MASSIVE Crypto Turning Point Within 12 HOURS That Will CHANGE EVERYTHING](https://www.youtube.com/watch?v=PSsTNjn4oRU)**
+
+TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KYC & NO VPN Sign up here ...
+
+📺 FireHustle
+
+👁️ 48K • 👍 3K • 💬 238 • ⏱️ 10:10 • 1d ago
+
+---
+
+**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
+
+BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 238 • 💬 156 • ⏱️ 18:00 • 8h ago
 
 ---
 

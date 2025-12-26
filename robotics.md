@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T23:33:53.996754+00:00'
+updated: '2025-12-26T23:47:25.876133+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 23:33 UTC  
+**Last Updated:** December 26, 2025 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-19h ago
+20h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-3h ago
+4h ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 1d ago
+👁️ 105K • 👍 1K • 💬 188 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -212,17 +212,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 37K • 👍 587 • 💬 88 • ⏱️ 13:55 • 3d ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 11K • 👍 247 • 💬 13 • ⏱️ 1:30 • 18h ago
+👁️ 37K • 👍 594 • 💬 88 • ⏱️ 13:55 • 3d ago
 
 ---
 
@@ -234,23 +224,43 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 ---
 
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 12K • 👍 261 • 💬 14 • ⏱️ 1:30 • 18h ago
+
+---
+
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 237K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
+
+---
+
 **[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
 
 A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
 
 📺 Beeyond Ideas
 
-👁️ 39K • 👍 1K • 💬 264 • ⏱️ 21:33 • 23h ago
+👁️ 41K • 👍 1K • 💬 277 • ⏱️ 21:33 • 23h ago
 
 ---
 
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+**[UBTECH Passes 1,000-Robot Mark #airobot #robotics #humanoidrobots #china #ai #industry40](https://www.youtube.com/watch?v=vJcbTplmglc)**
 
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial humanoid in 2025. The AI-powered humanoid could ...
 
-📺 Its Nenaa
+📺 Kalil 4.0
 
-👁️ 40K • 👍 1K • 💬 294 • ⏱️ 11:02 • 4d ago
+👁️ 616 • 👍 36 • ⏱️ 0:53 • 2h ago
 
 ---
 
@@ -260,7 +270,17 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 58K • 👍 873 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+👁️ 59K • 👍 876 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 41K • 👍 1K • 💬 296 • ⏱️ 11:02 • 4d ago
 
 ---
 
@@ -271,24 +291,6 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 📺 CNET
 
 👁️ 39K • 👍 668 • 💬 157 • ⏱️ 5:25 • 5d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
-
-📺 Lin of Brant robot 
-
-👁️ 38K • 👍 184 • ⏱️ 0:19 • 4d ago
-
----
-
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
-
-She Bought Two Robots    #shorts#trending.
-
-📺 Facto_Satish
-
-👁️ 74K • 💬 4 • ⏱️ 0:27 • 1d ago
 
 ---
 
