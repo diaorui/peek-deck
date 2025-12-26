@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T09:46:17.623778+00:00'
+updated: '2025-12-26T09:57:29.437921+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 09:46 UTC  
+**Last Updated:** December 26, 2025 at 09:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 16h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 17h ago
 
 ---
 
@@ -73,7 +73,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 9h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 10h ago
 
 ---
 
@@ -81,7 +81,7 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 13h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 14h ago
 
 ---
 
@@ -139,13 +139,13 @@ The New York Times • 23h ago
 
 Top hedge fund manager Ken Griffin sold Amazon and bought Palantir in the third quarter.
 
-The Motley Fool • 51m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[What Happens When We Insist on Optimizing Fun?](https://www.bloomberg.com/news/features/2025-12-26/how-ai-is-changing-the-games-we-play-from-poker-to-curling)**
 
-Bloomberg.com • 46m ago
+Bloomberg.com • 57m ago
 
 ---
 
@@ -154,7 +154,7 @@ Bloomberg.com • 46m ago
 Highmark Health is preparing for the future by expanding its artificial intelligence capabilities in 2026.
 Highmark’s history with AI reaches back...
 
-Pittsburgh Post-Gazette • 46m ago
+Pittsburgh Post-Gazette • 57m ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 462 • 33m ago
+⭐ 3.6k • 🔱 462 • 44m ago
 
 ---
 
@@ -677,7 +677,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 213 • 1h ago
+⭐ 3.0k • 🔱 213 • 2h ago
 
 ---
 

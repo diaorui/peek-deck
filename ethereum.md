@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T09:46:17.638313+00:00'
+updated: '2025-12-26T09:57:29.452726+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 09:46 UTC  
+**Last Updated:** December 26, 2025 at 09:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,9 +44,9 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.8%  
 **7d:** -0.3%  
-**30d:** -1.5%  
-**90d:** -28.3%  
-**1y:** -10.9%  
+**30d:** -1.4%  
+**90d:** -28.2%  
+**1y:** -10.8%  
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 8K • 👍 296 • 💬 56 • ⏱️ 16:26 • 15h ago
+👁️ 8K • 👍 296 • 💬 56 • ⏱️ 16:26 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video:
 
 📺 Trading Jip
 
-👁️ 644 • 👍 35 • 💬 32 • ⏱️ 7:57 • 21h ago
+👁️ 644 • 👍 35 • 💬 32 • ⏱️ 7:57 • 22h ago
 
 ---
 
