@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T11:27:06.496634+00:00'
+updated: '2025-12-26T11:42:15.051915+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 11:27 UTC  
+**Last Updated:** December 26, 2025 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.5%  
-**7d:** +0.5%  
+**7d:** +0.4%  
 **30d:** -2.9%  
 **90d:** -20.8%  
-**1y:** -5.8%  
+**1y:** -5.9%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Video cred: clusk
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Video cred: clusk
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -295,7 +295,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 169 • 💬 50 • ⏱️ 26:31 • 2h ago
+👁️ 2K • 👍 169 • 💬 50 • ⏱️ 26:31 • 3h ago
 
 ---
 
@@ -345,7 +345,7 @@ WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 307 • 💬 87 • ⏱️ 9:39 • 4h ago
+👁️ 4K • 👍 307 • 💬 87 • ⏱️ 9:39 • 5h ago
 
 ---
 

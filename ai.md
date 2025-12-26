@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T11:27:06.488201+00:00'
+updated: '2025-12-26T11:42:15.043281+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 11:27 UTC  
+**Last Updated:** December 26, 2025 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -125,7 +125,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 20m ago
+The Guardian • 35m ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 Brands, from McDonald's to H&M, drew backlash in some quarters over their AI-driven ads and marketing experiments.
 
-Business Insider • 57m ago
+Business Insider • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ Business Insider • 57m ago
 
 In 2025, too many people were making too much money to slow down.
 
-Foreign Policy • 25m ago
+Foreign Policy • 40m ago
 
 ---
 
 **[Colin Kaepernick, Md. school district team to push more students to use AI](https://www.washingtonpost.com/education/2025/12/26/colin-kaepernick-ai-education-prince-georges-maryland/)**
 
-The Washington Post • 23m ago
+The Washington Post • 39m ago
 
 ---
 
@@ -261,7 +261,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 45 • 💬 14 • 3h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 45 • 💬 14 • 4h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -297,7 +297,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 2K • 👍 93 • 💬 8 • ⏱️ 7:06 • 11h ago
+👁️ 2K • 👍 93 • 💬 8 • ⏱️ 7:06 • 12h ago
 
 ---
 
@@ -367,7 +367,7 @@ Elephant serve a tamato plant #ai #tomato #elephant.
 
 📺 ToolShool
 
-👁️ 948 • 👍 26 • ⏱️ 0:34 • 1h ago
+👁️ 948 • 👍 26 • ⏱️ 0:34 • 2h ago
 
 ---
 
@@ -497,7 +497,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 161 • 3h ago
+⬇️ 121 • ❤️ 161 • 4h ago
 
 ---
 
@@ -541,7 +541,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
 
-▲ 71 • 💬 5 • ⭐ 173 • 2d ago
+▲ 71 • 💬 5 • ⭐ 173 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
 
@@ -596,6 +596,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 212 • 💬 5 • ⭐ 7,927 • 28d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding](https://huggingface.co/papers/2512.17532)**
 
 *Jiaqi Tang, Jianmin Chen, Wei Wei et al. (10 authors)*
@@ -605,20 +619,6 @@ A novel framework, Robust-R1, enhances multimodal large language models' robustn
 ▲ 62 • 💬 2 • ⭐ 209 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 212 • 💬 5 • ⭐ 7,893 • 28d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.7k • 🔱 742 • 4h ago
+⭐ 6.7k • 🔱 742 • 5h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 463 • 1h ago
+⭐ 3.6k • 🔱 464 • 13m ago
 
 ---
 
@@ -686,7 +686,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.1k • 🔱 393 • 20d ago
+⭐ 2.1k • 🔱 394 • 20d ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 128 • 1h ago
+⭐ 1.3k • 🔱 129 • 1h ago
 
 ---
 
