@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T07:36:30.714401+00:00'
+updated: '2025-12-26T07:48:24.171378+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 07:36 UTC  
+**Last Updated:** December 26, 2025 at 07:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +0.9%  
-**30d:** -2.5%  
-**90d:** -20.5%  
-**1y:** -5.5%  
+**24h:** +1.4%  
+**7d:** +0.5%  
+**30d:** -2.9%  
+**90d:** -20.7%  
+**1y:** -5.8%  
 
 ---
 
@@ -133,7 +133,7 @@ Words are clearly not a real seed this is for reference in case you wanted to do
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-18h ago
+19h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investopedia • 2d ago
 
 As 2026 approaches, Fundstrat’s internal forecasts reveal a stark contrast to co-founder Tom Lee’s public optimism.
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 

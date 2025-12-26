@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T07:36:30.705867+00:00'
+updated: '2025-12-26T07:48:24.162890+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 07:36 UTC  
+**Last Updated:** December 26, 2025 at 07:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -291,7 +291,7 @@ Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing th
 
 📺 Bigfoot Feed
 
-👁️ 2K • 👍 51 • 💬 13 • ⏱️ 8:04 • 8h ago
+👁️ 2K • 👍 51 • 💬 13 • ⏱️ 8:04 • 9h ago
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.6k • 🔱 733 • 57m ago
+⭐ 6.6k • 🔱 733 • 1h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 212 • 58m ago
+⭐ 3.0k • 🔱 212 • 1h ago
 
 ---
 
