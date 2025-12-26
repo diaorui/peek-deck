@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-25T23:51:48.175987+00:00'
+updated: '2025-12-26T01:02:50.976771+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 25, 2025 at 23:51 UTC  
+**Last Updated:** December 26, 2025 at 01:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,589.87
+### $86,969.34
 
 ---
 
@@ -46,25 +46,25 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.8%  
 **7d:** -1.3%  
-**30d:** -3.9%  
-**90d:** -20.6%  
-**1y:** -9.2%  
+**30d:** -4.6%  
+**90d:** -22.1%  
+**1y:** -7.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.24B
+**Market Cap:** $1738.59B
 Rank #1
 
-**Circulating Supply:** 19,967,103 BTC
+**Circulating Supply:** 19,967,134 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.9%
 
 **All-Time Low:** $67.81
-+128979.8%
++128317.6%
 
 ---
 
@@ -79,33 +79,13 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-3h ago
+4h ago
 
 ---
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-5h ago
-
----
-
-**[“Bitcoin’s days are numbered.” now Holds 671,268 Bitcoin worth $60 billion](https://www.reddit.com/r/Bitcoin/comments/1pvi5ou/bitcoins_days_are_numbered_now_holds_671268/)**
-
 6h ago
-
----
-
-**[india just printed $32 billion out of thin air.](https://www.reddit.com/r/Bitcoin/comments/1pvcn4j/india_just_printed_32_billion_out_of_thin_air/)**
-
-the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
-
-11h ago
-
----
-
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
-
-15h ago
 
 ---
 
@@ -113,13 +93,27 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 Video cred: clusk
 
-1h ago
+3h ago
+
+---
+
+**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
+
+16h ago
 
 ---
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-3h ago
+5h ago
+
+---
+
+**[india just printed $32 billion out of thin air.](https://www.reddit.com/r/Bitcoin/comments/1pvcn4j/india_just_printed_32_billion_out_of_thin_air/)**
+
+the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
+
+12h ago
 
 ---
 
@@ -127,19 +121,27 @@ Video cred: clusk
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-4h ago
+6h ago
 
 ---
 
 **[Cards against humanity vs bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pveu97/cards_against_humanity_vs_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Apparently Bitcoin days were not numbered after all lol](https://www.reddit.com/r/Bitcoin/comments/1pvjsbq/apparently_bitcoin_days_were_not_numbered_after/)**
 
-5h ago
+6h ago
+
+---
+
+**[So much FUD on here these last weeks.](https://www.reddit.com/r/Bitcoin/comments/1pvo64o/so_much_fud_on_here_these_last_weeks/)**
+
+I’ve followed this sub daily for years, and over the last month I’ve noticed a lot more negative, or faintly negative, posts than usual. What stands out to me is a possible correlation between the sentiment during the 80-90k pullback and the sentiment now. During the pullback, it felt like the dominant narrative was that cycles always repeat, bitcoin winter was starting, and BTC would “inevitably” crash to 40 to 50k. A lot of people seemed confident selling to buy back lower, and anyone suggesting BTC might hold up better than that got heavily pushed back on. Now BTC is holding steady around 85 to 90k, and this may very well be the local bottom, and the sub still feels unusually negative relative to what price is doing. My take is that some of today’s negativity might be connected to that earlier consensus. People who sold expecting 40 to 50k may be frustrated it hasn’t happened, and that frustration is showing up as bearish posting, doom takes, and generally sour sentiment. I’m genuinely curious if others see the same correlation, or if you think the negativity is coming from something else.
+
+2h ago
 
 ---
 
@@ -151,15 +153,39 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook](https://ts2.tech/en/bitcoin-price-today-dec-25-2025-btc-holds-near-88000-as-etf-outflows-thin-holiday-liquidity-and-a-record-options-expiry-shape-the-outlook/)**
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
-Bitcoin Price Today (Dec 25, 2025): BTC Holds Near $88,000 as ETF Outflows, Thin Holiday Liquidity, and a Record Options Expiry Shape the Outlook - TechStock²
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-ts2.tech • 6h ago
+The Motley Fool • 4h ago
+
+---
+
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
+
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
+
+BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+
+CoinDesk • 20h ago
 
 ---
 
@@ -171,29 +197,13 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
-
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
-
-The Motley Fool • 3h ago
-
----
-
-**[We Asked ChatGPT Where Bitcoin Will Be in 30 Christmases — The Answer May Shock You](https://finance.yahoo.com/news/asked-chatgpt-where-bitcoin-30-160715236.html)**
-
-In 30 Christmases' time, Bitcoin's price could be something unrecognisable. Historical analysis points to multi-cycle bullish momentum. Grok and ChatGPT have offered a skeptical, humorous ...
-
-Yahoo Finance • 7h ago
-
----
-
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 5h ago
+The Block • 7h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdjVS6adEpAuwByE2gAK3XtQtmbP88tBSHw0d-iptGyoPOta35Oc7-o&gaa_ts=694dcb26&gaa_sig=JP9vcPrVfiuhaH5VqQD1v5z5bX_Sn9k6iCLQqGdfYvV2hi3MIf_RZa-VJDF8gDlCov4invbB0YNOJc247oF9yg%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdNeFeFFFNfVw43pZvf3JN-EGdg_Jp5jSvHfHu8XmSYWA7-GC9O_Yyy&gaa_ts=694de228&gaa_sig=0DlUCpkEcImIWp4lxqnLNY0HFe3w-KSzdBbttYDiPlH9xKGl4LlQe3eHUtnD5zRdbqcwgpPz078nfq7Xocek8Q%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -201,7 +211,7 @@ The Wall Street Journal • 1d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 6h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -210,14 +220,6 @@ thestreet.com • 6h ago
 Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
 
 Investopedia • 2d ago
-
----
-
-**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 23h ago
 
 ---
 
@@ -233,7 +235,7 @@ KITCO • 23h ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 19h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 20h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -241,7 +243,7 @@ KITCO • 23h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 7h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 8h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -287,23 +289,13 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
-**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
-
-Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 209 • ⏱️ 37:34 • 1d ago
-
----
-
 **[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
 
 Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
 
 📺 Simply Bitcoin
 
-👁️ 2K • 👍 171 • 💬 15 • ⏱️ 4:31 • 3h ago
+👁️ 4K • 👍 265 • 💬 32 • ⏱️ 4:31 • 5h ago
 
 ---
 
@@ -313,27 +305,37 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 293 • 💬 11 • ⏱️ 19:55 • 7h ago
+👁️ 8K • 👍 340 • 💬 12 • ⏱️ 19:55 • 8h ago
 
 ---
 
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=_vaYHR3oPzg)**
 
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Dr Heather MD
+
+👁️ 3K • 👍 3K • 47m ago
+
+---
+
+**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+
+Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 403 • 💬 70 • ⏱️ 1:12 • 1d ago
+👁️ 47K • 👍 2K • 💬 215 • ⏱️ 37:34 • 1d ago
 
 ---
 
-**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
 
-2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
 
-📺 Simply Bitcoin
+📺 Thomas Kralow
 
-👁️ 29K • 👍 2K • 💬 205 • ⏱️ 13:26 • 2d ago
+👁️ 23K • 👍 3K • 💬 81 • ⏱️ 6:23 • 1d ago
 
 ---
 
@@ -343,47 +345,47 @@ Are institutions setting up the final Bitcoin trap before a massive move? This F
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 340 • 💬 37 • ⏱️ 7:13 • 23h ago
+👁️ 7K • 👍 350 • 💬 37 • ⏱️ 7:13 • 1d ago
 
 ---
 
-**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
+**[why i&#39;m selling all my bitcoin at $87,000](https://www.youtube.com/watch?v=luVaCx4huEM)**
 
-Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
+after 10 years, i am finally moving on from bitcoin and focusing on something else. also HO HO HO... santa here. i made julian do ...
 
-📺 CNBC Television
+📺 The Exit Manual
 
-👁️ 23K • 👍 306 • 💬 202 • ⏱️ 8:19 • 1d ago
-
----
-
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
-
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 108K • 👍 4K • 💬 450 • ⏱️ 20:46 • 2d ago
+👁️ 20K • 👍 2K • 💬 362 • ⏱️ 9:35 • 10h ago
 
 ---
 
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+**[BITCOIN DUMP WITHIN 24 HOURS !!!!](https://www.youtube.com/watch?v=KK9ztKo1WD4)**
+
+BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward *WEEX is available in ALL COUNTRIES ...
+
+📺 The Moon Show
+
+👁️ 11K • 👍 754 • 💬 98 • ⏱️ 5:03 • 15h ago
+
+---
+
+**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
+
+2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 173 • ⏱️ 13:26 • 2d ago
+
+---
+
+**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
 
 Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 3K • 💬 458 • ⏱️ 10:51 • 2d ago
-
----
-
-**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
-
-Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
-
-📺 Swan Bitcoin
-
-👁️ 43K • 👍 2K • 💬 223 • ⏱️ 20:00 • 2d ago
+👁️ 18K • 👍 419 • 💬 70 • ⏱️ 1:12 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-25T23:51:48.185438+00:00'
+updated: '2025-12-26T01:02:50.985979+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 25, 2025 at 23:51 UTC  
+**Last Updated:** December 26, 2025 at 01:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-9h ago
+10h ago
 
 ---
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -50,13 +50,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-3h ago
+4h ago
 
 ---
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -68,19 +68,19 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 ---
 
-**[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
-
-Source: https://x.com/M5Stack/status/2003453052276343161?s=20
-
-22h ago
-
----
-
 **[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
 
 Wishing everyone a happy Christmas holiday.
 
-12h ago
+13h ago
+
+---
+
+**[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
+
+Source: https://x.com/M5Stack/status/2003453052276343161?s=20
+
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Wishing everyone a happy Christmas holiday.
 
 Hello everyone I am an in enrolled mechatronics engineer I want to share what I learn and how others can learn it, and for them to learn and share tutorials as well (creating a learning environment). I initially considered creating a YouTube channel, but I don't see enough engagement. Therefore, I'm considering creating a forum, and I've heard about the XenForo script. I want the platform to be primarily for Arab engineers, given the limited availability of Arabic educational content. So, I'd like to hear your advice and suggestions.
 
-1h ago
+2h ago
 
 ---
 
@@ -96,15 +96,15 @@ Hello everyone I am an in enrolled mechatronics engineer I want to share what I 
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-8h ago
+9h ago
 
 ---
 
-**[UBTech secures $237M fenglong partnership to fortify humanoid robot supply chain.](https://www.reddit.com/r/robotics/comments/1pvl9n1/ubtech_secures_237m_fenglong_partnership_to/)**
+**[Mon chat mangeait le sapin… du coup j'ai construis ca :](https://www.reddit.com/r/robotics/comments/1pvg7ud/mon_chat_mangeait_le_sapin_du_coup_jai_construis/)**
 
-Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
+Chaque année, mon chat Shadow attaque le sapin 🎄🐱 Cette fois, au lieu de râler, j’ai décidé de sur-réagir et de créer un petit système automatique à eau contrôlé par une IA 😅 C’est totalement inoffensif (juste de l’eau), et surtout un bon prétexte pour bricoler, apprendre et m’amuser avec un projet un peu absurde. Si jamais cela interesse J'en ai fais une vidéo : https://youtu.be/0GvD7Vop4Js?si=3KPOL5hYyt76Gule Joyeux noel !
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 4h ago
+9h ago
 
 ---
 
@@ -120,14 +120,6 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
@@ -136,9 +128,17 @@ Earth.com • 1d ago
 
 ---
 
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 3h ago
+Tech Xplore • 4h ago
 
 ---
 
@@ -146,7 +146,15 @@ Tech Xplore • 3h ago
 
 From water-skipping robots to elephant-skin inspired cooling materials, engineers have continued to find inspiration in nature in order to move technology forward for humans.
 
-New Atlas • 23h ago
+New Atlas • 1d ago
+
+---
+
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 12h ago
 
 ---
 
@@ -164,6 +172,14 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
+**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
+
+Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
+
+South China Morning Post • 2d ago
+
+---
+
 **[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
 The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
@@ -172,25 +188,19 @@ The Daily Beast • 2d ago
 
 ---
 
-**[Elon Musk Calls Tesla Optimus Rival's Dancing Robots 'Impressive' As Unitree Machines Perform Flips, Acrobatic Stunts](https://finance.yahoo.com/news/elon-musk-calls-tesla-optimus-143050216.html)**
-
-Elon Musk expressed admiration for the performance of Tesla Inc.’s (NASDAQ:TSLA) humanoid robot Optimus’s rival and Chinese Unitree robots executing flips and intricate dance routines at a high-profile concert. Unitree Robots Wow Audiences with Acrobatics At a recent concert in Chengdu, Chinese-American singer Wang Leehom took the stage alongside advanced Unitree robots, which performed complex acrobatics including Webster flips and synchronized dance moves. Tech commentator Rohan Paul shared a
-
-Yahoo Finance • 3d ago
-
----
-
-**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
-
-Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
-
-The Robot Report • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 37K • 👍 1K • 💬 279 • ⏱️ 11:02 • 3d ago
+
+---
 
 **[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
 
@@ -198,7 +208,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 52K • 👍 847 • 💬 97 • ⏱️ 2:08:46 • 5d ago
+👁️ 52K • 👍 849 • 💬 97 • ⏱️ 2:08:46 • 6d ago
 
 ---
 
@@ -208,7 +218,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 29K • 👍 483 • 💬 63 • ⏱️ 13:55 • 2d ago
+👁️ 30K • 👍 500 • 💬 70 • ⏱️ 13:55 • 2d ago
+
+---
+
+**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
+
+Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
+
+📺 Ai Hypex
+
+👁️ 1.3M • 👍 7K • 💬 14 • ⏱️ 0:10 • 1d ago
 
 ---
 
@@ -222,23 +242,13 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[INSANE Al Curling Robot in Dubai😱💇‍♀️Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=1VB6shCdizw)**
-
-Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
-
-📺 Ai Hypex
-
-👁️ 1.3M • 👍 6K • 💬 14 • ⏱️ 0:10 • 1d ago
-
----
-
 **[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
 She Bought Two Robots    #shorts#trending.
 
 📺 Facto_Satish
 
-👁️ 70K • 💬 4 • ⏱️ 0:27 • 20h ago
+👁️ 70K • 💬 4 • ⏱️ 0:27 • 21h ago
 
 ---
 
@@ -248,17 +258,7 @@ This ultra-realistic humanoid head demonstrates how far robotics and AI have com
 
 📺 Deepen
 
-👁️ 46K • 👍 263 • 💬 13 • ⏱️ 0:08 • 4d ago
-
----
-
-**[The EASIEST Titan to play in War Robots… NEW WEAPONS!](https://www.youtube.com/watch?v=kMVREd5gVFQ)**
-
-War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #warrobotsgameplay #wr My ...
-
-📺 Manni-Gaming
-
-👁️ 4K • 👍 222 • 💬 38 • ⏱️ 12:08 • 7h ago
+👁️ 47K • 👍 271 • 💬 13 • ⏱️ 0:08 • 4d ago
 
 ---
 
@@ -268,7 +268,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 30K • 👍 2K • 💬 2K • ⏱️ 9:57 • 14h ago
+👁️ 33K • 👍 2K • 💬 2K • ⏱️ 9:57 • 15h ago
 
 ---
 
@@ -278,17 +278,17 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 212K • 👍 3K • 💬 727 • ⏱️ 2:23 • 5d ago
+👁️ 216K • 👍 3K • 💬 742 • ⏱️ 2:23 • 5d ago
 
 ---
 
-**[Ukraine’s Mobile Drone Base!](https://www.youtube.com/watch?v=zdZObV2t01U)**
+**[The EASIEST Titan to play in War Robots… NEW WEAPONS!](https://www.youtube.com/watch?v=kMVREd5gVFQ)**
 
-Meet the Gnom—Ukraine's innovative Unmanned Ground Vehicle (UGV) changing the frontline! This stealthy robot carries and ...
+War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #warrobotsgameplay #wr My ...
 
-📺 Defense Digest
+📺 Manni-Gaming
 
-👁️ 3K • 👍 115 • ⏱️ 0:22 • 6h ago
+👁️ 5K • 👍 268 • 💬 41 • ⏱️ 12:08 • 8h ago
 
 ---
 
