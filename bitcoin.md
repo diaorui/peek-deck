@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T21:55:17.857303+00:00'
+updated: '2025-12-26T22:20:52.396647+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 21:55 UTC  
+**Last Updated:** December 26, 2025 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,745.56
+### $87,501.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** +0.2%  
 **7d:** -0.9%  
 **30d:** -4.2%  
 **90d:** -21.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.51B
+**Market Cap:** $1746.87B
 Rank #1
 
-**Circulating Supply:** 19,967,534 BTC
+**Circulating Supply:** 19,967,546 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128845.6%
++128844.1%
 
 ---
 
@@ -89,11 +89,19 @@ Rank #1
 
 ---
 
+**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
+
+Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
+
+21m ago
+
+---
+
 **[This Morning’s Liquidation Hunt: Leveraged Tourists Took 98% of the Damage While Long-Term Coins were Silent this Morning.](https://www.reddit.com/r/Bitcoin/comments/1pwbvmb/this_mornings_liquidation_hunt_leveraged_tourists/)**
 
 The chart is from my full node, showing realized PnL by UTXO age band. This morning’s liquidation cascade added up to roughly $416M in realized losses, and almost all of it came from coins held 3–12 months. In other words, this move was not long-term HODLers dumping; it was the usual crowd of recent buyers running 3–12 month coins on leverage and getting wiped out when price was pushed into low-liquidity levels. Older coins (1.5+ years, multi-year) barely moved on-chain. These “liquidation hunts” will keep happening as long as people insist on leveraging short-term positions... there’s no real structural reason for price to stay pinned down here beyond providing fresh liquidation fuel. Same story as always: HODLers sit still, and leverage tourists donate their stack.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +113,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 **[Keep calm & stack sats](https://www.reddit.com/r/Bitcoin/comments/1pwdnfr/keep_calm_stack_sats/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,23 +133,13 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
-9h ago
+10h ago
 
 ---
 
-**[The Rise of On-Chain Neobanks and Their Potential Impact on Finance](https://www.reddit.com/r/Bitcoin/comments/1pwfd9w/the_rise_of_onchain_neobanks_and_their_potential/)**
+**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-Observing macro trends: the neobank market could grow from $149B in 2024 to $4.4T by 2034, with much of that growth coming from on-chain banking. On-chain neobanks run their core systems on blockchains. This enables 24/7 payments, faster cross-border transfers, and fully software-based operations, in contrast to traditional back-office-dependent systems. Adoption of these systems could transform banking itself and serve as a new base layer for global digital finance. What are your thoughts on the future of on-chain neobanks? Will they complement or compete with traditional financial infrastructure?
-
-34m ago
-
----
-
-**[(ASST)](https://www.reddit.com/r/Bitcoin/comments/1pwedo2/asst/)**
-
-https://www.binance.com/en/square/post/12-23-2025-1480-strive-34099004593034
-
-1h ago
+1d ago
 
 ---
 
@@ -157,11 +155,25 @@ Bloomberg.com • 8h ago
 
 ---
 
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+The Block • 4h ago
 
-CoinDesk • 5h ago
+---
+
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin nears breakout from the $85,000-$90,000 range as options expiry looms](https://finance.yahoo.com/news/bitcoin-nears-breakout-85-000-100214139.html)**
+
+A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -173,11 +185,25 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[5 States Where Bitcoin Is Most Popular — and 5 Where It’s Not](https://ca.finance.yahoo.com/news/5-states-where-bitcoin-most-220517857.html)**
+
+Find out which U.S. states lead in Bitcoin adoption, and which lag behind. Find out where Americans are buying crypto the most.
+
+Yahoo! Finance Canada • 15m ago
+
+---
+
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
+
+thestreet.com • 6h ago
 
 ---
 
@@ -189,39 +215,9 @@ KITCO • 8h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-The Block • 4h ago
-
----
-
-**[Scam artist convinces resident to buy $18,000 in bitcoin: Seven Hills Police Blotter](https://www.cleveland.com/community/2025/12/scam-artist-convinces-resident-to-buy-18000-in-bitcoin-seven-hills-police-blotter.html)**
-
-In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
-
-Cleveland.com • 8h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcD-dD0yClT0F4ELxdhMMqp0DpqrIKka1ySKTEEmfVVwO8tLd9FkOib&gaa_ts=694f0535&gaa_sig=8Me9MGCgZOXE8dtl_oUjLiJIe6Yx5-JrhcPCZ8GT7mhTguhhiifZ0gOtFhLATYEtElD9cvNFXLCWv9Hcpp2RPA%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[Death Cross Threat Returns for Bitcoin, and $67,000 Is Not Meme Number Anymore](https://www.tradingview.com/news/u_today:6be5ac36d094b:0-death-cross-threat-returns-for-bitcoin-and-67-000-is-not-meme-number-anymore/)**
-
-Bitcoin just got the kind of chart setup that makes even confident dip-buyers check their leverage twice today. On the weekly BINANCE:BTCUSDT chart, the price is around $88,690 and the market participants are better to stare at a death-cross setup with about two days left in the current candle.This…
-
-TradingView — Track All Markets • 6h ago
-
----
-
-**[The Bitcoin "hard asset" narrative is breaking as silver hits parabolic peaks without taking crypto along for the ride](https://cryptoslate.com/bitcoin-price-lags-silver-gold-all-time-high-2025/)**
-
-Silver hit $72 on industrial demand while Bitcoin remained stuck, and the divergence tells what narrative the market is buying.
-
-CryptoSlate • 1d ago
+Forbes • 10h ago
 
 ---
 
@@ -245,7 +241,7 @@ CryptoSlate • 1d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 2h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 3h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -291,7 +287,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 1 • 💬 0 • 1h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 1 • 💬 0 • 2h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -313,7 +309,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 20K • 👍 738 • 💬 54 • ⏱️ 15:49 • 23h ago
+👁️ 20K • 👍 738 • 💬 54 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -333,7 +329,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 3K • 👍 29 • 💬 52 • ⏱️ 1:52 • 6h ago
+👁️ 3K • 👍 29 • 💬 52 • ⏱️ 1:52 • 7h ago
 
 ---
 
@@ -383,7 +379,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 7K • 👍 720 • 💬 79 • ⏱️ 9:31 • 4h ago
+👁️ 7K • 👍 720 • 💬 79 • ⏱️ 9:31 • 5h ago
 
 ---
 
@@ -403,7 +399,7 @@ On today's episode of CNBC Crypto World, Matt Hougan, CIO of Bitwise Asset Manag
 
 📺 CNBC Television
 
-👁️ 2K • 👍 68 • 💬 66 • ⏱️ 19:19 • 1h ago
+👁️ 2K • 👍 68 • 💬 66 • ⏱️ 19:19 • 2h ago
 
 ---
 
