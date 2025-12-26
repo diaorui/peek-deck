@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T11:42:15.043281+00:00'
+updated: '2025-12-26T11:53:39.738772+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 11:42 UTC  
+**Last Updated:** December 26, 2025 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -125,7 +125,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 35m ago
+The Guardian • 46m ago
 
 ---
 
@@ -147,13 +147,13 @@ Business Insider • 1h ago
 
 In 2025, too many people were making too much money to slow down.
 
-Foreign Policy • 40m ago
+Foreign Policy • 51m ago
 
 ---
 
 **[Colin Kaepernick, Md. school district team to push more students to use AI](https://www.washingtonpost.com/education/2025/12/26/colin-kaepernick-ai-education-prince-georges-maryland/)**
 
-The Washington Post • 39m ago
+The Washington Post • 50m ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 464 • 13m ago
+⭐ 3.6k • 🔱 464 • 24m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 213 • 3h ago
+⭐ 3.1k • 🔱 213 • 4h ago
 
 ---
 
