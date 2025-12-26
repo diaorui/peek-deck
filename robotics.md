@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T04:43:19.164183+00:00'
+updated: '2025-12-26T05:00:45.675417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 04:43 UTC  
+**Last Updated:** December 26, 2025 at 05:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-44m ago
+1h ago
 
 ---
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 8h ago
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 9h ago
 
 ---
 
@@ -128,7 +128,7 @@ interestingengineering.com • 1d ago
 
 **[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdLy5dWQyiys3dEsGmxgs_8DibpzDW2kStsLUcwqvm8lNIX1pvnU8gB&gaa_ts=694e15d3&gaa_sig=5CZV3tuolJtUzHLK0mdsC_i9zNckTcFcr6P38sjayWQdMd8jrkpC_XhwvXVs2bKPtaERvv11gQ4bUW6RqHhLJg%3D%3D)**
 
-The Wall Street Journal • 2h ago
+The Wall Street Journal • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ Earth.com • 1d ago
 
 : Investment and interest have outpaced technology and society
 
-theregister.com • 15h ago
+theregister.com • 16h ago
 
 ---
 

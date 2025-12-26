@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T04:43:19.160971+00:00'
+updated: '2025-12-26T05:00:45.672214+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 04:43 UTC  
+**Last Updated:** December 26, 2025 at 05:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -0.5%  
-**30d:** -1.7%  
-**90d:** -28.4%  
-**1y:** -11.0%  
+**24h:** +1.2%  
+**7d:** -0.1%  
+**30d:** -1.2%  
+**90d:** -28.1%  
+**1y:** -10.7%  
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 2d ago
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -220,7 +220,7 @@ Decrypt • 2d ago
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-Coinpedia • 9h ago
+Coinpedia • 10h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 7K • 👍 268 • 💬 69 • ⏱️ 16:26 • 10h ago
+👁️ 7K • 👍 268 • 💬 69 • ⏱️ 16:26 • 11h ago
 
 ---
 
@@ -264,7 +264,7 @@ BMNR vs Every ETH ETF: Who Really Owns Ethereum? BitMine Immersion ($BMNR) has o
 
 📺 Wall Street Stockcast
 
-👁️ 244 • 👍 7 • 💬 1 • ⏱️ 7:55 • 15h ago
+👁️ 244 • 👍 7 • 💬 1 • ⏱️ 7:55 • 16h ago
 
 ---
 

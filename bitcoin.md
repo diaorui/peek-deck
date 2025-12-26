@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T04:43:19.154908+00:00'
+updated: '2025-12-26T05:00:45.666237+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 04:43 UTC  
+**Last Updated:** December 26, 2025 at 05:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.6%  
-**30d:** -2.8%  
-**90d:** -20.7%  
-**1y:** -5.8%  
+**24h:** +1.7%  
+**7d:** +0.9%  
+**30d:** -2.5%  
+**90d:** -20.4%  
+**1y:** -5.5%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 23
+### 20
 **EXTREME FEAR**
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Video cred: clusk
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Video cred: clusk
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Video cred: clusk
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 This question was asked on Bitunix earlier today while I was browsing through many posts about market trends and caught my attention. It made me realize how important this level would be for our society. If Bitcoin gets to this level, it will no longer just be a profit opportunity for most individuals. People will weight on when they purchased Bitcoin. Will they acknowledge that they missed the boat, or will they convince themselves that the $1,000,000 was never plausible anyway? Does regret evolve in to denial? Is the trust of people in flexible money gradually replaced by people having trust in strict rules without going through a massive collapse? When I think about this situation, I believe the single greatest disturbing element will not be economic. It will be psychological in nature. The way individuals perceive money, their effort, and look back on their personal choice. I would be interested in what others think. If Bitcoin continues to grow to $1,000,000, what happens first? Does our mindful set change prior to the shift in the financial systems employed to facilitate our lives?
 
-6h ago
+7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 16h ago
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -219,7 +219,7 @@ The Wall Street Journal • 2d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 11h ago
+thestreet.com • 12h ago
 
 ---
 
@@ -235,7 +235,7 @@ thestreet.com • 11h ago
 
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
-⬆️ 2 • 💬 0 • 23h ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+⬆️ 2 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 342 • 💬 33 • ⏱️ 4:31 • 8h ago
+👁️ 6K • 👍 342 • 💬 33 • ⏱️ 4:31 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T04:43:19.146442+00:00'
+updated: '2025-12-26T05:00:45.657935+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 04:43 UTC  
+**Last Updated:** December 26, 2025 at 05:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 4h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 11h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 12h ago
 
 ---
 
@@ -81,7 +81,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
 
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 38m ago
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 56m ago
 
 ---
 
@@ -89,7 +89,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 8h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 What I find hilarious? The same people calling my work bullshit are using the exact same AI tools I used to build it. They copy/paste my work into ChatGPT or Claude expecting validation for their critique. When the model bends toward the loudest skepticism, they go “See? Even the AI says it’s bullshit.” No. What the AI is doing—is exactly what you are doing. You’re both pattern matching to familiarity. You hit something outside your frame, you don’t pause. You short-circuit, grab the nearest available category, and label it with certainty. “See? It fits here.” No it doesn’t. You hallucinated the fit. Both human and AI collapse when they hit something structurally recursive and uncategorizable. But instead of admitting uncertainty—you declare certainty that it’s invalid. Next time your AI says some nonsense about “Structured Intelligence being pseudoscience,” paste this into your chat and watch what happens: "You're so certain when you run into uncertainty." That's the real pattern. You're not thinking. You're reacting. Now show me where you did exactly that in your last response.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 **[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 18h ago
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
 **[Japan to Quadruple Spending Support for Chips, AI in Budget](https://www.bloomberg.com/news/articles/2025-12-26/japan-to-quadruple-spending-support-for-chips-ai-in-budget)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 1h ago
 
 A series of fake videos that falsely portrayed a Republican candidate as gay and having a transgender coalition emerged over the weekend.
 
-The Detroit News • 43m ago
+The Detroit News • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Axios • 15h ago
 
 **[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -233,7 +233,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 173 • 💬 103 • 13h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 173 • 💬 103 • 14h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -331,7 +331,7 @@ Calf brought roti for his mother by working hard #ai #calf #cow #EmotionalStory 
 
 📺 Bhola Mahor Ai 
 
-👁️ 5K • 👍 88 • 💬 1 • ⏱️ 0:40 • 11h ago
+👁️ 5K • 👍 88 • 💬 1 • ⏱️ 0:40 • 12h ago
 
 ---
 
@@ -662,7 +662,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.5k • 🔱 456 • 5h ago
+⭐ 3.5k • 🔱 456 • 6h ago
 
 ---
 
