@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T19:19:12.547079+00:00'
+updated: '2025-12-26T19:30:58.225722+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 19:19 UTC  
+**Last Updated:** December 26, 2025 at 19:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -139,7 +139,7 @@ The Guardian • 5h ago
 
 Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -167,13 +167,13 @@ Financial Times • 14h ago
 
 **[Meet the newly minted AI billionaires of 2025](https://qz.com/ai-2025-billionaires-elon-musk-startup-founders)**
 
-qz.com • 17m ago
+qz.com • 29m ago
 
 ---
 
 **[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqfbAYvXzQ68kyMHToZqOGtN1rwbJH96u8iGBKiPLT6jUfZWdRDjWRUE&gaa_ts=694ee316&gaa_sig=8ZSXvMZ9WJsWKKSVJwMlsIhPqH0PcTCyBdSP33gZAswRYgNYK5qFLgQpWGXawAQfdYRPWzCLBoGvQRhK2ndFjQ%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -273,7 +273,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 38 • 💬 11 • 36m ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 38 • 💬 11 • 48m ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -297,7 +297,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 19h ago
+👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 20h ago
 
 ---
 
@@ -307,7 +307,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 19h ago
+👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 20h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 472 • 57m ago
+⭐ 3.7k • 🔱 472 • 1h ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 133 • 8h ago
+⭐ 1.3k • 🔱 133 • 9h ago
 
 ---
 

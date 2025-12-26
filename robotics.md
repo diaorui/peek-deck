@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T19:19:12.565138+00:00'
+updated: '2025-12-26T19:30:58.243345+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 19:19 UTC  
+**Last Updated:** December 26, 2025 at 19:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-9h ago
+10h ago
 
 ---
 
@@ -162,7 +162,7 @@ New Atlas • 2d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 7h ago
+Tom's Hardware • 8h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 19h ago
+👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 35K • 👍 939 • 💬 229 • ⏱️ 21:33 • 18h ago
+👁️ 35K • 👍 939 • 💬 229 • ⏱️ 21:33 • 19h ago
 
 ---
 

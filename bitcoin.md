@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T19:19:12.555844+00:00'
+updated: '2025-12-26T19:30:58.234188+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 19:19 UTC  
+**Last Updated:** December 26, 2025 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,313.97
+### $87,398.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -1.1%  
-**30d:** -4.4%  
-**90d:** -22.0%  
-**1y:** -7.3%  
+**24h:** -0.9%  
+**7d:** -1.3%  
+**30d:** -4.6%  
+**90d:** -22.2%  
+**1y:** -7.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -97,19 +97,19 @@ Rank #1
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -129,7 +129,7 @@ give your opinion
 
 **[Problems 2026](https://www.reddit.com/r/Bitcoin/comments/1pwc5jm/problems_2026/)**
 
-12m ago
+24m ago
 
 ---
 
@@ -147,7 +147,7 @@ give your opinion
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1d ago
 
 As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
 
-Yahoo Finance • 9m ago
+Yahoo Finance • 20m ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 9m ago
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo! Finance Canada • 38m ago
+Yahoo! Finance Canada • 50m ago
 
 ---
 
@@ -239,7 +239,7 @@ KITCO • 8h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 1 • 22m ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 1 • 34m ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -361,7 +361,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 328 • 💬 103 • ⏱️ 26:31 • 10h ago
+👁️ 6K • 👍 328 • 💬 103 • ⏱️ 26:31 • 11h ago
 
 ---
 
