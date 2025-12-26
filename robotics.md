@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T07:59:16.831046+00:00'
+updated: '2025-12-26T08:38:35.473543+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 07:59 UTC  
+**Last Updated:** December 26, 2025 at 08:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-11h ago
+12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-16h ago
+17h ago
 
 ---
 
@@ -136,7 +136,7 @@ Earth.com • 1d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 10h ago
+Tech Xplore • 11h ago
 
 ---
 
@@ -162,12 +162,6 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.limaohio.com/top-stories/2025/12/25/how-agility-robotics-uses-artificial-intelligence-from-their-humanoid-digit-to-everyday-workflow/)**
-
-LimaOhio.com • 10h ago
-
----
-
 **[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
 
 Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
@@ -184,6 +178,14 @@ The Daily Beast • 2d ago
 
 ---
 
+**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+
+Fortune • 10d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 38K • 👍 816 • 💬 110 • ⏱️ 12:51 • 8h ago
+👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 9h ago
 
 ---
 
@@ -204,27 +206,17 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 1K • 👍 64 • 💬 3 • ⏱️ 1:30 • 2h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 1:30 • 3h ago
 
 ---
 
-**[&quot;This Is NOT Artificial Intelligence. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+**[&quot;This Isn&#39;t AI Anymore. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
 
 A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
 
 📺 Beeyond Ideas
 
-👁️ 8K • 👍 391 • 💬 91 • ⏱️ 21:33 • 7h ago
-
----
-
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 209K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 15K • 👍 528 • 💬 131 • ⏱️ 21:33 • 8h ago
 
 ---
 
@@ -234,7 +226,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 33K • 👍 524 • 💬 82 • ⏱️ 13:55 • 2d ago
+👁️ 34K • 👍 537 • 💬 84 • ⏱️ 13:55 • 2d ago
 
 ---
 
@@ -244,17 +236,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 38K • 👍 1K • 💬 283 • ⏱️ 11:02 • 3d ago
-
----
-
-**[An exclusive look inside China&#39;s humanoid robot mass-production factory in Shanghai](https://www.youtube.com/watch?v=d17f_5dVW7I)**
-
-China's leading robotics company, AgiBot, recently unveiled its 5000th mass-produced humanoid robot. How are humanoid ...
-
-📺 New China TV
-
-👁️ 70K • 👍 1K • 💬 299 • ⏱️ 31:49 • 7d ago
+👁️ 38K • 👍 1K • 💬 284 • ⏱️ 11:02 • 3d ago
 
 ---
 
@@ -264,7 +246,17 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 53K • 👍 854 • 💬 98 • ⏱️ 2:08:46 • 6d ago
+👁️ 54K • 👍 855 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+
+---
+
+**[Customers fill in to Beijing&#39;s new consumer robot shopping centre • FRANCE 24 English](https://www.youtube.com/watch?v=66MjAQLUjEg)**
+
+Are you stuck at the last minute for a Christmas gift? Wondering how to “wow” your child when they open their presents? Well ...
+
+📺 FRANCE 24 English
+
+👁️ 15K • 👍 195 • 💬 47 • ⏱️ 2:09 • 6d ago
 
 ---
 
@@ -274,7 +266,7 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 39K • 👍 660 • 💬 155 • ⏱️ 5:25 • 4d ago
+👁️ 39K • 👍 661 • 💬 155 • ⏱️ 5:25 • 4d ago
 
 ---
 
@@ -284,7 +276,17 @@ Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Ai Hypex
 
-👁️ 1.4M • 👍 7K • 💬 14 • ⏱️ 0:10 • 1d ago
+👁️ 1.4M • 👍 8K • 💬 14 • ⏱️ 0:10 • 1d ago
+
+---
+
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
+
+She Bought Two Robots    #shorts#trending.
+
+📺 Facto_Satish
+
+👁️ 72K • 💬 4 • ⏱️ 0:27 • 1d ago
 
 ---
 

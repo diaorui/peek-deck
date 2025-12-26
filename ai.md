@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T07:59:16.812777+00:00'
+updated: '2025-12-26T08:38:35.455692+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 07:59 UTC  
+**Last Updated:** December 26, 2025 at 08:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,15 @@ AI news, discussions, and developments
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
 
-🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 17h ago
+🔗 [The Independent](https://www.independent.co.uk/tech/elon-musk-grok-ai-military-pentagon-b2889954.html) • 18h ago
 
 ---
 
-**[[P] Zahaviel Structured Intelligence: A Recursive Cognitive Operating System for Externalized Thought (Paper)](https://www.reddit.com/r/artificial/comments/1pvq9ri/p_zahaviel_structured_intelligence_a_recursive/)**
+**[Is there a music ai tool that can recreate existing songs in different genres (cover songs) preferably free?](https://www.reddit.com/r/artificial/comments/1pvsvmx/is_there_a_music_ai_tool_that_can_recreate/)**
 
-We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
+trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 8h ago
-
----
-
-**[EngineAI T800: humanoid robot performs incredible martial arts moves](https://www.reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/)**
-
-The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
-
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 3h ago
+6h ago
 
 ---
 
@@ -69,19 +61,19 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 ---
 
-**[Is there a music ai tool that can recreate existing songs in different genres (cover songs) preferably free?](https://www.reddit.com/r/artificial/comments/1pvsvmx/is_there_a_music_ai_tool_that_can_recreate/)**
+**[EngineAI T800: humanoid robot performs incredible martial arts moves](https://www.reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/)**
 
-trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
+The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
 
-5h ago
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 4h ago
 
 ---
 
-**[I connected Claude AI to game memory using MCP <> CheatEngine](https://www.reddit.com/r/artificial/comments/1pvwz4u/i_connected_claude_ai_to_game_memory_using_mcp/)**
+**[[P] Zahaviel Structured Intelligence: A Recursive Cognitive Operating System for Externalized Thought (Paper)](https://www.reddit.com/r/artificial/comments/1pvq9ri/p_zahaviel_structured_intelligence_a_recursive/)**
 
-Decided to make a little experiment to see what would happen if I connected an AI agent to cheat engine tools, and this thing debugged the entire packet decryption hook in a few minutes, insane. If I was able to do it with a little game and CE, I wonder what the chinese/russians are doing right now to reverse engineer critical infra and software... The MCP bridge above can be used to easily create mods, tweaks or security audits of almost any program or game, as long as CE gets access to clean memory. Threw it on github if anyone wants to play with it. For now it's "read-only" and can't write to memory.
+We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-2h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 8h ago
 
 ---
 
@@ -97,7 +89,7 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-13h ago
+14h ago
 
 ---
 
@@ -117,6 +109,14 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
+**[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
+
+Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -125,25 +125,21 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
-**[How To Rethink Your Job As AI Agents Reshape Work](https://www.forbes.com/sites/bernardmarr/2025/12/26/how-to-rethink-your-job-as-ai-agents-reshape-work/)**
+**[Prediction: This Will Be 2026's Top-Performing Artificial Intelligence Stock](https://www.fool.com/investing/2025/12/26/prediction-this-will-be-2026s-top-performing-artif/)**
 
-Forbes • 1h ago
+Nvidia is still one of the best AI stocks available.
 
----
-
-**[Will AI Kill Jobs and Weaken Social Security? It Depends.](https://www.barrons.com/articles/social-security-benefits-fund-ai-584a1203?gaa_at=eafs&gaa_n=AWEtsqe8jA0vGVcrZsTyIQsJ1TMqD1ubnfIJXS6-IY3OMVtJ34TmOaK9Xr9_&gaa_ts=694e3e6b&gaa_sig=UhKw1oJAcP89GdDQXCHpiBsCQTj0pNWmPxFMpHOOdqskIP-J3a4K49FQ4zBa7w4A7AMcWOVQN53drp9hoerl-A%3D%3D)**
-
-Barron's • 1h ago
+The Motley Fool • 8m ago
 
 ---
 
@@ -151,7 +147,7 @@ Barron's • 1h ago
 
 Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -163,12 +159,6 @@ CNBC • 1d ago
 
 ---
 
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
 
 World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
@@ -177,17 +167,31 @@ Financial Times • 1d ago
 
 ---
 
-**[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
+**[Nvidia buys AI chip startup Groq for $20 billion](https://www.semafor.com/article/12/25/2025/nvidia-is-buying-ai-chip-startup-groq-for-20-billion)**
 
-The Washington Post • 13h ago
+The semiconductor giant will hire all of Groqâs top staff and license the firmâs AI technology.
+
+https-//www.semafor.com • 21h ago
 
 ---
 
-**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
+**[Japan to Quadruple Spending Support for Chips, AI in Budget](https://www.bloomberg.com/news/articles/2025-12-26/japan-to-quadruple-spending-support-for-chips-ai-in-budget)**
 
-From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
+Bloomberg.com • 5h ago
 
-MIT Technology Review • 21h ago
+---
+
+**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+
+Axios • 19h ago
+
+---
+
+**[Google's year in review: 8 areas with research breakthroughs in 2025](https://blog.google/technology/ai/2025-research-breakthroughs/)**
+
+This year saw new AI models, transformative products and new breakthroughs in science and robotics.
+
+blog.google • 2d ago
 
 ---
 
@@ -199,7 +203,7 @@ MIT Technology Review • 21h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 420 • 💬 116 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 422 • 💬 116 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -209,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 225 • 💬 212 • 17h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 230 • 💬 222 • 18h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -233,7 +237,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 127 • 💬 59 • 11h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 129 • 💬 61 • 12h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -281,37 +285,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 38K • 👍 816 • 💬 109 • ⏱️ 12:51 • 8h ago
-
----
-
-**[SORA AI Disney Trailers *GONE WRONG*](https://www.youtube.com/watch?v=lJwDsXqwPW8)**
-
-Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing the most cursed SORA Disney Trailers ever ...
-
-📺 Bigfoot Feed
-
-👁️ 2K • 👍 51 • 💬 13 • ⏱️ 8:04 • 9h ago
-
----
-
-**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
-
-GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
-
-📺 AI Search
-
-👁️ 99K • 👍 4K • 💬 415 • ⏱️ 30:43 • 2d ago
-
----
-
-**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
-
-Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
-
-📺 Jack Morgan RLP 2.0
-
-👁️ 31K • 👍 1K • 💬 734 • ⏱️ 11:28 • 2d ago
+👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 9h ago
 
 ---
 
@@ -321,27 +295,37 @@ Something quietly changed over the last year. AI content stopped announcing itse
 
 📺 AI Revolution
 
-👁️ 15K • 👍 647 • 💬 51 • ⏱️ 9:31 • 2d ago
+👁️ 15K • 👍 648 • 💬 51 • ⏱️ 9:31 • 2d ago
 
 ---
 
-**[How POWER Broke the COURTS...Can AI SAVE US?!?!](https://www.youtube.com/watch?v=pFec0QJ9Tfo)**
+**[GREATEST BREAKTHROUGH EVER? PUTIN SAYS AI Will Rewrite History &amp; Will Change the world](https://www.youtube.com/watch?v=tE2xXSOWU84)**
 
-Subscribe: https://www.youtube.com/@LegalAFMTN?sub_confirmation=1 Buy the Book: ...
+Russian President Vladimir Putin said artificial intelligence could become the greatest technological breakthrough in human ...
 
-📺 Legal AF
+📺 Times Now World
 
-👁️ 17K • 👍 2K • 💬 188 • ⏱️ 33:49 • 15h ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 7:06 • 9h ago
 
 ---
 
-**[AI Bad](https://www.youtube.com/watch?v=Q5oC0_Neh1I)**
+**[We have a new #1 open source AI](https://www.youtube.com/watch?v=KaWQ2Ua9CW8)**
 
-The robot uprising has already happened, and instead of an apocalyptic war its just boring sludge everywhere. Links: My Patreon: ...
+GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #kimik2 Thanks to our sponsor, LumaLabs.
 
-📺 Lily Simpson
+📺 AI Search
 
-👁️ 9K • 👍 1K • 💬 242 • ⏱️ 24:19 • 1d ago
+👁️ 100K • 👍 4K • 💬 417 • ⏱️ 30:43 • 2d ago
+
+---
+
+**[No One is Prepared for What&#39;s Coming with Ai......](https://www.youtube.com/watch?v=7Orsny6AVzA)**
+
+Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) - Buy a Caddy Daddy T Shirt ...
+
+📺 Jack Morgan RLP 2.0
+
+👁️ 31K • 👍 1K • 💬 743 • ⏱️ 11:28 • 2d ago
 
 ---
 
@@ -351,23 +335,47 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 24K • 👍 374 • 💬 42 • ⏱️ 8:00 • 1d ago
+👁️ 25K • 👍 379 • 💬 43 • ⏱️ 8:00 • 1d ago
 
 ---
 
-**[I￼ bought 3 AI-generated products to see what they REALLY look like. 😡](https://www.youtube.com/watch?v=gCiPdZNEnq4)**
+**[How POWER Broke the COURTS...Can AI SAVE US?!?!](https://www.youtube.com/watch?v=pFec0QJ9Tfo)**
 
-📺 Maggie McGaugh
+Subscribe: https://www.youtube.com/@LegalAFMTN?sub_confirmation=1 Buy the Book: ...
 
-👁️ 275K • 👍 11K • 💬 66 • ⏱️ 1:07 • 2d ago
+📺 Legal AF
+
+👁️ 18K • 👍 2K • 💬 188 • ⏱️ 33:49 • 16h ago
 
 ---
 
-**[REAL VS AI 😂](https://www.youtube.com/watch?v=oMIMczJUCtc)**
+**[Monkey Saved a Strawberry Tree from Dying 😭 | Emotional AI Story #ai #save #tree #monkey](https://www.youtube.com/watch?v=6IzdB1OkCzo)**
 
-📺 Bob Reese
+Monkey Saved a Strawberry Tree from Dying | Emotional AI Story A monkey saved a strawberry tree in the desert… But the ...
 
-👁️ 753K • 👍 21K • 💬 237 • ⏱️ 0:12 • 1d ago
+📺 AI Nature Tales
+
+👁️ 5K • 👍 308 • ⏱️ 0:47 • 15h ago
+
+---
+
+**[The AI Accusations Need To Stop..](https://www.youtube.com/watch?v=QcUhBKOKfHk)**
+
+The AI Accusations Need To Stop.. JOIN!
+
+📺 Live Speedy
+
+👁️ 150K • 👍 6K • 💬 108 • ⏱️ 0:21 • 15h ago
+
+---
+
+**[Which Fascinating Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=7jNBIMKh6qQ)**
+
+Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR: https://youtu.be/7jNBIMKh6qQ Step into a ...
+
+📺 Satisfy Hub ASMR
+
+👁️ 478K • 👍 5K • 💬 113 • ⏱️ 10:06 • 19h ago
 
 ---
 
@@ -383,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 908 • 2d ago
+⬇️ 4,752 • ❤️ 908 • 2d ago
 
 ---
 
@@ -395,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 737 • 6d ago
+⬇️ 14,171 • ❤️ 737 • 6d ago
 
 ---
 
@@ -407,7 +415,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 30,907 • ❤️ 605 • 7d ago
+⬇️ 30,907 • ❤️ 607 • 7d ago
 
 ---
 
@@ -419,7 +427,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,435 • 17d ago
+⬇️ 402,987 • ❤️ 3,437 • 17d ago
 
 ---
 
@@ -431,7 +439,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 378 • 2d ago
+⬇️ 11,437 • ❤️ 381 • 2d ago
 
 ---
 
@@ -441,7 +449,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 317 • 7d ago
+⬇️ 0 • ❤️ 319 • 7d ago
 
 ---
 
@@ -453,7 +461,7 @@ HY-World 1.5 is a text-to-3D model enabling real-time, interactive world modelin
 
 `image-to-video`
 
-⬇️ 3,469 • ❤️ 441 • 7d ago
+⬇️ 3,526 • ❤️ 442 • 7d ago
 
 ---
 
@@ -465,7 +473,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 6,992 • ❤️ 453 • 12d ago
+⬇️ 7,170 • ❤️ 453 • 12d ago
 
 ---
 
@@ -489,7 +497,7 @@ MiMo-V2-Flash is a 309B parameter Mixture-of-Experts (MoE) model with 15B active
 
 `text-generation` `309.8B`
 
-⬇️ 16,751 • ❤️ 449 • 8d ago
+⬇️ 18,035 • ❤️ 448 • 8d ago
 
 ---
 
@@ -658,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 459 • 5m ago
+⭐ 3.6k • 🔱 459 • 44m ago
 
 ---
 
@@ -668,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 212 • 6m ago
+⭐ 3.0k • 🔱 212 • 45m ago
 
 ---
 
@@ -698,7 +706,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 222 • 16h ago
+⭐ 1.3k • 🔱 222 • 17h ago
 
 ---
 
@@ -708,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 115 • 4h ago
+⭐ 1.3k • 🔱 115 • 5h ago
 
 ---
 
