@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T05:50:16.821662+00:00'
+updated: '2025-12-26T06:16:13.824609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 05:50 UTC  
+**Last Updated:** December 26, 2025 at 06:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +0.8%  
-**30d:** -2.6%  
+**24h:** +1.4%  
+**7d:** +0.9%  
+**30d:** -2.5%  
 **90d:** -20.5%  
-**1y:** -5.6%  
+**1y:** -5.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1773.74B
+**Market Cap:** $1775.95B
 Rank #1
 
-**Circulating Supply:** 19,967,218 BTC
+**Circulating Supply:** 19,967,237 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.4%
 
 **All-Time Low:** $67.81
-+130871.8%
++131168.2%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Video cred: clusk
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Video cred: clusk
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,13 +111,13 @@ Video cred: clusk
 
 **[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
-2h ago
+3h ago
 
 ---
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -133,15 +133,15 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-10h ago
+11h ago
 
 ---
 
-**[What do you think actually breaks first if Bitcoin ever reaches $1,000,000?](https://www.reddit.com/r/Bitcoin/comments/1pvnp5k/what_do_you_think_actually_breaks_first_if/)**
+**[Just won this baby on the forum! Aww](https://www.reddit.com/r/Bitcoin/comments/1pvtb6r/just_won_this_baby_on_the_forum_aww/)**
 
-This question was asked on Bitunix earlier today while I was browsing through many posts about market trends and caught my attention. It made me realize how important this level would be for our society. If Bitcoin gets to this level, it will no longer just be a profit opportunity for most individuals. People will weight on when they purchased Bitcoin. Will they acknowledge that they missed the boat, or will they convince themselves that the $1,000,000 was never plausible anyway? Does regret evolve in to denial? Is the trust of people in flexible money gradually replaced by people having trust in strict rules without going through a massive collapse? When I think about this situation, I believe the single greatest disturbing element will not be economic. It will be psychological in nature. The way individuals perceive money, their effort, and look back on their personal choice. I would be interested in what others think. If Bitcoin continues to grow to $1,000,000, what happens first? Does our mindful set change prior to the shift in the financial systems employed to facilitate our lives?
+She was 1 of 3 prizes for a free Christmas drawing! Comes funded with 10,000 sats! Can’t beat free funded Physical Bitcoin by “Finite by Design” to add to the collection! Merry Christmas guys. Hope y’all had a great day!
 
-8h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ This question was asked on Bitunix earlier today while I was browsing through ma
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -175,15 +175,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 11h ago
-
----
-
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
-
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 1d ago
+The Block • 12h ago
 
 ---
 
@@ -195,15 +187,23 @@ Yahoo Finance • 22h ago
 
 ---
 
-**[Bitcoin Price Today (Dec. 25, 2025): BTC Holds Near $87,500 as Binance Flash-Wick, ETF Outflows, and Holiday Liquidity Shape the Market](https://ts2.tech/en/bitcoin-price-today-dec-25-2025-btc-holds-near-87500-as-binance-flash-wick-etf-outflows-and-holiday-liquidity-shape-the-market/)**
+**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
 
-Bitcoin Price Today (Dec. 25, 2025): BTC Holds Near $87,500 as Binance Flash-Wick, ETF Outflows, and Holiday Liquidity Shape the Market - TechStock²
+BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
 
-ts2.tech • 19h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeUbZ2G4vV2G5GCWmJSoNkC-i6jHbNB3MDuy4ocPoriAWVJuMO_fGHV&gaa_ts=694e219d&gaa_sig=-rk2uoWmvMHs50jgHwqvHipIPNmWXwJIWuOCjg0Vak130zCQRComcP6FgTWESOCFCrOcYwRXoZYkVc7hcW6Zjg%3D%3D)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdI3-QgV9KHl_PkAoqxo1cu_aVvO-2ydIXipQYN1iTgeWhfH7zssuGk&gaa_ts=694e2b97&gaa_sig=fJzBlHl8aJUS7VWILLMlTHu-hhHxOmWnJOHssBo1C1Z6jaJkij3tQbdDzv7wjhRaD04CP32A3nPf-8Uydf-sZQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -211,7 +211,7 @@ The Wall Street Journal • 2d ago
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-thestreet.com • 12h ago
+thestreet.com • 13h ago
 
 ---
 
@@ -243,7 +243,7 @@ Investopedia • 2d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 13h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 14h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -289,53 +289,23 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ## YouTube Videos: "bitcoin"
 
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 342 • 💬 33 • ⏱️ 4:31 • 9h ago
-
----
-
 **[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
 
 Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 216 • ⏱️ 37:34 • 1d ago
+👁️ 51K • 👍 2K • 💬 221 • ⏱️ 37:34 • 1d ago
 
 ---
 
-**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 397 • 💬 18 • ⏱️ 19:55 • 13h ago
-
----
-
-**[Bitcoin Always Plays Dead Before the Breakout | The 2026 Catalyst No One’s Talking About](https://www.youtube.com/watch?v=0zTDQhcy3kw)**
-
-2026 could be the most explosive year in Bitcoin's history! Bitcoin feels quiet and even lifeless to many as price action looks ...
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 174 • ⏱️ 13:26 • 2d ago
-
----
-
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 19K • 👍 438 • 💬 72 • ⏱️ 1:12 • 1d ago
+👁️ 8K • 👍 379 • 💬 35 • ⏱️ 4:31 • 10h ago
 
 ---
 
@@ -345,37 +315,7 @@ Is this a buyable bull-market dip or the start of the next bear market for Bitco
 
 📺 Mark Moss
 
-👁️ 112K • 👍 4K • 💬 464 • ⏱️ 20:46 • 2d ago
-
----
-
-**[🚨 Institutional Bitcoin TRAP Ends FRIDAY (Max Altcoin Volatility Inbound)](https://www.youtube.com/watch?v=tyvqRvGNUV8)**
-
-Are institutions setting up the final Bitcoin trap before a massive move? This Friday marks a critical deadline that could unleash ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 363 • 💬 37 • ⏱️ 7:13 • 1d ago
-
----
-
-**[70% of Bitcoin Wealth Now Lives Above $85K](https://www.youtube.com/watch?v=DbENnxmz-6o)**
-
-Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a historic capital rotation in the market. Checkmate ...
-
-📺 Swan Bitcoin
-
-👁️ 5K • 👍 139 • 💬 3 • ⏱️ 0:56 • 16h ago
-
----
-
-**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
-
-Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
-
-📺 Swan Bitcoin
-
-👁️ 44K • 👍 2K • 💬 226 • ⏱️ 20:00 • 2d ago
+👁️ 113K • 👍 4K • 💬 466 • ⏱️ 20:46 • 2d ago
 
 ---
 
@@ -385,7 +325,67 @@ Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state o
 
 📺 CNBC Television
 
-👁️ 25K • 👍 323 • 💬 229 • ⏱️ 8:19 • 1d ago
+👁️ 26K • 👍 330 • 💬 233 • ⏱️ 8:19 • 1d ago
+
+---
+
+**[🚨 Institutional Bitcoin TRAP Ends FRIDAY (Max Altcoin Volatility Inbound)](https://www.youtube.com/watch?v=tyvqRvGNUV8)**
+
+Are institutions setting up the final Bitcoin trap before a massive move? This Friday marks a critical deadline that could unleash ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 369 • 💬 37 • ⏱️ 7:13 • 1d ago
+
+---
+
+**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
+
+Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
+
+📺 Thomas Kralow
+
+👁️ 24K • 👍 3K • 💬 83 • ⏱️ 6:23 • 1d ago
+
+---
+
+**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 375 • 💬 10 • ⏱️ 15:49 • 8h ago
+
+---
+
+**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 11K • 👍 426 • 💬 19 • ⏱️ 19:55 • 13h ago
+
+---
+
+**[Bitcoin’s Most Disappointing Year Was a Massive Setup](https://www.youtube.com/watch?v=NKfbJL_DE1w)**
+
+Bitcoin price stalled in 2025, but this episode explains why that year wasn't failure — it was preparation. We break down why the ...
+
+📺 Swan Bitcoin
+
+👁️ 45K • 👍 2K • 💬 227 • ⏱️ 20:00 • 2d ago
+
+---
+
+**[70% of Bitcoin Wealth Now Lives Above $85K](https://www.youtube.com/watch?v=DbENnxmz-6o)**
+
+Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a historic capital rotation in the market. Checkmate ...
+
+📺 Swan Bitcoin
+
+👁️ 6K • 👍 158 • 💬 3 • ⏱️ 0:56 • 17h ago
 
 ---
 

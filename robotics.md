@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T05:50:16.830817+00:00'
+updated: '2025-12-26T06:16:13.833767+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 05:50 UTC  
+**Last Updated:** December 26, 2025 at 06:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-9h ago
+10h ago
 
 ---
 
@@ -82,11 +82,19 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 ---
 
+**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
+
+We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
+
+3m ago
+
+---
+
 **[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
 
 Wishing everyone a happy Christmas holiday.
 
-18h ago
+19h ago
 
 ---
 
@@ -98,31 +106,29 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 ---
 
-**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
-
-The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
-
-14h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-interestingengineering.com • 1d ago
-
----
 
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 1d ago
+
+---
+
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 8h ago
 
 ---
 
@@ -134,9 +140,17 @@ Earth.com • 1d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
 
-Tech Xplore • 8h ago
+: Investment and interest have outpaced technology and society
+
+theregister.com • 17h ago
+
+---
+
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqceNR8ILrQLTusHKNGDxLV-0DzaSv23yq5n1rd11We2Fvgm8m-9Z-1w&gaa_ts=694e2b9d&gaa_sig=T268LzingKtyFlybHFG_EZqE9rNnjWg4GQffgIoUA4qVf8OgDxIYT7OH0yCuGyEtOnrmSQqLtAFb5eiib44OPg%3D%3D)**
+
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -154,35 +168,19 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
+**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
+
+Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
+
+South China Morning Post • 2d ago
+
+---
+
 **[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
 New Atlas • 1d ago
-
----
-
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
-
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 2d ago
-
----
-
-**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
-
-Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
-
-The Robot Report • 1d ago
-
----
-
-**[US Army to use new robotic systems to kill chemical, radiological, nuclear threats](https://interestingengineering.com/military/us-military-autonomous-systems-tackle-threats)**
-
-These systems can independently detect, identify, and mitigate CBRN threats by leveraging sensors, AI, and decision-making algorithms.
-
-interestingengineering.com • 1d ago
 
 ---
 
@@ -196,37 +194,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 15K • 👍 616 • 💬 80 • ⏱️ 12:51 • 6h ago
+👁️ 38K • 👍 816 • 💬 110 • ⏱️ 12:51 • 6h ago
 
 ---
 
-**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
-What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
-📺 AI Tech Academy
+📺 CNET
 
-👁️ 32K • 👍 517 • 💬 78 • ⏱️ 13:55 • 2d ago
-
----
-
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
-
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 37K • 👍 1K • 💬 283 • ⏱️ 11:02 • 3d ago
-
----
-
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
-
-📺 AI Revolution
-
-👁️ 53K • 👍 852 • 💬 97 • ⏱️ 2:08:46 • 6d ago
+👁️ 1K • 👍 64 • 💬 3 • ⏱️ 1:30 • 1h ago
 
 ---
 
@@ -236,7 +214,67 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 2K • 👍 179 • 💬 42 • ⏱️ 21:33 • 5h ago
+👁️ 8K • 👍 391 • 💬 91 • ⏱️ 21:33 • 5h ago
+
+---
+
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 209K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
+
+---
+
+**[China&#39;s G1 Robots Just Broke the Internet With This Live Concert Moment!](https://www.youtube.com/watch?v=M1G1tqpzX6g)**
+
+What began as a standard live concert in China turned into a moment that stunned the audience and exploded across the internet.
+
+📺 AI Tech Academy
+
+👁️ 33K • 👍 524 • 💬 82 • ⏱️ 13:55 • 2d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 38K • 👍 1K • 💬 283 • ⏱️ 11:02 • 3d ago
+
+---
+
+**[An exclusive look inside China&#39;s humanoid robot mass-production factory in Shanghai](https://www.youtube.com/watch?v=d17f_5dVW7I)**
+
+China's leading robotics company, AgiBot, recently unveiled its 5000th mass-produced humanoid robot. How are humanoid ...
+
+📺 New China TV
+
+👁️ 70K • 👍 1K • 💬 299 • ⏱️ 31:49 • 6d ago
+
+---
+
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+
+📺 AI Revolution
+
+👁️ 53K • 👍 854 • 💬 98 • ⏱️ 2:08:46 • 6d ago
+
+---
+
+**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
+
+China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
+
+📺 CNET
+
+👁️ 39K • 👍 660 • 💬 155 • ⏱️ 5:25 • 4d ago
 
 ---
 
@@ -246,47 +284,7 @@ Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Ai Hypex
 
-👁️ 1.3M • 👍 7K • 💬 14 • ⏱️ 0:10 • 1d ago
-
----
-
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
-
-She Bought Two Robots    #shorts#trending.
-
-📺 Facto_Satish
-
-👁️ 71K • 💬 4 • ⏱️ 0:27 • 1d ago
-
----
-
-**[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
-
-FutureTech #Robotics #LawEnforcement.
-
-📺 Skye Ocean Girl
-
-👁️ 30K • 👍 147 • 💬 6 • ⏱️ 0:19 • 4d ago
-
----
-
-**[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
-
-Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
-
-📺 War Robots [WR]
-
-👁️ 36K • 👍 2K • 💬 2K • ⏱️ 9:57 • 20h ago
-
----
-
-**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
-
-Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
-
-📺 The Capital AI
-
-👁️ 222K • 👍 3K • 💬 757 • ⏱️ 2:23 • 5d ago
+👁️ 1.4M • 👍 7K • 💬 14 • ⏱️ 0:10 • 1d ago
 
 ---
 
