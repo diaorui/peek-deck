@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T02:59:22.980029+00:00'
+updated: '2025-12-26T04:01:37.288421+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 02:59 UTC  
+**Last Updated:** December 26, 2025 at 04:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -0.1%  
-**30d:** -1.2%  
-**90d:** -28.1%  
-**1y:** -10.6%  
+**24h:** +0.7%  
+**7d:** -0.6%  
+**30d:** -1.8%  
+**90d:** -28.5%  
+**1y:** -11.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.06B
+**Market Cap:** $357.50B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-40.1%
 
 **All-Time Low:** $0.43
-+686642.3%
++683951.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-14h ago
+15h ago
 
 ---
 
@@ -152,7 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 13h ago
+
+---
+
+**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
+
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -168,7 +180,7 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 10h ago
+ts2.tech • 11h ago
 
 ---
 
@@ -176,27 +188,13 @@ ts2.tech • 10h ago
 
 If history repeats, ETH could front a 45% rally in the mid-term.
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
 **[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
 
 The Block • 2d ago
-
----
-
-**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
-
-TradingView — Track All Markets • 2h ago
-
----
-
-**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
-
-Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -212,15 +210,15 @@ Decrypt • 2d ago
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-Coinpedia • 8h ago
+Coinpedia • 9h ago
 
 ---
 
-**[Can Ethereum leap out of its four-year shadow in 2026?](https://www.fxstreet.com/cryptocurrencies/news/ethereum-annual-price-forecast-eth-poised-for-growth-in-2026-amid-regulatory-clarity-and-institutional-adoption-202512241600)**
+**[IBIT vs. ETHA: How Bitcoin and Ethereum Shape Crypto ETF Risk](https://www.fool.com/coverage/etfs/2025/12/23/ibit-vs-etha-how-bitcoin-and-ethereum-shape-crypto-etf-risk/)**
 
-Ethereum (ETH) lost 12% of its value in 2025, declining from $3,336 at the beginning of the year to $2,930 as of the third week of December, a stark contrast from 2024's 48% gain. But that percentage doesn't do justice to the wild year ETH had in 2025.
+Both funds offer regulated crypto exposure, but bitcoin and ethereum behave differently in volatility and capital flows, shaping how each ETF fits inside a portfolio
 
-FXStreet • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -228,13 +226,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
+
+This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
+
+📺 CryptoStock Lab
+
+👁️ 211 • 👍 16 • 💬 1 • ⏱️ 15:04 • 1h ago
+
+---
+
 **[BITCOIN &amp; ALTCOIN HOLDERS: IT&#39;S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BaPDXfHioQk)**
 
 BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 5K • 👍 231 • 💬 62 • ⏱️ 16:26 • 9h ago
+👁️ 7K • 👍 268 • 💬 69 • ⏱️ 16:26 • 10h ago
 
 ---
 
@@ -244,7 +252,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 9 • ⏱️ 4:41 • 10h ago
+👁️ 2K • 👍 157 • 💬 9 • ⏱️ 4:41 • 11h ago
+
+---
+
+**[BMNR vs. Every ETH ETF: Bigger Than BlackRock ?](https://www.youtube.com/watch?v=NwZ-zIyPaWM)**
+
+BMNR vs Every ETH ETF: Who Really Owns Ethereum? BitMine Immersion ($BMNR) has officially flipped the giants. With its ...
+
+📺 Wall Street Stockcast
+
+👁️ 244 • 👍 7 • 💬 1 • ⏱️ 7:55 • 15h ago
 
 ---
 
@@ -254,7 +272,17 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 4K • 👍 112 • 💬 48 • ⏱️ 13:41 • 1d ago
+👁️ 4K • 👍 114 • 💬 48 • ⏱️ 13:41 • 1d ago
+
+---
+
+**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
+
+Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 17K • 👍 112 • 💬 112 • ⏱️ 11:00 • 1d ago
 
 ---
 
@@ -268,63 +296,33 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=BFVcrvNEfK0)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Lane Drifters
-
-👁️ 3K • 👍 4K • 2h ago
-
----
-
 **[🔴LIVE CRYPTO  TRADING / Bitcoin ,Gold and Eth #cryptotrading #live#gold #livetrading @Tradewithrakhi](https://www.youtube.com/watch?v=QKteIyTSSnE)**
 
 LIVE CRYPTO TRADING / Bitcoin ,Gold and ETH #livetrading #live #gold #cryptotrading @Tradewithrakhi Telegram link ...
 
 📺 Trade With Rakhi
 
-👁️ 6K • 👍 436 • 8h ago
+👁️ 12K • 👍 649 • 9h ago
 
 ---
 
-**[ETH analysis for today|| Ethereum analysis for 26th December 2025 #btc #ethereum](https://www.youtube.com/watch?v=yjegSpOp9os)**
+**[Why BlackRock Filed For An Ethereum Staking ETF (RIP Bonds?)](https://www.youtube.com/watch?v=onTEhbK1CW8)**
 
-Telegram Channel:- https://t.me/officialsmarttraderpsychology Disclaimer: The information provided during the stream is only for: ...
+BlackRock's ETH Staking ETF: Institutions Get Yield The "Digital Bond" era has officially begun. Following Grayscale's recent ...
 
-📺 Smart Trader Psychology
+📺 Wall Street Stockcast
 
-👁️ 15 • 👍 2 • ⏱️ 0:53 • 3h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=pZbLFwT8sqI)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 DVS MEDIATAMA
-
-👁️ 2K • 👍 4K • 2h ago
+👁️ 144 • 👍 10 • 💬 4 • ⏱️ 8:29 • 5h ago
 
 ---
 
-**[Bitcoin &amp; Crypto in 2026 - What Comes Next?](https://www.youtube.com/watch?v=WuPSMdGfk0M)**
+**[Tom Lee - &quot;ALL Portfolios Will Be Affected&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=rLKJhhKd-5A)**
 
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Altcoin Daily
+📺 Library Of Wealth
 
-👁️ 45K • 👍 3K • 💬 458 • ⏱️ 10:51 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=AW4IkhsOEwI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 114 • 💬 6 • ⏱️ 3:51 • 1d ago
+👁️ 4K • 👍 102 • 💬 294 • ⏱️ 14:58 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T02:59:22.983232+00:00'
+updated: '2025-12-26T04:01:37.291652+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 02:59 UTC  
+**Last Updated:** December 26, 2025 at 04:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-12h ago
+13h ago
+
+---
+
+**[Is this dancing difficult for a robot?](https://www.reddit.com/r/robotics/comments/1pvum6m/is_this_dancing_difficult_for_a_robot/)**
+
+Robots imitate human dance! The motion is smooth. How useful is it?
+
+19m ago
 
 ---
 
 **[Modular robot，for 本末](https://www.reddit.com/r/robotics/comments/1pvbt0e/modular_robotfor_本末/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -50,13 +58,19 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-6h ago
+7h ago
 
 ---
 
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-19h ago
+20h ago
+
+---
+
+**[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
+
+2m ago
 
 ---
 
@@ -72,7 +86,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Wishing everyone a happy Christmas holiday.
 
-15h ago
+16h ago
 
 ---
 
@@ -88,23 +102,7 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 7h ago
-
----
-
-**[I am planning to make a database for Mechatronics & Robotics topics](https://www.reddit.com/r/robotics/comments/1pvoiv9/i_am_planning_to_make_a_database_for_mechatronics/)**
-
-Hello everyone I am an in enrolled mechatronics engineer I want to share what I learn and how others can learn it, and for them to learn and share tutorials as well (creating a learning environment). I initially considered creating a YouTube channel, but I don't see enough engagement. Therefore, I'm considering creating a forum, and I've heard about the XenForo script. I want the platform to be primarily for Arab engineers, given the limited availability of Arabic educational content. So, I'd like to hear your advice and suggestions.
-
-4h ago
-
----
-
-**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
-
-The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
-
-11h ago
+🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 8h ago
 
 ---
 
@@ -128,9 +126,15 @@ interestingengineering.com • 1d ago
 
 ---
 
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf4HdFzuKU4XlNRX601LR3nT6fAhOMHNH39k3x3Mf8JUod-Y_k-NN2s&gaa_ts=694e0c0f&gaa_sig=7h69bOGHiFWlFS4pjynuFCwTGHTW4RJdIclhtGi6taAFDh9Ly4QbxtJOH0ToQYsTP721qygmYSrwHKNCQPyktw%3D%3D)**
+
+The Wall Street Journal • 2h ago
+
+---
+
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 6h ago
+Tech Xplore • 7h ago
 
 ---
 
@@ -142,17 +146,11 @@ Earth.com • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdy4OBG45TW7ox2K4COCX71ibuNulZIGlqux7HEApmZOZwU-wccNDWR&gaa_ts=694dfd76&gaa_sig=pGY1kGB4adHMckspWIvA0ErFjbri1vf3pMKNZgiWDZYwumtbi2uVvTm1tSf2ND6vc1cX4xJQNzp8MV433Ryq-g%3D%3D)**
-
-The Wall Street Journal • 59m ago
-
----
-
 **[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
 
 : Investment and interest have outpaced technology and society
 
-theregister.com • 13h ago
+theregister.com • 15h ago
 
 ---
 
@@ -170,6 +168,14 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
+**[Montville Twp Committee Honors Pathways Mentors and High-Achieving Robotics Teams](https://www.tapinto.net/towns/montville/articles/montville-twp-committee-honors-pathways-mentors-and-high-achieving-robotics-teams)**
+
+MONTVILLE, NJ – Melinda Jennis, President of Pathways for Exceptional Children, and the Montville Township Committee, honored Pathways’ mentors and its robotics teams at the Dec. 9 Montville...
+
+TAPinto • 22m ago
+
+---
+
 **[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
 
 Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
@@ -178,35 +184,17 @@ South China Morning Post • 2d ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
-
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
-
-New Atlas • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+**[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
-My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
-
-📺 Its Nenaa
-
-👁️ 37K • 👍 1K • 💬 279 • ⏱️ 11:02 • 3d ago
-
----
-
-**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
-
-The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
 
 📺 AI Revolution
 
-👁️ 52K • 👍 849 • 💬 97 • ⏱️ 2:08:46 • 6d ago
+👁️ 15K • 👍 616 • 💬 80 • ⏱️ 12:51 • 4h ago
 
 ---
 
@@ -216,7 +204,37 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 30K • 👍 500 • 💬 70 • ⏱️ 13:55 • 2d ago
+👁️ 32K • 👍 517 • 💬 78 • ⏱️ 13:55 • 2d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 37K • 👍 1K • 💬 283 • ⏱️ 11:02 • 3d ago
+
+---
+
+**[AI ROBOTS Are Now TOO REAL! - Shocking AI &amp; Robotics 2025 Updates](https://www.youtube.com/watch?v=a4Y_VVuqYyk)**
+
+The world of AI and robotics accelerated faster this year than almost anyone expected. Humanoid robots became cheaper, faster, ...
+
+📺 AI Revolution
+
+👁️ 53K • 👍 852 • 💬 97 • ⏱️ 2:08:46 • 6d ago
+
+---
+
+**[&quot;This Is NOT Artificial Intelligence. It’s ALIEN Intelligence&quot; | When AI and Robotics Merge](https://www.youtube.com/watch?v=Q-eIhXSJfoA)**
+
+A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To learn for free on Brilliant, go to ...
+
+📺 Beeyond Ideas
+
+👁️ 2K • 👍 179 • 💬 42 • ⏱️ 21:33 • 3h ago
 
 ---
 
@@ -230,6 +248,16 @@ Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 ---
 
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
+
+She Bought Two Robots    #shorts#trending.
+
+📺 Facto_Satish
+
+👁️ 71K • 💬 4 • ⏱️ 0:27 • 1d ago
+
+---
+
 **[This Rolling Robot Could Replace Police in the Future](https://www.youtube.com/watch?v=wKWUTIHGQZk)**
 
 FutureTech #Robotics #LawEnforcement.
@@ -240,33 +268,13 @@ FutureTech #Robotics #LawEnforcement.
 
 ---
 
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
-
-She Bought Two Robots    #shorts#trending.
-
-📺 Facto_Satish
-
-👁️ 70K • 💬 4 • ⏱️ 0:27 • 23h ago
-
----
-
-**[This Ultra-Realistic Robot Head Is Breaking the Internet](https://www.youtube.com/watch?v=_TUPeIHPHE0)**
-
-This ultra-realistic humanoid head demonstrates how far robotics and AI have come in replicating human appearance and ...
-
-📺 Deepen
-
-👁️ 47K • 👍 271 • 💬 13 • ⏱️ 0:08 • 4d ago
-
----
-
 **[🎄 What’s Next for 2026? – TALKING WAR ROBOTS](https://www.youtube.com/watch?v=N5tL4kqOZA4)**
 
 Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems and other resources: ...
 
 📺 War Robots [WR]
 
-👁️ 33K • 👍 2K • 💬 2K • ⏱️ 9:57 • 17h ago
+👁️ 36K • 👍 2K • 💬 2K • ⏱️ 9:57 • 18h ago
 
 ---
 
@@ -276,17 +284,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 216K • 👍 3K • 💬 742 • ⏱️ 2:23 • 5d ago
-
----
-
-**[The EASIEST Titan to play in War Robots… NEW WEAPONS!](https://www.youtube.com/watch?v=kMVREd5gVFQ)**
-
-War Robots Gameplay: New Vincere and Vinere Devourer - Easy WR Play #warrobots #warrobotsgameplay #wr My ...
-
-📺 Manni-Gaming
-
-👁️ 5K • 👍 268 • 💬 41 • ⏱️ 12:08 • 10h ago
+👁️ 222K • 👍 3K • 💬 757 • ⏱️ 2:23 • 5d ago
 
 ---
 
