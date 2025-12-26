@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T23:47:25.866967+00:00'
+updated: '2025-12-26T23:58:21.645568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 23:47 UTC  
+**Last Updated:** December 26, 2025 at 23:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.1%  
-**30d:** -4.4%  
-**90d:** -22.0%  
-**1y:** -7.4%  
+**24h:** +0.6%  
+**7d:** -1.0%  
+**30d:** -4.3%  
+**90d:** -21.9%  
+**1y:** -7.3%  
 
 ---
 
@@ -115,7 +115,7 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 The chart is from my full node, showing realized PnL by UTXO age band. This morning’s liquidation cascade added up to roughly $416M in realized losses, and almost all of it came from coins held 3–12 months. In other words, this move was not long-term HODLers dumping; it was the usual crowd of recent buyers running 3–12 month coins on leverage and getting wiped out when price was pushed into low-liquidity levels. Older coins (1.5+ years, multi-year) barely moved on-chain. These “liquidation hunts” will keep happening as long as people insist on leveraging short-term positions... there’s no real structural reason for price to stay pinned down here beyond providing fresh liquidation fuel. Same story as always: HODLers sit still, and leverage tourists donate their stack.
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -139,7 +139,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 **[How it started as an idea how it ended as a financial revolution.](https://www.reddit.com/r/Bitcoin/comments/1pw8vlj/how_it_started_as_an_idea_how_it_ended_as_a/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 10h ago
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-CNBC • 40m ago
+CNBC • 51m ago
 
 ---
 
@@ -239,7 +239,7 @@ thestreet.com • 8h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 4h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 5h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
 
-⬆️ 4 • 💬 0 • 5h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+⬆️ 4 • 💬 0 • 6h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
 
 ---
 
