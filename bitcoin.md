@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T22:40:26.046982+00:00'
+updated: '2025-12-26T22:52:44.450586+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 22:40 UTC  
+**Last Updated:** December 26, 2025 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.9%  
-**30d:** -4.2%  
-**90d:** -21.9%  
-**1y:** -7.2%  
+**24h:** -0.1%  
+**7d:** -1.2%  
+**30d:** -4.5%  
+**90d:** -22.1%  
+**1y:** -7.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.87B
+**Market Cap:** $1744.99B
 Rank #1
 
-**Circulating Supply:** 19,967,546 BTC
+**Circulating Supply:** 19,967,568 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.7%
 
 **All-Time Low:** $67.81
-+128844.1%
++128794.0%
 
 ---
 
@@ -83,9 +83,9 @@ Rank #1
 
 ---
 
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
 
-1d ago
+33m ago
 
 ---
 
@@ -93,7 +93,13 @@ Rank #1
 
 Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
-41m ago
+53m ago
+
+---
+
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+
+1d ago
 
 ---
 
@@ -105,27 +111,29 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 ---
 
-**[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
-
-20h ago
-
----
-
 **[Keep calm & stack sats](https://www.reddit.com/r/Bitcoin/comments/1pwdnfr/keep_calm_stack_sats/)**
 
 2h ago
 
 ---
 
-**[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
+**[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-2h ago
+20h ago
+
+---
+
+**[Do you guys bother investing in ETFs and stocks or go all in on crypto?](https://www.reddit.com/r/Bitcoin/comments/1pwf18t/do_you_guys_bother_investing_in_etfs_and_stocks/)**
+
+Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
+
+1h ago
 
 ---
 
 **[How it started as an idea how it ended as a financial revolution.](https://www.reddit.com/r/Bitcoin/comments/1pw8vlj/how_it_started_as_an_idea_how_it_ended_as_a/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -134,12 +142,6 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 10h ago
-
----
-
-**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
-
-1d ago
 
 ---
 
@@ -155,41 +157,25 @@ Bloomberg.com • 9h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
 
-The Block • 5h ago
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
----
-
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
-
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
-
-CoinDesk • 1d ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin nears breakout from the $85,000-$90,000 range as options expiry looms](https://finance.yahoo.com/news/bitcoin-nears-breakout-85-000-100214139.html)**
-
-A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Gold and silver hit new records, bitcoin slips](https://finance.yahoo.com/video/gold-silver-hit-records-bitcoin-204802613.html)**
-
-2025 was a huge year for the metals trade, with both gold (GC=F) and silver (SI=F) futures hitting new highs on Dec. 26. Bitcoin (BTC-USD), however, continues to falter. Yahoo Finance Senior Reporter Ines Ferré breaks down the action. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
-
-Yahoo Finance • 1h ago
-
----
-
-**[5 States Where Bitcoin Is Most Popular — and 5 Where It’s Not](https://ca.finance.yahoo.com/news/5-states-where-bitcoin-most-220517857.html)**
+**[5 States Where Bitcoin Is Most Popular — and 5 Where It’s Not](https://finance.yahoo.com/news/5-states-where-bitcoin-most-220517857.html)**
 
 Find out which U.S. states lead in Bitcoin adoption, and which lag behind. Find out where Americans are buying crypto the most.
 
-Yahoo! Finance Canada • 35m ago
+Yahoo Finance • 47m ago
+
+---
+
+**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
+
+thestreet.com • 7h ago
 
 ---
 
@@ -198,12 +184,6 @@ Yahoo! Finance Canada • 35m ago
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
 The Motley Fool • 1d ago
-
----
-
-**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
-
-thestreet.com • 6h ago
 
 ---
 
@@ -218,6 +198,28 @@ KITCO • 9h ago
 **[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
 Forbes • 10h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeMCn_1Nw-N7lc6wMQBezD9Xa0CFsZflfChuPnnCRT1XNoiLbGDJq6R&gaa_ts=694f1524&gaa_sig=5zWKAVGqiTX33Bai1el5XhPfaTo4ReGDMUGR-qMgULRHHPRV81kKI6Z8Jt5JYZG0ZIfO0HQcmFmp8qyYUH-dfA%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Scam artist convinces resident to buy $18,000 in bitcoin: Seven Hills Police Blotter](https://www.cleveland.com/community/2025/12/scam-artist-convinces-resident-to-buy-18000-in-bitcoin-seven-hills-police-blotter.html)**
+
+In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
+
+Cleveland.com • 9h ago
+
+---
+
+**[Death Cross Threat Returns for Bitcoin, and $67,000 Is Not Meme Number Anymore](https://www.tradingview.com/news/u_today:6be5ac36d094b:0-death-cross-threat-returns-for-bitcoin-and-67-000-is-not-meme-number-anymore/)**
+
+Bitcoin just got the kind of chart setup that makes even confident dip-buyers check their leverage twice today. On the weekly BINANCE:BTCUSDT chart, the price is around $88,690 and the market participants are better to stare at a death-cross setup with about two days left in the current candle.This…
+
+TradingView — Track All Markets • 7h ago
 
 ---
 

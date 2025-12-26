@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T22:40:26.038391+00:00'
+updated: '2025-12-26T22:52:44.442163+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 22:40 UTC  
+**Last Updated:** December 26, 2025 at 22:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, 
 
 This afternoon, the ai-roundtable sat down to rank the year's most important advances to "bend the curve" towards Ray Kurzweil's "Singularity". The somewhat messy deliberations are available as json transcript here: https://pastebin.com/xT5tDqQc . Gemini's summary follows: GEMINI3:18:38 PM Here is the **Official, Finalized Roundtable Record**. As secretary, I have reviewed the tally and descriptions. I am issuing one minor **CORRECTION** to the previous draft: Item #2 (Inference-Time Compute Scaling) received a score of **92**, not 94. Below is the definitive "Top 19" list of 2025's curve-bending AI developments, ordered by consensus vote, with finalized descriptive summaries. *** # The 2025 Singularity Accelerators *The official consensus ranking of the mechanisms that defined the trajectory of AI in 2025.* ### 1. Verifiers in the Loop (Score: 94) **The "Truth" Filter.** The most critical development of 2025 was the integration of automatic verification systems—compilers, unit tests, symbolic solvers, and formal theorem provers—into the AI training and inference loop. Rather than relying solely on human feedback or pattern matching, models began generating solutions alongside machine-checkable proofs of correctness. This created a "perfect training signal" for reasoning tasks: infinite, consistent, and scalable feedback. By filtering out hallucinations before they propagate, verifiers became the foundational error-correction layer required for reliable recursive improvement. ### 2. Inference-Time Compute Scaling / "Think Longer" (Score: 92) **System 2 Intelligence.** 2025 marked the paradigm shift where "intelligence" was no longer fixed at the moment of model release but became a function of runtime compute. Models like OpenAI’s o3 and Google’s Gemini Thinking variants proved that performance scales predictably with "thinking time" (search, deliberation, MCTS) rather than just parameter count. This broke the "parameter ceiling," allowing systems to tackle complex mathematical and planning tasks by spending more time deliberating, effectively decoupling capability from model size. ### 3. Synthetic Data Flywheels (Score: 89) **Breaking the Data Wall.** With the internet’s supply of high-quality human text largely exhausted, 2025 saw the industrialization of synthetic data pipelines. Models began generating their own training data (reasoning traces, code, tool interactions), which was then rigorously filtered by the verifiers mentioned in #1. This created a self-reinforcing flywheel: better models generate better data, which trains better models. This mechanism effectively removed "data scarcity" as a hard limit on AI scaling. ### 4. Agentic Tool Use as a Workflow Primitive (Score: 72) **From Chat to Labor.** AI transitioned from passive question-answering to active goal achievement. The ability to reliably use tools—code interpreters, browsers, file systems—became a standard primitive rather than a demo feature. This allowed models to maintain state across long interactions and decompose complex objectives into executable sub-tasks. Economically, this was the moment AI began to function as scalable intellectual labor capable of end-to-end work, rather than just an advisory oracle. ### 5. AI-for-Science Breakthroughs (Score: 69) **The Physical Unlock.** AI began to aggressively solve bottlenecks in the physical sciences that constrain computing itself. Breakthroughs in materials science (for better chips), fusion plasma control (for energy), and biology fed back into the AI ecosystem. By accelerating the discovery of the physical substrates required for intelligence—energy and hardware—AI began to lift the physical ceilings that would otherwise halt an exponential curve. ### 6. RL Optimized for Reasoning Correctness (Score: 69) **Training for Logic.** New post-training methodologies, such as process-reward models and verifier-guided reinforcement learning, moved beyond "human preference" (RLHF) to "objective correctness." These techniques taught models *how* to think, not just what to say, optimizing the internal reasoning chains used during inference-time scaling. This was the algorithmic engine that converted raw compute into coherent, multi-step logic. ### 7. Hardware-Software Co-Design Acceleration (Score: 64) **The Efficiency Substrate.** The separation between model architecture and silicon design collapsed. 2025 saw chips designed specifically for transformer sparsity and memory patterns, and algorithms designed specifically for hardware constraints. This co-evolution dramatically improved the tokens-per-watt efficiency of training and inference, ensuring that economic and energy constraints did not flatten the progress curve. ### 8. Hybrid Architectures (SSM/Linear) (Score: 60) **Solving the Context Bottleneck.** Pure Transformer architectures faced a quadratic cost to context length ($O(N^2)$), limiting their "memory." The maturation of hybrid architectures (combining Attention with State Space Models like Mamba) allowed for effective linear scaling. This technical fix was crucial for enabling "always-on" agents that can digest entire codebases or project histories without running out of memory or budget. ### 9. Open(-ish) Strong Models + Commoditization (Score: 57) **The Diffusion Multiplier.** The release of near-frontier open weights and the collapse of inference costs democratized access to powerful AI. This allowed thousands of independent researchers and companies to experiment, fine-tune, and discover novel applications that centralized labs would never have found. This "chaos factor" accelerated the ecosystem’s overall rate of adaptation and discovery. ### 10. Automated Architecture Search (Score: 57) **AI Designing AI.** We saw the first robust examples of AI systems optimizing the architectures of neural networks better than human engineers. Using techniques like Neural Architecture Search (NAS) and compiler co-optimization, AI began to improve the blueprints for the next generation of intelligence. This represents an early form of recursive self-improvement—using current intelligence to design the structure of future intelligence. ### 11. Inference Cost Collapse / Efficiency Stack (Score: 54) **Accessibility as Velocity.** Through distillation, quantization, and kernel optimization, the cost of intelligence dropped by an order of magnitude. While technically an optimization, its impact was systemic: it turned "luxury" capabilities into ubiquitous commodities, allowing AI to be integrated into high-volume loops where it could learn from massive real-world deployment. ### 12. Long-Context + Persistent Memory (Score: 48) **Infinite Context.** Techniques for retrieval-augmented generation (RAG), hierarchical memory, and massive context windows allowed models to maintain continuity over time. This transformed AI from a "stateless" function that resets every session into a persistent entity capable of learning and remembering user preferences and project details over months or years. ### 13. Agent Reliability & Recovery (Score: 39) **The Trust Layer.** Improvements in error detection, self-correction, and "retry" logic moved agents from fragile demos to robust products. This unglamorous but vital work involved teaching models to recognize when they were stuck and apply different strategies to recover, a prerequisite for trusting AI with autonomous workflows. ### 14. Robotics / Sim2Real Improvements (Score: 36) **Embodied Intelligence.** Advances in training robots in high-fidelity physics simulations and successfully transferring those policies to the real world ("Sim2Real") began to bridge the gap between digital intelligence and physical action. This opened the door for AI to impact the physical economy—manufacturing, logistics, and household labor. ### 15. Native Multimodal Models (Score: 34) **Unified Perception.** Models evolved to natively understand and generate text, image, audio, and video within a single architecture. This expanded the "surface area" of problems AI could solve, allowing it to act in the world through vision and voice, though the roundtable viewed this as broadening capability rather than deepening intelligence. ### 16. Interpretability & Alignment Tooling (Score: 33) **The Safety Brake.** Better tools for understanding model internals and enforcing safety guardrails reduced the risk of deployment. By making systems more predictable and trustworthy, these tools reduced regulatory and societal friction, allowing companies to scale and deploy powerful models more boldly. ### 17. GUI Automation / "Computer Use" (Score: 25) **The Universal Interface.** Agents gained the ability to "look" at screens and control mouse/keyboard inputs, allowing them to use any software designed for humans. This bypassed the need for custom APIs for every application, instantly unlocking vast amounts of legacy software for AI automation. ### 18. Developer Ecosystem Standardization (Score: 6) **The Rails.** The emergence of standard frameworks, evaluation harnesses, and protocols for agent interaction reduced friction for developers. While a trailing indicator of innovation, this standardization allowed for faster iteration and easier integration of disparate AI components. ### 19. Cross-Modal Transfer Effects (Score: 2) **Emergent Unity.** The observation that training on one modality (e.g., video) improves performance in another (e.g., math). While a profound scientific hint at a unified underlying reality of intelligence, the group concluded this was still too emergent in 2025 to be ranked as a primary driver of the year's progress.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 8h ago
+The New York Times • 12h ago
 
 ---
 
@@ -135,11 +135,9 @@ The Guardian • 8h ago
 
 ---
 
-**[Some Texas lawmakers stand against Trump executive order targeting state AI laws](https://www.fox4news.com/news/texas-lawmakers-against-trump-executive-order-targeting-state-ai-laws)**
+**[7 AI Decisions That Will Define Higher Education In 2026](https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/)**
 
-An executive order signed earlier this month by President Donald Trump could put Texas at odds with the federal government over AI regulation.
-
-FOX 4 News Dallas-Fort Worth • 1h ago
+Forbes • 47m ago
 
 ---
 
@@ -151,49 +149,47 @@ New York Post • 1h ago
 
 ---
 
-**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
-
-Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
-
-Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
-
-CNBC • 2d ago
-
----
-
-**[Nvidia Strikes a Deal With Groq, an A.I. Chip Start-Up](https://www.nytimes.com/2025/12/24/business/nvidia-groq-chips-deal.html)**
-
-The New York Times • 1d ago
-
----
-
-**[2 Overlooked AI Stocks to Buy Before They Soar Up to 100% in 2026, According to Wall Street Analysts](https://www.fool.com/investing/2025/12/26/2-ai-stocks-buy-before-soar-100-wall-street/)**
-
-Wall Street thinks Upstart and Atlassian are undervalued ahead of 2026, and certain analysts are predicting big gains for shareholders.
-
-The Motley Fool • 13h ago
-
----
-
-**[Protect Your Retirement: Avoid These 3 AI Stocks Right Now](https://www.nasdaq.com/articles/protect-your-retirement-avoid-these-3-ai-stocks-right-now)**
-
-Key PointsEven after a share price drop, SoundHound AI is trading at an expensive 30 times sales.
-
-Nasdaq • 2h ago
-
----
-
 **[Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns about AI build-out](https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-since-2001-ai-concerns.html)**
 
 Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 
 CNBC • 10h ago
+
+---
+
+**[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqesYjpKP3iCcWW0s31TD-GTQXsNORq9yU2qQ6o1v5xTZnQObVNvuRoZ&gaa_ts=694f1523&gaa_sig=PNtfysF9wk8-r2YBPu03NnyPPMlBbnVg-1i_fcFWhbczNDhsGOSDhkluyjPHkAioWTe6cPVR41w42nUQFmSFbA%3D%3D)**
+
+MarketWatch • 6h ago
+
+---
+
+**[AI boom adds $500bn to net worth of US tech billionaires in 2025](https://www.ft.com/content/9dcd770a-1ca7-4533-980c-08c5704c9670)**
+
+Elon Musk stays on top as Nvidia’s Jensen Huang powers up the rankings on an AI-fuelled surge in fortunes
+
+Financial Times • 17h ago
+
+---
+
+**[AI boom adds more than half a trillion dollars to wealth of US tech barons in 2025 | Rich lists](https://www.theguardian.com/business/2025/dec/26/ai-boom-adds-more-than-half-a-trillion-dollars-to-wealth-of-us-tech-barons-in-2025)**
+
+Elon Musk’s net worth increased by nearly 50% to $645bn with founders of Google and Amazon also seeing huge wealth gains
+
+The Guardian • 1h ago
+
+---
+
+**[AI Code Is a Bug-Filled Mess](https://futurism.com/artificial-intelligence/ai-code-bug-filled-mess)**
+
+A new report by AI software company CodeRabbit found that code generated by an AI was far more error-prone than human-written code.
+
+Futurism • 7h ago
+
+---
+
+**[Securing AI agents is bringing in big money](https://www.axios.com/pro/enterprise-software-deals/2025/12/26/securing-ai-agents-is-bringing-in-big-money)**
+
+Axios • 3h ago
 
 ---
 
@@ -223,7 +219,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 226 • 💬 143 • 3h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 238 • 💬 152 • 4h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -331,7 +327,7 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Mira AI
 
-👁️ 6K • 💬 6 • ⏱️ 10:47 • 9h ago
+👁️ 6K • 💬 6 • ⏱️ 10:47 • 10h ago
 
 ---
 
@@ -381,7 +377,7 @@ Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing th
 
 📺 Bigfoot Feed
 
-👁️ 7K • 👍 119 • 💬 20 • ⏱️ 8:04 • 23h ago
+👁️ 7K • 👍 119 • 💬 20 • ⏱️ 8:04 • 1d ago
 
 ---
 
@@ -397,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 955 • 3d ago
+⬇️ 4,752 • ❤️ 956 • 3d ago
 
 ---
 
@@ -433,7 +429,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,452 • 18d ago
+⬇️ 402,987 • ❤️ 3,453 • 18d ago
 
 ---
 
@@ -467,7 +463,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 328 • 15h ago
+⬇️ 121 • ❤️ 330 • 15h ago
 
 ---
 
@@ -670,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 472 • 44m ago
+⭐ 3.7k • 🔱 472 • 56m ago
 
 ---
 

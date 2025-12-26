@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T22:40:26.056438+00:00'
+updated: '2025-12-26T22:52:44.459932+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 22:40 UTC  
+**Last Updated:** December 26, 2025 at 22:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-15h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-18h ago
+19h ago
 
 ---
 
@@ -62,11 +62,11 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 ---
 
-**[Robot boxing with Hacksmith (and more)](https://www.reddit.com/r/robotics/comments/1pwf51l/robot_boxing_with_hacksmith_and_more/)**
+**[Invitation to Robot Rave - London, January 17-18, 2026](https://www.reddit.com/r/robotics/comments/1pwcus0/invitation_to_robot_rave_london_january_1718_2026/)**
 
-Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
+Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-1h ago
+3h ago
 
 ---
 
@@ -78,14 +78,6 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 ---
 
-**[Invitation to Robot Rave - London, January 17-18, 2026](https://www.reddit.com/r/robotics/comments/1pwcus0/invitation_to_robot_rave_london_january_1718_2026/)**
-
-Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
-
-3h ago
-
----
-
 **[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
@@ -94,11 +86,11 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
-**[Guidance](https://www.reddit.com/r/robotics/comments/1pw987b/guidance/)**
+**[Robot boxing with Hacksmith (and more)](https://www.reddit.com/r/robotics/comments/1pwf51l/robot_boxing_with_hacksmith_and_more/)**
 
-Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
+Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
 
-5h ago
+1h ago
 
 ---
 
@@ -107,6 +99,14 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
 
 6h ago
+
+---
+
+**[Guidance](https://www.reddit.com/r/robotics/comments/1pw987b/guidance/)**
+
+Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
+
+5h ago
 
 ---
 
@@ -122,11 +122,11 @@ Earth.com • 2d ago
 
 ---
 
-**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-Interesting Engineering • 2d ago
+New Atlas • 2d ago
 
 ---
 
@@ -135,6 +135,22 @@ Interesting Engineering • 2d ago
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 2d ago
+
+---
+
+**[LG to unveil new humanoid robot that handles daily household chores at CES 2026](https://interestingengineering.com/ai-robotics/lg-new-humanoid-robot-at-ces-2026)**
+
+The South-Korean tech giant will display its home assistant humanoid robot LG CLOiD at the world's biggest consumer tech show in January.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 1d ago
 
 ---
 
@@ -152,11 +168,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
 
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-New Atlas • 2d ago
+Futura, Le média qui explore le monde • 8h ago
 
 ---
 
@@ -168,25 +184,9 @@ Tom's Hardware • 11h ago
 
 ---
 
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
-
-: Investment and interest have outpaced technology and society
-
-theregister.com • 1d ago
-
----
-
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 2d ago
-
----
-
-**[UBTech’s US$237 million Fenglong deal tightens humanoid robot supply chain](https://www.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain)**
-
-Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
-
-South China Morning Post • 1d ago
 
 ---
 

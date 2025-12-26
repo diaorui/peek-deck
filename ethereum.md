@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T22:40:26.053128+00:00'
+updated: '2025-12-26T22:52:44.456673+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 22:40 UTC  
+**Last Updated:** December 26, 2025 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
+**24h:** +0.8%  
 **7d:** -1.7%  
 **30d:** -2.8%  
 **90d:** -29.2%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.12B
+**Market Cap:** $352.85B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.8%
 
 **All-Time Low:** $0.43
-+675466.3%
++675893.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 11h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 12h ago
 
 ---
 
@@ -154,14 +154,6 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
-
-Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
-
-Crypto Briefing • 3d ago
-
----
-
 **[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
@@ -170,27 +162,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
-
-Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
-
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
-
-Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
-
-Yahoo Finance • 8h ago
-
----
-
 **[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -224,6 +200,30 @@ CryptoSlate • 3d ago
 
 ---
 
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
+
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
+
+Decrypt • 3d ago
+
+---
+
+**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
+
+Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
+
+Coinpedia Fintech News • 12h ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 210 • 💬 126 • ⏱️ 18:00 • 6h ago
+👁️ 4K • 👍 210 • 💬 126 • ⏱️ 18:00 • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 BTDcrypto
 
-👁️ 44 • 👍 7 • 💬 43 • ⏱️ 16:56 • 3h ago
+👁️ 44 • 👍 7 • 💬 43 • ⏱️ 16:56 • 4h ago
 
 ---
 
