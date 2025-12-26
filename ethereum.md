@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T15:30:32.085417+00:00'
+updated: '2025-12-26T15:46:06.480710+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 15:30 UTC  
+**Last Updated:** December 26, 2025 at 15:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -2.0%  
-**30d:** -3.1%  
-**90d:** -29.5%  
-**1y:** -12.4%  
+**24h:** -0.7%  
+**7d:** -1.8%  
+**30d:** -3.0%  
+**90d:** -29.3%  
+**1y:** -12.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 4h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 282 • 24m ago
+👁️ 2K • 👍 282 • 39m ago
 
 ---
 

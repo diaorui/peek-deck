@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T15:30:32.079451+00:00'
+updated: '2025-12-26T15:46:06.474682+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 15:30 UTC  
+**Last Updated:** December 26, 2025 at 15:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.4%  
-**30d:** -4.7%  
-**90d:** -22.3%  
-**1y:** -7.6%  
+**24h:** -1.6%  
+**7d:** -1.7%  
+**30d:** -5.0%  
+**90d:** -22.5%  
+**1y:** -7.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Video cred: clusk
 
 **[When gold is measured against the U.S. money supply, it’s back at a level that historically marked major turning points. This ratio was last seen in 2011 and before that in the early 1970s, just ahead of gold’s explosive multi-year run. Today, gold has rallied about 70% this year and is pressing ag](https://www.reddit.com/r/Bitcoin/comments/1pw6205/when_gold_is_measured_against_the_us_money_supply/)**
 
-38m ago
+54m ago
 
 ---
 
@@ -323,7 +323,7 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 44K • 👍 3K • 💬 251 • ⏱️ 10:10 • 20h ago
+👁️ 44K • 👍 3K • 💬 251 • ⏱️ 10:10 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ crypto #bitcoin #crash On the USD1 pair, it suddenly crashed to $24000 ...
 
 📺 Crypto Angler
 
-👁️ 681 • 👍 45 • 💬 20 • ⏱️ 4:26 • 8h ago
+👁️ 681 • 👍 45 • 💬 20 • ⏱️ 4:26 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T15:30:32.071035+00:00'
+updated: '2025-12-26T15:46:06.466157+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 15:30 UTC  
+**Last Updated:** December 26, 2025 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 I'm all for free speech, but something about this isn't sitting right. There are two sides to this: Grok did exactly what Elon asked it to do. Is it a good thing that it's obeying orders without question? It's too unhinged. When does this become unsafe for general use? How strict should the guardrails be for LLMs? Would love to hear your thoughts.
 
-20m ago
+36m ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 1h ago
 
 **[Soft skills in the AI era](https://www.fastcompany.com/91465041/soft-skills-in-the-ai-era)**
 
-Fast Company • 17m ago
+Fast Company • 32m ago
 
 ---
 
@@ -145,13 +145,13 @@ Fast Company • 17m ago
 
 SoundHound may reward long-term patient investors with robust returns.
 
-The Motley Fool • 42m ago
+The Motley Fool • 58m ago
 
 ---
 
 **[Stocks Touch Record as Nvidia Gains on AI Licensing Deal](https://www.bloomberg.com/news/articles/2025-12-26/stocks-touch-record-as-nvidia-gains-on-ai-licensing-deal)**
 
-Bloomberg.com • 45m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 45m ago
 
 The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
 
-Fox News • 57m ago
+Fox News • 1h ago
 
 ---
 
@@ -261,7 +261,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 69 • 💬 30 • 7h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 69 • 💬 30 • 8h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -365,7 +365,7 @@ In this video, I'll be showing you a cheat code workflow that combines Claude 4.
 
 📺 AI AimanJunaidi
 
-👁️ 24K • 👍 3K • 💬 179 • ⏱️ 27:22 • 10h ago
+👁️ 24K • 👍 3K • 💬 179 • ⏱️ 27:22 • 11h ago
 
 ---
 
@@ -461,7 +461,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 261 • 7h ago
+⬇️ 121 • ❤️ 261 • 8h ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 747 • 8h ago
+⭐ 6.8k • 🔱 747 • 9h ago
 
 ---
 
@@ -674,7 +674,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 213 • 50m ago
+⭐ 3.1k • 🔱 213 • 1h ago
 
 ---
 
@@ -714,7 +714,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 226 • 2h ago
+⭐ 1.3k • 🔱 226 • 3h ago
 
 ---
 
