@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T17:32:02.529411+00:00'
+updated: '2025-12-26T17:46:27.247001+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 17:32 UTC  
+**Last Updated:** December 26, 2025 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -1.2%  
-**30d:** -4.5%  
-**90d:** -22.1%  
-**1y:** -7.4%  
+**24h:** -0.9%  
+**7d:** -1.1%  
+**30d:** -4.4%  
+**90d:** -22.0%  
+**1y:** -7.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1735.52B
+**Market Cap:** $1742.55B
 Rank #1
 
 **Circulating Supply:** 19,967,421 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--31.0%
+-30.8%
 
 **All-Time Low:** $67.81
-+128128.9%
++128649.4%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
+**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-6h ago
+10h ago
 
 ---
 
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+**[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-21h ago
+7h ago
 
 ---
 
@@ -95,15 +95,27 @@ Rank #1
 
 ---
 
-**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-10h ago
+21h ago
+
+---
+
+**[10 Year old decided no gifts this year instead wanted money under the tree to buy BTC.](https://www.reddit.com/r/Bitcoin/comments/1pw9fmk/10_year_old_decided_no_gifts_this_year_instead/)**
+
+31m ago
 
 ---
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
 15h ago
+
+---
+
+**[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
+
+19m ago
 
 ---
 
@@ -115,29 +127,17 @@ Video cred: clusk
 
 ---
 
+**[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
+
+12m ago
+
+---
+
 **[How old is bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pw305j/how_old_is_bitcoin/)**
 
 These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 5h ago
-
----
-
-**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
-
-14h ago
-
----
-
-**[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
-
-23h ago
-
----
-
-**[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
-
-1d ago
 
 ---
 
@@ -153,15 +153,47 @@ Bloomberg.com • 4h ago
 
 ---
 
-**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-Forbes • 5h ago
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqd5_mzCVi-GUoqIGtjbwjP6-UvYfQlCNJlI6TlUgbRAyj2X-op3jktQ&gaa_ts=694ec4fc&gaa_sig=wLdOIMPII15waB3pl117PT9JMLfbOeZ8gCdsITi4h_-Mni9Ho-WAOCxbnNXoYsM5tdgFitoGdJVMRxhkjAYFuA%3D%3D)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records?utm_source=news.xml&utm_medium=rss)**
+
+The Block • 6m ago
+
+---
+
+**[The Real Reason Bitcoin Dropped Like A Stone From Its $126,000 All-Time High](https://finance.yahoo.com/news/real-reason-bitcoin-dropped-stone-190144386.html)**
+
+Bitcoin (CRYPTO: BTC) is down $40,000 from its peak at the start of October. According to new analysis it wasn’t retail traders or overleveraged longs that did the damage—it was whales who bought around the $126,000 all-time high and panic-sold into ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+
+Bitcoin is on pace to end 2025 having lost money for its investors.
+
+The Motley Fool • 6h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcG13vDr2-3qMTi4zI1GAYfFa9XYcbO2mpRl9kaaE1T7-FRWvksdy9U&gaa_ts=694ecd5d&gaa_sig=rx8LyU9waVjeaYUYbCBFXf1L4Usp73RxP9JaE1SOWi6MeRu6pPYKhyP1hgFHCnQbMN4_qeHQ2uytZ67LXSLEnw%3D%3D)**
 
 The Wall Street Journal • 2d ago
+
+---
+
+**[Bitcoin December 26 daily chart alert - Holiday pause continues Friday](https://www.kitco.com/news/article/2025-12-26/bitcoin-december-26-daily-chart-alert-holiday-pause-continues-friday)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 7h ago
 
 ---
 
@@ -169,27 +201,15 @@ The Wall Street Journal • 2d ago
 
 In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
 
-Cleveland.com • 3h ago
+Cleveland.com • 4h ago
 
 ---
 
-**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
+**[Death Cross Threat Returns for Bitcoin, and $67,000 Is Not Meme Number Anymore](https://www.tradingview.com/news/u_today:6be5ac36d094b:0-death-cross-threat-returns-for-bitcoin-and-67-000-is-not-meme-number-anymore/)**
 
-The Block • 23h ago
+Bitcoin just got the kind of chart setup that makes even confident dip-buyers check their leverage twice today. On the weekly BINANCE:BTCUSDT chart, the price is around $88,690 and the market participants are better to stare at a death-cross setup with about two days left in the current candle.This…
 
----
-
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
-
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 1d ago
-
----
-
-**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
-
-CCN.com • 23h ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -198,20 +218,6 @@ CCN.com • 23h ago
 Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
-
-Reuters • 2d ago
-
----
-
-**[World’s oldest Bitcoin Mining Pool celebrates 15th anniversary, has mined 1,311,339 bitcoins worth $115 billion — group has 255 billion times more hash power than at inception](https://www.tomshardware.com/tech-industry/cryptomining/worlds-oldest-bitcoin-mining-pool-celebrates-15th-anniversary-has-mined-1-311-339-bitcoins-worth-usd115-billion-group-has-255-billion-times-more-hash-power-than-at-inception)**
-
-Slush proposed the first cooperative mining operation dubbed Bitcoin CZ, which became Slush Pool, and continues to run as the Braiins Pool.
-
-Tom's Hardware • 2d ago
 
 ---
 
@@ -291,7 +297,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 4K • 👍 759 • 💬 208 • ⏱️ 8:28 • 2h ago
+👁️ 4K • 👍 759 • 💬 208 • ⏱️ 8:28 • 3h ago
 
 ---
 
@@ -321,7 +327,7 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 46K • 👍 3K • 💬 226 • ⏱️ 10:10 • 22h ago
+👁️ 46K • 👍 3K • 💬 226 • ⏱️ 10:10 • 23h ago
 
 ---
 
@@ -351,7 +357,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 1h ago
+👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 2h ago
 
 ---
 
@@ -361,7 +367,7 @@ crypto #bitcoin #crash On the USD1 pair, it suddenly crashed to $24000 ...
 
 📺 Crypto Angler
 
-👁️ 840 • 👍 51 • 💬 13 • ⏱️ 4:26 • 10h ago
+👁️ 840 • 👍 51 • 💬 13 • ⏱️ 4:26 • 11h ago
 
 ---
 

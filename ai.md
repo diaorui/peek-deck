@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T17:32:02.521018+00:00'
+updated: '2025-12-26T17:46:27.238485+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 17:32 UTC  
+**Last Updated:** December 26, 2025 at 17:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 ---
 
-**[AI Trends to watch in 2026](https://www.reddit.com/r/artificial/comments/1pw82h8/ai_trends_to_watch_in_2026/)**
-
-𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
-
-1h ago
-
----
-
 **[EngineAI T800: humanoid robot performs incredible martial arts moves](https://www.reddit.com/r/artificial/comments/1pvv1dh/engineai_t800_humanoid_robot_performs_incredible/)**
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
@@ -66,6 +58,14 @@ The name “T800” still triggers an automatic association with the science fic
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
 🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 1d ago
+
+---
+
+**[AI Trends to watch in 2026](https://www.reddit.com/r/artificial/comments/1pw82h8/ai_trends_to_watch_in_2026/)**
+
+𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
+
+1h ago
 
 ---
 
@@ -135,23 +135,23 @@ The Guardian • 3h ago
 
 ---
 
-**[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqebu_t_jMKdms4KIQRutpHm3OZYTuqH6UH4H_XpveelpG6iolmOv07P&gaa_ts=694ec4fd&gaa_sig=3WFEL1Tw_2gOLGha5SOsYrqFw3S_cnFFbcj4_CBZsBjzWldZ0rNVH2gbFtLOT2KD9apGWcpHhmkdkOmlYcN7lg%3D%3D)**
+**[What Will AI Flip Into?](https://www.bloomberg.com/news/newsletters/2025-12-26/what-will-ai-flip-into)**
 
-MarketWatch • 1h ago
-
----
-
-**[How 2025 Recalibrated AI Models Race](https://www.forbes.com/sites/geruiwang/2025/12/26/how-2025-recalibrated-ai-models-race/)**
-
-Forbes • 1h ago
+Bloomberg.com • 31m ago
 
 ---
 
-**[GOP lawmaker shredded for posting AI images of himself beating up Santa on Christmas](https://www.independent.co.uk/news/world/americas/us-politics/chris-garten-indiana-christmas-post-b2890729.html)**
+**[America’s richest tech titans reap $550 billion windfall from AI surge](https://nypost.com/2025/12/26/business/americas-richest-tech-titans-reap-550b-windfall-from-ai-surge/)**
 
-Indiana state Sen. Chris Garten acknowledged the backlash and labeled his critics ‘snowflakes’
+The staggering total, up from $1.9 trillion at the start of the year, reflects Wall Street’s all-in bet on artificial intelligence.
 
-The Independent • 1h ago
+New York Post • 9m ago
+
+---
+
+**[From OpenAI to Nvidia, here’s a list of recent multibillion-dollar AI deals](https://www.fastcompany.com/91467080/openai-nvidia-heres-list-recent-multi-billion-dollar-ai-deals)**
+
+Fast Company • 39m ago
 
 ---
 
@@ -163,19 +163,19 @@ CNBC • 5h ago
 
 ---
 
+**[I spent a year interviewing and listening to over 50 tech leaders talk about AI. Here are the 4 biggest lessons.](https://www.businessinsider.com/tech-leaders-ai-interview-podcast-conference-lessons-workforce-career-tips-2025-12)**
+
+I spent a year listening to tech leaders talk about AI. Here are the biggest lessons on AI, work, superintelligence, and what comes next.
+
+Business Insider • 10h ago
+
+---
+
 **[Fox News AI Newsletter: How we can live with AI without losing our humanity](https://www.foxnews.com/tech/ai-newsletter-how-we-can-live-ai-without-losing-our-humanity)**
 
 The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
 
-Fox News • 2h ago
-
----
-
-**[The Rise of the AI Wingman](https://www.businessinsider.com/ai-wingman-dating-helper-tinder-hinge-pickup-lines-chatgpt-2025-12)**
-
-Daters are using AI to slide into DMs and craft Hinge profiles. A crop of startups and dating apps are fighting for these AI-powered daters.
-
-Business Insider • 8h ago
+Fox News • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 1d ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 430 • 💬 120 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 431 • 💬 120 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -213,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 251 • 💬 286 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 253 • 💬 292 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -253,7 +253,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 77 • 💬 38 • 9h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 82 • 💬 39 • 10h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -347,7 +347,7 @@ Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing th
 
 📺 Bigfoot Feed
 
-👁️ 5K • 👍 96 • 💬 18 • ⏱️ 8:04 • 18h ago
+👁️ 5K • 👍 96 • 💬 18 • ⏱️ 8:04 • 19h ago
 
 ---
 
@@ -357,7 +357,7 @@ It's probably not possible to satisfactorily condense a 12 month's worth of weir
 
 📺 AI Explained
 
-👁️ 70K • 👍 3K • 💬 389 • ⏱️ 33:27 • 2d ago
+👁️ 70K • 👍 3K • 💬 389 • ⏱️ 33:27 • 3d ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 942 • 3d ago
+⬇️ 4,752 • ❤️ 943 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,448 • 18d ago
+⬇️ 402,987 • ❤️ 3,449 • 18d ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 287 • 9h ago
+⬇️ 121 • ❤️ 294 • 10h ago
 
 ---
 
@@ -487,7 +487,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 426 • 3d ago
+⬇️ 0 • ❤️ 427 • 3d ago
 
 ---
 
@@ -527,9 +527,21 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 13 • 💬 2 • ⭐ 5,305 • 15d ago
+▲ 15 • 💬 2 • ⭐ 5,305 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 8 • 💬 0 • ⭐ 61,788 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -544,18 +556,6 @@ Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy a
 ▲ 72 • 💬 5 • ⭐ 204 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
-
----
-
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 8 • 💬 0 • ⭐ 61,694 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -618,7 +618,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 212 • 💬 5 • ⭐ 7,927 • 29d ago
+▲ 213 • 💬 5 • ⭐ 7,927 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 748 • 10h ago
+⭐ 6.8k • 🔱 748 • 11h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 470 • 1h ago
+⭐ 3.6k • 🔱 472 • 46m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 2h ago
+⭐ 3.1k • 🔱 214 • 23m ago
 
 ---
 
@@ -686,7 +686,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.1k • 🔱 394 • 20d ago
+⭐ 2.1k • 🔱 395 • 20d ago
 
 ---
 
@@ -716,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 227 • 1h ago
+⭐ 1.3k • 🔱 227 • 2h ago
 
 ---
 
@@ -736,7 +736,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 935 • 🔱 132 • 9d ago
+⭐ 939 • 🔱 132 • 9d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T17:32:02.535380+00:00'
+updated: '2025-12-26T17:46:27.253120+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 17:32 UTC  
+**Last Updated:** December 26, 2025 at 17:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -1.5%  
-**30d:** -2.7%  
-**90d:** -29.1%  
-**1y:** -11.9%  
+**24h:** -1.0%  
+**7d:** -1.8%  
+**30d:** -2.9%  
+**90d:** -29.3%  
+**1y:** -12.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $351.40B
+**Market Cap:** $352.78B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.1%
+-40.9%
 
 **All-Time Low:** $0.43
-+673015.8%
++674932.7%
 
 ---
 
@@ -80,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 6h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 7h ago
+
+---
+
+**[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
+
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 9m ago
 
 ---
 
@@ -136,14 +142,6 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 ---
 
-**[[RFC] Full support for MCP commands during fuzzing campaigns in Echidna](https://www.reddit.com/r/ethereum/comments/1puhf3e/rfc_full_support_for_mcp_commands_during_fuzzing/)**
-
-This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
-
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -194,17 +192,17 @@ CCN.com • 1d ago
 
 ---
 
-**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
+**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
 
-TradingView — Track All Markets • 17h ago
+BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
+
+Seeking Alpha • 1h ago
 
 ---
 
-**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
+**[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
 
-Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
-
-CryptoSlate • 3d ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -216,11 +214,11 @@ Coinpedia Fintech News • 6h ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+**[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
 
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
-ts2.tech • 1d ago
+CryptoSlate • 3d ago
 
 ---
 
@@ -234,7 +232,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 1h ago
+👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 2h ago
 
 ---
 

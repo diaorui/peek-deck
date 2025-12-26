@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T17:32:02.538639+00:00'
+updated: '2025-12-26T17:46:27.256353+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 17:32 UTC  
+**Last Updated:** December 26, 2025 at 17:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-13h ago
+14h ago
 
 ---
 
@@ -82,7 +82,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-26m ago
+40m ago
 
 ---
 
@@ -112,19 +112,19 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 ## Google News: "robotics"
 
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 2d ago
-
----
-
 **[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
 
 China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
 
 Earth.com • 2d ago
+
+---
+
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
+
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -136,17 +136,17 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+**[Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html)**
 
-Tech Xplore • 19h ago
+We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
-
-Yahoo Finance • 5h ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -166,14 +166,6 @@ Tom's Hardware • 6h ago
 
 ---
 
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 3h ago
-
----
-
 **[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
 
 : Investment and interest have outpaced technology and society
@@ -182,11 +174,17 @@ theregister.com • 1d ago
 
 ---
 
-**[UBTech’s US$237 million Fenglong deal tightens humanoid robot supply chain](https://www.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain)**
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
 
-Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-South China Morning Post • 1d ago
+Fortune • 3h ago
+
+---
+
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
+
+Investor's Business Daily • 2d ago
 
 ---
 
