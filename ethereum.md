@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T18:38:18.480049+00:00'
+updated: '2025-12-26T18:56:09.910338+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 18:38 UTC  
+**Last Updated:** December 26, 2025 at 18:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 8h ago
 
 ---
 
@@ -188,7 +188,7 @@ CCN.com • 1d ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView — Track All Markets • 18h ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 7h ago
+Coinpedia Fintech News • 8h ago
 
 ---
 
@@ -232,7 +232,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 2h ago
+👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 3h ago
 
 ---
 
@@ -302,7 +302,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 22 • 👍 1 • ⏱️ 8:56 • 7h ago
+👁️ 22 • 👍 1 • ⏱️ 8:56 • 8h ago
 
 ---
 

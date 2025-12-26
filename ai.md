@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T18:38:18.464045+00:00'
+updated: '2025-12-26T18:56:09.897699+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - news
 - videos
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 18:38 UTC  
+**Last Updated:** December 26, 2025 at 18:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -147,7 +147,7 @@ New York Post • 1h ago
 
 A new study found that about 13% of kids and young adults reported using AI for mental health advice. Researchers say those rates are “remarkably high.”
 
-People.com • 26m ago
+People.com • 43m ago
 
 ---
 
@@ -155,7 +155,7 @@ People.com • 26m ago
 
 Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-Yahoo Finance • 4m ago
+Yahoo Finance • 22m ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 6h ago
 
 **[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
 
-Marcus on AI • 3h ago
+Marcus on AI • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ Financial Times • 1d ago
 
 AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing th
 
 📺 Bigfoot Feed
 
-👁️ 5K • 👍 96 • 💬 18 • ⏱️ 8:04 • 19h ago
+👁️ 5K • 👍 96 • 💬 18 • ⏱️ 8:04 • 20h ago
 
 ---
 
@@ -515,7 +515,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 63 • 💬 2 • ⭐ 2,260 • 8d ago
+▲ 63 • 💬 2 • ⭐ 2,473 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 748 • 11h ago
+⭐ 6.8k • 🔱 748 • 12h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 472 • 1h ago
+⭐ 3.7k • 🔱 472 • 34m ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 1h ago
+⭐ 3.1k • 🔱 214 • 53m ago
 
 ---
 
@@ -698,7 +698,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.6k • 🔱 67 • 2d ago
+⭐ 1.6k • 🔱 68 • 2d ago
 
 ---
 
@@ -738,7 +738,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 939 • 🔱 132 • 9d ago
+⭐ 941 • 🔱 133 • 9d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T18:38:18.472821+00:00'
+updated: '2025-12-26T18:56:09.905140+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 18:38 UTC  
+**Last Updated:** December 26, 2025 at 18:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.1%  
-**30d:** -4.4%  
-**90d:** -22.0%  
-**1y:** -7.3%  
+**24h:** -1.2%  
+**7d:** -1.4%  
+**30d:** -4.7%  
+**90d:** -22.2%  
+**1y:** -7.6%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ Rank #1
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 2h ago
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records?utm_source=news.xml&utm_medium=rss)**
 
-The Block • 57m ago
+The Block • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ The Wall Street Journal • 2d ago
 
 In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
 
-Cleveland.com • 4h ago
+Cleveland.com • 5h ago
 
 ---
 
@@ -281,7 +281,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
 
-⬆️ 3 • 💬 0 • 43m ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+⬆️ 3 • 💬 0 • 1h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
 
 ---
 
@@ -305,7 +305,7 @@ Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
 
 📺 100XClub
 
-👁️ 4K • 👍 759 • 💬 208 • ⏱️ 8:28 • 3h ago
+👁️ 4K • 👍 759 • 💬 208 • ⏱️ 8:28 • 4h ago
 
 ---
 
@@ -335,7 +335,7 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 46K • 👍 3K • 💬 226 • ⏱️ 10:10 • 23h ago
+👁️ 46K • 👍 3K • 💬 226 • ⏱️ 10:10 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 2h ago
+👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 3h ago
 
 ---
 
@@ -375,7 +375,7 @@ crypto #bitcoin #crash On the USD1 pair, it suddenly crashed to $24000 ...
 
 📺 Crypto Angler
 
-👁️ 840 • 👍 51 • 💬 13 • ⏱️ 4:26 • 11h ago
+👁️ 840 • 👍 51 • 💬 13 • ⏱️ 4:26 • 12h ago
 
 ---
 
