@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T13:47:38.576936+00:00'
+updated: '2025-12-26T13:59:24.252109+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 13:47 UTC  
+**Last Updated:** December 26, 2025 at 13:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,15 +57,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 Vincke kicked off an uproar earlier this week when he said that Larian makes use of generative AI "to explore ideas."
 
-🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 20h ago
-
----
-
-**[[P] Zahaviel Structured Intelligence: A Recursive Cognitive Operating System for Externalized Thought (Paper)](https://www.reddit.com/r/artificial/comments/1pvq9ri/p_zahaviel_structured_intelligence_a_recursive/)**
-
-We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
-
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 13h ago
+🔗 [PC Gamer](https://www.pcgamer.com/software/ai/swen-vincke-promises-an-ama-to-clear-up-larians-use-of-generative-ai-youll-get-the-opportunity-to-ask-us-any-questions-you-have-about-divinity-and-our-dev-process-directly/) • 21h ago
 
 ---
 
@@ -77,11 +69,19 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 ---
 
+**[[P] Zahaviel Structured Intelligence: A Recursive Cognitive Operating System for Externalized Thought (Paper)](https://www.reddit.com/r/artificial/comments/1pvq9ri/p_zahaviel_structured_intelligence_a_recursive/)**
+
+We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
+
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 14h ago
+
+---
+
 **[AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces](https://www.reddit.com/r/artificial/comments/1pvlexa/aipowered_police_body_cameras_once_taboo_get/)**
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 17h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 18h ago
 
 ---
 
@@ -101,19 +101,19 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
-**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
-
-“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
-
-🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 2d ago
-
----
-
 **[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
 
 Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
 
 1d ago
+
+---
+
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 2d ago
 
 ---
 
@@ -134,36 +134,6 @@ The Guardian • 2h ago
 Elon Musk stays on top as Nvidia’s Jensen Huang powers up the rankings on an AI-fuelled surge in fortunes
 
 Financial Times • 8h ago
-
----
-
-**[Nvidia to poach top staff from AI chip start-up Groq in licensing deal](https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45)**
-
-World’s most valuable company will gain engineer who helped develop Google’s Tensor Processing Unit chip programme
-
-Financial Times • 1d ago
-
----
-
-**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
-
-Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
-
-CNBC • 1d ago
-
----
-
-**[Nvidia to License Groq Technology in $20 Billion AI Chip Deal](https://finance.yahoo.com/news/nvidia-license-groq-technology-20-123939149.html)**
-
-Move strengthens Nvidia's data center strategy amid global surge in AI infrastructure spending.
-
-Yahoo Finance • 1h ago
-
----
-
-**[What’s ahead for Tesla as it doubles down on AI](https://www.marketwatch.com/story/whats-ahead-for-tesla-as-it-doubles-down-on-ai-8802e001?mod=home_invest&gaa_at=eafs&gaa_n=AWEtsqe-qWo9Sk0xv9o4uEP9YTnce1i-eP5yreEbO4oPLOmglNgSl4Ll_Ajx&gaa_ts=694e8f1b&gaa_sig=clm_ApIsuihMOaq1dvs2f5Nqh7qHl_CaWlIQXCj4ZpDuo_Jp00_Xr8dOlf0fNVEe7SsE_Z5Nwk5tFUxWLvJ_bA%3D%3D)**
-
-MarketWatch • 34m ago
 
 ---
 
@@ -197,6 +167,34 @@ The Motley Fool • 21h ago
 
 ---
 
+**[Why AI Could Make Human Jazz Popular Again](https://www.bloomberg.com/opinion/articles/2025-12-26/why-ai-could-make-human-jazz-popular-again)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
+
+From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
+
+MIT Technology Review • 1d ago
+
+---
+
+**[Vibe-coding with AI brings computer programming to everyone, with pitfalls](https://www.theglobeandmail.com/business/article-vibe-coding-ai-tools-software-app-development/)**
+
+Artificial-intelligence tools that assist with software development are upending the industry
+
+The Globe and Mail • 10h ago
+
+---
+
+**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+
+Axios • 1d ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -215,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 243 • 💬 259 • 23h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 243 • 💬 262 • 23h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -231,7 +229,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 180 • 💬 113 • 22h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 180 • 💬 113 • 23h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -263,7 +261,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 59 • 💬 20 • 6h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 63 • 💬 21 • 6h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -377,7 +375,7 @@ To learn for free on Brilliant, go to http://www.brilliant.org/howmoneyworks. Br
 
 📺 How Money Works
 
-👁️ 535K • 👍 17K • 💬 4K • ⏱️ 19:40 • 2d ago
+👁️ 535K • 👍 17K • 💬 4K • ⏱️ 19:40 • 3d ago
 
 ---
 
@@ -393,7 +391,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 934 • 3d ago
+⬇️ 4,752 • ❤️ 935 • 3d ago
 
 ---
 
@@ -405,7 +403,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,171 • ❤️ 753 • 7d ago
+⬇️ 14,171 • ❤️ 754 • 7d ago
 
 ---
 
@@ -429,7 +427,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,442 • 17d ago
+⬇️ 402,987 • ❤️ 3,444 • 17d ago
 
 ---
 
@@ -441,7 +439,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 11,437 • ❤️ 404 • 3d ago
+⬇️ 11,437 • ❤️ 406 • 3d ago
 
 ---
 
@@ -451,7 +449,19 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 333 • 7d ago
+⬇️ 0 • ❤️ 335 • 7d ago
+
+---
+
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 121 • ❤️ 231 • 6h ago
 
 ---
 
@@ -464,18 +474,6 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 `text-to-image`
 
 ⬇️ 7,170 • ❤️ 454 • 12d ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 121 • ❤️ 200 • 6h ago
 
 ---
 
@@ -618,7 +616,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 212 • 💬 5 • ⭐ 7,927 • 28d ago
+▲ 212 • 💬 5 • ⭐ 7,927 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -666,7 +664,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 466 • 29m ago
+⭐ 3.6k • 🔱 466 • 40m ago
 
 ---
 

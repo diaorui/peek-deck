@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T13:47:38.594974+00:00'
+updated: '2025-12-26T13:59:24.270066+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 13:47 UTC  
+**Last Updated:** December 26, 2025 at 13:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-6h ago
+7h ago
 
 ---
 
@@ -50,15 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-9h ago
-
----
-
-**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
-
-23h ago
+10h ago
 
 ---
 
@@ -67,6 +59,14 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
 4h ago
+
+---
+
+**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
+
+23h ago
 
 ---
 
@@ -84,17 +84,17 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 ---
 
-**[NEED HELP REGARDING DOBOT M1 SCARA](https://www.reddit.com/r/robotics/comments/1pw29sh/need_help_regarding_dobot_m1_scara/)**
-
-2h ago
-
----
-
 **[How do I connect my hiwonder somatosensory glove to my hiwonder robotic hand](https://www.reddit.com/r/robotics/comments/1pvlra3/how_do_i_connect_my_hiwonder_somatosensory_glove/)**
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
 17h ago
+
+---
+
+**[NEED HELP REGARDING DOBOT M1 SCARA](https://www.reddit.com/r/robotics/comments/1pw29sh/need_help_regarding_dobot_m1_scara/)**
+
+2h ago
 
 ---
 
@@ -126,6 +126,14 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
+
+In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
 A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
@@ -144,15 +152,7 @@ Tech Xplore • 16h ago
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
-New Atlas • 1d ago
-
----
-
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
-
-: Investment and interest have outpaced technology and society
-
-theregister.com • 1d ago
+New Atlas • 2d ago
 
 ---
 
@@ -164,19 +164,19 @@ Tom's Hardware • 2h ago
 
 ---
 
+**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+
+: Investment and interest have outpaced technology and society
+
+theregister.com • 1d ago
+
+---
+
 **[UBTech’s US$237 million Fenglong deal tightens humanoid robot supply chain](https://www.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain)**
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
 South China Morning Post • 1d ago
-
----
-
-**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
-
-In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
-
-Yahoo Finance • 2h ago
 
 ---
 

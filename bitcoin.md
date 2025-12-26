@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T13:47:38.585622+00:00'
+updated: '2025-12-26T13:59:24.260750+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 13:47 UTC  
+**Last Updated:** December 26, 2025 at 13:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.5%  
-**7d:** +0.7%  
+**7d:** +0.8%  
 **30d:** -2.6%  
-**90d:** -20.6%  
+**90d:** -20.5%  
 **1y:** -5.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.30B
+**Market Cap:** $1775.81B
 Rank #1
 
-**Circulating Supply:** 19,967,340 BTC
+**Circulating Supply:** 19,967,368 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.4%
 
 **All-Time Low:** $67.81
-+130820.2%
++131109.3%
 
 ---
 
@@ -85,9 +85,9 @@ The article from UNILAD: Erik Finman made a decision when he was 12 years old to
 
 ---
 
-**[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
+**[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-11h ago
+3h ago
 
 ---
 
@@ -97,15 +97,15 @@ The article from UNILAD: Erik Finman made a decision when he was 12 years old to
 
 ---
 
-**[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
-
-3h ago
-
----
-
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
 6h ago
+
+---
+
+**[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
+
+12h ago
 
 ---
 
@@ -113,13 +113,19 @@ The article from UNILAD: Erik Finman made a decision when he was 12 years old to
 
 Video cred: clusk
 
-15h ago
+16h ago
 
 ---
 
 **[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
 10h ago
+
+---
+
+**[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
+
+1h ago
 
 ---
 
@@ -135,12 +141,6 @@ Video cred: clusk
 
 ---
 
-**[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
-
-17h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -153,23 +153,29 @@ CoinDesk • 23h ago
 
 ---
 
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+**[Where Will Bitcoin Be in 10 Years?](https://www.fool.com/investing/2025/12/25/where-will-bitcoin-be-in-10-years/)**
 
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+Bitcoin turned a $10,000 starting investment into $2 million over the past decade, a gain that isn't going to repeat.
 
-The Motley Fool • 17h ago
-
----
-
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
-
-Bitcoin is on pace to end 2025 having lost money for its investors.
-
-The Motley Fool • 2h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdni3alc7jt4AmHbgPZ6AkWujzESlv2OYut0uM2XUv-E1EwK2ndUfn9&gaa_ts=694e8ef6&gaa_sig=bsBUE34gQjwVQtSMTxsD8v8EzYYWJ_wb9Sqb3En-4lHhpQzxDHsXPg8T5sX0pfvMsWAhRNSiTV1PKXdipZ6SyQ%3D%3D)**
+**[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 1h ago
+
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 34m ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcU_iYkFr3ziL5Dl_qm2mOy9lfEwWZUirBFFIToxPyt-XPYG4QWK36o&gaa_ts=694e9826&gaa_sig=Tt2LX8U1ECf7BdFQF6uxh0CPA4AzWVgZaNThZpob2IYYKzFRq7cuV6EYCNQW-JhHcFleeuGJeGUGJ3i5biRD9A%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -183,17 +189,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
-
-CCN.com • 19h ago
-
----
-
 **[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
 Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
 CoinDesk • 1d ago
+
+---
+
+**[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
+
+CCN.com • 19h ago
 
 ---
 
@@ -203,15 +209,11 @@ The Block • 19h ago
 
 ---
 
-**[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
+**[2026 will bring stablecoins, protocols and cybersecurity to the fore as Bitcoin and tokens cede the driver’s seat for now](https://www.kitco.com/news/article/2025-12-24/2026-will-bring-stablecoins-protocols-and-cybersecurity-fore-bitcoin-and)**
 
-thestreet.com • 20h ago
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
----
-
-**[Bitcoin price today: rises to $89k amid thin liquidity, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-thin-liquidity-etf-outflows-4422973)**
-
-Investing.com • 6h ago
+KITCO • 1d ago
 
 ---
 

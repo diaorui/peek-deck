@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T13:47:38.591692+00:00'
+updated: '2025-12-26T13:59:24.266785+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 13:47 UTC  
+**Last Updated:** December 26, 2025 at 13:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +0.1%  
-**30d:** -1.1%  
-**90d:** -28.0%  
-**1y:** -10.5%  
+**24h:** +1.7%  
+**7d:** +0.2%  
+**30d:** -1.0%  
+**90d:** -27.9%  
+**1y:** -10.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.94B
+**Market Cap:** $359.81B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.7%
 
 **All-Time Low:** $0.43
-+686921.8%
++688894.2%
 
 ---
 
@@ -178,12 +178,6 @@ CCN.com • 23h ago
 
 ---
 
-**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
-
-The Block • 2d ago
-
----
-
 **[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
 
 TradingView — Track All Markets • 13h ago
@@ -202,7 +196,7 @@ CryptoSlate • 2d ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia • 2h ago
+Coinpedia • 3h ago
 
 ---
 
@@ -211,6 +205,12 @@ Coinpedia • 2h ago
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
 ts2.tech • 21h ago
+
+---
+
+**[ETF data shows Bitcoin dominance held firm in 2025 as Ethereum gradually gained share](https://www.theblock.co/post/383550/etf-data-bitcoin-dominance-firm-2025-ethereum-gained-share)**
+
+The Block • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 7 • 👍 1 • ⏱️ 8:56 • 2h ago
+👁️ 7 • 👍 1 • ⏱️ 8:56 • 3h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 10K • 👍 307 • 💬 132 • ⏱️ 16:26 • 19h ago
+👁️ 10K • 👍 307 • 💬 132 • ⏱️ 16:26 • 20h ago
 
 ---
 
