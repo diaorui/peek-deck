@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T10:30:13.660204+00:00'
+updated: '2025-12-26T10:48:38.903784+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 10:30 UTC  
+**Last Updated:** December 26, 2025 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 AI hype has lost its luster, but a lot of AI people are super rich now.
 
-Gizmodo • 30m ago
+Gizmodo • 48m ago
 
 ---
 
@@ -147,7 +147,7 @@ Gizmodo • 30m ago
 
 Y Combinator pitch decks raised millions in funding in 2025, as AI reshapes industries and expectations for young founders rise fast.
 
-Business Insider • 30m ago
+Business Insider • 48m ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 30m ago
 
 Rickards students hosted workshops covering tech and AI literacy to help seniors thwart any deceptive scams or misinformation spread online by AI.
 
-Tallahassee Democrat • 25m ago
+Tallahassee Democrat • 43m ago
 
 ---
 
@@ -267,7 +267,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 38 • 💬 10 • 2h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 38 • 💬 10 • 3h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -287,17 +287,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 11h ago
-
----
-
-**[AI Broke the Reality Filter and Its Freaking People Out](https://www.youtube.com/watch?v=25oVREyFqXw)**
-
-Something quietly changed over the last year. AI content stopped announcing itself. It stopped feeling stitched together. Motion ...
-
-📺 AI Revolution
-
-👁️ 15K • 👍 648 • 💬 51 • ⏱️ 9:31 • 2d ago
+👁️ 56K • 👍 1K • 💬 146 • ⏱️ 12:51 • 11h ago
 
 ---
 
@@ -307,7 +297,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 2K • 👍 89 • 💬 8 • ⏱️ 7:06 • 11h ago
+👁️ 2K • 👍 93 • 💬 8 • ⏱️ 7:06 • 11h ago
 
 ---
 
@@ -317,7 +307,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 100K • 👍 4K • 💬 417 • ⏱️ 30:43 • 2d ago
+👁️ 101K • 👍 4K • 💬 419 • ⏱️ 30:43 • 2d ago
 
 ---
 
@@ -327,7 +317,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 31K • 👍 1K • 💬 743 • ⏱️ 11:28 • 2d ago
+👁️ 32K • 👍 1K • 💬 753 • ⏱️ 11:28 • 2d ago
 
 ---
 
@@ -337,37 +327,7 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 25K • 👍 379 • 💬 43 • ⏱️ 8:00 • 2d ago
-
----
-
-**[How POWER Broke the COURTS...Can AI SAVE US?!?!](https://www.youtube.com/watch?v=pFec0QJ9Tfo)**
-
-Subscribe: https://www.youtube.com/@LegalAFMTN?sub_confirmation=1 Buy the Book: ...
-
-📺 Legal AF
-
-👁️ 18K • 👍 2K • 💬 188 • ⏱️ 33:49 • 17h ago
-
----
-
-**[Monkey Saved a Strawberry Tree from Dying 😭 | Emotional AI Story #ai #save #tree #monkey](https://www.youtube.com/watch?v=6IzdB1OkCzo)**
-
-Monkey Saved a Strawberry Tree from Dying | Emotional AI Story A monkey saved a strawberry tree in the desert… But the ...
-
-📺 AI Nature Tales
-
-👁️ 5K • 👍 308 • ⏱️ 0:47 • 17h ago
-
----
-
-**[The AI Accusations Need To Stop..](https://www.youtube.com/watch?v=QcUhBKOKfHk)**
-
-The AI Accusations Need To Stop.. JOIN!
-
-📺 Live Speedy
-
-👁️ 150K • 👍 6K • 💬 108 • ⏱️ 0:21 • 17h ago
+👁️ 26K • 👍 385 • 💬 43 • ⏱️ 8:00 • 2d ago
 
 ---
 
@@ -377,7 +337,47 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 478K • 👍 5K • 💬 113 • ⏱️ 10:06 • 21h ago
+👁️ 521K • 👍 5K • 💬 92 • ⏱️ 10:06 • 21h ago
+
+---
+
+**[The AI Accusations Need To Stop..](https://www.youtube.com/watch?v=QcUhBKOKfHk)**
+
+The AI Accusations Need To Stop.. JOIN!
+
+📺 Live Speedy
+
+👁️ 204K • 👍 7K • 💬 125 • ⏱️ 0:21 • 17h ago
+
+---
+
+**[Monkey Saved a Strawberry Tree from Dying 😭 | Emotional AI Story #ai #save #tree #monkey](https://www.youtube.com/watch?v=6IzdB1OkCzo)**
+
+Monkey Saved a Strawberry Tree from Dying | Emotional AI Story A monkey saved a strawberry tree in the desert… But the ...
+
+📺 AI Nature Tales
+
+👁️ 6K • 👍 378 • ⏱️ 0:47 • 17h ago
+
+---
+
+**[Elephant serve a tamato plant #ai #tomato #elephant](https://www.youtube.com/watch?v=iktKpta7sh8)**
+
+Elephant serve a tamato plant #ai #tomato #elephant.
+
+📺 ToolShool
+
+👁️ 948 • 👍 26 • ⏱️ 0:34 • 1h ago
+
+---
+
+**[AI Machine FAILS in Dubai — Everyone Shocked 😳⚠️](https://www.youtube.com/watch?v=yWH6gIMJeVE)**
+
+The future goes wrong: AI-powered styling machine glitches near the Burj Khalifa, shaving her head instantly. Real reactions, real ...
+
+📺 ANSA LENA
+
+👁️ 1.0M • 👍 6K • 💬 23 • ⏱️ 0:12 • 2d ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.7k • 🔱 742 • 3h ago
+⭐ 6.7k • 🔱 742 • 4h ago
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 463 • 4m ago
+⭐ 3.6k • 🔱 463 • 23m ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 128 • 8m ago
+⭐ 1.3k • 🔱 128 • 26m ago
 
 ---
 

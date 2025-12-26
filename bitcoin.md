@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T10:30:13.668755+00:00'
+updated: '2025-12-26T10:48:38.911236+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 10:30 UTC  
+**Last Updated:** December 26, 2025 at 10:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,726.31
+### $88,794.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +0.6%  
-**30d:** -2.8%  
-**90d:** -20.7%  
-**1y:** -5.8%  
+**24h:** +1.2%  
+**7d:** +0.3%  
+**30d:** -3.1%  
+**90d:** -20.9%  
+**1y:** -6.1%  
 
 ---
 
@@ -105,7 +105,7 @@ Video cred: clusk
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ Video cred: clusk
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
 
-21h ago
+22h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin briefly plunged to $24,000 on Binance’s thinly traded BTC/USD1 pair during holiday trading. A large market sell order wiped out limited buy-side liquidity, triggering ...
 
-Yahoo Finance • 13m ago
+Yahoo Finance • 31m ago
 
 ---
 
@@ -209,7 +209,7 @@ thestreet.com • 17h ago
 
 Bitcoin’s market fundamentals have stayed strong in 2025, despite the asset’s price and sentiment declining toward the end of the year, says Strategy CEO Phong Le.“The fundamentals of the market this year for Bitcoin couldn’t be better,” Le told the “Coin Stories” podcast on Tuesday, emphasizing th…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -291,7 +291,17 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 407 • 💬 59 • ⏱️ 4:31 • 14h ago
+👁️ 10K • 👍 423 • 💬 120 • ⏱️ 4:31 • 14h ago
+
+---
+
+**[BITCOIN: NOW NOW NOW (BREAKING NEWS)](https://www.youtube.com/watch?v=54KPG2PU92Y)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 Coinflare: ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 169 • 💬 50 • ⏱️ 26:31 • 2h ago
 
 ---
 
@@ -301,67 +311,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 230 • ⏱️ 37:34 • 1d ago
-
----
-
-**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 452 • 💬 13 • ⏱️ 15:49 • 12h ago
-
----
-
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 20K • 👍 460 • 💬 72 • ⏱️ 1:12 • 1d ago
-
----
-
-**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 12K • 👍 450 • 💬 22 • ⏱️ 19:55 • 18h ago
-
----
-
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
-
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
-
-📺 Mark Moss
-
-👁️ 114K • 👍 4K • 💬 473 • ⏱️ 20:46 • 2d ago
-
----
-
-**[Bitcoin’s Doji Moment ⏸️: Volatility Now, Breakout Into 2026🔓?](https://www.youtube.com/watch?v=YTwqB3kVWxI)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
-
-📺 InvestAnswers
-
-👁️ 36K • 👍 4K • 💬 207 • ⏱️ 19:10 • 1d ago
-
----
-
-**[Dragonfly&#39;s Rob Hadick on 2026 crypto outlook, bitcoin price trends and future of prediction markets](https://www.youtube.com/watch?v=EJItqjJ3NxQ)**
-
-Rob Hadick, Dragonfly general partner, joins 'Squawk Box' to discuss the state of crypto, bitcoin price trends, 2026 outlook, future ...
-
-📺 CNBC Television
-
-👁️ 26K • 👍 334 • 💬 234 • ⏱️ 8:19 • 1d ago
+👁️ 54K • 👍 2K • 💬 232 • ⏱️ 37:34 • 1d ago
 
 ---
 
@@ -371,17 +321,67 @@ Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AI
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 85 • ⏱️ 6:23 • 2d ago
+👁️ 25K • 👍 3K • 💬 85 • ⏱️ 6:23 • 2d ago
 
 ---
 
-**[70% of Bitcoin Wealth Now Lives Above $85K](https://www.youtube.com/watch?v=DbENnxmz-6o)**
+**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
 
-Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a historic capital rotation in the market. Checkmate ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Swan Bitcoin
+📺 Savvy Finance
 
-👁️ 7K • 👍 170 • 💬 3 • ⏱️ 0:56 • 21h ago
+👁️ 12K • 👍 505 • 💬 43 • ⏱️ 15:49 • 12h ago
+
+---
+
+**[THE NEXT BITCOIN MOVE IS NOT WHAT YOU THINK... *CRAZY CHART*](https://www.youtube.com/watch?v=ZHPonsHx6zs)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 2K • 👍 283 • 💬 78 • ⏱️ 13:15 • 2h ago
+
+---
+
+**[BITCOIN: THE TRUTH YOU NEED...](https://www.youtube.com/watch?v=2g-WXiAfn1U)**
+
+WEEX: https://www.weex.com/events/promo/crazychristmas2-1?vipCode=00dt&qrType=activity 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 4K • 👍 307 • 💬 87 • ⏱️ 9:39 • 4h ago
+
+---
+
+**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 12K • 👍 459 • 💬 62 • ⏱️ 19:55 • 18h ago
+
+---
+
+**[BITCOIN DUMP WITHIN 24 HOURS !!!!](https://www.youtube.com/watch?v=KK9ztKo1WD4)**
+
+BloFin: https://themoon.co/blofinrolex Claim up to $1000 Bonus & Rolex Reward *WEEX is available in ALL COUNTRIES ...
+
+📺 The Moon Show
+
+👁️ 13K • 👍 802 • 💬 99 • ⏱️ 5:03 • 1d ago
+
+---
+
+**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
+
+Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
+
+📺 Mark Moss
+
+👁️ 115K • 👍 4K • 💬 475 • ⏱️ 20:46 • 2d ago
 
 ---
 

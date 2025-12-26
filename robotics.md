@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T10:30:13.678021+00:00'
+updated: '2025-12-26T10:48:38.919135+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 10:30 UTC  
+**Last Updated:** December 26, 2025 at 10:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-6h ago
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-19h ago
+20h ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 48K • 👍 920 • 💬 135 • ⏱️ 12:51 • 11h ago
+👁️ 56K • 👍 1K • 💬 146 • ⏱️ 12:51 • 11h ago
 
 ---
 
@@ -206,7 +206,17 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 2K • 👍 109 • 💬 7 • ⏱️ 1:30 • 5h ago
+👁️ 3K • 👍 132 • 💬 8 • ⏱️ 1:30 • 5h ago
+
+---
+
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 216K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -216,7 +226,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 15K • 👍 528 • 💬 131 • ⏱️ 21:33 • 9h ago
+👁️ 21K • 👍 648 • 💬 164 • ⏱️ 21:33 • 10h ago
 
 ---
 
@@ -226,7 +236,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 34K • 👍 537 • 💬 84 • ⏱️ 13:55 • 2d ago
+👁️ 34K • 👍 545 • 💬 84 • ⏱️ 13:55 • 2d ago
 
 ---
 
@@ -246,7 +256,7 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 54K • 👍 855 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+👁️ 54K • 👍 857 • 💬 99 • ⏱️ 2:08:46 • 6d ago
 
 ---
 
@@ -276,17 +286,7 @@ Al #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Ai Hypex
 
-👁️ 1.4M • 👍 8K • 💬 14 • ⏱️ 0:10 • 1d ago
-
----
-
-**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
-
-She Bought Two Robots    #shorts#trending.
-
-📺 Facto_Satish
-
-👁️ 72K • 💬 4 • ⏱️ 0:27 • 1d ago
+👁️ 1.5M • 👍 8K • 💬 14 • ⏱️ 0:10 • 1d ago
 
 ---
 

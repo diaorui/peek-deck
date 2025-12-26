@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T10:30:13.674787+00:00'
+updated: '2025-12-26T10:48:38.916392+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 10:30 UTC  
+**Last Updated:** December 26, 2025 at 10:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -226,23 +226,23 @@ BeInCrypto • 19h ago
 
 ## YouTube Videos: "ethereum"
 
+**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
+
+Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 22K • 👍 412 • 💬 112 • ⏱️ 11:00 • 2d ago
+
+---
+
 **[Bitcoin to $250K and Ethereum to $12K–$30K? Tom Lee Explains the End of the 4-Year Cycle](https://www.youtube.com/watch?v=vDgMIWxAP5Y)**
 
 In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bitcoin's traditional 4-year cycle may no longer ...
 
 📺 ekowreel
 
-👁️ 2K • 👍 67 • 💬 11 • ⏱️ 19:17 • 19h ago
-
----
-
-**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
-
-This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
-
-📺 CryptoStock Lab
-
-👁️ 761 • 👍 40 • ⏱️ 15:04 • 8h ago
+👁️ 3K • 👍 84 • 💬 15 • ⏱️ 19:17 • 19h ago
 
 ---
 
@@ -252,27 +252,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 166 • 💬 7 • ⏱️ 4:41 • 17h ago
+👁️ 3K • 👍 169 • 💬 7 • ⏱️ 4:41 • 18h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN HOLDERS: IT&#39;S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BaPDXfHioQk)**
+**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
 
-BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
 
-📺 Crypto World
+📺 CryptoStock Lab
 
-👁️ 8K • 👍 296 • 💬 56 • ⏱️ 16:26 • 16h ago
-
----
-
-**[WALL STREET IS USING ETHEREUM  (AND PRETENDING IT’S NOT)](https://www.youtube.com/watch?v=s_PqHSyPDeE)**
-
-Wall Street is quietly using Ethereum as financial infrastructure, Bitcoin dominance keeps rising, and ETF flows reveal where ...
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 18K • 👍 412 • 💬 112 • ⏱️ 11:00 • 2d ago
+👁️ 1K • 👍 44 • ⏱️ 15:04 • 8h ago
 
 ---
 
@@ -286,13 +276,23 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 ---
 
-**[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
+**[BITCOIN &amp; ALTCOIN HOLDERS: IT&#39;S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BaPDXfHioQk)**
 
-Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
+BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Trading Jip
+📺 Crypto World
 
-👁️ 644 • 👍 35 • 💬 32 • ⏱️ 7:57 • 22h ago
+👁️ 9K • 👍 304 • 💬 138 • ⏱️ 16:26 • 16h ago
+
+---
+
+**[Tom Lee&#39;s URGENT Message On The Next Rally, WARNING For All Investors](https://www.youtube.com/watch?v=MtJxxYaS9B0)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 136 • 💬 212 • ⏱️ 15:41 • 1d ago
 
 ---
 
@@ -306,23 +306,23 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
+**[Bitcoin &amp; Ethereum Analysis: I’m Concerned…](https://www.youtube.com/watch?v=-ekE2ovhD4w)**
+
+Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video: https://youtu.be/vwA7oRAXsFQ I am bearish ...
+
+📺 Trading Jip
+
+👁️ 693 • 👍 35 • 💬 46 • ⏱️ 7:57 • 22h ago
+
+---
+
 **[Why BlackRock Filed For An Ethereum Staking ETF (RIP Bonds?)](https://www.youtube.com/watch?v=onTEhbK1CW8)**
 
 BlackRock's ETH Staking ETF: Institutions Get Yield The "Digital Bond" era has officially begun. Following Grayscale's recent ...
 
 📺 Wall Street Stockcast
 
-👁️ 224 • 👍 10 • 💬 4 • ⏱️ 8:29 • 11h ago
-
----
-
-**[BITCOIN: 90% Will Miss This Move! (get ready) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=G5lDr_aK_Kw)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 9K • 👍 470 • 💬 71 • ⏱️ 13:14 • 1d ago
+👁️ 265 • 👍 11 • 💬 5 • ⏱️ 8:29 • 11h ago
 
 ---
 
