@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T09:28:33.241137+00:00'
+updated: '2025-12-26T09:46:17.623778+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 09:28 UTC  
+**Last Updated:** December 26, 2025 at 09:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -139,13 +139,13 @@ The New York Times • 23h ago
 
 Top hedge fund manager Ken Griffin sold Amazon and bought Palantir in the third quarter.
 
-The Motley Fool • 33m ago
+The Motley Fool • 51m ago
 
 ---
 
 **[What Happens When We Insist on Optimizing Fun?](https://www.bloomberg.com/news/features/2025-12-26/how-ai-is-changing-the-games-we-play-from-poker-to-curling)**
 
-Bloomberg.com • 28m ago
+Bloomberg.com • 46m ago
 
 ---
 
@@ -154,7 +154,7 @@ Bloomberg.com • 28m ago
 Highmark Health is preparing for the future by expanding its artificial intelligence capabilities in 2026.
 Highmark’s history with AI reaches back...
 
-Pittsburgh Post-Gazette • 28m ago
+Pittsburgh Post-Gazette • 46m ago
 
 ---
 
@@ -306,7 +306,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 2K • 👍 89 • 💬 8 • ⏱️ 7:06 • 9h ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 7:06 • 10h ago
 
 ---
 
@@ -346,7 +346,7 @@ Subscribe: https://www.youtube.com/@LegalAFMTN?sub_confirmation=1 Buy the Book: 
 
 📺 Legal AF
 
-👁️ 18K • 👍 2K • 💬 188 • ⏱️ 33:49 • 16h ago
+👁️ 18K • 👍 2K • 💬 188 • ⏱️ 33:49 • 17h ago
 
 ---
 
@@ -392,7 +392,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 916 • 2d ago
+⬇️ 4,752 • ❤️ 916 • 3d ago
 
 ---
 
@@ -528,7 +528,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 13 • 💬 2 • ⭐ 5,230 • 14d ago
+▲ 13 • 💬 2 • ⭐ 5,230 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -657,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.7k • 🔱 742 • 2h ago
+⭐ 6.7k • 🔱 742 • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 462 • 15m ago
+⭐ 3.6k • 🔱 462 • 33m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T09:28:33.259108+00:00'
+updated: '2025-12-26T09:46:17.641559+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 09:28 UTC  
+**Last Updated:** December 26, 2025 at 09:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-8m ago
+25m ago
 
 ---
 
@@ -96,7 +96,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hello everyone! It's the first time I've written here... so I'm in possession of a NAO robot, and to use it with my PC I need to have a specific version of the Choreographe Software. The version of the robot is the V6 so the compatible versions are starting from 2.8.5 onwards... I would really need the latter, since I have a very old version of macos and the newer one does not support it. So I ask if any of you have this specific version, or know how to get it.. thanks in advance ;)
 
-20m ago
+38m ago
 
 ---
 
@@ -216,7 +216,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 15K • 👍 528 • 💬 131 • ⏱️ 21:33 • 8h ago
+👁️ 15K • 👍 528 • 💬 131 • ⏱️ 21:33 • 9h ago
 
 ---
 
