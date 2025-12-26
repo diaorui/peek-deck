@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T22:52:44.456673+00:00'
+updated: '2025-12-26T23:14:22.309633+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 22:52 UTC  
+**Last Updated:** December 26, 2025 at 23:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -1.7%  
-**30d:** -2.8%  
+**24h:** +0.9%  
+**7d:** -1.6%  
+**30d:** -2.7%  
 **90d:** -29.2%  
-**1y:** -12.1%  
+**1y:** -12.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -244,7 +244,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 5K • ⏱️ 7:27 • 8h ago
+👁️ 5K • ⏱️ 7:27 • 9h ago
 
 ---
 
@@ -314,7 +314,7 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 459 • ⏱️ 10:51 • 2d ago
+👁️ 47K • 👍 3K • 💬 459 • ⏱️ 10:51 • 3d ago
 
 ---
 

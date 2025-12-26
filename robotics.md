@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T22:52:44.459932+00:00'
+updated: '2025-12-26T23:14:22.312819+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 22:52 UTC  
+**Last Updated:** December 26, 2025 at 23:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-16h ago
+17h ago
 
 ---
 
@@ -90,7 +90,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebots during CES, if anyone is gonna be in Vegas give me a shout! We had such an awesome time putting the first shows together in an abandoned parking lot and I know that a lot of you got a kick out of it. It's a huge honor to get to do a show at battlebots :)
 
-1h ago
+2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi folks! I'm the tech director for UFB, we have a huge show planned at Battlebo
 
 Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
 
-6h ago
+7h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have 
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-5h ago
+6h ago
 
 ---
 
@@ -172,7 +172,7 @@ Tech Xplore • 1d ago
 
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-Futura, Le média qui explore le monde • 8h ago
+Futura, Le média qui explore le monde • 9h ago
 
 ---
 
@@ -220,7 +220,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 11K • 👍 247 • 💬 13 • ⏱️ 1:30 • 17h ago
+👁️ 11K • 👍 247 • 💬 13 • ⏱️ 1:30 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtu
 
 📺 Its Nenaa
 
-👁️ 40K • 👍 1K • 💬 294 • ⏱️ 11:02 • 3d ago
+👁️ 40K • 👍 1K • 💬 294 • ⏱️ 11:02 • 4d ago
 
 ---
 

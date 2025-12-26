@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T22:52:44.450586+00:00'
+updated: '2025-12-26T23:14:22.303663+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 22:52 UTC  
+**Last Updated:** December 26, 2025 at 23:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.2%  
-**30d:** -4.5%  
-**90d:** -22.1%  
-**1y:** -7.4%  
+**24h:** +0.7%  
+**7d:** -0.9%  
+**30d:** -4.3%  
+**90d:** -21.9%  
+**1y:** -7.2%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
 
-33m ago
+54m ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
-53m ago
+1h ago
 
 ---
 
@@ -107,19 +107,19 @@ Never thought I would see a boutique featuring Bitcoin pillows in its window. Th
 
 The chart is from my full node, showing realized PnL by UTXO age band. This morning’s liquidation cascade added up to roughly $416M in realized losses, and almost all of it came from coins held 3–12 months. In other words, this move was not long-term HODLers dumping; it was the usual crowd of recent buyers running 3–12 month coins on leverage and getting wiped out when price was pushed into low-liquidity levels. Older coins (1.5+ years, multi-year) barely moved on-chain. These “liquidation hunts” will keep happening as long as people insist on leveraging short-term positions... there’s no real structural reason for price to stay pinned down here beyond providing fresh liquidation fuel. Same story as always: HODLers sit still, and leverage tourists donate their stack.
 
-3h ago
+4h ago
 
 ---
 
 **[Keep calm & stack sats](https://www.reddit.com/r/Bitcoin/comments/1pwdnfr/keep_calm_stack_sats/)**
 
-2h ago
+3h ago
 
 ---
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 9h ago
 
 Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 6h ago
 
 Find out which U.S. states lead in Bitcoin adoption, and which lag behind. Find out where Americans are buying crypto the most.
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -243,7 +243,7 @@ TradingView — Track All Markets • 7h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 3h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 4h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 1 • 💬 0 • 2h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 1 • 💬 0 • 3h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -297,7 +297,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
 
-⬆️ 4 • 💬 0 • 4h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+⬆️ 4 • 💬 0 • 5h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
 
 ---
 
@@ -381,7 +381,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 7K • 👍 720 • 💬 79 • ⏱️ 9:31 • 5h ago
+👁️ 7K • 👍 720 • 💬 79 • ⏱️ 9:31 • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ On today's episode of CNBC Crypto World, Matt Hougan, CIO of Bitwise Asset Manag
 
 📺 CNBC Television
 
-👁️ 2K • 👍 68 • 💬 66 • ⏱️ 19:19 • 2h ago
+👁️ 2K • 👍 68 • 💬 66 • ⏱️ 19:19 • 3h ago
 
 ---
 
