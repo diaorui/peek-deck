@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T08:56:58.397912+00:00'
+updated: '2025-12-26T09:28:33.249752+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 08:56 UTC  
+**Last Updated:** December 26, 2025 at 09:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +0.4%  
-**30d:** -2.9%  
-**90d:** -20.8%  
-**1y:** -5.9%  
+**24h:** +1.8%  
+**7d:** +0.5%  
+**30d:** -2.8%  
+**90d:** -20.7%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.43B
+**Market Cap:** $1771.42B
 Rank #1
 
-**Circulating Supply:** 19,967,253 BTC
+**Circulating Supply:** 19,967,271 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.7%
 
 **All-Time Low:** $67.81
-+130541.5%
++130650.6%
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 Video cred: clusk
 
-10h ago
-
----
-
-**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
-
-12h ago
+11h ago
 
 ---
 
@@ -97,15 +91,27 @@ Video cred: clusk
 
 ---
 
+**[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
+
+12h ago
+
+---
+
+**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
+
+6h ago
+
+---
+
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
 14h ago
 
 ---
 
-**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
+**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-5h ago
+2h ago
 
 ---
 
@@ -121,12 +127,6 @@ Video cred: clusk
 
 ---
 
-**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
-
-1h ago
-
----
-
 **[india just printed $32 billion out of thin air.](https://www.reddit.com/r/Bitcoin/comments/1pvcn4j/india_just_printed_32_billion_out_of_thin_air/)**
 
 the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
@@ -139,7 +139,7 @@ the reserve bank of india announced a $32 billion liquidity injection yesterday.
 
 If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
-13h ago
+14h ago
 
 ---
 
@@ -151,13 +151,13 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 14h ago
 
 Russian President Putin said that the US and Russia are in talks over the joint management of Zaporizhzhia Nuclear Power Plant, without Ukraine’s participation. He claimed that the US is interested in using the plant’s electricity for Bitcoin mining.During a meeting with business representatives, President Putin unveiled the plan, Russian ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -173,51 +173,47 @@ Yahoo Finance • 1h ago
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
-**[Where Will Bitcoin Be in 10 Years?](https://www.fool.com/investing/2025/12/25/where-will-bitcoin-be-in-10-years/)**
-
-Bitcoin turned a $10,000 starting investment into $2 million over the past decade, a gain that isn't going to repeat.
-
-The Motley Fool • 20h ago
-
----
-
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
-
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
-
-Investopedia • 1d ago
-
----
-
-**[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
-
-thestreet.com • 15h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeg0MHSWweP3qzEOJHZyIkZJ81SQ_UIUt2rt2Ui0gk2D6M4iutKnMUB&gaa_ts=694e4cf8&gaa_sig=cB1w50KIp6yWyII3ugLM7ob9EFxWXVp5CxlUBpWZqTzFdhyZky3GnMJjRQLJfjbzxg4GkX9qOTcjVq01XungLA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcBhVlw8vHbXKGgEMsW-PVAdjR8mZ5-vZMJdohNk7GXf_8hvJAiY_pc&gaa_ts=694e58af&gaa_sig=VTCHziraR0wBuWsX0f4JTQKlZVWeAwLdLqi2Zgv3H0IfJQq_TiUqjZhGwQnlVe5CunYuucMlbD38CMgZblMsdw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
+**[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
-Bitcoin is missing out on the Christmas cheer.
-
-Bloomberg.com • 1d ago
+thestreet.com • 16h ago
 
 ---
 
-**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+CCN.com • 19h ago
 
-Investopedia • 2d ago
+---
+
+**[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
+
+Reuters • 1d ago
+
+---
+
+**[Bitcoin Expected to Return to $60,000 According to Tom Lee’s Fund](https://www.tradingview.com/news/zycrypto:49041ee10094b:0-bitcoin-expected-to-return-to-60-000-according-to-tom-lee-s-fund/)**
+
+As 2026 approaches, Fundstrat’s internal forecasts reveal a stark contrast to co-founder Tom Lee’s public optimism.
+
+TradingView — Track All Markets • 11h ago
+
+---
+
+**[Bitcoin options worth $23.7B expire soon – Why traders expect fireworks](https://ambcrypto.com/bitcoin-options-worth-23-7b-expire-soon-why-traders-expect-fireworks/)**
+
+The Bitcoin Christmas week price action typically fades as liquidity returns in January.
+
+AMBCrypto • 12h ago
 
 ---
 
@@ -241,7 +237,7 @@ Investopedia • 2d ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 16h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 17h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -293,7 +289,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 407 • 💬 59 • ⏱️ 4:31 • 12h ago
+👁️ 9K • 👍 407 • 💬 59 • ⏱️ 4:31 • 13h ago
 
 ---
 
@@ -313,7 +309,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 452 • 💬 13 • ⏱️ 15:49 • 10h ago
+👁️ 10K • 👍 452 • 💬 13 • ⏱️ 15:49 • 11h ago
 
 ---
 
@@ -333,7 +329,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 450 • 💬 22 • ⏱️ 19:55 • 16h ago
+👁️ 12K • 👍 450 • 💬 22 • ⏱️ 19:55 • 17h ago
 
 ---
 
@@ -383,7 +379,7 @@ Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a 
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 170 • 💬 3 • ⏱️ 0:56 • 19h ago
+👁️ 7K • 👍 170 • 💬 3 • ⏱️ 0:56 • 20h ago
 
 ---
 
