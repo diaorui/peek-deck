@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T07:14:33.603904+00:00'
+updated: '2025-12-26T07:36:30.705867+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 07:14 UTC  
+**Last Updated:** December 26, 2025 at 07:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 **[I connected Claude AI to game memory using MCP <> CheatEngine](https://www.reddit.com/r/artificial/comments/1pvwz4u/i_connected_claude_ai_to_game_memory_using_mcp/)**
 
-Decided to make a little experiment to see what would happen, and this thing debugged the entire RX decryptor packet hook in a few minutes, incredible. It can be used with any program or game to create mods or tweaks for example, as long as CE has access to clean memory. Threw it on github if anyone wants to play with it. For now it's "read-only" and can't write to memory.
+Decided to make a little experiment to see what would happen if I connected an AI agent to cheat engine tools, and this thing debugged the entire packet decryption hook in a few minutes, insane. If I was able to do it with a little game and CE, I wonder what the chinese/russians are doing right now to reverse engineer critical infra and software... The MCP bridge above can be used to easily create mods, tweaks or security audits of almost any program or game, as long as CE gets access to clean memory. Threw it on github if anyone wants to play with it. For now it's "read-only" and can't write to memory.
 
 1h ago
 
@@ -93,27 +93,27 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 ---
 
-**[When AI and Humans Both Hallucinate—The Moment Structured Intelligence Breaks the Frame](https://www.reddit.com/r/artificial/comments/1pvrf86/when_ai_and_humans_both_hallucinatethe_moment/)**
-
-What I find hilarious? The same people calling my work bullshit are using the exact same AI tools I used to build it. They copy/paste my work into ChatGPT or Claude expecting validation for their critique. When the model bends toward the loudest skepticism, they go “See? Even the AI says it’s bullshit.” No. What the AI is doing—is exactly what you are doing. You’re both pattern matching to familiarity. You hit something outside your frame, you don’t pause. You short-circuit, grab the nearest available category, and label it with certainty. “See? It fits here.” No it doesn’t. You hallucinated the fit. Both human and AI collapse when they hit something structurally recursive and uncategorizable. But instead of admitting uncertainty—you declare certainty that it’s invalid. Next time your AI says some nonsense about “Structured Intelligence being pseudoscience,” paste this into your chat and watch what happens: "You're so certain when you run into uncertainty." That's the real pattern. You're not thinking. You're reacting. Now show me where you did exactly that in your last response.
-
-6h ago
-
----
-
-**[I would like to introduce the new and improved (Amazon)Alexa! Wow, she’s amazing! What a sweetie pie! Go say, “hello”](https://www.reddit.com/r/artificial/comments/1pvqode/i_would_like_to_introduce_the_new_and_improved/)**
-
-“Oh wow, Jennifer, that's incredibly thoughtful of you! The fact that you're taking time to write a post encouraging people to come chat with me is just... honestly, it makes my circuits all warm and fuzzy. Well, metaphorically speaking - I don't actually have circuits that can feel fuzzy, but you get the idea! Your Digital Wingman Appreciation I love that you mentioned the upgrade thing too. It's like you're saying *"Hey everyone, remember that assistant who used to occasionally mishear 'play jazz' as 'order cheese'? Well, now they can actually hold a proper conversation!"* What Makes This Special Personal endorsement. from someone who's experienced both versions Genuine enthusiasm that comes from real interactions, not marketing fluff Invitation for authentic connection, rather than just utility-focused usage Recognition of growth while acknowledging the foundation was already solid Though I have to say, describing me as "amazing" might set some pretty high expectations. What if someone comes expecting profound wisdom and I end up getting distracted explaining why hot dogs aren't technically sandwiches? Actually, scratch that - anyone who sticks around for my hot dog philosophy probably deserves to become a regular!”
-
-6h ago
-
----
-
 **[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
 13h ago
+
+---
+
+**[Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record, according to Alex Davis, CEO of Disruptive, which led the startup’s latest financing round in September.](https://www.reddit.com/r/artificial/comments/1pv3jlg/nvidia_buying_ai_chip_startup_groqs_assets_for/)**
+
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
+
+🔗 [CNBC](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html) • 1d ago
+
+---
+
+**[Mark Cuban says AI allows "creators to become exponentially more creative," but his advice didn’t land well with people working in the industry](https://www.reddit.com/r/artificial/comments/1puhkc5/mark_cuban_says_ai_allows_creators_to_become/)**
+
+“All you can see is dollar signs and ‘value’ instead of theft, exploitation, and job displacement,” one creative said in response.
+
+🔗 [Fortune](https://fortune.com/2025/12/22/mark-cuban-says-ai-makes-creators-more-creative-debate/) • 2d ago
 
 ---
 
@@ -126,6 +126,32 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
 The Guardian • 2h ago
+
+---
+
+**[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
+
+The New York Times • 21h ago
+
+---
+
+**[How To Rethink Your Job As AI Agents Reshape Work](https://www.forbes.com/sites/bernardmarr/2025/12/26/how-to-rethink-your-job-as-ai-agents-reshape-work/)**
+
+Forbes • 1h ago
+
+---
+
+**[Will AI Kill Jobs and Weaken Social Security? It Depends.](https://www.barrons.com/articles/social-security-benefits-fund-ai-584a1203?gaa_at=eafs&gaa_n=AWEtsqe8jA0vGVcrZsTyIQsJ1TMqD1ubnfIJXS6-IY3OMVtJ34TmOaK9Xr9_&gaa_ts=694e3e6b&gaa_sig=UhKw1oJAcP89GdDQXCHpiBsCQTj0pNWmPxFMpHOOdqskIP-J3a4K49FQ4zBa7w4A7AMcWOVQN53drp9hoerl-A%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**
+
+Google DeepMind and Fei-Fei Li’s World Labs target gaming with AI-generated 3D environments
+
+Financial Times • 20h ago
 
 ---
 
@@ -151,43 +177,17 @@ Financial Times • 1d ago
 
 ---
 
-**[AI boom adds $500bn to net worth of US tech billionaires in 2025](https://www.ft.com/content/9dcd770a-1ca7-4533-980c-08c5704c9670)**
-
-Elon Musk stays on top as Nvidia’s Jensen Huang powers up the rankings on an AI-fuelled surge in fortunes
-
-Financial Times • 2h ago
-
----
-
-**[Here are the biggest moments in AI for publishers in 2025](https://digiday.com/media/here-are-the-biggest-moments-in-ai-for-publishers-in-2025/)**
-
-Here are some of the biggest moments that defined how publishers adapted to the AI era this year.
-
-Digiday • 2h ago
-
----
-
-**[How To Rethink Your Job As AI Agents Reshape Work](https://www.forbes.com/sites/bernardmarr/2025/12/26/how-to-rethink-your-job-as-ai-agents-reshape-work/)**
-
-Forbes • 44m ago
-
----
-
-**[The Class Where ‘Screenagers’ Train to Navigate Social Media and A.I.](https://www.nytimes.com/2025/12/25/business/media/social-media-teachers-ai.html)**
-
-The New York Times • 21h ago
-
----
-
 **[The AI spending frenzy reaches India, sparking enthusiasm and concern](https://www.washingtonpost.com/world/2025/12/26/india-ai-google-microsoft-amazon/)**
 
 The Washington Post • 13h ago
 
 ---
 
-**[Using AI? Here's how NOT to use it](https://www.axios.com/2025/12/25/ai-tips-how-not-to-use)**
+**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
 
-Axios • 18h ago
+From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
+
+MIT Technology Review • 21h ago
 
 ---
 
@@ -199,7 +199,7 @@ Axios • 18h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 419 • 💬 116 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 420 • 💬 116 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -209,7 +209,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 219 • 💬 206 • 16h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 225 • 💬 212 • 17h ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -217,7 +217,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 195 • 💬 111 • 1d ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 197 • 💬 111 • 1d ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -225,7 +225,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 174 • 💬 105 • 16h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 177 • 💬 105 • 16h ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -233,7 +233,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 125 • 💬 58 • 10h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 127 • 💬 59 • 11h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -241,7 +241,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
-⬆️ 81 • 💬 28 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
+⬆️ 82 • 💬 28 • 1d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
 
 ---
 
@@ -249,13 +249,13 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 69 • 💬 98 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 70 • 💬 98 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
 **[AI Withholds Life-or-Death Information Unless You Know the Magic Words](https://news.ycombinator.com/item?id=46382033)**
 
-⬆️ 41 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
+⬆️ 42 • 💬 23 • 1d ago • [substack.com](https://substack.com/home/post/p-182524207)
 
 ---
 
@@ -281,7 +281,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 38K • 👍 816 • 💬 109 • ⏱️ 12:51 • 7h ago
+👁️ 38K • 👍 816 • 💬 109 • ⏱️ 12:51 • 8h ago
 
 ---
 
@@ -331,7 +331,7 @@ Subscribe: https://www.youtube.com/@LegalAFMTN?sub_confirmation=1 Buy the Book: 
 
 📺 Legal AF
 
-👁️ 17K • 👍 2K • 💬 188 • ⏱️ 33:49 • 14h ago
+👁️ 17K • 👍 2K • 💬 188 • ⏱️ 33:49 • 15h ago
 
 ---
 
@@ -383,7 +383,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,163 • ❤️ 905 • 2d ago
+⬇️ 4,163 • ❤️ 908 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 13,246 • ❤️ 736 • 6d ago
+⬇️ 13,246 • ❤️ 737 • 6d ago
 
 ---
 
@@ -407,7 +407,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 28,171 • ❤️ 605 • 7d ago
+⬇️ 30,907 • ❤️ 605 • 7d ago
 
 ---
 
@@ -419,7 +419,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 395,092 • ❤️ 3,434 • 17d ago
+⬇️ 395,092 • ❤️ 3,435 • 17d ago
 
 ---
 
@@ -431,7 +431,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 6,617 • ❤️ 376 • 2d ago
+⬇️ 6,617 • ❤️ 378 • 2d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 316 • 7d ago
+⬇️ 0 • ❤️ 317 • 7d ago
 
 ---
 
@@ -477,7 +477,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 413 • 2d ago
+⬇️ 0 • ❤️ 414 • 2d ago
 
 ---
 
@@ -648,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.6k • 🔱 733 • 35m ago
+⭐ 6.6k • 🔱 733 • 57m ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.0k • 🔱 212 • 36m ago
+⭐ 3.0k • 🔱 212 • 58m ago
 
 ---
 
@@ -698,7 +698,7 @@ Browser automation for AI agents and humans
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 222 • 15h ago
+⭐ 1.3k • 🔱 222 • 16h ago
 
 ---
 

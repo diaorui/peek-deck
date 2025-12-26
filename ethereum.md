@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T07:14:33.621608+00:00'
+updated: '2025-12-26T07:36:30.720418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 07:14 UTC  
+**Last Updated:** December 26, 2025 at 07:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +0.2%  
-**30d:** -1.0%  
-**90d:** -27.9%  
-**1y:** -10.4%  
+**24h:** +2.1%  
+**7d:** +0.4%  
+**30d:** -0.8%  
+**90d:** -27.7%  
+**1y:** -10.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $359.05B
+**Market Cap:** $359.81B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.9%
+-39.8%
 
 **All-Time Low:** $0.43
-+686836.3%
++687358.3%
 
 ---
 
@@ -132,7 +132,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 This branch contains a rewrite of some core features of Echidna to transform workers into agents, which can receive commands and collaborate with each other. It also allows to easily add MCP comman...
 
-🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 1d ago
+🔗 [GitHub](https://github.com/crytic/echidna/pull/1502) • 2d ago
 
 ---
 
@@ -172,11 +172,11 @@ AMBCrypto • 22h ago
 
 ---
 
-**[The Biggest Options Expiry Ever—What $27 Billion Means for Bitcoin and Ethereum](https://finance.yahoo.com/news/biggest-options-expiry-ever-27-053511476.html)**
+**[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
-Over $27 billion in Bitcoin and Ethereum options expire on Deribit, marking the largest crypto derivatives reset ever.
+Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -206,19 +206,19 @@ The Block • 2d ago
 
 ---
 
-**[ETH at Risk? Four Indicators Point to More Pain Ahead](https://beincrypto.com/why-eth-price-may-not-recover-soon/)**
-
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
-
-BeInCrypto • 16h ago
-
----
-
 **[Why Solana Could Grow Faster Than Ethereum, According to Charles Hoskinson](https://coinpedia.org/news/why-solana-could-grow-faster-than-ethereum-according-to-charles-hoskinson/)**
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
 Coinpedia • 12h ago
+
+---
+
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
+
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
+
+Decrypt • 2d ago
 
 ---
 
@@ -232,7 +232,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 484 • 👍 31 • ⏱️ 15:04 • 4h ago
+👁️ 484 • 👍 31 • ⏱️ 15:04 • 5h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 7 • ⏱️ 4:41 • 14h ago
+👁️ 2K • 👍 161 • 💬 7 • ⏱️ 4:41 • 15h ago
 
 ---
 

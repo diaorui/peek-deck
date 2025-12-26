@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T07:14:33.612963+00:00'
+updated: '2025-12-26T07:36:30.714401+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 07:14 UTC  
+**Last Updated:** December 26, 2025 at 07:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,740.62
+### $89,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +1.0%  
-**30d:** -2.4%  
-**90d:** -20.3%  
-**1y:** -5.3%  
+**24h:** +1.8%  
+**7d:** +0.9%  
+**30d:** -2.5%  
+**90d:** -20.5%  
+**1y:** -5.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1778.77B
+**Market Cap:** $1782.57B
 Rank #1
 
-**Circulating Supply:** 19,967,237 BTC
+**Circulating Supply:** 19,967,243 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.3%
 
 **All-Time Low:** $67.81
-+131270.0%
++131349.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,6 +91,12 @@ Video cred: clusk
 
 ---
 
+**[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
+
+11h ago
+
+---
+
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
 5h ago
@@ -99,7 +105,7 @@ Video cred: clusk
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -111,13 +117,7 @@ Video cred: clusk
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-22h ago
-
----
-
-**[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
-
-11h ago
+23h ago
 
 ---
 
@@ -125,7 +125,7 @@ Video cred: clusk
 
 Words are clearly not a real seed this is for reference in case you wanted to do something similar costed like 15$ on Amazon for all the little trinket tokens inside the plastic containers I made this myself using exodus wallet on my phone would screenshot and crop wallet address airdrop to iMac then put in word size it small and put the 12 word seed below it then print Then cut then fold and fit inside trinket coin now you can load from the qr then open it and unload from seed when needed so I can give to old family and them throw it in there safe untill they need to use it and it not get “hacked” I didn’t save any deleted all keys as I made next one just delete print delete print no saving the doc
 
-1h ago
+2h ago
 
 ---
 
@@ -157,45 +157,53 @@ CoinDesk • 17h ago
 
 ---
 
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+
+The Motley Fool • 11h ago
+
+---
+
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
 The Block • 13h ago
 
 ---
 
-**[The Biggest Options Expiry Ever—What $27 Billion Means for Bitcoin and Ethereum](https://finance.yahoo.com/news/biggest-options-expiry-ever-27-053511476.html)**
+**[Bitcoin Dramatically Drops Below $25,000 In Biggest Christmas Day Flash Crash: Here’s The Full Breakdown](https://www.tradingview.com/news/zycrypto:9fbc3b981094b:0-bitcoin-dramatically-drops-below-25-000-in-biggest-christmas-day-flash-crash-here-s-the-full-breakdown/)**
 
-Over $27 billion in Bitcoin and Ethereum options expire on Deribit, marking the largest crypto derivatives reset ever.
+Bitcoin (BTC), the world’s largest and oldest cryptocurrency, briefly plunged below the $25,000 level on Binance on Christmas Day before stabilizing above $87,000 within seconds.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
-
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
-
-The Motley Fool • 10h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
-**[Bitcoin Misses Out on Wall Street Cheer to Stall Near $87,000](https://www.bloomberg.com/news/articles/2025-12-24/bitcoin-misses-out-on-wall-street-cheer-to-stall-near-87-000)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
-Bitcoin is missing out on the Christmas cheer.
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-Bloomberg.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeiuUgkGHs9O9kfm_-sYr7g0EPTTsG7jCXioduFh_GUTmNdp0HKaLHz&gaa_ts=694e33c5&gaa_sig=Rhn3qAufh_w2CC5eRHmY3IIvPVCAsunz-9_oPjBvsBPraFeMGPEZ8qPihyCaCU_4Mi6GdFT0-yeKaeRH7Nk4Pg%3D%3D)**
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
 
-The Wall Street Journal • 2d ago
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
 thestreet.com • 14h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqd4pyGcMHIsZlRNVzDdNz6fJfWNEHzGM-UbAChy0aaWV3Aii_CpLYDH&gaa_ts=694e3e10&gaa_sig=ycr8XqkNL9F8tTOts-L0dWVPAzkdpd0TjudsBXAAcDe_qQuSCUMMWhNUXR6rhq5Q-CHNsWxK94uVgpOS_cTggA%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -207,17 +215,11 @@ Investopedia • 2d ago
 
 ---
 
-**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
+**[Bitcoin Expected to Return to $60,000 According to Tom Lee’s Fund](https://www.tradingview.com/news/zycrypto:49041ee10094b:0-bitcoin-expected-to-return-to-60-000-according-to-tom-lee-s-fund/)**
 
-The Block • 1d ago
+As 2026 approaches, Fundstrat’s internal forecasts reveal a stark contrast to co-founder Tom Lee’s public optimism.
 
----
-
-**[“Tax Loss Harvesting” Drives $825M Outflow From Bitcoin ETFs This Week: Analyst](https://finance.yahoo.com/news/tax-loss-harvesting-drives-825m-094935038.html)**
-
-U.S. spot Bitcoin ETFs have recorded eight consecutive days of institutional selling, with total outflows reaching approximately $825 million as year-end tax strategies dominate market behavior.According to analyst Alek, the sustained selling pressure stems primarily from tax loss harvesting. He claimed it is a temporary phenomenon expected to conclude within ...
-
-Yahoo Finance • 21h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -353,7 +355,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 375 • 💬 10 • ⏱️ 15:49 • 8h ago
+👁️ 7K • 👍 375 • 💬 10 • ⏱️ 15:49 • 9h ago
 
 ---
 
@@ -363,7 +365,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 426 • 💬 19 • ⏱️ 19:55 • 14h ago
+👁️ 11K • 👍 426 • 💬 19 • ⏱️ 19:55 • 15h ago
 
 ---
 

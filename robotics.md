@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T07:14:33.626150+00:00'
+updated: '2025-12-26T07:36:30.723639+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 07:14 UTC  
+**Last Updated:** December 26, 2025 at 07:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Porcospino Flex: A bio-inspired single-track robot built to squeeze and grip through confined spaces](https://www.reddit.com/r/robotics/comments/1pvxxli/porcospino_flex_a_bioinspired_singletrack_robot/)**
+
+Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
+
+45m ago
+
+---
 
 **[Is this dancing difficult for a robot?](https://www.reddit.com/r/robotics/comments/1pvum6m/is_this_dancing_difficult_for_a_robot/)**
 
@@ -50,7 +58,15 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-16h ago
+17h ago
+
+---
+
+**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
+
+We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
+
+1h ago
 
 ---
 
@@ -68,17 +84,9 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 ---
 
-**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
-
-We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
-
-1h ago
-
----
-
 **[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -90,19 +98,11 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 ---
 
-**[A Christmas tree drawn by VinciBot](https://www.reddit.com/r/robotics/comments/1pvbaoj/a_christmas_tree_drawn_by_vincibot/)**
+**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
 
-Wishing everyone a happy Christmas holiday.
+The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-19h ago
-
----
-
-**[Robot chorus in motion, powered by ESP-NOW](https://www.reddit.com/r/robotics/comments/1pv2ga8/robot_chorus_in_motion_powered_by_espnow/)**
-
-Source: https://x.com/M5Stack/status/2003453052276343161?s=20
-
-1d ago
+16h ago
 
 ---
 
@@ -136,7 +136,7 @@ Earth.com • 1d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 9h ago
+Tech Xplore • 10h ago
 
 ---
 
@@ -162,11 +162,9 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.limaohio.com/top-stories/2025/12/25/how-agility-robotics-uses-artificial-intelligence-from-their-humanoid-digit-to-everyday-workflow/)**
 
-The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
-
-The Daily Beast • 2d ago
+LimaOhio.com • 10h ago
 
 ---
 
@@ -178,11 +176,11 @@ The Robot Report • 1d ago
 
 ---
 
-**[Cofounder of bankrupt Roomba maker iRobot says Elon Musk's vision of robots is 'pure fantasy'](https://fortune.com/2025/12/16/mit-roboticist-founded-bankrupt-roomba-maker-irobot-says-elon-musk-vision-purely-fantas/)**
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
 
-Fortune • 9d ago
+The Daily Beast • 2d ago
 
 ---
 
@@ -196,7 +194,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 38K • 👍 816 • 💬 110 • ⏱️ 12:51 • 7h ago
+👁️ 38K • 👍 816 • 💬 110 • ⏱️ 12:51 • 8h ago
 
 ---
 
@@ -216,7 +214,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 8K • 👍 391 • 💬 91 • ⏱️ 21:33 • 6h ago
+👁️ 8K • 👍 391 • 💬 91 • ⏱️ 21:33 • 7h ago
 
 ---
 
