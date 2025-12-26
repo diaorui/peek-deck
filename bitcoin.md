@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T17:10:44.750362+00:00'
+updated: '2025-12-26T17:32:02.529411+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 17:10 UTC  
+**Last Updated:** December 26, 2025 at 17:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -1.4%  
-**30d:** -4.7%  
-**90d:** -22.3%  
-**1y:** -7.7%  
+**24h:** -1.0%  
+**7d:** -1.2%  
+**30d:** -4.5%  
+**90d:** -22.1%  
+**1y:** -7.4%  
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
 
-4h ago
+5h ago
 
 ---
 
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ Video cred: clusk
 
 These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -149,13 +149,13 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 1d ago
 
 **[What Caused Bitcoin’s Flash Crash to $24,000 on Binance’s USD1-BTC Pair](https://www.ccn.com/education/crypto/bitcoin-price-crash-24000-binance-usd1-btc-pair-explained/)**
 
-CCN.com • 22h ago
+CCN.com • 23h ago
 
 ---
 
@@ -281,7 +281,17 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 466 • 💬 120 • ⏱️ 4:31 • 21h ago
+👁️ 12K • 👍 483 • 💬 130 • ⏱️ 4:31 • 21h ago
+
+---
+
+**[WATCH THIS NOW OR MISS THE NEXT BITCOIN MOVE...(URGENT!)](https://www.youtube.com/watch?v=AO1IEtsdjg4)**
+
+Join The Community: https://bit.ly/FefeCommunity Check Out My Bots: ...
+
+📺 100XClub
+
+👁️ 4K • 👍 759 • 💬 208 • ⏱️ 8:28 • 2h ago
 
 ---
 
@@ -291,27 +301,17 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 198 • ⏱️ 37:34 • 1d ago
+👁️ 59K • 👍 2K • 💬 201 • ⏱️ 37:34 • 1d ago
 
 ---
 
-**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
+**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Savvy Finance
+📺 Crypto Nutshell
 
-👁️ 16K • 👍 653 • 💬 34 • ⏱️ 15:49 • 18h ago
-
----
-
-**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 13K • 👍 501 • 💬 54 • ⏱️ 19:55 • 1d ago
+👁️ 3K • 👍 271 • 💬 42 • ⏱️ 21:19 • 2h ago
 
 ---
 
@@ -321,17 +321,37 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 44K • 👍 3K • 💬 251 • ⏱️ 10:10 • 22h ago
+👁️ 46K • 👍 3K • 💬 226 • ⏱️ 10:10 • 22h ago
 
 ---
 
-**[Bitcoin’s Volatility Is Shaking Everyone Out — Here’s Why](https://www.youtube.com/watch?v=Z_vlwus19-8)**
+**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
 
-Is this a buyable bull-market dip or the start of the next bear market for Bitcoin? Most investors have no playbook—so they panic.
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Mark Moss
+📺 Savvy Finance
 
-👁️ 119K • 👍 4K • 💬 483 • ⏱️ 20:46 • 2d ago
+👁️ 18K • 👍 686 • 💬 48 • ⏱️ 15:49 • 19h ago
+
+---
+
+**[BITCOIN: NOW NOW NOW (BREAKING NEWS)](https://www.youtube.com/watch?v=54KPG2PU92Y)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 Coinflare: ...
+
+📺 Crypto Kid
+
+👁️ 6K • 👍 328 • 💬 103 • ⏱️ 26:31 • 9h ago
+
+---
+
+**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
+
+BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 1h ago
 
 ---
 
@@ -341,37 +361,17 @@ crypto #bitcoin #crash On the USD1 pair, it suddenly crashed to $24000 ...
 
 📺 Crypto Angler
 
-👁️ 681 • 👍 45 • 💬 20 • ⏱️ 4:26 • 10h ago
+👁️ 840 • 👍 51 • 💬 13 • ⏱️ 4:26 • 10h ago
 
 ---
 
-**[70% of Bitcoin Wealth Now Lives Above $85K](https://www.youtube.com/watch?v=DbENnxmz-6o)**
+**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
 
-Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a historic capital rotation in the market. Checkmate ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Swan Bitcoin
+📺 Savvy Finance
 
-👁️ 9K • 👍 242 • 💬 11 • ⏱️ 0:56 • 1d ago
-
----
-
-**[🚨 2026 BITCOIN PRICE PREDICTION!!!!](https://www.youtube.com/watch?v=XIpAkY2VDBc)**
-
-Here is my take on the bitcoin price in 2026! AI Trading Club: https://bit.ly/AITradingClub My Discord Trading Cummunity: ...
-
-📺 Thomas Kralow
-
-👁️ 25K • 👍 3K • 💬 67 • ⏱️ 6:23 • 2d ago
-
----
-
-**[Bitcoin Is Being Held Hostage](https://www.youtube.com/watch?v=A-5uX6Il1f0)**
-
-Bitcoin just printed $126K in October… and now it's been trapped between ~$85K–$90K like the chart is malfunctioning. It's not.
-
-📺 Ryan’s Money Lab
-
-👁️ 18K • 👍 596 • 💬 79 • ⏱️ 8:33 • 2d ago
+👁️ 14K • 👍 521 • 💬 55 • ⏱️ 19:55 • 1d ago
 
 ---
 

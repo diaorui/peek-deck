@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T17:10:44.756434+00:00'
+updated: '2025-12-26T17:32:02.535380+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 17:10 UTC  
+**Last Updated:** December 26, 2025 at 17:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -1.7%  
-**30d:** -2.9%  
-**90d:** -29.3%  
-**1y:** -12.1%  
+**24h:** -0.8%  
+**7d:** -1.5%  
+**30d:** -2.7%  
+**90d:** -29.1%  
+**1y:** -11.9%  
 
 ---
 
@@ -160,7 +160,7 @@ AMBCrypto • 1d ago
 
 Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
 
-Crypto Briefing • 2d ago
+Crypto Briefing • 3d ago
 
 ---
 
@@ -228,13 +228,23 @@ ts2.tech • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
+
+BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 123 • 💬 28 • ⏱️ 18:00 • 1h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 416 • 👍 62 • 💬 4 • ⏱️ 4:08 • 2h ago
+👁️ 831 • 👍 88 • 💬 5 • ⏱️ 4:08 • 3h ago
 
 ---
 
@@ -254,47 +264,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 3K • ⏱️ 7:27 • 3h ago
-
----
-
-**[Bitcoin to $250K and Ethereum to $12K–$30K? Tom Lee Explains the End of the 4-Year Cycle](https://www.youtube.com/watch?v=vDgMIWxAP5Y)**
-
-In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bitcoin's traditional 4-year cycle may no longer ...
-
-📺 ekowreel
-
-👁️ 5K • 👍 115 • 💬 18 • ⏱️ 19:17 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 26 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=AUR4sShpJVQ)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 2K • 👍 282 • 2h ago
-
----
-
-**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
-
-This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
-
-📺 CryptoStock Lab
-
-👁️ 1K • 👍 60 • 💬 31 • ⏱️ 15:04 • 14h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN HOLDERS: IT&#39;S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BaPDXfHioQk)**
-
-BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 313 • 💬 153 • ⏱️ 16:26 • 23h ago
+👁️ 4K • ⏱️ 7:27 • 3h ago
 
 ---
 
@@ -304,7 +274,37 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 176 • 👍 12 • 💬 32 • ⏱️ 5:08 • 6h ago
+👁️ 223 • 👍 12 • 💬 31 • ⏱️ 5:08 • 7h ago
+
+---
+
+**[ETH Wave 3 Ignites — BMNR Smart Money Accumulation (Elliott Wave )](https://www.youtube.com/watch?v=7Dx5ftW7WX8)**
+
+This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, using Elliott Wave theory, market structure, and ...
+
+📺 CryptoStock Lab
+
+👁️ 2K • 👍 60 • 💬 32 • ⏱️ 15:04 • 15h ago
+
+---
+
+**[Bitcoin to $250K and Ethereum to $12K–$30K? Tom Lee Explains the End of the 4-Year Cycle](https://www.youtube.com/watch?v=vDgMIWxAP5Y)**
+
+In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bitcoin's traditional 4-year cycle may no longer ...
+
+📺 ekowreel
+
+👁️ 6K • 👍 121 • 💬 18 • ⏱️ 19:17 • 1d ago
+
+---
+
+**[2025 Ethereum ETH Price RECAP &amp; 2026 Outlook. ](https://www.youtube.com/watch?v=AP81E_TYxoE)**
+
+Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
+
+📺 Altcoin Doctor
+
+👁️ 22 • 👍 1 • ⏱️ 8:56 • 6h ago
 
 ---
 
@@ -318,13 +318,13 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=W0jx54dz97w)**
+**[Tom Lee&#39;s URGENT Message On The Next Rally, WARNING For All Investors](https://www.youtube.com/watch?v=MtJxxYaS9B0)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Navigationdisk
+📺 Library Of Wealth
 
-👁️ 4K • 👍 2K • 3h ago
+👁️ 4K • 👍 143 • 💬 142 • ⏱️ 15:41 • 1d ago
 
 ---
 

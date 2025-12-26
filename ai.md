@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T17:10:44.741645+00:00'
+updated: '2025-12-26T17:32:02.521018+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 17:10 UTC  
+**Last Updated:** December 26, 2025 at 17:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-52m ago
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ Does anyone have any recommendations for AI call center solutions integrated wit
 
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -131,19 +131,19 @@ The New York Times • 2h ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqebu_t_jMKdms4KIQRutpHm3OZYTuqH6UH4H_XpveelpG6iolmOv07P&gaa_ts=694ec4fd&gaa_sig=3WFEL1Tw_2gOLGha5SOsYrqFw3S_cnFFbcj4_CBZsBjzWldZ0rNVH2gbFtLOT2KD9apGWcpHhmkdkOmlYcN7lg%3D%3D)**
 
-MarketWatch • 50m ago
+MarketWatch • 1h ago
 
 ---
 
 **[How 2025 Recalibrated AI Models Race](https://www.forbes.com/sites/geruiwang/2025/12/26/how-2025-recalibrated-ai-models-race/)**
 
-Forbes • 40m ago
+Forbes • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Forbes • 40m ago
 
 Indiana state Sen. Chris Garten acknowledged the backlash and labeled his critics ‘snowflakes’
 
-The Independent • 41m ago
+The Independent • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Fox News • 2h ago
 
 Daters are using AI to slide into DMs and craft Hinge profiles. A crop of startups and dating apps are fighting for these AI-powered daters.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -237,7 +237,7 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 133 • 💬 64 • 20h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 133 • 💬 64 • 21h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
 ---
 
@@ -281,13 +281,23 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 ## YouTube Videos: "ai"
 
+**[Best AI UGC Video Generator 2026 (Most Realistic)](https://www.youtube.com/watch?v=ej8JcFq885g)**
+
+Create your AI UGC ads with Arcads https://youricreates.com/UGC-2026 In this video, I break down the best-performing AI UGC ...
+
+📺 Youri van Hofwegen
+
+👁️ 3K • 💬 4 • ⏱️ 10:33 • 1h ago
+
+---
+
 **[China&#39;s New AI Robot Just Broke a Human Skill Barrier](https://www.youtube.com/watch?v=zii2FiFBl5k)**
 
 Humanoid robots just crossed a line that used to belong only to human hands. In China, a humanoid stitched fabric live on stage ...
 
 📺 AI Revolution
 
-👁️ 74K • 👍 1K • 💬 165 • ⏱️ 12:51 • 17h ago
+👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 18h ago
 
 ---
 
@@ -297,7 +307,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 2K • 👍 97 • 💬 8 • ⏱️ 7:06 • 17h ago
+👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 18h ago
 
 ---
 
@@ -307,7 +317,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 32K • 👍 1K • 💬 771 • ⏱️ 11:28 • 2d ago
+👁️ 33K • 👍 1K • 💬 776 • ⏱️ 11:28 • 2d ago
 
 ---
 
@@ -317,7 +327,7 @@ GLM-4.7 review. Top open source AI model. #ai #aitools #ainews #llm #deepseek #k
 
 📺 AI Search
 
-👁️ 104K • 👍 4K • 💬 429 • ⏱️ 30:43 • 2d ago
+👁️ 105K • 👍 4K • 💬 431 • ⏱️ 30:43 • 2d ago
 
 ---
 
@@ -327,7 +337,27 @@ Which crazy bed would you choose? Relax your mind with this ultimate oddly satis
 
 📺 Tina ASMR ALs
 
-👁️ 37K • 👍 397 • 💬 44 • ⏱️ 8:00 • 2d ago
+👁️ 43K • 👍 400 • 💬 44 • ⏱️ 8:00 • 2d ago
+
+---
+
+**[SORA AI Disney Trailers *GONE WRONG*](https://www.youtube.com/watch?v=lJwDsXqwPW8)**
+
+Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing the most cursed SORA Disney Trailers ever ...
+
+📺 Bigfoot Feed
+
+👁️ 5K • 👍 96 • 💬 18 • ⏱️ 8:04 • 18h ago
+
+---
+
+**[What the Freakiness of 2025 in AI Tells Us About 2026](https://www.youtube.com/watch?v=FMMpUO1uAYk)**
+
+It's probably not possible to satisfactorily condense a 12 month's worth of weird progress in AI, as well as predictions for the year to ...
+
+📺 AI Explained
+
+👁️ 70K • 👍 3K • 💬 389 • ⏱️ 33:27 • 2d ago
 
 ---
 
@@ -337,35 +367,7 @@ This is going to be a real problem... Time Stamps: 0:00 - Intro 0:29 - It's All 
 
 📺 ThioJoe
 
-👁️ 57K • 👍 6K • 💬 1K • ⏱️ 9:48 • 2d ago
-
----
-
-**[TẬP 10 - A.I LÀ AI? | SONG TRÙNG &quot;THAO TÚNG&quot; NHẤT !? TRẤN THÀNH, VÕ TẤN PHÁT CÃI NHAU NẢY LỬA VÌ A.I](https://www.youtube.com/watch?v=T5d3OR8Unns)**
-
-AILAAI #ALA #FPTPLAY #FPT #tranthanh #gameshow #fptplayshow #giaitri #songtrung. “A.I LÀ AI?” là chương trình truyền hình ...
-
-📺 FPT Play Show
-
-👁️ 4K • 👍 694 • 💬 72 • 2h ago
-
----
-
-**[Gemini 3.0 Flash + Opus 4.5 + Antigravity: This ALMOST-UNLIMITED FREE AI Coding Workflow is SO GOOD!](https://www.youtube.com/watch?v=_rKybKSmiLs)**
-
-In this video, I'll be showing you a cheat code workflow that combines Claude 4.5 Opus and Gemini 3 Flash in Antigravity to build ...
-
-📺 AICodeKing
-
-👁️ 18K • 👍 764 • 💬 74 • ⏱️ 8:05 • 1d ago
-
----
-
-**[VIDEO FIRST MANIRA ABG ALIEF TAK BAGI POST ⁉️ PENGENALAN BERSAMA IRA‼️](https://www.youtube.com/watch?v=fGlb3bBpU3U)**
-
-📺 AI AimanJunaidi
-
-👁️ 24K • 👍 3K • 💬 179 • ⏱️ 27:22 • 12h ago
+👁️ 58K • 👍 7K • 💬 1K • ⏱️ 9:48 • 2d ago
 
 ---
 
@@ -375,7 +377,7 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 604K • 👍 5K • 💬 101 • ⏱️ 10:06 • 1d ago
+👁️ 636K • 👍 5K • 💬 105 • ⏱️ 10:06 • 1d ago
 
 ---
 
@@ -664,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 470 • 52m ago
+⭐ 3.6k • 🔱 470 • 1h ago
 
 ---
 
@@ -694,7 +696,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.6k • 🔱 67 • 1d ago
+⭐ 1.6k • 🔱 67 • 2d ago
 
 ---
 
@@ -724,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 133 • 6h ago
+⭐ 1.3k • 🔱 133 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T17:10:44.759644+00:00'
+updated: '2025-12-26T17:32:02.538639+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 17:10 UTC  
+**Last Updated:** December 26, 2025 at 17:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-10h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-4m ago
+26m ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have 
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-20h ago
+21h ago
 
 ---
 
@@ -162,7 +162,7 @@ New Atlas • 2d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 5h ago
+Tom's Hardware • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 74K • 👍 1K • 💬 165 • ⏱️ 12:51 • 17h ago
+👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 18h ago
 
 ---
 
@@ -210,17 +210,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 6K • 👍 187 • 💬 12 • ⏱️ 1:30 • 12h ago
-
----
-
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 223K • 👍 11K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 7K • 👍 213 • 💬 12 • ⏱️ 1:30 • 12h ago
 
 ---
 
@@ -230,7 +220,27 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 31K • 👍 874 • 💬 216 • ⏱️ 21:33 • 16h ago
+👁️ 35K • 👍 939 • 💬 229 • ⏱️ 21:33 • 17h ago
+
+---
+
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 226K • 👍 12K • 💬 2K • ⏱️ 16:24 • 2d ago
+
+---
+
+**[The Self Aware Robot ESCAPED!!](https://www.youtube.com/watch?v=RkeHtsO4-OY)**
+
+My Self-Aware Robot Escaped Reaction Check out the video here: https://www.youtube.com/watch?v=6nEfAb5q84o 🔸️Join ...
+
+📺 Its Nenaa
+
+👁️ 39K • 👍 1K • 💬 289 • ⏱️ 11:02 • 3d ago
 
 ---
 
@@ -240,7 +250,23 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 35K • 👍 570 • 💬 86 • ⏱️ 13:55 • 2d ago
+👁️ 36K • 👍 578 • 💬 87 • ⏱️ 13:55 • 2d ago
+
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
+
+📺 Lin of Brant robot 
+
+👁️ 37K • 👍 184 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[He just follows me with this tiny robot 😭❤️#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=2XwCvej7D2E)**
+
+📺 Romi Pal
+
+👁️ 364K • 👍 7K • 💬 122 • ⏱️ 0:28 • 4d ago
 
 ---
 
@@ -250,43 +276,17 @@ The world of AI and robotics accelerated faster this year than almost anyone exp
 
 📺 AI Revolution
 
-👁️ 56K • 👍 862 • 💬 99 • ⏱️ 2:08:46 • 6d ago
+👁️ 56K • 👍 866 • 💬 99 • ⏱️ 2:08:46 • 6d ago
 
 ---
 
-**[Customers fill in to Beijing&#39;s new consumer robot shopping centre • FRANCE 24 English](https://www.youtube.com/watch?v=66MjAQLUjEg)**
+**[She Bought Two Robots🤯😹#shorts#trending](https://www.youtube.com/watch?v=0zO7tWzYm9Y)**
 
-Are you stuck at the last minute for a Christmas gift? Wondering how to “wow” your child when they open their presents? Well ...
+She Bought Two Robots    #shorts#trending.
 
-📺 FRANCE 24 English
+📺 Facto_Satish
 
-👁️ 15K • 👍 195 • 💬 47 • ⏱️ 2:09 • 6d ago
-
----
-
-**[He just follows me with this tiny robot 😭❤️#couples #longdistancerelationship #ldr #robot](https://www.youtube.com/watch?v=2XwCvej7D2E)**
-
-📺 Romi Pal
-
-👁️ 362K • 👍 7K • 💬 121 • ⏱️ 0:28 • 4d ago
-
----
-
-**[How STRONG Are Humanoid Robots Really? (And Why It&#39;s Hard to Tell)](https://www.youtube.com/watch?v=PGRJg5eExO4)**
-
-China's got a new Terminator robot and Figure is facing a lawsuit alleging its robots are strong enough to "fracture a human skull.
-
-📺 CNET
-
-👁️ 39K • 👍 665 • 💬 157 • ⏱️ 5:25 • 5d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=G6r79twlqs0)**
-
-📺 Lin of Brant robot 
-
-👁️ 37K • 👍 184 • ⏱️ 0:19 • 4d ago
+👁️ 74K • 💬 4 • ⏱️ 0:27 • 1d ago
 
 ---
 
