@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T23:14:22.303663+00:00'
+updated: '2025-12-26T23:33:53.987359+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 23:14 UTC  
+**Last Updated:** December 26, 2025 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,501.43
+### $87,430.62
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.7%  
-**7d:** -0.9%  
+**7d:** -1.0%  
 **30d:** -4.3%  
 **90d:** -21.9%  
 **1y:** -7.2%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1744.99B
+**Market Cap:** $1745.62B
 Rank #1
 
 **Circulating Supply:** 19,967,568 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.7%
 
 **All-Time Low:** $67.81
-+128794.0%
++128779.2%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -100,6 +100,14 @@ Never thought I would see a boutique featuring Bitcoin pillows in its window. Th
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
 1d ago
+
+---
+
+**[Do you guys bother investing in ETFs and stocks or go all in on crypto?](https://www.reddit.com/r/Bitcoin/comments/1pwf18t/do_you_guys_bother_investing_in_etfs_and_stocks/)**
+
+Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
+
+2h ago
 
 ---
 
@@ -123,11 +131,9 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 ---
 
-**[Do you guys bother investing in ETFs and stocks or go all in on crypto?](https://www.reddit.com/r/Bitcoin/comments/1pwf18t/do_you_guys_bother_investing_in_etfs_and_stocks/)**
+**[Different phase matters, mood on Buying more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pwd1ti/different_phase_matters_mood_on_buying_more/)**
 
-Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
-
-2h ago
+3h ago
 
 ---
 
@@ -137,23 +143,13 @@ Wondering whether to put chunks of my useless bucks into etfs or soley bitcoin
 
 ---
 
-**[How old is bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pw305j/how_old_is_bitcoin/)**
-
-These were the most popular ‘smart’ phones when bitcoin was invented in 2009
-
-10h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg.com • 9h ago
+The Block • 5h ago
 
 ---
 
@@ -165,6 +161,30 @@ CoinDesk • 7h ago
 
 ---
 
+**[Bitcoin nears breakout from the $85,000-$90,000 range as options expiry looms](https://finance.yahoo.com/news/bitcoin-nears-breakout-85-000-100214139.html)**
+
+A year-end options expiry for bitcoin is suppressing volatility just as macro and risk-asset positioning turns supportive for a higher price.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 10h ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 27m ago
+
+---
+
 **[5 States Where Bitcoin Is Most Popular — and 5 Where It’s Not](https://finance.yahoo.com/news/5-states-where-bitcoin-most-220517857.html)**
 
 Find out which U.S. states lead in Bitcoin adoption, and which lag behind. Find out where Americans are buying crypto the most.
@@ -173,9 +193,9 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqe0BGu3quWm7l-wr72k6rDll_cxIF4UF6-BDoOy2i1_QI7XJks5xNuS&gaa_ts=694f1ed0&gaa_sig=eCjtXTZyWpQkUUouCTZW7mKwkjRWRC-UZwWWUCOvVGhoztuhW_rwtjnc-FyXrVN8C8QHU-2oEeMBq7nQVcf3vA%3D%3D)**
 
-thestreet.com • 7h ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -187,39 +207,15 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin December 26 daily chart alert - Holiday pause continues Friday](https://www.kitco.com/news/article/2025-12-26/bitcoin-december-26-daily-chart-alert-holiday-pause-continues-friday)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 9h ago
-
----
-
 **[U.S. Dollar ‘Collapse’ Crisis Warning—2026 Gold And Silver Surge Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/26/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeMCn_1Nw-N7lc6wMQBezD9Xa0CFsZflfChuPnnCRT1XNoiLbGDJq6R&gaa_ts=694f1524&gaa_sig=5zWKAVGqiTX33Bai1el5XhPfaTo4ReGDMUGR-qMgULRHHPRV81kKI6Z8Jt5JYZG0ZIfO0HQcmFmp8qyYUH-dfA%3D%3D)**
+**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
 
-The Wall Street Journal • 2d ago
-
----
-
-**[Scam artist convinces resident to buy $18,000 in bitcoin: Seven Hills Police Blotter](https://www.cleveland.com/community/2025/12/scam-artist-convinces-resident-to-buy-18000-in-bitcoin-seven-hills-police-blotter.html)**
-
-In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
-
-Cleveland.com • 9h ago
-
----
-
-**[Death Cross Threat Returns for Bitcoin, and $67,000 Is Not Meme Number Anymore](https://www.tradingview.com/news/u_today:6be5ac36d094b:0-death-cross-threat-returns-for-bitcoin-and-67-000-is-not-meme-number-anymore/)**
-
-Bitcoin just got the kind of chart setup that makes even confident dip-buyers check their leverage twice today. On the weekly BINANCE:BTCUSDT chart, the price is around $88,690 and the market participants are better to stare at a death-cross setup with about two days left in the current candle.This…
-
-TradingView — Track All Markets • 7h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -331,7 +327,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 3K • 👍 29 • 💬 52 • ⏱️ 1:52 • 7h ago
+👁️ 3K • 👍 29 • 💬 52 • ⏱️ 1:52 • 8h ago
 
 ---
 
@@ -341,7 +337,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 336 • 💬 63 • ⏱️ 25:38 • 6h ago
+👁️ 4K • 👍 336 • 💬 63 • ⏱️ 25:38 • 7h ago
 
 ---
 

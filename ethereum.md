@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T23:14:22.309633+00:00'
+updated: '2025-12-26T23:33:53.993492+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 23:14 UTC  
+**Last Updated:** December 26, 2025 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -1.6%  
-**30d:** -2.7%  
-**90d:** -29.2%  
-**1y:** -12.0%  
+**24h:** +0.7%  
+**7d:** -1.7%  
+**30d:** -2.9%  
+**90d:** -29.3%  
+**1y:** -12.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.85B
+**Market Cap:** $353.30B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+675893.5%
++675967.4%
 
 ---
 
@@ -154,11 +154,35 @@ AMBCrypto • 1d ago
 
 ---
 
+**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
+
+Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
+
+Crypto Briefing • 3d ago
+
+---
+
 **[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
+
+Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
+
+Yahoo Finance • 9h ago
+
+---
+
+**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+
+Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -174,7 +198,15 @@ Seeking Alpha • 6h ago
 
 Cryptocurrency prices moved lower as the broader market cooled, even though no major negative news triggered the drop. The total crypto market value slipped to about $2.94 trillion, down roughly 1.5% over the past day. Bitcoin Pulls Back After Recent StrengthBitcoin fell to around $87,100, giving u…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
+
+---
+
+**[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
+
+Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
+
+BeInCrypto • 14h ago
 
 ---
 
@@ -184,43 +216,11 @@ CCN.com • 1d ago
 
 ---
 
-**[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
-
-Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
-
-BeInCrypto • 13h ago
-
----
-
 **[Ethereum is vanishing from exchanges, and the massive wallets absorbing it prove you aren't the target audience anymore](https://cryptoslate.com/institutions-quietly-absorbed-11-of-eth-supply-while-retail-interest-waned-is-ethereum-in-stealth-mode/)**
 
 Exchange balances hit record lows and institutions control 11% of supply, but NFT sales cratered 87% and retail sits out. Is ETH becoming infrastructure without the culture?
 
 CryptoSlate • 3d ago
-
----
-
-**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
-
-This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
-
-Decrypt • 3d ago
-
----
-
-**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
-
-Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
-
-Coinpedia Fintech News • 12h ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
-
-ts2.tech • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 6 • ⏱️ 4:08 • 8h ago
+👁️ 1K • 👍 95 • 💬 6 • ⏱️ 4:08 • 9h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 62 • 💬 32 • ⏱️ 15:04 • 20h ago
+👁️ 2K • 👍 62 • 💬 32 • ⏱️ 15:04 • 21h ago
 
 ---
 

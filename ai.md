@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T23:14:22.295266+00:00'
+updated: '2025-12-26T23:33:53.978779+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 23:14 UTC  
+**Last Updated:** December 26, 2025 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Canvas Agent for Gemini - Organized image generation interface](https://www.reddit.com/r/artificial/comments/1pwho6k/canvas_agent_for_gemini_organized_image/)**
+
+Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
+
+34m ago
+
+---
+
 **[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 1h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 2h ago
 
 ---
 
@@ -89,7 +97,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-6h ago
+7h ago
 
 ---
 
@@ -106,14 +114,6 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
 🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 23h ago
-
----
-
-**[I created interactive buttons for chatbots (opensource)](https://www.reddit.com/r/artificial/comments/1pvivy4/i_created_interactive_buttons_for_chatbots/)**
-
-It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
-
-1d ago
 
 ---
 
@@ -141,11 +141,25 @@ Forbes • 1h ago
 
 ---
 
-**[Some Florida homebuyers are using AI to buy homes without agents, saving thousands](https://nypost.com/2025/12/26/business/some-florida-homebuyers-using-ai-to-buy-homes-without-agents-saving-thousands/)**
+**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
 
-Homa, a tech startup says, at least 10 homes have already closed end-to-end using its AI-powered system, with several more deals currently in escrow.
+Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-New York Post • 1h ago
+Yahoo Finance • 53m ago
+
+---
+
+**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
+
+Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
+
+CNBC • 2d ago
+
+---
+
+**[Stocks End Near Record High as Nvidia Gains on AI Licensing Deal](https://www.bloomberg.com/news/articles/2025-12-26/stocks-touch-record-as-nvidia-gains-on-ai-licensing-deal)**
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -157,9 +171,9 @@ CNBC • 11h ago
 
 ---
 
-**[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqesYjpKP3iCcWW0s31TD-GTQXsNORq9yU2qQ6o1v5xTZnQObVNvuRoZ&gaa_ts=694f1523&gaa_sig=PNtfysF9wk8-r2YBPu03NnyPPMlBbnVg-1i_fcFWhbczNDhsGOSDhkluyjPHkAioWTe6cPVR41w42nUQFmSFbA%3D%3D)**
+**[AI made tech billionaires even richer this year. Here’s how much.](https://www.marketwatch.com/story/ai-made-tech-billionaires-even-richer-this-year-heres-how-much-4d6609b7?gaa_at=eafs&gaa_n=AWEtsqf1JDVeoAJ1hCYewGKDA7dfiOGkXSnIKcCLdLJXwQ2KEJT2B8c-tQRL&gaa_ts=694f1ece&gaa_sig=PQHk40ZGrHHtmqx9kiOXDkeIqrGudeCic9QFP1RqtUeHR8uU0oPVoHeHMmi0C1pIm4cwJYXT8-AgNv2nBFKq7A%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -179,20 +193,6 @@ The Guardian • 1h ago
 
 ---
 
-**[AI Code Is a Bug-Filled Mess](https://futurism.com/artificial-intelligence/ai-code-bug-filled-mess)**
-
-A new report by AI software company CodeRabbit found that code generated by an AI was far more error-prone than human-written code.
-
-Futurism • 8h ago
-
----
-
-**[Securing AI agents is bringing in big money](https://www.axios.com/pro/enterprise-software-deals/2025/12/26/securing-ai-agents-is-bringing-in-big-money)**
-
-Axios • 4h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ Axios • 4h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 433 • 💬 120 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 434 • 💬 120 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -219,7 +219,7 @@ As of writing, also Asahi Linux doesn't support anything newer than M2.
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 238 • 💬 152 • 4h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 240 • 💬 163 • 4h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -227,7 +227,7 @@ Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an 
 
 An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology - hkjarral/Asterisk-AI-Voice-Agent
 
-⬆️ 197 • 💬 113 • 1d ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
+⬆️ 197 • 💬 113 • 2d ago • [GitHub](https://github.com/hkjarral/Asterisk-AI-Voice-Agent)
 
 ---
 
@@ -235,7 +235,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 182 • 💬 119 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 183 • 💬 119 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -251,7 +251,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 98 • 💬 43 • 15h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 98 • 💬 44 • 15h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -297,7 +297,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 23h ago
+👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 Jazza
 
-👁️ 118K • 👍 16K • 💬 3K • ⏱️ 43:44 • 13h ago
+👁️ 118K • 👍 16K • 💬 3K • ⏱️ 43:44 • 14h ago
 
 ---
 
@@ -357,7 +357,7 @@ As seen on “The 700 Club” on December 26, 2025. Want more news from a Christ
 
 📺 CBN News
 
-👁️ 1K • 👍 61 • 💬 12 • ⏱️ 4:37 • 7h ago
+👁️ 1K • 👍 61 • 💬 12 • ⏱️ 4:37 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 956 • 3d ago
+⬇️ 4,752 • ❤️ 959 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,453 • 18d ago
+⬇️ 402,987 • ❤️ 3,455 • 18d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 11,437 • ❤️ 413 • 3d ago
+⬇️ 11,437 • ❤️ 415 • 3d ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 330 • 15h ago
+⬇️ 121 • ❤️ 331 • 15h ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 2h ago
+⭐ 3.1k • 🔱 214 • 3h ago
 
 ---
 
@@ -716,7 +716,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 227 • 7h ago
+⭐ 1.3k • 🔱 227 • 8h ago
 
 ---
 
@@ -726,7 +726,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 134 • 12h ago
+⭐ 1.3k • 🔱 134 • 13h ago
 
 ---
 

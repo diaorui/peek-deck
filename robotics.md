@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T23:14:22.312819+00:00'
+updated: '2025-12-26T23:33:53.996754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 23:14 UTC  
+**Last Updated:** December 26, 2025 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-13h ago
+14h ago
 
 ---
 
@@ -162,6 +162,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 9h ago
+
+---
+
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
 Tech Xplore • 1d ago
@@ -180,13 +188,7 @@ Futura, Le média qui explore le monde • 9h ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 11h ago
-
----
-
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
-
-Investor's Business Daily • 2d ago
+Tom's Hardware • 12h ago
 
 ---
 
@@ -200,7 +202,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 23h ago
+👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 39K • 👍 1K • 💬 264 • ⏱️ 21:33 • 22h ago
+👁️ 39K • 👍 1K • 💬 264 • ⏱️ 21:33 • 23h ago
 
 ---
 
