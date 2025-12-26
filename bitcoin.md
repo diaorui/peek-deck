@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T21:44:45.347928+00:00'
+updated: '2025-12-26T21:55:17.857303+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 21:44 UTC  
+**Last Updated:** December 26, 2025 at 21:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
+**24h:** -0.1%  
 **7d:** -0.9%  
 **30d:** -4.2%  
 **90d:** -21.8%  
@@ -99,7 +99,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -117,7 +117,7 @@ The chart is from my full node, showing realized PnL by UTXO age band. This morn
 
 **[How it started as an idea how it ended as a financial revolution.](https://www.reddit.com/r/Bitcoin/comments/1pw8vlj/how_it_started_as_an_idea_how_it_ended_as_a/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 Observing macro trends: the neobank market could grow from $149B in 2024 to $4.4T by 2034, with much of that growth coming from on-chain banking. On-chain neobanks run their core systems on blockchains. This enables 24/7 payments, faster cross-border transfers, and fully software-based operations, in contrast to traditional back-office-dependent systems. Adoption of these systems could transform banking itself and serve as a new base layer for global digital finance. What are your thoughts on the future of on-chain neobanks? Will they complement or compete with traditional financial infrastructure?
 
-23m ago
+34m ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 5h ago
 
 2025 was a huge year for the metals trade, with both gold (GC=F) and silver (SI=F) futures hitting new highs on Dec. 26. Bitcoin (BTC-USD), however, continues to falter. Yahoo Finance Senior Reporter Ines Ferré breaks down the action. To watch more expert insights and analysis on the latest market action, check out more Market Domination.
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -299,7 +299,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
 
-⬆️ 4 • 💬 0 • 3h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+⬆️ 4 • 💬 0 • 4h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
 
 ---
 

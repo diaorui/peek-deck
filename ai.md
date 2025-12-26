@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T21:44:45.339385+00:00'
+updated: '2025-12-26T21:55:17.848814+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 21:44 UTC  
+**Last Updated:** December 26, 2025 at 21:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 22m ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 32m ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 7h ago
 
 An executive order signed earlier this month by President Donald Trump could put Texas at odds with the federal government over AI regulation.
 
-FOX 4 News Dallas-Fort Worth • 40m ago
+FOX 4 News Dallas-Fort Worth • 51m ago
 
 ---
 
@@ -147,7 +147,7 @@ FOX 4 News Dallas-Fort Worth • 40m ago
 
 Homa, a tech startup says, at least 10 homes have already closed end-to-end using its AI-powered system, with several more deals currently in escrow.
 
-New York Post • 15m ago
+New York Post • 26m ago
 
 ---
 
@@ -331,7 +331,7 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Mira AI
 
-👁️ 6K • 💬 6 • ⏱️ 10:47 • 8h ago
+👁️ 6K • 💬 6 • ⏱️ 10:47 • 9h ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 473 • 34m ago
+⭐ 3.7k • 🔱 473 • 45m ago
 
 ---
 
