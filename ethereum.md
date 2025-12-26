@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T05:00:45.672214+00:00'
+updated: '2025-12-26T05:33:37.407207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 05:00 UTC  
+**Last Updated:** December 26, 2025 at 05:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -0.1%  
-**30d:** -1.2%  
-**90d:** -28.1%  
-**1y:** -10.7%  
+**24h:** +0.9%  
+**7d:** -0.5%  
+**30d:** -1.6%  
+**90d:** -28.3%  
+**1y:** -11.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $357.30B
+**Market Cap:** $358.04B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.0%
 
 **All-Time Low:** $0.43
-+684002.5%
++684972.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-16h ago
+17h ago
 
 ---
 
@@ -148,17 +148,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Glassnode reports persistent negative net flows in US Bitcoin and Ethereum ETFs](https://cryptobriefing.com/etf-flows-glassnode-november/)**
+
+Glassnode data shows BTC and ETH ETF net flows have stayed negative since November, highlighting reduced institutional demand.
+
+Crypto Briefing • 2d ago
+
+---
+
 **[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 14h ago
+CCN.com • 15h ago
 
 ---
 
@@ -182,15 +190,13 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 12h ago
+ts2.tech • 13h ago
 
 ---
 
-**[BitMines’ $15B Ethereum bet suffers a $3.5B loss – Is a relief likely?](https://ambcrypto.com/bitmines-15b-ethereum-bet-suffers-a-3-5b-loss-is-a-relief-likely/)**
+**[Bitmine Ethereum Holdings Surpass 4M — Can ETH Price Surge to Tom Lee’s $62,000 Prediction?](https://www.ccn.com/news/crypto/bitmine-ethereum-holdings-surpass-4m-can-eth-price-surge-to-tom-lees-62000-prediction/)**
 
-If history repeats, ETH could front a 45% rally in the mid-term.
-
-AMBCrypto • 19h ago
+CCN.com • 2d ago
 
 ---
 
@@ -216,14 +222,6 @@ Decrypt • 2d ago
 
 ---
 
-**[Why Solana Could Grow Faster Than Ethereum, According to Charles Hoskinson](https://coinpedia.org/news/why-solana-could-grow-faster-than-ethereum-according-to-charles-hoskinson/)**
-
-Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
-
-Coinpedia • 10h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +232,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 211 • 👍 16 • 💬 1 • ⏱️ 15:04 • 2h ago
+👁️ 211 • 👍 16 • 💬 1 • ⏱️ 15:04 • 3h ago
 
 ---
 
@@ -304,7 +302,7 @@ LIVE CRYPTO TRADING / Bitcoin ,Gold and ETH #livetrading #live #gold #cryptotrad
 
 📺 Trade With Rakhi
 
-👁️ 12K • 👍 649 • 10h ago
+👁️ 12K • 👍 649 • 11h ago
 
 ---
 
@@ -314,7 +312,7 @@ BlackRock's ETH Staking ETF: Institutions Get Yield The "Digital Bond" era has o
 
 📺 Wall Street Stockcast
 
-👁️ 144 • 👍 10 • 💬 4 • ⏱️ 8:29 • 5h ago
+👁️ 144 • 👍 10 • 💬 4 • ⏱️ 8:29 • 6h ago
 
 ---
 

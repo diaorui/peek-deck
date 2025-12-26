@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T05:00:45.675417+00:00'
+updated: '2025-12-26T05:33:37.410026+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 05:00 UTC  
+**Last Updated:** December 26, 2025 at 05:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-14h ago
+15h ago
 
 ---
 
@@ -64,7 +64,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-8h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone, Like a lot of you, I've been frustrated with the DJI ban news. I�
 
 Wishing everyone a happy Christmas holiday.
 
-17h ago
+18h ago
 
 ---
 
@@ -98,25 +98,17 @@ Source: https://x.com/M5Stack/status/2003453052276343161?s=20
 
 ---
 
-**[UBTech secures $237M fenglong partnership to fortify humanoid robot supply chain.](https://www.reddit.com/r/robotics/comments/1pvl9n1/ubtech_secures_237m_fenglong_partnership_to/)**
+**[Doesn't the new FCC drone ban also bans robots and robot parts?](https://www.reddit.com/r/robotics/comments/1pvfk0m/doesnt_the_new_fcc_drone_ban_also_bans_robots_and/)**
 
-Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
+The US government have just banned imported drones and critical drone parts as "criminals, hostile foreign actors, and terrorists can use them to present new and serious threats to our homeland." Drones are just aerial robots, and China is starting to dominate non-aerial commercial robot market as well (wheeled, legged and humanoids etc). So they will ban all IMPORTED ROBOTS as well using the very same logic?
 
-🔗 [South China Morning Post](https://amp.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain) • 9h ago
+14h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
-
-Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
-
-IEEE Spectrum • 1d ago
-
----
 
 **[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
@@ -126,15 +118,11 @@ interestingengineering.com • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdLy5dWQyiys3dEsGmxgs_8DibpzDW2kStsLUcwqvm8lNIX1pvnU8gB&gaa_ts=694e15d3&gaa_sig=5CZV3tuolJtUzHLK0mdsC_i9zNckTcFcr6P38sjayWQdMd8jrkpC_XhwvXVs2bKPtaERvv11gQ4bUW6RqHhLJg%3D%3D)**
+**[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
-The Wall Street Journal • 3h ago
+Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 7h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -146,11 +134,9 @@ Earth.com • 1d ago
 
 ---
 
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-: Investment and interest have outpaced technology and society
-
-theregister.com • 16h ago
+Tech Xplore • 7h ago
 
 ---
 
@@ -168,19 +154,35 @@ Futura, Le média qui explore le monde • 2d ago
 
 ---
 
-**[China’s AgiBot aims for US$142 million revenue as humanoid robots gain momentum](https://www.scmp.com/tech/big-tech/article/3337477/chinas-agibot-targets-us142-million-revenue-march-humanoid-robots-gathers-pace)**
-
-Fast-growing robotics start-up expects to ship out 5,000 units in 2025 amid Beijing backing of the embodied intelligence industry.
-
-South China Morning Post • 2d ago
-
----
-
 **[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
 
 Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
 
 New Atlas • 1d ago
+
+---
+
+**[Trump, 79, Rants Incoherently About Robots and AI](https://www.thedailybeast.com/trump-79-rants-incoherently-about-robots-and-ai/)**
+
+The president stumbled through a word salad as he tried to reassure Americans that robots and AI would not replace their jobs.
+
+The Daily Beast • 2d ago
+
+---
+
+**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
+
+Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
+
+The Robot Report • 1d ago
+
+---
+
+**[US Army to use new robotic systems to kill chemical, radiological, nuclear threats](https://interestingengineering.com/military/us-military-autonomous-systems-tackle-threats)**
+
+These systems can independently detect, identify, and mitigate CBRN threats by leveraging sensors, AI, and decision-making algorithms.
+
+interestingengineering.com • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 15K • 👍 616 • 💬 80 • ⏱️ 12:51 • 5h ago
+👁️ 15K • 👍 616 • 💬 80 • ⏱️ 12:51 • 6h ago
 
 ---
 
@@ -234,7 +236,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 2K • 👍 179 • 💬 42 • ⏱️ 21:33 • 4h ago
+👁️ 2K • 👍 179 • 💬 42 • ⏱️ 21:33 • 5h ago
 
 ---
 
@@ -274,7 +276,7 @@ Download now! ➡️➡️➡️ https://wr.app/play Find discounts on D-Gems an
 
 📺 War Robots [WR]
 
-👁️ 36K • 👍 2K • 💬 2K • ⏱️ 9:57 • 19h ago
+👁️ 36K • 👍 2K • 💬 2K • ⏱️ 9:57 • 20h ago
 
 ---
 

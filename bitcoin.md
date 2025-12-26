@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T05:00:45.666237+00:00'
+updated: '2025-12-26T05:33:37.401929+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 05:00 UTC  
+**Last Updated:** December 26, 2025 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +0.9%  
-**30d:** -2.5%  
-**90d:** -20.4%  
-**1y:** -5.5%  
+**24h:** +1.3%  
+**7d:** +0.5%  
+**30d:** -2.8%  
+**90d:** -20.7%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1772.03B
+**Market Cap:** $1773.74B
 Rank #1
 
-**Circulating Supply:** 19,967,181 BTC
+**Circulating Supply:** 19,967,218 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -29.6%
 
 **All-Time Low:** $67.81
-+130852.7%
++130871.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Video cred: clusk
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -105,19 +105,19 @@ Video cred: clusk
 
 **[We are getting there, really looking good.](https://www.reddit.com/r/Bitcoin/comments/1pv8u7a/we_are_getting_there_really_looking_good/)**
 
-20h ago
+21h ago
+
+---
+
+**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
+
+2h ago
 
 ---
 
 **[One of my favourite Xmas presents this year.!](https://www.reddit.com/r/Bitcoin/comments/1pvlaxg/one_of_my_favourite_xmas_presents_this_year/)**
 
 9h ago
-
----
-
-**[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
-
-1h ago
 
 ---
 
@@ -149,33 +149,19 @@ This question was asked on Bitunix earlier today while I was browsing through ma
 
 ## Google News: "bitcoin"
 
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+
+CoinDesk • 15h ago
+
+---
+
 **[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
 
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
-The Motley Fool • 8h ago
-
----
-
-**[Asia Market Open: Bitcoin Steady At $89k As Thin Trading Lifts Stocks, Silver Shines](https://finance.yahoo.com/news/asia-market-open-bitcoin-steady-031631780.html)**
-
-Bitcoin held near $89,127 in thin Boxing Day trade as Asian stocks edged higher and silver stayed in the spotlight after notching fresh record highs this week, with investors still leaning into the year-end risk bid.With several Asia Pacific exchanges shut for the holiday, investors took cues from the last ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today)**
-
-Key PointsBitcoin has gained nearly 20,000% during the past 10 years, far more than the stock market.
-
-Nasdaq • 1d ago
-
----
-
-**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
-
-The Block • 10h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -187,19 +173,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
+**[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 21h ago
-
----
-
-**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
-
-BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
-
-Yahoo Finance • 16h ago
+The Block • 11h ago
 
 ---
 
@@ -211,7 +187,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqd9XBD0HXTn6fqX-AWRblY1oFpkwlzjS7lJqT-9_6lZErpsAGj0OV2P&gaa_ts=694e15d0&gaa_sig=BG-0QzqM0PUnIBMsmteIGfnIwB7FoBeXhItpXyq_Xwme9A6UZX8iz6uDyO4HQscrNbaQmYYnXjk7bU9oCPoQ6g%3D%3D)**
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
+
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin Price Today (Dec. 25, 2025): BTC Holds Near $87,500 as Binance Flash-Wick, ETF Outflows, and Holiday Liquidity Shape the Market](https://ts2.tech/en/bitcoin-price-today-dec-25-2025-btc-holds-near-87500-as-binance-flash-wick-etf-outflows-and-holiday-liquidity-shape-the-market/)**
+
+Bitcoin Price Today (Dec. 25, 2025): BTC Holds Near $87,500 as Binance Flash-Wick, ETF Outflows, and Holiday Liquidity Shape the Market - TechStock²
+
+ts2.tech • 19h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeUbZ2G4vV2G5GCWmJSoNkC-i6jHbNB3MDuy4ocPoriAWVJuMO_fGHV&gaa_ts=694e219d&gaa_sig=-rk2uoWmvMHs50jgHwqvHipIPNmWXwJIWuOCjg0Vak130zCQRComcP6FgTWESOCFCrOcYwRXoZYkVc7hcW6Zjg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -220,6 +212,14 @@ The Wall Street Journal • 2d ago
 **[Jim Cramer turns 100% bearish on Bitcoin](https://www.thestreet.com/crypto/markets/jim-cramers-recent-bitcoin-take-has-traders-leaning-other-way)**
 
 thestreet.com • 12h ago
+
+---
+
+**[Michael Saylor Has a New Story to Tell. Strategy 'Goes Beyond Bitcoin Exposure'](https://www.investopedia.com/michael-saylor-has-a-new-story-to-tell-strategy-goes-beyond-bitcoin-exposure-mstr-btc-11875338)**
+
+Though the bitcoin story stock has lost some of its luster lately, Saylor is gearing up to attract a new crop of investors that could help lift Strategy's shares.
+
+Investopedia • 2d ago
 
 ---
 
@@ -243,7 +243,7 @@ thestreet.com • 12h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 12h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 13h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -315,7 +315,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 397 • 💬 18 • ⏱️ 19:55 • 12h ago
+👁️ 10K • 👍 397 • 💬 18 • ⏱️ 19:55 • 13h ago
 
 ---
 
@@ -365,7 +365,7 @@ Over 70% of all Bitcoin wealth now sits at a cost basis above $85000, marking a 
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 139 • 💬 3 • ⏱️ 0:56 • 15h ago
+👁️ 5K • 👍 139 • 💬 3 • ⏱️ 0:56 • 16h ago
 
 ---
 
