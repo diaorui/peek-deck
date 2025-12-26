@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T11:53:39.756400+00:00'
+updated: '2025-12-26T12:36:57.995907+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 11:53 UTC  
+**Last Updated:** December 26, 2025 at 12:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -58,15 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-21h ago
-
----
-
-**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
-
-We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
-
-5h ago
+22h ago
 
 ---
 
@@ -74,7 +66,15 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-2h ago
+3h ago
+
+---
+
+**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
+
+We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
+
+6h ago
 
 ---
 
@@ -84,11 +84,17 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 ---
 
+**[NEED HELP REGARDING DOBOT M1 SCARA](https://www.reddit.com/r/robotics/comments/1pw29sh/need_help_regarding_dobot_m1_scara/)**
+
+1h ago
+
+---
+
 **[How do I connect my hiwonder somatosensory glove to my hiwonder robotic hand](https://www.reddit.com/r/robotics/comments/1pvlra3/how_do_i_connect_my_hiwonder_somatosensory_glove/)**
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-15h ago
+16h ago
 
 ---
 
@@ -96,13 +102,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 Hello everyone! It's the first time I've written here... so I'm in possession of a NAO robot, and to use it with my PC I need to have a specific version of the Choreographe Software. The version of the robot is the V6 so the compatible versions are starting from 2.8.5 onwards... I would really need the latter, since I have a very old version of macos and the newer one does not support it. So I ask if any of you have this specific version, or know how to get it.. thanks in advance ;)
 
-2h ago
-
----
-
-**[Day 94 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pv83pz/day_94_of_building_asimov_an_opensource_humanoid/)**
-
-1d ago
+3h ago
 
 ---
 
@@ -136,7 +136,7 @@ Interesting Engineering • 1d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 14h ago
+Tech Xplore • 15h ago
 
 ---
 
@@ -152,7 +152,15 @@ New Atlas • 1d ago
 
 : Investment and interest have outpaced technology and society
 
-theregister.com • 22h ago
+theregister.com • 23h ago
+
+---
+
+**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
+
+In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
+
+Yahoo Finance • 59m ago
 
 ---
 
@@ -160,7 +168,7 @@ theregister.com • 22h ago
 
 Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
 
-South China Morning Post • 23h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -170,19 +178,9 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[After LLMs and agents, the next AI frontier: video language models](https://www.computerworld.com/article/4106563/after-llms-and-agents-the-next-ai-frontier-video-language-models.html)**
+**[How Agility Robotics uses artificial intelligence, from their humanoid ‘Digit’ to everyday workflow](https://www.limaohio.com/top-stories/2025/12/25/how-agility-robotics-uses-artificial-intelligence-from-their-humanoid-digit-to-everyday-workflow/)**
 
-The next step in the evolution of generative AI technology will rely on ‘world models’ to improve physical outcomes in the real world.
-
-Computerworld • 4h ago
-
----
-
-**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
-
-Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
-
-Futura, Le média qui explore le monde • 2d ago
+LimaOhio.com • 15h ago
 
 ---
 
@@ -196,7 +194,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 56K • 👍 1K • 💬 146 • ⏱️ 12:51 • 12h ago
+👁️ 56K • 👍 1K • 💬 146 • ⏱️ 12:51 • 13h ago
 
 ---
 
@@ -206,7 +204,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 3K • 👍 132 • 💬 8 • ⏱️ 1:30 • 6h ago
+👁️ 3K • 👍 132 • 💬 8 • ⏱️ 1:30 • 7h ago
 
 ---
 
@@ -226,7 +224,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 21K • 👍 648 • 💬 164 • ⏱️ 21:33 • 11h ago
+👁️ 21K • 👍 648 • 💬 164 • ⏱️ 21:33 • 12h ago
 
 ---
 

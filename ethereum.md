@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T11:53:39.753185+00:00'
+updated: '2025-12-26T12:36:57.992650+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 11:53 UTC  
+**Last Updated:** December 26, 2025 at 12:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** -0.5%  
-**30d:** -1.6%  
+**24h:** +1.3%  
+**7d:** -0.3%  
+**30d:** -1.5%  
 **90d:** -28.3%  
-**1y:** -11.0%  
+**1y:** -10.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $358.27B
+**Market Cap:** $358.20B
 Rank #2
 
 **Circulating Supply:** 120,694,972 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-40.0%
 
 **All-Time Low:** $0.43
-+684228.8%
++685245.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-23h ago
+1d ago
 
 ---
 
@@ -164,23 +164,23 @@ Crypto Briefing • 2d ago
 
 ---
 
-**[40% of Ethereum Supply Slips Into Loss as Whales Take Opposing Positions](https://finance.yahoo.com/news/40-ethereum-supply-slips-loss-091645825.html)**
+**[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
-Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
+Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
 
-CCN.com • 21h ago
+CCN.com • 22h ago
 
 ---
 
 **[Key facts: Ethereum ETFs Surge; Price Hits Record $4,953.73; ePBS Enhances Security](https://www.tradingview.com/news/tradingview:0223768080e5f:0-key-facts-ethereum-etfs-surge-price-hits-record-4-953-73-epbs-enhances-security/)**
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ CryptoSlate • 2d ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 19h ago
+ts2.tech • 20h ago
 
 ---
 
@@ -210,15 +210,15 @@ The Block • 2d ago
 
 Cardano founder Charles Hoskinson has shared his thoughts on how Ethereum and Solana may perform as the crypto market moves toward 2026. His comments show
 
-Coinpedia • 16h ago
+Coinpedia • 17h ago
 
 ---
 
-**[ETH at Risk? Four Indicators Point to More Pain Ahead](https://beincrypto.com/why-eth-price-may-not-recover-soon/)**
+**[The Year in Ethereum 2025: Institutions Embrace ETH as the 'Ivory Tower' Crumbles](https://decrypt.co/352160/the-year-ethereum-2025-institutions-embrace-eth-ivory-tower-crumbles)**
 
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
+This year, global power centers like Wall Street learned to love Ethereum—and Ethereum learned to love them back.
 
-BeInCrypto • 20h ago
+Decrypt • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 3K • 👍 84 • 💬 15 • ⏱️ 19:17 • 20h ago
+👁️ 3K • 👍 84 • 💬 15 • ⏱️ 19:17 • 21h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 7 • ⏱️ 4:41 • 19h ago
+👁️ 3K • 👍 169 • 💬 7 • ⏱️ 4:41 • 20h ago
 
 ---
 
@@ -262,7 +262,7 @@ This video delivers a technical market breakdown of Ethereum (ETH) and BMNR, usi
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 44 • ⏱️ 15:04 • 9h ago
+👁️ 1K • 👍 44 • ⏱️ 15:04 • 10h ago
 
 ---
 
@@ -272,7 +272,7 @@ The wall between Wall Street and Crypto just crumbled. In this video, we discuss
 
 📺 CryptoStock Lab
 
-👁️ 4K • 👍 114 • 💬 48 • ⏱️ 13:41 • 1d ago
+👁️ 4K • 👍 114 • 💬 48 • ⏱️ 13:41 • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 9K • 👍 304 • 💬 138 • ⏱️ 16:26 • 17h ago
+👁️ 9K • 👍 304 • 💬 138 • ⏱️ 16:26 • 18h ago
 
 ---
 
@@ -312,7 +312,7 @@ Apply for mentorship: https://forms.gle/feBNYFsyZuxpHPNs9 Timing In Price video:
 
 📺 Trading Jip
 
-👁️ 693 • 👍 35 • 💬 46 • ⏱️ 7:57 • 23h ago
+👁️ 693 • 👍 35 • 💬 46 • ⏱️ 7:57 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ BlackRock's ETH Staking ETF: Institutions Get Yield The "Digital Bond" era has o
 
 📺 Wall Street Stockcast
 
-👁️ 265 • 👍 11 • 💬 5 • ⏱️ 8:29 • 12h ago
+👁️ 265 • 👍 11 • 💬 5 • ⏱️ 8:29 • 13h ago
 
 ---
 
