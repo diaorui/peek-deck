@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T18:56:09.905140+00:00'
+updated: '2025-12-26T19:19:12.555844+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 18:56 UTC  
+**Last Updated:** December 26, 2025 at 19:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,343.65
+### $87,313.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -1.4%  
-**30d:** -4.7%  
-**90d:** -22.2%  
-**1y:** -7.6%  
+**24h:** -0.7%  
+**7d:** -1.1%  
+**30d:** -4.4%  
+**90d:** -22.0%  
+**1y:** -7.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1741.04B
+**Market Cap:** $1742.11B
 Rank #1
 
-**Circulating Supply:** 19,967,456 BTC
+**Circulating Supply:** 19,967,500 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.8%
 
 **All-Time Low:** $67.81
-+128532.9%
++128569.8%
 
 ---
 
@@ -95,6 +95,12 @@ Rank #1
 
 ---
 
+**[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
+
+1h ago
+
+---
+
 **[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
 
 6h ago
@@ -107,37 +113,29 @@ Rank #1
 
 ---
 
-**[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
+**[10 Year old decided no gifts this year instead wanted money under the tree to buy BTC.](https://www.reddit.com/r/Bitcoin/comments/1pw9fmk/10_year_old_decided_no_gifts_this_year_instead/)**
+
+2h ago
+
+---
+
+**[why is bitcoin going down while gold and silver are at all time high's?](https://www.reddit.com/r/Bitcoin/comments/1pwas1i/why_is_bitcoin_going_down_while_gold_and_silver/)**
+
+give your opinion
 
 1h ago
 
 ---
 
-**[10 Year old decided no gifts this year instead wanted money under the tree to buy BTC.](https://www.reddit.com/r/Bitcoin/comments/1pw9fmk/10_year_old_decided_no_gifts_this_year_instead/)**
+**[Problems 2026](https://www.reddit.com/r/Bitcoin/comments/1pwc5jm/problems_2026/)**
 
-1h ago
+12m ago
 
 ---
 
 **[What it must feel like holding 1 BTC…](https://www.reddit.com/r/Bitcoin/comments/1pvskrc/what_it_must_feel_like_holding_1_btc/)**
 
 17h ago
-
----
-
-**[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
-
-Video cred: clusk
-
-20h ago
-
----
-
-**[How old is bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1pw305j/how_old_is_bitcoin/)**
-
-These were the most popular ‘smart’ phones when bitcoin was invented in 2009
-
-6h ago
 
 ---
 
@@ -153,25 +151,27 @@ Bloomberg.com • 5h ago
 
 ---
 
-**[Precious metals and copper soar as bitcoin price (BTC) stumbles Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records?utm_source=news.xml&utm_medium=rss)**
-
-The Block • 1h ago
+CoinDesk • 1d ago
 
 ---
 
-**[The Real Reason Bitcoin Dropped Like A Stone From Its $126,000 All-Time High](https://finance.yahoo.com/news/real-reason-bitcoin-dropped-stone-190144386.html)**
+**[Gold hits new record, bitcoin slips, Apple's China sales](https://finance.yahoo.com/video/gold-hits-record-bitcoin-slips-191003511.html)**
 
-Bitcoin (CRYPTO: BTC) is down $40,000 from its peak at the start of October. According to new analysis it wasn’t retail traders or overleveraged longs that did the damage—it was whales who bought around the $126,000 all-time high and panic-sold into ...
+As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 9m ago
+
+---
+
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://ca.finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+
+Yahoo! Finance Canada • 38m ago
 
 ---
 
@@ -179,37 +179,35 @@ Yahoo Finance • 1d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today)**
-
-Key PointsBitcoin has gained nearly 20,000% during the past 10 years, far more than the stock market.
-
-Nasdaq • 2d ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
-
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
-
-The Motley Fool • 22h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqciU1_QnTi7oQJ6xxwNiDyfDPDqU69MBkjJOc83BbRnry3ofJmBnMqg&gaa_ts=694ed986&gaa_sig=aSH9lFc0Fv4Om-XVK7EcgJrsbVq6guyLnrkU4QJoWeAo1ax-o0sBGMMsXiJztz8pEl4c3pVZr85OR1znOWdSYA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqeKkVp11o1NAZZrQL7JMm0vl1pBSQI8r4wz6GvLx4AfatIxSFNl-s27&gaa_ts=694ee317&gaa_sig=V-6WUltUYL72fbHPN52qb0VjSSqh7gWx_uMXJYcInr6MO1Tk8ToLupoRXpyqogg5jdKKB4_mkm5vFu-rixl2Rg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Scam artist convinces resident to buy $18,000 in bitcoin: Seven Hills Police Blotter](https://www.cleveland.com/community/2025/12/scam-artist-convinces-resident-to-buy-18000-in-bitcoin-seven-hills-police-blotter.html)**
+**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
 
-In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
+thestreet.com • 3h ago
 
-Cleveland.com • 5h ago
+---
+
+**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
+
+Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -234,6 +232,14 @@ KITCO • 8h ago
 **[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://news.ycombinator.com/item?id=46382122)**
 
 ⬆️ 2 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9)
+
+---
+
+**[BTC3 – A Fast, Self-Contained Bitcoin Testnet](https://news.ycombinator.com/item?id=46395033)**
+
+BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
+
+⬆️ 1 • 💬 1 • 22m ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -281,7 +287,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
 
-⬆️ 3 • 💬 0 • 1h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+⬆️ 4 • 💬 0 • 1h ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
 
 ---
 
@@ -295,7 +301,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 483 • 💬 130 • ⏱️ 4:31 • 22h ago
+👁️ 12K • 👍 483 • 💬 130 • ⏱️ 4:31 • 23h ago
 
 ---
 
@@ -325,7 +331,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 271 • 💬 42 • ⏱️ 21:19 • 3h ago
+👁️ 3K • 👍 271 • 💬 42 • ⏱️ 21:19 • 4h ago
 
 ---
 
@@ -345,7 +351,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 686 • 💬 48 • ⏱️ 15:49 • 20h ago
+👁️ 18K • 👍 686 • 💬 48 • ⏱️ 15:49 • 21h ago
 
 ---
 
