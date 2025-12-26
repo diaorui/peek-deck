@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T15:57:34.505915+00:00'
+updated: '2025-12-26T16:32:49.490965+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 15:57 UTC  
+**Last Updated:** December 26, 2025 at 16:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,15 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-6h ago
+7h ago
+
+---
+
+**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
+
+We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
+
+10h ago
 
 ---
 
@@ -70,11 +78,11 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
-**[Day 95 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pvxbj5/day_95_of_building_asimov_an_opensource_humanoid/)**
+**[Cost of LiDaR for autnomois robot application](https://www.reddit.com/r/robotics/comments/1pw7r0z/cost_of_lidar_for_autnomois_robot_application/)**
 
-We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
+Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
 
-9h ago
+27m ago
 
 ---
 
@@ -88,21 +96,13 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-19h ago
+20h ago
 
 ---
 
 **[NEED HELP REGARDING DOBOT M1 SCARA](https://www.reddit.com/r/robotics/comments/1pw29sh/need_help_regarding_dobot_m1_scara/)**
 
 4h ago
-
----
-
-**[Help request for a version of choreographe compatible with my macos](https://www.reddit.com/r/robotics/comments/1pw00w5/help_request_for_a_version_of_choreographe/)**
-
-Hello everyone! It's the first time I've written here... so I'm in possession of a NAO robot, and to use it with my PC I need to have a specific version of the Choreographe Software. The version of the robot is the V6 so the compatible versions are starting from 2.8.5 onwards... I would really need the latter, since I have a very old version of macos and the newer one does not support it. So I ask if any of you have this specific version, or know how to get it.. thanks in advance ;)
-
-6h ago
 
 ---
 
@@ -118,6 +118,14 @@ Earth.com • 2d ago
 
 ---
 
+**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
+
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
+
+Interesting Engineering • 2d ago
+
+---
+
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
@@ -126,19 +134,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[AI Chips Today - NVIDIA AI Chips Power Next-Gen Industrial Robotics](https://finance.yahoo.com/news/ai-chips-today-nvidia-ai-113710313.html)**
+**[Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html)**
 
-In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
+We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
 
-Yahoo Finance • 4h ago
-
----
-
-**[Video: China’s humanoid robot achieves world’s first two-handed stitching feat](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
-
-A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
-
-Interesting Engineering • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -156,35 +156,33 @@ New Atlas • 2d ago
 
 ---
 
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 1h ago
-
----
-
 **[Robots fashioned from dead lobster exoskeletons have awesome strength, light weight, and flexibility — necrobotics advance mixes sustainable food waste with synthetic components](https://www.tomshardware.com/maker-stem/robot-kits/robots-fashioned-from-dead-lobster-exoskeletons-have-awesome-strength-light-weight-and-flexibility-necrobotics-advance-mixes-sustainable-food-waste-with-synthetic-components)**
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 4h ago
+Tom's Hardware • 5h ago
 
 ---
 
-**[Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow](https://www.theregister.com/2025/12/25/humanoid_robots_investment_surge/)**
+**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
-: Investment and interest have outpaced technology and society
-
-theregister.com • 1d ago
+Investor's Business Daily • 2d ago
 
 ---
 
-**[UBTech’s US$237 million Fenglong deal tightens humanoid robot supply chain](https://www.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain)**
+**[Scientists built a robotic claw using shrimp — and it outperforms synthetic versions](https://www.futura-sciences.com/en/scientists-built-a-robotic-claw-using-shrimp-and-it-outperforms-synthetic-versions_22465/)**
 
-Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
+Swiss scientists have done something truly unexpected: they’ve created robotic fingers using leftover crustacean shells. The result is a robotic claw that’s not only efficient but also eco-friendly and cheap — a sustainable twist in ... Read more
 
-South China Morning Post • 1d ago
+Futura, Le média qui explore le monde • 3d ago
+
+---
+
+**[Comau introduces MyCo cobot products](https://www.therobotreport.com/comau-introduces-myco-collaborative-robot-products/)**
+
+Comau has launched MyCo, a new family of six lightweight cobots designed for safe, flexible, and cost-effective industrial automation.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -198,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 74K • 👍 1K • 💬 165 • ⏱️ 12:51 • 16h ago
+👁️ 74K • 👍 1K • 💬 165 • ⏱️ 12:51 • 17h ago
 
 ---
 
@@ -208,7 +206,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 6K • 👍 187 • 💬 12 • ⏱️ 1:30 • 10h ago
+👁️ 6K • 👍 187 • 💬 12 • ⏱️ 1:30 • 11h ago
 
 ---
 
@@ -228,7 +226,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 31K • 👍 874 • 💬 216 • ⏱️ 21:33 • 15h ago
+👁️ 31K • 👍 874 • 💬 216 • ⏱️ 21:33 • 16h ago
 
 ---
 
