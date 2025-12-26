@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T17:46:27.253120+00:00'
+updated: '2025-12-26T17:57:23.734607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 17:46 UTC  
+**Last Updated:** December 26, 2025 at 17:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -1.8%  
-**30d:** -2.9%  
-**90d:** -29.3%  
-**1y:** -12.1%  
+**24h:** -1.2%  
+**7d:** -1.9%  
+**30d:** -3.1%  
+**90d:** -29.4%  
+**1y:** -12.3%  
 
 ---
 
@@ -86,7 +86,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 9m ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 20m ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView — Track All Markets • 17h ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 6h ago
+Coinpedia Fintech News • 7h ago
 
 ---
 
@@ -302,7 +302,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 22 • 👍 1 • ⏱️ 8:56 • 6h ago
+👁️ 22 • 👍 1 • ⏱️ 8:56 • 7h ago
 
 ---
 

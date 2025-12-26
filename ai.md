@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T17:46:27.238485+00:00'
+updated: '2025-12-26T17:57:23.720048+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 17:46 UTC  
+**Last Updated:** December 26, 2025 at 17:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 We’ve just published a formal architecture paper proposing a recursion-first cognitive system — not based on token prediction or standard transformer pipelines. 📄 Title: Zahaviel Structured Intelligence – A Recursive Cognitive Operating System for Externalized Thought This is a non-token-based cognitive architecture built around: Recursive validation loops as the core processing unit Structured field encoding (meaning is positionally and relationally defined) Full trace lineage of outputs (every result is verifiable and reconstructible) Interface-anchored cognition (externalized through schema-preserving outputs) Rather than simulate intelligence through statistical tokens, this system operationalizes thought itself — every output carries its structural history and constraints. 🧠 Key components: Recursive kernel (self-validating transforms) Trace anchors (full output lineage tracking) Field samplers (relational input/output modules) The paper includes a first-principles breakdown, externalization model, and cognitive dynamics. If you’re working on non-linear AI cognition, memory-integrated systems, or recursive architectures — feedback is welcome. 🔗 https://open.substack.com/pub/structuredlanguage/p/zahaviel-structured-intelligence?utm_source=share&utm_medium=android&r=6sdhpn 🗣️ Discussion encouraged below.
 
-🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 17h ago
+🔗 [Google Docs](https://drive.google.com/file/d/1slCTUzvVBwxl2OM7zgrfW1oidg4qcmtW/view?usp=drivesdk) • 18h ago
 
 ---
 
@@ -81,7 +81,7 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
 
-🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 21h ago
+🔗 [AP News](https://apnews.com/article/ai-facial-recognition-axon-edmonton-21f319ce806a0023f855eb69d928d31e) • 22h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 3h ago
 
 **[What Will AI Flip Into?](https://www.bloomberg.com/news/newsletters/2025-12-26/what-will-ai-flip-into)**
 
-Bloomberg.com • 31m ago
+Bloomberg.com • 42m ago
 
 ---
 
@@ -145,13 +145,13 @@ Bloomberg.com • 31m ago
 
 The staggering total, up from $1.9 trillion at the start of the year, reflects Wall Street’s all-in bet on artificial intelligence.
 
-New York Post • 9m ago
+New York Post • 20m ago
 
 ---
 
 **[From OpenAI to Nvidia, here’s a list of recent multibillion-dollar AI deals](https://www.fastcompany.com/91467080/openai-nvidia-heres-list-recent-multi-billion-dollar-ai-deals)**
 
-Fast Company • 39m ago
+Fast Company • 49m ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 1d ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 431 • 💬 120 • 1d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 431 • 💬 120 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -666,7 +666,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 472 • 46m ago
+⭐ 3.6k • 🔱 472 • 57m ago
 
 ---
 
@@ -676,7 +676,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 23m ago
+⭐ 3.1k • 🔱 214 • 34m ago
 
 ---
 
