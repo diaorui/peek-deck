@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T17:57:23.728578+00:00'
+updated: '2025-12-26T18:38:18.472821+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 17:57 UTC  
+**Last Updated:** December 26, 2025 at 18:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1742.55B
+**Market Cap:** $1741.04B
 Rank #1
 
-**Circulating Supply:** 19,967,421 BTC
+**Circulating Supply:** 19,967,456 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.8%
 
 **All-Time Low:** $67.81
-+128649.4%
++128532.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -89,21 +89,33 @@ Rank #1
 
 ---
 
+**[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
+
+1h ago
+
+---
+
 **[Bitcoin in December summed up in one picture.](https://www.reddit.com/r/Bitcoin/comments/1pw33qs/bitcoin_in_december_summed_up_in_one_picture/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Anytime you think of selling, remember "History of Paper Hands".](https://www.reddit.com/r/Bitcoin/comments/1pvm472/anytime_you_think_of_selling_remember_history_of/)**
 
-21h ago
+22h ago
+
+---
+
+**[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
+
+1h ago
 
 ---
 
 **[10 Year old decided no gifts this year instead wanted money under the tree to buy BTC.](https://www.reddit.com/r/Bitcoin/comments/1pw9fmk/10_year_old_decided_no_gifts_this_year_instead/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -113,23 +125,11 @@ Rank #1
 
 ---
 
-**[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
-
-30m ago
-
----
-
 **[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
 
 Video cred: clusk
 
-19h ago
-
----
-
-**[How institutions look at us when they can profit from liquidating BTC longs and shorts…](https://www.reddit.com/r/Bitcoin/comments/1pw9wff/how_institutions_look_at_us_when_they_can_profit/)**
-
-23m ago
+20h ago
 
 ---
 
@@ -137,7 +137,7 @@ Video cred: clusk
 
 These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
-5h ago
+6h ago
 
 ---
 
@@ -149,21 +149,21 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
+**[Precious metals and copper soar as bitcoin price (BTC) stumbles Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
 
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
+Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
 
-CoinDesk • 1d ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records?utm_source=news.xml&utm_medium=rss)**
 
-The Block • 17m ago
+The Block • 57m ago
 
 ---
 
@@ -179,21 +179,29 @@ Yahoo Finance • 1d ago
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcG13vDr2-3qMTi4zI1GAYfFa9XYcbO2mpRl9kaaE1T7-FRWvksdy9U&gaa_ts=694ecd5d&gaa_sig=rx8LyU9waVjeaYUYbCBFXf1L4Usp73RxP9JaE1SOWi6MeRu6pPYKhyP1hgFHCnQbMN4_qeHQ2uytZ67LXSLEnw%3D%3D)**
+**[If You'd Invested $100 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://www.nasdaq.com/articles/if-youd-invested-100-bitcoin-10-years-ago-heres-how-much-youd-have-today)**
+
+Key PointsBitcoin has gained nearly 20,000% during the past 10 years, far more than the stock market.
+
+Nasdaq • 2d ago
+
+---
+
+**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
+
+Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
+
+The Motley Fool • 22h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqciU1_QnTi7oQJ6xxwNiDyfDPDqU69MBkjJOc83BbRnry3ofJmBnMqg&gaa_ts=694ed986&gaa_sig=aSH9lFc0Fv4Om-XVK7EcgJrsbVq6guyLnrkU4QJoWeAo1ax-o0sBGMMsXiJztz8pEl4c3pVZr85OR1znOWdSYA%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[Bitcoin December 26 daily chart alert - Holiday pause continues Friday](https://www.kitco.com/news/article/2025-12-26/bitcoin-december-26-daily-chart-alert-holiday-pause-continues-friday)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 7h ago
 
 ---
 
@@ -205,19 +213,11 @@ Cleveland.com • 4h ago
 
 ---
 
-**[Death Cross Threat Returns for Bitcoin, and $67,000 Is Not Meme Number Anymore](https://www.tradingview.com/news/u_today:6be5ac36d094b:0-death-cross-threat-returns-for-bitcoin-and-67-000-is-not-meme-number-anymore/)**
+**[Bitcoin December 26 daily chart alert - Holiday pause continues Friday](https://www.kitco.com/news/article/2025-12-26/bitcoin-december-26-daily-chart-alert-holiday-pause-continues-friday)**
 
-Bitcoin just got the kind of chart setup that makes even confident dip-buyers check their leverage twice today. On the weekly BINANCE:BTCUSDT chart, the price is around $88,690 and the market participants are better to stare at a death-cross setup with about two days left in the current candle.This…
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-TradingView — Track All Markets • 2h ago
-
----
-
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
-
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 1d ago
+KITCO • 8h ago
 
 ---
 
@@ -277,6 +277,14 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 ---
 
+**[Apple's M-series chip 5 years later](https://news.ycombinator.com/item?id=46394385)**
+
+Apple’s M1 chip changed everything. Here's the inside scoop on how it all came together.
+
+⬆️ 3 • 💬 0 • 43m ago • [Tom's Guide](https://www.tomsguide.com/computing/cpus/apples-m-series-chip-gamble-5-years-later-how-ditching-intel-revolutionized-computing-and-whats-next)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -287,7 +295,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 483 • 💬 130 • ⏱️ 4:31 • 21h ago
+👁️ 12K • 👍 483 • 💬 130 • ⏱️ 4:31 • 22h ago
 
 ---
 
@@ -317,7 +325,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 271 • 💬 42 • ⏱️ 21:19 • 2h ago
+👁️ 3K • 👍 271 • 💬 42 • ⏱️ 21:19 • 3h ago
 
 ---
 
@@ -337,7 +345,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 686 • 💬 48 • ⏱️ 15:49 • 19h ago
+👁️ 18K • 👍 686 • 💬 48 • ⏱️ 15:49 • 20h ago
 
 ---
 
@@ -347,7 +355,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 328 • 💬 103 • ⏱️ 26:31 • 9h ago
+👁️ 6K • 👍 328 • 💬 103 • ⏱️ 26:31 • 10h ago
 
 ---
 

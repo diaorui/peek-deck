@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T17:57:23.720048+00:00'
+updated: '2025-12-26T18:38:18.464045+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 17:57 UTC  
+**Last Updated:** December 26, 2025 at 18:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Zero Width Characters (U+200B)](https://www.reddit.com/r/artificial/comments/1pw9z12/zero_width_characters_u200b/)**
+
+Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
+
+1h ago
+
+---
+
 **[US military adds Elon Musk’s controversial Grok to its ‘AI arsenal’](https://www.reddit.com/r/artificial/comments/1pve6qv/us_military_adds_elon_musks_controversial_grok_to/)**
 
 The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust earlier this year
@@ -49,7 +57,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 The name “T800” still triggers an automatic association with the science fiction film "The Terminator". But the humanoid robot now carrying that label is not
 
-🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 13h ago
+🔗 [ScienceClock](https://scienceclock.com/engineai-t800-humanoid-robot-martial-arts/) • 14h ago
 
 ---
 
@@ -65,7 +73,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +97,7 @@ Police in Edmonton, Canada, have started a pilot project using AI-equipped body 
 
 trying to recreate some very popular meme songs but in a rock style. Got the duck song in a rock style genre stuck on loop in my head and I need it.
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +105,7 @@ trying to recreate some very popular meme songs but in a rock style. Got the duc
 
 It's about to be 2026 and we're still stuck in the CLI era when it comes to chatbots. So, I created an open source library called Quint. Quint is a small React library that lets you build structured, deterministic interactions on top of LLMs. Instead of everything being raw text, you can define explicit choices where a click can reveal information, send structured input back to the model, or do both, with full control over where the output appears. Quint only manages state and behavior, not presentation. Therefore, you can fully customize the buttons and reveal UI through your own components and styles. The core idea is simple: separate what the model receives, what the user sees, and where that output is rendered. This makes things like MCQs, explanations, role-play branches, and localized UI expansion predictable instead of hacky. Quint doesn’t depend on any AI provider and works even without an LLM. All model interaction happens through callbacks, so you can plug in OpenAI, Gemini, Claude, or a mock function. It’s early (v0.1.0), but the core abstraction is stable. I’d love feedback on whether this is a useful direction or if there are obvious flaws I’m missing. This is just the start. Soon we'll have entire ui elements that can be rendered by LLMs making every interaction easy asf for the avg end user. Repo + docs: https://github.com/ItsM0rty/quint npm: https://www.npmjs.com/package/@itsm0rty/quint
 
-23h ago
+1d ago
 
 ---
 
@@ -109,21 +117,13 @@ Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup
 
 ---
 
-**[Looking For AI Call Center Solution Recommendations](https://www.reddit.com/r/artificial/comments/1puxdgv/looking_for_ai_call_center_solution/)**
-
-Does anyone have any recommendations for AI call center solutions integrated with Sl⁤ack, Teams, GSui⁤te/Google Drive and other generally used tools? My team met with one yesterday, my boss loved it but they do not integrate with the above mentioned tools directly. We need a solution that handles everything for us, we don't want to find an AI call center solution and then setup Zapier on our own
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -131,13 +131,7 @@ The New York Times • 3h ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 3h ago
-
----
-
-**[What Will AI Flip Into?](https://www.bloomberg.com/news/newsletters/2025-12-26/what-will-ai-flip-into)**
-
-Bloomberg.com • 42m ago
+The Guardian • 4h ago
 
 ---
 
@@ -145,13 +139,23 @@ Bloomberg.com • 42m ago
 
 The staggering total, up from $1.9 trillion at the start of the year, reflects Wall Street’s all-in bet on artificial intelligence.
 
-New York Post • 20m ago
+New York Post • 1h ago
 
 ---
 
-**[From OpenAI to Nvidia, here’s a list of recent multibillion-dollar AI deals](https://www.fastcompany.com/91467080/openai-nvidia-heres-list-recent-multi-billion-dollar-ai-deals)**
+**[1 in 8 Young People Use AI Chatbots for Mental Health Advice](https://people.com/young-people-use-ai-chatbots-for-mental-health-advice-11864522)**
 
-Fast Company • 49m ago
+A new study found that about 13% of kids and young adults reported using AI for mental health advice. Researchers say those rates are “remarkably high.”
+
+People.com • 26m ago
+
+---
+
+**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
+
+Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
+
+Yahoo Finance • 4m ago
 
 ---
 
@@ -159,7 +163,13 @@ Fast Company • 49m ago
 
 Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 
-CNBC • 5h ago
+CNBC • 6h ago
+
+---
+
+**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
+
+Marcus on AI • 3h ago
 
 ---
 
@@ -167,23 +177,7 @@ CNBC • 5h ago
 
 I spent a year listening to tech leaders talk about AI. Here are the biggest lessons on AI, work, superintelligence, and what comes next.
 
-Business Insider • 10h ago
-
----
-
-**[Fox News AI Newsletter: How we can live with AI without losing our humanity](https://www.foxnews.com/tech/ai-newsletter-how-we-can-live-ai-without-losing-our-humanity)**
-
-The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
-
-Fox News • 3h ago
-
----
-
-**[AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)**
-
-From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
-
-MIT Technology Review • 1d ago
+Business Insider • 11h ago
 
 ---
 
@@ -195,6 +189,14 @@ Financial Times • 1d ago
 
 ---
 
+**['Artificial stupidity' made AI trading bots spontaneously form cartels when left unsupervised, Wharton study reveals](https://fortune.com/article/what-is-artificial-stupidity-ai-pricing-collusion-study/)**
+
+AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
+
+Fortune • 3h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +205,7 @@ Financial Times • 1d ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 431 • 💬 120 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 432 • 💬 120 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -213,7 +215,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 253 • 💬 292 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 254 • 💬 298 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -229,7 +231,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 181 • 💬 118 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 182 • 💬 118 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -237,7 +239,15 @@ Salesforces has entered a phase of public reckoning after senior executives publ
 
 A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. - laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
-⬆️ 133 • 💬 64 • 21h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+⬆️ 133 • 💬 65 • 22h ago • [GitHub](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+
+---
+
+**[Building an AI agent inside a 7-year-old Rails monolith](https://news.ycombinator.com/item?id=46390055)**
+
+We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
+
+⬆️ 88 • 💬 40 • 11h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -249,19 +259,11 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 ---
 
-**[Building an AI agent inside a 7-year-old Rails monolith](https://news.ycombinator.com/item?id=46390055)**
-
-We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
-
-⬆️ 82 • 💬 39 • 10h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
-
----
-
 **[Microsoft denies rewriting Windows 11 in Rust using AI](https://news.ycombinator.com/item?id=46381813)**
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 72 • 💬 103 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 74 • 💬 103 • 1d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -287,7 +289,7 @@ Create your AI UGC ads with Arcads https://youricreates.com/UGC-2026 In this vid
 
 📺 Youri van Hofwegen
 
-👁️ 3K • 💬 4 • ⏱️ 10:33 • 1h ago
+👁️ 3K • 💬 4 • ⏱️ 10:33 • 2h ago
 
 ---
 
@@ -297,7 +299,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 18h ago
+👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 19h ago
 
 ---
 
@@ -307,7 +309,7 @@ Russian President Vladimir Putin said artificial intelligence could become the g
 
 📺 Times Now World
 
-👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 18h ago
+👁️ 3K • 👍 97 • 💬 8 • ⏱️ 7:06 • 19h ago
 
 ---
 
@@ -393,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 943 • 3d ago
+⬇️ 4,752 • ❤️ 946 • 3d ago
 
 ---
 
@@ -405,7 +407,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,171 • ❤️ 764 • 7d ago
+⬇️ 14,171 • ❤️ 765 • 7d ago
 
 ---
 
@@ -463,7 +465,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 294 • 10h ago
+⬇️ 121 • ❤️ 303 • 11h ago
 
 ---
 
@@ -475,7 +477,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 7,170 • ❤️ 454 • 12d ago
+⬇️ 7,170 • ❤️ 455 • 12d ago
 
 ---
 
@@ -497,7 +499,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 75,002 • ❤️ 178 • 2d ago
+⬇️ 75,002 • ❤️ 179 • 2d ago
 
 ---
 
@@ -666,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 472 • 57m ago
+⭐ 3.6k • 🔱 472 • 1h ago
 
 ---
 
@@ -676,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 34m ago
+⭐ 3.1k • 🔱 214 • 1h ago
 
 ---
 
@@ -706,7 +708,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 116 • 14h ago
+⭐ 1.3k • 🔱 116 • 15h ago
 
 ---
 
@@ -716,7 +718,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 227 • 2h ago
+⭐ 1.3k • 🔱 227 • 3h ago
 
 ---
 
@@ -726,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 133 • 7h ago
+⭐ 1.3k • 🔱 133 • 8h ago
 
 ---
 

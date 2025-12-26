@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T17:57:23.737859+00:00'
+updated: '2025-12-26T18:38:18.483443+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 17:57 UTC  
+**Last Updated:** December 26, 2025 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 **[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-11h ago
+12h ago
 
 ---
 
@@ -82,7 +82,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-51m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 
 Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have 
 
 I just got my hand and glove and I went on the hiwonder wiki and it gave me a way to connect it but it isn’t working. The wiki said it would automatically connect but it didn’t. Also I can’t find the instructions to install the camera to the hand.
 
-21h ago
+22h ago
 
 ---
 
@@ -112,19 +112,19 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 ## Google News: "robotics"
 
-**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
-
-China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
-
-Earth.com • 2d ago
-
----
-
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 2d ago
+
+---
+
+**[Surreal and disturbing video shows humanoid robots being delivered for border patrol duty](https://www.earth.com/news/china-sends-walker-s2-humanoid-robots-to-patrol-vietnam-border/)**
+
+China will send Walker S2 humanoid robots to patrol the border with Vietnam where humans and machines will share duties.
+
+Earth.com • 2d ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 1d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -162,7 +162,15 @@ New Atlas • 2d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 6h ago
+Tom's Hardware • 7h ago
+
+---
+
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 4h ago
 
 ---
 
@@ -171,14 +179,6 @@ Tom's Hardware • 6h ago
 : Investment and interest have outpaced technology and society
 
 theregister.com • 1d ago
-
----
-
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 18h ago
+👁️ 83K • 👍 1K • 💬 177 • ⏱️ 12:51 • 19h ago
 
 ---
 
@@ -208,7 +208,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 7K • 👍 213 • 💬 12 • ⏱️ 1:30 • 12h ago
+👁️ 7K • 👍 213 • 💬 12 • ⏱️ 1:30 • 13h ago
 
 ---
 
@@ -218,7 +218,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 35K • 👍 939 • 💬 229 • ⏱️ 21:33 • 17h ago
+👁️ 35K • 👍 939 • 💬 229 • ⏱️ 21:33 • 18h ago
 
 ---
 
@@ -228,7 +228,7 @@ AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 226K • 👍 12K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 226K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
