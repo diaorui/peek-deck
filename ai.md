@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T14:30:11.081029+00:00'
+updated: '2025-12-26T14:48:02.021569+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - repositories
 - videos
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 14:30 UTC  
+**Last Updated:** December 26, 2025 at 14:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -131,19 +131,19 @@ The New York Times • 4h ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 19m ago
+The Guardian • 37m ago
 
 ---
 
 **[Here Is How AI Will Help Retailers Brace For $850 Million In Returns](https://www.forbes.com/sites/shelleykohan/2025/12/26/here-is-how-ai-will-help-retailers-brace-for-850-million-in-returns/)**
 
-Forbes • 7m ago
+Forbes • 25m ago
 
 ---
 
 **[Supercharge Your Retail and CPG AI Strategy in 2026](https://www.inc.com/charisma-glassman/supercharge-your-retail-and-cpg-ai-strategy-in-2026/91282758)**
 
-Inc.com • 22m ago
+Inc.com • 40m ago
 
 ---
 
@@ -257,7 +257,7 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 64 • 💬 25 • 6h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 64 • 💬 25 • 7h ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -303,7 +303,7 @@ Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing th
 
 📺 Bigfoot Feed
 
-👁️ 4K • 👍 71 • 💬 16 • ⏱️ 8:04 • 15h ago
+👁️ 4K • 👍 71 • 💬 16 • ⏱️ 8:04 • 16h ago
 
 ---
 
@@ -331,7 +331,7 @@ Appreciate All the support , I love you. (featured youtube guy @ChadLisonbee ) -
 
 📺 AI AimanJunaidi
 
-👁️ 20K • 👍 2K • 💬 158 • ⏱️ 27:22 • 9h ago
+👁️ 20K • 👍 2K • 💬 158 • ⏱️ 27:22 • 10h ago
 
 ---
 
@@ -457,7 +457,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 239 • 6h ago
+⬇️ 121 • ❤️ 239 • 7h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 747 • 7h ago
+⭐ 6.8k • 🔱 747 • 8h ago
 
 ---
 
@@ -660,7 +660,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.6k • 🔱 467 • 8m ago
+⭐ 3.6k • 🔱 467 • 26m ago
 
 ---
 
@@ -670,7 +670,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 213 • 1m ago
+⭐ 3.1k • 🔱 213 • 19m ago
 
 ---
 
@@ -710,7 +710,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 224 • 1h ago
+⭐ 1.3k • 🔱 224 • 2h ago
 
 ---
 

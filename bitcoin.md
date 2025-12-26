@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T14:30:11.089473+00:00'
+updated: '2025-12-26T14:48:02.030405+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 14:30 UTC  
+**Last Updated:** December 26, 2025 at 14:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,955.50
+### $88,450.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +0.7%  
-**30d:** -2.6%  
-**90d:** -20.5%  
-**1y:** -5.6%  
+**24h:** +0.1%  
+**7d:** +0.0%  
+**30d:** -3.3%  
+**90d:** -21.1%  
+**1y:** -6.3%  
 
 ---
 
@@ -87,7 +87,7 @@ The article from UNILAD: Erik Finman made a decision when he was 12 years old to
 
 **[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Video cred: clusk
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -213,7 +213,7 @@ CCN.com • 6h ago
 
 **[Bitcoin 2025: volatility and the rise of private litigation](https://www.reuters.com/legal/legalindustry/bitcoin-2025-volatility-rise-private-litigation--pracin-2025-12-24/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -349,7 +349,7 @@ TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KY
 
 📺 FireHustle
 
-👁️ 43K • 👍 3K • 💬 235 • ⏱️ 10:10 • 19h ago
+👁️ 43K • 👍 3K • 💬 235 • ⏱️ 10:10 • 20h ago
 
 ---
 

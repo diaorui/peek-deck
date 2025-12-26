@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T14:30:11.098665+00:00'
+updated: '2025-12-26T14:48:02.039862+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 14:30 UTC  
+**Last Updated:** December 26, 2025 at 14:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Robots imitate human dance! The motion is smooth. How useful is it?
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ I just got my hand and glove and I went on the hiwonder wiki and it gave me a wa
 
 **[NEED HELP REGARDING DOBOT M1 SCARA](https://www.reddit.com/r/robotics/comments/1pw29sh/need_help_regarding_dobot_m1_scara/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -130,7 +130,7 @@ Earth.com • 1d ago
 
 In a recent development in the AI chips sector, Richtech Robotics showcased its mobile humanoid robot, Dex, at CES 2026. Dex features advanced operational capabilities powered by NVIDIA's Jetson Thor, enabling it to adapt to dynamic environments with real-time reasoning and precision. The robot has undergone training through NVIDIA’s open-source frameworks, Isaac Sim and Isaac Lab, emphasizing its capability in performing complex tasks. This demonstration highlights the integration of...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -144,7 +144,7 @@ Interesting Engineering • 2d ago
 
 **[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Tech Xplore • 16h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -160,7 +160,7 @@ New Atlas • 2d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 25m ago
+Fortune • 43m ago
 
 ---
 
@@ -228,7 +228,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 27K • 👍 765 • 💬 190 • ⏱️ 21:33 • 13h ago
+👁️ 27K • 👍 765 • 💬 190 • ⏱️ 21:33 • 14h ago
 
 ---
 

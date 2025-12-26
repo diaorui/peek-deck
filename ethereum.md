@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T14:30:11.095437+00:00'
+updated: '2025-12-26T14:48:02.036502+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 14:30 UTC  
+**Last Updated:** December 26, 2025 at 14:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +0.2%  
-**30d:** -1.0%  
-**90d:** -27.9%  
-**1y:** -10.4%  
+**24h:** -0.2%  
+**7d:** -1.0%  
+**30d:** -2.1%  
+**90d:** -28.7%  
+**1y:** -11.4%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 3h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 23h ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 38m ago
 
 ---
 
@@ -212,7 +212,7 @@ CryptoSlate • 2d ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia • 3h ago
+Coinpedia • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 172 • 💬 8 • ⏱️ 4:41 • 21h ago
+👁️ 3K • 👍 172 • 💬 8 • ⏱️ 4:41 • 22h ago
 
 ---
 
