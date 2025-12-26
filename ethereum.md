@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T22:20:52.402611+00:00'
+updated: '2025-12-26T22:40:26.053128+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 22:20 UTC  
+**Last Updated:** December 26, 2025 at 22:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
+**24h:** +0.9%  
 **7d:** -1.7%  
 **30d:** -2.8%  
 **90d:** -29.2%  
@@ -86,7 +86,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 4h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 5h ago
 
 ---
 
@@ -198,7 +198,7 @@ Seeking Alpha • 5h ago
 
 Cryptocurrency prices moved lower as the broader market cooled, even though no major negative news triggered the drop. The total crypto market value slipped to about $2.94 trillion, down roughly 1.5% over the past day. Bitcoin Pulls Back After Recent StrengthBitcoin fell to around $87,100, giving u…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 95 • 💬 6 • ⏱️ 4:08 • 7h ago
+👁️ 1K • 👍 95 • 💬 6 • ⏱️ 4:08 • 8h ago
 
 ---
 

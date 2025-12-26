@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T22:20:52.396647+00:00'
+updated: '2025-12-26T22:40:26.046982+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 22:20 UTC  
+**Last Updated:** December 26, 2025 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.1%  
 **7d:** -0.9%  
 **30d:** -4.2%  
-**90d:** -21.8%  
-**1y:** -7.1%  
+**90d:** -21.9%  
+**1y:** -7.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
-21m ago
+41m ago
 
 ---
 
@@ -151,13 +151,13 @@ These were the most popular ‘smart’ phones when bitcoin was invented in 2009
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1h ago
 
 Find out which U.S. states lead in Bitcoin adoption, and which lag behind. Find out where Americans are buying crypto the most.
 
-Yahoo! Finance Canada • 15m ago
+Yahoo! Finance Canada • 35m ago
 
 ---
 
@@ -211,7 +211,7 @@ thestreet.com • 6h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 8h ago
+KITCO • 9h ago
 
 ---
 
@@ -339,7 +339,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 336 • 💬 63 • ⏱️ 25:38 • 5h ago
+👁️ 4K • 👍 336 • 💬 63 • ⏱️ 25:38 • 6h ago
 
 ---
 

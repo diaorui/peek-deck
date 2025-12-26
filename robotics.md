@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-26T22:20:52.405840+00:00'
+updated: '2025-12-26T22:40:26.056438+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 26, 2025 at 22:20 UTC  
+**Last Updated:** December 26, 2025 at 22:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-2h ago
+3h ago
 
 ---
 
@@ -164,7 +164,7 @@ New Atlas • 2d ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 10h ago
+Tom's Hardware • 11h ago
 
 ---
 
@@ -200,7 +200,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 22h ago
+👁️ 99K • 👍 1K • 💬 184 • ⏱️ 12:51 • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 39K • 👍 1K • 💬 264 • ⏱️ 21:33 • 21h ago
+👁️ 39K • 👍 1K • 💬 264 • ⏱️ 21:33 • 22h ago
 
 ---
 
