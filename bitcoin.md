@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T10:59:37.904996+00:00'
+updated: '2025-12-26T11:27:06.496634+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 10:59 UTC  
+**Last Updated:** December 26, 2025 at 11:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,794.39
+### $88,650.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.5%  
-**7d:** +0.6%  
-**30d:** -2.8%  
-**90d:** -20.7%  
+**7d:** +0.5%  
+**30d:** -2.9%  
+**90d:** -20.8%  
 **1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1770.04B
+**Market Cap:** $1770.74B
 Rank #1
 
-**Circulating Supply:** 19,967,281 BTC
+**Circulating Supply:** 19,967,293 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--29.6%
+-29.7%
 
 **All-Time Low:** $67.81
-+130721.4%
++130534.1%
 
 ---
 
@@ -89,6 +89,14 @@ Rank #1
 
 ---
 
+**[12-year-old boy became millionaire after being one of the first to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pw177a/12yearold_boy_became_millionaire_after_being_one/)**
+
+The article from UNILAD: Erik Finman made a decision when he was 12 years old to invest in Bitcoin, something he would be thankful for for the rest of his life. When people speak about going back in time, they think about ways to make themselves rich by normally buying a lotto ticket they already know the numbers for. And that is exactly what this brave 12-year-old did.... okay, not really, but he did make himself a millionaire with one decision at that young age. Erik Finman decided he wasn’t going to splash away his pocket money on the typical stuff, and managed to strike a deal with his parents on a pretty wild idea. The youngster and his parents came to an agreement that he could skip out studying a college degree if he could prove he could make his fortune outside of traditional education. Luckily for him, Bitcoin had just been launched in 2009 and data became available the following year, so after receiving $1,245 from his grandmother, Erik decided to invest in the cryptocurrency. At the time Erik invested, trading was at around $12 - and this gave him about 103 BTC. While I'm sure most kids that age would have likely been lost at how he managed to invest this money on a new emerging online currency phenomenon, it certainly paid off. In December 2017 - when Erik was just 18 - Bitcoin reached a high of around $20,000 and his initial $1,245 investment increased to a staggering $2.07 million. Not bad, eh? Reflecting on his decision that paid off massively as an adult, Erik said ‘people didn’t really get what I was trying to do’. He told the Business of Business: "I really didn't like high school. People didn't really get what I was trying to do, get what I was searching for or what I was dreaming of. "I had one teacher tell me, 'yeah, drop out, work at McDonald’s', since I’ll never amount to anything more in life. "I dropped out of high school and made a bet with my parents: if I make a million dollars by the time I’m 18, I don’t have to go back to school or go to college." And Erik didn't just stop after making his first million either, building the amount of Bitcoins he had to 341, with an estimated worth of more than $4.8 million by mid 2020. However, Erik, now 25, hasn’t been too happy about his claim to fame, and insisted he is 'desperate to get out of crypto' and was 'sick of being the Bitcoin person', so he's recently been putting his finances into aircraft which he said has made 'good money'. Whatever makes you happy, champ. More power to you.
+
+1h ago
+
+---
+
 **[All the FOMO guys once bitcoin reaches $100k](https://www.reddit.com/r/Bitcoin/comments/1pvnxw6/all_the_fomo_guys_once_bitcoin_reaches_100k/)**
 
 Video cred: clusk
@@ -97,21 +105,27 @@ Video cred: clusk
 
 ---
 
+**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
+
+4h ago
+
+---
+
+**[Suddenly bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1pw1e8o/suddenly_bitcoin/)**
+
+48m ago
+
+---
+
 **[What da!](https://www.reddit.com/r/Bitcoin/comments/1pvu0ut/what_da/)**
 
-7h ago
+8h ago
 
 ---
 
 **[no one else to share this with but i hit 0.001 btc this month](https://www.reddit.com/r/Bitcoin/comments/1pvjjru/no_one_else_to_share_this_with_but_i_hit_0001_btc/)**
 
 16h ago
-
----
-
-**[No, u lyin](https://www.reddit.com/r/Bitcoin/comments/1pvyh7z/no_u_lyin/)**
-
-3h ago
 
 ---
 
@@ -127,22 +141,6 @@ Video cred: clusk
 
 ---
 
-**[india just printed $32 billion out of thin air.](https://www.reddit.com/r/Bitcoin/comments/1pvcn4j/india_just_printed_32_billion_out_of_thin_air/)**
-
-the reserve bank of india announced a $32 billion liquidity injection yesterday. just like that. no vote. no debate. no permission from the 1.4 billion people whose savings just got diluted. they called it addressing a "cash crunch." which is central bank speak for "we need more money so we're making some." heres the thing most people dont understand about these announcments.... when a central bank injects liquidity, theyre not moving money around. theyre creating it. from nothing. with a keystroke. the rupee in your pocket is now worth slightly less than it was yesterday. the purchasing power you worked for just got shaved. quietly. legally. without your consent. this is how fiat works. it's not a bug. its the feature. and this is exactly why bitcoin exists. bitcoin cant do this. there is no "liquidity injection" button. no emergency committee that can decide your savings need to be diluted for the greater good. 21 million. thats it. thats the whole supply. forever. i spent years building unocoin in india. watched the banking system from the inside. survived the rbi's crypto ban. went all the way to the supreme court to fight for peoples right to access bitcoin. and moments like this remind me why. its not about price predictions or trading strategies. its about something much simpler.... owning money that cant be printed, frozen, or inflicted with "liquidity" whenever someone in a government building decides its necessary. $32 billion sounds like a lot. but india has done this before. so has the us. so has europe. so has japan. every major economy is playing the same game. print now, deal with consequences later. the consequences are always paid by ordinary people holding ordinary money. what does this mean long term? the people who understand hard money will keep stacking. the people who dont will keep wondering why everything costs more every year despite working harder. bitcoin doesnt care about monetary policy meetings. it just keeps producing blocks. are you holding money that can be printed.... or money that cant?
-
-22h ago
-
----
-
-**[What satoshi said.](https://www.reddit.com/r/Bitcoin/comments/1pvk72y/what_satoshi_said/)**
-
-If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
-
-15h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,13 +149,13 @@ If you don’t have Bitcoin in cold storage-I got two words for you: Grow Up.
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
 **[Bitcoin drives record spike in SEC filings in 2025 as regulatory clarity pulls institutions onchain](https://www.theblock.co/post/383548/bitcoin-drives-record-spike-in-sec-filings-in-2025-as-regulatory-clarity-pulls-institutions-onchain)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -169,31 +167,21 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin’s Trading Pair Flashes Down to $24,000 on Binance: Why You Need to be Careful](https://finance.yahoo.com/news/bitcoin-trading-pair-flashes-down-120155412.html)**
+**[Why Bitcoin Briefly Hit $24,000 on Binance — and Why It Didn’t Matter](https://www.ccn.com/news/crypto/bitcoin-didnt-crash-24k-binance-heres-what-happened/)**
 
-BTC/USD1 flash crash on Binance highlights liquidity risks, while deep BTC/USDT markets reduce similar collapse chances significantly.
-
-Yahoo Finance • 22h ago
+CCN.com • 1h ago
 
 ---
 
-**[Why Bitcoin Briefly Hit $24,000 on Binance — and Why It Didn’t Matter](https://finance.yahoo.com/news/why-bitcoin-briefly-hit-24-101700356.html)**
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
 
-Bitcoin briefly plunged to $24,000 on Binance’s thinly traded BTC/USD1 pair during holiday trading. A large market sell order wiped out limited buy-side liquidity, triggering ...
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
 
-Yahoo Finance • 42m ago
-
----
-
-**[Is Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2025/12/25/is-bitcoin-a-buy-sell-or-hold-in-2026/)**
-
-Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
-
-The Motley Fool • 14h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqdzALJW6mk-92Bw51ZVd-A9-7W8j1jvqPWzmhtxx96GWR0IkSxFcqaI&gaa_ts=694e6721&gaa_sig=QlVM3Cp33ld6-IYUOpaj6044fyV4-vMLE8oqpdkE3OACO47qqggUyZjpYf8j5ZokjJMy6rdBWfKxUM7xYKJjmw%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcld8iATUbvtUC3KGtQjt75YuMIoH9P8XGaSi7NqCrWlrL5cx43s6n6&gaa_ts=694e7469&gaa_sig=X5Fh-iXgWADMTs0I6pLuPUKeKp8wKNm4QpGfzrwPUcEb2sZBf9nfiq1-Hu4YAyxuv-k8OYxROkzQd9_SM_y8lQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -205,17 +193,23 @@ thestreet.com • 18h ago
 
 ---
 
-**[Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO](https://www.tradingview.com/news/cointelegraph:a794872a0094b:0-bitcoin-market-fundamentals-couldn-t-be-better-says-strategy-ceo/)**
+**[Peter Schiff Warns of Bitcoin ‘Slow Death’ as it Fails to Track Tech Stocks or Gold — Fact or Fear?](https://www.ccn.com/education/crypto/peter-schiff-bitcoin-slow-death-fact-or-fear/)**
 
-Bitcoin’s market fundamentals have stayed strong in 2025, despite the asset’s price and sentiment declining toward the end of the year, says Strategy CEO Phong Le.“The fundamentals of the market this year for Bitcoin couldn’t be better,” Le told the “Coin Stories” podcast on Tuesday, emphasizing th…
-
-TradingView — Track All Markets • 10h ago
+CCN.com • 3h ago
 
 ---
 
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+**[Spot bitcoin, ether ETFs see outflows amid Christmas holiday derisking](https://www.theblock.co/post/383717/spot-bitcoin-ether-etfs-outflows-christmas)**
 
-CCN.com • 20h ago
+The Block • 2d ago
+
+---
+
+**[“Tax Loss Harvesting” Drives $825M Outflow From Bitcoin ETFs This Week: Analyst](https://finance.yahoo.com/news/tax-loss-harvesting-drives-825m-094935038.html)**
+
+U.S. spot Bitcoin ETFs have recorded eight consecutive days of institutional selling, with total outflows reaching approximately $825 million as year-end tax strategies dominate market behavior.According to analyst Alek, the sustained selling pressure stems primarily from tax loss harvesting. He claimed it is a temporary phenomenon expected to conclude within ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -239,7 +233,7 @@ CCN.com • 20h ago
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 18h ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 19h ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -261,7 +255,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 84 • 💬 35 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 85 • 💬 35 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -291,7 +285,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 423 • 💬 120 • ⏱️ 4:31 • 14h ago
+👁️ 10K • 👍 423 • 💬 120 • ⏱️ 4:31 • 15h ago
 
 ---
 
@@ -331,7 +325,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 505 • 💬 43 • ⏱️ 15:49 • 12h ago
+👁️ 12K • 👍 505 • 💬 43 • ⏱️ 15:49 • 13h ago
 
 ---
 
@@ -361,7 +355,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 459 • 💬 62 • ⏱️ 19:55 • 18h ago
+👁️ 12K • 👍 459 • 💬 62 • ⏱️ 19:55 • 19h ago
 
 ---
 
