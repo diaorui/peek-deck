@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-26T20:39:16.692381+00:00'
+updated: '2025-12-26T20:51:52.144461+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- social
 - news
 - repositories
-- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 26, 2025 at 20:39 UTC  
+**Last Updated:** December 26, 2025 at 20:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -139,7 +139,7 @@ The Guardian • 6h ago
 
 Delayed AI infrastructure projects, rising debt, and weaker-than-expected earnings are reviving dot-com-era fears on Wall Street.
 
-Gizmodo • 18m ago
+Gizmodo • 31m ago
 
 ---
 
@@ -147,7 +147,7 @@ Gizmodo • 18m ago
 
 Revolutionary AI technology brings Theodore Roosevelt back to life at his North Dakota national park, letting visitors interact with the president.
 
-Fox News • 33m ago
+Fox News • 45m ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 2d ago
 
 **[Stocks Hover Near Record as Nvidia Gains on AI Licensing Deal](https://www.bloomberg.com/news/articles/2025-12-26/stocks-touch-record-as-nvidia-gains-on-ai-licensing-deal)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 2h ago
 
 Not all AI companies are going to succeed. Here are three of the riskiest.
 
-The Motley Fool • 49m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 183 • 💬 98 • 1h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 183 • 💬 98 • 2h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -681,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 214 • 33m ago
+⭐ 3.1k • 🔱 214 • 46m ago
 
 ---
 

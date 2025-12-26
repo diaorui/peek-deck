@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-26T20:39:16.700095+00:00'
+updated: '2025-12-26T20:51:52.152886+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 20:39 UTC  
+**Last Updated:** December 26, 2025 at 20:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,432.27
+### $87,745.56
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.5%  
-**7d:** -0.9%  
-**30d:** -4.2%  
+**7d:** -0.8%  
+**30d:** -4.1%  
 **90d:** -21.8%  
 **1y:** -7.1%  
 
@@ -129,7 +129,7 @@ give your opinion
 
 **[😁😁😁](https://www.reddit.com/r/Bitcoin/comments/1pwd4wn/_/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo! Finance Canada • 1h ago
+Yahoo! Finance Canada • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Wall Street Journal • 2d ago
 
 **[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
 
-thestreet.com • 4h ago
+thestreet.com • 5h ago
 
 ---
 
@@ -283,7 +283,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 1 • 💬 0 • 29m ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 1 • 💬 0 • 42m ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 

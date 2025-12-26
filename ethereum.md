@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T20:39:16.705433+00:00'
+updated: '2025-12-26T20:51:52.158857+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 20:39 UTC  
+**Last Updated:** December 26, 2025 at 20:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.7%  
-**30d:** -2.8%  
-**90d:** -29.2%  
-**1y:** -12.1%  
+**24h:** -0.4%  
+**7d:** -1.4%  
+**30d:** -2.6%  
+**90d:** -29.0%  
+**1y:** -11.9%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punks & Squiggles donated to MoMA
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 9h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-4/) • 10h ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 6h ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ CryptoSlate • 3d ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 9h ago
+Coinpedia Fintech News • 10h ago
 
 ---
 
@@ -232,7 +232,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 177 • 💬 78 • ⏱️ 18:00 • 4h ago
+👁️ 3K • 👍 177 • 💬 78 • ⏱️ 18:00 • 5h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 BTDcrypto
 
-👁️ 20 • 👍 5 • 💬 2 • ⏱️ 16:56 • 1h ago
+👁️ 20 • 👍 5 • 💬 2 • ⏱️ 16:56 • 2h ago
 
 ---
 
