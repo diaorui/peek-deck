@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-26T15:46:06.480710+00:00'
+updated: '2025-12-26T15:57:34.502476+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 26, 2025 at 15:46 UTC  
+**Last Updated:** December 26, 2025 at 15:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -1.8%  
-**30d:** -3.0%  
-**90d:** -29.3%  
-**1y:** -12.2%  
+**24h:** -1.0%  
+**7d:** -2.1%  
+**30d:** -3.2%  
+**90d:** -29.5%  
+**1y:** -12.4%  
 
 ---
 
@@ -212,7 +212,7 @@ CryptoSlate • 3d ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 4h ago
+Coinpedia Fintech News • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 282 • 39m ago
+👁️ 2K • 👍 282 • 51m ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN & ALTCOIN HOLDERS: IT'S ACTUALLY HAPPENING!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 10K • 👍 313 • 💬 153 • ⏱️ 16:26 • 21h ago
+👁️ 10K • 👍 313 • 💬 153 • ⏱️ 16:26 • 22h ago
 
 ---
 
@@ -324,7 +324,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Navigationdisk
 
-👁️ 4K • 👍 2K • 1h ago
+👁️ 4K • 👍 2K • 2h ago
 
 ---
 
