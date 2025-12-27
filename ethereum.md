@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T22:59:18.680654+00:00'
+updated: '2025-12-27T23:27:01.148313+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 22:59 UTC  
+**Last Updated:** December 27, 2025 at 23:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.2%  
-**30d:** -3.1%  
-**90d:** -30.4%  
-**1y:** -13.8%  
+**24h:** +0.5%  
+**7d:** -2.0%  
+**30d:** -2.9%  
+**90d:** -30.3%  
+**1y:** -13.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.63B
+**Market Cap:** $354.53B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.6%
 
 **All-Time Low:** $0.43
-+676623.4%
++678778.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -168,7 +168,7 @@ Seeking Alpha • 1d ago
 
 According to Sharplink co-CEO Joseph Chalom, Ethereum could see a major jump in total value locked (TVL) next year if certain onchain trends pick up.Chalom put a bold number on it: 10X TVL in 2026. That claim ties together rising stablecoin use, bigger tokenization of real-world assets, and increas…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView — Track All Markets • 5h ago
 
 Is 2026 setting up a surprise leader?
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 4K • 👍 208 • 💬 88 • ⏱️ 17:39 • 5h ago
+👁️ 4K • 👍 208 • 💬 88 • ⏱️ 17:39 • 6h ago
 
 ---
 
@@ -296,7 +296,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 781 • 👍 31 • 💬 26 • ⏱️ 7:56 • 6h ago
+👁️ 781 • 👍 31 • 💬 26 • ⏱️ 7:56 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Wall Street Stockcast
 
-👁️ 811 • 👍 30 • 💬 32 • ⏱️ 6:10 • 9h ago
+👁️ 811 • 👍 30 • 💬 32 • ⏱️ 6:10 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 CryptoMeownalysis
 
-👁️ 12 • 👍 3 • ⏱️ 1:12 • 5h ago
+👁️ 12 • 👍 3 • ⏱️ 1:12 • 6h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 Crypto Cam
 
-👁️ 16K • 👍 345 • 💬 53 • ⏱️ 0:21 • 21h ago
+👁️ 16K • 👍 345 • 💬 53 • ⏱️ 0:21 • 22h ago
 
 ---
 

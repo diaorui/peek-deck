@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T22:59:18.683760+00:00'
+updated: '2025-12-27T23:27:01.151536+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 22:59 UTC  
+**Last Updated:** December 27, 2025 at 23:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,15 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-16h ago
+17h ago
+
+---
+
+**[Am I job-ready (entry level)](https://www.reddit.com/r/robotics/comments/1px6axp/am_i_jobready_entry_level/)**
+
+Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
+
+3h ago
 
 ---
 
@@ -50,7 +58,15 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
 
-25m ago
+53m ago
+
+---
+
+**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
+
+Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
+
+11h ago
 
 ---
 
@@ -65,14 +81,6 @@ What is the core problem at frontier robotics models? From my understanding you 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
 1h ago
-
----
-
-**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
-
-Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
-
-11h ago
 
 ---
 
@@ -92,14 +100,6 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 ---
 
-**[Am I job-ready (entry level)](https://www.reddit.com/r/robotics/comments/1px6axp/am_i_jobready_entry_level/)**
-
-Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
-
-3h ago
-
----
-
 **[Is this dancing difficult for a robot?](https://www.reddit.com/r/robotics/comments/1pvum6m/is_this_dancing_difficult_for_a_robot/)**
 
 Robots imitate human dance! The motion is smooth. How useful is it?
@@ -112,7 +112,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdlSRBVVkVjtPVbzbdmfXtY9m1ldMShBxZnZnAFaILbTVt477oVUNEb&gaa_ts=695065bb&gaa_sig=c2sFdLnH61WJGn6KVt-NbS4KAiAfs5PsVR4bw45QB7sHJWNI-5nLyh16NAW5MaP4tFTTVKdd_YWMaQ4CQJFofw%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeTXee5k60Q_5w-QDlpvDfqjg5O-yqCJIcafqUHuXANiE42iuOQ_tL7&gaa_ts=69506eb0&gaa_sig=qDX988Ih6_24yYTAtxkYglkWR_zQPxvjwbBRigfC0vHMrYb8ejhByvCM7entkt0yjIxK_6SSflcZsAYjCL9UXA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -126,15 +126,15 @@ Earth.com • 1d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqeEqpzRb9mQkuDfOyT21iHjipasxGmCsPq6s7W1x6pr2A97BT5XHO2O&gaa_ts=695065bb&gaa_sig=oefr91UVAg-uCf23PHjr5avenMmU6cMHHnERI29_GZrTUbjz__hhDKIVNb-iHupuoJ_vGxN4SUWFhon94LH5Pw%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqe_EuJqC3wzIKjGIhbaVGkOHPmKVBAy1RY6yBOwLcwpxBTDOTJ8W10G&gaa_ts=69506eb0&gaa_sig=r4A_nMZgGnZXO2cvQcjWR_QxzJuu65gxPsodLa7yzek27GtBAacMnm4ZLryzylhPGIA3wvhkNyfuIiAGdDH1-A%3D%3D)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-Investing.com • 14h ago
+Investing.com • 15h ago
 
 ---
 
@@ -143,7 +143,7 @@ Investing.com • 14h ago
 The robot. His groin. It works on so many levels. Roll it again.
 [Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
-The Verge • 2h ago
+The Verge • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Interesting Engineering • 2d ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 268K • 👍 2K • 💬 231 • ⏱️ 12:51 • 1d ago
+👁️ 268K • 👍 2K • 💬 231 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -265,7 +265,7 @@ Collaborative robots are changing the future of human–machine teamwork — and
 
 📺 Future Lens Pi
 
-👁️ 12K • 💬 10 • ⏱️ 0:07 • 10h ago
+👁️ 12K • 💬 10 • ⏱️ 0:07 • 11h ago
 
 ---
 

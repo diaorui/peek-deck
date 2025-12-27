@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T22:59:18.671573+00:00'
+updated: '2025-12-27T23:27:01.142342+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 22:59 UTC  
+**Last Updated:** December 27, 2025 at 23:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,837.78
+### $87,727.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.0%  
-**30d:** -3.5%  
+**24h:** +0.4%  
+**7d:** -0.9%  
+**30d:** -3.4%  
 **90d:** -23.2%  
-**1y:** -7.9%  
+**1y:** -7.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.88B
+**Market Cap:** $1749.52B
 Rank #1
 
-**Circulating Supply:** 19,967,984 BTC
+**Circulating Supply:** 19,967,990 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.5%
 
 **All-Time Low:** $67.81
-+128965.0%
++129105.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
-1h ago
+2h ago
 
 ---
 
@@ -115,11 +115,19 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 "What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
 
-8h ago
+9h ago
 
 ---
 
 **[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
+
+3h ago
+
+---
+
+**[$4000 into bitcoin](https://www.reddit.com/r/Bitcoin/comments/1px886k/4000_into_bitcoin/)**
+
+I've got $4000 I can spend on whatever, my investments are taken care of so I see this as either fun money or bitcoin money haha. My questions is what would you guys do ? one $4000 purchase of bitcoin? or break it up into multiple small purchases? I know some people think 2026 is going to be a bad year and some people think it will bring bitcoin to a new ATH. I don't really care, I am in for the ride. thanks in advance
 
 2h ago
 
@@ -127,7 +135,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -139,21 +147,43 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Faces Another 50% Reckoning As Gold Shines, Analyst Says](https://finance.yahoo.com/news/bitcoin-faces-another-50-reckoning-152157974.html)**
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
 
-According to a report, the value of Bitcoin (CRYPTO: BTC) against gold could potentially decrease by 50%. What Happened: Mike McGlone of Bloomberg Intelligence has expressed concerns about the Bitcoin-gold cross. Currently, the value of Bitcoin is approximately 20 times that of gold. However, McGlone predicts that by 2026, it’s more likely for Bitcoin’s value to drop to 10 times the value of gold rather than rise to 30 times. According to McGlone’s analysis, Bitcoin’s purchasing power compared t
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+
+Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
+
+CoinDesk • 2d ago
+
+---
+
+**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
+
+Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 1d ago
+
+---
+
+**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
+
+Forbes • 10h ago
 
 ---
 
@@ -165,44 +195,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Crypto Market Move: Bitcoin Targets $90,000 Comeback, Shiba Inu Holds Steady, Ethereum Anticipates Increased Volatility, DOGE Eyes $0.20 Breakout](https://finance.yahoo.com/news/crypto-market-move-bitcoin-targets-201103103.html)**
-
-Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 1d ago
-
----
-
-**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
-
-The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
-
-Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
-
-CryptoSlate • 12h ago
-
----
-
-**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
-
-Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
-
-CoinDesk • 2d ago
-
----
-
 **[Bitcoin Fractal Hints Next Cycle Bottom To Form Around $45K — Here’s When](https://www.tradingview.com/news/newsbtc:06bbec638094b:0-bitcoin-fractal-hints-next-cycle-bottom-to-form-around-45k-here-s-when/)**
 
 The price of Bitcoin has continued to struggle under the psychological $90,000 level during the Christmas season, reflecting the sluggish climate of the crypto market. While the premier cryptocurrency and the rest of the crypto market floundered, other asset classes enjoyed significant Christmas se…
@@ -211,9 +203,9 @@ TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+**[Bitcoin Keeps Falling. Blame Gold and Silver.](https://www.barrons.com/articles/bitcoin-price-today-gold-silver-cryptos-ethereum-xrp-dbe32141?gaa_at=eafs&gaa_n=AWEtsqetOKZM5IvmNya4mo79VyNfCrzJ2gdamvoSmKwtVaKTR0SUci2mzXOd&gaa_ts=69506ead&gaa_sig=s80IFu5cZp4iVHhN13NrG5H8GinlKGlFedQmnteVUTDzT4zf7tEkSJ9ASMq5TBqlRoM3KisShEvBafsxMuLgiQ%3D%3D)**
 
-The Block • 1d ago
+Barron's • 3d ago
 
 ---
 
@@ -222,6 +214,12 @@ The Block • 1d ago
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 1d ago
 
 ---
 
@@ -313,7 +311,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 17K • 👍 187 • 💬 148 • ⏱️ 3:21 • 23h ago
+👁️ 17K • 👍 187 • 💬 148 • ⏱️ 3:21 • 1d ago
 
 ---
 
@@ -323,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 228 • 💬 25 • ⏱️ 18:05 • 6h ago
+👁️ 4K • 👍 228 • 💬 25 • ⏱️ 18:05 • 7h ago
 
 ---
 
@@ -343,7 +341,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 172 • ⏱️ 14:27 • 22h ago
+👁️ 25K • 👍 1K • 💬 172 • ⏱️ 14:27 • 23h ago
 
 ---
 
@@ -363,7 +361,7 @@ Everyone loves a Bitcoin price prediction — and the numbers are getting bigger
 
 📺 Swan Bitcoin
 
-👁️ 2K • 👍 93 • 💬 10 • ⏱️ 1:41 • 6h ago
+👁️ 2K • 👍 93 • 💬 10 • ⏱️ 1:41 • 7h ago
 
 ---
 
@@ -383,7 +381,7 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 529 • 💬 36 • ⏱️ 43:42 • 3h ago
+👁️ 5K • 👍 529 • 💬 36 • ⏱️ 43:42 • 4h ago
 
 ---
 
