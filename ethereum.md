@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T23:42:21.766521+00:00'
+updated: '2025-12-27T23:53:39.406770+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 23:42 UTC  
+**Last Updated:** December 27, 2025 at 23:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -2.2%  
-**30d:** -3.1%  
-**90d:** -30.4%  
-**1y:** -13.8%  
+**24h:** +0.7%  
+**7d:** -1.8%  
+**30d:** -2.7%  
+**90d:** -30.1%  
+**1y:** -13.4%  
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 320 • ⏱️ 11:20 • 23h ago
+👁️ 42K • 👍 2K • 💬 323 • ⏱️ 11:20 • 1d ago
 
 ---
 
@@ -246,17 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 33K • 👍 1K • 💬 147 • ⏱️ 21:19 • 1d ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
-
-It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
-
-📺 Benjamin Cowen
-
-👁️ 63K • 👍 4K • 💬 199 • ⏱️ 15:00 • 1d ago
+👁️ 34K • 👍 1K • 💬 147 • ⏱️ 21:19 • 1d ago
 
 ---
 
@@ -266,7 +256,17 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 4K • 👍 208 • 💬 88 • ⏱️ 17:39 • 6h ago
+👁️ 5K • 👍 235 • 💬 110 • ⏱️ 17:39 • 6h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
+
+It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+
+📺 Benjamin Cowen
+
+👁️ 66K • 👍 4K • 💬 199 • ⏱️ 15:00 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 850 • 👍 100 • 💬 6 • ⏱️ 4:00 • 6h ago
+👁️ 1K • 👍 108 • 💬 7 • ⏱️ 4:00 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 419 • 👍 22 • 💬 7 • ⏱️ 5:25 • 12h ago
+👁️ 452 • 👍 22 • 💬 6 • ⏱️ 5:25 • 12h ago
 
 ---
 
@@ -296,17 +296,7 @@ Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per sh
 
 📺 Wall Street Stockcast
 
-👁️ 781 • 👍 31 • 💬 26 • ⏱️ 7:56 • 7h ago
-
----
-
-**[MNR Begins Massive Staking Operation : Bitmine Just Locked $219M in Ethereum](https://www.youtube.com/watch?v=Mml05bMHdmQ)**
-
-BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transformation is officially underway. BitMine ...
-
-📺 Wall Street Stockcast
-
-👁️ 811 • 👍 30 • 💬 32 • ⏱️ 6:10 • 10h ago
+👁️ 1K • 👍 37 • 💬 19 • ⏱️ 7:56 • 7h ago
 
 ---
 
@@ -316,7 +306,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 CryptoMeownalysis
 
-👁️ 12 • 👍 3 • ⏱️ 1:12 • 6h ago
+👁️ 15 • 👍 4 • ⏱️ 1:12 • 6h ago
 
 ---
 
@@ -326,7 +316,17 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 Crypto Cam
 
-👁️ 16K • 👍 345 • 💬 53 • ⏱️ 0:21 • 22h ago
+👁️ 17K • 👍 359 • 💬 57 • ⏱️ 0:21 • 22h ago
+
+---
+
+**[Ethereum Fusaka Upgrade – What It Changes and Why It Matters](https://www.youtube.com/watch?v=Dgd6fFEDMqw)**
+
+The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing development. In this video, we explain what the ...
+
+📺 Crypto Nitro
+
+👁️ 7K • ⏱️ 7:27 • 1d ago
 
 ---
 

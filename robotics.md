@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T23:42:21.769918+00:00'
+updated: '2025-12-27T23:53:39.409944+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 23:42 UTC  
+**Last Updated:** December 27, 2025 at 23:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ What is the core problem at frontier robotics models? From my understanding you 
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
 
-3h ago
+4h ago
 
 ---
 
@@ -197,7 +197,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 268K • 👍 2K • 💬 231 • ⏱️ 12:51 • 2d ago
+👁️ 292K • 👍 2K • 💬 235 • ⏱️ 12:51 • 2d ago
 
 ---
 
@@ -207,7 +207,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 40K • 👍 635 • 💬 107 • ⏱️ 13:55 • 4d ago
+👁️ 40K • 👍 638 • 💬 107 • ⏱️ 13:55 • 4d ago
 
 ---
 
@@ -217,7 +217,7 @@ AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at ht
 
 📺 InsideAI
 
-👁️ 264K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 266K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -235,17 +235,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 67K • 👍 2K • 💬 405 • ⏱️ 21:33 • 1d ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 17K • 👍 331 • 💬 20 • ⏱️ 1:30 • 1d ago
+👁️ 69K • 👍 2K • 💬 415 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -259,13 +249,23 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 ---
 
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
+
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
+
+📺 CNET
+
+👁️ 18K • 👍 337 • 💬 21 • ⏱️ 1:30 • 1d ago
+
+---
+
 **[One Human + 3 Robots Lift 15kg With One Hand | Omnid Mocobots Explained #robot #shorts #tech #viral](https://www.youtube.com/watch?v=i9yR2KmBzkg)**
 
 Collaborative robots are changing the future of human–machine teamwork — and Omnid Mocobots are leading this revolution.
 
 📺 Future Lens Pi
 
-👁️ 12K • 💬 10 • ⏱️ 0:07 • 11h ago
+👁️ 20K • 💬 11 • ⏱️ 0:07 • 11h ago
 
 ---
 
@@ -285,7 +285,7 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 
 📺 Game of Tomorrow
 
-👁️ 28K • 👍 467 • 💬 57 • ⏱️ 0:39 • 3d ago
+👁️ 28K • 👍 468 • 💬 57 • ⏱️ 0:39 • 3d ago
 
 ---
 

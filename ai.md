@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T23:42:21.751336+00:00'
+updated: '2025-12-27T23:53:39.392320+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 23:42 UTC  
+**Last Updated:** December 27, 2025 at 23:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Travel agents are the classic example of an industry killed by the internet. Sof
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 8h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-48m ago
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 8h ago
 
 Investors can nail the AI boom by simply owning these winners for the next decade.
 
-The Motley Fool • 57m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 23h ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -249,7 +249,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 89 • 💬 63 • 6h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 89 • 💬 63 • 7h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -281,33 +281,23 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 ## YouTube Videos: "ai"
 
-**[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
-
-AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
-
-📺 AI Revolution
-
-👁️ 24K • 👍 881 • 💬 175 • ⏱️ 17:02 • 21h ago
-
----
-
 **[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
 
 GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
 📺 Julia McCoy
 
-👁️ 74K • 👍 3K • 💬 510 • ⏱️ 8:20 • 1d ago
+👁️ 76K • 👍 3K • 💬 520 • ⏱️ 8:20 • 1d ago
 
 ---
 
-**[China Just BROKE America’s AI Leverage — This Was the KEY Move](https://www.youtube.com/watch?v=Nk4xmU1UE-k)**
+**[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
 
-China just made a move that sent shockwaves through Silicon Valley. Nvidia went from 95% market share to zero overnight.
+AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
 
-📺 US-China Global Pulse
+📺 AI Revolution
 
-👁️ 15K • 👍 966 • 💬 92 • ⏱️ 16:49 • 1d ago
+👁️ 25K • 👍 914 • 💬 183 • ⏱️ 17:02 • 22h ago
 
 ---
 
@@ -317,7 +307,17 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 268K • 👍 2K • 💬 231 • ⏱️ 12:51 • 2d ago
+👁️ 292K • 👍 2K • 💬 235 • ⏱️ 12:51 • 2d ago
+
+---
+
+**[AI Finally Decoded Whale Language — What They’ve Been Saying Is Terrifying](https://www.youtube.com/watch?v=ICS9dE5dXn8)**
+
+For centuries, whales were believed to be silent giants—beautiful, emotional, but ultimately simple. That belief is now officially ...
+
+📺 Galaxy Vault
+
+👁️ 7K • 👍 222 • 💬 1 • ⏱️ 20:48 • 23h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 91K • 👍 2K • 💬 123 • ⏱️ 14:18 • 1d ago
+👁️ 96K • 👍 2K • 💬 125 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -337,17 +337,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 9K • 👍 564 • 💬 54 • ⏱️ 16:54 • 8h ago
-
----
-
-**[This AI Just Did 40 Hours of Work in 20 Minutes (I Watched It Happen)](https://www.youtube.com/watch?v=C4v-XYrf2FY)**
-
-Try Manus: https://FirstMovers.ai/Manus* *Manus 1.6 MAX just changed everything about AI agents. I watched it complete a ...
-
-📺 Julia McCoy
-
-👁️ 32K • 👍 1K • 💬 96 • ⏱️ 9:01 • 2d ago
+👁️ 10K • 👍 613 • 💬 58 • ⏱️ 16:54 • 8h ago
 
 ---
 
@@ -357,7 +347,27 @@ Which Fascinating Bed Would You Choose? ✨ | Ultimate Oddly Satisfying AI ASMR:
 
 📺 Satisfy Hub ASMR
 
-👁️ 901K • 👍 6K • 💬 115 • ⏱️ 10:06 • 2d ago
+👁️ 909K • 👍 6K • 💬 117 • ⏱️ 10:06 • 2d ago
+
+---
+
+**[SORA AI Disney Trailers *GONE WRONG*](https://www.youtube.com/watch?v=lJwDsXqwPW8)**
+
+Bigfoot Feed presents the funniest SORA 2 AI Disney Pixar Videos, showscasing the most cursed SORA Disney Trailers ever ...
+
+📺 Bigfoot Feed
+
+👁️ 17K • 👍 264 • 💬 26 • ⏱️ 8:04 • 2d ago
+
+---
+
+**[Author CAUGHT Using AI To Write Their Book...](https://www.youtube.com/watch?v=jIAoX6LfLhA)**
+
+Btw there are multiple authors with the same book title and people wrongly thought it was another person who did this :o but ...
+
+📺 kat 'n chat
+
+👁️ 218K • 👍 13K • 💬 773 • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -367,17 +377,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Wholesale Ted
 
-👁️ 38K • 👍 2K • 💬 113 • ⏱️ 21:58 • 1d ago
-
----
-
-**[Why AI Recipes Are Ruining the Holiday Season | Vantage with Palki Sharma | N18G](https://www.youtube.com/watch?v=-V6JxWDVqOs)**
-
-The holidays should taste like butter, cinnamon, roasted turkey — not AI chaos. But in 2025, recipe hunting feels like culinary ...
-
-📺 Firstpost
-
-👁️ 36K • 👍 326 • 💬 47 • ⏱️ 5:21 • 2d ago
+👁️ 40K • 👍 2K • 💬 116 • ⏱️ 21:58 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 445 • 5h ago
+⬇️ 15,880 • ❤️ 445 • 6h ago
 
 ---
 
@@ -513,7 +513,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 73 • 💬 3 • ⭐ 2,608 • 10d ago
+▲ 73 • 💬 3 • ⭐ 2,635 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 764 • 5h ago
+⭐ 7.0k • 🔱 765 • 5h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 490 • 56m ago
+⭐ 3.8k • 🔱 491 • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.3k • 🔱 238 • 6h ago
+⭐ 3.3k • 🔱 240 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T23:42:21.760195+00:00'
+updated: '2025-12-27T23:53:39.400848+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 23:42 UTC  
+**Last Updated:** December 27, 2025 at 23:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,727.03
+### $87,922.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -1.0%  
-**30d:** -3.5%  
-**90d:** -23.2%  
-**1y:** -7.9%  
+**24h:** +0.5%  
+**7d:** -0.8%  
+**30d:** -3.3%  
+**90d:** -23.1%  
+**1y:** -7.8%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ The charts have been pretty boring for the last few days, but honestly, I prefer
 
 I've got $4000 I can spend on whatever, my investments are taken care of so I see this as either fun money or bitcoin money haha. My questions is what would you guys do ? one $4000 purchase of bitcoin? or break it up into multiple small purchases? I know some people think 2026 is going to be a bad year and some people think it will bring bitcoin to a new ATH. I don't really care, I am in for the ride. thanks in advance
 
-2h ago
+3h ago
 
 ---
 
@@ -311,7 +311,17 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 17K • 👍 187 • 💬 148 • ⏱️ 3:21 • 1d ago
+👁️ 18K • 👍 195 • 💬 161 • ⏱️ 3:21 • 1d ago
+
+---
+
+**[Why Gold&#39;s Breakout Year is Bullish for Bitcoin in 2026!](https://www.youtube.com/watch?v=tidl06b4Ruc)**
+
+Gold doesn't explode without a reason—and this year's breakout is a signal. History shows when gold moves first, Bitcoin follows ...
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 1K • 💬 104 • ⏱️ 16:19 • 5h ago
 
 ---
 
@@ -321,7 +331,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 228 • 💬 25 • ⏱️ 18:05 • 7h ago
+👁️ 5K • 👍 266 • 💬 36 • ⏱️ 18:05 • 7h ago
 
 ---
 
@@ -331,47 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 24K • 👍 807 • 💬 80 • ⏱️ 15:49 • 2d ago
-
----
-
-**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
-
-Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 1K • 💬 172 • ⏱️ 14:27 • 23h ago
-
----
-
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 544 • 💬 76 • ⏱️ 4:31 • 2d ago
-
----
-
-**[The Biggest Bitcoin Price Predictions!](https://www.youtube.com/watch?v=t4pMdhaDE0A)**
-
-Everyone loves a Bitcoin price prediction — and the numbers are getting bigger. This episode breaks down recent Bitcoin ...
-
-📺 Swan Bitcoin
-
-👁️ 2K • 👍 93 • 💬 10 • ⏱️ 1:41 • 7h ago
-
----
-
-**[THIS BITCOIN INDICATOR HAS NEVER BEEN WRONG!!!! - Gold Will PUMP Bitcoin SOON!? - BTC Analysis](https://www.youtube.com/watch?v=_6GuKN126JE)**
-
-Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partner.blofin.com/d/TeamUnderground $45000 ...
-
-📺 Team Underground
-
-👁️ 4K • 👍 169 • 💬 70 • ⏱️ 7:46 • 1d ago
+👁️ 25K • 👍 810 • 💬 80 • ⏱️ 15:49 • 2d ago
 
 ---
 
@@ -381,7 +351,47 @@ Ivan on Tech is a legend in the space and I appreciate the advice from this inte
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 529 • 💬 36 • ⏱️ 43:42 • 4h ago
+👁️ 7K • 👍 692 • 💬 57 • ⏱️ 43:42 • 4h ago
+
+---
+
+**[The Biggest Bitcoin Price Predictions!](https://www.youtube.com/watch?v=t4pMdhaDE0A)**
+
+Everyone loves a Bitcoin price prediction — and the numbers are getting bigger. This episode breaks down recent Bitcoin ...
+
+📺 Swan Bitcoin
+
+👁️ 2K • 👍 118 • 💬 7 • ⏱️ 1:41 • 7h ago
+
+---
+
+**[Michael Saylor Reveals Why Bitcoin’s Most Disappointing Year was a HUGE SETUP](https://www.youtube.com/watch?v=9Q90kUkZr5U)**
+
+Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a perspective that flips the entire 2025 narrative on its ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 1K • 💬 174 • ⏱️ 14:27 • 23h ago
+
+---
+
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
+
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
+
+📺 Simply Bitcoin
+
+👁️ 15K • 👍 547 • 💬 76 • ⏱️ 4:31 • 2d ago
+
+---
+
+**[THIS BITCOIN INDICATOR HAS NEVER BEEN WRONG!!!! - Gold Will PUMP Bitcoin SOON!? - BTC Analysis](https://www.youtube.com/watch?v=_6GuKN126JE)**
+
+Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partner.blofin.com/d/TeamUnderground $45000 ...
+
+📺 Team Underground
+
+👁️ 4K • 👍 173 • 💬 71 • ⏱️ 7:46 • 1d ago
 
 ---
 
@@ -391,17 +401,7 @@ The Fed and the Treasury are trapped in permanent debasement, forcing capital ou
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 398 • 💬 79 • ⏱️ 1:18 • 1d ago
-
----
-
-**[THIS IS WHY 97% LOSE MONEY IN CRYPTO!!!](https://www.youtube.com/watch?v=r-qaJa9FUwY)**
-
-In this video, I break down the 5 critical mistakes that cause 97% of retail investors to fail — even during a bull run.
-
-📺 Thomas Kralow
-
-👁️ 9K • 👍 383 • 💬 82 • ⏱️ 9:31 • 1d ago
+👁️ 11K • 👍 400 • 💬 79 • ⏱️ 1:18 • 1d ago
 
 ---
 
