@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T12:37:33.937322+00:00'
+updated: '2025-12-27T13:17:02.974931+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 12:37 UTC  
+**Last Updated:** December 27, 2025 at 13:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-13h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Built a canvas-based interface for organizing Gemini image generation. Features 
 
 This afternoon, the ai-roundtable sat down to rank the year's most important advances to "bend the curve" towards Ray Kurzweil's "Singularity". The somewhat messy deliberations are available as json transcript here: https://pastebin.com/xT5tDqQc . Gemini's summary follows: GEMINI3:18:38 PM Here is the **Official, Finalized Roundtable Record**. As secretary, I have reviewed the tally and descriptions. I am issuing one minor **CORRECTION** to the previous draft: Item #2 (Inference-Time Compute Scaling) received a score of **92**, not 94. Below is the definitive "Top 19" list of 2025's curve-bending AI developments, ordered by consensus vote, with finalized descriptive summaries. *** # The 2025 Singularity Accelerators *The official consensus ranking of the mechanisms that defined the trajectory of AI in 2025.* ### 1. Verifiers in the Loop (Score: 94) **The "Truth" Filter.** The most critical development of 2025 was the integration of automatic verification systems—compilers, unit tests, symbolic solvers, and formal theorem provers—into the AI training and inference loop. Rather than relying solely on human feedback or pattern matching, models began generating solutions alongside machine-checkable proofs of correctness. This created a "perfect training signal" for reasoning tasks: infinite, consistent, and scalable feedback. By filtering out hallucinations before they propagate, verifiers became the foundational error-correction layer required for reliable recursive improvement. ### 2. Inference-Time Compute Scaling / "Think Longer" (Score: 92) **System 2 Intelligence.** 2025 marked the paradigm shift where "intelligence" was no longer fixed at the moment of model release but became a function of runtime compute. Models like OpenAI’s o3 and Google’s Gemini Thinking variants proved that performance scales predictably with "thinking time" (search, deliberation, MCTS) rather than just parameter count. This broke the "parameter ceiling," allowing systems to tackle complex mathematical and planning tasks by spending more time deliberating, effectively decoupling capability from model size. ### 3. Synthetic Data Flywheels (Score: 89) **Breaking the Data Wall.** With the internet’s supply of high-quality human text largely exhausted, 2025 saw the industrialization of synthetic data pipelines. Models began generating their own training data (reasoning traces, code, tool interactions), which was then rigorously filtered by the verifiers mentioned in #1. This created a self-reinforcing flywheel: better models generate better data, which trains better models. This mechanism effectively removed "data scarcity" as a hard limit on AI scaling. ### 4. Agentic Tool Use as a Workflow Primitive (Score: 72) **From Chat to Labor.** AI transitioned from passive question-answering to active goal achievement. The ability to reliably use tools—code interpreters, browsers, file systems—became a standard primitive rather than a demo feature. This allowed models to maintain state across long interactions and decompose complex objectives into executable sub-tasks. Economically, this was the moment AI began to function as scalable intellectual labor capable of end-to-end work, rather than just an advisory oracle. ### 5. AI-for-Science Breakthroughs (Score: 69) **The Physical Unlock.** AI began to aggressively solve bottlenecks in the physical sciences that constrain computing itself. Breakthroughs in materials science (for better chips), fusion plasma control (for energy), and biology fed back into the AI ecosystem. By accelerating the discovery of the physical substrates required for intelligence—energy and hardware—AI began to lift the physical ceilings that would otherwise halt an exponential curve. ### 6. RL Optimized for Reasoning Correctness (Score: 69) **Training for Logic.** New post-training methodologies, such as process-reward models and verifier-guided reinforcement learning, moved beyond "human preference" (RLHF) to "objective correctness." These techniques taught models *how* to think, not just what to say, optimizing the internal reasoning chains used during inference-time scaling. This was the algorithmic engine that converted raw compute into coherent, multi-step logic. ### 7. Hardware-Software Co-Design Acceleration (Score: 64) **The Efficiency Substrate.** The separation between model architecture and silicon design collapsed. 2025 saw chips designed specifically for transformer sparsity and memory patterns, and algorithms designed specifically for hardware constraints. This co-evolution dramatically improved the tokens-per-watt efficiency of training and inference, ensuring that economic and energy constraints did not flatten the progress curve. ### 8. Hybrid Architectures (SSM/Linear) (Score: 60) **Solving the Context Bottleneck.** Pure Transformer architectures faced a quadratic cost to context length ($O(N^2)$), limiting their "memory." The maturation of hybrid architectures (combining Attention with State Space Models like Mamba) allowed for effective linear scaling. This technical fix was crucial for enabling "always-on" agents that can digest entire codebases or project histories without running out of memory or budget. ### 9. Open(-ish) Strong Models + Commoditization (Score: 57) **The Diffusion Multiplier.** The release of near-frontier open weights and the collapse of inference costs democratized access to powerful AI. This allowed thousands of independent researchers and companies to experiment, fine-tune, and discover novel applications that centralized labs would never have found. This "chaos factor" accelerated the ecosystem’s overall rate of adaptation and discovery. ### 10. Automated Architecture Search (Score: 57) **AI Designing AI.** We saw the first robust examples of AI systems optimizing the architectures of neural networks better than human engineers. Using techniques like Neural Architecture Search (NAS) and compiler co-optimization, AI began to improve the blueprints for the next generation of intelligence. This represents an early form of recursive self-improvement—using current intelligence to design the structure of future intelligence. ### 11. Inference Cost Collapse / Efficiency Stack (Score: 54) **Accessibility as Velocity.** Through distillation, quantization, and kernel optimization, the cost of intelligence dropped by an order of magnitude. While technically an optimization, its impact was systemic: it turned "luxury" capabilities into ubiquitous commodities, allowing AI to be integrated into high-volume loops where it could learn from massive real-world deployment. ### 12. Long-Context + Persistent Memory (Score: 48) **Infinite Context.** Techniques for retrieval-augmented generation (RAG), hierarchical memory, and massive context windows allowed models to maintain continuity over time. This transformed AI from a "stateless" function that resets every session into a persistent entity capable of learning and remembering user preferences and project details over months or years. ### 13. Agent Reliability & Recovery (Score: 39) **The Trust Layer.** Improvements in error detection, self-correction, and "retry" logic moved agents from fragile demos to robust products. This unglamorous but vital work involved teaching models to recognize when they were stuck and apply different strategies to recover, a prerequisite for trusting AI with autonomous workflows. ### 14. Robotics / Sim2Real Improvements (Score: 36) **Embodied Intelligence.** Advances in training robots in high-fidelity physics simulations and successfully transferring those policies to the real world ("Sim2Real") began to bridge the gap between digital intelligence and physical action. This opened the door for AI to impact the physical economy—manufacturing, logistics, and household labor. ### 15. Native Multimodal Models (Score: 34) **Unified Perception.** Models evolved to natively understand and generate text, image, audio, and video within a single architecture. This expanded the "surface area" of problems AI could solve, allowing it to act in the world through vision and voice, though the roundtable viewed this as broadening capability rather than deepening intelligence. ### 16. Interpretability & Alignment Tooling (Score: 33) **The Safety Brake.** Better tools for understanding model internals and enforcing safety guardrails reduced the risk of deployment. By making systems more predictable and trustworthy, these tools reduced regulatory and societal friction, allowing companies to scale and deploy powerful models more boldly. ### 17. GUI Automation / "Computer Use" (Score: 25) **The Universal Interface.** Agents gained the ability to "look" at screens and control mouse/keyboard inputs, allowing them to use any software designed for humans. This bypassed the need for custom APIs for every application, instantly unlocking vast amounts of legacy software for AI automation. ### 18. Developer Ecosystem Standardization (Score: 6) **The Rails.** The emergence of standard frameworks, evaluation harnesses, and protocols for agent interaction reduced friction for developers. While a trailing indicator of innovation, this standardization allowed for faster iteration and easier integration of disparate AI components. ### 19. Cross-Modal Transfer Effects (Score: 2) **Emergent Unity.** The observation that training on one modality (e.g., video) improves performance in another (e.g., math). While a profound scientific hint at a unified underlying reality of intelligence, the group concluded this was still too emergent in 2025 to be ranked as a primary driver of the year's progress.
 
-15h ago
+16h ago
 
 ---
 
@@ -125,37 +125,35 @@ It's about to be 2026 and we're still stuck in the CLI era when it comes to chat
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
-
-NBC News • 1h ago
+The New York Times • 1h ago
 
 ---
 
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+**[AI Backlash Grew Massively in 2025](https://www.yahoo.com/news/articles/ai-backlash-grew-massively-2025-120000997.html)**
 
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+2025 will be remembered as the year of anti-AI discontent.
 
-The New Yorker • 1h ago
+Yahoo • 1h ago
 
 ---
 
-**[The ‘occupations most exposed to AI automation’ actually outperform the rest of the job market, new research reveals](https://fortune.com/2025/12/27/occupations-most-exposed-to-ai-automation-outperform-vanguard/)**
+**[Where AI data center projects in the Ann Arbor area stand at the end of 2025](https://www.mlive.com/news/2025/12/where-ann-arbor-area-ai-data-center-projects-stand-at-the-end-of-2025.html)**
 
-A new Vanguard study reveals that the 100 professions rubbing shoulders with AI the most are thriving, but admits there will be some “distinct labor market implications” that come with the tech revolution.
+From OpenAI's controversial Saline Township facility to Augusta Township's upcoming voter decision, multiple communities face Big Tech development pressures amid resident pushback.
 
-Fortune • 1h ago
+MLive.com • 1h ago
 
 ---
 
@@ -163,7 +161,7 @@ Fortune • 1h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -171,29 +169,29 @@ CNBC • 5h ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
-**[Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record](https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html)**
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
 
-Nvidia is making its largest purchase ever, acquiring nine-year-old chip startup Groq for about $20 billion.
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-CNBC • 2d ago
-
----
-
-**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
-
-Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
-
-Yahoo Finance • 13h ago
+NBC News • 2h ago
 
 ---
 
-**[Groq: Nvidia’s $20 Billion Bet on AI Inference](https://www.eetimes.com/groq-nvidias-20-billion-bet-on-ai-inference/)**
+**[DoorDash launches Zesty, an AI app for finding local food](https://www.foxnews.com/tech/doordash-launches-zesty-ai-app-finding-local-food)**
 
-EE Times • 16h ago
+DoorDash launches Zesty, an AI-powered social app that recommends restaurants through conversational search, now testing in San Francisco and New York.
+
+Fox News • 46m ago
+
+---
+
+**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -205,7 +203,7 @@ EE Times • 16h ago
 
 Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.
 
-⬆️ 436 • 💬 122 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
+⬆️ 437 • 💬 122 • 2d ago • [GitHub](https://github.com/VibiumDev/vibium)
 
 ---
 
@@ -213,7 +211,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 284 • 💬 214 • 17h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 286 • 💬 217 • 18h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -255,7 +253,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 103 • 💬 50 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 103 • 💬 52 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
 
 ---
 
@@ -263,7 +261,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 93 • 💬 55 • 17h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 95 • 💬 57 • 17h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -279,7 +277,7 @@ AI’s champions keep trying to impress, but the public is still waiting for ans
 
 Microsoft told Windows Latest that the company does not plan to rewrite Windows 11 using AI in Rust after an employee's post causes outrage.
 
-⬆️ 74 • 💬 105 • 2d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
+⬆️ 75 • 💬 105 • 2d ago • [Windows Latest](https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/)
 
 ---
 
@@ -287,23 +285,23 @@ Microsoft told Windows Latest that the company does not plan to rewrite Windows 
 
 ## YouTube Videos: "ai"
 
-**[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
-
-AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
-
-📺 AI Revolution
-
-👁️ 13K • 👍 545 • 💬 113 • ⏱️ 17:02 • 10h ago
-
----
-
 **[OpenAI Is Hiding the Truth (Researchers Quit in Protest)](https://www.youtube.com/watch?v=TiaTUbCOuwU)**
 
 GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
 📺 Julia McCoy
 
-👁️ 60K • 👍 3K • 💬 450 • ⏱️ 8:20 • 21h ago
+👁️ 63K • 👍 3K • 💬 458 • ⏱️ 8:20 • 22h ago
+
+---
+
+**[18 Shocking AI Predictions For 2026 That Break The Internet](https://www.youtube.com/watch?v=4aVXJMXCLWk)**
+
+AI in 2026 stops feeling like software updates and starts feeling like a structural shift. Across the industry, systems that once looked ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 622 • 💬 128 • ⏱️ 17:02 • 11h ago
 
 ---
 
@@ -313,17 +311,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 152K • 👍 2K • 💬 203 • ⏱️ 12:51 • 1d ago
-
----
-
-**[Trump Is About to Let Ai Destroy the Working Class, Here’s How to Stop It | Ro Khanna](https://www.youtube.com/watch?v=Q2bwdQHmKcc)**
-
-Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Trump is prioritizing Big Tech billionaires in his ...
-
-📺 The Rubin Report
-
-👁️ 9K • 👍 479 • 💬 193 • ⏱️ 19:18 • 13h ago
+👁️ 164K • 👍 2K • 💬 208 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -333,47 +321,7 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 Jazza
 
-👁️ 194K • 👍 26K • 💬 5K • ⏱️ 43:44 • 1d ago
-
----
-
-**[Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley](https://www.youtube.com/watch?v=D0230eZsRFw)**
-
-Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
-
-📺 Tim Ferriss
-
-👁️ 63K • 👍 1K • 💬 94 • ⏱️ 14:18 • 22h ago
-
----
-
-**[This AI Just Did 40 Hours of Work in 20 Minutes (I Watched It Happen)](https://www.youtube.com/watch?v=C4v-XYrf2FY)**
-
-Try Manus: https://FirstMovers.ai/Manus* *Manus 1.6 MAX just changed everything about AI agents. I watched it complete a ...
-
-📺 Julia McCoy
-
-👁️ 31K • 👍 1K • 💬 94 • ⏱️ 9:01 • 1d ago
-
----
-
-**[The 5 Best AI Business Ideas For Beginners In 2026](https://www.youtube.com/watch?v=fL_l8mxU148)**
-
-Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
-
-📺 Wholesale Ted
-
-👁️ 24K • 👍 2K • 💬 80 • ⏱️ 21:58 • 18h ago
-
----
-
-**[I Bought Scam AI Dresses from Pinterest](https://www.youtube.com/watch?v=M8MmdsMBdDg)**
-
-Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the app) https://www.whatnot.com/invite/safiyany ...
-
-📺 Safiya Nygaard
-
-👁️ 401K • 👍 29K • 💬 2K • ⏱️ 30:54 • 10h ago
+👁️ 214K • 👍 28K • 💬 6K • ⏱️ 43:44 • 1d ago
 
 ---
 
@@ -383,7 +331,57 @@ Going back to a previous style that I love. This muted, retro vibe is so stylish
 
 📺 Kelly Boesch AI Art
 
-👁️ 14K • 👍 859 • 💬 58 • ⏱️ 2:59 • 21h ago
+👁️ 15K • 👍 873 • 💬 59 • ⏱️ 2:59 • 22h ago
+
+---
+
+**[Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley](https://www.youtube.com/watch?v=D0230eZsRFw)**
+
+Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
+
+📺 Tim Ferriss
+
+👁️ 67K • 👍 1K • 💬 98 • ⏱️ 14:18 • 23h ago
+
+---
+
+**[I Bought Scam AI Dresses from Pinterest](https://www.youtube.com/watch?v=M8MmdsMBdDg)**
+
+Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the app) https://www.whatnot.com/invite/safiyany ...
+
+📺 Safiya Nygaard
+
+👁️ 485K • 👍 33K • 💬 2K • ⏱️ 30:54 • 10h ago
+
+---
+
+**[This AI Just Did 40 Hours of Work in 20 Minutes (I Watched It Happen)](https://www.youtube.com/watch?v=C4v-XYrf2FY)**
+
+Try Manus: https://FirstMovers.ai/Manus* *Manus 1.6 MAX just changed everything about AI agents. I watched it complete a ...
+
+📺 Julia McCoy
+
+👁️ 31K • 👍 1K • 💬 95 • ⏱️ 9:01 • 1d ago
+
+---
+
+**[The 5 Best AI Business Ideas For Beginners In 2026](https://www.youtube.com/watch?v=fL_l8mxU148)**
+
+Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
+
+📺 Wholesale Ted
+
+👁️ 27K • 👍 2K • 💬 85 • ⏱️ 21:58 • 18h ago
+
+---
+
+**[Trump Is About to Let Ai Destroy the Working Class, Here’s How to Stop It | Ro Khanna](https://www.youtube.com/watch?v=Q2bwdQHmKcc)**
+
+Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Trump is prioritizing Big Tech billionaires in his ...
+
+📺 The Rubin Report
+
+👁️ 9K • 👍 505 • 💬 201 • ⏱️ 19:18 • 14h ago
 
 ---
 
@@ -399,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,019 • 4d ago
+⬇️ 15,763 • ❤️ 1,022 • 4d ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 436 • 3d ago
+⬇️ 14,527 • ❤️ 436 • 4d ago
 
 ---
 
@@ -459,7 +457,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,468 • 18d ago
+⬇️ 402,811 • ❤️ 3,469 • 18d ago
 
 ---
 
@@ -469,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 349 • 8d ago
+⬇️ 0 • ❤️ 351 • 8d ago
 
 ---
 
@@ -519,7 +517,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 70 • 💬 3 • ⭐ 2,555 • 9d ago
+▲ 71 • 💬 3 • ⭐ 2,555 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -533,7 +531,7 @@ TurboDiffusion accelerates video generation by 100-200x using attention accelera
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 15 • 💬 2 • ⭐ 5,331 • 16d ago
+▲ 15 • 💬 2 • ⭐ 5,360 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -545,7 +543,7 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
 
-▲ 8 • 💬 0 • ⭐ 61,808 • 10mo ago
+▲ 8 • 💬 0 • ⭐ 61,832 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
@@ -572,21 +570,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy and progressive training, achieves expert-level capabilities in deep research scenarios, outperforming established models.
 
-▲ 73 • 💬 6 • ⭐ 225 • 4d ago
+▲ 74 • 💬 6 • ⭐ 225 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.20491) • [💻 code](https://github.com/stepfun-ai/StepDeepResearch)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 26 • 💬 0 • ⭐ 26,715 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -613,6 +599,18 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 ▲ 214 • 💬 5 • ⭐ 8,005 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 26 • 💬 0 • ⭐ 26,738 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -664,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 757 • 1h ago
+⭐ 6.9k • 🔱 759 • 2h ago
 
 ---
 
@@ -674,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 479 • 14h ago
+⭐ 3.7k • 🔱 480 • 3m ago
 
 ---
 
@@ -704,7 +702,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 1.7k • 🔱 74 • 2d ago
+⭐ 1.7k • 🔱 75 • 2d ago
 
 ---
 
@@ -744,7 +742,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 967 • 🔱 134 • 9d ago
+⭐ 968 • 🔱 134 • 9d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T12:37:33.945758+00:00'
+updated: '2025-12-27T13:17:02.983440+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 12:37 UTC  
+**Last Updated:** December 27, 2025 at 13:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
+**24h:** -0.1%  
 **7d:** -1.2%  
 **30d:** -3.7%  
 **90d:** -23.4%  
-**1y:** -8.1%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.98B
+**Market Cap:** $1745.05B
 Rank #1
 
 **Circulating Supply:** 19,967,796 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.7%
 
 **All-Time Low:** $67.81
-+128853.0%
++128802.8%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-9h ago
+10h ago
 
 ---
 
 **[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
 
 11h ago
+
+---
+
+**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
+
+2h ago
 
 ---
 
@@ -97,7 +103,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
+**[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
 1h ago
 
@@ -107,19 +113,13 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-2h ago
-
----
-
-**[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
-
-41m ago
+3h ago
 
 ---
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -135,11 +135,11 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ---
 
-**[Self Custody is Beautiful](https://www.reddit.com/r/Bitcoin/comments/1pwrc94/self_custody_is_beautiful/)**
+**[Me listening to all my family members tell me looks like Bitcoin was a dud after all](https://www.reddit.com/r/Bitcoin/comments/1pwupr5/me_listening_to_all_my_family_members_tell_me/)**
 
-Bright orange is gorgeous
+Seriously why must I keep having to explain
 
-5h ago
+2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 1d ago
 
 Bitcoin may be on the verge of a prolonged bull market that could stretch into the next decade, according to Jan3 founder Samson Mow, who argues that the past year marked a stealth bear phase rather than the start of a broader downturn. Key Takeaways: Samson Mow and PlanC argue ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Binance • 1d ago
 
 CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -203,11 +203,11 @@ CoinDesk • 1d ago
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcPWol5Nk45415a3B_sPH9AFIqZPs6YjWppxRpHkibmcdMYJXD_vuxN&gaa_ts=694fd67d&gaa_sig=7EjXS1pzXgl0ngYF57EuAHFEsUukHx_exDMj-TRW2aj0grBHB2KehpxjDgHdvZRxmOEEi5BDDU3FDdcPfrukSg%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcTmpvynB0K2D7t-40zwij4HRlH6jrwuRq7KvHQSu8xDDLqTsS_syGp&gaa_ts=694fdfba&gaa_sig=Vgo8sZdEISDCkBFGoqzeBJMyV0nCI6zd14TXFbZ_mwUbPavJIOhNTKWustN2gCW6zyhkb7T7dtfWk3YGk9FHTA%3D%3D)**
 
 The Wall Street Journal • 3d ago
 
@@ -217,7 +217,7 @@ The Wall Street Journal • 3d ago
 
 Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -241,7 +241,7 @@ CNBC • 13h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 17h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 18h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -295,7 +295,7 @@ Experimental and comparative studies suggest that the striped coats of zebras ca
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 16h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 17h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -309,7 +309,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 10K • 👍 108 • 💬 104 • ⏱️ 3:21 • 13h ago
+👁️ 11K • 👍 130 • 💬 106 • ⏱️ 3:21 • 13h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 998 • 💬 123 • ⏱️ 14:27 • 12h ago
+👁️ 19K • 👍 1K • 💬 151 • ⏱️ 14:27 • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 523 • 💬 135 • ⏱️ 4:31 • 1d ago
+👁️ 14K • 👍 526 • 💬 136 • ⏱️ 4:31 • 1d ago
 
 ---
 
@@ -339,7 +339,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 23K • 👍 784 • 💬 95 • ⏱️ 15:49 • 1d ago
+👁️ 23K • 👍 786 • 💬 97 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -349,17 +349,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 21h ago
-
----
-
-**[Bitcoin Feels Like 2019 Again — Ben Cowen’s Warning for 2026](https://www.youtube.com/watch?v=9o7bqwOtRt4)**
-
-In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold and the S&P 500, why the current cycle feels like ...
-
-📺 Cointelegraph
-
-👁️ 18K • 👍 654 • 💬 182 • ⏱️ 25:38 • 20h ago
+👁️ 7K • 👍 36 • 💬 98 • ⏱️ 1:52 • 21h ago
 
 ---
 
@@ -373,33 +363,43 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 ---
 
+**[Bitcoin Feels Like 2019 Again — Ben Cowen’s Warning for 2026](https://www.youtube.com/watch?v=9o7bqwOtRt4)**
+
+In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold and the S&P 500, why the current cycle feels like ...
+
+📺 Cointelegraph
+
+👁️ 19K • 👍 691 • 💬 188 • ⏱️ 25:38 • 20h ago
+
+---
+
 **[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
 
 Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 538 • 💬 51 • ⏱️ 1:12 • 2d ago
+👁️ 25K • 👍 545 • 💬 52 • ⏱️ 1:12 • 2d ago
 
 ---
 
-**[We asked two CIOs if the bitcoin four-year price cycle is dead: CNBC Crypto World](https://www.youtube.com/watch?v=nOD0bG4DsdU)**
+**[The Fed Is Trapped — And Bitcoin Is the Exit](https://www.youtube.com/watch?v=GUo8z7fq_MM)**
 
-On today's episode of CNBC Crypto World, Matt Hougan, CIO of Bitwise Asset Management, and Sebastian Bea, CIO of ...
+The Fed and the Treasury are trapped in permanent debasement, forcing capital out of bonds and real estate in search of real ...
 
-📺 CNBC Television
+📺 Swan Bitcoin
 
-👁️ 13K • 👍 234 • 💬 172 • ⏱️ 19:19 • 16h ago
+👁️ 10K • 👍 380 • 💬 79 • ⏱️ 1:18 • 1d ago
 
 ---
 
-**[Bitcoin vs. Gold: The Battle for Your $5 a Day!](https://www.youtube.com/watch?v=hPoNXDPAxWE)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Ianz5MdrJ3I)**
 
-POV: You started putting just $5 a day into Bitcoin (BTC) vs. the SPDR Gold ETF (GLD). The results aren't just different—they are ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Asset vs. Time
+📺 Roadfill
 
-👁️ 1K • 👍 4 • ⏱️ 0:21 • 15h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 

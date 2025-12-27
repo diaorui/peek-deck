@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T12:37:33.955021+00:00'
+updated: '2025-12-27T13:17:02.992635+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 12:37 UTC  
+**Last Updated:** December 27, 2025 at 13:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-1h ago
+2h ago
 
 ---
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-57m ago
+1h ago
 
 ---
 
@@ -116,7 +116,7 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 2h ago
+Earth.com • 3h ago
 
 ---
 
@@ -132,15 +132,15 @@ IEEE Spectrum • 2d ago
 
 As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
 
-Mashable • 14h ago
+Mashable • 15h ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+**[Chinese humanoid robot achieves world’s first embroidery feat in demo](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stitches-embroidery)**
 
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+A TARS humanoid robot stitched embroidery live, achieving sub-millimeter precision in a task long considered impossible to automate.
 
-New Atlas • 2d ago
+Interesting Engineering • 3d ago
 
 ---
 
@@ -156,21 +156,7 @@ Yahoo Finance • 12h ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 2h ago
-
----
-
-**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
-
-Reuters • 2h ago
-
----
-
-**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
-
-"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
-
-Fortune • 22h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -180,11 +166,25 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Purdue secures $1.5M Army funding to develop GPS-free air–ground AI robot teams](https://interestingengineering.com/ai-robotics/purdue-army-ai-air-ground-robots)**
+**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Purdue researchers are building AI-powered air-ground robots that can navigate and collaborate in GPS-denied military terrain.
+Reuters • 3h ago
 
-Interesting Engineering • 12h ago
+---
+
+**[Robots are like us: struggling with baby goats, car nightmares, and LA-to-Miami Beach culture shock](https://fortune.com/2025/12/26/robot-nightmares-traffic-baby-goats-just-like-humans-serve-robotics-cofounder-chun/)**
+
+"Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
+
+Fortune • 23h ago
+
+---
+
+**[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
+
+In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
+
+Futura, Le média qui explore le monde • 23h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 152K • 👍 2K • 💬 203 • ⏱️ 12:51 • 1d ago
+👁️ 164K • 👍 2K • 💬 208 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -208,7 +208,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 39K • 👍 616 • 💬 101 • ⏱️ 13:55 • 3d ago
+👁️ 39K • 👍 616 • 💬 104 • ⏱️ 13:55 • 3d ago
+
+---
+
+**[Humanoid runs like spider, shows how it will end us.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 253K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -216,17 +226,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 Borunte robot-Lin 
 
-👁️ 120K • 👍 666 • ⏱️ 0:20 • 5d ago
-
----
-
-**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 251K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
+👁️ 121K • 👍 669 • ⏱️ 0:20 • 5d ago
 
 ---
 
@@ -236,17 +236,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 53K • 👍 1K • 💬 341 • ⏱️ 21:33 • 1d ago
-
----
-
-**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
-
-The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
-
-📺 CNET
-
-👁️ 15K • 👍 299 • 💬 20 • ⏱️ 1:30 • 1d ago
+👁️ 56K • 👍 1K • 💬 356 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -256,17 +246,17 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 39K • 👍 671 • 💬 157 • ⏱️ 5:25 • 5d ago
+👁️ 39K • 👍 672 • 💬 157 • ⏱️ 5:25 • 6d ago
 
 ---
 
-**[UBTECH Passes 1,000-Robot Mark #airobot #robotics #humanoidrobots #china #ai #industry40](https://www.youtube.com/watch?v=vJcbTplmglc)**
+**[Big Humanoid Robots Are Learning How to Fight. Should We Be Concerned?](https://www.youtube.com/watch?v=kkWe9F345Do)**
 
-Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial humanoid in 2025. The AI-powered humanoid could ...
+The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid ...
 
-📺 Kalil 4.0
+📺 CNET
 
-👁️ 2K • 👍 74 • 💬 2 • ⏱️ 0:53 • 15h ago
+👁️ 16K • 👍 303 • 💬 20 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -276,17 +266,23 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 255K • 👍 4K • 💬 834 • ⏱️ 2:23 • 6d ago
+👁️ 256K • 👍 4K • 💬 836 • ⏱️ 2:23 • 6d ago
 
 ---
 
-**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
+**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
 
-In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
+📺 XRoboHub
 
-📺 ROBOTIC WORLD25
+👁️ 229K • 👍 4K • 💬 512 • ⏱️ 0:51 • 6d ago
 
-👁️ 60K • 👍 2K • 💬 244 • ⏱️ 18:43 • 4d ago
+---
+
+**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=o656or5-hTE)**
+
+📺 Lin of Brant robot 
+
+👁️ 24K • 👍 154 • 💬 1 • ⏱️ 0:19 • 4d ago
 
 ---
 

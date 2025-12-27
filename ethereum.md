@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T12:37:33.951759+00:00'
+updated: '2025-12-27T13:17:02.989400+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 12:37 UTC  
+**Last Updated:** December 27, 2025 at 13:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
+**24h:** +0.4%  
 **7d:** -2.4%  
 **30d:** -3.3%  
 **90d:** -30.5%  
-**1y:** -13.9%  
+**1y:** -14.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.68B
+**Market Cap:** $353.32B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.8%
 
 **All-Time Low:** $0.43
-+676745.8%
++676071.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -156,6 +156,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
+
+Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
+
+Yahoo Finance • 23h ago
+
+---
+
 **[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
@@ -168,15 +176,7 @@ TradingView — Track All Markets • 2d ago
 
 Ethereum price consolidates beneath the $3,000 psychological level as price holds firm below key resistance, raising the possibility that a bottoming structure is forming.
 
-crypto.news • 19h ago
-
----
-
-**[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
-
-Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
-
-Yahoo Finance • 22h ago
+crypto.news • 20h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 22h ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 15h ago
 
 Is 2026 setting up a surprise leader?
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -220,11 +220,9 @@ BeInCrypto • 1d ago
 
 ---
 
-**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
+**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
 
-Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
-
-Coinpedia Fintech News • 1d ago
+ZyCrypto • 16h ago
 
 ---
 
@@ -238,17 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 274 • ⏱️ 11:20 • 12h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
-
-It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
-
-📺 Benjamin Cowen
-
-👁️ 41K • 👍 3K • 💬 144 • ⏱️ 15:00 • 13h ago
+👁️ 30K • 👍 2K • 💬 277 • ⏱️ 11:20 • 13h ago
 
 ---
 
@@ -258,7 +246,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 26K • 👍 938 • 💬 145 • ⏱️ 21:19 • 21h ago
+👁️ 28K • 👍 973 • 💬 150 • ⏱️ 21:19 • 22h ago
+
+---
+
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=zrb9eDmmaMg)**
+
+It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium SALE (ENDS EOY!)
+
+📺 Benjamin Cowen
+
+👁️ 47K • 👍 3K • 💬 167 • ⏱️ 15:00 • 14h ago
 
 ---
 
@@ -268,17 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 98 • 💬 4 • ⏱️ 5:40 • 8h ago
-
----
-
-**[📢 ETHEREUM:  FOMO or Wait?! [prediction, strategy, and analysis]👀 Buy ETH now?](https://www.youtube.com/watch?v=I-4bSp-R10w)**
-
-ETH price update: Trade the market to make gains using technical analysis, fundamentals, and news. Looking for good crypto ...
-
-📺 BTDcrypto
-
-👁️ 106 • 👍 12 • 💬 87 • ⏱️ 16:56 • 17h ago
+👁️ 1K • 👍 113 • 💬 4 • ⏱️ 5:40 • 9h ago
 
 ---
 
@@ -288,37 +276,17 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 Crypto Cam
 
-👁️ 10K • 👍 243 • 💬 32 • ⏱️ 0:21 • 11h ago
+👁️ 11K • 👍 270 • 💬 48 • ⏱️ 0:21 • 12h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
+**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 116 • 💬 7 • ⏱️ 4:08 • 22h ago
-
----
-
-**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
-
-BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 292 • 💬 215 • ⏱️ 18:00 • 20h ago
-
----
-
-**[Ethereum At A Decision Point, Bottom Signals Are Getting Close](https://www.youtube.com/watch?v=ICrPUz8aAQk)**
-
-HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
-
-📺 Trade Confident
-
-👁️ 361 • 👍 18 • 💬 82 • ⏱️ 4:22 • 15h ago
+👁️ 98 • 👍 14 • 💬 2 • ⏱️ 5:25 • 2h ago
 
 ---
 
@@ -328,7 +296,37 @@ In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bit
 
 📺 ekowreel
 
-👁️ 7K • 👍 135 • 💬 20 • ⏱️ 19:17 • 1d ago
+👁️ 8K • 👍 137 • 💬 20 • ⏱️ 19:17 • 1d ago
+
+---
+
+**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
+
+BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 293 • 💬 267 • ⏱️ 18:00 • 21h ago
+
+---
+
+**[Ethereum Fusaka Upgrade – What It Changes and Why It Matters](https://www.youtube.com/watch?v=Dgd6fFEDMqw)**
+
+The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing development. In this video, we explain what the ...
+
+📺 Crypto Nitro
+
+👁️ 7K • ⏱️ 7:27 • 23h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=7aRlIkjMxPo)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 117 • 💬 7 • ⏱️ 4:08 • 22h ago
 
 ---
 
