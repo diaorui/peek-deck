@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T09:55:43.655746+00:00'
+updated: '2025-12-27T10:23:03.190353+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 09:55 UTC  
+**Last Updated:** December 27, 2025 at 10:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,600.60
+### $87,609.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -1.1%  
-**30d:** -3.6%  
-**90d:** -23.3%  
-**1y:** -8.0%  
+**24h:** -1.5%  
+**7d:** -1.3%  
+**30d:** -3.8%  
+**90d:** -23.5%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.05B
+**Market Cap:** $1748.03B
 Rank #1
 
 **Circulating Supply:** 19,967,740 BTC
@@ -64,7 +64,7 @@ Rank #1
 -30.6%
 
 **All-Time Low:** $67.81
-+129000.4%
++129027.0%
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
-
-11h ago
-
----
-
 **[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
 
 8h ago
@@ -103,31 +97,35 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
+**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
+
+12h ago
+
+---
+
+**[Fed Injects $2.5B Liquidity Into U.S. Banking System](https://www.reddit.com/r/Bitcoin/comments/1pwu2qj/fed_injects_25b_liquidity_into_us_banking_system/)**
+
+JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
+
+36m ago
+
+---
+
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-2h ago
+3h ago
+
+---
+
+**[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
+
+1h ago
 
 ---
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
 16h ago
-
----
-
-**[30+ Bitcoin “cycle top” indicators. Zero triggered. That leaves only two possibilities.](https://www.reddit.com/r/Bitcoin/comments/1pwi5pc/30_bitcoin_cycle_top_indicators_zero_triggered/)**
-
-Over the last 5 years, analysts built 30+ different Bitcoin top indicators. These tools were all explicitly designed to answer one question: “Are we at or near a cycle top?” Here’s the part that’s hard to ignore: Not a single one triggered since 2021. Zero. That leaves only two logical conclusions: 1. Every single one of those indicators is bullshit and useless or 2. The top this cycle is not in That’s it. There’s no third option. Could this cycle behave differently? Yes, and by many metrics it has. Could new market structure change timing? Absolutely, it becomes more and more likely by the day. Could price chop or correct hard along the way? Of course. What else is new. But the idea that we’re already at a macro top while none of the historical or newly designed top-detection systems have fired doesn’t hold up logically. If you believe all indicators are useless, fair take. But if you believe some signal eventually matters, then the data currently says one thing: This doesn’t look like the end of the cycle.
-
-10h ago
-
----
-
-**[My Uncle Suffered The Ultimate Fate!!!](https://www.reddit.com/r/Bitcoin/comments/1pwjxj6/my_uncle_suffered_the_ultimate_fate/)**
-
-Real story btw: My uncle bought 1 bitcoin when it was worth 3.5K. He lost the password to the wallet and can't access it anymore. 80 K rn, down the drain!! He bought since 2017. Crazy
-
-9h ago
 
 ---
 
@@ -139,9 +137,9 @@ Bright orange is gorgeous
 
 ---
 
-**[Came across this boutique promoting BTC](https://www.reddit.com/r/Bitcoin/comments/1pwg9sr/came_across_this_boutique_promoting_btc/)**
+**[30+ Bitcoin “cycle top” indicators. Zero triggered. That leaves only two possibilities.](https://www.reddit.com/r/Bitcoin/comments/1pwi5pc/30_bitcoin_cycle_top_indicators_zero_triggered/)**
 
-Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
+Over the last 5 years, analysts built 30+ different Bitcoin top indicators. These tools were all explicitly designed to answer one question: “Are we at or near a cycle top?” Here’s the part that’s hard to ignore: Not a single one triggered since 2021. Zero. That leaves only two logical conclusions: 1. Every single one of those indicators is bullshit and useless or 2. The top this cycle is not in That’s it. There’s no third option. Could this cycle behave differently? Yes, and by many metrics it has. Could new market structure change timing? Absolutely, it becomes more and more likely by the day. Could price chop or correct hard along the way? Of course. What else is new. But the idea that we’re already at a macro top while none of the historical or newly designed top-detection systems have fired doesn’t hold up logically. If you believe all indicators are useless, fair take. But if you believe some signal eventually matters, then the data currently says one thing: This doesn’t look like the end of the cycle.
 
 11h ago
 
@@ -159,25 +157,17 @@ Bloomberg.com • 20h ago
 
 ---
 
-**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+**[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
 
-Bitcoin is on pace to end 2025 having lost money for its investors.
+Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-The Motley Fool • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
 
 Binance • 1d ago
-
----
-
-**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
-
-The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -189,27 +179,19 @@ CNBC • 1h ago
 
 ---
 
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
 
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
-CoinDesk • 17h ago
-
----
-
-**[Biggest-Ever Bitcoin Options Expiry to Take Place Tomorrow](https://www.tradingview.com/news/u_today:b80e2b8bb094b:0-biggest-ever-bitcoin-options-expiry-to-take-place-tomorrow/)**
-
-On Dec. 26, the largest expiration of Bitcoin options in history by "notional value" will take place. Tomorrow will likely be boring and choppy because big institutions are forcing the price to stay still to maximize their profits on expiring contracts.However, once that event is over and January b…
-
-TradingView — Track All Markets • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Jim Cramer turns 100% bearish on Bitcoin](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html)**
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
-Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
+Bitcoin is on pace to end 2025 having lost money for its investors.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -221,9 +203,23 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfXfZ2Y12yfhlkhoibvyoooeNw_zIrpxQpG75zgh0FHg6mE8JU4UoYQ&gaa_ts=694faa52&gaa_sig=meq3cABJCVAhMmZFBffI1GqeV1HPDDZ2qi4ONE8dUrRize9SwOBv17j3iJlZai5IaKMxdXIjKXN2KIqc8pQlow%3D%3D)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 16h ago
+
+---
+
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcGWB04pIJmgHHMQy23iU7hyf-2pmXenmFDAwnKBzka2VWYtbQTyEOc&gaa_ts=694fb6f3&gaa_sig=aO3I4Sv7ltHgyTR-SjjX8eondDcmbcdrPknaocNNJk-Zm92TnzCU8PjTXoCDJfLSVqaNHJki9MC5Rt4gQ1NPhA%3D%3D)**
 
 The Wall Street Journal • 3d ago
+
+---
+
+**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
+
+Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+
+Investopedia • 3d ago
 
 ---
 
@@ -247,7 +243,7 @@ The Wall Street Journal • 3d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 14h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 15h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -293,7 +289,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 13h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 14h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -313,7 +309,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 8K • 👍 95 • 💬 92 • ⏱️ 3:21 • 10h ago
+👁️ 8K • 👍 95 • 💬 92 • ⏱️ 3:21 • 11h ago
 
 ---
 
@@ -343,7 +339,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 924 • 💬 117 • ⏱️ 14:27 • 9h ago
+👁️ 15K • 👍 924 • 💬 117 • ⏱️ 14:27 • 10h ago
 
 ---
 
@@ -353,7 +349,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 18h ago
+👁️ 6K • 👍 35 • 💬 98 • ⏱️ 1:52 • 19h ago
 
 ---
 
@@ -403,7 +399,7 @@ The Fed and the Treasury are trapped in permanent debasement, forcing capital ou
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 353 • 💬 78 • ⏱️ 1:18 • 20h ago
+👁️ 9K • 👍 353 • 💬 78 • ⏱️ 1:18 • 21h ago
 
 ---
 
