@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T17:25:00.847118+00:00'
+updated: '2025-12-27T17:41:06.213998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 17:25 UTC  
+**Last Updated:** December 27, 2025 at 17:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ The arm learns where to grasp and how much force to apply by reinforcement learn
 
 Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
 
-21h ago
+22h ago
 
 ---
 
@@ -120,21 +120,21 @@ Earth.com • 1d ago
 
 ---
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqeAEGQja6jaYtDel0WfXtjIeDJSbvYXGH-R-AQ6QGAH2RRZn1lAW_JP&gaa_ts=695013b6&gaa_sig=EGNCJFAOYbYjXrOyCmqts6z4kwz02Ucxd0T7hRCtLCBvnUQ0Rao_fSjNOqhjmLk13NyYRz53C4g4UyE3BQIl9w%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqcZUhYo0c9kApPc-dNVftIhYUlw3ZEs94yOfav3cuqcRlAeL8ANLUTC&gaa_ts=69501d99&gaa_sig=mWoq1L-WOpVn1wVDGeoJ2-VMuRvx6zcPVvt31vydqEXR6KOCzuvBr_QW48vwdsEkwZChorSrVTTA3gLu5RrHOg%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcgIAE_mrxmBXn4H52QK2dNoFKbsW_8bCYIN5xPRuMJrdPJXn8osS8m&gaa_ts=695013b6&gaa_sig=4GKsD2b6USGS9vB-5aImFNPiJsHGnzYjkZ0vlrAGf7LcpAPsQp-hhp3i3Asd7G4DFx5cSShhpWSc0wsL9uXi-A%3D%3D)**
-
-MarketWatch • 3h ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
 Investing.com • 9h ago
+
+---
+
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqcE5RQ8qjT5YJTDhcevls7Lrq6elPp0E28lk6bIhg4PL-CMEHUICtFE&gaa_ts=69501d99&gaa_sig=3FRwaL6tivff7F60TbrmArFbgANhh0GVnTR0imo_VXO-nN3lq2H8NZvOpnWDRRSwTsW6rnPIznp1RS8xcaH0sA%3D%3D)**
+
+MarketWatch • 3h ago
 
 ---
 
@@ -162,19 +162,17 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[UBTech’s US$237 million Fenglong deal tightens humanoid robot supply chain](https://www.scmp.com/business/china-business/article/3337708/ubtechs-us237-million-fenglong-deal-tightens-humanoid-robot-supply-chain)**
+**[Kung Fu robot kicks the crap out of company CEO to refute CGI rumors](https://boingboing.net/2025/12/26/kung-fu-robot-kicks-the-crap-out-of-company-ceo-to-refute-cgi-rumors.html)**
 
-Hong Kong-listed UBTech is buying a 43 per cent stake in Zhejiang Fenglong, as China’s robotics firms increasingly eye A-share acquisitions.
-
-South China Morning Post • 2d ago
+Boing Boing • 16h ago
 
 ---
 
-**[LG to unveil new humanoid robot that handles daily household chores at CES 2026](https://interestingengineering.com/ai-robotics/lg-new-humanoid-robot-at-ces-2026)**
+**[After LLMs and agents, the next AI frontier: video language models](https://www.computerworld.com/article/4106563/after-llms-and-agents-the-next-ai-frontier-video-language-models.html)**
 
-The South-Korean tech giant will display its home assistant humanoid robot LG CLOiD at the world's biggest consumer tech show in January.
+The next step in the evolution of generative AI technology will rely on ‘world models’ to improve physical outcomes in the real world.
 
-Interesting Engineering • 2d ago
+Computerworld • 1d ago
 
 ---
 
@@ -182,7 +180,7 @@ Interesting Engineering • 2d ago
 
 Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -196,17 +194,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 184K • 👍 2K • 💬 215 • ⏱️ 12:51 • 1d ago
-
----
-
-**[Humanoid robot runs like spider, shows we are close to disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
-
-AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
-
-📺 InsideAI
-
-👁️ 255K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
+👁️ 213K • 👍 2K • 💬 218 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -216,7 +204,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 39K • 👍 622 • 💬 105 • ⏱️ 13:55 • 3d ago
+👁️ 39K • 👍 624 • 💬 106 • ⏱️ 13:55 • 3d ago
+
+---
+
+**[Humanoid robot runs like spider, shows we are close to disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+Could AI become dangerous? Can we trust AI? Chat GPT Robots. Use code insideai at https://incogni.com/insideai to get an ...
+
+📺 InsideAI
+
+👁️ 259K • 👍 13K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -224,7 +222,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 Borunte robot-Lin 
 
-👁️ 121K • 👍 670 • ⏱️ 0:20 • 5d ago
+👁️ 121K • 👍 671 • ⏱️ 0:20 • 5d ago
 
 ---
 
@@ -234,7 +232,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 59K • 👍 2K • 💬 372 • ⏱️ 21:33 • 1d ago
+👁️ 62K • 👍 2K • 💬 391 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -244,7 +242,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 16K • 👍 308 • 💬 20 • ⏱️ 1:30 • 1d ago
+👁️ 16K • 👍 311 • 💬 20 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -258,13 +256,23 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 ---
 
-**[SHOCKING NEWS: China Just Put Humanoid Robots on a Live Concert Stage — And They Did Backflips.](https://www.youtube.com/watch?v=lqLVgVNhQ3s)**
+**[UBTECH Passes 1,000-Robot Mark #airobot #robotics #humanoidrobots #china #ai #industry40](https://www.youtube.com/watch?v=vJcbTplmglc)**
 
-Humanoid robots have officially stepped onto the world's biggest stages — literally. In this video, we break down the stunning ...
+Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial humanoid in 2025. The AI-powered humanoid could ...
 
-📺 The Capital AI
+📺 Kalil 4.0
 
-👁️ 256K • 👍 4K • 💬 843 • ⏱️ 2:23 • 7d ago
+👁️ 2K • 👍 80 • 💬 2 • ⏱️ 0:53 • 20h ago
+
+---
+
+**[The Disturbing Difference Between US and Chinese Robot Ads](https://www.youtube.com/watch?v=DLHrGUIeHKs)**
+
+There's a strange split emerging in humanoid robot marketing. On one side, American companies lean hard into the “safe home ...
+
+📺 Game of Tomorrow
+
+👁️ 28K • 👍 466 • 💬 57 • ⏱️ 0:39 • 3d ago
 
 ---
 
@@ -273,14 +281,6 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 📺 Lin of Brant robot 
 
 👁️ 24K • 👍 154 • 💬 1 • ⏱️ 0:19 • 4d ago
-
----
-
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
-
-📺 XRoboHub
-
-👁️ 229K • 👍 4K • 💬 512 • ⏱️ 0:51 • 7d ago
 
 ---
 

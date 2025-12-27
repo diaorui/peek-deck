@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T17:25:00.837800+00:00'
+updated: '2025-12-27T17:41:06.204593+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 17:25 UTC  
+**Last Updated:** December 27, 2025 at 17:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,535.33
+### $87,507.92
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** -1.2%  
-**30d:** -3.7%  
-**90d:** -23.4%  
+**7d:** -1.1%  
+**30d:** -3.6%  
+**90d:** -23.3%  
 **1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.61B
+**Market Cap:** $1747.00B
 Rank #1
 
-**Circulating Supply:** 19,967,903 BTC
+**Circulating Supply:** 19,967,921 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128875.1%
++128922.3%
 
 ---
 
@@ -113,15 +113,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 16h ago
-
----
-
-**[🇺🇸 US Treasury injected $70.51B in liquidity this week.](https://www.reddit.com/r/Bitcoin/comments/1pwzr0d/us_treasury_injected_7051b_in_liquidity_this_week/)**
-
-More liquidity generally supports risk assets — could be a tailwind for Bitcoin if the trend continues.
-
-2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 17h ago
 
 ---
 
@@ -145,6 +137,12 @@ More liquidity generally supports risk assets — could be a tailwind for Bitcoi
 
 ---
 
+**[Dreams are loud. Red days are quiet. That’s where decisions are made](https://www.reddit.com/r/Bitcoin/comments/1pwx7pe/dreams_are_loud_red_days_are_quiet_thats_where/)**
+
+4h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -153,37 +151,7 @@ More liquidity generally supports risk assets — could be a tailwind for Bitcoi
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin slumps, missing ‘Santa rally’ while gold and stocks steal the show](https://finance.yahoo.com/news/bitcoin-slumps-missing-santa-rally-140244445.html)**
-
-Bitcoin slumped further on Saturday. Investors were helping for a Christmas price bump. Other investments like precious metals and stocks have had a terrific week.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
-
-Binance • 1d ago
-
----
-
-**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
-
-Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
-
-CryptoSlate • 7h ago
-
----
-
-**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
-
-The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
-
-CoinDesk • 2d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -195,6 +163,42 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
+
+Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
+
+Yahoo Finance • 40m ago
+
+---
+
+**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://finance.yahoo.com/news/bitcoin-whales-woke-2025-moved-170138795.html)**
+
+Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
+
+Yahoo Finance • 39m ago
+
+---
+
+**[Bitcoin News: Bitcoin ETFs Lose $825M in Five Days as U.S. Becomes Largest BTC Seller](https://www.binance.com/en/square/post/12-26-2025-bitcoin-news-bitcoin-etfs-lose-825m-in-five-days-as-u-s-becomes-largest-btc-seller-34222713921761)**
+
+Binance • 1d ago
+
+---
+
+**[BTC, XRP Price News: Bitcoin rebound fades as Ripple slips to $1.86](https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b)**
+
+XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin price today: rises to $89k amid thin liquidity, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-thin-liquidity-etf-outflows-4422973)**
+
+Investing.com • 1d ago
+
+---
+
 **[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
@@ -203,23 +207,17 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
-
-thestreet.com • 1d ago
-
----
-
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
+Bitcoin is on pace to end 2025 having lost money for its investors.
 
-Investopedia • 3d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -291,7 +289,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
 
-⬆️ 2 • 💬 0 • 5h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
+⬆️ 2 • 💬 0 • 6h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
 
 ---
 
@@ -311,7 +309,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 163 • ⏱️ 14:27 • 17h ago
+👁️ 22K • 👍 1K • 💬 170 • ⏱️ 14:27 • 17h ago
 
 ---
 
@@ -321,7 +319,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 12K • 👍 150 • 💬 123 • ⏱️ 3:21 • 18h ago
+👁️ 14K • 👍 169 • 💬 122 • ⏱️ 3:21 • 18h ago
 
 ---
 
@@ -331,7 +329,7 @@ Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock sol
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 527 • 💬 136 • ⏱️ 4:31 • 1d ago
+👁️ 15K • 👍 530 • 💬 137 • ⏱️ 4:31 • 1d ago
 
 ---
 
@@ -341,7 +339,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 23K • 👍 793 • 💬 99 • ⏱️ 15:49 • 1d ago
+👁️ 24K • 👍 797 • 💬 100 • ⏱️ 15:49 • 1d ago
+
+---
+
+**[The Biggest Bitcoin Price Predictions!](https://www.youtube.com/watch?v=t4pMdhaDE0A)**
+
+Everyone loves a Bitcoin price prediction — and the numbers are getting bigger. This episode breaks down recent Bitcoin ...
+
+📺 Swan Bitcoin
+
+👁️ 580 • 👍 38 • 💬 28 • ⏱️ 1:41 • 1h ago
+
+---
+
+**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 17K • 👍 615 • 💬 57 • ⏱️ 19:55 • 2d ago
 
 ---
 
@@ -351,7 +369,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 20K • 👍 723 • 💬 190 • ⏱️ 25:38 • 1d ago
+👁️ 21K • 👍 756 • 💬 193 • ⏱️ 25:38 • 1d ago
 
 ---
 
@@ -371,37 +389,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 548 • 💬 54 • ⏱️ 1:12 • 2d ago
+👁️ 25K • 👍 554 • 💬 54 • ⏱️ 1:12 • 2d ago
 
 ---
 
-**[MASSIVE Crypto Turning Point Within 12 HOURS That Will CHANGE EVERYTHING](https://www.youtube.com/watch?v=PSsTNjn4oRU)**
+**[THIS BITCOIN INDICATOR HAS NEVER BEEN WRONG!!!! - Gold Will PUMP Bitcoin SOON!? - BTC Analysis](https://www.youtube.com/watch?v=_6GuKN126JE)**
 
-TRADE ON BTCC WITH ME! 10% Deposit Bonus Extra Bonuses of up to $10055 ✓ NO KYC & NO VPN Sign up here ...
+Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partner.blofin.com/d/TeamUnderground $45000 ...
 
-📺 FireHustle
+📺 Team Underground
 
-👁️ 50K • 👍 3K • 💬 261 • ⏱️ 10:10 • 1d ago
-
----
-
-**[The Fed Is Trapped — And Bitcoin Is the Exit](https://www.youtube.com/watch?v=GUo8z7fq_MM)**
-
-The Fed and the Treasury are trapped in permanent debasement, forcing capital out of bonds and real estate in search of real ...
-
-📺 Swan Bitcoin
-
-👁️ 10K • 👍 387 • 💬 79 • ⏱️ 1:18 • 1d ago
-
----
-
-**[Why They’re Buying BTC While Everyone Else Is Scared](https://www.youtube.com/watch?v=6SXvEgNEL5g)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 18K • 👍 1K • 💬 149 • ⏱️ 9:31 • 1d ago
+👁️ 3K • 👍 161 • 💬 71 • ⏱️ 7:46 • 1d ago
 
 ---
 

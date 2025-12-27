@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T17:25:00.843852+00:00'
+updated: '2025-12-27T17:41:06.210721+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 17:25 UTC  
+**Last Updated:** December 27, 2025 at 17:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $352.29B
+**Market Cap:** $352.93B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--41.0%
+-40.9%
 
 **All-Time Low:** $0.43
-+673814.9%
++675205.3%
 
 ---
 
@@ -94,7 +94,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 23h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 1d ago
 
 ---
 
@@ -148,27 +148,11 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 ## Google News: "ethereum"
 
-**[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
 
-Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
+Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
 
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
-
-Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum – Few reasons why $2,796 is ETH’s make-or-break level](https://ambcrypto.com/ethereum-few-reasons-why-2796-is-eths-make-or-break-level/)**
-
-Ethereum whales are defending their base, but pressure is building fast.
-
-AMBCrypto • 12h ago
+Yahoo Finance • 40m ago
 
 ---
 
@@ -180,14 +164,6 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
-
-According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
-
-TradingView — Track All Markets • 19h ago
-
----
-
 **[Ethereum ETFs are emptying fast! Is a drop to $2,500 closer than traders think?](https://ambcrypto.com/ethereum-etfs-are-emptying-fast-is-a-drop-to-2500-closer-than-traders-think/)**
 
 Is 2026 setting up a surprise leader?
@@ -196,11 +172,11 @@ AMBCrypto • 16h ago
 
 ---
 
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
 
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-ts2.tech • 2d ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -209,6 +185,14 @@ ts2.tech • 2d ago
 Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
 
 BeInCrypto • 1d ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+
+ts2.tech • 2d ago
 
 ---
 
@@ -226,6 +210,20 @@ ZyCrypto • 21h ago
 
 ---
 
+**[Wallet Maintenance for Ethereum Network (ETH) - 2025-12-25](https://www.binance.com/en/support/announcement/detail/627053b9d53940ad92f533dc7828a787)**
+
+Binance • 3d ago
+
+---
+
+**[From Bitcoin To Ethereum: Exchange Data Signals A Major Rotation In Trading Activity | Bitcoinist.com](https://bitcoinist.com/from-bitcoin-to-ethereum/)**
+
+While the price of Bitcoin and Ethereum is still struggling, the balance of trading activity among the two leading digital assets is quietly shifting.
+
+Bitcoinist.com • 23h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,17 +234,17 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 288 • ⏱️ 11:20 • 17h ago
+👁️ 36K • 👍 2K • 💬 296 • ⏱️ 11:20 • 17h ago
 
 ---
 
-**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=OMj8pATsDoM)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 29K • 👍 1K • 💬 159 • ⏱️ 21:19 • 1d ago
+👁️ 120 • 👍 14 • 💬 1 • ⏱️ 4:00 • 13m ago
 
 ---
 
@@ -256,7 +254,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 175 • 👍 18 • 💬 5 • ⏱️ 5:25 • 6h ago
+👁️ 263 • 👍 21 • 💬 31 • ⏱️ 5:25 • 6h ago
+
+---
+
+**[BITCOIN HOLDERS: Don&#39;t Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3HT2iXJXlUs)**
+
+BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 695 • 👍 49 • 💬 45 • ⏱️ 17:39 • 38m ago
+
+---
+
+**[Tom Lee: My NEW Prediction For The 2026 Crypto Bull Run (Prepare Now)](https://www.youtube.com/watch?v=juGQD4rw-G8)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 31K • 👍 1K • 💬 161 • ⏱️ 21:19 • 1d ago
 
 ---
 
@@ -266,17 +284,17 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 177 • ⏱️ 15:00 • 18h ago
+👁️ 56K • 👍 3K • 💬 188 • ⏱️ 15:00 • 18h ago
 
 ---
 
-**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
+**[Ethereum Institutions Divided: Bitmine Stakes BIG While SharpLink Exits!](https://www.youtube.com/watch?v=Efe8TEAYSmE)**
 
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+In this video, we analyze the divergent financial strategies of two major institutional players on the Ethereum blockchain. We break ...
 
-📺 Crypto Cam
+📺 CryptoStock Lab
 
-👁️ 13K • 👍 285 • 💬 51 • ⏱️ 0:21 • 16h ago
+👁️ 77 • 👍 9 • 💬 21 • ⏱️ 12:49 • 53m ago
 
 ---
 
@@ -286,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 5 • ⏱️ 5:40 • 13h ago
+👁️ 2K • 👍 123 • 💬 6 • ⏱️ 5:40 • 13h ago
 
 ---
 
@@ -296,37 +314,17 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Wall Street Stockcast
 
-👁️ 204 • 👍 13 • 💬 54 • ⏱️ 6:10 • 4h ago
+👁️ 410 • 👍 25 • 💬 34 • ⏱️ 6:10 • 4h ago
 
 ---
 
-**[Bitcoin to $250K and Ethereum to $12K–$30K? Tom Lee Explains the End of the 4-Year Cycle](https://www.youtube.com/watch?v=vDgMIWxAP5Y)**
+**[Major Crypto Warning😨🚨🚀 (XRP, BTC, ETH &amp; SOL)](https://www.youtube.com/watch?v=WF5zoBKkSZU)**
 
-In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bitcoin's traditional 4-year cycle may no longer ...
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
 
-📺 ekowreel
+📺 Crypto Cam
 
-👁️ 8K • 👍 140 • 💬 20 • ⏱️ 19:17 • 2d ago
-
----
-
-**[Ethereum Fusaka Upgrade – What It Changes and Why It Matters](https://www.youtube.com/watch?v=Dgd6fFEDMqw)**
-
-The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing development. In this video, we explain what the ...
-
-📺 Crypto Nitro
-
-👁️ 7K • ⏱️ 7:27 • 1d ago
-
----
-
-**[🚨 MY 4 BIGGEST CRYPTO MISTAKES OF 2025! (Why I&#39;m Buying for 2026)](https://www.youtube.com/watch?v=LoywGuwJkb4)**
-
-MY 4 BIGGEST CRYPTO MISTAKES OF 2025! (Why I'm Buying for 2026) I'm breaking down my 4 biggest crypto mistakes of 2025 ...
-
-📺 Tim Warren
-
-👁️ 3K • 👍 353 • 💬 206 • ⏱️ 12:17 • 21h ago
+👁️ 14K • 👍 302 • 💬 49 • ⏱️ 0:21 • 16h ago
 
 ---
 

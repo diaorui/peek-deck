@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T17:25:00.829123+00:00'
+updated: '2025-12-27T17:41:06.195790+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 17:25 UTC  
+**Last Updated:** December 27, 2025 at 17:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
 
-59m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-23h ago
+1d ago
 
 ---
 
@@ -121,11 +121,39 @@ Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, 
 
 ## Google News: "ai"
 
+**[From shrimp Jesus to erotic tractors: how viral AI slop took over the internet](https://www.theguardian.com/technology/2025/dec/27/from-shrimp-jesus-to-erotic-tractors-how-viral-ai-slop-took-over-the-internet)**
+
+Flood of unreality is an endpoint of algorithm-driven internet and product of an economy dependent on a few top tech firms
+
+The Guardian • 36m ago
+
+---
+
 **[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
 
 Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
 NBC News • 6h ago
+
+---
+
+**[More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds)**
+
+Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
+
+The Guardian • 36m ago
+
+---
+
+**[The stories that defined 2025: AI dreams, brutal realities, and Seattle tech at a turning point](https://www.geekwire.com/2025/the-stories-that-defined-2025-ai-dreams-brutal-realities-and-seattle-tech-at-a-turning-point/)**
+
+GeekWire • 28m ago
+
+---
+
+**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+
+The New York Times • 5h ago
 
 ---
 
@@ -137,17 +165,19 @@ BBC • 16h ago
 
 ---
 
-**[6 under-the-radar stocks to play the AI boom in 2026: BofA](https://finance.yahoo.com/news/6-under-the-radar-stocks-to-play-the-ai-boom-in-2026-bofa-150019301.html)**
+**[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
 
-While Nvidia and Broadcom dominate, Bank of America's Vivek Arya says some specialized small- and mid-caps are essential for the next $1 trillion chip surge
+Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-Yahoo Finance • 2h ago
+CNBC • 10h ago
 
 ---
 
-**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+**[‘Artificial stupidity’ made AI trading bots spontaneously form cartels when left unsupervised, Wharton study reveals](https://finance.yahoo.com/news/artificial-stupidity-made-ai-trading-145429673.html)**
 
-The New York Times • 5h ago
+AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -159,41 +189,9 @@ The New Yorker • 6h ago
 
 ---
 
-**[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
-
-Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
-
-CNBC • 10h ago
-
----
-
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
 Reuters • 7h ago
-
----
-
-**[Our king, priest and feudal lord – how AI is taking us back to the dark ages | Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment)**
-
-Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
-
-The Guardian • 1d ago
-
----
-
-**[Make your AI bills disappear forever with this one AI hub](https://mashable.com/article/dec-27-1minai-advanced-business-plan-lifetime-subscription)**
-
-The top AI models live here.
-
-Mashable • 7h ago
-
----
-
-**[Prediction: This Artificial Intelligence (AI) Stock Could 5X by 2030](https://www.fool.com/investing/2025/12/27/prediction-this-artificial-intelligence-ai-stock-c/)**
-
-AMD's management is bullish on its data center future.
-
-The Motley Fool • 4h ago
 
 ---
 
@@ -213,7 +211,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 290 • 💬 225 • 22h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 292 • 💬 225 • 22h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -239,7 +237,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 185 • 💬 121 • 2d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 186 • 💬 121 • 2d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -263,7 +261,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 103 • 💬 61 • 21h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 103 • 💬 61 • 22h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -293,17 +291,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 17K • 👍 710 • 💬 147 • ⏱️ 17:02 • 15h ago
-
----
-
-**[Live 🔴 Which Fantasy Bed Would You Choose? 🦋✨ | Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=s8l6-ATf5W8)**
-
-Welcome to Satisfy Hub ASMR — a calm corner for tired minds and restless days. This is where soothing sounds, satisfying ...
-
-📺 Satisfy Hub ASMR
-
-👁️ 48K • 👍 3K • 12h ago
+👁️ 19K • 👍 777 • 💬 159 • ⏱️ 17:02 • 15h ago
 
 ---
 
@@ -313,7 +301,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 65K • 👍 3K • 💬 464 • ⏱️ 8:20 • 1d ago
+👁️ 68K • 👍 3K • 💬 482 • ⏱️ 8:20 • 1d ago
 
 ---
 
@@ -323,17 +311,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 184K • 👍 2K • 💬 215 • ⏱️ 12:51 • 1d ago
-
----
-
-**[Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley](https://www.youtube.com/watch?v=D0230eZsRFw)**
-
-Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
-
-📺 Tim Ferriss
-
-👁️ 72K • 👍 1K • 💬 112 • ⏱️ 14:18 • 1d ago
+👁️ 213K • 👍 2K • 💬 218 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -343,7 +321,17 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Jazza
 
-👁️ 234K • 👍 31K • 💬 6K • ⏱️ 43:44 • 1d ago
+👁️ 254K • 👍 34K • 💬 6K • ⏱️ 43:44 • 1d ago
+
+---
+
+**[Legendary Investor Outlines His AI Thesis in 14 Minutes — Bill Gurley](https://www.youtube.com/watch?v=D0230eZsRFw)**
+
+Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capital firm in Silicon Valley. His new book is Runnin' ...
+
+📺 Tim Ferriss
+
+👁️ 78K • 👍 1K • 💬 115 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -353,27 +341,27 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 10K • 👍 533 • 💬 211 • ⏱️ 19:18 • 18h ago
+👁️ 11K • 👍 561 • 💬 221 • ⏱️ 19:18 • 18h ago
 
 ---
 
-**[AI Short Film | Sometimes - 4K](https://www.youtube.com/watch?v=KM97lh4P4wU)**
+**[This AI Just Did 40 Hours of Work in 20 Minutes (I Watched It Happen)](https://www.youtube.com/watch?v=C4v-XYrf2FY)**
 
-Going back to a previous style that I love. This muted, retro vibe is so stylish and the faces are so crisp and clear. The fashion is ...
+Try Manus: https://FirstMovers.ai/Manus* *Manus 1.6 MAX just changed everything about AI agents. I watched it complete a ...
 
-📺 Kelly Boesch AI Art
+📺 Julia McCoy
 
-👁️ 15K • 👍 910 • 💬 60 • ⏱️ 2:59 • 1d ago
+👁️ 32K • 👍 1K • 💬 95 • ⏱️ 9:01 • 2d ago
 
 ---
 
-**[which is your bed?🙃 #ai #asmr #asmrsounds #bed #viral #shorts #trending #relax #aiart](https://www.youtube.com/watch?v=FZaFRIJa4Lk)**
+**[The 5 Best AI Business Ideas For Beginners In 2026](https://www.youtube.com/watch?v=fL_l8mxU148)**
 
-which is your bed?   #ai #asmr #asmrsounds #bed #viral #shorts #trending #relax #aiart AI Bed ASMR Best enjoyed with ...
+Check out how my 1-person AI business makes money with zero employees: https://youtu.be/YNoMz-937EQ ▻ Get My FREE ...
 
-📺 ASMR tube
+📺 Wholesale Ted
 
-👁️ 1K • ⏱️ 0:21 • 4h ago
+👁️ 32K • 👍 2K • 💬 101 • ⏱️ 21:58 • 23h ago
 
 ---
 
@@ -383,7 +371,17 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 754K • 👍 28K • 💬 812 • ⏱️ 1:00 • 23h ago
+👁️ 792K • 👍 30K • 💬 834 • ⏱️ 1:00 • 23h ago
+
+---
+
+**[I Bought Scam AI Dresses from Pinterest](https://www.youtube.com/watch?v=M8MmdsMBdDg)**
+
+Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the app) https://www.whatnot.com/invite/safiyany ...
+
+📺 Safiya Nygaard
+
+👁️ 653K • 👍 43K • 💬 2K • ⏱️ 30:54 • 15h ago
 
 ---
 
@@ -411,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 790 • 8d ago
+⬇️ 14,880 • ❤️ 793 • 8d ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 439 • 4d ago
+⬇️ 14,527 • ❤️ 440 • 4d ago
 
 ---
 
@@ -435,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 432 • 1d ago
+⬇️ 15,880 • ❤️ 436 • 1d ago
 
 ---
 
@@ -447,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 646 • 8d ago
+⬇️ 33,604 • ❤️ 647 • 8d ago
 
 ---
 
@@ -469,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 352 • 8d ago
+⬇️ 0 • ❤️ 354 • 8d ago
 
 ---
 
@@ -479,7 +477,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 202 • 3d ago
+⬇️ 100,305 • ❤️ 203 • 3d ago
 
 ---
 
@@ -495,15 +493,15 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 ---
 
-**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
 
-*Unsloth AI*
+*Liquid AI*
 
-Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
 
-`image-to-image` `20.4B`
+`text-generation` `2.6B`
 
-⬇️ 51,653 • ❤️ 171 • 19h ago
+⬇️ 1,517 • ❤️ 172 • 1d ago
 
 ---
 
@@ -664,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 763 • 1h ago
+⭐ 7.0k • 🔱 763 • 2h ago
 
 ---
 
@@ -674,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 486 • 55m ago
+⭐ 3.8k • 🔱 486 • 1h ago
 
 ---
 
@@ -684,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 230 • 51m ago
+⭐ 3.2k • 🔱 230 • 1h ago
 
 ---
 
