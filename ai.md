@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T22:34:09.924221+00:00'
+updated: '2025-12-27T22:48:48.140514+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
-- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 22:34 UTC  
+**Last Updated:** December 27, 2025 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -113,7 +113,7 @@ Built a canvas-based interface for organizing Gemini image generation. Features 
 
 One of the main problems with the way technology is evaluated in today's world is that the benchmarks and reviews come from tech savvy people who don't understand basics of business concepts, or the data surrounding the product itself. It's true that Google Gemini is one of the top AI models right now on the market. The Google has a really bad track record for all of its products. Anyone with an understanding of business and product management would get this, immediately. Yet a lot of these performance benchmarks and hype articles don't even mention this at all. Why? Because they don't understand, or don't want others to know, that Google will screw up Gemini just like they do everything else. The Google product lifecycle Here's how the Google product lifecycle goes: introduction, adoption, thriving, maintenance, abandonment Perfect example: speech to text services Google has been foundational in speech to text, a core technology that is probably one of the most important technologies in the world right now. Recently, Google decided to cheapen their speech to text service and offshore it somewhere. the accuracy and voice to text is hideous now. It's shameful, to say the least. So many people with accessibility issues and white collar workers rely on speech to text. The accuracy is just so, incredibly bad, and only gets worse each year. But we are in the future! Why is this core service that is so easy to provide, so terrible? Example 2: Google stadia I really don't even have to say much about this one. Just another of the many examples of Google trying to do something wow worthy, having everything they could possibly need to do it, and just totally floundering. They had the potential to create one of the most incredible technologies the gaming industry has ever seen, and today, would have changed the entire world of gaming permanently. Due to AI, it's borderline impossible to find affordable computer parts, so building a PC cost anywhere from $1,200 to $3,500 now. A portable gaming streaming device would have been perfect in this market right now, where no one can get RAM, graphics cards, memory. But Google couldn't do it. With their billions of dollars, they simply could not put out this product and continue to maintain it. Who knows how much money was lost in this bullshit? Yes, let's create an entire business model and infrastructure for this product that many people want, and then just abandon it immediately. Wonderful strategy! How this all relates back to Gemini Gemini started as a joke. It was Google Bard, a very unimpressive, mediocre chatbot. Once again, they throw all their money and resources behind this product, now they have Gemini, this impressive, truly outstanding product that is finally going to be useful and functional enough to actually benefit people. Remember all of their other business ventures now. How do the other ventures usually go? Introduction, adoption, thriving, abandonment. So right now, we're probably in the adoption stage. It might seem like Gemini is thriving, but that's not really the case. Big companies aren't using it as widely as they are open AI or copilot. Some big companies are beginning to adopt Gemini. Soon it'll be in the thriving stage and guess what comes after that? Abandonment! Yes, just like everything else Google does, it'll be abandoned, resources scaled back massively, to scam people just like they do every single other time that they put out a product. Remember their speech to text services, they are going to cheapen the product. So Gemini is great, temporarily. But just like everything else that Google puts out, soon they will have to start cheapening the resources that they have put into it and move it into maintenance mode, and that is not something they are really good at. Almost none of their products actually have customer support available for them, other than stupid help forms and now they can direct you to Gemini, their still in development chatbot. But they are not going to invest the appropriate amount of resources to maintain Gemini, they never do for any of their products. Because that would not be profitable. Once they get people hooked on it, business users will pay extraordinary amounts of money, regular users will be marketed to and the product will become a horrible POS just like chat GPT, filled with ads and marketing manipulation tactics to make them money.
 
-8h ago
+9h ago
 
 ---
 
@@ -135,11 +135,37 @@ The New York Times • 10h ago
 
 ---
 
+**[Where Is All the A.I.-Driven Scientific Progress?](https://www.nytimes.com/2025/12/26/podcasts/hardfork-ai-science.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 2h ago
+
+---
+
+**[Scientists work to decode wolf howls in Yellowstone with AI technology](https://www.pbs.org/newshour/show/scientists-work-to-decode-wolf-howls-in-yellowstone-with-ai-technology)**
+
+In movies and literature, a wolf’s haunting howl can signify danger or untamed nature. In real life, researchers in Yellowstone National Park are analyzing those howls with cutting-edge AI technology to better monitor and track wolves. Matt Standal of PBS Montana reports.
+
+PBS • 12m ago
+
+---
+
+**[AI Fluency As A Defining Leadership Trait: Lessons For 2026](https://www.forbes.com/sites/anjanasusarla/2025/12/27/ai-fluency-as-a-defining-leadership-trait-lessons-for-2026/)**
+
+Forbes • 17m ago
+
+---
+
 **[Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o)**
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -148,20 +174,6 @@ BBC • 21h ago
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
 CNBC • 15h ago
-
----
-
-**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
-
-Reuters • 1h ago
-
----
-
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
-
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
-
-NBC News • 11h ago
 
 ---
 
@@ -179,22 +191,6 @@ Axios • 1h ago
 
 ---
 
-**[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
-
-Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
-
-BBC Science Focus Magazine • 8h ago
-
----
-
-**[AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook (NYSEARCA:SPY)](https://seekingalpha.com/article/4855997-ai-bubble-risk-in-our-cautious-2026-s-and-p-500-outlook)**
-
-AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
-
-Seeking Alpha • 5h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -203,7 +199,7 @@ Seeking Alpha • 5h ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 294 • 💬 227 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 294 • 💬 229 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -261,7 +257,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 86 • 💬 59 • 5h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 88 • 💬 59 • 5h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -291,7 +287,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 24K • 👍 881 • 💬 175 • ⏱️ 17:02 • 20h ago
+👁️ 24K • 👍 881 • 💬 175 • ⏱️ 17:02 • 21h ago
 
 ---
 
@@ -397,7 +393,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,039 • 4d ago
+⬇️ 15,763 • ❤️ 1,041 • 4d ago
 
 ---
 
@@ -421,7 +417,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 445 • 4d ago
+⬇️ 14,527 • ❤️ 448 • 4d ago
 
 ---
 
@@ -433,7 +429,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 443 • 4h ago
+⬇️ 15,880 • ❤️ 444 • 4h ago
 
 ---
 
@@ -467,7 +463,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 357 • 9d ago
+⬇️ 0 • ❤️ 358 • 9d ago
 
 ---
 
@@ -537,18 +533,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
-
-*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
-
-A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
-
-▲ 8 • 💬 0 • ⭐ 61,832 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -559,6 +543,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 121 • 💬 18 • ⭐ 48,017 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Self-Supervised Prompt Optimization](https://huggingface.co/papers/2502.06855)**
+
+*Jinyu Xiang, Jiayi Zhang, Zhaoyang Yu et al. (9 authors)*
+
+A self-supervised framework optimizes prompts for both closed and open-ended tasks by evaluating LLM outputs without external references, reducing costs and required data.
+
+▲ 8 • 💬 0 • ⭐ 61,855 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.06855) • [💻 code](https://github.com/geekan/metagpt)
 
 ---
 
@@ -672,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 490 • 1h ago
+⭐ 3.8k • 🔱 490 • 3m ago
 
 ---
 
@@ -682,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.3k • 🔱 237 • 4h ago
+⭐ 3.3k • 🔱 238 • 5h ago
 
 ---
 

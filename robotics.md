@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T22:34:09.942059+00:00'
+updated: '2025-12-27T22:48:48.158238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 22:34 UTC  
+**Last Updated:** December 27, 2025 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-11h ago
+12h ago
 
 ---
 
@@ -46,17 +46,33 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 ---
 
+**[Flight deck as a controller?](https://www.reddit.com/r/robotics/comments/1pxamj0/flight_deck_as_a_controller/)**
+
+Has anyone ever successfully or tried to use a turtle beach velocity one flight deck as a controller for a crawler or a drone before, Is it possible. I know you can map the button layout for the flight deck itself. But would i be able to assign the buttons and joystick for controlling
+
+14m ago
+
+---
+
 **[What is core problem(s) at model level to be solved?](https://www.reddit.com/r/robotics/comments/1px9sy3/what_is_core_problems_at_model_level_to_be_solved/)**
 
 What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
 
-35m ago
+50m ago
 
 ---
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-45m ago
+1h ago
+
+---
+
+**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
+
+Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
+
+11h ago
 
 ---
 
@@ -65,14 +81,6 @@ What is the core problem at frontier robotics models? From my understanding you 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
 1d ago
-
----
-
-**[Real-time Motion Planning: DP + CILQR for complex bidirectional lane scenarios (C++)](https://www.reddit.com/r/robotics/comments/1pwvvlz/realtime_motion_planning_dp_cilqr_for_complex/)**
-
-Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
-
-10h ago
 
 ---
 
@@ -100,17 +108,11 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 ---
 
-**[Even through the screen, I can sense the pain.](https://www.reddit.com/r/robotics/comments/1pvuxlz/even_through_the_screen_i_can_sense_the_pain/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqej3ORP_gLeWREsC8KarOqY9VMCS7GMHR6zaMPw5mZBXu-eMACHI3ec&gaa_ts=69505c8a&gaa_sig=Eg7JfrmVfYUCbUHmEoG9ALVGEg-jnE3PDUZHlzBN4c1m6eD3nIH8YEPQTIQzlN564IjCLdrG0WpEZdII2ohcoA%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqdlSRBVVkVjtPVbzbdmfXtY9m1ldMShBxZnZnAFaILbTVt477oVUNEb&gaa_ts=695065bb&gaa_sig=c2sFdLnH61WJGn6KVt-NbS4KAiAfs5PsVR4bw45QB7sHJWNI-5nLyh16NAW5MaP4tFTTVKdd_YWMaQ4CQJFofw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -124,7 +126,7 @@ Earth.com • 1d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqc6JWxCUSoGVUY19-_WTClpjC7uT-0IaGhtJeSunVCF4zRe1-Sbglmq&gaa_ts=69505c8a&gaa_sig=sGE3fn0Q99SdBpqdzRLO-jqd_WdvVUbofG6sHO6AZPSCnfjHmJRBgNm5VEX13-V2usGL-RXxfkJG6C0aghx-mw%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqeEqpzRb9mQkuDfOyT21iHjipasxGmCsPq6s7W1x6pr2A97BT5XHO2O&gaa_ts=695065bb&gaa_sig=oefr91UVAg-uCf23PHjr5avenMmU6cMHHnERI29_GZrTUbjz__hhDKIVNb-iHupuoJ_vGxN4SUWFhon94LH5Pw%3D%3D)**
 
 MarketWatch • 8h ago
 

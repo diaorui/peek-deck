@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T22:34:09.932743+00:00'
+updated: '2025-12-27T22:48:48.149023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 22:34 UTC  
+**Last Updated:** December 27, 2025 at 22:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -1.1%  
-**30d:** -3.6%  
-**90d:** -23.3%  
-**1y:** -8.1%  
+**24h:** +0.2%  
+**7d:** -1.3%  
+**30d:** -3.8%  
+**90d:** -23.5%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1749.40B
+**Market Cap:** $1747.88B
 Rank #1
 
 **Circulating Supply:** 19,967,984 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.5%
+-30.6%
 
 **All-Time Low:** $67.81
-+129077.1%
++128965.0%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -99,11 +99,13 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-12h ago
+13h ago
 
 ---
 
-**[I'm wondering what I should focus on first?](https://www.reddit.com/r/Bitcoin/comments/1px8s74/im_wondering_what_i_should_focus_on_first/)**
+**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
+
+The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
 
 1h ago
 
@@ -123,14 +125,6 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ---
 
-**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
-
-The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
-
-1h ago
-
----
-
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
 15h ago
@@ -145,27 +139,29 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
+**[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
+
+13h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+**[Bitcoin Faces Another 50% Reckoning As Gold Shines, Analyst Says](https://finance.yahoo.com/news/bitcoin-faces-another-50-reckoning-152157974.html)**
 
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+According to a report, the value of Bitcoin (CRYPTO: BTC) against gold could potentially decrease by 50%. What Happened: Mike McGlone of Bloomberg Intelligence has expressed concerns about the Bitcoin-gold cross. Currently, the value of Bitcoin is approximately 20 times that of gold. However, McGlone predicts that by 2026, it’s more likely for Bitcoin’s value to drop to 10 times the value of gold rather than rise to 30 times. According to McGlone’s analysis, Bitcoin’s purchasing power compared t
 
-Yahoo Finance • 4h ago
-
----
-
-**[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
-
-Forbes • 9h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
 
-thestreet.com • 1d ago
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -183,19 +179,19 @@ Binance • 1d ago
 
 ---
 
-**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
-
-Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
-
-CryptoSlate • 12h ago
-
----
-
 **[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
 
 The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
 CoinDesk • 2d ago
+
+---
+
+**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
+
+Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
+
+CryptoSlate • 12h ago
 
 ---
 
@@ -207,17 +203,25 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+**[Bitcoin Fractal Hints Next Cycle Bottom To Form Around $45K — Here’s When](https://www.tradingview.com/news/newsbtc:06bbec638094b:0-bitcoin-fractal-hints-next-cycle-bottom-to-form-around-45k-here-s-when/)**
 
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+The price of Bitcoin has continued to struggle under the psychological $90,000 level during the Christmas season, reflecting the sluggish climate of the crypto market. While the premier cryptocurrency and the rest of the crypto market floundered, other asset classes enjoyed significant Christmas se…
 
-Bloomberg.com • 1d ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
 The Block • 1d ago
+
+---
+
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
+
+Bitcoin is on pace to end 2025 having lost money for its investors.
+
+The Motley Fool • 1d ago
 
 ---
 
