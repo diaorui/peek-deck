@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T14:15:30.361882+00:00'
+updated: '2025-12-27T14:36:40.220588+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 14:15 UTC  
+**Last Updated:** December 27, 2025 at 14:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -2.4%  
-**30d:** -3.3%  
+**24h:** +0.5%  
+**7d:** -2.3%  
+**30d:** -3.2%  
 **90d:** -30.5%  
-**1y:** -14.0%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.55B
+**Market Cap:** $353.22B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676399.3%
++675891.2%
 
 ---
 
@@ -192,7 +192,7 @@ Seeking Alpha • 21h ago
 
 According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ BeInCrypto • 1d ago
 
 **[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
 
-ZyCrypto • 17h ago
+ZyCrypto • 18h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Crypto Cam
 
-👁️ 11K • 👍 270 • 💬 48 • ⏱️ 0:21 • 12h ago
+👁️ 11K • 👍 270 • 💬 48 • ⏱️ 0:21 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 117 • 💬 7 • ⏱️ 4:08 • 23h ago
+👁️ 2K • 👍 117 • 💬 7 • ⏱️ 4:08 • 1d ago
 
 ---
 

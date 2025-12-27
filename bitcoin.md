@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T14:15:30.356567+00:00'
+updated: '2025-12-27T14:36:40.214512+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 14:15 UTC  
+**Last Updated:** December 27, 2025 at 14:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.3%  
 **7d:** -1.2%  
 **30d:** -3.7%  
 **90d:** -23.4%  
-**1y:** -8.1%  
+**1y:** -8.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1745.75B
+**Market Cap:** $1745.16B
 Rank #1
 
-**Circulating Supply:** 19,967,796 BTC
+**Circulating Supply:** 19,967,878 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.7%
 
 **All-Time Low:** $67.81
-+128822.0%
++128829.4%
 
 ---
 
@@ -80,6 +80,12 @@ Rank #1
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
 3h ago
+
+---
+
+**[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
+
+7h ago
 
 ---
 
@@ -107,39 +113,31 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 13h ago
-
----
-
-**[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
-
-7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 14h ago
 
 ---
 
 **[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
 
-4h ago
+5h ago
 
 ---
 
 **[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
 
-15h ago
+16h ago
 
 ---
 
-**[Me listening to all my family members tell me looks like Bitcoin was a dud after all](https://www.reddit.com/r/Bitcoin/comments/1pwupr5/me_listening_to_all_my_family_members_tell_me/)**
+**[Dreams are loud. Red days are quiet. That’s where decisions are made](https://www.reddit.com/r/Bitcoin/comments/1pwx7pe/dreams_are_loud_red_days_are_quiet_thats_where/)**
 
-Seriously why must I keep having to explain
-
-3h ago
+1h ago
 
 ---
 
@@ -155,19 +153,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Is Bitcoin positioned to outperform the market in 2026?](https://www.usatoday.com/story/money/2025/12/27/bitcoin-versus-stock-market-2026/87917714007/)**
+**[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
 
-USA Today • 1h ago
-
----
-
-**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
-
-Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
-
-CNBC • 15h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -176,6 +166,14 @@ CNBC • 15h ago
 Bitcoin's four-year cycle appears to be broken. Here's what's actually driving prices now -- and how to play it in 2026.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Expect bitcoin to hit a new all-time high in 2026, says Swan Bitcoin CEO](https://www.cnbc.com/video/2025/12/26/expect-bitcoin-to-hit-a-new-all-time-high-in-2026-says-swan-bitcoin-ceo.html)**
+
+Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead for Bitcoin in 2026.
+
+CNBC • 15h ago
 
 ---
 
@@ -193,35 +191,33 @@ Binance • 1d ago
 
 ---
 
+**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
+
+Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
+
+CryptoSlate • 4h ago
+
+---
+
 **[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
 CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[BTC, ETH News: Bitcoin and ether ETFs see $200 million outflows ahead of Christmas](https://www.coindesk.com/markets/2025/12/25/bitcoin-and-ether-etfs-see-outflows-ahead-of-christmas-led-by-ibit-and-ethe)**
+**[Bitcoin price analysis: BTC might have to spend time below $80,000 to build support](https://www.coindesk.com/markets/2025/12/25/bitcoin-s-usd70-000-to-usd80-000-zone-highlights-gap-in-historical-price-support)**
 
-The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
+Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
 CoinDesk • 2d ago
 
 ---
 
-**[BTC Price News: plunges to $24,000 on Binance against USD1](https://www.coindesk.com/markets/2025/12/25/bitcoin-briefly-trades-at-usd24-000-on-binance-s-usd1-pair-in-flash-move)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Such sudden price changes are often due to thin liquidity and can be exacerbated by fewer active traders during quieter hours.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Triggers Sharp Flash Crash to $24K on Binance USD1 Pair](https://finance.yahoo.com/news/bitcoin-triggers-sharp-flash-crash-072158993.html)**
-
-Bitcoin witnessed a sudden flash crash to about $24,111 on the BTC/USD1 trading pair on Binance, before quickly rebounding to $87,000 in seconds.Per the exchange data, the move appeared isolated to USD1, the stablecoin launched by Trump family-backed World Liberty Financial.Source: BinanceThis type of “flash wicks” occurs when liquidity thins ...
-
-Yahoo Finance • 2d ago
+The Block • 20h ago
 
 ---
 
@@ -293,7 +289,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
 
-⬆️ 2 • 💬 0 • 2h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
+⬆️ 2 • 💬 0 • 3h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
 
 ---
 
@@ -313,7 +309,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 11K • 👍 130 • 💬 106 • ⏱️ 3:21 • 14h ago
+👁️ 11K • 👍 130 • 💬 106 • ⏱️ 3:21 • 15h ago
 
 ---
 
@@ -353,7 +349,7 @@ CNBC's MacKenzie Sigalos reports on Strategy.
 
 📺 CNBC Television
 
-👁️ 7K • 👍 36 • 💬 98 • ⏱️ 1:52 • 22h ago
+👁️ 7K • 👍 36 • 💬 98 • ⏱️ 1:52 • 23h ago
 
 ---
 
@@ -373,7 +369,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 19K • 👍 691 • 💬 188 • ⏱️ 25:38 • 21h ago
+👁️ 19K • 👍 691 • 💬 188 • ⏱️ 25:38 • 22h ago
 
 ---
 

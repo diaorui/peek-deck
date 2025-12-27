@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T14:15:30.348851+00:00'
+updated: '2025-12-27T14:36:40.205657+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 14:15 UTC  
+**Last Updated:** December 27, 2025 at 14:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 16h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 One of the main problems with the way technology is evaluated in today's world is that the benchmarks and reviews come from tech savvy people who don't understand basics of business concepts, or the data surrounding the product itself. It's true that Google Gemini is one of the top AI models right now on the market. The Google has a really bad track record for all of its products. Anyone with an understanding of business and product management would get this, immediately. Yet a lot of these performance benchmarks and hype articles don't even mention this at all. Why? Because they don't understand, or don't want others to know, that Google will screw up Gemini just like they do everything else. The Google product lifecycle Here's how the Google product lifecycle goes: introduction, adoption, thriving, maintenance, abandonment Perfect example: speech to text services Google has been foundational in speech to text, a core technology that is probably one of the most important technologies in the world right now. Recently, Google decided to cheapen their speech to text service and offshore it somewhere. the accuracy and voice to text is hideous now. It's shameful, to say the least. So many people with accessibility issues and white collar workers rely on speech to text. The accuracy is just so, incredibly bad, and only gets worse each year. But we are in the future! Why is this core service that is so easy to provide, so terrible? Example 2: Google stadia I really don't even have to say much about this one. Just another of the many examples of Google trying to do something wow worthy, having everything they could possibly need to do it, and just totally floundering. They had the potential to create one of the most incredible technologies the gaming industry has ever seen, and today, would have changed the entire world of gaming permanently. Due to AI, it's borderline impossible to find affordable computer parts, so building a PC cost anywhere from $1,200 to $3,500 now. A portable gaming streaming device would have been perfect in this market right now, where no one can get RAM, graphics cards, memory. But Google couldn't do it. With their billions of dollars, they simply could not put out this product and continue to maintain it. Who knows how much money was lost in this bullshit? Yes, let's create an entire business model and infrastructure for this product that many people want, and then just abandon it immediately. Wonderful strategy! How this all relates back to Gemini Gemini started as a joke. It was Google Bard, a very unimpressive, mediocre chatbot. Once again, they throw all their money and resources behind this product, now they have Gemini, this impressive, truly outstanding product that is finally going to be useful and functional enough to actually benefit people. Remember all of their other business ventures now. How do the other ventures usually go? Introduction, adoption, thriving, abandonment. So right now, we're probably in the adoption stage. It might seem like Gemini is thriving, but that's not really the case. Big companies aren't using it as widely as they are open AI or copilot. Some big companies are beginning to adopt Gemini. Soon it'll be in the thriving stage and guess what comes after that? Abandonment! Yes, just like everything else Google does, it'll be abandoned, resources scaled back massively, to scam people just like they do every single other time that they put out a product. Remember their speech to text services, they are going to cheapen the product. So Gemini is great, temporarily. But just like everything else that Google puts out, soon they will have to start cheapening the resources that they have put into it and move it into maintenance mode, and that is not something they are really good at. Almost none of their products actually have customer support available for them, other than stupid help forms and now they can direct you to Gemini, their still in development chatbot. But they are not going to invest the appropriate amount of resources to maintain Gemini, they never do for any of their products. Because that would not be profitable. Once they get people hooked on it, business users will pay extraordinary amounts of money, regular users will be marketed to and the product will become a horrible POS just like chat GPT, filled with ads and marketing manipulation tactics to make them money.
 
-30m ago
+51m ago
 
 ---
 
@@ -81,7 +81,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-21h ago
+22h ago
 
 ---
 
@@ -135,17 +135,27 @@ The New York Times • 1d ago
 
 ---
 
-**[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
+**[Ex-Palantir turned politician Alex Bores says AI deepfakes are a 'solvable problem' if we bring back a free, decades-old technique](https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/)**
 
-The New York Times • 2h ago
+The former Palantir staffer pointed to the 1990s, when people were skeptical about being able to do online banking in a safe and trustworthy way.
+
+Fortune • 31m ago
 
 ---
 
-**[AI Backlash Grew Massively in 2025](https://www.yahoo.com/news/articles/ai-backlash-grew-massively-2025-120000997.html)**
+**[I pioneered machine teaching at Microsoft. Building AI agents is like building a basketball team, not drafting a player](https://fortune.com/2025/12/27/machine-teaching-amesa-ceo-kence-anderson-former-microsoft-director-like-basketball/)**
 
-2025 will be remembered as the year of anti-AI discontent.
+We shouldn’t ask how much knowledge an agent can retain, but rather if it has had the opportunity to develop expertise by practicing as humans do.
 
-Yahoo • 2h ago
+Fortune • 31m ago
+
+---
+
+**[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
+
+Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
+
+CNBC • 7h ago
 
 ---
 
@@ -157,14 +167,6 @@ NBC News • 3h ago
 
 ---
 
-**[One year on from the UK's grand AI plan: has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
-
-Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
-
-CNBC • 7h ago
-
----
-
 **[Our king, priest and feudal lord – how AI is taking us back to the dark ages | Joseph de Weck](https://www.theguardian.com/commentisfree/2025/dec/26/ai-dark-ages-enlightenment)**
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
@@ -173,17 +175,17 @@ The Guardian • 1d ago
 
 ---
 
+**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
+
+Bloomberg.com • 5h ago
+
+---
+
 **[DoorDash launches Zesty, an AI app for finding local food](https://www.foxnews.com/tech/doordash-launches-zesty-ai-app-finding-local-food)**
 
 DoorDash launches Zesty, an AI-powered social app that recommends restaurants through conversational search, now testing in San Francisco and New York.
 
-Fox News • 1h ago
-
----
-
-**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
-
-Bloomberg.com • 5h ago
+Fox News • 2h ago
 
 ---
 
@@ -211,7 +213,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 287 • 💬 223 • 19h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 289 • 💬 223 • 19h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -221,7 +223,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 260 • 💬 309 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 260 • 💬 310 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -261,7 +263,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 97 • 💬 58 • 18h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 101 • 💬 59 • 19h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -351,7 +353,7 @@ Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the a
 
 📺 Safiya Nygaard
 
-👁️ 485K • 👍 33K • 💬 2K • ⏱️ 30:54 • 11h ago
+👁️ 485K • 👍 33K • 💬 2K • ⏱️ 30:54 • 12h ago
 
 ---
 
@@ -371,7 +373,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Wholesale Ted
 
-👁️ 27K • 👍 2K • 💬 85 • ⏱️ 21:58 • 19h ago
+👁️ 27K • 👍 2K • 💬 85 • ⏱️ 21:58 • 20h ago
 
 ---
 
@@ -433,7 +435,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 415 • 1d ago
+⬇️ 15,880 • ❤️ 418 • 1d ago
 
 ---
 
@@ -445,7 +447,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 641 • 8d ago
+⬇️ 33,604 • ❤️ 643 • 8d ago
 
 ---
 
@@ -457,7 +459,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,469 • 18d ago
+⬇️ 402,811 • ❤️ 3,471 • 18d ago
 
 ---
 
@@ -489,19 +491,19 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 443 • 53m ago
+⬇️ 0 • ❤️ 443 • 1h ago
 
 ---
 
-**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
+**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
 
-*Unsloth AI*
+*Liquid AI*
 
-Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
+LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
 
-`image-to-image` `20.4B`
+`text-generation` `2.6B`
 
-⬇️ 51,653 • ❤️ 165 • 16h ago
+⬇️ 1,517 • ❤️ 167 • 1d ago
 
 ---
 
@@ -517,7 +519,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 71 • 💬 3 • ⭐ 2,555 • 9d ago
+▲ 72 • 💬 3 • ⭐ 2,608 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -662,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 759 • 3h ago
+⭐ 6.9k • 🔱 760 • 3h ago
 
 ---
 
@@ -672,7 +674,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 480 • 1h ago
+⭐ 3.7k • 🔱 483 • 6m ago
 
 ---
 
@@ -682,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 219 • 2h ago
+⭐ 3.2k • 🔱 220 • 2m ago
 
 ---
 
@@ -692,7 +694,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 2.2k • 🔱 397 • 21d ago
+⭐ 2.2k • 🔱 398 • 21d ago
 
 ---
 
@@ -712,7 +714,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.4k • 🔱 123 • 1d ago
+⭐ 1.4k • 🔱 124 • 1d ago
 
 ---
 
@@ -732,7 +734,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 230 • 22h ago
+⭐ 1.3k • 🔱 231 • 23h ago
 
 ---
 
@@ -742,7 +744,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 968 • 🔱 134 • 9d ago
+⭐ 969 • 🔱 134 • 9d ago
 
 ---
 
