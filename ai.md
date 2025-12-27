@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T23:27:01.133967+00:00'
+updated: '2025-12-27T23:42:21.751336+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 23:27 UTC  
+**Last Updated:** December 27, 2025 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Low-quality AI-generated content is now saturating social media – and generati
 
 We are currently focused on building simulation engines for observing behavior in multi agent scenarios. And we are currently exploring adversarial concepts, strange thought experiments, and semi-large scale sociology sims. If this seems interesting, reach out or ask anything. I'll be in the thread + dms are open. For reference, I am a big fan of amanda askell from anthropic (she has some very interesting views on the nature of these models).
 
-33m ago
+48m ago
 
 ---
 
@@ -125,7 +125,7 @@ Built a canvas-based interface for organizing Gemini image generation. Features 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 11h ago
 
 In movies and literature, a wolf’s haunting howl can signify danger or untamed nature. In real life, researchers in Yellowstone National Park are analyzing those howls with cutting-edge AI technology to better monitor and track wolves. Matt Standal of PBS Montana reports.
 
-PBS • 51m ago
+PBS • 1h ago
 
 ---
 
@@ -155,19 +155,19 @@ Yahoo Finance • 8h ago
 
 Investors can nail the AI boom by simply owning these winners for the next decade.
 
-The Motley Fool • 42m ago
+The Motley Fool • 57m ago
 
 ---
 
 **[BofA Identifies 6 Behind-the-Scenes AI Stocks for 2026](https://www.tipranks.com/news/bofa-identifies-6-behind-the-scenes-ai-stocks-for-2026)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
 **[AI Fluency As A Defining Leadership Trait: Lessons For 2026](https://www.forbes.com/sites/anjanasusarla/2025/12/27/ai-fluency-as-a-defining-leadership-trait-lessons-for-2026/)**
 
-Forbes • 55m ago
+Forbes • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Forbes • 55m ago
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 2h ago
 
 **[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -668,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 490 • 41m ago
+⭐ 3.8k • 🔱 490 • 56m ago
 
 ---
 
@@ -678,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.3k • 🔱 238 • 5h ago
+⭐ 3.3k • 🔱 238 • 6h ago
 
 ---
 

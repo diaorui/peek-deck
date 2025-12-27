@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T23:27:01.142342+00:00'
+updated: '2025-12-27T23:42:21.760195+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 23:27 UTC  
+**Last Updated:** December 27, 2025 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.9%  
-**30d:** -3.4%  
+**24h:** +0.3%  
+**7d:** -1.0%  
+**30d:** -3.5%  
 **90d:** -23.2%  
-**1y:** -7.8%  
+**1y:** -7.9%  
 
 ---
 
@@ -143,7 +143,7 @@ I've got $4000 I can spend on whatever, my investments are taken care of so I se
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 22h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 23h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 1d ago
 
 The price of Bitcoin has continued to struggle under the psychological $90,000 level during the Christmas season, reflecting the sluggish climate of the crypto market. While the premier cryptocurrency and the rest of the crypto market floundered, other asset classes enjoyed significant Christmas se…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
 
-⬆️ 2 • 💬 0 • 11h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
+⬆️ 2 • 💬 0 • 12h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
 
 ---
 
