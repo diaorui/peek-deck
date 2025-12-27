@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T05:02:10.369306+00:00'
+updated: '2025-12-27T05:33:38.101861+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 05:02 UTC  
+**Last Updated:** December 27, 2025 at 05:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.31B
+**Market Cap:** $353.34B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.8%
 
 **All-Time Low:** $0.43
-+676276.9%
++676052.9%
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 1d ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -190,7 +190,7 @@ Seeking Alpha • 12h ago
 
 While Ethereum's price is on track to limp into the new year, its record-setting climb is unlikely to continue given the prevailing conditions for Bitcoin.
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView — Track All Markets • 8h ago
 
 Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
 
-BeInCrypto • 19h ago
+BeInCrypto • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ BeInCrypto • 19h ago
 
 BitMine Immersion Technologies (BMNR) Stock Today: Price Action, Latest Ethereum Treasury Update, Analyst Targets, and Key Risks to Watch - TechStock²
 
-ts2.tech • 9h ago
+ts2.tech • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 827 • 💬 127 • ⏱️ 21:19 • 13h ago
+👁️ 22K • 👍 827 • 💬 127 • ⏱️ 21:19 • 14h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 14h ago
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 4:08 • 15h ago
 
 ---
 
@@ -306,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 Crypto Cam
 
-👁️ 4K • 👍 140 • 💬 13 • ⏱️ 0:21 • 3h ago
+👁️ 4K • 👍 140 • 💬 13 • ⏱️ 0:21 • 4h ago
 
 ---
 
@@ -326,7 +326,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 268 • 👍 17 • 💬 82 • ⏱️ 4:22 • 7h ago
+👁️ 268 • 👍 17 • 💬 82 • ⏱️ 4:22 • 8h ago
 
 ---
 

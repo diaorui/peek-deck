@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T05:02:10.372502+00:00'
+updated: '2025-12-27T05:33:38.105028+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 05:02 UTC  
+**Last Updated:** December 27, 2025 at 05:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,15 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 We're building Asimov, an open-source humanoid robot in public. Feel free to join our community: https://discord.gg/HzDfGN7kUw
 
-22h ago
+23h ago
+
+---
+
+**[Guidance](https://www.reddit.com/r/robotics/comments/1pw987b/guidance/)**
+
+Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
+
+12h ago
 
 ---
 
@@ -94,19 +102,11 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 ---
 
-**[Guidance](https://www.reddit.com/r/robotics/comments/1pw987b/guidance/)**
-
-Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
-
-11h ago
-
----
-
 **[Cost of LiDaR for autnomois robot application](https://www.reddit.com/r/robotics/comments/1pw7r0z/cost_of_lidar_for_autnomois_robot_application/)**
 
 Hello Guys, I am comparing LiDaR and 3D cameras for my autonomous robot. I have mostly compared the tech part of both the technologies, now I am heading for its cost comparision. Thus, I would be grateful to you guys if you could share the prices of LiDaR sensors you have bought or have got prices of, from different brands. It would become easy for me if you guys will share your prices with brand name and with tech specs.
 
-12h ago
+13h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 2d ago
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 43m ago
+Earth.com • 1h ago
 
 ---
 
@@ -134,15 +134,13 @@ Earth.com • 43m ago
 
 Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
-**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
 
-Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
-
-New Atlas • 2d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -158,13 +156,7 @@ Yahoo Finance • 1d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 14h ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 1d ago
+Fortune • 15h ago
 
 ---
 
@@ -180,13 +172,21 @@ Futura, Le média qui explore le monde • 15h ago
 
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
-Tom's Hardware • 17h ago
+Tom's Hardware • 18h ago
 
 ---
 
 **[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
 
 Investor's Business Daily • 2d ago
+
+---
+
+**[World's smallest autonomous robots could one day save your life](https://newatlas.com/robotics/world-smallest-autonomous-robots/)**
+
+Scientists from the University of Pennsylvania (Penn) and the University of Michigan have created the world's smallest autonomous and programmable robots. Each measuring about 200 micrometers wide – roughly twice the width of a human hair – these machines can perceive their surroundings, "think,"…
+
+New Atlas • 2d ago
 
 ---
 
@@ -220,7 +220,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 14K • 👍 278 • 💬 17 • ⏱️ 1:30 • 23h ago
+👁️ 14K • 👍 278 • 💬 17 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:53 • 7h ago
+👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:53 • 8h ago
 
 ---
 
