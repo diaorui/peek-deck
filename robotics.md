@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T19:36:21.778710+00:00'
+updated: '2025-12-27T19:47:07.698742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 19:36 UTC  
+**Last Updated:** December 27, 2025 at 19:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science.
 
-7m ago
+18m ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 213K • 👍 2K • 💬 218 • ⏱️ 12:51 • 1d ago
+👁️ 245K • 👍 2K • 💬 225 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -206,17 +206,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 39K • 👍 624 • 💬 106 • ⏱️ 13:55 • 3d ago
+👁️ 40K • 👍 630 • 💬 107 • ⏱️ 13:55 • 3d ago
 
 ---
 
 **[Humanoid robot runs like spider, shows we are close to disaster.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
 
-Could AI become dangerous? Can we trust AI? Chat GPT Robots. Use code insideai at https://incogni.com/insideai to get an ...
+AI Robot. AI Risk and AI expert warnings. Robot ChatGPT. Use code insideai at https://incogni.com/insideai to get an exclusive ...
 
 📺 InsideAI
 
-👁️ 259K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 262K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -234,7 +234,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 62K • 👍 2K • 💬 391 • ⏱️ 21:33 • 1d ago
+👁️ 65K • 👍 2K • 💬 399 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 16K • 👍 311 • 💬 20 • ⏱️ 1:30 • 1d ago
+👁️ 17K • 👍 324 • 💬 20 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -254,7 +254,17 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 📺 CNET
 
-👁️ 40K • 👍 673 • 💬 157 • ⏱️ 5:25 • 6d ago
+👁️ 40K • 👍 675 • 💬 157 • ⏱️ 5:25 • 6d ago
+
+---
+
+**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
+
+In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
+
+📺 ROBOTIC WORLD25
+
+👁️ 62K • 👍 2K • 💬 248 • ⏱️ 18:43 • 5d ago
 
 ---
 
@@ -264,7 +274,7 @@ Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial human
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 80 • 💬 2 • ⏱️ 0:53 • 22h ago
+👁️ 3K • 👍 85 • 💬 2 • ⏱️ 0:53 • 22h ago
 
 ---
 
@@ -274,15 +284,7 @@ There's a strange split emerging in humanoid robot marketing. On one side, Ameri
 
 📺 Game of Tomorrow
 
-👁️ 28K • 👍 466 • 💬 57 • ⏱️ 0:39 • 3d ago
-
----
-
-**[Drag-on welding robot.#industrial #welding #robot #spraying #stamping #machine](https://www.youtube.com/watch?v=o656or5-hTE)**
-
-📺 Lin of Brant robot 
-
-👁️ 24K • 👍 154 • 💬 1 • ⏱️ 0:19 • 4d ago
+👁️ 28K • 👍 467 • 💬 57 • ⏱️ 0:39 • 3d ago
 
 ---
 

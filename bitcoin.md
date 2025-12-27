@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T19:36:21.769357+00:00'
+updated: '2025-12-27T19:47:07.689416+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 19:36 UTC  
+**Last Updated:** December 27, 2025 at 19:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -1.2%  
-**30d:** -3.6%  
-**90d:** -23.3%  
-**1y:** -8.1%  
+**24h:** -0.1%  
+**7d:** -1.3%  
+**30d:** -3.7%  
+**90d:** -23.4%  
+**1y:** -8.2%  
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 170 • ⏱️ 14:27 • 19h ago
+👁️ 24K • 👍 1K • 💬 172 • ⏱️ 14:27 • 19h ago
 
 ---
 
@@ -319,17 +319,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 14K • 👍 169 • 💬 122 • ⏱️ 3:21 • 20h ago
-
----
-
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 530 • 💬 137 • ⏱️ 4:31 • 1d ago
+👁️ 16K • 👍 180 • 💬 143 • ⏱️ 3:21 • 20h ago
 
 ---
 
@@ -339,57 +329,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 24K • 👍 797 • 💬 100 • ⏱️ 15:49 • 1d ago
+👁️ 24K • 👍 804 • 💬 80 • ⏱️ 15:49 • 1d ago
 
 ---
 
-**[The Biggest Bitcoin Price Predictions!](https://www.youtube.com/watch?v=t4pMdhaDE0A)**
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
 
-Everyone loves a Bitcoin price prediction — and the numbers are getting bigger. This episode breaks down recent Bitcoin ...
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 580 • 👍 38 • 💬 28 • ⏱️ 1:41 • 3h ago
+👁️ 15K • 👍 537 • 💬 76 • ⏱️ 4:31 • 1d ago
 
 ---
 
-**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
+**[This Date Could Be the Exact Moment Bitcoin Explodes to $250K - Tom Lee](https://www.youtube.com/watch?v=8uHNpEu1ejU)**
 
 Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
 📺 Savvy Finance
 
-👁️ 17K • 👍 615 • 💬 57 • ⏱️ 19:55 • 2d ago
-
----
-
-**[Bitcoin Feels Like 2019 Again — Ben Cowen’s Warning for 2026](https://www.youtube.com/watch?v=9o7bqwOtRt4)**
-
-In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold and the S&P 500, why the current cycle feels like ...
-
-📺 Cointelegraph
-
-👁️ 21K • 👍 756 • 💬 193 • ⏱️ 25:38 • 1d ago
-
----
-
-**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
-
-Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 3K • 💬 201 • ⏱️ 37:34 • 2d ago
-
----
-
-**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
-
-Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
-
-📺 Altcoin Daily
-
-👁️ 25K • 👍 554 • 💬 54 • ⏱️ 1:12 • 2d ago
+👁️ 2K • 👍 167 • 💬 49 • ⏱️ 18:05 • 3h ago
 
 ---
 
@@ -399,7 +359,47 @@ Official website: https://www.teamundergroundtrading.com/ BLOFIN: https://partne
 
 📺 Team Underground
 
-👁️ 3K • 👍 161 • 💬 71 • ⏱️ 7:46 • 1d ago
+👁️ 3K • 👍 164 • 💬 70 • ⏱️ 7:46 • 1d ago
+
+---
+
+**[A Massive Black Swan DISASTER To Hit Bitcoin | 2026 Crash.](https://www.youtube.com/watch?v=iNc4_RaYi-E)**
+
+Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: https://x.com/1MarkMos Altcoin Daily ...
+
+📺 Altcoin Daily
+
+👁️ 68K • 👍 3K • 💬 202 • ⏱️ 37:34 • 2d ago
+
+---
+
+**[“It’s Time to Expose EXACTLY What’s Wrong With BTC &amp; Crypto” - Lyn Alden](https://www.youtube.com/watch?v=KNBAv0At-WY)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 17K • 👍 621 • 💬 32 • ⏱️ 19:55 • 2d ago
+
+---
+
+**[Bitcoin in 2026](https://www.youtube.com/watch?v=-5vz86UGUWA)**
+
+Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I win the 1.7 Billion jackpot I will share the prize with ...
+
+📺 Altcoin Daily
+
+👁️ 26K • 👍 554 • 💬 54 • ⏱️ 1:12 • 2d ago
+
+---
+
+**[The Fed Is Trapped — And Bitcoin Is the Exit](https://www.youtube.com/watch?v=GUo8z7fq_MM)**
+
+The Fed and the Treasury are trapped in permanent debasement, forcing capital out of bonds and real estate in search of real ...
+
+📺 Swan Bitcoin
+
+👁️ 11K • 👍 395 • 💬 79 • ⏱️ 1:18 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T19:36:21.775443+00:00'
+updated: '2025-12-27T19:47:07.695525+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 19:36 UTC  
+**Last Updated:** December 27, 2025 at 19:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,8 +43,8 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** -2.4%  
-**30d:** -3.3%  
+**7d:** -2.5%  
+**30d:** -3.4%  
 **90d:** -30.6%  
 **1y:** -14.0%  
 
@@ -234,27 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 296 • ⏱️ 11:20 • 19h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=OMj8pATsDoM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 120 • 👍 14 • 💬 1 • ⏱️ 4:00 • 2h ago
-
----
-
-**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 263 • 👍 21 • 💬 31 • ⏱️ 5:25 • 8h ago
+👁️ 38K • 👍 2K • 💬 323 • ⏱️ 11:20 • 20h ago
 
 ---
 
@@ -264,7 +244,7 @@ BITCOIN HOLDERS: Don't Let Them FOOL YOU!!!! - Bitcoin News Today, Ethereum & Al
 
 📺 Crypto World
 
-👁️ 695 • 👍 49 • 💬 45 • ⏱️ 17:39 • 2h ago
+👁️ 2K • 👍 162 • 💬 93 • ⏱️ 17:39 • 2h ago
 
 ---
 
@@ -274,7 +254,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 31K • 👍 1K • 💬 161 • ⏱️ 21:19 • 1d ago
+👁️ 32K • 👍 1K • 💬 143 • ⏱️ 21:19 • 1d ago
 
 ---
 
@@ -284,37 +264,37 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 3K • 💬 188 • ⏱️ 15:00 • 20h ago
+👁️ 60K • 👍 4K • 💬 192 • ⏱️ 15:00 • 20h ago
 
 ---
 
-**[Ethereum Institutions Divided: Bitmine Stakes BIG While SharpLink Exits!](https://www.youtube.com/watch?v=Efe8TEAYSmE)**
+**[LONG-TERM ETHEREUM PREDICTION FOR 2026🚨](https://www.youtube.com/watch?v=0DN2gxl5yoQ)**
 
-In this video, we analyze the divergent financial strategies of two major institutional players on the Ethereum blockchain. We break ...
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 CryptoStock Lab
+📺 Cilinix Crypto
 
-👁️ 77 • 👍 9 • 💬 21 • ⏱️ 12:49 • 2h ago
+👁️ 347 • 👍 19 • 💬 17 • ⏱️ 5:25 • 8h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Ebik8D1g9hc)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=OMj8pATsDoM)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 6 • ⏱️ 5:40 • 15h ago
+👁️ 525 • 👍 79 • 💬 6 • ⏱️ 4:00 • 2h ago
 
 ---
 
-**[MNR Begins Massive Staking Operation : Bitmine Just Locked $219M in Ethereum](https://www.youtube.com/watch?v=Mml05bMHdmQ)**
+**[If Ethereum Hits $10k, BMNR Goes To...? (Price Prediction)](https://www.youtube.com/watch?v=Xy_9FQbsyXo)**
 
-BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transformation is officially underway. BitMine ...
+Can BMNR Hit $250 if ETH Does a 3x? It sounds like a fantasy number: $250 per share. With the stock currently trading in the ...
 
 📺 Wall Street Stockcast
 
-👁️ 410 • 👍 25 • 💬 34 • ⏱️ 6:10 • 6h ago
+👁️ 525 • 👍 19 • 💬 39 • ⏱️ 7:56 • 3h ago
 
 ---
 
@@ -324,7 +304,27 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Crypto Cam
 
-👁️ 14K • 👍 302 • 💬 49 • ⏱️ 0:21 • 18h ago
+👁️ 15K • 👍 321 • 💬 49 • ⏱️ 0:21 • 18h ago
+
+---
+
+**[Ethereum Institutions Divided: Bitmine Stakes BIG While SharpLink Exits!](https://www.youtube.com/watch?v=Efe8TEAYSmE)**
+
+In this video, we analyze the divergent financial strategies of two major institutional players on the Ethereum blockchain. We break ...
+
+📺 CryptoStock Lab
+
+👁️ 261 • 👍 16 • 💬 16 • ⏱️ 12:49 • 2h ago
+
+---
+
+**[MNR Begins Massive Staking Operation : Bitmine Just Locked $219M in Ethereum](https://www.youtube.com/watch?v=Mml05bMHdmQ)**
+
+BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transformation is officially underway. BitMine ...
+
+📺 Wall Street Stockcast
+
+👁️ 626 • 👍 28 • 💬 37 • ⏱️ 6:10 • 6h ago
 
 ---
 
