@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T10:23:03.190353+00:00'
+updated: '2025-12-27T10:42:38.122176+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 10:23 UTC  
+**Last Updated:** December 27, 2025 at 10:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,609.09
+### $87,404.23
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.5%  
-**7d:** -1.3%  
-**30d:** -3.8%  
-**90d:** -23.5%  
+**7d:** -1.4%  
+**30d:** -3.9%  
+**90d:** -23.6%  
 **1y:** -8.3%  
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[How shall we commence the year 2026?](https://www.reddit.com/r/Bitcoin/comments/1pwkxtc/how_shall_we_commence_the_year_2026/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 9h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 10h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-36m ago
+55m ago
 
 ---
 
@@ -125,7 +125,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 **[Look what Santa brought me this year](https://www.reddit.com/r/Bitcoin/comments/1pw9q2i/look_what_santa_brought_me_this_year/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -175,7 +175,7 @@ Binance • 1d ago
 
 CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 2d ago
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 **[Ask HN: Practical AI setup for staying on top of personal messages?](https://news.ycombinator.com/item?id=46397562)**
 
-⬆️ 1 • 💬 0 • 10h ago
+⬆️ 1 • 💬 0 • 11h ago
 
 ---
 
@@ -359,7 +359,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 17K • 👍 622 • 💬 165 • ⏱️ 25:38 • 17h ago
+👁️ 17K • 👍 622 • 💬 165 • ⏱️ 25:38 • 18h ago
 
 ---
 

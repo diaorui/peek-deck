@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T10:23:03.181552+00:00'
+updated: '2025-12-27T10:42:38.112927+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 10:23 UTC  
+**Last Updated:** December 27, 2025 at 10:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ The ‘anti-woke’ artificial intelligence chatbot called for a new Holocaust e
 
 Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, which dynamically selects the most appropriate model for each query. While reviewing some outputs in Word’s formatting or compatibility view, I observed numerous small square symbols (⧈) embedded within the generated text. I’m trying to determine whether these characters correspond to hidden control tokens, or metadata artifacts introduced during text generation or encoding. Could this be related to Unicode normalization issues, invisible markup, or potential model tagging mechanisms? If anyone has insight into whether LLMs introduce such placeholders as part of token parsing, safety filtering, or rendering pipelines, I’d appreciate clarification. Additionally, any recommended best practices for cleaning or sanitizing generated text to avoid these artifacts when exporting to rich text editors like Word would be helpful.
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 20h ago
 
 **[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -154,7 +154,7 @@ Pittsburgh Post-Gazette • 1h ago
 
 Rishab Jolly, a senior PM at Microsoft, uses AI tools to help him draft documents for work, and to speed up research for his podcasting hobby.
 
-Business Insider • 18m ago
+Business Insider • 37m ago
 
 ---
 
@@ -162,7 +162,7 @@ Business Insider • 18m ago
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ CNBC • 3h ago
 
 Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 276 • 💬 208 • 15h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 276 • 💬 208 • 16h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -262,7 +262,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 88 • 💬 53 • 14h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 88 • 💬 53 • 15h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -352,7 +352,7 @@ Fox trying to save orange tree from dying #shorts #ai #viral #tree #fox #ytshort
 
 📺 Ai zypsa
 
-👁️ 6K • ⏱️ 0:29 • 6h ago
+👁️ 6K • ⏱️ 0:29 • 7h ago
 
 ---
 
@@ -502,7 +502,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 `image-to-image` `20.4B`
 
-⬇️ 51,653 • ❤️ 164 • 12h ago
+⬇️ 51,653 • ❤️ 164 • 13h ago
 
 ---
 
@@ -518,7 +518,7 @@ Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimize
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 68 • 💬 3 • ⭐ 2,555 • 9d ago
+▲ 70 • 💬 3 • ⭐ 2,555 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -609,7 +609,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 213 • 💬 5 • ⭐ 8,005 • 29d ago
+▲ 214 • 💬 5 • ⭐ 8,005 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.9k • 🔱 756 • 57m ago
+⭐ 6.9k • 🔱 757 • 1h ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 478 • 12h ago
+⭐ 3.7k • 🔱 479 • 12h ago
 
 ---
 
@@ -681,7 +681,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 219 • 1h ago
+⭐ 3.1k • 🔱 219 • 45m ago
 
 ---
 
@@ -721,7 +721,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 140 • 1d ago
+⭐ 1.3k • 🔱 141 • 1d ago
 
 ---
 
@@ -731,7 +731,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 230 • 18h ago
+⭐ 1.3k • 🔱 230 • 19h ago
 
 ---
 
@@ -741,7 +741,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 966 • 🔱 134 • 9d ago
+⭐ 967 • 🔱 134 • 9d ago
 
 ---
 
