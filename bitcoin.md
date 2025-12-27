@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T06:43:58.806485+00:00'
+updated: '2025-12-27T06:59:36.872126+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 06:43 UTC  
+**Last Updated:** December 27, 2025 at 06:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -1.4%  
+**24h:** -1.3%  
+**7d:** -1.3%  
 **30d:** -3.8%  
 **90d:** -23.5%  
-**1y:** -8.3%  
+**1y:** -8.2%  
 
 ---
 
@@ -121,7 +121,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
-8h ago
+9h ago
 
 ---
 
@@ -185,7 +185,7 @@ Binance • 23h ago
 
 The biggest single-day exit came from BlackRock’s IBIT, which saw $91.37 million leave the fund. Grayscale’s GBTC followed with a $24.62 million outflow.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -215,7 +215,7 @@ The Wall Street Journal • 3d ago
 
 In this week’s Seven Hills Police Blotter, a Tanglewood Lane resident came to the police station after discovering they were the victim of fraud.
 
-Cleveland.com • 16h ago
+Cleveland.com • 17h ago
 
 ---
 
@@ -245,7 +245,7 @@ Stocktwits • 14h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 11h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 12h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 

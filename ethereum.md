@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T06:43:58.812516+00:00'
+updated: '2025-12-27T06:59:36.878056+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 06:43 UTC  
+**Last Updated:** December 27, 2025 at 06:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-43m ago
+58m ago
 
 ---
 
@@ -216,7 +216,7 @@ BeInCrypto • 21h ago
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 19h ago
+Coinpedia Fintech News • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 138 • ⏱️ 11:20 • 6h ago
+👁️ 18K • 👍 1K • 💬 138 • ⏱️ 11:20 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 126 • ⏱️ 15:00 • 7h ago
+👁️ 30K • 👍 2K • 💬 126 • ⏱️ 15:00 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 274 • 💬 179 • ⏱️ 18:00 • 14h ago
+👁️ 7K • 👍 274 • 💬 179 • ⏱️ 18:00 • 15h ago
 
 ---
 
@@ -298,7 +298,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 6K • ⏱️ 7:27 • 16h ago
+👁️ 6K • ⏱️ 7:27 • 17h ago
 
 ---
 
@@ -328,7 +328,7 @@ Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology.
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 117 • 💬 7 • ⏱️ 12:53 • 6h ago
+👁️ 1K • 👍 117 • 💬 7 • ⏱️ 12:53 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T06:43:58.815751+00:00'
+updated: '2025-12-27T06:59:36.881283+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 06:43 UTC  
+**Last Updated:** December 27, 2025 at 06:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
 
-23h ago
+1d ago
 
 ---
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-33m ago
+49m ago
 
 ---
 
@@ -124,7 +124,7 @@ IEEE Spectrum • 2d ago
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 7m ago
+Earth.com • 22m ago
 
 ---
 

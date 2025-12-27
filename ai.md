@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T06:43:58.797997+00:00'
+updated: '2025-12-27T06:59:36.863592+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 06:43 UTC  
+**Last Updated:** December 27, 2025 at 06:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ Financial Times • 1h ago
 
 AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -291,7 +291,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 7K • 👍 394 • 💬 79 • ⏱️ 17:02 • 4h ago
+👁️ 7K • 👍 394 • 💬 79 • ⏱️ 17:02 • 5h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bill Gurley (@bgurley) is a general partner at Benchmark, a leading venture capi
 
 📺 Tim Ferriss
 
-👁️ 54K • 👍 1K • 💬 113 • ⏱️ 14:18 • 16h ago
+👁️ 54K • 👍 1K • 💬 113 • ⏱️ 14:18 • 17h ago
 
 ---
 
@@ -517,7 +517,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 64 • 💬 3 • ⭐ 2,555 • 9d ago
+▲ 66 • 💬 3 • ⭐ 2,555 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -608,7 +608,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 213 • 💬 5 • ⭐ 7,969 • 29d ago
+▲ 213 • 💬 5 • ⭐ 8,005 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -661,7 +661,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 753 • 2h ago
+⭐ 6.8k • 🔱 754 • 2h ago
 
 ---
 
@@ -671,7 +671,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 473 • 8h ago
+⭐ 3.7k • 🔱 474 • 9h ago
 
 ---
 
@@ -731,7 +731,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 228 • 15h ago
+⭐ 1.3k • 🔱 229 • 15h ago
 
 ---
 
@@ -741,7 +741,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 956 • 🔱 134 • 9d ago
+⭐ 958 • 🔱 134 • 9d ago
 
 ---
 
