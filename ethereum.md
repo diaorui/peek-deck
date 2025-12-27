@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T22:09:37.161441+00:00'
+updated: '2025-12-27T22:34:09.938775+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 22:09 UTC  
+**Last Updated:** December 27, 2025 at 22:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,930.71
+### $2,950.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -2.3%  
-**30d:** -3.2%  
+**24h:** -0.0%  
+**7d:** -2.4%  
+**30d:** -3.3%  
 **90d:** -30.5%  
 **1y:** -13.9%  
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 850 • 👍 100 • 💬 6 • ⏱️ 4:00 • 4h ago
+👁️ 850 • 👍 100 • 💬 6 • ⏱️ 4:00 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 CryptoMeownalysis
 
-👁️ 12 • 👍 3 • ⏱️ 1:12 • 4h ago
+👁️ 12 • 👍 3 • ⏱️ 1:12 • 5h ago
 
 ---
 
@@ -326,7 +326,7 @@ Ethereum is struggling to break resistance at $3000-$3300, potentially forming a
 
 📺 Crypto Cam
 
-👁️ 16K • 👍 345 • 💬 53 • ⏱️ 0:21 • 20h ago
+👁️ 16K • 👍 345 • 💬 53 • ⏱️ 0:21 • 21h ago
 
 ---
 

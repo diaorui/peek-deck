@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T22:09:37.164205+00:00'
+updated: '2025-12-27T22:34:09.942059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 22:09 UTC  
+**Last Updated:** December 27, 2025 at 22:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -50,13 +50,13 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
 
-11m ago
+35m ago
 
 ---
 
 **[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
 
-21m ago
+45m ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello I am searching for depth camera plugin for ros2 humble with gazebo ignitio
 
 Trying to figure out if I’m job-ready for an entry level robotics job. I asked AI, it said yes, but I don’t trust AI so I figured I’d ask here. Part of the confusion here is idk if robotics is like SWE jobs where “entry level” means “early mid level” or if it actually means entry level. So my past experience 1 year as a web app developer 5-6 years as a Salesforce technical consultant 1 - 2 years of AWS experience (as part of my Salesforce work) I am currently in a masters program for robotics & have just completed my first semester in a robotic sensing & navigation course. In this course I created a final project, a voice-powered turtlebot 4 that could navigate to pre marked locations. I used SLAM toolbox to pre map the locations, mapped natural language locations (ex. Chair 1, chair 2) to x/y coordinates, then used OpenAI APIs for NLP and agentic behavior. So you’d speak into a mic, say “go to chair 2”, and this input would be essentially translated into a ROS 2 topic to trigger navigation. This was with a team of 3 (technically a team of 4 but we kicked one guy out because he didn’t do anything). I played somewhat of a tech lead role in this project, putting out fires & setting strategic direction while building out the navigation node & uniting all parts, but I will say I don’t want to downplay the team’s contribution either, it was definitely a group effort. I’m currently a senior consultant, my boss does say he thinks I operate at a principle level, except I have limited people-management experience. I was however a tech lead for 2 years prior to my current role so it’s not that I have none and I have architected, designed, implemented, and maintained solutions that have provided services to thousands of internal users and opened support services for tens of thousands of regular customers. Other noteworthy career highlight is that I created Salesforce’s first in-memory database and my work was cited in a book as one of the best plug and play solutions to unit testing on the Salesforce platform. I also have a bachelors in computer science. I also have 9 technical certifications (7 in Salesforce & 2 in AWS). Not sure how relevant the prior career stuff is since it’s in Salesforce/AWS/Web Dev but I imagine that experience isn’t completely irrelevant.
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Investing.com • 14h ago
 The robot. His groin. It works on so many levels. Roll it again.
 [Media: https://bsky.app/profile/jjvincent.bsky.social/post/3mayddynhas2l]
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -263,7 +263,7 @@ Collaborative robots are changing the future of human–machine teamwork — and
 
 📺 Future Lens Pi
 
-👁️ 12K • 💬 10 • ⏱️ 0:07 • 9h ago
+👁️ 12K • 💬 10 • ⏱️ 0:07 • 10h ago
 
 ---
 
