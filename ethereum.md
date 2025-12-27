@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T20:46:51.671592+00:00'
+updated: '2025-12-27T20:57:28.073087+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 20:46 UTC  
+**Last Updated:** December 27, 2025 at 20:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -160,7 +160,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 46m ago
 
 ---
 
@@ -314,7 +314,7 @@ In this video, we analyze the divergent financial strategies of two major instit
 
 📺 CryptoStock Lab
 
-👁️ 261 • 👍 16 • 💬 16 • ⏱️ 12:49 • 3h ago
+👁️ 261 • 👍 16 • 💬 16 • ⏱️ 12:49 • 4h ago
 
 ---
 
