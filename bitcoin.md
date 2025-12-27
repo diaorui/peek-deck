@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T20:57:28.067870+00:00'
+updated: '2025-12-27T21:24:23.969773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - videos
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 20:57 UTC  
+**Last Updated:** December 27, 2025 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.2%  
-**7d:** -1.1%  
-**30d:** -3.6%  
-**90d:** -23.3%  
-**1y:** -8.1%  
+**7d:** -1.0%  
+**30d:** -3.5%  
+**90d:** -23.2%  
+**1y:** -8.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1747.72B
+**Market Cap:** $1748.69B
 Rank #1
 
-**Circulating Supply:** 19,967,950 BTC
+**Circulating Supply:** 19,967,965 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.5%
 
 **All-Time Low:** $67.81
-+128934.1%
++129052.0%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-4h ago
-
----
-
-**[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
-
-11h ago
+5h ago
 
 ---
 
@@ -113,7 +107,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 "What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +121,19 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-13h ago
+14h ago
+
+---
+
+**[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
+
+12h ago
+
+---
+
+**[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
+
+1h ago
 
 ---
 
@@ -137,43 +143,35 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
-
-18h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
-**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+**[Gold hits new record, bitcoin slips, Apple's China sales](https://finance.yahoo.com/video/gold-hits-record-bitcoin-slips-191003511.html)**
 
-Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Whales Woke Up in 2025 and Moved Billions in BTC—Here's Why](https://finance.yahoo.com/news/bitcoin-whales-woke-2025-moved-170138795.html)**
-
-Bitcoin whales emerged from their slumber in 2025, some after a decade or more, moving billions and cashing in as BTC surged to new highs.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Wobble Ahead Of 2025's Final Weekend](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dogecoin-wobble-170017230.html)**
+**[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
 
-Bitcoin traded mostly flat around $87,000 heading into the final weekend of 2025 as investors remained cautious amid thin liquidity and tax-driven selling. Cryptocurrency Ticker Price Bitcoin (CRYPTO: BTC) $87,351.16 Ethereum (CRYPTO: ...
+thestreet.com • 23h ago
 
-Yahoo Finance • 3h ago
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -181,7 +179,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,7 +193,7 @@ Binance • 1d ago
 
 Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
 
-CryptoSlate • 10h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -215,11 +213,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -311,7 +307,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 172 • ⏱️ 14:27 • 20h ago
+👁️ 24K • 👍 1K • 💬 172 • ⏱️ 14:27 • 21h ago
 
 ---
 
@@ -321,7 +317,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 16K • 👍 180 • 💬 143 • ⏱️ 3:21 • 21h ago
+👁️ 16K • 👍 180 • 💬 143 • ⏱️ 3:21 • 22h ago
 
 ---
 
@@ -351,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 167 • 💬 49 • ⏱️ 18:05 • 4h ago
+👁️ 2K • 👍 167 • 💬 49 • ⏱️ 18:05 • 5h ago
 
 ---
 
@@ -371,7 +367,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 202 • ⏱️ 37:34 • 2d ago
+👁️ 68K • 👍 3K • 💬 202 • ⏱️ 37:34 • 3d ago
 
 ---
 

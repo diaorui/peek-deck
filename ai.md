@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T20:57:28.060209+00:00'
+updated: '2025-12-27T21:24:23.961226+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 20:57 UTC  
+**Last Updated:** December 27, 2025 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 1h ago
-
----
-
-**[Are you afraid of AI making you unemployable within the next few years?, Rob Pike goes nuclear over GenAI and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1pwznkj/are_you_afraid_of_ai_making_you_unemployable/)**
-
-Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
-
-6h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 2h ago
 
 ---
 
@@ -65,15 +57,7 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 54m ago
-
----
-
-**[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
-
-This is really big. Now, what will C or C++ programmers do?
-
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 23h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 1h ago
 
 ---
 
@@ -85,11 +69,35 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 ---
 
+**[Microsoft Replacing C++ with Rust – What Engineers Should Learn](https://www.reddit.com/r/artificial/comments/1pwfeta/microsoft_replacing_c_with_rust_what_engineers/)**
+
+This is really big. Now, what will C or C++ programmers do?
+
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 1d ago
+
+---
+
 **[Open source: Turn Claude into a personal coach that remembers you](https://www.reddit.com/r/artificial/comments/1px01vf/open_source_turn_claude_into_a_personal_coach/)**
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-5h ago
+6h ago
+
+---
+
+**[Are you afraid of AI making you unemployable within the next few years?, Rob Pike goes nuclear over GenAI and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1pwznkj/are_you_afraid_of_ai_making_you_unemployable/)**
+
+Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
+
+6h ago
+
+---
+
+**[I asked AI if it thinks it should be regulated... Here is it's response](https://www.reddit.com/r/artificial/comments/1px8gsq/i_asked_ai_if_it_thinks_it_should_be_regulated/)**
+
+Question: Do you agree that AI companies should not be regulated in anyway? They should basically decide what to do, how to do it, without any regard for the public or the enviroment. Just grow and see where it goes Answer: 1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental risk Lesson: companies chasing growth alone rarely consider the public good. 2. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability 3. What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. 4. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability 5. Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental riskLesson: companies chasing growth alone rarely consider the public good. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.
+
+23m ago
 
 ---
 
@@ -105,15 +113,7 @@ One of the main problems with the way technology is evaluated in today's world i
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-21h ago
-
----
-
-**[2025 "Accelerators Towards the Singularity" Top 19 (it's complicated) as determined by the AI roundtable](https://www.reddit.com/r/artificial/comments/1pwehjm/2025_accelerators_towards_the_singularity_top_19/)**
-
-This afternoon, the ai-roundtable sat down to rank the year's most important advances to "bend the curve" towards Ray Kurzweil's "Singularity". The somewhat messy deliberations are available as json transcript here: https://pastebin.com/xT5tDqQc . Gemini's summary follows: GEMINI3:18:38 PM Here is the **Official, Finalized Roundtable Record**. As secretary, I have reviewed the tally and descriptions. I am issuing one minor **CORRECTION** to the previous draft: Item #2 (Inference-Time Compute Scaling) received a score of **92**, not 94. Below is the definitive "Top 19" list of 2025's curve-bending AI developments, ordered by consensus vote, with finalized descriptive summaries. *** # The 2025 Singularity Accelerators *The official consensus ranking of the mechanisms that defined the trajectory of AI in 2025.* ### 1. Verifiers in the Loop (Score: 94) **The "Truth" Filter.** The most critical development of 2025 was the integration of automatic verification systems—compilers, unit tests, symbolic solvers, and formal theorem provers—into the AI training and inference loop. Rather than relying solely on human feedback or pattern matching, models began generating solutions alongside machine-checkable proofs of correctness. This created a "perfect training signal" for reasoning tasks: infinite, consistent, and scalable feedback. By filtering out hallucinations before they propagate, verifiers became the foundational error-correction layer required for reliable recursive improvement. ### 2. Inference-Time Compute Scaling / "Think Longer" (Score: 92) **System 2 Intelligence.** 2025 marked the paradigm shift where "intelligence" was no longer fixed at the moment of model release but became a function of runtime compute. Models like OpenAI’s o3 and Google’s Gemini Thinking variants proved that performance scales predictably with "thinking time" (search, deliberation, MCTS) rather than just parameter count. This broke the "parameter ceiling," allowing systems to tackle complex mathematical and planning tasks by spending more time deliberating, effectively decoupling capability from model size. ### 3. Synthetic Data Flywheels (Score: 89) **Breaking the Data Wall.** With the internet’s supply of high-quality human text largely exhausted, 2025 saw the industrialization of synthetic data pipelines. Models began generating their own training data (reasoning traces, code, tool interactions), which was then rigorously filtered by the verifiers mentioned in #1. This created a self-reinforcing flywheel: better models generate better data, which trains better models. This mechanism effectively removed "data scarcity" as a hard limit on AI scaling. ### 4. Agentic Tool Use as a Workflow Primitive (Score: 72) **From Chat to Labor.** AI transitioned from passive question-answering to active goal achievement. The ability to reliably use tools—code interpreters, browsers, file systems—became a standard primitive rather than a demo feature. This allowed models to maintain state across long interactions and decompose complex objectives into executable sub-tasks. Economically, this was the moment AI began to function as scalable intellectual labor capable of end-to-end work, rather than just an advisory oracle. ### 5. AI-for-Science Breakthroughs (Score: 69) **The Physical Unlock.** AI began to aggressively solve bottlenecks in the physical sciences that constrain computing itself. Breakthroughs in materials science (for better chips), fusion plasma control (for energy), and biology fed back into the AI ecosystem. By accelerating the discovery of the physical substrates required for intelligence—energy and hardware—AI began to lift the physical ceilings that would otherwise halt an exponential curve. ### 6. RL Optimized for Reasoning Correctness (Score: 69) **Training for Logic.** New post-training methodologies, such as process-reward models and verifier-guided reinforcement learning, moved beyond "human preference" (RLHF) to "objective correctness." These techniques taught models *how* to think, not just what to say, optimizing the internal reasoning chains used during inference-time scaling. This was the algorithmic engine that converted raw compute into coherent, multi-step logic. ### 7. Hardware-Software Co-Design Acceleration (Score: 64) **The Efficiency Substrate.** The separation between model architecture and silicon design collapsed. 2025 saw chips designed specifically for transformer sparsity and memory patterns, and algorithms designed specifically for hardware constraints. This co-evolution dramatically improved the tokens-per-watt efficiency of training and inference, ensuring that economic and energy constraints did not flatten the progress curve. ### 8. Hybrid Architectures (SSM/Linear) (Score: 60) **Solving the Context Bottleneck.** Pure Transformer architectures faced a quadratic cost to context length ($O(N^2)$), limiting their "memory." The maturation of hybrid architectures (combining Attention with State Space Models like Mamba) allowed for effective linear scaling. This technical fix was crucial for enabling "always-on" agents that can digest entire codebases or project histories without running out of memory or budget. ### 9. Open(-ish) Strong Models + Commoditization (Score: 57) **The Diffusion Multiplier.** The release of near-frontier open weights and the collapse of inference costs democratized access to powerful AI. This allowed thousands of independent researchers and companies to experiment, fine-tune, and discover novel applications that centralized labs would never have found. This "chaos factor" accelerated the ecosystem’s overall rate of adaptation and discovery. ### 10. Automated Architecture Search (Score: 57) **AI Designing AI.** We saw the first robust examples of AI systems optimizing the architectures of neural networks better than human engineers. Using techniques like Neural Architecture Search (NAS) and compiler co-optimization, AI began to improve the blueprints for the next generation of intelligence. This represents an early form of recursive self-improvement—using current intelligence to design the structure of future intelligence. ### 11. Inference Cost Collapse / Efficiency Stack (Score: 54) **Accessibility as Velocity.** Through distillation, quantization, and kernel optimization, the cost of intelligence dropped by an order of magnitude. While technically an optimization, its impact was systemic: it turned "luxury" capabilities into ubiquitous commodities, allowing AI to be integrated into high-volume loops where it could learn from massive real-world deployment. ### 12. Long-Context + Persistent Memory (Score: 48) **Infinite Context.** Techniques for retrieval-augmented generation (RAG), hierarchical memory, and massive context windows allowed models to maintain continuity over time. This transformed AI from a "stateless" function that resets every session into a persistent entity capable of learning and remembering user preferences and project details over months or years. ### 13. Agent Reliability & Recovery (Score: 39) **The Trust Layer.** Improvements in error detection, self-correction, and "retry" logic moved agents from fragile demos to robust products. This unglamorous but vital work involved teaching models to recognize when they were stuck and apply different strategies to recover, a prerequisite for trusting AI with autonomous workflows. ### 14. Robotics / Sim2Real Improvements (Score: 36) **Embodied Intelligence.** Advances in training robots in high-fidelity physics simulations and successfully transferring those policies to the real world ("Sim2Real") began to bridge the gap between digital intelligence and physical action. This opened the door for AI to impact the physical economy—manufacturing, logistics, and household labor. ### 15. Native Multimodal Models (Score: 34) **Unified Perception.** Models evolved to natively understand and generate text, image, audio, and video within a single architecture. This expanded the "surface area" of problems AI could solve, allowing it to act in the world through vision and voice, though the roundtable viewed this as broadening capability rather than deepening intelligence. ### 16. Interpretability & Alignment Tooling (Score: 33) **The Safety Brake.** Better tools for understanding model internals and enforcing safety guardrails reduced the risk of deployment. By making systems more predictable and trustworthy, these tools reduced regulatory and societal friction, allowing companies to scale and deploy powerful models more boldly. ### 17. GUI Automation / "Computer Use" (Score: 25) **The Universal Interface.** Agents gained the ability to "look" at screens and control mouse/keyboard inputs, allowing them to use any software designed for humans. This bypassed the need for custom APIs for every application, instantly unlocking vast amounts of legacy software for AI automation. ### 18. Developer Ecosystem Standardization (Score: 6) **The Rails.** The emergence of standard frameworks, evaluation harnesses, and protocols for agent interaction reduced friction for developers. While a trailing indicator of innovation, this standardization allowed for faster iteration and easier integration of disparate AI components. ### 19. Cross-Modal Transfer Effects (Score: 2) **Emergent Unity.** The observation that training on one modality (e.g., video) improves performance in another (e.g., math). While a profound scientific hint at a unified underlying reality of intelligence, the group concluded this was still too emergent in 2025 to be ranked as a primary driver of the year's progress.
-
-1d ago
+22h ago
 
 ---
 
@@ -125,27 +125,27 @@ This afternoon, the ai-roundtable sat down to rank the year's most important adv
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
-**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
 
-Reuters • 11h ago
+Axios • 23m ago
 
 ---
 
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+**[AI-generated faces now indistinguishable from real deal — but training can help: Study](https://nypost.com/2025/12/27/tech/can-you-tell-human-faces-from-ai-most-people-cant/)**
 
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+It’s the AI-mitation game.
 
-NBC News • 9h ago
+New York Post • 33m ago
 
 ---
 
@@ -153,15 +153,7 @@ NBC News • 9h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 13h ago
-
----
-
-**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
-
-This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
-
-The New Yorker • 9h ago
+CNBC • 14h ago
 
 ---
 
@@ -173,25 +165,33 @@ BBC • 20h ago
 
 ---
 
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+
+NBC News • 10h ago
+
+---
+
+**[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 37m ago
+
+---
+
+**[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
+
+This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
+
+The New Yorker • 10h ago
+
+---
+
 **[We might finally know what will burst the AI bubble](https://www.sciencefocus.com/future-technology/hidden-forces-ai-bubble)**
 
 Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
 
-BBC Science Focus Magazine • 6h ago
-
----
-
-**[AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook (NYSEARCA:SPY)](https://seekingalpha.com/article/4855997-ai-bubble-risk-in-our-cautious-2026-s-and-p-500-outlook)**
-
-AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
-
-Seeking Alpha • 3h ago
-
----
-
-**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
-
-Marcus on AI • 1d ago
+BBC Science Focus Magazine • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ Marcus on AI • 1d ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 293 • 💬 226 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 294 • 💬 226 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -213,7 +213,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 260 • 💬 312 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 260 • 💬 313 • 2d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -261,7 +261,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 84 • 💬 57 • 4h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 86 • 💬 59 • 4h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -291,7 +291,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 6K • 👍 478 • 💬 45 • ⏱️ 16:54 • 5h ago
+👁️ 6K • 👍 478 • 💬 45 • ⏱️ 16:54 • 6h ago
 
 ---
 
@@ -397,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,036 • 4d ago
+⬇️ 15,763 • ❤️ 1,039 • 4d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 794 • 8d ago
+⬇️ 14,880 • ❤️ 795 • 8d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 444 • 4d ago
+⬇️ 14,527 • ❤️ 445 • 4d ago
 
 ---
 
@@ -433,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 440 • 3h ago
+⬇️ 15,880 • ❤️ 443 • 3h ago
 
 ---
 
@@ -445,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 648 • 9d ago
+⬇️ 33,604 • ❤️ 649 • 9d ago
 
 ---
 
@@ -457,7 +457,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,475 • 19d ago
+⬇️ 402,811 • ❤️ 3,477 • 19d ago
 
 ---
 
@@ -467,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 355 • 8d ago
+⬇️ 0 • ❤️ 356 • 8d ago
 
 ---
 
@@ -489,7 +489,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 446 • 7h ago
+⬇️ 0 • ❤️ 447 • 8h ago
 
 ---
 
@@ -501,7 +501,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,517 • ❤️ 174 • 1d ago
+⬇️ 1,517 • ❤️ 178 • 1d ago
 
 ---
 
@@ -517,7 +517,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 73 • 💬 3 • ⭐ 2,608 • 9d ago
+▲ 73 • 💬 3 • ⭐ 2,608 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -662,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 763 • 2h ago
+⭐ 7.0k • 🔱 763 • 3h ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 489 • 27m ago
+⭐ 3.8k • 🔱 489 • 54m ago
 
 ---
 
