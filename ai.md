@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T15:54:58.642956+00:00'
+updated: '2025-12-27T16:25:39.509085+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 15:54 UTC  
+**Last Updated:** December 27, 2025 at 16:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 18h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 I built a Claude-based life assistant that acts as a personal coach living in your filesystem. It: - Reads your journal entries and remembers patterns - Calls out gaps between what you say and what you do - Challenges you when you're lying to yourself - Grows with you over time Demo video: https://www.youtube.com/watch?v=cY3LvkB1EQM GitHub (open source): https://github.com/lout33/claude_life_assistant Would love feedback from the community!
 
-43m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ One of the main problems with the way technology is evaluated in today's world i
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ The name “T800” still triggers an automatic association with the science fic
 
 Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
 
-NBC News • 4h ago
+NBC News • 5h ago
 
 ---
 
@@ -137,25 +137,31 @@ BBC • 15h ago
 
 ---
 
-**[Ex-Palantir turned politician Alex Bores says AI deepfakes are a 'solvable problem' if we bring back a free, decades-old technique](https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/)**
+**[Prediction: This Artificial Intelligence (AI) Stock Could 5X by 2030](https://www.fool.com/investing/2025/12/27/prediction-this-artificial-intelligence-ai-stock-c/)**
 
-The former Palantir staffer pointed to the 1990s, when people were skeptical about being able to do online banking in a safe and trustworthy way.
+AMD's management is bullish on its data center future.
 
-Fortune • 1h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[I pioneered machine teaching at Microsoft. Building AI agents is like building a basketball team, not drafting a player](https://fortune.com/2025/12/27/machine-teaching-amesa-ceo-kence-anderson-former-microsoft-director-like-basketball/)**
+**[6 under-the-radar stocks to play the AI boom in 2026: BofA](https://finance.yahoo.com/news/6-under-the-radar-stocks-to-play-the-ai-boom-in-2026-bofa-150019301.html)**
 
-We shouldn’t ask how much knowledge an agent can retain, but rather if it has had the opportunity to develop expertise by practicing as humans do.
+While Nvidia and Broadcom dominate, Bank of America's Vivek Arya says some specialized small- and mid-caps are essential for the next $1 trillion chip surge
 
-Fortune • 1h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[2 AI Defense Stocks Soar 30%+ in 2025, Poised for More in 2026](https://www.zacks.com/stock/news/2809416/2-ai-defense-stocks-soar-30-in-2025-poised-for-more-in-2026)**
+
+Zacks Investment Research • 20h ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -163,7 +169,13 @@ The New York Times • 3h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 8h ago
+CNBC • 9h ago
+
+---
+
+**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 6h ago
 
 ---
 
@@ -171,7 +183,7 @@ CNBC • 8h ago
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 4h ago
+The New Yorker • 5h ago
 
 ---
 
@@ -180,20 +192,6 @@ The New Yorker • 4h ago
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
 The Guardian • 1d ago
-
----
-
-**[China Issues Draft Rules to Govern Use of Human-Like AI Systems](https://www.bloomberg.com/news/articles/2025-12-27/china-issues-draft-rules-to-govern-use-of-human-like-ai-systems)**
-
-Bloomberg.com • 7h ago
-
----
-
-**[Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'](https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html)**
-
-Nvidia inked a licensing deal with AI chip startup Groq and hired key executives.
-
-Yahoo Finance • 3h ago
 
 ---
 
@@ -213,7 +211,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 289 • 💬 223 • 21h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 289 • 💬 225 • 21h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -239,7 +237,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 184 • 💬 120 • 2d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 185 • 💬 121 • 2d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -263,7 +261,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 103 • 💬 60 • 20h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 103 • 💬 60 • 21h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -303,7 +301,7 @@ Welcome to Satisfy Hub ASMR — a calm corner for tired minds and restless days.
 
 📺 Satisfy Hub ASMR
 
-👁️ 48K • 👍 3K • 10h ago
+👁️ 48K • 👍 3K • 11h ago
 
 ---
 
@@ -353,7 +351,7 @@ Dave Rubin of “The Rubin Report” talks to Rep. Ro Khanna about how Donald Tr
 
 📺 The Rubin Report
 
-👁️ 10K • 👍 533 • 💬 211 • ⏱️ 19:18 • 16h ago
+👁️ 10K • 👍 533 • 💬 211 • ⏱️ 19:18 • 17h ago
 
 ---
 
@@ -373,7 +371,7 @@ which is your bed?   #ai #asmr #asmrsounds #bed #viral #shorts #trending #relax 
 
 📺 ASMR tube
 
-👁️ 1K • ⏱️ 0:21 • 2h ago
+👁️ 1K • ⏱️ 0:21 • 3h ago
 
 ---
 
@@ -383,7 +381,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 754K • 👍 28K • 💬 812 • ⏱️ 1:00 • 21h ago
+👁️ 754K • 👍 28K • 💬 812 • ⏱️ 1:00 • 22h ago
 
 ---
 
@@ -399,7 +397,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 15,763 • ❤️ 1,026 • 4d ago
+⬇️ 15,763 • ❤️ 1,031 • 4d ago
 
 ---
 
@@ -411,7 +409,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,880 • ❤️ 787 • 8d ago
+⬇️ 14,880 • ❤️ 789 • 8d ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 14,527 • ❤️ 437 • 4d ago
+⬇️ 14,527 • ❤️ 439 • 4d ago
 
 ---
 
@@ -435,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 419 • 1d ago
+⬇️ 15,880 • ❤️ 429 • 1d ago
 
 ---
 
@@ -459,7 +457,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,811 • ❤️ 3,471 • 18d ago
+⬇️ 402,811 • ❤️ 3,473 • 18d ago
 
 ---
 
@@ -479,7 +477,7 @@ NitroGen is a unified vision-to-action model that plays video games directly fro
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 100,305 • ❤️ 199 • 3d ago
+⬇️ 100,305 • ❤️ 200 • 3d ago
 
 ---
 
@@ -491,19 +489,19 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 443 • 2h ago
+⬇️ 0 • ❤️ 444 • 3h ago
 
 ---
 
-**[LFM2-2.6B-Exp](https://huggingface.co/LiquidAI/LFM2-2.6B-Exp)**
+**[Qwen-Image-Edit-2511-GGUF](https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF)**
 
-*Liquid AI*
+*Unsloth AI*
 
-LFM2-2.6B-Exp is an experimental text generation model trained on instruction following, knowledge, and math, excelling in agentic tasks, data extraction, RAG, and creative writing. It supports multiple languages and features advanced tool-use capabilities.
+Qwen-Image-Edit-2511-GGUF is a quantized image-to-image diffusion model optimized for performance. It excels at character consistency, multi-person editing, and integrates LoRA capabilities for enhanced control over lighting and viewpoints, making it suitable for creative image manipulation tasks.
 
-`text-generation` `2.6B`
+`image-to-image` `20.4B`
 
-⬇️ 1,517 • ❤️ 167 • 1d ago
+⬇️ 51,653 • ❤️ 169 • 19h ago
 
 ---
 
@@ -664,7 +662,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 763 • 20m ago
+⭐ 7.0k • 🔱 763 • 51m ago
 
 ---
 
@@ -674,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 485 • 21m ago
+⭐ 3.7k • 🔱 485 • 52m ago
 
 ---
 
@@ -684,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 228 • 12m ago
+⭐ 3.2k • 🔱 228 • 42m ago
 
 ---
 

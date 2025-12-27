@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T15:54:58.657405+00:00'
+updated: '2025-12-27T16:25:39.523474+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 15:54 UTC  
+**Last Updated:** December 27, 2025 at 16:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.5%  
-**30d:** -3.4%  
-**90d:** -30.6%  
-**1y:** -14.0%  
+**24h:** +0.1%  
+**7d:** -2.6%  
+**30d:** -3.5%  
+**90d:** -30.7%  
+**1y:** -14.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.16B
+**Market Cap:** $352.60B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.8%
+-40.9%
 
 **All-Time Low:** $0.43
-+675681.0%
++674717.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -140,7 +140,7 @@ Hey friends! Phishing drainers and exploits are part and parcel of the crypto ex
 
 Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, focused on indexing Ethereum-compatible chains into Elasticsearch. The goal is to have a simple, self-hostable indexer that can: Backfill blocks from genesis Live-sync new blocks Index full blocks + transactions Resume safely using checkpoints It’s written with async Rust and designed to be easy to run on a VPS or cloud (I’m currently running it against an EVM RPC + Elasticsearch). Repo: [https://github.com/felixfrancia27/rustchain-indexer]() I’d really appreciate feedback from Ethereum devs — especially around indexing strategy, performance, data modeling, or missing features. Contributions are welcome (even small things like docs, tests, or ideas). Thanks!
 
-2d ago
+3d ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 1d ago
 
 Ethereum whales are defending their base, but pressure is building fast.
 
-AMBCrypto • 10h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 18h ago
 
 Is 2026 setting up a surprise leader?
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
 
 ---
 
@@ -208,7 +208,13 @@ AMBCrypto • 14h ago
 
 BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
 
-ts2.tech • 1d ago
+ts2.tech • 2d ago
+
+---
+
+**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
+
+CCN.com • 2d ago
 
 ---
 
@@ -217,12 +223,6 @@ ts2.tech • 1d ago
 Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
 
 BeInCrypto • 1d ago
-
----
-
-**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
-
-ZyCrypto • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 175 • 👍 18 • 💬 5 • ⏱️ 5:25 • 4h ago
+👁️ 175 • 👍 18 • 💬 5 • ⏱️ 5:25 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 177 • ⏱️ 15:00 • 16h ago
+👁️ 52K • 👍 3K • 💬 177 • ⏱️ 15:00 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Crypto Cam
 
-👁️ 13K • 👍 285 • 💬 51 • ⏱️ 0:21 • 14h ago
+👁️ 13K • 👍 285 • 💬 51 • ⏱️ 0:21 • 15h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 121 • 💬 5 • ⏱️ 5:40 • 11h ago
+👁️ 2K • 👍 121 • 💬 5 • ⏱️ 5:40 • 12h ago
 
 ---
 
@@ -296,7 +296,7 @@ BMNR Begins Staking ETH: Deposits $219M into Ethereum PoS Contract The transform
 
 📺 Wall Street Stockcast
 
-👁️ 204 • 👍 13 • 💬 54 • ⏱️ 6:10 • 2h ago
+👁️ 204 • 👍 13 • 💬 54 • ⏱️ 6:10 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ MY 4 BIGGEST CRYPTO MISTAKES OF 2025! (Why I'm Buying for 2026) I'm breaking dow
 
 📺 Tim Warren
 
-👁️ 3K • 👍 353 • 💬 206 • ⏱️ 12:17 • 19h ago
+👁️ 3K • 👍 353 • 💬 206 • ⏱️ 12:17 • 20h ago
 
 ---
 

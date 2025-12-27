@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T15:54:58.660617+00:00'
+updated: '2025-12-27T16:25:39.526674+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 15:54 UTC  
+**Last Updated:** December 27, 2025 at 16:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -100,23 +100,17 @@ We're building Asimov, an open-source humanoid robot in public. Feel free to joi
 
 ---
 
-**[Air-powered soft robots think, sense and move with no electronics](https://www.reddit.com/r/robotics/comments/1pwnnu3/airpowered_soft_robots_think_sense_and_move_with/)**
+**[Guidance](https://www.reddit.com/r/robotics/comments/1pw987b/guidance/)**
 
-Engineers build air powered soft robots that move, sense and coordinate without electronics, pointing to a new era of embodied intelligence.
+Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/air-powered-soft-robots-think-sense-and-move-with-no-electronics) • 12h ago
+23h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqf7FuXPL_PRj8klQ7Xmz6mME9e52EVGJsNAMHCaREnb3ab3V7pJKBNd&gaa_ts=694ffe8a&gaa_sig=EH1nkxqRckrwVppyj7qAJIdaqUOoRvjylOapLBnVhoP5Wp1K10czbK4ervn5eIlwSK4ZK4RhSO29bT5nnwJISg%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
 
 **[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
 
@@ -126,9 +120,15 @@ Earth.com • 1d ago
 
 ---
 
-**[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfTuS-DzoLiMmqQ4D0GNGyAzPzKBpQ2OA2jWSJTLq7HOVy9Pw2Q8PYH&gaa_ts=69500bee&gaa_sig=mRw2Y7cgNYKckJ426wn4p_0VSythrPPr_Z82XUiBuE108u4oHzq61MulQFOzfSRq4ntanQC982TKhRCMiBITYQ%3D%3D)**
 
-Investing.com • 7h ago
+The Wall Street Journal • 1d ago
+
+---
+
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqfzuI8elPIOdT0X7kbIl_X06Ct6cKzF0di403CBTK3ivVn9pdkgR-Uj&gaa_ts=69500bee&gaa_sig=sP6dzqp-6iixol7TRCKJmZFhlhvL5GfrLgLyDh6D634OimbSMplhfmneEObNrnLl6Q32OYUSewWeiq2bnbRdlQ%3D%3D)**
+
+MarketWatch • 2h ago
 
 ---
 
@@ -152,19 +152,19 @@ IEEE Spectrum • 3d ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 5h ago
-
----
-
-**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
-
-Tech Xplore • 1d ago
+The Motley Fool • 6h ago
 
 ---
 
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
 Reuters • 6h ago
+
+---
+
+**[Researchers create world's smallest programmable, autonomous robots](https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 256K • 👍 4K • 💬 843 • ⏱️ 2:23 • 6d ago
+👁️ 256K • 👍 4K • 💬 843 • ⏱️ 2:23 • 7d ago
 
 ---
 

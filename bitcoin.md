@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T15:54:58.651449+00:00'
+updated: '2025-12-27T16:25:39.517522+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 15:54 UTC  
+**Last Updated:** December 27, 2025 at 16:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -1.3%  
-**30d:** -3.7%  
+**24h:** +0.2%  
+**7d:** -1.2%  
+**30d:** -3.6%  
 **90d:** -23.4%  
-**1y:** -8.2%  
+**1y:** -8.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1746.62B
+**Market Cap:** $1745.96B
 Rank #1
 
-**Circulating Supply:** 19,967,878 BTC
+**Circulating Supply:** 19,967,893 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.6%
 
 **All-Time Low:** $67.81
-+128914.9%
++128847.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,6 +111,20 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
+**[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
+
+21m ago
+
+---
+
+**[🇺🇸 US Treasury injected $70.51B in liquidity this week.](https://www.reddit.com/r/Bitcoin/comments/1pwzr0d/us_treasury_injected_7051b_in_liquidity_this_week/)**
+
+More liquidity generally supports risk assets — could be a tailwind for Bitcoin if the trend continues.
+
+1h ago
+
+---
+
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
 13h ago
@@ -119,7 +133,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -129,35 +143,9 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Hit .1 Today](https://www.reddit.com/r/Bitcoin/comments/1pwgqtl/hit_1_today/)**
-
-17h ago
-
----
-
-**[Dreams are loud. Red days are quiet. That’s where decisions are made](https://www.reddit.com/r/Bitcoin/comments/1pwx7pe/dreams_are_loud_red_days_are_quiet_thats_where/)**
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
-
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 22h ago
-
----
 
 **[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
 
@@ -169,15 +157,31 @@ Yahoo Finance • 21h ago
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
-**[Bitcoin price news: BTC stumbles as gold, silver and copper soar to new records Friday](https://www.coindesk.com/markets/2025/12/26/crypto-assets-slide-as-geopolitical-tensions-rise-whole-gold-silver-rally)**
+**[The Bitcoin "hard asset" narrative is breaking as silver hits parabolic peaks without taking crypto along for the ride](https://cryptoslate.com/bitcoin-price-lags-silver-gold-all-time-high-2025/)**
 
-Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.
+Silver hit $72 on industrial demand while Bitcoin remained stuck, and the divergence tells what narrative the market is buying.
 
-CoinDesk • 23h ago
+CryptoSlate • 1d ago
+
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin slumps, missing ‘Santa rally’ while gold and stocks steal the show](https://finance.yahoo.com/news/bitcoin-slumps-missing-santa-rally-140244445.html)**
+
+Bitcoin slumped further on Saturday. Investors were helping for a Christmas price bump. Other investments like precious metals and stocks have had a terrific week.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,17 +191,19 @@ Binance • 1d ago
 
 ---
 
-**[Bitcoin price today: rises to $89k amid thin liquidity, ETF outflows](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-89k-amid-thin-liquidity-etf-outflows-4422973)**
+**[Bitcoin loses a key source of demand as spot ETF flows turn negative](https://www.cnbc.com/video/2025/12/27/bitcoin-loses-a-key-source-of-demand-as-spot-etf-flows-turn-negative.html)**
 
-Investing.com • 1d ago
+CNBC's MacKenzie Sigalos joins 'Halftime Report' to break down the warning signal from spot bitcoin ETFs, with five straight days of net outflows pulling a key source of demand as bitcoin heads into the new year under pressure.
+
+CNBC • 7h ago
 
 ---
 
-**[Bitcoin ETF “record outflows” are deceptive as crypto products absorbed $46.7 billion in 2025](https://cryptoslate.com/bitcoin-etf-record-outflows-are-deceptive-as-crypto-products-absorbed-46-7-billion-in-2025/)**
+**[BTC, XRP Price News: Bitcoin rebound fades as Ripple slips to $1.86](https://www.coindesk.com/markets/2025/12/27/bitcoin-s-rebound-fades-as-xrp-slips-to-usd1-86-even-with-etf-assets-at-usd1-25b)**
 
-Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
+XRP remains in a tight trading range, with sellers defending the $1.90 resistance and buyers supporting the $1.86 level, indicating a potential decisive move soon.
 
-CryptoSlate • 5h ago
+CoinDesk • 58m ago
 
 ---
 
@@ -209,9 +215,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin pair drops to $24K on world's largest exchange in flash crash](https://www.thestreet.com/crypto/markets/bitcoin-pair-drops-to-24k-on-worlds-largest-exchange-in-flash-crash)**
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-thestreet.com • 1d ago
+The Block • 22h ago
 
 ---
 
@@ -235,7 +241,7 @@ thestreet.com • 1d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 20h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 21h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -243,7 +249,7 @@ BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developer
 
 Powerful Bitcoin tools - Free tool to RBF your Bitcoin transactions, UTXO management, and more.
 
-⬆️ 1 • 💬 1 • 1d ago • [BTC Tools](https://btc-tools.xyz/)
+⬆️ 1 • 💬 1 • 2d ago • [BTC Tools](https://btc-tools.xyz/)
 
 ---
 
@@ -259,7 +265,7 @@ Contribute to Norris-Eng/gridwatch-kill-switch development by creating an accoun
 
 The French coder who accidentally hosted Silk Road domains and inherited a hacked exchange shares the psychological toll of Japan's detention system.
 
-⬆️ 86 • 💬 35 • 2d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
+⬆️ 86 • 💬 35 • 3d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention)
 
 ---
 
@@ -289,7 +295,7 @@ Experimental and comparative studies suggest that the striped coats of zebras ca
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 19h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 20h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -303,7 +309,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 163 • ⏱️ 14:27 • 15h ago
+👁️ 21K • 👍 1K • 💬 163 • ⏱️ 14:27 • 16h ago
 
 ---
 
@@ -313,7 +319,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 12K • 👍 150 • 💬 123 • ⏱️ 3:21 • 16h ago
+👁️ 12K • 👍 150 • 💬 123 • ⏱️ 3:21 • 17h ago
 
 ---
 
@@ -393,7 +399,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 18K • 👍 1K • 💬 149 • ⏱️ 9:31 • 22h ago
+👁️ 18K • 👍 1K • 💬 149 • ⏱️ 9:31 • 23h ago
 
 ---
 
