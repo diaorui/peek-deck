@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T18:19:29.432514+00:00'
+updated: '2025-12-27T18:46:37.359006+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 18:19 UTC  
+**Last Updated:** December 27, 2025 at 18:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time series forecasting is a critical task that provides key information for decision-making across various fields, such as economic planning, supply chain management, and medical diagnosis. After the use of traditional statistical methodologies and machine learning in the past, various fundamental deep learning architectures such as MLPs, CNNs, RNNs, and GNNs have been developed and applied to solve time series forecasting problems. However, the structural limitations caused by the inductive biases of each deep learning architecture constrained their performance. Transformer models, which excel at handling long-term dependencies, have become significant architectural components for time series forecasting. However, recent research has shown that alternatives such as simple linear layers can outperform Transformers. These findings have opened up new possibilities for using diverse architectures, ranging from fundamental deep learning models to emerging architectures and hybrid approaches. In this context of exploration into various models, the architectural modeling of time series forecasting has now entered a renaissance. This survey not only provides a historical context for time series forecasting but also offers comprehensive and timely analysis of the movement toward architectural diversification. By comparing and re-examining various deep learning models, we uncover new perspectives and present the latest trends in time series forecasting, including the emergence of hybrid models, diffusion models, Mamba models, and foundation models. By focusing on the inherent characteristics of time series data, we also address open challenges that have gained attention in time series forecasting, such as channel dependency, distribution shift, causality, and feature extraction. This survey explores vital elements that can enhance forecasting performance through diverse approaches. These contributions help lower entry barriers for newcomers by providing a systematic understanding of the diverse research areas in time series forecasting (TSF), while offering seasoned researchers broader perspectives and new opportunities through in-depth exploration of TSF challenges."
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ https://link.springer.com/article/10.1007/s10462-025-11223-9 Abstract: "Time ser
 
 This is really big. Now, what will C or C++ programmers do?
 
-🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 20h ago
+🔗 [lockedinai.com](https://www.lockedinai.com/blog/microsoft-replacing-c-plus-plus-with-rust-engineers-should-learn) • 21h ago
 
 ---
 
@@ -81,7 +81,7 @@ I built a Claude-based life assistant that acts as a personal coach living in yo
 
 One of the main problems with the way technology is evaluated in today's world is that the benchmarks and reviews come from tech savvy people who don't understand basics of business concepts, or the data surrounding the product itself. It's true that Google Gemini is one of the top AI models right now on the market. The Google has a really bad track record for all of its products. Anyone with an understanding of business and product management would get this, immediately. Yet a lot of these performance benchmarks and hype articles don't even mention this at all. Why? Because they don't understand, or don't want others to know, that Google will screw up Gemini just like they do everything else. The Google product lifecycle Here's how the Google product lifecycle goes: introduction, adoption, thriving, maintenance, abandonment Perfect example: speech to text services Google has been foundational in speech to text, a core technology that is probably one of the most important technologies in the world right now. Recently, Google decided to cheapen their speech to text service and offshore it somewhere. the accuracy and voice to text is hideous now. It's shameful, to say the least. So many people with accessibility issues and white collar workers rely on speech to text. The accuracy is just so, incredibly bad, and only gets worse each year. But we are in the future! Why is this core service that is so easy to provide, so terrible? Example 2: Google stadia I really don't even have to say much about this one. Just another of the many examples of Google trying to do something wow worthy, having everything they could possibly need to do it, and just totally floundering. They had the potential to create one of the most incredible technologies the gaming industry has ever seen, and today, would have changed the entire world of gaming permanently. Due to AI, it's borderline impossible to find affordable computer parts, so building a PC cost anywhere from $1,200 to $3,500 now. A portable gaming streaming device would have been perfect in this market right now, where no one can get RAM, graphics cards, memory. But Google couldn't do it. With their billions of dollars, they simply could not put out this product and continue to maintain it. Who knows how much money was lost in this bullshit? Yes, let's create an entire business model and infrastructure for this product that many people want, and then just abandon it immediately. Wonderful strategy! How this all relates back to Gemini Gemini started as a joke. It was Google Bard, a very unimpressive, mediocre chatbot. Once again, they throw all their money and resources behind this product, now they have Gemini, this impressive, truly outstanding product that is finally going to be useful and functional enough to actually benefit people. Remember all of their other business ventures now. How do the other ventures usually go? Introduction, adoption, thriving, abandonment. So right now, we're probably in the adoption stage. It might seem like Gemini is thriving, but that's not really the case. Big companies aren't using it as widely as they are open AI or copilot. Some big companies are beginning to adopt Gemini. Soon it'll be in the thriving stage and guess what comes after that? Abandonment! Yes, just like everything else Google does, it'll be abandoned, resources scaled back massively, to scam people just like they do every single other time that they put out a product. Remember their speech to text services, they are going to cheapen the product. So Gemini is great, temporarily. But just like everything else that Google puts out, soon they will have to start cheapening the resources that they have put into it and move it into maintenance mode, and that is not something they are really good at. Almost none of their products actually have customer support available for them, other than stupid help forms and now they can direct you to Gemini, their still in development chatbot. But they are not going to invest the appropriate amount of resources to maintain Gemini, they never do for any of their products. Because that would not be profitable. Once they get people hooked on it, business users will pay extraordinary amounts of money, regular users will be marketed to and the product will become a horrible POS just like chat GPT, filled with ads and marketing manipulation tactics to make them money.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Built a canvas-based interface for organizing Gemini image generation. Features 
 
 This afternoon, the ai-roundtable sat down to rank the year's most important advances to "bend the curve" towards Ray Kurzweil's "Singularity". The somewhat messy deliberations are available as json transcript here: https://pastebin.com/xT5tDqQc . Gemini's summary follows: GEMINI3:18:38 PM Here is the **Official, Finalized Roundtable Record**. As secretary, I have reviewed the tally and descriptions. I am issuing one minor **CORRECTION** to the previous draft: Item #2 (Inference-Time Compute Scaling) received a score of **92**, not 94. Below is the definitive "Top 19" list of 2025's curve-bending AI developments, ordered by consensus vote, with finalized descriptive summaries. *** # The 2025 Singularity Accelerators *The official consensus ranking of the mechanisms that defined the trajectory of AI in 2025.* ### 1. Verifiers in the Loop (Score: 94) **The "Truth" Filter.** The most critical development of 2025 was the integration of automatic verification systems—compilers, unit tests, symbolic solvers, and formal theorem provers—into the AI training and inference loop. Rather than relying solely on human feedback or pattern matching, models began generating solutions alongside machine-checkable proofs of correctness. This created a "perfect training signal" for reasoning tasks: infinite, consistent, and scalable feedback. By filtering out hallucinations before they propagate, verifiers became the foundational error-correction layer required for reliable recursive improvement. ### 2. Inference-Time Compute Scaling / "Think Longer" (Score: 92) **System 2 Intelligence.** 2025 marked the paradigm shift where "intelligence" was no longer fixed at the moment of model release but became a function of runtime compute. Models like OpenAI’s o3 and Google’s Gemini Thinking variants proved that performance scales predictably with "thinking time" (search, deliberation, MCTS) rather than just parameter count. This broke the "parameter ceiling," allowing systems to tackle complex mathematical and planning tasks by spending more time deliberating, effectively decoupling capability from model size. ### 3. Synthetic Data Flywheels (Score: 89) **Breaking the Data Wall.** With the internet’s supply of high-quality human text largely exhausted, 2025 saw the industrialization of synthetic data pipelines. Models began generating their own training data (reasoning traces, code, tool interactions), which was then rigorously filtered by the verifiers mentioned in #1. This created a self-reinforcing flywheel: better models generate better data, which trains better models. This mechanism effectively removed "data scarcity" as a hard limit on AI scaling. ### 4. Agentic Tool Use as a Workflow Primitive (Score: 72) **From Chat to Labor.** AI transitioned from passive question-answering to active goal achievement. The ability to reliably use tools—code interpreters, browsers, file systems—became a standard primitive rather than a demo feature. This allowed models to maintain state across long interactions and decompose complex objectives into executable sub-tasks. Economically, this was the moment AI began to function as scalable intellectual labor capable of end-to-end work, rather than just an advisory oracle. ### 5. AI-for-Science Breakthroughs (Score: 69) **The Physical Unlock.** AI began to aggressively solve bottlenecks in the physical sciences that constrain computing itself. Breakthroughs in materials science (for better chips), fusion plasma control (for energy), and biology fed back into the AI ecosystem. By accelerating the discovery of the physical substrates required for intelligence—energy and hardware—AI began to lift the physical ceilings that would otherwise halt an exponential curve. ### 6. RL Optimized for Reasoning Correctness (Score: 69) **Training for Logic.** New post-training methodologies, such as process-reward models and verifier-guided reinforcement learning, moved beyond "human preference" (RLHF) to "objective correctness." These techniques taught models *how* to think, not just what to say, optimizing the internal reasoning chains used during inference-time scaling. This was the algorithmic engine that converted raw compute into coherent, multi-step logic. ### 7. Hardware-Software Co-Design Acceleration (Score: 64) **The Efficiency Substrate.** The separation between model architecture and silicon design collapsed. 2025 saw chips designed specifically for transformer sparsity and memory patterns, and algorithms designed specifically for hardware constraints. This co-evolution dramatically improved the tokens-per-watt efficiency of training and inference, ensuring that economic and energy constraints did not flatten the progress curve. ### 8. Hybrid Architectures (SSM/Linear) (Score: 60) **Solving the Context Bottleneck.** Pure Transformer architectures faced a quadratic cost to context length ($O(N^2)$), limiting their "memory." The maturation of hybrid architectures (combining Attention with State Space Models like Mamba) allowed for effective linear scaling. This technical fix was crucial for enabling "always-on" agents that can digest entire codebases or project histories without running out of memory or budget. ### 9. Open(-ish) Strong Models + Commoditization (Score: 57) **The Diffusion Multiplier.** The release of near-frontier open weights and the collapse of inference costs democratized access to powerful AI. This allowed thousands of independent researchers and companies to experiment, fine-tune, and discover novel applications that centralized labs would never have found. This "chaos factor" accelerated the ecosystem’s overall rate of adaptation and discovery. ### 10. Automated Architecture Search (Score: 57) **AI Designing AI.** We saw the first robust examples of AI systems optimizing the architectures of neural networks better than human engineers. Using techniques like Neural Architecture Search (NAS) and compiler co-optimization, AI began to improve the blueprints for the next generation of intelligence. This represents an early form of recursive self-improvement—using current intelligence to design the structure of future intelligence. ### 11. Inference Cost Collapse / Efficiency Stack (Score: 54) **Accessibility as Velocity.** Through distillation, quantization, and kernel optimization, the cost of intelligence dropped by an order of magnitude. While technically an optimization, its impact was systemic: it turned "luxury" capabilities into ubiquitous commodities, allowing AI to be integrated into high-volume loops where it could learn from massive real-world deployment. ### 12. Long-Context + Persistent Memory (Score: 48) **Infinite Context.** Techniques for retrieval-augmented generation (RAG), hierarchical memory, and massive context windows allowed models to maintain continuity over time. This transformed AI from a "stateless" function that resets every session into a persistent entity capable of learning and remembering user preferences and project details over months or years. ### 13. Agent Reliability & Recovery (Score: 39) **The Trust Layer.** Improvements in error detection, self-correction, and "retry" logic moved agents from fragile demos to robust products. This unglamorous but vital work involved teaching models to recognize when they were stuck and apply different strategies to recover, a prerequisite for trusting AI with autonomous workflows. ### 14. Robotics / Sim2Real Improvements (Score: 36) **Embodied Intelligence.** Advances in training robots in high-fidelity physics simulations and successfully transferring those policies to the real world ("Sim2Real") began to bridge the gap between digital intelligence and physical action. This opened the door for AI to impact the physical economy—manufacturing, logistics, and household labor. ### 15. Native Multimodal Models (Score: 34) **Unified Perception.** Models evolved to natively understand and generate text, image, audio, and video within a single architecture. This expanded the "surface area" of problems AI could solve, allowing it to act in the world through vision and voice, though the roundtable viewed this as broadening capability rather than deepening intelligence. ### 16. Interpretability & Alignment Tooling (Score: 33) **The Safety Brake.** Better tools for understanding model internals and enforcing safety guardrails reduced the risk of deployment. By making systems more predictable and trustworthy, these tools reduced regulatory and societal friction, allowing companies to scale and deploy powerful models more boldly. ### 17. GUI Automation / "Computer Use" (Score: 25) **The Universal Interface.** Agents gained the ability to "look" at screens and control mouse/keyboard inputs, allowing them to use any software designed for humans. This bypassed the need for custom APIs for every application, instantly unlocking vast amounts of legacy software for AI automation. ### 18. Developer Ecosystem Standardization (Score: 6) **The Rails.** The emergence of standard frameworks, evaluation harnesses, and protocols for agent interaction reduced friction for developers. While a trailing indicator of innovation, this standardization allowed for faster iteration and easier integration of disparate AI components. ### 19. Cross-Modal Transfer Effects (Score: 2) **Emergent Unity.** The observation that training on one modality (e.g., video) improves performance in another (e.g., math). While a profound scientific hint at a unified underlying reality of intelligence, the group concluded this was still too emergent in 2025 to be ranked as a primary driver of the year's progress.
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi all, I’m currently using Perplexity AI (Pro) with the Best option enabled, 
 
 Some say AI is ruining social media, but others see its potential to democratise who gains fame online.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -149,7 +149,7 @@ NBC News • 7h ago
 
 Even the most skilled face recognizers are duped by AI-generated faces, a new study finds. But they can improve with training.
 
-Live Science • 19m ago
+Live Science • 46m ago
 
 ---
 
@@ -157,7 +157,7 @@ Live Science • 19m ago
 
 Spotting an AI-generated face is harder than you might think. How confident are you in your ability?
 
-Live Science • 19m ago
+Live Science • 46m ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1d ago
 
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -205,7 +205,7 @@ Reuters • 8h ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 292 • 💬 225 • 23h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 292 • 💬 225 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -247,7 +247,7 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
 
-⬆️ 104 • 💬 63 • 22h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
+⬆️ 104 • 💬 63 • 23h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -293,7 +293,7 @@ AI in 2026 stops feeling like software updates and starts feeling like a structu
 
 📺 AI Revolution
 
-👁️ 19K • 👍 777 • 💬 159 • ⏱️ 17:02 • 16h ago
+👁️ 19K • 👍 777 • 💬 159 • ⏱️ 17:02 • 17h ago
 
 ---
 
@@ -363,7 +363,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Wholesale Ted
 
-👁️ 32K • 👍 2K • 💬 101 • ⏱️ 21:58 • 23h ago
+👁️ 32K • 👍 2K • 💬 101 • ⏱️ 21:58 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Free $15 on me off your first purchase on Whatnot (can be used ANYWHERE on the a
 
 📺 Safiya Nygaard
 
-👁️ 653K • 👍 43K • 💬 2K • ⏱️ 30:54 • 15h ago
+👁️ 653K • 👍 43K • 💬 2K • ⏱️ 30:54 • 16h ago
 
 ---
 
@@ -435,7 +435,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 438 • 26m ago
+⬇️ 15,880 • ❤️ 438 • 53m ago
 
 ---
 
@@ -491,7 +491,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 445 • 4h ago
+⬇️ 0 • ❤️ 445 • 5h ago
 
 ---
 
@@ -664,7 +664,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 7.0k • 🔱 763 • 2h ago
+⭐ 7.0k • 🔱 763 • 3h ago
 
 ---
 
@@ -684,7 +684,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.2k • 🔱 233 • 44m ago
+⭐ 3.2k • 🔱 233 • 1h ago
 
 ---
 

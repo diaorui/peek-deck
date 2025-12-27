@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T18:19:29.441032+00:00'
+updated: '2025-12-27T18:46:37.367643+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 18:19 UTC  
+**Last Updated:** December 27, 2025 at 18:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,507.92
+### $87,530.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -1.2%  
-**30d:** -3.6%  
-**90d:** -23.4%  
-**1y:** -8.1%  
+**24h:** -0.0%  
+**7d:** -1.3%  
+**30d:** -3.8%  
+**90d:** -23.5%  
+**1y:** -8.2%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host Jim Cramer’s latest public comments skewed sharply negative on BTC, a shift that some in crypto circles treat as a contrarian cue. Third-party tracker Unbias, which logs Cramer’s Bitcoin-related posts, shows his recent ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 17h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/jim-cramer-turns-100-bearish-195813530.html) • 18h ago
 
 ---
 
@@ -127,13 +127,13 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -151,19 +151,19 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
 **[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
 
-thestreet.com • 20h ago
+thestreet.com • 21h ago
 
 ---
 
@@ -199,7 +199,7 @@ Investing.com • 1d ago
 
 Without aggregation, cohort analysis, and scaling, single-day flow stories are just noise.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price fo
 
 Experimental and comparative studies suggest that the striped coats of zebras can prevent biting fly attacks. Biting flies are serious pests of livestock that cause economic losses in animal production. We hypothesized that cows painted with black and white stripes on their body could avoid biting fly attacks and show fewer fly-repelling behaviors. Six Japanese Black cows were assigned to treatments using a 3 × 3 Latin-square design. The treatments were black-and-white painted stripes, black painted stripes, and no stripes (all-black body surface). Recorded fly-repelling behaviors were head throw, ear beat, leg stamp, skin twitch, and tail flick. Photo images of the right side of each cow were taken using a commercial digital camera after every observation and biting flies on the body and each leg were counted from the photo images. Here we show that the numbers of biting flies on Japanese Black cows painted with black-and-white stripes were significantly lower than those on non-painted cows and cows painted only with black stripes. The frequencies of fly-repelling behaviors in cows painted with black-and-white stripes were also lower than those in the non-painted and black-striped cows. These results thus suggest that painting black-and-white stripes on livestock such as cattle can prevent biting fly attacks and provide an alternative method of defending livestock against biting flies without using pesticides in animal production, thereby proposing a solution for the problem of pesticide resistance in the environment.
 
-⬆️ 2 • 💬 0 • 6h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
+⬆️ 2 • 💬 0 • 7h ago • [journals.plos.org](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)
 
 ---
 
@@ -317,7 +317,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 14K • 👍 169 • 💬 122 • ⏱️ 3:21 • 18h ago
+👁️ 14K • 👍 169 • 💬 122 • ⏱️ 3:21 • 19h ago
 
 ---
 
