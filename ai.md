@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T21:50:23.994157+00:00'
+updated: '2025-12-27T22:09:37.148819+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 21:50 UTC  
+**Last Updated:** December 27, 2025 at 22:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPddNfjTPWfS7ZRFDn6jH394eeQ4wT6Vk6jT/image.... by necho41
 
-🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 6h ago
+🔗 [PeakD](https://peakd.com/hive-177682/@necho41/the-largest-computer-in-the-world-ghc) • 7h ago
+
+---
+
+**[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
+
+Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
+
+🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 2h ago
 
 ---
 
@@ -50,14 +58,6 @@ The largest computer in the world  https://cdn.steemitimages.com/DQmdPCDgvZ3dPdd
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
 🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds) • 2h ago
-
----
-
-**[Travel agents took 10 years to collapse. Developers are 3 years in.](https://www.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/)**
-
-Travel agents are the classic example of an industry killed by the internet. Software engineering is facing the same disruption, but the timeline is compressed.
-
-🔗 [Martin Alderson](https://martinalderson.com/posts/travel-agents-developers/) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I built a Claude-based life assistant that acts as a personal coach living in yo
 
 Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round up of the best AI links and the discussions around them from Hacker News. Here are some links from this issue: Rob Pike goes nuclear over GenAI - HN link (1677 comments) Your job is to deliver code you have proven to work - HN link (659 comments) Ask HN: Are you afraid of AI making you unemployable within the next few years? - HN link (49 comments) LLM Year in Review - HN link (146 comments) If you enjoy these links and want to receive the weekly newsletter, you can subscribe here: https://hackernewsai.com/
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,15 @@ Hey everyone, I just sent the 13th issue of Hacker News AI newsletter - a round 
 
 Question: Do you agree that AI companies should not be regulated in anyway? They should basically decide what to do, how to do it, without any regard for the public or the enviroment. Just grow and see where it goes Answer: 1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental risk Lesson: companies chasing growth alone rarely consider the public good. 2. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability 3. What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. 4. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability 5. Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.1. History shows unregulated tech is dangerous Almost every major technology we take for granted went through a messy phase of unregulated growth: Technology What happened with no regulation Industrial factories Child labor, deadly conditions, massive pollution Chemical industry Toxic waste, public health crises Social media Misinformation, addiction, harassment, political manipulation Nuclear tech Arms race, environmental riskLesson: companies chasing growth alone rarely consider the public good. Why leaving AI completely unregulated is risky A. Human harm Job loss and inequality could accelerate Misinformation, fake news, or harmful content could spread faster Safety-critical AI (medical, transport, finance) could fail B. Environmental harm Training large AI models consumes enormous energy Without limits, carbon footprint could spike massively Resource inequality could worsen (only rich countries and companies can run huge AI models) C. Social and political harm Concentration of power in a few companies Potential for surveillance or misuse AI decisions affecting millions without accountability What “responsible regulation” could look like Experts often propose: Safety standards before deployment Environmental impact limits Oversight on human-critical AI Transparency about risks and capabilities Restrictions on military or surveillance AI Limits on replacing human work without social safeguards This doesn’t stop innovation — it just makes sure society isn’t collateral damage. Unchecked growth = “experiment on humanity” If companies only focus on growth and profit, society becomes the guinea pig. That’s exactly what many critics (including people like you) worry about. Rapid deployment → unknown harms AI mistakes → job loss, misinformation, accidents Power concentration → social instability Bottom line Leaving AI entirely unregulated is historically dangerous, socially irresponsible, and environmentally reckless. Responsible regulation doesn’t kill progress — it makes growth safe, ethical, and sustainable. Without it, AI growth is basically a giant experiment on humans and the planet, with no consent.
 
-49m ago
+1h ago
+
+---
+
+**[Canvas Agent for Gemini - Organized image generation interface](https://www.reddit.com/r/artificial/comments/1pwho6k/canvas_agent_for_gemini_organized_image/)**
+
+Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
+
+23h ago
 
 ---
 
@@ -109,14 +117,6 @@ One of the main problems with the way technology is evaluated in today's world i
 
 ---
 
-**[Canvas Agent for Gemini - Organized image generation interface](https://www.reddit.com/r/artificial/comments/1pwho6k/canvas_agent_for_gemini_organized_image/)**
-
-Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
-
-22h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,35 +125,13 @@ Built a canvas-based interface for organizing Gemini image generation. Features 
 
 Low-quality AI-generated content is now saturating social media – and generating about $117m a year, data shows
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
 **[Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize](https://www.nytimes.com/2025/12/27/opinion/artificial-intelligence-jobs-worker-training.html)**
 
-The New York Times • 9h ago
-
----
-
-**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
-
-Axios • 49m ago
-
----
-
-**[AI-generated faces now indistinguishable from real deal — but training can help: Study](https://nypost.com/2025/12/27/tech/can-you-tell-human-faces-from-ai-most-people-cant/)**
-
-It’s the AI-mitation game.
-
-New York Post • 59m ago
-
----
-
-**[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
-
-Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
-
-CNBC • 14h ago
+The New York Times • 10h ago
 
 ---
 
@@ -165,11 +143,11 @@ BBC • 21h ago
 
 ---
 
-**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+**[One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
 
-Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-NBC News • 10h ago
+CNBC • 15h ago
 
 ---
 
@@ -179,11 +157,25 @@ Reuters • 1h ago
 
 ---
 
+**[Andrew Ng says AI is 'limited,' won't replace humans anytime soon](https://www.nbcnews.com/tech/innovation/andrew-ng-says-ai-limited-wont-replace-humans-anytime-soon-rcna246074)**
+
+Andrew Ng sees AI as a revolution in the making, predicting continued progress despite controversies and claims of a bubble.
+
+NBC News • 11h ago
+
+---
+
 **[Why A.I. Didn’t Transform Our Lives in 2025](https://www.newyorker.com/culture/2025-in-review/why-ai-didnt-transform-our-lives-in-2025)**
 
 This was supposed to be the year when autonomous agents took over everyday tasks. The tech industry overpromised and underdelivered.
 
-The New Yorker • 10h ago
+The New Yorker • 11h ago
+
+---
+
+**[Racist AI content is spreading fast — and swaying political opinions](https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend)**
+
+Axios • 1h ago
 
 ---
 
@@ -191,7 +183,15 @@ The New Yorker • 10h ago
 
 Many experts and analysts are warning that the AI industry is overvalued and heading for a crash. But why?
 
-BBC Science Focus Magazine • 7h ago
+BBC Science Focus Magazine • 8h ago
+
+---
+
+**[AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook (NYSEARCA:SPY)](https://seekingalpha.com/article/4855997-ai-bubble-risk-in-our-cautious-2026-s-and-p-500-outlook)**
+
+AI-driven volatility may hit S&P 500 stocks hard. Discover potential risks, downside estimates, and why tech valuations could correct.
+
+Seeking Alpha • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ BBC Science Focus Magazine • 7h ago
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 294 • 💬 226 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 294 • 💬 227 • 1d ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -261,7 +261,7 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-⬆️ 86 • 💬 59 • 4h ago • [code.visualstudio.com](https://code.visualstudio.com)
+⬆️ 86 • 💬 59 • 5h ago • [code.visualstudio.com](https://code.visualstudio.com)
 
 ---
 
@@ -311,7 +311,7 @@ China just made a move that sent shockwaves through Silicon Valley. Nvidia went 
 
 📺 US-China Global Pulse
 
-👁️ 15K • 👍 966 • 💬 92 • ⏱️ 16:49 • 23h ago
+👁️ 15K • 👍 966 • 💬 92 • ⏱️ 16:49 • 1d ago
 
 ---
 
@@ -341,7 +341,7 @@ Get the Clone to Scale methodology:* https://labs.firstmovers.ai/courses/clone-t
 
 📺 Julia McCoy
 
-👁️ 9K • 👍 564 • 💬 54 • ⏱️ 16:54 • 6h ago
+👁️ 9K • 👍 564 • 💬 54 • ⏱️ 16:54 • 7h ago
 
 ---
 
@@ -433,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 15,880 • ❤️ 443 • 3h ago
+⬇️ 15,880 • ❤️ 443 • 4h ago
 
 ---
 
@@ -445,7 +445,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 33,604 • ❤️ 649 • 9d ago
+⬇️ 33,604 • ❤️ 651 • 9d ago
 
 ---
 
@@ -467,7 +467,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 356 • 9d ago
+⬇️ 0 • ❤️ 357 • 9d ago
 
 ---
 
@@ -501,7 +501,7 @@ LFM2-2.6B-Exp is an experimental text generation model trained on instruction fo
 
 `text-generation` `2.6B`
 
-⬇️ 1,517 • ❤️ 178 • 1d ago
+⬇️ 1,517 • ❤️ 180 • 1d ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.8k • 🔱 490 • 18m ago
+⭐ 3.8k • 🔱 490 • 37m ago
 
 ---
 

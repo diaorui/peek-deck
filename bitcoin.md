@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T21:50:24.002843+00:00'
+updated: '2025-12-27T22:09:37.156235+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 21:50 UTC  
+**Last Updated:** December 27, 2025 at 22:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.4%  
 **7d:** -1.0%  
 **30d:** -3.5%  
 **90d:** -23.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.69B
+**Market Cap:** $1749.40B
 Rank #1
 
-**Circulating Supply:** 19,967,965 BTC
+**Circulating Supply:** 19,967,984 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -30.5%
 
 **All-Time Low:** $67.81
-+129052.0%
++129077.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[This is one of the Realest Bitcoin tweet, I've ever seen.](https://www.reddit.com/r/Bitcoin/comments/1px19x5/this_is_one_of_the_realest_bitcoin_tweet_ive_ever/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Bro got ratioed](https://www.reddit.com/r/Bitcoin/comments/1pww501/bro_got_ratioed/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -103,11 +103,37 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 ---
 
+**[I'm wondering what I should focus on first?](https://www.reddit.com/r/Bitcoin/comments/1px8s74/im_wondering_what_i_should_focus_on_first/)**
+
+55m ago
+
+---
+
 **[Dead Man's Switch for crypto seed phrases - auto-unlocks for family if you die](https://www.reddit.com/r/Bitcoin/comments/1pwysyg/dead_mans_switch_for_crypto_seed_phrases/)**
 
 "What happens to my Bitcoin if I die?" I built TimeSeal to solve this exact problem. ## The Problem - Write down seed phrase → Family finds it → Stolen - Don't write it down → You die → Lost forever - Trust a lawyer → They have access → Risk - Use a service → Company shuts down → Lost ## The Solution: Dead Man's Switch **How it works:** Encrypt your seed phrase with AES-GCM-256 Set pulse interval (e.g., 30 days) Share vault link with family (they can't open it yet) Keep private pulse link secret Click pulse link every 30 days to keep it locked If you die/disappear → Auto-unlocks for family ## Why It's Secure **Split-key cryptography:** - Key A stays with you (in URL hash) - Key B locked on server until unlock time - Both keys needed to decrypt - Mathematically impossible to open early **Zero-trust:** - Server can't decrypt (doesn't have Key A) - Family can't decrypt early (doesn't have Key B) - No passwords, no accounts - Open source (audit the code) ## Other Use Cases - Multi-sig wallet recovery instructions - Hardware wallet backup - Exchange account credentials - Cold storage location - Inheritance instructions ## Technical Details - AES-GCM-256 encryption - Cloudflare edge computing - Self-hostable (run your own) - 100% open source ## Links - **Try it:** https://timeseal.online - **GitHub:** https://github.com/teycir/timeseal - **Self-hosting:** https://github.com/teycir/timeseal/blob/master/docs/SELF-HOSTING.md Free to use. No accounts needed. How do you handle crypto inheritance?
 
 7h ago
+
+---
+
+**[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
+
+1h ago
+
+---
+
+**[Is anyone else just ignoring the holiday noise and sticking to their DCA?](https://www.reddit.com/r/Bitcoin/comments/1px8ih6/is_anyone_else_just_ignoring_the_holiday_noise/)**
+
+The charts have been pretty boring for the last few days, but honestly, I prefer it this way. It’s much better for my stress levels than the usual volatility. Just finished my last buy for 2025 today.
+
+1h ago
+
+---
+
+**[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
+
+15h ago
 
 ---
 
@@ -119,33 +145,17 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 ---
 
-**[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
-
-14h ago
-
----
-
-**[Print more fiat](https://www.reddit.com/r/Bitcoin/comments/1pwtoby/print_more_fiat/)**
-
-12h ago
-
----
-
-**[Big take: Samson Mow believes 2025 was the bear market and that BITCOIN is now stepping into a decade-long bull run. If true, could this be the beginning of something much bigger than a cycle?](https://www.reddit.com/r/Bitcoin/comments/1px7fao/big_take_samson_mow_believes_2025_was_the_bear/)**
-
-1h ago
-
----
-
-**[Dreams are loud. Red days are quiet. That’s where decisions are made](https://www.reddit.com/r/Bitcoin/comments/1pwx7pe/dreams_are_loud_red_days_are_quiet_thats_where/)**
-
-8h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Gold, silver bulls taunt bitcoin investors amid parabolic rally: 'Time has come' to switch](https://finance.yahoo.com/news/gold-silver-bulls-taunt-bitcoin-investors-amid-parabolic-rally-time-has-come-to-switch-184034310.html)**
+
+Precious metals are on pace to cap a stunning rally this year, while crypto has disappointed.
+
+Yahoo Finance • 4h ago
+
+---
 
 **[U.S. Dollar ‘Collapse’ Crisis Warning—The Real Reason For A 2026 Gold And Silver Surge That’s Predicted To Blow Up The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2025/12/27/us-dollar-collapse-crisis-warning-2026-gold-and-silver-surge-predicted-to-blow-up-the-bitcoin-price/)**
 
@@ -153,25 +163,9 @@ Forbes • 8h ago
 
 ---
 
-**[Gold hits new record, bitcoin slips, Apple's China sales](https://finance.yahoo.com/video/gold-hits-record-bitcoin-slips-191003511.html)**
-
-As part of today's Yahoo Finance's Market Minute, Josh Lipton outlines some of the top stories on Wall Street, including precious metals rallying, bitcoin (BTC-USD) falling, and Apple (AAPL) on reports of strong China sales. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Analysts warn king dollar is dead, predict silver rally](https://www.thestreet.com/crypto/trading/analyst-warns-king-dollar-is-dead-predicts-silver-rally)**
 
 thestreet.com • 1d ago
-
----
-
-**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
-
-Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -210,6 +204,14 @@ CoinDesk • 2d ago
 Five years of CME futures data shows where bitcoin has, and has not, built meaningful price support.
 
 CoinDesk • 2d ago
+
+---
+
+**[Bitcoin’s Slide Sets Up an Unusual Tax Harvesting Opportunity](https://www.bloomberg.com/news/articles/2025-12-26/bitcoin-s-slide-sets-up-an-unusual-tax-harvesting-opportunity)**
+
+Bitcoin’s 30% slide from its all-time high is creating conditions financial advisers say are likely driving more tax-loss harvesting in digital assets than in previous years.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -317,7 +319,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 228 • 💬 25 • ⏱️ 18:05 • 5h ago
+👁️ 4K • 👍 228 • 💬 25 • ⏱️ 18:05 • 6h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 172 • ⏱️ 14:27 • 21h ago
+👁️ 25K • 👍 1K • 💬 172 • ⏱️ 14:27 • 22h ago
 
 ---
 
@@ -357,7 +359,7 @@ Everyone loves a Bitcoin price prediction — and the numbers are getting bigger
 
 📺 Swan Bitcoin
 
-👁️ 2K • 👍 93 • 💬 10 • ⏱️ 1:41 • 5h ago
+👁️ 2K • 👍 93 • 💬 10 • ⏱️ 1:41 • 6h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T21:50:24.012120+00:00'
+updated: '2025-12-27T22:09:37.164205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 21:50 UTC  
+**Last Updated:** December 27, 2025 at 22:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,6 +46,20 @@ Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Im
 
 ---
 
+**[What is core problem(s) at model level to be solved?](https://www.reddit.com/r/robotics/comments/1px9sy3/what_is_core_problems_at_model_level_to_be_solved/)**
+
+What is the core problem at frontier robotics models? From my understanding you can use something like a combination of vision language action model for high level planning + diffusion based model for physical actions + a third model or memory for constant learning, so future work heavily relies on this learned memory to work and improve (few trial learning), should do a good job at daily tasks yet current robots are not there yet so, what am I missing, what needs to be solved at model level to make robots more usable at daily tasks?
+
+11m ago
+
+---
+
+**[Discord Community for Arabic Mechatronics Engineers](https://www.reddit.com/r/robotics/comments/1px9kqz/discord_community_for_arabic_mechatronics/)**
+
+21m ago
+
+---
+
 **[Porcospino Flex: A bio-inspired single-track robot built to squeeze and grip through confined spaces](https://www.reddit.com/r/robotics/comments/1pvxxli/porcospino_flex_a_bioinspired_singletrack_robot/)**
 
 Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Flex, a bio-inspired robot designed to navigate environments where traditional wheeled or legged platforms fail. Design & bio-inspiration: Inspired by segmented invertebrates, the robot uses a flexible, 3D-printed vertebral structure that allows it to bend, compress, and adapt its shape. Meta material components made from TPU and ABS reduce total weight to 3.6 kg while improving impact resistance. Locomotion mechanism: Instead of multiple tracks or joints, Porcospino Flex uses a single peripheral track that wraps around the entire body. Steering is achieved through an internal wire and winch system that actively controls lateral flexion, letting the robot conform passively to uneven terrain while maintaining traction. This design enables movement through cluttered, non-linear spaces such as collapsed structures, narrow industrial pipes and EV battery packs where rigid platforms or modular snake robots struggle. The video shows how continuous body flexion combined with constant track contact allows progress through debris without complex gait planning. Source: University of Genoa Research Paper: https://www.mdpi.com/2218-6581/13/5/76
@@ -66,7 +80,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
 
-1h ago
+2h ago
 
 ---
 
@@ -92,27 +106,11 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 ---
 
-**[Drawer opening in simulation](https://www.reddit.com/r/robotics/comments/1pw07mj/drawer_opening_in_simulation/)**
-
-The arm learns where to grasp and how much force to apply by reinforcement learning.
-
-1d ago
-
----
-
-**[Invitation to Robot Rave - London, January 17-18, 2026](https://www.reddit.com/r/robotics/comments/1pwcus0/invitation_to_robot_rave_london_january_1718_2026/)**
-
-Hey r/robotics! We're hosting a Robot Rave hackathon in London on the weekend of January 17-18th. The afterparty will be at Maggie’s, London’s iconic 80s club and is open to everyone, even if you don't participate in the hackathon portion. Expect music, refreshments, and (hopefully) a floor full of dancing robots. Sign ups: Hackathon: https://luma.com/yju1ryeu Afterparty: https://luma.com/afjuonzr More info: https://therobotrave.com/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqfh5Le34vOyJycA8ITE3oWV_RRwZLifGa3ekzsBCpxHPS-LHIy6ugtJ&gaa_ts=695051f2&gaa_sig=XdqIrLVQDmbpZVz4VwaSpl2O2arlsXYMtFYj6fEDdHhE8SoyXiX6Ydbh7Vcb4nWdW-O7h3E5kYCCXLhc7IV81g%3D%3D)**
+**[Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?gaa_at=eafs&gaa_n=AWEtsqej3ORP_gLeWREsC8KarOqY9VMCS7GMHR6zaMPw5mZBXu-eMACHI3ec&gaa_ts=69505c8a&gaa_sig=Eg7JfrmVfYUCbUHmEoG9ALVGEg-jnE3PDUZHlzBN4c1m6eD3nIH8YEPQTIQzlN564IjCLdrG0WpEZdII2ohcoA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -126,15 +124,15 @@ Earth.com • 1d ago
 
 ---
 
-**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqepdUk2rRgJj05llQ8Lek5OQ-v1DHMKHoPNIcAJDlBTJS-ZknaJR1p6&gaa_ts=695051f2&gaa_sig=8skrlWbdt07Roj4bE-s_IAIG1Lxmqve4FDprFMkHMlzUFDjO15Ue8tHdNH_NWuYjW9LvaGAWjpCsxKJmFdDDpg%3D%3D)**
+**[A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.](https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?gaa_at=eafs&gaa_n=AWEtsqc6JWxCUSoGVUY19-_WTClpjC7uT-0IaGhtJeSunVCF4zRe1-Sbglmq&gaa_ts=69505c8a&gaa_sig=sGE3fn0Q99SdBpqdzRLO-jqd_WdvVUbofG6sHO6AZPSCnfjHmJRBgNm5VEX13-V2usGL-RXxfkJG6C0aghx-mw%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
 **[Humanoid Robots: What to watch for 2026](https://www.investing.com/news/stock-market-news/humanoid-robots-what-to-watch-for-2026-4419571)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -183,7 +181,7 @@ Interesting Engineering • 2d ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
