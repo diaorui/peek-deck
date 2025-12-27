@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T10:54:09.793175+00:00'
+updated: '2025-12-27T11:14:54.463967+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 10:54 UTC  
+**Last Updated:** December 27, 2025 at 11:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
 
-5m ago
+26m ago
 
 ---
 
@@ -104,7 +104,7 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-17h ago
+18h ago
 
 ---
 
@@ -116,7 +116,7 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 57m ago
+Earth.com • 1h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 10h ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 54m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 54m ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 

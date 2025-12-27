@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T10:54:09.783946+00:00'
+updated: '2025-12-27T11:14:54.454624+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 10:54 UTC  
+**Last Updated:** December 27, 2025 at 11:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,404.23
+### $87,511.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -1.5%  
-**30d:** -3.9%  
-**90d:** -23.6%  
-**1y:** -8.4%  
+**24h:** -1.4%  
+**7d:** -1.2%  
+**30d:** -3.7%  
+**90d:** -23.4%  
+**1y:** -8.1%  
 
 ---
 
@@ -113,7 +113,7 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 **[Just saying…](https://www.reddit.com/r/Bitcoin/comments/1pwrih4/just_saying/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,13 +133,13 @@ JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnig
 
 Bright orange is gorgeous
 
-3h ago
+4h ago
 
 ---
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-8m ago
+29m ago
 
 ---
 
@@ -241,7 +241,7 @@ The Wall Street Journal • 3d ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 15h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 16h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -281,13 +281,13 @@ The Samourai Wallet founder explains why he built a bitcoin privacy tool, and wa
 
 Bitcoin price forecast 2025: Standard Chartered has revised its Bitcoin price forecast, lowering the 2025 target to $100,000 while pushing the $500,000 long-term goal back to 2030. Factors include slowing corporate buying and ETF demand.
 
-⬆️ 2 • 💬 1 • 5d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
+⬆️ 2 • 💬 1 • 6d ago • [The Economic Times](https://economictimes.indiatimes.com/news/international/us/bitcoin-price-forecast-cut-to-100k-why-standard-chartered-halves-btc-usd-2025-target-and-pushes-500k-goal-to-2030/articleshow/125876725.cms?from=mdr)
 
 ---
 
 **[Bioinspired wettability boundary stabilizes water sloshing](https://news.ycombinator.com/item?id=46395694)**
 
-⬆️ 2 • 💬 0 • 14h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
+⬆️ 2 • 💬 0 • 15h ago • [science.org](https://www.science.org/doi/10.1126/sciadv.adz7099)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 998 • 💬 123 • ⏱️ 14:27 • 10h ago
+👁️ 17K • 👍 998 • 💬 123 • ⏱️ 14:27 • 11h ago
 
 ---
 
@@ -387,7 +387,7 @@ On today's episode of CNBC Crypto World, Matt Hougan, CIO of Bitwise Asset Manag
 
 📺 CNBC Television
 
-👁️ 13K • 👍 234 • 💬 172 • ⏱️ 19:19 • 14h ago
+👁️ 13K • 👍 234 • 💬 172 • ⏱️ 19:19 • 15h ago
 
 ---
 

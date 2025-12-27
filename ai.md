@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T10:54:09.775319+00:00'
+updated: '2025-12-27T11:14:54.445938+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 10:54 UTC  
+**Last Updated:** December 27, 2025 at 11:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ This afternoon, the ai-roundtable sat down to rank the year's most important adv
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 1d ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 2h ago
 
 Rishab Jolly, a senior PM at Microsoft, uses AI tools to help him draft documents for work, and to speed up research for his podcasting hobby.
 
-Business Insider • 49m ago
+Business Insider • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Business Insider • 49m ago
 
 Akhil Nagori, Evann Sun, and Lucas Shengwen Yen spent about five months creating a pair of 3D-printed smart glasses that can translate text-to-speech.
 
-Business Insider • 40m ago
+Business Insider • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ BBC • 10h ago
 
 Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 2d ago
 
 Traditional acquisitions have become rarer. Nvidia's deal for Groq sounded familiar to many in the tech industry.
 
-Business Insider • 54m ago
+Business Insider • 1h ago
 
 ---
 
@@ -303,7 +303,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 60K • 👍 3K • 💬 450 • ⏱️ 8:20 • 19h ago
+👁️ 60K • 👍 3K • 💬 450 • ⏱️ 8:20 • 20h ago
 
 ---
 
@@ -672,7 +672,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 479 • 12h ago
+⭐ 3.7k • 🔱 479 • 13h ago
 
 ---
 
@@ -682,7 +682,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 219 • 57m ago
+⭐ 3.1k • 🔱 219 • 1h ago
 
 ---
 
