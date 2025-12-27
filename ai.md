@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T07:52:55.243790+00:00'
+updated: '2025-12-27T08:20:46.344006+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 07:52 UTC  
+**Last Updated:** December 27, 2025 at 08:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Vincke kicked off an uproar earlier this week when he said that Larian makes use
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗯𝗶𝗴𝗴𝗲𝘀𝘁 𝟮𝟬𝟮𝟱 𝗔𝗜 𝗺𝗶𝗹𝗲𝘀𝘁𝗼𝗻𝗲𝘀 𝘁𝗵𝗮𝘁 𝗮𝗰𝘁𝘂𝗮𝗹𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿𝗲𝗱: AI Trends to watch in 2026 𝟏) Frontier models leveled up, fast Claude 4 dropped with a clear push toward stronger reasoning, coding, and agent behavior. GPT-5 landed and pushed the “think deeper when it matters” direction, plus stronger safety framing around high-risk domains. Gemini 2.5 matured into a full family and leaned into “computer use” style capabilities, not just chat. 𝟐) "Agents" went from demo to direction 2025 made it normal to talk about AI that can operate software, follow multi-step tasks, and deliver outcomes, not just answers. Google explicitly highlighted agents that can interact with user interfaces, which is a giant tell. 3) Compute became the battlefield This wasn’t subtle. The industry doubled down on “AI factories” and next-gen infrastructure. NVIDIA’s Blackwell Ultra messaging was basically: enterprises are building production lines for intelligence. 4) AI proved itself in elite problem-solving, with caveats One of the most symbolic moments: models showing top-tier performance relative to human contestants in the ICPC orbit. That doesn’t mean “AGI tomorrow,” but it does mean the ceiling moved. 5) Governance and national policy got louder The U.S. signed an Executive Order in December 2025 aimed at creating a national AI policy framework and reducing the patchwork problem. Whatever your politics, this is a “rules of the road” milestone. 𝐖𝐡𝐚𝐭 𝐈 𝐞𝐱𝐩𝐞𝐜𝐭 𝐭𝐨 𝐝𝐨𝐦𝐢𝐧𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 1) Agentic workflows go operational Not more chatbots. More “AI coworkers” inside CRMs, ERPs, SOCs, call centers, engineering pipelines, procurement, and compliance. 2) Security and fraud become the killer enterprise use case Banks and critical industries are shifting AI focus from novelty productivity to frontline defense, scam detection, and trust. That trend feels very 2026. 3) Robotics shows up in normal life Better sensors + multimodal cognition + cheaper hardware is pushing robots into hospitals, warehouses, public works, and service environments. 4) Regulation, audits, and "prove it" culture 2026 will punish companies that cannot explain data lineage, model behavior, and risk controls. Expect more governance tooling, red-teaming, and audit-ready AI stacks. 5) Chip geopolitics affects AI roadmaps Access to high-end accelerators and export controls will keep shaping what companies can deploy, and where. 𝐌𝐲 𝐭𝐚𝐤𝐞: 2025 was the year capability jumped. 2026 is the year credibility gets priced in. The winners will be the teams who can ship AI that is measurable, secure, and boringly reliable. 👇 What’s your biggest prediction for 2026? Will agents actually replace workflows, or just complicate them? Let me know in the comments. #ArtificialIntelligence #TechTrends2026 #GenerativeAI #DeepSeek #Gemini3 #FutureOfWork #Innovation AI trends to watch in 2026
 
-15h ago
+16h ago
 
 ---
 
@@ -123,31 +123,7 @@ We’ve just published a formal architecture paper proposing a recursion-first c
 
 **[As A.I. Companies Borrow Billions, Debt Investors Grow Wary](https://www.nytimes.com/2025/12/26/business/ai-debt-investors.html)**
 
-The New York Times • 17h ago
-
----
-
-**['Artificial stupidity' made AI trading bots spontaneously form cartels when left unsupervised, Wharton study reveals](https://fortune.com/article/what-is-artificial-stupidity-ai-pricing-collusion-study/)**
-
-AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
-
-Fortune • 16h ago
-
----
-
-**[One year on from the UK's grand AI plan: has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
-
-Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
-
-CNBC • 43m ago
-
----
-
-**[Europe at 'fork in the road' between AI competition and climate: fund managers](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)**
-
-As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
-
-CNBC • 43m ago
+The New York Times • 18h ago
 
 ---
 
@@ -155,7 +131,29 @@ CNBC • 43m ago
 
 Since the Enlightenment, we’ve been making our own decisions. But now AI may be about to change that, says Joseph de Weck, a fellow with the Foreign Policy Research Institute
 
-The Guardian • 17h ago
+The Guardian • 18h ago
+
+---
+
+**[Europe at 'fork in the road' between AI competition and climate: fund managers](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)**
+
+As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
+
+CNBC • 1h ago
+
+---
+
+**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 18m ago
+
+---
+
+**[One year on from the UK's grand AI plan: has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)**
+
+Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
+
+CNBC • 1h ago
 
 ---
 
@@ -177,7 +175,7 @@ CNBC • 2d ago
 
 **[Nvidia Deal With Groq Called 'Strategic' Amid Rise Of Custom AI Chips](https://www.investors.com/news/technology/nvidia-stock-groq-ai-tech-licensing-deal/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -189,9 +187,9 @@ BBC • 7h ago
 
 ---
 
-**[The AI bubble is all over now, baby blue](https://garymarcus.substack.com/p/the-ai-bubble-is-all-over-now-baby)**
+**[7 AI Decisions That Will Define Higher Education In 2026](https://www.forbes.com/sites/avivalegatt/2025/12/26/7-ai-decisions-that-will-define-higher-education-in-2026/)**
 
-Marcus on AI • 17h ago
+Forbes • 10h ago
 
 ---
 
@@ -211,7 +209,7 @@ Browser automation for AI agents and humans. Contribute to VibiumDev/vibium deve
 
 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …
 
-⬆️ 268 • 💬 202 • 13h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+⬆️ 272 • 💬 204 • 13h ago • [Simon Willison’s Weblog](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
 
 ---
 
@@ -221,7 +219,7 @@ I bought a MacBook Air M2.
 As of writing, it's very affordable with the 16 GB RAM, 256 GB SSD, 13.6" model available for $750.
 As of writing, also Asahi Linux doesn't support anything newer than M2.
 
-⬆️ 260 • 💬 306 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
+⬆️ 260 • 💬 307 • 1d ago • [daniel.lawrence.lu](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/)
 
 ---
 
@@ -237,7 +235,7 @@ An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audios
 
 Salesforces has entered a phase of public reckoning after senior executives publicly admitted that the company overestimated AI’s readiness
 
-⬆️ 184 • 💬 119 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
+⬆️ 184 • 💬 120 • 1d ago • [Maarthandam](https://maarthandam.com/2025/12/25/salesforce-regrets-firing-4000-staff-ai/)
 
 ---
 
@@ -253,7 +251,15 @@ A huge blocklist of manually curated sites that contain AI generated imagery for
 
 We run a multi-tenant Rails application with sensitive data and layered authorization. In this post, I walk through how I added the first AI agent tool using RubyLLM, Pundit policies, and our existing Algolia search, without introducing a parallel system or loosening constraints.
 
-⬆️ 101 • 💬 46 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+⬆️ 102 • 💬 47 • 1d ago • [Catalin Ionescu](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+
+---
+
+**[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
+
+When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
+
+⬆️ 84 • 💬 50 • 12h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -262,14 +268,6 @@ We run a multi-tenant Rails application with sensitive data and layered authoriz
 AI’s champions keep trying to impress, but the public is still waiting for answers about jobs, costs, and who benefits. By 2026, that tension will matter.
 
 ⬆️ 83 • 💬 32 • 2d ago • [Fortune](https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/)
-
----
-
-**[Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://news.ycombinator.com/item?id=46395292)**
-
-When the world's richest man can simply 'correct' an AI to reflect his own values, what does that tell us about the entire alignment discourse?
-
-⬆️ 82 • 💬 47 • 12h ago • [ibrahimcesar.cloud](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/)
 
 ---
 
@@ -331,7 +329,7 @@ Check out how my 1-person AI business makes money with zero employees: https://y
 
 📺 Wholesale Ted
 
-👁️ 18K • 👍 1K • 💬 73 • ⏱️ 21:58 • 13h ago
+👁️ 18K • 👍 1K • 💬 73 • ⏱️ 21:58 • 14h ago
 
 ---
 
@@ -341,7 +339,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 573K • 👍 23K • 💬 679 • ⏱️ 1:00 • 13h ago
+👁️ 573K • 👍 23K • 💬 679 • ⏱️ 1:00 • 14h ago
 
 ---
 
@@ -397,7 +395,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 4,752 • ❤️ 1,005 • 3d ago
+⬇️ 15,763 • ❤️ 1,009 • 3d ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwen-Image-Layered decomposes images into RGBA layers for inherent editability, 
 
 `image-text-to-image`
 
-⬇️ 14,171 • ❤️ 776 • 7d ago
+⬇️ 14,880 • ❤️ 776 • 7d ago
 
 ---
 
@@ -421,7 +419,7 @@ FunctionGemma 270M-IT is a lightweight, open Google model optimized for function
 
 `text-generation` `268.1M`
 
-⬇️ 30,907 • ❤️ 636 • 8d ago
+⬇️ 33,604 • ❤️ 637 • 8d ago
 
 ---
 
@@ -433,7 +431,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model (6B para
 
 `text-to-image`
 
-⬇️ 402,987 • ❤️ 3,465 • 18d ago
+⬇️ 402,811 • ❤️ 3,466 • 18d ago
 
 ---
 
@@ -445,7 +443,7 @@ Qwen-Image-Edit-2511 is an image-to-image diffusion model that enhances characte
 
 `image-to-image`
 
-⬇️ 11,437 • ❤️ 424 • 3d ago
+⬇️ 14,527 • ❤️ 426 • 3d ago
 
 ---
 
@@ -457,7 +455,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 121 • ❤️ 396 • 1d ago
+⬇️ 15,880 • ❤️ 400 • 1d ago
 
 ---
 
@@ -467,7 +465,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 NitroGen is a unified vision-to-action model that plays video games directly from raw frames by outputting gamepad actions, trained via large-scale imitation learning on human gameplay. It excels in gamepad-controlled games like action and racing titles, with applications in next-gen game AI and embodied AI research.
 
-⬇️ 0 • ❤️ 345 • 8d ago
+⬇️ 0 • ❤️ 347 • 8d ago
 
 ---
 
@@ -479,7 +477,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 7,170 • ❤️ 460 • 13d ago
+⬇️ 7,349 • ❤️ 460 • 13d ago
 
 ---
 
@@ -501,7 +499,7 @@ TRELLIS.2-4B is a 4B parameter image-to-3D generative model that reconstructs ar
 
 Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step distilled LoRA models and FP8 quantization, enabling rapid text-to-image and image-to-image generation with reduced memory footprint.
 
-⬇️ 75,002 • ❤️ 196 • 3d ago
+⬇️ 100,305 • ❤️ 196 • 3d ago
 
 ---
 
@@ -517,7 +515,7 @@ Qwen-Image-Edit-2511-Lightning offers highly efficient image editing via 4-step 
 
 TurboDiffusion accelerates video generation by 100-200x using attention acceleration, step distillation, and quantization, while maintaining video quality.
 
-▲ 66 • 💬 3 • ⭐ 2,555 • 9d ago
+▲ 67 • 💬 3 • ⭐ 2,555 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.16093) • [💻 code](https://github.com/thu-ml/TurboDiffusion) • [🔗 project](https://github.com/thu-ml/TurboDiffusion)
 
@@ -556,7 +554,7 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 121 • 💬 18 • ⭐ 47,934 • 9mo ago
+▲ 121 • 💬 18 • ⭐ 47,977 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -576,18 +574,6 @@ Step-DeepResearch, an end-to-end agent enhanced with a data synthesis strategy a
 
 ---
 
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 10 • 💬 2 • ⭐ 13,286 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -597,6 +583,18 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 26 • 💬 0 • ⭐ 26,715 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 10 • 💬 2 • ⭐ 13,310 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -622,22 +620,21 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 28 • 💬 2 • ⭐ 7,972 • 29d ago
+▲ 28 • 💬 2 • ⭐ 8,010 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[Robust-R1: Degradation-Aware Reasoning for Robust Visual Understanding](https://huggingface.co/papers/2512.17532)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Jiaqi Tang, Jianmin Chen, Wei Wei et al. (10 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+A novel framework, Robust-R1, enhances multimodal large language models' robustness to visual degradations through explicit modeling, supervised fine-tuning, reward-driven alignment, and dynamic reasoning depth scaling, achieving state-of-the-art performance on real-world degradation benchmarks.
 
-▲ 26 • 💬 1 • ⭐ 66,250 • 27mo ago
+▲ 62 • 💬 2 • ⭐ 248 • 8d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+[🎓 arXiv](https://arxiv.org/abs/2512.17532) • [💻 code](https://github.com/jqtangust/Robust-R1) • [🔗 project](https://jqt.me/index.html)
 
 ---
 
@@ -651,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 19.6k • 🔱 3.1k • 5d ago
+⭐ 19.7k • 🔱 3.1k • 5d ago
 
 ---
 
@@ -661,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 6.8k • 🔱 754 • 3h ago
+⭐ 6.9k • 🔱 755 • 1m ago
 
 ---
 
@@ -671,7 +668,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 474 • 9h ago
+⭐ 3.7k • 🔱 478 • 10h ago
 
 ---
 
@@ -681,7 +678,7 @@ Autonomous multi-session AI coding
 
 `TypeScript` `ai` `ai-agents` `amp` `anthropic` `claude`
 
-⭐ 3.1k • 🔱 215 • 3h ago
+⭐ 3.1k • 🔱 217 • 3m ago
 
 ---
 
@@ -711,7 +708,7 @@ The First Systematic Vibe Coding Open-Source Tutorial | From Zero to Full-Stack,
 
 `agent` `agentic-ai` `ai` `coding-assistant` `programming`
 
-⭐ 1.3k • 🔱 120 • 1d ago
+⭐ 1.4k • 🔱 121 • 1d ago
 
 ---
 
@@ -721,7 +718,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 139 • 21h ago
+⭐ 1.3k • 🔱 140 • 21h ago
 
 ---
 
@@ -731,7 +728,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.3k • 🔱 229 • 16h ago
+⭐ 1.3k • 🔱 230 • 16h ago
 
 ---
 
@@ -741,7 +738,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `TypeScript` `ai-agents` `alerts` `automation` `email-notifications` `firecrawl`
 
-⭐ 958 • 🔱 134 • 9d ago
+⭐ 961 • 🔱 134 • 9d ago
 
 ---
 

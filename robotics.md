@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T07:52:55.261402+00:00'
+updated: '2025-12-27T08:20:46.361753+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 07:52 UTC  
+**Last Updated:** December 27, 2025 at 08:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ Robots imitate human dance! The motion is smooth. How useful is it?
 
 The arm learns where to grasp and how much force to apply by reinforcement learning.
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Engineers build air powered soft robots that move, sense and coordinate without 
 
 Can someone tell me what all I need to learn inorder to be a good robotics engineer? I am really confused on what all I need to do.
 
-14h ago
+15h ago
 
 ---
 
@@ -116,7 +116,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 Mirr
 
 Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
 
-Earth.com • 56m ago
+Earth.com • 1h ago
 
 ---
 
@@ -128,11 +128,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[AgiBot humanoid robot rentals target weddings and events in China](https://interestingengineering.com/ai-robotics/china-agibot-humanoid-robot-rentals)**
+**[Some humanoid robots can be hacked through voice commands, demonstration shows](https://mashable.com/article/chinese-robot-hack-voice-command-spread-network)**
 
-Robotics company AgiBot has launched Qingtian Rental, a new robot platform that leases humanoid services for 16 different applications.
+As if one hacked robot wasn't bad enough, it can be used to infect other nearby units.
 
-Interesting Engineering • 21h ago
+Mashable • 15h ago
 
 ---
 
@@ -156,7 +156,7 @@ Yahoo Finance • 1d ago
 
 "Robots have nightmares about cars," Serve Robotics co-founder MJ Burk Chun told Fortune Brainstorm AI. "Cars are also very scary for robots."
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -166,11 +166,17 @@ Tech Xplore • 1d ago
 
 ---
 
+**[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
+
+Reuters • 18m ago
+
+---
+
 **[Mini human brains are now controlling intelligent robots in the lab](https://www.futura-sciences.com/en/mini-human-brains-are-now-controlling-intelligent-robots-in-the-lab_22535/)**
 
 In a remarkable leap forward for robotics, a team of Chinese scientists has managed to teach tiny clusters of human brain cells — known as organoids — to control robots. These miniature “brains,” while nowhere ... Read more
 
-Futura, Le média qui explore le monde • 17h ago
+Futura, Le média qui explore le monde • 18h ago
 
 ---
 
@@ -179,12 +185,6 @@ Futura, Le média qui explore le monde • 17h ago
 Scientists tested these motorized elastomer powered exoskeletons across three robotic applications.
 
 Tom's Hardware • 20h ago
-
----
-
-**[This Medical Robotics Name Wins FDA Greenlight; Its Stock Nears A Buy Point](https://www.investors.com/stock-lists/ibd-big-cap-20/medical-fda-da-vinci-robotics-stock-intuitive-surgical-isrg/)**
-
-Investor's Business Daily • 2d ago
 
 ---
 

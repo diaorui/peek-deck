@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T07:52:55.258151+00:00'
+updated: '2025-12-27T08:20:46.358554+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 07:52 UTC  
+**Last Updated:** December 27, 2025 at 08:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -2.3%  
-**30d:** -3.2%  
-**90d:** -30.5%  
-**1y:** -13.9%  
+**24h:** -1.2%  
+**7d:** -2.2%  
+**30d:** -3.1%  
+**90d:** -30.4%  
+**1y:** -13.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.81B
+**Market Cap:** $354.06B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
@@ -62,7 +62,7 @@ No max supply
 -40.7%
 
 **All-Time Low:** $0.43
-+677616.5%
++677270.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView — Track All Markets • 1d ago
 
 Ethereum price consolidates beneath the $3,000 psychological level as price holds firm below key resistance, raising the possibility that a bottoming structure is forming.
 
-crypto.news • 14h ago
+crypto.news • 15h ago
 
 ---
 
@@ -196,19 +196,19 @@ TradingView — Track All Markets • 11h ago
 
 ---
 
+**[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
+
+Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
+
+BeInCrypto • 23h ago
+
+---
+
 **[BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-price-slips-to-28-31-after-fridays-close-as-ethereum-treasury-updates-and-a-50-billion-share-vote-take-center-stage/)**
 
 BitMine Immersion Technologies (BMNR) Stock: Price Slips to $28.31 After Friday’s Close as Ethereum Treasury Updates and a 50 Billion-Share Vote Take Center Stage - TechStock²
 
 ts2.tech • 5h ago
-
----
-
-**[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
-
-Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
-
-BeInCrypto • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 126 • ⏱️ 15:00 • 8h ago
+👁️ 30K • 👍 2K • 💬 126 • ⏱️ 15:00 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 24K • 👍 861 • 💬 133 • ⏱️ 21:19 • 16h ago
+👁️ 24K • 👍 861 • 💬 133 • ⏱️ 21:19 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto Cam
 
-👁️ 6K • 👍 196 • 💬 22 • ⏱️ 0:21 • 6h ago
+👁️ 6K • 👍 196 • 💬 22 • ⏱️ 0:21 • 7h ago
 
 ---
 
@@ -298,7 +298,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 6K • ⏱️ 7:27 • 17h ago
+👁️ 6K • ⏱️ 7:27 • 18h ago
 
 ---
 
@@ -328,7 +328,7 @@ Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology.
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 117 • 💬 7 • ⏱️ 12:53 • 7h ago
+👁️ 1K • 👍 117 • 💬 7 • ⏱️ 12:53 • 8h ago
 
 ---
 
