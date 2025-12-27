@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T20:31:11.420518+00:00'
+updated: '2025-12-27T20:46:51.674944+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 20:31 UTC  
+**Last Updated:** December 27, 2025 at 20:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Researchers at the University of Genoa’s RICE lab have unveiled Porcospino Fle
 
 Hi everyone! I wanted to share a recent project I've been working on, focusing on autonomous driving motion planning in dynamic environments. The Challenge: Navigating narrow, bidirectional lanes with dynamic obstacles is tough because the optimization problem is highly non-convex. Standard solvers often get stuck in local minima (e.g., refusing to overtake). My Solution (The Tech Stack): I implemented a coarse-to-fine framework in C++: DP (Dynamic Programming): First, I use a discretized state-space search to find a rough "tube" or reference path. This is crucial for navigating around obstacles and providing a valid initialization. CILQR (Constrained Iterative LQR): Then, I use CILQR to refine the trajectory. It handles the strict kinematic constraints and smooths out the control inputs, ensuring the car is actually driveable. As you can see, the planner successfully handles overtaking and lane interaction without collision. Why I'm sharing this: I spent a lot of time tuning the cost functions and optimizing the C++ code for real-time performance. I am looking to connect with others interested in this tech. If you are a student needing a baseline for your thesis, or a startup looking for a motion planning module, feel free to DM me! I'm happy to discuss the implementation details, share code snippets, or offer integration support.
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone! I wanted to share a recent project I've been working on, focusing o
 
 Hello I am searching for depth camera plugin for ros2 humble with gazebo ignition. Does anyone have any source how use plugin for depth camera?
 
-39m ago
+55m ago
 
 ---
 
@@ -158,7 +158,7 @@ IEEE Spectrum • 3d ago
 
 **[China issues draft rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 

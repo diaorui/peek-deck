@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T20:31:11.411283+00:00'
+updated: '2025-12-27T20:46:51.665342+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 20:31 UTC  
+**Last Updated:** December 27, 2025 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin (CRYPTO: BTC) may be on the brink of a recovery towards $90,000. In the meantime, Shiba Inu (CRYPTO: SHIB) seems to be stabilizing, Ethereum (CRYPTO: ETH) is preparing for a potential surge in volatility, and Dogecoin (CRYPTO: DOGE) is back in focus as a mix of technical signals points to a possible change in direction. Bitcoin is slowly bouncing back from a significant sell-off, maintaining its price above recent lows. The digital currency is now seeking to regain its position below its
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 35m ago
 
 ---
 
