@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T11:54:11.719008+00:00'
+updated: '2025-12-27T12:37:33.951759+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 11:54 UTC  
+**Last Updated:** December 27, 2025 at 12:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
+**24h:** -1.8%  
 **7d:** -2.4%  
 **30d:** -3.3%  
 **90d:** -30.5%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.19B
+**Market Cap:** $353.68B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.9%
+-40.7%
 
 **All-Time Low:** $0.43
-+675535.5%
++676745.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 18h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 19h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’m seeing more people talk about routing payments through Ethereum or L2s instead of traditional payout services. For those doing it, is the UX actually better or just different pain points?
 
-1d ago
+2d ago
 
 ---
 
@@ -148,68 +148,6 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 ## Google News: "ethereum"
 
-**[Ethereum TVL Could Surge 10× in 2026 as Institutional Adoption Grows](https://finance.yahoo.com/news/ethereum-tvl-could-surge-10-084700894.html)**
-
-Ethereum’s total value locked could rise tenfold in 2026 as institutional participation deepens and new use cases gain traction, according to Joseph Chalom, co-CEO of Sharplink Gaming. Key Takeaways: Ethereum’s TVL could jump 10× in 2026 as institutions and tokenized assets move on-chain. Stablecoin growth toward $500B is seen as ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
-
-BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
-
-Seeking Alpha • 19h ago
-
----
-
-**[Ethereum ETFs are emptying fast! Is a drop to $2,500 closer than traders think?](https://ambcrypto.com/ethereum-etfs-are-emptying-fast-is-a-drop-to-2500-closer-than-traders-think/)**
-
-Is 2026 setting up a surprise leader?
-
-AMBCrypto • 10h ago
-
----
-
-**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
-
-According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
-
-TradingView — Track All Markets • 14h ago
-
----
-
-**[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
-
-Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
-
-BeInCrypto • 1d ago
-
----
-
-**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
-
-BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
-
-ts2.tech • 1d ago
-
----
-
-**[How Rich Would You Be This Christmas if You Were Gifted 10 Bitcoin and Ethereum 10 Years Ago?](https://www.ccn.com/news/crypto/heres-how-rich-would-christmas-gifted-ten-bitcoin-ethereum-ten-years-ago/)**
-
-CCN.com • 1d ago
-
----
-
-**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
-
-Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
-
-Coinpedia Fintech News • 1d ago
-
----
-
 **[4 Warning Signs Suggest Ethereum (ETH) Price May Not Recover Soon in Late December](https://finance.yahoo.com/news/4-warning-signs-suggest-ethereum-151425067.html)**
 
 Four on-chain and market indicators warn Ethereum may struggle to recover as selling pressure dominates December trading
@@ -222,7 +160,71 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 2d ago
+
+---
+
+**[Ethereum price consolidates beneath $3,000, hinting at potential bottoming](https://crypto.news/ethereum-price-consolidate-beneath-3k-potential-bottom/)**
+
+Ethereum price consolidates beneath the $3,000 psychological level as price holds firm below key resistance, raising the possibility that a bottoming structure is forming.
+
+crypto.news • 19h ago
+
+---
+
+**[Ethereum’s Path to $8,500? Analysts See Setup for Massive Rally](https://finance.yahoo.com/news/ethereum-path-8-500-analysts-140917645.html)**
+
+Along with BTC $88 896 24h volatility: 1.5% Market cap: $1.78 T Vol. 24h: $38.71 B , the ETH $2 980 24h volatility: 1.7% Market cap: $359.90 B Vol. 24h: $19.00 B price has also shown 1.4% gains on December 26 and is eyeing a breakout past $3,000 resistance. Market ...
+
+Yahoo Finance • 22h ago
+
+---
+
+**[BitMine Immersion: The Ethereum Treasury Play Trading Below Book Value (NYSE:BMNR)](https://seekingalpha.com/article/4855893-bitmine-immersion-the-ethereum-treasury-play-trading-below-book-value)**
+
+BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
+
+Seeking Alpha • 19h ago
+
+---
+
+**[Solana’s Momentum Is Building Faster Than Ethereum, Hoskinson Says](https://www.tradingview.com/news/newsbtc:b9967f11b094b:0-solana-s-momentum-is-building-faster-than-ethereum-hoskinson-says/)**
+
+According to Charles Hoskinson, the race between Solana and Ethereum looks different depending on the time frame. Solana may win ground quickly because it moves fast. Ethereum looks set to aim for a broader, slower build that could matter more later.Short-Term Gains For SolanaSolana’s appeal is pla…
+
+TradingView — Track All Markets • 15h ago
+
+---
+
+**[Ethereum ETFs are emptying fast! Is a drop to $2,500 closer than traders think?](https://ambcrypto.com/ethereum-etfs-are-emptying-fast-is-a-drop-to-2500-closer-than-traders-think/)**
+
+Is 2026 setting up a surprise leader?
+
+AMBCrypto • 11h ago
+
+---
+
+**[BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025)](https://ts2.tech/en/bitmine-immersion-technologies-bmnr-stock-news-today-ethereum-treasury-hits-4-066m-eth-50b-share-vote-ahead-and-fresh-price-targets-dec-25-2025/)**
+
+BitMine Immersion Technologies (BMNR) Stock News Today: Ethereum Treasury Hits 4.066M ETH, 50B Share Vote Ahead, and Fresh Price Targets (Dec. 25, 2025) - TechStock²
+
+ts2.tech • 1d ago
+
+---
+
+**[How Are Ethereum Investors Reacting to Mounting Losses?](https://beincrypto.com/ethereum-whale-losses-december-2025/)**
+
+Ethereum drops below key levels with over 40% of supply sitting at a loss, and whale moves signal uncertainty.
+
+BeInCrypto • 1d ago
+
+---
+
+**[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
+
+Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
+
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 3K • 💬 144 • ⏱️ 15:00 • 12h ago
+👁️ 41K • 👍 3K • 💬 144 • ⏱️ 15:00 • 13h ago
 
 ---
 
@@ -256,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 26K • 👍 938 • 💬 145 • ⏱️ 21:19 • 20h ago
+👁️ 26K • 👍 938 • 💬 145 • ⏱️ 21:19 • 21h ago
 
 ---
 
@@ -266,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 98 • 💬 4 • ⏱️ 5:40 • 7h ago
+👁️ 1K • 👍 98 • 💬 4 • ⏱️ 5:40 • 8h ago
 
 ---
 
@@ -286,7 +288,7 @@ ETH price update: Trade the market to make gains using technical analysis, funda
 
 📺 Crypto Cam
 
-👁️ 10K • 👍 243 • 💬 32 • ⏱️ 0:21 • 10h ago
+👁️ 10K • 👍 243 • 💬 32 • ⏱️ 0:21 • 11h ago
 
 ---
 
@@ -296,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 116 • 💬 7 • ⏱️ 4:08 • 21h ago
+👁️ 2K • 👍 116 • 💬 7 • ⏱️ 4:08 • 22h ago
 
 ---
 
@@ -316,7 +318,7 @@ HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/i
 
 📺 Trade Confident
 
-👁️ 361 • 👍 18 • 💬 82 • ⏱️ 4:22 • 14h ago
+👁️ 361 • 👍 18 • 💬 82 • ⏱️ 4:22 • 15h ago
 
 ---
 
