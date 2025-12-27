@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T14:36:40.220588+00:00'
+updated: '2025-12-27T14:48:55.341589+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 14:36 UTC  
+**Last Updated:** December 27, 2025 at 14:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -94,7 +94,7 @@ Uniswap voted for UNIfication, Devcon 8 November 3 - 6 at JIO World Center, Punk
 
 **[I Built a Script to Find Jobs I Might Have Missed](https://www.reddit.com/r/ethereum/comments/1pw9zq0/i_built_a_script_to_find_jobs_i_might_have_missed/)**
 
-🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 20h ago
+🔗 [medium.com](https://medium.com/@Kurt0x/i-built-a-script-to-find-jobs-i-might-have-missed-053106fde7df) • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ crypto.news • 21h ago
 
 BitMine Immersion Technologies (BMNR) has transformed into the worldâs largest public Ethereum treasury, holding over 4 million ETH worth $12 billion.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 277 • ⏱️ 11:20 • 14h ago
+👁️ 30K • 👍 2K • 💬 277 • ⏱️ 11:20 • 15h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 293 • 💬 267 • ⏱️ 18:00 • 22h ago
+👁️ 8K • 👍 293 • 💬 267 • ⏱️ 18:00 • 23h ago
 
 ---
 

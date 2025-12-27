@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T14:36:40.214512+00:00'
+updated: '2025-12-27T14:48:55.335197+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 14:36 UTC  
+**Last Updated:** December 27, 2025 at 14:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,511.36
+### $87,533.12
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-4h ago
+5h ago
 
 ---
 
@@ -217,7 +217,7 @@ CoinDesk • 2d ago
 
 **[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -399,7 +399,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Roadfill
 
-👁️ 2K • 👍 1K • 3h ago
+👁️ 2K • 👍 1K • 4h ago
 
 ---
 
