@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T05:49:16.911258+00:00'
+updated: '2025-12-27T06:00:28.339689+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 05:49 UTC  
+**Last Updated:** December 27, 2025 at 06:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $87,529.35
+### $87,493.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -1.3%  
-**30d:** -3.7%  
+**24h:** -1.3%  
+**7d:** -1.4%  
+**30d:** -3.8%  
 **90d:** -23.5%  
-**1y:** -8.2%  
+**1y:** -8.3%  
 
 ---
 
@@ -121,7 +121,7 @@ Over the last 5 years, analysts built 30+ different Bitcoin top indicators. Thes
 
 Never thought I would see a boutique featuring Bitcoin pillows in its window. The future is now.
 
-7h ago
+8h ago
 
 ---
 
@@ -245,7 +245,7 @@ Cleveland.com • 16h ago
 
 BTC3 is a lightweight, sandbox‑style fork of Bitcoin Core that gives developers a fully functional blockchain environment while eliminating the practical constraints of the public Bitcoin network. ...
 
-⬆️ 1 • 💬 2 • 10h ago • [GitHub](https://github.com/cgebitcoin/btc3)
+⬆️ 1 • 💬 2 • 11h ago • [GitHub](https://github.com/cgebitcoin/btc3)
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 693 • 💬 105 • ⏱️ 14:27 • 5h ago
+👁️ 9K • 👍 693 • 💬 105 • ⏱️ 14:27 • 6h ago
 
 ---
 

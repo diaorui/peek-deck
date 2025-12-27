@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-27T05:49:16.902814+00:00'
+updated: '2025-12-27T06:00:28.331115+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 27, 2025 at 05:49 UTC  
+**Last Updated:** December 27, 2025 at 06:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ This is really big. Now, what will C or C++ programmers do?
 
 Built a canvas-based interface for organizing Gemini image generation. Features infinite canvas, batch generation, and ability to reference existing images with u/mentions. Pure frontend app that stays local. Demo: https://canvas-agent-zeta.vercel.app/ Video walkthrough: https://www.youtube.com/watch?v=7IENe5x-cu0
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 15h ago
 
 AI bots told to act as trading agents in simulated markets engaged in pervasive collusion, raising new questions about how financial regulators have previously addressed this tech.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ Investor's Business Daily • 8h ago
 
 Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -477,7 +477,7 @@ AWPortrait-Z is a LoRA for text-to-image generation, fine-tuned on Z-Image-Turbo
 
 `text-to-image`
 
-⬇️ 7,170 • ❤️ 459 • 12d ago
+⬇️ 7,170 • ❤️ 459 • 13d ago
 
 ---
 
@@ -669,7 +669,7 @@ Autonomous multi-session AI coding
 
 `Python`
 
-⭐ 3.7k • 🔱 473 • 7h ago
+⭐ 3.7k • 🔱 473 • 8h ago
 
 ---
 

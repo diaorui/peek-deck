@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T05:49:16.917322+00:00'
+updated: '2025-12-27T06:00:28.345779+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 05:49 UTC  
+**Last Updated:** December 27, 2025 at 06:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -2.3%  
-**30d:** -3.2%  
+**24h:** -0.9%  
+**7d:** -2.4%  
+**30d:** -3.3%  
 **90d:** -30.5%  
 **1y:** -13.9%  
 
@@ -174,7 +174,7 @@ TradingView — Track All Markets • 1d ago
 
 Ethereum price consolidates beneath the $3,000 psychological level as price holds firm below key resistance, raising the possibility that a bottoming structure is forming.
 
-crypto.news • 12h ago
+crypto.news • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 2K • 💬 113 • ⏱️ 15:00 • 6h ago
+👁️ 23K • 👍 2K • 💬 113 • ⏱️ 15:00 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing developme
 
 📺 Crypto Nitro
 
-👁️ 6K • ⏱️ 7:27 • 15h ago
+👁️ 6K • ⏱️ 7:27 • 16h ago
 
 ---
 
