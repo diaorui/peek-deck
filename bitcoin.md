@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-27T10:42:38.122176+00:00'
+updated: '2025-12-27T10:54:09.783946+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 10:42 UTC  
+**Last Updated:** December 27, 2025 at 10:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -1.4%  
+**24h:** -1.6%  
+**7d:** -1.5%  
 **30d:** -3.9%  
 **90d:** -23.6%  
-**1y:** -8.3%  
+**1y:** -8.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1748.03B
+**Market Cap:** $1745.39B
 Rank #1
 
-**Circulating Supply:** 19,967,740 BTC
+**Circulating Supply:** 19,967,796 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--30.6%
+-30.7%
 
 **All-Time Low:** $67.81
-+129027.0%
++128833.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Going into 2026 strong!](https://www.reddit.com/r/Bitcoin/comments/1pwmjgv/going_into_2026_strong/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin (BTC) traders are watching a familiar sentiment signal after CNBC host J
 
 JUST IN: 🇺🇸 The Fed injects $2.5B into the U.S. banking system via overnight repos. More liquidity entering the system — bullish or just short-term relief?
 
-55m ago
+1h ago
 
 ---
 
@@ -137,11 +137,9 @@ Bright orange is gorgeous
 
 ---
 
-**[30+ Bitcoin “cycle top” indicators. Zero triggered. That leaves only two possibilities.](https://www.reddit.com/r/Bitcoin/comments/1pwi5pc/30_bitcoin_cycle_top_indicators_zero_triggered/)**
+**[Moral of the story, even if you think BTC wont hit 500k, it will🚀](https://www.reddit.com/r/Bitcoin/comments/1pwuztx/moral_of_the_story_even_if_you_think_btc_wont_hit/)**
 
-Over the last 5 years, analysts built 30+ different Bitcoin top indicators. These tools were all explicitly designed to answer one question: “Are we at or near a cycle top?” Here’s the part that’s hard to ignore: Not a single one triggered since 2021. Zero. That leaves only two logical conclusions: 1. Every single one of those indicators is bullshit and useless or 2. The top this cycle is not in That’s it. There’s no third option. Could this cycle behave differently? Yes, and by many metrics it has. Could new market structure change timing? Absolutely, it becomes more and more likely by the day. Could price chop or correct hard along the way? Of course. What else is new. But the idea that we’re already at a macro top while none of the historical or newly designed top-detection systems have fired doesn’t hold up logically. If you believe all indicators are useless, fair take. But if you believe some signal eventually matters, then the data currently says one thing: This doesn’t look like the end of the cycle.
-
-11h ago
+8m ago
 
 ---
 
@@ -187,6 +185,20 @@ CoinDesk • 2d ago
 
 ---
 
+**[Bitcoin May Enter Decade-Long Bull Run After 2025 Bear Market: Samson Mow](https://finance.yahoo.com/news/bitcoin-may-enter-decade-long-095300054.html)**
+
+Bitcoin may be on the verge of a prolonged bull market that could stretch into the next decade, according to Jan3 founder Samson Mow, who argues that the past year marked a stealth bear phase rather than the start of a broader downturn. Key Takeaways: Samson Mow and PlanC argue ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
+
+The Block • 17h ago
+
+---
+
 **[Is Bitcoin Positioned to Outperform the Market in 2026?](https://www.fool.com/investing/2025/12/26/bitcoin-positioned-outperform-the-market-in-2026/)**
 
 Bitcoin is on pace to end 2025 having lost money for its investors.
@@ -203,23 +215,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin sits out Santa rally as stocks and precious metals set records](https://www.theblock.co/post/383776/bitcoin-sits-out-santa-rally-stocks-precious-metals-set-records)**
-
-The Block • 17h ago
-
----
-
-**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqcGWB04pIJmgHHMQy23iU7hyf-2pmXenmFDAwnKBzka2VWYtbQTyEOc&gaa_ts=694fb6f3&gaa_sig=aO3I4Sv7ltHgyTR-SjjX8eondDcmbcdrPknaocNNJk-Zm92TnzCU8PjTXoCDJfLSVqaNHJki9MC5Rt4gQ1NPhA%3D%3D)**
+**[Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?gaa_at=eafs&gaa_n=AWEtsqfVxbJXxGAlpaRAZFoIkymgFXKUmwkMSlKPy6UoUGWQulI9STZXXxmJ&gaa_ts=694fbe3e&gaa_sig=CJxsAgZfiZpaefIi5AbXLQjVDSNkBcTcKB-ozEGJYwW5rZM82PHAWUMtyJSZDCvAjiAzJfphCR2G9DSYqunUiQ%3D%3D)**
 
 The Wall Street Journal • 3d ago
-
----
-
-**[Crypto Won In 2025—But Bitcoin Fell. Can They Rise to the Occasion?](https://www.investopedia.com/crypto-won-in-2025-but-bitcoin-fell-can-they-rise-to-the-occasion-11873435)**
-
-Bitcoin's supporters see reasons for optimism in the broader outlook for markets in 2026. The prospect of lower interest rates is generally beneficial to risk assets and could both fuel retail appetite and institutional investor interest in crypto.
-
-Investopedia • 3d ago
 
 ---
 
@@ -309,27 +307,7 @@ Cory Klippsten, Swan Bitcoin CEO and founder, 'Fast Money' to talk what is ahead
 
 📺 CNBC Television
 
-👁️ 8K • 👍 95 • 💬 92 • ⏱️ 3:21 • 11h ago
-
----
-
-**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
-
-Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 517 • 💬 135 • ⏱️ 4:31 • 1d ago
-
----
-
-**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 23K • 👍 783 • 💬 95 • ⏱️ 15:49 • 1d ago
+👁️ 10K • 👍 108 • 💬 104 • ⏱️ 3:21 • 11h ago
 
 ---
 
@@ -339,7 +317,27 @@ Bitcoin's most disappointing year? Not so fast. Michael Saylor just dropped a pe
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 924 • 💬 117 • ⏱️ 14:27 • 10h ago
+👁️ 17K • 👍 998 • 💬 123 • ⏱️ 14:27 • 10h ago
+
+---
+
+**[Samson Mow Explains Why Bitcoin Didn&#39;t Go Up in 2025](https://www.youtube.com/watch?v=fihnWtpxh40)**
+
+Bitcoin just weathered one of its biggest shakeouts ever—yet remained rock solid. Samson Mow breaks down what's really ...
+
+📺 Simply Bitcoin
+
+👁️ 14K • 👍 523 • 💬 135 • ⏱️ 4:31 • 1d ago
+
+---
+
+**[&quot;The Pain Is OVER! BTC Will Definitely Hit Fresh Highs in January&quot;- Arthur Hayes &amp; Anthony Pomplian](https://www.youtube.com/watch?v=g8dD1N7vKrA)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 23K • 👍 784 • 💬 95 • ⏱️ 15:49 • 1d ago
 
 ---
 
@@ -359,7 +357,7 @@ In this interview, Benjamin Cowen explains why Bitcoin isn't rallying with gold 
 
 📺 Cointelegraph
 
-👁️ 17K • 👍 622 • 💬 165 • ⏱️ 25:38 • 18h ago
+👁️ 18K • 👍 654 • 💬 182 • ⏱️ 25:38 • 18h ago
 
 ---
 
@@ -369,7 +367,7 @@ Mark Moss Bitcoin 2026: Subscribe: https://www.youtube.com/@1MarkMoss Follow: ht
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 199 • ⏱️ 37:34 • 2d ago
+👁️ 66K • 👍 3K • 💬 201 • ⏱️ 37:34 • 2d ago
 
 ---
 
@@ -379,7 +377,17 @@ Bitcoin Hodlers - "A Storm is Brewing..." Engage with our X post here and if I w
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 535 • 💬 51 • ⏱️ 1:12 • 2d ago
+👁️ 25K • 👍 538 • 💬 51 • ⏱️ 1:12 • 2d ago
+
+---
+
+**[We asked two CIOs if the bitcoin four-year price cycle is dead: CNBC Crypto World](https://www.youtube.com/watch?v=nOD0bG4DsdU)**
+
+On today's episode of CNBC Crypto World, Matt Hougan, CIO of Bitwise Asset Management, and Sebastian Bea, CIO of ...
+
+📺 CNBC Television
+
+👁️ 13K • 👍 234 • 💬 172 • ⏱️ 19:19 • 14h ago
 
 ---
 
@@ -389,17 +397,7 @@ POV: You started putting just $5 a day into Bitcoin (BTC) vs. the SPDR Gold ETF 
 
 📺 Asset vs. Time
 
-👁️ 1K • 👍 4 • ⏱️ 0:21 • 13h ago
-
----
-
-**[The Fed Is Trapped — And Bitcoin Is the Exit](https://www.youtube.com/watch?v=GUo8z7fq_MM)**
-
-The Fed and the Treasury are trapped in permanent debasement, forcing capital out of bonds and real estate in search of real ...
-
-📺 Swan Bitcoin
-
-👁️ 9K • 👍 353 • 💬 78 • ⏱️ 1:18 • 21h ago
+👁️ 1K • 👍 4 • ⏱️ 0:21 • 14h ago
 
 ---
 

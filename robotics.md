@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-27T10:42:38.131635+00:00'
+updated: '2025-12-27T10:54:09.793175+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 27, 2025 at 10:42 UTC  
+**Last Updated:** December 27, 2025 at 10:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -35,6 +35,14 @@ Robotics research and industry news
 **[Day 96 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1pwqkrx/day_96_of_building_asimov_an_opensource_humanoid/)**
 
 4h ago
+
+---
+
+**[First look at Disney aquatic robots (YouTube)](https://www.reddit.com/r/robotics/comments/1pwv1pv/first_look_at_disney_aquatic_robots_youtube/)**
+
+Walt Disney Imagineering on YouTube: NEW Robotic Olaf Revealed! Inside Disney Imagineering R&D | We Call It Imagineering: https://youtu.be/EoPN02bmzrE (aquatic robots at 27 min)
+
+5m ago
 
 ---
 
@@ -100,31 +108,23 @@ Can someone tell me what all I need to learn inorder to be a good robotics engin
 
 ---
 
-**[The Black Panther II Robot Dog Hits 13.4 m/s](https://www.reddit.com/r/robotics/comments/1pvek2r/the_black_panther_ii_robot_dog_hits_134_ms/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2004194422817542449 MirrorMe Technology website: https://www.mirrormetech.com/en/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
+
+Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
+
+Earth.com • 57m ago
+
+---
 
 **[The Top 6 Robotics Stories of 2025](https://spectrum.ieee.org/top-robotics-stories-2025)**
 
 Humanoid robots are making strides, but are they living up to the hype? Read that and other top robotics stories from IEEE Spectrum in 2025.
 
 IEEE Spectrum • 2d ago
-
----
-
-**[Surreal humanoid robots are set to begin border patrol duties between China and Vietnam](https://www.earth.com/news/surreal-video-reveals-humanoid-robots-for-border-patrol-pr25/)**
-
-Surreal humanoid robots are set to begin border patrol duties between China and Vietnam
-
-Earth.com • 46m ago
 
 ---
 
@@ -146,7 +146,15 @@ New Atlas • 2d ago
 
 **[China issues drafts rules to regulate AI with human-like interaction](https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/)**
 
-Reuters • 59m ago
+Reuters • 1h ago
+
+---
+
+**[Nvidia's Robotics Chief Applauds Tesla FSD v14 As Autonomous Push Draws Attention: 'It Feels Surreal'](https://finance.yahoo.com/news/nvidias-robotics-chief-applauds-tesla-003012691.html)**
+
+Nvidia Corp's (NASDAQ:NVDA) Director of Robotics has hailed Tesla Inc.'s (NASDAQ:TSLA) Full Self-Driving (FSD) technology's progress amid concerns about the EV giant's Robotaxi operations in Austin. ‘It Feels Surreal,' Says Nvidia Robotics Director Sharing his experiences with the technology via a post on the social media platform X on Tuesday, Jim Fan, Nvidia's Robotics Director, hailed the technology. "It’s perhaps the first time I experience an AI that passes the Physical Turing Test," he sai
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -154,15 +162,7 @@ Reuters • 59m ago
 
 These top robotics stocks are compelling for different reasons.
 
-The Motley Fool • 42m ago
-
----
-
-**[Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html)**
-
-We recently published 10 Stocks Lighting Up Market Ahead of Christmas. Richtech Robotics Inc. (NASDAQ:RR) is one of the best performers on Wednesday. Richtech Robotics snapped two days of losses on Wednesday, climbing 8.31 percent to close at $3.65 apiece as investors loaded portfolios ahead of a technology conference next month where it is set […]
-
-Yahoo Finance • 1d ago
+The Motley Fool • 54m ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots just crossed a line that used to belong only to human hands. In 
 
 📺 AI Revolution
 
-👁️ 141K • 👍 2K • 💬 202 • ⏱️ 12:51 • 1d ago
+👁️ 152K • 👍 2K • 💬 203 • ⏱️ 12:51 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 AI Tech Academy
 
-👁️ 38K • 👍 613 • 💬 90 • ⏱️ 13:55 • 3d ago
+👁️ 39K • 👍 616 • 💬 101 • ⏱️ 13:55 • 3d ago
 
 ---
 
@@ -216,7 +216,17 @@ What began as a standard live concert in China turned into a moment that stunned
 
 📺 Borunte robot-Lin 
 
-👁️ 119K • 👍 662 • ⏱️ 0:20 • 5d ago
+👁️ 120K • 👍 666 • ⏱️ 0:20 • 5d ago
+
+---
+
+**[We are approaching the greatest global disaster in history.](https://www.youtube.com/watch?v=wNMoEXr12rY)**
+
+AI Robot Girlfriend. New AI Risk and AI expert warnings. Use code insideai at https://incogni.com/insideai to get an exclusive 60% ...
+
+📺 InsideAI
+
+👁️ 251K • 👍 12K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -226,7 +236,7 @@ A look into the first "non-human mind" we've ever met. AI + Robot = ♾️ To le
 
 📺 Beeyond Ideas
 
-👁️ 50K • 👍 1K • 💬 326 • ⏱️ 21:33 • 1d ago
+👁️ 53K • 👍 1K • 💬 341 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -236,17 +246,7 @@ The little G1 didn't stand a chance Unitree's latest demos reveal that kickboxin
 
 📺 CNET
 
-👁️ 15K • 👍 293 • 💬 20 • ⏱️ 1:30 • 1d ago
-
----
-
-**[UBTECH Passes 1,000-Robot Mark #airobot #robotics #humanoidrobots #china #ai #industry40](https://www.youtube.com/watch?v=vJcbTplmglc)**
-
-Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial humanoid in 2025. The AI-powered humanoid could ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 69 • 💬 2 • ⏱️ 0:53 • 13h ago
+👁️ 15K • 👍 299 • 💬 20 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -260,13 +260,13 @@ China's got a new Terminator robot and Figure is facing a lawsuit alleging its r
 
 ---
 
-**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
+**[UBTECH Passes 1,000-Robot Mark #airobot #robotics #humanoidrobots #china #ai #industry40](https://www.youtube.com/watch?v=vJcbTplmglc)**
 
-In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
+Shenzhen's UBTECH Robotics says it just manufactured its 1000th industrial humanoid in 2025. The AI-powered humanoid could ...
 
-📺 ROBOTIC WORLD25
+📺 Kalil 4.0
 
-👁️ 60K • 👍 2K • 💬 242 • ⏱️ 18:43 • 4d ago
+👁️ 2K • 👍 74 • 💬 2 • ⏱️ 0:53 • 13h ago
 
 ---
 
@@ -276,15 +276,17 @@ Humanoid robots have officially stepped onto the world's biggest stages — lite
 
 📺 The Capital AI
 
-👁️ 254K • 👍 4K • 💬 833 • ⏱️ 2:23 • 6d ago
+👁️ 255K • 👍 4K • 💬 834 • ⏱️ 2:23 • 6d ago
 
 ---
 
-**[🔥🤖#elonmusk LIKES this! #unitree robots rocking Leehom Wang&#39;s stage! #humanoid #robot #robotdance](https://www.youtube.com/watch?v=BnlAJ5Jfv7A)**
+**[Unitree Robots EVOLVE 🤖🔥 From Chinese New Year Gala to Wang Leehom Concert (2025)](https://www.youtube.com/watch?v=HEe5UfvyZYo)**
 
-📺 XRoboHub
+In January 2025, humanoid robots from Unitree Robotics made history with a massive, synchronized performance on China's ...
 
-👁️ 228K • 👍 4K • 💬 512 • ⏱️ 0:51 • 6d ago
+📺 ROBOTIC WORLD25
+
+👁️ 60K • 👍 2K • 💬 244 • ⏱️ 18:43 • 4d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-27T10:42:38.128317+00:00'
+updated: '2025-12-27T10:54:09.789970+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 27, 2025 at 10:42 UTC  
+**Last Updated:** December 27, 2025 at 10:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $353.94B
+**Market Cap:** $352.95B
 Rank #2
 
 **Circulating Supply:** 120,694,960 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.7%
+-40.9%
 
 **All-Time Low:** $0.43
-+677050.6%
++675089.8%
 
 ---
 
@@ -152,7 +152,7 @@ Hi all I’m sharing an open-source EVM indexer I’ve been building in Rust, fo
 
 Ethereum’s total value locked could rise tenfold in 2026 as institutional participation deepens and new use cases gain traction, according to Joseph Chalom, co-CEO of Sharplink Gaming. Key Takeaways: Ethereum’s TVL could jump 10× in 2026 as institutions and tokenized assets move on-chain. Stablecoin growth toward $500B is seen as ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -196,17 +196,11 @@ ts2.tech • 1d ago
 
 ---
 
-**[Ethereum Will Not Set New All-Time Highs In 2026, Top Analyst Says— Here’s Why](https://zycrypto.com/ethereum-will-not-set-new-all-time-highs-in-2026-top-analyst-says-heres-why/)**
-
-ZyCrypto • 14h ago
-
----
-
 **[$27B Bitcoin, Ethereum Options Expiry Today: Here’s What to Expect](https://coinpedia.org/news/27b-bitcoin-ethereum-options-expiry-today-heres-what-to-expect/)**
 
 Around $27 billion worth of Bitcoin, Ethereum options expired today on Deribit, one of the world’s largest crypto options exchanges. Bitcoin is trading
 
-Coinpedia Fintech News • 23h ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -226,6 +220,14 @@ Yahoo Finance • 20h ago
 
 ---
 
+**[$6 Billion In Ethereum Options: What This Means For Price](https://www.tradingview.com/news/newsbtc:bc0322732094b:0-6-billion-in-ethereum-options-what-this-means-for-price/)**
+
+Ethereum (ETH) is approaching a pivotal derivatives deadline as billions of dollars in options contracts near expiration, placing the $3,000 price level firmly in focus for traders. While traders are betting on a move higher, Ethereum’s near-term price action remains uncertain. The outcome of this…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +238,7 @@ LIMITED TIME: 50% deposit bonus on first $100 (sign up on WEEX): https://www.wee
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 198 • ⏱️ 11:20 • 10h ago
+👁️ 27K • 👍 2K • 💬 274 • ⏱️ 11:20 • 11h ago
 
 ---
 
@@ -246,7 +248,7 @@ It is time for some #Ethereum dubious speculation! Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 133 • ⏱️ 15:00 • 11h ago
+👁️ 41K • 👍 3K • 💬 144 • ⏱️ 15:00 • 11h ago
 
 ---
 
@@ -256,7 +258,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 899 • 💬 141 • ⏱️ 21:19 • 19h ago
+👁️ 26K • 👍 938 • 💬 145 • ⏱️ 21:19 • 19h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Ebik8D1g9hc)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 98 • 💬 4 • ⏱️ 5:40 • 6h ago
+
+---
+
+**[📢 ETHEREUM:  FOMO or Wait?! [prediction, strategy, and analysis]👀 Buy ETH now?](https://www.youtube.com/watch?v=I-4bSp-R10w)**
+
+ETH price update: Trade the market to make gains using technical analysis, fundamentals, and news. Looking for good crypto ...
+
+📺 BTDcrypto
+
+👁️ 106 • 👍 12 • 💬 87 • ⏱️ 16:56 • 16h ago
 
 ---
 
@@ -266,37 +288,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Cam
 
-👁️ 8K • 👍 221 • 💬 28 • ⏱️ 0:21 • 9h ago
-
----
-
-**[Bitcoin to $250K and Ethereum to $12K–$30K? Tom Lee Explains the End of the 4-Year Cycle](https://www.youtube.com/watch?v=vDgMIWxAP5Y)**
-
-In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bitcoin's traditional 4-year cycle may no longer ...
-
-📺 ekowreel
-
-👁️ 7K • 👍 133 • 💬 20 • ⏱️ 19:17 • 1d ago
-
----
-
-**[Ethereum Fusaka Upgrade – What It Changes and Why It Matters](https://www.youtube.com/watch?v=Dgd6fFEDMqw)**
-
-The Ethereum Fusaka upgrade is an important step in Ethereum's ongoing development. In this video, we explain what the ...
-
-📺 Crypto Nitro
-
-👁️ 7K • ⏱️ 7:27 • 20h ago
-
----
-
-**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
-
-BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 285 • 💬 214 • ⏱️ 18:00 • 18h ago
+👁️ 10K • 👍 243 • 💬 32 • ⏱️ 0:21 • 9h ago
 
 ---
 
@@ -310,23 +302,33 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Prediction Now | Crypto Analysis &amp; Market Forecast](https://www.youtube.com/watch?v=F_W_4WO11vM)**
+**[BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=7Wf-s95Ynhw)**
 
-Get daily Bitcoin & Crypto signals in our VIP Discord via Patreon https://www.patreon.com/ThomasBoleto/membership ...
+BITCOIN WILL FLIP IF THIS BREAKS (Prepare Now)!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Thomas Boleto – Bitcoin Insights
+📺 Crypto World
 
-👁️ 174 • 👍 33 • 💬 3 • ⏱️ 10:27 • 9h ago
+👁️ 7K • 👍 292 • 💬 215 • ⏱️ 18:00 • 19h ago
 
 ---
 
-**[BITCOIN BEING DUMPED HARD ON USA MARKET OPEN, ETH &amp; TESLA 304 YEARS](https://www.youtube.com/watch?v=mRep3RRmfNw)**
+**[Ethereum At A Decision Point, Bottom Signals Are Getting Close](https://www.youtube.com/watch?v=ICrPUz8aAQk)**
 
-Live Bitcoin and Ethereum trades, Tesla setup, risk plan, and trader psychology. Daily charts, entries, exits, and management for ...
+HUGE CHRISTMAS SALE! GET $600 OFF AI INDICATORS! https://www.tradeconfident.io/indicators ✓ Get 25% Off Membership: ...
 
-📺 James Crypto Guru
+📺 Trade Confident
 
-👁️ 2K • 👍 133 • 💬 7 • ⏱️ 12:53 • 10h ago
+👁️ 361 • 👍 18 • 💬 82 • ⏱️ 4:22 • 13h ago
+
+---
+
+**[Bitcoin to $250K and Ethereum to $12K–$30K? Tom Lee Explains the End of the 4-Year Cycle](https://www.youtube.com/watch?v=vDgMIWxAP5Y)**
+
+In this in-depth presentation, Tom Lee, Chairman of Bitmine, breaks down why Bitcoin's traditional 4-year cycle may no longer ...
+
+📺 ekowreel
+
+👁️ 7K • 👍 135 • 💬 20 • ⏱️ 19:17 • 1d ago
 
 ---
 
